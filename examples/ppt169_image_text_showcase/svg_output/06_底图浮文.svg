@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="creamBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDF8F2"/>
+      <stop offset="100%" stop-color="#F5EDE0"/>
+    </linearGradient>
+    <linearGradient id="imgTopFade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDF8F2" stop-opacity="1"/>
+      <stop offset="25%" stop-color="#FDF8F2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="macaronAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8A9E0"/>
+      <stop offset="50%" stop-color="#A8D8C0"/>
+      <stop offset="100%" stop-color="#F5C5A3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background — macaron cream -->
+  <rect width="1280" height="720" fill="url(#creamBg)"/>
+
+  <!-- Bottom image — sketch-notes, fills bottom portion -->
+  <image href="../images/p06_bottom_img.png" x="0" y="360" width="1280" height="360"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Top fade on image -->
+  <rect x="0" y="360" width="1280" height="120" fill="url(#imgTopFade)"/>
+
+  <!-- Top area — title and text float above the scene -->
+  <!-- Accent bar top -->
+  <rect x="0" y="0" width="1280" height="6" fill="url(#macaronAccent)"/>
+
+  <!-- Page meta -->
+  <text x="640" y="40" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="13" fill="#9090A0" letter-spacing="3">P06  ·  sketch-notes × macaron</text>
+
+  <!-- Main title — centered -->
+  <text x="640" y="100" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="48" font-weight="bold" fill="#3A2A4A">底图浮文</text>
+  <text x="640" y="130" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#8A7A9A">Bottom Image · Floating Text</text>
+
+  <!-- Macaron accent dots -->
+  <circle cx="500" cy="118" r="4" fill="#B8A9E0"/>
+  <circle cx="780" cy="118" r="4" fill="#A8D8C0"/>
+
+  <!-- Mid-section text -->
+  <text x="640" y="188" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#4A3A5A">手绘速写风格，图像在底部如同舞台布景，</text>
+  <text x="640" y="216" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#4A3A5A">文字在上方温暖飘浮。</text>
+
+  <!-- Three keyword pills -->
+  <rect x="346" y="246" width="130" height="34" rx="17" fill="#B8A9E0" fill-opacity="0.3" stroke="#B8A9E0" stroke-width="1"/>
+  <text x="411" y="268" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#6A5A8A">手绘质感</text>
+
+  <rect x="496" y="246" width="130" height="34" rx="17" fill="#A8D8C0" fill-opacity="0.3" stroke="#A8D8C0" stroke-width="1"/>
+  <text x="561" y="268" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#3A7A6A">粉彩色调</text>
+
+  <rect x="646" y="246" width="130" height="34" rx="17" fill="#F5C5A3" fill-opacity="0.3" stroke="#F5C5A3" stroke-width="1"/>
+  <text x="711" y="268" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8A5A3A">温馨教学感</text>
+
+  <!-- Short annotation below image (overlaying image zone) -->
+  <text x="640" y="650" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#6A5A4A" fill-opacity="0.8">图像 ↓ 作为页面底座  ·  文字 ↑ 向上生长</text>
+
+  <!-- Decorative sketch doodle — small stars -->
+  <text x="240" y="200" font-family="Arial, sans-serif" font-size="16" fill="#B8A9E0" fill-opacity="0.7">✦</text>
+  <text x="990" y="170" font-family="Arial, sans-serif" font-size="12" fill="#A8D8C0" fill-opacity="0.7">✦</text>
+  <text x="180" y="300" font-family="Arial, sans-serif" font-size="10" fill="#F5C5A3" fill-opacity="0.7">◆</text>
+  <text x="1060" y="290" font-family="Arial, sans-serif" font-size="10" fill="#B8A9E0" fill-opacity="0.7">◆</text>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#9090A0">06</text>
+</svg>

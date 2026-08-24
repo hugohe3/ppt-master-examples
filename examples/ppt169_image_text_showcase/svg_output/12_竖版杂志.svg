@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="duotoneBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5E8C0"/>
+      <stop offset="100%" stop-color="#EDD8A0"/>
+    </linearGradient>
+    <linearGradient id="posterAccent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3A1F6B"/>
+      <stop offset="100%" stop-color="#2A1050"/>
+    </linearGradient>
+    <clipPath id="narrowLeftClip">
+      <rect x="0" y="0" width="280" height="720"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background — warm duotone cream -->
+  <rect width="1280" height="720" fill="url(#duotoneBg)"/>
+
+  <!-- Halftone texture suggestion — diagonal lines -->
+  <line x1="300" y1="0" x2="1280" y2="980" stroke="#3A1F6B" stroke-opacity="0.03" stroke-width="3"/>
+  <line x1="380" y1="0" x2="1280" y2="900" stroke="#3A1F6B" stroke-opacity="0.03" stroke-width="3"/>
+  <line x1="460" y1="0" x2="1280" y2="820" stroke="#3A1F6B" stroke-opacity="0.03" stroke-width="3"/>
+  <line x1="540" y1="0" x2="1280" y2="740" stroke="#3A1F6B" stroke-opacity="0.03" stroke-width="3"/>
+  <line x1="620" y1="0" x2="1280" y2="660" stroke="#3A1F6B" stroke-opacity="0.03" stroke-width="3"/>
+  <line x1="700" y1="0" x2="1280" y2="580" stroke="#3A1F6B" stroke-opacity="0.03" stroke-width="3"/>
+
+  <!-- LEFT narrow image strip — vintage poster -->
+  <image href="../images/p12_poster_img.png" x="0" y="0" width="280" height="720"
+         clip-path="url(#narrowLeftClip)" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Vertical divider — thick rule -->
+  <rect x="280" y="0" width="8" height="720" fill="url(#posterAccent)"/>
+
+  <!-- Right content area -->
+  <!-- Top label -->
+  <text x="316" y="52" font-family="Consolas, monospace" font-size="13" fill="#3A1F6B" fill-opacity="0.6" letter-spacing="3">P12  ·  vintage-poster × duotone</text>
+  <line x1="316" y1="62" x2="1220" y2="62" stroke="#3A1F6B" stroke-opacity="0.15" stroke-width="1"/>
+
+  <!-- Giant page title -->
+  <text x="316" y="160" font-family="Georgia, serif" font-size="80" font-weight="bold" fill="#3A1F6B" letter-spacing="-2">复古</text>
+  <text x="316" y="250" font-family="Georgia, serif" font-size="80" font-weight="bold" fill="#3A1F6B" letter-spacing="-2">海报</text>
+
+  <!-- Subtitle horizontal rule + text -->
+  <rect x="316" y="270" width="700" height="3" fill="#3A1F6B" fill-opacity="0.3"/>
+  <text x="316" y="302" font-family="Arial, sans-serif" font-size="20" fill="#3A1F6B" letter-spacing="6">VINTAGE POSTER  ×  DUOTONE</text>
+
+  <!-- Description text -->
+  <text x="316" y="352" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#3A1F6B" fill-opacity="0.8">窄竖图仅占左侧 22% 画面，如同书脊</text>
+  <text x="316" y="378" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#3A1F6B" fill-opacity="0.8">或杂志封面侧边装饰带，右侧大字</text>
+  <text x="316" y="404" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#3A1F6B" fill-opacity="0.8">横排铺展，形成极简杂志美学。</text>
+
+  <!-- Feature rows -->
+  <line x1="316" y1="440" x2="460" y2="440" stroke="#3A1F6B" stroke-opacity="0.2" stroke-width="1"/>
+  <text x="316" y="468" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="17" fill="#3A1F6B" fill-opacity="0.7">·  仅两色调：深紫墨蓝 × 米黄暖金</text>
+  <text x="316" y="496" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="17" fill="#3A1F6B" fill-opacity="0.7">·  网点半调纹理叠加，增加印刷感</text>
+  <text x="316" y="524" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="17" fill="#3A1F6B" fill-opacity="0.7">·  粗规则线分割图文区域</text>
+  <text x="316" y="552" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="17" fill="#3A1F6B" fill-opacity="0.7">·  50年代 Knoll / 60年代 Olivetti 风格</text>
+
+  <!-- Bottom accent block -->
+  <rect x="316" y="610" width="700" height="80" fill="#3A1F6B" fill-opacity="0.08"/>
+  <text x="336" y="648" font-family="Georgia, 'Microsoft YaHei', serif" font-size="20" fill="#3A1F6B">窄图 如脊柱  ·  宽字 如展翅</text>
+  <text x="336" y="672" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="15" fill="#3A1F6B" fill-opacity="0.7">图的比例越小，字的力量越大</text>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#3A1F6B" fill-opacity="0.5">12</text>
+</svg>

@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="techBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080A14"/>
+      <stop offset="100%" stop-color="#0C0E1A"/>
+    </linearGradient>
+    <linearGradient id="neonPrimary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C6FF7"/>
+      <stop offset="100%" stop-color="#4ECDC4"/>
+    </linearGradient>
+    <linearGradient id="neonAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="100%" stop-color="#FF6B35"/>
+    </linearGradient>
+    <linearGradient id="row1ImgFade" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#080A14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#080A14" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="row3ImgFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080A14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#080A14" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="720" fill="url(#techBg)"/>
+
+  <!-- Grid lines background — subtle -->
+  <line x1="0" y1="60" x2="1280" y2="60" stroke="#7C6FF7" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="0" y1="240" x2="1280" y2="240" stroke="#7C6FF7" stroke-opacity="0.05" stroke-width="1"/>
+  <line x1="0" y1="480" x2="1280" y2="480" stroke="#7C6FF7" stroke-opacity="0.05" stroke-width="1"/>
+
+  <!-- Top meta row -->
+  <rect x="0" y="0" width="1280" height="3" fill="url(#neonPrimary)"/>
+  <text x="640" y="30" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="13" fill="#5A5A72" letter-spacing="3">P07  ·  3d-isometric × tech-neon  ·  Z型蛇形叙事</text>
+
+  <!-- ===== ROW 1: Image LEFT + Text RIGHT ===== -->
+  <!-- Row 1 bg -->
+  <rect x="0" y="52" width="1280" height="196" fill="#0F1117"/>
+
+  <!-- Row 1 image — left -->
+  <image href="../images/p07_z_img1.png" x="0" y="52" width="560" height="196"
+         preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="52" width="560" height="196" fill="url(#row1ImgFade)"/>
+
+  <!-- Row 1 text — right -->
+  <rect x="580" y="52" width="3" height="196" fill="url(#neonPrimary)" fill-opacity="0.5"/>
+  <text x="600" y="95" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#7C6FF7" letter-spacing="2">01  STEP</text>
+  <text x="600" y="130" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="26" font-weight="bold" fill="#E8E8F0">等距3D — 科技服务器</text>
+  <text x="600" y="162" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">30°/30°/30° 标准等距视角，模块化</text>
+  <text x="600" y="184" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">几何体堆叠，霓虹指示灯点缀。</text>
+  <text x="600" y="224" font-family="Arial, sans-serif" font-size="13" fill="#F5A623">→ 图左文右</text>
+
+  <!-- ===== ROW 2: Text LEFT + Image RIGHT (no image, text only) ===== -->
+  <rect x="0" y="256" width="1280" height="196" fill="#12141E"/>
+
+  <!-- Accent side stripe -->
+  <rect x="0" y="256" width="6" height="196" fill="url(#neonAccent)"/>
+
+  <!-- Row 2 text — left -->
+  <text x="40" y="300" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#F5A623" letter-spacing="2">02  Z-TURN</text>
+  <text x="40" y="334" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="26" font-weight="bold" fill="#E8E8F0">Z型视线引导原理</text>
+  <text x="40" y="366" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">人眼自然从左上向右下呈 Z 形扫视，</text>
+  <text x="40" y="388" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">交替排布的图文随之顺势流动。</text>
+  <text x="40" y="428" font-family="Arial, sans-serif" font-size="13" fill="#4ECDC4">← 文左 →  视线到图右</text>
+
+  <!-- Row 2 decorative neon accent element (no image) -->
+  <rect x="720" y="276" width="520" height="156" rx="8" fill="#0F1117" stroke="#7C6FF7" stroke-opacity="0.2" stroke-width="1"/>
+  <!-- Neon circuit pattern hint -->
+  <line x1="760" y1="310" x2="860" y2="310" stroke="#7C6FF7" stroke-opacity="0.4" stroke-width="1"/>
+  <line x1="860" y1="310" x2="860" y2="380" stroke="#7C6FF7" stroke-opacity="0.4" stroke-width="1"/>
+  <line x1="860" y1="380" x2="960" y2="380" stroke="#7C6FF7" stroke-opacity="0.4" stroke-width="1"/>
+  <circle cx="860" cy="310" r="4" fill="#7C6FF7" fill-opacity="0.6"/>
+  <circle cx="860" cy="380" r="4" fill="#4ECDC4" fill-opacity="0.6"/>
+  <text x="980" y="340" font-family="Consolas, monospace" font-size="13" fill="#9090A0">eye</text>
+  <text x="980" y="360" font-family="Consolas, monospace" font-size="13" fill="#9090A0">path</text>
+  <text x="1100" y="385" font-family="Arial, sans-serif" font-size="36" fill="#7C6FF7" fill-opacity="0.15">Z</text>
+
+  <!-- ===== ROW 3: Image LEFT + Text RIGHT ===== -->
+  <rect x="0" y="460" width="1280" height="196" fill="#0F1117"/>
+
+  <!-- Row 3 image — left -->
+  <image href="../images/p07_z_img2.png" x="0" y="460" width="560" height="196"
+         preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="460" width="560" height="196" fill="url(#row1ImgFade)"/>
+
+  <!-- Row 3 side stripe -->
+  <rect x="580" y="460" width="3" height="196" fill="url(#neonPrimary)" fill-opacity="0.5"/>
+
+  <!-- Row 3 text — right -->
+  <text x="600" y="503" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#4ECDC4" letter-spacing="2">03  NETWORK</text>
+  <text x="600" y="538" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="26" font-weight="bold" fill="#E8E8F0">等距3D — 网络节点</text>
+  <text x="600" y="570" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">相同等距视角的网络连接图，</text>
+  <text x="600" y="592" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">两张图视角统一，视觉连贯。</text>
+  <text x="600" y="632" font-family="Arial, sans-serif" font-size="13" fill="#F5A623">→ 图左文右  ·  Z字完成</text>
+
+  <!-- Bottom accent -->
+  <rect x="0" y="717" width="1280" height="3" fill="url(#neonPrimary)"/>
+  <text x="1240" y="710" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">07</text>
+</svg>

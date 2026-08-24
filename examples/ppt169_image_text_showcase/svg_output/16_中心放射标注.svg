@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="swissBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAFAFA"/>
+      <stop offset="100%" stop-color="#F4F4F4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background — near white Swiss minimal -->
+  <rect width="1280" height="720" fill="url(#swissBg)"/>
+
+  <!-- Grid lines — very subtle, Bauhaus grid hint -->
+  <line x1="0" y1="360" x2="1280" y2="360" stroke="#111111" stroke-opacity="0.04" stroke-width="1"/>
+  <line x1="640" y1="0" x2="640" y2="720" stroke="#111111" stroke-opacity="0.04" stroke-width="1"/>
+
+  <!-- Top meta -->
+  <text x="640" y="32" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="12" fill="#9090A0" letter-spacing="3">P16  ·  minimalist-swiss × editorial-classic</text>
+  <line x1="60" y1="44" x2="1220" y2="44" stroke="#111111" stroke-opacity="0.08" stroke-width="1"/>
+
+  <!-- Center image — square -->
+  <rect x="380" y="90" width="520" height="520" fill="#FFFFFF" stroke="#111111" stroke-opacity="0.1" stroke-width="1"/>
+  <image href="../images/p16_center_img.png" x="380" y="90" width="520" height="520"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Image border rule -->
+  <rect x="380" y="90" width="520" height="2" fill="#111111" fill-opacity="0.8"/>
+
+  <!-- ===== Six annotation leader lines and text ===== -->
+  <!-- Annotation dots on image edge + lines to text -->
+
+  <!-- TOP annotation -->
+  <line x1="640" y1="90" x2="640" y2="60" stroke="#111111" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="640" cy="90" r="3" fill="#111111" fill-opacity="0.4"/>
+  <text x="640" y="54" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#111111" font-weight="bold">极简瑞士风格</text>
+
+  <!-- BOTTOM annotation -->
+  <line x1="640" y1="610" x2="640" y2="660" stroke="#111111" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="640" cy="610" r="3" fill="#111111" fill-opacity="0.4"/>
+  <text x="640" y="676" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#111111">minimalist-swiss · grid-anchored</text>
+
+  <!-- LEFT annotation (upper) -->
+  <line x1="380" y1="240" x2="300" y2="200" stroke="#111111" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="380" cy="240" r="3" fill="#111111" fill-opacity="0.4"/>
+  <text x="290" y="188" text-anchor="end" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#111111" font-weight="bold">激进负空间</text>
+  <text x="290" y="210" text-anchor="end" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#5A5A72">负空间即内容</text>
+
+  <!-- LEFT annotation (lower) -->
+  <line x1="380" y1="460" x2="300" y2="500" stroke="#111111" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="380" cy="460" r="3" fill="#111111" fill-opacity="0.4"/>
+  <text x="290" y="498" text-anchor="end" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#111111" font-weight="bold">几何简约</text>
+  <text x="290" y="520" text-anchor="end" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#5A5A72">圆形 · 矩形 · 线条</text>
+
+  <!-- RIGHT annotation (upper) -->
+  <line x1="900" y1="240" x2="980" y2="200" stroke="#111111" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="900" cy="240" r="3" fill="#111111" fill-opacity="0.4"/>
+  <text x="990" y="188" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#111111" font-weight="bold">编辑经典</text>
+  <text x="990" y="210" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#5A5A72">editorial-classic</text>
+
+  <!-- RIGHT annotation (lower) -->
+  <line x1="900" y1="460" x2="980" y2="500" stroke="#111111" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="900" cy="460" r="3" fill="#111111" fill-opacity="0.4"/>
+  <text x="990" y="498" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#111111" font-weight="bold">中心放射标注</text>
+  <text x="990" y="520" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#5A5A72">radial annotation</text>
+
+  <!-- Primary accent — single purple rule -->
+  <rect x="60" y="680" width="200" height="2" fill="#7C6FF7"/>
+  <text x="60" y="705" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#9090A0">图如产品  ·  线如解析  ·  字如说明书</text>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#9090A0">16</text>
+</svg>

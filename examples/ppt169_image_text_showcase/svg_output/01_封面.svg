@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="coverBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0C14"/>
+      <stop offset="50%" stop-color="#0F1117"/>
+      <stop offset="100%" stop-color="#12102A"/>
+    </linearGradient>
+    <linearGradient id="glassPanel1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C6FF7" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#4ECDC4" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="glassPanel2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F5A623" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#7C6FF7" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="titleGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C6FF7"/>
+      <stop offset="100%" stop-color="#4ECDC4"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="30%" cy="25%" r="40%">
+      <stop offset="0%" stop-color="#7C6FF7" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7C6FF7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="75%" cy="75%" r="35%">
+      <stop offset="0%" stop-color="#F5A623" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#F5A623" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="720" fill="url(#coverBg)"/>
+
+  <!-- Orb glows -->
+  <rect width="1280" height="720" fill="url(#orb1)"/>
+  <rect width="1280" height="720" fill="url(#orb2)"/>
+
+  <!-- Full-bleed hero image (glassmorphism × dark-cinematic) -->
+  <image href="../images/p01_cover.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Dark overlay to ensure text legibility -->
+  <rect width="1280" height="720" fill="#0F1117" fill-opacity="0.45"/>
+
+  <!-- Glass panel — large background panel -->
+  <rect x="160" y="140" width="960" height="440" rx="20" ry="20"
+        fill="url(#glassPanel1)" stroke="#7C6FF7" stroke-opacity="0.2" stroke-width="1"/>
+
+  <!-- Glass panel — inner highlight (top edge refraction) -->
+  <rect x="160" y="140" width="960" height="1" fill="#E8E8F0" fill-opacity="0.3"/>
+
+  <!-- Small accent glass panel top-right -->
+  <rect x="940" y="80" width="220" height="80" rx="12" ry="12"
+        fill="url(#glassPanel2)" stroke="#F5A623" stroke-opacity="0.25" stroke-width="1"/>
+
+  <!-- Small accent glass panel bottom-left -->
+  <rect x="120" y="600" width="180" height="60" rx="10" ry="10"
+        fill="url(#glassPanel1)" stroke="#4ECDC4" stroke-opacity="0.2" stroke-width="1"/>
+
+  <!-- Decorative corner dots — top-right panel -->
+  <circle cx="952" cy="96" r="3" fill="#F5A623" fill-opacity="0.6"/>
+  <circle cx="966" cy="96" r="3" fill="#F5A623" fill-opacity="0.4"/>
+  <circle cx="980" cy="96" r="3" fill="#F5A623" fill-opacity="0.2"/>
+
+  <!-- Thin accent line — horizontal rule -->
+  <line x1="200" y1="310" x2="1080" y2="310" stroke="url(#titleGlow)" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- Main title -->
+  <text x="640" y="270" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="88" font-weight="bold" fill="#E8E8F0" letter-spacing="8">图文结合</text>
+
+  <!-- Subtitle -->
+  <text x="640" y="355" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="26" fill="#9090A0" letter-spacing="4">20种视觉语言的并置实验</text>
+
+  <!-- Gradient accent bar under title -->
+  <rect x="540" y="375" width="200" height="3" rx="2" fill="url(#titleGlow)"/>
+
+  <!-- Bottom info row -->
+  <text x="640" y="470" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72" letter-spacing="6">PPT MASTER  ·  2026</text>
+
+  <!-- Rendering label — top-right accent panel -->
+  <text x="1050" y="112" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="13" fill="#F5A623" fill-opacity="0.8" letter-spacing="2">glassmorphism</text>
+  <text x="1050" y="130" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="11" fill="#9090A0" letter-spacing="1">dark-cinematic</text>
+
+  <!-- Bottom-left badge -->
+  <text x="210" y="626" font-family="Arial, sans-serif" font-size="13" fill="#4ECDC4" fill-opacity="0.7">P01</text>
+  <text x="232" y="626" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">封面</text>
+</svg>

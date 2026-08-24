@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="640" cy="360" r="220"/>
+    </clipPath>
+    <linearGradient id="monoLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8E8F0" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#E8E8F0" stop-opacity="0.1"/>
+    </linearGradient>
+    <radialGradient id="circleGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C6FF7" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#7C6FF7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background — near white mono-ink style -->
+  <rect width="1280" height="720" fill="#F8F8F8"/>
+
+  <!-- Subtle radial background glow -->
+  <rect width="1280" height="720" fill="url(#circleGlow)"/>
+
+  <!-- Page meta — top -->
+  <text x="640" y="32" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="13" fill="#9090A0" letter-spacing="3">P09  ·  digital-dashboard × mono-ink</text>
+  <line x1="200" y1="44" x2="1080" y2="44" stroke="#111111" stroke-opacity="0.08" stroke-width="1"/>
+
+  <!-- Circle frame ring — outer -->
+  <circle cx="640" cy="360" r="224" fill="none" stroke="#111111" stroke-opacity="0.12" stroke-width="1"/>
+  <!-- Circle frame ring — mid -->
+  <circle cx="640" cy="360" r="222" fill="none" stroke="#7C6FF7" stroke-opacity="0.15" stroke-width="2"/>
+
+  <!-- Center circular image — mono-ink dashboard -->
+  <image href="../images/p09_circle_img.png" x="420" y="140" width="440" height="440"
+         clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Thin accent ring overlay -->
+  <circle cx="640" cy="360" r="220" fill="none" stroke="#111111" stroke-opacity="0.18" stroke-width="1"/>
+
+  <!-- ===== Four corner text blocks with leader lines ===== -->
+  <!-- TOP-LEFT block — "数字仪表盘" -->
+  <line x1="478" y1="207" x2="380" y2="160" stroke="#111111" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="478" cy="207" r="3" fill="#111111" fill-opacity="0.3"/>
+  <text x="340" y="128" text-anchor="end" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="22" font-weight="bold" fill="#111111">数字仪表盘</text>
+  <text x="340" y="152" text-anchor="end" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72">digital-dashboard</text>
+  <text x="340" y="172" text-anchor="end" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72">UI数据可视化美学</text>
+
+  <!-- TOP-RIGHT block — "单色调色板" -->
+  <line x1="802" y1="207" x2="900" y2="160" stroke="#111111" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="802" cy="207" r="3" fill="#111111" fill-opacity="0.3"/>
+  <text x="920" y="128" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="22" font-weight="bold" fill="#111111">墨黑单色</text>
+  <text x="920" y="152" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72">mono-ink</text>
+  <text x="920" y="172" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72">黑白 + 单点强调</text>
+
+  <!-- BOTTOM-LEFT block — "圆形裁切" -->
+  <line x1="478" y1="513" x2="380" y2="560" stroke="#111111" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="478" cy="513" r="3" fill="#111111" fill-opacity="0.3"/>
+  <text x="340" y="556" text-anchor="end" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="22" font-weight="bold" fill="#111111">圆形裁切</text>
+  <text x="340" y="578" text-anchor="end" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72">clipPath circle</text>
+  <text x="340" y="598" text-anchor="end" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72">非矩形图像容器</text>
+
+  <!-- BOTTOM-RIGHT block — "放射标注" -->
+  <line x1="802" y1="513" x2="900" y2="560" stroke="#111111" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="802" cy="513" r="3" fill="#111111" fill-opacity="0.3"/>
+  <text x="920" y="556" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="22" font-weight="bold" fill="#111111">放射标注</text>
+  <text x="920" y="578" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72">radial annotation</text>
+  <text x="920" y="598" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#5A5A72">图像向外辐射信息</text>
+
+  <!-- Center title (inside circle area — very subtle) -->
+  <!-- Accent marker at bottom -->
+  <text x="640" y="695" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#9090A0">圆心图像 · 四角文字 · 向心张力</text>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#9090A0">09</text>
+</svg>

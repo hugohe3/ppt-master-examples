@@ -1,0 +1,1831 @@
+{
+  "version": 1,
+  "updated": "2026-05-24",
+  "stats": {
+    "examples": 21,
+    "pages": 280,
+    "templates": 21
+  },
+  "projects": [
+    {
+      "id": "ppt169_attention_is_all_you_need",
+      "title": "Attention Is All You Need",
+      "description": "Transformer 原论文深读 — 学术技术蓝图风，结构图 + 表格 + 公式 + 自定义动画旁白版导出",
+      "icon": "🧠",
+      "color": "#1A365D",
+      "style": "technical",
+      "styleName": "Academic Blueprint",
+      "desc": "Paper-reading deck for Vaswani et al. 2017, Attention Is All You Need. The example combines blueprint-style Transformer diagrams, native editable tables and formula slides, per-slide speaker notes, object-level animation configuration, and narrated PPTX export.",
+      "tags": [
+        "Paper Reading",
+        "Transformer",
+        "Technical Blueprint"
+      ],
+      "isNew": true,
+      "folder": "ppt169_attention_is_all_you_need/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "Attention Is All You Need"
+        },
+        {
+          "file": "02_why_it_matters.svg",
+          "title": "why it matters",
+          "desc": "A simpler model, better results, less training"
+        },
+        {
+          "file": "03_sequence_evolution.svg",
+          "title": "sequence evolution",
+          "desc": "From recurrent chains to attention mesh"
+        },
+        {
+          "file": "04_rnn_cnn_limits.svg",
+          "title": "rnn cnn limits",
+          "desc": "Sequential bottleneck, path length, memory ceiling"
+        },
+        {
+          "file": "05_architecture_overview.svg",
+          "title": "architecture overview",
+          "desc": "Figure 1 Transformer architecture"
+        },
+        {
+          "file": "06_encoder_decoder.svg",
+          "title": "encoder decoder",
+          "desc": "Encoder stack vs decoder stack"
+        },
+        {
+          "file": "07_scaled_dot_product.svg",
+          "title": "scaled dot-product",
+          "desc": "The attention equation"
+        },
+        {
+          "file": "08_multi_head_attention.svg",
+          "title": "multi-head attention",
+          "desc": "Eight parallel attention heads"
+        },
+        {
+          "file": "09_three_uses.svg",
+          "title": "three uses",
+          "desc": "Encoder self, decoder masked, cross attention"
+        },
+        {
+          "file": "10_ffn_residual_layernorm.svg",
+          "title": "ffn residual layernorm",
+          "desc": "The supporting layer components"
+        },
+        {
+          "file": "11_positional_encoding.svg",
+          "title": "positional encoding",
+          "desc": "Sinusoidal order injection"
+        },
+        {
+          "file": "12_complexity_table.svg",
+          "title": "complexity table",
+          "desc": "Why constant path length matters"
+        },
+        {
+          "file": "13_training_setup.svg",
+          "title": "training setup",
+          "desc": "Hardware, schedule, optimizer, regularization"
+        },
+        {
+          "file": "14_results.svg",
+          "title": "results",
+          "desc": "WMT14 BLEU and training cost"
+        },
+        {
+          "file": "15_ablations.svg",
+          "title": "ablations",
+          "desc": "Five takeaways from the variation study"
+        },
+        {
+          "file": "16_conclusion.svg",
+          "title": "conclusion",
+          "desc": "One paper, a generation of models"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_lora_hu_2021",
+      "title": "LoRA Hu 2021",
+      "description": "LoRA 论文解读 — 冷静技术蓝图风，结构图 + 表格 + KPI 卡片 + 自定义动画旁白版导出",
+      "icon": "🧠",
+      "color": "#1B3A5C",
+      "style": "technical",
+      "styleName": "Blueprint Technical",
+      "desc": "Technical reading deck for Hu et al. 2021, LoRA: Low-Rank Adaptation of Large Language Models. The example combines blueprint-style AI diagrams, native editable charts and tables, per-slide speaker notes, object-level animation configuration, and a narrated PPTX export.",
+      "tags": [
+        "Paper Reading",
+        "LLM",
+        "Technical Blueprint"
+      ],
+      "isNew": true,
+      "folder": "ppt169_lora_hu_2021/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "LoRA: 大模型的低秩适配"
+        },
+        {
+          "file": "02_agenda.svg",
+          "title": "agenda",
+          "desc": "本次讲什么"
+        },
+        {
+          "file": "03_problem.svg",
+          "title": "problem",
+          "desc": "模型越大, 全量微调越不可行"
+        },
+        {
+          "file": "04_limitations.svg",
+          "title": "limitations",
+          "desc": "为什么现有高效适配方法不够好"
+        },
+        {
+          "file": "05_insight.svg",
+          "title": "low-rank insight",
+          "desc": "权重更新其实低秩"
+        },
+        {
+          "file": "06_method.svg",
+          "title": "method",
+          "desc": "冻结 W0, 注入低秩 BA"
+        },
+        {
+          "file": "07_implementation.svg",
+          "title": "implementation",
+          "desc": "一个常数 alpha, 一次部署合并"
+        },
+        {
+          "file": "08_transformer.svg",
+          "title": "transformer",
+          "desc": "只适配注意力权重"
+        },
+        {
+          "file": "09_advantages.svg",
+          "title": "advantages",
+          "desc": "LoRA 的四个关键优势"
+        },
+        {
+          "file": "10_latency.svg",
+          "title": "latency",
+          "desc": "Adapter 增延迟, LoRA 不增"
+        },
+        {
+          "file": "11_setup.svg",
+          "title": "setup",
+          "desc": "覆盖 NLU 到 NLG 的四类模型"
+        },
+        {
+          "file": "12_glue.svg",
+          "title": "glue",
+          "desc": "更少参数, 持平或更优"
+        },
+        {
+          "file": "13_gpt3.svg",
+          "title": "gpt-3",
+          "desc": "在 175B 尺度上仍然成立"
+        },
+        {
+          "file": "14_understanding.svg",
+          "title": "understanding",
+          "desc": "该适配谁? 秩要多大?"
+        },
+        {
+          "file": "15_conclusion.svg",
+          "title": "conclusion",
+          "desc": "结论与影响"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_brutalist_ai_newspaper_2026",
+      "title": "Brutalist AI Newspaper 2026",
+      "description": "AI 行业 2026 年报 — Brutalist 报章风格，满版小字 + 数据网格 + halftone 黑白图 + 单点红",
+      "icon": "📰",
+      "color": "#C8102E",
+      "style": "editorial",
+      "styleName": "Brutalist Newspaper",
+      "desc": "Year-end report on the AI industry in Brutalist newspaper style — dense small type, irregular column grids, halftone monochrome photos with single-spot red emphasis. Built as the roadmap §P0-2 capability-showcase deck stressing text-position fidelity and cross-page consistency.",
+      "tags": [
+        "Brutalist",
+        "Newspaper",
+        "Annual Report"
+      ],
+      "isNew": true,
+      "folder": "ppt169_brutalist_ai_newspaper_2026/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_issue_at_a_glance.svg",
+          "title": "issue at a glance",
+          "desc": "issue at a glance"
+        },
+        {
+          "file": "03_revenue_league.svg",
+          "title": "revenue league",
+          "desc": "revenue league"
+        },
+        {
+          "file": "04_arpu_divide.svg",
+          "title": "arpu divide",
+          "desc": "arpu divide"
+        },
+        {
+          "file": "05_training_cost.svg",
+          "title": "training cost",
+          "desc": "training cost"
+        },
+        {
+          "file": "06_inference_watts.svg",
+          "title": "inference watts",
+          "desc": "inference watts"
+        },
+        {
+          "file": "07_benchmarks_saturated.svg",
+          "title": "benchmarks saturated",
+          "desc": "benchmarks saturated"
+        },
+        {
+          "file": "08_three_rulebooks.svg",
+          "title": "three rulebooks",
+          "desc": "three rulebooks"
+        },
+        {
+          "file": "09_timeline.svg",
+          "title": "timeline",
+          "desc": "timeline"
+        },
+        {
+          "file": "10_closing_read.svg",
+          "title": "closing read",
+          "desc": "closing read"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_pritzker_2026",
+      "title": "Pritzker 2026",
+      "description": "2026 普利兹克建筑奖深度阅读 — 建筑摄影主导 + 编辑设计",
+      "icon": "🏛️",
+      "color": "#594A3C",
+      "style": "editorial",
+      "styleName": "Architecture Editorial",
+      "desc": "Long-read on the 2026 Pritzker laureate. Photography-forward editorial layout designed for reading clubs, architecture courses, and long-form social posts.",
+      "tags": [
+        "Architecture",
+        "Editorial",
+        "Reading Club"
+      ],
+      "isNew": true,
+      "folder": "ppt169_pritzker_2026/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_overview.svg",
+          "title": "overview",
+          "desc": "overview"
+        },
+        {
+          "file": "03_ando.svg",
+          "title": "ando",
+          "desc": "ando"
+        },
+        {
+          "file": "04_chipperfield.svg",
+          "title": "chipperfield",
+          "desc": "chipperfield"
+        },
+        {
+          "file": "05_zaha.svg",
+          "title": "zaha",
+          "desc": "zaha"
+        },
+        {
+          "file": "06_foster.svg",
+          "title": "foster",
+          "desc": "foster"
+        },
+        {
+          "file": "07_oma_sanaa.svg",
+          "title": "oma sanaa",
+          "desc": "oma sanaa"
+        },
+        {
+          "file": "08_zumthor.svg",
+          "title": "zumthor",
+          "desc": "zumthor"
+        },
+        {
+          "file": "09_gehry.svg",
+          "title": "gehry",
+          "desc": "gehry"
+        },
+        {
+          "file": "10_kere.svg",
+          "title": "kere",
+          "desc": "kere"
+        },
+        {
+          "file": "11_epilogue.svg",
+          "title": "epilogue",
+          "desc": "epilogue"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_global_ai_capital_2026",
+      "title": "Global AI Capital 2026",
+      "description": "全球 AI 资本流向年度观察 — Bloomberg / Economist 信息图风",
+      "icon": "💰",
+      "color": "#1F3A5F",
+      "style": "consulting",
+      "styleName": "Bloomberg Editorial",
+      "desc": "Year-in-review on global AI capital flows in the dense data-journalism style of Bloomberg and The Economist — multi-column layouts, micro-charts, editorial sidebars.",
+      "tags": [
+        "Data Journalism",
+        "Finance",
+        "Annual Review"
+      ],
+      "isNew": true,
+      "folder": "ppt169_global_ai_capital_2026/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_editor_note.svg",
+          "title": "editor note",
+          "desc": "editor note"
+        },
+        {
+          "file": "03_contents.svg",
+          "title": "contents",
+          "desc": "contents"
+        },
+        {
+          "file": "04_q1_vc_landscape.svg",
+          "title": "q1 vc landscape",
+          "desc": "q1 vc landscape"
+        },
+        {
+          "file": "05_hyperscaler_capex.svg",
+          "title": "hyperscaler capex",
+          "desc": "hyperscaler capex"
+        },
+        {
+          "file": "06_big_three_valuation_leap.svg",
+          "title": "big three valuation leap",
+          "desc": "big three valuation leap"
+        },
+        {
+          "file": "07_valuation_vs_revenue_bubble.svg",
+          "title": "valuation vs revenue bubble",
+          "desc": "valuation vs revenue bubble"
+        },
+        {
+          "file": "08_openai_investor_donut.svg",
+          "title": "openai investor donut",
+          "desc": "openai investor donut"
+        },
+        {
+          "file": "09_big_three_comparison.svg",
+          "title": "big three comparison",
+          "desc": "big three comparison"
+        },
+        {
+          "file": "10_china_five_ranking.svg",
+          "title": "china five ranking",
+          "desc": "china five ranking"
+        },
+        {
+          "file": "11_us_china_dual_track.svg",
+          "title": "us china dual track",
+          "desc": "us china dual track"
+        },
+        {
+          "file": "12_second_tier.svg",
+          "title": "second tier",
+          "desc": "second tier"
+        },
+        {
+          "file": "13_chapter_nvidia.svg",
+          "title": "chapter nvidia",
+          "desc": "chapter nvidia"
+        },
+        {
+          "file": "14_nvidia_sankey.svg",
+          "title": "nvidia sankey",
+          "desc": "nvidia sankey"
+        },
+        {
+          "file": "15_nvidia_pareto.svg",
+          "title": "nvidia pareto",
+          "desc": "nvidia pareto"
+        },
+        {
+          "file": "16_stargate_hub.svg",
+          "title": "stargate hub",
+          "desc": "stargate hub"
+        },
+        {
+          "file": "17_chapter_bubble.svg",
+          "title": "chapter bubble",
+          "desc": "chapter bubble"
+        },
+        {
+          "file": "18_capex_vs_revenue.svg",
+          "title": "capex vs revenue",
+          "desc": "capex vs revenue"
+        },
+        {
+          "file": "19_four_risks_quadrant.svg",
+          "title": "four risks quadrant",
+          "desc": "four risks quadrant"
+        },
+        {
+          "file": "20_closing.svg",
+          "title": "closing",
+          "desc": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_swiss_grid_systems",
+      "title": "Swiss Grid Systems",
+      "description": "瑞士国际主义设计史 lecture — Müller-Brockmann 致敬",
+      "icon": "🅢",
+      "color": "#C8102E",
+      "style": "creative",
+      "styleName": "Swiss Typographic",
+      "desc": "Design-history lecture on Swiss International Typographic Style — strict grid, Helvetica, asymmetric balance, two-color print sensibility; an homage to Müller-Brockmann.",
+      "tags": [
+        "Swiss Style",
+        "Typography",
+        "Design History"
+      ],
+      "isNew": true,
+      "folder": "ppt169_swiss_grid_systems/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_quote.svg",
+          "title": "quote",
+          "desc": "quote"
+        },
+        {
+          "file": "03_origin.svg",
+          "title": "origin",
+          "desc": "origin"
+        },
+        {
+          "file": "04_principles.svg",
+          "title": "principles",
+          "desc": "principles"
+        },
+        {
+          "file": "05_figures.svg",
+          "title": "figures",
+          "desc": "figures"
+        },
+        {
+          "file": "06_brockmann.svg",
+          "title": "brockmann",
+          "desc": "brockmann"
+        },
+        {
+          "file": "07_typefaces.svg",
+          "title": "typefaces",
+          "desc": "typefaces"
+        },
+        {
+          "file": "08_grid_types.svg",
+          "title": "grid types",
+          "desc": "grid types"
+        },
+        {
+          "file": "09_modular.svg",
+          "title": "modular",
+          "desc": "modular"
+        },
+        {
+          "file": "10_negative_space.svg",
+          "title": "negative space",
+          "desc": "negative space"
+        },
+        {
+          "file": "11_outputs.svg",
+          "title": "outputs",
+          "desc": "outputs"
+        },
+        {
+          "file": "12_digital_era.svg",
+          "title": "digital era",
+          "desc": "digital era"
+        },
+        {
+          "file": "13_brands.svg",
+          "title": "brands",
+          "desc": "brands"
+        },
+        {
+          "file": "14_closing.svg",
+          "title": "closing",
+          "desc": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_glassmorphism_demo",
+      "title": "Glassmorphism Demo",
+      "description": "AI 产品发布 — 毛玻璃质感的现代 SaaS 视觉语言",
+      "icon": "💎",
+      "color": "#6366F1",
+      "style": "general",
+      "styleName": "Glassmorphism SaaS",
+      "desc": "AI product launch deck with frosted-glass surfaces, soft gradients, and depth layering — modern SaaS visual language.",
+      "tags": [
+        "SaaS",
+        "Modern",
+        "Product Launch"
+      ],
+      "isNew": true,
+      "folder": "ppt169_glassmorphism_demo/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_hero_demo_to_prod.svg",
+          "title": "hero demo to prod",
+          "desc": "hero demo to prod"
+        },
+        {
+          "file": "03_three_pains.svg",
+          "title": "three pains",
+          "desc": "three pains"
+        },
+        {
+          "file": "04_agent_architecture.svg",
+          "title": "agent architecture",
+          "desc": "agent architecture"
+        },
+        {
+          "file": "05_three_modes.svg",
+          "title": "three modes",
+          "desc": "three modes"
+        },
+        {
+          "file": "06_tool_orchestration.svg",
+          "title": "tool orchestration",
+          "desc": "tool orchestration"
+        },
+        {
+          "file": "07_context_engineering.svg",
+          "title": "context engineering",
+          "desc": "context engineering"
+        },
+        {
+          "file": "08_kpi_dashboard.svg",
+          "title": "kpi dashboard",
+          "desc": "kpi dashboard"
+        },
+        {
+          "file": "09_metrics_trend.svg",
+          "title": "metrics trend",
+          "desc": "metrics trend"
+        },
+        {
+          "file": "10_failure_modes.svg",
+          "title": "failure modes",
+          "desc": "failure modes"
+        },
+        {
+          "file": "11_roadmap.svg",
+          "title": "roadmap",
+          "desc": "roadmap"
+        },
+        {
+          "file": "12_cta_closing.svg",
+          "title": "cta closing",
+          "desc": "cta closing"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_sugar_rush_memphis",
+      "title": "Sugar Rush Memphis",
+      "description": "虚构音乐节年度手册 — Memphis 设计运动 + 流行流派 mash-up",
+      "icon": "🎵",
+      "color": "#FF4488",
+      "style": "creative",
+      "styleName": "Memphis / Pop",
+      "desc": "Fictional music festival annual book in the Memphis design movement's flat-graphic, hi-saturation style — geometric shapes, terrazzo, 80s typography.",
+      "tags": [
+        "Memphis Design",
+        "Music Festival",
+        "Pop"
+      ],
+      "isNew": true,
+      "folder": "ppt169_sugar_rush_memphis/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_what.svg",
+          "title": "what",
+          "desc": "what"
+        },
+        {
+          "file": "03_numbers.svg",
+          "title": "numbers",
+          "desc": "numbers"
+        },
+        {
+          "file": "04_principles.svg",
+          "title": "principles",
+          "desc": "principles"
+        },
+        {
+          "file": "05_who.svg",
+          "title": "who",
+          "desc": "who"
+        },
+        {
+          "file": "06_headliners.svg",
+          "title": "headliners",
+          "desc": "headliners"
+        },
+        {
+          "file": "07_flavors.svg",
+          "title": "flavors",
+          "desc": "flavors"
+        },
+        {
+          "file": "08_where.svg",
+          "title": "where",
+          "desc": "where"
+        },
+        {
+          "file": "09_stages.svg",
+          "title": "stages",
+          "desc": "stages"
+        },
+        {
+          "file": "10_schedule.svg",
+          "title": "schedule",
+          "desc": "schedule"
+        },
+        {
+          "file": "11_vibes.svg",
+          "title": "vibes",
+          "desc": "vibes"
+        },
+        {
+          "file": "12_beyond.svg",
+          "title": "beyond",
+          "desc": "beyond"
+        },
+        {
+          "file": "13_tickets.svg",
+          "title": "tickets",
+          "desc": "tickets"
+        },
+        {
+          "file": "14_closing.svg",
+          "title": "closing",
+          "desc": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_indie_bookstore_zine_guide",
+      "title": "Indie Bookstore Zine Guide",
+      "description": "独立书店 zine 入门指南 — Risograph 印刷工艺 + DIY 海报美学",
+      "icon": "📖",
+      "color": "#E85D75",
+      "style": "creative",
+      "styleName": "Risograph Zine",
+      "desc": "DIY zine-making guide pitched at indie-bookstore audiences, using risograph color separations, halftone textures, and hand-cut poster typography.",
+      "tags": [
+        "Zine",
+        "Risograph",
+        "DIY"
+      ],
+      "isNew": true,
+      "folder": "ppt169_indie_bookstore_zine_guide/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_toc.svg",
+          "title": "toc",
+          "desc": "toc"
+        },
+        {
+          "file": "03_zine_what.svg",
+          "title": "zine what",
+          "desc": "zine what"
+        },
+        {
+          "file": "04_zine_history.svg",
+          "title": "zine history",
+          "desc": "zine history"
+        },
+        {
+          "file": "05_risograph_origin.svg",
+          "title": "risograph origin",
+          "desc": "risograph origin"
+        },
+        {
+          "file": "06_risograph_process.svg",
+          "title": "risograph process",
+          "desc": "risograph process"
+        },
+        {
+          "file": "07_zine_folding.svg",
+          "title": "zine folding",
+          "desc": "zine folding"
+        },
+        {
+          "file": "08_zine_content_types.svg",
+          "title": "zine content types",
+          "desc": "zine content types"
+        },
+        {
+          "file": "09_jimbocho.svg",
+          "title": "jimbocho",
+          "desc": "jimbocho"
+        },
+        {
+          "file": "10_three_cities.svg",
+          "title": "three cities",
+          "desc": "three cities"
+        },
+        {
+          "file": "11_berlin.svg",
+          "title": "berlin",
+          "desc": "berlin"
+        },
+        {
+          "file": "12_china_bookstore_map.svg",
+          "title": "china bookstore map",
+          "desc": "china bookstore map"
+        },
+        {
+          "file": "13_china_art_book_fair.svg",
+          "title": "china art book fair",
+          "desc": "china art book fair"
+        },
+        {
+          "file": "14_how_to_browse.svg",
+          "title": "how to browse",
+          "desc": "how to browse"
+        },
+        {
+          "file": "15_how_to_collect.svg",
+          "title": "how to collect",
+          "desc": "how to collect"
+        },
+        {
+          "file": "16_action_checklist.svg",
+          "title": "action checklist",
+          "desc": "action checklist"
+        },
+        {
+          "file": "17_sources.svg",
+          "title": "sources",
+          "desc": "sources"
+        },
+        {
+          "file": "18_outro.svg",
+          "title": "outro",
+          "desc": "outro"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_kubernetes_blueprint_2026",
+      "title": "Kubernetes Blueprint 2026",
+      "description": "Kubernetes 集群架构 10 页讲解 — 工程蓝图等距技术图风",
+      "icon": "📐",
+      "color": "#3FB4D9",
+      "style": "general",
+      "styleName": "Engineering Blueprint",
+      "desc": "Ten-page walkthrough of Kubernetes cluster architecture in an isometric engineering-drawing style — blueprint cyan / amber on deep navy paper, hand-authored SVG geometry only. The second of three P0 capability-showcase decks, stressing geometric shape generalization and chart-structure extensibility.",
+      "tags": [
+        "Blueprint",
+        "Kubernetes",
+        "Technical Drawing"
+      ],
+      "isNew": true,
+      "folder": "ppt169_kubernetes_blueprint_2026/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_two_planes.svg",
+          "title": "two planes",
+          "desc": "two planes"
+        },
+        {
+          "file": "03_control_plane.svg",
+          "title": "control plane",
+          "desc": "control plane"
+        },
+        {
+          "file": "04_worker_node.svg",
+          "title": "worker node",
+          "desc": "worker node"
+        },
+        {
+          "file": "05_pod_lifecycle.svg",
+          "title": "pod lifecycle",
+          "desc": "pod lifecycle"
+        },
+        {
+          "file": "06_service_types.svg",
+          "title": "service types",
+          "desc": "service types"
+        },
+        {
+          "file": "07_storage.svg",
+          "title": "storage",
+          "desc": "storage"
+        },
+        {
+          "file": "08_ha_topology.svg",
+          "title": "ha topology",
+          "desc": "ha topology"
+        },
+        {
+          "file": "09_api_spine.svg",
+          "title": "api spine",
+          "desc": "api spine"
+        },
+        {
+          "file": "10_takeaways.svg",
+          "title": "takeaways",
+          "desc": "takeaways"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_high_rise_renewal",
+      "title": "高层住宅“主动再生”",
+      "description": "从悉尼到中国 — 高层住宅老化的再生议题，编辑杂志风",
+      "icon": "🏙️",
+      "color": "#2D4A5F",
+      "style": "editorial",
+      "styleName": "Editorial Magazine",
+      "desc": "Urban-renewal feature on aging high-rise housing, drawing parallels between Sydney's experience and Chinese cities — in 三联 / 看理想 editorial cadence.",
+      "tags": [
+        "Urban Renewal",
+        "Editorial",
+        "Architecture"
+      ],
+      "isNew": true,
+      "folder": "ppt169_high_rise_renewal/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_agenda.svg",
+          "title": "agenda",
+          "desc": "agenda"
+        },
+        {
+          "file": "03_warning_fire.svg",
+          "title": "warning fire",
+          "desc": "warning fire"
+        },
+        {
+          "file": "04_aging_highrise.svg",
+          "title": "aging highrise",
+          "desc": "aging highrise"
+        },
+        {
+          "file": "05_pruitt_igoe.svg",
+          "title": "pruitt igoe",
+          "desc": "pruitt igoe"
+        },
+        {
+          "file": "06_chapter_II.svg",
+          "title": "chapter II",
+          "desc": "chapter II"
+        },
+        {
+          "file": "07_quay_quarter.svg",
+          "title": "quay quarter",
+          "desc": "quay quarter"
+        },
+        {
+          "file": "08_eco_data.svg",
+          "title": "eco data",
+          "desc": "eco data"
+        },
+        {
+          "file": "09_shenzhen_mvrdv.svg",
+          "title": "shenzhen mvrdv",
+          "desc": "shenzhen mvrdv"
+        },
+        {
+          "file": "10_shanghai_edition.svg",
+          "title": "shanghai edition",
+          "desc": "shanghai edition"
+        },
+        {
+          "file": "11_one_wall_street.svg",
+          "title": "one wall street",
+          "desc": "one wall street"
+        },
+        {
+          "file": "12_chapter_IV.svg",
+          "title": "chapter IV",
+          "desc": "chapter IV"
+        },
+        {
+          "file": "13_pilot_cases.svg",
+          "title": "pilot cases",
+          "desc": "pilot cases"
+        },
+        {
+          "file": "14_real_difficulty.svg",
+          "title": "real difficulty",
+          "desc": "real difficulty"
+        },
+        {
+          "file": "15_ending.svg",
+          "title": "ending",
+          "desc": "ending"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_cangzhuo",
+      "title": "藏拙",
+      "description": "《男人最顶级的城府：藏拙》读书分享 — 新中式水墨留白",
+      "icon": "🖋️",
+      "color": "#2C3E50",
+      "style": "creative",
+      "styleName": "Chinese Ink Aesthetic",
+      "desc": "Reading-share deck on the wisdom of restraint, rendered in ink-wash neutrals with generous whitespace and traditional Chinese typography.",
+      "tags": [
+        "Chinese Aesthetic",
+        "Editorial",
+        "Cultural"
+      ],
+      "isNew": true,
+      "folder": "ppt169_cangzhuo/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "cover"
+        },
+        {
+          "file": "02_引子.svg",
+          "title": "引子",
+          "desc": "引子"
+        },
+        {
+          "file": "03_烧烤摊故事.svg",
+          "title": "烧烤摊故事",
+          "desc": "烧烤摊故事"
+        },
+        {
+          "file": "04_什么是藏拙.svg",
+          "title": "什么是藏拙",
+          "desc": "什么是藏拙"
+        },
+        {
+          "file": "05_木秀于林.svg",
+          "title": "木秀于林",
+          "desc": "木秀于林"
+        },
+        {
+          "file": "06_年轻人最易犯的错.svg",
+          "title": "年轻人最易犯的错",
+          "desc": "年轻人最易犯的错"
+        },
+        {
+          "file": "07_会藏拙的人怎么做.svg",
+          "title": "会藏拙的人怎么做",
+          "desc": "会藏拙的人怎么做"
+        },
+        {
+          "file": "08_韩信.svg",
+          "title": "韩信",
+          "desc": "韩信"
+        },
+        {
+          "file": "09_藏拙的高明.svg",
+          "title": "藏拙的高明",
+          "desc": "藏拙的高明"
+        },
+        {
+          "file": "10_潜龙勿用.svg",
+          "title": "潜龙勿用",
+          "desc": "潜龙勿用"
+        },
+        {
+          "file": "11_藏拙不等于消极避世.svg",
+          "title": "藏拙不等于消极避世",
+          "desc": "藏拙不等于消极避世"
+        },
+        {
+          "file": "12_曾国藩.svg",
+          "title": "曾国藩",
+          "desc": "曾国藩"
+        },
+        {
+          "file": "13_藏住四件事.svg",
+          "title": "藏住四件事",
+          "desc": "藏住四件事"
+        },
+        {
+          "file": "14_结语.svg",
+          "title": "结语",
+          "desc": "结语"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_image_text_showcase",
+      "title": "Image-Text Showcase",
+      "description": "20种图文组合范式展示 — 每页不同 rendering × palette × 布局",
+      "icon": "🎨",
+      "color": "#7C6FF7",
+      "style": "creative",
+      "styleName": "Editorial Showcase",
+      "desc": "20 image-text composition patterns — full-bleed hero, Z-pattern, diagonal split, hexagonal cutout, montage with overlay text, and more. Each page demonstrates a distinct rendering × palette combination.",
+      "tags": [
+        "Image-Text",
+        "Layout Patterns",
+        "Visual Reference"
+      ],
+      "isNew": true,
+      "folder": "ppt169_image_text_showcase/svg_final",
+      "cover": "01_封面.svg",
+      "slides": [
+        {
+          "file": "01_封面.svg",
+          "title": "封面",
+          "desc": "封面"
+        },
+        {
+          "file": "02_目录.svg",
+          "title": "目录",
+          "desc": "目录"
+        },
+        {
+          "file": "03_左图右文.svg",
+          "title": "左图右文",
+          "desc": "左图右文"
+        },
+        {
+          "file": "04_右图出血.svg",
+          "title": "右图出血",
+          "desc": "右图出血"
+        },
+        {
+          "file": "05_顶图三栏.svg",
+          "title": "顶图三栏",
+          "desc": "顶图三栏"
+        },
+        {
+          "file": "06_底图浮文.svg",
+          "title": "底图浮文",
+          "desc": "底图浮文"
+        },
+        {
+          "file": "07_Z型蛇形.svg",
+          "title": "Z型蛇形",
+          "desc": "Z型蛇形"
+        },
+        {
+          "file": "08_九宫格混排.svg",
+          "title": "九宫格混排",
+          "desc": "九宫格混排"
+        },
+        {
+          "file": "09_圆形放射.svg",
+          "title": "圆形放射",
+          "desc": "圆形放射"
+        },
+        {
+          "file": "10_底纹密铺.svg",
+          "title": "底纹密铺",
+          "desc": "底纹密铺"
+        },
+        {
+          "file": "11_剪纸分层.svg",
+          "title": "剪纸分层",
+          "desc": "剪纸分层"
+        },
+        {
+          "file": "12_竖版杂志.svg",
+          "title": "竖版杂志",
+          "desc": "竖版杂志"
+        },
+        {
+          "file": "13_对角线分割.svg",
+          "title": "对角线分割",
+          "desc": "对角线分割"
+        },
+        {
+          "file": "14_褪色底图大字.svg",
+          "title": "褪色底图大字",
+          "desc": "褪色底图大字"
+        },
+        {
+          "file": "15_上文下图.svg",
+          "title": "上文下图",
+          "desc": "上文下图"
+        },
+        {
+          "file": "16_中心放射标注.svg",
+          "title": "中心放射标注",
+          "desc": "中心放射标注"
+        },
+        {
+          "file": "17_横条贯穿.svg",
+          "title": "横条贯穿",
+          "desc": "横条贯穿"
+        },
+        {
+          "file": "18_多边形填缝.svg",
+          "title": "多边形填缝",
+          "desc": "多边形填缝"
+        },
+        {
+          "file": "19_蒙太奇拼贴.svg",
+          "title": "蒙太奇拼贴",
+          "desc": "蒙太奇拼贴"
+        },
+        {
+          "file": "20_黑板收场.svg",
+          "title": "黑板收场",
+          "desc": "黑板收场"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_building_effective_agents",
+      "title": "Building Effective Agents",
+      "description": "Anthropic 工程博客的 AI Agent 架构与工作流模式解析",
+      "icon": "🤖",
+      "color": "#D4845A",
+      "style": "general",
+      "styleName": "General + Dark Tech",
+      "desc": "Based on Anthropic's Building Effective Agents — augmented LLM、五类 workflow pattern 与 autonomous agent 实践。",
+      "tags": [
+        "Dark Theme",
+        "AI/ML",
+        "Anthropic"
+      ],
+      "isNew": false,
+      "folder": "ppt169_building_effective_agents/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "Cover",
+          "desc": "Cover"
+        },
+        {
+          "file": "02_what_are_agents.svg",
+          "title": "What Are Agents",
+          "desc": "What Are Agents"
+        },
+        {
+          "file": "03_when_to_use_agents.svg",
+          "title": "When To Use Agents",
+          "desc": "When To Use Agents"
+        },
+        {
+          "file": "04_augmented_llm.svg",
+          "title": "Augmented Llm",
+          "desc": "Augmented Llm"
+        },
+        {
+          "file": "05_prompt_chaining.svg",
+          "title": "Prompt Chaining",
+          "desc": "Prompt Chaining"
+        },
+        {
+          "file": "06_routing.svg",
+          "title": "Routing",
+          "desc": "Routing"
+        },
+        {
+          "file": "07_parallelization.svg",
+          "title": "Parallelization",
+          "desc": "Parallelization"
+        },
+        {
+          "file": "08_orchestrator_workers.svg",
+          "title": "Orchestrator Workers",
+          "desc": "Orchestrator Workers"
+        },
+        {
+          "file": "09_evaluator_optimizer.svg",
+          "title": "Evaluator Optimizer",
+          "desc": "Evaluator Optimizer"
+        },
+        {
+          "file": "10_agents.svg",
+          "title": "Agents",
+          "desc": "Agents"
+        },
+        {
+          "file": "11_agents_in_practice.svg",
+          "title": "Agents In Practice",
+          "desc": "Agents In Practice"
+        },
+        {
+          "file": "12_summary.svg",
+          "title": "Summary",
+          "desc": "Summary"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_fashion_weekly_digest",
+      "title": "时尚美学周鉴",
+      "description": "奢侈品与生活方式品牌新闻的杂志化周报",
+      "icon": "✨",
+      "color": "#C9A96E",
+      "style": "editorial",
+      "styleName": "Luxury Editorial",
+      "desc": "覆盖 Hermès、CHANEL、Dior、Louis Vuitton、Gucci 等品牌动态的高端杂志编辑风周报。",
+      "tags": [
+        "Luxury",
+        "Fashion",
+        "杂志风"
+      ],
+      "isNew": false,
+      "folder": "ppt169_fashion_weekly_digest/svg_final",
+      "cover": "01_封面.svg",
+      "slides": [
+        {
+          "file": "01_封面.svg",
+          "title": "封面",
+          "desc": "封面"
+        },
+        {
+          "file": "02_爱马仕家居.svg",
+          "title": "爱马仕家居",
+          "desc": "爱马仕家居"
+        },
+        {
+          "file": "03_香奈儿海滩.svg",
+          "title": "香奈儿海滩",
+          "desc": "香奈儿海滩"
+        },
+        {
+          "file": "04_迪奥双面.svg",
+          "title": "迪奥双面",
+          "desc": "迪奥双面"
+        },
+        {
+          "file": "05_路易威登家居.svg",
+          "title": "路易威登家居",
+          "desc": "路易威登家居"
+        },
+        {
+          "file": "06_古驰记忆.svg",
+          "title": "古驰记忆",
+          "desc": "古驰记忆"
+        },
+        {
+          "file": "07_珠宝灵韵.svg",
+          "title": "珠宝灵韵",
+          "desc": "珠宝灵韵"
+        },
+        {
+          "file": "08_艺术表达.svg",
+          "title": "艺术表达",
+          "desc": "艺术表达"
+        },
+        {
+          "file": "09_传承新章.svg",
+          "title": "传承新章",
+          "desc": "传承新章"
+        },
+        {
+          "file": "10_结构重塑.svg",
+          "title": "结构重塑",
+          "desc": "结构重塑"
+        },
+        {
+          "file": "11_感官新篇.svg",
+          "title": "感官新篇",
+          "desc": "感官新篇"
+        },
+        {
+          "file": "12_跨界新风.svg",
+          "title": "跨界新风",
+          "desc": "跨界新风"
+        },
+        {
+          "file": "13_潮流共振.svg",
+          "title": "潮流共振",
+          "desc": "潮流共振"
+        },
+        {
+          "file": "14_亮点回顾.svg",
+          "title": "亮点回顾",
+          "desc": "亮点回顾"
+        },
+        {
+          "file": "15_品牌全景.svg",
+          "title": "品牌全景",
+          "desc": "品牌全景"
+        },
+        {
+          "file": "16_结尾.svg",
+          "title": "结尾",
+          "desc": "结尾"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_home_design_trends_2026",
+      "title": "2026 家居设计趋势",
+      "description": "杂志编辑风的家居色彩、材质与纹理趋势解析",
+      "icon": "🏠",
+      "color": "#C4A882",
+      "style": "general",
+      "styleName": "Magazine Editorial",
+      "desc": "从色彩、材质、纹理到 CMT 体系，解读 2026 家居设计趋势与可持续奢华。",
+      "tags": [
+        "家居设计",
+        "杂志风",
+        "CMT"
+      ],
+      "isNew": false,
+      "folder": "ppt169_home_design_trends_2026/svg_final",
+      "cover": "01_封面.svg",
+      "slides": [
+        {
+          "file": "01_封面.svg",
+          "title": "封面",
+          "desc": "封面"
+        },
+        {
+          "file": "02_从网红风到人的尺度.svg",
+          "title": "从网红风到人的尺度",
+          "desc": "从网红风到人的尺度"
+        },
+        {
+          "file": "03_色彩情绪魔法师.svg",
+          "title": "色彩情绪魔法师",
+          "desc": "色彩情绪魔法师"
+        },
+        {
+          "file": "04_冷暖色调对比.svg",
+          "title": "冷暖色调对比",
+          "desc": "冷暖色调对比"
+        },
+        {
+          "file": "05_材质空间语言.svg",
+          "title": "材质空间语言",
+          "desc": "材质空间语言"
+        },
+        {
+          "file": "06_纹理空间灵魂.svg",
+          "title": "纹理空间灵魂",
+          "desc": "纹理空间灵魂"
+        },
+        {
+          "file": "07_CMT体系.svg",
+          "title": "CMT体系",
+          "desc": "CMT体系"
+        },
+        {
+          "file": "08_奶油风进化论.svg",
+          "title": "奶油风进化论",
+          "desc": "奶油风进化论"
+        },
+        {
+          "file": "09_波西米亚与复古.svg",
+          "title": "波西米亚与复古",
+          "desc": "波西米亚与复古"
+        },
+        {
+          "file": "10_可持续奢华.svg",
+          "title": "可持续奢华",
+          "desc": "可持续奢华"
+        },
+        {
+          "file": "11_书籍推荐.svg",
+          "title": "书籍推荐",
+          "desc": "书籍推荐"
+        },
+        {
+          "file": "12_结语.svg",
+          "title": "结语",
+          "desc": "结语"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_kimsoong_loyalty_programme",
+      "title": "Kimsoong Loyalty Programme",
+      "description": "MBB 风格汽车品牌客户忠诚度战略提案",
+      "icon": "💎",
+      "color": "#E8A838",
+      "style": "consulting",
+      "styleName": "Top Consulting",
+      "desc": "面向 Kimsoong 欧洲总部的客户忠诚度战略提案，覆盖根因分析、四支柱策略与实施路线图。",
+      "tags": [
+        "MBB 级",
+        "Loyalty",
+        "Automotive"
+      ],
+      "isNew": false,
+      "folder": "ppt169_kimsoong_loyalty_programme/svg_final",
+      "cover": "slide_01_cover.svg",
+      "slides": [
+        {
+          "file": "slide_01_cover.svg",
+          "title": "Cover",
+          "desc": "Cover"
+        },
+        {
+          "file": "slide_02_critical_challenge.svg",
+          "title": "Critical Challenge",
+          "desc": "Critical Challenge"
+        },
+        {
+          "file": "slide_03_company_profile.svg",
+          "title": "Company Profile",
+          "desc": "Company Profile"
+        },
+        {
+          "file": "slide_04_customer_profile.svg",
+          "title": "Customer Profile",
+          "desc": "Customer Profile"
+        },
+        {
+          "file": "slide_05_priorities_gap.svg",
+          "title": "Priorities Gap",
+          "desc": "Priorities Gap"
+        },
+        {
+          "file": "slide_06_root_cause.svg",
+          "title": "Root Cause",
+          "desc": "Root Cause"
+        },
+        {
+          "file": "slide_07_strategic_pillars.svg",
+          "title": "Strategic Pillars",
+          "desc": "Strategic Pillars"
+        },
+        {
+          "file": "slide_08_initiatives.svg",
+          "title": "Initiatives",
+          "desc": "Initiatives"
+        },
+        {
+          "file": "slide_09_roadmap.svg",
+          "title": "Roadmap",
+          "desc": "Roadmap"
+        },
+        {
+          "file": "slide_10_conclusion.svg",
+          "title": "Conclusion",
+          "desc": "Conclusion"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_lin_huiyin_architect",
+      "title": "林徽因：当之无愧的建筑师",
+      "description": "深色建筑人文纪念风的林徽因建筑贡献梳理",
+      "icon": "🏛️",
+      "color": "#C9A96E",
+      "style": "editorial",
+      "styleName": "建筑人文纪念",
+      "desc": "从建筑实践、国家纪念碑到学术论文，重新审视林徽因作为建筑师的专业贡献。",
+      "tags": [
+        "建筑史",
+        "人文",
+        "深色主题"
+      ],
+      "isNew": false,
+      "folder": "ppt169_lin_huiyin_architect/svg_final",
+      "cover": "01_封面.svg",
+      "slides": [
+        {
+          "file": "01_封面.svg",
+          "title": "封面",
+          "desc": "封面"
+        },
+        {
+          "file": "02_人生轨迹.svg",
+          "title": "人生轨迹",
+          "desc": "人生轨迹"
+        },
+        {
+          "file": "03_归国初期建筑实践.svg",
+          "title": "归国初期建筑实践",
+          "desc": "归国初期建筑实践"
+        },
+        {
+          "file": "04_战火中的建筑理想.svg",
+          "title": "战火中的建筑理想",
+          "desc": "战火中的建筑理想"
+        },
+        {
+          "file": "05_国之重器.svg",
+          "title": "国之重器",
+          "desc": "国之重器"
+        },
+        {
+          "file": "06_首篇建筑论文.svg",
+          "title": "首篇建筑论文",
+          "desc": "首篇建筑论文"
+        },
+        {
+          "file": "07_学术贡献一览.svg",
+          "title": "学术贡献一览",
+          "desc": "学术贡献一览"
+        },
+        {
+          "file": "08_穿越战火的建筑斗士.svg",
+          "title": "穿越战火的建筑斗士",
+          "desc": "穿越战火的建筑斗士"
+        },
+        {
+          "file": "09_当之无愧的建筑师.svg",
+          "title": "当之无愧的建筑师",
+          "desc": "当之无愧的建筑师"
+        },
+        {
+          "file": "10_结尾.svg",
+          "title": "结尾",
+          "desc": "结尾"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_lin_huiyin_architect_revised",
+      "title": "重识林徽因建筑师身份",
+      "description": "浅色博物馆展陈风的林徽因建筑贡献修订版",
+      "icon": "🏛️",
+      "color": "#A44A3F",
+      "style": "editorial",
+      "styleName": "博物馆展陈风",
+      "desc": "以浅色展陈图录方式重构同一主题，强调建筑现场、国家尺度参与与方法论远见。",
+      "tags": [
+        "建筑史",
+        "展陈图录",
+        "修订版"
+      ],
+      "isNew": false,
+      "folder": "ppt169_lin_huiyin_architect_revised/svg_final",
+      "cover": "01_封面.svg",
+      "slides": [
+        {
+          "file": "01_封面.svg",
+          "title": "封面",
+          "desc": "封面"
+        },
+        {
+          "file": "02_为什么今天要重识林徽因.svg",
+          "title": "为什么今天要重识林徽因",
+          "desc": "为什么今天要重识林徽因"
+        },
+        {
+          "file": "03_建筑实践并不缺席.svg",
+          "title": "建筑实践并不缺席",
+          "desc": "建筑实践并不缺席"
+        },
+        {
+          "file": "04_作品现场：建筑不是抽象名词.svg",
+          "title": "作品现场：建筑不是抽象名词",
+          "desc": "作品现场：建筑不是抽象名词"
+        },
+        {
+          "file": "05_国家尺度上的建筑参与.svg",
+          "title": "国家尺度上的建筑参与",
+          "desc": "国家尺度上的建筑参与"
+        },
+        {
+          "file": "06_她不是辅助者，而是理论提出者.svg",
+          "title": "她不是辅助者，而是理论提出者",
+          "desc": "她不是辅助者，而是理论提出者"
+        },
+        {
+          "file": "07_学科、方法与远见.svg",
+          "title": "学科、方法与远见",
+          "desc": "学科、方法与远见"
+        },
+        {
+          "file": "08_她如何穿过战火与病痛.svg",
+          "title": "她如何穿过战火与病痛",
+          "desc": "她如何穿过战火与病痛"
+        },
+        {
+          "file": "09_结尾.svg",
+          "title": "结尾",
+          "desc": "结尾"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_liziqi_plant_dye_colors",
+      "title": "李子柒植物染色彩",
+      "description": "东方文化叙事下的传统色与植物染研究",
+      "icon": "🌿",
+      "color": "#6B9AAE",
+      "style": "editorial",
+      "styleName": "东方文化叙事",
+      "desc": "围绕李子柒春晚战袍背后的传统中国色，讲述五正色、植物染、诗意色名与手作疗愈。",
+      "tags": [
+        "传统色",
+        "植物染",
+        "东方美学"
+      ],
+      "isNew": false,
+      "folder": "ppt169_liziqi_plant_dye_colors/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "Cover",
+          "desc": "Cover"
+        },
+        {
+          "file": "02_intro.svg",
+          "title": "Intro",
+          "desc": "Intro"
+        },
+        {
+          "file": "03_zhanpao_decode.svg",
+          "title": "Zhanpao Decode",
+          "desc": "Zhanpao Decode"
+        },
+        {
+          "file": "04_history.svg",
+          "title": "History",
+          "desc": "History"
+        },
+        {
+          "file": "05_natural_colors_1.svg",
+          "title": "Natural Colors 1",
+          "desc": "Natural Colors 1"
+        },
+        {
+          "file": "06_natural_colors_2.svg",
+          "title": "Natural Colors 2",
+          "desc": "Natural Colors 2"
+        },
+        {
+          "file": "07_poetic_colors_1.svg",
+          "title": "Poetic Colors 1",
+          "desc": "Poetic Colors 1"
+        },
+        {
+          "file": "08_poetic_colors_2.svg",
+          "title": "Poetic Colors 2",
+          "desc": "Poetic Colors 2"
+        },
+        {
+          "file": "09_dye_plants.svg",
+          "title": "Dye Plants",
+          "desc": "Dye Plants"
+        },
+        {
+          "file": "10_diy_dyeing.svg",
+          "title": "Diy Dyeing",
+          "desc": "Diy Dyeing"
+        },
+        {
+          "file": "11_xuetaojian.svg",
+          "title": "Xuetaojian",
+          "desc": "Xuetaojian"
+        },
+        {
+          "file": "12_ending.svg",
+          "title": "Ending",
+          "desc": "Ending"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_general_dark_tech_claude_code_auto_mode",
+      "title": "Claude Code Auto Mode",
+      "description": "Anthropic AI safety engineering — classifier-based permissions",
+      "icon": "🛡️",
+      "color": "#D4A574",
+      "style": "general",
+      "styleName": "General + Dark Tech",
+      "desc": "Based on Anthropic's engineering blog — classifier-based permission system for safer autonomous coding.",
+      "tags": [
+        "Dark Theme",
+        "AI Safety",
+        "Anthropic"
+      ],
+      "isNew": false,
+      "folder": "ppt169_general_dark_tech_claude_code_auto_mode/svg_final",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "Cover",
+          "desc": "Claude Code Auto Mode"
+        },
+        {
+          "file": "02_approval_fatigue.svg",
+          "title": "Approval Fatigue",
+          "desc": "93% approval rate problem"
+        },
+        {
+          "file": "03_auto_mode.svg",
+          "title": "Auto Mode",
+          "desc": "Classifier-delegated approvals"
+        },
+        {
+          "file": "04_architecture.svg",
+          "title": "Architecture",
+          "desc": "Two layers of defense"
+        },
+        {
+          "file": "05_threat_model.svg",
+          "title": "Threat Model",
+          "desc": "Four threat categories"
+        },
+        {
+          "file": "06_permissions.svg",
+          "title": "Permissions",
+          "desc": "Three-tier permission system"
+        },
+        {
+          "file": "07_classifier.svg",
+          "title": "Classifier",
+          "desc": "Reasoning-blind by design"
+        },
+        {
+          "file": "08_results.svg",
+          "title": "Results",
+          "desc": "Evaluation metrics"
+        },
+        {
+          "file": "09_design_decisions.svg",
+          "title": "Design Decisions",
+          "desc": "Key engineering choices"
+        },
+        {
+          "file": "10_closing.svg",
+          "title": "Closing",
+          "desc": "Substantially safer"
+        }
+      ]
+    }
+  ]
+}

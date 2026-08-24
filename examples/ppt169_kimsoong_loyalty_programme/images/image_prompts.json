@@ -1,0 +1,52 @@
+{
+  "project": "Kimsoong Customer Loyalty Programme",
+  "generated_at": "2026-04-24",
+  "color_scheme": {
+    "primary": "#1A3A5C",
+    "accent": "#E8A838",
+    "secondary": "#2D8A4E"
+  },
+  "deck_style_anchor": "premium corporate photography and illustration, color palette: deep navy blue (#1A3A5C), amber gold (#E8A838), eco green (#2D8A4E), clean sophisticated, high quality, 4K",
+  "items": [
+    {
+      "filename": "cover_bg.jpg",
+      "purpose": "P01 Cover background",
+      "type": "Background",
+      "aspect_ratio": "16:9",
+      "prompt": "Abstract automotive engineering background with flowing aerodynamic curves and light streaks, deep navy blue (#1A3A5C) to midnight blue gradient, subtle golden light particle effects suggesting motion and automotive innovation, clean center-right area for text overlay, premium corporate presentation background, professional, sophisticated, 16:9 aspect ratio, high resolution, 4K",
+      "negative_prompt": "text, letters, watermark, faces, busy patterns, high contrast details, cars, vehicles",
+      "alt_text": "Abstract automotive-inspired background with flowing aerodynamic curves in deep navy to midnight blue gradient with subtle golden light particles",
+      "status": "Generated"
+    },
+    {
+      "filename": "company_profile.jpg",
+      "purpose": "P03 Company profile context",
+      "type": "Photography",
+      "aspect_ratio": "16:9",
+      "prompt": "Modern luxury automotive showroom interior with sleek contemporary cars on display, clean minimalist architectural design with white walls and polished concrete floor, natural daylight streaming through large floor-to-ceiling glass windows, European cityscape visible through windows, professional corporate atmosphere, warm ambient lighting, premium car dealership, professional photography, natural lighting, sharp focus, 16:9 aspect ratio, high quality, 4K resolution",
+      "negative_prompt": "watermark, text overlay, artificial, CGI, illustration, cartoon, distorted, low quality, brand logos",
+      "alt_text": "Modern luxury automotive showroom interior with contemporary cars, minimalist design, and natural daylight through large glass windows",
+      "status": "Generated"
+    },
+    {
+      "filename": "customer_insight.jpg",
+      "purpose": "P04 Customer data page accent",
+      "type": "Illustration",
+      "aspect_ratio": "16:9",
+      "prompt": "Abstract data visualization illustration showing interconnected human silhouettes forming a network pattern, flat design style, color palette: deep navy blue (#1A3A5C), amber gold (#E8A838), light gray (#F4F6F8), representing customer demographics and buyer profiling analytics, connected dots and lines between people icons, clean minimalist, white background, professional business illustration, 16:9 aspect ratio, high quality, 4K",
+      "negative_prompt": "realistic, photography, 3D render, complex textures, watermark, cluttered, dark background",
+      "alt_text": "Abstract flat-design illustration of interconnected human silhouettes in deep blue and amber forming a customer analytics network",
+      "status": "Generated"
+    },
+    {
+      "filename": "roadmap_bg.jpg",
+      "purpose": "P09 Roadmap section accent",
+      "type": "Background",
+      "aspect_ratio": "16:9",
+      "prompt": "Subtle abstract road pathway stretching into the distance, soft gradient transitioning from deep navy blue (#1A3A5C) on left to eco green (#2D8A4E) on right, minimalist geometric grid overlay suggesting structured planning and phases, clean negative space for content overlay in center, subtle light rays, professional corporate background, 16:9 aspect ratio, high resolution, 4K, premium presentation background",
+      "negative_prompt": "text, letters, watermark, faces, busy patterns, realistic road, cars, vehicles, high contrast details",
+      "alt_text": "Abstract road pathway background with deep blue to eco green gradient and geometric grid overlay suggesting structured planning",
+      "status": "Generated"
+    }
+  ]
+}

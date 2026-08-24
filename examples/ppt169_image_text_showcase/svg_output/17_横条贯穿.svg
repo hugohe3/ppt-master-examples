@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="vividBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A14"/>
+      <stop offset="100%" stop-color="#14060A"/>
+    </linearGradient>
+    <linearGradient id="vividAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C6FF7"/>
+      <stop offset="50%" stop-color="#F5A623"/>
+      <stop offset="100%" stop-color="#7C6FF7"/>
+    </linearGradient>
+    <linearGradient id="stripFadeL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0A14" stop-opacity="1"/>
+      <stop offset="10%" stop-color="#0A0A14" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="stripFadeR" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0A0A14" stop-opacity="1"/>
+      <stop offset="10%" stop-color="#0A0A14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background — deep dark vivid-launch -->
+  <rect width="1280" height="720" fill="url(#vividBg)"/>
+
+  <!-- TOP TEXT AREA — y: 0-240 -->
+  <text x="640" y="48" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="13" fill="#9090A0" letter-spacing="3">P17  ·  screen-print × vivid-launch  ·  横条贯穿</text>
+
+  <text x="640" y="110" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="52" font-weight="bold" fill="#E8E8F0">横条贯穿</text>
+
+  <text x="640" y="150" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#9090A0">Horizontal Strip Divides the Page</text>
+
+  <!-- Top accent bar -->
+  <rect x="440" y="168" width="400" height="2" rx="1" fill="url(#vividAccent)"/>
+
+  <text x="640" y="202" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#E8E8F0">丝网印刷风格的水平窄条图像横贯页面中腰，</text>
+  <text x="640" y="228" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#9090A0">将上下两段文字切割为独立的叙事节点。</text>
+
+  <!-- MIDDLE STRIP IMAGE — y: 248-488 (240px high) -->
+  <!-- Accent border top -->
+  <rect x="0" y="248" width="1280" height="3" fill="url(#vividAccent)"/>
+  <image href="../images/p17_strip_img.png" x="0" y="251" width="1280" height="234"
+         preserveAspectRatio="xMidYMid slice"/>
+  <!-- Edge fades -->
+  <rect x="0" y="251" width="100" height="234" fill="url(#stripFadeL)"/>
+  <rect x="1180" y="251" width="100" height="234" fill="url(#stripFadeR)"/>
+  <!-- Accent border bottom -->
+  <rect x="0" y="485" width="1280" height="3" fill="url(#vividAccent)"/>
+
+  <!-- BOTTOM TEXT AREA — y: 490-720 -->
+  <text x="640" y="540" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#9090A0">图像如一道闪光——切断语境，制造节奏感停顿，</text>
+  <text x="640" y="566" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#9090A0">下方文字在节奏停顿后重启叙事。</text>
+
+  <!-- Bottom feature tags -->
+  <rect x="254" y="598" width="200" height="32" rx="4" fill="#7C6FF7" fill-opacity="0.15" stroke="#7C6FF7" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="354" y="618" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="14" fill="#7C6FF7">丝网印刷质感</text>
+
+  <rect x="474" y="598" width="200" height="32" rx="4" fill="#F5A623" fill-opacity="0.15" stroke="#F5A623" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="574" y="618" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="14" fill="#F5A623">活力发射配色</text>
+
+  <rect x="694" y="598" width="200" height="32" rx="4" fill="#4ECDC4" fill-opacity="0.15" stroke="#4ECDC4" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="794" y="618" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="14" fill="#4ECDC4">图切割文字节奏</text>
+
+  <rect x="914" y="598" width="200" height="32" rx="4" fill="#E8E8F0" fill-opacity="0.08" stroke="#E8E8F0" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="1014" y="618" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="14" fill="#9090A0">版式对比强烈</text>
+
+  <!-- Bottom center statement -->
+  <text x="640" y="680" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="17" fill="#7C6FF7" fill-opacity="0.7">图是横穿页面的一道光</text>
+
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">17</text>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="warmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5EDE0"/>
+      <stop offset="100%" stop-color="#EDE0D0"/>
+    </linearGradient>
+    <linearGradient id="imgBottomFade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F5EDE0" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#F5EDE0" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F5EDE0" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="warmAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C4704A"/>
+      <stop offset="100%" stop-color="#D4A96A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background warm earth -->
+  <rect width="1280" height="720" fill="url(#warmBg)"/>
+
+  <!-- Top image — watercolor × warm-earth — full width, top half -->
+  <image href="../images/p05_top_img.png" x="0" y="0" width="1280" height="380"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Smooth fade at bottom of image -->
+  <rect x="0" y="0" width="1280" height="380" fill="url(#imgBottomFade)"/>
+
+  <!-- Thin separator line -->
+  <line x1="60" y1="395" x2="1220" y2="395" stroke="#C4704A" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- Page info row -->
+  <text x="60" y="378" font-family="Consolas, monospace" font-size="13" fill="#8A6A4A">P05  ·  watercolor × warm-earth  ·  顶图三栏</text>
+
+  <!-- Three-column text layout — y starts at 415 -->
+  <!-- Column 1 -->
+  <text x="80" y="445" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="22" font-weight="bold" fill="#3A2010">水彩渲染</text>
+  <text x="80" y="468" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#8A6A4A" letter-spacing="1">Watercolor Rendering</text>
+  <rect x="80" y="478" width="60" height="2" rx="1" fill="url(#warmAccent)"/>
+  <text x="80" y="504" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">水彩颜料在纸面上</text>
+  <text x="80" y="526" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">晕染渗透，边缘</text>
+  <text x="80" y="548" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">自然柔化。</text>
+  <text x="80" y="586" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8A6A4A">湿润感，有机质地，</text>
+  <text x="80" y="606" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8A6A4A">适合情感型叙事。</text>
+
+  <!-- Column separator -->
+  <line x1="453" y1="425" x2="453" y2="660" stroke="#C4704A" stroke-opacity="0.2" stroke-width="1"/>
+
+  <!-- Column 2 -->
+  <text x="480" y="445" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="22" font-weight="bold" fill="#3A2010">暖土调色板</text>
+  <text x="480" y="468" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#8A6A4A" letter-spacing="1">Warm-Earth Palette</text>
+  <rect x="480" y="478" width="60" height="2" rx="1" fill="url(#warmAccent)"/>
+  <text x="480" y="504" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">赤土、沙黄、暮橙</text>
+  <text x="480" y="526" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">构成温暖基调，</text>
+  <text x="480" y="548" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">贴近自然与人文。</text>
+  <text x="480" y="586" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8A6A4A">色温偏高，营造温度感，</text>
+  <text x="480" y="606" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8A6A4A">避免冷漠疏离。</text>
+
+  <!-- Column separator -->
+  <line x1="853" y1="425" x2="853" y2="660" stroke="#C4704A" stroke-opacity="0.2" stroke-width="1"/>
+
+  <!-- Column 3 -->
+  <text x="880" y="445" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="22" font-weight="bold" fill="#3A2010">顶图三栏布局</text>
+  <text x="880" y="468" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#8A6A4A" letter-spacing="1">Top Image + 3-Column Text</text>
+  <rect x="880" y="478" width="60" height="2" rx="1" fill="url(#warmAccent)"/>
+  <text x="880" y="504" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">全幅图像占上方</text>
+  <text x="880" y="526" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">约 53% 画面，</text>
+  <text x="880" y="548" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#5A3A20">下方三列等宽注释。</text>
+  <text x="880" y="586" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8A6A4A">图像如页眉，文字如脚注，</text>
+  <text x="880" y="606" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8A6A4A">逻辑自上而下流动。</text>
+
+  <!-- Bottom page number -->
+  <text x="1220" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#8A6A4A">05</text>
+</svg>

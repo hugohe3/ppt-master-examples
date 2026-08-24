@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="natureBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5EDE0"/>
+      <stop offset="100%" stop-color="#F0E4D0"/>
+    </linearGradient>
+    <linearGradient id="sunsetGradText" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="100%" stop-color="#CC4A2A"/>
+    </linearGradient>
+    <clipPath id="hexClip">
+      <polygon points="220,100 580,100 760,360 580,620 220,620 40,360"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background — warm natural light -->
+  <rect width="1280" height="720" fill="url(#natureBg)"/>
+
+  <!-- Hexagonal image — nature × sunset-gradient, left-center -->
+  <!-- Hex shadow hint -->
+  <polygon points="224,104 584,104 764,364 584,624 224,624 44,364" fill="#8B5A2A" fill-opacity="0.08"/>
+  <!-- Hex image -->
+  <image href="../images/p18_polygon_img.png" x="40" y="100" width="720" height="520"
+         clip-path="url(#hexClip)" preserveAspectRatio="xMidYMid slice"/>
+  <!-- Hex border -->
+  <polygon points="220,100 580,100 760,360 580,620 220,620 40,360"
+           fill="none" stroke="#8B5A2A" stroke-opacity="0.3" stroke-width="2"/>
+
+  <!-- Page meta -->
+  <text x="920" y="40" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="12" fill="#8B5A2A" fill-opacity="0.6" letter-spacing="2">P18  ·  nature × sunset-gradient</text>
+
+  <!-- Right text area — fills the gap to the right of hexagon -->
+  <text x="820" y="120" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="38" font-weight="bold" fill="#3A2010">多边形</text>
+  <text x="820" y="164" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="38" font-weight="bold" fill="#3A2010">裁切填缝</text>
+
+  <rect x="820" y="178" width="120" height="3" rx="1.5" fill="url(#sunsetGradText)"/>
+
+  <text x="820" y="216" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#5A3A20">六边形 clipPath 裁切图像，</text>
+  <text x="820" y="242" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#5A3A20">文字自由填充图形外的</text>
+  <text x="820" y="268" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#5A3A20">负空间与角落区域。</text>
+
+  <text x="820" y="314" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8B5A2A">非矩形容器打破传统构图，</text>
+  <text x="820" y="338" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8B5A2A">制造有机流动感。</text>
+
+  <!-- Feature tags right side -->
+  <rect x="820" y="370" width="160" height="30" rx="4" fill="#8B5A2A" fill-opacity="0.1"/>
+  <text x="900" y="390" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="14" fill="#5A3A20">自然插画风格</text>
+
+  <rect x="820" y="410" width="160" height="30" rx="4" fill="#F5A623" fill-opacity="0.15"/>
+  <text x="900" y="430" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="14" fill="#8B5A20">落日渐变调色</text>
+
+  <rect x="820" y="450" width="160" height="30" rx="4" fill="#2A5A30" fill-opacity="0.1"/>
+  <text x="900" y="470" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="14" fill="#2A5A30">热带植物主题</text>
+
+  <!-- Bottom text filling lower corner -->
+  <text x="820" y="540" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8B5A2A">技术：</text>
+  <text x="820" y="564" font-family="Consolas, monospace" font-size="13" fill="#5A3A20">&lt;clipPath&gt; + &lt;polygon&gt;</text>
+  <text x="820" y="588" font-family="Consolas, monospace" font-size="13" fill="#5A3A20">六顶点六边形路径</text>
+  <text x="820" y="612" font-family="Consolas, monospace" font-size="13" fill="#5A3A20">preserveAspectRatio=slice</text>
+
+  <!-- Corner text fill — upper area of right column -->
+  <!-- Small right-side badge - top corner -->
+  <text x="1160" y="120" text-anchor="end" font-family="Arial, sans-serif"
+        font-size="13" fill="#8B5A2A" fill-opacity="0.5">nature</text>
+
+  <!-- Bottom annotation -->
+  <text x="640" y="688" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#8B5A2A" fill-opacity="0.7">非矩形图 · 文字填缝 · 有机流动感</text>
+
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#8B5A2A" fill-opacity="0.5">18</text>
+</svg>

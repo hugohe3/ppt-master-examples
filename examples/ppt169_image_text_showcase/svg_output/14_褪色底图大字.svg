@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="earthyBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8F4EE"/>
+      <stop offset="100%" stop-color="#EDE4D4"/>
+    </linearGradient>
+    <linearGradient id="whiteOverlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F8F4EE" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#F8F4EE" stop-opacity="0.65"/>
+    </linearGradient>
+    <linearGradient id="inkAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B6A4A"/>
+      <stop offset="100%" stop-color="#6A4A2A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background — earthy-dusty warm cream -->
+  <rect width="1280" height="720" fill="url(#earthyBg)"/>
+
+  <!-- Full-bleed desaturated ink wash background image -->
+  <image href="../images/p14_fade_bg.png" x="0" y="0" width="1280" height="720"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- White wash overlay to desaturate further — "褪色" effect -->
+  <rect width="1280" height="720" fill="url(#whiteOverlay)"/>
+
+  <!-- TOP meta — very small, understated -->
+  <text x="640" y="50" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="12" fill="#8B6A4A" fill-opacity="0.6" letter-spacing="3">P14  ·  ink-notes × earthy-dusty</text>
+
+  <!-- GIANT OVERLAID HEADLINE — this is the main event -->
+  <text x="640" y="330" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="110" font-weight="bold" fill="#2A1A0A" fill-opacity="0.85" letter-spacing="-4">褪色叠字</text>
+
+  <!-- Secondary statement -->
+  <text x="640" y="420" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="32" fill="#8B6A4A" fill-opacity="0.75" letter-spacing="2">图为肌理  ·  字为主角</text>
+
+  <!-- Fine rule under secondary text -->
+  <line x1="340" y1="438" x2="940" y2="438" stroke="#8B6A4A" stroke-opacity="0.2" stroke-width="1"/>
+
+  <!-- Bottom annotation -->
+  <text x="640" y="520" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#6A4A2A" fill-opacity="0.7">水墨笔记风格图像降饱和度至极低</text>
+  <text x="640" y="546" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#6A4A2A" fill-opacity="0.7">退为画面底色与纹理，超大字体覆压其上</text>
+
+  <!-- Technique note — bottom -->
+  <rect x="400" y="600" width="480" height="60" rx="0" fill="#8B6A4A" fill-opacity="0.06"/>
+  <line x1="400" y1="600" x2="880" y2="600" stroke="#8B6A4A" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="640" y="627" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="13" fill="#8B6A4A" fill-opacity="0.7">rendering: ink-notes  ·  palette: earthy-dusty</text>
+  <text x="640" y="648" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="13" fill="#8B6A4A" fill-opacity="0.7">hero_page + white-wash overlay + giant overlay text</text>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#8B6A4A" fill-opacity="0.5">14</text>
+</svg>

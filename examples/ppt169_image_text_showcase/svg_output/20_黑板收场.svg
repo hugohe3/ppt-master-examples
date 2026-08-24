@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="chalkBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A3A1A"/>
+      <stop offset="100%" stop-color="#142A14"/>
+    </linearGradient>
+    <linearGradient id="chalkTextFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8E8E0" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#E8E8E0" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#E8E8E0" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#E8E8E0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background — chalkboard dark green -->
+  <rect width="1280" height="720" fill="url(#chalkBg)"/>
+
+  <!-- Full-bleed chalkboard image -->
+  <image href="../images/p20_closing.png" x="0" y="0" width="1280" height="720"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Subtle vignette overlay -->
+  <rect width="1280" height="720" fill="#142A14" fill-opacity="0.35"/>
+
+  <!-- Top meta -->
+  <text x="640" y="52" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="12" fill="#E8E8E0" fill-opacity="0.35" letter-spacing="3">P20  ·  chalkboard × mono-ink  ·  黑板收场</text>
+
+  <!-- Main centered closing text — chalk style -->
+  <text x="640" y="310" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="56" font-weight="bold" fill="#E8E8E0" fill-opacity="0.92" letter-spacing="4">每种组合</text>
+  <text x="640" y="382" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="56" font-weight="bold" fill="#E8E8E0" fill-opacity="0.92" letter-spacing="4">都是一种语言</text>
+
+  <!-- Chalk underline hint -->
+  <line x1="280" y1="398" x2="1000" y2="398" stroke="#E8E8E0" stroke-opacity="0.2" stroke-width="2"/>
+
+  <!-- Secondary text -->
+  <text x="640" y="460" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#E8E8E0" fill-opacity="0.6" letter-spacing="2">图 + 文  ·  无穷组合  ·  无穷可能</text>
+
+  <!-- Small bottom credit -->
+  <text x="640" y="650" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="13" fill="#E8E8E0" fill-opacity="0.3" letter-spacing="4">PPT MASTER  ·  2026</text>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#E8E8E0" fill-opacity="0.3">20</text>
+</svg>

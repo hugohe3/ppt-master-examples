@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F5EDE0"/>
+      <stop offset="100%" stop-color="#E8D8C4"/>
+    </linearGradient>
+    <linearGradient id="textBgL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5EDE0" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#F5EDE0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="textBgR" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#F5EDE0" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#F5EDE0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky background layer -->
+  <rect width="1280" height="720" fill="url(#skyGrad)"/>
+
+  <!-- Full-bleed paper-cut image -->
+  <image href="../images/p11_papercut.png" x="0" y="0" width="1280" height="720"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Page meta overlay at very top -->
+  <rect x="0" y="0" width="1280" height="48" fill="#2D5A27" fill-opacity="0.6"/>
+  <text x="640" y="30" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#E8F5E0" fill-opacity="0.9" letter-spacing="3">P11  ·  paper-cut × nature-organic  ·  剪纸分层</text>
+
+  <!-- Left text zone — overlaid on sky/foreground area -->
+  <rect x="0" y="100" width="300" height="200" fill="url(#textBgL)"/>
+  <text x="40" y="138" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="28" font-weight="bold" fill="#2D5A27">剪纸</text>
+  <text x="40" y="168" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="28" font-weight="bold" fill="#2D5A27">艺术风格</text>
+  <text x="40" y="200" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#3A6A30">paper-cut</text>
+  <text x="40" y="224" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#3A6A30">分层叠叠，触感质感，</text>
+  <text x="40" y="244" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#3A6A30">剪刀感不规则边缘。</text>
+
+  <!-- Right text zone -->
+  <rect x="980" y="100" width="300" height="200" fill="url(#textBgR)"/>
+  <text x="1000" y="138" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="28" font-weight="bold" fill="#2D5A27">自然</text>
+  <text x="1000" y="168" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="28" font-weight="bold" fill="#2D5A27">有机调色</text>
+  <text x="1000" y="200" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#3A6A30">nature-organic</text>
+  <text x="1000" y="224" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#3A6A30">森绿、草青、暖米，</text>
+  <text x="1000" y="244" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#3A6A30">自然生态气息浓郁。</text>
+
+  <!-- Center bottom text — floating on foreground layer -->
+  <rect x="340" y="600" width="600" height="80" fill="#2D5A27" fill-opacity="0.7" rx="4"/>
+  <text x="640" y="638" text-anchor="middle" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="22" font-weight="bold" fill="#E8F5E0">文字嵌入各景深层</text>
+  <text x="640" y="664" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#A8D8A0">前景文字  ·  中景文字  ·  天空文字</text>
+
+  <!-- Small info tags floating on different layers -->
+  <!-- Layer label — mid section -->
+  <rect x="560" y="340" width="160" height="28" rx="14" fill="#6A9E6A" fill-opacity="0.8"/>
+  <text x="640" y="358" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#E8F5E0">中景：山脊</text>
+
+  <rect x="460" y="460" width="160" height="28" rx="14" fill="#2D5A27" fill-opacity="0.85"/>
+  <text x="540" y="478" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#E8F5E0">前景：松林</text>
+
+  <rect x="660" y="460" width="160" height="28" rx="14" fill="#1A3A18" fill-opacity="0.9"/>
+  <text x="740" y="478" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#E8F5E0">最深景深</text>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#3A6A30">11</text>
+</svg>

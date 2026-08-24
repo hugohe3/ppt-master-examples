@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="frostBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0F4FA"/>
+      <stop offset="100%" stop-color="#E4EEF8"/>
+    </linearGradient>
+    <linearGradient id="textToImg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F0F4FA" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#F0F4FA" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#F0F4FA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accentPrimary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C6FF7"/>
+      <stop offset="100%" stop-color="#4ECDC4"/>
+    </linearGradient>
+    <clipPath id="rightImgClip">
+      <rect x="440" y="0" width="840" height="720"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background — frost-ice: near-white field -->
+  <rect width="1280" height="720" fill="url(#frostBg)"/>
+
+  <!-- Right image — vector-illustration, bleeds to right edge -->
+  <image href="../images/p04_right_img.png" x="440" y="0" width="840" height="720"
+         clip-path="url(#rightImgClip)" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Left-to-right fade overlay so text area stays clean -->
+  <rect x="0" y="0" width="680" height="720" fill="url(#textToImg)"/>
+
+  <!-- Top accent rule -->
+  <rect x="60" y="50" width="360" height="3" rx="1.5" fill="url(#accentPrimary)"/>
+
+  <!-- Badge -->
+  <rect x="60" y="64" width="240" height="26" rx="4" fill="#7C6FF7" fill-opacity="0.1"/>
+  <text x="70" y="81" font-family="Arial, sans-serif" font-size="13" fill="#7C6FF7">vector-illustration × frost-ice</text>
+
+  <!-- Page number -->
+  <text x="60" y="120" font-family="Consolas, monospace" font-size="13" fill="#9090A0">P04</text>
+
+  <!-- Main title — dark text on light bg -->
+  <text x="60" y="170" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="48" font-weight="bold" fill="#1A1A3A">右图出血</text>
+  <text x="60" y="210" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="18" fill="#5A5A72">Right Image Bleed</text>
+
+  <!-- Body text -->
+  <text x="60" y="270" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#2A2A4A">矢量插画图像占右侧大面积，</text>
+  <text x="60" y="298" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#2A2A4A">并从右边缘出血至画布外。</text>
+  <text x="60" y="346" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#6A6A8A">文字在左侧浮动，大图小字</text>
+  <text x="60" y="374" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="20" fill="#6A6A8A">形成强烈的视觉张力。</text>
+
+  <!-- Feature dots -->
+  <rect x="60" y="422" width="4" height="4" rx="2" fill="#7C6FF7"/>
+  <text x="76" y="432" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18" fill="#2A2A4A">扁平矢量风格，几何感强</text>
+
+  <rect x="60" y="460" width="4" height="4" rx="2" fill="#4ECDC4"/>
+  <text x="76" y="470" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18" fill="#2A2A4A">冰霜白底色，清爽专业</text>
+
+  <rect x="60" y="498" width="4" height="4" rx="2" fill="#F5A623"/>
+  <text x="76" y="508" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18" fill="#2A2A4A">右边缘出血，无边框感极强</text>
+
+  <!-- Info box -->
+  <rect x="60" y="558" width="340" height="96" rx="8" fill="#FFFFFF" fill-opacity="0.8"
+        stroke="#7C6FF7" stroke-opacity="0.2" stroke-width="1"/>
+  <text x="80" y="585" font-family="Consolas, monospace" font-size="13" fill="#6A6A8A">Rendering</text>
+  <text x="180" y="585" font-family="Consolas, monospace" font-size="13" fill="#1A1A3A">vector-illustration</text>
+  <text x="80" y="608" font-family="Consolas, monospace" font-size="13" fill="#6A6A8A">Palette  </text>
+  <text x="180" y="608" font-family="Consolas, monospace" font-size="13" fill="#1A1A3A">frost-ice</text>
+  <text x="80" y="631" font-family="Consolas, monospace" font-size="13" fill="#6A6A8A">Layout  </text>
+  <text x="180" y="631" font-family="Consolas, monospace" font-size="13" fill="#1A1A3A">right bleed image + left text</text>
+
+  <!-- Page number corner -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#9090A0">04</text>
+</svg>

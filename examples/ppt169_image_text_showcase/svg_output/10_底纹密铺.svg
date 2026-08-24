@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="darkOverlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F1117" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0F1117" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="card1Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C6FF7" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#5A4FCC" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="card2Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5A623" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#CC7A0A" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="card3Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ECDC4" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#2AA89E" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="card4Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1D2E" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0F1117" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Full-bleed pixel art background -->
+  <image href="../images/p10_bg_texture.png" x="0" y="0" width="1280" height="720"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Dark overlay for legibility -->
+  <rect width="1280" height="720" fill="url(#darkOverlay)"/>
+
+  <!-- Top label -->
+  <text x="640" y="36" text-anchor="middle" font-family="Consolas, monospace"
+        font-size="13" fill="#E8E8F0" fill-opacity="0.6" letter-spacing="3">P10  ·  pixel-art × vivid-launch  ·  底纹密铺</text>
+
+  <!-- Four info cards overlaying pixel background -->
+  <!-- Card 1 — top left -->
+  <rect x="60" y="60" width="540" height="280" rx="4" fill="url(#card1Bg)"/>
+  <!-- Pixel-style border accent -->
+  <rect x="60" y="60" width="540" height="4" fill="#E8E8F0" fill-opacity="0.3"/>
+  <text x="80" y="100" font-family="Consolas, monospace" font-size="13" fill="#E8E8F0" fill-opacity="0.7">[RENDERING]</text>
+  <text x="80" y="140" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="34" font-weight="bold" fill="#FFFFFF">像素复古</text>
+  <text x="80" y="170" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#E8E8F0" fill-opacity="0.9">pixel-art</text>
+  <text x="80" y="206" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#E8E8F0" fill-opacity="0.8">8-bit 像素网格，严格对齐，</text>
+  <text x="80" y="228" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#E8E8F0" fill-opacity="0.8">无抗锯齿，色彩鲜明饱和。</text>
+  <text x="80" y="270" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#E8E8F0" fill-opacity="0.7">游戏 / 复古科技 / 怀旧感场景</text>
+  <!-- Pixel decoration -->
+  <rect x="480" y="70" width="12" height="12" fill="#FFFFFF" fill-opacity="0.4"/>
+  <rect x="494" y="70" width="12" height="12" fill="#FFFFFF" fill-opacity="0.2"/>
+  <rect x="508" y="70" width="12" height="12" fill="#FFFFFF" fill-opacity="0.1"/>
+
+  <!-- Card 2 — top right -->
+  <rect x="620" y="60" width="600" height="280" rx="4" fill="url(#card2Bg)"/>
+  <rect x="620" y="60" width="600" height="4" fill="#E8E8F0" fill-opacity="0.3"/>
+  <text x="640" y="100" font-family="Consolas, monospace" font-size="13" fill="#3A2010" fill-opacity="0.9">[PALETTE]</text>
+  <text x="640" y="140" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="34" font-weight="bold" fill="#3A1A00">活力发射</text>
+  <text x="640" y="170" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#3A2010">vivid-launch</text>
+  <text x="640" y="206" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#3A2010">高饱和度色彩，抓人眼球，</text>
+  <text x="640" y="228" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#3A2010">产品发布、营销活动首选。</text>
+  <text x="640" y="270" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#3A2010" fill-opacity="0.8">大胆 / 饱和 / 引人注目</text>
+
+  <!-- Card 3 — bottom left -->
+  <rect x="60" y="360" width="540" height="300" rx="4" fill="url(#card3Bg)"/>
+  <rect x="60" y="360" width="540" height="4" fill="#E8E8F0" fill-opacity="0.3"/>
+  <text x="80" y="400" font-family="Consolas, monospace" font-size="13" fill="#0A3A38" fill-opacity="0.9">[LAYOUT]</text>
+  <text x="80" y="440" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="34" font-weight="bold" fill="#0A2A28">底纹密铺</text>
+  <text x="80" y="470" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#0A3A38">图作全幅底纹</text>
+  <text x="80" y="506" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#0A3A38">信息卡片覆盖其上，</text>
+  <text x="80" y="528" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#0A3A38">图像与信息融为一体。</text>
+  <text x="80" y="570" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#0A3A38" fill-opacity="0.8">图 → 氛围载体  ·  文 → 信息主体</text>
+  <text x="80" y="630" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#0A3A38" fill-opacity="0.7">遮罩层控制透明度确保可读性</text>
+
+  <!-- Card 4 — bottom right — dark -->
+  <rect x="620" y="360" width="600" height="300" rx="4" fill="url(#card4Bg)" stroke="#7C6FF7" stroke-opacity="0.4" stroke-width="1"/>
+  <rect x="620" y="360" width="600" height="4" fill="#7C6FF7" fill-opacity="0.5"/>
+  <text x="640" y="400" font-family="Consolas, monospace" font-size="13" fill="#7C6FF7">[TECHNIQUE]</text>
+  <text x="640" y="440" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="34" font-weight="bold" fill="#E8E8F0">技术要点</text>
+  <text x="640" y="480" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">· 全出血图像 (hero_page)</text>
+  <text x="640" y="506" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">· 暗色遮罩叠加层</text>
+  <text x="640" y="532" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">· 高对比度信息卡片</text>
+  <text x="640" y="558" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">· 强调色标题确保视觉层次</text>
+  <!-- Pixel-art badge -->
+  <rect x="840" y="620" width="160" height="28" rx="2" fill="#7C6FF7" fill-opacity="0.2" stroke="#7C6FF7" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="920" y="639" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#7C6FF7">8-BIT MODE</text>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#E8E8F0" fill-opacity="0.5">10</text>
+</svg>

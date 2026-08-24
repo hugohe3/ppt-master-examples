@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="leftBarGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C6FF7"/>
+      <stop offset="100%" stop-color="#4ECDC4"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C6FF7" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#7C6FF7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="720" fill="#0F1117"/>
+
+  <!-- Left color block -->
+  <rect x="0" y="0" width="340" height="720" fill="#1A1D2E"/>
+  <rect x="336" y="0" width="4" height="720" fill="url(#leftBarGrad)"/>
+
+  <!-- Left panel — title section -->
+  <rect x="40" y="60" width="260" height="4" rx="2" fill="url(#leftBarGrad)"/>
+  <text x="40" y="120" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="38" font-weight="bold" fill="#E8E8F0">目录</text>
+  <text x="40" y="148" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#9090A0" letter-spacing="3">CONTENTS</text>
+
+  <!-- Left panel — description -->
+  <text x="40" y="200" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">本册展示</text>
+  <text x="40" y="224" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">20种图文结合范式</text>
+  <text x="40" y="248" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#7C6FF7">18种渲染风格</text>
+  <text x="40" y="272" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#9090A0">14种调色板</text>
+
+  <!-- Left panel — icon grid -->
+  <use data-icon="tabler-outline/photo" x="40" y="320" width="28" height="28" fill="#7C6FF7" stroke-width="2"/>
+  <use data-icon="tabler-outline/layout-collage" x="80" y="320" width="28" height="28" fill="#4ECDC4" stroke-width="2"/>
+  <use data-icon="tabler-outline/palette" x="120" y="320" width="28" height="28" fill="#F5A623" stroke-width="2"/>
+  <use data-icon="tabler-outline/layers-intersect" x="160" y="320" width="28" height="28" fill="#E8E8F0" fill-opacity="0.5" stroke-width="2"/>
+
+  <!-- Left panel page count badge -->
+  <rect x="40" y="620" width="80" height="36" rx="18" fill="#7C6FF7" fill-opacity="0.15"
+        stroke="#7C6FF7" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="80" y="643" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="15" fill="#7C6FF7">20 页</text>
+
+  <!-- Right area — TOC list -->
+  <!-- Column 1: P01–P10 -->
+  <text x="390" y="80" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#5A5A72" letter-spacing="2">01 — 10</text>
+
+  <!-- Entry rows -->
+  <g>
+    <!-- P01 -->
+    <text x="390" y="116" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#7C6FF7">01</text>
+    <text x="418" y="116" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">封面</text>
+    <text x="600" y="116" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">glassmorphism × dark-cinematic</text>
+
+    <!-- P02 -->
+    <text x="390" y="148" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">02</text>
+    <text x="418" y="148" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#9090A0">目录</text>
+    <text x="600" y="148" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">结构导航</text>
+
+    <!-- P03 -->
+    <text x="390" y="180" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">03</text>
+    <text x="418" y="180" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">左图右文</text>
+    <text x="600" y="180" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">corporate-photo × cool-corporate</text>
+
+    <!-- P04 -->
+    <text x="390" y="212" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">04</text>
+    <text x="418" y="212" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">右图出血</text>
+    <text x="600" y="212" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">vector-illustration × frost-ice</text>
+
+    <!-- P05 -->
+    <text x="390" y="244" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">05</text>
+    <text x="418" y="244" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">顶图三栏文</text>
+    <text x="600" y="244" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">watercolor × warm-earth</text>
+
+    <!-- P06 -->
+    <text x="390" y="276" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">06</text>
+    <text x="418" y="276" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">底图浮文</text>
+    <text x="600" y="276" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">sketch-notes × macaron</text>
+
+    <!-- P07 -->
+    <text x="390" y="308" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">07</text>
+    <text x="418" y="308" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">Z型蛇形叙事</text>
+    <text x="600" y="308" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">3d-isometric × tech-neon</text>
+
+    <!-- P08 -->
+    <text x="390" y="340" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">08</text>
+    <text x="418" y="340" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">九宫格混排</text>
+    <text x="600" y="340" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">blueprint × editorial-classic</text>
+
+    <!-- P09 -->
+    <text x="390" y="372" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">09</text>
+    <text x="418" y="372" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">圆形放射</text>
+    <text x="600" y="372" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">digital-dashboard × mono-ink</text>
+
+    <!-- P10 -->
+    <text x="390" y="404" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">10</text>
+    <text x="418" y="404" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">底纹密铺</text>
+    <text x="600" y="404" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">pixel-art × vivid-launch</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="390" y1="425" x2="1220" y2="425" stroke="#2A2D3E" stroke-width="1"/>
+
+  <!-- Column 2: P11–P20 -->
+  <text x="390" y="455" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="13" fill="#5A5A72" letter-spacing="2">11 — 20</text>
+
+  <g>
+    <!-- P11 -->
+    <text x="390" y="490" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">11</text>
+    <text x="418" y="490" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">剪纸分层</text>
+    <text x="600" y="490" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">paper-cut × nature-organic</text>
+
+    <!-- P12 -->
+    <text x="390" y="516" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">12</text>
+    <text x="418" y="516" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">竖版杂志窄图</text>
+    <text x="600" y="516" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">vintage-poster × duotone</text>
+
+    <!-- P13 -->
+    <text x="390" y="542" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">13</text>
+    <text x="418" y="542" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">对角线分割</text>
+    <text x="600" y="542" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">fantasy-animation × sunset-gradient</text>
+
+    <!-- P14 -->
+    <text x="390" y="568" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">14</text>
+    <text x="418" y="568" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">褪色底图大字</text>
+    <text x="600" y="568" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">ink-notes × earthy-dusty</text>
+
+    <!-- P15 -->
+    <text x="390" y="594" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">15</text>
+    <text x="418" y="594" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">上文下图对称</text>
+    <text x="600" y="594" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">flat × jewel-tone</text>
+
+    <!-- P16 -->
+    <text x="390" y="620" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">16</text>
+    <text x="418" y="620" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">中心放射标注</text>
+    <text x="600" y="620" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">minimalist-swiss × editorial-classic</text>
+
+    <!-- P17–20 compressed -->
+    <text x="390" y="646" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">17</text>
+    <text x="418" y="646" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">横条贯穿</text>
+    <text x="600" y="646" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">screen-print × vivid-launch</text>
+
+    <text x="780" y="646" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">18</text>
+    <text x="808" y="646" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">多边形填缝</text>
+    <text x="960" y="646" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">nature × sunset-gradient</text>
+
+    <text x="390" y="672" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">19</text>
+    <text x="418" y="672" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">蒙太奇拼贴</text>
+    <text x="600" y="672" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">editorial × dark-cinematic</text>
+
+    <text x="780" y="672" font-family="Consolas, 'Courier New', monospace"
+          font-size="13" fill="#5A5A72">20</text>
+    <text x="808" y="672" font-family="Arial, 'Microsoft YaHei', sans-serif"
+          font-size="17" fill="#E8E8F0">黑板收场</text>
+    <text x="960" y="672" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">chalkboard × mono-ink</text>
+  </g>
+
+  <!-- Page number -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif"
+        font-size="13" fill="#5A5A72">02</text>
+</svg>

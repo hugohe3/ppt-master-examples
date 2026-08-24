@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="sunsetBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A0A2E"/>
+      <stop offset="50%" stop-color="#2E1A0A"/>
+      <stop offset="100%" stop-color="#0A1A2E"/>
+    </linearGradient>
+    <linearGradient id="sunsetGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="40%" stop-color="#CC4A2A"/>
+      <stop offset="100%" stop-color="#7C3A7A"/>
+    </linearGradient>
+    <!-- 从左下到右上的渐变遮罩：右上角暗，左下角透明 -->
+    <linearGradient id="textMask" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0A1A" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#0A0A1A" stop-opacity="0"/>
+      <stop offset="65%" stop-color="#0A0A1A" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0A0A1A" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1280" height="720" fill="url(#sunsetBg)"/>
+
+  <!-- 图像全幅铺底 -->
+  <image href="../images/p13_diagonal_img.png" x="0" y="0" width="1280" height="720"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- 右上区域渐变遮罩，沿对角线方向自然过渡 -->
+  <rect width="1280" height="720" fill="url(#textMask)"/>
+
+  <!-- 对角线：左上(0,0) → 右下(1280,720) -->
+  <line x1="0" y1="0" x2="1280" y2="720" stroke="url(#sunsetGrad)" stroke-width="2.5" stroke-opacity="0.85"/>
+  <line x1="0" y1="3" x2="1277" y2="723" stroke="#F5A623" stroke-width="1" stroke-opacity="0.25"/>
+  <line x1="3" y1="0" x2="1283" y2="717" stroke="#7C3A7A" stroke-width="1" stroke-opacity="0.25"/>
+
+  <!-- 页面标签 -->
+  <text x="900" y="44" font-family="Arial, sans-serif" font-size="12"
+        fill="#F5A623" fill-opacity="0.65" letter-spacing="2">P13  ·  fantasy-animation × sunset-gradient</text>
+
+  <!-- 右上文字区 — 从 x=700 开始，只在上半部 -->
+  <text x="720" y="116" font-family="Georgia, 'Microsoft YaHei', serif"
+        font-size="44" font-weight="bold" fill="#E8E8F0">对角线分割</text>
+
+  <line x1="720" y1="132" x2="1230" y2="132" stroke="url(#sunsetGrad)" stroke-width="1.5" stroke-opacity="0.5"/>
+
+  <text x="720" y="168" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#F5A623">fantasy-animation</text>
+  <text x="720" y="192" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#C0C0C8">吉卜力风梦幻动画</text>
+
+  <text x="720" y="228" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#CC7A4A">sunset-gradient</text>
+  <text x="720" y="252" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#C0C0C8">暖调落日渐变色板</text>
+
+  <line x1="720" y1="274" x2="1230" y2="274" stroke="#E8E8F0" stroke-opacity="0.1" stroke-width="1"/>
+
+  <text x="720" y="306" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="17" fill="#E8E8F0">对角线从左上贯穿至右下，</text>
+  <text x="720" y="332" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#C0C0C8">将画面一切为二：</text>
+  <text x="720" y="358" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#C0C0C8">·  左下三角 ── 图像叙事</text>
+  <text x="720" y="382" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#C0C0C8">·  右上三角 ── 文字解析</text>
+  <text x="720" y="414" font-family="Arial, 'Microsoft YaHei', sans-serif"
+        font-size="15" fill="#9090A0">对角张力赋予页面动感与节奏</text>
+
+  <!-- 左下角图像标注 -->
+  <rect x="48" y="608" width="230" height="60" rx="3" fill="#0F1117" fill-opacity="0.7"/>
+  <text x="66" y="633" font-family="Consolas, monospace" font-size="12" fill="#F5A623">IMAGE  ·  LEFT-BOTTOM</text>
+  <text x="66" y="653" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="14" fill="#E8E8F0">奇幻动画森林场景</text>
+
+  <!-- 页码 -->
+  <text x="1240" y="700" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#5A5A72">13</text>
+</svg>
