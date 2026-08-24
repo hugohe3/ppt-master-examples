@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-24",
+  "updated": "2026-08-24",
   "stats": {
     "examples": 21,
     "pages": 280,
@@ -23,6 +23,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_attention_is_all_you_need/svg_final",
+      "generatedAt": "2026-05-24",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -123,6 +124,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_lora_hu_2021/svg_final",
+      "generatedAt": "2026-05-23",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -218,6 +220,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_brutalist_ai_newspaper_2026/svg_final",
+      "generatedAt": "2026-05-21",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -288,6 +291,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_pritzker_2026/svg_final",
+      "generatedAt": "2026-05-18",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -363,6 +367,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_global_ai_capital_2026/svg_final",
+      "generatedAt": "2026-05-18",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -483,6 +488,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_swiss_grid_systems/svg_final",
+      "generatedAt": "2026-05-18",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -573,6 +579,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_glassmorphism_demo/svg_final",
+      "generatedAt": "2026-05-18",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -653,6 +660,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_sugar_rush_memphis/svg_final",
+      "generatedAt": "2026-05-18",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -743,6 +751,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_indie_bookstore_zine_guide/svg_final",
+      "generatedAt": "2026-05-18",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -853,6 +862,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_kubernetes_blueprint_2026/svg_final",
+      "generatedAt": "2026-05-21",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -923,6 +933,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_high_rise_renewal/svg_final",
+      "generatedAt": "2026-05-18",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -1018,6 +1029,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_cangzhuo/svg_final",
+      "generatedAt": "2026-05-18",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -1108,6 +1120,7 @@
       ],
       "isNew": true,
       "folder": "ppt169_image_text_showcase/svg_final",
+      "generatedAt": "2026-05-15",
       "cover": "01_封面.svg",
       "slides": [
         {
@@ -1228,6 +1241,7 @@
       ],
       "isNew": false,
       "folder": "ppt169_building_effective_agents/svg_final",
+      "generatedAt": "2026-04-24",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -1308,6 +1322,7 @@
       ],
       "isNew": false,
       "folder": "ppt169_fashion_weekly_digest/svg_final",
+      "generatedAt": "2026-04-26",
       "cover": "01_封面.svg",
       "slides": [
         {
@@ -1408,6 +1423,7 @@
       ],
       "isNew": false,
       "folder": "ppt169_home_design_trends_2026/svg_final",
+      "generatedAt": "2026-04-22",
       "cover": "01_封面.svg",
       "slides": [
         {
@@ -1488,6 +1504,7 @@
       ],
       "isNew": false,
       "folder": "ppt169_kimsoong_loyalty_programme/svg_final",
+      "generatedAt": "2026-04-24",
       "cover": "slide_01_cover.svg",
       "slides": [
         {
@@ -1558,6 +1575,7 @@
       ],
       "isNew": false,
       "folder": "ppt169_lin_huiyin_architect/svg_final",
+      "generatedAt": "2026-04-21",
       "cover": "01_封面.svg",
       "slides": [
         {
@@ -1628,6 +1646,7 @@
       ],
       "isNew": false,
       "folder": "ppt169_lin_huiyin_architect_revised/svg_final",
+      "generatedAt": "2026-04-22",
       "cover": "01_封面.svg",
       "slides": [
         {
@@ -1693,6 +1712,7 @@
       ],
       "isNew": false,
       "folder": "ppt169_liziqi_plant_dye_colors/svg_final",
+      "generatedAt": "2026-04-21",
       "cover": "01_cover.svg",
       "slides": [
         {
@@ -1773,6 +1793,7 @@
       ],
       "isNew": false,
       "folder": "ppt169_general_dark_tech_claude_code_auto_mode/svg_final",
+      "generatedAt": "2026-04-22",
       "cover": "01_cover.svg",
       "slides": [
         {

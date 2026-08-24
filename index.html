@@ -333,14 +333,15 @@
             position: absolute;
             top: 12px;
             right: 12px;
-            background: var(--primary);
-            color: white;
+            background: rgba(13, 13, 15, 0.86);
+            color: var(--text);
             padding: 3px 10px;
             border-radius: 6px;
+            border: 1px solid var(--border);
+            backdrop-filter: blur(8px);
             font-size: 0.7rem;
             font-weight: 600;
-            letter-spacing: 0.04em;
-            text-transform: uppercase;
+            letter-spacing: 0.01em;
         }
 
         .card-content {
@@ -631,7 +632,7 @@
 
                 card.innerHTML = `
                     <div class="card-preview">
-                        ${project.isNew ? '<span class="card-badge new">New</span>' : ''}
+                        ${project.generatedAt ? `<time class="card-badge" datetime="${project.generatedAt}">Generated ${project.generatedAt}</time>` : ''}
                     </div>
                     <div class="card-content">
                         <h3 class="card-title">${project.title}</h3>

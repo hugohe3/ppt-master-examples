@@ -4,7 +4,9 @@
 
 > Example artifacts are frozen snapshots of the workflow and capability boundary that generated them. Their `design_spec.md` and `spec_lock.md` files may retain rules that were later relaxed; they are historical evidence, not current SVG authoring authority. Use [`shared-standards.md`](https://github.com/hugohe3/ppt-master/blob/main/skills/ppt-master/references/shared-standards.md) for current required, forbidden, and conditional rules.
 
-**[Browse all examples online](https://hugohe3.github.io/ppt-master-examples/)** — the canonical catalog, powered by [`examples.json`](./examples.json). The JSON file is the source of truth for project metadata, tags, and slide listings; this README only documents folder structure.
+**[Browse all examples online](https://hugohe3.github.io/ppt-master-examples/)** — the canonical catalog, powered by [`examples.json`](./examples.json). The JSON file is the source of truth for project metadata, generation dates, tags, and slide listings; this README only documents folder structure.
+
+`projects[].generatedAt` records the date when the final PPTX export was generated, using the ISO `YYYY-MM-DD` format. It is distinct from the repository import date and the catalog-level `updated` date.
 
 ## Project Structure
 
@@ -33,7 +35,7 @@ Or open any `svg_final/*.svg` directly in a browser / VS Code.
 
 ## Contributing
 
-New or deliberately refreshed examples need (1) the standard structure above and (2) an entry in [`examples.json`](./examples.json) (`projects[]` array + bumped `stats`). Their SVGs should pass `python3 skills/ppt-master/scripts/svg_quality_checker.py`; existing frozen snapshots are not retroactively rewritten solely to match a newer authoring policy.
+New or deliberately refreshed examples need (1) the standard structure above and (2) an entry in [`examples.json`](./examples.json) (`projects[]` array with required `generatedAt` + bumped `stats`). Their SVGs should pass `python3 skills/ppt-master/scripts/svg_quality_checker.py`; existing frozen snapshots are not retroactively rewritten solely to match a newer authoring policy.
 
 ## Related
 
