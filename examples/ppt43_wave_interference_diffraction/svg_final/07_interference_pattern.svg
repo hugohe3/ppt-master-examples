@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33" />
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">干涉图样是怎么形成的</text>
+    <path d="M62 116 Q260 110 484 115" fill="none" stroke="#F4A9A3" stroke-width="4" stroke-linecap="round" />
+    <text x="520" y="96" font-size="22" fill="#B9C2B4">峰遇峰、谷遇谷 → 加强;峰遇谷 → 减弱</text>
+  </g>
+  <g id="pattern-diagram" data-pptx-bounds="60 160 600 560">
+    <g fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round">
+      <circle cx="230" cy="440" r="60" />
+      <circle cx="230" cy="440" r="120" />
+      <circle cx="230" cy="440" r="180" />
+      <circle cx="230" cy="440" r="240" />
+    </g>
+    <g fill="none" stroke="#9DDCE6" stroke-width="2" stroke-dasharray="8,6" stroke-opacity="0.7">
+      <circle cx="230" cy="440" r="90" />
+      <circle cx="230" cy="440" r="150" />
+      <circle cx="230" cy="440" r="210" />
+    </g>
+    <g fill="none" stroke="#F4A9A3" stroke-width="2.5" stroke-linecap="round">
+      <circle cx="470" cy="440" r="60" />
+      <circle cx="470" cy="440" r="120" />
+      <circle cx="470" cy="440" r="180" />
+      <circle cx="470" cy="440" r="240" />
+    </g>
+    <g fill="none" stroke="#F4A9A3" stroke-width="2" stroke-dasharray="8,6" stroke-opacity="0.7">
+      <circle cx="470" cy="440" r="90" />
+      <circle cx="470" cy="440" r="150" />
+      <circle cx="470" cy="440" r="210" />
+    </g>
+    <line x1="350" y1="196" x2="350" y2="700" stroke="#F6D77A" stroke-width="2" stroke-dasharray="10,6" stroke-opacity="0.6" />
+    <circle cx="230" cy="440" r="7" fill="#9DDCE6" />
+    <circle cx="470" cy="440" r="7" fill="#F4A9A3" />
+    <text x="196" y="474" font-family="KaiTi" font-size="24" fill="#9DDCE6">S₁</text>
+    <text x="484" y="474" font-family="KaiTi" font-size="24" fill="#F4A9A3">S₂</text>
+    <g id="point-a">
+      <circle cx="350" cy="440" r="9" fill="#F6D77A" />
+      <text x="366" y="432" font-family="KaiTi" font-size="24" fill="#F6D77A">A</text>
+    </g>
+    <g id="point-b">
+      <circle cx="350" cy="330" r="9" fill="#F6D77A" />
+      <text x="366" y="322" font-family="KaiTi" font-size="24" fill="#F6D77A">B</text>
+    </g>
+    <g id="point-c">
+      <circle cx="333" cy="359" r="9" fill="#1F3D33" stroke="#F3EFE4" stroke-width="3" />
+      <text x="292" y="352" font-family="KaiTi" font-size="24" fill="#F3EFE4">C</text>
+    </g>
+    <text x="360" y="700" font-size="17" fill="#F6D77A">S₁S₂ 中垂线:处处加强</text>
+  </g>
+  <g id="legend" data-pptx-bounds="690 160 280 200">
+    <text x="700" y="190" font-family="KaiTi" font-size="26" fill="#F3EFE4">图例</text>
+    <line x1="700" y1="226" x2="760" y2="226" stroke="#F3EFE4" stroke-width="2.5" stroke-linecap="round" />
+    <text x="776" y="233" font-size="19" fill="#F3EFE4">实线 = 波峰</text>
+    <line x1="700" y1="264" x2="760" y2="264" stroke="#F3EFE4" stroke-width="2" stroke-dasharray="8,6" />
+    <text x="776" y="271" font-size="19" fill="#F3EFE4">虚线 = 波谷</text>
+    <circle cx="712" cy="304" r="8" fill="#F6D77A" />
+    <text x="736" y="311" font-size="19" fill="#F3EFE4">加强点</text>
+    <circle cx="712" cy="342" r="8" fill="#1F3D33" stroke="#F3EFE4" stroke-width="3" />
+    <text x="736" y="349" font-size="19" fill="#F3EFE4">减弱点</text>
+  </g>
+  <g id="reading" data-pptx-bounds="690 380 280 340">
+    <text x="700" y="410" font-family="KaiTi" font-size="26" fill="#F3EFE4">读图</text>
+    <text x="700" y="450" font-size="20" fill="#F6D77A">A:峰遇峰</text>
+    <text x="700" y="478" font-size="18" fill="#B9C2B4">位移相加,起伏最大</text>
+    <text x="700" y="518" font-size="20" fill="#F6D77A">B:谷遇谷</text>
+    <text x="700" y="546" font-size="18" fill="#B9C2B4">同样是加强,只是此刻在谷底</text>
+    <text x="700" y="586" font-size="20" fill="#F3EFE4">C:峰遇谷</text>
+    <text x="700" y="614" font-size="18" fill="#B9C2B4">位移相消,几乎不动</text>
+    <text font-size="18" fill="#B9C2B4" x="700" y="662">波峰线随时间向外推,</text><text font-size="18" fill="#B9C2B4" x="700" y="690">但 A、B、C 的"身份"不会变。</text></g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">07</text>
+</svg>

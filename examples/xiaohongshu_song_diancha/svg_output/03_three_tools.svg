@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="paper" x="0" y="0" width="1242" height="1660" fill="#F5EFE2" data-pptx-role="background"/>
+  <line id="scroll-spine" x1="420" y1="470" x2="420" y2="1480" stroke="#C9BFAA" stroke-width="2" data-pptx-role="decoration"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 40">
+    <text x="96" y="126" font-size="26" letter-spacing="6" fill="#8A8378">宋 · 点茶 · 二</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 176 1050 240">
+    <text x="96" y="262" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">三件器,</text>
+    <text x="96" y="372" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">各有一句标准</text>
+    <line x1="96" y1="414" x2="336" y2="414" stroke="#B3352B" stroke-width="3"/>
+  </g>
+
+  <g id="tool-bowl" data-pptx-bounds="96 470 1050 320">
+    <image href="../images/jianzhan.png" x="110" y="486" width="290" height="251" preserveAspectRatio="xMidYMid meet"/>
+    <circle cx="420" cy="612" r="9" fill="#B3352B"/>
+    <text x="470" y="560" font-family="KaiTi" font-size="56" font-weight="bold" fill="#2B2A28">盏</text>
+    <text x="550" y="560" font-size="30" fill="#8A8378">建窑黑釉建盏</text>
+    <text x="470" y="632" font-family="KaiTi" font-size="34" fill="#2B2A28">“盏色贵青黑,玉毫条达者为上”</text>
+    <text x="470" y="690" font-size="28" fill="#8A8378">绀黑的釉、兔毫般的纹,为的是衬出白色汤花。<tspan x="470" dy="42">点前先熁盏——烤热或烫热,助茶香。</tspan></text>
+  </g>
+  <g id="tool-whisk" data-pptx-bounds="96 810 1050 320">
+    <image href="../images/chaxian.png" x="184" y="826" width="142" height="295" preserveAspectRatio="xMidYMid meet"/>
+    <circle cx="420" cy="952" r="9" fill="#B3352B"/>
+    <text x="470" y="900" font-family="KaiTi" font-size="56" font-weight="bold" fill="#2B2A28">筅</text>
+    <text x="550" y="900" font-size="30" fill="#8A8378">竹制茶筅</text>
+    <text x="470" y="972" font-family="KaiTi" font-size="34" fill="#2B2A28">“以筯竹老者为之,身欲厚重,筅欲疏劲”</text>
+    <text x="470" y="1030" font-size="28" fill="#8A8378">竹身要厚重,筅尾要疏而有劲,形如剑脊,<tspan x="470" dy="42">才能击拂有力、运用自如。</tspan></text>
+  </g>
+  <g id="tool-grinder" data-pptx-bounds="96 1150 1050 320">
+    <image href="../images/chanian.png" x="100" y="1186" width="310" height="241" preserveAspectRatio="xMidYMid meet"/>
+    <circle cx="420" cy="1292" r="9" fill="#B3352B"/>
+    <text x="470" y="1240" font-family="KaiTi" font-size="56" font-weight="bold" fill="#2B2A28">碾</text>
+    <text x="550" y="1240" font-size="30" fill="#8A8378">茶碾与茶罗</text>
+    <text x="470" y="1312" font-family="KaiTi" font-size="34" fill="#2B2A28">“碾以银为上,熟铁次之;罗必轻而平”</text>
+    <text x="470" y="1370" font-size="28" fill="#8A8378">团饼先碾成末,再过罗筛细——“不厌数”,<tspan x="470" dy="42">筛得越细,汤花越易发立。</tspan></text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#8A8378">引文均出自《大观茶论》盏、筅、罗碾诸篇</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#8A8378">03 / 09</text>
+  </g>
+</svg>

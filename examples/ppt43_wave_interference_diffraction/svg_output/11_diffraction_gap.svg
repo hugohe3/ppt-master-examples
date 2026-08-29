@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">缝的宽窄决定衍射明显与否</text>
+    <path d="M62 116 Q300 110 568 115" fill="none" stroke="#F6D77A" stroke-width="4" stroke-linecap="round"/>
+    <text x="600" y="96" font-size="22" fill="#B9C2B4">同一列水波,换三种缝宽</text>
+  </g>
+  <g id="panel-wide" data-pptx-bounds="60 160 284 370">
+    <text x="80" y="188" font-family="KaiTi" font-size="24" fill="#F3EFE4">缝宽 d ≫ λ</text>
+    <g stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round">
+      <line x1="80" y1="220" x2="324" y2="220"/>
+      <line x1="80" y1="246" x2="324" y2="246"/>
+      <line x1="80" y1="272" x2="324" y2="272"/>
+      <line x1="80" y1="298" x2="324" y2="298"/>
+    </g>
+    <g stroke="#F3EFE4" stroke-width="6" stroke-linecap="round">
+      <line x1="80" y1="330" x2="130" y2="330"/>
+      <line x1="274" y1="330" x2="324" y2="330"/>
+    </g>
+    <g fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round">
+      <path d="M126 356 Q130 358 134 358 L270 358 Q274 358 278 356"/>
+      <path d="M118 382 Q126 384 134 384 L270 384 Q278 384 286 382"/>
+      <path d="M110 408 Q122 410 134 410 L270 410 Q282 410 294 408"/>
+      <path d="M102 434 Q118 436 134 436 L270 436 Q286 436 302 434"/>
+    </g>
+    <text x="80" y="484" font-size="20" fill="#F3EFE4">基本沿直线传播</text>
+    <text x="80" y="512" font-size="17" fill="#B9C2B4">缝后波面只在边缘略微弯曲</text>
+  </g>
+  <g id="panel-equal" data-pptx-bounds="370 160 284 370">
+    <text x="390" y="188" font-family="KaiTi" font-size="24" fill="#F6D77A">缝宽 d ≈ λ</text>
+    <g stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round">
+      <line x1="390" y1="220" x2="634" y2="220"/>
+      <line x1="390" y1="246" x2="634" y2="246"/>
+      <line x1="390" y1="272" x2="634" y2="272"/>
+      <line x1="390" y1="298" x2="634" y2="298"/>
+    </g>
+    <g stroke="#F3EFE4" stroke-width="6" stroke-linecap="round">
+      <line x1="390" y1="330" x2="494" y2="330"/>
+      <line x1="530" y1="330" x2="634" y2="330"/>
+    </g>
+    <g fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round">
+      <path d="M486 330 A26 26 0 0 0 538 330"/>
+      <path d="M460 330 A52 52 0 0 0 564 330"/>
+      <path d="M434 330 A78 78 0 0 0 590 330"/>
+      <path d="M408 330 A104 104 0 0 0 616 330"/>
+    </g>
+    <text x="390" y="484" font-size="20" fill="#F6D77A">明显衍射</text>
+    <text x="390" y="512" font-size="17" fill="#B9C2B4">缝像新波源,向四周发圆形波</text>
+  </g>
+  <g id="panel-narrow" data-pptx-bounds="680 160 284 370">
+    <text x="700" y="188" font-family="KaiTi" font-size="24" fill="#F6D77A">缝宽 d &lt; λ</text>
+    <g stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round">
+      <line x1="700" y1="220" x2="944" y2="220"/>
+      <line x1="700" y1="246" x2="944" y2="246"/>
+      <line x1="700" y1="272" x2="944" y2="272"/>
+      <line x1="700" y1="298" x2="944" y2="298"/>
+    </g>
+    <g stroke="#F3EFE4" stroke-width="6" stroke-linecap="round">
+      <line x1="700" y1="330" x2="814" y2="330"/>
+      <line x1="830" y1="330" x2="944" y2="330"/>
+    </g>
+    <g fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round">
+      <path d="M796 330 A26 26 0 0 0 848 330"/>
+      <path d="M770 330 A52 52 0 0 0 874 330"/>
+      <path d="M744 330 A78 78 0 0 0 900 330"/>
+      <path d="M718 330 A104 104 0 0 0 926 330"/>
+      <path d="M700 340 A122 122 0 0 0 944 340" stroke-opacity="0.6"/>
+    </g>
+    <text x="700" y="484" font-size="20" fill="#F6D77A">衍射更明显</text>
+    <text x="700" y="512" font-size="17" fill="#B9C2B4">几乎整个半面都被波"填满"</text>
+  </g>
+  <g id="condition" data-pptx-bounds="60 560 900 100">
+    <path d="M66 568 L954 564 L958 654 L62 658 Z" fill="none" stroke="#F6D77A" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9"/>
+    <text x="90" y="604" font-family="KaiTi" font-size="26" fill="#F6D77A">发生明显衍射的条件</text>
+    <text x="90" y="640" font-size="21" fill="#F3EFE4">障碍物或孔的尺寸跟波长<tspan fill="#F6D77A" font-weight="bold">相差不大</tspan>,或者<tspan fill="#F6D77A" font-weight="bold">比波长更小</tspan>。</text>
+  </g>
+  <g id="footnote" data-pptx-bounds="60 668 900 52">
+    <text x="60" y="688" font-size="16" fill="#B9C2B4">衍射是一切波的共性,任何时候都在发生,区别只在"明显不明显"。<tspan x="60" dy="24">声波波长约 0.02–17 m,和门窗同数量级,所以隔墙有耳。</tspan></text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">11</text>
+</svg>

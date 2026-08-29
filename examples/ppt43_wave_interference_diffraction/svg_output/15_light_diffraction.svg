@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">光的衍射</text>
+    <path d="M62 116 Q140 110 232 115" fill="none" stroke="#F6D77A" stroke-width="4" stroke-linecap="round"/>
+    <text x="270" y="96" font-size="22" fill="#B9C2B4">缝要窄到接近光的波长,衍射才看得见</text>
+  </g>
+  <g id="slit-photo" data-pptx-bounds="60 160 580 330">
+    <rect x="68" y="168" width="564" height="266" fill="none" stroke="#F3EFE4" stroke-width="2.5" stroke-opacity="0.8"/>
+    <image href="../images/single_slit_diffraction.jpg" x="74" y="174" width="552" height="254" preserveAspectRatio="xMidYMid meet"/>
+    <circle cx="350" cy="170" r="6" fill="#F6D77A"/>
+    <text x="68" y="460" font-size="17" fill="#F3EFE4">单缝衍射图样:缝宽 b 与波长 λ 之比从 1000 降到 1,条纹越来越宽</text>
+    <text x="68" y="484" font-size="15" fill="#B9C2B4">图:MikeRun / Wikimedia Commons / CC BY-SA 4.0</text>
+  </g>
+  <g id="single-slit-notes" data-pptx-bounds="670 160 290 330">
+    <text x="680" y="190" font-family="KaiTi" font-size="26" fill="#F6D77A">单缝衍射的特点</text>
+    <path d="M680 200 Q760 197 848 200" fill="none" stroke="#F6D77A" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="680" y="240" font-size="19" fill="#F3EFE4">·  被照亮的范围远大于缝宽</text>
+    <text x="680" y="284" font-size="19" fill="#F3EFE4">·  明暗相间</text>
+    <text x="680" y="328" font-size="19" fill="#F3EFE4">·  中央条纹最宽、最亮</text>
+    <text x="680" y="372" font-size="19" fill="#F3EFE4">·  缝越窄,衍射越明显</text>
+    <text x="680" y="420" font-size="17" fill="#B9C2B4">和双缝干涉不同:</text>
+    <text x="680" y="446" font-size="17" fill="#B9C2B4">衍射条纹不等间距,<tspan x="680" dy="26">两侧越来越窄、越来越暗</tspan></text>
+  </g>
+  <g id="circular-aperture" data-pptx-bounds="60 510 900 200">
+    <path d="M66 518 L954 514 L958 704 L62 708 Z" fill="none" stroke="#F3EFE4" stroke-width="2" stroke-dasharray="4,4" stroke-opacity="0.6"/>
+    <g fill="none" stroke="#F6D77A" stroke-linecap="round">
+      <circle cx="160" cy="612" r="14" stroke-width="10"/>
+      <circle cx="160" cy="612" r="34" stroke-width="4" stroke-opacity="0.8"/>
+      <circle cx="160" cy="612" r="52" stroke-width="3" stroke-opacity="0.55"/>
+      <circle cx="160" cy="612" r="70" stroke-width="2.5" stroke-opacity="0.35"/>
+    </g>
+    <text x="260" y="560" font-family="KaiTi" font-size="24" fill="#F6D77A">圆孔衍射</text>
+    <text x="260" y="600" font-size="19" fill="#F3EFE4">光通过很小的圆孔,屏上出现明暗相间的同心圆环,中央是一个亮斑。</text>
+    <text x="260" y="636" font-size="18" fill="#B9C2B4">孔越小,环越大越明显;孔大到远超波长时,就只剩一个亮圆——光沿直线传播。</text>
+    <text x="260" y="682" font-size="18" fill="#B9C2B4">所以"光沿直线传播"只是衍射不明显时的近似说法。</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">15</text>
+</svg>

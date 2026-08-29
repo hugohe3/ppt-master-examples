@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei"
+  data-pptx-master="china_telecom_content_master" data-pptx-master-name="China Telecom Content"
+  data-pptx-layout="content" data-pptx-layout-name="Title and Content">
+  <defs>
+    <marker id="spine-arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto">
+      <polygon points="0,0 7,3.5 0,7" fill="#C00000"/>
+    </marker>
+  </defs>
+  <rect id="content-master-background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-capsule" x="0" y="32" width="206" height="64" rx="24" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-lane" x="114" y="32" width="1166" height="64" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-gray-lane" x="206" y="39" width="1074" height="50" rx="22" fill="#D9D9D9"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="content-master-header-brand" x="1000" y="38" width="208" height="48"
+    href="../images/header_brand.png" preserveAspectRatio="xMaxYMid meet"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="content-master-footer-rule" x1="72" y1="650" x2="1208" y2="650" stroke="#D1D5DB"
+    stroke-width="1" data-pptx-layer="master" data-pptx-editable="false"/>
+
+  <rect id="content-panel" x="72" y="132" width="1136" height="486" rx="24"
+    fill="#F8FAFC" stroke="#D1D5DB" stroke-width="1"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent" x="1078" y="552" width="72" height="4" rx="2" fill="#C00000"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent-soft" x="1042" y="572" width="132" height="4" rx="2"
+    fill="#C00000" fill-opacity="0.24" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="content-section-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="40 44 146 40">
+    <text id="content-section-carrier" data-pptx-carrier="true"
+      x="40" y="72" fill="#FFFFFF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="22" font-weight="700">智能云</text>
+  </g>
+  <g id="content-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="228 44 714 40">
+    <text id="content-title-carrier" data-pptx-carrier="true"
+      x="228" y="72" fill="#2B2F33"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="24" font-weight="700">五位一体智能云:把云网优势转译为可交付的 AI 能力</text>
+  </g>
+  <g id="content-object-slot" data-pptx-placeholder="object" data-pptx-idx="2"
+    data-pptx-bounds="96 156 1088 438">
+    <text id="content-object-carrier" data-pptx-carrier="true"
+      x="96" y="190" fill="#9CA3AF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="20"></text>
+  </g>
+
+  <g id="layer-spine" data-pptx-bounds="100 176 28 400">
+    <line x1="114" y1="572" x2="114" y2="190" stroke="#C00000" stroke-width="2" marker-end="url(#spine-arrow)"/>
+  </g>
+  <g id="layer-application" data-pptx-bounds="140 180 620 72">
+    <rect x="140" y="180" width="620" height="72" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+    <rect x="140" y="180" width="6" height="72" fill="#C00000"/>
+    <text x="168" y="208" font-family="Arial" font-size="13" font-weight="bold" fill="#C00000">05 · SaaS</text>
+    <text x="168" y="238" font-size="20" font-weight="bold" fill="#111827">应用</text>
+    <text x="260" y="238" font-size="15" fill="#111827">标准化 AI 产品、行业大模型与智能体,让 AI 进入业务场景</text>
+  </g>
+  <g id="layer-model" data-pptx-bounds="140 260 620 72">
+    <rect x="140" y="260" width="620" height="72" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+    <text x="168" y="288" font-family="Arial" font-size="13" font-weight="bold" fill="#6B7280">04 · MaaS</text>
+    <text x="168" y="318" font-size="20" font-weight="bold" fill="#111827">模型</text>
+    <text x="260" y="318" font-size="15" fill="#111827">持续建设“全模态、全尺寸、全国产”的星辰大模型体系</text>
+  </g>
+  <g id="layer-data" data-pptx-bounds="140 340 620 72">
+    <rect x="140" y="340" width="620" height="72" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+    <text x="168" y="368" font-family="Arial" font-size="13" font-weight="bold" fill="#6B7280">03 · DaaS</text>
+    <text x="168" y="398" font-size="20" font-weight="bold" fill="#111827">数据</text>
+    <text x="260" y="398" font-size="15" fill="#111827">10 万亿+ Token 通用语料,14 个以上行业数据集超 500 TB</text>
+  </g>
+  <g id="layer-platform" data-pptx-bounds="140 420 620 72">
+    <rect x="140" y="420" width="620" height="72" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+    <text x="168" y="448" font-family="Arial" font-size="13" font-weight="bold" fill="#6B7280">02 · PaaS</text>
+    <text x="168" y="478" font-size="20" font-weight="bold" fill="#111827">平台</text>
+    <text x="260" y="478" font-size="15" fill="#111827">Triless 架构解耦资源、框架、工具;智算总规模 91 EFLOPS</text>
+  </g>
+  <g id="layer-compute" data-pptx-bounds="140 500 620 72">
+    <rect x="140" y="500" width="620" height="72" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+    <rect x="140" y="500" width="6" height="72" fill="#9CA3AF"/>
+    <text x="168" y="528" font-family="Arial" font-size="13" font-weight="bold" fill="#6B7280">01 · IaaS</text>
+    <text x="168" y="558" font-size="20" font-weight="bold" fill="#111827">算力</text>
+    <text x="260" y="558" font-size="15" fill="#111827">从基础算力底座升级为 AI 原生算力底座,强化算、存、网协同</text>
+  </g>
+
+  <g id="core-summary" data-pptx-bounds="808 180 376 392">
+    <text x="808" y="204" font-size="15" fill="#6B7280">以“息壤”第一科技为核心</text>
+    <text x="808" y="238" font-size="20" font-weight="bold" fill="#111827">可规模化生产、调度并交付</text>
+    <text x="808" y="268" font-size="20" font-weight="bold" fill="#C00000">AI Token 的云网基础设施</text>
+    <line x1="808" y1="292" x2="1184" y2="292" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="808" y="348" font-family="Arial" font-size="40" font-weight="bold" fill="#111827">91<tspan font-size="18" font-weight="normal" fill="#6B7280"> EFLOPS</tspan></text>
+    <text x="808" y="372" font-size="14" fill="#6B7280">自有及接入智算总规模</text>
+    <text x="1000" y="348" font-family="Arial" font-size="40" font-weight="bold" fill="#111827">10<tspan font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#6B7280"> 万亿+ Token</tspan></text>
+    <text x="1000" y="372" font-size="14" fill="#6B7280">通用模型语料</text>
+    <text x="808" y="444" font-family="Arial" font-size="40" font-weight="bold" fill="#111827">500<tspan font-size="18" font-weight="normal" fill="#6B7280"> TB+</tspan></text>
+    <text x="808" y="468" font-size="14" fill="#6B7280">14 个以上行业数据集</text>
+    <text x="1000" y="444" font-family="Arial" font-size="40" font-weight="bold" fill="#111827">5<tspan font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#6B7280"> 层能力</tspan></text>
+    <text x="1000" y="468" font-size="14" fill="#6B7280">从 IaaS 到 SaaS</text>
+    <line x1="808" y1="500" x2="1184" y2="500" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="808" y="534" font-size="15" fill="#111827">五层能力自下而上叠加,<tspan x="808" dy="26">目标是形成可交付 AI Token 的产品体系</tspan></text>
+  </g>
+
+  <g id="content-source-slot" data-pptx-placeholder="footer" data-pptx-idx="3"
+    data-pptx-bounds="72 658 720 28">
+    <text id="content-source-carrier" data-pptx-carrier="true"
+      x="72" y="678" fill="#6B7280"
+      font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">来源:中国电信《2025 年全年业绩公布》,2026-03-24</text>
+  </g>
+  <g id="content-slide-number-slot" data-pptx-placeholder="slide-number"
+    data-pptx-idx="4" data-pptx-bounds="1128 658 80 28">
+    <text id="content-slide-number-carrier" data-pptx-carrier="true"
+      x="1208" y="678" text-anchor="end" fill="#6B7280"
+      font-family="Arial, sans-serif" font-size="13">09</text>
+  </g>
+</svg>

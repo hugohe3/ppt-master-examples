@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="section">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33" />
+  <g id="corner-rays" data-pptx-role="decoration" data-pptx-bounds="560 0 464 400">
+    <g stroke="#F6D77A" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.4">
+      <line x1="1024" y1="40" x2="600" y2="200" />
+      <line x1="1024" y1="110" x2="640" y2="260" />
+      <line x1="1024" y1="180" x2="700" y2="330" />
+      <line x1="1024" y1="250" x2="780" y2="390" />
+    </g>
+    <g fill="none" stroke="#F3EFE4" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.4">
+      <path d="M1024 300 A150 150 0 0 0 1024 0" />
+      <path d="M1024 360 A210 210 0 0 0 1024 0" stroke-opacity="0.25" />
+    </g>
+  </g>
+  <g id="section-number" data-pptx-bounds="80 140 200 240">
+    <text x="90" y="310" font-family="KaiTi" font-size="150" fill="#F3EFE4" fill-opacity="0.3">四</text>
+  </g>
+  <g id="section-title" data-pptx-bounds="300 190 560 160">
+    <text x="320" y="300" font-family="KaiTi" font-size="60" font-weight="bold" fill="#F3EFE4">光也是波</text>
+    <path d="M306 250 C330 208 520 196 600 226 C660 246 640 320 540 330 C420 342 330 336 306 296 Z" fill="none" stroke="#F6D77A" stroke-width="3.5" stroke-linecap="round" stroke-opacity="0.9" />
+  </g>
+  <g id="lead-question" data-pptx-bounds="80 440 860 120">
+    
+  <g transform="translate(80, 448) scale(1.66667)" fill="none" stroke="#F6D77A" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M12 16v.01" />
+    <path d="M12 13a2 2 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483" />
+  </g>
+    <text font-size="28" fill="#F3EFE4" x="136" y="478">水波会干涉、会衍射。如果光也是波,</text><text font-size="28" fill="#F3EFE4" x="136" y="524">它也应该有这两种现象——谁第一个看到了?</text></g>
+  <g id="section-hint" data-pptx-bounds="80 600 700 44">
+    <path d="M84 606 L96 606" stroke="#B9C2B4" stroke-width="2" />
+    <text x="110" y="630" font-size="20" fill="#B9C2B4">1801 年,英国的托马斯·杨</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">13</text>
+</svg>

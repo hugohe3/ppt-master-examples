@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="section">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="corner-waves" data-pptx-role="decoration" data-pptx-bounds="704 0 320 300">
+    <g fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.45">
+      <path d="M1024 60 A190 190 0 0 0 894 0"/>
+      <path d="M1024 120 A250 250 0 0 0 818 0"/>
+      <path d="M1024 180 A310 310 0 0 0 754 0"/>
+      <path d="M1024 240 A370 370 0 0 0 710 0"/>
+    </g>
+  </g>
+  <g id="section-number" data-pptx-bounds="80 140 200 240">
+    <text x="90" y="310" font-family="KaiTi" font-size="150" fill="#9DDCE6" fill-opacity="0.35">一</text>
+  </g>
+  <g id="section-title" data-pptx-bounds="300 190 620 160">
+    <text x="320" y="300" font-family="KaiTi" font-size="60" font-weight="bold" fill="#F3EFE4">波的叠加原理</text>
+    <path d="M306 250 C330 208 620 196 740 226 C820 246 800 320 660 330 C500 342 330 336 306 296 Z" fill="none" stroke="#F6D77A" stroke-width="3.5" stroke-linecap="round" stroke-opacity="0.9"/>
+  </g>
+  <g id="lead-question" data-pptx-bounds="80 420 860 120">
+    <use data-icon="tabler-outline/help-circle" x="80" y="428" width="40" height="40" fill="#F6D77A"/>
+    <text x="136" y="458" font-size="28" fill="#F3EFE4">两列波在同一根绳子上迎面相遇,<tspan x="136" dy="46">会不会把对方"撞坏"?相遇处的质点在做什么?</tspan></text>
+  </g>
+  <g id="section-hint" data-pptx-bounds="80 600 600 44">
+    <path d="M84 606 L96 606" stroke="#B9C2B4" stroke-width="2"/>
+    <text x="110" y="630" font-size="20" fill="#B9C2B4">先建立"位移相加"这一条规则,后面所有现象都从它推出来</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">03</text>
+</svg>

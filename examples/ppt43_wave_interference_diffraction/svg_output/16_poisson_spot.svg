@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">泊松亮斑:一次"反驳"变成了证明</text>
+    <path d="M62 116 Q360 110 690 115" fill="none" stroke="#F6D77A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g id="spot-photo" data-pptx-bounds="60 160 362 400">
+    <rect x="68" y="168" width="314" height="314" fill="none" stroke="#F3EFE4" stroke-width="2.5" stroke-opacity="0.8"/>
+    <image href="../images/arago_spot.jpg" x="74" y="174" width="302" height="302" preserveAspectRatio="xMidYMid slice"/>
+    <circle cx="225" cy="170" r="6" fill="#F6D77A"/>
+    <text x="68" y="508" font-size="17" fill="#F3EFE4">不透明圆盘的影子,正中央有一个亮点</text>
+    <text x="68" y="532" font-size="13" fill="#B9C2B4">图:Aleksandr Berdnikov / Wikimedia Commons<tspan x="68" dy="18">CC BY-SA 4.0</tspan></text>
+  </g>
+  <g id="timeline" data-pptx-bounds="430 160 530 400">
+    <line x1="452" y1="184" x2="452" y2="540" stroke="#F3EFE4" stroke-width="3" stroke-linecap="round" stroke-opacity="0.7"/>
+    <g id="step-1">
+      <circle cx="452" cy="190" r="9" fill="#1F3D33" stroke="#F3EFE4" stroke-width="3"/>
+      <text x="480" y="186" font-family="KaiTi" font-size="22" fill="#F6D77A">1817</text>
+      <text x="540" y="186" font-size="18" fill="#F3EFE4">法兰西学术院悬赏"光的本性"最佳论文</text>
+    </g>
+    <g id="step-2">
+      <circle cx="452" cy="260" r="9" fill="#1F3D33" stroke="#F3EFE4" stroke-width="3"/>
+      <text x="480" y="256" font-family="KaiTi" font-size="22" fill="#F6D77A">1818</text>
+      <text x="540" y="256" font-size="18" fill="#F3EFE4">菲涅尔提交衍射理论——光是波</text>
+    </g>
+    <g id="step-3">
+      <circle cx="452" cy="330" r="9" fill="#1F3D33" stroke="#F4A9A3" stroke-width="3"/>
+      <text x="480" y="326" font-family="KaiTi" font-size="22" fill="#F4A9A3">质疑</text>
+      <text x="540" y="326" font-size="18" fill="#F3EFE4">评委泊松按该理论推出:圆盘影子</text>
+      <text x="540" y="352" font-size="18" fill="#F3EFE4">中心应有亮点——"这太荒谬了"</text>
+    </g>
+    <g id="step-4">
+      <circle cx="452" cy="420" r="9" fill="#1F3D33" stroke="#9DDCE6" stroke-width="3"/>
+      <text x="480" y="416" font-family="KaiTi" font-size="22" fill="#9DDCE6">实验</text>
+      <text x="540" y="416" font-size="18" fill="#F3EFE4">阿拉果真的做了实验:亮斑就在那里</text>
+    </g>
+    <g id="step-5">
+      <circle cx="452" cy="490" r="9" fill="#F6D77A"/>
+      <text x="480" y="486" font-family="KaiTi" font-size="22" fill="#F6D77A">结果</text>
+      <text x="540" y="486" font-size="18" fill="#F3EFE4">菲涅尔获优胜奖;亮斑得名"泊松亮斑",</text>
+      <text x="540" y="512" font-size="18" fill="#F3EFE4">也叫"阿拉果斑"</text>
+    </g>
+  </g>
+  <g id="takeaway" data-pptx-bounds="60 590 900 120">
+    <path d="M66 598 L954 594 L958 704 L62 708 Z" fill="none" stroke="#F6D77A" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9"/>
+    <use data-icon="tabler-outline/bulb" x="88" y="626" width="40" height="40" fill="#F6D77A"/>
+    <text x="150" y="636" font-size="22" fill="#F3EFE4">影子中央的亮点只能用<tspan fill="#F6D77A" font-weight="bold">衍射</tspan>解释:光绕过圆盘边缘,在中心处处加强。</text>
+    <text x="150" y="676" font-size="19" fill="#B9C2B4">用来反驳波动说的推论,反而成了它最漂亮的证据——科学最终由实验裁决。</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">16</text>
+</svg>

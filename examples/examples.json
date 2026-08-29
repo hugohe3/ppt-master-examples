@@ -2,117 +2,11 @@
   "version": 1,
   "updated": "2026-08-29",
   "stats": {
-    "examples": 10,
-    "pages": 147,
-    "templates": 10
+    "examples": 13,
+    "pages": 190,
+    "templates": 13
   },
   "projects": [
-    {
-      "id": "ppt169_what_is_ppt",
-      "title": "什么是 PPT",
-      "description": "“PPT 到底是什么”17 页系统讲解 — 蓝图×编辑杂志混合风,AI 线稿插图 + 备注 + 动画,Default 路线生成",
-      "icon": "📽️",
-      "color": "#1A2B4A",
-      "style": "editorial",
-      "styleName": "Blueprint × Editorial",
-      "desc": "Seventeen-page explainer on what a presentation actually is: the five things people mean by \"PPT\", why people present, when PowerPoint is the wrong medium, the native .pptx object model, what makes a deck good, and eight questions to ask before opening the app. Editorial magazine grid with blueprint-style AI line illustrations, ink-blue on warm paper with a single red accent. Generated on the Default runtime (Strategist → Image_Generator → Executor) with speaker notes and object animations; the narrated-audio variant is not included.",
-      "tags": [
-        "Explainer",
-        "Blueprint",
-        "Editorial"
-      ],
-      "isNew": true,
-      "folder": "ppt169_what_is_ppt/svg_final",
-      "generatedAt": "2026-07-24",
-      "cover": "01_封面.svg",
-      "slides": [
-        {
-          "file": "01_封面.svg",
-          "title": "封面",
-          "desc": "什么是 PPT?它不只是几页幻灯片,而是四种东西的叠加"
-        },
-        {
-          "file": "02_五种含义.svg",
-          "title": "五种含义",
-          "desc": "说“PPT”时,我们其实在说五种不同的东西"
-        },
-        {
-          "file": "03_文件类型.svg",
-          "title": "文件类型",
-          "desc": "五种扩展名,一个现代标准"
-        },
-        {
-          "file": "04_为什么做演示.svg",
-          "title": "为什么做演示",
-          "desc": "人们要的不是“几页”,是受众身上发生的改变"
-        },
-        {
-          "file": "05_沟通任务.svg",
-          "title": "沟通任务",
-          "desc": "一份演示,可能同时在完成九种任务"
-        },
-        {
-          "file": "06_为什么用PowerPoint.svg",
-          "title": "为什么用PowerPoint",
-          "desc": "七项属性叠加,才是 PowerPoint 的独特价值"
-        },
-        {
-          "file": "07_何时不该用.svg",
-          "title": "何时不该用",
-          "desc": "PowerPoint 不该是所有信息任务的默认选择"
-        },
-        {
-          "file": "08_不止一种生命.svg",
-          "title": "不止一种生命",
-          "desc": "同一份 deck,在不同阶段扮演不同角色"
-        },
-        {
-          "file": "09_传递场景.svg",
-          "title": "传递场景",
-          "desc": "一页无法同时最优地服务四种传递场景"
-        },
-        {
-          "file": "10_原生对象模型.svg",
-          "title": "原生对象模型",
-          "desc": ".pptx 是相互关联部件组成的包"
-        },
-        {
-          "file": "11_对象职责.svg",
-          "title": "对象职责",
-          "desc": "视觉上正确的截图,仍可能结构很差"
-        },
-        {
-          "file": "12_什么是模板.svg",
-          "title": "什么是模板",
-          "desc": "模板存在,是因为某种东西预计会重复出现"
-        },
-        {
-          "file": "13_什么是好PPT.svg",
-          "title": "什么是好PPT",
-          "desc": "好的 deck,不能只用“视觉精美”来定义"
-        },
-        {
-          "file": "14_研究怎么说.svg",
-          "title": "研究怎么说",
-          "desc": "研究并不支持“图片越多越好”"
-        },
-        {
-          "file": "15_不是什么.svg",
-          "title": "不是什么",
-          "desc": "PPT 并不天然等于这八件事"
-        },
-        {
-          "file": "16_八个问题.svg",
-          "title": "八个问题",
-          "desc": "做 PPT 之前,先回答这八个问题"
-        },
-        {
-          "file": "17_收尾.svg",
-          "title": "收尾",
-          "desc": "先想清任务,工具才服务沟通"
-        }
-      ]
-    },
     {
       "id": "ppt169_attention_is_all_you_need",
       "title": "Attention Is All You Need",
@@ -292,6 +186,477 @@
           "file": "13_ending.svg",
           "title": "ending",
           "desc": "所有传世的经典,皆源于日复一日的坚守"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_kubernetes_blueprint_2026",
+      "title": "Kubernetes Blueprint 2026",
+      "description": "Kubernetes 集群架构 13 页拆解 — 深海军蓝等距技术图风,纯手绘 SVG 几何,Quick 路线生成",
+      "icon": "📐",
+      "color": "#3FB4D9",
+      "style": "general",
+      "styleName": "Engineering Blueprint",
+      "desc": "Thirteen-page walkthrough of Kubernetes cluster architecture in an isometric engineering-drawing style — blueprint cyan and violet on deep navy paper, hand-authored SVG geometry only. Covers the two planes, control-plane components, scheduling, the reconcile loop, worker nodes, Pod lifecycle, Services, storage, HA topology, self-healing and the API spine. Generated on the Quick runtime from the kubernetes.io docs, with speaker notes and object animations.",
+      "tags": [
+        "Blueprint",
+        "Kubernetes",
+        "Technical Drawing"
+      ],
+      "isNew": true,
+      "folder": "ppt169_kubernetes_blueprint_2026/svg_final",
+      "generatedAt": "2026-08-28",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "Kubernetes 集群架构拆解"
+        },
+        {
+          "file": "02_two_planes.svg",
+          "title": "two planes",
+          "desc": "两个平面,一条脊柱"
+        },
+        {
+          "file": "03_control_plane.svg",
+          "title": "control plane",
+          "desc": "控制平面的五个组件"
+        },
+        {
+          "file": "04_scheduling.svg",
+          "title": "scheduling",
+          "desc": "调度:先过滤,再打分"
+        },
+        {
+          "file": "05_reconcile.svg",
+          "title": "reconcile",
+          "desc": "控制器:一个永不停止的调和循环"
+        },
+        {
+          "file": "06_worker_node.svg",
+          "title": "worker node",
+          "desc": "每个工作节点上的三个组件"
+        },
+        {
+          "file": "07_pod_lifecycle.svg",
+          "title": "pod lifecycle",
+          "desc": "Pod 的一生:阶段、探针与优雅终止"
+        },
+        {
+          "file": "08_services.svg",
+          "title": "services",
+          "desc": "Service:多变的 Pod 前面,一个稳定的入口"
+        },
+        {
+          "file": "09_storage.svg",
+          "title": "storage",
+          "desc": "存储:三种资源分工,CSI 统一后端"
+        },
+        {
+          "file": "10_ha_topology.svg",
+          "title": "ha topology",
+          "desc": "生产高可用:三台起步,奇数 etcd,跨可用区"
+        },
+        {
+          "file": "11_self_healing.svg",
+          "title": "self healing",
+          "desc": "自愈的边界:什么会自动恢复,什么不会"
+        },
+        {
+          "file": "12_api_spine.svg",
+          "title": "api spine",
+          "desc": "通信总览:每一条线都经过 API server"
+        },
+        {
+          "file": "13_takeaways.svg",
+          "title": "takeaways",
+          "desc": "回顾:五句话记住这套架构"
+        }
+      ]
+    },
+    {
+      "id": "xiaohongshu_song_diancha",
+      "title": "宋人点茶 · 七汤",
+      "description": "小红书竖版图文 9 页 — 《大观茶论》七汤点茶法图解,新中式水墨 + AI 水彩插画与「七汤」题字,Quick 路线纯题目生成",
+      "icon": "🍵",
+      "color": "#B3352B",
+      "style": "editorial",
+      "styleName": "Ink-wash × Watercolor",
+      "desc": "Nine vertical Xiaohongshu cards (1242×1660) explaining the seven-pour whisking method from Emperor Huizong's Daguan Chalun: what diancha is, the three tools and their standards, the three preparations, each of the seven pours with the original text and a plain reading, and the color standard. Generated on the Quick runtime from a bare topic: topic-research gathered the facts, AI watercolor produced two hero images, eleven transparent illustration slices and a brush-lettered mark, and the pages were composed in a New-Chinese ink-wash system with speaker notes and entrance choreography.",
+      "tags": [
+        "Xiaohongshu",
+        "Culture",
+        "AI Illustration"
+      ],
+      "isNew": true,
+      "folder": "xiaohongshu_song_diancha/svg_final",
+      "generatedAt": "2026-08-29",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "一盏茶的七次注汤"
+        },
+        {
+          "file": "02_what_is_diancha.svg",
+          "title": "what is diancha",
+          "desc": "点茶,宋人的四般闲事之一"
+        },
+        {
+          "file": "03_three_tools.svg",
+          "title": "three tools",
+          "desc": "三件器,各有一句标准"
+        },
+        {
+          "file": "04_before_pouring.svg",
+          "title": "before pouring",
+          "desc": "注汤之前,先做三件事"
+        },
+        {
+          "file": "05_pour_one_two.svg",
+          "title": "pour one two",
+          "desc": "七汤 · 第一汤、第二汤"
+        },
+        {
+          "file": "06_pour_three_four.svg",
+          "title": "pour three four",
+          "desc": "七汤 · 第三汤、第四汤"
+        },
+        {
+          "file": "07_pour_five_six.svg",
+          "title": "pour five six",
+          "desc": "七汤 · 第五汤、第六汤"
+        },
+        {
+          "file": "08_pour_seven.svg",
+          "title": "pour seven",
+          "desc": "第七汤 · 咬盏"
+        },
+        {
+          "file": "09_color_and_legacy.svg",
+          "title": "color and legacy",
+          "desc": "点成什么样才算好:纯白为上真"
+        }
+      ]
+    },
+    {
+      "id": "ppt43_wave_interference_diffraction",
+      "title": "波的干涉与衍射",
+      "description": "高中物理讲解课件 — 黑板粉笔风,4:3 画布,水波示意图 + 原生公式 + 实拍照片,带备注与点击揭示动画,Quick 路线生成",
+      "icon": "🌊",
+      "color": "#1F3D33",
+      "style": "chalkboard",
+      "styleName": "Classroom Chalkboard",
+      "desc": "A twenty-slide high-school physics lesson on wave interference and diffraction, drawn as chalk on a dark green board on the 4:3 canvas: superposition in three stages, the ripple-tank experiment, the two-source interference pattern, the path-difference conditions as editable OMML formulas, coherence, slit width versus wavelength, Huygens' principle, then the same ideas carried to light through Young's double slit, the Poisson spot and thin-film colours. Real photographs are pinned to the board with recorded provenance; the summary table is native-ready and the practice page reveals answers on click.",
+      "tags": [
+        "Physics",
+        "Instructional",
+        "Chalkboard",
+        "4:3"
+      ],
+      "isNew": true,
+      "folder": "ppt43_wave_interference_diffraction/svg_final",
+      "generatedAt": "2026-08-29",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "波的干涉与衍射"
+        },
+        {
+          "file": "02_toc.svg",
+          "title": "toc",
+          "desc": "这节课的路线"
+        },
+        {
+          "file": "03_section_superposition.svg",
+          "title": "section superposition",
+          "desc": "一 · 波的叠加原理"
+        },
+        {
+          "file": "04_superposition.svg",
+          "title": "superposition",
+          "desc": "波的叠加原理"
+        },
+        {
+          "file": "05_section_interference.svg",
+          "title": "section interference",
+          "desc": "二 · 波的干涉"
+        },
+        {
+          "file": "06_ripple_tank.svg",
+          "title": "ripple tank",
+          "desc": "水波的干涉实验"
+        },
+        {
+          "file": "07_interference_pattern.svg",
+          "title": "interference pattern",
+          "desc": "干涉图样是怎么形成的"
+        },
+        {
+          "file": "08_conditions.svg",
+          "title": "conditions",
+          "desc": "加强与减弱的条件"
+        },
+        {
+          "file": "09_coherence.svg",
+          "title": "coherence",
+          "desc": "什么样的波才能干涉"
+        },
+        {
+          "file": "10_section_diffraction.svg",
+          "title": "section diffraction",
+          "desc": "三 · 波的衍射"
+        },
+        {
+          "file": "11_diffraction_gap.svg",
+          "title": "diffraction gap",
+          "desc": "缝的宽窄决定衍射明显与否"
+        },
+        {
+          "file": "12_huygens.svg",
+          "title": "huygens",
+          "desc": "为什么会绕过去:惠更斯原理"
+        },
+        {
+          "file": "13_section_light.svg",
+          "title": "section light",
+          "desc": "四 · 光也是波"
+        },
+        {
+          "file": "14_young.svg",
+          "title": "young",
+          "desc": "杨氏双缝干涉"
+        },
+        {
+          "file": "15_light_diffraction.svg",
+          "title": "light diffraction",
+          "desc": "光的衍射"
+        },
+        {
+          "file": "16_poisson_spot.svg",
+          "title": "poisson spot",
+          "desc": "泊松亮斑:一次\"反驳\"变成了证明"
+        },
+        {
+          "file": "17_thin_film.svg",
+          "title": "thin film",
+          "desc": "薄膜干涉:肥皂泡为什么是彩色的"
+        },
+        {
+          "file": "18_summary.svg",
+          "title": "summary",
+          "desc": "小结:干涉与衍射"
+        },
+        {
+          "file": "19_practice.svg",
+          "title": "practice",
+          "desc": "课堂练习"
+        },
+        {
+          "file": "20_ending.svg",
+          "title": "ending",
+          "desc": "今天记住三句话"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_what_is_ppt",
+      "title": "什么是 PPT",
+      "description": "“PPT 到底是什么”17 页系统讲解 — 蓝图×编辑杂志混合风,AI 线稿插图 + 备注 + 动画,Default 路线生成",
+      "icon": "📽️",
+      "color": "#1A2B4A",
+      "style": "editorial",
+      "styleName": "Blueprint × Editorial",
+      "desc": "Seventeen-page explainer on what a presentation actually is: the five things people mean by \"PPT\", why people present, when PowerPoint is the wrong medium, the native .pptx object model, what makes a deck good, and eight questions to ask before opening the app. Editorial magazine grid with blueprint-style AI line illustrations, ink-blue on warm paper with a single red accent. Generated on the Default runtime (Strategist → Image_Generator → Executor) with speaker notes and object animations; the narrated-audio variant is not included.",
+      "tags": [
+        "Explainer",
+        "Blueprint",
+        "Editorial"
+      ],
+      "isNew": true,
+      "folder": "ppt169_what_is_ppt/svg_final",
+      "generatedAt": "2026-07-24",
+      "cover": "01_封面.svg",
+      "slides": [
+        {
+          "file": "01_封面.svg",
+          "title": "封面",
+          "desc": "什么是 PPT?它不只是几页幻灯片,而是四种东西的叠加"
+        },
+        {
+          "file": "02_五种含义.svg",
+          "title": "五种含义",
+          "desc": "说“PPT”时,我们其实在说五种不同的东西"
+        },
+        {
+          "file": "03_文件类型.svg",
+          "title": "文件类型",
+          "desc": "五种扩展名,一个现代标准"
+        },
+        {
+          "file": "04_为什么做演示.svg",
+          "title": "为什么做演示",
+          "desc": "人们要的不是“几页”,是受众身上发生的改变"
+        },
+        {
+          "file": "05_沟通任务.svg",
+          "title": "沟通任务",
+          "desc": "一份演示,可能同时在完成九种任务"
+        },
+        {
+          "file": "06_为什么用PowerPoint.svg",
+          "title": "为什么用PowerPoint",
+          "desc": "七项属性叠加,才是 PowerPoint 的独特价值"
+        },
+        {
+          "file": "07_何时不该用.svg",
+          "title": "何时不该用",
+          "desc": "PowerPoint 不该是所有信息任务的默认选择"
+        },
+        {
+          "file": "08_不止一种生命.svg",
+          "title": "不止一种生命",
+          "desc": "同一份 deck,在不同阶段扮演不同角色"
+        },
+        {
+          "file": "09_传递场景.svg",
+          "title": "传递场景",
+          "desc": "一页无法同时最优地服务四种传递场景"
+        },
+        {
+          "file": "10_原生对象模型.svg",
+          "title": "原生对象模型",
+          "desc": ".pptx 是相互关联部件组成的包"
+        },
+        {
+          "file": "11_对象职责.svg",
+          "title": "对象职责",
+          "desc": "视觉上正确的截图,仍可能结构很差"
+        },
+        {
+          "file": "12_什么是模板.svg",
+          "title": "什么是模板",
+          "desc": "模板存在,是因为某种东西预计会重复出现"
+        },
+        {
+          "file": "13_什么是好PPT.svg",
+          "title": "什么是好PPT",
+          "desc": "好的 deck,不能只用“视觉精美”来定义"
+        },
+        {
+          "file": "14_研究怎么说.svg",
+          "title": "研究怎么说",
+          "desc": "研究并不支持“图片越多越好”"
+        },
+        {
+          "file": "15_不是什么.svg",
+          "title": "不是什么",
+          "desc": "PPT 并不天然等于这八件事"
+        },
+        {
+          "file": "16_八个问题.svg",
+          "title": "八个问题",
+          "desc": "做 PPT 之前,先回答这八个问题"
+        },
+        {
+          "file": "17_收尾.svg",
+          "title": "收尾",
+          "desc": "先想清任务,工具才服务沟通"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_china_telecom_2025",
+      "title": "中国电信 2025 年业绩解读",
+      "description": "套用内置「中国电信」Deck 模板的 14 页业绩汇报 — Quick 路线、结构化 Master/Layout 导出,含原生图表版",
+      "icon": "📡",
+      "color": "#C00000",
+      "style": "corporate",
+      "styleName": "Brand Deck Template",
+      "desc": "Fourteen-page reading of China Telecom's 2025 full-year results built on the bundled 中国电信 Deck template: two brand Masters and five Layouts are declared on every page and exported as a structured PPTX. Pyramid argument, Swiss-minimal restraint inside the template's red-and-grey system, tabler icons, four native chevron presets, speaker notes, section push transitions and per-object entrance choreography. A second export renders the emerging-business bar chart as a native PowerPoint chart.",
+      "tags": [
+        "Template",
+        "Corporate Report",
+        "Native Chart"
+      ],
+      "isNew": true,
+      "folder": "ppt169_china_telecom_2025/svg_final",
+      "generatedAt": "2026-08-29",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "中国电信 2025 年全年业绩解读"
+        },
+        {
+          "file": "02_agenda.svg",
+          "title": "agenda",
+          "desc": "目录:经营底盘 / 战新业务 / 智能云与 AI+ / 未来赛道"
+        },
+        {
+          "file": "03_section_foundation.svg",
+          "title": "section foundation",
+          "desc": "经营底盘保持稳健"
+        },
+        {
+          "file": "04_kpi_overview.svg",
+          "title": "kpi overview",
+          "desc": "经营收入 5296 亿元,盈利与现金流稳定"
+        },
+        {
+          "file": "05_dual_drive.svg",
+          "title": "dual drive",
+          "desc": "基础业务与产业数字化形成双轮驱动"
+        },
+        {
+          "file": "06_section_emerging.svg",
+          "title": "section emerging",
+          "desc": "战新业务成为增长亮点"
+        },
+        {
+          "file": "07_emerging_revenue.svg",
+          "title": "emerging revenue",
+          "desc": "天翼云 1207 亿元,战新业务成为第二增长曲线"
+        },
+        {
+          "file": "08_section_intelligence.svg",
+          "title": "section intelligence",
+          "desc": "智能云体系与 AI+ 规模化应用"
+        },
+        {
+          "file": "09_five_layers.svg",
+          "title": "five layers",
+          "desc": "五位一体智能云:算力→平台→数据→模型→应用"
+        },
+        {
+          "file": "10_ai_scale.svg",
+          "title": "ai scale",
+          "desc": "AI+ 从能力建设进入规模化应用"
+        },
+        {
+          "file": "11_section_frontiers.svg",
+          "title": "section frontiers",
+          "desc": "未来赛道与 2026 年经营主线"
+        },
+        {
+          "file": "12_growth_tracks.svg",
+          "title": "growth tracks",
+          "desc": "量子、低空、AI 安全与智能基础设施扩展增长边界"
+        },
+        {
+          "file": "13_token_mainline.svg",
+          "title": "token mainline",
+          "desc": "2026 年以 Token 服务为经营主线"
+        },
+        {
+          "file": "14_closing.svg",
+          "title": "closing",
+          "desc": "以 Token 服务为经营主线 · 打造领先的 AI 服务商"
         }
       ]
     },
@@ -863,92 +1228,6 @@
           "file": "18_outro.svg",
           "title": "outro",
           "desc": "outro"
-        }
-      ]
-    },
-    {
-      "id": "ppt169_kubernetes_blueprint_2026",
-      "title": "Kubernetes Blueprint 2026",
-      "description": "Kubernetes 集群架构 13 页拆解 — 深海军蓝等距技术图风,纯手绘 SVG 几何,Quick 路线生成",
-      "icon": "📐",
-      "color": "#3FB4D9",
-      "style": "general",
-      "styleName": "Engineering Blueprint",
-      "desc": "Thirteen-page walkthrough of Kubernetes cluster architecture in an isometric engineering-drawing style — blueprint cyan and violet on deep navy paper, hand-authored SVG geometry only. Covers the two planes, control-plane components, scheduling, the reconcile loop, worker nodes, Pod lifecycle, Services, storage, HA topology, self-healing and the API spine. Generated on the Quick runtime from the kubernetes.io docs, with speaker notes and object animations.",
-      "tags": [
-        "Blueprint",
-        "Kubernetes",
-        "Technical Drawing"
-      ],
-      "isNew": true,
-      "folder": "ppt169_kubernetes_blueprint_2026/svg_final",
-      "generatedAt": "2026-08-28",
-      "cover": "01_cover.svg",
-      "slides": [
-        {
-          "file": "01_cover.svg",
-          "title": "cover",
-          "desc": "Kubernetes 集群架构拆解"
-        },
-        {
-          "file": "02_two_planes.svg",
-          "title": "two planes",
-          "desc": "两个平面,一条脊柱"
-        },
-        {
-          "file": "03_control_plane.svg",
-          "title": "control plane",
-          "desc": "控制平面的五个组件"
-        },
-        {
-          "file": "04_scheduling.svg",
-          "title": "scheduling",
-          "desc": "调度:先过滤,再打分"
-        },
-        {
-          "file": "05_reconcile.svg",
-          "title": "reconcile",
-          "desc": "控制器:一个永不停止的调和循环"
-        },
-        {
-          "file": "06_worker_node.svg",
-          "title": "worker node",
-          "desc": "每个工作节点上的三个组件"
-        },
-        {
-          "file": "07_pod_lifecycle.svg",
-          "title": "pod lifecycle",
-          "desc": "Pod 的一生:阶段、探针与优雅终止"
-        },
-        {
-          "file": "08_services.svg",
-          "title": "services",
-          "desc": "Service:多变的 Pod 前面,一个稳定的入口"
-        },
-        {
-          "file": "09_storage.svg",
-          "title": "storage",
-          "desc": "存储:三种资源分工,CSI 统一后端"
-        },
-        {
-          "file": "10_ha_topology.svg",
-          "title": "ha topology",
-          "desc": "生产高可用:三台起步,奇数 etcd,跨可用区"
-        },
-        {
-          "file": "11_self_healing.svg",
-          "title": "self healing",
-          "desc": "自愈的边界:什么会自动恢复,什么不会"
-        },
-        {
-          "file": "12_api_spine.svg",
-          "title": "api spine",
-          "desc": "通信总览:每一条线都经过 API server"
-        },
-        {
-          "file": "13_takeaways.svg",
-          "title": "takeaways",
-          "desc": "回顾:五句话记住这套架构"
         }
       ]
     }

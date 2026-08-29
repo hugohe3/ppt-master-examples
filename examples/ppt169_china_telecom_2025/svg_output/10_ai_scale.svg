@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei"
+  data-pptx-master="china_telecom_content_master" data-pptx-master-name="China Telecom Content"
+  data-pptx-layout="content" data-pptx-layout-name="Title and Content">
+  <rect id="content-master-background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-capsule" x="0" y="32" width="206" height="64" rx="24" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-lane" x="114" y="32" width="1166" height="64" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-gray-lane" x="206" y="39" width="1074" height="50" rx="22" fill="#D9D9D9"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="content-master-header-brand" x="1000" y="38" width="208" height="48"
+    href="../images/header_brand.png" preserveAspectRatio="xMaxYMid meet"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="content-master-footer-rule" x1="72" y1="650" x2="1208" y2="650" stroke="#D1D5DB"
+    stroke-width="1" data-pptx-layer="master" data-pptx-editable="false"/>
+
+  <rect id="content-panel" x="72" y="132" width="1136" height="486" rx="24"
+    fill="#F8FAFC" stroke="#D1D5DB" stroke-width="1"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent" x="1078" y="552" width="72" height="4" rx="2" fill="#C00000"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent-soft" x="1042" y="572" width="132" height="4" rx="2"
+    fill="#C00000" fill-opacity="0.24" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="content-section-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="40 44 146 40">
+    <text id="content-section-carrier" data-pptx-carrier="true"
+      x="40" y="72" fill="#FFFFFF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="22" font-weight="700">智能云</text>
+  </g>
+  <g id="content-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="228 44 714 40">
+    <text id="content-title-carrier" data-pptx-carrier="true"
+      x="228" y="72" fill="#2B2F33"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="24" font-weight="700">AI+ 从能力建设进入规模化应用</text>
+  </g>
+  <g id="content-object-slot" data-pptx-placeholder="object" data-pptx-idx="2"
+    data-pptx-bounds="96 156 1088 438">
+    <text id="content-object-carrier" data-pptx-carrier="true"
+      x="96" y="190" fill="#9CA3AF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="20"></text>
+  </g>
+
+  <g id="field-internal" data-pptx-bounds="96 176 520 300">
+    <text x="96" y="200" font-size="17" fill="#6B7280">对内:重构工作流程,提升效率</text>
+    <text x="96" y="262" font-family="Arial" font-size="52" font-weight="bold" fill="#C00000">250<tspan font-size="30">+</tspan><tspan font-family="Microsoft YaHei" font-size="22" font-weight="normal" fill="#6B7280"> 个 AI 应用上线</tspan></text>
+    <text x="96" y="300" font-size="15" fill="#6B7280">围绕五大领域累计上线</text>
+    <rect x="96" y="322" width="90" height="34" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="141" y="345" text-anchor="middle" font-size="15" fill="#111827">智能客服</text>
+    <rect x="198" y="322" width="90" height="34" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="243" y="345" text-anchor="middle" font-size="15" fill="#111827">智能营销</text>
+    <rect x="300" y="322" width="90" height="34" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="345" y="345" text-anchor="middle" font-size="15" fill="#111827">智能运营</text>
+    <rect x="402" y="322" width="90" height="34" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="447" y="345" text-anchor="middle" font-size="15" fill="#111827">智能研发</text>
+    <rect x="504" y="322" width="90" height="34" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="549" y="345" text-anchor="middle" font-size="15" fill="#111827">智能管理</text>
+    <use data-icon="tabler-outline/robot" x="96" y="392" width="34" height="34" fill="#C00000"/>
+    <text x="144" y="416" font-size="17" fill="#111827">AI 用于重构工作流程,而不只是单点提效工具</text>
+    <text x="96" y="458" font-size="15" fill="#6B7280">内部场景先行验证,为对外交付积累标准范式</text>
+  </g>
+  <g id="field-divider" data-pptx-bounds="636 184 8 292">
+    <line x1="640" y1="184" x2="640" y2="476" stroke="#D1D5DB" stroke-width="1"/>
+  </g>
+  <g id="field-external" data-pptx-bounds="664 176 520 300">
+    <text x="664" y="200" font-size="17" fill="#6B7280">对外:覆盖 15 类行业的 AI 应用标准范式</text>
+    <text x="664" y="268" font-family="Arial" font-size="40" font-weight="bold" fill="#111827">110<tspan font-size="24">+</tspan></text>
+    <text x="664" y="294" font-size="14" fill="#6B7280">行业大模型</text>
+    <text x="864" y="268" font-family="Arial" font-size="40" font-weight="bold" fill="#111827">350<tspan font-size="24">+</tspan></text>
+    <text x="864" y="294" font-size="14" fill="#6B7280">行业智能体</text>
+    <text x="664" y="366" font-family="Arial" font-size="40" font-weight="bold" fill="#111827">15<tspan font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#6B7280"> 类行业</tspan></text>
+    <text x="664" y="392" font-size="14" fill="#6B7280">工业、政务等标准范式</text>
+    <text x="864" y="366" font-family="Arial" font-size="40" font-weight="bold" fill="#C00000">3.7<tspan font-family="Microsoft YaHei" font-size="18" font-weight="normal" fill="#6B7280"> 万+ 家</tspan></text>
+    <text x="864" y="392" font-size="14" fill="#6B7280">服务行业客户</text>
+    <use data-icon="tabler-outline/building-factory-2" x="664" y="420" width="34" height="34" fill="#C00000"/>
+    <text x="712" y="444" font-size="17" fill="#111827">平台能力 + 行业模型 + 智能体 + 场景交付</text>
+  </g>
+  <g id="value-path" data-pptx-bounds="96 496 1088 84">
+    <text x="96" y="512" font-size="14" fill="#6B7280">价值路径由“单点 AI 工具”转向</text>
+    <g id="p10-stage-platform" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="100 522 250 48" fill="#E5E7EB" stroke="none">
+<path d="M 100 522 L 326 522 L 350 546 L 326 570 L 100 570 L 124 546 Z"/>
+</g>
+    <text x="237" y="552" text-anchor="middle" font-size="17" font-weight="bold" fill="#111827">平台能力</text>
+    <g id="p10-stage-model" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="358 522 250 48" fill="#E5E7EB" stroke="none">
+<path d="M 358 522 L 584 522 L 608 546 L 584 570 L 358 570 L 382 546 Z"/>
+</g>
+    <text x="495" y="552" text-anchor="middle" font-size="17" font-weight="bold" fill="#111827">行业模型</text>
+    <g id="p10-stage-agent" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="616 522 250 48" fill="#E5E7EB" stroke="none">
+<path d="M 616 522 L 842 522 L 866 546 L 842 570 L 616 570 L 640 546 Z"/>
+</g>
+    <text x="753" y="552" text-anchor="middle" font-size="17" font-weight="bold" fill="#111827">智能体</text>
+    <g id="p10-stage-delivery" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="874 522 250 48" fill="#C00000" stroke="none">
+<path d="M 874 522 L 1100 522 L 1124 546 L 1100 570 L 874 570 L 898 546 Z"/>
+</g>
+    <text x="1011" y="552" text-anchor="middle" font-size="17" font-weight="bold" fill="#FFFFFF">场景交付</text>
+  </g>
+
+  <g id="content-source-slot" data-pptx-placeholder="footer" data-pptx-idx="3"
+    data-pptx-bounds="72 658 720 28">
+    <text id="content-source-carrier" data-pptx-carrier="true"
+      x="72" y="678" fill="#6B7280"
+      font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">来源:中国电信《2025 年全年业绩公布》,2026-03-24</text>
+  </g>
+  <g id="content-slide-number-slot" data-pptx-placeholder="slide-number"
+    data-pptx-idx="4" data-pptx-bounds="1128 658 80 28">
+    <text id="content-slide-number-carrier" data-pptx-carrier="true"
+      x="1208" y="678" text-anchor="end" fill="#6B7280"
+      font-family="Arial, sans-serif" font-size="13">10</text>
+  </g>
+</svg>

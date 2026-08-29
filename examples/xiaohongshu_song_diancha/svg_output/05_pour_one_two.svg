@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="paper" x="0" y="0" width="1242" height="1660" fill="#F5EFE2" data-pptx-role="background"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 40">
+    <text x="96" y="126" font-size="26" letter-spacing="6" fill="#8A8378">宋 · 点茶 · 四</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 176 1050 130">
+    <text x="96" y="262" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">七汤 · 一 二</text>
+    <line x1="96" y1="300" x2="336" y2="300" stroke="#B3352B" stroke-width="3"/>
+  </g>
+
+  <g id="pour-one" data-pptx-bounds="96 360 1050 560">
+    <image href="../images/tang1.png" x="96" y="400" width="330" height="355" preserveAspectRatio="xMidYMid meet"/>
+    <text x="470" y="430" font-family="KaiTi" font-size="60" font-weight="bold" fill="#2B2A28">第一汤</text>
+    <text x="700" y="430" font-size="28" fill="#8A8378">茶之根本立矣</text>
+    <text x="470" y="500" font-family="KaiTi" font-size="32" fill="#2B2A28">“环注盏畔,勿使侵茶。势不欲猛,<tspan x="470" dy="46">先须搅动茶膏,渐加周拂,手轻筅重,</tspan><tspan x="470" dy="46">指绕腕旋,上下透彻,如酵蘖之起面。”</tspan></text>
+    <text x="470" y="690" font-size="30" fill="#2B2A28">水沿盏边环注,不要冲到茶膏上;<tspan x="470" dy="46">先搅开茶膏,再手轻筅重地绕圈打透,</tspan><tspan x="470" dy="46">茶面像发面一样起来,冒出疏星皎月般的泡。</tspan></text>
+    <text x="470" y="866" font-size="26" fill="#8A8378">现代复原:第一汤水不宜多</text>
+  </g>
+  <line id="pour-divider" x1="96" y1="960" x2="1146" y2="960" stroke="#C9BFAA" stroke-width="2" data-pptx-role="decoration"/>
+  <g id="pour-two" data-pptx-bounds="96 1000 1050 520">
+    <image href="../images/tang2.png" x="96" y="1040" width="330" height="355" preserveAspectRatio="xMidYMid meet"/>
+    <text x="470" y="1070" font-family="KaiTi" font-size="60" font-weight="bold" fill="#2B2A28">第二汤</text>
+    <text x="700" y="1070" font-size="28" fill="#8A8378">珠玑磊落</text>
+    <text x="470" y="1140" font-family="KaiTi" font-size="32" fill="#2B2A28">“自茶面注之,周回一线。急注急上,<tspan x="470" dy="46">茶面不动,击拂既力,</tspan><tspan x="470" dy="46">色泽渐开,珠玑磊落。”</tspan></text>
+    <text x="470" y="1330" font-size="30" fill="#2B2A28">这一次从茶面上方绕一圈快注快停,<tspan x="470" dy="46">茶面不乱;用力击拂,汤色渐渐打开,</tspan><tspan x="470" dy="46">泛起一颗颗珠子般的白沫。</tspan></text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#8A8378">引文出自《大观茶论·点》;盏面为示意插画</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#8A8378">05 / 09</text>
+  </g>
+</svg>

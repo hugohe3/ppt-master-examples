@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">加强与减弱的条件</text>
+    <path d="M62 116 Q220 110 400 115" fill="none" stroke="#F4A9A3" stroke-width="4" stroke-linecap="round"/>
+    <text x="440" y="96" font-size="22" fill="#B9C2B4">用"路程差"把图样算出来</text>
+  </g>
+  <g id="path-diagram" data-pptx-bounds="60 160 420 440">
+    <g fill="none" stroke="#9DDCE6" stroke-width="2" stroke-linecap="round" stroke-opacity="0.45">
+      <path d="M110 250 A50 50 0 0 1 160 300"/>
+      <path d="M110 200 A100 100 0 0 1 210 300"/>
+    </g>
+    <g fill="none" stroke="#F4A9A3" stroke-width="2" stroke-linecap="round" stroke-opacity="0.45">
+      <path d="M160 540 A50 50 0 0 0 110 490"/>
+      <path d="M210 540 A100 100 0 0 0 110 440"/>
+    </g>
+    <line x1="110" y1="300" x2="430" y2="400" stroke="#9DDCE6" stroke-width="3" stroke-linecap="round"/>
+    <line x1="110" y1="540" x2="430" y2="400" stroke="#F4A9A3" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="110" cy="300" r="8" fill="#9DDCE6"/>
+    <circle cx="110" cy="540" r="8" fill="#F4A9A3"/>
+    <circle cx="430" cy="400" r="9" fill="#F6D77A"/>
+    <text x="72" y="308" font-family="KaiTi" font-size="26" fill="#9DDCE6">S₁</text>
+    <text x="72" y="548" font-family="KaiTi" font-size="26" fill="#F4A9A3">S₂</text>
+    <text x="446" y="392" font-family="KaiTi" font-size="28" fill="#F6D77A">P</text>
+    <text x="250" y="330" font-family="KaiTi" font-size="24" fill="#9DDCE6">r₁</text>
+    <text x="250" y="500" font-family="KaiTi" font-size="24" fill="#F4A9A3">r₂</text>
+    <text x="70" y="593" font-size="17" fill="#B9C2B4">P 离两波源远近不同,两列波到达有先后</text>
+  </g>
+  <g id="premise" data-pptx-bounds="520 160 440 60">
+    <text x="530" y="188" font-size="18" fill="#B9C2B4">前提:两波源振动步调一致(同相)。定义路程差:</text>
+  </g>
+  <g id="formula-def" data-pptx-replace-with="formula" data-pptx-x="520" data-pptx-y="226" data-pptx-width="440" data-pptx-height="64" data-pptx-bounds="520 226 440 64">
+    <metadata type="application/json"><![CDATA[
+      {"latex":"\\Delta r = \\left| r_1 - r_2 \\right|","display":"block","font_size":34,"color":"#F3EFE4","align":"left"}
+    ]]></metadata>
+    <text x="536" y="270" font-size="34" fill="#F3EFE4">Δr = | r₁ − r₂ |</text>
+  </g>
+  <path id="box-strong-frame" data-pptx-role="decoration" d="M524 316 L956 312 L960 446 L522 450 Z" fill="none" stroke="#F6D77A" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9"/>
+  <g id="strong-label" data-pptx-bounds="540 322 410 40">
+    <text x="544" y="352" font-family="KaiTi" font-size="24" fill="#F6D77A">振动加强:路程差是波长的整数倍</text>
+  </g>
+  <g id="formula-strong" data-pptx-replace-with="formula" data-pptx-x="540" data-pptx-y="366" data-pptx-width="410" data-pptx-height="54" data-pptx-bounds="540 366 410 54">
+    <metadata type="application/json"><![CDATA[
+      {"latex":"\\Delta r = k\\lambda","display":"block","font_size":36,"color":"#F6D77A","align":"left"}
+    ]]></metadata>
+    <text x="556" y="406" font-size="34" fill="#F6D77A">Δr = kλ</text>
+  </g>
+  <g id="strong-note" data-pptx-bounds="540 422 410 22">
+    <text x="556" y="439" font-size="15" fill="#B9C2B4">其中 k = 0, 1, 2, …</text>
+  </g>
+  <path id="box-weak-frame" data-pptx-role="decoration" d="M524 476 L956 472 L960 606 L522 610 Z" fill="none" stroke="#F3EFE4" stroke-width="3" stroke-linecap="round" stroke-opacity="0.8"/>
+  <g id="weak-label" data-pptx-bounds="540 482 412 40">
+    <text x="544" y="512" font-family="KaiTi" font-size="23" fill="#F3EFE4">振动减弱:路程差是半波长的奇数倍</text>
+  </g>
+  <g id="formula-weak" data-pptx-replace-with="formula" data-pptx-x="540" data-pptx-y="526" data-pptx-width="410" data-pptx-height="54" data-pptx-bounds="540 526 410 54">
+    <metadata type="application/json"><![CDATA[
+      {"latex":"\\Delta r = (2k+1)\\frac{\\lambda}{2}","display":"block","font_size":36,"color":"#F3EFE4","align":"left"}
+    ]]></metadata>
+    <text x="556" y="566" font-size="34" fill="#F3EFE4">Δr = (2k+1) λ/2</text>
+  </g>
+  <g id="weak-note" data-pptx-bounds="540 582 410 22">
+    <text x="556" y="599" font-size="15" fill="#B9C2B4">其中 k = 0, 1, 2, …</text>
+  </g>
+  <g id="takeaway" data-pptx-bounds="60 640 900 70">
+    <path d="M64 672 L80 672" stroke="#F6D77A" stroke-width="3" stroke-linecap="round"/>
+    <text x="94" y="668" font-size="21" fill="#F3EFE4">回到上一页:A、B 在中垂线上,Δr = 0,所以加强;C 的 Δr = λ/2,所以减弱。</text>
+    <text x="94" y="698" font-size="18" fill="#B9C2B4">若两波源振动步调相反(反相),两组条件正好互换。</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">08</text>
+</svg>

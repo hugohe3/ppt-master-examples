@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei"
+  data-pptx-master="china_telecom_content_master" data-pptx-master-name="China Telecom Content"
+  data-pptx-layout="content" data-pptx-layout-name="Title and Content">
+  <rect id="content-master-background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-capsule" x="0" y="32" width="206" height="64" rx="24" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-lane" x="114" y="32" width="1166" height="64" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-gray-lane" x="206" y="39" width="1074" height="50" rx="22" fill="#D9D9D9"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="content-master-header-brand" x="1000" y="38" width="208" height="48"
+    href="../images/header_brand.png" preserveAspectRatio="xMaxYMid meet"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="content-master-footer-rule" x1="72" y1="650" x2="1208" y2="650" stroke="#D1D5DB"
+    stroke-width="1" data-pptx-layer="master" data-pptx-editable="false"/>
+
+  <rect id="content-panel" x="72" y="132" width="1136" height="486" rx="24"
+    fill="#F8FAFC" stroke="#D1D5DB" stroke-width="1"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent" x="1078" y="552" width="72" height="4" rx="2" fill="#C00000"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent-soft" x="1042" y="572" width="132" height="4" rx="2"
+    fill="#C00000" fill-opacity="0.24" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="content-section-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="40 44 146 40">
+    <text id="content-section-carrier" data-pptx-carrier="true"
+      x="40" y="72" fill="#FFFFFF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="22" font-weight="700">战新业务</text>
+  </g>
+  <g id="content-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="228 44 714 40">
+    <text id="content-title-carrier" data-pptx-carrier="true"
+      x="228" y="72" fill="#2B2F33"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="24" font-weight="700">战新业务成为第二增长曲线,天翼云收入 1207 亿元</text>
+  </g>
+  <g id="content-object-slot" data-pptx-placeholder="object" data-pptx-idx="2"
+    data-pptx-bounds="96 156 1088 438">
+    <text id="content-object-carrier" data-pptx-carrier="true"
+      x="96" y="190" fill="#9CA3AF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="20"></text>
+  </g>
+
+  <g id="emerging-revenue" data-pptx-replace-with="chart" data-pptx-bounds="96 176 704 400" data-pptx-fallback-sha256="cd76932afccdcd1cd2d1f6085ef415cb61f56010c00be38501ae7ebeb7dbff49">
+    <metadata type="application/json">
+      {
+        "x": 96, "y": 176, "width": 704, "height": 400,
+        "name": "emerging-revenue",
+        "type": "bar",
+        "grouping": "clustered",
+        "categories": ["天翼云", "AIDC", "安全", "智能"],
+        "series": [
+          {"name": "2025 年收入(亿元)", "values": [1207, 345, 166, 123],
+           "point_colors": ["#C00000", "#9CA3AF", "#9CA3AF", "#9CA3AF"]}
+        ],
+        "data_labels": {"show_value": true, "position": "outside_end", "font_size": 17, "font_family": "Arial", "bold": true, "color": "#111827"},
+        "axes": {
+          "category": {"kind": "text", "position": "left", "reverse": true},
+          "value": {"kind": "value", "position": "bottom", "minimum": 0, "maximum": 1400, "major_unit": 700, "major_gridlines": true}
+        },
+        "plot_area": {"x": 260, "y": 196, "width": 520, "height": 324},
+        "style": {
+          "font_family": "Microsoft YaHei",
+          "axis_font_size": 15,
+          "colors": ["#C00000"],
+          "text_color": "#111827",
+          "axis_color": "#E5E7EB",
+          "grid_color": "#E5E7EB",
+          "chart_area_fill": "none",
+          "plot_area_fill": "none"
+        }
+      }
+    </metadata>
+    <g id="emerging-revenue-chartArea">
+      <line x1="520" y1="196" x2="520" y2="520" stroke="#E5E7EB" stroke-width="1"/>
+      <line x1="780" y1="196" x2="780" y2="520" stroke="#E5E7EB" stroke-width="1"/>
+      <line x1="260" y1="196" x2="260" y2="520" stroke="#D1D5DB" stroke-width="1"/>
+      <line x1="260" y1="520" x2="780" y2="520" stroke="#D1D5DB" stroke-width="1"/>
+      <!-- chart-plot-area: object=emerging-revenue | 260,196,780,520 -->
+      <rect x="260" y="216" width="448.3" height="40" fill="#C00000"/>
+      <rect x="260" y="297" width="128.1" height="40" fill="#9CA3AF"/>
+      <rect x="260" y="378" width="61.7" height="40" fill="#9CA3AF"/>
+      <rect x="260" y="459" width="45.7" height="40" fill="#9CA3AF"/>
+    </g>
+    <text x="248" y="242" text-anchor="end" font-size="17" fill="#111827">天翼云</text>
+    <text x="248" y="323" text-anchor="end" font-size="17" fill="#111827">AIDC</text>
+    <text x="248" y="404" text-anchor="end" font-size="17" fill="#111827">安全</text>
+    <text x="248" y="485" text-anchor="end" font-size="17" fill="#111827">智能</text>
+    <text x="718.3" y="242" font-family="Arial" font-size="17" font-weight="bold" fill="#111827">1207</text>
+    <text x="398.1" y="323" font-family="Arial" font-size="17" font-weight="bold" fill="#111827">345</text>
+    <text x="331.7" y="404" font-family="Arial" font-size="17" font-weight="bold" fill="#111827">166</text>
+    <text x="315.7" y="485" font-family="Arial" font-size="17" font-weight="bold" fill="#111827">123</text>
+    <text x="260" y="544" text-anchor="middle" font-family="Arial" font-size="15" fill="#6B7280">0</text>
+    <text x="520" y="544" text-anchor="middle" font-family="Arial" font-size="15" fill="#6B7280">700</text>
+    <text x="780" y="544" text-anchor="middle" font-family="Arial" font-size="15" fill="#6B7280">1400</text>
+  </g>
+  <g id="growth-callouts" data-pptx-bounds="840 176 344 400">
+    <text x="840" y="200" font-size="17" fill="#6B7280">保持较快增长的新赛道</text>
+    <text x="840" y="258" font-family="Arial" font-size="36" font-weight="bold" fill="#C00000">+31.2%</text>
+    <text x="1000" y="258" font-size="17" fill="#111827">视联网收入同比</text>
+    <text x="840" y="330" font-family="Arial" font-size="36" font-weight="bold" fill="#C00000">+65.4%</text>
+    <text x="1000" y="330" font-size="17" fill="#111827">量子收入同比</text>
+    <text x="840" y="402" font-family="Arial" font-size="36" font-weight="bold" fill="#C00000">+30.7%</text>
+    <text x="1000" y="402" font-size="17" fill="#111827">卫星收入同比</text>
+    <line x1="840" y1="440" x2="1184" y2="440" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="840" y="476" font-size="16" fill="#111827">公有云 IaaS 市场份额升至国内第二,<tspan x="840" dy="26">IaaS+PaaS 市场份额位居国内前三</tspan></text>
+    <text x="840" y="548" font-size="15" fill="#6B7280">从传统通信服务商向综合智能信息服务商扩展</text>
+  </g>
+
+  <g id="content-source-slot" data-pptx-placeholder="footer" data-pptx-idx="3"
+    data-pptx-bounds="72 658 720 28">
+    <text id="content-source-carrier" data-pptx-carrier="true"
+      x="72" y="678" fill="#6B7280"
+      font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">来源:中国电信《2025 年全年业绩公布》,2026-03-24;单位:亿元</text>
+  </g>
+  <g id="content-slide-number-slot" data-pptx-placeholder="slide-number"
+    data-pptx-idx="4" data-pptx-bounds="1128 658 80 28">
+    <text id="content-slide-number-carrier" data-pptx-carrier="true"
+      x="1208" y="678" text-anchor="end" fill="#6B7280"
+      font-family="Arial, sans-serif" font-size="13">07</text>
+  </g>
+</svg>

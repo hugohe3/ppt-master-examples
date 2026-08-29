@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33" />
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">什么样的波才能干涉</text>
+    <path d="M62 116 Q240 110 442 115" fill="none" stroke="#F4A9A3" stroke-width="4" stroke-linecap="round" />
+    <text x="480" y="96" font-size="22" fill="#B9C2B4">相干条件:三条缺一不可</text>
+  </g>
+  <g id="cond-frequency" data-pptx-bounds="60 170 284 270">
+    <path d="M66 178 L338 174 L342 432 L64 436 Z" fill="none" stroke="#9DDCE6" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9" />
+    
+  <g transform="translate(92, 204) scale(1.83333)" fill="none" stroke="#9DDCE6" stroke-width="2">
+    <path d="M21 12h-2c-.894 0 -1.662 -.857 -1.761 -2c-.296 -3.45 -.749 -6 -2.749 -6s-2.5 3.582 -2.5 8s-.5 8 -2.5 8s-2.452 -2.547 -2.749 -6c-.1 -1.147 -.867 -2 -1.763 -2h-2" />
+  </g>
+    <text x="150" y="236" font-family="KaiTi" font-size="30" fill="#9DDCE6">频率相同</text>
+    <text font-size="19" fill="#F3EFE4" x="92" y="292">两列波的振动快慢一样,</text><text font-size="19" fill="#F3EFE4" x="92" y="322">波长也就一样。</text><text font-size="17" fill="#B9C2B4" x="92" y="372">频率不同 → 某点时而加强</text><text font-size="17" fill="#B9C2B4" x="92" y="398">时而减弱,图样不稳定。</text></g>
+  <g id="cond-phase" data-pptx-bounds="370 170 284 270">
+    <path d="M376 178 L648 174 L652 432 L374 436 Z" fill="none" stroke="#F4A9A3" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9" />
+    
+  <g transform="translate(402, 204) scale(1.83333)" fill="none" stroke="#F4A9A3" stroke-width="2">
+    <path d="M12 8l0 4l2 2" />
+    <path d="M3.05 11a9 9 0 1 1 .5 4m-.5 5v-5h5" />
+  </g>
+    <text x="460" y="236" font-family="KaiTi" font-size="30" fill="#F4A9A3">相位差恒定</text>
+    <text font-size="19" fill="#F3EFE4" x="402" y="292">两波源的"步调差"不随</text><text font-size="19" fill="#F3EFE4" x="402" y="322">时间改变。</text><text font-size="17" fill="#B9C2B4" x="402" y="372">最简单的情形:同相,</text><text font-size="17" fill="#B9C2B4" x="402" y="398">即两个小球同时上下振动。</text></g>
+  <g id="cond-direction" data-pptx-bounds="680 170 284 270">
+    <path d="M686 178 L958 174 L962 432 L684 436 Z" fill="none" stroke="#F6D77A" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9" />
+    
+  <g transform="translate(712, 204) scale(1.83333)" fill="none" stroke="#F6D77A" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    <text x="762" y="236" font-family="KaiTi" font-size="30" fill="#F6D77A">振动方向相同</text>
+    <text font-size="19" fill="#F3EFE4" x="712" y="292">质点沿同一方向振动,</text><text font-size="19" fill="#F3EFE4" x="712" y="322">位移才能直接相加。</text><text font-size="17" fill="#B9C2B4" x="712" y="372">方向垂直的两个振动,</text><text font-size="17" fill="#B9C2B4" x="712" y="398">叠加后是合振动,不是干涉。</text></g>
+  <g id="terms" data-pptx-bounds="60 470 900 90">
+    <text x="60" y="500" font-size="22" fill="#F3EFE4">满足这三条的波源叫<tspan fill="#F6D77A" font-weight="bold">相干波源</tspan>,它们发出的波叫<tspan fill="#F6D77A" font-weight="bold">相干波</tspan>。</text>
+    <text x="60" y="540" font-size="20" fill="#B9C2B4">干涉图样的特点:加强区与减弱区相间分布,位置稳定;每一处的"身份"由路程差决定。</text>
+  </g>
+  <g id="contrast-note" data-pptx-bounds="60 590 900 120">
+    <path d="M64 596 L958 592 L962 702 L62 706 Z" fill="none" stroke="#F3EFE4" stroke-width="2" stroke-dasharray="4,4" stroke-opacity="0.6" />
+    
+  <g transform="translate(84, 620) scale(1.41667)" fill="none" stroke="#F4A9A3" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M10 10l4 4m0 -4l-4 4" />
+  </g>
+    <text x="134" y="630" font-size="20" fill="#F3EFE4">任何两列波相遇都会叠加,但只有相干波的叠加才叫干涉。</text>
+    <text x="134" y="664" font-size="18" fill="#B9C2B4">两个人各自拍水面、两只不同频率的音叉——都在叠加,却看不到稳定图样。</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">09</text>
+</svg>

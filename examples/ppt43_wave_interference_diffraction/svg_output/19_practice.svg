@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">课堂练习</text>
+    <path d="M62 116 Q140 110 232 115" fill="none" stroke="#F6D77A" stroke-width="4" stroke-linecap="round"/>
+    <text x="270" y="96" font-size="22" fill="#B9C2B4">先自己算,再看黑板上的解</text>
+  </g>
+  <path id="q1-frame" data-pptx-role="decoration" d="M66 168 L494 164 L498 402 L64 406 Z" fill="none" stroke="#9DDCE6" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9"/>
+  <path id="q2-frame" data-pptx-role="decoration" d="M530 168 L958 164 L962 402 L528 406 Z" fill="none" stroke="#F4A9A3" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9"/>
+  <path id="q3-frame" data-pptx-role="decoration" d="M66 438 L954 434 L958 702 L62 706 Z" fill="none" stroke="#F6D77A" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9"/>
+  <g id="q1-question" data-pptx-bounds="76 172 414 128">
+    <text x="86" y="200" font-family="KaiTi" font-size="26" fill="#9DDCE6">题 1</text>
+    <text x="86" y="238" font-size="18" fill="#F3EFE4">S₁、S₂ 为同相相干波源,λ = 2 m。<tspan x="86" dy="28">P 到 S₁ 7 m、到 S₂ 4 m,P 加强还是减弱?</tspan></text>
+    <line x1="86" y1="292" x2="470" y2="292" stroke="#B9C2B4" stroke-width="1.5" stroke-dasharray="4,4" stroke-opacity="0.6"/>
+  </g>
+  <g id="q1-answer" data-pptx-bounds="76 302 414 96">
+    <text x="86" y="330" font-size="18" fill="#F6D77A">解:Δr = 7 m − 4 m = 3 m = <tspan data-pptx-inline-formula="\frac{3}{2}\lambda">3λ/2</tspan></text>
+    <text x="86" y="378" font-size="18" fill="#F6D77A">是半波长的奇数倍 → 振动减弱</text>
+  </g>
+  <g id="q2-question" data-pptx-bounds="540 172 414 128">
+    <text x="550" y="200" font-family="KaiTi" font-size="26" fill="#F4A9A3">题 2</text>
+    <text x="550" y="238" font-size="18" fill="#F3EFE4">条件同题 1。Q 到 S₁ 10 m、到 S₂ 6 m。<tspan x="550" dy="28">Q 点加强还是减弱?</tspan></text>
+    <line x1="550" y1="292" x2="934" y2="292" stroke="#B9C2B4" stroke-width="1.5" stroke-dasharray="4,4" stroke-opacity="0.6"/>
+  </g>
+  <g id="q2-answer" data-pptx-bounds="540 302 414 96">
+    <text x="550" y="330" font-size="18" fill="#F6D77A">解:Δr = 10 m − 6 m = 4 m = 2λ</text>
+    <text x="550" y="378" font-size="18" fill="#F6D77A">是波长的整数倍 → 振动加强</text>
+  </g>
+  <g id="q3-question" data-pptx-bounds="76 442 870 122">
+    <text x="86" y="470" font-family="KaiTi" font-size="26" fill="#F6D77A">题 3 · 想一想</text>
+    <text x="86" y="508" font-size="18" fill="#F3EFE4">同样一扇 1 m 宽的门,为什么隔着门能听见屋里的声音,却看不见屋里的人?</text>
+    <text x="86" y="536" font-size="16" fill="#B9C2B4">(取声速 340 m/s,人声频率约 1000 Hz;可见光波长约 5 × 10⁻⁷ m)</text>
+    <line x1="86" y1="556" x2="934" y2="556" stroke="#B9C2B4" stroke-width="1.5" stroke-dasharray="4,4" stroke-opacity="0.6"/>
+  </g>
+  <g id="q3-answer" data-pptx-bounds="76 566 870 132">
+    <text x="86" y="594" font-size="18" fill="#F6D77A">解:声波 λ = v / f = 340 / 1000 m ≈ 0.34 m,和门宽同数量级 → 明显衍射,声音绕进来。</text>
+    <text x="86" y="630" font-size="18" fill="#F6D77A">可见光 λ ≈ 5 × 10⁻⁷ m,比门小百万倍 → 衍射不明显,光几乎沿直线传播,看不见人。</text>
+    <text x="86" y="678" font-size="17" fill="#B9C2B4">结论:是否明显衍射,不看"波"是什么,只看障碍物尺寸和波长的比。</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">19</text>
+</svg>

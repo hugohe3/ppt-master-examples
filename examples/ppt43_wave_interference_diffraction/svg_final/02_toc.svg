@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="toc">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 700 90">
+    <text x="60" y="104" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">这节课的路线</text>
+    <path d="M62 122 Q200 116 316 121" fill="none" stroke="#F6D77A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g id="header-note" data-pptx-bounds="60 140 800 40">
+    <text x="60" y="168" font-size="22" fill="#B9C2B4">先弄清"叠加",再看两种特有现象,最后把结论搬到光上</text>
+  </g>
+  <g id="learning-path" data-pptx-bounds="60 182 904 538">
+    <path d="M150 640 C260 640 300 470 420 470 S560 330 690 330 S840 200 900 200" fill="none" stroke="#F3EFE4" stroke-width="3" stroke-linecap="round" stroke-dasharray="10,8" stroke-opacity="0.7"/>
+    <polygon points="906,200 890,191 892,209" fill="#F3EFE4" fill-opacity="0.7"/>
+    <g id="stop-1">
+      <circle cx="150" cy="640" r="34" fill="#1F3D33" stroke="#9DDCE6" stroke-width="3"/>
+      <text x="150" y="652" text-anchor="middle" font-family="KaiTi" font-size="34" fill="#9DDCE6">一</text>
+      <!-- icon: tabler-outline/wave-sine -->
+  <g transform="translate(200, 580) scale(1.5)" fill="none" stroke="#F3EFE4" stroke-width="2">
+    <path d="M21 12h-2c-.894 0 -1.662 -.857 -1.761 -2c-.296 -3.45 -.749 -6 -2.749 -6s-2.5 3.582 -2.5 8s-.5 8 -2.5 8s-2.452 -2.547 -2.749 -6c-.1 -1.147 -.867 -2 -1.763 -2h-2" />
+  </g>
+      <text x="246" y="607" font-size="26" fill="#F3EFE4">波的叠加原理</text>
+      <text x="200" y="648" font-size="20" fill="#B9C2B4">两列波相遇:独立传播、位移相加</text>
+    </g>
+    <g id="stop-2">
+      <circle cx="420" cy="470" r="34" fill="#1F3D33" stroke="#F4A9A3" stroke-width="3"/>
+      <text x="420" y="482" text-anchor="middle" font-family="KaiTi" font-size="34" fill="#F4A9A3">二</text>
+      <!-- icon: tabler-outline/ripple -->
+  <g transform="translate(470, 410) scale(1.5)" fill="none" stroke="#F3EFE4" stroke-width="2">
+    <path d="M3 7c3 -2 6 -2 9 0s6 2 9 0" />
+    <path d="M3 17c3 -2 6 -2 9 0s6 2 9 0" />
+    <path d="M3 12c3 -2 6 -2 9 0s6 2 9 0" />
+  </g>
+      <text x="516" y="437" font-size="26" fill="#F3EFE4">波的干涉</text>
+      <text x="470" y="478" font-size="20" fill="#B9C2B4">稳定的加强区与减弱区</text>
+    </g>
+    <g id="stop-3">
+      <circle cx="690" cy="330" r="34" fill="#1F3D33" stroke="#F6D77A" stroke-width="3"/>
+      <text x="690" y="342" text-anchor="middle" font-family="KaiTi" font-size="34" fill="#F6D77A">三</text>
+      <!-- icon: tabler-outline/wall -->
+  <g transform="translate(740, 270) scale(1.5)" fill="none" stroke="#F3EFE4" stroke-width="2">
+    <path d="M4 6a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+    <path d="M4 8h16" />
+    <path d="M20 12h-16" />
+    <path d="M4 16h16" />
+    <path d="M9 4v4" />
+    <path d="M14 8v4" />
+    <path d="M8 12v4" />
+    <path d="M16 12v4" />
+    <path d="M11 16v4" />
+  </g>
+      <text x="786" y="297" font-size="26" fill="#F3EFE4">波的衍射</text>
+      <text x="740" y="338" font-size="20" fill="#B9C2B4">绕过障碍物继续传播</text>
+    </g>
+    <g id="stop-4">
+      <circle cx="900" cy="200" r="34" fill="#1F3D33" stroke="#F3EFE4" stroke-width="3"/>
+      <text x="900" y="212" text-anchor="middle" font-family="KaiTi" font-size="34" fill="#F3EFE4">四</text>
+      <!-- icon: tabler-outline/prism-light -->
+  <g transform="translate(716, 184) scale(1.5)" fill="none" stroke="#F3EFE4" stroke-width="2">
+    <path d="M4.731 19h11.539a1 1 0 0 0 .866 -1.5l-5.769 -10a1 1 0 0 0 -1.732 0l-5.769 10a1 1 0 0 0 .865 1.5" />
+    <path d="M2 13h4.45" />
+    <path d="M18 5l-4.5 6" />
+    <path d="M22 9l-7.75 3.25" />
+    <path d="M22 15l-7 -1.5" />
+  </g>
+      <text x="580" y="212" font-size="26" fill="#F3EFE4">光也是波</text>
+      <text x="470" y="252" font-size="20" fill="#B9C2B4">杨氏双缝、泊松亮斑、薄膜彩色</text>
+    </g>
+    <g id="path-note">
+      <text x="560" y="600" font-size="20" fill="#B9C2B4" font-style="italic">水波先讲清楚,光波只是换了对象</text>
+      <path d="M560 612 Q700 606 900 610" fill="none" stroke="#B9C2B4" stroke-width="1.5" stroke-dasharray="4,4" stroke-opacity="0.6"/>
+    </g>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">02</text>
+</svg>

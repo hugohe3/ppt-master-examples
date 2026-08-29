@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.5 },
+    "animation": { "effect": "none", "duration": 0.6, "stagger": 0.25, "trigger": "after-previous" }
+  },
+  "slides": {
+    "01_cover": { "groups": {
+      "cover-mark": { "effect": "entrance_fade", "order": 1, "duration": 0.9 },
+      "cover-title": { "effect": "entrance_fade", "order": 2 },
+      "cover-seal": { "effect": "entrance_zoom", "order": 3, "duration": 0.4 } } },
+    "02_what_is_diancha": { "groups": {
+      "definition": { "effect": "entrance_fade", "order": 1 },
+      "book-note": { "effect": "entrance_fade", "order": 2 },
+      "bowl-accent": { "effect": "entrance_fade", "order": 2 },
+      "timeline": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.9 } } },
+    "03_three_tools": { "groups": {
+      "tool-bowl": { "effect": "entrance_fade", "order": 1 },
+      "tool-whisk": { "effect": "entrance_fade", "order": 2 },
+      "tool-grinder": { "effect": "entrance_fade", "order": 3 } } },
+    "04_before_pouring": { "groups": {
+      "step-grind": { "effect": "entrance_fade", "order": 1 },
+      "step-warm": { "effect": "entrance_fade", "order": 2 },
+      "step-paste": { "effect": "entrance_fade", "order": 3 } } },
+    "05_pour_one_two": { "groups": {
+      "pour-one": { "effect": "entrance_fade", "order": 1 },
+      "pour-two": { "effect": "entrance_fade", "order": 2 } } },
+    "06_pour_three_four": { "groups": {
+      "pour-three": { "effect": "entrance_fade", "order": 1 },
+      "pour-four": { "effect": "entrance_fade", "order": 2 } } },
+    "07_pour_five_six": { "groups": {
+      "pour-five": { "effect": "entrance_fade", "order": 1 },
+      "pour-six": { "effect": "entrance_fade", "order": 2 } } },
+    "08_pour_seven": {
+      "transition": { "effect": "fade", "duration": 1.0 },
+      "groups": {
+        "pour-seven": { "effect": "entrance_fade", "order": 1, "duration": 1.0 },
+        "drink-note": { "effect": "entrance_fade", "order": 2 } } },
+    "09_color_and_legacy": { "groups": {
+      "color-rank": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.9 },
+      "tea-play": { "effect": "entrance_fade", "order": 2 },
+      "closing": { "effect": "entrance_fade", "order": 3, "duration": 0.8 } } }
+  }
+}

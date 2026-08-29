@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">波的叠加原理</text>
+    <path d="M62 116 Q180 110 316 115" fill="none" stroke="#9DDCE6" stroke-width="4" stroke-linecap="round"/>
+    <text x="360" y="96" font-size="22" fill="#B9C2B4">两列波相遇:各走各的,相遇处位移相加</text>
+  </g>
+  <g id="stage-before" data-pptx-bounds="60 170 580 150">
+    <text x="70" y="200" font-family="KaiTi" font-size="24" fill="#B9C2B4">① 相遇前</text>
+    <line x1="80" y1="290" x2="620" y2="290" stroke="#F3EFE4" stroke-width="2" stroke-opacity="0.6"/>
+    <path d="M160 290 L200 290 Q230 214 260 290 L300 290" fill="none" stroke="#9DDCE6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M400 290 L440 290 Q470 214 500 290 L540 290" fill="none" stroke="#F4A9A3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="300" y1="238" x2="340" y2="238" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round"/>
+    <polygon points="346,238 334,232 334,244" fill="#9DDCE6"/>
+    <line x1="400" y1="238" x2="360" y2="238" stroke="#F4A9A3" stroke-width="2.5" stroke-linecap="round"/>
+    <polygon points="354,238 366,232 366,244" fill="#F4A9A3"/>
+    <text x="150" y="222" font-size="18" fill="#9DDCE6">波 a</text>
+    <text x="512" y="222" font-size="18" fill="#F4A9A3">波 b</text>
+  </g>
+  <g id="stage-during" data-pptx-bounds="60 330 580 150">
+    <text x="70" y="360" font-family="KaiTi" font-size="24" fill="#B9C2B4">② 相遇时</text>
+    <line x1="80" y1="450" x2="620" y2="450" stroke="#F3EFE4" stroke-width="2" stroke-opacity="0.6"/>
+    <path d="M300 450 Q330 374 360 450" fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-dasharray="6,5" stroke-linecap="round"/>
+    <path d="M300 450 Q330 374 360 450" fill="none" stroke="#F4A9A3" stroke-width="2.5" stroke-dasharray="6,5" stroke-linecap="round" transform="translate(0 0)"/>
+    <path d="M260 450 L300 450 Q330 302 360 450 L400 450" fill="none" stroke="#F6D77A" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="330" y1="450" x2="330" y2="378" stroke="#F3EFE4" stroke-width="1.5" stroke-dasharray="3,3" stroke-opacity="0.7"/>
+    <line x1="330" y1="378" x2="330" y2="378" stroke="#F3EFE4" stroke-width="1.5"/>
+    <text x="376" y="392" font-size="20" fill="#F6D77A">位移 = y<tspan font-size="14" baseline-shift="sub">a</tspan> + y<tspan font-size="14" baseline-shift="sub">b</tspan></text>
+    <text x="376" y="422" font-size="17" fill="#B9C2B4">(矢量和,方向相反时相减)</text>
+  </g>
+  <g id="stage-after" data-pptx-bounds="60 490 580 150">
+    <text x="70" y="520" font-family="KaiTi" font-size="24" fill="#B9C2B4">③ 相遇后</text>
+    <line x1="80" y1="610" x2="620" y2="610" stroke="#F3EFE4" stroke-width="2" stroke-opacity="0.6"/>
+    <path d="M160 610 L200 610 Q230 534 260 610 L300 610" fill="none" stroke="#F4A9A3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M400 610 L440 610 Q470 534 500 610 L540 610" fill="none" stroke="#9DDCE6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="160" y1="558" x2="120" y2="558" stroke="#F4A9A3" stroke-width="2.5" stroke-linecap="round"/>
+    <polygon points="114,558 126,552 126,564" fill="#F4A9A3"/>
+    <line x1="540" y1="558" x2="580" y2="558" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round"/>
+    <polygon points="586,558 574,552 574,564" fill="#9DDCE6"/>
+    <text x="300" y="548" font-size="18" fill="#B9C2B4">波形、频率、速度都没变</text>
+  </g>
+  <g id="principle" data-pptx-bounds="670 170 300 470">
+    <path d="M674 176 L964 172 L968 634 L672 638 Z" fill="none" stroke="#F3EFE4" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.75"/>
+    <text x="700" y="222" font-family="KaiTi" font-size="28" fill="#F6D77A">叠加原理</text>
+    <path d="M700 234 Q760 230 812 234" fill="none" stroke="#F6D77A" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="700" y="284" font-size="22" fill="#F3EFE4">独立性</text>
+    <text x="700" y="316" font-size="19" fill="#B9C2B4">几列波相遇后仍保持各自<tspan x="700" dy="30">的运动状态,互不干扰。</tspan></text>
+    <text x="700" y="400" font-size="22" fill="#F3EFE4">可叠加性</text>
+    <text x="700" y="432" font-size="19" fill="#B9C2B4">相遇区域介质质点的位移,<tspan x="700" dy="30">等于各列波单独传播时引起</tspan><tspan x="700" dy="30">位移的矢量和。</tspan></text>
+    <use data-icon="tabler-outline/bulb" x="700" y="540" width="30" height="30" fill="#F6D77A"/>
+    <text x="740" y="562" font-size="18" fill="#F6D77A">同向叠加变高,<tspan x="740" dy="28">反向叠加变矮甚至为零</tspan></text>
+  </g>
+  <g id="takeaway" data-pptx-bounds="60 660 900 60">
+    <path d="M64 690 L80 690" stroke="#F6D77A" stroke-width="3" stroke-linecap="round"/>
+    <text x="94" y="698" font-size="21" fill="#F3EFE4">这条规则是后面"干涉"与"衍射"的全部根据:图样再复杂,也只是位移在相加。</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">04</text>
+</svg>

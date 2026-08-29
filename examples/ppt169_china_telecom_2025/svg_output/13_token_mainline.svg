@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei"
+  data-pptx-master="china_telecom_content_master" data-pptx-master-name="China Telecom Content"
+  data-pptx-layout="content" data-pptx-layout-name="Title and Content">
+  <rect id="content-master-background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-capsule" x="0" y="32" width="206" height="64" rx="24" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-lane" x="114" y="32" width="1166" height="64" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-gray-lane" x="206" y="39" width="1074" height="50" rx="22" fill="#D9D9D9"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="content-master-header-brand" x="1000" y="38" width="208" height="48"
+    href="../images/header_brand.png" preserveAspectRatio="xMaxYMid meet"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="content-master-footer-rule" x1="72" y1="650" x2="1208" y2="650" stroke="#D1D5DB"
+    stroke-width="1" data-pptx-layer="master" data-pptx-editable="false"/>
+
+  <rect id="content-panel" x="72" y="132" width="1136" height="486" rx="24"
+    fill="#F8FAFC" stroke="#D1D5DB" stroke-width="1"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent" x="1078" y="552" width="72" height="4" rx="2" fill="#C00000"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent-soft" x="1042" y="572" width="132" height="4" rx="2"
+    fill="#C00000" fill-opacity="0.24" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="content-section-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="40 44 146 40">
+    <text id="content-section-carrier" data-pptx-carrier="true"
+      x="40" y="72" fill="#FFFFFF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="22" font-weight="700">未来赛道</text>
+  </g>
+  <g id="content-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="228 44 714 40">
+    <text id="content-title-carrier" data-pptx-carrier="true"
+      x="228" y="72" fill="#2B2F33"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="24" font-weight="700">2026 年以 Token 服务为经营主线,打造领先的 AI 服务商</text>
+  </g>
+  <g id="content-object-slot" data-pptx-placeholder="object" data-pptx-idx="2"
+    data-pptx-bounds="96 156 1088 438">
+    <text id="content-object-carrier" data-pptx-carrier="true"
+      x="96" y="190" fill="#9CA3AF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="20"></text>
+  </g>
+
+  <g id="token-chain" data-pptx-bounds="96 176 1088 120">
+    <text x="640" y="196" text-anchor="middle" font-size="15" font-weight="bold" fill="#C00000">Token 服务:连接算力供给、模型能力与行业场景的新经营主线</text>
+    <line x1="356" y1="244" x2="510" y2="244" stroke="#C00000" stroke-width="2"/>
+    <line x1="770" y1="244" x2="924" y2="244" stroke="#C00000" stroke-width="2"/>
+    <rect x="96" y="212" width="260" height="64" fill="#FFFFFF" stroke="#111827" stroke-width="1"/>
+    <text x="226" y="252" text-anchor="middle" font-size="20" font-weight="bold" fill="#111827">算力供给</text>
+    <rect x="510" y="212" width="260" height="64" fill="#FFFFFF" stroke="#111827" stroke-width="1"/>
+    <text x="640" y="252" text-anchor="middle" font-size="20" font-weight="bold" fill="#111827">模型能力</text>
+    <rect x="924" y="212" width="260" height="64" fill="#FFFFFF" stroke="#111827" stroke-width="1"/>
+    <text x="1054" y="252" text-anchor="middle" font-size="20" font-weight="bold" fill="#111827">行业场景</text>
+  </g>
+  <g id="strategy-line" data-pptx-bounds="96 308 1088 48">
+    <text x="96" y="340" font-size="17" fill="#111827">2026 年全面实施“云改数转智惠”战略,深化五位一体智能云体系,推动智能化综合性数字信息基础设施升级</text>
+  </g>
+  <g id="conclusions-left" data-pptx-bounds="96 372 520 208">
+    <line x1="96" y1="372" x2="616" y2="372" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="96" y="410" font-family="Arial" font-size="22" font-weight="bold" fill="#C00000">01</text>
+    <text x="140" y="410" font-size="16" fill="#111827">稳健经营提供了转型所需的现金流与客户规模</text>
+    <text x="96" y="470" font-family="Arial" font-size="22" font-weight="bold" fill="#C00000">02</text>
+    <text x="140" y="470" font-size="16" fill="#111827">天翼云、AIDC、安全和智能业务构成第二增长曲线</text>
+    <text x="96" y="530" font-family="Arial" font-size="22" font-weight="bold" fill="#C00000">03</text>
+    <text x="140" y="530" font-size="16" fill="#111827">五位一体智能云把云网优势转译为可交付的 AI 能力</text>
+  </g>
+  <g id="conclusions-right" data-pptx-bounds="664 372 520 208">
+    <line x1="664" y1="372" x2="1184" y2="372" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="664" y="410" font-family="Arial" font-size="22" font-weight="bold" fill="#C00000">04</text>
+    <text x="708" y="410" font-size="16" fill="#111827">行业大模型与智能体使 AI+ 进入规模化商业应用</text>
+    <text x="664" y="470" font-family="Arial" font-size="22" font-weight="bold" fill="#C00000">05</text>
+    <text x="708" y="470" font-size="16" fill="#111827">量子、低空经济、卫星与 AI 安全扩展未来增长边界</text>
+    <text x="664" y="530" font-family="Arial" font-size="22" font-weight="bold" fill="#C00000">06</text>
+    <text x="708" y="530" font-size="16" fill="#111827">Token 服务成为连接算力、模型与行业场景的经营主线</text>
+  </g>
+
+  <g id="content-source-slot" data-pptx-placeholder="footer" data-pptx-idx="3"
+    data-pptx-bounds="72 658 720 28">
+    <text id="content-source-carrier" data-pptx-carrier="true"
+      x="72" y="678" fill="#6B7280"
+      font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">来源:中国电信《2025 年全年业绩公布》,2026-03-24</text>
+  </g>
+  <g id="content-slide-number-slot" data-pptx-placeholder="slide-number"
+    data-pptx-idx="4" data-pptx-bounds="1128 658 80 28">
+    <text id="content-slide-number-carrier" data-pptx-carrier="true"
+      x="1208" y="678" text-anchor="end" fill="#6B7280"
+      font-family="Arial, sans-serif" font-size="13">13</text>
+  </g>
+</svg>

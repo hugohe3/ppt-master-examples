@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="paper" x="0" y="0" width="1242" height="1660" fill="#F5EFE2" data-pptx-role="background"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 40">
+    <text x="96" y="126" font-size="26" letter-spacing="6" fill="#8A8378">宋 · 点茶 · 五</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 176 1050 130">
+    <text x="96" y="262" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">七汤 · 三 四</text>
+    <line x1="96" y1="300" x2="336" y2="300" stroke="#B3352B" stroke-width="3"/>
+  </g>
+
+  <g id="pour-three" data-pptx-bounds="96 360 1050 560">
+    <image href="../images/tang3.png" x="96" y="400" width="330" height="355" preserveAspectRatio="xMidYMid meet"/>
+    <text x="470" y="430" font-family="KaiTi" font-size="60" font-weight="bold" fill="#2B2A28">第三汤</text>
+    <text x="700" y="430" font-size="28" fill="#8A8378">粟文蟹眼</text>
+    <text x="470" y="500" font-family="KaiTi" font-size="32" fill="#2B2A28">“多置,如前击拂,渐贵轻匀,周环旋复,<tspan x="470" dy="46">表里洞彻,粟文蟹眼,泛结杂起,</tspan><tspan x="470" dy="46">茶之色十已得其六七。”</tspan></text>
+    <text x="470" y="690" font-size="30" fill="#2B2A28">水可以多注一些;击拂从有力转向轻而匀,<tspan x="470" dy="46">绕着盏打透里外。沫子细成小米粒、蟹眼状,</tspan><tspan x="470" dy="46">茶色到这里已成了六七分。</tspan></text>
+  </g>
+  <line id="pour-divider" x1="96" y1="960" x2="1146" y2="960" stroke="#C9BFAA" stroke-width="2" data-pptx-role="decoration"/>
+  <g id="pour-four" data-pptx-bounds="96 1000 1050 520">
+    <image href="../images/tang4.png" x="96" y="1040" width="330" height="355" preserveAspectRatio="xMidYMid meet"/>
+    <text x="470" y="1070" font-family="KaiTi" font-size="60" font-weight="bold" fill="#2B2A28">第四汤</text>
+    <text x="700" y="1070" font-size="28" fill="#8A8378">云雾渐生</text>
+    <text x="470" y="1140" font-family="KaiTi" font-size="32" fill="#2B2A28">“尚啬,筅欲转稍宽而勿速,<tspan x="470" dy="46">其清真华彩,既已焕发,云雾渐生。”</tspan></text>
+    <text x="470" y="1290" font-size="30" fill="#2B2A28">这一汤水要少;茶筅转得幅度稍大、速度放慢。<tspan x="470" dy="46">茶的清真华彩已经焕发出来,</tspan><tspan x="470" dy="46">沫子像云雾一样慢慢升起。</tspan></text>
+    <text x="470" y="1470" font-size="26" fill="#8A8378">现代复原:第四汤注水要少</text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#8A8378">引文出自《大观茶论·点》;盏面为示意插画</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#8A8378">06 / 09</text>
+  </g>
+</svg>

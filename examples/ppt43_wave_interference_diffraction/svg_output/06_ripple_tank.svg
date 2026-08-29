@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">水波的干涉实验</text>
+    <path d="M62 116 Q200 110 358 115" fill="none" stroke="#F4A9A3" stroke-width="4" stroke-linecap="round"/>
+    <text x="400" y="96" font-size="22" fill="#B9C2B4">发波水槽 · 两个振动完全相同的波源</text>
+  </g>
+  <g id="ripple-photo" data-pptx-bounds="60 170 530 400">
+    <g transform="rotate(-2 320 340)">
+      <rect x="80" y="182" width="484" height="316" fill="none" stroke="#F3EFE4" stroke-width="3" stroke-linecap="round" stroke-opacity="0.85"/>
+      <image href="../images/ripple_interference.jpg" x="88" y="190" width="468" height="300" preserveAspectRatio="xMidYMid slice"/>
+      <circle cx="322" cy="184" r="7" fill="#F6D77A"/>
+    </g>
+    <text x="82" y="546" font-size="18" fill="#B9C2B4">双源干涉实拍:亮暗相间的条带 = 加强区与减弱区</text>
+  </g>
+  <g id="setup" data-pptx-bounds="630 170 340 190">
+    <text x="640" y="198" font-family="KaiTi" font-size="26" fill="#9DDCE6">怎么做</text>
+    <path d="M640 208 Q672 205 700 208" fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="640" y="246" font-size="20" fill="#F3EFE4">1  一根振动杆带动两个小球</text>
+    <text x="668" y="274" font-size="18" fill="#B9C2B4">S₁、S₂ 同时上下振动</text>
+    <text x="640" y="314" font-size="20" fill="#F3EFE4">2  两列频率相同的圆形波</text>
+    <text x="668" y="342" font-size="18" fill="#B9C2B4">在水面上交叠、传播</text>
+  </g>
+  <g id="observe" data-pptx-bounds="630 380 340 190">
+    <text x="640" y="408" font-family="KaiTi" font-size="26" fill="#F4A9A3">看到什么</text>
+    <path d="M640 418 Q700 415 748 418" fill="none" stroke="#F4A9A3" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="640" y="456" font-size="20" fill="#F3EFE4">·  有些区域水面起伏很大</text>
+    <text x="668" y="484" font-size="18" fill="#B9C2B4">振动总是加强</text>
+    <text x="640" y="524" font-size="20" fill="#F3EFE4">·  有些区域几乎平静</text>
+    <text x="668" y="552" font-size="18" fill="#B9C2B4">振动总是减弱</text>
+  </g>
+  <g id="conclusion" data-pptx-bounds="60 600 900 110">
+    <path d="M66 608 L954 604 L958 702 L62 706 Z" fill="none" stroke="#F6D77A" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9"/>
+    <use data-icon="tabler-outline/eye" x="88" y="636" width="40" height="40" fill="#F6D77A"/>
+    <text x="150" y="646" font-size="24" fill="#F3EFE4">加强区与减弱区<tspan fill="#F6D77A" font-weight="bold">相间分布</tspan>,而且位置<tspan fill="#F6D77A" font-weight="bold">稳定不变</tspan>。</text>
+    <text x="150" y="684" font-size="19" fill="#B9C2B4">这种稳定的图样叫作干涉图样;只有"稳定"才算干涉,只是短暂叠加不算。</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">06</text>
+</svg>

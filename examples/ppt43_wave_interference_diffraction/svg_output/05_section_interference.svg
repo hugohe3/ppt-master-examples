@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="section">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="corner-waves" data-pptx-role="decoration" data-pptx-bounds="600 0 424 330">
+    <g fill="none" stroke="#F4A9A3" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.4">
+      <path d="M1024 60 A190 190 0 0 0 894 0"/>
+      <path d="M1024 120 A250 250 0 0 0 818 0"/>
+      <path d="M1024 180 A310 310 0 0 0 754 0"/>
+    </g>
+    <g fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.4">
+      <path d="M700 0 A120 120 0 0 0 940 0"/>
+      <path d="M640 0 A180 180 0 0 0 1000 0"/>
+      <path d="M600 0 A220 220 0 0 0 1024 40"/>
+    </g>
+  </g>
+  <g id="section-number" data-pptx-bounds="80 140 200 240">
+    <text x="90" y="310" font-family="KaiTi" font-size="150" fill="#F4A9A3" fill-opacity="0.35">二</text>
+  </g>
+  <g id="section-title" data-pptx-bounds="300 190 560 160">
+    <text x="320" y="300" font-family="KaiTi" font-size="60" font-weight="bold" fill="#F3EFE4">波的干涉</text>
+    <path d="M306 250 C330 208 520 196 600 226 C660 246 640 320 540 330 C420 342 330 336 306 296 Z" fill="none" stroke="#F6D77A" stroke-width="3.5" stroke-linecap="round" stroke-opacity="0.9"/>
+  </g>
+  <g id="lead-question" data-pptx-bounds="80 420 860 120">
+    <use data-icon="tabler-outline/help-circle" x="80" y="428" width="40" height="40" fill="#F6D77A"/>
+    <text x="136" y="458" font-size="28" fill="#F3EFE4">把两块石子同时扔进平静的水里,<tspan x="136" dy="46">两圈涟漪交叠的地方,会出现什么图样?</tspan></text>
+  </g>
+  <g id="section-hint" data-pptx-bounds="80 600 700 44">
+    <path d="M84 606 L96 606" stroke="#B9C2B4" stroke-width="2"/>
+    <text x="110" y="630" font-size="20" fill="#B9C2B4">关键词是"稳定":有些地方总在加强,有些地方总在减弱</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">05</text>
+</svg>

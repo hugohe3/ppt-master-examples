@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="paper" x="0" y="0" width="1242" height="1660" fill="#F5EFE2" data-pptx-role="background"/>
+  <path id="brush-sweep" data-pptx-role="decoration"
+    d="M-40 1240 C180 1120 360 1180 520 1060 C700 920 860 1010 1040 860 C1130 790 1210 740 1290 700 L1290 790 C1180 850 1090 930 960 1040 C820 1160 690 1090 540 1180 C380 1280 190 1300 -40 1330 Z"
+    fill="#2B2A28" fill-opacity="0.05"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 40">
+    <text x="96" y="126" font-size="26" letter-spacing="6" fill="#8A8378">宋 · 点茶 · 一</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 176 1050 260">
+    <text x="96" y="262" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">点茶,<tspan x="96" dy="110">宋人的四般闲事之一</tspan></text>
+    <line x1="96" y1="414" x2="336" y2="414" stroke="#B3352B" stroke-width="3"/>
+  </g>
+  <g id="definition" data-pptx-bounds="96 470 1050 300">
+    <text x="96" y="512" font-size="44" fill="#2B2A28">把茶末放入盏中,加少量沸水调成浓膏,<tspan x="96" dy="70">再分次注水、用茶筅击拂,</tspan><tspan x="96" dy="70">让茶面泛起一层白色汤花——这就是点茶。</tspan></text>
+    <text x="96" y="738" font-size="30" fill="#8A8378">宋人把它与插花、鉴古、品香并称“四般闲事”。</text>
+  </g>
+  <g id="bowl-accent" data-pptx-bounds="842 800 300 322">
+    <image href="../images/tang4.png" x="842" y="800" width="300" height="322" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="book-note" data-pptx-bounds="96 820 700 300">
+    <text x="96" y="860" font-family="KaiTi" font-size="40" fill="#2B2A28">《大观茶论》</text>
+    <text x="96" y="924" font-size="30" fill="#2B2A28">宋徽宗赵佶著,成于大观年间(1107—1110),<tspan x="96" dy="48">原名《茶论》,全书二十篇——</tspan><tspan x="96" dy="48">世界上唯一由在位帝王写下的茶学专著。</tspan></text>
+    <text x="96" y="1096" font-size="30" fill="#8A8378">其中“点”篇,记下了七次注汤的全部手法。</text>
+  </g>
+  <g id="timeline" data-pptx-bounds="96 1210 1050 300">
+    <line x1="110" y1="1300" x2="1132" y2="1300" stroke="#C9BFAA" stroke-width="2"/>
+    <circle cx="240" cy="1300" r="12" fill="#B3352B"/>
+    <circle cx="620" cy="1300" r="12" fill="none" stroke="#2B2A28" stroke-width="3"/>
+    <circle cx="1000" cy="1300" r="12" fill="none" stroke="#2B2A28" stroke-width="3"/>
+    <text x="240" y="1258" text-anchor="middle" font-family="KaiTi" font-size="40" fill="#2B2A28">宋</text>
+    <text x="620" y="1258" text-anchor="middle" font-family="KaiTi" font-size="40" fill="#2B2A28">明及以后</text>
+    <text x="1000" y="1258" text-anchor="middle" font-family="KaiTi" font-size="40" fill="#2B2A28">日本</text>
+    <text x="240" y="1362" text-anchor="middle" font-size="28" fill="#8A8378">盛行,列入四般闲事</text>
+    <text x="620" y="1362" text-anchor="middle" font-size="28" fill="#8A8378">逐渐式微</text>
+    <text x="1000" y="1362" text-anchor="middle" font-size="28" fill="#8A8378">延续为茶道主要茶艺</text>
+    <text x="96" y="1470" font-size="28" fill="#8A8378">这套手法在中国明代以后几乎失传,却在日本茶道里保留至今。</text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#8A8378">据《大观茶论》、维基百科“点茶”“大观茶论”条目整理</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#8A8378">02 / 09</text>
+  </g>
+</svg>

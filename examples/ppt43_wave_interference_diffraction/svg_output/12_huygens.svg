@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">为什么会绕过去:惠更斯原理</text>
+    <path d="M62 116 Q300 110 610 115" fill="none" stroke="#F6D77A" stroke-width="4" stroke-linecap="round"/>
+    <text x="640" y="96" font-size="22" fill="#B9C2B4">把波面拆成无数个小波源</text>
+  </g>
+  <g id="wavelet-diagram" data-pptx-bounds="60 160 560 380">
+    <text x="80" y="190" font-size="18" fill="#B9C2B4">t 时刻的波面</text>
+    <line x1="100" y1="240" x2="580" y2="240" stroke="#F3EFE4" stroke-width="4" stroke-linecap="round"/>
+    <g fill="none" stroke="#9DDCE6" stroke-width="2" stroke-dasharray="6,5" stroke-opacity="0.8">
+      <path d="M100 240 A60 60 0 0 0 220 240"/>
+      <path d="M196 240 A60 60 0 0 0 316 240"/>
+      <path d="M292 240 A60 60 0 0 0 412 240"/>
+      <path d="M388 240 A60 60 0 0 0 508 240"/>
+      <path d="M484 240 A60 60 0 0 0 604 240"/>
+    </g>
+    <g fill="#F6D77A">
+      <circle cx="160" cy="240" r="5"/>
+      <circle cx="256" cy="240" r="5"/>
+      <circle cx="352" cy="240" r="5"/>
+      <circle cx="448" cy="240" r="5"/>
+      <circle cx="544" cy="240" r="5"/>
+    </g>
+    <line x1="100" y1="300" x2="580" y2="300" stroke="#F6D77A" stroke-width="4" stroke-linecap="round"/>
+    <text x="80" y="336" font-size="18" fill="#F6D77A">t + Δt 时刻的新波面 = 所有子波的包络面</text>
+    <text x="80" y="390" font-size="17" fill="#B9C2B4">遇到缝时:</text>
+    <g stroke="#F3EFE4" stroke-width="6" stroke-linecap="round">
+      <line x1="100" y1="440" x2="300" y2="440"/>
+      <line x1="340" y1="440" x2="580" y2="440"/>
+    </g>
+    <circle cx="320" cy="440" r="5" fill="#F6D77A"/>
+    <g fill="none" stroke="#9DDCE6" stroke-width="2.5" stroke-linecap="round">
+      <path d="M290 440 A30 30 0 0 0 350 440"/>
+      <path d="M260 440 A60 60 0 0 0 380 440"/>
+      <path d="M230 440 A90 90 0 0 0 410 440"/>
+    </g>
+    <text x="430" y="500" font-size="17" fill="#B9C2B4">缝里只剩一个子波源,<tspan x="430" dy="26">当然向四面八方传播</tspan></text>
+  </g>
+  <g id="principle" data-pptx-bounds="660 160 300 200">
+    <path d="M664 168 L956 164 L960 352 L662 356 Z" fill="none" stroke="#F6D77A" stroke-width="3" stroke-linecap="round" stroke-opacity="0.9"/>
+    <text x="686" y="204" font-family="KaiTi" font-size="26" fill="#F6D77A">惠更斯原理</text>
+    <text x="686" y="248" font-size="19" fill="#F3EFE4">介质中波面上的各点,都可<tspan x="686" dy="30">以看作发射子波的波源;</tspan><tspan x="686" dy="30">之后任一时刻,这些子波的</tspan><tspan x="686" dy="30">包络面就是新的波面。</tspan></text>
+  </g>
+  <g id="use-diffraction" data-pptx-bounds="660 380 300 150">
+    <text x="686" y="410" font-family="KaiTi" font-size="24" fill="#9DDCE6">解释衍射</text>
+    <text x="686" y="448" font-size="18" fill="#F3EFE4">缝越窄,留下的子波源越少,<tspan x="686" dy="28">圆形子波越"露出来",</tspan><tspan x="686" dy="28">衍射就越明显。</tspan></text>
+  </g>
+  <g id="use-coherence" data-pptx-bounds="60 560 900 150">
+    <path d="M64 566 L958 562 L962 700 L62 704 Z" fill="none" stroke="#F3EFE4" stroke-width="2" stroke-dasharray="4,4" stroke-opacity="0.6"/>
+    <use data-icon="tabler-outline/bulb" x="84" y="590" width="36" height="36" fill="#F6D77A"/>
+    <text x="136" y="600" font-family="KaiTi" font-size="24" fill="#F6D77A">留一个伏笔:怎样得到两个相干波源?</text>
+    <text x="136" y="640" font-size="19" fill="#F3EFE4">让同一列波先穿过一个小孔或狭缝,再穿过两个——两个缝上的子波来自同一个波面,<tspan x="136" dy="30">步调天然一致。这叫"分波前",正是杨氏双缝实验的做法。</tspan></text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">12</text>
+</svg>

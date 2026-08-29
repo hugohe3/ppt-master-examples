@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">薄膜干涉:肥皂泡为什么是彩色的</text>
+    <path d="M62 116 Q360 110 690 115" fill="none" stroke="#F4A9A3" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g id="soap-photo" data-pptx-bounds="60 160 420 340">
+    <rect x="68" y="168" width="404" height="276" fill="none" stroke="#F3EFE4" stroke-width="2.5" stroke-opacity="0.8"/>
+    <image href="../images/soap_bubble_film.jpg" x="74" y="174" width="392" height="264" preserveAspectRatio="xMidYMid slice"/>
+    <circle cx="270" cy="170" r="6" fill="#F6D77A"/>
+    <text x="68" y="474" font-size="17" fill="#F3EFE4">皂膜表面的彩色条带(实拍微距)</text>
+  </g>
+  <g id="film-diagram" data-pptx-bounds="520 160 440 340">
+    <text x="530" y="188" font-size="18" fill="#B9C2B4">薄膜截面</text>
+    <line x1="540" y1="260" x2="950" y2="260" stroke="#9DDCE6" stroke-width="4" stroke-linecap="round"/>
+    <line x1="540" y1="340" x2="950" y2="340" stroke="#9DDCE6" stroke-width="4" stroke-linecap="round"/>
+    <text x="864" y="252" font-size="15" fill="#9DDCE6">上表面</text>
+    <text x="864" y="362" font-size="15" fill="#9DDCE6">下表面</text>
+    <line x1="700" y1="290" x2="700" y2="310" stroke="#B9C2B4" stroke-width="1.5"/>
+    <text x="708" y="306" font-size="15" fill="#B9C2B4">膜厚 d(很薄)</text>
+    <g stroke="#F6D77A" stroke-width="3" stroke-linecap="round">
+      <line x1="560" y1="196" x2="620" y2="260"/>
+      <line x1="620" y1="260" x2="684" y2="196"/>
+      <line x1="620" y1="260" x2="660" y2="340"/>
+      <line x1="660" y1="340" x2="700" y2="260"/>
+      <line x1="700" y1="260" x2="764" y2="196"/>
+    </g>
+    <polygon points="688,192 676,194 684,204" fill="#F6D77A"/>
+    <polygon points="768,192 756,194 764,204" fill="#F6D77A"/>
+    <text x="536" y="190" font-size="15" fill="#F6D77A">入射光</text>
+    <text x="640" y="182" font-size="15" fill="#F6D77A">反射光 ①</text>
+    <text x="722" y="182" font-size="15" fill="#F6D77A">反射光 ②</text>
+    <text x="530" y="400" font-size="18" fill="#F3EFE4">① 和 ② 来自同一束光,是相干光;</text>
+    <text x="530" y="428" font-size="18" fill="#F3EFE4">② 多走了约 2d 的路程,二者叠加就会干涉。</text>
+    <text x="530" y="470" font-size="16" fill="#B9C2B4">某种颜色的光加强,膜就显出那种颜色。</text>
+  </g>
+  <g id="why-colors" data-pptx-bounds="60 520 440 190">
+    <text x="70" y="550" font-family="KaiTi" font-size="24" fill="#F4A9A3">为什么是彩色、还会流动</text>
+    <text x="70" y="590" font-size="18" fill="#F3EFE4">膜的厚度处处不同,不同波长的光<tspan x="70" dy="28">在各处的干涉结果不同,于是反射出</tspan><tspan x="70" dy="28">不同颜色;膜在流动,颜色也跟着变。</tspan></text>
+    <text x="70" y="684" font-size="16" fill="#B9C2B4">同理:水面上的油膜、光盘表面的彩虹色</text>
+  </g>
+  <g id="applications" data-pptx-bounds="520 520 440 190">
+    <text x="530" y="550" font-family="KaiTi" font-size="24" fill="#9DDCE6">用起来</text>
+    <use data-icon="tabler-outline/ruler-measure" x="530" y="572" width="30" height="30" fill="#F3EFE4"/>
+    <text x="572" y="594" font-size="18" fill="#F3EFE4">测薄膜的厚度和折射率</text>
+    <use data-icon="tabler-outline/eye" x="530" y="616" width="30" height="30" fill="#F3EFE4"/>
+    <text x="572" y="638" font-size="18" fill="#F3EFE4">镜头上的增透膜:让某些反射光相消</text>
+    <use data-icon="tabler-outline/rainbow" x="530" y="660" width="30" height="30" fill="#F3EFE4"/>
+    <text x="572" y="682" font-size="18" fill="#F3EFE4">滤光器:只让特定颜色通过</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">17</text>
+</svg>

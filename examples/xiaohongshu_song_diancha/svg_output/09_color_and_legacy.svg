@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <rect id="paper" x="0" y="0" width="1242" height="1660" fill="#F5EFE2" data-pptx-role="background"/>
+  <path id="brush-sweep" data-pptx-role="decoration"
+    d="M-40 560 C160 470 330 520 500 430 C690 330 850 400 1030 300 C1120 250 1200 220 1290 200 L1290 280 C1190 320 1100 380 970 460 C820 550 690 490 530 570 C370 650 180 660 -40 700 Z"
+    fill="#2B2A28" fill-opacity="0.05"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 40">
+    <text x="96" y="126" font-size="26" letter-spacing="6" fill="#8A8378">宋 · 点茶 · 终</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 176 1050 240">
+    <text x="96" y="262" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">点成什么样,</text>
+    <text x="96" y="372" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">才算好?</text>
+    <line x1="96" y1="414" x2="336" y2="414" stroke="#B3352B" stroke-width="3"/>
+  </g>
+
+  <g id="color-rank" data-pptx-bounds="96 470 1050 400">
+    <text x="96" y="510" font-family="KaiTi" font-size="36" fill="#2B2A28">“点茶之色,以纯白为上真,<tspan x="96" dy="50">青白为次,灰白次之,黄白又次之。”</tspan></text>
+    <circle cx="200" cy="680" r="70" fill="#FFFFFF" stroke="#2B2A28" stroke-width="2"/>
+    <circle cx="480" cy="680" r="70" fill="#E9EEEA" stroke="#C9BFAA" stroke-width="2"/>
+    <circle cx="760" cy="680" r="70" fill="#DDD9D0" stroke="#C9BFAA" stroke-width="2"/>
+    <circle cx="1040" cy="680" r="70" fill="#E6DDB8" stroke="#C9BFAA" stroke-width="2"/>
+    <line x1="290" y1="680" x2="390" y2="680" stroke="#C9BFAA" stroke-width="2"/>
+    <line x1="570" y1="680" x2="670" y2="680" stroke="#C9BFAA" stroke-width="2"/>
+    <line x1="850" y1="680" x2="950" y2="680" stroke="#C9BFAA" stroke-width="2"/>
+    <text x="200" y="800" text-anchor="middle" font-family="KaiTi" font-size="40" font-weight="bold" fill="#2B2A28">纯白</text>
+    <text x="480" y="800" text-anchor="middle" font-family="KaiTi" font-size="40" fill="#2B2A28">青白</text>
+    <text x="760" y="800" text-anchor="middle" font-family="KaiTi" font-size="40" fill="#2B2A28">灰白</text>
+    <text x="1040" y="800" text-anchor="middle" font-family="KaiTi" font-size="40" fill="#2B2A28">黄白</text>
+    <text x="200" y="844" text-anchor="middle" font-size="26" fill="#B3352B">上真</text>
+  </g>
+  <g id="tea-play" data-pptx-bounds="96 880 1050 260">
+    <text x="96" y="920" font-family="KaiTi" font-size="44" fill="#2B2A28">茶百戏</text>
+    <text x="96" y="984" font-size="30" fill="#2B2A28">汤花既成,文人便在这层白沫上画花鸟鱼虫,<tspan x="96" dy="48">称“茶百戏”,又叫“水丹青”——一盏茶,也是一幅画。</tspan></text>
+    <text x="96" y="1110" font-size="28" fill="#8A8378">篇末引《桐君录》:“茗有饽,饮之宜人,虽多不为过也。”</text>
+  </g>
+  <g id="closing" data-pptx-bounds="96 1190 1050 320">
+    <line x1="96" y1="1190" x2="1146" y2="1190" stroke="#C9BFAA" stroke-width="2"/>
+    <text x="96" y="1270" font-family="KaiTi" font-size="52" font-weight="bold" fill="#2B2A28">七次注汤,一盏白雪。</text>
+    <text x="96" y="1350" font-size="30" fill="#2B2A28">这套手法明代以后在中国逐渐失传,<tspan x="96" dy="48">却在日本茶道里被保留下来,延续至今。</tspan></text>
+    <rect x="1050" y="1400" width="96" height="96" fill="#B3352B"/>
+    <text x="1098" y="1470" text-anchor="middle" font-family="KaiTi" font-size="56" font-weight="bold" fill="#F5EFE2">茶</text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#8A8378">据《大观茶论》色、点篇及闽北日报、维基百科整理</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#8A8378">09 / 09</text>
+  </g>
+</svg>

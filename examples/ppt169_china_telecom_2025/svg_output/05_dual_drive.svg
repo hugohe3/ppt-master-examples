@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei"
+  data-pptx-master="china_telecom_content_master" data-pptx-master-name="China Telecom Content"
+  data-pptx-layout="content" data-pptx-layout-name="Title and Content">
+  <rect id="content-master-background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-capsule" x="0" y="32" width="206" height="64" rx="24" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-lane" x="114" y="32" width="1166" height="64" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-gray-lane" x="206" y="39" width="1074" height="50" rx="22" fill="#D9D9D9"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="content-master-header-brand" x="1000" y="38" width="208" height="48"
+    href="../images/header_brand.png" preserveAspectRatio="xMaxYMid meet"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="content-master-footer-rule" x1="72" y1="650" x2="1208" y2="650" stroke="#D1D5DB"
+    stroke-width="1" data-pptx-layer="master" data-pptx-editable="false"/>
+
+  <rect id="content-panel" x="72" y="132" width="1136" height="486" rx="24"
+    fill="#F8FAFC" stroke="#D1D5DB" stroke-width="1"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent" x="1078" y="552" width="72" height="4" rx="2" fill="#C00000"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent-soft" x="1042" y="572" width="132" height="4" rx="2"
+    fill="#C00000" fill-opacity="0.24" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="content-section-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="40 44 146 40">
+    <text id="content-section-carrier" data-pptx-carrier="true"
+      x="40" y="72" fill="#FFFFFF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="22" font-weight="700">经营底盘</text>
+  </g>
+  <g id="content-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="228 44 714 40">
+    <text id="content-title-carrier" data-pptx-carrier="true"
+      x="228" y="72" fill="#2B2F33"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="24" font-weight="700">基础业务与产业数字化形成双轮驱动</text>
+  </g>
+  <g id="content-object-slot" data-pptx-placeholder="object" data-pptx-idx="2"
+    data-pptx-bounds="96 156 1088 438">
+    <text id="content-object-carrier" data-pptx-carrier="true"
+      x="96" y="190" fill="#9CA3AF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="20"></text>
+  </g>
+
+  <g id="field-basic" data-pptx-bounds="96 176 520 300">
+    <text x="96" y="200" font-size="17" fill="#6B7280">基础业务收入</text>
+    <text x="96" y="262" font-family="Arial" font-size="52" font-weight="bold" fill="#C00000">3305<tspan font-size="22" font-weight="normal" fill="#6B7280"> 亿元</tspan><tspan font-family="Microsoft YaHei" font-size="17" font-weight="normal" fill="#111827">  同比 +0.7%</tspan></text>
+    <text x="96" y="300" font-size="17" font-weight="bold" fill="#111827">提供规模与现金流</text>
+    <use data-icon="tabler-outline/device-mobile" x="96" y="332" width="30" height="30" fill="#C00000"/>
+    <text x="140" y="354" font-size="17" fill="#111827">移动用户 <tspan font-family="Arial" font-weight="bold">4.39</tspan> 亿户 · 5G 网络用户渗透率 <tspan font-family="Arial" font-weight="bold">68.8%</tspan></text>
+    <use data-icon="tabler-outline/router" x="96" y="384" width="30" height="30" fill="#C00000"/>
+    <text x="140" y="406" font-size="17" fill="#111827">宽带用户 <tspan font-family="Arial" font-weight="bold">2.01</tspan> 亿户 · 千兆用户渗透率 <tspan font-family="Arial" font-weight="bold">31.6%</tspan></text>
+    <text x="96" y="458" font-size="15" fill="#6B7280">连接规模仍是现金流与客户基础的来源</text>
+  </g>
+  <g id="field-divider" data-pptx-bounds="636 184 8 292">
+    <line x1="640" y1="184" x2="640" y2="476" stroke="#D1D5DB" stroke-width="1"/>
+  </g>
+  <g id="field-digital" data-pptx-bounds="664 176 520 300">
+    <text x="664" y="200" font-size="17" fill="#6B7280">产业数字化业务收入</text>
+    <text x="664" y="262" font-family="Arial" font-size="52" font-weight="bold" fill="#111827">1473<tspan font-size="22" font-weight="normal" fill="#6B7280"> 亿元</tspan><tspan font-family="Microsoft YaHei" font-size="17" font-weight="normal">  同比 +0.5%</tspan></text>
+    <text x="664" y="300" font-size="17" font-weight="bold" fill="#111827">承接云、算力、安全与智能化需求</text>
+    <use data-icon="tabler-outline/cloud" x="664" y="332" width="30" height="30" fill="#C00000"/>
+    <use data-icon="tabler-outline/server-2" x="708" y="332" width="30" height="30" fill="#C00000"/>
+    <use data-icon="tabler-outline/shield-lock" x="752" y="332" width="30" height="30" fill="#C00000"/>
+    <use data-icon="tabler-outline/brain" x="796" y="332" width="30" height="30" fill="#C00000"/>
+    <text x="840" y="354" font-size="15" fill="#6B7280">云 · 算力 · 安全 · 智能化</text>
+    <text x="664" y="406" font-size="17" fill="#111827">其中资源型收入 <tspan font-family="Arial" font-weight="bold">630</tspan> 亿元,同比 <tspan font-family="Arial" font-weight="bold" fill="#C00000">+1.1%</tspan></text>
+    <text x="664" y="458" font-size="15" fill="#6B7280">增长逻辑正在从连接规模迁向智能云能力</text>
+  </g>
+  <g id="dual-takeaway" data-pptx-bounds="96 500 1088 70">
+    <line x1="96" y1="500" x2="1184" y2="500" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="96" y="544" font-size="21" font-weight="bold" fill="#111827">基础业务提供规模与现金流,产业数字化承接智能化需求,<tspan fill="#C00000">两者共同构成转型底盘</tspan></text>
+  </g>
+
+  <g id="content-source-slot" data-pptx-placeholder="footer" data-pptx-idx="3"
+    data-pptx-bounds="72 658 720 28">
+    <text id="content-source-carrier" data-pptx-carrier="true"
+      x="72" y="678" fill="#6B7280"
+      font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">来源:中国电信《2025 年全年业绩公布》,2026-03-24</text>
+  </g>
+  <g id="content-slide-number-slot" data-pptx-placeholder="slide-number"
+    data-pptx-idx="4" data-pptx-bounds="1128 658 80 28">
+    <text id="content-slide-number-carrier" data-pptx-carrier="true"
+      x="1208" y="678" text-anchor="end" fill="#6B7280"
+      font-family="Arial, sans-serif" font-size="13">05</text>
+  </g>
+</svg>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei"
+  data-pptx-master="china_telecom_content_master" data-pptx-master-name="China Telecom Content"
+  data-pptx-layout="content" data-pptx-layout-name="Title and Content">
+  <rect id="content-master-background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-capsule" x="0" y="32" width="206" height="64" rx="24" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-red-lane" x="114" y="32" width="1166" height="64" fill="#C00000"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="content-master-gray-lane" x="206" y="39" width="1074" height="50" rx="22" fill="#D9D9D9"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="content-master-header-brand" x="1000" y="38" width="208" height="48"
+    href="../images/header_brand.png" preserveAspectRatio="xMaxYMid meet"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="content-master-footer-rule" x1="72" y1="650" x2="1208" y2="650" stroke="#D1D5DB"
+    stroke-width="1" data-pptx-layer="master" data-pptx-editable="false"/>
+
+  <rect id="content-panel" x="72" y="132" width="1136" height="486" rx="24"
+    fill="#F8FAFC" stroke="#D1D5DB" stroke-width="1"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent" x="1078" y="552" width="72" height="4" rx="2" fill="#C00000"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="content-panel-accent-soft" x="1042" y="572" width="132" height="4" rx="2"
+    fill="#C00000" fill-opacity="0.24" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="content-section-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="40 44 146 40">
+    <text id="content-section-carrier" data-pptx-carrier="true"
+      x="40" y="72" fill="#FFFFFF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="22" font-weight="700">经营底盘</text>
+  </g>
+  <g id="content-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="228 44 714 40">
+    <text id="content-title-carrier" data-pptx-carrier="true"
+      x="228" y="72" fill="#2B2F33"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="24" font-weight="700">经营底盘稳健:收入 5296 亿元,盈利与现金流稳定</text>
+  </g>
+  <g id="content-object-slot" data-pptx-placeholder="object" data-pptx-idx="2"
+    data-pptx-bounds="96 156 1088 438">
+    <text id="content-object-carrier" data-pptx-carrier="true"
+      x="96" y="190" fill="#9CA3AF"
+      font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif"
+      font-size="20"></text>
+  </g>
+
+  <g id="kpi-revenue" data-pptx-bounds="96 176 260 190">
+    <rect x="96" y="176" width="260" height="4" fill="#C00000"/>
+    <text x="96" y="216" font-size="17" fill="#6B7280">经营收入</text>
+    <text x="96" y="286" font-family="Arial" font-size="56" font-weight="bold" fill="#C00000">5296<tspan font-size="22" font-weight="normal" fill="#6B7280"> 亿元</tspan></text>
+    <text x="96" y="330" font-size="17" fill="#111827">收入端保持韧性</text>
+  </g>
+  <g id="kpi-service" data-pptx-bounds="372 176 260 190">
+    <rect x="372" y="176" width="260" height="4" fill="#D9D9D9"/>
+    <text x="372" y="216" font-size="17" fill="#6B7280">服务收入</text>
+    <text x="372" y="286" font-family="Arial" font-size="56" font-weight="bold" fill="#111827">4854<tspan font-size="22" font-weight="normal" fill="#6B7280"> 亿元</tspan></text>
+    <text x="372" y="330" font-size="17" fill="#111827">同比 <tspan fill="#C00000" font-weight="bold">+0.7%</tspan></text>
+  </g>
+  <g id="kpi-ebitda" data-pptx-bounds="648 176 260 190">
+    <rect x="648" y="176" width="260" height="4" fill="#D9D9D9"/>
+    <text x="648" y="216" font-size="17" fill="#6B7280">EBITDA</text>
+    <text x="648" y="286" font-family="Arial" font-size="56" font-weight="bold" fill="#111827">1439<tspan font-size="22" font-weight="normal" fill="#6B7280"> 亿元</tspan></text>
+    <text x="648" y="330" font-size="17" fill="#111827">同比 <tspan fill="#C00000" font-weight="bold">+2.1%</tspan></text>
+  </g>
+  <g id="kpi-profit" data-pptx-bounds="924 176 260 190">
+    <rect x="924" y="176" width="260" height="4" fill="#D9D9D9"/>
+    <text x="924" y="216" font-size="17" fill="#6B7280">净利润</text>
+    <text x="924" y="286" font-family="Arial" font-size="56" font-weight="bold" fill="#111827">332<tspan font-size="22" font-weight="normal" fill="#6B7280"> 亿元</tspan></text>
+    <text x="924" y="330" font-size="17" fill="#111827">同比 <tspan fill="#C00000" font-weight="bold">+0.5%</tspan></text>
+  </g>
+
+  <g id="capex-cashflow" data-pptx-bounds="96 392 640 120">
+    <line x1="96" y1="392" x2="736" y2="392" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="96" y="432" font-size="17" fill="#6B7280">资本开支</text>
+    <text x="96" y="480" font-family="Arial" font-size="36" font-weight="bold" fill="#111827">804<tspan font-size="18" font-weight="normal" fill="#6B7280"> 亿元</tspan></text>
+    <text x="400" y="432" font-size="17" fill="#6B7280">自由现金流</text>
+    <text x="400" y="480" font-family="Arial" font-size="36" font-weight="bold" fill="#111827">447<tspan font-size="18" font-weight="normal" fill="#6B7280"> 亿元</tspan></text>
+  </g>
+  <g id="kpi-takeaway" data-pptx-bounds="776 392 408 190">
+    <line x1="776" y1="392" x2="1184" y2="392" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="776" y="428" font-size="17" font-weight="bold" fill="#C00000">三个信号</text>
+    <text x="776" y="464" font-size="17" fill="#111827">· 收入端保持韧性</text>
+    <text x="776" y="496" font-size="17" fill="#111827">· 盈利与现金流稳定</text>
+    <text x="776" y="528" font-size="17" fill="#111827">· 资本开支聚焦智能化转型基础设施</text>
+  </g>
+
+  <g id="content-source-slot" data-pptx-placeholder="footer" data-pptx-idx="3"
+    data-pptx-bounds="72 658 720 28">
+    <text id="content-source-carrier" data-pptx-carrier="true"
+      x="72" y="678" fill="#6B7280"
+      font-family="Arial, Microsoft YaHei, sans-serif" font-size="13">来源:中国电信《2025 年全年业绩公布》,2026-03-24;年报与投资者关系财务页交叉核验</text>
+  </g>
+  <g id="content-slide-number-slot" data-pptx-placeholder="slide-number"
+    data-pptx-idx="4" data-pptx-bounds="1128 658 80 28">
+    <text id="content-slide-number-carrier" data-pptx-carrier="true"
+      x="1208" y="678" text-anchor="end" fill="#6B7280"
+      font-family="Arial, sans-serif" font-size="13">04</text>
+  </g>
+</svg>

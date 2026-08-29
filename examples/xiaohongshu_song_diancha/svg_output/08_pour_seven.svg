@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <image id="foam-art" href="../images/foam_hero.jpg" x="0" y="0" width="1242" height="1660"
+    preserveAspectRatio="xMidYMid slice" data-pptx-role="background"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 40">
+    <text x="96" y="126" font-size="26" letter-spacing="6" fill="#F5EFE2">宋 · 点茶 · 七</text>
+  </g>
+  <g id="pour-seven" data-pptx-bounds="221 560 800 560">
+    <text x="621" y="660" text-anchor="middle" font-family="KaiTi" font-size="88" font-weight="bold" fill="#2B2A28">第七汤 · 咬盏</text>
+    <line x1="521" y1="700" x2="721" y2="700" stroke="#B3352B" stroke-width="3"/>
+    <text x="621" y="780" text-anchor="middle" font-family="KaiTi" font-size="36" fill="#2B2A28">“以分轻清重浊,相稀稠得中,可欲则止。<tspan x="621" dy="52">乳雾汹涌,溢盏而起,</tspan><tspan x="621" dy="52">周回旋而不动,谓之咬盏。”</tspan></text>
+    <text x="621" y="980" text-anchor="middle" font-size="30" fill="#2B2A28">最后一汤只看浓淡,够了就停。<tspan x="621" dy="46">乳白的沫子涌起、溢到盏边,却贴着盏壁不动——</tspan><tspan x="621" dy="46">这就是“咬盏”,一盏点成。</tspan></text>
+    <text x="621" y="1110" text-anchor="middle" font-size="26" fill="#8A8378">现代复原:以不超过盏缘折线为度,视浓度可点可不点</text>
+  </g>
+  <g id="drink-note" data-pptx-bounds="221 1180 800 80">
+    <text x="621" y="1230" text-anchor="middle" font-family="KaiTi" font-size="30" fill="#2B2A28">“宜匀其轻清浮合者饮之。”</text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#F5EFE2">引文出自《大观茶论·点》</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#F5EFE2">08 / 09</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <image id="cover-art" href="../images/cover_bowl.jpg" x="0" y="0" width="1242" height="1660"
+    preserveAspectRatio="xMidYMid slice" data-pptx-role="background"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 44">
+    <text x="96" y="130" font-size="28" letter-spacing="8" fill="#8A8378">宋徽宗《大观茶论》 · 点茶法图解</text>
+  </g>
+  <g id="cover-mark" data-pptx-bounds="96 176 620 308">
+    <image href="../images/qitang_mark.png" x="96" y="176" width="620" height="308" preserveAspectRatio="xMinYMid meet"/>
+  </g>
+  <g id="cover-title" data-pptx-bounds="96 500 1050 200">
+    <text x="96" y="566" font-family="KaiTi" font-size="64" font-weight="bold" fill="#2B2A28">一盏茶的七次注汤</text>
+    <line x1="96" y1="606" x2="336" y2="606" stroke="#B3352B" stroke-width="3"/>
+    <text x="96" y="672" font-size="32" fill="#2B2A28">从调膏到咬盏,宋人怎样把茶末打成一层白雪</text>
+  </g>
+  <g id="cover-seal" data-pptx-bounds="1030 176 116 116">
+    <rect x="1040" y="186" width="96" height="96" fill="#B3352B"/>
+    <text x="1088" y="256" text-anchor="middle" font-family="KaiTi" font-size="56" font-weight="bold" fill="#F5EFE2">宋</text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#8A8378">共 9 页 · 左滑阅读</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#8A8378">01 / 09</text>
+  </g>
+</svg>

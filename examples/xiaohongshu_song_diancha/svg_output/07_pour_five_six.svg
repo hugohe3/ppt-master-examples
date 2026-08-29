@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="paper" x="0" y="0" width="1242" height="1660" fill="#F5EFE2" data-pptx-role="background"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 40">
+    <text x="96" y="126" font-size="26" letter-spacing="6" fill="#8A8378">宋 · 点茶 · 六</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 176 1050 130">
+    <text x="96" y="262" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">七汤 · 五 六</text>
+    <line x1="96" y1="300" x2="336" y2="300" stroke="#B3352B" stroke-width="3"/>
+  </g>
+
+  <g id="pour-five" data-pptx-bounds="96 360 1050 560">
+    <image href="../images/tang5.png" x="96" y="400" width="330" height="355" preserveAspectRatio="xMidYMid meet"/>
+    <text x="470" y="430" font-family="KaiTi" font-size="60" font-weight="bold" fill="#2B2A28">第五汤</text>
+    <text x="700" y="430" font-size="28" fill="#8A8378">结凝雪,茶色尽矣</text>
+    <text x="470" y="500" font-family="KaiTi" font-size="32" fill="#2B2A28">“乃可少纵,筅欲轻匀而透达。<tspan x="470" dy="46">如发立未尽,则击以作之;</tspan><tspan x="470" dy="46">发立已过,则拂以敛之。结浚霭,结凝雪。”</tspan></text>
+    <text x="470" y="690" font-size="30" fill="#2B2A28">水可以稍放开一些;筅要轻匀而打透。<tspan x="470" dy="46">沫还没起足就敲打催它,起过头就轻拂收它——</tspan><tspan x="470" dy="46">直到茶面像凝住的霜雪,茶色到此已尽。</tspan></text>
+    <text x="470" y="866" font-size="26" fill="#8A8378">现代复原:第五汤注水可适当多些</text>
+  </g>
+  <line id="pour-divider" x1="96" y1="960" x2="1146" y2="960" stroke="#C9BFAA" stroke-width="2" data-pptx-role="decoration"/>
+  <g id="pour-six" data-pptx-bounds="96 1000 1050 520">
+    <image href="../images/tang6.png" x="96" y="1040" width="330" height="355" preserveAspectRatio="xMidYMid meet"/>
+    <text x="470" y="1070" font-family="KaiTi" font-size="60" font-weight="bold" fill="#2B2A28">第六汤</text>
+    <text x="700" y="1070" font-size="28" fill="#8A8378">缓绕拂动而已</text>
+    <text x="470" y="1140" font-family="KaiTi" font-size="32" fill="#2B2A28">“以观立作,乳点勃结,<tspan x="470" dy="46">则以筅著居,缓绕拂动而已。”</tspan></text>
+    <text x="470" y="1290" font-size="30" fill="#2B2A28">这一汤只看沫子立得如何:哪里乳点结得太厚,<tspan x="470" dy="46">就把筅停在那里,缓缓绕着拂匀。</tspan><tspan x="470" dy="46">不再用力,只做修整。</tspan></text>
+    <text x="470" y="1470" font-size="26" fill="#8A8378">现代复原:此时水已达六分至八分</text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#8A8378">引文出自《大观茶论·点》;盏面为示意插画</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#8A8378">07 / 09</text>
+  </g>
+</svg>

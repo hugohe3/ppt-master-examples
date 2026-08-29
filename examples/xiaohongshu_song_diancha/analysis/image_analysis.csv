@@ -1,0 +1,14 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,chanian.png,600,466,1.29,1.29,,native,PNG,True,1,,bitmap,True,True,355.6,Standard landscape
+2,chaxian.png,289,600,0.48,0.48,,native,PNG,True,1,,bitmap,True,True,226.4,Portrait
+3,cover_bowl.jpg,1792,2400,0.75,0.75,,native,JPEG,False,1,,bitmap,True,True,286.5,Portrait
+4,foam_hero.jpg,1792,2400,0.75,0.75,,native,JPEG,False,1,,bitmap,True,True,458.9,Portrait
+5,gao.png,558,600,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,454.1,Near square
+6,jianzhan.png,600,519,1.16,1.16,,native,PNG,True,1,,bitmap,True,True,463.2,Near square
+7,qitang_mark.png,600,298,2.01,2.01,,native,PNG,True,1,,bitmap,True,True,148.4,Ultra-wide
+8,tang1.png,559,600,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,455.3,Near square
+9,tang2.png,558,600,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,479.1,Near square
+10,tang3.png,558,600,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,573.9,Near square
+11,tang4.png,558,600,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,467.6,Near square
+12,tang5.png,558,600,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,490.6,Near square
+13,tang6.png,558,600,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,404.4,Near square

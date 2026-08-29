@@ -1,0 +1,24 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "高中物理 波的干涉与衍射",
+  "facts": [
+    {"fact_id": "F001", "claim": "干涉需满足频率相同、相位差恒定、振动方向相同三个条件", "source_title": "科普｜什么是波的干涉？只有激光才是相干光，为什么用普通光源也能做干涉实验？", "source_url": "https://m.thepaper.cn/newsDetail_forward_27922170", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F002", "claim": "路程差为波长整数倍时干涉加强,为半波长奇数倍时干涉减弱", "source_title": "科普｜什么是波的干涉？", "source_url": "https://m.thepaper.cn/newsDetail_forward_27922170", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F003", "claim": "水波干涉实验用振动器驱动两个振源产生相干波,波峰波谷相遇形成稳定的加强区与减弱区", "source_title": "科普｜什么是波的干涉？", "source_url": "https://m.thepaper.cn/newsDetail_forward_27922170", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F004", "claim": "普通光源可通过分波前方法(小孔/狭缝,依据惠更斯原理)得到相干光", "source_title": "科普｜什么是波的干涉？", "source_url": "https://m.thepaper.cn/newsDetail_forward_27922170", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F005", "claim": "光遇到孔隙或障碍物后偏离直线传播、绕过它继续传播的现象称为光的衍射", "source_title": "第四章 第四节 光的衍射和偏振 - 物含妙理", "source_url": "https://enjoyphysics.cn/Article2811", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F006", "claim": "障碍物或孔隙的尺寸与波长相差不大时才能观察到明显的衍射现象", "source_title": "第四章 第四节 光的衍射和偏振 - 物含妙理", "source_url": "https://enjoyphysics.cn/Article2811", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F007", "claim": "单缝衍射屏上照亮范围远大于缝宽,明暗相间,中央条纹最宽最亮,缝越窄衍射越明显", "source_title": "第四章 第四节 光的衍射和偏振 - 物含妙理", "source_url": "https://enjoyphysics.cn/Article2811", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F008", "claim": "光通过小圆孔产生明暗相间的同心圆环图样", "source_title": "第四章 第四节 光的衍射和偏振 - 物含妙理", "source_url": "https://enjoyphysics.cn/Article2811", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F009", "claim": "托马斯·杨 1801 年向皇家学会发表《光与颜色的理论》,1803 年描述其著名干涉实验,首次测定光的波长", "source_title": "杨氏干涉实验 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-cn/%E6%A5%8A%E6%B0%8F%E5%B9%B2%E6%B6%89%E5%AF%A6%E9%A9%97", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F010", "claim": "杨氏干涉相邻条纹间距 Δx = Lλ/d,d 为双缝间距,L 为双缝到屏距离", "source_title": "杨氏干涉实验 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-cn/%E6%A5%8A%E6%B0%8F%E5%B9%B2%E6%B6%89%E5%AF%A6%E9%A9%97", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F011", "claim": "杨测得极端红光波长约 1/36000 英寸、极紫光约 1/60000 英寸,约合红光 700 nm、紫光 400 nm", "source_title": "杨氏干涉实验 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-cn/%E6%A5%8A%E6%B0%8F%E5%B9%B2%E6%B6%89%E5%AF%A6%E9%A9%97", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F012", "claim": "双缝到屏上某点的路程差为波长整数倍处出现亮纹,半波长奇数倍处出现暗纹", "source_title": "杨氏干涉实验 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-cn/%E6%A5%8A%E6%B0%8F%E5%B9%B2%E6%B6%89%E5%AF%A6%E9%A9%97", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F013", "claim": "1817 年法兰西学术院举办光的本性最佳论文竞赛,1818 年菲涅尔提交衍射理论论文", "source_title": "泊松光斑 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-hans/%E6%B3%8A%E6%9D%BE%E5%85%89%E6%96%91", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F014", "claim": "泊松依据菲涅尔理论推演出圆盘影子中心应出现亮点,认为荒谬并试图以此推翻波动说", "source_title": "泊松光斑 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-hans/%E6%B3%8A%E6%9D%BE%E5%85%89%E6%96%91", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F015", "claim": "阿拉果实验证实圆盘影子中心存在亮斑,菲涅尔获优胜奖,该亮斑也称阿拉果斑", "source_title": "泊松光斑 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-hans/%E6%B3%8A%E6%9D%BE%E5%85%89%E6%96%91", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F016", "claim": "薄膜干涉是光被薄膜上下两表面分别反射后两束反射光相互干涉的现象", "source_title": "薄膜干涉 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-cn/%E8%96%84%E8%86%9C%E5%B9%B2%E6%B6%89", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F017", "claim": "肥皂泡呈彩色是因膜厚不均匀,不同波长光在各处干涉结果不同", "source_title": "薄膜干涉 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-cn/%E8%96%84%E8%86%9C%E5%B9%B2%E6%B6%89", "classification": "external", "retrieved_at": "2026-08-29"},
+    {"fact_id": "F018", "claim": "薄膜干涉可用于测定薄膜厚度与折射率,应用于增透膜、滤光器等", "source_title": "薄膜干涉 - 维基百科", "source_url": "https://zh.wikipedia.org/zh-cn/%E8%96%84%E8%86%9C%E5%B9%B2%E6%B6%89", "classification": "external", "retrieved_at": "2026-08-29"}
+  ]
+}

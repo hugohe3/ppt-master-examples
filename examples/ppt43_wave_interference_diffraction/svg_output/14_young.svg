@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33"/>
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">杨氏双缝干涉</text>
+    <path d="M62 116 Q200 110 316 115" fill="none" stroke="#F3EFE4" stroke-width="4" stroke-linecap="round"/>
+    <text x="350" y="96" font-size="22" fill="#B9C2B4">1801 年提出理论,1803 年描述实验,第一次测出光的波长</text>
+  </g>
+  <g id="young-sketch" data-pptx-bounds="60 160 440 240">
+    <rect x="68" y="168" width="424" height="196" fill="none" stroke="#F3EFE4" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.8"/>
+    <image href="../images/young_sketch.jpg" x="74" y="174" width="412" height="184" preserveAspectRatio="xMidYMid meet"/>
+    <circle cx="280" cy="170" r="6" fill="#F6D77A"/>
+    <text x="68" y="390" font-size="17" fill="#B9C2B4">托马斯·杨手绘的双源干涉图,暗线即减弱区</text>
+  </g>
+  <g id="setup-diagram" data-pptx-bounds="60 420 440 300">
+    <text x="70" y="446" font-size="18" fill="#B9C2B4">实验装置示意</text>
+    <circle cx="90" cy="580" r="8" fill="#F6D77A"/>
+    <text x="72" y="616" font-size="16" fill="#F3EFE4">单色光</text>
+    <g stroke="#F3EFE4" stroke-width="5" stroke-linecap="round">
+      <line x1="170" y1="480" x2="170" y2="568"/>
+      <line x1="170" y1="592" x2="170" y2="680"/>
+      <line x1="290" y1="480" x2="290" y2="538"/>
+      <line x1="290" y1="556" x2="290" y2="604"/>
+      <line x1="290" y1="622" x2="290" y2="680"/>
+    </g>
+    <text x="146" y="704" font-size="16" fill="#F3EFE4">单缝</text>
+    <text x="266" y="704" font-size="16" fill="#F3EFE4">双缝</text>
+    <g fill="none" stroke="#9DDCE6" stroke-width="1.5" stroke-opacity="0.7">
+      <path d="M98 580 L170 580"/>
+      <path d="M170 580 L290 547 M170 580 L290 613"/>
+      <path d="M290 547 L450 500 M290 547 L450 580 M290 547 L450 660"/>
+      <path d="M290 613 L450 500 M290 613 L450 580 M290 613 L450 660"/>
+    </g>
+    <line x1="458" y1="470" x2="458" y2="690" stroke="#F3EFE4" stroke-width="4" stroke-linecap="round"/>
+    <g fill="#F6D77A">
+      <rect x="462" y="492" width="14" height="14"/>
+      <rect x="462" y="532" width="14" height="14"/>
+      <rect x="462" y="572" width="14" height="14"/>
+      <rect x="462" y="612" width="14" height="14"/>
+      <rect x="462" y="652" width="14" height="14"/>
+    </g>
+    <text x="440" y="704" font-size="16" fill="#F3EFE4">屏</text>
+    <text x="300" y="470" font-size="15" fill="#B9C2B4">S₁S₂ 来自同一波面,相干</text>
+  </g>
+  <g id="fringe-formula" data-pptx-replace-with="formula" data-pptx-x="540" data-pptx-y="160" data-pptx-width="420" data-pptx-height="90" data-pptx-bounds="540 160 420 90">
+    <metadata type="application/json"><![CDATA[
+      {"latex":"\\Delta x = \\frac{L\\lambda}{d}","display":"block","font_size":40,"color":"#F6D77A","align":"left"}
+    ]]></metadata>
+    <text x="556" y="218" font-size="40" fill="#F6D77A">Δx = Lλ / d</text>
+  </g>
+  <g id="variables" data-pptx-bounds="540 260 420 118">
+    <text x="556" y="284" font-size="18" fill="#F3EFE4">Δx  相邻亮纹(或暗纹)的间距</text>
+    <text x="556" y="312" font-size="18" fill="#F3EFE4">L   双缝到屏的距离      d   双缝间距</text>
+    <text x="556" y="340" font-size="18" fill="#F3EFE4">λ   光的波长 → 量出 Δx、L、d 就能算 λ</text>
+    <text x="556" y="366" font-size="16" fill="#B9C2B4">条纹等间距;路程差 kλ 处亮,(2k+1)λ/2 处暗</text>
+  </g>
+  <g id="history" data-pptx-bounds="540 390 420 120">
+    <use data-icon="tabler-outline/history" x="556" y="400" width="32" height="32" fill="#F6D77A"/>
+    <text x="600" y="424" font-family="KaiTi" font-size="24" fill="#F6D77A">历史上第一次量出光的波长</text>
+    <text x="556" y="462" font-size="18" fill="#F3EFE4">杨测得:红光约 700 nm,紫光约 400 nm</text>
+    <text x="556" y="490" font-size="17" fill="#B9C2B4">比头发丝细上百倍,难怪平时看不到光的衍射</text>
+  </g>
+  <g id="fringe-photo" data-pptx-bounds="540 520 420 200">
+    <rect x="548" y="526" width="404" height="150" fill="none" stroke="#F3EFE4" stroke-width="2.5" stroke-opacity="0.8"/>
+    <image href="../images/double_slit_fringes.jpg" x="554" y="532" width="392" height="138" preserveAspectRatio="xMidYMid slice"/>
+    <text x="548" y="694" font-size="15" fill="#F3EFE4">激光双缝干涉条纹(实拍)</text>
+    <text x="548" y="714" font-size="13" fill="#B9C2B4">图:Yuri Filippov / Wikimedia Commons / CC BY 4.0</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">14</text>
+</svg>

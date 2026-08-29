@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "filename": "ripple_interference.jpg",
+      "query": "ripple tank interference two sources",
+      "query_variants": [
+        "water wave interference pattern two point sources",
+        "Wellenwanne Interferenz",
+        "circular waves interference water"
+      ],
+      "slide": "06_water_interference",
+      "purpose": "real ripple-tank photo showing two-source interference pattern with visible nodal lines",
+      "orientation": "any",
+      "min_width": 800,
+      "min_height": 600,
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "soap_bubble_film.jpg",
+      "query": "soap bubble thin film interference colors",
+      "query_variants": [
+        "soap film interference",
+        "Seifenblase Interferenzfarben",
+        "thin film interference soap"
+      ],
+      "slide": "15_daily_life",
+      "purpose": "close-up of soap film iridescent color bands",
+      "orientation": "any",
+      "min_width": 800,
+      "min_height": 600,
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "pexels",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "arago_spot.jpg",
+      "query": "Arago spot diffraction",
+      "query_variants": [
+        "Poisson spot",
+        "Poissonscher Fleck",
+        "circular obstacle diffraction bright spot"
+      ],
+      "slide": "14_poisson",
+      "purpose": "photo of a circular shadow with bright spot at its center",
+      "orientation": "any",
+      "min_width": 600,
+      "min_height": 500,
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "wikimedia",
+      "license_tier": "attribution-required"
+    },
+    {
+      "filename": "double_slit_fringes.jpg",
+      "query": "Light diffraction pattern using two slits",
+      "query_variants": [
+        "Young double slit interference fringes photograph",
+        "Doppelspalt Interferenz Laser Foto",
+        "two slit interference pattern red laser"
+      ],
+      "slide": "13_young",
+      "purpose": "photo of red laser double-slit fringes on a screen",
+      "orientation": "landscape",
+      "min_width": 800,
+      "min_height": 400,
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "wikimedia",
+      "license_tier": "attribution-required"
+    },
+    {
+      "filename": "single_slit_diffraction.jpg",
+      "query": "single slit diffraction pattern laser",
+      "query_variants": [
+        "Einzelspalt Beugung Laser",
+        "single-slit diffraction red laser",
+        "diffraction pattern slit"
+      ],
+      "slide": "14_diffraction",
+      "purpose": "photo of single-slit diffraction pattern with wide bright central band",
+      "orientation": "landscape",
+      "min_width": 800,
+      "min_height": 400,
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "wikimedia",
+      "license_tier": "attribution-required"
+    },
+    {
+      "filename": "young_sketch.jpg",
+      "query": "Young Diffraction",
+      "query_variants": [
+        "Thomas Young interference sketch 1807",
+        "Young's sketch of two-slit diffraction"
+      ],
+      "slide": "14_young",
+      "purpose": "Thomas Young's own historical drawing of two-source wave interference",
+      "orientation": "landscape",
+      "min_width": 800,
+      "min_height": 300,
+      "required_terms": [
+        "Young"
+      ],
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "wikimedia",
+      "license_tier": "no-attribution"
+    }
+  ]
+}

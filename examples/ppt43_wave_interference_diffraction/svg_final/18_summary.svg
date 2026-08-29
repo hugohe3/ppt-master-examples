@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#1F3D33" />
+  <g id="header" data-pptx-bounds="60 48 900 100">
+    <text x="60" y="98" font-family="KaiTi" font-size="42" font-weight="bold" fill="#F3EFE4">小结:干涉与衍射</text>
+    <path d="M62 116 Q220 110 400 115" fill="none" stroke="#F6D77A" stroke-width="4" stroke-linecap="round" />
+    <text x="440" y="96" font-size="22" fill="#B9C2B4">两种现象,一个根源</text>
+  </g>
+  <g id="summary-table" data-pptx-replace-with="table" data-pptx-x="60" data-pptx-y="160" data-pptx-width="904" data-pptx-height="424" data-pptx-bounds="60 160 904 424" data-pptx-fallback-sha256="098b527fb3a824cb2f4324129bc0f1898062728de7aba24e5663053c8ab16bc2">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "summary-table",
+  "x": 60, "y": 160, "width": 904, "height": 424,
+  "columns": [{"text": "", "cell_style": "head"}, {"text": "干涉", "cell_style": "head"}, {"text": "衍射", "cell_style": "head"}],
+  "rows": [
+    [{"text": "现象", "cell_style": "label"}, "两列相干波叠加后,加强区与减弱区相间分布,位置稳定", "波绕过障碍物或孔,偏离直线方向继续传播"],
+    [{"text": "条件", "cell_style": "label"}, "两波频率相同、相位差恒定、振动方向相同", "障碍物或孔的尺寸与波长相差不大,或比波长更小"],
+    [{"text": "图样", "cell_style": "label"}, "双缝:明暗相间、等间距的条纹", "单缝:中央亮纹最宽最亮,两侧变窄变暗;圆孔:同心圆环"],
+    [
+      {"text": "本质", "bold": true, "color": "#F6D77A", "align": "ctr", "font_size": 20},
+      {"text": "都是波的叠加;都是波特有的现象——能干涉、能衍射,就是波", "col_span": 2, "bold": true, "color": "#F6D77A", "borders": {"right": {"style": "solid", "color": "#F3EFE4", "width": 1.5}}},
+      {"merge_continuation": true}
+    ]
+  ],
+  "column_widths": [140, 382, 382],
+  "row_heights": [56, 100, 100, 100, 68],
+  "header_rows": 1,
+  "style": {
+    "font_family": "Microsoft YaHei",
+    "font_size": 18,
+    "header_font_size": 22,
+    "header_text": "#F6D77A",
+    "band_row": false,
+    "border_color": "#F3EFE4",
+    "border_width": 1.5
+  },
+  "defaults": {
+    "cell": {"fill": "#1F3D33", "color": "#F3EFE4", "valign": "middle", "padding": 10}
+  },
+  "cell_styles": {
+    "head": {"color": "#F6D77A", "bold": true, "align": "ctr"},
+    "label": {"color": "#B9C2B4", "align": "ctr", "font_size": 20}
+  }
+}
+    </metadata>
+    <g stroke="#F3EFE4" stroke-width="1.5" stroke-opacity="0.7">
+      <line x1="60" y1="160" x2="964" y2="160" />
+      <line x1="60" y1="216" x2="964" y2="216" />
+      <line x1="60" y1="316" x2="964" y2="316" />
+      <line x1="60" y1="416" x2="964" y2="416" />
+      <line x1="60" y1="516" x2="964" y2="516" />
+      <line x1="60" y1="584" x2="964" y2="584" />
+      <line x1="60" y1="160" x2="60" y2="584" />
+      <line x1="200" y1="160" x2="200" y2="584" />
+      <line x1="582" y1="160" x2="582" y2="516" />
+      <line x1="964" y1="160" x2="964" y2="584" />
+    </g>
+    <text x="391" y="196" text-anchor="middle" font-size="22" font-weight="bold" fill="#F6D77A">干涉</text>
+    <text x="773" y="196" text-anchor="middle" font-size="22" font-weight="bold" fill="#F6D77A">衍射</text>
+    <text x="130" y="273" text-anchor="middle" font-size="20" fill="#B9C2B4">现象</text>
+    <text font-size="18" fill="#F3EFE4" x="216" y="258">两列相干波叠加后,加强区与减弱区</text><text font-size="18" fill="#F3EFE4" x="216" y="286">相间分布,位置稳定</text><text font-size="18" fill="#F3EFE4" x="598" y="258">波绕过障碍物或孔,偏离直线方向</text><text font-size="18" fill="#F3EFE4" x="598" y="286">继续传播</text><text x="130" y="373" text-anchor="middle" font-size="20" fill="#B9C2B4">条件</text>
+    <text font-size="18" fill="#F3EFE4" x="216" y="358">两波频率相同、相位差恒定、</text><text font-size="18" fill="#F3EFE4" x="216" y="386">振动方向相同</text><text font-size="18" fill="#F3EFE4" x="598" y="358">障碍物或孔的尺寸与波长相差不大,</text><text font-size="18" fill="#F3EFE4" x="598" y="386">或比波长更小</text><text x="130" y="473" text-anchor="middle" font-size="20" fill="#B9C2B4">图样</text>
+    <text x="216" y="472" font-size="18" fill="#F3EFE4">双缝:明暗相间、等间距的条纹</text>
+    <text font-size="18" fill="#F3EFE4" x="598" y="458">单缝:中央亮纹最宽最亮,两侧变窄变暗;</text><text font-size="18" fill="#F3EFE4" x="598" y="486">圆孔:同心圆环</text><text x="130" y="557" text-anchor="middle" font-size="20" font-weight="bold" fill="#F6D77A">本质</text>
+    <text x="216" y="557" font-size="18" font-weight="bold" fill="#F6D77A">都是波的叠加;都是波特有的现象——能干涉、能衍射,就是波</text>
+  </g>
+  <g id="closing-line" data-pptx-bounds="60 610 900 100">
+    
+  <g transform="translate(70, 628) scale(1.5)" fill="none" stroke="#F6D77A" stroke-width="2">
+    <path d="M11 12a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+    <path d="M7 12a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  </g>
+    <text x="120" y="654" font-size="22" fill="#F3EFE4">判断一个东西是不是波,就看它能不能干涉、能不能衍射。</text>
+    <text x="120" y="690" font-size="18" fill="#B9C2B4">水波、声波满足;杨氏实验和泊松亮斑证明:光也满足。</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="964" y="740" text-anchor="end" font-size="16" fill="#B9C2B4">18</text>
+</svg>

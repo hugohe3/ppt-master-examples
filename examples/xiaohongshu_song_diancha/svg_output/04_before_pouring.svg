@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="1660" viewBox="0 0 1242 1660"
+  font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="paper" x="0" y="0" width="1242" height="1660" fill="#F5EFE2" data-pptx-role="background"/>
+  <line id="step-spine" x1="150" y1="500" x2="150" y2="1440" stroke="#C9BFAA" stroke-width="2" stroke-dasharray="4,4" data-pptx-role="decoration"/>
+
+  <g id="kicker" data-pptx-bounds="96 96 700 40">
+    <text x="96" y="126" font-size="26" letter-spacing="6" fill="#8A8378">宋 · 点茶 · 三</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 176 1050 240">
+    <text x="96" y="262" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">注汤之前,</text>
+    <text x="96" y="372" font-family="KaiTi" font-size="84" font-weight="bold" fill="#2B2A28">先做三件事</text>
+    <line x1="96" y1="414" x2="336" y2="414" stroke="#B3352B" stroke-width="3"/>
+  </g>
+
+  <g id="step-grind" data-pptx-bounds="96 480 1050 250">
+    <circle cx="150" cy="560" r="44" fill="#2B2A28"/>
+    <text x="150" y="576" text-anchor="middle" font-family="KaiTi" font-size="40" font-weight="bold" fill="#F5EFE2">壹</text>
+    <text x="240" y="548" font-family="KaiTi" font-size="52" font-weight="bold" fill="#2B2A28">碾 · 罗</text>
+    <text x="240" y="608" font-size="32" fill="#2B2A28">把团饼碾成茶末,再用茶罗筛细。</text>
+    <text x="240" y="660" font-size="28" fill="#8A8378">“罗必轻而平,不厌数”——多筛几遍,末越细越好。</text>
+  </g>
+  <g id="step-warm" data-pptx-bounds="96 780 1050 250">
+    <circle cx="150" cy="860" r="44" fill="#2B2A28"/>
+    <text x="150" y="876" text-anchor="middle" font-family="KaiTi" font-size="40" font-weight="bold" fill="#F5EFE2">贰</text>
+    <text x="240" y="848" font-family="KaiTi" font-size="52" font-weight="bold" fill="#2B2A28">熁 盏</text>
+    <text x="240" y="908" font-size="32" fill="#2B2A28">把茶盏在火上烤热,或用开水烫热。</text>
+    <text x="240" y="960" font-size="28" fill="#8A8378">盏不温,茶粉不易浮起;盏温了,茶香才发。</text>
+  </g>
+  <g id="step-paste" data-pptx-bounds="96 1080 1050 380">
+    <circle cx="150" cy="1160" r="44" fill="#B3352B"/>
+    <text x="150" y="1176" text-anchor="middle" font-family="KaiTi" font-size="40" font-weight="bold" fill="#F5EFE2">叁</text>
+    <text x="240" y="1148" font-family="KaiTi" font-size="52" font-weight="bold" fill="#2B2A28">调 膏</text>
+    <text x="240" y="1208" font-size="32" fill="#2B2A28">取茶粉约一钱入盏,倒少量沸水,<tspan x="240" dy="48">调成融胶一般的浓膏。</tspan></text>
+    <text x="240" y="1320" font-size="28" fill="#8A8378">“量茶受汤,调如融胶”——茶与水的比例,在这一步定下。</text>
+    <image href="../images/gao.png" x="866" y="1120" width="280" height="301" preserveAspectRatio="xMidYMid meet"/>
+    <text x="1006" y="1450" text-anchor="middle" font-size="24" fill="#8A8378">盏底的茶膏</text>
+  </g>
+  <g id="folio" data-pptx-bounds="96 1560 1050 50">
+    <text x="96" y="1594" font-size="24" fill="#8A8378">据《大观茶论》罗碾、点诸篇及闽北日报复原报道整理</text>
+    <text x="1146" y="1594" text-anchor="end" font-family="Arial" font-size="24" fill="#8A8378">04 / 09</text>
+  </g>
+</svg>

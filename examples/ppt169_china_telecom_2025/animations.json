@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "effect": "none", "duration": 0.45, "stagger": 0.2, "trigger": "after-previous" }
+  },
+  "slides": {
+    "03_section_foundation": { "transition": { "effect": "push", "effect_options": { "direction": "left" }, "duration": 0.5 } },
+    "06_section_emerging": { "transition": { "effect": "push", "effect_options": { "direction": "left" }, "duration": 0.5 } },
+    "08_section_intelligence": { "transition": { "effect": "push", "effect_options": { "direction": "left" }, "duration": 0.5 } },
+    "11_section_frontiers": { "transition": { "effect": "push", "effect_options": { "direction": "left" }, "duration": 0.5 } },
+    "04_kpi_overview": {
+      "groups": {
+        "kpi-revenue": { "effect": "entrance_fade", "order": 1 },
+        "kpi-service": { "effect": "entrance_fade", "order": 2 },
+        "kpi-ebitda": { "effect": "entrance_fade", "order": 3 },
+        "kpi-profit": { "effect": "entrance_fade", "order": 4 },
+        "capex-cashflow": { "effect": "entrance_fade", "order": 5 },
+        "kpi-takeaway": { "effect": "entrance_fade", "order": 6, "duration": 0.6 }
+      }
+    },
+    "05_dual_drive": {
+      "groups": {
+        "field-basic": { "effect": "entrance_fade", "order": 1 },
+        "field-digital": { "effect": "entrance_fade", "order": 2 },
+        "dual-takeaway": { "effect": "entrance_fade", "order": 3, "duration": 0.6 }
+      }
+    },
+    "07_emerging_revenue": {
+      "groups": {
+        "emerging-revenue": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.8 },
+        "growth-callouts": { "effect": "entrance_fade", "order": 2 }
+      }
+    },
+    "09_five_layers": {
+      "groups": {
+        "layer-spine": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 1, "duration": 0.7 },
+        "layer-compute": { "effect": "entrance_fade", "order": 2 },
+        "layer-platform": { "effect": "entrance_fade", "order": 3 },
+        "layer-data": { "effect": "entrance_fade", "order": 4 },
+        "layer-model": { "effect": "entrance_fade", "order": 5 },
+        "layer-application": { "effect": "entrance_fade", "order": 6 },
+        "core-summary": { "effect": "entrance_fade", "order": 7, "duration": 0.6 }
+      }
+    },
+    "10_ai_scale": {
+      "groups": {
+        "field-internal": { "effect": "entrance_fade", "order": 1 },
+        "field-external": { "effect": "entrance_fade", "order": 2 },
+        "value-path": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.8 }
+      }
+    },
+    "12_growth_tracks": {
+      "groups": {
+        "track-quantum": { "effect": "entrance_fade", "order": 1 },
+        "track-low-altitude": { "effect": "entrance_fade", "order": 2 },
+        "track-ai-security": { "effect": "entrance_fade", "order": 3 },
+        "track-infrastructure": { "effect": "entrance_fade", "order": 4 }
+      }
+    },
+    "13_token_mainline": {
+      "groups": {
+        "token-chain": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.8 },
+        "strategy-line": { "effect": "entrance_fade", "order": 2 },
+        "conclusions-left": { "effect": "entrance_fade", "order": 3 },
+        "conclusions-right": { "effect": "entrance_fade", "order": 4 }
+      }
+    }
+  }
+}
