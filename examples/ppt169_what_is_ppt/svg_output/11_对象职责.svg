@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">03 · 部件职责</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">视觉上正确的截图，仍可能结构很差</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="d-theme" data-pptx-bounds="40 174 748 52">
+      <use data-icon="tabler-outline/palette" x="44" y="182" width="26" height="26" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="203" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">Theme<tspan font-weight="normal" fill="#22262B">　可复用的颜色、字体与效果</tspan></text>
+      <line x1="40" y1="222" x2="788" y2="222" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="d-master" data-pptx-bounds="40 226 748 52">
+      <use data-icon="tabler-outline/template" x="44" y="234" width="26" height="26" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="255" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">Slide Master<tspan font-weight="normal" fill="#22262B">　一组 Layout 共同继承的格式与对象</tspan></text>
+      <line x1="40" y1="274" x2="788" y2="274" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="d-layout" data-pptx-bounds="40 278 748 52">
+      <use data-icon="tabler-outline/layout" x="44" y="286" width="26" height="26" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="307" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">Slide Layout<tspan font-weight="normal" fill="#22262B">　某类页面的默认外观、位置与占位符</tspan></text>
+      <line x1="40" y1="326" x2="788" y2="326" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="d-placeholder" data-pptx-bounds="40 330 748 52">
+      <use data-icon="tabler-outline/rectangle" x="44" y="338" width="26" height="26" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="359" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">Placeholder<tspan font-weight="normal" fill="#22262B">　预格式化、带类型的内容容器</tspan></text>
+      <line x1="40" y1="378" x2="788" y2="378" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="d-slide" data-pptx-bounds="40 382 748 52">
+      <use data-icon="tabler-outline/square" x="44" y="390" width="26" height="26" fill="#C8102E" stroke-width="2"/>
+      <text x="84" y="411" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#C8102E">Slide<tspan font-weight="normal" fill="#22262B">　绑定某个 Layout 的一次具体内容实例</tspan></text>
+      <line x1="40" y1="430" x2="788" y2="430" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="d-notes" data-pptx-bounds="40 434 748 52">
+      <use data-icon="tabler-outline/notes" x="44" y="442" width="26" height="26" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="463" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">Notes / Handouts<tspan font-weight="normal" fill="#22262B">　页面之外的演讲者与受众通道</tspan></text>
+      <line x1="40" y1="482" x2="788" y2="482" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="d-rel" data-pptx-bounds="40 486 748 52">
+      <use data-icon="tabler-outline/link" x="44" y="494" width="26" height="26" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="515" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">Package relationships<tspan font-weight="normal" fill="#22262B">　连接各部件</tspan></text>
+      <line x1="40" y1="534" x2="788" y2="534" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="d-behavior" data-pptx-bounds="40 538 748 52">
+      <use data-icon="tabler-outline/player-play" x="44" y="546" width="26" height="26" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="567" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">Presentation behavior<tspan font-weight="normal" fill="#22262B">　顺序、转场、动画、旁白与计时</tspan></text>
+  </g>
+
+  <g id="assert-card" data-pptx-bounds="812 172 428 468">
+    <rect x="812" y="178" width="428" height="462" fill="#1A2B4A"/>
+    <rect x="812" y="178" width="428" height="6" fill="#C8102E"/>
+    <text x="840" y="240" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">视觉正确</text>
+    <text x="840" y="284" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#C8102E">≠ 结构良好</text>
+    <line x1="840" y1="312" x2="1212" y2="312" stroke="#5E7089" stroke-width="1"/>
+    <text x="840" y="352" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#F4F1EA">真正可用的 deck 还需要：</text>
+    <text x="840" y="392" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#FFFFFF">· 合理的对象边界</text>
+    <text x="840" y="424" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#FFFFFF">· 继承关系与可编辑性</text>
+    <text x="840" y="456" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#FFFFFF">· 包关系</text>
+    <text x="840" y="488" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#FFFFFF">· 演示行为</text>
+    <line x1="840" y1="520" x2="1212" y2="520" stroke="#5E7089" stroke-width="1"/>
+    <text x="840" y="560" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#F4F1EA">Microsoft 明确把 Slide</text>
+    <text x="840" y="588" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#F4F1EA">Layout 置于 Slide Master</text>
+    <text x="840" y="616" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#F4F1EA">之下。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P11 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">来源：Microsoft — 什么是 Slide Layout</text>
+  </g>
+</svg>

@@ -1,0 +1,403 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.4
+    },
+    "animation": {
+      "effect": "fade",
+      "duration": 0.36,
+      "stagger": 0.14,
+      "trigger": "after-previous"
+    }
+  },
+  "slides": {
+    "01_封面": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.55
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.55,
+        "stagger": 0.22,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "cover-identities": {
+          "effect": "wipe_right",
+          "duration": 0.65
+        }
+      }
+    },
+    "02_五种含义": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.35
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.34,
+        "stagger": 0.12,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "art-meanings": {
+          "effect": "zoom",
+          "order": 1,
+          "duration": 0.5
+        },
+        "row-software": {
+          "order": 2
+        },
+        "row-presentation": {
+          "order": 3
+        },
+        "row-deck": {
+          "order": 4
+        },
+        "row-slideshow": {
+          "order": 5
+        },
+        "row-file": {
+          "order": 6
+        },
+        "note": {
+          "order": 7
+        }
+      }
+    },
+    "03_文件类型": {
+      "transition": {
+        "effect": "wipe",
+        "duration": 0.35
+      },
+      "animation": {
+        "effect": "wipe_down",
+        "duration": 0.32,
+        "stagger": 0.1,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "std-card": {
+          "effect": "fly_right",
+          "duration": 0.5
+        }
+      }
+    },
+    "04_为什么做演示": {
+      "transition": {
+        "effect": "push",
+        "duration": 0.42
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.42,
+        "stagger": 0.16,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "node-source": {
+          "effect": "wipe_right"
+        },
+        "node-argument": {
+          "effect": "wipe_right"
+        },
+        "node-experience": {
+          "effect": "wipe_right"
+        },
+        "node-outcome": {
+          "effect": "wipe_right",
+          "duration": 0.5
+        },
+        "record-artifact": {
+          "effect": "fly_right",
+          "duration": 0.5
+        }
+      }
+    },
+    "05_沟通任务": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.3
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.28,
+        "stagger": 0.08,
+        "trigger": "after-previous"
+      }
+    },
+    "06_为什么用PowerPoint": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.32
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.3,
+        "stagger": 0.09,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "p-summary": {
+          "effect": "zoom",
+          "duration": 0.48
+        }
+      }
+    },
+    "07_何时不该用": {
+      "transition": {
+        "effect": "wipe",
+        "duration": 0.32
+      },
+      "animation": {
+        "effect": "wipe_down",
+        "duration": 0.28,
+        "stagger": 0.08,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "th": {
+          "effect": "appear"
+        },
+        "r-ppt": {
+          "effect": "fade",
+          "duration": 0.5
+        }
+      }
+    },
+    "08_不止一种生命": {
+      "transition": {
+        "effect": "push",
+        "duration": 0.4
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.42,
+        "stagger": 0.16,
+        "trigger": "after-previous"
+      }
+    },
+    "09_传递场景": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.32
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.32,
+        "stagger": 0.12,
+        "trigger": "after-previous"
+      }
+    },
+    "10_原生对象模型": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.45
+      },
+      "animation": {
+        "effect": "wipe_down",
+        "duration": 0.44,
+        "stagger": 0.16,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "model-intro": {
+          "effect": "fade"
+        },
+        "model-summary": {
+          "effect": "fade"
+        }
+      }
+    },
+    "11_对象职责": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.3
+      },
+      "animation": {
+        "effect": "wipe_down",
+        "duration": 0.28,
+        "stagger": 0.08,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "assert-card": {
+          "effect": "fly_right",
+          "duration": 0.52
+        }
+      }
+    },
+    "12_什么是模板": {
+      "transition": {
+        "effect": "split",
+        "duration": 0.38
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.34,
+        "stagger": 0.1,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "tvt-theme": {
+          "effect": "fly_left"
+        },
+        "tvt-template": {
+          "effect": "fly_right"
+        },
+        "quote": {
+          "duration": 0.5
+        },
+        "layers-intro": {
+          "effect": "appear"
+        },
+        "lay-theme": {
+          "effect": "wipe_right"
+        },
+        "lay-master": {
+          "effect": "wipe_right"
+        },
+        "lay-layout": {
+          "effect": "wipe_right"
+        },
+        "lay-preset": {
+          "effect": "wipe_right"
+        }
+      }
+    },
+    "13_什么是好PPT": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.4
+      },
+      "animation": {
+        "effect": "wipe_down",
+        "duration": 0.36,
+        "stagger": 0.12,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "quality-art": {
+          "effect": "zoom",
+          "order": 1,
+          "duration": 0.52
+        },
+        "q-fact": {
+          "order": 2
+        },
+        "q-comm": {
+          "order": 3
+        },
+        "q-narr": {
+          "order": 4
+        },
+        "q-cog": {
+          "order": 5
+        },
+        "q-visual": {
+          "order": 6
+        },
+        "q-native": {
+          "order": 7
+        },
+        "quality-summary": {
+          "effect": "fade",
+          "order": 8
+        },
+        "principle": {
+          "effect": "fly",
+          "order": 9,
+          "duration": 0.5
+        }
+      }
+    },
+    "14_研究怎么说": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.3
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.36,
+        "stagger": 0.16,
+        "trigger": "after-previous"
+      }
+    },
+    "15_不是什么": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.32
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.3,
+        "stagger": 0.08,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "isnot-art": {
+          "effect": "zoom",
+          "duration": 0.5
+        },
+        "conclusion": {
+          "effect": "fly",
+          "duration": 0.48
+        }
+      }
+    },
+    "16_八个问题": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.3
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.28,
+        "stagger": 0.08,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "closeline": {
+          "effect": "fly",
+          "duration": 0.5
+        }
+      }
+    },
+    "17_收尾": {
+      "transition": {
+        "effect": "fade",
+        "duration": 0.5
+      },
+      "animation": {
+        "effect": "fade",
+        "duration": 0.5,
+        "stagger": 0.16,
+        "trigger": "after-previous"
+      },
+      "groups": {
+        "ml-1": {
+          "effect": "wipe_right"
+        },
+        "ml-2": {
+          "effect": "wipe_right"
+        },
+        "ml-3": {
+          "effect": "wipe_right"
+        },
+        "ml-4": {
+          "effect": "wipe_right"
+        },
+        "ml-return": {
+          "effect": "wipe_right",
+          "duration": 0.65
+        },
+        "closing-note": {
+          "duration": 0.45
+        }
+      }
+    }
+  }
+}

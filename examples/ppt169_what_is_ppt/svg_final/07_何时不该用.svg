@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E" />
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">02 · 媒介边界</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">PowerPoint 不该是所有信息任务的默认选择</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5" />
+  </g>
+
+  <g id="th" data-pptx-bounds="40 172 1200 42">
+      <text x="48" y="200" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="1" fill="#5E7089">首要需求</text>
+      <text x="812" y="200" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="1" fill="#5E7089">通常更适合的主要媒介</text>
+      <line x1="40" y1="214" x2="1240" y2="214" stroke="#1A2B4A" stroke-width="1.2" />
+  </g>
+  <g id="r-doc" data-pptx-bounds="40 214 1200 62">
+      <text x="48" y="256" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">很长、线性、可独立阅读的完整论证</text>
+      <!-- icon: tabler-outline/file-text -->
+  <g transform="translate(812, 238) scale(1.08333)" fill="none" stroke="#1A2B4A" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+      <text x="850" y="256" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">文档或报告</text>
+      <line x1="40" y1="276" x2="1240" y2="276" stroke="#E7E2D6" stroke-width="1" />
+  </g>
+  <g id="r-sheet" data-pptx-bounds="40 276 1200 62">
+      <text x="48" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">动态数据的实时探索</text>
+      <!-- icon: tabler-outline/table -->
+  <g transform="translate(812, 300) scale(1.08333)" fill="none" stroke="#1A2B4A" stroke-width="2">
+    <path d="M3 5a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-14" />
+    <path d="M3 10h18" />
+    <path d="M10 3v18" />
+  </g>
+      <text x="850" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">电子表格 / Notebook / 仪表盘</text>
+      <line x1="40" y1="338" x2="1240" y2="338" stroke="#E7E2D6" stroke-width="1" />
+  </g>
+  <g id="r-board" data-pptx-bounds="40 338 1200 62">
+      <text x="48" y="380" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">开放式群体探索</text>
+      <!-- icon: tabler-outline/layout-board -->
+  <g transform="translate(812, 362) scale(1.08333)" fill="none" stroke="#1A2B4A" stroke-width="2">
+    <path d="M4 6a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+    <path d="M4 9h8" />
+    <path d="M12 15h8" />
+    <path d="M12 4v16" />
+  </g>
+      <text x="850" y="380" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">白板或协作画布</text>
+      <line x1="40" y1="400" x2="1240" y2="400" stroke="#E7E2D6" stroke-width="1" />
+  </g>
+  <g id="r-video" data-pptx-bounds="40 400 1200 62">
+      <text x="48" y="442" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">不需编辑的固定重复播放</text>
+      <!-- icon: tabler-outline/movie -->
+  <g transform="translate(812, 424) scale(1.08333)" fill="none" stroke="#1A2B4A" stroke-width="2">
+    <path d="M4 6a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+    <path d="M8 4l0 16" />
+    <path d="M16 4l0 16" />
+    <path d="M4 8l4 0" />
+    <path d="M4 16l4 0" />
+    <path d="M4 12l16 0" />
+    <path d="M16 8l4 0" />
+    <path d="M16 16l4 0" />
+  </g>
+      <text x="850" y="442" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">视频</text>
+      <line x1="40" y1="462" x2="1240" y2="462" stroke="#E7E2D6" stroke-width="1" />
+  </g>
+  <g id="r-web" data-pptx-bounds="40 462 1200 62">
+      <text x="48" y="504" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">交互导航和丰富用户输入</text>
+      <!-- icon: tabler-outline/browser -->
+  <g transform="translate(812, 486) scale(1.08333)" fill="none" stroke="#1A2B4A" stroke-width="2">
+    <path d="M4 8h16" />
+    <path d="M4 6a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+    <path d="M8 4v4" />
+  </g>
+      <text x="850" y="504" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">Web 应用</text>
+      <line x1="40" y1="524" x2="1240" y2="524" stroke="#1A2B4A" stroke-width="1" />
+  </g>
+  <g id="r-ppt" data-pptx-bounds="40 524 1200 92">
+      <rect x="40" y="524" width="1200" height="92" fill="#F4F1EA" stroke="#C8102E" stroke-width="1.5" />
+      <text x="48" y="580" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">有顺序、可视化、可编辑并需继续流转的沟通</text>
+      <!-- icon: tabler-outline/presentation -->
+  <g transform="translate(812, 562) scale(1.16667)" fill="none" stroke="#C8102E" stroke-width="2">
+    <path d="M3 4l18 0" />
+    <path d="M4 4v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-10" />
+    <path d="M12 16l0 4" />
+    <path d="M9 20l6 0" />
+    <path d="M8 12l3 -3l2 2l3 -3" />
+  </g>
+      <text x="850" y="582" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#C8102E">PowerPoint</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P07 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">问“是否需要一份有顺序、可编辑的演示产物”，而非“能不能做成几页”</text>
+  </g>
+</svg>

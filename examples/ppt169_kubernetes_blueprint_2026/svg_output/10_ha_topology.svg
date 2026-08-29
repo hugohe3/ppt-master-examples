@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">09 · HIGH AVAILABILITY</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">10 / 13</text>
+  </g>
+
+  <g id="p10-title" data-pptx-bounds="60 84 1160 60">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">生产高可用：三台起步，奇数 etcd，跨可用区</text>
+  </g>
+
+  <g id="p10-checklist" data-pptx-bounds="60 156 1160 110">
+    <g id="p10-check-1">
+      <use data-icon="phosphor-duotone/check-circle" x="60" y="170" width="24" height="24" fill="#34D399"/>
+      <text x="92" y="188" font-size="14" font-weight="bold" fill="#E6EDF7">≥3 台控制平面主机</text>
+      <text x="92" y="210" font-size="12" fill="#8FA0B8">kube-apiserver 置于负载均衡后</text>
+    </g>
+    <g id="p10-check-2">
+      <use data-icon="phosphor-duotone/check-circle" x="300" y="170" width="24" height="24" fill="#34D399"/>
+      <text x="332" y="188" font-size="14" font-weight="bold" fill="#E6EDF7">scheduler / cm Leader 选举</text>
+      <text x="332" y="210" font-size="12" fill="#8FA0B8">多副本，同一时刻一个活跃</text>
+    </g>
+    <g id="p10-check-3">
+      <use data-icon="phosphor-duotone/check-circle" x="560" y="170" width="24" height="24" fill="#34D399"/>
+      <text x="592" y="188" font-size="14" font-weight="bold" fill="#E6EDF7">etcd ≥3 成员，取奇数</text>
+      <text x="592" y="210" font-size="12" fill="#8FA0B8">3 或 5，跨主机分布以形成法定人数</text>
+    </g>
+    <g id="p10-check-4">
+      <use data-icon="phosphor-duotone/check-circle" x="840" y="170" width="24" height="24" fill="#34D399"/>
+      <text x="872" y="188" font-size="14" font-weight="bold" fill="#E6EDF7">跨可用区分布</text>
+      <text x="872" y="210" font-size="12" fill="#8FA0B8">控制平面与工作节点都跨 AZ；丢一个区，集群继续跑</text>
+    </g>
+    <line x1="60" y1="240" x2="1220" y2="240" stroke="#243350" stroke-width="1"/>
+    <text x="60" y="260" font-size="13" fill="#8FA0B8">控制平面有两种拓扑可选，差别只在 etcd 放哪。</text>
+  </g>
+
+  <g id="p10-stacked" data-pptx-bounds="60 280 560 380">
+    <rect x="60" y="280" width="560" height="380" fill="#111C30" stroke="#243350" stroke-width="1"/>
+    <text x="84" y="310" font-family="Consolas" font-size="12" letter-spacing="3" fill="#38BDF8">TOPOLOGY A</text>
+    <text x="84" y="336" font-size="20" font-weight="bold" fill="#E6EDF7">Stacked · 堆叠式</text>
+    <text x="84" y="358" font-size="13" fill="#8FA0B8">每台控制平面主机同时跑一个 etcd 成员和 kube-apiserver</text>
+    <g id="p10-stacked-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="90 384 120 104" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 90 436 L 116 384 L 184 384 L 210 436 L 184 488 L 116 488 Z"/>
+</g>
+    <g id="p10-stacked-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="240 384 120 104" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 240 436 L 266 384 L 334 384 L 360 436 L 334 488 L 266 488 Z"/>
+</g>
+    <g id="p10-stacked-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="390 384 120 104" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 390 436 L 416 384 L 484 384 L 510 436 L 484 488 L 416 488 Z"/>
+</g>
+    <text x="150" y="430" text-anchor="middle" font-family="Consolas" font-size="11" fill="#38BDF8">apiserver</text>
+    <text x="150" y="448" text-anchor="middle" font-family="Consolas" font-size="11" fill="#A78BFA">+ etcd</text>
+    <text x="300" y="430" text-anchor="middle" font-family="Consolas" font-size="11" fill="#38BDF8">apiserver</text>
+    <text x="300" y="448" text-anchor="middle" font-family="Consolas" font-size="11" fill="#A78BFA">+ etcd</text>
+    <text x="450" y="430" text-anchor="middle" font-family="Consolas" font-size="11" fill="#38BDF8">apiserver</text>
+    <text x="450" y="448" text-anchor="middle" font-family="Consolas" font-size="11" fill="#A78BFA">+ etcd</text>
+    <line x1="210" y1="436" x2="240" y2="436" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="360" y1="436" x2="390" y2="436" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+    <text x="150" y="514" text-anchor="middle" font-family="Consolas" font-size="11" fill="#8FA0B8">host-1</text>
+    <text x="300" y="514" text-anchor="middle" font-family="Consolas" font-size="11" fill="#8FA0B8">host-2</text>
+    <text x="450" y="514" text-anchor="middle" font-family="Consolas" font-size="11" fill="#8FA0B8">host-3</text>
+    <line x1="84" y1="560" x2="596" y2="560" stroke="#243350" stroke-width="1"/>
+    <text x="84" y="590" font-size="14" fill="#34D399">+ 更简单，硬件更少</text>
+    <text x="84" y="618" font-size="14" fill="#F87171">− 一台主机故障 = 同时损失一个 apiserver 和一个 etcd 成员</text>
+  </g>
+
+  <g id="p10-external" data-pptx-bounds="660 280 560 380">
+    <rect x="660" y="280" width="560" height="380" fill="#111C30" stroke="#243350" stroke-width="1"/>
+    <text x="684" y="310" font-family="Consolas" font-size="12" letter-spacing="3" fill="#A78BFA">TOPOLOGY B</text>
+    <text x="684" y="336" font-size="20" font-weight="bold" fill="#E6EDF7">External etcd · 外置式</text>
+    <text x="684" y="358" font-size="13" fill="#8FA0B8">etcd 集群跑在专用主机上，控制平面主机只跑 apiserver 等</text>
+    <g id="p10-ext-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="730 372 90 78" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 730 411 L 749.5 372 L 800.5 372 L 820 411 L 800.5 450 L 749.5 450 Z"/>
+</g>
+    <g id="p10-ext-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="870 372 90 78" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 870 411 L 889.5 372 L 940.5 372 L 960 411 L 940.5 450 L 889.5 450 Z"/>
+</g>
+    <g id="p10-ext-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="1010 372 90 78" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 1010 411 L 1029.5 372 L 1080.5 372 L 1100 411 L 1080.5 450 L 1029.5 450 Z"/>
+</g>
+    <g id="p10-etcd-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="can" data-pptx-frame="742 466 66 62" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1.5">
+<path d="M 742 473.75 A 33 7.75 0 0 0 808 473.75 L 808 520.25 A 33 7.75 0 0 1 742 520.25 Z" stroke="none"/>
+<path d="M 742 473.75 A 33 7.75 0 0 1 808 473.75 A 33 7.75 0 0 1 742 473.75 Z" fill="#787689" stroke="none"/>
+<path d="M 808 473.75 A 33 7.75 0 0 1 742 473.75 A 33 7.75 0 0 1 808 473.75 L 808 520.25 A 33 7.75 0 0 1 742 520.25 L 742 473.75" fill="none"/>
+</g>
+    <g id="p10-etcd-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="can" data-pptx-frame="882 466 66 62" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1.5">
+<path d="M 882 473.75 A 33 7.75 0 0 0 948 473.75 L 948 520.25 A 33 7.75 0 0 1 882 520.25 Z" stroke="none"/>
+<path d="M 882 473.75 A 33 7.75 0 0 1 948 473.75 A 33 7.75 0 0 1 882 473.75 Z" fill="#787689" stroke="none"/>
+<path d="M 948 473.75 A 33 7.75 0 0 1 882 473.75 A 33 7.75 0 0 1 948 473.75 L 948 520.25 A 33 7.75 0 0 1 882 520.25 L 882 473.75" fill="none"/>
+</g>
+    <g id="p10-etcd-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="can" data-pptx-frame="1022 466 66 62" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1.5">
+<path d="M 1022 473.75 A 33 7.75 0 0 0 1088 473.75 L 1088 520.25 A 33 7.75 0 0 1 1022 520.25 Z" stroke="none"/>
+<path d="M 1022 473.75 A 33 7.75 0 0 1 1088 473.75 A 33 7.75 0 0 1 1022 473.75 Z" fill="#787689" stroke="none"/>
+<path d="M 1088 473.75 A 33 7.75 0 0 1 1022 473.75 A 33 7.75 0 0 1 1088 473.75 L 1088 520.25 A 33 7.75 0 0 1 1022 520.25 L 1022 473.75" fill="none"/>
+</g>
+    <text x="775" y="415" text-anchor="middle" font-family="Consolas" font-size="11" fill="#38BDF8">apiserver</text>
+    <text x="915" y="415" text-anchor="middle" font-family="Consolas" font-size="11" fill="#38BDF8">apiserver</text>
+    <text x="1055" y="415" text-anchor="middle" font-family="Consolas" font-size="11" fill="#38BDF8">apiserver</text>
+    <line x1="775" y1="450" x2="775" y2="466" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="915" y1="450" x2="915" y2="466" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="1055" y1="450" x2="1055" y2="466" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.5"/>
+    <text x="775" y="548" text-anchor="middle" font-family="Consolas" font-size="11" fill="#A78BFA">etcd-1</text>
+    <text x="915" y="548" text-anchor="middle" font-family="Consolas" font-size="11" fill="#A78BFA">etcd-2</text>
+    <text x="1055" y="548" text-anchor="middle" font-family="Consolas" font-size="11" fill="#A78BFA">etcd-3</text>
+    <line x1="684" y1="560" x2="1196" y2="560" stroke="#243350" stroke-width="1"/>
+    <text x="684" y="590" font-size="14" fill="#34D399">+ 更好的故障隔离：apiserver 与 etcd 各自独立倒下</text>
+    <text x="684" y="618" font-size="14" fill="#F87171">− 需要更多硬件</text>
+  </g>
+</svg>

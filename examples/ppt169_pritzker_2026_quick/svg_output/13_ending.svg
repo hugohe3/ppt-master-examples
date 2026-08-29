@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <defs>
+    <linearGradient id="p13Scrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E0D0C" stop-opacity="0.45"/>
+      <stop offset="0.5" stop-color="#0E0D0C" stop-opacity="0.62"/>
+      <stop offset="1" stop-color="#0E0D0C" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <image id="p13-photo-bg" data-pptx-role="background" href="../images/640_16.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="p13-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p13Scrim)"/>
+
+  <g id="p13-quote" data-pptx-bounds="140 200 1000 260">
+    <use data-icon="tabler-outline/quote" x="620" y="206" width="40" height="40" fill="#E8A47C"/>
+    <text x="640" y="300" text-anchor="middle" font-family="KaiTi" font-size="34" fill="#F4F0E9">所有传世的经典，皆源于日复一日的坚守，<tspan x="640" dy="52">源于对空间、自然、人文的极致敬畏与深度思考。</tspan></text>
+    <line x1="560" y1="392" x2="720" y2="392" stroke="#E8A47C" stroke-width="2"/>
+    <text x="640" y="430" text-anchor="middle" font-size="18" letter-spacing="2" fill="#F4F0E9" fill-opacity="0.85">2026 普利兹克大师季 · 8 座新作，8 种深耕</text>
+  </g>
+
+  <g id="p13-refs" data-pptx-bounds="60 610 860 70" fill="#F4F0E9" font-size="12">
+    <text x="60" y="628" letter-spacing="1" fill-opacity="0.6">参考资料</text>
+    <text x="60" y="650" fill-opacity="0.7">《12座艺术新地标，刷新你对世界的想象 | 2026 全球文化爆点》（公众号“丹尼尔先生”）<tspan x="60" dy="20">《上海新开一座绝美艺术馆，建筑大师率团队亲设：首展就超重磅！》（公众号“一条艺术”）</tspan></text>
+  </g>
+
+  <g id="p13-caption" data-pptx-bounds="940 656 280 24">
+    <text x="1220" y="672" text-anchor="end" font-size="12" fill="#F4F0E9" fill-opacity="0.6">LACMA 大卫·格芬画廊（摄影：Iwan Baan）</text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#F4F0E9" fill-opacity="0.7">13 / 13</text>
+  </g>
+</svg>

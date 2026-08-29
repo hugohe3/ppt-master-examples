@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <marker id="spineArrow" orient="auto" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse">
+      <polygon points="0,0 10,5 0,10" fill="#1C1A17"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F0E9"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 44 600 30">
+    <line x1="60" y1="60" x2="96" y2="60" stroke="#B4532A" stroke-width="2"/>
+    <text x="108" y="65" font-size="14" letter-spacing="2" fill="#6F675E">2026 普利兹克大师季 · 序</text>
+  </g>
+
+  <g id="p2-title" data-pptx-bounds="60 90 1160 140">
+    <text x="60" y="140" font-size="38" font-weight="bold" fill="#1C1A17">一年之内，八座大师新作接连揭幕</text>
+    <text x="60" y="186" font-size="20" fill="#3F3A34">不同于网红建筑的转瞬即逝，这些新作是岁月沉淀的匠心深耕，<tspan x="60" dy="32">是建筑、自然、人文与时代的深度结合——2026 成为名副其实的“普利兹克大师新作季”。</tspan></text>
+  </g>
+
+  <g id="p2-timeline" data-pptx-bounds="60 250 1160 290">
+    <line x1="70" y1="400" x2="1190" y2="400" stroke="#1C1A17" stroke-width="2" marker-end="url(#spineArrow)"/>
+
+    <g id="p2-m1">
+      <line x1="130" y1="386" x2="130" y2="352" stroke="#B4532A" stroke-width="1.5"/>
+      <circle cx="130" cy="400" r="8" fill="#B4532A"/>
+      <text x="130" y="296" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#B4532A">2026.01</text>
+      <text x="130" y="322" text-anchor="middle" font-size="16" font-weight="bold" fill="#1C1A17">苏州H+美术馆</text>
+      <text x="130" y="344" text-anchor="middle" font-size="14" fill="#6F675E">安藤忠雄</text>
+    </g>
+    <g id="p2-m2">
+      <line x1="270" y1="414" x2="270" y2="448" stroke="#B4532A" stroke-width="1.5"/>
+      <circle cx="270" cy="400" r="8" fill="#B4532A"/>
+      <text x="270" y="474" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#B4532A">2026.02</text>
+      <text x="270" y="500" text-anchor="middle" font-size="16" font-weight="bold" fill="#1C1A17">米兰圣朱利亚冰球馆</text>
+      <text x="270" y="522" text-anchor="middle" font-size="14" fill="#6F675E">戴卫·奇普菲尔德</text>
+    </g>
+    <g id="p2-m3">
+      <line x1="410" y1="386" x2="410" y2="352" stroke="#B4532A" stroke-width="1.5"/>
+      <circle cx="410" cy="400" r="8" fill="#B4532A"/>
+      <text x="410" y="296" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#B4532A">03.21</text>
+      <text x="410" y="322" text-anchor="middle" font-size="16" font-weight="bold" fill="#1C1A17">纽约新美术馆扩建</text>
+      <text x="410" y="344" text-anchor="middle" font-size="14" fill="#6F675E">OMA × SANAA</text>
+    </g>
+    <g id="p2-m4">
+      <line x1="550" y1="414" x2="550" y2="448" stroke="#B4532A" stroke-width="1.5"/>
+      <circle cx="550" cy="400" r="8" fill="#B4532A"/>
+      <text x="550" y="474" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#B4532A">2026.04</text>
+      <text x="550" y="500" text-anchor="middle" font-size="16" font-weight="bold" fill="#1C1A17">上海嘉艺术</text>
+      <text x="550" y="522" text-anchor="middle" font-size="14" fill="#6F675E">诺曼·福斯特</text>
+    </g>
+    <g id="p2-m5">
+      <line x1="690" y1="386" x2="690" y2="352" stroke="#B4532A" stroke-width="1.5"/>
+      <circle cx="690" cy="400" r="8" fill="#B4532A"/>
+      <text x="690" y="296" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#B4532A">2026.04</text>
+      <text x="690" y="322" text-anchor="middle" font-size="16" font-weight="bold" fill="#1C1A17">塞内加尔歌德学院</text>
+      <text x="690" y="344" text-anchor="middle" font-size="14" fill="#6F675E">迪埃贝多·弗朗西斯·凯雷</text>
+    </g>
+    <g id="p2-m6">
+      <line x1="830" y1="414" x2="830" y2="448" stroke="#B4532A" stroke-width="1.5"/>
+      <circle cx="830" cy="400" r="8" fill="#B4532A"/>
+      <text x="830" y="474" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#B4532A">05.04</text>
+      <text x="830" y="500" text-anchor="middle" font-size="16" font-weight="bold" fill="#1C1A17">LACMA 大卫·格芬画廊</text>
+      <text x="830" y="522" text-anchor="middle" font-size="14" fill="#6F675E">彼得·卒姆托</text>
+    </g>
+    <g id="p2-m7">
+      <line x1="970" y1="386" x2="970" y2="352" stroke="#B4532A" stroke-width="1.5"/>
+      <circle cx="970" cy="400" r="8" fill="#B4532A"/>
+      <text x="970" y="296" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#B4532A">05.12</text>
+      <text x="970" y="322" text-anchor="middle" font-size="16" font-weight="bold" fill="#1C1A17">淡江大桥</text>
+      <text x="970" y="344" text-anchor="middle" font-size="14" fill="#6F675E">扎哈·哈迪德事务所</text>
+    </g>
+    <g id="p2-m8">
+      <line x1="1110" y1="414" x2="1110" y2="448" stroke="#B4532A" stroke-width="1.5" stroke-dasharray="4,4"/>
+      <circle cx="1110" cy="400" r="8" fill="#F4F0E9" stroke="#B4532A" stroke-width="2.5"/>
+      <text x="1110" y="474" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#B4532A">2026 待定</text>
+      <text x="1110" y="500" text-anchor="middle" font-size="16" font-weight="bold" fill="#1C1A17">阿布扎比古根海姆博物馆</text>
+      <text x="1110" y="522" text-anchor="middle" font-size="14" fill="#6F675E">弗兰克·盖里 · 遗作</text>
+    </g>
+  </g>
+
+  <g id="p2-kpis" data-pptx-bounds="60 570 1160 110">
+    <line x1="60" y1="570" x2="1220" y2="570" stroke="#D6CEC2" stroke-width="1"/>
+    <g id="p2-kpi-masters">
+      <text x="60" y="632" font-family="Georgia" font-size="52" font-weight="bold" fill="#1C1A17">8</text>
+      <text x="100" y="616" font-size="18" font-weight="bold" fill="#1C1A17">位普利兹克奖得主</text>
+      <text x="100" y="642" font-size="14" fill="#6F675E">得奖年份横跨 1989 – 2023</text>
+    </g>
+    <line x1="420" y1="590" x2="420" y2="660" stroke="#D6CEC2" stroke-width="1"/>
+    <g id="p2-kpi-continents">
+      <text x="460" y="632" font-family="Georgia" font-size="52" font-weight="bold" fill="#1C1A17">4</text>
+      <text x="500" y="616" font-size="18" font-weight="bold" fill="#1C1A17">大洲</text>
+      <text x="500" y="642" font-size="14" fill="#6F675E">亚洲 · 欧洲 · 北美 · 非洲</text>
+    </g>
+    <line x1="800" y1="590" x2="800" y2="660" stroke="#D6CEC2" stroke-width="1"/>
+    <g id="p2-kpi-types">
+      <text x="840" y="632" font-family="Georgia" font-size="52" font-weight="bold" fill="#1C1A17">5</text>
+      <text x="880" y="616" font-size="18" font-weight="bold" fill="#1C1A17">座美术馆</text>
+      <text x="880" y="642" font-size="14" fill="#6F675E">另有冰球馆 · 大桥 · 文化学院各 1 座</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#6F675E">02 / 13</text>
+  </g>
+</svg>

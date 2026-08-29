@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">01 · 一个混合概念</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">说“PPT”时，我们其实在说五种不同的东西</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="row-software" data-pptx-bounds="40 172 700 88">
+      <use data-icon="tabler-outline/app-window" x="48" y="180" width="34" height="34" fill="#1A2B4A" stroke-width="2"/>
+      <text x="100" y="198" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">PowerPoint — 软件</text>
+      <text x="100" y="226" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">Microsoft 提供的创作、编辑、演示与协作软件</text>
+  </g>
+  <g id="row-presentation" data-pptx-bounds="40 262 700 88">
+      <use data-icon="tabler-outline/presentation" x="48" y="270" width="34" height="34" fill="#1A2B4A" stroke-width="2"/>
+      <text x="100" y="288" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">Presentation — 演示活动</text>
+      <text x="100" y="316" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">一次包含信息、受众、场景与预期结果的沟通活动</text>
+  </g>
+  <g id="row-deck" data-pptx-bounds="40 352 700 88">
+      <use data-icon="tabler-outline/stack-2" x="48" y="360" width="34" height="34" fill="#1A2B4A" stroke-width="2"/>
+      <text x="100" y="378" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">Deck — 有序文档</text>
+      <text x="100" y="406" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">在活动前、中、后使用的有序、可编辑演示文档</text>
+  </g>
+  <g id="row-slideshow" data-pptx-bounds="40 442 700 88">
+      <use data-icon="tabler-outline/player-play" x="48" y="450" width="34" height="34" fill="#1A2B4A" stroke-width="2"/>
+      <text x="100" y="468" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">Slide show — 放映</text>
+      <text x="100" y="496" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">被现场演示或自动播放、含转场动画旁白的页面序列</text>
+  </g>
+  <g id="row-file" data-pptx-bounds="40 532 700 88">
+      <use data-icon="tabler-outline/file-zip" x="48" y="540" width="34" height="34" fill="#C8102E" stroke-width="2"/>
+      <text x="100" y="558" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">PPT / PPTX 文件 — 数字包</text>
+      <text x="100" y="586" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">保存页面、可复用结构、媒体、备注、关系与行为的包</text>
+  </g>
+
+  <g id="art-meanings" data-pptx-bounds="764 172 476 400">
+    <rect x="764" y="180" width="476" height="388" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.5"/>
+    <image href="../images/five_meanings.jpg" x="776" y="192" width="452" height="364" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="note" data-pptx-bounds="764 584 476 60">
+    <text x="764" y="606" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">本演示中，PPT 指这一类</text>
+    <text x="764" y="634" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">演示文稿产物，不只是 .ppt 扩展名。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P02 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">来源：Microsoft — What is PowerPoint?</text>
+  </g>
+</svg>

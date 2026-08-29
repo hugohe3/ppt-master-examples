@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <image id="model-art" data-pptx-role="decoration" href="../images/object_model.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="model-scrim" data-pptx-role="decoration" x="0" y="0" width="512" height="720" fill="#FFFFFF" fill-opacity="0.82"/>
+
+  <g id="header" data-pptx-bounds="40 60 452 150">
+    <rect x="40" y="72" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="86" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">03 · 原生结构</text>
+    <text x="40" y="134" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="34" font-weight="bold" fill="#1A2B4A">.pptx 是相互关联</text>
+    <text x="40" y="176" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="34" font-weight="bold" fill="#1A2B4A">部件组成的包</text>
+  </g>
+
+  <g id="model-intro" data-pptx-bounds="40 214 440 60">
+    <text x="40" y="242" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#5E7089">不是每页一张位图，也不是</text>
+    <text x="40" y="268" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#5E7089">一个巨大的单体 XML。</text>
+  </g>
+
+  <g id="ly-theme" data-pptx-bounds="40 288 440 40">
+      <rect x="40" y="296" width="8" height="26" fill="#5E7089"/>
+      <text x="62" y="317" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">Theme</text>
+      <text x="176" y="317" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">颜色 / 字体 / 效果</text>
+  </g>
+  <g id="ly-master" data-pptx-bounds="40 328 440 40">
+      <rect x="40" y="336" width="8" height="26" fill="#5E7089"/>
+      <text x="62" y="357" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">Slide Master</text>
+      <text x="256" y="357" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">母版</text>
+  </g>
+  <g id="ly-layout" data-pptx-bounds="40 368 440 40">
+      <rect x="40" y="376" width="8" height="26" fill="#5E7089"/>
+      <text x="62" y="397" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">Slide Layout</text>
+      <text x="256" y="397" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">版式</text>
+  </g>
+  <g id="ly-slide" data-pptx-bounds="40 408 440 40">
+      <rect x="40" y="416" width="8" height="26" fill="#C8102E"/>
+      <text x="62" y="437" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">Slide</text>
+      <text x="176" y="437" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">绑定某个 Layout 的实例</text>
+  </g>
+  <g id="ly-extra" data-pptx-bounds="40 448 440 40">
+      <rect x="40" y="456" width="8" height="26" fill="#5E7089"/>
+      <text x="62" y="477" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">Notes / Media</text>
+      <text x="276" y="477" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">关系 · 行为</text>
+  </g>
+
+  <g id="model-summary" data-pptx-bounds="40 500 440 110">
+    <line x1="40" y1="512" x2="480" y2="512" stroke="#E7E2D6" stroke-width="1"/>
+    <text x="40" y="548" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">层级：Theme → Master →</text>
+    <text x="40" y="574" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">Layout → Slide，右图为等距</text>
+    <text x="40" y="600" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">爆炸示意。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 452 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P10 / 17 · 来源：Microsoft PresentationML 结构指南</text>
+  </g>
+</svg>

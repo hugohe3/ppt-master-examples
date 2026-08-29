@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending">
+  <defs>
+    <marker id="arrowNavy2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <polygon points="0,0 10,5 0,10" fill="#FFFFFF"/>
+    </marker>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <polygon points="0,0 10,5 0,10" fill="#C8102E"/>
+    </marker>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1A2B4A"/>
+
+  <g id="header" data-pptx-bounds="40 60 1200 90">
+    <rect x="40" y="72" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="86" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#7F8CA6">04 · 方法闭环</text>
+    <text x="40" y="134" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="34" font-weight="bold" fill="#FFFFFF">先想清任务，工具才服务沟通</text>
+  </g>
+
+  <g id="statement" data-pptx-bounds="40 178 1200 176">
+    <text x="40" y="248" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="58" font-weight="bold" fill="#FFFFFF">PPT 不是一叠静态页面，</text>
+    <text x="40" y="322" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="58" font-weight="bold" fill="#FFFFFF">而是需要<tspan fill="#C8102E">持续流转</tspan>的沟通产物。</text>
+  </g>
+
+  <g id="ml-1" data-pptx-bounds="40 392 270 110">
+      <rect x="40" y="392" width="270" height="110" fill="#22375C" stroke="#7F8CA6" stroke-width="1"/>
+      <text x="62" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">① 明确任务</text>
+      <text x="62" y="462" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">受众要完成</text>
+      <text x="62" y="488" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">什么？</text>
+  </g>
+  <g id="ml-2" data-pptx-bounds="314 392 306 110">
+    <line x1="314" y1="447" x2="346" y2="447" stroke="#FFFFFF" stroke-width="2" marker-end="url(#arrowNavy2)"/>
+    <rect x="350" y="392" width="270" height="110" fill="#22375C" stroke="#7F8CA6" stroke-width="1"/>
+    <text x="372" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">② 选媒介</text>
+    <text x="372" y="462" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">是否真的该</text>
+    <text x="372" y="488" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">用演示文稿？</text>
+  </g>
+  <g id="ml-3" data-pptx-bounds="624 392 306 110">
+    <line x1="624" y1="447" x2="656" y2="447" stroke="#FFFFFF" stroke-width="2" marker-end="url(#arrowNavy2)"/>
+    <rect x="660" y="392" width="270" height="110" fill="#22375C" stroke="#7FF0D8" stroke-width="1"/>
+    <text x="682" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">③ 建结构</text>
+    <text x="682" y="462" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">有顺序、可</text>
+    <text x="682" y="488" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">编辑的原生结构</text>
+  </g>
+  <g id="ml-4" data-pptx-bounds="934 392 306 110">
+    <line x1="934" y1="447" x2="966" y2="447" stroke="#FFFFFF" stroke-width="2" marker-end="url(#arrowNavy2)"/>
+    <rect x="970" y="392" width="270" height="110" fill="#22375C" stroke="#7FF0D8" stroke-width="1"/>
+    <text x="992" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">④ 保质量</text>
+    <text x="992" y="462" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">用六层质量</text>
+    <text x="992" y="488" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">自检</text>
+  </g>
+  <g id="ml-return" data-pptx-bounds="160 502 960 62">
+    <path d="M1105 502 L1105 556 L175 556 L175 502" fill="none" stroke="#C8102E" stroke-width="2" stroke-dasharray="7,5" marker-end="url(#arrowRed)"/>
+    <text x="640" y="548" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="18" font-weight="bold" fill="#C8102E">↻ 回到下一次的任务</text>
+  </g>
+
+  <g id="closing-note" data-pptx-bounds="40 606 1200 60">
+    <line x1="40" y1="606" x2="1240" y2="606" stroke="#3A4E70" stroke-width="1"/>
+    <text x="40" y="642" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#C7D0DE">把它当作理解 PPT 本质的参考，随团队与场景反复复用。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#7F8CA6">P17 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#7F8CA6">什么是 PPT · 完</text>
+  </g>
+</svg>

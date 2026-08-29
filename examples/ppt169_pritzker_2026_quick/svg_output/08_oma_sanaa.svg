@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F0E9"/>
+
+  <g id="p8-title" data-pptx-bounds="60 44 1160 110">
+    <use data-icon="tabler-outline/award" x="60" y="50" width="20" height="20" fill="#B4532A"/>
+    <text x="88" y="66" font-size="14" letter-spacing="1" fill="#6F675E">OMA × SANAA · 雷姆·库哈斯（2000年得主）× 妹岛和世、西泽立卫（2010年得主）</text>
+    <text x="60" y="128" font-family="Georgia" font-size="72" font-weight="bold" fill="#B4532A" fill-opacity="0.16">05</text>
+    <text x="60" y="120" font-size="40" font-weight="bold" fill="#1C1A17">纽约新美术馆扩建</text>
+    <text x="420" y="118" font-family="KaiTi" font-size="24" fill="#B4532A">双强联动，新旧艺术共生</text>
+  </g>
+
+  <g id="p8-compare" data-pptx-bounds="60 160 1160 332">
+    <image href="../images/640_12.jpg" x="60" y="160" width="560" height="300" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/640_13.jpg" x="660" y="160" width="560" height="300" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="76" y="176" width="82" height="26" rx="4" fill="#14120F" fill-opacity="0.7"/>
+    <text x="117" y="194" text-anchor="middle" font-family="Georgia" font-size="12" letter-spacing="2" fill="#F4F0E9">BEFORE</text>
+    <rect x="676" y="176" width="72" height="26" rx="4" fill="#B4532A"/>
+    <text x="712" y="194" text-anchor="middle" font-family="Georgia" font-size="12" letter-spacing="2" fill="#F4F0E9">AFTER</text>
+    <circle cx="640" cy="320" r="28" fill="#F4F0E9"/>
+<g id="p8-seam-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="618 302 44 36" fill="#B4532A" stroke="none">
+<path d="M 618 302 L 644 302 L 662 320 L 644 338 L 618 338 L 636 320 Z"/>
+</g>
+    <text x="60" y="484" font-size="13" fill="#6F675E">扩建前 · 街景（图源：OMA，摄影：Dean Kaufman）</text>
+    <text x="660" y="484" font-size="13" fill="#6F675E">扩建后 · 新翼与 SANAA 主楼无缝衔接（摄影：Jason O'Rear）</text>
+  </g>
+
+  <g id="p8-kpis" data-pptx-bounds="60 506 300 178">
+    <g id="p8-kpi-cost">
+      <text x="60" y="538" font-family="Georgia" font-size="30" font-weight="bold" fill="#1C1A17">8,200 万</text>
+      <text x="60" y="558" font-size="13" fill="#6F675E">美元 · 扩建投资</text>
+    </g>
+    <line x1="60" y1="570" x2="330" y2="570" stroke="#D6CEC2" stroke-width="1"/>
+    <g id="p8-kpi-area">
+      <text x="60" y="600" font-family="Georgia" font-size="30" font-weight="bold" fill="#1C1A17">60,000</text>
+      <text x="60" y="620" font-size="13" fill="#6F675E">平方英尺 · 约 5,574 m² 新翼</text>
+    </g>
+    <line x1="60" y1="632" x2="330" y2="632" stroke="#D6CEC2" stroke-width="1"/>
+    <g id="p8-kpi-date">
+      <text x="60" y="662" font-family="Georgia" font-size="30" font-weight="bold" fill="#B4532A">2026.03.21</text>
+      <text x="60" y="678" font-size="13" fill="#6F675E">正式向公众开放</text>
+    </g>
+  </g>
+
+  <g id="p8-body" data-pptx-bounds="400 506 500 176">
+    <text x="400" y="530" font-size="17" fill="#3F3A34">OMA 的先锋解构思维与 SANAA 的轻盈通透美学碰撞交融，<tspan x="400" dy="28">为这座百年美术馆注入全新活力。新翼与主楼无缝衔接，</tspan><tspan x="400" dy="28">以通透立面、错落空间和开放布局打破内外壁垒，让城市</tspan><tspan x="400" dy="28">街景与艺术空间相互渗透；以年轻化、国际化的设计语言</tspan><tspan x="400" dy="28">适配当代艺术的多元表达——迭代更新，兼容并蓄。</tspan></text>
+  </g>
+
+  <g id="p8-photo-interior" data-pptx-bounds="940 506 280 176">
+    <image href="../images/640_15.jpg" x="940" y="506" width="280" height="150" preserveAspectRatio="xMidYMid slice"/>
+    <text x="940" y="676" font-size="13" fill="#6F675E">美术馆内部（摄影：Jason O'Rear）</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#6F675E">08 / 13</text>
+  </g>
+</svg>

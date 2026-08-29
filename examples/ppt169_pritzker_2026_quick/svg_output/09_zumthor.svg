@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F0E9"/>
+
+  <g id="p9-band" data-pptx-bounds="0 0 1280 400">
+    <image href="../images/640_17.jpg" x="0" y="0" width="1280" height="400" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="0" y="360" width="1280" height="40" fill="#14120F" fill-opacity="0.5"/>
+    <text x="1220" y="386" text-anchor="end" font-size="13" fill="#F4F0E9">大卫·格芬画廊横跨威尔希尔大道（图源：Archdaily，摄影：Iwan Baan）</text>
+  </g>
+  <rect id="p9-slab" data-pptx-role="decoration" x="0" y="400" width="1280" height="8" fill="#B4532A"/>
+
+  <g id="p9-title" data-pptx-bounds="60 432 440 254">
+    <use data-icon="tabler-outline/award" x="60" y="438" width="20" height="20" fill="#B4532A"/>
+    <text x="88" y="454" font-size="14" letter-spacing="1" fill="#6F675E">彼得·卒姆托 · 2009年普利兹克奖得主</text>
+    <text x="60" y="540" font-family="Georgia" font-size="96" font-weight="bold" fill="#B4532A" fill-opacity="0.16">06</text>
+    <text x="60" y="512" font-size="32" font-weight="bold" fill="#1C1A17">洛杉矶 LACMA<tspan x="60" dy="40">大卫·格芬画廊</tspan></text>
+    <text x="60" y="594" font-family="KaiTi" font-size="22" fill="#B4532A">20年打磨的诗意艺术方舟</text>
+    <g id="p9-chips">
+      <rect x="60" y="614" width="200" height="30" rx="15" fill="none" stroke="#D6CEC2" stroke-width="1"/>
+      <use data-icon="tabler-outline/map-pin" x="72" y="621" width="16" height="16" fill="#B4532A"/>
+      <text x="94" y="634" font-size="14" fill="#3F3A34">洛杉矶 · 威尔希尔大道</text>
+      <rect x="272" y="614" width="170" height="30" rx="15" fill="none" stroke="#D6CEC2" stroke-width="1"/>
+      <use data-icon="tabler-outline/calendar-event" x="284" y="621" width="16" height="16" fill="#B4532A"/>
+      <text x="306" y="634" font-size="14" fill="#3F3A34">2026.05.04 开放</text>
+    </g>
+  </g>
+
+  <g id="p9-kpis" data-pptx-bounds="540 432 400 128">
+    <g id="p9-kpi-years">
+      <use data-icon="tabler-outline/hourglass" x="540" y="440" width="22" height="22" fill="#B4532A"/>
+      <text x="570" y="470" font-family="Georgia" font-size="32" font-weight="bold" fill="#1C1A17">20<tspan font-family="Microsoft YaHei" font-size="16" font-weight="normal" fill="#6F675E"> 年反复打磨</tspan></text>
+    </g>
+    <g id="p9-kpi-pavilions">
+      <use data-icon="tabler-outline/building" x="740" y="440" width="22" height="22" fill="#B4532A"/>
+      <text x="770" y="470" font-family="Georgia" font-size="32" font-weight="bold" fill="#1C1A17">7<tspan font-family="Microsoft YaHei" font-size="16" font-weight="normal" fill="#6F675E"> 座混凝土亭子</tspan></text>
+    </g>
+    <line x1="540" y1="490" x2="940" y2="490" stroke="#D6CEC2" stroke-width="1"/>
+    <g id="p9-kpi-cost">
+      <use data-icon="tabler-outline/coin" x="540" y="504" width="22" height="22" fill="#B4532A"/>
+      <text x="570" y="534" font-family="Georgia" font-size="32" font-weight="bold" fill="#1C1A17">7.24<tspan font-family="Microsoft YaHei" font-size="16" font-weight="normal" fill="#6F675E"> 亿美元</tspan></text>
+    </g>
+    <g id="p9-kpi-area">
+      <use data-icon="tabler-outline/ruler-measure" x="740" y="504" width="22" height="22" fill="#B4532A"/>
+      <text x="770" y="534" font-family="Georgia" font-size="22" font-weight="bold" fill="#1C1A17">347,600<tspan font-family="Microsoft YaHei" font-size="12" font-weight="normal" fill="#6F675E"> 平方英尺</tspan><tspan x="770" dy="18" font-family="Microsoft YaHei" font-size="12" font-weight="normal" fill="#6F675E">≈ 32,293 m²</tspan></text>
+    </g>
+  </g>
+
+  <g id="p9-body" data-pptx-bounds="540 566 400 120">
+    <text x="540" y="588" font-size="16" fill="#3F3A34">低平舒展的水平线条横跨繁忙的威尔希尔大道上方，<tspan x="540" dy="26">取代原有四座分散建筑，化作悬浮于城市之上的</tspan><tspan x="540" dy="26">“艺术方舟”。摒弃艺术品的等级划分，让古典</tspan><tspan x="540" dy="26">与当代艺术平等共生、自由对话。</tspan></text>
+  </g>
+
+  <g id="p9-photo-interior" data-pptx-bounds="980 432 240 168">
+    <image href="../images/640_18.jpg" x="980" y="432" width="240" height="160" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <g id="p9-quote" data-pptx-bounds="980 608 240 78">
+    <rect x="980" y="610" width="4" height="70" fill="#B4532A"/>
+    <text x="998" y="632" font-family="KaiTi" font-size="18" fill="#1C1A17">建筑是场所的诗意容器</text>
+    <text x="998" y="656" font-size="12" fill="#6F675E">一个让艺术品与洛杉矶天空<tspan x="998" dy="18">对话的纯净居所</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#6F675E">09 / 13</text>
+  </g>
+</svg>

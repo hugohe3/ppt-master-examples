@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <clipPath id="p10ClipA" clipPathUnits="userSpaceOnUse">
+      <polygon points="600,0 1280,0 1280,296 600,336"/>
+    </clipPath>
+    <clipPath id="p10ClipB" clipPathUnits="userSpaceOnUse">
+      <polygon points="600,346 990,323 960,720 600,720"/>
+    </clipPath>
+    <clipPath id="p10ClipC" clipPathUnits="userSpaceOnUse">
+      <polygon points="1002,322 1280,306 1280,720 972,720"/>
+    </clipPath>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1F1C19"/>
+
+  <g id="p10-mosaic" data-pptx-bounds="600 0 680 720">
+    <image href="../images/640_19.jpg" x="600" y="0" width="680" height="340" preserveAspectRatio="xMidYMid slice" clip-path="url(#p10ClipA)"/>
+    <image href="../images/640_21.jpg" x="600" y="320" width="390" height="400" preserveAspectRatio="xMidYMid slice" clip-path="url(#p10ClipB)"/>
+    <image href="../images/640_20.jpg" x="970" y="300" width="310" height="420" preserveAspectRatio="xMidYMid slice" clip-path="url(#p10ClipC)"/>
+  </g>
+
+  <g id="p10-title" data-pptx-bounds="60 44 500 226">
+    <use data-icon="tabler-outline/award" x="60" y="50" width="20" height="20" fill="#E8A47C"/>
+    <text x="88" y="66" font-size="14" letter-spacing="1" fill="#CFC6B8">弗兰克·盖里 · 1989年普利兹克奖得主 · 2025年12月逝世</text>
+    <text x="60" y="176" font-family="Georgia" font-size="120" font-weight="bold" fill="#F4F0E9" fill-opacity="0.1">07</text>
+    <text x="60" y="150" font-size="36" font-weight="bold" fill="#F4F0E9">阿布扎比古根海姆博物馆</text>
+    <text x="60" y="196" font-family="KaiTi" font-size="24" fill="#E8A47C">沙漠中的“解构主义绝唱”</text>
+    <g id="p10-chips">
+      <rect x="60" y="226" width="110" height="30" rx="15" fill="#F4F0E9" fill-opacity="0.1"/>
+      <use data-icon="tabler-outline/map-pin" x="72" y="233" width="16" height="16" fill="#E8A47C"/>
+      <text x="94" y="246" font-size="14" fill="#F4F0E9">阿布扎比</text>
+      <rect x="182" y="226" width="160" height="30" rx="15" fill="#F4F0E9" fill-opacity="0.1"/>
+      <use data-icon="tabler-outline/calendar-event" x="194" y="233" width="16" height="16" fill="#E8A47C"/>
+      <text x="216" y="246" font-size="14" fill="#F4F0E9">预计 2026 年开幕</text>
+      <rect x="354" y="226" width="166" height="30" rx="15" fill="#F4F0E9" fill-opacity="0.1"/>
+      <use data-icon="tabler-outline/hourglass" x="366" y="233" width="16" height="16" fill="#E8A47C"/>
+      <text x="388" y="246" font-size="14" fill="#F4F0E9">倾注近 20 年心血</text>
+    </g>
+  </g>
+
+  <g id="p10-body" data-pptx-bounds="60 284 500 150">
+    <text x="60" y="306" font-size="18" fill="#E6DFD3">运用标志性的大体块碰撞与解构语言：不规则曲面、<tspan x="60" dy="28">灵动褶皱和极具冲击力的几何形态，打破传统博物馆</tspan><tspan x="60" dy="28">的规整肃穆；针对沙漠极端气候量身打造先进的遮阳</tspan><tspan x="60" dy="28">与隔热系统。金属外立面随日光流转变换肌理，建筑</tspan><tspan x="60" dy="28">形态随视角改变而不断变化。</tspan></text>
+  </g>
+
+  <g id="p10-features" data-pptx-bounds="60 446 500 126">
+    <line x1="60" y1="446" x2="540" y2="446" stroke="#F4F0E9" stroke-opacity="0.2" stroke-width="1"/>
+    <g id="p10-feature-1">
+      <use data-icon="tabler-outline/sun" x="60" y="462" width="22" height="22" fill="#E8A47C"/>
+      <text x="94" y="479" font-size="16" fill="#F4F0E9">沙漠极端气候 · 先进的遮阳与隔热系统</text>
+    </g>
+    <g id="p10-feature-2">
+      <use data-icon="tabler-outline/layers-intersect" x="60" y="500" width="22" height="22" fill="#E8A47C"/>
+      <text x="94" y="517" font-size="16" fill="#F4F0E9">大体块碰撞 · 不规则曲面与灵动褶皱</text>
+    </g>
+    <g id="p10-feature-3">
+      <use data-icon="tabler-outline/infinity" x="60" y="538" width="22" height="22" fill="#E8A47C"/>
+      <text x="94" y="555" font-size="16" fill="#F4F0E9">为当代艺术在古老中东寻得一处震撼心灵的安身之所</text>
+    </g>
+  </g>
+
+  <g id="p10-quote" data-pptx-bounds="60 586 500 100">
+    <rect x="60" y="588" width="4" height="72" fill="#E8A47C"/>
+    <text x="82" y="616" font-family="KaiTi" font-size="24" fill="#F4F0E9">建筑无边界，创意无极限。</text>
+    <text x="82" y="644" font-size="13" fill="#CFC6B8">解构主义大师的收官之作，为建筑史留下浓墨重彩的一笔</text>
+    <text x="82" y="672" font-size="12" fill="#CFC6B8" fill-opacity="0.8">右：博物馆效果图（图源：Gehry Partners）</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#F4F0E9" fill-opacity="0.7">10 / 13</text>
+  </g>
+</svg>

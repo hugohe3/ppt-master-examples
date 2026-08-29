@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <image id="cover-art" data-pptx-role="decoration" href="../images/cover_identities.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <!-- left scrim for title legibility -->
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="900" height="720" fill="#FFFFFF" fill-opacity="0.74"/>
+
+  <g id="cover-kicker" data-pptx-bounds="80 150 600 40">
+    <rect x="80" y="158" width="46" height="4" fill="#C8102E"/>
+    <text x="140" y="172" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="3" fill="#5E7089">WHAT IS PPT · 演示文稿的本质</text>
+  </g>
+
+  <g id="cover-title" data-pptx-bounds="80 240 900 130">
+    <text x="80" y="330" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="96" font-weight="bold" fill="#1A2B4A">什么是 PPT？</text>
+  </g>
+  <g id="cover-subtitle" data-pptx-bounds="80 374 900 42">
+    <text x="82" y="404" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" fill="#22262B">它不只是几页幻灯片，而是四种东西的叠加：</text>
+  </g>
+  <g id="cover-identities" data-pptx-bounds="80 416 1000 50">
+    <text x="82" y="446" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1A2B4A">沟通媒介 · 可编辑文档 · 传递载体 · 原生结构</text>
+  </g>
+
+  <g id="cover-footer" data-pptx-bounds="80 620 900 50">
+    <line x1="80" y1="622" x2="640" y2="622" stroke="#5E7089" stroke-width="1"/>
+    <text x="80" y="654" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">基于 Microsoft PowerPoint 文档、ECMA-376 标准与沟通 / 认知研究整理</text>
+  </g>
+</svg>

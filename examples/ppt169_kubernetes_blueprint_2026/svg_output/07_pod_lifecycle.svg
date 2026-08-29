@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">06 · POD LIFECYCLE</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">07 / 13</text>
+  </g>
+
+  <g id="p7-title" data-pptx-bounds="60 84 1160 60">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">Pod 的一生：阶段、探针与优雅终止</text>
+    <text x="700" y="120" font-size="15" fill="#8FA0B8">Pod = 共享网络命名空间与存储卷的一组容器，最小可部署单元。</text>
+  </g>
+
+  <g id="p7-phases" data-pptx-bounds="60 150 1160 190">
+    <g id="p7-phase-pending" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="60 196 210 64" fill="#1E1B3A" stroke="#FBBF24" stroke-width="1.5">
+<path d="M 60 196 L 238 196 L 270 228 L 238 260 L 60 260 Z"/>
+</g>
+    <g id="p7-phase-running" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="262 196 210 64" data-pptx-av-adj="val 35000" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 262 196 L 449.6 196 L 472 228 L 449.6 260 L 262 260 L 284.4 228 Z"/>
+</g>
+    <g id="p7-phase-succeeded" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="540 150 210 64" data-pptx-av-adj="val 35000" fill="#0F2F26" stroke="#34D399" stroke-width="1.5">
+<path d="M 540 150 L 727.6 150 L 750 182 L 727.6 214 L 540 214 L 562.4 182 Z"/>
+</g>
+    <g id="p7-phase-failed" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="540 242 210 64" data-pptx-av-adj="val 35000" fill="#2A1418" stroke="#F87171" stroke-width="1.5">
+<path d="M 540 242 L 727.6 242 L 750 274 L 727.6 306 L 540 306 L 562.4 274 Z"/>
+</g>
+    <line x1="478" y1="228" x2="536" y2="182" stroke="#34D399" stroke-width="1.5"/>
+    <line x1="478" y1="228" x2="536" y2="274" stroke="#F87171" stroke-width="1.5"/>
+    <rect x="990" y="196" width="200" height="64" rx="4" fill="none" stroke="#8FA0B8" stroke-width="1.5" stroke-dasharray="4,4"/>
+    <text x="150" y="234" text-anchor="middle" font-family="Consolas" font-size="16" font-weight="bold" fill="#FBBF24">Pending</text>
+    <text x="378" y="234" text-anchor="middle" font-family="Consolas" font-size="16" font-weight="bold" fill="#38BDF8">Running</text>
+    <text x="652" y="188" text-anchor="middle" font-family="Consolas" font-size="16" font-weight="bold" fill="#34D399">Succeeded</text>
+    <text x="652" y="280" text-anchor="middle" font-family="Consolas" font-size="16" font-weight="bold" fill="#F87171">Failed</text>
+    <text x="1090" y="234" text-anchor="middle" font-family="Consolas" font-size="16" font-weight="bold" fill="#8FA0B8">Unknown</text>
+    <text x="64" y="282" font-size="12" fill="#C7D2E3">已接受，容器未全部就绪</text>
+    <text x="64" y="300" font-size="12" fill="#8FA0B8">等调度、拉镜像等</text>
+    <text x="270" y="282" font-size="12" fill="#C7D2E3">已绑定节点，≥1 容器在</text>
+    <text x="270" y="300" font-size="12" fill="#8FA0B8">运行 / 启动 / 重启中</text>
+    <text x="762" y="176" font-size="12" fill="#C7D2E3">全部容器退出码 0</text>
+    <text x="762" y="194" font-size="12" fill="#8FA0B8">不会再重启</text>
+    <text x="762" y="268" font-size="12" fill="#C7D2E3">全部容器已退出</text>
+    <text x="762" y="286" font-size="12" fill="#8FA0B8">≥1 个非零退出</text>
+    <text x="990" y="282" font-size="12" fill="#C7D2E3">API server 联系不上</text>
+    <text x="990" y="300" font-size="12" fill="#8FA0B8">持有该 Pod 的节点</text>
+    <text x="60" y="332" font-size="13" fill="#8FA0B8">阶段由控制平面设置；Pod 内每个容器另行追踪自己的状态：<tspan font-family="Consolas" fill="#C7D2E3">Waiting / Running / Terminated</tspan></text>
+  </g>
+
+  <g id="p7-probes" data-pptx-bounds="60 360 540 300">
+    <text x="60" y="380" font-size="15" font-weight="bold" fill="#E6EDF7">探针 <tspan font-size="12" font-weight="normal" fill="#8FA0B8">· 由 kubelet 执行</tspan></text>
+    <line x1="60" y1="392" x2="600" y2="392" stroke="#243350" stroke-width="1"/>
+    <g id="p7-probe-liveness">
+      <use data-icon="phosphor-duotone/heartbeat" x="60" y="408" width="28" height="28" fill="#F87171"/>
+      <text x="100" y="422" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">livenessProbe</text>
+      <text x="100" y="442" font-size="13" fill="#C7D2E3">失败 ⇒ kubelet 重启该容器</text>
+    </g>
+    <g id="p7-probe-readiness">
+      <use data-icon="phosphor-duotone/check-circle" x="60" y="462" width="28" height="28" fill="#34D399"/>
+      <text x="100" y="476" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">readinessProbe</text>
+      <text x="100" y="496" font-size="13" fill="#C7D2E3">失败 ⇒ 从 Service 端点移除，不重启</text>
+    </g>
+    <g id="p7-probe-startup">
+      <use data-icon="phosphor-duotone/timer" x="60" y="516" width="28" height="28" fill="#FBBF24"/>
+      <text x="100" y="530" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">startupProbe</text>
+      <text x="100" y="550" font-size="13" fill="#C7D2E3">应用初始化完成前，挡住前两种探针</text>
+    </g>
+    <rect x="60" y="580" width="540" height="40" rx="4" fill="#111C30" stroke="#243350" stroke-width="1"/>
+    <text x="76" y="605" font-size="13" fill="#8FA0B8">探测方式 <tspan font-family="Consolas" fill="#38BDF8">exec / httpGet / tcpSocket / grpc</tspan></text>
+    <text x="60" y="648" font-size="12" fill="#8FA0B8">调度只发生一次：失败的 Pod 由控制器用新 UID 替换，而非原地重调度。</text>
+  </g>
+
+  <g id="p7-termination" data-pptx-bounds="640 360 580 300">
+    <text x="640" y="380" font-size="15" font-weight="bold" fill="#E6EDF7">优雅终止 <tspan font-size="12" font-weight="normal" fill="#8FA0B8">· 默认宽限 30s</tspan></text>
+    <line x1="640" y1="392" x2="1220" y2="392" stroke="#243350" stroke-width="1"/>
+    <line x1="660" y1="412" x2="660" y2="600" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.5"/>
+    <g id="p7-term-1">
+      <circle cx="660" cy="412" r="11" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="660" y="416" text-anchor="middle" font-family="Consolas" font-size="11" font-weight="bold" fill="#38BDF8">1</text>
+      <text x="690" y="417" font-size="14" fill="#E6EDF7">API server 把 Pod 标记为待删除</text>
+    </g>
+    <g id="p7-term-2">
+      <circle cx="660" cy="459" r="11" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="660" y="463" text-anchor="middle" font-family="Consolas" font-size="11" font-weight="bold" fill="#38BDF8">2</text>
+      <text x="690" y="464" font-size="14" fill="#E6EDF7"><tspan font-family="Consolas" fill="#38BDF8">preStop</tspan> 钩子（若定义）在容器内运行</text>
+    </g>
+    <g id="p7-term-3">
+      <circle cx="660" cy="506" r="11" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="660" y="510" text-anchor="middle" font-family="Consolas" font-size="11" font-weight="bold" fill="#38BDF8">3</text>
+      <text x="690" y="511" font-size="14" fill="#E6EDF7">向容器主进程发送 <tspan font-family="Consolas" fill="#38BDF8">SIGTERM</tspan></text>
+    </g>
+    <g id="p7-term-4">
+      <circle cx="660" cy="553" r="11" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="660" y="557" text-anchor="middle" font-family="Consolas" font-size="11" font-weight="bold" fill="#38BDF8">4</text>
+      <text x="690" y="558" font-size="14" fill="#E6EDF7">最多等待 <tspan font-family="Consolas" font-size="12" fill="#38BDF8">terminationGracePeriodSeconds</tspan> 让它自行退出</text>
+    </g>
+    <g id="p7-term-5">
+      <circle cx="660" cy="600" r="11" fill="#2A1418" stroke="#F87171" stroke-width="1.5"/>
+      <text x="660" y="604" text-anchor="middle" font-family="Consolas" font-size="11" font-weight="bold" fill="#F87171">5</text>
+      <text x="690" y="605" font-size="14" fill="#E6EDF7">仍活着 ⇒ <tspan font-family="Consolas" fill="#F87171">SIGKILL</tspan></text>
+    </g>
+    <text x="640" y="648" font-size="12" fill="#8FA0B8">把清理逻辑放进 preStop 和 SIGTERM 处理，别指望第 5 步。</text>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">04 · 方法清单</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">做 PPT 之前，先回答这八个问题</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="q1" data-pptx-bounds="40 166 580 90">
+      <use data-icon="tabler-outline/users" x="40" y="176" width="28" height="28" fill="#C8102E" stroke-width="2"/>
+      <text x="80" y="199" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">受众是谁？</text>
+      <text x="80" y="228" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">决定语言、默认知识、证据与语气</text>
+      <line x1="40" y1="250" x2="620" y2="250" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q2" data-pptx-bounds="660 166 580 90">
+      <use data-icon="tabler-outline/target" x="660" y="176" width="28" height="28" fill="#C8102E" stroke-width="2"/>
+      <text x="700" y="199" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">看完后必须发生什么变化？</text>
+      <text x="700" y="228" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">定义沟通任务与成功条件</text>
+      <line x1="660" y1="250" x2="1240" y2="250" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q3" data-pptx-bounds="40 280 580 90">
+      <use data-icon="tabler-outline/presentation" x="40" y="290" width="28" height="28" fill="#1A2B4A" stroke-width="2"/>
+      <text x="80" y="313" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">现场讲 / 独立读 / 录制？</text>
+      <text x="80" y="342" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">决定密度、字体、备注与演示行为</text>
+      <line x1="40" y1="364" x2="620" y2="364" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q4" data-pptx-bounds="660 280 580 90">
+      <use data-icon="tabler-outline/message-2" x="660" y="290" width="28" height="28" fill="#1A2B4A" stroke-width="2"/>
+      <text x="700" y="313" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">核心信息是什么？</text>
+      <text x="700" y="342" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">防止在没有论证时就生产页面</text>
+      <line x1="660" y1="364" x2="1240" y2="364" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q5" data-pptx-bounds="40 394 580 90">
+      <use data-icon="tabler-outline/eye" x="40" y="404" width="28" height="28" fill="#1A2B4A" stroke-width="2"/>
+      <text x="80" y="427" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">哪些证据必须可见或可追溯？</text>
+      <text x="80" y="456" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">保护事实完整性与决策价值</text>
+      <line x1="40" y1="478" x2="620" y2="478" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q6" data-pptx-bounds="660 394 580 90">
+      <use data-icon="tabler-outline/edit" x="660" y="404" width="28" height="28" fill="#1A2B4A" stroke-width="2"/>
+      <text x="700" y="427" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">什么可改，什么必须保留？</text>
+      <text x="700" y="456" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">明确编辑边界与评审预期</text>
+      <line x1="660" y1="478" x2="1240" y2="478" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q7" data-pptx-bounds="40 508 580 80">
+      <use data-icon="tabler-outline/file-zip" x="40" y="518" width="28" height="28" fill="#1A2B4A" stroke-width="2"/>
+      <text x="80" y="541" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">哪些内容必须可编辑或原生？</text>
+      <text x="80" y="570" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">定义对象模型与交付要求</text>
+  </g>
+  <g id="q8" data-pptx-bounds="660 508 580 80">
+      <use data-icon="tabler-outline/refresh" x="660" y="518" width="28" height="28" fill="#1A2B4A" stroke-width="2"/>
+      <text x="700" y="541" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">什么会反复出现？</text>
+      <text x="700" y="570" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">决定是否需要 Theme / Master / 模板</text>
+  </g>
+
+  <g id="closeline" data-pptx-bounds="40 600 1200 44">
+    <rect x="40" y="606" width="1200" height="40" fill="#F4F1EA"/>
+    <text x="64" y="632" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" fill="#22262B">这些问题应<tspan font-weight="bold" fill="#C8102E">先于</tspan>对风格、版式、模板、动画或制作方式的详细决定。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P16 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">受众 · 结果 · 场景 · 信息 · 证据 · 边界 · 原生 · 复用</text>
+  </g>
+</svg>

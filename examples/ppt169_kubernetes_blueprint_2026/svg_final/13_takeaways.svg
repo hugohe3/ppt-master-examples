@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <defs>
+    <radialGradient id="endGlow" cx="0.5" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#1D4ED8" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#0B1220" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+  <rect id="end-glow" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#endGlow)"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">12 · TAKEAWAYS</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">13 / 13</text>
+  </g>
+
+  <g id="p13-title" data-pptx-bounds="60 84 1160 60">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">回顾：五句话记住这套架构</text>
+  </g>
+
+  <g id="p13-points" data-pptx-bounds="60 160 1160 420">
+    <g id="p13-point-1">
+      <text x="60" y="206" font-family="Consolas" font-size="40" font-weight="bold" fill="#38BDF8" fill-opacity="0.8">01</text>
+      <text x="140" y="192" font-size="18" font-weight="bold" fill="#E6EDF7">两个平面</text>
+      <text x="140" y="216" font-size="15" fill="#C7D2E3">控制平面做决策，工作节点跑 Pod；最小 1+1，生产 ≥3 台控制平面主机。</text>
+    </g>
+    <line x1="140" y1="234" x2="1220" y2="234" stroke="#243350" stroke-width="1"/>
+    <g id="p13-point-2">
+      <text x="60" y="288" font-family="Consolas" font-size="40" font-weight="bold" fill="#38BDF8" fill-opacity="0.8">02</text>
+      <text x="140" y="274" font-size="18" font-weight="bold" fill="#E6EDF7">一条脊柱</text>
+      <text x="140" y="298" font-size="15" fill="#C7D2E3">所有组件只和 kube-apiserver 说话；只有它读写 etcd。每次状态变化都是一个 API 事件。</text>
+    </g>
+    <line x1="140" y1="316" x2="1220" y2="316" stroke="#243350" stroke-width="1"/>
+    <g id="p13-point-3">
+      <text x="60" y="370" font-family="Consolas" font-size="40" font-weight="bold" fill="#38BDF8" fill-opacity="0.8">03</text>
+      <text x="140" y="356" font-size="18" font-weight="bold" fill="#E6EDF7">调度一次，调和不停</text>
+      <text x="140" y="380" font-size="15" fill="#C7D2E3">scheduler 过滤再打分、只写绑定；之后由控制器的 watch → diff → act 循环维持期望状态。</text>
+    </g>
+    <line x1="140" y1="398" x2="1220" y2="398" stroke="#243350" stroke-width="1"/>
+    <g id="p13-point-4">
+      <text x="60" y="452" font-family="Consolas" font-size="40" font-weight="bold" fill="#38BDF8" fill-opacity="0.8">04</text>
+      <text x="140" y="438" font-size="18" font-weight="bold" fill="#E6EDF7">稳定入口与分工存储</text>
+      <text x="140" y="462" font-size="15" fill="#C7D2E3">Service 给多变的 Pod 一个稳定的 IP 和 DNS 名；PVC / PV / StorageClass 把请求、实体、配方分开，CSI 统一后端。</text>
+    </g>
+    <line x1="140" y1="480" x2="1220" y2="480" stroke="#243350" stroke-width="1"/>
+    <g id="p13-point-5">
+      <text x="60" y="534" font-family="Consolas" font-size="40" font-weight="bold" fill="#A78BFA" fill-opacity="0.9">05</text>
+      <text x="140" y="520" font-size="18" font-weight="bold" fill="#E6EDF7">自愈有边界</text>
+      <text x="140" y="544" font-size="15" fill="#C7D2E3">≥3 控制平面 + 奇数 etcd + 跨可用区能扛住大多数故障；etcd 法定人数一丢，只有备份能救。</text>
+    </g>
+  </g>
+
+  <g id="p13-sources" data-pptx-bounds="60 600 1160 80">
+    <line x1="60" y1="600" x2="1220" y2="600" stroke="#243350" stroke-width="1"/>
+    <text x="60" y="622" font-family="Consolas" font-size="11" letter-spacing="2" fill="#8FA0B8">SOURCES · KUBERNETES.IO</text>
+    <text x="60" y="644" font-size="12" fill="#8FA0B8">Cluster Architecture · Kubernetes Components · Service · Pod Lifecycle · Persistent Volumes（官方文档，2026-05 整理）</text>
+    <text x="1220" y="670" text-anchor="end" font-family="Consolas" font-size="12" letter-spacing="3" fill="#38BDF8">END OF DECK</text>
+  </g>
+</svg>

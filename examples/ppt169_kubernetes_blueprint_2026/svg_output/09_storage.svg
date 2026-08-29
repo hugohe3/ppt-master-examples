@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <filter id="glowCyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#38BDF8" flood-opacity="0.5"/>
+    </filter>
+    <marker id="arrowCyan" orient="auto" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse">
+      <polygon points="0,0 10,5 0,10" fill="#38BDF8"/>
+    </marker>
+    <marker id="arrowViolet" orient="auto" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse">
+      <polygon points="0,0 10,5 0,10" fill="#A78BFA"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">08 · STORAGE</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">09 / 13</text>
+  </g>
+
+  <g id="p9-title" data-pptx-bounds="60 84 1160 74">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">存储：三种资源分工，CSI 统一后端</text>
+    <text x="60" y="150" font-size="16" fill="#8FA0B8">Pod 只提出请求（PVC），管理员定义配方（StorageClass），集群持有实体（PV）。</text>
+  </g>
+
+  <g id="p9-diagram" data-pptx-bounds="60 170 560 480">
+    <rect x="60" y="190" width="180" height="64" rx="6" fill="#111C30" stroke="#243350" stroke-width="1.5"/>
+    <use data-icon="phosphor-duotone/cube" x="76" y="206" width="30" height="30" fill="#C7D2E3"/>
+    <text x="116" y="228" font-family="Consolas" font-size="15" font-weight="bold" fill="#E6EDF7">Pod</text>
+    <line x1="150" y1="256" x2="150" y2="308" stroke="#38BDF8" stroke-width="1.5" marker-end="url(#arrowCyan)"/>
+    <text x="162" y="288" font-size="12" fill="#8FA0B8">挂载</text>
+    <rect x="60" y="320" width="180" height="110" rx="6" fill="#111C30" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="76" y="346" font-family="Consolas" font-size="14" font-weight="bold" fill="#38BDF8">PVC</text>
+    <text x="76" y="366" font-family="Consolas" font-size="11" fill="#8FA0B8">PersistentVolumeClaim</text>
+    <text x="76" y="392" font-size="13" fill="#C7D2E3">命名空间级<tspan x="76" dy="20">Pod 对存储的请求</tspan></text>
+    <line x1="242" y1="375" x2="320" y2="375" stroke="#38BDF8" stroke-width="1.5" marker-end="url(#arrowCyan)"/>
+    <text x="281" y="364" text-anchor="middle" font-size="12" fill="#8FA0B8">绑定</text>
+    <g id="p9-pv" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="can" data-pptx-frame="330 300 140 150" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5" filter="url(#glowCyan)">
+<path d="M 330 317.5 A 70 17.5 0 0 0 470 317.5 L 470 432.5 A 70 17.5 0 0 1 330 432.5 Z" stroke="none"/>
+<path d="M 330 317.5 A 70 17.5 0 0 1 470 317.5 A 70 17.5 0 0 1 330 317.5 Z" fill="#6F7F8F" stroke="none"/>
+<path d="M 470 317.5 A 70 17.5 0 0 1 330 317.5 A 70 17.5 0 0 1 470 317.5 L 470 432.5 A 70 17.5 0 0 1 330 432.5 L 330 317.5" fill="none"/>
+</g>
+    <text x="400" y="380" text-anchor="middle" font-family="Consolas" font-size="14" font-weight="bold" fill="#38BDF8">PV</text>
+    <text x="400" y="398" text-anchor="middle" font-family="Consolas" font-size="10" fill="#8FA0B8">PersistentVolume</text>
+    <text x="490" y="356" font-size="13" fill="#C7D2E3">集群级资源<tspan x="490" dy="20">已供给的存储实体，</tspan><tspan x="490" dy="20">有自己的生命周期</tspan></text>
+    <rect x="330" y="510" width="140" height="80" rx="6" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1.5"/>
+    <text x="400" y="542" text-anchor="middle" font-family="Consolas" font-size="14" font-weight="bold" fill="#A78BFA">StorageClass</text>
+    <text x="400" y="566" text-anchor="middle" font-size="12" fill="#C7D2E3">管理员定义的配方</text>
+    <line x1="400" y1="508" x2="400" y2="462" stroke="#A78BFA" stroke-width="1.5" marker-end="url(#arrowViolet)"/>
+    <text x="412" y="490" font-size="12" fill="#8FA0B8">按需动态供给</text>
+    <text x="60" y="622" font-size="13" fill="#8FA0B8">CSI 驱动是现代插件契约：每种后端自带一个驱动，树内插件已废弃。</text>
+  </g>
+
+  <g id="p9-access-modes" data-pptx-bounds="660 170 560 240">
+    <text x="660" y="190" font-size="15" font-weight="bold" fill="#E6EDF7">访问模式 <tspan font-size="12" font-weight="normal" fill="#8FA0B8">· accessModes</tspan></text>
+    <line x1="660" y1="202" x2="1220" y2="202" stroke="#243350" stroke-width="1"/>
+    <g id="p9-mode-rwo">
+      <text x="660" y="234" font-family="Consolas" font-size="14" font-weight="bold" fill="#38BDF8">ReadWriteOnce</text>
+      <text x="830" y="234" font-family="Consolas" font-size="12" fill="#8FA0B8">RWO</text>
+      <text x="900" y="234" font-size="14" fill="#C7D2E3">单个节点可读写挂载</text>
+    </g>
+    <g id="p9-mode-rox">
+      <text x="660" y="272" font-family="Consolas" font-size="14" font-weight="bold" fill="#38BDF8">ReadOnlyMany</text>
+      <text x="830" y="272" font-family="Consolas" font-size="12" fill="#8FA0B8">ROX</text>
+      <text x="900" y="272" font-size="14" fill="#C7D2E3">多个节点只读挂载</text>
+    </g>
+    <g id="p9-mode-rwx">
+      <text x="660" y="310" font-family="Consolas" font-size="14" font-weight="bold" fill="#38BDF8">ReadWriteMany</text>
+      <text x="830" y="310" font-family="Consolas" font-size="12" fill="#8FA0B8">RWX</text>
+      <text x="900" y="310" font-size="14" fill="#C7D2E3">多个节点可读写挂载</text>
+    </g>
+    <g id="p9-mode-rwop">
+      <text x="660" y="348" font-family="Consolas" font-size="14" font-weight="bold" fill="#38BDF8">ReadWriteOncePod</text>
+      <text x="830" y="348" font-family="Consolas" font-size="12" fill="#8FA0B8">RWOP</text>
+      <text x="900" y="348" font-size="14" fill="#C7D2E3">仅单个 Pod 可读写</text>
+    </g>
+    <text x="660" y="392" font-size="12" fill="#8FA0B8">“Once / Many” 说的是节点数，“OncePod” 才是 Pod 级独占。</text>
+  </g>
+
+  <g id="p9-policies" data-pptx-bounds="660 430 560 220">
+    <text x="660" y="450" font-size="15" font-weight="bold" fill="#E6EDF7">回收策略 <tspan font-size="12" font-weight="normal" fill="#8FA0B8">· PVC 删除后 PV 怎么办</tspan></text>
+    <line x1="660" y1="462" x2="1220" y2="462" stroke="#243350" stroke-width="1"/>
+    <rect x="660" y="478" width="110" height="32" rx="16" fill="#0F2A44" stroke="#38BDF8" stroke-width="1"/>
+    <text x="715" y="499" text-anchor="middle" font-family="Consolas" font-size="13" fill="#38BDF8">Retain</text>
+    <rect x="784" y="478" width="110" height="32" rx="16" fill="#0F2A44" stroke="#38BDF8" stroke-width="1"/>
+    <text x="839" y="499" text-anchor="middle" font-family="Consolas" font-size="13" fill="#38BDF8">Delete</text>
+    <rect x="908" y="478" width="150" height="32" rx="16" fill="none" stroke="#8FA0B8" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="983" y="499" text-anchor="middle" font-family="Consolas" font-size="13" fill="#8FA0B8">Recycle · 废弃</text>
+    <text x="660" y="558" font-size="15" font-weight="bold" fill="#E6EDF7">卷模式 <tspan font-size="12" font-weight="normal" fill="#8FA0B8">· volumeMode</tspan></text>
+    <line x1="660" y1="570" x2="1220" y2="570" stroke="#243350" stroke-width="1"/>
+    <text x="660" y="600" font-family="Consolas" font-size="14" font-weight="bold" fill="#38BDF8">Filesystem<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#C7D2E3"> 默认，挂载为目录</tspan></text>
+    <text x="940" y="600" font-family="Consolas" font-size="14" font-weight="bold" fill="#38BDF8">Block<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#C7D2E3"> 裸块设备</tspan></text>
+  </g>
+</svg>

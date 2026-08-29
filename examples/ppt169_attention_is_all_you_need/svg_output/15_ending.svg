@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" font-size="22" data-pptx-page-role="ending">
+  <defs>
+    <linearGradient id="endScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B1F3A" stop-opacity="0.96"/>
+      <stop offset="0.55" stop-color="#0B1F3A" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#0B1F3A" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1F3A"/>
+  <svg id="ending-hero" x="0" y="0" width="1280" height="720" viewBox="0.4 0.2 0.6 0.605" preserveAspectRatio="none" overflow="hidden">
+    <image href="../images/cover_transformer_blueprint.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none" opacity="0.55"/>
+  </svg>
+  <rect id="ending-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#endScrim)"/>
+
+  <g id="closing-title" data-pptx-bounds="80 150 760 170">
+    <text x="82" y="176" font-family="Consolas" font-size="14" fill="#F5A623" letter-spacing="2">§ 05 · CLOSING</text>
+    <text x="80" y="236" font-size="42" font-weight="bold" fill="#E8F1FA">Attention is all you need —<tspan x="80" dy="52">the rest was engineering.</tspan></text>
+  </g>
+
+  <g id="takeaways" data-pptx-bounds="80 340 860 200">
+    <g id="takeaway-1">
+      <text x="82" y="366" font-family="Consolas" font-size="22" fill="#F5A623">01</text>
+      <text x="130" y="366" font-size="18" fill="#E8F1FA">Drop recurrence: every position attends to every other in O(1).</text>
+    </g>
+    <g id="takeaway-2">
+      <text x="82" y="418" font-family="Consolas" font-size="22" fill="#F5A623">02</text>
+      <text x="130" y="418" font-size="18" fill="#E8F1FA">Eight heads, scaled dot-products, sinusoidal positions do the work.</text>
+    </g>
+    <g id="takeaway-3">
+      <text x="82" y="470" font-family="Consolas" font-size="22" fill="#F5A623">03</text>
+      <text x="130" y="470" font-size="18" fill="#E8F1FA">28.4 / 41.8 BLEU, 3.5 days, 8 GPUs — quality and speed at once.</text>
+    </g>
+    <line x1="130" y1="500" x2="640" y2="500" stroke="#3C5A80" stroke-width="1"/>
+  </g>
+
+  <g id="paper-link" data-pptx-bounds="80 560 760 60">
+    <use data-icon="tabler-outline/file-text" x="84" y="574" width="28" height="28" fill="#9CC3E6"/>
+    <text x="130" y="595" font-size="19" fill="#C9DBEA">Read the paper: <a href="https://arxiv.org/abs/1706.03762"><tspan fill="#F5A623" text-decoration="underline">arxiv.org/abs/1706.03762</tspan></a>  ·  Vaswani et al., NeurIPS 2017</text>
+  </g>
+
+  <g id="sheet-block" data-pptx-role="footer" data-pptx-bounds="1000 668 220 32" font-family="Consolas" font-size="12" fill="#9CB4CC">
+    <rect x="1000" y="668" width="220" height="32" fill="none" stroke="#3C5A80" stroke-width="1"/>
+    <line x1="1110" y1="668" x2="1110" y2="700" stroke="#3C5A80" stroke-width="1"/>
+    <text x="1012" y="688">AIAYN · 2017</text>
+    <text x="1122" y="688">SHEET 15 / 15</text>
+  </g>
+</svg>

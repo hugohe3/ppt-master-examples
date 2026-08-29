@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">03 · 质量</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">好的 deck，不能只用“视觉精美”来定义</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="q-fact" data-pptx-bounds="40 172 800 58">
+      <use data-icon="tabler-outline/checklist" x="44" y="180" width="28" height="28" fill="#5E7089" stroke-width="2"/>
+      <text x="88" y="202" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">事实</text>
+      <text x="180" y="202" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">论断、数值、来源与概念区分是否正确？</text>
+      <line x1="40" y1="220" x2="840" y2="220" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q-comm" data-pptx-bounds="40 230 800 58">
+      <use data-icon="tabler-outline/message-2" x="44" y="238" width="28" height="28" fill="#5E7089" stroke-width="2"/>
+      <text x="88" y="260" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">沟通</text>
+      <text x="180" y="260" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">受众、结果、核心信息与行动是否明确？</text>
+      <line x1="40" y1="278" x2="840" y2="278" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q-narr" data-pptx-bounds="40 288 800 58">
+      <use data-icon="tabler-outline/route" x="44" y="296" width="28" height="28" fill="#5E7089" stroke-width="2"/>
+      <text x="88" y="318" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">叙事</text>
+      <text x="180" y="318" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">页面顺序是否形成预期的理解或决策？</text>
+      <line x1="40" y1="336" x2="840" y2="336" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q-cog" data-pptx-bounds="40 346 800 58">
+      <use data-icon="tabler-outline/brain" x="44" y="354" width="28" height="28" fill="#5E7089" stroke-width="2"/>
+      <text x="88" y="376" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">认知</text>
+      <text x="180" y="376" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">能否不过载地感知、处理并连接信息？</text>
+      <line x1="40" y1="394" x2="840" y2="394" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q-visual" data-pptx-bounds="40 404 800 58">
+      <use data-icon="tabler-outline/eye" x="44" y="412" width="28" height="28" fill="#5E7089" stroke-width="2"/>
+      <text x="88" y="434" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">视觉</text>
+      <text x="180" y="434" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">层级、字体、留白、图像是否服务含义？</text>
+      <line x1="40" y1="452" x2="840" y2="452" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="q-native" data-pptx-bounds="40 462 800 58">
+      <use data-icon="tabler-outline/settings" x="44" y="470" width="28" height="28" fill="#C8102E" stroke-width="2"/>
+      <text x="88" y="492" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">原生与运行</text>
+      <text x="260" y="492" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">能否可靠演示、编辑、评审、复用与交付？</text>
+      <line x1="40" y1="510" x2="840" y2="510" stroke="#1A2B4A" stroke-width="1"/>
+  </g>
+  <g id="quality-summary" data-pptx-bounds="40 520 800 40">
+    <text x="40" y="548" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">质量至少含六个层次，视觉只是其一。</text>
+  </g>
+
+  <g id="quality-art" data-pptx-bounds="880 172 360 468">
+    <image href="../images/quality_layers.jpg" x="900" y="176" width="340" height="454" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="principle" data-pptx-bounds="40 590 800 60">
+    <rect x="40" y="596" width="6" height="48" fill="#C8102E"/>
+    <text x="66" y="620" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" fill="#22262B">每个元素都应帮助目标受众，在目标场景中</text>
+    <text x="66" y="644" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1A2B4A">完成目标认知或组织任务。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P13 / 17 · 质量是由场景决定的原则，不是万能页面公式</text>
+  </g>
+</svg>

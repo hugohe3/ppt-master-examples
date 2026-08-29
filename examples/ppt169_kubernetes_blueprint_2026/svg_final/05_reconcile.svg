@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <filter id="glowCyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#38BDF8" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">04 · CONTROLLERS</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">05 / 13</text>
+  </g>
+
+  <g id="p5-title" data-pptx-bounds="60 84 1160 74">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">控制器：一个永不停止的调和循环</text>
+    <text x="60" y="150" font-size="16" fill="#8FA0B8">kube-controller-manager 里的每个控制器都在做同一件事：让实际状态不断逼近期望状态。</text>
+  </g>
+
+  <g id="p5-ring" data-pptx-bounds="60 160 460 440">
+    <g id="p5-arc-watch" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="100 180 360 360" data-pptx-av-adj1="val 16800000" data-pptx-av-adj2="val 1200000" data-pptx-av-adj3="val 22000" fill="#38BDF8" stroke="none">
+<path d="M 311.26 182.73 A 180 180 0 0 1 449.14 421.56 L 374.72 394.48 A 100.8 100.8 0 0 0 297.5 260.73 Z"/>
+</g>
+    <g id="p5-arc-diff" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="100 180 360 360" data-pptx-av-adj1="val 2400000" data-pptx-av-adj2="val 8400000" data-pptx-av-adj3="val 22000" fill="#A78BFA" stroke="none">
+<path d="M 417.89 475.7 A 180 180 0 0 1 142.11 475.7 L 202.78 424.79 A 100.8 100.8 0 0 0 357.22 424.79 Z"/>
+</g>
+    <g id="p5-arc-act" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="100 180 360 360" data-pptx-av-adj1="val 9600000" data-pptx-av-adj2="val 15600000" data-pptx-av-adj3="val 22000" fill="#34D399" stroke="none">
+<path d="M 110.86 421.56 A 180 180 0 0 1 248.74 182.73 L 262.5 260.73 A 100.8 100.8 0 0 0 185.28 394.48 Z"/>
+</g>
+    <circle cx="280" cy="360" r="70" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5" filter="url(#glowCyan)"/>
+    <!-- icon: phosphor-duotone/arrows-clockwise -->
+  <g transform="translate(256, 318) scale(0.1875)" fill="#38BDF8">
+    <path d="M216,128a88,88,0,1,1-88-88A88,88,0,0,1,216,128Z" opacity="0.2"/>
+    <path d="M224,48V96a8,8,0,0,1-8,8H168a8,8,0,0,1,0-16h28.69L182.06,73.37a79.56,79.56,0,0,0-56.13-23.43h-.45A79.52,79.52,0,0,0,69.59,72.71,8,8,0,0,1,58.41,61.27a96,96,0,0,1,135,.79L208,76.69V48a8,8,0,0,1,16,0ZM186.41,183.29a80,80,0,0,1-112.47-.66L59.31,168H88a8,8,0,0,0,0-16H40a8,8,0,0,0-8,8v48a8,8,0,0,0,16,0V179.31l14.63,14.63A95.43,95.43,0,0,0,130,222.06h.53a95.36,95.36,0,0,0,67.07-27.33,8,8,0,0,0-11.18-11.44Z"/>
+  </g>
+    <text x="280" y="392" text-anchor="middle" font-family="Consolas" font-size="12" letter-spacing="2" fill="#38BDF8">reconcile</text>
+    <text x="392" y="296" text-anchor="middle" font-family="Consolas" font-size="15" font-weight="bold" fill="#0B1220">1 watch</text>
+    <text x="280" y="506" text-anchor="middle" font-family="Consolas" font-size="15" font-weight="bold" fill="#0B1220">2 diff</text>
+    <text x="164" y="296" text-anchor="middle" font-family="Consolas" font-size="15" font-weight="bold" fill="#0B1220">3 act</text>
+    <text x="280" y="580" text-anchor="middle" font-size="13" fill="#8FA0B8">顺时针循环，永不退出</text>
+  </g>
+
+  <g id="p5-steps" data-pptx-bounds="540 160 680 210">
+    <g id="p5-step-watch">
+      <rect x="540" y="164" width="6" height="52" fill="#38BDF8"/>
+      <text x="560" y="184" font-family="Consolas" font-size="15" font-weight="bold" fill="#38BDF8">1 · watch</text>
+      <text x="560" y="208" font-size="14" fill="#C7D2E3">通过 API server 监听自己关心的对象（Pod、Node、Service…）</text>
+    </g>
+    <g id="p5-step-diff">
+      <rect x="540" y="230" width="6" height="52" fill="#A78BFA"/>
+      <text x="560" y="250" font-family="Consolas" font-size="15" font-weight="bold" fill="#A78BFA">2 · diff</text>
+      <text x="560" y="274" font-size="14" fill="#C7D2E3">比较对象的期望状态（spec）与实际状态（status）</text>
+    </g>
+    <g id="p5-step-act">
+      <rect x="540" y="296" width="6" height="52" fill="#34D399"/>
+      <text x="560" y="316" font-family="Consolas" font-size="15" font-weight="bold" fill="#34D399">3 · act</text>
+      <text x="560" y="340" font-size="14" fill="#C7D2E3">执行动作缩小差距：创建 Pod、更新端点、标记节点…然后回到 1</text>
+    </g>
+  </g>
+
+  <g id="p5-controllers" data-pptx-bounds="540 386 680 214">
+    <text x="540" y="404" font-size="14" font-weight="bold" fill="#C7D2E3">核心控制器</text>
+    <line x1="540" y1="416" x2="1220" y2="416" stroke="#243350" stroke-width="1"/>
+    <g id="p5-ctl-node">
+      <text x="540" y="444" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">Node</text>
+      <text x="700" y="444" font-size="14" fill="#C7D2E3">检测并响应节点故障</text>
+    </g>
+    <g id="p5-ctl-job">
+      <text x="540" y="472" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">Job</text>
+      <text x="700" y="472" font-size="14" fill="#C7D2E3">创建 Pod 驱动 Job 对象跑到完成</text>
+    </g>
+    <g id="p5-ctl-eps">
+      <text x="540" y="500" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">EndpointSlice</text>
+      <text x="700" y="500" font-size="14" fill="#C7D2E3">把 Service 映射到 Pod IP</text>
+    </g>
+    <g id="p5-ctl-sa">
+      <text x="540" y="528" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">ServiceAccount</text>
+      <text x="700" y="528" font-size="14" fill="#C7D2E3">为新命名空间创建默认 ServiceAccount</text>
+    </g>
+    <g id="p5-ctl-workload">
+      <text x="540" y="556" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">Workload 系列</text>
+      <text x="700" y="556" font-size="14" fill="#C7D2E3">ReplicaSet / Deployment / StatefulSet / DaemonSet 等工作负载原语</text>
+    </g>
+    <!-- icon: phosphor-duotone/shield-check -->
+  <g transform="translate(540, 574) scale(0.078125)" fill="#34D399">
+    <path d="M216,56v56c0,96-88,120-88,120S40,208,40,112V56a8,8,0,0,1,8-8H208A8,8,0,0,1,216,56Z" opacity="0.2"/>
+    <path d="M208,40H48A16,16,0,0,0,32,56v56c0,52.72,25.52,84.67,46.93,102.19,23.06,18.86,46,25.26,47,25.53a8,8,0,0,0,4.2,0c1-.27,23.91-6.67,47-25.53C198.48,196.67,224,164.72,224,112V56A16,16,0,0,0,208,40Zm0,72c0,37.07-13.66,67.16-40.6,89.42A129.3,129.3,0,0,1,128,223.62a128.25,128.25,0,0,1-38.92-21.81C61.82,179.51,48,149.3,48,112l0-56,160,0ZM82.34,141.66a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35a8,8,0,0,1,11.32,11.32l-56,56a8,8,0,0,1-11.32,0Z"/>
+  </g>
+    <text x="568" y="590" font-size="13" fill="#8FA0B8">高可用靠 Leader 选举：多副本部署，但同一时刻只有一个副本在真正动手。</text>
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="toc">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F0E9"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 44 600 30">
+    <line x1="60" y1="60" x2="96" y2="60" stroke="#B4532A" stroke-width="2"/>
+    <text x="108" y="65" font-size="14" letter-spacing="2" fill="#6F675E">2026 普利兹克大师季 · 目录</text>
+  </g>
+
+  <g id="p3-title" data-pptx-bounds="60 84 1160 56">
+    <text x="60" y="124" font-size="36" font-weight="bold" fill="#1C1A17">8 座新作，8 种深耕</text>
+    <text x="1220" y="122" text-anchor="end" font-size="16" fill="#6F675E">按文章顺序 · 8 位得主 · 8 座新作</text>
+  </g>
+
+  <g id="p3-card-1" data-pptx-bounds="60 160 275 245">
+    <image href="../images/640.jpg" x="60" y="160" width="275" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <line x1="60" y1="405" x2="335" y2="405" stroke="#D6CEC2" stroke-width="1"/>
+    <text x="60" y="352" font-family="Georgia" font-size="26" font-weight="bold" fill="#B4532A">01</text>
+    <text x="104" y="346" font-size="16" font-weight="bold" fill="#1C1A17">安藤忠雄</text>
+    <text x="104" y="370" font-size="15" fill="#3F3A34">苏州H+美术馆</text>
+    <text x="104" y="392" font-size="13" fill="#6F675E">在江南园林里写一首混凝土诗</text>
+  </g>
+  <g id="p3-card-2" data-pptx-bounds="355 160 275 245">
+    <image href="../images/640_3.jpg" x="355" y="160" width="275" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <line x1="355" y1="405" x2="630" y2="405" stroke="#D6CEC2" stroke-width="1"/>
+    <text x="355" y="352" font-family="Georgia" font-size="26" font-weight="bold" fill="#B4532A">02</text>
+    <text x="399" y="346" font-size="16" font-weight="bold" fill="#1C1A17">戴卫·奇普菲尔德</text>
+    <text x="399" y="370" font-size="15" fill="#3F3A34">米兰圣朱利亚冰球馆</text>
+    <text x="399" y="392" font-size="13" fill="#6F675E">千年罗马竞技场的现代回响</text>
+  </g>
+  <g id="p3-card-3" data-pptx-bounds="650 160 275 245">
+    <image href="../images/640_7.jpg" x="650" y="160" width="275" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <line x1="650" y1="405" x2="925" y2="405" stroke="#D6CEC2" stroke-width="1"/>
+    <text x="650" y="352" font-family="Georgia" font-size="26" font-weight="bold" fill="#B4532A">03</text>
+    <text x="694" y="346" font-size="16" font-weight="bold" fill="#1C1A17">扎哈·哈迪德（遗作）</text>
+    <text x="694" y="370" font-size="15" fill="#3F3A34">淡江大桥</text>
+    <text x="694" y="392" font-size="13" fill="#6F675E">跨越江河的流动态势</text>
+  </g>
+  <g id="p3-card-4" data-pptx-bounds="945 160 275 245">
+    <image href="../images/640_10.jpg" x="945" y="160" width="275" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <line x1="945" y1="405" x2="1220" y2="405" stroke="#D6CEC2" stroke-width="1"/>
+    <text x="945" y="352" font-family="Georgia" font-size="26" font-weight="bold" fill="#B4532A">04</text>
+    <text x="989" y="346" font-size="16" font-weight="bold" fill="#1C1A17">诺曼·福斯特</text>
+    <text x="989" y="370" font-size="15" fill="#3F3A34">上海嘉艺术</text>
+    <text x="989" y="392" font-size="13" fill="#6F675E">苏州河畔绽放的钢铁花瓣</text>
+  </g>
+
+  <g id="p3-card-5" data-pptx-bounds="60 425 275 245">
+    <image href="../images/640_13.jpg" x="60" y="425" width="275" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <line x1="60" y1="670" x2="335" y2="670" stroke="#D6CEC2" stroke-width="1"/>
+    <text x="60" y="617" font-family="Georgia" font-size="26" font-weight="bold" fill="#B4532A">05</text>
+    <text x="104" y="611" font-size="16" font-weight="bold" fill="#1C1A17">OMA × SANAA</text>
+    <text x="104" y="635" font-size="15" fill="#3F3A34">纽约新美术馆扩建</text>
+    <text x="104" y="657" font-size="13" fill="#6F675E">双强联动，新旧艺术共生</text>
+  </g>
+  <g id="p3-card-6" data-pptx-bounds="355 425 275 245">
+    <image href="../images/640_16.jpg" x="355" y="425" width="275" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <line x1="355" y1="670" x2="630" y2="670" stroke="#D6CEC2" stroke-width="1"/>
+    <text x="355" y="617" font-family="Georgia" font-size="26" font-weight="bold" fill="#B4532A">06</text>
+    <text x="399" y="611" font-size="16" font-weight="bold" fill="#1C1A17">彼得·卒姆托</text>
+    <text x="399" y="635" font-size="15" fill="#3F3A34">洛杉矶LACMA大卫·格芬画廊</text>
+    <text x="399" y="657" font-size="13" fill="#6F675E">20年打磨的诗意艺术方舟</text>
+  </g>
+  <g id="p3-card-7" data-pptx-bounds="650 425 275 245">
+    <image href="../images/640_19.jpg" x="650" y="425" width="275" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <line x1="650" y1="670" x2="925" y2="670" stroke="#D6CEC2" stroke-width="1"/>
+    <text x="650" y="617" font-family="Georgia" font-size="26" font-weight="bold" fill="#B4532A">07</text>
+    <text x="694" y="611" font-size="16" font-weight="bold" fill="#1C1A17">弗兰克·盖里（遗作）</text>
+    <text x="694" y="635" font-size="15" fill="#3F3A34">阿布扎比古根海姆博物馆</text>
+    <text x="694" y="657" font-size="13" fill="#6F675E">沙漠中的“解构主义绝唱”</text>
+  </g>
+  <g id="p3-card-8" data-pptx-bounds="945 425 275 245">
+    <image href="../images/640_22.jpg" x="945" y="425" width="275" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <line x1="945" y1="670" x2="1220" y2="670" stroke="#D6CEC2" stroke-width="1"/>
+    <text x="945" y="617" font-family="Georgia" font-size="26" font-weight="bold" fill="#B4532A">08</text>
+    <text x="989" y="611" font-size="16" font-weight="bold" fill="#1C1A17">迪埃贝多·弗朗西斯·凯雷</text>
+    <text x="989" y="635" font-size="15" fill="#3F3A34">塞内加尔歌德学院</text>
+    <text x="989" y="657" font-size="13" fill="#6F675E">夯土砖“屏风”，扎根乡土</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#6F675E">03 / 13</text>
+  </g>
+</svg>

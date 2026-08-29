@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <clipPath id="p12c1" clipPathUnits="userSpaceOnUse"><circle cx="116" cy="364" r="32"/></clipPath>
+    <clipPath id="p12c2" clipPathUnits="userSpaceOnUse"><circle cx="116" cy="456" r="32"/></clipPath>
+    <clipPath id="p12c3" clipPathUnits="userSpaceOnUse"><circle cx="516" cy="364" r="32"/></clipPath>
+    <clipPath id="p12c4" clipPathUnits="userSpaceOnUse"><circle cx="516" cy="456" r="32"/></clipPath>
+    <clipPath id="p12c5" clipPathUnits="userSpaceOnUse"><circle cx="516" cy="548" r="32"/></clipPath>
+    <clipPath id="p12c6" clipPathUnits="userSpaceOnUse"><circle cx="916" cy="364" r="32"/></clipPath>
+    <clipPath id="p12c7" clipPathUnits="userSpaceOnUse"><circle cx="916" cy="456" r="32"/></clipPath>
+    <clipPath id="p12c8" clipPathUnits="userSpaceOnUse"><circle cx="916" cy="548" r="32"/></clipPath>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F0E9"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 44 600 30">
+    <line x1="60" y1="60" x2="96" y2="60" stroke="#B4532A" stroke-width="2"/>
+    <text x="108" y="65" font-size="14" letter-spacing="2" fill="#6F675E">2026 普利兹克大师季 · 结语</text>
+  </g>
+
+  <g id="p12-title" data-pptx-bounds="60 84 1160 80">
+    <text x="60" y="124" font-size="38" font-weight="bold" fill="#1C1A17">8 种深耕，三种坚守</text>
+    <text x="60" y="156" font-size="17" fill="#3F3A34">纵观2026年集中亮相的8座普利兹克大师新作，我们得以窥见顶级建筑师最珍贵的深耕与思考。</text>
+  </g>
+
+  <g id="p12-group-patience" data-pptx-bounds="60 180 360 480">
+    <rect x="60" y="180" width="360" height="480" fill="#FFFFFF" stroke="#D6CEC2" stroke-width="1"/>
+    <rect x="60" y="180" width="360" height="6" fill="#B4532A"/>
+    <text x="84" y="250" font-family="Georgia" font-size="48" font-weight="bold" fill="#B4532A" fill-opacity="0.25">01</text>
+    <text x="84" y="290" font-size="26" font-weight="bold" fill="#1C1A17">耗时打磨</text>
+    <text x="84" y="318" font-family="KaiTi" font-size="17" fill="#B4532A">用极致耐心对抗时代浮躁</text>
+    <g id="p12-m-zumthor">
+      <image href="../images/640_16.jpg" x="84" y="332" width="64" height="64" preserveAspectRatio="xMidYMid slice" clip-path="url(#p12c1)"/>
+      <text x="164" y="356" font-size="16" font-weight="bold" fill="#1C1A17">彼得·卒姆托</text>
+      <text x="164" y="376" font-size="13" fill="#3F3A34">LACMA 大卫·格芬画廊</text>
+      <text x="164" y="394" font-size="12" fill="#6F675E">历经 20 年反复打磨</text>
+    </g>
+    <g id="p12-m-gehry">
+      <image href="../images/640_19.jpg" x="84" y="424" width="64" height="64" preserveAspectRatio="xMidYMid slice" clip-path="url(#p12c2)"/>
+      <text x="164" y="448" font-size="16" font-weight="bold" fill="#1C1A17">弗兰克·盖里</text>
+      <text x="164" y="468" font-size="13" fill="#3F3A34">阿布扎比古根海姆博物馆</text>
+      <text x="164" y="486" font-size="12" fill="#6F675E">倾注近 20 年心血的遗作</text>
+    </g>
+    <text x="84" y="616" font-size="13" fill="#6F675E">有人耗时二十年打磨一座场馆，<tspan x="84" dy="20">用极致耐心对抗时代浮躁。</tspan></text>
+  </g>
+
+  <g id="p12-group-roots" data-pptx-bounds="460 180 360 480">
+    <rect x="460" y="180" width="360" height="480" fill="#FFFFFF" stroke="#D6CEC2" stroke-width="1"/>
+    <rect x="460" y="180" width="360" height="6" fill="#B4532A"/>
+    <text x="484" y="250" font-family="Georgia" font-size="48" font-weight="bold" fill="#B4532A" fill-opacity="0.25">02</text>
+    <text x="484" y="290" font-size="26" font-weight="bold" fill="#1C1A17">扎根土地</text>
+    <text x="484" y="318" font-family="KaiTi" font-size="17" fill="#B4532A">让建筑扎根土地、温暖人心</text>
+    <g id="p12-m-kere">
+      <image href="../images/640_22.jpg" x="484" y="332" width="64" height="64" preserveAspectRatio="xMidYMid slice" clip-path="url(#p12c3)"/>
+      <text x="564" y="356" font-size="16" font-weight="bold" fill="#1C1A17">弗朗西斯·凯雷</text>
+      <text x="564" y="376" font-size="13" fill="#3F3A34">塞内加尔歌德学院</text>
+      <text x="564" y="394" font-size="12" fill="#6F675E">本土土砖 · 自然通风</text>
+    </g>
+    <g id="p12-m-ando">
+      <image href="../images/640.jpg" x="484" y="424" width="64" height="64" preserveAspectRatio="xMidYMid slice" clip-path="url(#p12c4)"/>
+      <text x="564" y="448" font-size="16" font-weight="bold" fill="#1C1A17">安藤忠雄</text>
+      <text x="564" y="468" font-size="13" fill="#3F3A34">苏州H+美术馆</text>
+      <text x="564" y="486" font-size="12" fill="#6F675E">从苏州土地的记忆中汲取精髓</text>
+    </g>
+    <g id="p12-m-chipperfield">
+      <image href="../images/640_3.jpg" x="484" y="516" width="64" height="64" preserveAspectRatio="xMidYMid slice" clip-path="url(#p12c5)"/>
+      <text x="564" y="540" font-size="16" font-weight="bold" fill="#1C1A17">戴卫·奇普菲尔德</text>
+      <text x="564" y="560" font-size="13" fill="#3F3A34">米兰圣朱利亚冰球馆</text>
+      <text x="564" y="578" font-size="12" fill="#6F675E">呼应古罗马圆形剧场原型</text>
+    </g>
+    <text x="484" y="616" font-size="13" fill="#6F675E">有人坚守本土人文，<tspan x="484" dy="20">让建筑扎根土地、温暖人心。</tspan></text>
+  </g>
+
+  <g id="p12-group-boundary" data-pptx-bounds="860 180 360 480">
+    <rect x="860" y="180" width="360" height="480" fill="#FFFFFF" stroke="#D6CEC2" stroke-width="1"/>
+    <rect x="860" y="180" width="360" height="6" fill="#B4532A"/>
+    <text x="884" y="250" font-family="Georgia" font-size="48" font-weight="bold" fill="#B4532A" fill-opacity="0.25">03</text>
+    <text x="884" y="290" font-size="26" font-weight="bold" fill="#1C1A17">突破边界</text>
+    <text x="884" y="318" font-family="KaiTi" font-size="17" fill="#B4532A">用创意拓展建筑的无限可能</text>
+    <g id="p12-m-zaha">
+      <image href="../images/640_7.jpg" x="884" y="332" width="64" height="64" preserveAspectRatio="xMidYMid slice" clip-path="url(#p12c6)"/>
+      <text x="964" y="356" font-size="16" font-weight="bold" fill="#1C1A17">扎哈·哈迪德事务所</text>
+      <text x="964" y="376" font-size="13" fill="#3F3A34">淡江大桥</text>
+      <text x="964" y="394" font-size="12" fill="#6F675E">全球同类桥梁中跨度最长</text>
+    </g>
+    <g id="p12-m-foster">
+      <image href="../images/640_10.jpg" x="884" y="424" width="64" height="64" preserveAspectRatio="xMidYMid slice" clip-path="url(#p12c7)"/>
+      <text x="964" y="448" font-size="16" font-weight="bold" fill="#1C1A17">诺曼·福斯特</text>
+      <text x="964" y="468" font-size="13" fill="#3F3A34">上海嘉艺术</text>
+      <text x="964" y="486" font-size="12" fill="#6F675E">在城市中生长的钢铁花瓣</text>
+    </g>
+    <g id="p12-m-oma">
+      <image href="../images/640_13.jpg" x="884" y="516" width="64" height="64" preserveAspectRatio="xMidYMid slice" clip-path="url(#p12c8)"/>
+      <text x="964" y="540" font-size="16" font-weight="bold" fill="#1C1A17">OMA × SANAA</text>
+      <text x="964" y="560" font-size="13" fill="#3F3A34">纽约新美术馆扩建</text>
+      <text x="964" y="578" font-size="12" fill="#6F675E">先锋解构与轻盈通透的交融</text>
+    </g>
+    <text x="884" y="616" font-size="13" fill="#6F675E">有人突破边界、颠覆常规，<tspan x="884" dy="20">用创意拓展建筑的无限可能。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#6F675E">12 / 13</text>
+  </g>
+</svg>

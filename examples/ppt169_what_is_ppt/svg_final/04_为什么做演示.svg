@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <defs>
+    <marker id="arrowNavy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <polygon points="0,0 10,5 0,10" fill="#1A2B4A"/>
+    </marker>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">02 · 目的</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">人们要的不是“几页”，是受众身上发生的改变</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="lead" data-pptx-bounds="40 178 1200 40">
+    <text x="40" y="208" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">人们通常不以“得到一些页面”为最终目的，而是希望改变受众所知、所信、所决或所行。</text>
+  </g>
+
+  <g id="node-source" data-pptx-bounds="40 300 230 96">
+    <rect x="40" y="300" width="230" height="96" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.5"/>
+    <text x="155" y="342" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">源材料 + 意图</text>
+    <text x="155" y="372" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">起点</text>
+  </g>
+  <g id="node-argument" data-pptx-bounds="278 300 276 96">
+    <line x1="278" y1="348" x2="316" y2="348" stroke="#1A2B4A" stroke-width="2" marker-end="url(#arrowNavy)"/>
+    <rect x="324" y="300" width="230" height="96" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.5"/>
+    <text x="439" y="342" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">有顺序的论证</text>
+    <text x="439" y="372" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">或解释</text>
+  </g>
+  <g id="node-experience" data-pptx-bounds="562 300 276 96">
+    <line x1="562" y1="348" x2="600" y2="348" stroke="#1A2B4A" stroke-width="2" marker-end="url(#arrowNavy)"/>
+    <rect x="608" y="300" width="230" height="96" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.5"/>
+    <text x="723" y="342" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">共同的</text>
+    <text x="723" y="372" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">视觉体验</text>
+  </g>
+  <g id="node-outcome" data-pptx-bounds="846 300 276 96">
+    <line x1="846" y1="348" x2="884" y2="348" stroke="#1A2B4A" stroke-width="2" marker-end="url(#arrowNavy)"/>
+    <rect x="892" y="300" width="230" height="96" fill="#1A2B4A" stroke="#1A2B4A" stroke-width="1.5"/>
+    <text x="1007" y="342" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">受众结果</text>
+    <text x="1007" y="372" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#F4F1EA">终点</text>
+  </g>
+
+  <g id="record-artifact" data-pptx-bounds="750 396 490 166">
+    <line x1="1007" y1="396" x2="1007" y2="480" stroke="#1A2B4A" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arrowNavy)"/>
+    <rect x="760" y="490" width="480" height="72" fill="#F4F1EA" stroke="#C8102E" stroke-width="1.5"/>
+    <text x="784" y="522" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">+ 可编辑、可传播的记录</text>
+    <text x="784" y="548" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#22262B">组织可以继续使用的成果</text>
+  </g>
+  <g id="record-takeaway" data-pptx-bounds="40 490 650 80">
+    <text x="40" y="522" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">演示的终点是受众结果，</text>
+    <text x="40" y="552" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">外加一份能继续流转的记录。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P04 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">改变受众所知 · 所信 · 所决 · 所行</text>
+  </g>
+</svg>

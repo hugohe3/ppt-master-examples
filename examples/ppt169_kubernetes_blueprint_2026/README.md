@@ -1,15 +1,23 @@
-# ppt169_kubernetes_blueprint
+# kubernetes_blueprint_2026
 
 - Canvas format: ppt169
-- Created: 20260521
+- Created: 20260828
+- Runtime: Quick Generate
 
 ## Directories
 
-- `svg_output/`: raw SVG output
-- `svg_final/`: finalized SVG output
-- `images/`: presentation assets
+- `svg_output/`: authored SVG slides (native-export source)
+- `svg_final/`: self-contained preview SVGs (images embedded; rendered by the gallery viewer)
+- `images/`: slide images (compressed for distribution)
+- `icons/`: project-local icons referenced by the slides
 - `notes/`: speaker notes
-- `templates/`: project templates
-- `sources/`: source materials and normalized markdown
-- `exports/`: native editable PPTX exports (timestamped)
-- `backup/<timestamp>/`: svg_output/ archive (always written in default-flow mode; safe to delete old timestamps)
+- `sources/`: source material
+- `animations.json`: transition and object-animation configuration
+- `exports/`: exported PPTX (with speaker notes and animations)
+
+## Regenerate the PPTX
+
+```bash
+python3 skills/ppt-master/scripts/svg_quality_checker.py <this_dir> --quick-generate --stage final --json
+python3 skills/ppt-master/scripts/svg_to_pptx.py <this_dir> --quick-generate --with-notes
+```

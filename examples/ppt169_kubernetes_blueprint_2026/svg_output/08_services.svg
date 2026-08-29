@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">07 · SERVICE NETWORKING</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">08 / 13</text>
+  </g>
+
+  <g id="p8-title" data-pptx-bounds="60 84 1160 74">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">Service：多变的 Pod 前面，一个稳定的入口</text>
+    <text x="60" y="150" font-size="16" fill="#8FA0B8">一个 Service 给不断变化的一组 Pod 提供稳定的虚拟 IP 和 DNS 名；四种类型是层层向外包裹的关系。</text>
+  </g>
+
+  <g id="p8-types" data-pptx-bounds="60 176 1160 292">
+    <g id="p8-card-clusterip" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="60 190 272 250" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 10000" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 60 190 L 307 190 L 332 215 L 332 440 L 332 440 L 85 440 L 60 415 L 60 190 Z"/>
+</g>
+    <g id="p8-card-nodeport" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="356 190 272 250" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 10000" fill="#111C30" stroke="#38BDF8" stroke-width="1">
+<path d="M 356 190 L 603 190 L 628 215 L 628 440 L 628 440 L 381 440 L 356 415 L 356 190 Z"/>
+</g>
+    <g id="p8-card-lb" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="652 190 272 250" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 10000" fill="#111C30" stroke="#38BDF8" stroke-width="1">
+<path d="M 652 190 L 899 190 L 924 215 L 924 440 L 924 440 L 677 440 L 652 415 L 652 190 Z"/>
+</g>
+    <g id="p8-card-external" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="948 190 272 250" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 10000" fill="#111C30" stroke="#8FA0B8" stroke-width="1">
+<path d="M 948 190 L 1195 190 L 1220 215 L 1220 440 L 1220 440 L 973 440 L 948 415 L 948 190 Z"/>
+</g>
+    <g id="p8-arrow-np-cip" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftArrow" data-pptx-frame="333 302 22 26" fill="#38BDF8" stroke="none">
+<path d="M 333 315 L 344 302 L 344 308.5 L 355 308.5 L 355 321.5 L 344 321.5 L 344 328 Z"/>
+</g>
+    <g id="p8-arrow-lb-np" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftArrow" data-pptx-frame="629 302 22 26" fill="#38BDF8" stroke="none">
+<path d="M 629 315 L 640 302 L 640 308.5 L 651 308.5 L 651 321.5 L 640 321.5 L 640 328 Z"/>
+</g>
+    <g id="p8-type-clusterip">
+      <text x="80" y="228" font-family="Consolas" font-size="18" font-weight="bold" fill="#38BDF8">ClusterIP</text>
+      <text x="80" y="248" font-family="Consolas" font-size="11" letter-spacing="2" fill="#8FA0B8">DEFAULT</text>
+      <text x="80" y="282" font-size="12" fill="#8FA0B8">可达范围</text>
+      <text x="80" y="302" font-size="14" fill="#E6EDF7">仅集群内部</text>
+      <text x="80" y="346" font-size="12" fill="#8FA0B8">实现</text>
+      <text x="80" y="366" font-size="13" fill="#C7D2E3">Service CIDR 里的虚拟 IP；<tspan x="80" dy="20">kube-proxy 编程 iptables /</tspan><tspan x="80" dy="20">IPVS 规则做转发</tspan></text>
+    </g>
+    <g id="p8-type-nodeport">
+      <text x="376" y="228" font-family="Consolas" font-size="18" font-weight="bold" fill="#E6EDF7">NodePort</text>
+      <text x="376" y="248" font-family="Consolas" font-size="11" letter-spacing="2" fill="#8FA0B8">STATIC PORT</text>
+      <text x="376" y="282" font-size="12" fill="#8FA0B8">可达范围</text>
+      <text x="376" y="302" font-size="14" fill="#E6EDF7">任一节点 IP 的静态端口</text>
+      <text x="376" y="322" font-family="Consolas" font-size="12" fill="#38BDF8">30000 – 32767</text>
+      <text x="376" y="346" font-size="12" fill="#8FA0B8">实现</text>
+      <text x="376" y="366" font-size="13" fill="#C7D2E3">每个节点都打开该端口，<tspan x="376" dy="20">再路由到 ClusterIP</tspan></text>
+    </g>
+    <g id="p8-type-lb">
+      <text x="672" y="228" font-family="Consolas" font-size="18" font-weight="bold" fill="#E6EDF7">LoadBalancer</text>
+      <text x="672" y="248" font-family="Consolas" font-size="11" letter-spacing="2" fill="#8FA0B8">CLOUD LB</text>
+      <text x="672" y="282" font-size="12" fill="#8FA0B8">可达范围</text>
+      <text x="672" y="302" font-size="14" fill="#E6EDF7">外部云负载均衡器</text>
+      <text x="672" y="346" font-size="12" fill="#8FA0B8">实现</text>
+      <text x="672" y="366" font-size="13" fill="#C7D2E3">cloud-controller-manager<tspan x="672" dy="20">供给 LB，后端指向 NodePort</tspan></text>
+    </g>
+    <g id="p8-type-external">
+      <text x="968" y="228" font-family="Consolas" font-size="18" font-weight="bold" fill="#C7D2E3">ExternalName</text>
+      <text x="968" y="248" font-family="Consolas" font-size="11" letter-spacing="2" fill="#8FA0B8">DNS CNAME</text>
+      <text x="968" y="282" font-size="12" fill="#8FA0B8">可达范围</text>
+      <text x="968" y="302" font-size="14" fill="#E6EDF7">DNS 别名，不在集群内代理</text>
+      <text x="968" y="346" font-size="12" fill="#8FA0B8">实现</text>
+      <text x="968" y="366" font-size="13" fill="#C7D2E3">API server 直接返回<tspan x="968" dy="20">CNAME 记录，没有转发</tspan></text>
+    </g>
+    <text x="60" y="462" font-size="13" fill="#8FA0B8">箭头方向 = 依赖：LoadBalancer 建立在 NodePort 之上，NodePort 建立在 ClusterIP 之上；ExternalName 独立于三者。</text>
+  </g>
+
+  <g id="p8-endpointslices" data-pptx-bounds="60 476 360 190">
+    <use data-icon="phosphor-duotone/list-checks" x="60" y="480" width="30" height="30" fill="#38BDF8"/>
+    <text x="102" y="502" font-family="Consolas" font-size="15" font-weight="bold" fill="#E6EDF7">EndpointSlices</text>
+    <line x1="60" y1="522" x2="420" y2="522" stroke="#243350" stroke-width="1"/>
+    <text x="60" y="548" font-size="14" fill="#C7D2E3">追踪 Service 背后的 Pod IP。<tspan x="60" dy="24">v1.21 起替代旧的 Endpoints；</tspan><tspan x="60" dy="24">控制器随 Pod 来去持续重建切片。</tspan></text>
+  </g>
+  <g id="p8-dns" data-pptx-bounds="460 476 360 190">
+    <use data-icon="phosphor-duotone/globe" x="460" y="480" width="30" height="30" fill="#38BDF8"/>
+    <text x="502" y="502" font-family="Consolas" font-size="15" font-weight="bold" fill="#E6EDF7">Cluster DNS</text>
+    <line x1="460" y1="522" x2="820" y2="522" stroke="#243350" stroke-width="1"/>
+    <text x="460" y="548" font-family="Consolas" font-size="13" fill="#38BDF8">&lt;svc&gt;.&lt;namespace&gt;.svc.cluster.local</text>
+    <text x="460" y="576" font-size="14" fill="#C7D2E3">每个 Service 都可按此名解析；<tspan x="460" dy="24">CoreDNS 是生产集群的必装插件。</tspan></text>
+  </g>
+  <g id="p8-headless" data-pptx-bounds="860 476 360 190">
+    <use data-icon="phosphor-duotone/git-branch" x="860" y="480" width="30" height="30" fill="#A78BFA"/>
+    <text x="902" y="502" font-family="Consolas" font-size="15" font-weight="bold" fill="#E6EDF7">Headless Service</text>
+    <line x1="860" y1="522" x2="1220" y2="522" stroke="#243350" stroke-width="1"/>
+    <text x="860" y="548" font-family="Consolas" font-size="13" fill="#A78BFA">clusterIP: None</text>
+    <text x="860" y="576" font-size="14" fill="#C7D2E3">不分配虚拟 IP，DNS A 记录直接返回<tspan x="860" dy="24">Pod IP；StatefulSet 靠它让每个副本</tspan><tspan x="860" dy="24">拥有自己可解析的名字。</tspan></text>
+  </g>
+</svg>

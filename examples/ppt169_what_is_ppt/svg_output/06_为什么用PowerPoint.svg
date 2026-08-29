@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">02 · 媒介价值</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">七项属性叠加，才是 PowerPoint 的独特价值</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="lead" data-pptx-bounds="40 168 1200 34">
+    <text x="40" y="192" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">当一项任务同时需要下列属性时，PowerPoint 才具有别的媒介难以替代的价值。</text>
+  </g>
+
+  <g id="p-order" data-pptx-bounds="40 214 590 84">
+      <use data-icon="tabler-outline/list-numbers" x="40" y="222" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="246" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">顺序</text>
+      <text x="84" y="276" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">控制或建议注意力的展开顺序</text>
+      <line x1="40" y1="298" x2="610" y2="298" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="p-modular" data-pptx-bounds="40 306 590 84">
+      <use data-icon="tabler-outline/layout-grid" x="40" y="314" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="338" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">模块化</text>
+      <text x="84" y="368" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">页面可重排、隐藏、复制、替换与复用</text>
+      <line x1="40" y1="390" x2="610" y2="390" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="p-media" data-pptx-bounds="40 398 590 84">
+      <use data-icon="tabler-outline/photo" x="40" y="406" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">多媒体组合</text>
+      <text x="84" y="460" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">文字、图示、数据、图片、音视频在页内组合</text>
+      <line x1="40" y1="482" x2="610" y2="482" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="p-present" data-pptx-bounds="40 490 590 84">
+      <use data-icon="tabler-outline/microphone" x="40" y="498" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="84" y="522" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">演讲支持</text>
+      <text x="84" y="552" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">备注、演讲者视图、计时与导航支持现场传递</text>
+  </g>
+
+  <g id="p-read" data-pptx-bounds="660 214 580 84">
+      <use data-icon="tabler-outline/book" x="660" y="222" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="704" y="246" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">阅读支持</text>
+      <text x="704" y="276" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">阅读视图、批注、讲义与共享支持异步审阅</text>
+      <line x1="660" y1="298" x2="1240" y2="298" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="p-edit" data-pptx-bounds="660 306 580 84">
+      <use data-icon="tabler-outline/edit" x="660" y="314" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="704" y="338" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">可编辑性</text>
+      <text x="704" y="368" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">可修改、本地化、扩展与改作他用</text>
+      <line x1="660" y1="390" x2="1240" y2="390" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="p-portable" data-pptx-bounds="660 398 580 84">
+      <use data-icon="tabler-outline/transfer" x="660" y="406" width="30" height="30" fill="#C8102E" stroke-width="2"/>
+      <text x="704" y="430" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">组织可移植性</text>
+      <text x="704" y="460" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">同一产物穿过会议、评审、审批、归档与复用</text>
+      <line x1="660" y1="482" x2="1240" y2="482" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="p-summary" data-pptx-bounds="660 500 580 150">
+      <rect x="660" y="500" width="580" height="150" fill="#1A2B4A"/>
+      <text x="688" y="546" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF">七者叠加</text>
+      <text x="688" y="582" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#F4F1EA">任何单一属性别的工具都能给，</text>
+      <text x="688" y="610" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#F4F1EA">同时给全七项的很少——</text>
+      <text x="688" y="638" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" font-weight="bold" fill="#FFFFFF">这才是它的位置。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P06 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">顺序·模块化·多媒体·演讲·阅读·可编辑·可移植</text>
+  </g>
+</svg>

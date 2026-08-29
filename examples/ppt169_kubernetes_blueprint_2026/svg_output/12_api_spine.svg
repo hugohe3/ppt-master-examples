@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <filter id="glowCyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#38BDF8" flood-opacity="0.55"/>
+    </filter>
+    <marker id="arrowCyan" orient="auto" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse">
+      <polygon points="0,0 10,5 0,10" fill="#38BDF8"/>
+    </marker>
+    <marker id="arrowBoth" orient="auto-start-reverse" markerWidth="10" markerHeight="10" refX="9" refY="5" markerUnits="userSpaceOnUse">
+      <polygon points="0,0 10,5 0,10" fill="#A78BFA"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">11 · COMMUNICATION</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">12 / 13</text>
+  </g>
+
+  <g id="p12-title" data-pptx-bounds="60 84 1160 60">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">通信总览：每一条线都经过 API server</text>
+  </g>
+
+  <g id="p12-diagram" data-pptx-bounds="60 150 1160 450">
+    <rect x="80" y="170" width="220" height="60" rx="6" fill="#111C30" stroke="#243350" stroke-width="1.5"/>
+    <use data-icon="phosphor-duotone/terminal" x="96" y="186" width="28" height="28" fill="#C7D2E3"/>
+    <text x="136" y="206" font-family="Consolas" font-size="14" font-weight="bold" fill="#E6EDF7">kubectl / clients</text>
+    <line x1="302" y1="200" x2="508" y2="200" stroke="#38BDF8" stroke-width="1.5" marker-end="url(#arrowCyan)"/>
+    <text x="405" y="192" text-anchor="middle" font-family="Consolas" font-size="11" fill="#38BDF8">HTTPS</text>
+
+    <rect x="520" y="160" width="240" height="80" rx="6" fill="#0F2A44" stroke="#38BDF8" stroke-width="2" filter="url(#glowCyan)"/>
+    <text x="640" y="196" text-anchor="middle" font-family="Consolas" font-size="18" font-weight="bold" fill="#38BDF8">kube-apiserver</text>
+    <text x="640" y="220" text-anchor="middle" font-size="12" fill="#C7D2E3">脊柱 · 唯一的状态出入口</text>
+
+    <line x1="772" y1="200" x2="1028" y2="200" stroke="#A78BFA" stroke-width="1.5" marker-start="url(#arrowBoth)" marker-end="url(#arrowBoth)"/>
+    <text x="900" y="192" text-anchor="middle" font-family="Consolas" font-size="11" fill="#A78BFA">gRPC</text>
+    <g id="p12-etcd" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="can" data-pptx-frame="1040 160 110 100" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1.5">
+<path d="M 1040 172.5 A 55 12.5 0 0 0 1150 172.5 L 1150 247.5 A 55 12.5 0 0 1 1040 247.5 Z" stroke="none"/>
+<path d="M 1040 172.5 A 55 12.5 0 0 1 1150 172.5 A 55 12.5 0 0 1 1040 172.5 Z" fill="#787689" stroke="none"/>
+<path d="M 1150 172.5 A 55 12.5 0 0 1 1040 172.5 A 55 12.5 0 0 1 1150 172.5 L 1150 247.5 A 55 12.5 0 0 1 1040 247.5 L 1040 172.5" fill="none"/>
+</g>
+    <text x="1095" y="218" text-anchor="middle" font-family="Consolas" font-size="14" font-weight="bold" fill="#A78BFA">etcd</text>
+    <text x="1095" y="280" text-anchor="middle" font-size="11" fill="#8FA0B8">只有 apiserver 碰它</text>
+
+    <line x1="640" y1="242" x2="640" y2="410" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="210" y1="282" x2="1040" y2="282" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="210" y1="282" x2="210" y2="300" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="480" y1="282" x2="480" y2="300" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="1040" y1="282" x2="1040" y2="300" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <text x="656" y="270" font-family="Consolas" font-size="11" fill="#38BDF8">watch / report</text>
+
+    <g id="p12-ctl-scheduler">
+      <rect x="100" y="300" width="220" height="56" rx="6" fill="#111C30" stroke="#38BDF8" stroke-width="1"/>
+      <text x="210" y="334" text-anchor="middle" font-family="Consolas" font-size="13" font-weight="bold" fill="#E6EDF7">kube-scheduler</text>
+    </g>
+    <g id="p12-ctl-cm">
+      <rect x="360" y="300" width="240" height="56" rx="6" fill="#111C30" stroke="#38BDF8" stroke-width="1"/>
+      <text x="480" y="334" text-anchor="middle" font-family="Consolas" font-size="13" font-weight="bold" fill="#E6EDF7">kube-controller-manager</text>
+    </g>
+    <g id="p12-ctl-ccm">
+      <rect x="920" y="300" width="240" height="56" rx="6" fill="#111C30" stroke="#8FA0B8" stroke-width="1" stroke-dasharray="4,4"/>
+      <text x="1040" y="334" text-anchor="middle" font-family="Consolas" font-size="13" font-weight="bold" fill="#C7D2E3">cloud-controller-manager</text>
+    </g>
+
+    <line x1="250" y1="410" x2="1010" y2="410" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="250" y1="410" x2="250" y2="430" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="1010" y1="410" x2="1010" y2="430" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <line x1="640" y1="410" x2="640" y2="430" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.5"/>
+    <text x="656" y="402" font-family="Consolas" font-size="11" fill="#38BDF8">watch</text>
+
+    <g id="p12-node-1">
+      <rect x="140" y="430" width="220" height="52" rx="6" fill="#111C30" stroke="#38BDF8" stroke-width="1"/>
+      <text x="250" y="462" text-anchor="middle" font-family="Consolas" font-size="13" font-weight="bold" fill="#E6EDF7">kubelet · node-1</text>
+      <line x1="250" y1="484" x2="250" y2="512" stroke="#38BDF8" stroke-width="1.5" marker-end="url(#arrowCyan)"/>
+      <rect x="140" y="516" width="220" height="52" rx="6" fill="#111C30" stroke="#243350" stroke-width="1"/>
+      <text x="250" y="538" text-anchor="middle" font-family="Consolas" font-size="12" fill="#C7D2E3">container runtime</text>
+      <text x="250" y="556" text-anchor="middle" font-family="Consolas" font-size="12" fill="#8FA0B8">+ kube-proxy</text>
+    </g>
+    <g id="p12-node-2">
+      <rect x="530" y="430" width="220" height="52" rx="6" fill="#111C30" stroke="#38BDF8" stroke-width="1"/>
+      <text x="640" y="462" text-anchor="middle" font-family="Consolas" font-size="13" font-weight="bold" fill="#E6EDF7">kubelet · node-2</text>
+      <line x1="640" y1="484" x2="640" y2="512" stroke="#38BDF8" stroke-width="1.5" marker-end="url(#arrowCyan)"/>
+      <rect x="530" y="516" width="220" height="52" rx="6" fill="#111C30" stroke="#243350" stroke-width="1"/>
+      <text x="640" y="538" text-anchor="middle" font-family="Consolas" font-size="12" fill="#C7D2E3">container runtime</text>
+      <text x="640" y="556" text-anchor="middle" font-family="Consolas" font-size="12" fill="#8FA0B8">+ kube-proxy</text>
+    </g>
+    <g id="p12-node-n">
+      <rect x="900" y="430" width="220" height="52" rx="6" fill="#111C30" stroke="#38BDF8" stroke-width="1"/>
+      <text x="1010" y="462" text-anchor="middle" font-family="Consolas" font-size="13" font-weight="bold" fill="#E6EDF7">kubelet · node-N</text>
+      <line x1="1010" y1="484" x2="1010" y2="512" stroke="#38BDF8" stroke-width="1.5" marker-end="url(#arrowCyan)"/>
+      <rect x="900" y="516" width="220" height="52" rx="6" fill="#111C30" stroke="#243350" stroke-width="1"/>
+      <text x="1010" y="538" text-anchor="middle" font-family="Consolas" font-size="12" fill="#C7D2E3">container runtime</text>
+      <text x="1010" y="556" text-anchor="middle" font-family="Consolas" font-size="12" fill="#8FA0B8">+ kube-proxy</text>
+    </g>
+    <text x="1095" y="256" text-anchor="middle" font-family="Consolas" font-size="10" fill="#8FA0B8">Raft · 3/5 members</text>
+  </g>
+
+  <g id="p12-statement" data-pptx-bounds="60 612 1160 70">
+    <line x1="60" y1="612" x2="1220" y2="612" stroke="#243350" stroke-width="1"/>
+    <text x="60" y="642" font-size="17" fill="#E6EDF7">没有任何组件直接对话另一个组件——一切经由 API server；也只有 API server 对话 etcd。</text>
+    <text x="60" y="668" font-size="15" fill="#8FA0B8">于是每一次状态变化都是一个 API 事件：这正是 Kubernetes 可插拔、可观测的根源。</text>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">05 · WORKER NODE</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">06 / 13</text>
+  </g>
+
+  <g id="p6-title" data-pptx-bounds="60 84 1160 74">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">每个工作节点上的三个组件</text>
+    <text x="60" y="150" font-size="16" fill="#8FA0B8">节点代理、Service 实现、容器运行时——三者并列，kubelet 是唯一和 API server 对话的那个。</text>
+  </g>
+
+  <g id="p6-node-outline" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="60 176 1160 470" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 6000" fill="none" stroke="#243350" stroke-width="1.5">
+<path d="M 60 176 L 1191.8 176 L 1220 204.2 L 1220 646 L 1220 646 L 88.2 646 L 60 617.8 L 60 176 Z"/>
+</g>
+  <g id="p6-node-label" data-pptx-bounds="80 186 400 30">
+    <use data-icon="phosphor-duotone/hard-drives" x="84" y="190" width="22" height="22" fill="#38BDF8"/>
+    <text x="114" y="207" font-family="Consolas" font-size="12" letter-spacing="3" fill="#38BDF8">WORKER NODE · ×N</text>
+  </g>
+
+  <g id="p6-kubelet" data-pptx-bounds="100 236 346 380">
+    <g id="p6-panel-kubelet" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="100 236 346 380" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 9000" fill="#111C30" stroke="#38BDF8" stroke-width="1">
+<path d="M 100 236 L 414.86 236 L 446 267.14 L 446 616 L 446 616 L 131.14 616 L 100 584.86 L 100 236 Z"/>
+</g>
+    <use data-icon="phosphor-duotone/heartbeat" x="124" y="256" width="36" height="36" fill="#38BDF8"/>
+    <text x="172" y="276" font-family="Consolas" font-size="18" font-weight="bold" fill="#E6EDF7">kubelet</text>
+    <text x="172" y="296" font-size="13" fill="#8FA0B8">节点级代理</text>
+    <line x1="124" y1="314" x2="422" y2="314" stroke="#243350" stroke-width="1"/>
+    <text x="124" y="342" font-size="14" fill="#C7D2E3">• 监听 API server 上调度到本节点的 Pod<tspan x="124" dy="26">• 拿到 PodSpec，指挥运行时起容器</tspan><tspan x="124" dy="26">• 用探针监督健康，回报节点与 Pod 状态</tspan><tspan x="124" dy="26">• 容器死了按 restartPolicy 重启：</tspan><tspan x="124" dy="22" font-family="Consolas" font-size="12" fill="#38BDF8">   Always / OnFailure / Never</tspan><tspan x="124" dy="26">• 通过 kube-node-lease 里的 Lease 心跳</tspan></text>
+    <text x="124" y="592" font-size="12" fill="#8FA0B8">持续调和：只要和期望不一致就动手</text>
+  </g>
+
+  <g id="p6-proxy" data-pptx-bounds="467 236 346 380">
+    <g id="p6-panel-proxy" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="467 236 346 380" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 9000" fill="#111C30" stroke="#38BDF8" stroke-width="1">
+<path d="M 467 236 L 781.86 236 L 813 267.14 L 813 616 L 813 616 L 498.14 616 L 467 584.86 L 467 236 Z"/>
+</g>
+    <use data-icon="phosphor-duotone/network" x="491" y="256" width="36" height="36" fill="#38BDF8"/>
+    <text x="539" y="276" font-family="Consolas" font-size="18" font-weight="bold" fill="#E6EDF7">kube-proxy</text>
+    <text x="539" y="296" font-size="13" fill="#8FA0B8">节点级 Service 实现 · 可选</text>
+    <line x1="491" y1="314" x2="789" y2="314" stroke="#243350" stroke-width="1"/>
+    <text x="491" y="342" font-size="14" fill="#C7D2E3">• 维护网络规则：Service 虚拟 IP → Pod IP<tspan x="491" dy="26">• 四种后端：</tspan></text>
+    <text x="507" y="396" font-family="Consolas" font-size="12" fill="#38BDF8">iptables<tspan font-family="Microsoft YaHei" fill="#C7D2E3"> 默认，netfilter，CPU 开销低</tspan><tspan x="507" dy="22">IPVS</tspan><tspan font-family="Microsoft YaHei" fill="#C7D2E3"> 内核 L4 负载均衡，海量 Service 更佳</tspan><tspan x="507" dy="22">nftables</tspan><tspan font-family="Microsoft YaHei" fill="#C7D2E3"> 现代 netfilter，较新集群</tspan><tspan x="507" dy="22">userspace</tspan><tspan font-family="Microsoft YaHei" fill="#8FA0B8"> 旧实现，慢，已废弃</tspan></text>
+    <text x="491" y="500" font-size="14" fill="#C7D2E3">• Cilium、Calico-eBPF 等 CNI 插件<tspan x="491" dy="24">  可以整体替代 kube-proxy</tspan></text>
+    <text x="491" y="592" font-size="12" fill="#8FA0B8">它实现的是抽象，不是转发本身</text>
+  </g>
+
+  <g id="p6-runtime" data-pptx-bounds="834 236 346 380">
+    <g id="p6-panel-runtime" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="834 236 346 380" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 9000" fill="#111C30" stroke="#38BDF8" stroke-width="1">
+<path d="M 834 236 L 1148.86 236 L 1180 267.14 L 1180 616 L 1180 616 L 865.14 616 L 834 584.86 L 834 236 Z"/>
+</g>
+    <use data-icon="phosphor-duotone/package" x="858" y="256" width="36" height="36" fill="#38BDF8"/>
+    <text x="906" y="276" font-family="Consolas" font-size="18" font-weight="bold" fill="#E6EDF7">container runtime</text>
+    <text x="906" y="296" font-size="13" fill="#8FA0B8">真正跑容器的组件</text>
+    <line x1="858" y1="314" x2="1156" y2="314" stroke="#243350" stroke-width="1"/>
+    <text x="858" y="342" font-size="14" fill="#C7D2E3">• CRI（Container Runtime Interface）<tspan x="858" dy="24">  标准化 kubelet 与运行时的契约</tspan><tspan x="858" dy="30">• 支持的运行时：</tspan></text>
+    <text x="874" y="426" font-family="Consolas" font-size="12" fill="#38BDF8">containerd<tspan x="874" dy="22">CRI-O</tspan><tspan x="874" dy="22" fill="#C7D2E3" font-family="Microsoft YaHei">任何 CRI 兼容实现</tspan></text>
+    <rect x="858" y="500" width="298" height="56" rx="4" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1"/>
+    <text x="874" y="524" font-size="13" fill="#E6EDF7">Docker Engine 自 <tspan font-family="Consolas" fill="#A78BFA">v1.24</tspan> 起</text>
+    <text x="874" y="544" font-size="13" fill="#E6EDF7">不再作为内置运行时</text>
+    <text x="858" y="592" font-size="12" fill="#8FA0B8">kubelet 只认 CRI，不认具体实现</text>
+  </g>
+
+  <g id="p6-signpost" data-pptx-bounds="60 660 1160 40">
+    <text x="60" y="686" font-size="14" fill="#8FA0B8">有了节点上的三件套，就可以看 Pod 在节点上从生到死的完整过程。</text>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">03 · 证据</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">研究并不支持“图片越多越好”</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="lead" data-pptx-bounds="40 166 1200 44">
+    <text x="40" y="200" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">好的文字与图形组合能改善理解，但无关的图片与声音会损害记忆——人的处理容量有限。</text>
+  </g>
+
+  <g id="st-mayer" data-pptx-bounds="40 226 386 396">
+      <rect x="40" y="226" width="386" height="396" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <text x="66" y="296" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="42" font-weight="bold" fill="#C8102E">01</text>
+      <text x="66" y="346" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1A2B4A">Mayer</text>
+      <text x="66" y="378" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#5E7089">《多媒体学习》</text>
+      <line x1="66" y1="398" x2="400" y2="398" stroke="#D8D2C4" stroke-width="1"/>
+      <text x="66" y="446" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">设计良好的文字与图</text>
+      <text x="66" y="484" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">形组合可改善理解；</text>
+      <text x="66" y="522" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">但人的信息处理</text>
+      <text x="66" y="560" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">容量是有限的。</text>
+  </g>
+  <g id="st-bartsch" data-pptx-bounds="446 226 386 396">
+      <rect x="446" y="226" width="386" height="396" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <text x="472" y="296" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="42" font-weight="bold" fill="#C8102E">02</text>
+      <text x="472" y="346" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1A2B4A">Bartsch &amp; Cobern</text>
+      <text x="472" y="378" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#5E7089">课堂 PowerPoint 有效性</text>
+      <line x1="472" y1="398" x2="806" y2="398" stroke="#D8D2C4" stroke-width="1"/>
+      <text x="472" y="446" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">即使 PowerPoint 本</text>
+      <text x="472" y="484" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">身有帮助，不相关的</text>
+      <text x="472" y="522" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">图片和声音仍会</text>
+      <text x="472" y="560" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">损害记忆与学习。</text>
+  </g>
+  <g id="st-kosslyn" data-pptx-bounds="852 226 388 396">
+      <rect x="852" y="226" width="388" height="396" fill="#1A2B4A" stroke="#1A2B4A" stroke-width="1.2"/>
+      <text x="878" y="296" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="42" font-weight="bold" fill="#C8102E">03</text>
+      <text x="878" y="346" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">Kosslyn 等</text>
+      <text x="878" y="378" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#7F8CA6">演示缺陷的心理学分析</text>
+      <line x1="878" y1="398" x2="1212" y2="398" stroke="#3A4E70" stroke-width="1"/>
+      <text x="878" y="446" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#F4F1EA">真实演示常违反可辨</text>
+      <text x="878" y="484" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#F4F1EA">别性、有限容量与信</text>
+      <text x="878" y="522" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#F4F1EA">息变化原则，且未受</text>
+      <text x="878" y="560" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">训者常无法识别。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P14 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">来源：Mayer《Multimedia Learning》· Bartsch &amp; Cobern · Kosslyn 等</text>
+  </g>
+</svg>

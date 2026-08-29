@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">02 · 生命周期</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">同一份 deck，在不同阶段扮演不同角色</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="lifecycle-track" data-pptx-role="decoration" data-pptx-bounds="190 348 900 16">
+    <line x1="190" y1="356" x2="1090" y2="356" stroke="#5E7089" stroke-width="2"/>
+  </g>
+
+  <g id="stage-before" data-pptx-bounds="40 220 300 250">
+      <text x="190" y="252" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="26" font-weight="bold" fill="#1A2B4A">活动前</text>
+      <circle cx="190" cy="356" r="26" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="2"/>
+      <!-- icon: tabler-outline/bulb -->
+  <g transform="translate(176, 342) scale(1.16667)" fill="none" stroke="#1A2B4A" stroke-width="2">
+    <path d="M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7" />
+    <path d="M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3" />
+    <path d="M9.7 17l4.6 0" />
+  </g>
+      <text x="190" y="424" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">思考、综合、</text>
+      <text x="190" y="450" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">评审与排练工具</text>
+  </g>
+  <g id="stage-during" data-pptx-bounds="340 220 300 250">
+      <text x="490" y="252" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="26" font-weight="bold" fill="#1A2B4A">活动中</text>
+      <circle cx="490" cy="356" r="26" fill="#1A2B4A" stroke="#1A2B4A" stroke-width="2"/>
+      <!-- icon: tabler-outline/presentation -->
+  <g transform="translate(476, 342) scale(1.16667)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 4l18 0" />
+    <path d="M4 4v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-10" />
+    <path d="M12 16l0 4" />
+    <path d="M9 20l6 0" />
+    <path d="M8 12l3 -3l2 2l3 -3" />
+  </g>
+      <text x="490" y="424" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">协调注意力与节奏的</text>
+      <text x="490" y="450" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">共同视觉界面</text>
+  </g>
+  <g id="stage-after" data-pptx-bounds="640 220 300 250">
+      <text x="790" y="252" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="26" font-weight="bold" fill="#1A2B4A">活动后</text>
+      <circle cx="790" cy="356" r="26" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="2"/>
+      <!-- icon: tabler-outline/file-text -->
+  <g transform="translate(776, 342) scale(1.16667)" fill="none" stroke="#1A2B4A" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+      <text x="790" y="424" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">阅读副本、决策记录、</text>
+      <text x="790" y="450" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">讲义、审批或复用来源</text>
+  </g>
+  <g id="stage-none" data-pptx-bounds="940 220 300 250">
+      <text x="1090" y="252" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="26" font-weight="bold" fill="#C8102E">没有现场活动</text>
+      <circle cx="1090" cy="356" r="26" fill="#F4F1EA" stroke="#C8102E" stroke-width="2"/>
+      <!-- icon: tabler-outline/player-play -->
+  <g transform="translate(1076, 342) scale(1.16667)" fill="none" stroke="#C8102E" stroke-width="2">
+    <path d="M7 4v16l13 -8l-13 -8" />
+  </g>
+      <text x="1090" y="424" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">异步阅读、录制、</text>
+      <text x="1090" y="450" text-anchor="middle" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">旁白或自动播放</text>
+  </g>
+
+  <g id="views-note" data-pptx-bounds="40 578 1200 74">
+    <line x1="40" y1="584" x2="1240" y2="584" stroke="#E7E2D6" stroke-width="1"/>
+    <text x="40" y="618" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">PowerPoint 为此提供不同视图：现场用带私有备注的<tspan font-weight="bold" fill="#1A2B4A">演讲者视图</tspan>，没有讲者时用<tspan font-weight="bold" fill="#1A2B4A">阅读视图</tspan>。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P08 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">来源：Microsoft — 为任务选择正确视图</text>
+  </g>
+</svg>

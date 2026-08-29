@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">01 · 文件类型</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">五种扩展名，一个现代标准</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="ft-ppt" data-pptx-bounds="40 188 780 90">
+    <line x1="40" y1="188" x2="820" y2="188" stroke="#5E7089" stroke-width="1"/>
+    <text x="48" y="252" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="34" font-weight="bold" fill="#1A2B4A">.ppt</text>
+    <text x="230" y="252" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">PowerPoint 97–2003 旧版二进制</text>
+    <line x1="40" y1="278" x2="820" y2="278" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="ft-pptx" data-pptx-bounds="40 278 780 90">
+    <text x="48" y="342" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="34" font-weight="bold" fill="#C8102E">.pptx</text>
+    <text x="230" y="342" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">当前无宏包，现代主用可编辑格式</text>
+    <line x1="40" y1="368" x2="820" y2="368" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="ft-pptm" data-pptx-bounds="40 368 780 90">
+    <text x="48" y="432" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="34" font-weight="bold" fill="#1A2B4A">.pptm</text>
+    <text x="230" y="432" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">含宏的 PowerPoint 演示文稿</text>
+    <line x1="40" y1="458" x2="820" y2="458" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="ft-potx" data-pptx-bounds="40 458 780 90">
+    <text x="48" y="522" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="34" font-weight="bold" fill="#1A2B4A">.potx</text>
+    <text x="230" y="522" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">可复用的 PowerPoint 模板</text>
+    <line x1="40" y1="548" x2="820" y2="548" stroke="#E7E2D6" stroke-width="1"/>
+  </g>
+  <g id="ft-ppsx" data-pptx-bounds="40 548 780 92">
+    <text x="48" y="612" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="34" font-weight="bold" fill="#1A2B4A">.ppsx</text>
+    <text x="230" y="612" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">打开即进入放映视图的放映文件</text>
+    <line x1="40" y1="638" x2="820" y2="638" stroke="#5E7089" stroke-width="1"/>
+  </g>
+
+  <g id="std-card" data-pptx-bounds="856 180 384 460">
+    <rect x="856" y="188" width="384" height="452" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.5"/>
+    <rect x="856" y="188" width="384" height="6" fill="#C8102E"/>
+    <text x="884" y="256" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="32" font-weight="bold" fill="#1A2B4A">背后的标准</text>
+    <text x="884" y="316" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">现代 .pptx 是一个</text>
+    <text x="884" y="352" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">Office Open XML 包，</text>
+    <text x="884" y="388" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" fill="#22262B">不是二进制黑箱。</text>
+    <line x1="884" y1="424" x2="1212" y2="424" stroke="#5E7089" stroke-width="1"/>
+    <text x="884" y="470" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">其词汇与打包方式由</text>
+    <text x="884" y="516" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="26" font-weight="bold" fill="#1A2B4A">ECMA-376</text>
+    <text x="884" y="556" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="26" font-weight="bold" fill="#1A2B4A">ISO/IEC 29500</text>
+    <text x="884" y="596" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">标准化。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P03 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">来源：Microsoft 文件格式说明 · ECMA International</text>
+  </g>
+</svg>

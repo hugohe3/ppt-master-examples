@@ -1,137 +1,84 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
   <defs>
-    <pattern id="bpGridMajor" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse" data-pptx-pattern="lgGrid">
-      <rect width="40" height="40" fill="#0E2A47" />
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2D4A6B" stroke-width="0.6" />
-    </pattern>
-    <pattern id="bpGridMinor" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse" data-pptx-pattern="smGrid">
-      <rect width="8" height="8" fill="#0E2A47" />
-      <path d="M 8 0 L 0 0 0 8" fill="none" stroke="#1A3A5C" stroke-width="0.3" />
-    </pattern>
+    <filter id="glowCyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#38BDF8" flood-opacity="0.5" />
+    </filter>
   </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220" />
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1" />
 
-  <g id="bg">
-    <rect width="1280" height="720" fill="#0E2A47" />
-    <rect width="1280" height="720" fill="url(#bpGridMinor)" opacity="0.4" />
-    <rect width="1280" height="720" fill="url(#bpGridMajor)" opacity="0.6" />
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">01 · TOPOLOGY OVERVIEW</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">02 / 13</text>
   </g>
 
-  <g id="header">
-    <text x="60" y="42" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="30" font-weight="bold" fill="#F0F4F8">Two Planes, One Spine</text>
-    <text x="1220" y="42" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#A0B8D0" text-anchor="end">P02 / 10</text>
-    <line x1="60" y1="58" x2="1220" y2="58" stroke="#2D4A6B" stroke-width="0.5" />
-    <text x="60" y="78" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#6B85A3">EVERY DECISION GOES THROUGH <tspan fill="#FFB627" font-family="Consolas, 'Courier New', monospace">kube-apiserver</tspan></text>
+  <g id="p2-title" data-pptx-bounds="60 84 1160 80">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">两个平面，一条脊柱</text>
+    <text x="60" y="154" font-size="17" fill="#8FA0B8">一个 Kubernetes 集群是两平面系统；所有组件都只通过 kube-apiserver 交流，这是整座架构的脊柱。</text>
   </g>
 
-  <g id="cp-zone-decor">
-    <rect x="80" y="105" width="1120" height="240" fill="#1A3A5C" fill-opacity="0.35" stroke="#3E7AB8" stroke-width="0.6" stroke-dasharray="4 4" />
-    <text x="100" y="130" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#FFB627" letter-spacing="2">[ CONTROL PLANE ]</text>
-    <text x="100" y="148" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#A0B8D0">Global decision-making · desired-state holder</text>
+  <g id="p2-control-plane" data-pptx-bounds="60 190 480 290">
+    <rect x="60" y="190" width="480" height="290" fill="#111C30" stroke="#243350" stroke-width="1" />
+    <rect x="60" y="190" width="6" height="290" fill="#A78BFA" />
+    
+  <g transform="translate(90, 214) scale(0.140625)" fill="#A78BFA">
+    <path d="M200,48H56a8,8,0,0,0-8,8V200a8,8,0,0,0,8,8H200a8,8,0,0,0,8-8V56A8,8,0,0,0,200,48ZM152,152H104V104h48Z" opacity="0.2" />
+    <path d="M152,96H104a8,8,0,0,0-8,8v48a8,8,0,0,0,8,8h48a8,8,0,0,0,8-8V104A8,8,0,0,0,152,96Zm-8,48H112V112h32Zm88,0H216V112h16a8,8,0,0,0,0-16H216V56a16,16,0,0,0-16-16H160V24a8,8,0,0,0-16,0V40H112V24a8,8,0,0,0-16,0V40H56A16,16,0,0,0,40,56V96H24a8,8,0,0,0,0,16H40v32H24a8,8,0,0,0,0,16H40v40a16,16,0,0,0,16,16H96v16a8,8,0,0,0,16,0V216h32v16a8,8,0,0,0,16,0V216h40a16,16,0,0,0,16-16V160h16a8,8,0,0,0,0-16Zm-32,56H56V56H200v95.87s0,.09,0,.13,0,.09,0,.13V200Z" />
+  </g>
+    <text x="140" y="232" font-size="22" font-weight="bold" fill="#E6EDF7">控制平面</text>
+    <text x="140" y="254" font-family="Consolas" font-size="12" letter-spacing="2" fill="#A78BFA">CONTROL PLANE</text>
+    <text x="90" y="296" font-size="17" fill="#C7D2E3">全局决策者。</text>
+    <text fill="#C7D2E3" font-size="16" x="90" y="330">• 调度工作负载到节点</text><text fill="#C7D2E3" font-size="16" x="90" y="358">• 响应集群事件</text><text fill="#C7D2E3" font-size="16" x="90" y="386">• 保存每个 API 对象的期望状态</text><text x="90" y="448" font-size="13" fill="#8FA0B8">最小集群：1 台控制平面主机 + 1 个工作节点</text>
   </g>
 
-  <g id="cp-apiserver">
-      <rect x="540" y="180" width="200" height="120" fill="#0E2A47" stroke="#FFB627" stroke-width="2" />
-      <rect x="540" y="180" width="200" height="22" fill="#FFB627" />
-      <text x="640" y="196" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#0E2A47" text-anchor="middle" font-weight="bold">▲ HUB</text>
-      <text x="640" y="234" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#FFB627" text-anchor="middle" font-weight="bold">kube-apiserver</text>
-      <text x="640" y="258" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#F0F4F8" text-anchor="middle">REST + admission</text>
-      <text x="640" y="276" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#F0F4F8" text-anchor="middle">+ validation gateway</text>
-      <text x="640" y="294" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#A0B8D0" text-anchor="middle">↕ talks to etcd only</text>
-    </g>
-
-    <g id="cp-etcd">
-      <rect x="120" y="195" width="160" height="90" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-      <text x="200" y="220" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#5BA3E0" text-anchor="middle" font-weight="bold">etcd</text>
-      <text x="200" y="244" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#F0F4F8" text-anchor="middle">key-value store</text>
-      <text x="200" y="260" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0" text-anchor="middle">Raft · quorum</text>
-      <text x="200" y="276" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#6B85A3" text-anchor="middle">3 or 5 members</text>
-    </g>
-
-    <g id="cp-sched">
-      <rect x="320" y="195" width="180" height="90" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-      <text x="410" y="220" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#5BA3E0" text-anchor="middle" font-weight="bold">kube-scheduler</text>
-      <text x="410" y="244" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#F0F4F8" text-anchor="middle">filter → score → bind</text>
-      <text x="410" y="260" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0" text-anchor="middle">picks node per Pod</text>
-    </g>
-
-    <g id="cp-ctrl">
-      <rect x="780" y="195" width="200" height="90" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-      <text x="880" y="220" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#5BA3E0" text-anchor="middle" font-weight="bold">controller-manager</text>
-      <text x="880" y="244" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#F0F4F8" text-anchor="middle">watch · diff · act</text>
-      <text x="880" y="260" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0" text-anchor="middle">N reconcile loops</text>
-    </g>
-
-    <g id="cp-cloud">
-      <rect x="1020" y="195" width="160" height="90" fill="#0E2A47" stroke="#3E7AB8" stroke-width="1.5" stroke-dasharray="4 3" />
-      <text x="1100" y="220" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#3E7AB8" text-anchor="middle" font-weight="bold">cloud-ctrl-mgr</text>
-      <text x="1100" y="244" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0" text-anchor="middle">cloud only</text>
-      <text x="1100" y="260" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0" text-anchor="middle">LB · routes · nodes</text>
-      <text x="1100" y="277" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#6B85A3" text-anchor="middle">optional</text>
-    </g>
-
-  <g id="cp-zone-decor-arrows">
-    <path d="M 260,285 Q 260,318 420,318 Q 580,318 580,290" fill="none" stroke="#FFB627" stroke-width="1.2"/>
-    <polygon points="580,290 575,300 585,300" fill="#FFB627"/>
-    <line x1="740" y1="240" x2="780" y2="240" stroke="#FFB627" stroke-width="1.2" />
-    <line x1="980" y1="240" x2="1020" y2="240" stroke="#3E7AB8" stroke-width="1" stroke-dasharray="3 3" />
+  <g id="p2-spine" data-pptx-bounds="548 190 184 290">
+    <rect x="600" y="190" width="80" height="290" rx="6" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5" filter="url(#glowCyan)" />
+    <text x="640" y="238" text-anchor="middle" font-family="Consolas" font-size="13" font-weight="bold" fill="#38BDF8">kube-</text>
+    <text x="640" y="256" text-anchor="middle" font-family="Consolas" font-size="13" font-weight="bold" fill="#38BDF8">apiserver</text>
+    <line x1="612" y1="272" x2="668" y2="272" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1" />
+    <text x="640" y="296" text-anchor="middle" font-size="12" fill="#C7D2E3">唯一直接</text>
+    <text x="640" y="314" text-anchor="middle" font-size="12" fill="#C7D2E3">读写 etcd</text>
+    <g id="p2-exchange" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftRightArrow" data-pptx-frame="548 330 184 56" fill="#38BDF8" stroke="#38BDF8" fill-opacity="0.18" stroke-width="1.5">
+<path d="M 548 358 L 576 330 L 576 344 L 704 344 L 704 330 L 732 358 L 704 386 L 704 372 L 576 372 L 576 386 Z" />
+</g>
+    <text x="640" y="412" text-anchor="middle" font-size="12" fill="#C7D2E3">所有状态</text>
+    <text x="640" y="430" text-anchor="middle" font-size="12" fill="#C7D2E3">读写经此</text>
+    <text x="640" y="462" text-anchor="middle" font-family="Consolas" font-size="11" letter-spacing="2" fill="#38BDF8">SPINE</text>
   </g>
 
-  <g id="spine">
-    <line x1="640" y1="345" x2="640" y2="415" stroke="#FFB627" stroke-width="2" />
-    <polygon points="640,415 634,405 646,405" fill="#FFB627" />
-    <polygon points="640,345 634,355 646,355" fill="#FFB627" />
-    <rect x="555" y="368" width="170" height="22" fill="#0E2A47" />
-    <text x="640" y="384" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#FFB627" text-anchor="middle">API-MEDIATED</text>
+  <g id="p2-data-plane" data-pptx-bounds="740 190 480 290">
+    <rect x="740" y="190" width="480" height="290" fill="#111C30" stroke="#243350" stroke-width="1" />
+    <rect x="1214" y="190" width="6" height="290" fill="#38BDF8" />
+    
+  <g transform="translate(770, 214) scale(0.140625)" fill="#38BDF8">
+    <path d="M216,152v48a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V152a8,8,0,0,1,8-8H208A8,8,0,0,1,216,152ZM208,48H48a8,8,0,0,0-8,8v48a8,8,0,0,0,8,8H208a8,8,0,0,0,8-8V56A8,8,0,0,0,208,48Z" opacity="0.2" />
+    <path d="M208,136H48a16,16,0,0,0-16,16v48a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V152A16,16,0,0,0,208,136Zm0,64H48V152H208v48Zm0-160H48A16,16,0,0,0,32,56v48a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V56A16,16,0,0,0,208,40Zm0,64H48V56H208v48ZM192,80a12,12,0,1,1-12-12A12,12,0,0,1,192,80Zm0,96a12,12,0,1,1-12-12A12,12,0,0,1,192,176Z" />
+  </g>
+    <text x="820" y="232" font-size="22" font-weight="bold" fill="#E6EDF7">数据平面</text>
+    <text x="820" y="254" font-family="Consolas" font-size="12" letter-spacing="2" fill="#38BDF8">DATA PLANE · WORKER NODES</text>
+    <text x="770" y="296" font-size="17" fill="#C7D2E3">真正运行应用 Pod 的地方。</text>
+    <text fill="#C7D2E3" font-size="16" x="770" y="330">• 一个或多个工作节点</text><text fill="#C7D2E3" font-size="16" x="770" y="358">• 每个节点：kubelet + 容器运行时 + kube-proxy</text><text fill="#C7D2E3" font-size="16" x="770" y="386">• 节点池规模按工作负载确定</text><text x="770" y="448" font-size="13" fill="#8FA0B8">生产：控制平面与 etcd 跨 ≥3 台主机、跨可用区分布</text>
   </g>
 
-  <g id="dp-zone-decor">
-    <rect x="80" y="415" width="1120" height="220" fill="#1A3A5C" fill-opacity="0.35" stroke="#3E7AB8" stroke-width="0.6" stroke-dasharray="4 4" />
-    <text x="100" y="440" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#5BA3E0" letter-spacing="2">[ DATA PLANE ]</text>
-    <text x="100" y="458" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#A0B8D0">Pod execution · workload runtime</text>
-    <line x1="640" y1="415" x2="640" y2="445" stroke="#5BA3E0" stroke-width="1" stroke-dasharray="3 3" opacity="0.5" />
-    <line x1="270" y1="445" x2="640" y2="445" stroke="#5BA3E0" stroke-width="1" stroke-dasharray="3 3" opacity="0.5" />
-    <line x1="640" y1="445" x2="1010" y2="445" stroke="#5BA3E0" stroke-width="1" stroke-dasharray="3 3" opacity="0.5" />
-    <line x1="270" y1="445" x2="270" y2="490" stroke="#5BA3E0" stroke-width="1" stroke-dasharray="3 3" opacity="0.5" />
-    <line x1="640" y1="445" x2="640" y2="490" stroke="#5BA3E0" stroke-width="1" stroke-dasharray="3 3" opacity="0.5" />
-    <line x1="1010" y1="445" x2="1010" y2="490" stroke="#5BA3E0" stroke-width="1" stroke-dasharray="3 3" opacity="0.5" />
-  </g>
-
-  <g id="dp-node-1">
-      <polygon points="270,490 360,535 360,605 270,650 180,605 180,535" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-      <line x1="270" y1="490" x2="270" y2="570" stroke="#5BA3E0" stroke-width="1" />
-      <line x1="270" y1="570" x2="180" y2="535" stroke="#5BA3E0" stroke-width="1" />
-      <line x1="270" y1="570" x2="360" y2="535" stroke="#5BA3E0" stroke-width="1" />
-      <rect x="230" y="595" width="22" height="14" fill="none" stroke="#7FD99F" stroke-width="1" />
-      <rect x="259" y="595" width="22" height="14" fill="none" stroke="#7FD99F" stroke-width="1" />
-      <rect x="288" y="595" width="22" height="14" fill="none" stroke="#7FD99F" stroke-width="1" />
-      <text x="270" y="675" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#A0B8D0" text-anchor="middle">worker-node-01</text>
+  <g id="p2-stats" data-pptx-bounds="60 510 1160 150">
+    <line x1="60" y1="510" x2="1220" y2="510" stroke="#243350" stroke-width="1" />
+    <g id="p2-stat-1">
+      <text x="60" y="576" font-family="Consolas" font-size="44" font-weight="bold" fill="#E6EDF7">≥3</text>
+      <text x="140" y="560" font-size="16" font-weight="bold" fill="#E6EDF7">台控制平面主机</text>
+      <text x="140" y="584" font-size="13" fill="#8FA0B8">生产环境；kube-apiserver 置于负载均衡之后</text>
     </g>
-
-    <g id="dp-node-2">
-      <polygon points="640,490 730,535 730,605 640,650 550,605 550,535" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-      <line x1="640" y1="490" x2="640" y2="570" stroke="#5BA3E0" stroke-width="1" />
-      <line x1="640" y1="570" x2="550" y2="535" stroke="#5BA3E0" stroke-width="1" />
-      <line x1="640" y1="570" x2="730" y2="535" stroke="#5BA3E0" stroke-width="1" />
-      <rect x="600" y="595" width="22" height="14" fill="none" stroke="#7FD99F" stroke-width="1" />
-      <rect x="629" y="595" width="22" height="14" fill="none" stroke="#7FD99F" stroke-width="1" />
-      <rect x="658" y="595" width="22" height="14" fill="none" stroke="#7FD99F" stroke-width="1" />
-      <text x="640" y="675" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#A0B8D0" text-anchor="middle">worker-node-02</text>
+    <line x1="440" y1="536" x2="440" y2="600" stroke="#243350" stroke-width="1" />
+    <g id="p2-stat-2">
+      <text x="470" y="576" font-family="Consolas" font-size="44" font-weight="bold" fill="#E6EDF7">3/5</text>
+      <text x="560" y="560" font-size="16" font-weight="bold" fill="#E6EDF7">个 etcd 成员（奇数）</text>
+      <text x="560" y="584" font-size="13" fill="#8FA0B8">Raft 共识需要奇数成员形成法定人数</text>
     </g>
-
-    <g id="dp-node-3">
-      <polygon points="1010,490 1100,535 1100,605 1010,650 920,605 920,535" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-      <line x1="1010" y1="490" x2="1010" y2="570" stroke="#5BA3E0" stroke-width="1" />
-      <line x1="1010" y1="570" x2="920" y2="535" stroke="#5BA3E0" stroke-width="1" />
-      <line x1="1010" y1="570" x2="1100" y2="535" stroke="#5BA3E0" stroke-width="1" />
-      <rect x="970" y="595" width="22" height="14" fill="none" stroke="#7FD99F" stroke-width="1" />
-      <rect x="999" y="595" width="22" height="14" fill="none" stroke="#7FD99F" stroke-width="1" />
-      <text x="1010" y="675" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#A0B8D0" text-anchor="middle">worker-node-03</text>
+    <line x1="840" y1="536" x2="840" y2="600" stroke="#243350" stroke-width="1" />
+    <g id="p2-stat-3">
+      <text x="870" y="576" font-family="Consolas" font-size="44" font-weight="bold" fill="#38BDF8">1</text>
+      <text x="910" y="560" font-size="16" font-weight="bold" fill="#E6EDF7">个组件直接对话 etcd</text>
+      <text x="910" y="584" font-size="13" fill="#8FA0B8">其余组件都经由 API server 读写状态</text>
     </g>
-
-  <g id="footer">
-    <line x1="60" y1="680" x2="1220" y2="680" stroke="#2D4A6B" stroke-width="0.5" />
-    <text x="60" y="700" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#6B85A3">K8S-ARCH-2026 · DRAWING 02 OF 10 · TOPOLOGY OVERVIEW</text>
-    <text x="1220" y="700" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#6B85A3" text-anchor="end">SHEET 02 OF 10</text>
+    <text x="60" y="640" font-size="14" fill="#8FA0B8">接下来：先拆控制平面的五个组件，再看每个工作节点上的三个组件。</text>
   </g>
 </svg>

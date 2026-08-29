@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220" />
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1" />
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">03 · SCHEDULING</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">04 / 13</text>
+  </g>
+
+  <g id="p4-title" data-pptx-bounds="60 84 1160 74">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">调度：先过滤，再打分</text>
+    <text x="60" y="150" font-size="16" fill="#8FA0B8">kube-scheduler 为每个还没有 nodeName 的 Pod 走一条两阶段流水线，结果只是一条绑定记录。</text>
+  </g>
+
+  <g id="p4-pipeline" data-pptx-bounds="60 176 1160 92">
+    <g id="p4-stage-filter" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="60 180 520 84" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 60 180 L 538 180 L 580 222 L 538 264 L 60 264 Z" />
+</g>
+    <g id="p4-stage-score" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="596 180 520 84" data-pptx-av-adj="val 30000" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1.5">
+<path d="M 596 180 L 1090.8 180 L 1116 222 L 1090.8 264 L 596 264 L 621.2 222 Z" />
+</g>
+    <g id="p4-bind-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="1136 196 84 52" fill="#38BDF8" stroke="none">
+<path d="M 1136 209 L 1194 209 L 1194 196 L 1220 222 L 1194 248 L 1194 235 L 1136 235 Z" />
+</g>
+    <text x="90" y="214" font-family="Consolas" font-size="12" letter-spacing="2" fill="#38BDF8">STAGE 1 · FILTERING</text>
+    <text x="90" y="242" font-size="20" font-weight="bold" fill="#E6EDF7">过滤 —— 哪些节点是可行的？</text>
+    <text x="640" y="214" font-family="Consolas" font-size="12" letter-spacing="2" fill="#A78BFA">STAGE 2 · SCORING</text>
+    <text x="640" y="242" font-size="20" font-weight="bold" fill="#E6EDF7">打分 —— 哪个可行节点最优？</text>
+  </g>
+
+  <g id="p4-filter-criteria" data-pptx-bounds="60 290 520 300">
+    <text x="60" y="312" font-size="14" font-weight="bold" fill="#C7D2E3">过滤依据</text>
+    <line x1="60" y1="324" x2="580" y2="324" stroke="#243350" stroke-width="1" />
+    <g id="p4-crit-1">
+      
+  <g transform="translate(60, 340) scale(0.09375)" fill="#38BDF8">
+    <path d="M200,48H56a8,8,0,0,0-8,8V200a8,8,0,0,0,8,8H200a8,8,0,0,0,8-8V56A8,8,0,0,0,200,48ZM152,152H104V104h48Z" opacity="0.2" />
+    <path d="M152,96H104a8,8,0,0,0-8,8v48a8,8,0,0,0,8,8h48a8,8,0,0,0,8-8V104A8,8,0,0,0,152,96Zm-8,48H112V112h32Zm88,0H216V112h16a8,8,0,0,0,0-16H216V56a16,16,0,0,0-16-16H160V24a8,8,0,0,0-16,0V40H112V24a8,8,0,0,0-16,0V40H56A16,16,0,0,0,40,56V96H24a8,8,0,0,0,0,16H40v32H24a8,8,0,0,0,0,16H40v40a16,16,0,0,0,16,16H96v16a8,8,0,0,0,16,0V216h32v16a8,8,0,0,0,16,0V216h40a16,16,0,0,0,16-16V160h16a8,8,0,0,0,0-16Zm-32,56H56V56H200v95.87s0,.09,0,.13,0,.09,0,.13V200Z" />
+  </g>
+      <text x="96" y="358" font-size="16" fill="#E6EDF7">资源请求 <tspan font-family="Consolas" font-size="13" fill="#8FA0B8">CPU / memory / GPU</tspan></text>
+    </g>
+    <g id="p4-crit-2">
+      
+  <g transform="translate(60, 384) scale(0.09375)" fill="#38BDF8">
+    <path d="M80,136a24,24,0,1,1-24-24A24,24,0,0,1,80,136Zm48-72a24,24,0,1,0,24,24A24,24,0,0,0,128,64Zm72,80a24,24,0,1,0,24,24A24,24,0,0,0,200,144Z" opacity="0.2" />
+    <path d="M64,105V40a8,8,0,0,0-16,0v65a32,32,0,0,0,0,62v49a8,8,0,0,0,16,0V167a32,32,0,0,0,0-62Zm-8,47a16,16,0,1,1,16-16A16,16,0,0,1,56,152Zm80-95V40a8,8,0,0,0-16,0V57a32,32,0,0,0,0,62v97a8,8,0,0,0,16,0V119a32,32,0,0,0,0-62Zm-8,47a16,16,0,1,1,16-16A16,16,0,0,1,128,104Zm104,64a32.06,32.06,0,0,0-24-31V40a8,8,0,0,0-16,0v97a32,32,0,0,0,0,62v17a8,8,0,0,0,16,0V199A32.06,32.06,0,0,0,232,168Zm-32,16a16,16,0,1,1,16-16A16,16,0,0,1,200,184Z" />
+  </g>
+      <text x="96" y="402" font-size="16" fill="#E6EDF7">硬件 / 软件 / 策略约束</text>
+    </g>
+    <g id="p4-crit-3">
+      
+  <g transform="translate(60, 428) scale(0.09375)" fill="#38BDF8">
+    <path d="M218.34,119.6,183.6,154.34a46.58,46.58,0,0,1-44.31,12.26c-.31.34-.62.67-.95,1L103.6,202.34A46.63,46.63,0,1,1,37.66,136.4L72.4,101.66A46.6,46.6,0,0,1,116.71,89.4c.31-.34.62-.67,1-1L152.4,53.66a46.63,46.63,0,0,1,65.94,65.94Z" opacity="0.2" />
+    <path d="M240,88.23a54.43,54.43,0,0,1-16,37L189.25,160a54.27,54.27,0,0,1-38.63,16h-.05A54.63,54.63,0,0,1,96,119.84a8,8,0,0,1,16,.45A38.62,38.62,0,0,0,150.58,160h0a38.39,38.39,0,0,0,27.31-11.31l34.75-34.75a38.63,38.63,0,0,0-54.63-54.63l-11,11A8,8,0,0,1,135.7,59l11-11A54.65,54.65,0,0,1,224,48,54.86,54.86,0,0,1,240,88.23ZM109,185.66l-11,11A38.41,38.41,0,0,1,70.6,208h0a38.63,38.63,0,0,1-27.29-65.94L78,107.31A38.63,38.63,0,0,1,144,135.71a8,8,0,0,0,7.78,8.22H152a8,8,0,0,0,8-7.78A54.86,54.86,0,0,0,144,96a54.65,54.65,0,0,0-77.27,0L32,130.75A54.62,54.62,0,0,0,70.56,224h0a54.28,54.28,0,0,0,38.64-16l11-11A8,8,0,0,0,109,185.66Z" />
+  </g>
+      <text x="96" y="446" font-size="16" fill="#E6EDF7">亲和与反亲和规则 <tspan font-family="Consolas" font-size="13" fill="#8FA0B8">affinity / anti-affinity</tspan></text>
+    </g>
+    <g id="p4-crit-4">
+      
+  <g transform="translate(60, 472) scale(0.09375)" fill="#38BDF8">
+    <path d="M216,56v56c0,96-88,120-88,120S40,208,40,112V56a8,8,0,0,1,8-8H208A8,8,0,0,1,216,56Z" opacity="0.2" />
+    <path d="M208,40H48A16,16,0,0,0,32,56v56c0,52.72,25.52,84.67,46.93,102.19,23.06,18.86,46,25.26,47,25.53a8,8,0,0,0,4.2,0c1-.27,23.91-6.67,47-25.53C198.48,196.67,224,164.72,224,112V56A16,16,0,0,0,208,40Zm0,72c0,37.07-13.66,67.16-40.6,89.42A129.3,129.3,0,0,1,128,223.62a128.25,128.25,0,0,1-38.92-21.81C61.82,179.51,48,149.3,48,112l0-56,160,0ZM82.34,141.66a8,8,0,0,1,11.32-11.32L112,148.69l50.34-50.35a8,8,0,0,1,11.32,11.32l-56,56a8,8,0,0,1-11.32,0Z" />
+  </g>
+      <text x="96" y="490" font-size="16" fill="#E6EDF7">污点与容忍 <tspan font-family="Consolas" font-size="13" fill="#8FA0B8">taints / tolerations</tspan></text>
+    </g>
+    <g id="p4-crit-5">
+      
+  <g transform="translate(60, 516) scale(0.09375)" fill="#38BDF8">
+    <path d="M64,112v32a8,8,0,0,1-8,8H24a8,8,0,0,1-8-8V112a8,8,0,0,1,8-8H56A8,8,0,0,1,64,112ZM208,40H160a8,8,0,0,0-8,8V96a8,8,0,0,0,8,8h48a8,8,0,0,0,8-8V48A8,8,0,0,0,208,40Zm0,112H160a8,8,0,0,0-8,8v48a8,8,0,0,0,8,8h48a8,8,0,0,0,8-8V160A8,8,0,0,0,208,152Z" opacity="0.2" />
+    <path d="M160,112h48a16,16,0,0,0,16-16V48a16,16,0,0,0-16-16H160a16,16,0,0,0-16,16V64H128a24,24,0,0,0-24,24v32H72v-8A16,16,0,0,0,56,96H24A16,16,0,0,0,8,112v32a16,16,0,0,0,16,16H56a16,16,0,0,0,16-16v-8h32v32a24,24,0,0,0,24,24h16v16a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V160a16,16,0,0,0-16-16H160a16,16,0,0,0-16,16v16H128a8,8,0,0,1-8-8V88a8,8,0,0,1,8-8h16V96A16,16,0,0,0,160,112ZM56,144H24V112H56v32Zm104,16h48v48H160Zm0-112h48V96H160Z" />
+  </g>
+      <text x="96" y="534" font-size="16" fill="#E6EDF7">拓扑分布、数据局部性、工作负载间干扰</text>
+    </g>
+    <text x="60" y="576" font-size="13" fill="#8FA0B8">任何一条不满足，节点就被淘汰，不进入打分。</text>
+  </g>
+
+  <g id="p4-scoring" data-pptx-bounds="596 290 624 300">
+    <text x="596" y="312" font-size="14" font-weight="bold" fill="#C7D2E3">打分与绑定</text>
+    <line x1="596" y1="324" x2="1220" y2="324" stroke="#243350" stroke-width="1" />
+    <text x="596" y="358" font-size="16" fill="#E6EDF7">对每个可行节点按同一组规则打分，取最高分者。</text>
+    <text fill="#E6EDF7" font-size="16" x="596" y="392">调度器随后做的只有一件事：把 binding 写回 API server。</text><text fill="#E6EDF7" font-size="16" x="596" y="418">真正拉起容器的是那个节点上的 kubelet —— 调度器不直接和节点对话。</text><rect x="596" y="450" width="624" height="120" rx="4" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1" />
+    
+  <g transform="translate(616, 470) scale(0.109375)" fill="#A78BFA">
+    <path d="M215.46,216H40.54C27.92,216,20,202.79,26.13,192.09L113.59,40.22c6.3-11,22.52-11,28.82,0l87.46,151.87C236,202.79,228.08,216,215.46,216Z" opacity="0.2" />
+    <path d="M236.8,188.09,149.35,36.22h0a24.76,24.76,0,0,0-42.7,0L19.2,188.09a23.51,23.51,0,0,0,0,23.72A24.35,24.35,0,0,0,40.55,224h174.9a24.35,24.35,0,0,0,21.33-12.19A23.51,23.51,0,0,0,236.8,188.09ZM222.93,203.8a8.5,8.5,0,0,1-7.48,4.2H40.55a8.5,8.5,0,0,1-7.48-4.2,7.59,7.59,0,0,1,0-7.72L120.52,44.21a8.75,8.75,0,0,1,15,0l87.45,151.87A7.59,7.59,0,0,1,222.93,203.8ZM120,144V104a8,8,0,0,1,16,0v40a8,8,0,0,1-16,0Zm20,36a12,12,0,1,1-12-12A12,12,0,0,1,140,180Z" />
+  </g>
+    <text x="656" y="478" font-size="16" font-weight="bold" fill="#E6EDF7">一个 Pod 一生只被调度一次</text>
+    <text fill="#C7D2E3" font-size="14" x="656" y="504">失败的 Pod 不会被“重新调度”，而是由它的控制器</text><text fill="#C7D2E3" font-size="14" x="656" y="526">（Deployment / StatefulSet / Job）用一个新的 UID 创建替代 Pod，</text><text fill="#C7D2E3" font-size="14" x="656" y="548">再走一遍完整的过滤 → 打分流水线。</text></g>
+
+  <g id="p4-signpost" data-pptx-bounds="60 620 1160 40">
+    <line x1="60" y1="620" x2="1220" y2="620" stroke="#243350" stroke-width="1" />
+    <text x="60" y="648" font-size="14" fill="#8FA0B8">调度器决定“去哪”；接下来看控制器如何持续保证“数量与状态对”。</text>
+  </g>
+</svg>

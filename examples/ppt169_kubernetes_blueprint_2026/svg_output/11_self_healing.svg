@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">10 · SELF-HEALING &amp; OBSERVABILITY</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">11 / 13</text>
+  </g>
+
+  <g id="p11-title" data-pptx-bounds="60 84 1160 60">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">自愈的边界：什么会自动恢复，什么不会</text>
+  </g>
+
+  <g id="p11-recovers" data-pptx-bounds="60 160 640 400">
+    <rect x="60" y="160" width="640" height="400" fill="#0F2F26" fill-opacity="0.55" stroke="#34D399" stroke-width="1"/>
+    <use data-icon="phosphor-duotone/first-aid" x="84" y="180" width="30" height="30" fill="#34D399"/>
+    <text x="126" y="202" font-size="20" font-weight="bold" fill="#E6EDF7">会自动恢复</text>
+    <line x1="84" y1="224" x2="676" y2="224" stroke="#34D399" stroke-opacity="0.4" stroke-width="1"/>
+    <g id="p11-rec-container">
+      <text x="84" y="256" font-size="15" font-weight="bold" fill="#E6EDF7">容器崩溃</text>
+      <text x="200" y="256" font-size="14" fill="#C7D2E3">→ kubelet 按 restartPolicy 重启，指数退避</text>
+      <text x="200" y="278" font-family="Consolas" font-size="12" fill="#34D399">100ms → 5min 上限，健康运行 10min 后重置</text>
+    </g>
+    <g id="p11-rec-pod">
+      <text x="84" y="326" font-size="15" font-weight="bold" fill="#E6EDF7">Pod 失败</text>
+      <text x="200" y="326" font-size="14" fill="#C7D2E3">→ 所属控制器（Deployment / ReplicaSet / StatefulSet）创建新 Pod</text>
+    </g>
+    <g id="p11-rec-node">
+      <text x="84" y="384" font-size="15" font-weight="bold" fill="#E6EDF7">节点失败</text>
+      <text x="200" y="384" font-size="14" fill="#C7D2E3">→ 节点控制器标记 NotReady；超过 pod-eviction-timeout</text>
+      <text x="200" y="406" font-size="14" fill="#C7D2E3">（默认 <tspan font-family="Consolas" fill="#34D399">5min</tspan>）后其上 Pod 被标记删除，控制器在其他节点重建</text>
+    </g>
+    <g id="p11-rec-balance">
+      <text x="84" y="456" font-size="15" font-weight="bold" fill="#E6EDF7">负载不均</text>
+      <text x="200" y="456" font-size="14" fill="#C7D2E3">→ kube-scheduler 把新 Pod 放到负载更低的节点</text>
+    </g>
+    <text x="84" y="528" font-size="13" fill="#8FA0B8">共同点：都有一个控制器在盯着，差距一出现就动手。</text>
+  </g>
+
+  <g id="p11-does-not" data-pptx-bounds="740 160 480 400">
+    <rect x="740" y="160" width="480" height="400" fill="#2A1418" fill-opacity="0.55" stroke="#F87171" stroke-width="1"/>
+    <use data-icon="phosphor-duotone/warning" x="764" y="180" width="30" height="30" fill="#F87171"/>
+    <text x="806" y="202" font-size="20" font-weight="bold" fill="#E6EDF7">不会自动恢复</text>
+    <line x1="764" y1="224" x2="1196" y2="224" stroke="#F87171" stroke-opacity="0.4" stroke-width="1"/>
+    <g id="p11-nr-etcd">
+      <use data-icon="phosphor-duotone/database" x="764" y="246" width="24" height="24" fill="#F87171"/>
+      <text x="800" y="264" font-size="15" font-weight="bold" fill="#E6EDF7">etcd 失去法定人数</text>
+      <text x="764" y="294" font-size="14" fill="#C7D2E3">集群状态随之丢失；只能从备份<tspan x="764" dy="22">手动恢复——这就是为什么备份是命脉。</tspan></text>
+    </g>
+    <g id="p11-nr-apiserver">
+      <use data-icon="phosphor-duotone/broadcast" x="764" y="366" width="24" height="24" fill="#F87171"/>
+      <text x="800" y="384" font-size="15" font-weight="bold" fill="#E6EDF7">API server 失联</text>
+      <text x="764" y="414" font-size="14" fill="#C7D2E3">无法再做任何新决策；已有工作负载<tspan x="764" dy="22">继续在各节点运行，直到 kubelet 的</tspan><tspan x="764" dy="22">watch 超时为止。</tspan></text>
+    </g>
+    <text x="764" y="528" font-size="13" fill="#8FA0B8">脊柱断了，循环就停了。</text>
+  </g>
+
+  <g id="p11-addons" data-pptx-bounds="60 580 1160 90">
+    <text x="60" y="598" font-size="13" font-weight="bold" fill="#C7D2E3">生产必备的可观测插件</text>
+    <g id="p11-addon-dns">
+      <use data-icon="phosphor-duotone/globe" x="60" y="616" width="24" height="24" fill="#38BDF8"/>
+      <text x="92" y="628" font-size="14" font-weight="bold" fill="#E6EDF7">DNS <tspan font-size="12" font-weight="normal" fill="#F87171">必需</tspan></text>
+      <text x="92" y="648" font-family="Consolas" font-size="12" fill="#8FA0B8">CoreDNS</text>
+    </g>
+    <g id="p11-addon-metrics">
+      <use data-icon="phosphor-duotone/gauge" x="350" y="616" width="24" height="24" fill="#38BDF8"/>
+      <text x="382" y="628" font-size="14" font-weight="bold" fill="#E6EDF7">指标</text>
+      <text x="382" y="648" font-family="Consolas" font-size="12" fill="#8FA0B8">metrics-server + Prometheus</text>
+    </g>
+    <g id="p11-addon-logs">
+      <use data-icon="phosphor-duotone/stack" x="640" y="616" width="24" height="24" fill="#38BDF8"/>
+      <text x="672" y="628" font-size="14" font-weight="bold" fill="#E6EDF7">日志</text>
+      <text x="672" y="648" font-family="Consolas" font-size="12" fill="#8FA0B8">Fluent Bit / Fluentd → Loki · Elasticsearch · 云日志</text>
+    </g>
+    <g id="p11-addon-dashboard">
+      <use data-icon="phosphor-duotone/eye" x="1000" y="616" width="24" height="24" fill="#8FA0B8"/>
+      <text x="1032" y="628" font-size="14" font-weight="bold" fill="#E6EDF7">Dashboard <tspan font-size="12" font-weight="normal" fill="#8FA0B8">可选</tspan></text>
+      <text x="1032" y="648" font-size="12" fill="#8FA0B8">Web UI</text>
+    </g>
+  </g>
+</svg>

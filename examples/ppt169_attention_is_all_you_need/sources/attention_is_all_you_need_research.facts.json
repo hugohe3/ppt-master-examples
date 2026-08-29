@@ -1,0 +1,246 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "Attention Is All You Need (Vaswani et al., 2017)",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "Attention Is All You Need is arXiv 1706.03762, first submitted 12 June 2017 (latest revision v7, 2 August 2023), by Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin.",
+      "source_title": "[1706.03762] Attention Is All You Need — arXiv",
+      "source_url": "https://arxiv.org/abs/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "The paper was published at the 31st Conference on Neural Information Processing Systems (NeurIPS) in December 2017; all eight authors were affiliated with Google.",
+      "source_title": "Attention Is All You Need — Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "The Transformer is a sequence transduction architecture based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.",
+      "source_title": "[1706.03762] Attention Is All You Need — arXiv",
+      "source_url": "https://arxiv.org/abs/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "Transformer base: N=6 encoder and decoder layers, d_model=512, h=8 heads, d_k=d_v=64, d_ff=2048, about 65 million parameters.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "Transformer big: N=6, d_model=1024, h=16 heads, d_ff=4096, about 213 million parameters.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "Scaled dot-product attention: Attention(Q,K,V) = softmax(QK^T / sqrt(d_k)) V.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "Multi-head attention: MultiHead(Q,K,V) = Concat(head_1,...,head_h) W^O, where head_i = Attention(Q W_i^Q, K W_i^K, V W_i^V).",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "Sinusoidal positional encoding: PE(pos,2i) = sin(pos/10000^(2i/d_model)), PE(pos,2i+1) = cos(pos/10000^(2i/d_model)).",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "Table 1: self-attention O(n^2 d) per layer, O(1) sequential ops, O(1) max path length; recurrent O(n d^2), O(n), O(n); convolutional O(k n d^2), O(1), O(log_k n); restricted self-attention O(r n d), O(1), O(n/r).",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "WMT 2014 EN-DE BLEU (training FLOPs): ByteNet 23.75; GNMT+RL 24.6 (2.3e19); ConvS2S 25.16 (9.6e18); MoE 26.03 (2.0e19); GNMT+RL ensemble 26.30 (1.8e20); ConvS2S ensemble 26.36 (7.7e19); Transformer base 27.3 (3.3e18); Transformer big 28.4 (2.3e19).",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "WMT 2014 EN-FR BLEU (training FLOPs): Deep-Att+PosUnk 39.2 (1.0e20); GNMT+RL 39.92 (1.4e20); ConvS2S 40.46 (1.5e20); MoE 40.56 (1.2e20); Deep-Att ensemble 40.4 (8.0e20); GNMT+RL ensemble 41.16 (1.1e21); ConvS2S ensemble 41.29 (1.2e21); Transformer base 38.1; Transformer big 41.8.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "The model achieves 28.4 BLEU on WMT 2014 EN-DE, over 2 BLEU above the best prior results including ensembles, and a new single-model state of the art of 41.8 BLEU on EN-FR after 3.5 days of training on eight GPUs.",
+      "source_title": "[1706.03762] Attention Is All You Need — arXiv",
+      "source_url": "https://arxiv.org/abs/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "Training data: EN-DE about 4.5 million sentence pairs with a shared BPE vocabulary of about 37,000 tokens; EN-FR 36 million sentences with a 32,000 word-piece vocabulary; batches of about 25,000 source and 25,000 target tokens.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "Trained on one machine with 8 NVIDIA P100 GPUs: base model 0.4 s per step for 100,000 steps (about 12 hours); big model 1.0 s per step for 300,000 steps (3.5 days).",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "Optimizer Adam with beta1=0.9, beta2=0.98, epsilon=1e-9 and 4,000 warmup steps; residual dropout 0.1 (0.3 for big EN-FR); label smoothing 0.1.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "Ablations: single-head attention is 0.9 BLEU worse than the best setting; reducing d_k hurts quality; bigger models are better; dropout helps; learned positional embeddings give nearly identical results to sinusoidal.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "English constituency parsing (WSJ Section 23 F1): a 4-layer Transformer reaches 91.3 with WSJ-only training and 92.7 semi-supervised.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "As of 2026 the paper has been cited more than 250,000 times, among the top ten most-cited papers of the 21st century.",
+      "source_title": "Attention Is All You Need — Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "Later systems built on the Transformer include BERT (2018), the GPT series (from 2018), Vision Transformer (2021), DALL-E (2021), Stable Diffusion 3 (2024), and Sora (2024).",
+      "source_title": "Attention Is All You Need — Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "The paper's title references the Beatles song \"All You Need Is Love\".",
+      "source_title": "Attention Is All You Need — Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "After publication, all eight authors left Google to join other companies or found startups.",
+      "source_title": "Attention Is All You Need — Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "For large d_k the dot products grow large in magnitude and push the softmax into regions with extremely small gradients; scaling by 1/sqrt(d_k) counteracts this.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "Because each head works in a reduced dimension (d_k = d_model / h), the total computational cost of multi-head attention is similar to single-head attention with full dimensionality.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "The Transformer uses attention in three ways: encoder self-attention (Q, K, V all from the previous encoder layer); masked decoder self-attention that blocks leftward information flow to preserve the auto-regressive property; and encoder-decoder attention where queries come from the previous decoder layer and keys/values from the encoder output.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "Each layer contains a position-wise feed-forward network FFN(x) = max(0, xW1 + b1)W2 + b2 applied identically to every position, with inner dimension d_ff = 2048.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "Sinusoidal positional encodings were chosen because for any fixed offset k, PE(pos+k) can be represented as a linear function of PE(pos), which may let the model learn relative positions and extrapolate to longer sequences.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "Learning rate schedule: lrate = d_model^-0.5 * min(step^-0.5, step * warmup_steps^-1.5), increasing linearly for the first 4,000 steps then decaying proportionally to the inverse square root of the step number.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "Residual connections wrap each sub-layer followed by layer normalization: LayerNorm(x + Sublayer(x)); all sub-layers and embeddings output dimension d_model = 512.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "The sinusoidal positional-encoding wavelengths form a geometric progression from 2π to 10000·2π.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "Self-attention layers are faster than recurrent layers when the sequence length n is smaller than the representation dimensionality d, which is most often the case for the word-piece and byte-pair sentence representations used by state-of-the-art machine translation models.",
+      "source_title": "Attention Is All You Need (ar5iv full text)",
+      "source_url": "https://ar5iv.labs.arxiv.org/html/1706.03762",
+      "classification": "external",
+      "retrieved_at": "2026-08-29"
+    }
+  ]
+}

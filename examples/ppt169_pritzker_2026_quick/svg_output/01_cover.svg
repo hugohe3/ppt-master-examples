@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="scrimSide" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14120F" stop-opacity="0.92"/>
+      <stop offset="0.55" stop-color="#14120F" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#14120F" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="scrimBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.6" stop-color="#14120F" stop-opacity="0"/>
+      <stop offset="1" stop-color="#14120F" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+  <image id="cover-photo" data-pptx-role="background" href="../images/640.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim-side" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#scrimSide)"/>
+  <rect id="cover-scrim-bottom" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#scrimBottom)"/>
+
+  <g id="cover-kicker" data-pptx-bounds="80 56 620 44">
+    <line x1="80" y1="78" x2="140" y2="78" stroke="#D8743F" stroke-width="2"/>
+    <text x="156" y="84" font-family="Georgia" font-size="16" letter-spacing="4" fill="#F1E9DC">PRITZKER MASTERS · 2026</text>
+  </g>
+
+  <g id="cover-title" data-pptx-bounds="80 130 760 400">
+    <text x="80" y="290" font-family="Georgia" font-size="176" font-weight="bold" fill="#F4F0E9" fill-opacity="0.96">2026</text>
+    <text x="80" y="378" font-size="62" font-weight="bold" fill="#F4F0E9">普利兹克奖大师季</text>
+    <line x1="80" y1="408" x2="560" y2="408" stroke="#D8743F" stroke-width="3"/>
+    <text x="80" y="462" font-size="36" fill="#F4F0E9">8座新作，8种深耕</text>
+    <text x="80" y="510" font-size="20" fill="#F4F0E9" fill-opacity="0.82">从苏州河畔到沙漠腹地，读懂顶级建筑师的思考与坚守</text>
+  </g>
+
+  <g id="cover-source" data-pptx-bounds="80 636 700 40">
+    <text x="80" y="660" font-size="14" fill="#F4F0E9" fill-opacity="0.7">整理自公众号文章《2026“普利兹克奖大师季”：8座新作，8种深耕》 · 作者 孙琬童</text>
+  </g>
+
+  <g id="cover-caption" data-pptx-bounds="900 636 320 40">
+    <text x="1220" y="660" text-anchor="end" font-size="13" fill="#F4F0E9" fill-opacity="0.6">苏州H+美术馆 · 安藤忠雄（图源：H+美术馆）</text>
+  </g>
+</svg>

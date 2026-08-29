@@ -1,156 +1,103 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
   <defs>
-    <pattern id="bpGridMajor" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse" data-pptx-pattern="lgGrid">
-      <rect width="40" height="40" fill="#0E2A47" />
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2D4A6B" stroke-width="0.6" />
-    </pattern>
-    <pattern id="bpGridMinor" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse" data-pptx-pattern="smGrid">
-      <rect width="8" height="8" fill="#0E2A47" />
-      <path d="M 8 0 L 0 0 0 8" fill="none" stroke="#1A3A5C" stroke-width="0.3" />
-    </pattern>
-    <radialGradient id="hubGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FFB627" stop-opacity="0.25" />
-      <stop offset="100%" stop-color="#FFB627" stop-opacity="0" />
-    </radialGradient>
+    <filter id="glowCyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#38BDF8" flood-opacity="0.5" />
+    </filter>
   </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220" />
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1" />
 
-  <g id="bg">
-    <rect width="1280" height="720" fill="#0E2A47" />
-    <rect width="1280" height="720" fill="url(#bpGridMinor)" opacity="0.4" />
-    <rect width="1280" height="720" fill="url(#bpGridMajor)" opacity="0.6" />
-  </g>
-
-  <g id="header">
-    <text x="60" y="42" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="30" font-weight="bold" fill="#F0F4F8">The Control Plane: Five Components</text>
-    <text x="1220" y="42" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#A0B8D0" text-anchor="end">P03 / 10</text>
-    <line x1="60" y1="58" x2="1220" y2="58" stroke="#2D4A6B" stroke-width="0.5" />
-    <text x="60" y="78" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#6B85A3">ONE HUB · ONE PERSISTENT STORE · THREE SATELLITE LOOPS · ONE OPTIONAL CLOUD ADAPTER</text>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">02 · CONTROL PLANE</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">03 / 13</text>
   </g>
 
-  <g id="orbit-rings">
-    <circle cx="640" cy="410" r="220" fill="none" stroke="#3E7AB8" stroke-width="0.5" stroke-dasharray="2 6" opacity="0.4" />
-    <circle cx="640" cy="410" r="160" fill="none" stroke="#3E7AB8" stroke-width="0.6" stroke-dasharray="4 4" opacity="0.5" />
-    <circle cx="640" cy="410" r="270" fill="none" stroke="#3E7AB8" stroke-width="0.4" stroke-dasharray="1 5" opacity="0.3" />
+  <g id="p3-title" data-pptx-bounds="60 84 1160 60">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">控制平面的五个组件</text>
+    <text x="520" y="120" font-size="16" fill="#8FA0B8">四个组件围着 API server 转；etcd 只和它说话。</text>
   </g>
 
-  <g id="spokes">
-    <line x1="640" y1="410" x2="640" y2="200" stroke="#FFB627" stroke-width="1.5" />
-    <line x1="640" y1="410" x2="855" y2="290" stroke="#5BA3E0" stroke-width="1.2" />
-    <line x1="640" y1="410" x2="855" y2="530" stroke="#5BA3E0" stroke-width="1.2" />
-    <line x1="640" y1="410" x2="425" y2="530" stroke="#5BA3E0" stroke-width="1.2" />
-    <line x1="640" y1="410" x2="425" y2="290" stroke="#3E7AB8" stroke-width="1.2" stroke-dasharray="4 3" />
+  <g id="p3-hex-cluster" data-pptx-bounds="60 150 580 520">
+    <line x1="340" y1="262" x2="340" y2="330" stroke="#A78BFA" stroke-width="1.5" />
+    <line x1="210" y1="400" x2="260" y2="400" stroke="#38BDF8" stroke-opacity="0.7" stroke-width="1.5" />
+    <line x1="420" y1="400" x2="470" y2="400" stroke="#38BDF8" stroke-opacity="0.7" stroke-width="1.5" />
+    <line x1="340" y1="470" x2="340" y2="538" stroke="#8FA0B8" stroke-opacity="0.7" stroke-width="1.5" stroke-dasharray="4,4" />
+    <g id="p3-hex-apiserver" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="260 330 160 140" fill="#0F2A44" stroke="#38BDF8" stroke-width="2" filter="url(#glowCyan)">
+<path d="M 260 400 L 295 330 L 385 330 L 420 400 L 385 470 L 295 470 Z" />
+</g>
+    <g id="p3-hex-etcd" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="280 158 120 104" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1.5">
+<path d="M 280 210 L 306 158 L 374 158 L 400 210 L 374 262 L 306 262 Z" />
+</g>
+    <g id="p3-hex-scheduler" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="90 348 120 104" fill="#111C30" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 90 400 L 116 348 L 184 348 L 210 400 L 184 452 L 116 452 Z" />
+</g>
+    <g id="p3-hex-cm" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="470 348 120 104" fill="#111C30" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 470 400 L 496 348 L 564 348 L 590 400 L 564 452 L 496 452 Z" />
+</g>
+    <g id="p3-hex-ccm" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="280 538 120 104" fill="#111C30" stroke="#8FA0B8" stroke-width="1.5" stroke-opacity="0.7">
+<path d="M 280 590 L 306 538 L 374 538 L 400 590 L 374 642 L 306 642 Z" />
+</g>
+    <text x="340" y="395" text-anchor="middle" font-family="Consolas" font-size="15" font-weight="bold" fill="#38BDF8">kube-apiserver</text>
+    <text x="340" y="416" text-anchor="middle" font-size="12" fill="#C7D2E3">集群前端 · 唯一写 etcd</text>
+    <text x="340" y="205" text-anchor="middle" font-family="Consolas" font-size="14" font-weight="bold" fill="#A78BFA">etcd</text>
+    <text x="340" y="224" text-anchor="middle" font-size="11" fill="#C7D2E3">全部集群状态</text>
+    <text x="150" y="396" text-anchor="middle" font-family="Consolas" font-size="12" font-weight="bold" fill="#38BDF8">kube-</text>
+    <text x="150" y="412" text-anchor="middle" font-family="Consolas" font-size="12" font-weight="bold" fill="#38BDF8">scheduler</text>
+    <text x="530" y="390" text-anchor="middle" font-family="Consolas" font-size="12" font-weight="bold" fill="#38BDF8">kube-</text>
+    <text x="530" y="406" text-anchor="middle" font-family="Consolas" font-size="12" font-weight="bold" fill="#38BDF8">controller-</text>
+    <text x="530" y="422" text-anchor="middle" font-family="Consolas" font-size="12" font-weight="bold" fill="#38BDF8">manager</text>
+    <text x="340" y="582" text-anchor="middle" font-family="Consolas" font-size="12" font-weight="bold" fill="#C7D2E3">cloud-controller-</text>
+    <text x="340" y="598" text-anchor="middle" font-family="Consolas" font-size="12" font-weight="bold" fill="#C7D2E3">manager</text>
+    <text x="340" y="614" text-anchor="middle" font-size="11" fill="#8FA0B8">可选 · 仅云托管</text>
+    <text x="352" y="304" font-family="Consolas" font-size="11" fill="#A78BFA">gRPC</text>
+    <text x="215" y="388" font-family="Consolas" font-size="10" fill="#8FA0B8">watch</text>
+    <text x="424" y="388" font-family="Consolas" font-size="10" fill="#8FA0B8">watch</text>
   </g>
 
-  <g id="hub-apiserver">
-    <circle cx="640" cy="410" r="110" fill="url(#hubGlow)" />
-    <polygon points="640,330 700,365 700,455 640,490 580,455 580,365" fill="#0E2A47" stroke="#FFB627" stroke-width="2" />
-    <line x1="640" y1="330" x2="640" y2="410" stroke="#FFB627" stroke-width="1.2" />
-    <line x1="640" y1="410" x2="580" y2="365" stroke="#FFB627" stroke-width="1.2" />
-    <line x1="640" y1="410" x2="700" y2="365" stroke="#FFB627" stroke-width="1.2" />
-    <text x="640" y="430" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#FFB627" text-anchor="middle" font-weight="bold">kube-apiserver</text>
-    <text x="640" y="450" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#F0F4F8" text-anchor="middle">REST + admission</text>
-    <text x="640" y="466" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#F0F4F8" text-anchor="middle">+ validation</text>
-    <text x="640" y="484" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#A0B8D0" text-anchor="middle">HUB · scales horizontally</text>
+  <g id="p3-descriptions" data-pptx-bounds="660 150 560 520">
+    <g id="p3-desc-apiserver">
+      
+  <g transform="translate(660, 160) scale(0.109375)" fill="#38BDF8">
+    <path d="M160,128a32,32,0,1,1-32-32A32,32,0,0,1,160,128Z" opacity="0.2" />
+    <path d="M128,88a40,40,0,1,0,40,40A40,40,0,0,0,128,88Zm0,64a24,24,0,1,1,24-24A24,24,0,0,1,128,152Zm73.71,7.14a80,80,0,0,1-14.08,22.2,8,8,0,0,1-11.92-10.67,63.95,63.95,0,0,0,0-85.33,8,8,0,1,1,11.92-10.67,80.08,80.08,0,0,1,14.08,84.47ZM69,103.09a64,64,0,0,0,11.26,67.58,8,8,0,0,1-11.92,10.67,79.93,79.93,0,0,1,0-106.67A8,8,0,1,1,80.29,85.34,63.77,63.77,0,0,0,69,103.09ZM248,128a119.58,119.58,0,0,1-34.29,84,8,8,0,1,1-11.42-11.2,103.9,103.9,0,0,0,0-145.56A8,8,0,1,1,213.71,44,119.58,119.58,0,0,1,248,128ZM53.71,200.78A8,8,0,1,1,42.29,212a119.87,119.87,0,0,1,0-168,8,8,0,1,1,11.42,11.2,103.9,103.9,0,0,0,0,145.56Z" />
   </g>
-
-  <g id="spoke-etcd">
-    <rect x="540" y="148" width="200" height="84" fill="#0E2A47" stroke="#FFB627" stroke-width="1.8" />
-    <rect x="540" y="148" width="6" height="84" fill="#FFB627" />
-    <!-- icon: tabler-outline/database -->
-  <g transform="translate(556.0, 166.0) scale(0.9166666666666666)" fill="none" stroke="#FFB627" stroke-width="1.5">
-    <path d="M4 6a8 3 0 1 0 16 0a8 3 0 1 0 -16 0" />
-    <path d="M4 6v6a8 3 0 0 0 16 0v-6" />
-    <path d="M4 12v6a8 3 0 0 0 16 0v-6" />
+      <text x="700" y="181" font-family="Consolas" font-size="16" font-weight="bold" fill="#38BDF8">kube-apiserver</text>
+      <text fill="#C7D2E3" font-size="14" x="700" y="204">集群前端，暴露 Kubernetes HTTP API；校验、准入后再持久化。</text><text fill="#C7D2E3" font-size="14" x="700" y="226">唯一直接读写 etcd 的组件；可水平扩展（多实例 + 负载均衡）。</text></g>
+    <line x1="660" y1="246" x2="1220" y2="246" stroke="#243350" stroke-width="1" />
+    <g id="p3-desc-etcd">
+      
+  <g transform="translate(660, 260) scale(0.109375)" fill="#A78BFA">
+    <path d="M216,80c0,26.51-39.4,48-88,48S40,106.51,40,80s39.4-48,88-48S216,53.49,216,80Z" opacity="0.2" />
+    <path d="M128,24C74.17,24,32,48.6,32,80v96c0,31.4,42.17,56,96,56s96-24.6,96-56V80C224,48.6,181.83,24,128,24Zm80,104c0,9.62-7.88,19.43-21.61,26.92C170.93,163.35,150.19,168,128,168s-42.93-4.65-58.39-13.08C55.88,147.43,48,137.62,48,128V111.36c17.06,15,46.23,24.64,80,24.64s62.94-9.68,80-24.64ZM69.61,53.08C85.07,44.65,105.81,40,128,40s42.93,4.65,58.39,13.08C200.12,60.57,208,70.38,208,80s-7.88,19.43-21.61,26.92C170.93,115.35,150.19,120,128,120s-42.93-4.65-58.39-13.08C55.88,99.43,48,89.62,48,80S55.88,60.57,69.61,53.08ZM186.39,202.92C170.93,211.35,150.19,216,128,216s-42.93-4.65-58.39-13.08C55.88,195.43,48,185.62,48,176V159.36c17.06,15,46.23,24.64,80,24.64s62.94-9.68,80-24.64V176C208,185.62,200.12,195.43,186.39,202.92Z" />
   </g>
-    <text x="588" y="184" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#F0F4F8" font-weight="bold">etcd</text>
-    <text x="556" y="206" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">Distributed K/V store</text>
-    <text x="556" y="222" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">Raft · all cluster state</text>
-    <line x1="640" y1="232" x2="640" y2="280" stroke="#FFB627" stroke-width="1" stroke-dasharray="2 3" />
-    <text x="660" y="260" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#FFB627">↕ only direct talker</text>
+      <text x="700" y="281" font-family="Consolas" font-size="16" font-weight="bold" fill="#A78BFA">etcd</text>
+      <text fill="#C7D2E3" font-size="14" x="700" y="304">分布式、一致、高可用的 KV 存储，保存全部集群状态。</text><text fill="#C7D2E3" font-size="14" x="700" y="326">Raft 共识，奇数成员（3 或 5）；丢 etcd 即丢集群，备份是命脉。</text></g>
+    <line x1="660" y1="346" x2="1220" y2="346" stroke="#243350" stroke-width="1" />
+    <g id="p3-desc-scheduler">
+      
+  <g transform="translate(660, 360) scale(0.109375)" fill="#38BDF8">
+    <path d="M176,128a48,48,0,1,1-48-48A48,48,0,0,1,176,128Z" opacity="0.2" />
+    <path d="M221.87,83.16A104.1,104.1,0,1,1,195.67,49l22.67-22.68a8,8,0,0,1,11.32,11.32l-96,96a8,8,0,0,1-11.32-11.32l27.72-27.72a40,40,0,1,0,17.87,31.09,8,8,0,1,1,16-.9,56,56,0,1,1-22.38-41.65L184.3,60.39a87.88,87.88,0,1,0,23.13,29.67,8,8,0,0,1,14.44-6.9Z" />
   </g>
-
-  <g id="spoke-scheduler">
-    <rect x="800" y="248" width="220" height="84" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-    <rect x="800" y="248" width="6" height="84" fill="#5BA3E0" />
-    <!-- icon: tabler-outline/settings -->
-  <g transform="translate(816.0, 266.0) scale(0.9166666666666666)" fill="none" stroke="#5BA3E0" stroke-width="1.5">
-    <path d="M10.325 4.317c.426 -1.756 2.924 -1.756 3.35 0a1.724 1.724 0 0 0 2.573 1.066c1.543 -.94 3.31 .826 2.37 2.37a1.724 1.724 0 0 0 1.065 2.572c1.756 .426 1.756 2.924 0 3.35a1.724 1.724 0 0 0 -1.066 2.573c.94 1.543 -.826 3.31 -2.37 2.37a1.724 1.724 0 0 0 -2.572 1.065c-.426 1.756 -2.924 1.756 -3.35 0a1.724 1.724 0 0 0 -2.573 -1.066c-1.543 .94 -3.31 -.826 -2.37 -2.37a1.724 1.724 0 0 0 -1.065 -2.572c-1.756 -.426 -1.756 -2.924 0 -3.35a1.724 1.724 0 0 0 1.066 -2.573c-.94 -1.543 .826 -3.31 2.37 -2.37c1 .608 2.296 .07 2.572 -1.065" />
-    <path d="M9 12a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+      <text x="700" y="381" font-family="Consolas" font-size="16" font-weight="bold" fill="#38BDF8">kube-scheduler</text>
+      <text fill="#C7D2E3" font-size="14" x="700" y="404">监听还没有 nodeName 的 Pod，为它挑一个节点。</text><text fill="#C7D2E3" font-size="14" x="700" y="426">只把绑定决定写回 API server，从不直接和节点对话。</text></g>
+    <line x1="660" y1="446" x2="1220" y2="446" stroke="#243350" stroke-width="1" />
+    <g id="p3-desc-cm">
+      
+  <g transform="translate(660, 460) scale(0.109375)" fill="#38BDF8">
+    <path d="M216,128a88,88,0,1,1-88-88A88,88,0,0,1,216,128Z" opacity="0.2" />
+    <path d="M224,48V96a8,8,0,0,1-8,8H168a8,8,0,0,1,0-16h28.69L182.06,73.37a79.56,79.56,0,0,0-56.13-23.43h-.45A79.52,79.52,0,0,0,69.59,72.71,8,8,0,0,1,58.41,61.27a96,96,0,0,1,135,.79L208,76.69V48a8,8,0,0,1,16,0ZM186.41,183.29a80,80,0,0,1-112.47-.66L59.31,168H88a8,8,0,0,0,0-16H40a8,8,0,0,0-8,8v48a8,8,0,0,0,16,0V179.31l14.63,14.63A95.43,95.43,0,0,0,130,222.06h.53a95.36,95.36,0,0,0,67.07-27.33,8,8,0,0,0-11.18-11.44Z" />
   </g>
-    <text x="848" y="284" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#F0F4F8" font-weight="bold">kube-scheduler</text>
-    <text x="816" y="306" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">filter → score → bind</text>
-    <text x="816" y="322" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">picks node per Pod</text>
+      <text x="700" y="481" font-family="Consolas" font-size="16" font-weight="bold" fill="#38BDF8">kube-controller-manager</text>
+      <text fill="#C7D2E3" font-size="14" x="700" y="504">一个二进制、多个逻辑控制器，各自跑 watch → diff → act 循环。</text><text fill="#C7D2E3" font-size="14" x="700" y="526">Leader 选举保证高可用：同一时刻只有一个副本活跃。</text></g>
+    <line x1="660" y1="546" x2="1220" y2="546" stroke="#243350" stroke-width="1" />
+    <g id="p3-desc-ccm">
+      
+  <g transform="translate(660, 560) scale(0.109375)" fill="#8FA0B8">
+    <path d="M240,128a80,80,0,0,1-80,80H72A56,56,0,1,1,85.92,97.74l0,.1A80,80,0,0,1,240,128Z" opacity="0.2" />
+    <path d="M160,40A88.09,88.09,0,0,0,81.29,88.67,64,64,0,1,0,72,216h88a88,88,0,0,0,0-176Zm0,160H72a48,48,0,0,1,0-96c1.1,0,2.2,0,3.29.11A88,88,0,0,0,72,128a8,8,0,0,0,16,0,72,72,0,1,1,72,72Z" />
   </g>
-
-  <g id="spoke-controller">
-    <rect x="800" y="488" width="220" height="84" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-    <rect x="800" y="488" width="6" height="84" fill="#5BA3E0" />
-    <!-- icon: tabler-outline/refresh -->
-  <g transform="translate(816.0, 506.0) scale(0.9166666666666666)" fill="none" stroke="#5BA3E0" stroke-width="1.5">
-    <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
-    <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
-  </g>
-    <text x="848" y="524" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#F0F4F8" font-weight="bold">controller-manager</text>
-    <text x="816" y="546" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">N reconcile loops</text>
-    <text x="816" y="562" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">watch · diff · act</text>
-  </g>
-
-  <g id="spoke-cloud">
-    <rect x="260" y="248" width="200" height="84" fill="#0E2A47" stroke="#3E7AB8" stroke-width="1.5" stroke-dasharray="5 3" />
-    <rect x="260" y="248" width="6" height="84" fill="#3E7AB8" />
-    <!-- icon: tabler-outline/cloud -->
-  <g transform="translate(276.0, 266.0) scale(0.9166666666666666)" fill="none" stroke="#3E7AB8" stroke-width="1.5">
-    <path d="M6.657 18c-2.572 0 -4.657 -2.007 -4.657 -4.483c0 -2.475 2.085 -4.482 4.657 -4.482c.393 -1.762 1.794 -3.2 3.675 -3.773c1.88 -.572 3.956 -.193 5.444 1c1.488 1.19 2.162 3.007 1.77 4.769h.99c1.913 0 3.464 1.56 3.464 3.486c0 1.927 -1.551 3.487 -3.465 3.487h-11.878" />
-  </g>
-    <text x="308" y="284" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#F0F4F8" font-weight="bold">cloud-ctrl-mgr</text>
-    <text x="276" y="306" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">LB · routes · nodes</text>
-    <text x="276" y="322" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#6B85A3">optional · cloud only</text>
-  </g>
-
-  <g id="spoke-kubectl">
-    <rect x="260" y="488" width="200" height="84" fill="#0E2A47" stroke="#5BA3E0" stroke-width="1.5" />
-    <rect x="260" y="488" width="6" height="84" fill="#5BA3E0" />
-    <!-- icon: tabler-outline/terminal -->
-  <g transform="translate(276.0, 506.0) scale(0.9166666666666666)" fill="none" stroke="#5BA3E0" stroke-width="1.5">
-    <path d="M5 7l5 5l-5 5" />
-    <path d="M12 19l7 0" />
-  </g>
-    <text x="308" y="524" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#F0F4F8" font-weight="bold">kubectl / clients</text>
-    <text x="276" y="546" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">CLI · operators · CI</text>
-    <text x="276" y="562" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="11" fill="#A0B8D0">HTTPS REST</text>
-  </g>
-
-  <g id="annotations">
-    <line x1="75" y1="148" x2="120" y2="148" stroke="#FFB627" stroke-width="0.8" />
-    <line x1="75" y1="148" x2="75" y2="232" stroke="#FFB627" stroke-width="0.8" />
-    <text x="75" y="143" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#FFB627">PERSISTENCE</text>
-
-    <line x1="1080" y1="290" x2="1140" y2="290" stroke="#5BA3E0" stroke-width="0.8" />
-    <line x1="1140" y1="290" x2="1140" y2="530" stroke="#5BA3E0" stroke-width="0.8" />
-    <line x1="1080" y1="530" x2="1140" y2="530" stroke="#5BA3E0" stroke-width="0.8" />
-    <text x="1148" y="394" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#5BA3E0">RECONCILE</text>
-    <text x="1148" y="410" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#5BA3E0">LOOPS</text>
-
-    <line x1="140" y1="290" x2="200" y2="290" stroke="#3E7AB8" stroke-width="0.8" />
-    <line x1="140" y1="290" x2="140" y2="332" stroke="#3E7AB8" stroke-width="0.8" />
-    <text x="80" y="316" font-family="Consolas, 'Courier New', monospace" font-size="9" fill="#3E7AB8">CLOUD GLUE</text>
-  </g>
-
-  <g id="key-fact">
-    <rect x="60" y="615" width="1160" height="40" fill="#1A3A5C" fill-opacity="0.6" stroke="#FFB627" stroke-width="0.8" />
-    <!-- icon: tabler-outline/info-circle -->
-  <g transform="translate(76.0, 624.0) scale(0.9166666666666666)" fill="none" stroke="#FFB627" stroke-width="1.5">
-    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
-    <path d="M12 9h.01" />
-    <path d="M11 12h1v4h1" />
-  </g>
-    <text x="108" y="640" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="13" fill="#F0F4F8">Every state transition flows through <tspan font-family="Consolas, 'Courier New', monospace" fill="#FFB627" font-weight="bold">kube-apiserver</tspan>; only the apiserver talks to <tspan font-family="Consolas, 'Courier New', monospace" fill="#FFB627" font-weight="bold">etcd</tspan>. Every other component is a watcher of the API surface.</text>
-  </g>
-
-  <g id="footer">
-    <line x1="60" y1="680" x2="1220" y2="680" stroke="#2D4A6B" stroke-width="0.5" />
-    <text x="60" y="700" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#6B85A3">K8S-ARCH-2026 · DRAWING 03 OF 10 · CONTROL PLANE</text>
-    <text x="1220" y="700" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#6B85A3" text-anchor="end">SHEET 03 OF 10</text>
+      <text x="700" y="581" font-family="Consolas" font-size="16" font-weight="bold" fill="#C7D2E3">cloud-controller-manager <tspan font-size="12" font-weight="normal" fill="#8FA0B8">可选</tspan></text>
+      <text fill="#C7D2E3" font-size="14" x="700" y="604">仅云托管集群有；封装厂商逻辑，让核心二进制保持厂商中立。</text><text fill="#C7D2E3" font-size="14" x="700" y="626">子控制器：Node / Route / Service（云负载均衡）。</text></g>
   </g>
 </svg>

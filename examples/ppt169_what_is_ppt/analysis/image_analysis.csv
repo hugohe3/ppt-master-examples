@@ -1,0 +1,6 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,cover_identities.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,147.1,Wide landscape
+2,five_meanings.jpg,1200,896,1.34,1.34,,native,JPEG,False,1,,bitmap,True,True,79.0,Standard landscape
+3,object_model.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,184.2,Wide landscape
+4,ppt_is_not.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,93.1,Near square
+5,quality_layers.jpg,896,1200,0.75,0.75,,native,JPEG,False,1,,bitmap,True,True,106.5,Portrait

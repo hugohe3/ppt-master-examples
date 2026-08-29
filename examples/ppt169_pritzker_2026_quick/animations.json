@@ -1,0 +1,363 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.35
+    },
+    "animation": {
+      "effect": "none",
+      "duration": 0.38,
+      "stagger": 0.12,
+      "trigger": "after-previous"
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-kicker": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.3
+        },
+        "cover-title": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.55,
+          "delay": 0.08
+        }
+      }
+    },
+    "02_timeline": {
+      "groups": {
+        "p2-title": {
+          "effect": "entrance_fade",
+          "order": 1
+        },
+        "p2-timeline": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.6
+        },
+        "p2-kpis": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "delay": 0.08
+        }
+      }
+    },
+    "03_toc": {
+      "animation": {
+        "duration": 0.32,
+        "stagger": 0.08
+      },
+      "groups": {
+        "p3-title": {
+          "effect": "entrance_fade",
+          "order": 1
+        },
+        "p3-card-1": {
+          "effect": "entrance_fade",
+          "order": 2
+        },
+        "p3-card-2": {
+          "effect": "entrance_fade",
+          "order": 3
+        },
+        "p3-card-3": {
+          "effect": "entrance_fade",
+          "order": 4
+        },
+        "p3-card-4": {
+          "effect": "entrance_fade",
+          "order": 5
+        },
+        "p3-card-5": {
+          "effect": "entrance_fade",
+          "order": 6
+        },
+        "p3-card-6": {
+          "effect": "entrance_fade",
+          "order": 7
+        },
+        "p3-card-7": {
+          "effect": "entrance_fade",
+          "order": 8
+        },
+        "p3-card-8": {
+          "effect": "entrance_fade",
+          "order": 9
+        }
+      }
+    },
+    "04_ando": {
+      "groups": {
+        "p4-photo-hero": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "p4-title": {
+          "effect": "entrance_fade",
+          "order": 2
+        },
+        "p4-body": {
+          "effect": "entrance_fade",
+          "order": 3
+        },
+        "p4-principles": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.48
+        },
+        "p4-photo-pair": {
+          "effect": "entrance_fade",
+          "order": 5
+        },
+        "p4-quote": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "delay": 0.08
+        }
+      }
+    },
+    "05_chipperfield": {
+      "groups": {
+        "p5-photo-hero": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "p5-title": {
+          "effect": "entrance_fade",
+          "order": 2
+        },
+        "p5-body": {
+          "effect": "entrance_fade",
+          "order": 3
+        },
+        "p5-features": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.48
+        },
+        "p5-compare": {
+          "effect": "entrance_fade",
+          "order": 5
+        },
+        "p5-quote": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "delay": 0.08
+        }
+      }
+    },
+    "06_zaha": {
+      "groups": {
+        "p6-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.48
+        },
+        "p6-metric": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.52
+        },
+        "p6-insets": {
+          "effect": "entrance_fade",
+          "order": 3
+        }
+      }
+    },
+    "07_foster": {
+      "groups": {
+        "p7-photo-left": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "with-previous"
+        },
+        "p7-photo-top": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "with-previous"
+        },
+        "p7-title": {
+          "effect": "entrance_fade",
+          "order": 2
+        },
+        "p7-facts": {
+          "effect": "entrance_fade",
+          "order": 3
+        },
+        "p7-petals": {
+          "effect": "entrance_zoom",
+          "order": 4,
+          "duration": 0.48
+        },
+        "p7-quote": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "delay": 0.08
+        }
+      }
+    },
+    "08_oma_sanaa": {
+      "groups": {
+        "p8-title": {
+          "effect": "entrance_fade",
+          "order": 1
+        },
+        "p8-compare": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.58
+        },
+        "p8-kpis": {
+          "effect": "entrance_fade",
+          "order": 3
+        },
+        "p8-body": {
+          "effect": "entrance_fade",
+          "order": 4
+        },
+        "p8-photo-interior": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "delay": 0.08
+        }
+      }
+    },
+    "09_zumthor": {
+      "groups": {
+        "p9-band": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "with-previous"
+        },
+        "p9-title": {
+          "effect": "entrance_fade",
+          "order": 2
+        },
+        "p9-kpis": {
+          "effect": "entrance_fade",
+          "order": 3
+        },
+        "p9-body": {
+          "effect": "entrance_fade",
+          "order": 4
+        },
+        "p9-photo-interior": {
+          "effect": "entrance_fade",
+          "order": 5
+        },
+        "p9-quote": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "delay": 0.08
+        }
+      }
+    },
+    "10_gehry": {
+      "groups": {
+        "p10-mosaic": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.52
+        },
+        "p10-title": {
+          "effect": "entrance_fade",
+          "order": 2
+        },
+        "p10-body": {
+          "effect": "entrance_fade",
+          "order": 3
+        },
+        "p10-features": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.48
+        },
+        "p10-quote": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "delay": 0.08
+        }
+      }
+    },
+    "11_kere": {
+      "animation": {
+        "duration": 0.34,
+        "stagger": 0.09
+      },
+      "groups": {
+        "p11-photo-hero": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "p11-title": {
+          "effect": "entrance_fade",
+          "order": 2
+        },
+        "p11-body": {
+          "effect": "entrance_fade",
+          "order": 3
+        },
+        "p11-principles": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.48
+        },
+        "p11-court": {
+          "effect": "entrance_fade",
+          "order": 5
+        },
+        "p11-quote": {
+          "effect": "entrance_fade",
+          "order": 6
+        },
+        "p11-photo-interior": {
+          "effect": "entrance_fade",
+          "order": 7
+        }
+      }
+    },
+    "12_synthesis": {
+      "groups": {
+        "p12-title": {
+          "effect": "entrance_fade",
+          "order": 1
+        },
+        "p12-group-patience": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.45
+        },
+        "p12-group-roots": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.45
+        },
+        "p12-group-boundary": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.45
+        }
+      }
+    },
+    "13_ending": {
+      "groups": {
+        "p13-quote": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.65,
+          "delay": 0.1
+        }
+      }
+    }
+  }
+}

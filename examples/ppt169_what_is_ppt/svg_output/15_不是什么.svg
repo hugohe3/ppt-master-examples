@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">03 · 澄清</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">PPT 并不天然等于这八件事</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="isnot-art" data-pptx-bounds="40 172 430 430">
+    <rect x="40" y="176" width="424" height="424" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.5"/>
+    <image href="../images/ppt_is_not.jpg" x="52" y="188" width="400" height="400" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="n1" data-pptx-bounds="500 178 740 44">
+      <text x="500" y="204" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">✕</text>
+      <text x="538" y="204" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">把一份文档分页后加上装饰</text>
+  </g>
+  <g id="n2" data-pptx-bounds="500 228 740 44">
+      <text x="500" y="254" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">✕</text>
+      <text x="538" y="254" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">一组漂亮但互不相关的画布</text>
+  </g>
+  <g id="n3" data-pptx-bounds="500 278 740 44">
+      <text x="500" y="304" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">✕</text>
+      <text x="538" y="304" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">演讲者将要说的话的逐字稿</text>
+  </g>
+  <g id="n4" data-pptx-bounds="500 328 740 44">
+      <text x="500" y="354" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">✕</text>
+      <text x="538" y="354" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">一场视觉效果展示</text>
+  </g>
+  <g id="n5" data-pptx-bounds="500 378 740 44">
+      <text x="500" y="404" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">✕</text>
+      <text x="538" y="404" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">没有后续生命的一次性放映</text>
+  </g>
+  <g id="n6" data-pptx-bounds="500 428 740 44">
+      <text x="500" y="454" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">✕</text>
+      <text x="538" y="454" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">只是带 .pptx 扩展名的扁平图片</text>
+  </g>
+  <g id="n7" data-pptx-bounds="500 478 740 44">
+      <text x="500" y="504" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">✕</text>
+      <text x="538" y="504" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">因页面看起来一致就自动成为模板</text>
+  </g>
+  <g id="n8" data-pptx-bounds="500 528 740 44">
+      <text x="500" y="554" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">✕</text>
+      <text x="538" y="554" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">所有沟通任务的正确媒介</text>
+  </g>
+
+  <g id="conclusion" data-pptx-bounds="500 596 740 56">
+    <rect x="500" y="600" width="6" height="44" fill="#C8102E"/>
+    <text x="526" y="626" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">工具应服务沟通模型，而非按按钮倒推沟通模型。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P15 / 17 · 从软件默认页面形式出发，PowerPoint 的惯例会反过来扭曲沟通</text>
+  </g>
+</svg>

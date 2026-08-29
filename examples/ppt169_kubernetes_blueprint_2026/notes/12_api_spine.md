@@ -1,0 +1,1 @@
+把前面的组件放回一张通信图，主干非常清晰。kubectl 和其他客户端通过 HTTPS 访问 kube-apiserver，只有 kube-apiserver 通过 gRPC 与三个或五个成员组成的 etcd 集群双向通信。scheduler、controller-manager 和可选的 cloud-controller-manager 都通过 API server watch 对象并写回决策；各节点的 kubelet也通过它监听调度结果、报告状态，再在节点内部驱动容器运行时和 Service 数据面。没有控制器直接调用另一个控制器，也没有普通组件绕过 API server 访问 etcd。于是每次状态变化都表现为一个 API 事件，这种统一入口正是 Kubernetes 能够保持组件可插拔、行为可观测的根源。

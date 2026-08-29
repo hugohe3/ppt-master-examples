@@ -1,93 +1,87 @@
 # 01_cover
 
-Today we are reading what is probably the single most influential machine learning paper of the last decade: Attention Is All You Need, by Vaswani and seven coauthors at Google Brain, Google Research, and the University of Toronto, presented at NeurIPS 2017. The title is the thesis: drop recurrence and convolution, use only attention, and you get a model that is faster to train, easier to parallelize, and stronger on machine translation than anything that came before. Over the next sixteen slides we'll walk through what the Transformer actually is, how the attention mechanism works, why the authors chose this design, and what the experiments showed.
+Welcome. This talk walks through Attention Is All You Need, the 2017 paper from eight Google researchers that introduced the Transformer. The subtitle already gives away the punchline: one architecture, no recurrence, no convolutions, and a training run measured in days rather than weeks. We will read it the way an engineer reads a drawing set, sheet by sheet.
 
 ---
 
-# 02_why_it_matters
+# 02_contents
 
-Before we get into the architecture, let's see what the paper is actually claiming. On the WMT 2014 English to German translation task, the Transformer big model scored 28.4 BLEU, beating the previous best ensemble by two full points as a single model. On WMT 2014 English to French, it set a new single-model state of the art at 41.8 BLEU. And it did all this by training for three and a half days on eight P100 GPUs — a small fraction of the cost of the strong baselines. The architecture has no recurrence and no convolution; it is built entirely from attention and feed-forward layers. Quality up, cost down, parallelization unlocked.
-
----
-
-# 03_sequence_evolution
-
-To appreciate the move, it helps to look at where sequence modeling was sitting in 2017. Recurrent networks — RNNs, LSTMs, GRUs — were the default, but they compute step by step and resist parallelization. Convolutional alternatives like ByteNet and ConvS2S could parallelize, but signals between distant positions still had to travel through many layers, growing linearly or logarithmically with distance. Self-attention does something different: every position relates to every other position in one constant-time hop. Visually you can think of it as moving from a chain to a local field to a fully connected mesh — and that mesh is what the Transformer leans into.
+Here is the drawing index. We start with the bottleneck that recurrent and convolutional models ran into, then look at the architecture as a whole. The longest section takes attention apart step by step: scaled dot-product attention, multi-head attention, the three places it is used, and positional encoding. After that we cover the training recipe, the results against the field, and the ablations, and we close with what was built on top of the paper.
 
 ---
 
-# 04_rnn_cnn_limits
+# 03_bottleneck
 
-Let's name the constraints the authors are trying to lift. First, the sequential bottleneck: in any RNN, hidden state at time t depends on hidden state at t minus one, so you cannot parallelize within a single training example. Second, long-range path length: distant tokens have to be related through many intermediate operations, which makes learning long-range dependencies hard. Third, memory ceiling: long sequences eat GPU memory, capping batch size and throughput. The Transformer attacks all three at once by replacing the entire backbone with attention.
-
----
-
-# 05_architecture_overview
-
-This is figure one from the paper — the Transformer architecture. Read it from the bottom up. Inputs and outputs both come in as embeddings, with a sinusoidal positional encoding added. The encoder on the left is a stack of six identical layers; each layer has multi-head self-attention followed by a position-wise feed-forward network, with Add and Norm wrapping each sub-layer. The decoder on the right is also six layers, but inserts a third sub-layer that attends back to the encoder output, and its self-attention is masked so it cannot peek at future tokens. The whole thing ends with a linear projection and softmax to produce token probabilities. The skeleton is the same as prior seq2seq models — what is new is what fills the boxes.
+Before 2017, the two dominant sequence models both paid for word order with time. A recurrent network computes each hidden state from the previous one, so a sentence of n tokens needs n sequential steps and the signal from position one reaches position n only after n hops; nothing inside a single example can run in parallel. Convolutional models such as ByteNet and ConvS2S fixed the parallelism problem, but two distant positions still meet only after a stack of layers, so the path shrinks to logarithmic length rather than disappearing. Both architectures charge what you might call a distance tax, and the paper's question is simply: what if every path had length one?
 
 ---
 
-# 06_encoder_decoder
+# 04_idea
 
-Let's compare the encoder and decoder side by side. The encoder has two sub-layers per block: multi-head self-attention, then a position-wise feed-forward network. The decoder has three: masked multi-head self-attention, then encoder-decoder attention, then the feed-forward network. Around every sub-layer the same wrapper applies — output equals LayerNorm of x plus Sublayer of x, the classic residual connection plus normalization. All sub-layers and embeddings emit a 512-dimensional vector so the residual addition is well-defined. The three asymmetries on the decoder side are the third sub-layer, the causal mask that preserves auto-regression, and the one-position shift of the output embeddings.
-
----
-
-# 07_scaled_dot_product
-
-Here is the heart of the model — scaled dot-product attention. You start with three matrices: queries Q, keys K, and values V. You compute the dot product of every query with every key, scale by the square root of the key dimension, apply a row-wise softmax to get attention weights, and then multiply by V to produce the output. The scaling factor matters. For large key dimensions the dot products grow in magnitude, pushing the softmax into regions with vanishingly small gradients. Dividing by root d sub k counteracts that. Once you have the weights, the output is just a weighted average of the value vectors — that's all attention is.
+The answer is in the abstract. The authors propose a new, simple architecture based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. They back that with three measurable claims. Quality: 28.4 BLEU on English to German, more than two points above the best previous result, ensembles included. Parallelism: the number of sequential operations per layer is constant, so every position is handled at once. And speed: the big model trained for three and a half days on eight P100 GPUs, setting a new single-model record of 41.8 BLEU on English to French.
 
 ---
 
-# 08_multi_head_attention
+# 05_architecture
 
-Multi-head attention is the next move. Instead of running one attention function over the full 512-dimensional vectors, the authors split into h equals eight independent heads, each operating on 64-dimensional projections of Q, K, and V. The projections are learned, so each head can specialize on a different kind of relationship. The heads run in parallel, their outputs are concatenated, and a final linear projection maps back to 512. The total compute is roughly the same as a single full-dimensional head, but the model gains the ability to attend to different representation subspaces at different positions simultaneously.
-
----
-
-# 09_three_uses
-
-The same attention mechanism shows up in three places in the Transformer, with three slightly different roles. In encoder self-attention, queries, keys, and values all come from the previous encoder layer; every source position attends to every other. In decoder masked self-attention, the same setup applies, but illegal future positions are set to minus infinity before the softmax, so position i attends only to positions less than or equal to i — that's how auto-regression is preserved. In encoder-decoder attention, queries come from the decoder while keys and values come from the encoder output, letting every decoder position retrieve relevant information from anywhere in the source sequence. One mechanism, three roles.
+This is the whole machine. On the left, the encoder is a stack of six identical layers, each with a multi-head self-attention sub-layer and a position-wise feed-forward network, and every sub-layer is wrapped in a residual connection followed by layer normalization. On the right, the decoder has the same six layers but adds a third sub-layer: a masked self-attention block, then an attention block that reads the encoder output, then the feed-forward network, before a final linear layer and softmax produce output probabilities. Inputs and outputs are embedded and summed with a positional encoding, and everything keeps a common width of 512. The feed-forward inner dimension is 2048, there are eight heads of size 64, and the base model has about 65 million parameters while the big model has 213 million.
 
 ---
 
-# 10_ffn_residual_layernorm
+# 06_scaled_dot_product
 
-The supporting cast inside every layer is just three small ideas. The position-wise feed-forward network is two linear layers with a ReLU between, applied identically at every position, with an inner dimension of 2048. The residual connection adds the sub-layer's input back to its output, which keeps the gradient signal flowing through deep stacks. Layer normalization then standardizes across the feature dimension. Put them together and the output of every sub-layer is LayerNorm of x plus Sublayer of x. Nothing here is novel by itself — but composing them around attention is what makes the architecture trainable at depth.
-
----
-
-# 11_positional_encoding
-
-Because there is no recurrence and no convolution, the model has no built-in notion of token order. The authors recover order with a deterministic sinusoidal positional encoding added to each input embedding. Even dimensions use a sine wave, odd dimensions use a cosine wave, and the wavelengths form a geometric progression from two pi up to ten thousand times two pi. The neat property is that for any fixed offset k, the encoding at position pos plus k is a linear function of the encoding at pos — so the model can easily learn to attend by relative position via a simple linear combination. Order is injected, not learned.
+Attention itself is one formula. Multiply the queries by the transposed keys to get a score for every query against every key, divide by the square root of the key dimension, take a softmax so each row becomes a set of weights, and use those weights to mix the values. A query says what a position is looking for, a key says what each position offers for matching, and a value is what gets passed along once matched. The scaling matters: with large key dimensions the dot products grow large and push the softmax into regions with tiny gradients, and dividing by eight for a key size of 64 keeps the scores tame.
 
 ---
 
-# 12_complexity_table
+# 07_multi_head
 
-This is table one from the paper, and it is the strongest argument for self-attention. A self-attention layer pays O of n squared times d in compute, but in exchange every pair of positions is exactly one operation apart. A recurrent layer pays O of n times d squared, but it takes O of n sequential operations and the maximum path length between two positions is O of n. Convolutional layers fall in between. For typical NLP workloads where the sequence length is shorter than the representation dimension, self-attention is actually faster than recurrence — and the constant path length makes long-range dependencies far easier to learn.
-
----
-
-# 13_training_setup
-
-A quick word on how this was trained. The base model trains in twelve hours on eight P100 GPUs in one machine; the big model trains in three and a half days on the same hardware. Batches were grouped by similar sequence length to keep about twenty-five thousand source and twenty-five thousand target tokens per batch. The optimizer is Adam with beta two pushed up to 0.98, and a custom learning rate schedule that warms up linearly for four thousand steps then decays as one over the square root of the step count. Regularization is dropout at 0.1 applied to every sub-layer output and to the sum of embedding and positional encoding, plus label smoothing of 0.1.
+Instead of one attention with full width, the Transformer runs eight of them in parallel. Queries, keys and values are each projected by learned linear maps into a 64-dimensional subspace, each head runs scaled dot-product attention there, the eight outputs are concatenated, and a final linear layer mixes them back to 512 dimensions. Because each head works at reduced width, the eight together cost about as much as a single full-width head. The ablation shows why it is worth it: a single head is 0.9 BLEU worse than the best setting.
 
 ---
 
-# 14_results
+# 08_three_uses
 
-Here are the headline results — table two from the paper. The Transformer big scores 28.4 BLEU on English to German, beating the previous best ensemble by two full BLEU points as a single model. On English to French it scores 41.8, a new single-model state of the art. And it does all this with about 2.3 times 10 to the 19 training floating-point operations, which is well below most strong baselines. The base model alone, trained in twelve hours, already beats almost every prior published model. The combination of better quality and lower training cost is what made this paper land so hard.
-
----
-
-# 15_ablations
-
-The variation study in table three gives us five takeaways worth remembering. First, head count has a sweet spot: a single head loses about 0.9 BLEU compared to eight heads, but going to thirty-two also degrades. Second, the key dimension matters more than the value dimension — determining compatibility is the harder learning problem. Third, scaling up the model dimension and the depth consistently improves quality, so the architecture scales monotonically with capacity. Fourth, dropout is essential — removing it loses roughly half a BLEU to a full BLEU point even at p equals 0.1. Fifth, label smoothing slightly hurts perplexity but improves BLEU, which is a reminder to optimize for the metric you actually ship on.
+The same block is used in three places. In the encoder, queries, keys and values all come from the previous layer, so every position looks at every other position in both directions in one step. In the decoder, the self-attention is masked so that position i may only attend to positions up to i, which keeps generation auto-regressive; that is also why the outputs are shifted right by one. And in encoder-decoder attention, the queries come from the decoder while the keys and values come from the encoder output, so every output position can read the whole input sentence, replacing the classic sequence-to-sequence attention.
 
 ---
 
-# 16_conclusion
+# 09_positional_encoding
 
-To close — this 2017 paper turned out to be one of the most consequential architectural ideas in modern machine learning. The Transformer became the substrate for BERT, for GPT, for T5, for the Vision Transformer, for AlphaFold, for CLIP, for almost every large language model in production today, including the one talking to you right now. The core insight — that just attention, with no recurrence and no convolution, is the right inductive bias for sequence modeling — turned out to generalize far beyond translation, to almost every modality we work with. One paper, a generation of models.
+Without recurrence, nothing in the model knows where a token sits, so the paper adds a positional encoding to the embedding. Each dimension is a sinusoid with its own wavelength, sine on even dimensions and cosine on odd ones, with wavelengths running from two pi up to ten thousand times two pi, so every position gets a unique code and for any fixed offset the encoding of a later position is a linear function of the earlier one. Learned positional embeddings performed nearly identically in the ablation; the sinusoidal version was kept because it might extrapolate to sequence lengths never seen in training. Note that the encoding is added, not concatenated, so the width stays 512 with no extra parameters.
+
+---
+
+# 10_why_self_attention
+
+Table one compares the costs. Self-attention connects any two positions in a constant number of sequential operations with a constant path length, at a per-layer cost that grows with the square of the sequence length times the dimension. Recurrence is cheaper per layer when sequences are long, but its sequential operations and path length both grow with n; convolution parallelizes but still needs a logarithmic number of layers to connect distant positions. Since word-piece and byte-pair sentences are usually shorter than the representation width, self-attention wins on speed in practice, and a restricted variant with a window r remains available for very long inputs.
+
+---
+
+# 11_training_recipe
+
+Here is the recipe as a spec sheet. English to German used about four and a half million sentence pairs with a shared byte-pair vocabulary of roughly thirty-seven thousand tokens; English to French used thirty-six million sentences with a thirty-two thousand word-piece vocabulary, batched at about twenty-five thousand source and target tokens each. Training ran on one machine with eight P100 GPUs: the base model for one hundred thousand steps at 0.4 seconds each, about twelve hours, and the big model for three hundred thousand steps, three and a half days. The optimizer was Adam with a learning rate that ramps up linearly for four thousand steps and then decays with the inverse square root of the step, plus residual dropout of 0.1 and label smoothing of 0.1.
+
+---
+
+# 12_results
+
+The results are Table two of the paper. On English to German the big Transformer reaches 28.4 BLEU, ahead of every single model and every ensemble in the comparison, and even the base model at 27.3 beats the best prior ensemble. On English to French the big model reaches 41.8, a new single-model state of the art. The cost comparison is the striking part: the base model used about 3.3 times ten to the eighteenth floating-point operations versus 1.8 times ten to the twentieth for the GNMT ensemble, roughly fifty-five times less compute for a better English to German score.
+
+---
+
+# 13_ablations
+
+Table three varies one setting at a time on the base model. A single attention head is 0.9 BLEU worse than the best configuration, and shrinking the key dimension also hurts, which suggests computing compatibility is not a trivial function. Bigger models do better, dropout is very helpful against over-fitting, and learned positional embeddings are nearly identical to the sinusoids. The paper then tests generalization on English constituency parsing: a four-layer Transformer trained on the Wall Street Journal data alone reaches 91.3 F1, and 92.7 with semi-supervised data, supporting the abstract's claim that the architecture works beyond translation with both large and limited data.
+
+---
+
+# 14_legacy
+
+What followed is most of modern machine learning. In 2018, BERT and the first GPT built pretrained language models on the Transformer; in 2021 the Vision Transformer and DALL-E carried it into images; by 2024 systems like Stable Diffusion 3 and Sora used it for image and video generation. As of 2026 the paper has been cited more than two hundred and fifty thousand times, placing it among the ten most-cited papers of this century. All eight authors have since left Google to join other companies or found startups, and the title is still a nod to the Beatles' All You Need Is Love.
+
+---
+
+# 15_ending
+
+So, three things to take away. Drop recurrence and let every position attend to every other in a single step. Eight heads, scaled dot-products and sinusoidal positions do the real work. And the payoff was measurable: 28.4 and 41.8 BLEU after three and a half days on eight GPUs, quality and speed at once. The paper is short and readable; the link on this slide takes you to it on arXiv. Thank you.

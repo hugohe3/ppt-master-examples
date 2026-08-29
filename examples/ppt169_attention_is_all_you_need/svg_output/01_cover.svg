@@ -1,46 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" font-size="22" data-pptx-page-role="cover">
   <defs>
     <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.96" />
-      <stop offset="42%" stop-color="#FFFFFF" stop-opacity="0.85" />
-      <stop offset="70%" stop-color="#FFFFFF" stop-opacity="0.0" />
+      <stop offset="0" stop-color="#0B1F3A" stop-opacity="0.92"/>
+      <stop offset="0.5" stop-color="#0B1F3A" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0B1F3A" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1F3A"/>
+  <image id="cover-hero" data-pptx-role="background" href="../images/cover_transformer_blueprint.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="760" height="720" fill="url(#coverScrim)"/>
 
-  <g id="bg">
-    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-    <image href="../images/cover_bg.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
-    <rect x="0" y="0" width="1280" height="720" fill="url(#coverScrim)" />
+  <g id="title-stack" data-pptx-bounds="80 186 700 330">
+    <text x="82" y="212" font-family="Consolas" font-size="15" fill="#F5A623" letter-spacing="2">ARXIV 1706.03762 · NEURIPS 2017</text>
+    <text x="80" y="292" font-size="66" font-weight="bold" fill="#E8F1FA">Attention Is<tspan x="80" dy="72">All You Need</tspan></text>
+    <line x1="82" y1="392" x2="262" y2="392" stroke="#F5A623" stroke-width="3"/>
+    <text x="82" y="436" font-size="24" fill="#C9DBEA">The Transformer, explained:<tspan x="82" dy="34">one paper, no recurrence, no convolutions,</tspan><tspan x="82" dy="34">and a training run measured in days</tspan></text>
   </g>
 
-  <g id="cover-marks">
-    <rect x="80" y="120" width="80" height="4" fill="#3182CE" />
-    <text x="80" y="160" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" font-weight="700" fill="#3182CE" letter-spacing="2.5">PAPER · DEEP READ</text>
-    <text x="80" y="184" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" font-weight="500" fill="#4A5568" letter-spacing="1.5">NeurIPS 2017 · arXiv:1706.03762</text>
+  <g id="authors-block" data-pptx-bounds="80 540 700 60">
+    <text x="82" y="562" font-family="Consolas" font-size="14" fill="#9CB4CC" letter-spacing="1">VASWANI · SHAZEER · PARMAR · USZKOREIT · JONES · GOMEZ · KAISER · POLOSUKHIN<tspan x="82" dy="26">GOOGLE BRAIN · GOOGLE RESEARCH</tspan></text>
   </g>
 
-  <g id="cover-title">
-    <text x="80" y="320" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="64" font-weight="700" fill="#1A365D">Attention</text>
-    <text x="80" y="394" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="64" font-weight="700" fill="#1A365D">Is All</text>
-    <text x="80" y="468" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="64" font-weight="700" fill="#1A365D">You Need</text>
-  </g>
-
-  <g id="cover-subtitle">
-    <line x1="80" y1="510" x2="180" y2="510" stroke="#1A365D" stroke-width="1.5" />
-    <text x="80" y="540" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="18" font-style="italic" fill="#4A5568">Vaswani · Shazeer · Parmar · Uszkoreit</text>
-    <text x="80" y="564" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="18" font-style="italic" fill="#4A5568">Jones · Gomez · Kaiser · Polosukhin</text>
-    <text x="80" y="592" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" fill="#4A5568">Google Brain · Google Research · University of Toronto</text>
-  </g>
-
-  <g id="cover-takeaway">
-    <rect x="80" y="608" width="6" height="56" fill="#3182CE" />
-    <text x="100" y="630" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="700" fill="#1A365D" letter-spacing="1">THE 2017 IDEA</text>
-    <text x="100" y="656" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="18" font-style="italic" fill="#1A202C">Drop recurrence and convolution. Use only attention.</text>
-  </g>
-
-  <g id="footer">
-    <text x="1200" y="694" text-anchor="end" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#A0AEC0">01</text>
-    <line x1="80" y1="694" x2="120" y2="694" stroke="#A0AEC0" stroke-width="0.5" />
+  <g id="sheet-block" data-pptx-role="footer" data-pptx-bounds="1000 668 220 32" font-family="Consolas" font-size="12" fill="#9CB4CC">
+    <rect x="1000" y="668" width="220" height="32" fill="none" stroke="#3C5A80" stroke-width="1"/>
+    <line x1="1110" y1="668" x2="1110" y2="700" stroke="#3C5A80" stroke-width="1"/>
+    <text x="1012" y="688">AIAYN · 2017</text>
+    <text x="1122" y="688">SHEET 01 / 15</text>
   </g>
 </svg>

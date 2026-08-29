@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F0E9"/>
+  <ellipse id="p5-ring-outer" data-pptx-role="decoration" cx="230" cy="760" rx="470" ry="170" fill="none" stroke="#D6CEC2" stroke-width="1.5"/>
+  <ellipse id="p5-ring-mid" data-pptx-role="decoration" cx="230" cy="760" rx="410" ry="140" fill="none" stroke="#D6CEC2" stroke-width="1.5"/>
+  <ellipse id="p5-ring-inner" data-pptx-role="decoration" cx="230" cy="760" rx="350" ry="110" fill="none" stroke="#B4532A" stroke-opacity="0.5" stroke-width="1.5"/>
+
+  <g id="p5-photo-hero" data-pptx-bounds="600 0 680 430">
+    <image href="../images/640_3.jpg" x="600" y="0" width="680" height="430" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="600" y="390" width="680" height="40" fill="#14120F" fill-opacity="0.5"/>
+    <text x="616" y="415" font-size="13" fill="#F4F0E9">场馆外部（图源：David Chipperfield Architects）</text>
+  </g>
+
+  <g id="p5-compare" data-pptx-bounds="600 448 680 232">
+    <image href="../images/640_5.jpg" x="600" y="448" width="330" height="200" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/640_4.jpg" x="950" y="448" width="330" height="200" preserveAspectRatio="xMidYMid slice"/>
+    <text x="600" y="672" font-size="13" fill="#6F675E">历史原型 · 古罗马圆形剧场（图源：unsplash）</text>
+    <text x="950" y="672" font-size="13" fill="#6F675E">当代回响 · 场馆整体效果图</text>
+    <line x1="932" y1="548" x2="948" y2="548" stroke="#B4532A" stroke-width="2"/>
+  </g>
+
+  <g id="p5-title" data-pptx-bounds="60 44 500 226">
+    <use data-icon="tabler-outline/award" x="60" y="50" width="20" height="20" fill="#B4532A"/>
+    <text x="88" y="66" font-size="14" letter-spacing="1" fill="#6F675E">戴卫·奇普菲尔德 · 2023年普利兹克奖得主</text>
+    <text x="60" y="176" font-family="Georgia" font-size="120" font-weight="bold" fill="#B4532A" fill-opacity="0.16">02</text>
+    <text x="60" y="150" font-size="40" font-weight="bold" fill="#1C1A17">米兰圣朱利亚冰球馆</text>
+    <text x="60" y="196" font-family="KaiTi" font-size="24" fill="#B4532A">千年罗马竞技场的现代回响</text>
+    <g id="p5-chips">
+      <rect x="60" y="226" width="110" height="30" rx="15" fill="none" stroke="#D6CEC2" stroke-width="1"/>
+      <use data-icon="tabler-outline/map-pin" x="72" y="233" width="16" height="16" fill="#B4532A"/>
+      <text x="94" y="246" font-size="14" fill="#3F3A34">米兰</text>
+      <rect x="182" y="226" width="196" height="30" rx="15" fill="none" stroke="#D6CEC2" stroke-width="1"/>
+      <use data-icon="tabler-outline/calendar-event" x="194" y="233" width="16" height="16" fill="#B4532A"/>
+      <text x="216" y="246" font-size="14" fill="#3F3A34">2026冬奥会 唯一新建场馆</text>
+      <rect x="390" y="226" width="150" height="30" rx="15" fill="none" stroke="#D6CEC2" stroke-width="1"/>
+      <use data-icon="tabler-outline/users" x="402" y="233" width="16" height="16" fill="#B4532A"/>
+      <text x="424" y="246" font-size="14" fill="#3F3A34">16,000 名观众</text>
+    </g>
+  </g>
+
+  <g id="p5-body" data-pptx-bounds="60 284 500 110">
+    <text x="60" y="306" font-size="19" fill="#3F3A34">为迎接米兰-科尔蒂纳丹佩佐冬奥会而建。延续大师<tspan x="60" dy="30">一贯的极简秩序美学：规整的结构、温润的材质、</tspan><tspan x="60" dy="30">均衡的比例，重塑公共体育建筑的内核。</tspan></text>
+  </g>
+
+  <g id="p5-features" data-pptx-bounds="60 406 500 150">
+    <line x1="60" y1="406" x2="540" y2="406" stroke="#D6CEC2" stroke-width="1"/>
+    <g id="p5-feature-1">
+      <text x="60" y="436" font-family="Georgia" font-size="16" font-weight="bold" fill="#B4532A">1</text>
+      <text x="84" y="436" font-size="17" fill="#1C1A17">椭圆形场馆，呼应米兰古罗马圆形剧场的经典形态</text>
+    </g>
+    <g id="p5-feature-2">
+      <text x="60" y="476" font-family="Georgia" font-size="16" font-weight="bold" fill="#B4532A">2</text>
+      <text x="84" y="476" font-size="17" fill="#1C1A17">外立面环绕三道金属环带，层间嵌入玻璃腰线</text>
+    </g>
+    <g id="p5-feature-3">
+      <text x="60" y="516" font-family="Georgia" font-size="16" font-weight="bold" fill="#B4532A">3</text>
+      <text x="84" y="516" font-size="17" fill="#1C1A17">LED 灯带将立面转化为城市尺度的动态屏幕</text>
+    </g>
+    <text x="60" y="548" font-size="14" fill="#6F675E">兼顾大型赛事、公众运动与文化展演，通透布局消解厚重感</text>
+  </g>
+
+  <g id="p5-quote" data-pptx-bounds="60 574 500 100">
+    <rect x="60" y="576" width="4" height="86" fill="#B4532A"/>
+    <text x="82" y="602" font-family="KaiTi" font-size="21" fill="#1C1A17">顶级的建筑不是刻意的标新立异，<tspan x="82" dy="30">而是在功能与美学之间找到最优平衡。</tspan></text>
+    <text x="82" y="656" font-size="13" fill="#6F675E">以极致的克制与精确，讲述建筑与历史、与城市公共生活的关系</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#6F675E">05 / 13</text>
+  </g>
+</svg>

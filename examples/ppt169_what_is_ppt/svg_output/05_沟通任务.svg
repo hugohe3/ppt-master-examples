@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">02 · 沟通任务</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">一份演示，可能同时在完成九种任务</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="task-inform" data-pptx-bounds="40 168 386 140">
+      <rect x="40" y="168" width="386" height="140" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/info-circle" x="60" y="188" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="102" y="212" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">告知</text>
+      <text x="60" y="256" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">受众知道此前</text>
+      <text x="60" y="282" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">不知道的事实</text>
+  </g>
+  <g id="task-explain" data-pptx-bounds="446 168 386 140">
+      <rect x="446" y="168" width="386" height="140" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/bulb" x="466" y="188" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="508" y="212" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">解释</text>
+      <text x="466" y="256" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">理解某种机制、</text>
+      <text x="466" y="282" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">关系或原因</text>
+  </g>
+  <g id="task-persuade" data-pptx-bounds="852 168 388 140">
+      <rect x="852" y="168" width="388" height="140" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/speakerphone" x="872" y="188" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="914" y="212" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">说服</text>
+      <text x="872" y="256" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">接受或认真考虑</text>
+      <text x="872" y="282" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">某个立场</text>
+  </g>
+
+  <g id="task-decide" data-pptx-bounds="40 326 386 140">
+      <rect x="40" y="326" width="386" height="140" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/checkbox" x="60" y="346" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="102" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">决策</text>
+      <text x="60" y="414" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">从多个选项走向</text>
+      <text x="60" y="440" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">明确选择</text>
+  </g>
+  <g id="task-align" data-pptx-bounds="446 326 386 140">
+      <rect x="446" y="326" width="386" height="140" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/users-group" x="466" y="346" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="508" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">对齐</text>
+      <text x="466" y="414" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">形成共同优先级、</text>
+      <text x="466" y="440" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">语言和下一步</text>
+  </g>
+  <g id="task-teach" data-pptx-bounds="852 326 388 140">
+      <rect x="852" y="326" width="388" height="140" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/school" x="872" y="346" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="914" y="370" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">教学</text>
+      <text x="872" y="414" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">能够理解、记忆</text>
+      <text x="872" y="440" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">或执行某件事</text>
+  </g>
+
+  <g id="task-report" data-pptx-bounds="40 484 386 140">
+      <rect x="40" y="484" width="386" height="140" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/report" x="60" y="504" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="102" y="528" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">汇报与问责</text>
+      <text x="60" y="572" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">评价进展、证据、</text>
+      <text x="60" y="598" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">风险与责任</text>
+  </g>
+  <g id="task-mobilize" data-pptx-bounds="446 484 386 140">
+      <rect x="446" y="484" width="386" height="140" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/flag" x="466" y="504" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="508" y="528" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">动员</text>
+      <text x="466" y="572" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">从意识到问题</text>
+      <text x="466" y="598" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">转向采取行动</text>
+  </g>
+  <g id="task-record" data-pptx-bounds="852 484 388 140">
+      <rect x="852" y="484" width="388" height="140" fill="#F4F1EA" stroke="#C8102E" stroke-width="1.5"/>
+      <use data-icon="tabler-outline/archive" x="872" y="504" width="30" height="30" fill="#C8102E" stroke-width="2"/>
+      <text x="914" y="528" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">留档与交接</text>
+      <text x="872" y="572" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">获得可审批、审计、</text>
+      <text x="872" y="598" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">复用的正式成果</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P05 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">要澄清的不是哪个标签胜出，而是它们的主次与顺序</text>
+  </g>
+</svg>

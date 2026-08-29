@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E" />
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">03 · 模板</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">模板存在，是因为某种东西预计会重复出现</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5" />
+  </g>
+
+  <g id="tvt-theme" data-pptx-bounds="40 168 580 116">
+      <rect x="40" y="168" width="580" height="116" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2" />
+      <text x="64" y="212" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="26" font-weight="bold" fill="#1A2B4A">Theme 主题</text>
+      <text x="64" y="254" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">提供协调的颜色、字体与效果。</text>
+  </g>
+  <g id="tvt-template" data-pptx-bounds="660 168 580 116">
+      <rect x="660" y="168" width="580" height="116" fill="#1A2B4A" stroke="#1A2B4A" stroke-width="1.2" />
+      <text x="684" y="212" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="26" font-weight="bold" fill="#FFFFFF">Template 模板</text>
+      <text x="684" y="254" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#F4F1EA">在 Theme 之上，增加面向用途的内容与结构。</text>
+  </g>
+
+  <g id="quote" data-pptx-bounds="40 306 1200 100">
+    <rect x="40" y="324" width="6" height="64" fill="#C8102E" />
+    <text x="72" y="366" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="30" font-weight="bold" fill="#1A2B4A">“模板之所以存在，是因为某种演示身份、结构或沟通场景预计会重复出现。”</text>
+  </g>
+
+  <g id="layers-intro" data-pptx-bounds="40 424 1200 40">
+    <text x="40" y="452" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" fill="#5E7089">一个模板可组合多个可复用层次：</text>
+  </g>
+  <g id="lay-theme" data-pptx-bounds="40 470 284 150">
+      <rect x="40" y="470" width="284" height="150" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.2" />
+      <use data-icon="tabler-outline/palette" x="60" y="490" width="30" height="30" fill="#1A2B4A" stroke-width="2" />
+      <text x="60" y="550" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">Theme</text>
+      <text x="60" y="592" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">颜色 / 字体 / 效果</text>
+  </g>
+  <g id="lay-master" data-pptx-bounds="344 470 284 150">
+      <rect x="344" y="470" width="284" height="150" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.2" />
+      <use data-icon="tabler-outline/template" x="364" y="490" width="30" height="30" fill="#1A2B4A" stroke-width="2" />
+      <text x="364" y="550" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">Slide Master</text>
+      <text x="364" y="592" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">共用格式与对象</text>
+  </g>
+  <g id="lay-layout" data-pptx-bounds="648 470 284 150">
+      <rect x="648" y="470" width="284" height="150" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.2" />
+      <use data-icon="tabler-outline/layout" x="668" y="490" width="30" height="30" fill="#1A2B4A" stroke-width="2" />
+      <text x="668" y="550" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">Slide Layout</text>
+      <text x="668" y="592" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">占位符与构图</text>
+  </g>
+  <g id="lay-preset" data-pptx-bounds="952 470 288 150">
+      <rect x="952" y="470" width="288" height="150" fill="#F4F1EA" stroke="#C8102E" stroke-width="1.5" />
+      <use data-icon="tabler-outline/file-text" x="972" y="490" width="30" height="30" fill="#C8102E" stroke-width="2" />
+      <text x="972" y="550" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">预置内容</text>
+      <text x="972" y="592" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">起始页、示例与指引</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P12 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">视觉相似不会自动形成模板 · 来源：Microsoft Theme 与 Template 的区别</text>
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="60 40 1160 26" font-family="Consolas" font-size="12" fill="#8FA0B8">
+    <text x="60" y="58" letter-spacing="3">03 · SCHEDULING</text>
+    <text x="1220" y="58" text-anchor="end" letter-spacing="2">04 / 13</text>
+  </g>
+
+  <g id="p4-title" data-pptx-bounds="60 84 1160 74">
+    <text x="60" y="122" font-size="36" font-weight="bold" fill="#E6EDF7">调度：先过滤，再打分</text>
+    <text x="60" y="150" font-size="16" fill="#8FA0B8">kube-scheduler 为每个还没有 nodeName 的 Pod 走一条两阶段流水线，结果只是一条绑定记录。</text>
+  </g>
+
+  <g id="p4-pipeline" data-pptx-bounds="60 176 1160 92">
+    <g id="p4-stage-filter" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="60 180 520 84" fill="#0F2A44" stroke="#38BDF8" stroke-width="1.5">
+<path d="M 60 180 L 538 180 L 580 222 L 538 264 L 60 264 Z"/>
+</g>
+    <g id="p4-stage-score" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="596 180 520 84" data-pptx-av-adj="val 30000" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1.5">
+<path d="M 596 180 L 1090.8 180 L 1116 222 L 1090.8 264 L 596 264 L 621.2 222 Z"/>
+</g>
+    <g id="p4-bind-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="1136 196 84 52" fill="#38BDF8" stroke="none">
+<path d="M 1136 209 L 1194 209 L 1194 196 L 1220 222 L 1194 248 L 1194 235 L 1136 235 Z"/>
+</g>
+    <text x="90" y="214" font-family="Consolas" font-size="12" letter-spacing="2" fill="#38BDF8">STAGE 1 · FILTERING</text>
+    <text x="90" y="242" font-size="20" font-weight="bold" fill="#E6EDF7">过滤 —— 哪些节点是可行的？</text>
+    <text x="640" y="214" font-family="Consolas" font-size="12" letter-spacing="2" fill="#A78BFA">STAGE 2 · SCORING</text>
+    <text x="640" y="242" font-size="20" font-weight="bold" fill="#E6EDF7">打分 —— 哪个可行节点最优？</text>
+  </g>
+
+  <g id="p4-filter-criteria" data-pptx-bounds="60 290 520 300">
+    <text x="60" y="312" font-size="14" font-weight="bold" fill="#C7D2E3">过滤依据</text>
+    <line x1="60" y1="324" x2="580" y2="324" stroke="#243350" stroke-width="1"/>
+    <g id="p4-crit-1">
+      <use data-icon="phosphor-duotone/cpu" x="60" y="340" width="24" height="24" fill="#38BDF8"/>
+      <text x="96" y="358" font-size="16" fill="#E6EDF7">资源请求 <tspan font-family="Consolas" font-size="13" fill="#8FA0B8">CPU / memory / GPU</tspan></text>
+    </g>
+    <g id="p4-crit-2">
+      <use data-icon="phosphor-duotone/sliders" x="60" y="384" width="24" height="24" fill="#38BDF8"/>
+      <text x="96" y="402" font-size="16" fill="#E6EDF7">硬件 / 软件 / 策略约束</text>
+    </g>
+    <g id="p4-crit-3">
+      <use data-icon="phosphor-duotone/link" x="60" y="428" width="24" height="24" fill="#38BDF8"/>
+      <text x="96" y="446" font-size="16" fill="#E6EDF7">亲和与反亲和规则 <tspan font-family="Consolas" font-size="13" fill="#8FA0B8">affinity / anti-affinity</tspan></text>
+    </g>
+    <g id="p4-crit-4">
+      <use data-icon="phosphor-duotone/shield-check" x="60" y="472" width="24" height="24" fill="#38BDF8"/>
+      <text x="96" y="490" font-size="16" fill="#E6EDF7">污点与容忍 <tspan font-family="Consolas" font-size="13" fill="#8FA0B8">taints / tolerations</tspan></text>
+    </g>
+    <g id="p4-crit-5">
+      <use data-icon="phosphor-duotone/tree-structure" x="60" y="516" width="24" height="24" fill="#38BDF8"/>
+      <text x="96" y="534" font-size="16" fill="#E6EDF7">拓扑分布、数据局部性、工作负载间干扰</text>
+    </g>
+    <text x="60" y="576" font-size="13" fill="#8FA0B8">任何一条不满足，节点就被淘汰，不进入打分。</text>
+  </g>
+
+  <g id="p4-scoring" data-pptx-bounds="596 290 624 300">
+    <text x="596" y="312" font-size="14" font-weight="bold" fill="#C7D2E3">打分与绑定</text>
+    <line x1="596" y1="324" x2="1220" y2="324" stroke="#243350" stroke-width="1"/>
+    <text x="596" y="358" font-size="16" fill="#E6EDF7">对每个可行节点按同一组规则打分，取最高分者。</text>
+    <text x="596" y="392" font-size="16" fill="#E6EDF7">调度器随后做的只有一件事：把 binding 写回 API server。<tspan x="596" dy="26">真正拉起容器的是那个节点上的 kubelet —— 调度器不直接和节点对话。</tspan></text>
+    <rect x="596" y="450" width="624" height="120" rx="4" fill="#1E1B3A" stroke="#A78BFA" stroke-width="1"/>
+    <use data-icon="phosphor-duotone/warning" x="616" y="470" width="28" height="28" fill="#A78BFA"/>
+    <text x="656" y="478" font-size="16" font-weight="bold" fill="#E6EDF7">一个 Pod 一生只被调度一次</text>
+    <text x="656" y="504" font-size="14" fill="#C7D2E3">失败的 Pod 不会被“重新调度”，而是由它的控制器<tspan x="656" dy="22">（Deployment / StatefulSet / Job）用一个新的 UID 创建替代 Pod，</tspan><tspan x="656" dy="22">再走一遍完整的过滤 → 打分流水线。</tspan></text>
+  </g>
+
+  <g id="p4-signpost" data-pptx-bounds="60 620 1160 40">
+    <line x1="60" y1="620" x2="1220" y2="620" stroke="#243350" stroke-width="1"/>
+    <text x="60" y="648" font-size="14" fill="#8FA0B8">调度器决定“去哪”；接下来看控制器如何持续保证“数量与状态对”。</text>
+  </g>
+</svg>

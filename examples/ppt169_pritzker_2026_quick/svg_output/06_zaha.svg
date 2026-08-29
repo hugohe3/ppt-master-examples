@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p6ScrimBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.3" stop-color="#0E0D0C" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0E0D0C" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="p6ScrimLeft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0E0D0C" stop-opacity="0.55"/>
+      <stop offset="0.6" stop-color="#0E0D0C" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="p6ClipA" clipPathUnits="userSpaceOnUse">
+      <polygon points="740,60 970,60 930,240 700,240"/>
+    </clipPath>
+    <clipPath id="p6ClipB" clipPathUnits="userSpaceOnUse">
+      <polygon points="1030,60 1260,60 1220,240 990,240"/>
+    </clipPath>
+  </defs>
+  <image id="p6-photo-bg" data-pptx-role="background" href="../images/640_7.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="p6-scrim-bottom" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p6ScrimBottom)"/>
+  <rect id="p6-scrim-left" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p6ScrimLeft)"/>
+
+  <g id="p6-insets" data-pptx-bounds="700 60 560 215">
+    <image href="../images/640_8.jpg" x="700" y="60" width="270" height="180" preserveAspectRatio="xMidYMid slice" clip-path="url(#p6ClipA)"/>
+    <image href="../images/640_9.jpg" x="990" y="60" width="270" height="180" preserveAspectRatio="xMidYMid slice" clip-path="url(#p6ClipB)"/>
+    <text x="700" y="266" font-size="13" fill="#F4F0E9" fill-opacity="0.8">结构概览 · 单塔不对称斜拉</text>
+    <text x="990" y="266" font-size="13" fill="#F4F0E9" fill-opacity="0.8">横跨淡水河口（摄影：Paddy Chao）</text>
+  </g>
+
+  <g id="p6-title" data-pptx-bounds="60 330 640 262">
+    <use data-icon="tabler-outline/award" x="60" y="336" width="20" height="20" fill="#E8A47C"/>
+    <text x="88" y="352" font-size="14" letter-spacing="1" fill="#F4F0E9" fill-opacity="0.85">扎哈·哈迪德事务所 · 2004年普利兹克奖得主 · 遗作</text>
+    <text x="60" y="470" font-family="Georgia" font-size="120" font-weight="bold" fill="#F4F0E9" fill-opacity="0.14">03</text>
+    <text x="60" y="440" font-size="56" font-weight="bold" fill="#F4F0E9">淡江大桥</text>
+    <text x="60" y="486" font-family="KaiTi" font-size="26" fill="#E8A47C">跨越江河的流动态势</text>
+    <text x="60" y="522" font-size="18" fill="#F4F0E9" fill-opacity="0.9">以流畅动感的曲线和极具张力的解构造型，颠覆传统桥梁的<tspan x="60" dy="28">刻板形态；历经多次方案调整与技术攻坚，最终以近乎100%</tspan><tspan x="60" dy="28">的还原度呈现。大师已逝，其突破边界的思想仍在延续。</tspan></text>
+  </g>
+
+  <g id="p6-metric" data-pptx-bounds="760 440 460 240">
+    <text x="760" y="560" font-family="Georgia" font-size="120" font-weight="bold" fill="#F4F0E9">920</text>
+    <text x="988" y="560" font-family="Georgia" font-size="40" fill="#E8A47C">m</text>
+    <text x="764" y="594" font-size="16" fill="#F4F0E9" fill-opacity="0.9">全长 · 全球同类型桥梁中跨度最长的一座</text>
+    <g id="p6-metric-chips" fill="#F4F0E9" font-size="14">
+      <rect x="764" y="614" width="170" height="30" rx="15" fill-opacity="0.14"/>
+      <use data-icon="tabler-outline/calendar-event" x="776" y="621" width="16" height="16"/>
+      <text x="798" y="634">2026.05.12 通车</text>
+      <rect x="946" y="614" width="176" height="30" rx="15" fill-opacity="0.14"/>
+      <use data-icon="tabler-outline/building-bridge" x="958" y="621" width="16" height="16"/>
+      <text x="980" y="634">单塔不对称斜拉桥</text>
+    </g>
+  </g>
+
+  <g id="p6-caption" data-pptx-bounds="60 686 620 24">
+    <text x="60" y="702" font-size="13" fill="#F4F0E9" fill-opacity="0.65">淡江大桥（图源：Zaha Hadid Architects，摄影：Paddy Chao）</text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#F4F0E9" fill-opacity="0.7">06 / 13</text>
+  </g>
+</svg>

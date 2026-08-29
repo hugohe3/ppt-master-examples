@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F0E9"/>
+
+  <g id="p7-photo-left" data-pptx-bounds="0 0 430 720">
+    <image href="../images/640_11.jpg" x="0" y="0" width="430" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="0" y="672" width="430" height="48" fill="#14120F" fill-opacity="0.55"/>
+    <text x="16" y="700" font-size="13" fill="#F4F0E9">上海嘉艺术外观（图源：Foster + Partners）</text>
+  </g>
+
+  <g id="p7-photo-top" data-pptx-bounds="470 60 500 302">
+    <image href="../images/640_10.jpg" x="470" y="60" width="500" height="302" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <g id="p7-facts" data-pptx-bounds="1000 44 220 318">
+    <use data-icon="tabler-outline/award" x="1000" y="50" width="20" height="20" fill="#B4532A"/>
+    <text x="1028" y="66" font-size="16" font-weight="bold" fill="#1C1A17">诺曼·福斯特</text>
+    <text x="1000" y="92" font-size="13" fill="#6F675E">1999年普利兹克奖得主</text>
+    <text x="1000" y="200" font-family="Georgia" font-size="110" font-weight="bold" fill="#B4532A" fill-opacity="0.16">04</text>
+    <g id="p7-chips">
+      <rect x="1000" y="222" width="210" height="30" rx="15" fill="none" stroke="#D6CEC2" stroke-width="1"/>
+      <use data-icon="tabler-outline/map-pin" x="1012" y="229" width="16" height="16" fill="#B4532A"/>
+      <text x="1034" y="242" font-size="14" fill="#3F3A34">上海 · 普陀 苏州河畔</text>
+      <rect x="1000" y="264" width="210" height="30" rx="15" fill="none" stroke="#D6CEC2" stroke-width="1"/>
+      <use data-icon="tabler-outline/calendar-event" x="1012" y="271" width="16" height="16" fill="#B4532A"/>
+      <text x="1034" y="284" font-size="14" fill="#3F3A34">2026年4月 揭幕</text>
+      <rect x="1000" y="306" width="210" height="30" rx="15" fill="none" stroke="#D6CEC2" stroke-width="1"/>
+      <use data-icon="tabler-outline/building" x="1012" y="313" width="16" height="16" fill="#B4532A"/>
+      <text x="1034" y="326" font-size="14" fill="#3F3A34">被誉为“普陀新地标”</text>
+    </g>
+  </g>
+
+  <g id="p7-title" data-pptx-bounds="470 372 750 188">
+    <text x="470" y="412" font-size="40" font-weight="bold" fill="#1C1A17">上海嘉艺术</text>
+    <text x="700" y="410" font-family="KaiTi" font-size="24" fill="#B4532A">苏州河畔绽放的钢铁花瓣</text>
+    <text x="470" y="458" font-size="18" fill="#3F3A34">不是传统意义上的白盒子，更像一座在城市中缓慢生长的生命体：外立面<tspan x="470" dy="29">模拟花朵扎根地面、向天空延展的轨迹，将“由内而外”的结构美学绽放为</tspan><tspan x="470" dy="29">舒展的花瓣立面，并最大限度引入自然采光与河畔景致。</tspan></text>
+  </g>
+
+  <g id="p7-petals" data-pptx-bounds="470 562 260 150">
+<g id="p7-petal-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="teardrop" data-pptx-frame="500 648 60 60" fill="#B4532A" stroke="none">
+<path d="M 500 678 A 30 30 0 0 1 530 648 Q 545 648 560 648 Q 560 663 560 678 A 30 30 0 0 1 530 708 A 30 30 0 0 1 500 678 Z"/>
+</g>
+<g id="p7-petal-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="teardrop" data-pptx-frame="500 648 60 60" fill="#C9764F" stroke="none" transform="rotate(120 560 648)">
+<path d="M 500 678 A 30 30 0 0 1 530 648 Q 545 648 560 648 Q 560 663 560 678 A 30 30 0 0 1 530 708 A 30 30 0 0 1 500 678 Z"/>
+</g>
+<g id="p7-petal-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="teardrop" data-pptx-frame="500 648 60 60" fill="#8E3F20" stroke="none" transform="rotate(240 560 648)">
+<path d="M 500 678 A 30 30 0 0 1 530 648 Q 545 648 560 648 Q 560 663 560 678 A 30 30 0 0 1 530 708 A 30 30 0 0 1 500 678 Z"/>
+</g>
+    <text x="530" y="683" text-anchor="middle" font-size="14" font-weight="bold" fill="#F4F0E9">观展</text>
+    <text x="549" y="612" text-anchor="middle" font-size="14" font-weight="bold" fill="#F4F0E9">观景</text>
+    <text x="601" y="664" text-anchor="middle" font-size="14" font-weight="bold" fill="#F4F0E9">观城</text>
+    <text x="660" y="640" font-size="13" fill="#6F675E">三重体验</text>
+    <text x="660" y="660" font-size="13" fill="#6F675E">由内而外</text>
+  </g>
+
+  <g id="p7-quote" data-pptx-bounds="760 586 460 100">
+    <rect x="760" y="588" width="4" height="76" fill="#B4532A"/>
+    <text x="782" y="612" font-family="KaiTi" font-size="18" fill="#1C1A17">高技派的美学外壳之下，福斯特真正思考的是：<tspan x="782" dy="28">古典人文精神如何通过现代材料重获新生。</tspan></text>
+    <text x="782" y="662" font-size="13" fill="#6F675E">艺术展览不再局限于室内，实现观展、观景、观城的三重体验</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="1140 686 80 24">
+    <text x="1220" y="702" text-anchor="end" font-family="Georgia" font-size="13" fill="#6F675E">07 / 13</text>
+  </g>
+</svg>

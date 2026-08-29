@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="40 48 1200 108">
+    <rect x="40" y="60" width="42" height="4" fill="#C8102E"/>
+    <text x="96" y="74" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="18" letter-spacing="2" fill="#5E7089">02 · 传递场景</text>
+    <text x="40" y="128" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="40" font-weight="bold" fill="#1A2B4A">一页无法同时最优地服务四种传递场景</text>
+    <line x1="40" y1="152" x2="1240" y2="152" stroke="#1A2B4A" stroke-width="1.5"/>
+  </g>
+
+  <g id="sc-presenter" data-pptx-bounds="40 168 590 188">
+      <rect x="40" y="168" width="590" height="188" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/microphone" x="60" y="188" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="102" y="212" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">演讲者主导</text>
+      <text x="60" y="256" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">远距离可读性、节奏、视觉锚点，</text>
+      <text x="60" y="284" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">以及对口头表达的补充。</text>
+  </g>
+  <g id="sc-reader" data-pptx-bounds="660 168 580 188">
+      <rect x="660" y="168" width="580" height="188" fill="#F4F1EA" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/book" x="680" y="188" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="722" y="212" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">读者主导</text>
+      <text x="680" y="256" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">自解释逻辑、明确上下文、</text>
+      <text x="680" y="284" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">更完整证据与可导航性。</text>
+  </g>
+  <g id="sc-hybrid" data-pptx-bounds="40 376 590 188">
+      <rect x="40" y="376" width="590" height="188" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="1.2"/>
+      <use data-icon="tabler-outline/arrows-shuffle" x="60" y="396" width="30" height="30" fill="#1A2B4A" stroke-width="2"/>
+      <text x="102" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">混合场景</text>
+      <text x="60" y="464" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">明确主要模式，用备注、附录或</text>
+      <text x="60" y="492" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">补充细节服务次要模式。</text>
+  </g>
+  <g id="sc-recorded" data-pptx-bounds="660 376 580 188">
+      <rect x="660" y="376" width="580" height="188" fill="#FFFFFF" stroke="#C8102E" stroke-width="1.5"/>
+      <use data-icon="tabler-outline/movie" x="680" y="396" width="30" height="30" fill="#C8102E" stroke-width="2"/>
+      <text x="722" y="420" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1A2B4A">录制或自动播放</text>
+      <text x="680" y="464" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">旁白、计时、转场、播放可靠性，</text>
+      <text x="680" y="492" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="22" fill="#22262B">以及不依赖现场讲者。</text>
+  </g>
+
+  <g id="warn" data-pptx-bounds="40 578 1200 74">
+    <text x="40" y="612" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" fill="#22262B">稀疏的演讲页当不了决策记录，密集的董事会页在大屏上讲不动——</text>
+    <text x="40" y="644" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" font-size="22" font-weight="bold" fill="#C8102E">必须先定主要场景，再决定信息密度与字体。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="40 674 1200 38">
+    <text x="40" y="696" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">P09 / 17</text>
+    <text x="1240" y="696" text-anchor="end" font-family="&quot;Microsoft YaHei&quot;, Consolas, monospace" font-size="16" fill="#5E7089">来源：Microsoft — 备注 / 讲义 · 旁白与计时 · 共享与共同创作</text>
+  </g>
+</svg>
