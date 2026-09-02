@@ -107,7 +107,9 @@
           "title": "may we endure",
           "desc": "但愿人长久，千里共婵娟。"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_mid_autumn_papercut/exports/mid_autumn_papercut.pptx",
+      "pptxNative": "examples/ppt169_mid_autumn_papercut/exports/mid_autumn_papercut_native_charts_tables.pptx"
     },
     {
       "id": "ppt169_attention_is_all_you_need",
@@ -203,7 +205,8 @@
           "title": "ending",
           "desc": "Attention is all you need — the rest was engineering"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_attention_is_all_you_need/exports/attention_is_all_you_need.pptx"
     },
     {
       "id": "ppt169_pritzker_2026_quick",
@@ -289,7 +292,8 @@
           "title": "ending",
           "desc": "所有传世的经典,皆源于日复一日的坚守"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_pritzker_2026_quick/exports/pritzker_2026_quick.pptx"
     },
     {
       "id": "ppt169_kubernetes_blueprint_2026",
@@ -375,7 +379,8 @@
           "title": "takeaways",
           "desc": "回顾:五句话记住这套架构"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_kubernetes_blueprint_2026/exports/kubernetes_blueprint_2026.pptx"
     },
     {
       "id": "xiaohongshu_song_diancha",
@@ -441,7 +446,8 @@
           "title": "color and legacy",
           "desc": "点成什么样才算好:纯白为上真"
         }
-      ]
+      ],
+      "pptx": "examples/xiaohongshu_song_diancha/exports/song_diancha_xhs.pptx"
     },
     {
       "id": "ppt43_wave_interference_diffraction",
@@ -563,7 +569,9 @@
           "title": "ending",
           "desc": "今天记住三句话"
         }
-      ]
+      ],
+      "pptx": "examples/ppt43_wave_interference_diffraction/exports/wave_interference_diffraction.pptx",
+      "pptxNative": "examples/ppt43_wave_interference_diffraction/exports/wave_interference_diffraction_native_charts_tables.pptx"
     },
     {
       "id": "ppt169_what_is_ppt",
@@ -669,7 +677,8 @@
           "title": "收尾",
           "desc": "先想清任务,工具才服务沟通"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_what_is_ppt/exports/what_is_ppt.pptx"
     },
     {
       "id": "ppt169_china_telecom_2025",
@@ -760,7 +769,9 @@
           "title": "closing",
           "desc": "以 Token 服务为经营主线 · 打造领先的 AI 服务商"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_china_telecom_2025/exports/china_telecom_2025.pptx",
+      "pptxNative": "examples/ppt169_china_telecom_2025/exports/china_telecom_2025_native_charts_tables.pptx"
     },
     {
       "id": "ppt169_pritzker_2026",
@@ -836,7 +847,8 @@
           "title": "epilogue",
           "desc": "epilogue"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_pritzker_2026/exports/pritzker_2026.pptx"
     },
     {
       "id": "ppt169_global_ai_capital_2026",
@@ -957,7 +969,8 @@
           "title": "closing",
           "desc": "closing"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_global_ai_capital_2026/exports/global_ai_capital_2026.pptx"
     },
     {
       "id": "ppt169_swiss_grid_systems",
@@ -1048,7 +1061,8 @@
           "title": "closing",
           "desc": "closing"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_swiss_grid_systems/exports/swiss_grid_systems.pptx"
     },
     {
       "id": "ppt169_glassmorphism_demo",
@@ -1129,7 +1143,8 @@
           "title": "cta closing",
           "desc": "cta closing"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_glassmorphism_demo/exports/glassmorphism_demo.pptx"
     },
     {
       "id": "ppt169_sugar_rush_memphis",
@@ -1220,7 +1235,8 @@
           "title": "closing",
           "desc": "closing"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_sugar_rush_memphis/exports/sugar_rush_memphis.pptx"
     },
     {
       "id": "ppt169_indie_bookstore_zine_guide",
@@ -1331,7 +1347,8 @@
           "title": "outro",
           "desc": "outro"
         }
-      ]
+      ],
+      "pptx": "examples/ppt169_indie_bookstore_zine_guide/exports/indie_bookstore_zine_guide.pptx"
     }
   ]
 }
