@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="section">
+  <defs>
+    <filter id="paperLift" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#05070F" flood-opacity="0.20"/>
+    </filter>
+    <linearGradient id="chapterField" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#1E2748" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#131A33" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+  <rect id="p07-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#chapterField)"/>
+  <image id="p07-moon" data-pptx-role="decoration" href="../images/moon_gibbous.png" x="1010" y="110" width="170" height="171" preserveAspectRatio="xMidYMid meet" filter="url(#paperLift)"/>
+  <image id="p07-mold" data-pptx-role="decoration" href="../images/cake_mold.png" x="982" y="424" width="300" height="282" preserveAspectRatio="xMidYMid meet"/>
+
+  <g id="p07-mark" data-pptx-bounds="140 204 296 212">
+    <image href="../images/letter_yuebing.png" x="140" y="210" width="284" height="200" preserveAspectRatio="xMidYMid meet" filter="url(#paperLift)"/>
+  </g>
+
+  <g id="p07-title" data-pptx-bounds="140 450 940 124">
+    <text x="140" y="500" font-family="KaiTi, Georgia, serif" font-size="52" fill="#E8B04B">二 · 饼：这个词比这个习俗早三百年</text>
+    <text x="140" y="556" font-size="28" fill="#B9C2D8">如果南宋人已经在吃月饼，他们为什么不在中秋送？</text>
+  </g>
+</svg>

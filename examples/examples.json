@@ -1,12 +1,114 @@
 {
   "version": 1,
-  "updated": "2026-08-29",
+  "updated": "2026-09-02",
   "stats": {
-    "examples": 13,
-    "pages": 190,
-    "templates": 13
+    "examples": 14,
+    "pages": 206,
+    "templates": 14
   },
   "projects": [
+    {
+      "id": "ppt169_mid_autumn_papercut",
+      "title": "中秋：一枚月饼里的八百年",
+      "description": "中秋节文化叙事 16 页 — 剪纸夜色风,AI 剪纸插画切层 + 四幅题字 + 月相跨页 Morph,原生表格与备注动画,Default 路线纯题目生成",
+      "icon": "🌕",
+      "color": "#131A33",
+      "style": "creative",
+      "styleName": "Paper-cut Night",
+      "desc": "A sixteen-page cultural narrative on the Mid-Autumn Festival in three acts — how a Zhou ritual became a Song festival, how the mooncake got its name and its five regional crusts, and where the three moon legends actually come from — told as layered cut paper on a deep-indigo night. Six AI illustration sheets were generated in-pipeline and sliced into thirty-three transparent paper layers (moon phases, clouds, osmanthus, the legends' figures, lanterns, the fire dragon, five mooncakes and a wooden mould), three derivatives were tone-matched to the palette, and four brush-cut lettering marks sit beside their native titles. The moon changes phase and position across the deck and is carried by three Morph transitions; the mooncake comparison is a native table. Generated on the Default runtime from a bare topic with topic research, speaker notes and restrained entrance choreography.",
+      "tags": [
+        "Culture",
+        "Paper-cut",
+        "AI Illustration",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_mid_autumn_papercut/svg_final",
+      "generatedAt": "2026-09-02",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "一枚月饼里的八百年"
+        },
+        {
+          "file": "02_why_fifteenth.svg",
+          "title": "why fifteenth",
+          "desc": "三秋恰半，蟾兔正圆"
+        },
+        {
+          "file": "03_chapter_origin.svg",
+          "title": "chapter origin",
+          "desc": "一 · 起：从一场祭仪到一个节日"
+        },
+        {
+          "file": "04_zhou_ritual_tang_poems.svg",
+          "title": "zhou ritual tang poems",
+          "desc": "先有「中秋夜迎寒」，一千年后才有赏月的诗"
+        },
+        {
+          "file": "05_kaifeng_night.svg",
+          "title": "kaifeng night",
+          "desc": "至午未间，家家无酒，拽下望子"
+        },
+        {
+          "file": "06_linan_all_night.svg",
+          "title": "linan all night",
+          "desc": "虽陋巷贫窭之人……不肯虚度"
+        },
+        {
+          "file": "07_chapter_cake.svg",
+          "title": "chapter cake",
+          "desc": "二 · 饼：这个词比这个习俗早三百年"
+        },
+        {
+          "file": "08_menu_to_token.svg",
+          "title": "menu to token",
+          "desc": "南宋菜单上的点心，怎么变成一饼值数百钱"
+        },
+        {
+          "file": "09_five_schools.svg",
+          "title": "five schools",
+          "desc": "差别不在馅，在饼皮怎么起"
+        },
+        {
+          "file": "10_chapter_legends.svg",
+          "title": "chapter legends",
+          "desc": "三 · 说：月亮里的三个人，来自三本书"
+        },
+        {
+          "file": "11_change_e.svg",
+          "title": "change e",
+          "desc": "《淮南子》里没有蟾蜍"
+        },
+        {
+          "file": "12_wugang_rabbit.svg",
+          "title": "wugang rabbit",
+          "desc": "树创随合，长跪捣药"
+        },
+        {
+          "file": "13_one_night_many_ways.svg",
+          "title": "one night many ways",
+          "desc": "同一个晚上，有人扎火龙，有人掷骰子"
+        },
+        {
+          "file": "14_heritage_listing.svg",
+          "title": "heritage listing",
+          "desc": "同一个编号 Ⅹ-5，写着五个地方的名字"
+        },
+        {
+          "file": "15_statutory_holiday.svg",
+          "title": "statutory holiday",
+          "desc": "法定是一天，我们过的是三天"
+        },
+        {
+          "file": "16_may_we_endure.svg",
+          "title": "may we endure",
+          "desc": "但愿人长久，千里共婵娟。"
+        }
+      ]
+    },
     {
       "id": "ppt169_attention_is_all_you_need",
       "title": "Attention Is All You Need",

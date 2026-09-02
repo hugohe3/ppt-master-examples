@@ -1,0 +1,604 @@
+{
+  "version": 1,
+  "defaults": {
+    "animation": {
+      "trigger": "after-previous",
+      "stagger": 0.12
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "p01-moon": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.9
+            }
+          ]
+        },
+        "cover-mark": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.5,
+              "effect_options": {
+                "direction": "down"
+              }
+            }
+          ]
+        },
+        "cover-title": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.55,
+              "effect_options": {
+                "direction": "right"
+              },
+              "delay": 0.15
+            }
+          ]
+        },
+        "cover-meta": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "02_why_fifteenth": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "01_cover",
+        "pairs": {
+          "moon": {
+            "from": "p01-moon",
+            "to": "p02-moon-window"
+          }
+        }
+      },
+      "groups": {
+        "p02-reasons": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 1,
+              "duration": 0.6,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p02-tang-quote": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.6,
+              "delay": 0.2
+            }
+          ]
+        },
+        "p02-date-note": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "03_chapter_origin": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "02_why_fifteenth",
+        "pairs": {
+          "moon": {
+            "from": "p02-moon-window",
+            "to": "p03-moon"
+          }
+        }
+      },
+      "groups": {
+        "p03-mark": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 1,
+              "duration": 0.5,
+              "effect_options": {
+                "direction": "down"
+              }
+            }
+          ]
+        },
+        "p03-title": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.55,
+              "effect_options": {
+                "direction": "right"
+              },
+              "delay": 0.1
+            }
+          ]
+        }
+      }
+    },
+    "04_zhou_ritual_tang_poems": {
+      "groups": {
+        "p04-stages": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 1,
+              "duration": 0.9,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p04-evidence": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.5,
+              "delay": 0.2
+            }
+          ]
+        },
+        "p04-scenes": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "07_chapter_cake": {
+      "groups": {
+        "p07-mark": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 1,
+              "duration": 0.5,
+              "effect_options": {
+                "direction": "down"
+              }
+            }
+          ]
+        },
+        "p07-title": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.55,
+              "effect_options": {
+                "direction": "right"
+              },
+              "delay": 0.1
+            }
+          ]
+        }
+      }
+    },
+    "08_menu_to_token": {
+      "groups": {
+        "p08-step-1-unit": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 1,
+              "duration": 0.45,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p08-step-2-unit": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.45,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p08-step-3-unit": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.45,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p08-step-4-unit": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.45,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p08-cakes": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        },
+        "p08-note": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 6,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "10_chapter_legends": {
+      "groups": {
+        "p10-mark": {
+          "effects": [
+            {
+              "effect": "entrance_circle",
+              "order": 1,
+              "duration": 1.0,
+              "effect_options": {
+                "direction": "out"
+              }
+            }
+          ]
+        },
+        "p10-title": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.55,
+              "effect_options": {
+                "direction": "right"
+              },
+              "delay": 0.15
+            }
+          ]
+        }
+      }
+    },
+    "11_change_e": {
+      "groups": {
+        "p11-claim-popular": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "p11-claim-checked": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.5,
+              "effect_options": {
+                "direction": "right"
+              },
+              "delay": 0.35
+            }
+          ]
+        },
+        "p11-symbols": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.5,
+              "trigger": "with-previous"
+            }
+          ]
+        },
+        "p11-lineage": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.8,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p11-note": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.45
+            }
+          ]
+        }
+      }
+    },
+    "13_one_night_many_ways": {
+      "groups": {
+        "p13-dragon": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.7
+            }
+          ]
+        },
+        "p13-tower": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.4,
+              "effect_options": {
+                "direction": "down"
+              }
+            }
+          ]
+        },
+        "p13-pole": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.4,
+              "effect_options": {
+                "direction": "down"
+              }
+            }
+          ]
+        },
+        "p13-dice": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.4,
+              "effect_options": {
+                "direction": "down"
+              }
+            }
+          ]
+        },
+        "p13-walk": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 5,
+              "duration": 0.4,
+              "effect_options": {
+                "direction": "down"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "14_heritage_listing": {
+      "groups": {
+        "p14-hero": {
+          "effects": [
+            {
+              "effect": "entrance_expand",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "p14-entries": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.9,
+              "effect_options": {
+                "direction": "down"
+              }
+            }
+          ]
+        },
+        "p14-rabbit-lord": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "p14-note": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "15_statutory_holiday": {
+      "groups": {
+        "p15-timeline": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 1,
+              "duration": 1.0,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p15-caveat-block": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "order": 2,
+              "duration": 0.5,
+              "effect_options": {
+                "direction": "up"
+              }
+            }
+          ]
+        },
+        "p15-kpis": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.6,
+              "delay": 0.2
+            }
+          ]
+        },
+        "p15-note": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "16_may_we_endure": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 1.2
+      },
+      "morph": {
+        "from": "15_statutory_holiday",
+        "pairs": {
+          "moon": {
+            "from": "p15-moon",
+            "to": "p16-moon"
+          }
+        }
+      },
+      "groups": {
+        "p16-preface": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "p16-quote": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.9,
+              "effect_options": {
+                "direction": "right"
+              }
+            }
+          ]
+        },
+        "p16-context": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "p16-takeaway": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.6,
+              "delay": 0.3
+            }
+          ]
+        },
+        "p16-mark": {
+          "effects": [
+            {
+              "effect": "entrance_expand",
+              "order": 5,
+              "duration": 0.6,
+              "delay": 0.4
+            }
+          ]
+        },
+        "p16-source": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 6,
+              "duration": 0.35
+            }
+          ]
+        }
+      }
+    }
+  }
+}

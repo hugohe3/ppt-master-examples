@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="paperLift" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#05070F" flood-opacity="0.20"/>
+    </filter>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+
+  <g id="p08-header" data-pptx-bounds="72 74 1000 100">
+    <text x="72" y="112" font-family="KaiTi, Georgia, serif" font-size="42" fill="#F2ECE0">南宋菜单上的点心，怎么变成一饼值数百钱</text>
+    <text x="72" y="158" font-size="28" fill="#B9C2D8">被写进历史的顺序是：先有词，后有俗，再有价</text>
+  </g>
+
+  <g id="p08-step-1-unit" data-pptx-bounds="72 206 566 90">
+    <g id="p08-step-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="72 210 560 82" fill="#1E2748" stroke="none">
+<path d="M 72 210 L 618.33 210 L 632 223.67 L 632 292 L 72 292 Z"/>
+</g>
+    <text x="100" y="242" font-size="20" font-weight="bold" fill="#E8B04B">南宋 · 《梦粱录》卷十六</text>
+    <text x="100" y="276" font-size="24" fill="#F2ECE0">「四时皆有，任便索唤」——只是市井小吃</text>
+  </g>
+  <g id="p08-step-2-unit" data-pptx-bounds="72 296 646 90">
+    <g id="p08-step-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="72 300 640 82" fill="#232D57" stroke="none">
+<path d="M 72 300 L 698.33 300 L 712 313.67 L 712 382 L 72 382 Z"/>
+</g>
+    <text x="100" y="332" font-size="20" font-weight="bold" fill="#E8B04B">南宋 · 《武林旧事》</text>
+    <text x="100" y="366" font-size="24" fill="#F2ECE0">列于临安五十余种蒸食之中，仍不属任何节日</text>
+  </g>
+  <g id="p08-step-3-unit" data-pptx-bounds="72 386 726 90">
+    <g id="p08-step-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="72 390 720 82" fill="#293466" stroke="none">
+<path d="M 72 390 L 778.33 390 L 792 403.67 L 792 472 L 72 472 Z"/>
+</g>
+    <text x="100" y="422" font-size="20" font-weight="bold" fill="#E8B04B">明代 · 《西湖游览志余》</text>
+    <text x="100" y="456" font-size="24" fill="#F2ECE0">「民间以月饼相遗，<tspan font-weight="bold" fill="#E8B04B">取团圆之义</tspan>」——时间、行为、意义齐了</text>
+  </g>
+  <g id="p08-step-4-unit" data-pptx-bounds="72 476 806 90">
+    <g id="p08-step-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="72 480 800 82" fill="#2F3B75" stroke="none" filter="url(#paperLift)">
+<path d="M 72 480 L 858.33 480 L 872 493.67 L 872 562 L 72 562 Z"/>
+</g>
+    <text x="100" y="512" font-size="20" font-weight="bold" fill="#E8B04B">明万历 · 《宛署杂记》 / 明末 · 《帝京景物略》</text>
+    <text x="100" y="546" font-size="24" fill="#F2ECE0">「有一饼值<tspan font-weight="bold" fill="#E8B04B">数百钱</tspan>者」；「饼有径二尺者」——成了社交货币</text>
+  </g>
+
+  <g id="p08-cakes" data-pptx-bounds="920 208 200 412">
+    <image href="../images/cake_su.png" x="930" y="214" width="180" height="144" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/cake_jing.png" x="930" y="430" width="180" height="177" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p08-note" data-pptx-bounds="72 588 840 42">
+    <text x="72" y="614" font-size="18" fill="#7FA8C9">「月饼」一词，比「中秋送月饼」这件事早了约三百年</text>
+  </g>
+</svg>

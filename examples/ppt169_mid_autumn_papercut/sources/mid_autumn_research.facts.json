@@ -1,0 +1,646 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "中秋节（Mid-Autumn Festival）文化史",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "中秋节起源于远古敬月习俗；周代已有「中秋夜迎寒」「中秋献良裘」「秋分夕月（拜月）」的活动。",
+      "source_title": "中秋节 - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+      "source_url": "https://www.ihchina.cn/Article/Index/detail?id=14931",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "中秋节又称「月夕」「秋节」「仲秋节」「八月节」，时在农历八月十五，此夜月亮最大最圆最亮。",
+      "source_title": "中秋节 - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+      "source_url": "https://www.ihchina.cn/Article/Index/detail?id=14931",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "唐代将中秋与嫦娥、吴刚等神话结合，使之充满浪漫色彩，赏月之风方才大兴。",
+      "source_title": "中秋节 - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+      "source_url": "https://www.ihchina.cn/Article/Index/detail?id=14931",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "北宋时期「定八月十五为中秋节」，中秋由祭月礼俗转为固定节日。",
+      "source_title": "中秋节 - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+      "source_url": "https://www.ihchina.cn/Article/Index/detail?id=14931",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "中秋节的相关器物与作品包括月亮神马、月饼模子、月饼食品、兔爷、蟋蟀罐、蝈蝈笼等。",
+      "source_title": "中秋节 - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+      "source_url": "https://www.ihchina.cn/Article/Index/detail?id=14931",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "中秋节与春节、清明节、端午节并称为中国四大传统节日。",
+      "source_title": "节庆丨中秋：海上生明月，天涯共此时 - 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/news_1_details/23991.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "明末文学家冯梦龙《醒世恒言》中有「月到中秋分外明」之句。",
+      "source_title": "节庆丨中秋：海上生明月，天涯共此时 - 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/news_1_details/23991.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "四万余首《全唐诗》中，写八月十五赏月的诗共111首，出自65位诗人之手，可见唐代文人士大夫阶层已广泛流行八月十五赏月。",
+      "source_title": "《全唐诗》里的中秋节俗（宋俊丽），光明日报2014年9月3日",
+      "source_url": "https://epaper.gmw.cn/gmrb/html/2014-09/03/nw.D110000gmrb_20140903_1-12.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "唐人欧阳詹《玩月》诗序解释八月十五宜赏月之理：「稽于天道，则寒暑均，取于月数，则蟾兔圆……埃尘不流，太空悠悠，婵娟徘徊，桂华上浮。」",
+      "source_title": "《全唐诗》里的中秋节俗（宋俊丽），光明日报2014年9月3日",
+      "source_url": "https://epaper.gmw.cn/gmrb/html/2014-09/03/nw.D110000gmrb_20140903_1-12.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "唐代中秋赏月的具体场景包括寺院与观星台赏月、泛舟水滨、登山望月、值宿宫禁中观月、置酒赋诗联句，以及借月思念远人。",
+      "source_title": "《全唐诗》里的中秋节俗（宋俊丽），光明日报2014年9月3日",
+      "source_url": "https://epaper.gmw.cn/gmrb/html/2014-09/03/nw.D110000gmrb_20140903_1-12.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "北宋孟元老《东京梦华录》卷八「中秋」条载：「中秋节前，诸店皆卖新酒，重新结络门面彩楼花头，画竿醉仙锦旆。市人争饮，至午未间，家家无酒，拽下望子。」",
+      "source_title": "東京夢華錄/卷八 - 维基文库",
+      "source_url": "https://zh.wikisource.org/zh-hans/%E6%9D%B1%E4%BA%AC%E5%A4%A2%E8%8F%AF%E9%8C%84/%E5%8D%B7%E5%85%AB",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "《东京梦华录》卷八「中秋」条载北宋开封中秋夜市景象：「中秋夜，贵家结饰台榭，民间争占酒楼玩月。丝篁鼎沸，近内庭居民，夜深遥闻笙竽之声，宛若云外。闾里儿童，连宵嬉戏。夜市骈阗，至于通晓。」",
+      "source_title": "東京夢華錄/卷八 - 维基文库",
+      "source_url": "https://zh.wikisource.org/zh-hans/%E6%9D%B1%E4%BA%AC%E5%A4%A2%E8%8F%AF%E9%8C%84/%E5%8D%B7%E5%85%AB",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "《东京梦华录》卷八「中秋」条前后依次为四月八日、端午、七夕、中元节、立秋、秋社、中秋、重阳，中秋已与其他岁时节日并列成条。",
+      "source_title": "東京夢華錄/卷八 - 维基文库",
+      "source_url": "https://zh.wikisource.org/zh-hans/%E6%9D%B1%E4%BA%AC%E5%A4%A2%E8%8F%AF%E9%8C%84/%E5%8D%B7%E5%85%AB",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "南宋吴自牧《梦粱录》卷四「中秋」条开篇释名：「八月十五日中秋节，此日三秋恰半，故谓之『中秋』。此夜月色倍明于常时，又谓之『月夕』。」",
+      "source_title": "卷四 | 梦粱录 | 丛沓藏书",
+      "source_url": "https://www.congta.com/shu/c/CXvwSgIn",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "《梦粱录》卷四载南宋临安中秋贵贱同乐：「王孙公子，富家巨室，莫不登危楼，临轩玩月……至如铺席之家，亦登小小月台，安排家宴，团子女，以酬佳节。虽陋巷贫窭之人，解衣市酒，勉强迎欢，不肯虚度。」",
+      "source_title": "卷四 | 梦粱录 | 丛沓藏书",
+      "source_url": "https://www.congta.com/shu/c/CXvwSgIn",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "《梦粱录》卷四载临安中秋夜通宵不禁：「此夜天街卖买，直到五鼓，玩月游人，婆娑于市，至晚不绝。盖金吾不禁故也。」",
+      "source_title": "卷四 | 梦粱录 | 丛沓藏书",
+      "source_url": "https://www.congta.com/shu/c/CXvwSgIn",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "「月饼」一词最早见于南宋吴自牧《梦粱录》卷十六「荤素从食店」条，与芙蓉饼、菊花饼、开炉饼并列，且「四时皆有，任便索唤」，当时只是市井小吃，并未与特定节日绑定。",
+      "source_title": "最早见于《梦粱录》：“月饼”的前世与今生 - 中新网",
+      "source_url": "https://www.chinanews.com/cul/2021/09-18/9568532.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "同时代周密《武林旧事》记南宋临安有五十余种蒸食，月饼与春茧、荷叶饼、大包子、羊肉馒头等并列其中。",
+      "source_title": "最早见于《梦粱录》：“月饼”的前世与今生 - 中新网",
+      "source_url": "https://www.chinanews.com/cul/2021/09-18/9568532.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "明代田汝成《西湖游览志余》载：「八月十五日谓之中秋，民间以月饼相遗，取团圆之义。」这是月饼与中秋团圆之义相连的明确记载。",
+      "source_title": "最早见于《梦粱录》：“月饼”的前世与今生 - 中新网",
+      "source_url": "https://www.chinanews.com/cul/2021/09-18/9568532.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "明代沈榜《宛署杂记》「八月馈月饼」条载：「士庶家俱以是月造面饼相遗，大小不等，呼为月饼。市肆至以果为馅，巧名异状，有一饼值数百钱者。」",
+      "source_title": "“月饼”的前世今生 - 北京市文化和旅游局官方网站 visitbeijing",
+      "source_url": "https://www.visitbeijing.com.cn/article/47Qosw57qXe",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "《宛署杂记》是沈榜于明万历年间完成的宛平县志，为最早的北京地方史之一。",
+      "source_title": "“月饼”的前世今生 - 北京市文化和旅游局官方网站 visitbeijing",
+      "source_url": "https://www.visitbeijing.com.cn/article/47Qosw57qXe",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "明代刘侗、于奕正《帝京景物略》记明末北京中秋月饼之大：「饼有径二尺者。」",
+      "source_title": "最早见于《梦粱录》：“月饼”的前世与今生 - 中新网",
+      "source_url": "https://www.chinanews.com/cul/2021/09-18/9568532.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "西汉《淮南子·览冥训》原文作：「譬若羿請不死之藥於西王母，姮娥竊以奔月，悵然有喪，無以續之。」这是嫦娥奔月现存最早的完整记载。",
+      "source_title": "淮南子/覽冥訓 - 维基文库",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%B7%AE%E5%8D%97%E5%AD%90/%E8%A6%BD%E5%86%A5%E8%A8%93",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "《淮南子·览冥训》该段用字为「姮娥」而非「嫦娥」，且全段不含「蟾蜍」——化蟾之说不出于《淮南子》。",
+      "source_title": "淮南子/覽冥訓 - 维基文库",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%B7%AE%E5%8D%97%E5%AD%90/%E8%A6%BD%E5%86%A5%E8%A8%93",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "嫦娥化蟾之说出自东汉张衡《灵宪》：「羿请不死之药于西王母，姮娥窃之以奔月……姮娥遂托身于月，是为蟾蜍。」",
+      "source_title": "藏在古籍里的真相：嫦娥是谁？ - 中国作家网",
+      "source_url": "http://www.chinawriter.com.cn/n1/2018/0924/c404063-30310001.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "比《淮南子》更早的出处是《归藏易》；刘勰《文心雕龙·诸子》称该书「乃称羿毙十日，恒娥奔月」。",
+      "source_title": "藏在古籍里的真相：嫦娥是谁？ - 中国作家网",
+      "source_url": "http://www.chinawriter.com.cn/n1/2018/0924/c404063-30310001.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "1993年出土的秦简《归藏易·归妹》仅存两枚残简，内容为：「昔者恒我窃毋死之……奔月，而攴占……」",
+      "source_title": "藏在古籍里的真相：嫦娥是谁？ - 中国作家网",
+      "source_url": "http://www.chinawriter.com.cn/n1/2018/0924/c404063-30310001.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "刘安编《淮南子》时避汉文帝刘恒之讳，将「恒」改作「嫦」，「恒我」遂演变为「嫦娥」与「姮娥」，后人混用之。",
+      "source_title": "藏在古籍里的真相：嫦娥是谁？ - 中国作家网",
+      "source_url": "http://www.chinawriter.com.cn/n1/2018/0924/c404063-30310001.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "吴刚伐桂之说始见于唐人段成式《酉阳杂俎》：「旧言月中有桂，有蟾蜍，故异书言月桂高五百丈，下有一人常斫之，树创随合。人姓吴名刚，西河人，学仙有过，谪令伐树。」",
+      "source_title": "那棵月桂树斫不斫（朱美禄），光明日报2016年9月16日08版",
+      "source_url": "https://epaper.gmw.cn/gmrb/html/2016-09/16/nw.D110000gmrb_20160916_2-08.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "「月中有桂」的更早记载见于晋代虞喜《安天论》：「俗传月中仙人桂树。今视其初生，见仙人之足；渐已成形，桂树后生焉。」",
+      "source_title": "那棵月桂树斫不斫（朱美禄），光明日报2016年9月16日08版",
+      "source_url": "https://epaper.gmw.cn/gmrb/html/2016-09/16/nw.D110000gmrb_20160916_2-08.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "玉兔捣药的传说见于汉乐府《董逃行》，复旦大学上海医学院科普文引作：「玉兔长跪捣药蛤蟆丸，奉上陛下一玉盘，服此药可得神仙。」兔所捣者为「蛤蟆丸」。",
+      "source_title": "尚医科普丨月宫玉兔究竟捣的是什么药？ - 复旦大学上海医学院",
+      "source_url": "https://shmc.fudan.edu.cn/news/2024/0924/c1893a142270/page.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "GB/T 19855—2023《月饼质量通则》（英文名 General quality for moon cake）发布日期2023-09-07，实施日期2024-04-01，全部代替GB/T 19855—2015，归口单位为全国焙烤制品标准化技术委员会，状态为现行。",
+      "source_title": "月饼质量通则 - 全国标准信息公共服务平台",
+      "source_url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=053404E3EEA38F91E06397BE0A0A9209",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "GB/T 19855 对「月饼」的定义：使用小麦粉等谷物粉和/或食用淀粉、薯类粉、豆类、食用油脂等为原料，添加（或不添加）糖制成饼皮，包裹各种馅料，经加工而成，主要在中秋节食用的传统节日糕点。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "GB/T 19855 按加工工艺将月饼分为四类：烘烤类、油炸类、蒸煮类、熟粉类。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "GB/T 19855 按地方派式特色将月饼分为九类：广式、京式、苏式、潮式、滇式、晋式、琼式、台式、哈式。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "广式月饼定义：以广东地区制作工艺和风味特色为代表，以小麦粉等谷物粉、食用油脂等为原料，添加或不添加糖浆制成饼皮，经包馅、成形、刷蛋或植物蛋白液、烘烤等工艺制成的口感柔软的月饼；代表品种有广式蓉沙月饼、广式果仁月饼、广式蛋黄月饼。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "京式月饼定义：以北京地区制作工艺和风味特色为代表，以小麦粉、食用油脂等为原料，使用提浆工艺制作糖浆皮面团，或以糖、水、油、小麦粉等制成松酥皮或酥皮面团，经包馅、成型、烘烤制成的口感松酥或松软的月饼；代表品种有京式提浆月饼、京式自来白月饼、京式自来红月饼、京式大酥皮（翻毛）月饼。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "苏式月饼定义：以苏州地区制作工艺和风味特色为代表，以小麦粉、糖、食用油脂等制成饼皮，小麦粉、食用油脂等制酥，经制酥皮、包馅、成型、烘烤制成具有酥层且口感松酥的月饼；代表品种有苏式蓉沙月饼、苏式果仁月饼、苏式果蔬月饼。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "潮式月饼定义：以潮汕地区制作工艺和风味特色为代表，以小麦粉或食用淀粉及其制品、食用油脂等为原料，添加或不添加糖（或糖浆）制成饼皮，包裹各种馅料加工制成；代表品种有潮式酥皮月饼、潮式水晶皮月饼、潮式奶油皮月饼。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "滇式月饼定义：以云南地区制作工艺和风味特色为代表，以小麦粉和/或杂粮粉、食用油脂等为原料制成饼皮，以云腿肉、果仁、食用花卉、食用菌等的一种或几种为馅料，经烘烤等工艺制成；代表品种有滇式云腿月饼、滇式食用花卉月饼。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "GB/T 19855 规定果仁馅中果仁总添加量应不低于20%；仅使用核桃仁、杏仁、橄榄仁、瓜子仁、芝麻仁五种果仁为主要原料并按广东地区工艺制成的，方可称为「广式五仁月饼」。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "GB/T 19855 规定莲蓉馅中除油、糖、水外莲子添加量为100%的可称「纯莲蓉月饼」，莲子添加量不低于60%的可称「莲蓉月饼」。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "GB/T 19855 由中国商业联合会提出，起草单位包括广州酒家集团利口福、北京稻香村、苏州稻香村、杏花楼、五芳斋、哈尔滨老鼎丰等六十余家企业与检测机构。",
+      "source_title": "GB/T 19855《月饼质量通则》（报批稿）",
+      "source_url": "https://m.cqn.com.cn/zj/att/2023-07/11/a922eb59-0887-4373-9698-6744ab50c285.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "国务院《关于公布第一批国家级非物质文化遗产名录的通知》文号为国发〔2006〕18号，发布日期为二〇〇六年五月二十日，名录共计518项，分十个类别，其中民俗类70项。",
+      "source_title": "国务院关于公布第一批国家级非物质文化遗产名录的通知（国发〔2006〕18号）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/zhengce_details/11546",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "中秋节的国家级非遗项目编号为Ⅹ-5，项目序号453，类别为民俗，公布批次为2006年第一批，申报单位为文化部，保护单位为文化和旅游部。",
+      "source_title": "中秋节 - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+      "source_url": "https://www.ihchina.cn/Article/Index/detail?id=14931",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "中秋节（中秋博饼）为Ⅹ-5、项目序号453、民俗类，2008年第二批公布，申报地区为福建省厦门市，保护单位为厦门市中秋民俗文化研究会。",
+      "source_title": "中秋节（中秋博饼）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14932",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "博饼玩法为参加者以六个骰子轮流投掷，博取状元、榜眼、探花、进士、举人、秀才六个等第，并按等第获取大小不同的月饼。",
+      "source_title": "中秋节（中秋博饼）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14932",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "中秋博饼习俗源于福建厦门，盛行于漳州的龙海、泉州的安海和金门县等地，清代康乾时期的《台湾府志》曾有相关记载；鸦片战争后随厦门港口地位提升，由家庭游戏发展为亲友乃至社会群体的游戏。",
+      "source_title": "中秋节（中秋博饼）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14932",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "中秋节（泽州中秋习俗）为Ⅹ-5、项目序号453、民俗类，2011年第三批公布，申报地区为山西省泽州县，保护单位为泽州县民间习俗研究会。",
+      "source_title": "中秋节（泽州中秋习俗）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14934",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F050",
+      "claim": "泽州珏山被誉为「中国赏月名山」，以「珏山吐月」景观闻名；至宋金时代当地中秋祭月、拜月、赏月之风已盛行，核心仪式为祭月拜月，当地称拜「月婆婆」，另有看望外祖母、吟诗颂月、举办庙会等活动。",
+      "source_title": "中秋节（泽州中秋习俗）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14934",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F051",
+      "claim": "中秋节（秋夕）为Ⅹ-5、项目序号453、民俗类，2011年第三批公布，申报地区为吉林省延边朝鲜族自治州，保护单位为延边文化艺术研究中心（延边非物质文化遗产保护中心）。",
+      "source_title": "中秋节（秋夕）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14935.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F052",
+      "claim": "秋夕曾是朝鲜民族「一年最重之名节」，主要活动包括祭祖扫墓、用新收谷物制作打糕和松饼、宰牛备酒，以及秋千、跳板、摔跤等民俗活动，节期延续数日。",
+      "source_title": "中秋节（秋夕）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14935.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F053",
+      "claim": "中秋节（大坑舞火龙）为Ⅹ-5、项目序号453、民俗类，2011年第三批公布，申报地区为香港特别行政区，保护单位为大坑坊众福利会。",
+      "source_title": "中秋节（大坑舞火龙）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14936",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F054",
+      "claim": "大坑舞火龙起源：相传在光绪六年（1880），大坑发生瘟疫，村民扎做一条火龙巡游社区、燃放爆竹以驱除瘟疫，由此形成传统。",
+      "source_title": "中秋节（大坑舞火龙）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14936",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F055",
+      "claim": "大坑舞火龙于中秋节前后三个晚上举行：农历八月十四晚在莲花宫进行开光仪式，连续三晚巡游；八月十六晚举行「游大运」仪式后将火龙投入海中，称「龙归天」。",
+      "source_title": "中秋节（大坑舞火龙）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14936",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F056",
+      "claim": "大坑舞火龙的做法是在龙骨内插满点燃的线香，于中秋期间连续三晚巡游社区。",
+      "source_title": "海上生明月，天涯共此时——各地中秋习俗 - 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/10215",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F057",
+      "claim": "江西烧塔习俗流行于赣州、吉安、萍乡、上饶等地，尤以安福县为盛，与南汉时期「斗灯竞月」筑塔燃烧相关；流程分垒塔（以碎瓦叠成六角塔）、烧塔（以柚子、月饼供祭后点火）、封塔（子夜后放爆竹收束）三段。",
+      "source_title": "海上生明月，天涯共此时——各地中秋习俗 - 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/10215",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F058",
+      "claim": "广东佛山秋色相传起自两晋，由童子舞草龙庆丰收演变而来，分灯色、车色、马色、飘色、地色、水色、景色七类。",
+      "source_title": "海上生明月，天涯共此时——各地中秋习俗 - 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/10215",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F059",
+      "claim": "朝鲜族秋夕的核心内容包括茶礼（清晨家族祭祖）、省墓（自古被视为最重要的扫墓日）、荐新（以新米糕与新果荐于祖先）、民俗游戏（男子摔跤、女子荡秋千）与节日食品（牛肉、松饼、米酒）。",
+      "source_title": "海上生明月，天涯共此时——各地中秋习俗 - 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/10215",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F060",
+      "claim": "泥塑（北京兔儿爷）的国家级非遗项目编号为Ⅶ-47，项目序号346，类别为传统美术，2014年第四批公布，申报地区为北京市朝阳区，保护单位为北京汉唐双起翔文化传播有限公司。",
+      "source_title": "泥塑（北京兔儿爷）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14052.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F061",
+      "claim": "兔儿爷的产生与中秋拜月民俗密切相关，明清时期玉兔逐渐在祭月崇拜中形成独立形象；造型为兔首人身，着韦陀菩萨红袍、披金盔金甲的武将装束，手持捣药杵，或骑象、麒麟、虎、狮、鹿，工艺上素有「三分塑七分彩」之说。",
+      "source_title": "泥塑（北京兔儿爷）- 中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/project_details/14052.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F062",
+      "claim": "燃灯习俗：湖广一带习惯用瓦片叠于塔上燃灯，称为「瓦子灯」；江南有灯船；近代广东燃灯尤盛。广东、香港等地另有「树中秋」（又称「竖中秋」），将各式彩灯竖于高杆之上。",
+      "source_title": "中秋习俗知多少 - 北京市文化和旅游局官方网站 visitbeijing",
+      "source_url": "https://www.visitbeijing.com.cn/article/4EhDg2SAG5p",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F063",
+      "claim": "走月是中秋夜的户外社交习俗：人们衣着华美，三五结伴，或游街市，或泛舟，或登楼观赏月华；明代曾有望月楼、玩月桥等专门去处。",
+      "source_title": "中秋习俗知多少 - 北京市文化和旅游局官方网站 visitbeijing",
+      "source_url": "https://www.visitbeijing.com.cn/article/4EhDg2SAG5p",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F064",
+      "claim": "中秋饮桂花酒的习俗与吴刚伐桂的传说相连；祭月本为对「月神」的崇拜，后演变为赏月与庆月，寄托团圆与吉庆之愿。",
+      "source_title": "中秋习俗知多少 - 北京市文化和旅游局官方网站 visitbeijing",
+      "source_url": "https://www.visitbeijing.com.cn/article/4EhDg2SAG5p",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F065",
+      "claim": "南宋周密《武林旧事》卷三《观潮》开篇作「浙江之潮，天下之伟观也」，并记潮势「自既望以至十八日为盛」，即农历八月十六至十八为观潮最盛之期。",
+      "source_title": "观潮（周密）原文·译文 - 古诗文网",
+      "source_url": "https://www.gushiwen.cn/gushiwen_913f4c3c49.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F066",
+      "claim": "苏轼《水调歌头》小序为：「丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。」",
+      "source_title": "水调歌头·明月几时有（苏轼）原文·注释 - 古诗文网",
+      "source_url": "https://m.gushiwen.cn/shiwenv_632c5beb84eb.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F067",
+      "claim": "《水调歌头》上片原文：「明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。」",
+      "source_title": "水调歌头·明月几时有（苏轼）原文·注释 - 古诗文网",
+      "source_url": "https://m.gushiwen.cn/shiwenv_632c5beb84eb.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F068",
+      "claim": "《水调歌头》下片原文：「转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。」",
+      "source_title": "水调歌头·明月几时有（苏轼）原文·注释 - 古诗文网",
+      "source_url": "https://m.gushiwen.cn/shiwenv_632c5beb84eb.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F069",
+      "claim": "《水调歌头》作于公元1076年（北宋神宗熙宁九年）中秋，苏轼时在密州（今山东诸城）任太守；「丙辰」即熙宁九年，「子由」为苏轼之弟苏辙的字，「达旦」谓至天明。",
+      "source_title": "水调歌头·丙辰中秋（苏轼）原文·赏析 - 古诗文网",
+      "source_url": "https://www.gushiwen.cn/gushiwen_250297bdcd.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F070",
+      "claim": "苏轼因与王安石等变法者政见不同自求外放，1074年（熙宁七年）差知密州；作此词时与胞弟苏辙分别已七年未得团聚。",
+      "source_title": "水调歌头·丙辰中秋（苏轼）原文·赏析 - 古诗文网",
+      "source_url": "https://www.gushiwen.cn/gushiwen_250297bdcd.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F071",
+      "claim": "《全国年节及纪念日放假办法》于1949年12月23日由政务院发布，此后历经四次修订：1999年9月18日、2007年12月14日、2013年12月11日、2024年11月10日。",
+      "source_title": "全国年节及纪念日放假办法 - 国家行政法规库（司法部）",
+      "source_url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1737",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F072",
+      "claim": "2007年第二次修订由国务院令第513号公布，自2008年1月1日起施行，其中新增条款为「（六）中秋节，放假1天（农历中秋当日）」，中秋节自此成为中国内地法定节假日。",
+      "source_title": "国务院关于修改《全国年节及纪念日放假办法》的决定（2007年）- 维基文库",
+      "source_url": "https://zh.wikisource.org/wiki/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E4%BF%AE%E6%94%B9%E3%80%8A%E5%85%A8%E5%9B%BD%E5%B9%B4%E8%8A%82%E5%8F%8A%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%94%BE%E5%81%87%E5%8A%9E%E6%B3%95%E3%80%8B%E7%9A%84%E5%86%B3%E5%AE%9A_(2007%E5%B9%B4)",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F073",
+      "claim": "现行《全国年节及纪念日放假办法》第二条规定全体公民放假的节日为：元旦1天、春节4天、清明节1天、劳动节2天、端午节1天、中秋节1天（农历中秋当日）、国庆节3天。",
+      "source_title": "全国年节及纪念日放假办法 - 国家行政法规库（司法部）",
+      "source_url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1737",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F074",
+      "claim": "2024年第四次修订由国令第795号公布，经2024年11月8日国务院第45次常务会议通过，自2025年1月1日起施行；全体公民放假的假日增加2天（农历除夕、5月2日），中秋节法定假期仍为1天。",
+      "source_title": "国务院关于修改《全国年节及纪念日放假办法》的决定 - 中国政府网",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F075",
+      "claim": "《国务院办公厅关于2026年部分节假日安排的通知》（国办发明电〔2025〕7号，2025年11月4日发布）规定：中秋节「9月25日（周五）至27日（周日）放假，共3天」，即2026年中秋节为公历2026年9月25日。",
+      "source_title": "国务院办公厅关于2026年部分节假日安排的通知 - 中国政府网",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F076",
+      "claim": "2026年国庆节安排为「10月1日（周四）至7日（周三）放假调休，共7天。9月20日（周日）、10月10日（周六）上班」，与中秋节假期彼此分离，不相连。",
+      "source_title": "国务院办公厅关于2026年部分节假日安排的通知 - 中国政府网",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F077",
+      "claim": "文化和旅游部数据中心测算：2024年中秋节假期全国国内出游1.07亿人次，国内游客出游总花费510.47亿元，按可比口径较2019年同期分别增长6.3%和8.0%。",
+      "source_title": "2024年中秋节假期文化和旅游市场情况 - 中华人民共和国文化和旅游部",
+      "source_url": "https://www.mct.gov.cn/whzx/whyw/202409/t20240918_955318.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F078",
+      "claim": "文化和旅游部发布：2025年国庆中秋假日8天，全国国内出游8.88亿人次，国内出游总花费8090.06亿元，较2024年国庆节假日7天分别增加1.23亿人次和1081.89亿元。",
+      "source_title": "2025年国庆中秋假期国内出游8.88亿人次 - 中华人民共和国文化和旅游部",
+      "source_url": "https://www.mct.gov.cn/whzx/whyw/202510/t20251009_962532.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F079",
+      "claim": "2025年国庆中秋假期全国举办超2.9万场文旅活动，发放超4.8亿元消费补贴。",
+      "source_title": "2025年国庆中秋假期国内出游8.88亿人次 - 中华人民共和国文化和旅游部",
+      "source_url": "https://www.mct.gov.cn/whzx/whyw/202510/t20251009_962532.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    },
+    {
+      "fact_id": "F080",
+      "claim": "中国焙烤食品糖制品工业协会预计2024年中秋月饼产量约30万吨、销售额约200亿元，相比2023年持平或略有下降；全国月饼相关企业约1.89万家，广东省月饼生产企业数量居各省首位。",
+      "source_title": "今年中秋月饼产量预计30万吨 销售额200亿元左右 - 南方都市报",
+      "source_url": "https://m.mp.oeeee.com/a/BAAFRD000020240827991633.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-02"
+    }
+  ]
+}

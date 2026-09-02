@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="paperLift" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#05070F" flood-opacity="0.20"/>
+    </filter>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+
+  <g id="p14-header" data-pptx-bounds="72 74 1010 100">
+    <text x="72" y="112" font-family="KaiTi, Georgia, serif" font-size="42" fill="#F2ECE0">同一个编号 Ⅹ-5，写着五个地方的名字</text>
+    <text x="72" y="158" font-size="28" fill="#B9C2D8">一个主项加四个地方扩展项，不是一块笼统的牌子</text>
+  </g>
+
+  <g id="p14-hero" data-pptx-bounds="72 200 300 172">
+    <text x="72" y="284" font-family="Georgia, serif" font-size="88" font-weight="bold" fill="#E8B04B">Ⅹ-5</text>
+    <text x="72" y="324" font-size="18" fill="#B9C2D8">国家级非遗项目编号 · 民俗类<tspan x="72" dy="28">项目序号 453</tspan></text>
+  </g>
+
+  <g id="p14-entries" data-pptx-bounds="416 190 528 372">
+    <g id="p14-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="420 200 36 350" fill="none" stroke="#E8B04B" stroke-width="3">
+<path d="M 456 550 A 18 3 0 0 1 438 547 L 438 378 A 18 3 0 0 0 420 375 A 18 3 0 0 0 438 372 L 438 203 A 18 3 0 0 1 456 200 Z" stroke="none"/>
+<path d="M 456 550 A 18 3 0 0 1 438 547 L 438 378 A 18 3 0 0 0 420 375 A 18 3 0 0 0 438 372 L 438 203 A 18 3 0 0 1 456 200"/>
+</g>
+    <text x="478" y="236" font-size="20" font-weight="bold" fill="#F2ECE0">中秋节（主项）</text>
+    <text x="478" y="262" font-size="18" fill="#7FA8C9">2006 第一批 · 文化部申报 · 文旅部保护</text>
+    <text x="478" y="306" font-size="20" font-weight="bold" fill="#F2ECE0">中秋节（中秋博饼）</text>
+    <text x="478" y="332" font-size="18" fill="#7FA8C9">2008 第二批 · 福建省厦门市</text>
+    <text x="478" y="376" font-size="20" font-weight="bold" fill="#F2ECE0">中秋节（泽州中秋习俗）</text>
+    <text x="478" y="402" font-size="18" fill="#7FA8C9">2011 第三批 · 山西省泽州县 · 珏山吐月</text>
+    <text x="478" y="446" font-size="20" font-weight="bold" fill="#F2ECE0">中秋节（秋夕）</text>
+    <text x="478" y="472" font-size="18" fill="#7FA8C9">2011 第三批 · 吉林省延边朝鲜族自治州</text>
+    <text x="478" y="516" font-size="20" font-weight="bold" fill="#F2ECE0">中秋节（大坑舞火龙）</text>
+    <text x="478" y="542" font-size="18" fill="#7FA8C9">2011 第三批 · 香港特别行政区</text>
+  </g>
+
+  <g id="p14-rabbit-lord" data-pptx-bounds="980 190 228 434">
+    <image href="../images/rabbit_lord.png" x="1024" y="200" width="150" height="295" preserveAspectRatio="xMidYMid meet" filter="url(#paperLift)"/>
+    <text x="990" y="530" font-size="18" font-weight="bold" fill="#E8B04B">泥塑（北京兔儿爷）</text>
+    <text x="990" y="558" font-size="18" fill="#B9C2D8">是另一条目：Ⅶ-47<tspan x="990" dy="26">序号 346 · 传统美术</tspan><tspan x="990" dy="26">2014 年第四批公布</tspan></text>
+  </g>
+
+  <g id="p14-note" data-pptx-bounds="72 600 860 68">
+    <text x="72" y="624" font-size="18" fill="#7FA8C9">名录本体：国发〔2006〕18 号，2006 年 5 月 20 日公布第一批国家级非遗名录<tspan x="72" dy="28">共 518 项、十个类别，其中民俗类 70 项</tspan></text>
+  </g>
+</svg>

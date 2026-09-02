@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="paperLift" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#05070F" flood-opacity="0.20"/>
+    </filter>
+    <radialGradient id="moonHalo" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.45">
+      <stop offset="0%" stop-color="#E8B04B" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#E8B04B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+  <image id="p02-ridge" data-pptx-role="decoration" href="../images/mountain_ridge.png" x="690" y="332" width="520" height="160" preserveAspectRatio="xMidYMid meet"/>
+
+  <g id="p02-header" data-pptx-bounds="72 78 620 98">
+    <text x="72" y="118" font-family="KaiTi, Georgia, serif" font-size="42" fill="#F2ECE0">三秋恰半，蟾兔正圆</text>
+    <text x="72" y="160" font-size="28" fill="#B9C2D8">八月十五不是随意挑的日子</text>
+  </g>
+
+  <g id="p02-reasons" data-pptx-bounds="72 192 556 352">
+    <g id="p02-reason-sheet" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="72 196 552 344" fill="#1E2748" stroke="none" filter="url(#paperLift)">
+<path d="M 72 196 L 566.67 196 L 624 253.33 L 624 540 L 624 540 L 129.33 540 L 72 482.67 L 72 196 Z"/>
+</g>
+    <text x="104" y="236" font-size="18" fill="#7FA8C9">古人自己给过两条理由</text>
+    <text x="104" y="280" font-size="24" font-weight="bold" fill="#E8B04B">一 · 时序</text>
+    <text x="104" y="318" font-size="24" fill="#F2ECE0">《梦粱录》：「此日三秋恰半，<tspan x="104" dy="38">故谓之『中秋』」；月色倍明于</tspan><tspan x="104" dy="38">常时，又谓之「月夕」。</tspan></text>
+    <text x="104" y="438" font-size="24" font-weight="bold" fill="#E8B04B">二 · 天象</text>
+    <text x="104" y="476" font-size="24" fill="#F2ECE0">此夜月亮<tspan font-weight="bold" fill="#E8B04B">最大、最圆、最亮</tspan>；<tspan x="104" dy="38">别称还有秋节、仲秋节、八月节。</tspan></text>
+  </g>
+
+  <g id="p02-moon-window" data-pptx-bounds="784 144 320 312">
+    <circle cx="944" cy="300" r="152" fill="url(#moonHalo)"/>
+    <circle cx="944" cy="300" r="122" fill="#1E2748" filter="url(#paperLift)"/>
+    <image href="../images/moon_half.png" x="888" y="190" width="112" height="220" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p02-tang-quote" data-pptx-bounds="700 494 508 142">
+    <text x="700" y="532" font-family="KaiTi, Georgia, serif" font-size="34" fill="#F2ECE0">「稽于天道，则寒暑均；<tspan x="700" dy="46">取于月数，则蟾兔圆。」</tspan></text>
+    <text x="700" y="620" font-size="18" fill="#7FA8C9">唐 · 欧阳詹《玩月》诗序</text>
+  </g>
+
+  <g id="p02-date-note" data-pptx-bounds="72 572 560 42">
+    <text x="72" y="600" font-size="16" fill="#7FA8C9">2026 年中秋落在公历 9 月 25 日（国办发明电〔2025〕7 号）</text>
+  </g>
+</svg>

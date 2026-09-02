@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="paperLift" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#05070F" flood-opacity="0.20"/>
+    </filter>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+  <image id="p11-ghost" data-pptx-role="decoration" href="../images/changee_flight_scrim.png" x="930" y="110" width="400" height="335" preserveAspectRatio="xMidYMid meet"/>
+
+  <g id="p11-header" data-pptx-bounds="72 74 900 100">
+    <text x="72" y="112" font-family="KaiTi, Georgia, serif" font-size="42" fill="#F2ECE0">《淮南子》里没有蟾蜍</text>
+    <text x="72" y="158" font-size="28" fill="#B9C2D8">熟悉的嫦娥，是三部书叠加出来的形象</text>
+  </g>
+
+  <line id="p11-divider" data-pptx-role="decoration" x1="424" y1="210" x2="424" y2="386" stroke="#33406B" stroke-width="2" stroke-dasharray="4,4"/>
+
+  <g id="p11-claim-popular" data-pptx-bounds="72 206 344 184">
+    <rect x="72" y="210" width="340" height="176" fill="#1E2748"/>
+    <text x="100" y="246" font-size="20" font-weight="bold" fill="#7FA8C9">流行说法</text>
+    <text x="100" y="286" font-size="20" fill="#B9C2D8">嫦娥奔月，化为蟾蜍<tspan x="100" dy="34">——常被记在</tspan><tspan x="100" dy="34" text-decoration="line-through" fill="#D4453A">《淮南子》名下</tspan></text>
+  </g>
+
+  <g id="p11-claim-checked" data-pptx-bounds="432 206 348 184">
+    <rect x="436" y="210" width="340" height="176" fill="#26305A" filter="url(#paperLift)"/>
+    <text x="464" y="246" font-size="20" font-weight="bold" fill="#E8B04B">核对原文</text>
+    <text x="464" y="286" font-size="20" fill="#F2ECE0">《淮南子·览冥训》原文只作<tspan x="464" dy="34">「姮娥竊以奔月」</tspan><tspan x="464" dy="34">全段无「蟾蜍」，且作「姮娥」</tspan></text>
+  </g>
+
+  <g id="p11-symbols" data-pptx-bounds="796 200 132 200">
+    <image href="../images/toad.png" x="800" y="206" width="124" height="103" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/elixir_jar.png" x="812" y="318" width="66" height="82" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p11-lineage" data-pptx-bounds="72 424 860 124">
+    <line x1="110" y1="470" x2="760" y2="470" stroke="#33406B" stroke-width="2" stroke-dasharray="8,4"/>
+    <circle cx="140" cy="470" r="10" fill="#7FA8C9"/>
+    <circle cx="420" cy="470" r="10" fill="#E8B04B"/>
+    <circle cx="700" cy="470" r="10" fill="#D4453A"/>
+    <text x="116" y="446" font-size="20" font-weight="bold" fill="#E8B04B">《归藏易》· 先秦</text>
+    <text x="116" y="506" font-size="18" fill="#B9C2D8">「羿毙十日，恒娥奔月」<tspan x="116" dy="26">秦简仅存两枚残简</tspan></text>
+    <text x="396" y="446" font-size="20" font-weight="bold" fill="#E8B04B">《淮南子》· 西汉</text>
+    <text x="396" y="506" font-size="18" fill="#B9C2D8">「姮娥竊以奔月」<tspan x="396" dy="26">无蟾蜍，用「姮娥」</tspan></text>
+    <text x="676" y="446" font-size="20" font-weight="bold" fill="#E8B04B">《灵宪》· 东汉张衡</text>
+    <text x="676" y="506" font-size="18" fill="#B9C2D8">「托身于月，是为蟾蜍」<tspan x="676" dy="26">化蟾之说出于此</tspan></text>
+  </g>
+
+  <g id="p11-note" data-pptx-bounds="72 578 860 82">
+    <text x="72" y="600" font-size="20" fill="#F2ECE0">刘安编《淮南子》避汉文帝<tspan font-weight="bold" fill="#E8B04B">刘恒</tspan>之讳，改「恒」为「嫦」<tspan x="72" dy="34">——「恒我」遂演变为「嫦娥」与「姮娥」，后人混用</tspan></text>
+  </g>
+
+  <g id="p11-figure" data-pptx-bounds="960 380 300 250">
+    <image href="../images/change_e.png" x="970" y="390" width="270" height="227" preserveAspectRatio="xMidYMid meet" filter="url(#paperLift)"/>
+  </g>
+</svg>

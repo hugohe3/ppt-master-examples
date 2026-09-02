@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="section">
+  <defs>
+    <filter id="paperLift" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#05070F" flood-opacity="0.20"/>
+    </filter>
+    <linearGradient id="chapterField" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#1E2748" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#131A33" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+  <rect id="p10-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#chapterField)"/>
+
+  <g id="p10-mark" data-pptx-bounds="512 112 256 258">
+    <image href="../images/moon_full.png" x="520" y="120" width="240" height="242" preserveAspectRatio="xMidYMid meet" filter="url(#paperLift)"/>
+  </g>
+
+  <image id="p10-cloud" data-pptx-role="decoration" href="../images/cloud_band.png" x="408" y="286" width="440" height="187" preserveAspectRatio="xMidYMid meet"/>
+
+  <g id="p10-title" data-pptx-bounds="140 450 1010 124">
+    <text x="140" y="500" font-family="KaiTi, Georgia, serif" font-size="52" fill="#E8B04B">三 · 说：月亮里的三个人，来自三本书</text>
+    <text x="140" y="556" font-size="28" fill="#B9C2D8">嫦娥变成蟾蜍，出自《淮南子》吗？</text>
+  </g>
+</svg>

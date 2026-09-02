@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="paperLift" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#05070F" flood-opacity="0.20"/>
+    </filter>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+  <image id="p12-reflection" data-pptx-role="decoration" href="../images/moon_reflection.png" x="552" y="252" width="176" height="176" preserveAspectRatio="xMidYMid meet"/>
+
+  <g id="p12-header" data-pptx-bounds="72 74 700 100">
+    <text x="72" y="112" font-family="KaiTi, Georgia, serif" font-size="42" fill="#F2ECE0">树创随合，长跪捣药</text>
+    <text x="72" y="158" font-size="28" fill="#B9C2D8">一个讲无尽的重复，一个讲无尽的等待</text>
+  </g>
+
+  <g id="p12-wugang" data-pptx-bounds="72 200 480 380">
+    <image href="../images/osmanthus_tree.png" x="280" y="210" width="200" height="177" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/wu_gang.png" x="130" y="230" width="130" height="234" preserveAspectRatio="xMidYMid meet" filter="url(#paperLift)"/>
+    <text x="72" y="500" font-size="24" font-weight="bold" fill="#E8B04B">吴刚 · 伐桂</text>
+    <text x="72" y="534" font-size="20" fill="#F2ECE0">月桂高五百丈，下有一人常斫之，<tspan x="72" dy="32">树创随合。学仙有过，谪令伐树。</tspan></text>
+  </g>
+
+  <g id="p12-rabbit" data-pptx-bounds="700 200 508 380">
+    <image href="../images/jade_rabbit.png" x="760" y="215" width="200" height="231" preserveAspectRatio="xMidYMid meet" filter="url(#paperLift)"/>
+    <text x="700" y="500" font-size="24" font-weight="bold" fill="#E8B04B">玉兔 · 捣药</text>
+    <text x="700" y="534" font-size="20" fill="#F2ECE0">玉兔长跪捣药蛤蟆丸，奉上陛下一玉盘，<tspan x="700" dy="32">服此药可得神仙。——汉乐府《董逃行》</tspan></text>
+  </g>
+
+  <g id="p12-note" data-pptx-bounds="72 606 1136 46">
+    <text x="72" y="630" font-size="18" fill="#7FA8C9">吴刚伐桂始见唐 · 段成式《酉阳杂俎》；「月中有桂」更早见晋 · 虞喜《安天论》；饮桂花酒的习俗与此相连</text>
+  </g>
+</svg>

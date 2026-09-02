@@ -1,0 +1,878 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+  <image id="p09-wash" data-pptx-role="decoration" href="../images/mooncake_mold_wash.png" x="1004" y="-72" width="350" height="330" preserveAspectRatio="xMidYMid meet" opacity="0.55"/>
+
+  <g id="p09-header" data-pptx-bounds="72 74 940 100">
+    <text x="72" y="112" font-family="KaiTi, Georgia, serif" font-size="42" fill="#F2ECE0">差别不在馅，在饼皮怎么起</text>
+    <text x="72" y="158" font-size="28" fill="#B9C2D8">依据现行国家标准 GB/T 19855—2023《月饼质量通则》</text>
+  </g>
+
+  <g id="p09-cake-strip" data-pptx-bounds="72 252 108 344">
+    <image href="../images/cake_guang.png" x="76" y="259" width="100" height="62" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/cake_su.png" x="76" y="327" width="100" height="62" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/cake_jing.png" x="76" y="395" width="100" height="62" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/cake_chao.png" x="76" y="463" width="100" height="62" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/cake_dian.png" x="76" y="531" width="100" height="62" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="mooncake-schools" data-pptx-replace-with="table" data-pptx-bounds="190 200 1020 396" data-pptx-fallback-sha256="276af81616d0b84a543a09076ab33cc41122d8a204085f681c49b74a18c34598">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 190,
+  "y": 200,
+  "width": 1020,
+  "height": 396,
+  "name": "mooncake-schools",
+  "column_widths": [
+    110,
+    110,
+    390,
+    160,
+    250
+  ],
+  "row_heights": [
+    56,
+    68,
+    68,
+    68,
+    68,
+    68
+  ],
+  "columns": [
+    {
+      "text": "派式",
+      "align": "l",
+      "valign": "middle",
+      "fill": "#26305A",
+      "color": "#F2ECE0",
+      "bold": true,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "bottom": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        }
+      }
+    },
+    {
+      "text": "产地",
+      "align": "l",
+      "valign": "middle",
+      "fill": "#26305A",
+      "color": "#F2ECE0",
+      "bold": true,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "bottom": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        }
+      }
+    },
+    {
+      "text": "饼皮工艺",
+      "align": "l",
+      "valign": "middle",
+      "fill": "#26305A",
+      "color": "#F2ECE0",
+      "bold": true,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "bottom": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        }
+      }
+    },
+    {
+      "text": "口感",
+      "align": "l",
+      "valign": "middle",
+      "fill": "#26305A",
+      "color": "#F2ECE0",
+      "bold": true,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "bottom": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        }
+      }
+    },
+    {
+      "text": "代表品种",
+      "align": "l",
+      "valign": "middle",
+      "fill": "#26305A",
+      "color": "#F2ECE0",
+      "bold": true,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "bottom": {
+          "style": "solid",
+          "color": "#33406B",
+          "width": 1
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        }
+      }
+    }
+  ],
+  "rows": [
+    [
+      {
+        "text": "广式",
+        "align": "l",
+        "valign": "middle",
+        "color": "#E8B04B",
+        "bold": true,
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "广东",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "加或不加糖浆制饼皮，刷蛋后烘烤",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "柔软",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "蓉沙、果仁、蛋黄",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "text": "苏式",
+        "align": "l",
+        "valign": "middle",
+        "color": "#E8B04B",
+        "bold": true,
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "苏州",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "另以粉油制酥，制酥皮后包馅烘烤",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "松酥、有酥层",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "蓉沙、果仁、果蔬",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "text": "京式",
+        "align": "l",
+        "valign": "middle",
+        "color": "#E8B04B",
+        "bold": true,
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "北京",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "提浆制糖浆皮，或制松酥皮、酥皮",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "松酥或松软",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "提浆、自来白、自来红",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "text": "潮式",
+        "align": "l",
+        "valign": "middle",
+        "color": "#E8B04B",
+        "bold": true,
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "潮汕",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "小麦粉或食用淀粉制皮，加或不加糖",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "酥、透",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "酥皮、水晶皮、奶油皮",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#182140",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "text": "滇式",
+        "align": "l",
+        "valign": "middle",
+        "color": "#E8B04B",
+        "bold": true,
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "云南",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "小麦粉和杂粮粉制皮，云腿等入馅",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "咸香",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "text": "云腿、食用花卉",
+        "align": "l",
+        "valign": "middle",
+        "color": "#F2ECE0",
+        "fill": "#1E2748",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#33406B",
+            "width": 1
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      }
+    ]
+  ],
+  "defaults": {
+    "cell": {
+      "align": "l",
+      "valign": "middle",
+      "padding": 14,
+      "font_size": 20
+    }
+  },
+  "style": {
+    "font_family": "Microsoft YaHei",
+    "font_size": 20,
+    "band_row": false
+  }
+}
+    </metadata>
+    <rect x="190" y="200" width="1020" height="56" fill="#26305A"/>
+    <text x="204" y="235" font-size="20" font-weight="bold" fill="#F2ECE0">派式</text>
+    <text x="314" y="235" font-size="20" font-weight="bold" fill="#F2ECE0">产地</text>
+    <text x="424" y="235" font-size="20" font-weight="bold" fill="#F2ECE0">饼皮工艺</text>
+    <text x="814" y="235" font-size="20" font-weight="bold" fill="#F2ECE0">口感</text>
+    <text x="974" y="235" font-size="20" font-weight="bold" fill="#F2ECE0">代表品种</text>
+    <rect x="190" y="256" width="1020" height="68" fill="#1E2748"/>
+    <line x1="190" y1="256" x2="1210" y2="256" stroke="#33406B" stroke-width="1"/>
+    <text x="204" y="297" font-size="20" font-weight="bold" fill="#E8B04B">广式</text>
+    <text x="314" y="297" font-size="20" fill="#F2ECE0">广东</text>
+    <text x="424" y="297" font-size="20" fill="#F2ECE0">加或不加糖浆制饼皮，刷蛋后烘烤</text>
+    <text x="814" y="297" font-size="20" fill="#F2ECE0">柔软</text>
+    <text x="974" y="297" font-size="20" fill="#F2ECE0">蓉沙、果仁、蛋黄</text>
+    <rect x="190" y="324" width="1020" height="68" fill="#182140"/>
+    <line x1="190" y1="324" x2="1210" y2="324" stroke="#33406B" stroke-width="1"/>
+    <text x="204" y="365" font-size="20" font-weight="bold" fill="#E8B04B">苏式</text>
+    <text x="314" y="365" font-size="20" fill="#F2ECE0">苏州</text>
+    <text x="424" y="365" font-size="20" fill="#F2ECE0">另以粉油制酥，制酥皮后包馅烘烤</text>
+    <text x="814" y="365" font-size="20" fill="#F2ECE0">松酥、有酥层</text>
+    <text x="974" y="365" font-size="20" fill="#F2ECE0">蓉沙、果仁、果蔬</text>
+    <rect x="190" y="392" width="1020" height="68" fill="#1E2748"/>
+    <line x1="190" y1="392" x2="1210" y2="392" stroke="#33406B" stroke-width="1"/>
+    <text x="204" y="433" font-size="20" font-weight="bold" fill="#E8B04B">京式</text>
+    <text x="314" y="433" font-size="20" fill="#F2ECE0">北京</text>
+    <text x="424" y="433" font-size="20" fill="#F2ECE0">提浆制糖浆皮，或制松酥皮、酥皮</text>
+    <text x="814" y="433" font-size="20" fill="#F2ECE0">松酥或松软</text>
+    <text x="974" y="433" font-size="20" fill="#F2ECE0">提浆、自来白、自来红</text>
+    <rect x="190" y="460" width="1020" height="68" fill="#182140"/>
+    <line x1="190" y1="460" x2="1210" y2="460" stroke="#33406B" stroke-width="1"/>
+    <text x="204" y="501" font-size="20" font-weight="bold" fill="#E8B04B">潮式</text>
+    <text x="314" y="501" font-size="20" fill="#F2ECE0">潮汕</text>
+    <text x="424" y="501" font-size="20" fill="#F2ECE0">小麦粉或食用淀粉制皮，加或不加糖</text>
+    <text x="814" y="501" font-size="20" fill="#F2ECE0">酥、透</text>
+    <text x="974" y="501" font-size="20" fill="#F2ECE0">酥皮、水晶皮、奶油皮</text>
+    <rect x="190" y="528" width="1020" height="68" fill="#1E2748"/>
+    <line x1="190" y1="528" x2="1210" y2="528" stroke="#33406B" stroke-width="1"/>
+    <text x="204" y="569" font-size="20" font-weight="bold" fill="#E8B04B">滇式</text>
+    <text x="314" y="569" font-size="20" fill="#F2ECE0">云南</text>
+    <text x="424" y="569" font-size="20" fill="#F2ECE0">小麦粉和杂粮粉制皮，云腿等入馅</text>
+    <text x="814" y="569" font-size="20" fill="#F2ECE0">咸香</text>
+    <text x="974" y="569" font-size="20" fill="#F2ECE0">云腿、食用花卉</text>
+    <line x1="190" y1="596" x2="1210" y2="596" stroke="#33406B" stroke-width="1"/>
+  </g>
+
+  <g id="p09-notes" data-pptx-bounds="72 604 950 78">
+    <text x="72" y="628" font-size="18" fill="#7FA8C9">国标按地方派式分九类：广式、京式、苏式、潮式、滇式、晋式、琼式、台式、哈式——本页讲其中五个<tspan x="72" dy="32">冷知识：果仁总量不低于 20% 且仅限五种果仁 + 广东工艺，才叫「广式五仁」；莲子 100% 才叫「纯莲蓉」</tspan></text>
+  </g>
+</svg>

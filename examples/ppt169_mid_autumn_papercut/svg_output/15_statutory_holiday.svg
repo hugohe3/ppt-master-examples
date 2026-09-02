@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="paperLift" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#05070F" flood-opacity="0.20"/>
+    </filter>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#131A33"/>
+  <g id="p15-moon" data-pptx-bounds="1126 32 118 119">
+    <image href="../images/moon_gibbous.png" x="1130" y="36" width="110" height="111" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p15-header" data-pptx-bounds="72 74 900 100">
+    <text x="72" y="112" font-family="KaiTi, Georgia, serif" font-size="42" fill="#F2ECE0">法定是一天，我们过的是三天</text>
+    <text x="72" y="158" font-size="28" fill="#B9C2D8">中秋成为法定假日只有十八年</text>
+  </g>
+
+  <g id="p15-timeline" data-pptx-bounds="72 196 1136 140">
+    <line x1="110" y1="250" x2="1170" y2="250" stroke="#33406B" stroke-width="2" stroke-dasharray="8,4"/>
+    <circle cx="140" cy="250" r="10" fill="#7FA8C9"/>
+    <circle cx="520" cy="250" r="10" fill="#E8B04B"/>
+    <circle cx="900" cy="250" r="10" fill="#7FA8C9"/>
+    <text x="116" y="222" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#E8B04B">1949</text>
+    <text x="116" y="292" font-size="18" fill="#B9C2D8">政务院发布《全国年节及<tspan x="116" dy="26">纪念日放假办法》</tspan></text>
+    <text x="496" y="222" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#E8B04B">2008</text>
+    <text x="496" y="292" font-size="18" fill="#F2ECE0">国务院令第 513 号施行，新增<tspan x="496" dy="26">「中秋节，放假 1 天」</tspan></text>
+    <text x="876" y="222" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#E8B04B">2025</text>
+    <text x="876" y="292" font-size="18" fill="#B9C2D8">国令第 795 号施行，增除夕与<tspan x="876" dy="26">5 月 2 日；中秋仍为 1 天</tspan></text>
+  </g>
+
+  <g id="p15-caveat-block" data-pptx-bounds="72 336 540 204">
+    <g id="p15-caveat" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="72 376 520 160" data-pptx-av-adj1="val 30000" data-pptx-av-adj2="val -75000" fill="#26305A" stroke="none" filter="url(#paperLift)">
+<path d="M 72 376 L 375.33 376 L 488 336 L 505.33 376 L 592 376 L 592 402.67 L 592 402.67 L 592 442.67 L 592 536 L 505.33 536 L 375.33 536 L 375.33 536 L 72 536 L 72 442.67 L 72 402.67 L 72 402.67 Z"/>
+</g>
+    <text x="104" y="416" font-size="20" font-weight="bold" fill="#E8B04B">口径提醒</text>
+    <text x="104" y="452" font-size="20" fill="#F2ECE0">2026 年中秋「9 月 25 日至 27 日<tspan x="104" dy="32">放假共 3 天」是调休后的实际假期；</tspan><tspan x="104" dy="32">法定节假日始终是 <tspan font-weight="bold" fill="#E8B04B">1 天</tspan>。</tspan></text>
+  </g>
+
+  <g id="p15-kpis" data-pptx-bounds="640 380 568 224">
+    <text x="660" y="460" font-family="Georgia, serif" font-size="88" font-weight="bold" fill="#E8B04B">1.07</text>
+    <text x="880" y="460" font-size="30" fill="#F2ECE0">亿人次</text>
+    <text x="660" y="496" font-size="18" fill="#B9C2D8">2024 年中秋假期全国国内出游（较 2019 同期 +6.3%）</text>
+    <text x="660" y="548" font-size="24" fill="#F2ECE0">出游总花费 <tspan font-weight="bold" fill="#E8B04B">510.47</tspan> 亿元</text>
+    <text x="660" y="586" font-size="24" fill="#F2ECE0">月饼产量约 <tspan font-weight="bold" fill="#E8B04B">30</tspan> 万吨，销售额约 <tspan font-weight="bold" fill="#E8B04B">200</tspan> 亿元</text>
+  </g>
+
+  <g id="p15-note" data-pptx-bounds="72 622 1136 46">
+    <text x="72" y="648" font-size="18" fill="#7FA8C9">月饼数据为中国焙烤食品糖制品工业协会 2024 年预计值；2025 年的 8.88 亿人次是国庆＋中秋合并 8 天口径，不与中秋单独口径比较</text>
+  </g>
+</svg>

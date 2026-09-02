@@ -1,0 +1,43 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,cake_chao.png,599,604,0.99,0.99,,native,PNG,True,1,,bitmap,True,True,582.8,Near square
+2,cake_dian.png,633,504,1.26,1.26,,native,PNG,True,1,,bitmap,True,True,490.4,Standard landscape
+3,cake_guang.png,611,635,0.96,0.96,,native,PNG,True,1,,bitmap,True,True,590.9,Near square
+4,cake_jing.png,602,592,1.02,1.02,,native,PNG,True,1,,bitmap,True,True,484.7,Near square
+5,cake_mold.png,678,638,1.06,1.06,,native,PNG,True,1,,bitmap,True,True,582.8,Near square
+6,cake_su.png,629,503,1.25,1.25,,native,PNG,True,1,,bitmap,True,True,449.5,Standard landscape
+7,change_e.png,755,633,1.19,1.19,,native,PNG,True,1,,bitmap,True,True,641.7,Near square
+8,changee_flight_scrim.png,755,633,1.19,1.19,,native,PNG,True,1,,bitmap,True,True,510.1,Near square
+9,cloud_band.png,647,275,2.35,2.35,,native,PNG,True,1,,bitmap,True,True,282.7,Ultra-wide
+10,cover_night_field.jpg,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4320.9,Wide landscape
+11,cover_night_field_dawn.jpg,1600,893,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,1117.2,Wide landscape
+12,dice_bowl.png,821,636,1.29,1.29,,native,PNG,True,1,,bitmap,True,True,750.6,Standard landscape
+13,elixir_jar.png,408,508,0.80,0.80,,native,PNG,True,1,,bitmap,True,True,278.2,Near square
+14,fire_dragon.png,797,912,0.87,0.87,,native,PNG,True,1,,bitmap,True,True,1167.0,Near square
+15,jade_rabbit.png,524,605,0.87,0.87,,native,PNG,True,1,,bitmap,True,True,415.6,Near square
+16,kaifeng_night_market.jpg,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4565.0,Wide landscape
+17,lantern_pole.png,376,932,0.40,0.40,,native,PNG,True,1,,bitmap,True,True,548.7,Portrait
+18,lantern_tower.png,624,912,0.68,0.68,,native,PNG,True,1,,bitmap,True,True,840.2,Portrait
+19,letter_tuanyuan.png,855,606,1.41,1.41,,native,PNG,True,1,,bitmap,True,True,774.3,Standard landscape
+20,letter_yuebing.png,871,614,1.42,1.42,,native,PNG,True,1,,bitmap,True,True,844.3,Standard landscape
+21,letter_yuexi.png,845,620,1.36,1.36,,native,PNG,True,1,,bitmap,True,True,823.1,Standard landscape
+22,letter_zhongqiu.png,874,615,1.42,1.42,,native,PNG,True,1,,bitmap,True,True,824.4,Standard landscape
+23,moon_crescent.png,426,508,0.84,0.84,,native,PNG,True,1,,bitmap,True,True,307.4,Near square
+24,moon_full.png,495,500,0.99,0.99,,native,PNG,True,1,,bitmap,True,True,355.7,Near square
+25,moon_gibbous.png,490,492,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,324.4,Near square
+26,moon_half.png,254,500,0.51,0.51,,native,PNG,True,1,,bitmap,True,True,175.5,Portrait
+27,moon_reflection.png,490,490,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,358.5,Near square
+28,moon_veiled.png,653,464,1.41,1.41,,native,PNG,True,1,,bitmap,True,True,444.1,Standard landscape
+29,mooncake_mold_wash.png,678,638,1.06,1.06,,native,PNG,True,1,,bitmap,True,True,400.7,Near square
+30,mountain_ridge.png,621,191,3.25,3.25,,native,PNG,True,1,,bitmap,True,True,156.2,Ultra-wide
+31,osmanthus_sprig.png,483,500,0.97,0.97,,native,PNG,True,1,,bitmap,True,True,382.0,Near square
+32,osmanthus_tree.png,704,623,1.13,1.13,,native,PNG,True,1,,bitmap,True,True,573.1,Near square
+33,rabbit_lord.png,891,1755,0.51,0.51,,native,PNG,True,1,,bitmap,True,True,2080.7,Portrait
+34,sheet_custom.jpg,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,3992.7,Near square
+35,sheet_figures.jpg,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,4108.7,Near square
+36,sheet_legend.jpg,2528,1696,1.49,1.49,,native,PNG,False,1,,bitmap,True,True,3868.6,Standard landscape
+37,sheet_lettering.jpg,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,4031.2,Near square
+38,sheet_moon.jpg,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,3787.0,Near square
+39,sheet_mooncake.jpg,2528,1696,1.49,1.49,,native,PNG,False,1,,bitmap,True,True,4118.1,Standard landscape
+40,toad.png,579,481,1.20,1.20,,native,PNG,True,1,,bitmap,True,True,370.1,Standard landscape
+41,walking_pair.png,934,1678,0.56,0.56,,native,PNG,True,1,,bitmap,True,True,1986.1,Portrait
+42,wu_gang.png,393,706,0.56,0.56,,native,PNG,True,1,,bitmap,True,True,343.4,Portrait
