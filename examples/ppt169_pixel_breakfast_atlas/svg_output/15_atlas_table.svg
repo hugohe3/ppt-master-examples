@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1A1C2C"/>
+  <g id="tile-band" data-pptx-role="decoration" data-pptx-bounds="0 656 1280 64">
+    <rect x="0" y="656" width="1280" height="64" fill="#232741"/>
+    <rect x="0" y="656" width="1280" height="4" fill="#3A4266"/>
+    <path d="M64 656V720 M128 656V720 M192 656V720 M256 656V720 M320 656V720 M384 656V720 M448 656V720 M512 656V720 M576 656V720 M640 656V720 M704 656V720 M768 656V720 M832 656V720 M896 656V720 M960 656V720 M1024 656V720 M1088 656V720 M1152 656V720 M1216 656V720 M0 688H1280" fill="none" stroke="#3A4266" stroke-width="2"/>
+  </g>
+  <g id="p15-header" data-pptx-bounds="64 84 1152 82">
+    <text x="64" y="124" font-size="44" font-weight="bold" fill="#F4F0E6">图鉴总表 · No.01 – No.11</text>
+    <image href="../images/hud_star.png" x="600" y="92" width="34" height="34" preserveAspectRatio="xMidYMid meet"/>
+    <text x="64" y="158" font-size="18" fill="#A0A8C0">价格与年代只在取得可核来源时填写，其余一律标 <tspan fill="#FFCD4D" font-family="Consolas">NO DATA</tspan>；来源年份跨 2020–2026</text>
+  </g>
+  <g id="atlas-index" data-pptx-replace-with="table" data-pptx-bounds="64 176 1152 420" data-pptx-fallback-sha256="fa39887282d595b7208f8b0450843b045f4c881ae7d4ffaa04b99140f792ef6a">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "atlas-index",
+  "x": 64, "y": 180, "width": 1152, "height": 414,
+  "column_widths": [90, 190, 90, 200, 230, 160, 192],
+  "row_heights": [40, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34],
+  "defaults": {
+    "cell": {
+      "font_size": 18,
+      "valign": "middle",
+      "align": "l",
+      "padding": 8,
+      "color": "#F4F0E6",
+      "fill": "#232741",
+      "borders": {
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#4A5578", "width": 1},
+        "left": {"style": "none"},
+        "right": {"style": "none"}
+      }
+    }
+  },
+  "columns": [
+    {"text": "编号", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "名称", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "城市", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "碳水主料", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "口味标签", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "定型年代", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "可核价格", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true}
+  ],
+  "rows": [
+    [{"text": "No.01"}, {"text": "豆汁 · 焦圈"}, {"text": "北京"}, {"text": "绿豆残渣"}, {"text": "发酵酸"}, {"text": "清 1753"}, {"text": "NO DATA", "color": "#A0A8C0"}],
+    [{"text": "No.02", "fill": "#2B2F4A"}, {"text": "煎饼馃子", "fill": "#2B2F4A"}, {"text": "天津", "fill": "#2B2F4A"}, {"text": "绿豆面+小米面", "fill": "#2B2F4A"}, {"text": "咸 · 可加辣", "fill": "#2B2F4A"}, {"text": "1933", "fill": "#2B2F4A"}, {"text": "约 10 元 (2026)", "fill": "#2B2F4A"}],
+    [{"text": "No.03"}, {"text": "四大金刚"}, {"text": "上海"}, {"text": "面粉+糯米+豆浆"}, {"text": "咸 · 甜 · 清淡"}, {"text": "1912"}, {"text": "NO DATA", "color": "#A0A8C0"}],
+    [{"text": "No.04", "fill": "#2B2F4A"}, {"text": "热干面", "fill": "#2B2F4A"}, {"text": "武汉", "fill": "#2B2F4A"}, {"text": "碱水面", "fill": "#2B2F4A"}, {"text": "咸 · 芝麻酱", "fill": "#2B2F4A"}, {"text": "1930", "fill": "#2B2F4A"}, {"text": "4.5–6 元 (2025)", "fill": "#2B2F4A"}],
+    [{"text": "No.05"}, {"text": "肠粉"}, {"text": "广州"}, {"text": "米浆"}, {"text": "咸 · 甜"}, {"text": "清末"}, {"text": "NO DATA", "color": "#A0A8C0"}],
+    [{"text": "No.06", "fill": "#2B2F4A"}, {"text": "长沙米粉", "fill": "#2B2F4A"}, {"text": "长沙", "fill": "#2B2F4A"}, {"text": "扁形米粉", "fill": "#2B2F4A"}, {"text": "咸 · 鲜", "fill": "#2B2F4A"}, {"text": "1883", "fill": "#2B2F4A"}, {"text": "NO DATA", "fill": "#2B2F4A", "color": "#A0A8C0"}],
+    [{"text": "No.07"}, {"text": "重庆小面"}, {"text": "重庆"}, {"text": "碱水鲜面"}, {"text": "麻 · 辣 · 鲜 · 香"}, {"text": "2016 标准"}, {"text": "7 元起 (2024)"}],
+    [{"text": "No.08", "fill": "#2B2F4A"}, {"text": "肉夹馍/胡辣汤", "fill": "#2B2F4A"}, {"text": "西安", "fill": "#2B2F4A"}, {"text": "白吉馍", "fill": "#2B2F4A"}, {"text": "咸 · 辣", "fill": "#2B2F4A"}, {"text": "NO DATA", "fill": "#2B2F4A", "color": "#A0A8C0"}, {"text": "4–13 元 (2024)", "fill": "#2B2F4A"}],
+    [{"text": "No.09"}, {"text": "兰州牛肉面"}, {"text": "兰州"}, {"text": "手工拉面"}, {"text": "咸 · 辣"}, {"text": "1915"}, {"text": "6–8 元 / 24 元"}],
+    [{"text": "No.10", "fill": "#2B2F4A"}, {"text": "小锅米线", "fill": "#2B2F4A"}, {"text": "云南", "fill": "#2B2F4A"}, {"text": "米线", "fill": "#2B2F4A"}, {"text": "鲜 · 爽口", "fill": "#2B2F4A"}, {"text": "NO DATA", "fill": "#2B2F4A", "color": "#A0A8C0"}, {"text": "NO DATA", "fill": "#2B2F4A", "color": "#A0A8C0"}],
+    [{"text": "No.11"}, {"text": "烤包子 · 奶茶"}, {"text": "新疆"}, {"text": "死面皮"}, {"text": "咸 · 孜然 · 奶香"}, {"text": "NO DATA", "color": "#A0A8C0"}, {"text": "NO DATA", "color": "#A0A8C0"}]
+  ]
+}
+    </metadata>
+    <rect x="64" y="180" width="1152" height="40" fill="#FFCD4D"/>
+    <rect x="64" y="220" width="1152" height="34" fill="#232741"/>
+    <rect x="64" y="254" width="1152" height="34" fill="#2B2F4A"/>
+    <rect x="64" y="288" width="1152" height="34" fill="#232741"/>
+    <rect x="64" y="322" width="1152" height="34" fill="#2B2F4A"/>
+    <rect x="64" y="356" width="1152" height="34" fill="#232741"/>
+    <rect x="64" y="390" width="1152" height="34" fill="#2B2F4A"/>
+    <rect x="64" y="424" width="1152" height="34" fill="#232741"/>
+    <rect x="64" y="458" width="1152" height="34" fill="#2B2F4A"/>
+    <rect x="64" y="492" width="1152" height="34" fill="#232741"/>
+    <rect x="64" y="526" width="1152" height="34" fill="#2B2F4A"/>
+    <rect x="64" y="560" width="1152" height="34" fill="#232741"/>
+    <path d="M64 220H1216 M64 254H1216 M64 288H1216 M64 322H1216 M64 356H1216 M64 390H1216 M64 424H1216 M64 458H1216 M64 492H1216 M64 526H1216 M64 560H1216 M64 594H1216" fill="none" stroke="#4A5578" stroke-width="1"/>
+    <text x="74" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">编号</text>
+    <text x="164" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">名称</text>
+    <text x="354" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">城市</text>
+    <text x="444" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">碳水主料</text>
+    <text x="644" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">口味标签</text>
+    <text x="874" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">定型年代</text>
+    <text x="1034" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">可核价格</text>
+    <text x="74" y="243" font-size="18" font-family="Consolas" fill="#F4F0E6">No.01</text>
+    <text x="164" y="243" font-size="18" fill="#F4F0E6">豆汁 · 焦圈</text>
+    <text x="354" y="243" font-size="18" fill="#F4F0E6">北京</text>
+    <text x="444" y="243" font-size="18" fill="#F4F0E6">绿豆残渣</text>
+    <text x="644" y="243" font-size="18" fill="#F4F0E6">发酵酸</text>
+    <text x="874" y="243" font-size="18" fill="#F4F0E6">清 1753</text>
+    <text x="1034" y="243" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="277" font-size="18" font-family="Consolas" fill="#F4F0E6">No.02</text>
+    <text x="164" y="277" font-size="18" fill="#F4F0E6">煎饼馃子</text>
+    <text x="354" y="277" font-size="18" fill="#F4F0E6">天津</text>
+    <text x="444" y="277" font-size="18" fill="#F4F0E6">绿豆面+小米面</text>
+    <text x="644" y="277" font-size="18" fill="#F4F0E6">咸 · 可加辣</text>
+    <text x="874" y="277" font-size="18" fill="#F4F0E6">1933</text>
+    <text x="1034" y="277" font-size="18" fill="#F4F0E6">约 10 元 (2026)</text>
+    <text x="74" y="311" font-size="18" font-family="Consolas" fill="#F4F0E6">No.03</text>
+    <text x="164" y="311" font-size="18" fill="#F4F0E6">四大金刚</text>
+    <text x="354" y="311" font-size="18" fill="#F4F0E6">上海</text>
+    <text x="444" y="311" font-size="18" fill="#F4F0E6">面粉+糯米+豆浆</text>
+    <text x="644" y="311" font-size="18" fill="#F4F0E6">咸 · 甜 · 清淡</text>
+    <text x="874" y="311" font-size="18" fill="#F4F0E6">1912</text>
+    <text x="1034" y="311" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="345" font-size="18" font-family="Consolas" fill="#F4F0E6">No.04</text>
+    <text x="164" y="345" font-size="18" fill="#F4F0E6">热干面</text>
+    <text x="354" y="345" font-size="18" fill="#F4F0E6">武汉</text>
+    <text x="444" y="345" font-size="18" fill="#F4F0E6">碱水面</text>
+    <text x="644" y="345" font-size="18" fill="#F4F0E6">咸 · 芝麻酱</text>
+    <text x="874" y="345" font-size="18" fill="#F4F0E6">1930</text>
+    <text x="1034" y="345" font-size="18" fill="#F4F0E6">4.5–6 元 (2025)</text>
+    <text x="74" y="379" font-size="18" font-family="Consolas" fill="#F4F0E6">No.05</text>
+    <text x="164" y="379" font-size="18" fill="#F4F0E6">肠粉</text>
+    <text x="354" y="379" font-size="18" fill="#F4F0E6">广州</text>
+    <text x="444" y="379" font-size="18" fill="#F4F0E6">米浆</text>
+    <text x="644" y="379" font-size="18" fill="#F4F0E6">咸 · 甜</text>
+    <text x="874" y="379" font-size="18" fill="#F4F0E6">清末</text>
+    <text x="1034" y="379" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="413" font-size="18" font-family="Consolas" fill="#F4F0E6">No.06</text>
+    <text x="164" y="413" font-size="18" fill="#F4F0E6">长沙米粉</text>
+    <text x="354" y="413" font-size="18" fill="#F4F0E6">长沙</text>
+    <text x="444" y="413" font-size="18" fill="#F4F0E6">扁形米粉</text>
+    <text x="644" y="413" font-size="18" fill="#F4F0E6">咸 · 鲜</text>
+    <text x="874" y="413" font-size="18" fill="#F4F0E6">1883</text>
+    <text x="1034" y="413" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="447" font-size="18" font-family="Consolas" fill="#F4F0E6">No.07</text>
+    <text x="164" y="447" font-size="18" fill="#F4F0E6">重庆小面</text>
+    <text x="354" y="447" font-size="18" fill="#F4F0E6">重庆</text>
+    <text x="444" y="447" font-size="18" fill="#F4F0E6">碱水鲜面</text>
+    <text x="644" y="447" font-size="18" fill="#F4F0E6">麻 · 辣 · 鲜 · 香</text>
+    <text x="874" y="447" font-size="18" fill="#F4F0E6">2016 标准</text>
+    <text x="1034" y="447" font-size="18" fill="#F4F0E6">7 元起 (2024)</text>
+    <text x="74" y="481" font-size="18" font-family="Consolas" fill="#F4F0E6">No.08</text>
+    <text x="164" y="481" font-size="18" fill="#F4F0E6">肉夹馍/胡辣汤</text>
+    <text x="354" y="481" font-size="18" fill="#F4F0E6">西安</text>
+    <text x="444" y="481" font-size="18" fill="#F4F0E6">白吉馍</text>
+    <text x="644" y="481" font-size="18" fill="#F4F0E6">咸 · 辣</text>
+    <text x="874" y="481" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="1034" y="481" font-size="18" fill="#F4F0E6">4–13 元 (2024)</text>
+    <text x="74" y="515" font-size="18" font-family="Consolas" fill="#F4F0E6">No.09</text>
+    <text x="164" y="515" font-size="18" fill="#F4F0E6">兰州牛肉面</text>
+    <text x="354" y="515" font-size="18" fill="#F4F0E6">兰州</text>
+    <text x="444" y="515" font-size="18" fill="#F4F0E6">手工拉面</text>
+    <text x="644" y="515" font-size="18" fill="#F4F0E6">咸 · 辣</text>
+    <text x="874" y="515" font-size="18" fill="#F4F0E6">1915</text>
+    <text x="1034" y="515" font-size="18" fill="#F4F0E6">6–8 元 / 24 元</text>
+    <text x="74" y="549" font-size="18" font-family="Consolas" fill="#F4F0E6">No.10</text>
+    <text x="164" y="549" font-size="18" fill="#F4F0E6">小锅米线</text>
+    <text x="354" y="549" font-size="18" fill="#F4F0E6">云南</text>
+    <text x="444" y="549" font-size="18" fill="#F4F0E6">米线</text>
+    <text x="644" y="549" font-size="18" fill="#F4F0E6">鲜 · 爽口</text>
+    <text x="874" y="549" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="1034" y="549" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="583" font-size="18" font-family="Consolas" fill="#F4F0E6">No.11</text>
+    <text x="164" y="583" font-size="18" fill="#F4F0E6">烤包子 · 奶茶</text>
+    <text x="354" y="583" font-size="18" fill="#F4F0E6">新疆</text>
+    <text x="444" y="583" font-size="18" fill="#F4F0E6">死面皮</text>
+    <text x="644" y="583" font-size="18" fill="#F4F0E6">咸 · 孜然 · 奶香</text>
+    <text x="874" y="583" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="1034" y="583" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+  </g>
+  <g id="p15-footnote" data-pptx-bounds="64 600 1152 56">
+    <text x="64" y="618" font-size="16" fill="#A0A8C0">价格来源年份：2020（兰州一线均价）· 2024（重庆、西安）· 2025（武汉）· 2026（天津报道）</text>
+    <text x="64" y="646" font-size="16" fill="#A0A8C0">Fact IDs: F001, F002, F004, F007 – F012, F015, F017, F019, F023, F024, F027, F029 – F031, F034 – F036, F039, F042</text>
+  </g>
+</svg>

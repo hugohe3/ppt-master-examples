@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1A1C2C"/>
+  <g id="tile-band" data-pptx-role="decoration" data-pptx-bounds="0 656 1280 64">
+    <rect x="0" y="656" width="1280" height="64" fill="#232741"/>
+    <rect x="0" y="656" width="1280" height="4" fill="#3A4266"/>
+    <path d="M64 656V720 M128 656V720 M192 656V720 M256 656V720 M320 656V720 M384 656V720 M448 656V720 M512 656V720 M576 656V720 M640 656V720 M704 656V720 M768 656V720 M832 656V720 M896 656V720 M960 656V720 M1024 656V720 M1088 656V720 M1152 656V720 M1216 656V720 M0 688H1280" fill="none" stroke="#3A4266" stroke-width="2"/>
+  </g>
+  <g id="finish-star-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star5" data-pptx-frame="196 168 52 52" fill="#FFCD4D" stroke="#0F1020" stroke-width="2">
+<path d="M 196 187.86 L 215.86 187.86 L 222 168 L 228.14 187.86 L 248 187.86 L 231.93 200.14 L 238.07 220 L 222 207.72 L 205.93 220 L 212.07 200.14 Z"/>
+</g>
+  <g id="finish-star-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star5" data-pptx-frame="1024 168 52 52" fill="#FFCD4D" stroke="#0F1020" stroke-width="2">
+<path d="M 1024 187.86 L 1043.86 187.86 L 1050 168 L 1056.14 187.86 L 1076 187.86 L 1059.93 200.14 L 1066.07 220 L 1050 207.72 L 1033.93 220 L 1040.07 200.14 Z"/>
+</g>
+  <g id="finish-star-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star5" data-pptx-frame="1112 252 36 36" fill="#EF8A3C" stroke="#0F1020" stroke-width="2">
+<path d="M 1112 265.75 L 1125.75 265.75 L 1130 252 L 1134.25 265.75 L 1148 265.75 L 1136.88 274.25 L 1141.12 288 L 1130 279.5 L 1118.88 288 L 1123.12 274.25 Z"/>
+</g>
+  <g id="p16-lettering" data-pptx-bounds="284 110 712 190">
+    <image href="../images/letter_complete.png" x="300" y="122" width="680" height="168" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="p16-native-title" data-pptx-bounds="64 320 720 190">
+    <text x="80" y="394" font-size="64" font-weight="bold" fill="#F4F0E6">图鉴完成 <tspan font-family="Consolas" fill="#FFCD4D">11 / 11</tspan></text>
+    <text x="80" y="444" font-size="32" fill="#EF8A3C">11 条不同的碳水，同一件事：<tspan x="80" dy="42">一天，从一碗热的开始。</tspan></text>
+  </g>
+  <g id="p16-note" data-pptx-bounds="816 316 400 112">
+    <text x="832" y="342" font-size="18" fill="#A0A8C0">取数规则：数字均标注来源年份</text>
+    <text x="832" y="378" font-size="18" fill="#A0A8C0">未取得可核来源的字段显示 <tspan font-family="Consolas" fill="#FFCD4D">NO DATA</tspan></text>
+    <text x="832" y="414" font-size="18" fill="#A0A8C0">覆盖 11 座城市与地区，权重相同</text>
+  </g>
+  <g id="p16-scene" data-pptx-bounds="816 430 400 226">
+    <image href="../images/scene_ground.png" x="830" y="536" width="340" height="117" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/player_cheer.png" x="900" y="436" width="76" height="100" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/player_eat.png" x="1006" y="446" width="53" height="90" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="p16-progress" data-pptx-bounds="64 540 720 116">
+    <image href="../images/hud_heart.png" x="80" y="558" width="26" height="24" preserveAspectRatio="xMidYMid meet"/>
+    <text x="118" y="578" font-size="20" font-family="Consolas" fill="#FFCD4D">11 / 11 收录完成</text>
+    <rect x="80" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="144" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="208" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="272" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="336" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="400" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="464" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="528" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="592" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="656" y="600" width="58" height="28" fill="#EF8A3C" stroke="#0F1020" stroke-width="2"/>
+    <rect x="720" y="600" width="58" height="28" fill="#FFCD4D" stroke="#0F1020" stroke-width="2"/>
+  </g>
+</svg>

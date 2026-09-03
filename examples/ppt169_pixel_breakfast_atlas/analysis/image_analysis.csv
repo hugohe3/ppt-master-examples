@@ -1,0 +1,50 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,dish_changfen.png,591,496,1.19,1.19,,native,PNG,True,1,,bitmap,True,True,278.7,Near square
+2,dish_changshafen.png,672,618,1.09,1.09,,native,PNG,True,1,,bitmap,True,True,379.7,Near square
+3,dish_doufunao.png,416,343,1.21,1.21,,native,PNG,True,1,,bitmap,True,True,113.0,Standard landscape
+4,dish_doujiao.png,668,680,0.98,0.98,,native,PNG,True,1,,bitmap,True,True,407.4,Near square
+5,dish_jianbing.png,800,640,1.25,1.25,,native,PNG,True,1,,bitmap,True,True,382.8,Standard landscape
+6,dish_kaobaozi.png,672,480,1.40,1.40,,native,PNG,True,1,,bitmap,True,True,208.2,Standard landscape
+7,dish_naicha.png,312,257,1.21,1.21,,native,PNG,True,1,,bitmap,True,True,62.3,Standard landscape
+8,dish_niuroumian.png,736,663,1.11,1.11,,native,PNG,True,1,,bitmap,True,True,468.3,Near square
+9,dish_reganmian.png,704,680,1.04,1.04,,native,PNG,True,1,,bitmap,True,True,421.1,Near square
+10,dish_roujiamo.png,800,668,1.20,1.20,,native,PNG,True,1,,bitmap,True,True,479.5,Near square
+11,dish_sidajingang.png,704,680,1.04,1.04,,native,PNG,True,1,,bitmap,True,True,407.3,Near square
+12,dish_xiaoguomixian.png,799,504,1.59,1.59,,native,PNG,True,1,,bitmap,True,True,290.2,Wide landscape
+13,dish_xiaomian.png,672,649,1.04,1.04,,native,PNG,True,1,,bitmap,True,True,383.8,Near square
+14,hud_bracket.png,256,247,1.04,1.04,,native,PNG,True,1,,bitmap,True,True,37.4,Near square
+15,hud_chili.png,181,256,0.71,0.71,,native,PNG,True,1,,bitmap,True,True,32.8,Portrait
+16,hud_clock.png,256,256,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,57.0,Near square
+17,hud_coin.png,256,256,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,62.1,Near square
+18,hud_heart.png,256,237,1.08,1.08,,native,PNG,True,1,,bitmap,True,True,48.5,Near square
+19,hud_rice.png,256,237,1.08,1.08,,native,PNG,True,1,,bitmap,True,True,52.6,Near square
+20,hud_star.png,256,246,1.04,1.04,,native,PNG,True,1,,bitmap,True,True,44.6,Near square
+21,hud_steam.png,236,256,0.92,0.92,,native,PNG,True,1,,bitmap,True,True,48.1,Near square
+22,hud_tile.png,256,256,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,64.2,Near square
+23,letter_complete.png,1360,335,4.06,4.06,,native,PNG,True,1,,bitmap,True,True,393.9,Ultra-wide
+24,letter_kaichi.png,400,154,2.60,2.60,,native,PNG,True,1,,bitmap,True,True,51.0,Ultra-wide
+25,letter_title.png,1694,368,4.60,4.60,,native,PNG,True,1,,bitmap,True,True,411.1,Ultra-wide
+26,player_bowl.png,144,260,0.55,0.55,,native,PNG,True,1,,bitmap,True,True,40.9,Portrait
+27,player_cheer.png,195,256,0.76,0.76,,native,PNG,True,1,,bitmap,True,True,44.3,Portrait
+28,player_eat.png,150,256,0.59,0.59,,native,PNG,True,1,,bitmap,True,True,40.5,Portrait
+29,player_sit.png,178,256,0.70,0.70,,native,PNG,True,1,,bitmap,True,True,49.0,Portrait
+30,player_stand.png,172,300,0.57,0.57,,native,PNG,True,1,,bitmap,True,True,52.1,Portrait
+31,player_walk.png,176,256,0.69,0.69,,native,PNG,True,1,,bitmap,True,True,45.6,Portrait
+32,prop_bowl.png,256,219,1.17,1.17,,native,PNG,True,1,,bitmap,True,True,56.7,Near square
+33,prop_chopsticks.png,256,236,1.08,1.08,,native,PNG,True,1,,bitmap,True,True,30.5,Near square
+34,prop_copperpot.png,256,188,1.36,1.36,,native,PNG,True,1,,bitmap,True,True,38.2,Standard landscape
+35,prop_cup.png,173,256,0.68,0.68,,native,PNG,True,1,,bitmap,True,True,43.1,Portrait
+36,prop_spoon.png,256,174,1.47,1.47,,native,PNG,True,1,,bitmap,True,True,28.7,Standard landscape
+37,prop_steamer.png,235,256,0.92,0.92,,native,PNG,True,1,,bitmap,True,True,67.2,Near square
+38,scene_ground.png,680,233,2.92,2.92,,native,PNG,True,1,,bitmap,True,True,166.3,Ultra-wide
+39,scene_signboard.png,608,274,2.22,2.22,,native,PNG,True,1,,bitmap,True,True,168.3,Ultra-wide
+40,scene_stall.png,302,326,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,89.1,Near square
+41,scene_steamcloud.png,714,301,2.37,2.37,,native,PNG,True,1,,bitmap,True,True,226.8,Ultra-wide
+42,sheet_food_a.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,469.7,Near square
+43,sheet_food_b.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,191.7,Near square
+44,sheet_hud.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,177.1,Near square
+45,sheet_letter_marks.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,130.6,Wide landscape
+46,sheet_letter_title.jpg,1920,476,4.03,4.03,,native,JPEG,False,1,,bitmap,True,True,87.6,Ultra-wide
+47,sheet_player.jpg,1920,1434,1.34,1.34,,native,JPEG,False,1,,bitmap,True,True,166.7,Standard landscape
+48,sheet_props.jpg,1920,1288,1.49,1.49,,native,JPEG,False,1,,bitmap,True,True,129.3,Standard landscape
+49,sheet_scene.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,73.8,Wide landscape

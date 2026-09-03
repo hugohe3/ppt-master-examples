@@ -1,0 +1,187 @@
+# Image Generation Prompts
+
+> Auto-generated from `image_prompts.json` by `image_gen.py --render-md`.
+> Do not hand-edit — re-run the command to refresh.
+
+> Project: pixel_breakfast_atlas_20260903
+> Generated: 2026-09-03
+> Color scheme: Background #1A1C2C | Secondary_bg #2B2F4A | Primary #EF8A3C | Accent #FFCD4D | Secondary_accent #41A6B5 | Body_text #F4F0E6
+> Deck Rendering: custom
+
+---
+
+### Image 1: sheet_food_a.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Food sprite element sheet A (Slides 03-11) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 1:1 |
+| Image size | 4K |
+| Slice grid | 3x3 |
+| Slice names | dish_doujiao,dish_jianbing,dish_sidajingang,dish_reganmian,dish_changfen,dish_changshafen,dish_xiaomian,dish_roujiamo,dish_niuroumian |
+| Status | Generated |
+
+**Prompt**:
+
+8-bit pixel art with strict pixel-grid alignment and absolutely no anti-aliasing. Every element is built from discrete square pixels of exactly the same size across the whole sheet — visibly chunky stepped edges, hard transitions between color blocks, no soft gradients, no blur, no drop shadows, no glow. A limited retro palette of about fourteen colors total. Forms are simplified to read at low resolution. Each shape carries a 1-pixel outline in a darker shade of its own fill color. Depth comes only from palette layering — lighter pixels on upper surfaces, darker pixels on lower surfaces. Orthographic or slight top-down view with no perspective vanishing point. Color behavior: warm orange #EF8A3C carries dominant forms with #C25A22 as its shading tier and near-black #0F1020 as the outline pixel; gold #FFCD4D marks highlights; teal #41A6B5 is the cool accent; warm off-white #F4F0E6 is the light surface tone; muted red #E4453A and muted leaf green #7BD455 appear only where the subject genuinely needs them. No element, herb, garnish, reflection or effect may use saturated neon green. Sheet layout: an invisible logical 3x3 grid of square cells. Place exactly one element centered inside each cell with generous even clear gutters between them. Do NOT draw the cells, panels, dividers, borders, frames, captions or any gutter decoration — the gutters are empty key color only. The chroma key is flat pure #00FF00 covering the entire background and every gutter, with no gradient, texture, spill, reflection or shading; nothing touches or crosses a cell boundary and no element bleeds into another. Subjects, reading left to right then top to bottom, one Chinese breakfast dish per cell, each drawn as a single iconic food sprite at the same visual weight: (1) a small bowl of pale grey-green fermented mung-bean drink with two ring-shaped deep-fried crullers leaning on the rim; (2) a folded thin savoury crepe wrap with a visible egg layer and a crisp fried dough stick inside, one end open to show the filling; (3) a group of four items standing together — a round flatbread, a long twisted fried dough stick, a cylindrical rice roll, and a cup of soy milk; (4) a bowl of pale yellow alkaline noodles coated in thick dark sesame paste, chopsticks lifting a small tangle of noodles above the bowl; (5) a white plate holding three plump rolled rice-noodle rolls with a pool of dark soy sauce; (6) a bowl of flat white rice noodles in clear bone broth with a spoonful of dark braised topping on top; (7) a bowl of thin wheat noodles in glossy red chilli oil with a scatter of peanuts and pickled greens, one dried chilli resting on the rim; (8) a round split white bun stuffed with chopped braised pork, the crisp ringed crust of the bun clearly stepped in pixels; (9) a bowl of hand-pulled noodles in clear broth with white radish slices, red chilli oil floating on the surface and green herb flecks. Every dish sits alone with nothing behind it — no table, no plate shadow, no scene, no steam trail leaving its cell. NO text of any kind anywhere in the image — no letters, numbers, words, signs, watermarks, labels, captions, or written symbols. Color values (HEX codes like #EF8A3C) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image. 
+
+**Alt Text**:
+> 9 个中式早餐像素 sprite 的元素表
+
+---
+
+### Image 2: sheet_food_b.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Food sprite element sheet B (Slides 12-14) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 1:1 |
+| Image size | 4K |
+| Slice grid | 2x2 |
+| Slice names | dish_xiaoguomixian,dish_kaobaozi,dish_naicha,dish_doufunao |
+| Status | Generated |
+
+**Prompt**:
+
+8-bit pixel art with strict pixel-grid alignment and absolutely no anti-aliasing. Every element is built from discrete square pixels of exactly the same size across the whole sheet — visibly chunky stepped edges, hard transitions between color blocks, no soft gradients, no blur, no drop shadows, no glow, no steam, no smoke, no sparkle, no aura. A limited retro palette of about fourteen colors. Each shape carries a 1-pixel outline in a darker shade of its own fill color. Depth comes only from palette layering — lighter pixels on upper surfaces, darker pixels on lower surfaces. Orthographic or slight top-down view, no perspective. Color behavior: warm orange #EF8A3C carries dominant forms with #C25A22 as its shading tier and near-black #0F1020 as the outline pixel; gold #FFCD4D marks highlights; teal #41A6B5 is the cool accent; warm off-white #F4F0E6 is the light surface tone. NOTHING in this image may be green: no herbs, no chives, no scallion, no leaves, no garnish, no green tint, no green highlight inside any element. Background: the entire background is one perfectly uniform, absolutely flat pure #00FF00 chroma key, edge to edge, with no lighter or darker green patch, block, rectangle, haze, glow, vignette or banding anywhere. Sheet layout: an invisible logical 2x2 grid of square cells. One food object is centered in each of the four cells and occupies only the middle 60 percent of its cell, leaving a wide empty key-only gutter all around it; no object touches or crosses a cell boundary, and no object comes near another. Do NOT draw the cells, panels, dividers, borders, frames or any gutter decoration. Subjects, left to right then top to bottom: (1) a small shallow two-handled copper pot holding rice noodles in broth with a little minced meat on top, the copper rendered as stepped orange and dark-orange pixel bands; (2) two baked square lamb pastries with golden crisp tops and a few dark specks, one resting slightly on the other; (3) a wide low bowl of milky salted tea, the liquid a flat creamy off-white, the bowl warm orange; (4) a wide low bowl of soft white bean curd with a smooth glossy off-white surface and no toppings, the bowl off-white with a teal rim band. Each subject sits alone with nothing behind or above it — no table, no plate, no scene, no shadow. NO text of any kind anywhere in the image — no letters, numbers, words, signs, watermarks, labels or written symbols. Color values (HEX codes like #EF8A3C) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> 4 个中式早餐像素 sprite 的元素表
+
+---
+
+### Image 3: sheet_props.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Tableware and vessel prop sheet (Slides 02,05,07,12,14) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 3:2 |
+| Image size | 2K |
+| Slice grid | 2x3 |
+| Slice names | prop_bowl,prop_chopsticks,prop_steamer,prop_cup,prop_copperpot,prop_spoon |
+| Status | Generated |
+
+**Prompt**:
+
+8-bit pixel art with strict pixel-grid alignment and absolutely no anti-aliasing. Every element is built from discrete square pixels of exactly the same size across the whole sheet — visibly chunky stepped edges, hard transitions between color blocks, no soft gradients, no blur, no drop shadows, no glow. A limited retro palette of about fourteen colors total. Forms are simplified to read at low resolution. Each shape carries a 1-pixel outline in a darker shade of its own fill color. Depth comes only from palette layering — lighter pixels on upper surfaces, darker pixels on lower surfaces. Orthographic or slight top-down view with no perspective vanishing point. Color behavior: warm orange #EF8A3C carries dominant forms with #C25A22 as its shading tier and near-black #0F1020 as the outline pixel; gold #FFCD4D marks highlights; teal #41A6B5 is the cool accent; warm off-white #F4F0E6 is the light surface tone; muted red #E4453A and muted leaf green #7BD455 appear only where the subject genuinely needs them. No element, herb, garnish, reflection or effect may use saturated neon green. Sheet layout: an invisible logical 2x3 grid of square cells. Place exactly one element centered inside each cell with generous even clear gutters between them. Do NOT draw the cells, panels, dividers, borders, frames, captions or any gutter decoration — the gutters are empty key color only. The chroma key is flat pure #00FF00 covering the entire background and every gutter, with no gradient, texture, spill, reflection or shading; nothing touches or crosses a cell boundary and no element bleeds into another. Subjects, reading left to right then top to bottom, each a small empty prop drawn in the same family as a set of food sprites: (1) a plain empty ceramic bowl seen from a slight three-quarter angle, off-white body with one teal rim band; (2) a pair of chopsticks lying crossed at a slight diagonal, warm wood tone with darker tips; (3) a round stacked bamboo steamer basket of two tiers with the lid on, warm tan woven bands; (4) a tall paper cup with a lid, off-white body with one orange band; (5) an empty shallow copper pot with a straight handle, seen from a slight top-down angle; (6) a short-handled spoon lying flat, off-white with a darker outline. Every prop sits alone with nothing behind it — no table, no scene, no drop shadow. NO text of any kind anywhere in the image — no letters, numbers, words, signs, watermarks, labels, captions, or written symbols. Color values (HEX codes like #EF8A3C) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image. 
+
+**Alt Text**:
+> 6 件像素餐具与器皿配件的元素表
+
+---
+
+### Image 4: sheet_hud.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | HUD and attribute glyph sheet (all entry slides) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 1:1 |
+| Image size | 2K |
+| Slice grid | 3x3 |
+| Slice names | hud_chili,hud_coin,hud_clock,hud_rice,hud_steam,hud_star,hud_tile,hud_bracket,hud_heart |
+| Status | Generated |
+
+**Prompt**:
+
+8-bit pixel art with strict pixel-grid alignment and absolutely no anti-aliasing. Every element is built from discrete square pixels of exactly the same size across the whole sheet — visibly chunky stepped edges, hard transitions between color blocks, no soft gradients, no blur, no drop shadows, no glow. A limited retro palette of about fourteen colors total. Forms are simplified to read at low resolution. Each shape carries a 1-pixel outline in a darker shade of its own fill color. Depth comes only from palette layering — lighter pixels on upper surfaces, darker pixels on lower surfaces. Orthographic or slight top-down view with no perspective vanishing point. Color behavior: warm orange #EF8A3C carries dominant forms with #C25A22 as its shading tier and near-black #0F1020 as the outline pixel; gold #FFCD4D marks highlights; teal #41A6B5 is the cool accent; warm off-white #F4F0E6 is the light surface tone; muted red #E4453A and muted leaf green #7BD455 appear only where the subject genuinely needs them. No element, herb, garnish, reflection or effect may use saturated neon green. Sheet layout: an invisible logical 3x3 grid of square cells. Place exactly one element centered inside each cell with generous even clear gutters between them. Do NOT draw the cells, panels, dividers, borders, frames, captions or any gutter decoration — the gutters are empty key color only. The chroma key is flat pure #00FF00 covering the entire background and every gutter, with no gradient, texture, spill, reflection or shading; nothing touches or crosses a cell boundary and no element bleeds into another. Subjects, reading left to right then top to bottom, each a compact retro-game HUD glyph that must stay readable when shrunk to about thirty pixels: (1) one upright dried red chilli with a small green stem; (2) one round gold coin seen face-on with a square hole in the middle; (3) one simple round clock face with two straight hands and four tick marks; (4) one small heaped rice bowl seen from the front; (5) one compact puff of steam built from three stacked rounded pixel blobs in off-white; (6) one five-pointed star in gold with a lighter top edge; (7) one single square floor tile seen face-on, deep slate blue with a lighter top-left highlight edge; (8) one right-angle corner bracket made of two thick perpendicular bars meeting at a square corner, in gold; (9) one blocky heart in muted red with a lighter top-left highlight pixel. Each glyph is bold, high contrast and built from few large pixels so it survives at small size; nothing behind it. NO text of any kind anywhere in the image — no letters, numbers, words, signs, watermarks, labels, captions, or written symbols. Color values (HEX codes like #EF8A3C) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image. 
+
+**Alt Text**:
+> 9 个像素 HUD 图元的元素表
+
+---
+
+### Image 5: sheet_scene.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Environment element sheet (Slides 01,02,16) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Slice grid | 2x2 |
+| Slice names | scene_stall,scene_signboard,scene_steamcloud,scene_ground |
+| Status | Generated |
+
+**Prompt**:
+
+8-bit pixel art with strict pixel-grid alignment and absolutely no anti-aliasing. Every element is built from discrete square pixels of exactly the same size across the whole sheet — visibly chunky stepped edges, hard transitions between color blocks, no soft gradients, no blur, no drop shadows, no glow. A limited retro palette of about fourteen colors. Each shape carries a 1-pixel outline in a darker shade of its own fill color. Depth comes only from palette layering — lighter pixels on upper surfaces, darker pixels on lower surfaces. Orthographic side view, no perspective vanishing point. Color behavior: warm orange #EF8A3C carries dominant forms with #C25A22 as its shading tier and near-black #0F1020 as the outline pixel; gold #FFCD4D marks highlights; teal #41A6B5 is the cool accent; warm off-white #F4F0E6 is the light surface tone; deep slate blue #2B2F4A is the tile body. NOTHING in this image may be green: no plants, no leaves, no green tint or highlight inside any element. Background: the entire background is one perfectly uniform, absolutely flat pure #00FF00 chroma key, edge to edge, with no lighter or darker green patch, haze, glow, vignette or banding anywhere. Sheet layout: an invisible logical 2x2 grid of wide landscape cells. One element is centered in each of the four cells and occupies only the middle 55 percent of its cell's width and height, leaving a very wide empty key-only margin all around it. No element touches, crosses or comes near a cell boundary, and no element touches any edge of the canvas. Do NOT draw the cells, panels, dividers, borders, frames or any gutter decoration. Subjects, left to right then top to bottom: (1) a small street breakfast cart on two wheels with a striped fabric awning, a flat griddle top and a short stack of steamer baskets at one end, seen straight from the side, drawn compactly; (2) a blank hanging shop signboard lightbox — a horizontal rectangular frame with a warm off-white face, a gold border and a short bracket arm on the left, the face completely empty; (3) a compact low cloud of steam built from rounded off-white pixel blobs, thicker in the middle and thinning at both ends; (4) a short horizontal strip of floor tiles seen straight on, two tiles tall and six tiles wide, deep slate blue squares with lighter top-left highlight edges and darker grout lines, ending well before the cell edges. Each element sits alone with nothing behind it; the signboard face carries no writing of any kind. NO text of any kind anywhere in the image — no letters, numbers, words, signs, watermarks, labels or written symbols. Color values (HEX codes like #EF8A3C) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> 4 件像素早市环境元素的元素表
+
+---
+
+### Image 6: sheet_player.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Player character pose sheet (Slides 01,02,07,08,14,16) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 4:3 |
+| Image size | 2K |
+| Slice grid | 2x3 |
+| Slice names | player_stand,player_walk,player_bowl,player_eat,player_cheer,player_sit |
+| Status | Generated |
+
+**Prompt**:
+
+8-bit pixel art with strict pixel-grid alignment and absolutely no anti-aliasing. Every element is built from discrete square pixels of exactly the same size across the whole sheet — visibly chunky stepped edges, hard transitions between color blocks, no soft gradients, no blur, no drop shadows, no glow. A limited retro palette of about fourteen colors total. Forms are simplified to read at low resolution. Each shape carries a 1-pixel outline in a darker shade of its own fill color. Depth comes only from palette layering — lighter pixels on upper surfaces, darker pixels on lower surfaces. Orthographic or slight top-down view with no perspective vanishing point. Color behavior: warm orange #EF8A3C carries dominant forms with #C25A22 as its shading tier and near-black #0F1020 as the outline pixel; gold #FFCD4D marks highlights; teal #41A6B5 is the cool accent; warm off-white #F4F0E6 is the light surface tone; muted red #E4453A and muted leaf green #7BD455 appear only where the subject genuinely needs them. No element, herb, garnish, reflection or effect may use saturated neon green. Sheet layout: an invisible logical 2x3 grid of slightly tall portrait cells. Place exactly one element centered inside each cell with generous even clear gutters between them. Do NOT draw the cells, panels, dividers, borders, frames, captions or any gutter decoration — the gutters are empty key color only. The chroma key is flat pure #00FF00 covering the entire background and every gutter, with no gradient, texture, spill, reflection or shading; nothing touches or crosses a cell boundary and no element bleeds into another. Subjects: the exact same small retro-game character sprite in six poses, one per cell — a short chunky figure roughly three heads tall, black bob-cut hair, a warm orange jacket, deep slate blue trousers and off-white shoes, a simple face of two dot eyes and one small mouth pixel, seen from the front. Identical height, identical proportions, identical colors and identical pixel scale in every cell. Poses, reading left to right then top to bottom: (1) standing still with both arms down; (2) mid-stride walking to the right with one leg forward and the opposite arm swung; (3) holding a small bowl with both hands at chest height; (4) eating — one hand lifting chopsticks toward the mouth, the other holding a bowl; (5) cheering with both arms raised straight up; (6) squatting low with forearms resting on the knees. No detailed facial features, no scene, no ground, no shadow behind any pose. NO text of any kind anywhere in the image — no letters, numbers, words, signs, watermarks, labels, captions, or written symbols. Color values (HEX codes like #EF8A3C) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image. 
+
+**Alt Text**:
+> 同一像素小人六种姿态的元素表
+
+---
+
+### Image 7: sheet_letter_title.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Cover decorative lettering (Slide 01) |
+| Page role | local |
+| Text policy | embedded |
+| Aspect ratio | 4:1 |
+| Image size | 2K |
+| Slice grid | 1x1 |
+| Slice names | letter_title |
+| Status | Generated |
+
+**Prompt**:
+
+8-bit pixel-art bitmap lettering on a flat pure #00FF00 chroma-key field. The image is divided into three equal horizontal bands. The TOP band is empty flat #00FF00 key and contains nothing at all. The BOTTOM band is empty flat #00FF00 key and contains nothing at all. The MIDDLE band contains the one and only content in the image: the six Chinese characters 中国早餐图鉴 set on a single horizontal line, in that exact order, correctly written and fully legible. Render them as chunky 8-bit bitmap-display letterforms: every stroke is a run of whole square pixels of one uniform size, strokes thick and even, corners hard right angles, no curve smoothed, no edge anti-aliased, no blur, no glow, no drop shadow, no outer halo. Glyph faces are gold #FFCD4D with a warm orange #EF8A3C shading tier along the lower third of each stroke and a crisp 1-pixel near-black #0F1020 outline around every glyph. The six characters share one baseline, one cap height and even spacing, and the row spans about 80 percent of the canvas width, centered, so a clear band of empty flat key color remains at both ends and no stroke touches or is cut by any canvas edge. Critical: exactly ONE occurrence of each of the six characters appears in the whole image. There is no second copy, no duplicate row, no ghost, no echo, no mirrored or reflected copy, no faded, blurred, hazy, semi-transparent or out-of-focus version of the text anywhere — the top and bottom bands stay completely, uniformly empty. Every pixel in the image is either a hard-edged glyph pixel or flat uniform #00FF00 key, with no lighter or darker green patches, haze or banding. Identity comes entirely from the letterforms — no illustration, no food, no scene, no icons, no ribbons, no particles, no frame, no background panel, and no other words or characters of any kind. Color values (HEX codes like #FFCD4D) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> 像素风中文题字「中国早餐图鉴」
+
+---
+
+### Image 8: sheet_letter_marks.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Small decorative lettering marks (Slides 02,16) |
+| Page role | local |
+| Text policy | embedded |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Slice grid | 2x1 |
+| Slice names | letter_kaichi,letter_complete |
+| Status | Generated |
+
+**Prompt**:
+
+8-bit pixel art with strict pixel-grid alignment and absolutely no anti-aliasing. Every element is built from discrete square pixels of exactly the same size across the whole sheet — visibly chunky stepped edges, hard transitions between color blocks, no soft gradients, no blur, no drop shadows, no glow. A limited retro palette of about fourteen colors total. Forms are simplified to read at low resolution. Each shape carries a 1-pixel outline in a darker shade of its own fill color. Depth comes only from palette layering — lighter pixels on upper surfaces, darker pixels on lower surfaces. Orthographic or slight top-down view with no perspective vanishing point. Color behavior: warm orange #EF8A3C carries dominant forms with #C25A22 as its shading tier and near-black #0F1020 as the outline pixel; gold #FFCD4D marks highlights; teal #41A6B5 is the cool accent; warm off-white #F4F0E6 is the light surface tone; muted red #E4453A and muted leaf green #7BD455 appear only where the subject genuinely needs them. No element, herb, garnish, reflection or effect may use saturated neon green. Two decorative lettering marks on a flat pure #00FF00 chroma-key field that covers the entire background and every gutter with no gradient, texture or spill. Sheet layout: an invisible logical 2x1 grid — two wide horizontal bands stacked one above the other, one lettering mark centered in each band with a generous empty key-colored gutter between them. Do NOT draw the bands, dividers, borders or frames. Top band: exactly the three characters 开吃！ on one line, in that exact order, including the full-width exclamation mark. Bottom band: exactly the four characters 图鉴完成 on one line, in that exact order. No other words or characters appear anywhere on the sheet. Render both marks in the same chunky 8-bit bitmap-display letterforms: every stroke is a run of whole square pixels of one uniform size, thick even strokes, hard right-angle corners, no smoothing, no anti-aliasing. Glyph faces are gold #FFCD4D with a warm orange #EF8A3C shading tier along the lower third of each stroke and a crisp 1-pixel near-black #0F1020 outline. Characters within a mark share one baseline and even spacing. Identity comes entirely from the letterforms — no illustration, no food, no scene, no icons, no ribbons, no particles, no frame, no background panel, no drop shadow. Color values (HEX codes like #EF8A3C) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image. 
+
+**Alt Text**:
+> 像素风中文小题字「开吃！」与「图鉴完成」
+
+---

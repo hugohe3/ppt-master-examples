@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1A1C2C"/>
+  <image id="cover-steam" data-pptx-role="decoration" href="../images/scene_steamcloud.png" x="200" y="176" width="760" height="320" preserveAspectRatio="xMidYMid meet" opacity="0.16"/>
+  <g id="tile-band" data-pptx-role="decoration" data-pptx-bounds="0 656 1280 64">
+    <rect x="0" y="656" width="1280" height="64" fill="#232741"/>
+    <rect x="0" y="656" width="1280" height="4" fill="#3A4266"/>
+    <path d="M64 656V720 M128 656V720 M192 656V720 M256 656V720 M320 656V720 M384 656V720 M448 656V720 M512 656V720 M576 656V720 M640 656V720 M704 656V720 M768 656V720 M832 656V720 M896 656V720 M960 656V720 M1024 656V720 M1088 656V720 M1152 656V720 M1216 656V720 M0 688H1280" fill="none" stroke="#3A4266" stroke-width="2"/>
+  </g>
+  <g id="cover-signboard" data-pptx-bounds="880 44 336 144">
+    <image href="../images/scene_signboard.png" x="896" y="48" width="304" height="137" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="cover-title" data-pptx-bounds="144 192 880 208">
+    <image href="../images/letter_title.png" x="160" y="200" width="848" height="184" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="cover-native-title" data-pptx-bounds="152 420 548 132">
+    <text x="160" y="484" font-size="64" font-weight="bold" fill="#F4F0E6">中国早餐图鉴</text>
+    <text x="160" y="534" font-size="32" fill="#EF8A3C">11 座城市，11 种碳水的醒法</text>
+  </g>
+  <g id="cover-player" data-pptx-bounds="756 500 96 160">
+    <image href="../images/player_stand.png" x="764" y="506" width="86" height="150" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="cover-hero-sprite" data-pptx-bounds="856 404 360 256">
+    <image href="../images/dish_doujiao.png" x="912" y="410" width="236" height="240" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="cover-note" data-pptx-bounds="152 596 588 34">
+    <text x="160" y="620" font-size="18" fill="#A0A8C0">数字标注来源年份；本次未取得可核来源的字段显示 <tspan fill="#FFCD4D" font-family="Consolas">NO DATA</tspan></text>
+  </g>
+</svg>

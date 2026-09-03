@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1A1C2C"/>
+  <g id="tile-band" data-pptx-role="decoration" data-pptx-bounds="0 656 1280 64">
+    <rect x="0" y="656" width="1280" height="64" fill="#232741"/>
+    <rect x="0" y="656" width="1280" height="4" fill="#3A4266"/>
+    <path d="M64 656V720 M128 656V720 M192 656V720 M256 656V720 M320 656V720 M384 656V720 M448 656V720 M512 656V720 M576 656V720 M640 656V720 M704 656V720 M768 656V720 M832 656V720 M896 656V720 M960 656V720 M1024 656V720 M1088 656V720 M1152 656V720 M1216 656V720 M0 688H1280" fill="none" stroke="#3A4266" stroke-width="2"/>
+  </g>
+  <g id="p14-header" data-pptx-bounds="64 84 1152 110">
+    <text x="64" y="124" font-size="44" font-weight="bold" fill="#F4F0E6">两处争议</text>
+    <text x="64" y="170" font-size="30" fill="#A0A8C0">起点是 2011 年 6 月微博的一句话，此后分成咸党与甜党</text>
+  </g>
+  <g id="salty-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="64 200 440 340" data-pptx-av-adj="val 6000" fill="none" stroke="#41A6B5" stroke-width="4">
+<path d="M 64 220.4 A 20.4 20.4 0 0 1 84.4 200 L 483.6 200 A 20.4 20.4 0 0 1 504 220.4 L 504 519.6 A 20.4 20.4 0 0 1 483.6 540 L 84.4 540 A 20.4 20.4 0 0 1 64 519.6 Z" stroke="none"/>
+<path d="M 84.4 540 A 20.4 20.4 0 0 1 64 519.6 L 64 220.4 A 20.4 20.4 0 0 1 84.4 200 M 483.6 200 A 20.4 20.4 0 0 1 504 220.4 L 504 519.6 A 20.4 20.4 0 0 1 483.6 540"/>
+</g>
+  <g id="sweet-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="776 200 440 340" data-pptx-av-adj="val 6000" fill="none" stroke="#FFCD4D" stroke-width="4">
+<path d="M 776 220.4 A 20.4 20.4 0 0 1 796.4 200 L 1195.6 200 A 20.4 20.4 0 0 1 1216 220.4 L 1216 519.6 A 20.4 20.4 0 0 1 1195.6 540 L 796.4 540 A 20.4 20.4 0 0 1 776 519.6 Z" stroke="none"/>
+<path d="M 796.4 540 A 20.4 20.4 0 0 1 776 519.6 L 776 220.4 A 20.4 20.4 0 0 1 796.4 200 M 1195.6 200 A 20.4 20.4 0 0 1 1216 220.4 L 1216 519.6 A 20.4 20.4 0 0 1 1195.6 540"/>
+</g>
+  <g id="p14-salty" data-pptx-bounds="64 200 440 340">
+    <text x="96" y="256" font-size="30" font-weight="bold" fill="#41A6B5">咸党 · 北方</text>
+    <text x="96" y="306" font-size="18" fill="#F4F0E6">称呼　豆腐脑</text>
+    <text x="96" y="348" font-size="18" fill="#F4F0E6">配料　酱油、香菜或葱花</text>
+    <text x="96" y="390" font-size="18" fill="#F4F0E6">工艺　卤水点，细腻，勺子轻碰即碎</text>
+    <text x="96" y="432" font-size="18" fill="#F4F0E6">定位　当早餐吃</text>
+    <rect x="96" y="470" width="200" height="14" fill="#41A6B5"/>
+  </g>
+  <g id="p14-center" data-pptx-bounds="520 200 240 350">
+    <image href="../images/dish_doufunao.png" x="536" y="210" width="208" height="172" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/prop_spoon.png" x="524" y="360" width="72" height="49" preserveAspectRatio="xMidYMid meet" transform="rotate(-24 560 384)"/>
+    <path d="M640 400V462" fill="none" stroke="#4A5578" stroke-width="4" stroke-dasharray="8,4"/>
+    <image href="../images/player_sit.png" x="606" y="470" width="69" height="80" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="p14-sweet" data-pptx-bounds="776 200 440 340">
+    <text x="808" y="256" font-size="30" font-weight="bold" fill="#FFCD4D">甜党 · 南方</text>
+    <text x="808" y="306" font-size="18" fill="#F4F0E6">称呼　豆花</text>
+    <text x="808" y="348" font-size="18" fill="#F4F0E6">配料　红豆或白糖</text>
+    <text x="808" y="390" font-size="18" fill="#F4F0E6">工艺　石膏点，紧实，筷子能夹起</text>
+    <text x="808" y="432" font-size="18" fill="#F4F0E6">定位　当甜品吃</text>
+    <rect x="808" y="470" width="200" height="14" fill="#FFCD4D"/>
+  </g>
+  <g id="p14-hulatang" data-pptx-bounds="64 566 1152 90">
+    <text x="64" y="592" font-size="30" font-weight="bold" fill="#EF8A3C">另一处：胡辣汤的南北之别</text>
+    <text x="64" y="624" font-size="18" fill="#F4F0E6">河南多是<tspan fill="#FFCD4D" font-weight="bold">肉丁</tspan>胡辣汤，陕西是<tspan fill="#FFCD4D" font-weight="bold">肉丸</tspan>胡辣汤；河南内部又分逍遥镇、北舞渡、开封素三派，逍遥镇以胡椒为主角。</text>
+    <text x="64" y="650" font-size="16" fill="#A0A8C0">Fact IDs: F046 – F051　｜　来源：知乎、搜狐、澎湃新闻　·　粽子甜咸不属早餐范围，本卷不收</text>
+  </g>
+</svg>

@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1A1C2C" />
+  <g id="tile-band" data-pptx-role="decoration" data-pptx-bounds="0 656 1280 64">
+    <rect x="0" y="656" width="1280" height="64" fill="#232741" />
+    <rect x="0" y="656" width="1280" height="4" fill="#3A4266" />
+    <path d="M64 656V720 M128 656V720 M192 656V720 M256 656V720 M320 656V720 M384 656V720 M448 656V720 M512 656V720 M576 656V720 M640 656V720 M704 656V720 M768 656V720 M832 656V720 M896 656V720 M960 656V720 M1024 656V720 M1088 656V720 M1152 656V720 M1216 656V720 M0 688H1280" fill="none" stroke="#3A4266" stroke-width="2" />
+  </g>
+  <g id="p15-header" data-pptx-bounds="64 84 1152 82">
+    <text x="64" y="124" font-size="44" font-weight="bold" fill="#F4F0E6">图鉴总表 · No.01 – No.11</text>
+    <image href="data:image/png;base64,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" x="600" y="92.66" width="34" height="32.67" />
+    <text x="64" y="158" font-size="18" fill="#A0A8C0">价格与年代只在取得可核来源时填写，其余一律标 <tspan fill="#FFCD4D" font-family="Consolas">NO DATA</tspan>；来源年份跨 2020–2026</text>
+  </g>
+  <g id="atlas-index" data-pptx-replace-with="table" data-pptx-bounds="64 176 1152 420" data-pptx-fallback-sha256="fa39887282d595b7208f8b0450843b045f4c881ae7d4ffaa04b99140f792ef6a">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "atlas-index",
+  "x": 64, "y": 180, "width": 1152, "height": 414,
+  "column_widths": [90, 190, 90, 200, 230, 160, 192],
+  "row_heights": [40, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34],
+  "defaults": {
+    "cell": {
+      "font_size": 18,
+      "valign": "middle",
+      "align": "l",
+      "padding": 8,
+      "color": "#F4F0E6",
+      "fill": "#232741",
+      "borders": {
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#4A5578", "width": 1},
+        "left": {"style": "none"},
+        "right": {"style": "none"}
+      }
+    }
+  },
+  "columns": [
+    {"text": "编号", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "名称", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "城市", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "碳水主料", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "口味标签", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "定型年代", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true},
+    {"text": "可核价格", "fill": "#FFCD4D", "color": "#1A1C2C", "bold": true}
+  ],
+  "rows": [
+    [{"text": "No.01"}, {"text": "豆汁 · 焦圈"}, {"text": "北京"}, {"text": "绿豆残渣"}, {"text": "发酵酸"}, {"text": "清 1753"}, {"text": "NO DATA", "color": "#A0A8C0"}],
+    [{"text": "No.02", "fill": "#2B2F4A"}, {"text": "煎饼馃子", "fill": "#2B2F4A"}, {"text": "天津", "fill": "#2B2F4A"}, {"text": "绿豆面+小米面", "fill": "#2B2F4A"}, {"text": "咸 · 可加辣", "fill": "#2B2F4A"}, {"text": "1933", "fill": "#2B2F4A"}, {"text": "约 10 元 (2026)", "fill": "#2B2F4A"}],
+    [{"text": "No.03"}, {"text": "四大金刚"}, {"text": "上海"}, {"text": "面粉+糯米+豆浆"}, {"text": "咸 · 甜 · 清淡"}, {"text": "1912"}, {"text": "NO DATA", "color": "#A0A8C0"}],
+    [{"text": "No.04", "fill": "#2B2F4A"}, {"text": "热干面", "fill": "#2B2F4A"}, {"text": "武汉", "fill": "#2B2F4A"}, {"text": "碱水面", "fill": "#2B2F4A"}, {"text": "咸 · 芝麻酱", "fill": "#2B2F4A"}, {"text": "1930", "fill": "#2B2F4A"}, {"text": "4.5–6 元 (2025)", "fill": "#2B2F4A"}],
+    [{"text": "No.05"}, {"text": "肠粉"}, {"text": "广州"}, {"text": "米浆"}, {"text": "咸 · 甜"}, {"text": "清末"}, {"text": "NO DATA", "color": "#A0A8C0"}],
+    [{"text": "No.06", "fill": "#2B2F4A"}, {"text": "长沙米粉", "fill": "#2B2F4A"}, {"text": "长沙", "fill": "#2B2F4A"}, {"text": "扁形米粉", "fill": "#2B2F4A"}, {"text": "咸 · 鲜", "fill": "#2B2F4A"}, {"text": "1883", "fill": "#2B2F4A"}, {"text": "NO DATA", "fill": "#2B2F4A", "color": "#A0A8C0"}],
+    [{"text": "No.07"}, {"text": "重庆小面"}, {"text": "重庆"}, {"text": "碱水鲜面"}, {"text": "麻 · 辣 · 鲜 · 香"}, {"text": "2016 标准"}, {"text": "7 元起 (2024)"}],
+    [{"text": "No.08", "fill": "#2B2F4A"}, {"text": "肉夹馍/胡辣汤", "fill": "#2B2F4A"}, {"text": "西安", "fill": "#2B2F4A"}, {"text": "白吉馍", "fill": "#2B2F4A"}, {"text": "咸 · 辣", "fill": "#2B2F4A"}, {"text": "NO DATA", "fill": "#2B2F4A", "color": "#A0A8C0"}, {"text": "4–13 元 (2024)", "fill": "#2B2F4A"}],
+    [{"text": "No.09"}, {"text": "兰州牛肉面"}, {"text": "兰州"}, {"text": "手工拉面"}, {"text": "咸 · 辣"}, {"text": "1915"}, {"text": "6–8 元 / 24 元"}],
+    [{"text": "No.10", "fill": "#2B2F4A"}, {"text": "小锅米线", "fill": "#2B2F4A"}, {"text": "云南", "fill": "#2B2F4A"}, {"text": "米线", "fill": "#2B2F4A"}, {"text": "鲜 · 爽口", "fill": "#2B2F4A"}, {"text": "NO DATA", "fill": "#2B2F4A", "color": "#A0A8C0"}, {"text": "NO DATA", "fill": "#2B2F4A", "color": "#A0A8C0"}],
+    [{"text": "No.11"}, {"text": "烤包子 · 奶茶"}, {"text": "新疆"}, {"text": "死面皮"}, {"text": "咸 · 孜然 · 奶香"}, {"text": "NO DATA", "color": "#A0A8C0"}, {"text": "NO DATA", "color": "#A0A8C0"}]
+  ]
+}
+    </metadata>
+    <rect x="64" y="180" width="1152" height="40" fill="#FFCD4D" />
+    <rect x="64" y="220" width="1152" height="34" fill="#232741" />
+    <rect x="64" y="254" width="1152" height="34" fill="#2B2F4A" />
+    <rect x="64" y="288" width="1152" height="34" fill="#232741" />
+    <rect x="64" y="322" width="1152" height="34" fill="#2B2F4A" />
+    <rect x="64" y="356" width="1152" height="34" fill="#232741" />
+    <rect x="64" y="390" width="1152" height="34" fill="#2B2F4A" />
+    <rect x="64" y="424" width="1152" height="34" fill="#232741" />
+    <rect x="64" y="458" width="1152" height="34" fill="#2B2F4A" />
+    <rect x="64" y="492" width="1152" height="34" fill="#232741" />
+    <rect x="64" y="526" width="1152" height="34" fill="#2B2F4A" />
+    <rect x="64" y="560" width="1152" height="34" fill="#232741" />
+    <path d="M64 220H1216 M64 254H1216 M64 288H1216 M64 322H1216 M64 356H1216 M64 390H1216 M64 424H1216 M64 458H1216 M64 492H1216 M64 526H1216 M64 560H1216 M64 594H1216" fill="none" stroke="#4A5578" stroke-width="1" />
+    <text x="74" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">编号</text>
+    <text x="164" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">名称</text>
+    <text x="354" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">城市</text>
+    <text x="444" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">碳水主料</text>
+    <text x="644" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">口味标签</text>
+    <text x="874" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">定型年代</text>
+    <text x="1034" y="207" font-size="18" font-weight="bold" fill="#1A1C2C">可核价格</text>
+    <text x="74" y="243" font-size="18" font-family="Consolas" fill="#F4F0E6">No.01</text>
+    <text x="164" y="243" font-size="18" fill="#F4F0E6">豆汁 · 焦圈</text>
+    <text x="354" y="243" font-size="18" fill="#F4F0E6">北京</text>
+    <text x="444" y="243" font-size="18" fill="#F4F0E6">绿豆残渣</text>
+    <text x="644" y="243" font-size="18" fill="#F4F0E6">发酵酸</text>
+    <text x="874" y="243" font-size="18" fill="#F4F0E6">清 1753</text>
+    <text x="1034" y="243" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="277" font-size="18" font-family="Consolas" fill="#F4F0E6">No.02</text>
+    <text x="164" y="277" font-size="18" fill="#F4F0E6">煎饼馃子</text>
+    <text x="354" y="277" font-size="18" fill="#F4F0E6">天津</text>
+    <text x="444" y="277" font-size="18" fill="#F4F0E6">绿豆面+小米面</text>
+    <text x="644" y="277" font-size="18" fill="#F4F0E6">咸 · 可加辣</text>
+    <text x="874" y="277" font-size="18" fill="#F4F0E6">1933</text>
+    <text x="1034" y="277" font-size="18" fill="#F4F0E6">约 10 元 (2026)</text>
+    <text x="74" y="311" font-size="18" font-family="Consolas" fill="#F4F0E6">No.03</text>
+    <text x="164" y="311" font-size="18" fill="#F4F0E6">四大金刚</text>
+    <text x="354" y="311" font-size="18" fill="#F4F0E6">上海</text>
+    <text x="444" y="311" font-size="18" fill="#F4F0E6">面粉+糯米+豆浆</text>
+    <text x="644" y="311" font-size="18" fill="#F4F0E6">咸 · 甜 · 清淡</text>
+    <text x="874" y="311" font-size="18" fill="#F4F0E6">1912</text>
+    <text x="1034" y="311" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="345" font-size="18" font-family="Consolas" fill="#F4F0E6">No.04</text>
+    <text x="164" y="345" font-size="18" fill="#F4F0E6">热干面</text>
+    <text x="354" y="345" font-size="18" fill="#F4F0E6">武汉</text>
+    <text x="444" y="345" font-size="18" fill="#F4F0E6">碱水面</text>
+    <text x="644" y="345" font-size="18" fill="#F4F0E6">咸 · 芝麻酱</text>
+    <text x="874" y="345" font-size="18" fill="#F4F0E6">1930</text>
+    <text x="1034" y="345" font-size="18" fill="#F4F0E6">4.5–6 元 (2025)</text>
+    <text x="74" y="379" font-size="18" font-family="Consolas" fill="#F4F0E6">No.05</text>
+    <text x="164" y="379" font-size="18" fill="#F4F0E6">肠粉</text>
+    <text x="354" y="379" font-size="18" fill="#F4F0E6">广州</text>
+    <text x="444" y="379" font-size="18" fill="#F4F0E6">米浆</text>
+    <text x="644" y="379" font-size="18" fill="#F4F0E6">咸 · 甜</text>
+    <text x="874" y="379" font-size="18" fill="#F4F0E6">清末</text>
+    <text x="1034" y="379" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="413" font-size="18" font-family="Consolas" fill="#F4F0E6">No.06</text>
+    <text x="164" y="413" font-size="18" fill="#F4F0E6">长沙米粉</text>
+    <text x="354" y="413" font-size="18" fill="#F4F0E6">长沙</text>
+    <text x="444" y="413" font-size="18" fill="#F4F0E6">扁形米粉</text>
+    <text x="644" y="413" font-size="18" fill="#F4F0E6">咸 · 鲜</text>
+    <text x="874" y="413" font-size="18" fill="#F4F0E6">1883</text>
+    <text x="1034" y="413" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="447" font-size="18" font-family="Consolas" fill="#F4F0E6">No.07</text>
+    <text x="164" y="447" font-size="18" fill="#F4F0E6">重庆小面</text>
+    <text x="354" y="447" font-size="18" fill="#F4F0E6">重庆</text>
+    <text x="444" y="447" font-size="18" fill="#F4F0E6">碱水鲜面</text>
+    <text x="644" y="447" font-size="18" fill="#F4F0E6">麻 · 辣 · 鲜 · 香</text>
+    <text x="874" y="447" font-size="18" fill="#F4F0E6">2016 标准</text>
+    <text x="1034" y="447" font-size="18" fill="#F4F0E6">7 元起 (2024)</text>
+    <text x="74" y="481" font-size="18" font-family="Consolas" fill="#F4F0E6">No.08</text>
+    <text x="164" y="481" font-size="18" fill="#F4F0E6">肉夹馍/胡辣汤</text>
+    <text x="354" y="481" font-size="18" fill="#F4F0E6">西安</text>
+    <text x="444" y="481" font-size="18" fill="#F4F0E6">白吉馍</text>
+    <text x="644" y="481" font-size="18" fill="#F4F0E6">咸 · 辣</text>
+    <text x="874" y="481" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="1034" y="481" font-size="18" fill="#F4F0E6">4–13 元 (2024)</text>
+    <text x="74" y="515" font-size="18" font-family="Consolas" fill="#F4F0E6">No.09</text>
+    <text x="164" y="515" font-size="18" fill="#F4F0E6">兰州牛肉面</text>
+    <text x="354" y="515" font-size="18" fill="#F4F0E6">兰州</text>
+    <text x="444" y="515" font-size="18" fill="#F4F0E6">手工拉面</text>
+    <text x="644" y="515" font-size="18" fill="#F4F0E6">咸 · 辣</text>
+    <text x="874" y="515" font-size="18" fill="#F4F0E6">1915</text>
+    <text x="1034" y="515" font-size="18" fill="#F4F0E6">6–8 元 / 24 元</text>
+    <text x="74" y="549" font-size="18" font-family="Consolas" fill="#F4F0E6">No.10</text>
+    <text x="164" y="549" font-size="18" fill="#F4F0E6">小锅米线</text>
+    <text x="354" y="549" font-size="18" fill="#F4F0E6">云南</text>
+    <text x="444" y="549" font-size="18" fill="#F4F0E6">米线</text>
+    <text x="644" y="549" font-size="18" fill="#F4F0E6">鲜 · 爽口</text>
+    <text x="874" y="549" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="1034" y="549" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="74" y="583" font-size="18" font-family="Consolas" fill="#F4F0E6">No.11</text>
+    <text x="164" y="583" font-size="18" fill="#F4F0E6">烤包子 · 奶茶</text>
+    <text x="354" y="583" font-size="18" fill="#F4F0E6">新疆</text>
+    <text x="444" y="583" font-size="18" fill="#F4F0E6">死面皮</text>
+    <text x="644" y="583" font-size="18" fill="#F4F0E6">咸 · 孜然 · 奶香</text>
+    <text x="874" y="583" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+    <text x="1034" y="583" font-size="18" font-family="Consolas" fill="#A0A8C0">NO DATA</text>
+  </g>
+  <g id="p15-footnote" data-pptx-bounds="64 600 1152 56">
+    <text x="64" y="618" font-size="16" fill="#A0A8C0">价格来源年份：2020（兰州一线均价）· 2024（重庆、西安）· 2025（武汉）· 2026（天津报道）</text>
+    <text x="64" y="646" font-size="16" fill="#A0A8C0">Fact IDs: F001, F002, F004, F007 – F012, F015, F017, F019, F023, F024, F027, F029 – F031, F034 – F036, F039, F042</text>
+  </g>
+</svg>

@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "cut" }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous", "sound": "sounds/kenney-interface/select_003.wav" },
+        "cover-native-title": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous", "delay": 0.2 },
+        "cover-hero-sprite": { "effect": "entrance_appear", "order": 3, "trigger": "after-previous", "delay": 0.2 }
+      }
+    },
+    "02_how_to_read": {
+      "groups": {
+        "common-tile-1": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "trigger": "after-previous", "duration": 0.3 },
+        "p02-common-1": { "effect": "entrance_appear", "order": 1, "trigger": "with-previous" },
+        "common-tile-2": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "trigger": "after-previous", "duration": 0.3 },
+        "p02-common-2": { "effect": "entrance_appear", "order": 2, "trigger": "with-previous" },
+        "common-tile-3": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.3 },
+        "p02-common-3": { "effect": "entrance_appear", "order": 3, "trigger": "with-previous" },
+        "common-tile-4": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 4, "trigger": "after-previous", "duration": 0.3 },
+        "p02-common-4": { "effect": "entrance_appear", "order": 4, "trigger": "with-previous" },
+        "p02-readguide": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "03_no01_beijing_douzhi": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5 },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "04_no02_tianjin_jianbing": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "03_no01_beijing_douzhi",
+        "pairs": {
+          "hud-frame": { "from": "entry-hud", "to": "entry-hud" },
+          "atlas-bar": { "from": "atlas-progress", "to": "atlas-progress" }
+        }
+      },
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-notes": { "effect": "entrance_appear", "order": 3, "trigger": "after-previous" },
+        "step-1": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 4, "trigger": "after-previous", "duration": 0.25 },
+        "step-2": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.25 },
+        "step-3": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 6, "trigger": "after-previous", "duration": 0.25 },
+        "step-4": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 7, "trigger": "after-previous", "duration": 0.25 },
+        "step-5": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 8, "trigger": "after-previous", "duration": 0.25 }
+      }
+    },
+    "05_no03_shanghai_sidajingang": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5 },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "06_no04_wuhan_reganmian": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5 },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "07_no05_guangzhou_changfen": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5 },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "08_no06_changsha_mifen": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "07_no05_guangzhou_changfen",
+        "pairs": {
+          "hud-frame": { "from": "entry-hud", "to": "entry-hud" },
+          "atlas-bar": { "from": "atlas-progress", "to": "atlas-progress" }
+        }
+      },
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-notes": { "effect": "entrance_appear", "order": 3, "trigger": "after-previous" }
+      }
+    },
+    "09_no07_chongqing_xiaomian": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5, "sound": "sounds/kenney-ui/switch2.wav" },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "10_no08_xian_roujiamo": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5 },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "11_no09_lanzhou_niuroumian": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5 },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "12_no10_yunnan_xiaoguomixian": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5 },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "13_no11_xinjiang_kaobaozi": {
+      "groups": {
+        "entry-sprite": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "entry-header": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "entry-hud": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "trigger": "after-previous", "duration": 0.5 },
+        "entry-notes": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "atlas-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "14_disputes": {
+      "groups": {
+        "p14-header": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "p14-center": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" },
+        "salty-bracket": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "trigger": "after-previous", "duration": 0.45 },
+        "p14-salty": { "effect": "entrance_appear", "order": 3, "trigger": "with-previous" },
+        "sweet-bracket": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 4, "trigger": "after-previous", "duration": 0.45 },
+        "p14-sweet": { "effect": "entrance_appear", "order": 4, "trigger": "with-previous" },
+        "p14-hulatang": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 5, "trigger": "after-previous", "duration": 0.4 }
+      }
+    },
+    "15_atlas_table": {
+      "groups": {
+        "p15-header": { "effect": "entrance_appear", "order": 1, "trigger": "after-previous" },
+        "atlas-index": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous" }
+      }
+    },
+    "16_atlas_complete": {
+      "groups": {
+        "p16-progress": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "trigger": "after-previous", "duration": 0.9, "sound": "sounds/kenney-interface/confirmation_002.wav" },
+        "p16-lettering": { "effect": "entrance_appear", "order": 2, "trigger": "after-previous", "delay": 0.2 },
+        "p16-native-title": { "effect": "entrance_appear", "order": 3, "trigger": "after-previous" },
+        "finish-star-1": { "effect": "entrance_appear", "order": 4, "trigger": "after-previous" },
+        "finish-star-2": { "effect": "entrance_appear", "order": 4, "trigger": "with-previous" },
+        "finish-star-3": { "effect": "entrance_appear", "order": 4, "trigger": "with-previous" }
+      }
+    }
+  }
+}

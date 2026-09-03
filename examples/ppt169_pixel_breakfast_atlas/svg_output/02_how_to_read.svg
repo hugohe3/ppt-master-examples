@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1A1C2C"/>
+  <g id="tile-band" data-pptx-role="decoration" data-pptx-bounds="0 656 1280 64">
+    <rect x="0" y="656" width="1280" height="64" fill="#232741"/>
+    <rect x="0" y="656" width="1280" height="4" fill="#3A4266"/>
+    <path d="M64 656V720 M128 656V720 M192 656V720 M256 656V720 M320 656V720 M384 656V720 M448 656V720 M512 656V720 M576 656V720 M640 656V720 M704 656V720 M768 656V720 M832 656V720 M896 656V720 M960 656V720 M1024 656V720 M1088 656V720 M1152 656V720 M1216 656V720 M0 688H1280" fill="none" stroke="#3A4266" stroke-width="2"/>
+  </g>
+  <g id="p02-header" data-pptx-bounds="64 88 1152 100">
+    <text x="64" y="132" font-size="44" font-weight="bold" fill="#F4F0E6">怎么读这本图鉴</text>
+    <text x="64" y="172" font-size="30" fill="#A0A8C0">每张卡固定四行属性；下面四条共性贯穿全部 11 条</text>
+    <rect x="64" y="146" width="120" height="6" fill="#EF8A3C"/>
+  </g>
+  <g id="common-tile-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bevel" data-pptx-frame="64 210 596 92" data-pptx-av-adj="val 22000" fill="#2B2F4A" stroke="#4A5578" stroke-width="2">
+<path d="M 84.24 230.24 L 639.76 230.24 L 639.76 281.76 L 84.24 281.76 Z" stroke="none"/>
+<path d="M 64 210 L 660 210 L 639.76 230.24 L 84.24 230.24 Z" fill="#55596E" stroke="none"/>
+<path d="M 64 302 L 84.24 281.76 L 639.76 281.76 L 660 302 Z" fill="#23273D" stroke="none"/>
+<path d="M 64 210 L 84.24 230.24 L 84.24 281.76 L 64 302 Z" fill="#808292" stroke="none"/>
+<path d="M 660 210 L 660 302 L 639.76 281.76 L 639.76 230.24 Z" fill="#1C1F30" stroke="none"/>
+<path d="M 64 210 L 660 210 L 660 302 L 64 302 Z M 84.24 230.24 L 639.76 230.24 L 639.76 281.76 L 84.24 281.76 Z M 64 210 L 84.24 230.24 M 64 302 L 84.24 281.76 M 660 210 L 639.76 230.24 M 660 302 L 639.76 281.76" fill="none"/>
+</g>
+  <g id="p02-common-1" data-pptx-bounds="64 210 596 92">
+    <image href="../images/hud_rice.png" x="84" y="232" width="44" height="44" preserveAspectRatio="xMidYMid meet"/>
+    <text x="148" y="256" font-size="30" font-weight="bold" fill="#FFCD4D">共性一 · 碳水为主</text>
+    <text x="148" y="286" font-size="18" fill="#A0A8C0">2024 年调查：<tspan fill="#F4F0E6" font-weight="bold">50.62%</tspan> 居民早餐为面食类</text>
+  </g>
+  <g id="common-tile-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bevel" data-pptx-frame="64 314 596 92" data-pptx-av-adj="val 22000" fill="#2B2F4A" stroke="#4A5578" stroke-width="2">
+<path d="M 84.24 334.24 L 639.76 334.24 L 639.76 385.76 L 84.24 385.76 Z" stroke="none"/>
+<path d="M 64 314 L 660 314 L 639.76 334.24 L 84.24 334.24 Z" fill="#55596E" stroke="none"/>
+<path d="M 64 406 L 84.24 385.76 L 639.76 385.76 L 660 406 Z" fill="#23273D" stroke="none"/>
+<path d="M 64 314 L 84.24 334.24 L 84.24 385.76 L 64 406 Z" fill="#808292" stroke="none"/>
+<path d="M 660 314 L 660 406 L 639.76 385.76 L 639.76 334.24 Z" fill="#1C1F30" stroke="none"/>
+<path d="M 64 314 L 660 314 L 660 406 L 64 406 Z M 84.24 334.24 L 639.76 334.24 L 639.76 385.76 L 84.24 385.76 Z M 64 314 L 84.24 334.24 M 64 406 L 84.24 385.76 M 660 314 L 639.76 334.24 M 660 406 L 639.76 385.76" fill="none"/>
+</g>
+  <g id="p02-common-2" data-pptx-bounds="64 314 596 92">
+    <image href="../images/prop_bowl.png" x="84" y="336" width="44" height="44" preserveAspectRatio="xMidYMid meet"/>
+    <text x="148" y="360" font-size="30" font-weight="bold" fill="#FFCD4D">共性二 · 一碗热的</text>
+    <text x="148" y="390" font-size="18" fill="#A0A8C0">豆汁、豆浆、清汤、咸奶茶，横跨南北</text>
+  </g>
+  <g id="common-tile-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bevel" data-pptx-frame="64 418 596 92" data-pptx-av-adj="val 22000" fill="#2B2F4A" stroke="#4A5578" stroke-width="2">
+<path d="M 84.24 438.24 L 639.76 438.24 L 639.76 489.76 L 84.24 489.76 Z" stroke="none"/>
+<path d="M 64 418 L 660 418 L 639.76 438.24 L 84.24 438.24 Z" fill="#55596E" stroke="none"/>
+<path d="M 64 510 L 84.24 489.76 L 639.76 489.76 L 660 510 Z" fill="#23273D" stroke="none"/>
+<path d="M 64 418 L 84.24 438.24 L 84.24 489.76 L 64 510 Z" fill="#808292" stroke="none"/>
+<path d="M 660 418 L 660 510 L 639.76 489.76 L 639.76 438.24 Z" fill="#1C1F30" stroke="none"/>
+<path d="M 64 418 L 660 418 L 660 510 L 64 510 Z M 84.24 438.24 L 639.76 438.24 L 639.76 489.76 L 84.24 489.76 Z M 64 418 L 84.24 438.24 M 64 510 L 84.24 489.76 M 660 418 L 639.76 438.24 M 660 510 L 639.76 489.76" fill="none"/>
+</g>
+  <g id="p02-common-3" data-pptx-bounds="64 418 596 92">
+    <image href="../images/hud_steam.png" x="84" y="440" width="44" height="44" preserveAspectRatio="xMidYMid meet"/>
+    <text x="148" y="464" font-size="30" font-weight="bold" fill="#FFCD4D">共性三 · 现做现吃</text>
+    <text x="148" y="494" font-size="18" fill="#A0A8C0">现摊、现抻、现煮、现蒸、现烤，一锅一份</text>
+  </g>
+  <g id="common-tile-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bevel" data-pptx-frame="64 522 596 92" data-pptx-av-adj="val 22000" fill="#2B2F4A" stroke="#4A5578" stroke-width="2">
+<path d="M 84.24 542.24 L 639.76 542.24 L 639.76 593.76 L 84.24 593.76 Z" stroke="none"/>
+<path d="M 64 522 L 660 522 L 639.76 542.24 L 84.24 542.24 Z" fill="#55596E" stroke="none"/>
+<path d="M 64 614 L 84.24 593.76 L 639.76 593.76 L 660 614 Z" fill="#23273D" stroke="none"/>
+<path d="M 64 522 L 84.24 542.24 L 84.24 593.76 L 64 614 Z" fill="#808292" stroke="none"/>
+<path d="M 660 522 L 660 614 L 639.76 593.76 L 639.76 542.24 Z" fill="#1C1F30" stroke="none"/>
+<path d="M 64 522 L 660 522 L 660 614 L 64 614 Z M 84.24 542.24 L 639.76 542.24 L 639.76 593.76 L 84.24 593.76 Z M 64 522 L 84.24 542.24 M 64 614 L 84.24 593.76 M 660 522 L 639.76 542.24 M 660 614 L 639.76 593.76" fill="none"/>
+</g>
+  <g id="p02-common-4" data-pptx-bounds="64 522 596 92">
+    <image href="../images/hud_coin.png" x="84" y="544" width="44" height="44" preserveAspectRatio="xMidYMid meet"/>
+    <text x="148" y="568" font-size="30" font-weight="bold" fill="#FFCD4D">共性四 · 摊贩与早市</text>
+    <text x="148" y="598" font-size="18" fill="#A0A8C0">2024 年 <tspan fill="#F4F0E6" font-weight="bold">56.97%</tspan> 每周在外吃 3–4 次</text>
+  </g>
+  <g id="p02-readguide" data-pptx-bounds="700 210 516 260">
+    <text x="716" y="246" font-size="30" font-weight="bold" fill="#41A6B5">每张卡的四行属性</text>
+    <text x="716" y="292" font-size="18" fill="#F4F0E6">口味　来源里写明的味觉标签</text>
+    <text x="716" y="328" font-size="18" fill="#F4F0E6">辣度　三档：不辣 / 可加辣 / 以辣为主味</text>
+    <text x="716" y="364" font-size="18" fill="#F4F0E6">价格　有可核来源才填，并注明年份</text>
+    <text x="716" y="400" font-size="18" fill="#F4F0E6">年代　有可核来源才填，否则 <tspan fill="#FFCD4D" font-family="Consolas">NO DATA</tspan></text>
+    <text x="716" y="444" font-size="16" fill="#A0A8C0">11 条按 No.01 – No.11 顺序排列，权重相同，不排名次</text>
+    <rect x="700" y="216" width="6" height="240" fill="#41A6B5"/>
+  </g>
+  <g id="p02-scene" data-pptx-bounds="700 480 516 176">
+    <image href="../images/hud_tile.png" x="716" y="616" width="40" height="40" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/hud_tile.png" x="760" y="616" width="40" height="40" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/hud_tile.png" x="804" y="616" width="40" height="40" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/letter_kaichi.png" x="716" y="496" width="200" height="77" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/player_bowl.png" x="940" y="526" width="72" height="130" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/scene_stall.png" x="1046" y="493" width="163" height="163" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+</svg>
