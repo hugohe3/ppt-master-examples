@@ -313,180 +313,6 @@
       "pptx": "examples/ppt169_attention_is_all_you_need/exports/attention_is_all_you_need.pptx"
     },
     {
-      "id": "ppt169_pritzker_2026_quick",
-      "title": "Pritzker 2026 (Quick)",
-      "description": "2026 普利兹克大师季 — 8 座新作深读,实景摄影全用 + 每座建筑专属几何语言,Quick 路线生成",
-      "icon": "🏛️",
-      "color": "#594A3C",
-      "style": "editorial",
-      "styleName": "Architecture Editorial",
-      "desc": "Long-read on the eight Pritzker-laureate buildings opening in 2026, from Ando's Suzhou museum to Kéré's Goethe-Institut in Dakar. Photography-forward editorial layout built entirely from the source article's real photographs, with a bespoke geometric motif per building. Generated on the Quick runtime with speaker notes and transition animations.",
-      "tags": [
-        "Architecture",
-        "Editorial",
-        "Quick Generate"
-      ],
-      "isNew": true,
-      "folder": "ppt169_pritzker_2026_quick/svg_final",
-      "generatedAt": "2026-08-28",
-      "cover": "01_cover.svg",
-      "slides": [
-        {
-          "file": "01_cover.svg",
-          "title": "cover",
-          "desc": "2026 普利兹克奖大师季 · 8 座新作,8 种深耕"
-        },
-        {
-          "file": "02_timeline.svg",
-          "title": "timeline",
-          "desc": "一年之内,八座大师新作接连揭幕"
-        },
-        {
-          "file": "03_toc.svg",
-          "title": "toc",
-          "desc": "目录 · 8 位得主 · 8 座新作"
-        },
-        {
-          "file": "04_ando.svg",
-          "title": "ando",
-          "desc": "安藤忠雄 · 苏州 H+ 美术馆"
-        },
-        {
-          "file": "05_chipperfield.svg",
-          "title": "chipperfield",
-          "desc": "戴卫·奇普菲尔德 · 场馆与古罗马圆形剧场的回响"
-        },
-        {
-          "file": "06_zaha.svg",
-          "title": "zaha",
-          "desc": "扎哈·哈迪德事务所 · 淡水河口单塔斜拉桥"
-        },
-        {
-          "file": "07_foster.svg",
-          "title": "foster",
-          "desc": "诺曼·福斯特 · 上海嘉艺术"
-        },
-        {
-          "file": "08_oma_sanaa.svg",
-          "title": "oma sanaa",
-          "desc": "OMA × SANAA · 纽约新美术馆扩建"
-        },
-        {
-          "file": "09_zumthor.svg",
-          "title": "zumthor",
-          "desc": "彼得·卒姆托 · LACMA 大卫·格芬画廊"
-        },
-        {
-          "file": "10_gehry.svg",
-          "title": "gehry",
-          "desc": "弗兰克·盖里 · 阿布扎比古根海姆博物馆"
-        },
-        {
-          "file": "11_kere.svg",
-          "title": "kere",
-          "desc": "弗朗西斯·凯雷 · 达喀尔歌德学院"
-        },
-        {
-          "file": "12_synthesis.svg",
-          "title": "synthesis",
-          "desc": "结语 · 8 种深耕,三种坚守"
-        },
-        {
-          "file": "13_ending.svg",
-          "title": "ending",
-          "desc": "所有传世的经典,皆源于日复一日的坚守"
-        }
-      ],
-      "pptx": "examples/ppt169_pritzker_2026_quick/exports/pritzker_2026_quick.pptx"
-    },
-    {
-      "id": "ppt169_kubernetes_blueprint_2026",
-      "title": "Kubernetes Blueprint 2026",
-      "description": "Kubernetes 集群架构 13 页拆解 — 深海军蓝等距技术图风,纯手绘 SVG 几何,Quick 路线生成",
-      "icon": "📐",
-      "color": "#3FB4D9",
-      "style": "general",
-      "styleName": "Engineering Blueprint",
-      "desc": "Thirteen-page walkthrough of Kubernetes cluster architecture in an isometric engineering-drawing style — blueprint cyan and violet on deep navy paper, hand-authored SVG geometry only. Covers the two planes, control-plane components, scheduling, the reconcile loop, worker nodes, Pod lifecycle, Services, storage, HA topology, self-healing and the API spine. Generated on the Quick runtime from the kubernetes.io docs, with speaker notes and object animations.",
-      "tags": [
-        "Blueprint",
-        "Kubernetes",
-        "Technical Drawing"
-      ],
-      "isNew": true,
-      "folder": "ppt169_kubernetes_blueprint_2026/svg_final",
-      "generatedAt": "2026-08-28",
-      "cover": "01_cover.svg",
-      "slides": [
-        {
-          "file": "01_cover.svg",
-          "title": "cover",
-          "desc": "Kubernetes 集群架构拆解"
-        },
-        {
-          "file": "02_two_planes.svg",
-          "title": "two planes",
-          "desc": "两个平面,一条脊柱"
-        },
-        {
-          "file": "03_control_plane.svg",
-          "title": "control plane",
-          "desc": "控制平面的五个组件"
-        },
-        {
-          "file": "04_scheduling.svg",
-          "title": "scheduling",
-          "desc": "调度:先过滤,再打分"
-        },
-        {
-          "file": "05_reconcile.svg",
-          "title": "reconcile",
-          "desc": "控制器:一个永不停止的调和循环"
-        },
-        {
-          "file": "06_worker_node.svg",
-          "title": "worker node",
-          "desc": "每个工作节点上的三个组件"
-        },
-        {
-          "file": "07_pod_lifecycle.svg",
-          "title": "pod lifecycle",
-          "desc": "Pod 的一生:阶段、探针与优雅终止"
-        },
-        {
-          "file": "08_services.svg",
-          "title": "services",
-          "desc": "Service:多变的 Pod 前面,一个稳定的入口"
-        },
-        {
-          "file": "09_storage.svg",
-          "title": "storage",
-          "desc": "存储:三种资源分工,CSI 统一后端"
-        },
-        {
-          "file": "10_ha_topology.svg",
-          "title": "ha topology",
-          "desc": "生产高可用:三台起步,奇数 etcd,跨可用区"
-        },
-        {
-          "file": "11_self_healing.svg",
-          "title": "self healing",
-          "desc": "自愈的边界:什么会自动恢复,什么不会"
-        },
-        {
-          "file": "12_api_spine.svg",
-          "title": "api spine",
-          "desc": "通信总览:每一条线都经过 API server"
-        },
-        {
-          "file": "13_takeaways.svg",
-          "title": "takeaways",
-          "desc": "回顾:五句话记住这套架构"
-        }
-      ],
-      "pptx": "examples/ppt169_kubernetes_blueprint_2026/exports/kubernetes_blueprint_2026.pptx"
-    },
-    {
       "id": "xiaohongshu_song_diancha",
       "title": "宋人点茶 · 七汤",
       "description": "小红书竖版图文 9 页 — 《大观茶论》七汤点茶法图解,新中式水墨 + AI 水彩插画与「七汤」题字,Quick 路线纯题目生成",
@@ -678,6 +504,273 @@
       "pptxNative": "examples/ppt43_wave_interference_diffraction/exports/wave_interference_diffraction_native_charts_tables.pptx"
     },
     {
+      "id": "ppt169_china_telecom_2025",
+      "title": "中国电信 2025 年业绩解读",
+      "description": "套用内置「中国电信」Deck 模板的 14 页业绩汇报 — Quick 路线、结构化 Master/Layout 导出,含原生图表版",
+      "icon": "📡",
+      "color": "#C00000",
+      "style": "corporate",
+      "styleName": "Brand Deck Template",
+      "desc": "Fourteen-page reading of China Telecom's 2025 full-year results built on the bundled 中国电信 Deck template: two brand Masters and five Layouts are declared on every page and exported as a structured PPTX. Pyramid argument, Swiss-minimal restraint inside the template's red-and-grey system, tabler icons, four native chevron presets, speaker notes, section push transitions and per-object entrance choreography. A second export renders the emerging-business bar chart as a native PowerPoint chart.",
+      "tags": [
+        "Template",
+        "Corporate Report",
+        "Native Chart"
+      ],
+      "isNew": true,
+      "folder": "ppt169_china_telecom_2025/svg_final",
+      "generatedAt": "2026-08-29",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "中国电信 2025 年全年业绩解读"
+        },
+        {
+          "file": "02_agenda.svg",
+          "title": "agenda",
+          "desc": "目录:经营底盘 / 战新业务 / 智能云与 AI+ / 未来赛道"
+        },
+        {
+          "file": "03_section_foundation.svg",
+          "title": "section foundation",
+          "desc": "经营底盘保持稳健"
+        },
+        {
+          "file": "04_kpi_overview.svg",
+          "title": "kpi overview",
+          "desc": "经营收入 5296 亿元,盈利与现金流稳定"
+        },
+        {
+          "file": "05_dual_drive.svg",
+          "title": "dual drive",
+          "desc": "基础业务与产业数字化形成双轮驱动"
+        },
+        {
+          "file": "06_section_emerging.svg",
+          "title": "section emerging",
+          "desc": "战新业务成为增长亮点"
+        },
+        {
+          "file": "07_emerging_revenue.svg",
+          "title": "emerging revenue",
+          "desc": "天翼云 1207 亿元,战新业务成为第二增长曲线"
+        },
+        {
+          "file": "08_section_intelligence.svg",
+          "title": "section intelligence",
+          "desc": "智能云体系与 AI+ 规模化应用"
+        },
+        {
+          "file": "09_five_layers.svg",
+          "title": "five layers",
+          "desc": "五位一体智能云:算力→平台→数据→模型→应用"
+        },
+        {
+          "file": "10_ai_scale.svg",
+          "title": "ai scale",
+          "desc": "AI+ 从能力建设进入规模化应用"
+        },
+        {
+          "file": "11_section_frontiers.svg",
+          "title": "section frontiers",
+          "desc": "未来赛道与 2026 年经营主线"
+        },
+        {
+          "file": "12_growth_tracks.svg",
+          "title": "growth tracks",
+          "desc": "量子、低空、AI 安全与智能基础设施扩展增长边界"
+        },
+        {
+          "file": "13_token_mainline.svg",
+          "title": "token mainline",
+          "desc": "2026 年以 Token 服务为经营主线"
+        },
+        {
+          "file": "14_closing.svg",
+          "title": "closing",
+          "desc": "以 Token 服务为经营主线 · 打造领先的 AI 服务商"
+        }
+      ],
+      "pptx": "examples/ppt169_china_telecom_2025/exports/china_telecom_2025.pptx",
+      "pptxNative": "examples/ppt169_china_telecom_2025/exports/china_telecom_2025_native_charts_tables.pptx"
+    },
+    {
+      "id": "ppt169_pritzker_2026_quick",
+      "title": "Pritzker 2026 (Quick)",
+      "description": "2026 普利兹克大师季 — 8 座新作深读,实景摄影全用 + 每座建筑专属几何语言,Quick 路线生成",
+      "icon": "🏛️",
+      "color": "#594A3C",
+      "style": "editorial",
+      "styleName": "Architecture Editorial",
+      "desc": "Long-read on the eight Pritzker-laureate buildings opening in 2026, from Ando's Suzhou museum to Kéré's Goethe-Institut in Dakar. Photography-forward editorial layout built entirely from the source article's real photographs, with a bespoke geometric motif per building. Generated on the Quick runtime with speaker notes and transition animations.",
+      "tags": [
+        "Architecture",
+        "Editorial",
+        "Quick Generate"
+      ],
+      "isNew": true,
+      "folder": "ppt169_pritzker_2026_quick/svg_final",
+      "generatedAt": "2026-08-28",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "2026 普利兹克奖大师季 · 8 座新作,8 种深耕"
+        },
+        {
+          "file": "02_timeline.svg",
+          "title": "timeline",
+          "desc": "一年之内,八座大师新作接连揭幕"
+        },
+        {
+          "file": "03_toc.svg",
+          "title": "toc",
+          "desc": "目录 · 8 位得主 · 8 座新作"
+        },
+        {
+          "file": "04_ando.svg",
+          "title": "ando",
+          "desc": "安藤忠雄 · 苏州 H+ 美术馆"
+        },
+        {
+          "file": "05_chipperfield.svg",
+          "title": "chipperfield",
+          "desc": "戴卫·奇普菲尔德 · 场馆与古罗马圆形剧场的回响"
+        },
+        {
+          "file": "06_zaha.svg",
+          "title": "zaha",
+          "desc": "扎哈·哈迪德事务所 · 淡水河口单塔斜拉桥"
+        },
+        {
+          "file": "07_foster.svg",
+          "title": "foster",
+          "desc": "诺曼·福斯特 · 上海嘉艺术"
+        },
+        {
+          "file": "08_oma_sanaa.svg",
+          "title": "oma sanaa",
+          "desc": "OMA × SANAA · 纽约新美术馆扩建"
+        },
+        {
+          "file": "09_zumthor.svg",
+          "title": "zumthor",
+          "desc": "彼得·卒姆托 · LACMA 大卫·格芬画廊"
+        },
+        {
+          "file": "10_gehry.svg",
+          "title": "gehry",
+          "desc": "弗兰克·盖里 · 阿布扎比古根海姆博物馆"
+        },
+        {
+          "file": "11_kere.svg",
+          "title": "kere",
+          "desc": "弗朗西斯·凯雷 · 达喀尔歌德学院"
+        },
+        {
+          "file": "12_synthesis.svg",
+          "title": "synthesis",
+          "desc": "结语 · 8 种深耕,三种坚守"
+        },
+        {
+          "file": "13_ending.svg",
+          "title": "ending",
+          "desc": "所有传世的经典,皆源于日复一日的坚守"
+        }
+      ],
+      "pptx": "examples/ppt169_pritzker_2026_quick/exports/pritzker_2026_quick.pptx"
+    },
+    {
+      "id": "ppt169_kubernetes_blueprint_2026",
+      "title": "Kubernetes Blueprint 2026",
+      "description": "Kubernetes 集群架构 13 页拆解 — 深海军蓝等距技术图风,纯手绘 SVG 几何,Quick 路线生成",
+      "icon": "📐",
+      "color": "#3FB4D9",
+      "style": "general",
+      "styleName": "Engineering Blueprint",
+      "desc": "Thirteen-page walkthrough of Kubernetes cluster architecture in an isometric engineering-drawing style — blueprint cyan and violet on deep navy paper, hand-authored SVG geometry only. Covers the two planes, control-plane components, scheduling, the reconcile loop, worker nodes, Pod lifecycle, Services, storage, HA topology, self-healing and the API spine. Generated on the Quick runtime from the kubernetes.io docs, with speaker notes and object animations.",
+      "tags": [
+        "Blueprint",
+        "Kubernetes",
+        "Technical Drawing"
+      ],
+      "isNew": true,
+      "folder": "ppt169_kubernetes_blueprint_2026/svg_final",
+      "generatedAt": "2026-08-28",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "Kubernetes 集群架构拆解"
+        },
+        {
+          "file": "02_two_planes.svg",
+          "title": "two planes",
+          "desc": "两个平面,一条脊柱"
+        },
+        {
+          "file": "03_control_plane.svg",
+          "title": "control plane",
+          "desc": "控制平面的五个组件"
+        },
+        {
+          "file": "04_scheduling.svg",
+          "title": "scheduling",
+          "desc": "调度:先过滤,再打分"
+        },
+        {
+          "file": "05_reconcile.svg",
+          "title": "reconcile",
+          "desc": "控制器:一个永不停止的调和循环"
+        },
+        {
+          "file": "06_worker_node.svg",
+          "title": "worker node",
+          "desc": "每个工作节点上的三个组件"
+        },
+        {
+          "file": "07_pod_lifecycle.svg",
+          "title": "pod lifecycle",
+          "desc": "Pod 的一生:阶段、探针与优雅终止"
+        },
+        {
+          "file": "08_services.svg",
+          "title": "services",
+          "desc": "Service:多变的 Pod 前面,一个稳定的入口"
+        },
+        {
+          "file": "09_storage.svg",
+          "title": "storage",
+          "desc": "存储:三种资源分工,CSI 统一后端"
+        },
+        {
+          "file": "10_ha_topology.svg",
+          "title": "ha topology",
+          "desc": "生产高可用:三台起步,奇数 etcd,跨可用区"
+        },
+        {
+          "file": "11_self_healing.svg",
+          "title": "self healing",
+          "desc": "自愈的边界:什么会自动恢复,什么不会"
+        },
+        {
+          "file": "12_api_spine.svg",
+          "title": "api spine",
+          "desc": "通信总览:每一条线都经过 API server"
+        },
+        {
+          "file": "13_takeaways.svg",
+          "title": "takeaways",
+          "desc": "回顾:五句话记住这套架构"
+        }
+      ],
+      "pptx": "examples/ppt169_kubernetes_blueprint_2026/exports/kubernetes_blueprint_2026.pptx"
+    },
+    {
       "id": "ppt169_what_is_ppt",
       "title": "什么是 PPT",
       "description": "“PPT 到底是什么”17 页系统讲解 — 蓝图×编辑杂志混合风,AI 线稿插图 + 备注 + 动画,Default 路线生成",
@@ -783,99 +876,6 @@
         }
       ],
       "pptx": "examples/ppt169_what_is_ppt/exports/what_is_ppt.pptx"
-    },
-    {
-      "id": "ppt169_china_telecom_2025",
-      "title": "中国电信 2025 年业绩解读",
-      "description": "套用内置「中国电信」Deck 模板的 14 页业绩汇报 — Quick 路线、结构化 Master/Layout 导出,含原生图表版",
-      "icon": "📡",
-      "color": "#C00000",
-      "style": "corporate",
-      "styleName": "Brand Deck Template",
-      "desc": "Fourteen-page reading of China Telecom's 2025 full-year results built on the bundled 中国电信 Deck template: two brand Masters and five Layouts are declared on every page and exported as a structured PPTX. Pyramid argument, Swiss-minimal restraint inside the template's red-and-grey system, tabler icons, four native chevron presets, speaker notes, section push transitions and per-object entrance choreography. A second export renders the emerging-business bar chart as a native PowerPoint chart.",
-      "tags": [
-        "Template",
-        "Corporate Report",
-        "Native Chart"
-      ],
-      "isNew": true,
-      "folder": "ppt169_china_telecom_2025/svg_final",
-      "generatedAt": "2026-08-29",
-      "cover": "01_cover.svg",
-      "slides": [
-        {
-          "file": "01_cover.svg",
-          "title": "cover",
-          "desc": "中国电信 2025 年全年业绩解读"
-        },
-        {
-          "file": "02_agenda.svg",
-          "title": "agenda",
-          "desc": "目录:经营底盘 / 战新业务 / 智能云与 AI+ / 未来赛道"
-        },
-        {
-          "file": "03_section_foundation.svg",
-          "title": "section foundation",
-          "desc": "经营底盘保持稳健"
-        },
-        {
-          "file": "04_kpi_overview.svg",
-          "title": "kpi overview",
-          "desc": "经营收入 5296 亿元,盈利与现金流稳定"
-        },
-        {
-          "file": "05_dual_drive.svg",
-          "title": "dual drive",
-          "desc": "基础业务与产业数字化形成双轮驱动"
-        },
-        {
-          "file": "06_section_emerging.svg",
-          "title": "section emerging",
-          "desc": "战新业务成为增长亮点"
-        },
-        {
-          "file": "07_emerging_revenue.svg",
-          "title": "emerging revenue",
-          "desc": "天翼云 1207 亿元,战新业务成为第二增长曲线"
-        },
-        {
-          "file": "08_section_intelligence.svg",
-          "title": "section intelligence",
-          "desc": "智能云体系与 AI+ 规模化应用"
-        },
-        {
-          "file": "09_five_layers.svg",
-          "title": "five layers",
-          "desc": "五位一体智能云:算力→平台→数据→模型→应用"
-        },
-        {
-          "file": "10_ai_scale.svg",
-          "title": "ai scale",
-          "desc": "AI+ 从能力建设进入规模化应用"
-        },
-        {
-          "file": "11_section_frontiers.svg",
-          "title": "section frontiers",
-          "desc": "未来赛道与 2026 年经营主线"
-        },
-        {
-          "file": "12_growth_tracks.svg",
-          "title": "growth tracks",
-          "desc": "量子、低空、AI 安全与智能基础设施扩展增长边界"
-        },
-        {
-          "file": "13_token_mainline.svg",
-          "title": "token mainline",
-          "desc": "2026 年以 Token 服务为经营主线"
-        },
-        {
-          "file": "14_closing.svg",
-          "title": "closing",
-          "desc": "以 Token 服务为经营主线 · 打造领先的 AI 服务商"
-        }
-      ],
-      "pptx": "examples/ppt169_china_telecom_2025/exports/china_telecom_2025.pptx",
-      "pptxNative": "examples/ppt169_china_telecom_2025/exports/china_telecom_2025_native_charts_tables.pptx"
     },
     {
       "id": "ppt169_pritzker_2026",
