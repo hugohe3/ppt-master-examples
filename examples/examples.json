@@ -8,6 +8,110 @@
   },
   "projects": [
     {
+      "id": "ppt169_pixel_breakfast_atlas",
+      "title": "中国早餐图鉴",
+      "description": "中国早餐图鉴 16 页 — 像素游戏风,8 张 AI 像素元素表切成 41 个 sprite + 三幅像素题字,HUD 属性条与原生对照表,Morph 与三处 8-bit 音效,Default 路线纯题目生成",
+      "icon": "🍜",
+      "color": "#1B1D3A",
+      "style": "creative",
+      "styleName": "Pixel-art Atlas",
+      "desc": "A sixteen-page Pokédex-style atlas of Chinese breakfasts — eleven numbered entry cards from Beijing douzhi to Xinjiang samsa, each with a large pixel food sprite and HUD attribute bars whose values cite their source year (unverifiable fields show NO DATA), a sweet-versus-savory dispute page, and a native comparison table. Eight AI pixel-art sheets were generated in-pipeline and sliced into forty-one transparent sprites (dishes, props, HUD icons, scene pieces, a player character in six poses); three pixel lettering marks sit beside their native titles; tile floors, progress bars and snip-corner HUD panels are native geometry, with no gradients or filters by style discipline. Entrances are appear/wipe only, the HUD frame and the player's progress carry two Morph transitions, and three short 8-bit sound cues come from the bundled Kenney library. Generated on the Default runtime from a bare topic with topic research and speaker notes.",
+      "tags": [
+        "Food Culture",
+        "Pixel Art",
+        "AI Illustration",
+        "Sound"
+      ],
+      "isNew": true,
+      "folder": "ppt169_pixel_breakfast_atlas/svg_final",
+      "generatedAt": "2026-09-03",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · 中国早餐图鉴"
+        },
+        {
+          "file": "02_how_to_read.svg",
+          "title": "how to read",
+          "desc": "图鉴读法与四条共性"
+        },
+        {
+          "file": "03_no01_beijing_douzhi.svg",
+          "title": "no01 beijing douzhi",
+          "desc": "No.01 北京 · 豆汁 焦圈"
+        },
+        {
+          "file": "04_no02_tianjin_jianbing.svg",
+          "title": "no02 tianjin jianbing",
+          "desc": "No.02 天津 · 煎饼馃子"
+        },
+        {
+          "file": "05_no03_shanghai_sidajingang.svg",
+          "title": "no03 shanghai sidajingang",
+          "desc": "No.03 上海 · 四大金刚"
+        },
+        {
+          "file": "06_no04_wuhan_reganmian.svg",
+          "title": "no04 wuhan reganmian",
+          "desc": "No.04 武汉 · 热干面"
+        },
+        {
+          "file": "07_no05_guangzhou_changfen.svg",
+          "title": "no05 guangzhou changfen",
+          "desc": "No.05 广州 · 肠粉与早茶"
+        },
+        {
+          "file": "08_no06_changsha_mifen.svg",
+          "title": "no06 changsha mifen",
+          "desc": "No.06 长沙 · 米粉"
+        },
+        {
+          "file": "09_no07_chongqing_xiaomian.svg",
+          "title": "no07 chongqing xiaomian",
+          "desc": "No.07 重庆 · 小面"
+        },
+        {
+          "file": "10_no08_xian_roujiamo.svg",
+          "title": "no08 xian roujiamo",
+          "desc": "No.08 西安 · 肉夹馍与肉丸胡辣汤"
+        },
+        {
+          "file": "11_no09_lanzhou_niuroumian.svg",
+          "title": "no09 lanzhou niuroumian",
+          "desc": "No.09 兰州 · 牛肉面"
+        },
+        {
+          "file": "12_no10_yunnan_xiaoguomixian.svg",
+          "title": "no10 yunnan xiaoguomixian",
+          "desc": "No.10 云南 · 小锅米线"
+        },
+        {
+          "file": "13_no11_xinjiang_kaobaozi.svg",
+          "title": "no11 xinjiang kaobaozi",
+          "desc": "No.11 新疆 · 烤包子与奶茶"
+        },
+        {
+          "file": "14_disputes.svg",
+          "title": "disputes",
+          "desc": "两处争议：豆腐脑咸甜 · 胡辣汤南北"
+        },
+        {
+          "file": "15_atlas_table.svg",
+          "title": "atlas table",
+          "desc": "图鉴总表"
+        },
+        {
+          "file": "16_atlas_complete.svg",
+          "title": "atlas complete",
+          "desc": "图鉴完成"
+        }
+      ],
+      "pptx": "examples/ppt169_pixel_breakfast_atlas/exports/ppt169_pixel_breakfast_atlas.pptx",
+      "pptxNative": "examples/ppt169_pixel_breakfast_atlas/exports/ppt169_pixel_breakfast_atlas_native_charts_tables.pptx"
+    },
+    {
       "id": "ppt169_mid_autumn_papercut",
       "title": "中秋：一枚月饼里的八百年",
       "description": "中秋节文化叙事 16 页 — 剪纸夜色风,AI 剪纸插画切层 + 四幅题字 + 月相跨页 Morph,原生表格与备注动画,Default 路线纯题目生成",
@@ -381,110 +485,6 @@
         }
       ],
       "pptx": "examples/ppt169_kubernetes_blueprint_2026/exports/kubernetes_blueprint_2026.pptx"
-    },
-    {
-      "id": "ppt169_pixel_breakfast_atlas",
-      "title": "中国早餐图鉴",
-      "description": "中国早餐图鉴 16 页 — 像素游戏风,8 张 AI 像素元素表切成 41 个 sprite + 三幅像素题字,HUD 属性条与原生对照表,Morph 与三处 8-bit 音效,Default 路线纯题目生成",
-      "icon": "🍜",
-      "color": "#1B1D3A",
-      "style": "creative",
-      "styleName": "Pixel-art Atlas",
-      "desc": "A sixteen-page Pokédex-style atlas of Chinese breakfasts — eleven numbered entry cards from Beijing douzhi to Xinjiang samsa, each with a large pixel food sprite and HUD attribute bars whose values cite their source year (unverifiable fields show NO DATA), a sweet-versus-savory dispute page, and a native comparison table. Eight AI pixel-art sheets were generated in-pipeline and sliced into forty-one transparent sprites (dishes, props, HUD icons, scene pieces, a player character in six poses); three pixel lettering marks sit beside their native titles; tile floors, progress bars and snip-corner HUD panels are native geometry, with no gradients or filters by style discipline. Entrances are appear/wipe only, the HUD frame and the player's progress carry two Morph transitions, and three short 8-bit sound cues come from the bundled Kenney library. Generated on the Default runtime from a bare topic with topic research and speaker notes.",
-      "tags": [
-        "Food Culture",
-        "Pixel Art",
-        "AI Illustration",
-        "Sound"
-      ],
-      "isNew": true,
-      "folder": "ppt169_pixel_breakfast_atlas/svg_final",
-      "generatedAt": "2026-09-03",
-      "cover": "01_cover.svg",
-      "slides": [
-        {
-          "file": "01_cover.svg",
-          "title": "cover",
-          "desc": "封面 · 中国早餐图鉴"
-        },
-        {
-          "file": "02_how_to_read.svg",
-          "title": "how to read",
-          "desc": "图鉴读法与四条共性"
-        },
-        {
-          "file": "03_no01_beijing_douzhi.svg",
-          "title": "no01 beijing douzhi",
-          "desc": "No.01 北京 · 豆汁 焦圈"
-        },
-        {
-          "file": "04_no02_tianjin_jianbing.svg",
-          "title": "no02 tianjin jianbing",
-          "desc": "No.02 天津 · 煎饼馃子"
-        },
-        {
-          "file": "05_no03_shanghai_sidajingang.svg",
-          "title": "no03 shanghai sidajingang",
-          "desc": "No.03 上海 · 四大金刚"
-        },
-        {
-          "file": "06_no04_wuhan_reganmian.svg",
-          "title": "no04 wuhan reganmian",
-          "desc": "No.04 武汉 · 热干面"
-        },
-        {
-          "file": "07_no05_guangzhou_changfen.svg",
-          "title": "no05 guangzhou changfen",
-          "desc": "No.05 广州 · 肠粉与早茶"
-        },
-        {
-          "file": "08_no06_changsha_mifen.svg",
-          "title": "no06 changsha mifen",
-          "desc": "No.06 长沙 · 米粉"
-        },
-        {
-          "file": "09_no07_chongqing_xiaomian.svg",
-          "title": "no07 chongqing xiaomian",
-          "desc": "No.07 重庆 · 小面"
-        },
-        {
-          "file": "10_no08_xian_roujiamo.svg",
-          "title": "no08 xian roujiamo",
-          "desc": "No.08 西安 · 肉夹馍与肉丸胡辣汤"
-        },
-        {
-          "file": "11_no09_lanzhou_niuroumian.svg",
-          "title": "no09 lanzhou niuroumian",
-          "desc": "No.09 兰州 · 牛肉面"
-        },
-        {
-          "file": "12_no10_yunnan_xiaoguomixian.svg",
-          "title": "no10 yunnan xiaoguomixian",
-          "desc": "No.10 云南 · 小锅米线"
-        },
-        {
-          "file": "13_no11_xinjiang_kaobaozi.svg",
-          "title": "no11 xinjiang kaobaozi",
-          "desc": "No.11 新疆 · 烤包子与奶茶"
-        },
-        {
-          "file": "14_disputes.svg",
-          "title": "disputes",
-          "desc": "两处争议：豆腐脑咸甜 · 胡辣汤南北"
-        },
-        {
-          "file": "15_atlas_table.svg",
-          "title": "atlas table",
-          "desc": "图鉴总表"
-        },
-        {
-          "file": "16_atlas_complete.svg",
-          "title": "atlas complete",
-          "desc": "图鉴完成"
-        }
-      ],
-      "pptx": "examples/ppt169_pixel_breakfast_atlas/exports/ppt169_pixel_breakfast_atlas.pptx",
-      "pptxNative": "examples/ppt169_pixel_breakfast_atlas/exports/ppt169_pixel_breakfast_atlas_native_charts_tables.pptx"
     },
     {
       "id": "xiaohongshu_song_diancha",
