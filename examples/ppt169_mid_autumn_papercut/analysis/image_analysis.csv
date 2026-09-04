@@ -32,12 +32,6 @@ No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSo
 31,osmanthus_sprig.png,299,310,0.96,0.96,,native,PNG,True,1,,bitmap,True,True,96.8,Near square
 32,osmanthus_tree.png,400,354,1.13,1.13,,native,PNG,True,1,,bitmap,True,True,153.3,Near square
 33,rabbit_lord.png,300,590,0.51,0.51,,native,PNG,True,1,,bitmap,True,True,197.7,Portrait
-34,sheet_custom.png,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,3992.7,Near square
-35,sheet_figures.png,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,4108.7,Near square
-36,sheet_legend.png,2528,1696,1.49,1.49,,native,PNG,False,1,,bitmap,True,True,3868.6,Standard landscape
-37,sheet_lettering.png,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,4031.2,Near square
-38,sheet_moon.png,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,3787.0,Near square
-39,sheet_mooncake.png,2528,1696,1.49,1.49,,native,PNG,False,1,,bitmap,True,True,4118.1,Standard landscape
-40,toad.png,248,206,1.20,1.20,,native,PNG,True,1,,bitmap,True,True,66.2,Standard landscape
-41,walking_pair.png,423,760,0.56,0.56,,native,PNG,True,1,,bitmap,True,True,329.6,Portrait
-42,wu_gang.png,261,468,0.56,0.56,,native,PNG,True,1,,bitmap,True,True,103.3,Portrait
+34,toad.png,248,206,1.20,1.20,,native,PNG,True,1,,bitmap,True,True,66.2,Standard landscape
+35,walking_pair.png,423,760,0.56,0.56,,native,PNG,True,1,,bitmap,True,True,329.6,Portrait
+36,wu_gang.png,261,468,0.56,0.56,,native,PNG,True,1,,bitmap,True,True,103.3,Portrait

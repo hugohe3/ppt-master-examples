@@ -14,7 +14,7 @@
 
 - `svg_output/`: authored SVG slides (native-export source)
 - `svg_final/`: self-contained preview SVGs (images embedded; rendered by the gallery viewer)
-- `images/`: slide images compressed for distribution — transparent slices and the original key-colour generation sheets both kept as PNG so the sheets can be re-sliced; `image_prompts.json` records every generation request
+- `images/`: slide images compressed for distribution — transparent slices as PNG; the generation sheets themselves are not shipped, `image_prompts.json` records every generation request including the sheets
 - `icons/`: the tabler-outline icons the plan selected
 - `notes/`: speaker notes
 - `sources/`: topic-research brief and fact provenance

@@ -139,12 +139,6 @@
 
 | Filename | Dimensions | Ratio | Purpose | Type | Image pattern | Crop Policy | Acquire Via | Status | Reference | text_policy | page_role |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sheet_moon.png | 2048×2048 | 1:1 | 月相与自然构件的剪纸元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 六种月相 + 云带 + 桂枝 + 远山脊，3×3 方形格，用于跨页连续状态与前中后三层纸 | none | local |
-| sheet_legend.png | 2528×1696 | 12:8 | 三则传说的人物与器物元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 嫦娥、吴刚、桂树、玉兔、蟾蜍、药壶，2×3 方形格 | none | local |
-| sheet_custom.png | 2048×2048 | 1:1 | 中秋习俗器物构件母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 火龙、烧塔、竖中秋灯杆、博饼骰碗，2×2 方形格 | none | local |
-| sheet_figures.png | 2048×2048 | 1:1 | 人物形构件母版（与器物分卷，形态族不同） | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 兔儿爷、走月行人，1×2 竖形格 | none | local |
-| sheet_mooncake.png | 2528×1696 | 12:8 | 五派月饼与饼模的对照元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | illustrated-icon set: 广苏京潮滇五式月饼各一 + 木质饼模，2×3 方形格，需在 180px 尺度下仍能区分饼皮特征 | none | local |
-| sheet_lettering.png | 2048×2048 | 1:1 | 四枚剪纸美术字 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | decorative lettering set: exact strings = 中秋 / 月夕 / 月饼 / 团圆，每格一枚竖排双字，2×2 方形格 | embedded | local |
 | cover_night_field.jpg | 2752×1536 | 18:10 | 封面整幅夜景底纸（干净全画布底层） | Scene | 满版铺底，标题与剪纸构件叠在其上；底层不含主体，主体由透明切片承担 | no-crop | ai | Generated | 层叠剪纸的夜海与远岸：底部两三层波形纸构成海面，上方大片空夜，右下留出安放月牙的空区，左上三分之一保持低密度以承载竖排标题 | none | hero_page |
 | kaifeng_night_market.jpg | 2752×1536 | 18:10 | P05 北宋开封中秋夜市的整幅场景 | Scene | 满版页面场，压暗层后承载文字；右侧三分之一留安静区 | no-crop | ai | Generated | 层叠剪纸的宋代城市夜市：酒楼台榭剪影、彩楼欢门、密集的灯与人形剪影自下而上堆叠三层，右上留出被云半掩的月位 | none | hero_page |
 | moon_full.png | 495×500 | 10:10 | 满月 — 连续状态的终点 | Illustration element | 大剪圆锚定画面，可被文字压边或出血 | no-crop | slice | Generated | 由 sheet_moon.png 第 1 行第 1 格切出 | none | local |

@@ -146,12 +146,6 @@
 
 | Filename | Dimensions | Ratio | Purpose | Type | Image pattern | Crop Policy | Acquire Via | Status | Reference | text_policy | page_role |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sheet_terms.png | 1024×1024 | 1:1 | 六个节气主视觉 doodle 的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个节气主视觉简笔画：啃秋西瓜、处暑鸭与河灯、白露草叶露珠与龙眼、秋分稻穗与天平、寒露黄菊与芝麻、霜降软柿与霜叶 | none | local |
-| sheet_phenology.png | 1024×1024 | 1:1 | 六个物候小图的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个物候小图：凉风、寒蝉、鸿雁、玄鸟、黄菊、霜晶 | none | local |
-| sheet_decor.png | 1024×1024 | 1:1 | 装饰件母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 2列2行纯键色底：星星簇、波浪箭头、虚线路线段、手绘横幅飘带 | none | local |
-| sheet_food.png | 1024×1024 | 1:1 | 时令食物小图母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底：西瓜块、烤鸭腿、龙眼、秋菜鱼片汤、芝麻、软柿 | none | local |
-| sheet_lettering_terms.png | 1376×768 | 34:19 | 六个节气名的手绘题字母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个横排两字手写题字：立秋／处暑／白露／秋分／寒露／霜降 | embedded | local |
-| sheet_lettering_title.png | 1376×768 | 34:19 | 封面题字与落款印章的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 1列2行纯键色底，上格封面题字「二十四节气手账·秋」，下格「秋」字印章 | embedded | local |
 | term_liqiu.png | 268×269 | 1:1 | 立秋页主视觉 | Illustration element | 页面上半区主视觉，压在波浪路线的第一站上 | no-crop | slice | Generated | Derived from sheet_terms.png; 第1格 | none | local |
 | term_chushu.png | 294×309 | 19:20 | 处暑页主视觉 | Illustration element | 横幅标题右侧，与河灯栏并置 | no-crop | slice | Generated | Derived from sheet_terms.png; 第2格 | none | local |
 | term_bailu.png | 257×307 | 5:6 | 白露页主视觉 | Illustration element | 页面下半区，承接雁的飞行弧线终点 | no-crop | slice | Generated | Derived from sheet_terms.png; 第3格 | none | local |

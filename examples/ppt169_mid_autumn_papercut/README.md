@@ -12,7 +12,7 @@
 
 - `svg_output/`: authored SVG slides (native-export source)
 - `svg_final/`: self-contained preview SVGs (images embedded; rendered by the gallery viewer)
-- `images/`: slide images compressed for distribution — cut-paper slices as PNG with alpha fitted to twice their rendered size, scenes as JPEG, the original key-colour generation sheets kept as PNG so they can be re-sliced; `image_prompts.json` records every generation request
+- `images/`: slide images compressed for distribution — cut-paper slices as PNG with alpha fitted to twice their rendered size, scenes as JPEG; the generation sheets themselves are not shipped, `image_prompts.json` records every generation request including the sheets
 - `notes/`: speaker notes
 - `sources/`: topic-research brief and fact provenance
 - `analysis/image_analysis.csv`: image inventory the plan read
