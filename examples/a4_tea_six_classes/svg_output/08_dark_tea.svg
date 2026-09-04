@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p08-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FAF9F5" />
+
+  <g id="p08-header" data-pptx-bounds="66 104 1110 188">
+    <image href="../images/word_dark.png" x="72" y="110" width="300" height="166" preserveAspectRatio="xMidYMid meet" />
+    <text x="404" y="206" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">黑茶 · 后发酵</text>
+    <image href="../images/leaf_dark.png" x="1006" y="110" width="164" height="176" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="p08-axis-strip" data-pptx-bounds="48 300 1048 62">
+    <polyline points="72,330 152,328 232,332 312,329 392,331 472,330" fill="none" stroke="#C9C3B4" stroke-width="3" stroke-linecap="round" />
+    <circle cx="72" cy="330" r="8" fill="#6E9B3A" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="152" cy="328" r="8" fill="#D6C079" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="232" cy="332" r="8" fill="#D9A526" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="312" cy="329" r="8" fill="#B5761B" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="392" cy="331" r="8" fill="#A62F1F" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="472" cy="330" r="17" fill="#5A3B26" stroke="#1C1A17" stroke-width="3" />
+    <text x="520" y="343" font-size="34" fill="#6B665C">发酵度轴 · 第 6 类 · 轴的另一端</text>
+  </g>
+
+  <g id="p08-claim" data-pptx-bounds="66 424 1096 100">
+    <text x="72" y="470" font-size="46" fill="#1C1A17">前五类靠茶叶自身的酶；黑茶把发酵<tspan font-weight="bold">交给微生物</tspan>。</text>
+  </g>
+
+  <g id="p08-heap" data-pptx-bounds="194 550 890 546">
+    <g id="p08-time-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upArrow" data-pptx-frame="520 556 80 164" fill="#5A3B26" stroke="#1C1A17" fill-opacity="0.25" stroke-width="3">
+<path d="M 520 596 L 560 556 L 600 596 L 580 596 L 580 720 L 540 720 L 540 596 Z" />
+</g>
+    <text x="620" y="660" font-size="46" fill="#1C1A17">数月到数年</text>
+    <g id="p08-heap-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="320 736 400 70" fill="#5A3B26" stroke="#1C1A17" fill-opacity="0.12" stroke-width="3">
+<path d="M 320 806 L 337.5 736 L 702.5 736 L 720 806 Z" />
+</g>
+    <g id="p08-heap-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="280 804 480 70" fill="#5A3B26" stroke="#1C1A17" fill-opacity="0.2" stroke-width="3">
+<path d="M 280 874 L 297.5 804 L 742.5 804 L 760 874 Z" />
+</g>
+    <g id="p08-heap-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="240 872 560 70" fill="#5A3B26" stroke="#1C1A17" fill-opacity="0.3" stroke-width="3">
+<path d="M 240 942 L 257.5 872 L 782.5 872 L 800 942 Z" />
+</g>
+    <g id="p08-heap-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="200 940 640 70" fill="#5A3B26" stroke="#1C1A17" fill-opacity="0.42" stroke-width="3">
+<path d="M 200 1010 L 217.5 940 L 822.5 940 L 840 1010 Z" />
+</g>
+    <text x="880" y="900" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">渥堆</text>
+    <text x="200" y="1064" font-size="34" fill="#6B665C">温湿环境里的微生物发酵，主要由霉菌完成</text>
+  </g>
+
+  <g id="p08-teas" data-pptx-bounds="66 1126 1104 114" fill="#1C1A17">
+    <use data-icon="tabler-outline/star" x="72" y="1166" width="44" height="44" stroke-width="2" />
+    <text x="132" y="1204" font-size="46">代表茶：<tspan font-weight="bold">普洱熟茶 · 湖南茯砖 · 广西六堡</tspan></text>
+  </g>
+
+  <g id="p08-brew" data-pptx-bounds="58 1280 1112 276">
+    <use data-icon="tabler-outline/droplet" x="72" y="1286" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="126" y="1320" font-size="34" fill="#6B665C">汤色</text>
+    <circle cx="93" cy="1394" r="28" fill="#5A3B26" stroke="#1C1A17" stroke-width="3" />
+    <text x="140" y="1410" font-size="46" fill="#1C1A17">随氧化加深而变深</text>
+    <use data-icon="tabler-outline/alert-triangle" x="72" y="1444" width="40" height="40" fill="#A62F1F" stroke-width="2" />
+    <text x="124" y="1478" font-size="34" fill="#6B665C">红浓等审评术语本页无来源</text>
+    <use data-icon="tabler-outline/temperature" x="640" y="1286" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="694" y="1320" font-size="34" fill="#6B665C">水温与时间</text>
+    <text x="694" y="1414" font-family="Times New Roman" font-size="68" font-weight="bold" fill="#1C1A17">95 ℃</text>
+    <text x="72" y="1534" font-size="34" fill="#6B665C">先洗茶 · 出汤 20 秒内 · 煮饮 1:80–1:100，每次不超过 3 分钟</text>
+  </g>
+
+  <g id="p08-pick" data-pptx-bounds="66 1578 1105 82">
+    <path d="M74 1590 Q620 1584 1164 1591" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <use data-icon="tabler-outline/bulb" x="72" y="1600" width="42" height="42" fill="#A62F1F" stroke-width="2" />
+    <text x="130" y="1634" font-size="46" fill="#1C1A17">怎么挑：<tspan font-weight="bold">堆味不是霉味</tspan>，闻着有仓味就别买。</text>
+  </g>
+
+  <g id="p08-footer" data-pptx-bounds="66 1668 1108 45" fill="#6B665C" font-size="26">
+    <text x="72" y="1698">渥堆与后发酵：科普中国·人民网、Wikipedia · 参数：界面新闻、爱普茶网</text>
+    <text x="1168" y="1698" text-anchor="end">08</text>
+  </g>
+</svg>

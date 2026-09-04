@@ -1,0 +1,55 @@
+# Image Generation Prompts
+
+> Auto-generated from `image_prompts.json` by `image_gen.py --render-md`.
+> Do not hand-edit — re-run the command to refresh.
+
+> Project: tea_six_classes_a4
+> Generated: 2026-09-04
+> Color scheme: Background #FAF9F5 | Secondary_bg #F0EDE4 | Primary #1C1A17 | Accent #A62F1F | Secondary_accent #6E9B3A | Body_text #1C1A17
+> Deck Rendering: ink-notes
+
+---
+
+### Image 1: tea_elements_sheet.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Nine black-ink tea-leaf and teaware elements, sliced into page marks |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 1:1 |
+| Image size | 1K |
+| Slice grid | 3x3 |
+| Slice names | leaf_green,leaf_white,leaf_yellow,leaf_oolong,leaf_red,leaf_dark,ware_gaiwan,ware_kettle,ware_cup |
+| Status | Generated |
+
+**Prompt**:
+
+Every pixel that is not an element must be flat pure chroma key #00FF00 — one uniform key field across the whole sheet, identical in every gutter, with no white card, panel, paper, mat, frame, border, vignette or second tint anywhere under or around an element. Professional hand-drawn visual-note style, pen-on-paper: confident medium-weight black ink line work with the slight natural wobble of a real hand, flat with no shading, no paper grain, no drop shadow, no gradient, no colour fill. Every mark is a stroke of ink #1C1A17; forms stand up from the density and hesitation of the line alone, the way a thoughtful person sketches on a clean sheet. Lay the elements on an invisible logical 3x3 grid, nine cells, one element centred in each cell occupying about 65% of its cell with at least 10% key-only margin on all four sides — no stroke, tip, spout, handle, steam wisp or stray dot may come near a cell edge. Never draw the cells, dividers, gutters, boxes or captions. Row 1: (1) a small cluster of tender green-tea buds and one leaf, slim and upright, unopened tips; (2) three straight needle-shaped white-tea buds densely covered in fine downy hair, the down drawn as short radiating hatch strokes; (3) two plump single yellow-tea buds, slightly fuller and softer in outline than the white-tea needles. Row 2: (4) three tightly rolled semi-ball oolong pellets with a short stem, one partly unfurled to show a leaf; (5) a small heap of tight twisted wiry black-tea strips, fine and slightly curled; (6) the corner of a compressed dark-tea brick, drawn as a rectangular block with visibly pressed leaf texture on its face. Row 3: (7) a gaiwan — lidded bowl on a saucer, seen three-quarter; (8) a squat kettle with a curved spout and a loop handle; (9) a small tasting cup, empty, seen three-quarter. All nine share one line weight, one hand and one scale discipline. Composed as a 1024x1024 element sheet for local use. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Repeat: outside the nine drawn elements the entire sheet, including all gutters and margins, is flat pure #00FF00 and nothing else. Colour values (HEX codes like #1C1A17) and colour names are rendering guidance only — do NOT display HEX codes, colour names, or palette labels as visible text anywhere in the image. The image must not depict identifiable logos, trademarks, or brand product likenesses.
+
+**Alt Text**:
+> Nine hand-inked tea leaf and teaware elements on a chroma key sheet
+
+---
+
+### Image 2: tea_lettering_sheet.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Six hand-brushed tea-class names, sliced into page display lettering |
+| Page role | local |
+| Text policy | embedded |
+| Aspect ratio | 1:1 |
+| Image size | 1K |
+| Slice grid | 3x2 |
+| Slice names | word_green,word_white,word_yellow,word_oolong,word_red,word_dark |
+| Status | Generated |
+
+**Prompt**:
+
+Every pixel that is not a lettered word must be flat pure chroma key #00FF00 — one uniform key field across the whole sheet, identical in every gutter, with no white card, panel, paper, mat, frame, border or second tint anywhere under or around a word. Chinese hand-brushed calligraphic lettering in black ink #1C1A17, written with a soft-tipped brush held with a steady, unhurried hand: visible entry and exit of each stroke, dry-brush splitting where the stroke runs fast, slight thickening at the turns. Considered and legible, closer to a careful running-regular hand than to wild cursive; the artistry lives entirely in the glyph — stroke construction, silhouette, ink density — with no ornament, no seal, no ribbon, no leaf, no tea motif, no scene and no illustration of any kind beside the characters. Lay the words on an invisible logical 3-row by 2-column grid, six wide cells, exactly one word centred in each cell occupying about 65% of its cell width with at least 10% key-only margin on all four sides; the two characters of a word sit side by side on one horizontal baseline. Never draw the cells, dividers, boxes or captions. The six words, one per cell, reading left to right then top to bottom, are exactly: 绿茶 / 白茶 / 黄茶 / 青茶 / 红茶 / 黑茶. These six words are the only text in the image — no other character, no pinyin, no translation, no signature, no date. All six share one brush, one ink tone, one character size and one baseline discipline so they can be used interchangeably as page headings. Composed as a 1024x1024 lettering sheet for local use. Repeat: outside the six written words the entire sheet, including all gutters and margins, is flat pure #00FF00 and nothing else. Colour values (HEX codes like #1C1A17) and colour names are rendering guidance only — do NOT display HEX codes, colour names, or palette labels as visible text anywhere in the image. The image must not depict identifiable logos, trademarks, or brand product likenesses.
+
+**Alt Text**:
+> Six brush-written Chinese tea class names on a chroma key sheet
+
+---

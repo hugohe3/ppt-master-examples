@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <rect id="p09-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FAF9F5" />
+
+  <g id="p09-header" data-pptx-bounds="66 90 1096 200" fill="#1C1A17">
+    <text x="72" y="170" font-family="KaiTi" font-size="84" font-weight="bold">这页纸的出处</text>
+    <text x="72" y="256" font-size="46">参数可以照做，因为每一条都<tspan font-weight="bold">能回到出处</tspan>。</text>
+  </g>
+
+  <g id="p09-sources" data-pptx-bounds="66 320 660 664">
+    <use data-icon="tabler-outline/link" x="72" y="326" width="40" height="40" fill="#1C1A17" stroke-width="2" />
+    <text x="124" y="358" font-size="34" fill="#6B665C">来源清单</text>
+    <text x="72" y="440" font-size="46" fill="#1C1A17"><a href="https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1FF5A0EB54D6C8ADF201F54F53BA32DC"><tspan text-decoration="underline">国家标准全文公开</tspan></a></text>
+    <text x="72" y="478" font-size="26" fill="#6B665C">GB/T 30766-2014 茶叶分类 · 分类依据与六个类名</text>
+    <text x="72" y="546" font-size="46" fill="#1C1A17"><a href="https://z.hangzhou.com.cn/2020/rwwhql/content/content_7731092.htm"><tspan text-decoration="underline">中国茶叶博物馆</tspan></a></text>
+    <text x="72" y="584" font-size="26" fill="#6B665C">空中茶课堂（二）· 发酵程度、汤色与代表茶</text>
+    <text x="72" y="652" font-size="46" fill="#1C1A17"><a href="http://kpzg.people.com.cn/n1/2016/1109/c404390-28846132.html"><tspan text-decoration="underline">科普中国 · 人民网</tspan></a></text>
+    <text x="72" y="690" font-size="26" fill="#6B665C">中国六大茗茶的制作工艺 · 各类工序链</text>
+    <text x="72" y="758" font-size="46" fill="#1C1A17"><a href="https://www.jiemian.com/article/1369751.html"><tspan text-decoration="underline">界面新闻</tspan></a></text>
+    <text x="72" y="796" font-size="26" fill="#6B665C">不同茶类茶叶冲泡原理及水温 · 各类水温</text>
+    <text x="72" y="864" font-size="46" fill="#1C1A17"><a href="https://m.ipucha.com/show-172-1167.html"><tspan text-decoration="underline">爱普茶网</tspan></a></text>
+    <text x="72" y="902" font-size="26" fill="#6B665C">六大茶类冲泡方法 · 出汤时间与投茶比</text>
+    <text x="72" y="960" font-size="46" fill="#1C1A17"><a href="https://en.wikipedia.org/wiki/Oolong"><tspan text-decoration="underline">Wikipedia · Oolong</tspan></a></text>
+  </g>
+
+  <g id="p09-conflicts" data-pptx-bounds="734 320 434 240">
+    <use data-icon="tabler-outline/alert-triangle" x="740" y="326" width="40" height="40" fill="#A62F1F" stroke-width="2" />
+    <text x="792" y="358" font-size="34" fill="#6B665C">两处有两说</text>
+    <text x="740" y="440" font-size="34" fill="#1C1A17">红茶 85–90 ℃ / 95 ℃<tspan x="740" dy="60">青茶 90–95 ℃ / 80–95 ℃</tspan></text>
+  </g>
+
+  <g id="p09-nodata" data-pptx-bounds="734 600 434 300">
+    <use data-icon="tabler-outline/alert-triangle" x="740" y="606" width="40" height="40" fill="#A62F1F" stroke-width="2" />
+    <text x="792" y="638" font-family="Times New Roman" font-size="34" font-weight="bold" fill="#A62F1F">NO DATA</text>
+    <text x="740" y="720" font-size="34" fill="#1C1A17">白茶：整类汤色<tspan x="740" dy="60">青茶：整类通用汤色</tspan><tspan x="740" dy="60">黑茶：红浓等审评术语</tspan></text>
+  </g>
+
+  <g id="p09-takeaway" data-pptx-bounds="66 1108 1010 212">
+    <path d="M74 1124 Q560 1118 1046 1125" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <text x="72" y="1200" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">这页纸只保证：<tspan x="72" dy="86">每个数字都能回到它的出处。</tspan></text>
+  </g>
+
+  <g id="p09-cup" data-pptx-bounds="934 1394 212 207">
+    <image href="../images/ware_cup.png" x="940" y="1400" width="200" height="195" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="p09-footer" data-pptx-bounds="66 1660 1108 45" fill="#6B665C" font-size="26">
+    <text x="72" y="1690">检索日期 2026-09-04 · 链接为原生超链接，可在 PowerPoint 中点击</text>
+    <text x="1168" y="1690" text-anchor="end">09</text>
+  </g>
+</svg>

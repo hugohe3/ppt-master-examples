@@ -2,11 +2,79 @@
   "version": 1,
   "updated": "2026-09-04",
   "stats": {
-    "examples": 17,
-    "pages": 253,
-    "templates": 17
+    "examples": 18,
+    "pages": 262,
+    "templates": 18
   },
   "projects": [
+    {
+      "id": "a4_tea_six_classes",
+      "title": "中国茶六大类",
+      "description": "A4 打印手页 9 页 — 绿白黄青红黑六大类各一页,黑墨线手绘 + 每类一个汤色语义色,2 张 AI 元素表切成 15 张切片 + 六个类名题字,发酵度轴贯穿全卷的 Morph,Default 路线纯题目生成",
+      "icon": "🍵",
+      "color": "#2F4F3A",
+      "style": "editorial",
+      "styleName": "Ink-notes Handout",
+      "desc": "A nine-page A4 handout (1240×1754) on the six classes of Chinese tea, one sheet per class so each can be printed and kept: a fermentation axis seats green, white, yellow, oolong, black and dark tea in order, and every class page gives its core process, representative teas, liquor colour, water temperature and steeping time, and one buying tip; a sources page carries live hyperlinks and lists the three unverifiable fields as NO DATA. Two AI ink sheets were generated in-pipeline and sliced into fifteen transparent leaf, teaware and lettering pieces; six brush-lettered class names sit beside native editable titles; near-monochrome ink line work with one semantic colour per class, fourteen preset shapes and thirty-one icons carry the whiteboard look with no gradients, filters or paper grain. Fifty entrance animations and seven Morph pairs — the fermentation axis travels from the overview through every class page — finish the choreography. Generated on the Default runtime from a bare topic with topic research and speaker notes; the exported PPTX page size is A4.",
+      "tags": [
+        "Culture",
+        "Ink Notes",
+        "AI Illustration",
+        "Print"
+      ],
+      "isNew": true,
+      "folder": "a4_tea_six_classes/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · 中国茶六大类"
+        },
+        {
+          "file": "02_overview_axis.svg",
+          "title": "overview axis",
+          "desc": "六类站在同一条发酵度轴上"
+        },
+        {
+          "file": "03_green_tea.svg",
+          "title": "green tea",
+          "desc": "绿茶 · 不发酵"
+        },
+        {
+          "file": "04_white_tea.svg",
+          "title": "white tea",
+          "desc": "白茶 · 微发酵"
+        },
+        {
+          "file": "05_yellow_tea.svg",
+          "title": "yellow tea",
+          "desc": "黄茶 · 轻发酵"
+        },
+        {
+          "file": "06_oolong_tea.svg",
+          "title": "oolong tea",
+          "desc": "青茶 · 半发酵"
+        },
+        {
+          "file": "07_black_tea.svg",
+          "title": "black tea",
+          "desc": "红茶 · 全发酵"
+        },
+        {
+          "file": "08_dark_tea.svg",
+          "title": "dark tea",
+          "desc": "黑茶 · 后发酵"
+        },
+        {
+          "file": "09_sources.svg",
+          "title": "sources",
+          "desc": "这页纸的出处"
+        }
+      ],
+      "pptx": "examples/a4_tea_six_classes/exports/a4_tea_six_classes.pptx"
+    },
     {
       "id": "ppt169_china_economy_2025_briefing",
       "title": "2025 年中国经济数据简报",

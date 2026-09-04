@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p05-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FAF9F5" />
+
+  <g id="p05-header" data-pptx-bounds="66 104 1110 188">
+    <image href="../images/word_yellow.png" x="72" y="110" width="300" height="162" preserveAspectRatio="xMidYMid meet" />
+    <text x="404" y="206" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">黄茶 · 轻发酵</text>
+    <image href="../images/leaf_yellow.png" x="1024" y="110" width="145" height="176" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="p05-axis-strip" data-pptx-bounds="48 300 848 62">
+    <polyline points="72,330 152,328 232,332 312,329 392,331 472,330" fill="none" stroke="#C9C3B4" stroke-width="3" stroke-linecap="round" />
+    <circle cx="72" cy="330" r="8" fill="#6E9B3A" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="152" cy="328" r="8" fill="#D6C079" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="232" cy="332" r="17" fill="#D9A526" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="312" cy="329" r="8" fill="#B5761B" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="392" cy="331" r="8" fill="#A62F1F" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="472" cy="330" r="8" fill="#5A3B26" stroke="#C9C3B4" stroke-width="2" />
+    <text x="520" y="343" font-size="34" fill="#6B665C">发酵度轴 · 第 3 类</text>
+  </g>
+
+  <g id="p05-old-chain" data-pptx-bounds="58 405 810 141">
+    <text x="72" y="440" font-size="34" fill="#6B665C">绿茶的工序</text>
+    <text x="72" y="510" font-size="46" fill="#6B665C">摊晾 → 杀青 → 揉捻 → 干燥</text>
+    <path d="M64 500 Q300 486 540 502 T860 490" fill="none" stroke="#A62F1F" stroke-width="6" stroke-linecap="round" />
+  </g>
+
+  <g id="p05-rewrite" data-pptx-bounds="294 570 546 130">
+    <g id="p05-rewrite-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="curvedDownArrow" data-pptx-frame="300 576 96 112" fill="#D9A526" stroke="#1C1A17" fill-opacity="0.3" stroke-width="3">
+<path d="M 372 688 L 347.3 664 L 359.3 664 A 30 112 0 0 0 330 576 L 354 576 A 30 112 0 0 1 383.3 664 L 395.3 664 Z" stroke="none" />
+<path d="M 342 585.35 A 30 112 0 0 0 324 688 L 300 688 A 30 112 0 0 1 342 585.35 Z" fill="#B2871F" stroke="none" />
+<path d="M 342 585.35 A 30 112 0 0 0 324 688 L 300 688 A 30 112 0 0 1 330 576 L 354 576 A 30 112 0 0 1 383.3 664 L 395.3 664 L 372 688 L 347.3 664 L 359.3 664 A 30 112 0 0 0 330 576" fill="none" />
+</g>
+    <text x="430" y="656" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">中间插进一道</text>
+  </g>
+
+  <g id="p05-new-chain" data-pptx-bounds="66 717 1016 209">
+    <text x="72" y="752" font-size="34" fill="#6B665C">黄茶的工序</text>
+    <text x="72" y="828" font-size="46" fill="#1C1A17">摊晾 → 杀青 → <tspan font-family="KaiTi" font-size="60" font-weight="bold">闷黄</tspan> → 揉捻 → 干燥</text>
+    <ellipse cx="470" cy="810" rx="86" ry="46" fill="none" stroke="#D9A526" stroke-width="5" />
+    <text x="72" y="898" font-size="46" fill="#1C1A17">闷黄可以在杀青后，也可以在毛火后。</text>
+  </g>
+
+  <g id="p05-claim" data-pptx-bounds="66 948 1016 132">
+    <path d="M74 960 Q560 954 1046 961" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <text x="72" y="1046" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">黄叶黄汤，<tspan font-size="46" font-family="Microsoft YaHei" font-weight="normal" fill="#6B665C">就是这一道闷出来的</tspan></text>
+  </g>
+
+  <g id="p05-teas" data-pptx-bounds="66 1108 1104 112" fill="#1C1A17">
+    <use data-icon="tabler-outline/star" x="72" y="1146" width="44" height="44" stroke-width="2" />
+    <text x="132" y="1184" font-size="46">代表茶：<tspan font-weight="bold">君山银针 · 蒙顶黄芽 · 霍山黄芽</tspan></text>
+  </g>
+
+  <g id="p05-brew" data-pptx-bounds="58 1260 1112 260">
+    <use data-icon="tabler-outline/droplet" x="72" y="1266" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="126" y="1300" font-size="34" fill="#6B665C">汤色</text>
+    <circle cx="93" cy="1374" r="28" fill="#D9A526" stroke="#1C1A17" stroke-width="3" />
+    <text x="140" y="1390" font-size="46" fill="#1C1A17">黄叶黄汤</text>
+    <use data-icon="tabler-outline/temperature" x="640" y="1266" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="694" y="1300" font-size="34" fill="#6B665C">水温与时间</text>
+    <text x="694" y="1394" font-family="Times New Roman" font-size="68" font-weight="bold" fill="#1C1A17">80–85 ℃</text>
+    <text x="72" y="1454" font-size="34" fill="#6B665C">君山银针汤色橙黄明净 · 霍山黄芽有三黄之称<tspan x="72" dy="44">出汤比绿茶多闷两三秒 · 与绿茶同温，别用沸水</tspan></text>
+  </g>
+
+  <g id="p05-pick" data-pptx-bounds="66 1568 1105 82">
+    <path d="M74 1584 Q620 1578 1164 1585" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <use data-icon="tabler-outline/bulb" x="72" y="1594" width="42" height="42" fill="#A62F1F" stroke-width="2" />
+    <text x="130" y="1628" font-size="46" fill="#1C1A17">怎么挑：闷黄到位的黄茶<tspan font-weight="bold">不带生青气</tspan>。</text>
+  </g>
+
+  <g id="p05-footer" data-pptx-bounds="66 1660 1108 45" fill="#6B665C" font-size="26">
+    <text x="72" y="1690">工艺：中国茶叶博物馆 · 汤色与代表茶：饮茶者之家 · 参数：界面新闻、爱普茶网</text>
+    <text x="1168" y="1690" text-anchor="end">05</text>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p07-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FAF9F5" />
+
+  <g id="p07-header" data-pptx-bounds="66 104 1110 188">
+    <image href="../images/word_red.png" x="72" y="110" width="300" height="161" preserveAspectRatio="xMidYMid meet" />
+    <text x="404" y="206" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">红茶 · 全发酵</text>
+    <image href="../images/leaf_red.png" x="1006" y="110" width="164" height="176" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="p07-axis-strip" data-pptx-bounds="48 300 1048 62">
+    <polyline points="72,330 152,328 232,332 312,329 392,331 472,330" fill="none" stroke="#C9C3B4" stroke-width="3" stroke-linecap="round" />
+    <circle cx="72" cy="330" r="8" fill="#6E9B3A" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="152" cy="328" r="8" fill="#D6C079" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="232" cy="332" r="8" fill="#D9A526" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="312" cy="329" r="8" fill="#B5761B" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="392" cy="331" r="17" fill="#A62F1F" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="472" cy="330" r="8" fill="#5A3B26" stroke="#C9C3B4" stroke-width="2" />
+    <text x="520" y="343" font-size="34" fill="#6B665C">发酵度轴 · 第 5 类 · 氧化跑满</text>
+  </g>
+
+  <g id="p07-flow" data-pptx-bounds="108 420 986 698">
+    <path d="M120 480 C300 500 340 640 430 660 C540 685 620 760 700 800 C820 858 960 930 1046 1010" fill="none" stroke="#1C1A17" stroke-width="5" stroke-linecap="round" />
+    <circle cx="140" cy="480" r="14" fill="none" stroke="#1C1A17" stroke-width="4" />
+    <circle cx="430" cy="660" r="20" fill="none" stroke="#1C1A17" stroke-width="4" />
+    <circle cx="700" cy="800" r="28" fill="none" stroke="#1C1A17" stroke-width="5" />
+    <circle cx="1046" cy="1010" r="36" fill="#A62F1F" stroke="#1C1A17" stroke-width="4" />
+    <text x="184" y="496" font-size="46" fill="#1C1A17">萎凋</text>
+    <text x="470" y="676" font-size="46" fill="#1C1A17">揉捻</text>
+    <text x="746" y="822" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">发酵</text>
+    <text x="746" y="880" font-size="34" fill="#6B665C">独立的一道工序</text>
+    <text x="990" y="1094" font-size="46" fill="#1C1A17" text-anchor="end">干燥</text>
+  </g>
+
+  <g id="p07-teas" data-pptx-bounds="66 1146 1104 110" fill="#1C1A17">
+    <use data-icon="tabler-outline/star" x="72" y="1184" width="44" height="44" stroke-width="2" />
+    <text x="132" y="1222" font-size="46">代表茶：<tspan font-weight="bold">祁门红茶 · 正山小种 · 滇红</tspan></text>
+  </g>
+
+  <g id="p07-brew" data-pptx-bounds="58 1290 1112 258">
+    <use data-icon="tabler-outline/droplet" x="72" y="1296" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="126" y="1330" font-size="34" fill="#6B665C">汤色</text>
+    <circle cx="93" cy="1404" r="28" fill="#A62F1F" stroke="#1C1A17" stroke-width="3" />
+    <text x="140" y="1420" font-size="46" fill="#1C1A17">红艳明亮</text>
+    <use data-icon="tabler-outline/temperature" x="640" y="1296" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="694" y="1330" font-size="34" fill="#6B665C">水温与时间</text>
+    <text x="694" y="1424" font-family="Times New Roman" font-size="68" font-weight="bold" fill="#1C1A17">85–90 ℃</text>
+    <image href="../images/ware_gaiwan.png" x="1000" y="1300" width="150" height="142" preserveAspectRatio="xMidYMid meet" />
+    <text x="72" y="1484" font-size="34" fill="#6B665C">另一说工夫冲泡 95 ℃，第五泡 100 ℃<tspan x="72" dy="44">投茶比约 1:30 · 出汤 10 秒起，第五泡 15 秒，通常五泡</tspan></text>
+  </g>
+
+  <g id="p07-pick" data-pptx-bounds="66 1568 1105 82">
+    <path d="M74 1584 Q620 1578 1164 1585" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <use data-icon="tabler-outline/bulb" x="72" y="1594" width="42" height="42" fill="#A62F1F" stroke-width="2" />
+    <text x="130" y="1628" font-size="46" fill="#1C1A17">怎么挑：<tspan font-weight="bold">条索紧细乌润</tspan>，汤面有金圈。</text>
+  </g>
+
+  <g id="p07-footer" data-pptx-bounds="66 1660 1108 45" fill="#6B665C" font-size="26">
+    <text x="72" y="1690">工艺：科普中国·人民网 · 汤色与代表茶：中国茶叶博物馆 · 参数：界面新闻、爱普茶网</text>
+    <text x="1168" y="1690" text-anchor="end">07</text>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p06-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FAF9F5" />
+
+  <g id="p06-header" data-pptx-bounds="66 104 1110 188">
+    <image href="../images/word_oolong.png" x="72" y="110" width="300" height="174" preserveAspectRatio="xMidYMid meet" />
+    <text x="404" y="206" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">青茶 · 半发酵</text>
+    <image href="../images/leaf_oolong.png" x="1020" y="110" width="150" height="176" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="p06-axis-strip" data-pptx-bounds="48 300 1048 62">
+    <polyline points="72,330 152,328 232,332 312,329 392,331 472,330" fill="none" stroke="#C9C3B4" stroke-width="3" stroke-linecap="round" />
+    <circle cx="72" cy="330" r="8" fill="#6E9B3A" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="152" cy="328" r="8" fill="#D6C079" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="232" cy="332" r="8" fill="#D9A526" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="312" cy="329" r="17" fill="#B5761B" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="392" cy="331" r="8" fill="#A62F1F" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="472" cy="330" r="8" fill="#5A3B26" stroke="#C9C3B4" stroke-width="2" />
+    <text x="520" y="343" font-size="34" fill="#6B665C">发酵度轴 · 第 4 类 · 放大这一段</text>
+  </g>
+
+  <g id="p06-naming" data-pptx-bounds="66 424 1096 100">
+    <text x="72" y="470" font-size="46" fill="#1C1A17">国标称<tspan font-weight="bold">乌龙茶</tspan>，传统六类排序称<tspan font-weight="bold">青茶</tspan>，同指一类。</text>
+  </g>
+
+  <g id="p06-range" data-pptx-bounds="60 540 1116 292">
+    <text x="72" y="586" font-size="46" fill="#1C1A17">做青：把氧化<tspan font-weight="bold">停在想要的位置</tspan></text>
+    <rect x="120" y="620" width="1000" height="100" fill="none" stroke="#1C1A17" stroke-width="4" />
+    <path d="M140.0 632V708 M206.8 632V708 M270.7 632V708 M331.7 632V708 M389.9 632V708 M445.5 632V708 M498.6 632V708 M549.3 632V708 M597.7 632V708 M644.0 632V708 M688.2 632V708 M730.3 632V708 M770.6 632V708 M809.1 632V708 M845.8 632V708 M880.9 632V708 M914.4 632V708 M946.4 632V708 M977.0 632V708 M1006.2 632V708 M1034.1 632V708 M1060.7 632V708 M1086.1 632V708" fill="none" stroke="#B5761B" stroke-width="4" stroke-linecap="round" />
+    <g id="p06-range-head" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="1122 645 48 50" fill="#1C1A17" stroke="none">
+<path d="M 1122 657.5 L 1146 657.5 L 1146 645 L 1170 670 L 1146 695 L 1146 682.5 L 1122 682.5 Z" />
+</g>
+    <text x="120" y="800" font-family="Times New Roman" font-size="68" font-weight="bold" fill="#1C1A17">8%</text>
+    <text x="1120" y="800" font-family="Times New Roman" font-size="68" font-weight="bold" fill="#1C1A17" text-anchor="end">85%</text>
+  </g>
+
+  <g id="p06-explain" data-pptx-bounds="66 852 1030 178">
+    <path d="M74 866 Q560 860 1046 867" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <text x="72" y="936" font-size="46" fill="#1C1A17">氧化程度可以从 8% 一路走到 85%，<tspan x="72" dy="68">所以青茶既能像绿茶，也能像红茶。</tspan></text>
+  </g>
+
+  <g id="p06-teas" data-pptx-bounds="66 1046 1104 196">
+    <use data-icon="tabler-outline/star" x="72" y="1084" width="44" height="44" fill="#1C1A17" stroke-width="2" />
+    <text x="132" y="1122" font-size="46" fill="#1C1A17">代表茶：<tspan font-weight="bold">安溪铁观音 · 武夷岩茶 · 凤凰单丛</tspan></text>
+    <text x="132" y="1188" font-size="34" fill="#6B665C">大红袍是四大名丛之一 · 单丛以花果香著称</text>
+  </g>
+
+  <g id="p06-brew" data-pptx-bounds="58 1276 1112 258">
+    <use data-icon="tabler-outline/droplet" x="72" y="1282" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="126" y="1316" font-size="34" fill="#6B665C">汤色</text>
+    <use data-icon="tabler-outline/alert-triangle" x="72" y="1356" width="40" height="40" fill="#A62F1F" stroke-width="2" />
+    <text x="124" y="1392" font-family="Times New Roman" font-size="46" font-weight="bold" fill="#A62F1F">NO DATA</text>
+    <use data-icon="tabler-outline/temperature" x="640" y="1282" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="694" y="1316" font-size="34" fill="#6B665C">水温与时间</text>
+    <text x="694" y="1410" font-family="Times New Roman" font-size="68" font-weight="bold" fill="#1C1A17">90–95 ℃</text>
+    <text x="72" y="1470" font-size="34" fill="#6B665C">汤色：整类无权威表述，阿里山乌龙被描述为金黄<tspan x="72" dy="44">另一说 80–95 ℃ · 出汤 10 秒内起，岩茶 5/10/20/40 秒</tspan></text>
+  </g>
+
+  <g id="p06-pick" data-pptx-bounds="66 1568 1105 82">
+    <path d="M74 1584 Q620 1578 1164 1585" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <use data-icon="tabler-outline/bulb" x="72" y="1594" width="42" height="42" fill="#A62F1F" stroke-width="2" />
+    <text x="130" y="1628" font-size="46" fill="#1C1A17">怎么挑：<tspan font-weight="bold">先问焙火轻重，再问氧化轻重</tspan>。</text>
+  </g>
+
+  <g id="p06-footer" data-pptx-bounds="66 1660 1108 45" fill="#6B665C" font-size="26">
+    <text x="72" y="1690">氧化区间：Wikipedia · 类名：GB/T 30766-2014 · 参数：界面新闻、爱普茶网</text>
+    <text x="1168" y="1690" text-anchor="end">06</text>
+  </g>
+</svg>

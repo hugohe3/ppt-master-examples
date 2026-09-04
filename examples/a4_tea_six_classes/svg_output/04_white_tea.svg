@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p04-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FAF9F5" />
+
+  <g id="p04-header" data-pptx-bounds="66 104 1104 188">
+    <image href="../images/word_white.png" x="72" y="110" width="300" height="173" preserveAspectRatio="xMidYMid meet" />
+    <text x="404" y="206" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">白茶 · 微发酵</text>
+    <image href="../images/leaf_white.png" x="1030" y="110" width="132" height="176" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="p04-axis-strip" data-pptx-bounds="48 300 848 62">
+    <polyline points="72,330 152,328 232,332 312,329 392,331 472,330" fill="none" stroke="#C9C3B4" stroke-width="3" stroke-linecap="round" />
+    <circle cx="72" cy="330" r="8" fill="#6E9B3A" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="152" cy="328" r="17" fill="#D6C079" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="232" cy="332" r="8" fill="#D9A526" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="312" cy="329" r="8" fill="#B5761B" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="392" cy="331" r="8" fill="#A62F1F" stroke="#C9C3B4" stroke-width="2" />
+    <circle cx="472" cy="330" r="8" fill="#5A3B26" stroke="#C9C3B4" stroke-width="2" />
+    <text x="520" y="343" font-size="34" fill="#6B665C">发酵度轴 · 第 2 类</text>
+  </g>
+
+  <g id="p04-brace-group" data-pptx-bounds="194 454 976 532">
+    <g id="p04-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="200 460 90 520" fill="none" stroke="#1C1A17" stroke-width="5">
+<path d="M 290 980 A 45 7.5 0 0 1 245 972.5 L 245 727.5 A 45 7.5 0 0 0 200 720 A 45 7.5 0 0 0 245 712.5 L 245 467.5 A 45 7.5 0 0 1 290 460 Z" stroke="none" />
+<path d="M 290 980 A 45 7.5 0 0 1 245 972.5 L 245 727.5 A 45 7.5 0 0 0 200 720 A 45 7.5 0 0 0 245 712.5 L 245 467.5 A 45 7.5 0 0 1 290 460" />
+</g>
+    <text x="330" y="648" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">萎凋</text>
+    <text x="330" y="888" font-family="KaiTi" font-size="84" font-weight="bold" fill="#1C1A17">干燥</text>
+    <text x="640" y="706" font-family="KaiTi" font-size="84" fill="#1C1A17">不炒不揉，<tspan x="640" dy="104">就这两步。</tspan></text>
+  </g>
+
+  <g id="p04-hao" data-pptx-bounds="66 1024 1036 102">
+    <path d="M74 1032 Q560 1026 1046 1033" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <text x="72" y="1092" font-size="46" fill="#1C1A17">工序少，所以<tspan font-weight="bold">白毫完整留在叶表</tspan>，干茶呈白色。</text>
+  </g>
+
+  <g id="p04-teas" data-pptx-bounds="66 1158 1104 112">
+    <use data-icon="tabler-outline/star" x="72" y="1196" width="44" height="44" fill="#1C1A17" stroke-width="2" />
+    <text x="132" y="1234" font-size="46" fill="#1C1A17">代表茶：<tspan font-weight="bold">白毫银针 · 白牡丹</tspan></text>
+    <text x="790" y="1234" font-size="34" fill="#6B665C">满披银毫的单芽</text>
+  </g>
+
+  <g id="p04-brew" data-pptx-bounds="58 1310 1112 254">
+    <use data-icon="tabler-outline/droplet" x="72" y="1316" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="126" y="1350" font-size="34" fill="#6B665C">汤色</text>
+    <circle cx="93" cy="1424" r="28" fill="#D6C079" stroke="#1C1A17" stroke-width="3" />
+    <use data-icon="tabler-outline/alert-triangle" x="140" y="1400" width="40" height="40" fill="#A62F1F" stroke-width="2" />
+    <text x="192" y="1436" font-family="Times New Roman" font-size="46" font-weight="bold" fill="#A62F1F">NO DATA</text>
+    <use data-icon="tabler-outline/temperature" x="640" y="1316" width="42" height="42" fill="#1C1A17" stroke-width="2" />
+    <text x="694" y="1350" font-size="34" fill="#6B665C">水温与时间</text>
+    <text x="694" y="1440" font-family="Times New Roman" font-size="68" font-weight="bold" fill="#1C1A17">85–90 ℃</text>
+    <text x="72" y="1500" font-size="34" fill="#6B665C">汤色：整类未取得权威表述，色块只作本页标识<tspan x="72" dy="44">新茶前三泡各 10 秒 · 银针 85–95 ℃，牡丹 90–100 ℃</tspan></text>
+  </g>
+
+  <g id="p04-pick" data-pptx-bounds="66 1568 1105 82">
+    <path d="M74 1584 Q620 1578 1164 1585" fill="none" stroke="#C9C3B4" stroke-width="2" stroke-linecap="round" />
+    <use data-icon="tabler-outline/bulb" x="72" y="1594" width="42" height="42" fill="#A62F1F" stroke-width="2" />
+    <text x="130" y="1628" font-size="46" fill="#1C1A17">怎么挑：<tspan font-weight="bold">看毫</tspan>，白毫完整说明没伤到叶。</text>
+  </g>
+
+  <g id="p04-footer" data-pptx-bounds="66 1660 1108 45" fill="#6B665C" font-size="26">
+    <text x="72" y="1690">工艺与外观：中国茶叶博物馆 · 参数：界面新闻、爱普茶网 · 老白茶每泡加 3–5 秒</text>
+    <text x="1168" y="1690" text-anchor="end">04</text>
+  </g>
+</svg>

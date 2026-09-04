@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p02-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FAF9F5" />
+
+  <g id="p02-header" data-pptx-bounds="72 90 1096 252" fill="#1C1A17">
+    <text x="72" y="170" font-family="KaiTi" font-size="84" font-weight="bold">六类站在同一条轴上</text>
+    <text x="72" y="252" font-size="46">轴上排的是<tspan font-weight="bold">发酵（氧化）程度</tspan>——<tspan x="72" dy="68">绿茶把酶按住，黑茶把发酵交给微生物。</tspan></text>
+  </g>
+
+  <g id="p02-spine" data-pptx-bounds="120 362 58 1296">
+    <polyline points="149,370 152,600 146,830 151,1060 147,1290 150,1590" fill="none" stroke="#1C1A17" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="149" cy="430" r="16" fill="#6E9B3A" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="149" cy="652" r="16" fill="#D6C079" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="149" cy="874" r="16" fill="#D9A526" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="149" cy="1096" r="16" fill="#B5761B" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="149" cy="1318" r="16" fill="#A62F1F" stroke="#1C1A17" stroke-width="3" />
+    <circle cx="149" cy="1540" r="16" fill="#5A3B26" stroke="#1C1A17" stroke-width="3" />
+    <g id="p02-axis-head" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="126 1596 46 56" fill="#1C1A17" stroke="none">
+<path d="M 126 1629 L 137.5 1629 L 137.5 1596 L 160.5 1596 L 160.5 1629 L 172 1629 L 149 1652 Z" />
+</g>
+  </g>
+
+  <g id="p02-row-green" data-pptx-bounds="204 354 966 156">
+    <image href="../images/leaf_green.png" x="210" y="360" width="130" height="130" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/word_green.png" x="370" y="372" width="150" height="82" preserveAspectRatio="xMidYMid meet" />
+    <text x="560" y="424" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">杀青</text>
+    <text x="560" y="486" font-size="46" fill="#1C1A17">灭活酶，氧化按在起点</text>
+  </g>
+  <g id="p02-row-white" data-pptx-bounds="204 576 966 156">
+    <image href="../images/leaf_white.png" x="210" y="582" width="130" height="130" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/word_white.png" x="370" y="594" width="150" height="82" preserveAspectRatio="xMidYMid meet" />
+    <text x="560" y="646" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">萎凋</text>
+    <text x="560" y="708" font-size="46" fill="#1C1A17">不炒不揉，只有两步</text>
+  </g>
+  <g id="p02-row-yellow" data-pptx-bounds="204 798 966 156">
+    <image href="../images/leaf_yellow.png" x="210" y="804" width="130" height="130" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/word_yellow.png" x="370" y="816" width="150" height="82" preserveAspectRatio="xMidYMid meet" />
+    <text x="560" y="868" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">闷黄</text>
+    <text x="560" y="930" font-size="46" fill="#1C1A17">绿茶工序上多加的一道</text>
+  </g>
+  <g id="p02-row-oolong" data-pptx-bounds="204 1020 966 156">
+    <image href="../images/leaf_oolong.png" x="210" y="1026" width="130" height="130" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/word_oolong.png" x="370" y="1038" width="150" height="82" preserveAspectRatio="xMidYMid meet" />
+    <text x="560" y="1090" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">做青</text>
+    <text x="560" y="1152" font-size="46" fill="#1C1A17">摇出局部氧化，8%–85%</text>
+  </g>
+  <g id="p02-row-red" data-pptx-bounds="204 1242 966 156">
+    <image href="../images/leaf_red.png" x="210" y="1248" width="130" height="130" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/word_red.png" x="370" y="1260" width="150" height="82" preserveAspectRatio="xMidYMid meet" />
+    <text x="560" y="1312" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">发酵</text>
+    <text x="560" y="1374" font-size="46" fill="#1C1A17">独立的一道，氧化跑满</text>
+  </g>
+  <g id="p02-row-dark" data-pptx-bounds="204 1464 966 156">
+    <image href="../images/leaf_dark.png" x="210" y="1470" width="130" height="130" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/word_dark.png" x="370" y="1482" width="150" height="82" preserveAspectRatio="xMidYMid meet" />
+    <text x="560" y="1534" font-family="KaiTi" font-size="60" font-weight="bold" fill="#1C1A17">渥堆</text>
+    <text x="560" y="1596" font-size="46" fill="#1C1A17">交给微生物，不是酶</text>
+  </g>
+
+  <g id="p02-footer" data-pptx-bounds="66 1660 1108 45" fill="#6B665C" font-size="26">
+    <text x="72" y="1690">轴的上端不发酵，下端后发酵 · 依据 GB/T 30766-2014 与中国茶叶博物馆</text>
+    <text x="1168" y="1690" text-anchor="end">02</text>
+  </g>
+</svg>

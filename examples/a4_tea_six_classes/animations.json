@@ -1,0 +1,539 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.5
+    },
+    "animation": {
+      "effect": "none",
+      "trigger": "after-previous",
+      "duration": 0.5
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "p01-title": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.7,
+          "trigger": "after-previous"
+        },
+        "p01-basis": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "p01-axis": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p01-usage": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "p01-cup": {
+          "effect": "entrance_zoom",
+          "order": 5,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "02_overview_axis": {
+      "groups": {
+        "p02-header": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "p02-spine": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "p02-row-green": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p02-row-white": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p02-row-yellow": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p02-row-oolong": {
+          "effect": "entrance_wipe",
+          "order": 6,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p02-row-red": {
+          "effect": "entrance_wipe",
+          "order": 7,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p02-row-dark": {
+          "effect": "entrance_wipe",
+          "order": 8,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        }
+      }
+    },
+    "03_green_tea": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "02_overview_axis",
+        "pairs": {
+          "fermentation-axis": {
+            "from": "p02-spine",
+            "to": "p03-axis-strip"
+          },
+          "class-identity": {
+            "from": "p02-row-green",
+            "to": "p03-header"
+          }
+        }
+      },
+      "groups": {
+        "p03-hub": {
+          "effect": "entrance_circle",
+          "order": 1,
+          "duration": 0.7,
+          "trigger": "after-previous"
+        },
+        "p03-teas": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p03-chain": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.8,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p03-brew": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p03-pick": {
+          "effect": "entrance_stretch",
+          "order": 5,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      }
+    },
+    "04_white_tea": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "03_green_tea",
+        "pairs": {
+          "fermentation-axis": {
+            "from": "p03-axis-strip",
+            "to": "p04-axis-strip"
+          }
+        }
+      },
+      "groups": {
+        "p04-brace-group": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.8,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "p04-hao": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p04-teas": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p04-brew": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p04-pick": {
+          "effect": "entrance_stretch",
+          "order": 5,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      }
+    },
+    "05_yellow_tea": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "04_white_tea",
+        "pairs": {
+          "fermentation-axis": {
+            "from": "p04-axis-strip",
+            "to": "p05-axis-strip"
+          }
+        }
+      },
+      "groups": {
+        "p05-old-chain": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p05-rewrite": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.6,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "p05-new-chain": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.7,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p05-claim": {
+          "effect": "entrance_grow_and_turn",
+          "order": 4,
+          "duration": 0.7,
+          "trigger": "after-previous"
+        },
+        "p05-teas": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p05-brew": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p05-pick": {
+          "effect": "entrance_stretch",
+          "order": 7,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      }
+    },
+    "06_oolong_tea": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "05_yellow_tea",
+        "pairs": {
+          "fermentation-axis": {
+            "from": "p05-axis-strip",
+            "to": "p06-axis-strip"
+          }
+        }
+      },
+      "groups": {
+        "p06-naming": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p06-range": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 1.0,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p06-explain": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p06-teas": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p06-brew": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p06-pick": {
+          "effect": "entrance_stretch",
+          "order": 6,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      }
+    },
+    "07_black_tea": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "06_oolong_tea",
+        "pairs": {
+          "fermentation-axis": {
+            "from": "p06-axis-strip",
+            "to": "p07-axis-strip"
+          }
+        }
+      },
+      "groups": {
+        "p07-flow": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 1.0,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p07-teas": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p07-brew": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p07-pick": {
+          "effect": "entrance_stretch",
+          "order": 4,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      }
+    },
+    "08_dark_tea": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "07_black_tea",
+        "pairs": {
+          "fermentation-axis": {
+            "from": "p07-axis-strip",
+            "to": "p08-axis-strip"
+          }
+        }
+      },
+      "groups": {
+        "p08-claim": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p08-heap": {
+          "effect": "entrance_rise_up",
+          "order": 2,
+          "duration": 0.8,
+          "trigger": "after-previous"
+        },
+        "p08-teas": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p08-brew": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "p08-pick": {
+          "effect": "entrance_stretch",
+          "order": 5,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      }
+    },
+    "09_sources": {
+      "groups": {
+        "p09-sources": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.8,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "p09-conflicts": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "p09-nodata": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "p09-takeaway": {
+          "effect": "entrance_rise_up",
+          "order": 4,
+          "duration": 0.7,
+          "trigger": "after-previous"
+        },
+        "p09-cup": {
+          "effect": "entrance_zoom",
+          "order": 5,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    }
+  }
+}
