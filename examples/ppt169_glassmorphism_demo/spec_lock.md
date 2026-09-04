@@ -4,6 +4,13 @@
 - viewBox: 0 0 1280 720
 - format: PPT 16:9
 
+## communication
+- primary_language: zh-CN
+- audience: AI 产品经理 / 工程负责人 / 技术决策者
+- objective: 从九成 Agent 止步 Demo 的事实出发，依次讲清三道门槛、四层骨架、三种模式、工具编排六步、上下文工程、四张表盘与失败象限，最后交出 12 周落地路线
+- core_message: Agent 工程化不是给系统加一个 LLM，而是把 LLM 装进有架构、有上下文、有评估、有可观测的工程系统
+- consumption_mode: balanced
+
 ## colors
 - bg: #0A0E27
 - bg_secondary: #1A2150
@@ -34,20 +41,21 @@
 - hero_number: 40
 - annotation: 15
 - footnote: 12
+- hero_kpi: 88
 
 ## icons
 - library: phosphor-duotone
 - inventory: gauge, coin, bug, eye, brain, lightning, database, flow-arrow, robot, users-three, magnifying-glass, target, plug, check-circle, arrows-clockwise, stack, cube, funnel, scales, gear, code-block, shield-check, sparkle, crosshair, gear-six, chart-line-up, rocket, handshake
 
 ## images
-- 01_cover_aurora: images/01_cover_aurora.png
-- 02_hero_transition: images/02_hero_transition.png
-- 04_agent_topology: images/04_agent_topology.png
-- 06_pipeline_flow: images/06_pipeline_flow.png
-- 07_context_sphere: images/07_context_sphere.png
-- 08_dashboard_bokeh: images/08_dashboard_bokeh.png
-- 10_failure_glow: images/10_failure_glow.png
-- 12_cta_horizon: images/12_cta_horizon.png
+- 01_cover_aurora: images/01_cover_aurora.jpg
+- 02_hero_transition: images/02_hero_transition.jpg
+- 04_agent_topology: images/04_agent_topology.jpg
+- 06_pipeline_flow: images/06_pipeline_flow.jpg
+- 07_context_sphere: images/07_context_sphere.jpg
+- 08_dashboard_bokeh: images/08_dashboard_bokeh.jpg
+- 10_failure_glow: images/10_failure_glow.jpg
+- 12_cta_horizon: images/12_cta_horizon.jpg
 
 ## page_rhythm
 - P01: anchor
@@ -73,6 +81,9 @@
 - P09: line_chart
 - P10: quadrant_text_bullets
 - P11: roadmap_vertical
+
+## pptx_structure
+- mode: flat
 
 ## forbidden
 - Mixing icon libraries

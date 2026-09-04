@@ -36,8 +36,11 @@
   </g>
 
   <g id="body-text">
-    <text font-size="16" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="60" y="470">这一期，我们用 18 张数据图，回答一个问题：</text><text font-size="16" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="60" y="498"><tspan>当全球风险资本以前所未有的集中度涌入 AI，<tspan fill="#E8E6E1" font-weight="bold">这究竟是基建周期的开端，还是泡沫膨胀的中段？</tspan></tspan>
-      </text><text font-size="16" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="60" y="526">不要急着下结论。我们先把六个维度的数字铺开。</text></g>
+    <text font-size="16" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="60" y="470">
+      <tspan>这一期，我们用 18 张数据图，回答一个问题：</tspan>
+      </text><text font-size="16" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="60" y="498"><tspan>当全球风险资本以前所未有的集中度涌入 AI，<tspan fill="#E8E6E1" font-weight="bold">这究竟是基建周期的开端，还是泡沫膨胀的中段？</tspan></tspan>
+      </text><text font-size="16" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="60" y="526"><tspan>不要急着下结论。我们先把六个维度的数字铺开。</tspan>
+    </text></g>
 
   <g id="signature">
     <line x1="60" y1="618" x2="200" y2="618" stroke="#E63946" stroke-width="1" />

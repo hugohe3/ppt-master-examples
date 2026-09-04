@@ -12,7 +12,7 @@
   </g>
 
   <g id="banner">
-    <image href="../images/zumthor_lacma_exterior.png" x="0" y="240" width="1280" height="260" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/zumthor_lacma_exterior.jpg" x="0" y="240" width="1280" height="260" preserveAspectRatio="xMidYMid slice"/>
     <rect x="60" y="464" width="160" height="32" fill="#1C1C1C"/>
     <text x="76" y="486" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#E8C788" letter-spacing="2">SUSPENDED ARK</text>
   </g>

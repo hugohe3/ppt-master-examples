@@ -22,12 +22,13 @@
 
     <text x="64" y="376" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#666666" letter-spacing="2">DERIVED FROM 16</text>
 
-    <text font-size="15" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#1A1A1A" x="64" y="412"><tspan>safe margin       <tspan font-weight="700" fill="#1A1A1A">64 px</tspan>   =  4 × 16</tspan>
-      </text><text font-size="15" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#1A1A1A" x="64" y="440"><tspan>column width      <tspan font-weight="700" fill="#1A1A1A">264 px</tspan>  = 16 × 16 + 8</tspan>
-      </text><text font-size="15" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#1A1A1A" x="64" y="468"><tspan>column gap        <tspan font-weight="700" fill="#1A1A1A">32 px</tspan>   =  2 × 16</tspan>
-      </text><text font-size="15" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#1A1A1A" x="64" y="496"><tspan>row height        <tspan font-weight="700" fill="#1A1A1A">96 px</tspan>   =  6 × 16</tspan>
-      </text><text font-size="15" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#1A1A1A" x="64" y="524"><tspan>body line-height  <tspan font-weight="700" fill="#1A1A1A">27 px</tspan>   = 1.5 × 18</tspan>
-      </text><text font-size="15" font-family="Consolas, &quot;Courier New&quot;, monospace" fill="#1A1A1A" x="64" y="552"><tspan>title size        <tspan font-weight="700" fill="#1A1A1A">32 px</tspan>   =  2 × 16</tspan>
+    <text font-family="Consolas, &quot;Courier New&quot;, monospace" font-size="15" fill="#1A1A1A" x="64" y="412">
+      <tspan>safe margin       <tspan font-weight="700" fill="#1A1A1A">64 px</tspan>   =  4 × 16</tspan>
+      </text><text font-family="Consolas, &quot;Courier New&quot;, monospace" font-size="15" fill="#1A1A1A" x="64" y="440"><tspan>column width      <tspan font-weight="700" fill="#1A1A1A">264 px</tspan>  = 16 × 16 + 8</tspan>
+      </text><text font-family="Consolas, &quot;Courier New&quot;, monospace" font-size="15" fill="#1A1A1A" x="64" y="468"><tspan>column gap        <tspan font-weight="700" fill="#1A1A1A">32 px</tspan>   =  2 × 16</tspan>
+      </text><text font-family="Consolas, &quot;Courier New&quot;, monospace" font-size="15" fill="#1A1A1A" x="64" y="496"><tspan>row height        <tspan font-weight="700" fill="#1A1A1A">96 px</tspan>   =  6 × 16</tspan>
+      </text><text font-family="Consolas, &quot;Courier New&quot;, monospace" font-size="15" fill="#1A1A1A" x="64" y="524"><tspan>body line-height  <tspan font-weight="700" fill="#1A1A1A">27 px</tspan>   = 1.5 × 18</tspan>
+      </text><text font-family="Consolas, &quot;Courier New&quot;, monospace" font-size="15" fill="#1A1A1A" x="64" y="552"><tspan>title size        <tspan font-weight="700" fill="#1A1A1A">32 px</tspan>   =  2 × 16</tspan>
     </text><line x1="64" y1="604" x2="380" y2="604" stroke="#D9251D" stroke-width="2" />
     <text x="64" y="636" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="900" fill="#1A1A1A">设计师不再"画"版面</text>
     <text x="64" y="658" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#666666">而是"建立系统并按系统落子"</text>

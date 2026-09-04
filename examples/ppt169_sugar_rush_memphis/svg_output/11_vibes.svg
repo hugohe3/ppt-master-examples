@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
-  <!-- P11 Chapter 4 VIBES · breathing · hero_page with ch4_vibes.png -->
+  <!-- P11 Chapter 4 VIBES · breathing · hero_page with ch4_vibes.jpg -->
 
   <g id="bg-image">
-    <image href="../images/ch4_vibes.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/ch4_vibes.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Chapter tag -->

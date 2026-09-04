@@ -11,7 +11,7 @@
   </g>
 
   <g id="img-before">
-    <image href="../images/oma_new_museum_before.png" x="60" y="210" width="385" height="290" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/oma_new_museum_before.jpg" x="60" y="210" width="385" height="290" preserveAspectRatio="xMidYMid slice"/>
     <rect x="60" y="210" width="120" height="32" fill="#1C1C1C"/>
     <text x="76" y="232" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#E8C788" letter-spacing="2">BEFORE</text>
     <text x="60" y="522" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="15" font-weight="bold" fill="#1C1C1C">扩建前 · 标志性主楼</text>
@@ -19,7 +19,7 @@
   </g>
 
   <g id="img-after">
-    <image href="../images/oma_new_museum_after.png" x="465" y="210" width="385" height="290" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/oma_new_museum_after.jpg" x="465" y="210" width="385" height="290" preserveAspectRatio="xMidYMid slice"/>
     <rect x="465" y="210" width="120" height="32" fill="#B8935A"/>
     <text x="481" y="232" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#1C1C1C" letter-spacing="2">AFTER</text>
     <text x="465" y="522" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="15" font-weight="bold" fill="#1C1C1C">扩建后 · 新翼无缝衔接</text>
@@ -44,7 +44,7 @@
   </g>
 
   <g id="img-massing">
-    <image href="../images/oma_new_museum_massing.png" x="60" y="580" width="790" height="110" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/oma_new_museum_massing.jpg" x="60" y="580" width="790" height="110" preserveAspectRatio="xMidYMid slice"/>
     <line x1="60" y1="580" x2="60" y2="620" stroke="#B8935A" stroke-width="3"/>
     <text x="76" y="606" font-family="&quot;Microsoft YaHei&quot;, sans-serif" font-size="13" font-weight="bold" fill="#F5F2EC">OMA 体块模型 · 通透立面 + 错落空间 + 开放布局</text>
   </g>

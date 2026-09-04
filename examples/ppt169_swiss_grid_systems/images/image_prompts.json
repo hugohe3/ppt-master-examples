@@ -10,7 +10,7 @@
   },
   "items": [
     {
-      "filename": "cover_bg.png",
+      "filename": "cover_bg.jpg",
       "purpose": "Cover background (Slide 01) — Swiss grid hommage hero",
       "type": "background",
       "page_role": "hero_page",
@@ -22,7 +22,7 @@
       "status": "Generated"
     },
     {
-      "filename": "negative_space.png",
+      "filename": "negative_space.jpg",
       "purpose": "P10 negative-space-driven hero — the space between is the message",
       "type": "background",
       "page_role": "hero_page",
@@ -34,7 +34,7 @@
       "status": "Generated"
     },
     {
-      "filename": "closing_grid.png",
+      "filename": "closing_grid.jpg",
       "purpose": "P14 closing hero — the grid as grammar of freedom",
       "type": "background",
       "page_role": "hero_page",

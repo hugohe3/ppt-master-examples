@@ -13,7 +13,7 @@
 
   <g id="frame-1">
     <rect x="60" y="270" width="540" height="320" fill="none" stroke="#D4CFC4" stroke-width="1"/>
-    <image href="../images/gehry_abu_dhabi_render1.png" x="72" y="282" width="516" height="296" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/gehry_abu_dhabi_render1.jpg" x="72" y="282" width="516" height="296" preserveAspectRatio="xMidYMid slice"/>
     <text x="60" y="612" font-family="&quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#5C5852">效果图 · 主视角</text>
     <text x="60" y="630" font-family="&quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#8B8680">不规则曲面 · 灵动褶皱 · 极具冲击的几何形态</text>
   </g>

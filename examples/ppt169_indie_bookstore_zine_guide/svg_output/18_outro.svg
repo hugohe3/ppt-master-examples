@@ -14,7 +14,7 @@
 
   <!-- Full-bleed hero -->
   <g id="hero">
-    <image href="../images/zine_action_outro.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/zine_action_outro.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Left scrim so text reads on the calm field -->

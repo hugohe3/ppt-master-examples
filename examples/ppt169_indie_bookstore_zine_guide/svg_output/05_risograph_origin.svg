@@ -11,7 +11,7 @@
   <!-- Left full-height image sidebar -->
   <g id="left-sidebar">
     <rect x="62" y="62" width="380" height="596" fill="#FF5C8A"/>
-    <image href="../images/risograph_machine.png" x="60" y="60" width="380" height="596" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/risograph_machine.jpg" x="60" y="60" width="380" height="596" preserveAspectRatio="xMidYMid slice"/>
     <!-- Sidebar caption stack -->
     <rect x="60" y="660" width="380" height="40" fill="#1E4DBC"/>
     <text x="80" y="685" font-family="Impact, 'Arial Black', 'Microsoft YaHei', sans-serif" font-size="22" fill="#F5EFE0">RISO EZ200</text>

@@ -35,7 +35,7 @@
     <rect x="200" y="200" width="1020" height="86" fill="none" stroke="#1A1A1A" stroke-width="2"/>
     <rect x="200" y="200" width="8" height="86" fill="#FF5C8A"/>
     <!-- icon: chunk-filled/heart -->
-  <g transform="translate(224.0, 218.0) scale(3.0)" fill="#FF5C8A">
+  <g transform="translate(224, 218) scale(3)" fill="#FF5C8A">
     <path d="M1.24264 8.24264L8 15L14.7574 8.24264C15.553 7.44699 16 6.36786 16 5.24264V5.05234C16 2.8143 14.1857 1 11.9477 1C10.7166 1 9.55233 1.55959 8.78331 2.52086L8 3.5L7.21669 2.52086C6.44767 1.55959 5.28338 1 4.05234 1C1.8143 1 0 2.8143 0 5.05234V5.24264C0 6.36786 0.44699 7.44699 1.24264 8.24264Z"/>
   </g>
     <text x="288" y="240" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="22" font-weight="900" fill="#1A1A1A">从一本起步</text>
@@ -53,7 +53,7 @@
     <rect x="200" y="312" width="1020" height="86" fill="none" stroke="#1A1A1A" stroke-width="2"/>
     <rect x="200" y="312" width="8" height="86" fill="#1E4DBC"/>
     <!-- icon: chunk-filled/folders -->
-  <g transform="translate(224.0, 330.0) scale(3.0)" fill="#1E4DBC">
+  <g transform="translate(224, 330) scale(3)" fill="#1E4DBC">
     <path d="M9 1H4V11H16V3H11L9 1Z"/>
     <path d="M0 5V15H12V13H2V5H0Z"/>
   </g>
@@ -72,7 +72,7 @@
     <rect x="200" y="424" width="1020" height="86" fill="none" stroke="#1A1A1A" stroke-width="2"/>
     <rect x="200" y="424" width="8" height="86" fill="#1A1A1A"/>
     <!-- icon: chunk-filled/users -->
-  <g transform="translate(224.0, 442.0) scale(3.0)" fill="#1A1A1A">
+  <g transform="translate(224, 442) scale(3)" fill="#1A1A1A">
     <path d="M8 3.5C8 4.88071 6.88071 6 5.5 6C4.11929 6 3 4.88071 3 3.5C3 2.11929 4.11929 1 5.5 1C6.88071 1 8 2.11929 8 3.5Z"/>
     <path d="M3 8C1.34315 8 0 9.34315 0 11V15H8V8H3Z"/>
     <path d="M13 8H10V15H16V11C16 9.34315 14.6569 8 13 8Z"/>
@@ -93,7 +93,7 @@
     <rect x="200" y="536" width="1020" height="86" fill="none" stroke="#1A1A1A" stroke-width="2"/>
     <rect x="200" y="536" width="8" height="86" fill="#E8A02E"/>
     <!-- icon: chunk-filled/calendar -->
-  <g transform="translate(224.0, 554.0) scale(3.0)" fill="#E8A02E">
+  <g transform="translate(224, 554) scale(3)" fill="#E8A02E">
     <path d="M6 0H3V2H1V5H15V2H13V0H10V2H6V0Z"/>
     <path d="M15 7H1V15H15V7Z"/>
   </g>

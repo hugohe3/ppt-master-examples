@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
-  <!-- P02 Chapter 1 WHAT · breathing · hero_page with ch1_what.png -->
+  <!-- P02 Chapter 1 WHAT · breathing · hero_page with ch1_what.jpg -->
 
   <defs>
     <linearGradient id="topScrim02" x1="0" y1="0" x2="0" y2="1">
@@ -9,7 +9,7 @@
   </defs>
 
   <g id="bg-image">
-    <image href="../images/ch1_what.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/ch1_what.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Black bar with chapter number top-left -->

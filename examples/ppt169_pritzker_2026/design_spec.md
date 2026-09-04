@@ -150,30 +150,30 @@
 
 | Filename | Dimensions | Ratio | Purpose | Type | Layout pattern | Acquire Via | Status | Reference |
 | -------- | --------- | ----- | ------- | ---- | -------------- | ----------- | ------ | --------- |
-| ando_h_rooftop.png | 685×514 | 1.33 | P01 封面背景（混凝土水景） | Photography | #1 full-bleed background with floating title | user | Existing | 安藤忠雄 H+ 美术馆屋顶水景 |
-| ando_h_exterior.png | 1080×810 | 1.33 | P03 安藤代表作主图 | Photography | #41 background image with native callout cards floating over | user | Existing | H+ 美术馆临河外观 |
-| ando_h_interior.png | 667×937 | 0.71 | P03 安藤副图（竖图） | Photography | (同上多图组合) | user | Existing | H+ 美术馆室内空间 |
-| chipperfield_milan_exterior.png | 1080×810 | 1.33 | P04 奇普菲尔德主图 | Photography | #48 side-by-side comparison (古罗马 vs 当代) | user | Existing | 米兰冰球馆外观 |
-| chipperfield_roman_amphitheater.png | 800×533 | 1.50 | P04 古罗马参照 | Photography | (与主图并置) | user | Existing | 古罗马圆形剧场 |
+| ando_h_rooftop.jpg | 685×514 | 1.33 | P01 封面背景（混凝土水景） | Photography | #1 full-bleed background with floating title | user | Existing | 安藤忠雄 H+ 美术馆屋顶水景 |
+| ando_h_exterior.jpg | 1080×810 | 1.33 | P03 安藤代表作主图 | Photography | #41 background image with native callout cards floating over | user | Existing | H+ 美术馆临河外观 |
+| ando_h_interior.jpg | 667×937 | 0.71 | P03 安藤副图（竖图） | Photography | (同上多图组合) | user | Existing | H+ 美术馆室内空间 |
+| chipperfield_milan_exterior.jpg | 1080×810 | 1.33 | P04 奇普菲尔德主图 | Photography | #48 side-by-side comparison (古罗马 vs 当代) | user | Existing | 米兰冰球馆外观 |
+| chipperfield_roman_amphitheater.jpg | 800×533 | 1.50 | P04 古罗马参照 | Photography | (与主图并置) | user | Existing | 古罗马圆形剧场 |
 | chipperfield_milan_facade.png | 1024×1365 | 0.75 | P04 立面细节（竖图） | Photography | (副图条带) | user | Existing | 场馆立面金属环带 |
-| zaha_tamkang_bridge.png | 960×640 | 1.50 | P05 扎哈大桥主视觉 | Photography | #15 multi-image montage with bold text spanning across | user | Existing | 淡江大桥流线姿态 |
-| zaha_tamkang_structure.png | 960×640 | 1.50 | P05 大桥结构 | Photography | (蒙太奇成员) | user | Existing | 大桥单塔斜拉结构 |
-| zaha_tamkang_full.png | 831×554 | 1.50 | P05 大桥远景 | Photography | (蒙太奇成员) | user | Existing | 大桥跨江全景 |
-| foster_shanghai_exterior.png | 1080×652 | 1.66 | P06 福斯特大图 | Photography | #12 faded image as backdrop with oversized overlay text | user | Existing | 上海嘉艺术外观全景 |
-| foster_shanghai_petal.png | 1080×1368 | 0.79 | P06 花瓣细节 | Photography | (浮层旁置小图框) | user | Existing | 花瓣立面细节 |
-| oma_new_museum_before.png | 1080×809 | 1.33 | P07 OMA 扩建前后 (前) | Photography | #50 before/after slider-style side-by-side | user | Existing | 纽约新美术馆扩建前 |
-| oma_new_museum_after.png | 1080×921 | 1.17 | P07 OMA 扩建前后 (后) | Photography | (#50 配对) | user | Existing | 纽约新美术馆扩建后 |
-| oma_new_museum_massing.png | 1080×608 | 1.78 | P07 体块模型条带 | Photography | (#50 下方副条) | user | Existing | OMA 体块模型 |
+| zaha_tamkang_bridge.jpg | 960×640 | 1.50 | P05 扎哈大桥主视觉 | Photography | #15 multi-image montage with bold text spanning across | user | Existing | 淡江大桥流线姿态 |
+| zaha_tamkang_structure.jpg | 960×640 | 1.50 | P05 大桥结构 | Photography | (蒙太奇成员) | user | Existing | 大桥单塔斜拉结构 |
+| zaha_tamkang_full.jpg | 831×554 | 1.50 | P05 大桥远景 | Photography | (蒙太奇成员) | user | Existing | 大桥跨江全景 |
+| foster_shanghai_exterior.jpg | 1080×652 | 1.66 | P06 福斯特大图 | Photography | #12 faded image as backdrop with oversized overlay text | user | Existing | 上海嘉艺术外观全景 |
+| foster_shanghai_petal.jpg | 1080×1368 | 0.79 | P06 花瓣细节 | Photography | (浮层旁置小图框) | user | Existing | 花瓣立面细节 |
+| oma_new_museum_before.jpg | 1080×809 | 1.33 | P07 OMA 扩建前后 (前) | Photography | #50 before/after slider-style side-by-side | user | Existing | 纽约新美术馆扩建前 |
+| oma_new_museum_after.jpg | 1080×921 | 1.17 | P07 OMA 扩建前后 (后) | Photography | (#50 配对) | user | Existing | 纽约新美术馆扩建后 |
+| oma_new_museum_massing.jpg | 1080×608 | 1.78 | P07 体块模型条带 | Photography | (#50 下方副条) | user | Existing | OMA 体块模型 |
 | oma_new_museum_interior.png | 1080×896 | 1.21 | P07 室内（备用） | Photography | (内嵌副图框) | user | Existing | 美术馆内部 |
-| zumthor_lacma_exterior.png | 1080×608 | 1.78 | P08 卒姆托主图 | Photography | #14 horizontal banner strip cutting through mid-section | user | Existing | LACMA 大卫·格芬画廊横幅 |
+| zumthor_lacma_exterior.jpg | 1080×608 | 1.78 | P08 卒姆托主图 | Photography | #14 horizontal banner strip cutting through mid-section | user | Existing | LACMA 大卫·格芬画廊横幅 |
 | zumthor_lacma_underside.png | 1080×720 | 1.50 | P08 底部公共空间 | Photography | (mid-section 横条之下副图) | user | Existing | 悬浮架空底部空间 |
 | zumthor_lacma_interior.png | 1080×608 | 1.78 | P08 内部（备用） | Photography | (右上小景) | user | Existing | LACMA 室内 |
-| gehry_abu_dhabi_render1.png | 1080×608 | 1.78 | P09 盖里渲染主图 | Photography | #19 image floating in whitespace with thin frame and caption | user | Existing | 阿布扎比古根海姆主渲染 |
+| gehry_abu_dhabi_render1.jpg | 1080×608 | 1.78 | P09 盖里渲染主图 | Photography | #19 image floating in whitespace with thin frame and caption | user | Existing | 阿布扎比古根海姆主渲染 |
 | gehry_abu_dhabi_render2.png | 1080×607 | 1.78 | P09 渲染辅图 | Photography | (#19 第二浮层框) | user | Existing | 第二角度渲染 |
 | gehry_abu_dhabi_render3.png | 1000×1000 | 1.00 | P09 方图辅 | Photography | (#19 第三浮层) | user | Existing | 鸟瞰渲染 |
-| kere_senegal_exterior.png | 818×546 | 1.50 | P10 凯雷主图（土砖外观） | Photography | #38 background image + annotation cards | user | Existing | 塞内加尔歌德学院外观 |
-| kere_senegal_courtyard.png | 630×944 | 0.67 | P10 院落（竖图） | Photography | (annotation 中嵌入小图) | user | Existing | 猴面包树核心院落 |
-| kere_senegal_interior.png | 980×654 | 1.50 | P10 内部 | Photography | (annotation 中嵌入小图) | user | Existing | 学院内部空间 |
+| kere_senegal_exterior.jpg | 818×546 | 1.50 | P10 凯雷主图（土砖外观） | Photography | #38 background image + annotation cards | user | Existing | 塞内加尔歌德学院外观 |
+| kere_senegal_courtyard.jpg | 630×944 | 0.67 | P10 院落（竖图） | Photography | (annotation 中嵌入小图) | user | Existing | 猴面包树核心院落 |
+| kere_senegal_interior.jpg | 980×654 | 1.50 | P10 内部 | Photography | (annotation 中嵌入小图) | user | Existing | 学院内部空间 |
 
 **Layout pattern 覆盖审计**:
 - Group A (容器): #1 cover, #12 faded backdrop, #14 mid-section banner, #15 montage with text → 4 patterns
@@ -190,12 +190,18 @@
 
 #### Slide 01 - 封面
 
+- **Audience move**: 只知道“普利兹克奖”是个大奖 → 意识到 2026 是八座大师新作集中揭幕的一年
+- **Relationships**: 主标题与副标题为 parent;“8 座新作 · 8 种深耕”与来源署名 link 于同一篇原文;其余 none
+
 - **Layout**: #1 Full-bleed background + floating title（混凝土水景为视觉锚）
 - **Title**: 2026 普利兹克奖大师季
 - **Subtitle**: 8 座新作，8 种深耕
 - **Info**: 从苏州河畔到沙漠腹地·读懂顶级建筑师的思考与坚守 / 来源：公众号孙琬童 / 2026
 
 #### Slide 02 - 8 位大师总览
+
+- **Audience move**: 记不清 2026 年有哪些大师作品落成 → 能按编号说出八位大师、八座建筑与所在城市
+- **Relationships**: 八张卡片之间为 order(01–08);八者 membership 于“2026 普利兹克大师新作季”;四大洲分布为 contrast
 
 - **Layout**: Negative-space-driven + 8 卡（4×2 方阵），每卡只放编号 + 大师名 + 一行项目名 + 地理标识
 - **Title**: 八位大师，八种坚守
@@ -213,6 +219,9 @@
 
 #### Slide 03 - 01 安藤忠雄 · 苏州 H+ 美术馆
 
+- **Audience move**: 把安藤忠雄等同于“清水混凝土” → 理解他在苏州用回游性和立体园林回应江南记忆
+- **Relationships**: 建筑师与作品为 parent;“立体园林 · 回游性”两条核心理念 membership 于 CORE CONCEPT;三张实景图 link 于同一座美术馆
+
 - **Layout**: #41 image-as-canvas + 浮层 annotation cards（横图为底，左侧浮一张卡片承载文字，竖图作为右上小内嵌图）
 - **Title**: 在江南园林里写一首混凝土诗
 - **Subtitle**: 安藤忠雄 · 1995 年普利兹克奖 · 2026.1 开馆
@@ -223,6 +232,9 @@
   - 核心理念："让建筑归于自然，让艺术治愈人心"
 
 #### Slide 04 - 02 戴卫·奇普菲尔德 · 米兰圣朱利亚冰球馆
+
+- **Audience move**: 以为冬奥场馆只是功能建筑 → 看到奇普菲尔德如何用古罗马竞技场做当代回应
+- **Relationships**: 古罗马圆形剧场(PRECEDENT)与冰球馆(新作)为 contrast;“三道金属环带 / 玻璃腰线 / LED 灯带”membership 于立面语言
 
 - **Layout**: #48 side-by-side comparison（左侧主图当代场馆，右侧古罗马剧场参照，下方副图横向立面条带）
 - **Title**: 千年罗马竞技场的现代回响
@@ -235,6 +247,9 @@
 
 #### Slide 05 - 03 扎哈·哈迪德（遗作）· 淡江大桥
 
+- **Audience move**: 知道扎哈已逝 → 理解淡江大桥是遗作按理想方案 100% 还原的意义
+- **Relationships**: “920 米”与“全球同类型最长跨度”为 parent;“100%”与“多次方案攻坚”为 link(因果);扎哈生平与作品 order
+
 - **Layout**: #15 multi-image montage + 上方半透明深色横幅承载大标题（三张图横向蒙太奇拼贴）
 - **Title**: 跨越江河的流动态势
 - **Subtitle**: 扎哈·哈迪德 · 2004 年普利兹克奖 · 2026.5.12 通车
@@ -245,6 +260,9 @@
   - "永不设限"——大师已逝，思想延续
 
 #### Slide 06 - 04 诺曼·福斯特 · 上海嘉艺术
+
+- **Audience move**: 把美术馆想成白盒子 → 理解福斯特“城市中缓慢生长的生命体”
+- **Relationships**: 整体外观与花瓣立面细节为 parent(整体→局部);“观展 · 观景 · 观城”三者 membership 于同一空间体验
 
 - **Layout**: #12 faded image as backdrop + 巨号叠加文字（横图压暗作底纹，巨号"04"和短标题压上，右侧细长竖图作小框）
 - **Title**: 苏州河畔绽放的钢铁花瓣
@@ -257,6 +275,9 @@
 
 #### Slide 07 - 05 OMA + SANAA · 纽约新美术馆扩建
 
+- **Audience move**: 把扩建当作加建 → 理解 OMA 与 SANAA 新旧共生的双强联动
+- **Relationships**: BEFORE 与 AFTER 为 contrast;OMA 新翼与 SANAA 主楼 link(共生);投资额与面积 membership 于项目事实
+
 - **Layout**: #50 before/after side-by-side（上方左右并置扩建前/后，下方加体块模型横条）
 - **Title**: 双强联动，新旧艺术共生
 - **Subtitle**: OMA (库哈斯, 2000) × SANAA (妹岛+西泽, 2010) · 2026.3.21 开放
@@ -267,6 +288,9 @@
   - "迭代更新、兼容并蓄"——百年美术馆获新活力
 
 #### Slide 08 - 06 彼得·卒姆托 · LACMA 大卫·格芬画廊
+
+- **Audience move**: 只看到造价 → 理解二十年打磨与悬浮方舟背后的极简耐心
+- **Relationships**: “20 年”与“$724M / 3 万㎡”membership 于 SCALE;“悬浮方舟”与七座亭子为 parent;时间与耐心为 link
 
 - **Layout**: #14 horizontal banner strip 中段贯穿（顶部留标题，中段横幅大图，底部承载叙事文字）
 - **Title**: 20 年打磨的诗意艺术方舟
@@ -279,6 +303,9 @@
 
 #### Slide 09 - 07 弗兰克·盖里（遗作）· 阿布扎比古根海姆博物馆
 
+- **Audience move**: 把阿布扎比古根海姆看作又一座解构主义地标 → 意识到这是盖里的绝唱
+- **Relationships**: 效果图主视角与第二角度为 parent(同一对象两视角);“1929 — 2025”与“2026 开幕”为 contrast(逝世与揭幕)
+
 - **Layout**: #19 image floating in whitespace + 多浮层细框（三张渲染图错落浮于米白底，细框 + 小图注，文字以负空间承载）
 - **Title**: 沙漠中的"解构主义绝唱"
 - **Subtitle**: 弗兰克·盖里（1929-2025）· 1989 年普利兹克奖 · 2026 开幕
@@ -289,6 +316,9 @@
   - "建筑无边界、创意无极限"——解构主义大师的收官终篇
 
 #### Slide 10 - 08 迪埃贝多·凯雷 · 塞内加尔歌德学院
+
+- **Audience move**: 觉得非洲项目是“低技术” → 理解凯雷顺应自然的设计哲学与土砖体系
+- **Relationships**: DESIGN PHILOSOPHY 为 parent;“土砖主体 / 自然通风 / 摆脱空调 / 适配气候”四条 membership 于顺应自然
 
 - **Layout**: #38 background image + annotation cards（横图作底，2-3 张半透明信息卡浮上，竖图与内部图嵌入卡内）
 - **Title**: 夯土砖"屏风"，扎根乡土的温暖建筑
@@ -302,6 +332,9 @@
 ### Part 3: 收束
 
 #### Slide 11 - 结语：所有传世，皆源于深耕
+
+- **Audience move**: 看完八座各自独立的建筑 → 抓住“耐心 / 扎根 / 突破”三种共同坚守
+- **Relationships**: “耐心 / 扎根 / 突破”三者 contrast(三种路径);每一种 link 回前文对应的建筑师;结语与封面为 order(首尾呼应)
 
 - **Layout**: Negative-space-driven 单元素 + 暖金强调引语（无大图，文字为主，留白为主）
 - **Title**: 所有传世的经典，皆源于日复一日的坚守

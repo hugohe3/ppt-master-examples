@@ -14,7 +14,7 @@
   },
   "items": [
     {
-      "filename": "cover_bg.png",
+      "filename": "cover_bg.jpg",
       "purpose": "P01 cover hero — SUGAR RUSH 主视觉",
       "type": "hero",
       "page_role": "hero_page",
@@ -26,7 +26,7 @@
       "status": "Generated"
     },
     {
-      "filename": "ch1_what.png",
+      "filename": "ch1_what.jpg",
       "purpose": "P02 chapter 1 WHAT — 沙滩派对俯视全景",
       "type": "background",
       "page_role": "hero_page",
@@ -38,7 +38,7 @@
       "status": "Generated"
     },
     {
-      "filename": "ch2_who.png",
+      "filename": "ch2_who.jpg",
       "purpose": "P05 chapter 2 WHO — 五位音乐人剪影舞台",
       "type": "hero",
       "page_role": "hero_page",
@@ -50,7 +50,7 @@
       "status": "Generated"
     },
     {
-      "filename": "headliners.png",
+      "filename": "headliners.jpg",
       "purpose": "P06 头牌艺人四联画 — 四位虚构音乐人正面半身像",
       "type": "portrait",
       "page_role": "local",
@@ -62,7 +62,7 @@
       "status": "Generated"
     },
     {
-      "filename": "ch3_where.png",
+      "filename": "ch3_where.jpg",
       "purpose": "P08 chapter 3 WHERE — 音乐节场地鸟瞰",
       "type": "map",
       "page_role": "hero_page",
@@ -74,7 +74,7 @@
       "status": "Generated"
     },
     {
-      "filename": "ch4_vibes.png",
+      "filename": "ch4_vibes.jpg",
       "purpose": "P11 chapter 4 VIBES — 夜场荧光氛围",
       "type": "scene",
       "page_role": "hero_page",
@@ -86,7 +86,7 @@
       "status": "Generated"
     },
     {
-      "filename": "market.png",
+      "filename": "market.jpg",
       "purpose": "P12 周边市集 local 插画",
       "type": "scene",
       "page_role": "local",
@@ -98,7 +98,7 @@
       "status": "Generated"
     },
     {
-      "filename": "installation.png",
+      "filename": "installation.jpg",
       "purpose": "P12 互动艺术装置 local 插画",
       "type": "scene",
       "page_role": "local",
@@ -110,7 +110,7 @@
       "status": "Generated"
     },
     {
-      "filename": "closing.png",
+      "filename": "closing.jpg",
       "purpose": "P14 收尾页 — 夕阳空舞台与残存彩屑",
       "type": "scene",
       "page_role": "hero_page",

@@ -4,7 +4,7 @@
   </g>
 
   <g id="bg-faded">
-    <image href="../images/foster_shanghai_exterior.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/foster_shanghai_exterior.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
     <rect x="0" y="0" width="1280" height="720" fill="#F5F2EC" fill-opacity="0.72"/>
   </g>
 
@@ -22,7 +22,7 @@
 
   <g id="thumb-petal">
     <rect x="900" y="180" width="280" height="420" fill="#F5F2EC"/>
-    <image href="../images/foster_shanghai_petal.png" x="906" y="186" width="268" height="408" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/foster_shanghai_petal.jpg" x="906" y="186" width="268" height="408" preserveAspectRatio="xMidYMid slice"/>
     <line x1="900" y1="180" x2="900" y2="240" stroke="#B8935A" stroke-width="3"/>
     <text x="916" y="210" font-family="&quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#F5F2EC">花瓣立面细节</text>
   </g>

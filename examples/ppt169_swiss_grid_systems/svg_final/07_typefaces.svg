@@ -21,7 +21,11 @@
     <line x1="64" y1="528" x2="120" y2="528" stroke="#1A1A1A" stroke-width="1" />
     <text x="64" y="556" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="900" fill="#1A1A1A">第一款现代意义的</text>
     <text x="64" y="578" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="900" fill="#1A1A1A">商业无衬线字体</text>
-    <text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="64" y="608">瑞士学派早期首选</text><text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="64" y="626">比 Helvetica 早 61 年问世</text><text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="64" y="644">奠定无衬线美学全部基调</text></g>
+    <text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="64" y="608">
+      <tspan>瑞士学派早期首选</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="64" y="626"><tspan>比 Helvetica 早 61 年问世</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="64" y="644"><tspan>奠定无衬线美学全部基调</tspan>
+    </text></g>
 
   <g id="type-helvetica">
     <line x1="470" y1="220" x2="810" y2="220" stroke="#D9251D" stroke-width="3" />
@@ -33,7 +37,11 @@
     <line x1="470" y1="528" x2="526" y2="528" stroke="#D9251D" stroke-width="2" />
     <text x="470" y="556" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="900" fill="#D9251D">字面意思就是"瑞士"</text>
     <text x="470" y="578" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="900" fill="#1A1A1A">中性 · 客观 · 可读至极</text>
-    <text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="470" y="608">原名 Neue Haas Grotesk</text><text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="470" y="626">取自拉丁文 Helvetia(瑞士)</text><text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="470" y="644">20 世纪传播范围最广的字体</text></g>
+    <text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="470" y="608">
+      <tspan>原名 Neue Haas Grotesk</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="470" y="626"><tspan>取自拉丁文 Helvetia(瑞士)</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="470" y="644"><tspan>20 世纪传播范围最广的字体</tspan>
+    </text></g>
 
   <g id="type-univers">
     <line x1="876" y1="220" x2="1216" y2="220" stroke="#1A1A1A" stroke-width="3" />
@@ -45,7 +53,11 @@
     <line x1="876" y1="528" x2="932" y2="528" stroke="#1A1A1A" stroke-width="1" />
     <text x="876" y="556" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="900" fill="#1A1A1A">21 字重的二维坐标</text>
     <text x="876" y="578" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="900" fill="#1A1A1A">字体工程的开端</text>
-    <text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="876" y="608">Univers 39 — 83 二维编号</text><text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="876" y="626">把"家族+字重+宽度"工程化</text><text font-size="12" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="876" y="644">现代字体家族结构的祖先</text></g>
+    <text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="876" y="608">
+      <tspan>Univers 39 — 83 二维编号</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="876" y="626"><tspan>把"家族+字重+宽度"工程化</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#666666" x="876" y="644"><tspan>现代字体家族结构的祖先</tspan>
+    </text></g>
 
   <g id="page-footer">
     <text x="1216" y="688" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#999999" text-anchor="end" letter-spacing="1">07 / 14</text>

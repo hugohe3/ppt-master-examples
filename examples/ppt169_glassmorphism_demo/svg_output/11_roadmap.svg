@@ -44,7 +44,7 @@
 
   <g id="timeline-axis">
     <line x1="200" y1="155" x2="200" y2="660" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="6" stroke-linecap="round"/>
-    <line x1="200" y1="155" x2="200" y2="660" stroke="url(#timelineGrad)" stroke-width="4" stroke-linecap="round"/>
+    <rect x="198" y="155" width="4" height="505" rx="2" fill="url(#timelineGrad)"/>
   </g>
 
   <g id="ms-1">

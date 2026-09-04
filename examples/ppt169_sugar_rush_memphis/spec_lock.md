@@ -4,6 +4,13 @@
 - viewBox: 0 0 1280 720
 - format: PPT 16:9
 
+## communication
+- primary_language: zh-CN
+- audience: 音乐节观众（18-35）、品牌赞助方与媒体
+- objective: 按 WHAT / WHO / WHERE / VIBES 四章交出音乐节的理念、阵容、场地、日程与票务，让读者看完就知道哪天去、看谁、怎么买票
+- core_message: 当全世界都在变热，SUGAR RUSH 决定让这个夏天变甜
+- consumption_mode: reading
+
 ## colors
 - bg: #FFF8EE
 - bg_secondary: #FFE9C7
@@ -34,21 +41,25 @@
 - chapter_hero: 200
 - chapter_title: 64
 - hero_number: 140
+- caption: 11
+- lead: 24
+- display_m: 48
+- poster_numeral: 100
 
 ## icons
 - library: chunk-filled
 - inventory: calendar, music, microphone, users, clock, bolt, heart, star, map-pin, sun, sparkles, headphones, shopping-bag, game-controller, ticket, gift, arrow-right
 
 ## images
-- cover_bg: images/cover_bg.png
-- ch1_what: images/ch1_what.png
-- ch2_who: images/ch2_who.png
-- headliners: images/headliners.png
-- ch3_where: images/ch3_where.png
-- ch4_vibes: images/ch4_vibes.png
-- market: images/market.png
-- installation: images/installation.png
-- closing: images/closing.png
+- cover_bg: images/cover_bg.jpg
+- ch1_what: images/ch1_what.jpg
+- ch2_who: images/ch2_who.jpg
+- headliners: images/headliners.jpg
+- ch3_where: images/ch3_where.jpg
+- ch4_vibes: images/ch4_vibes.jpg
+- market: images/market.jpg
+- installation: images/installation.jpg
+- closing: images/closing.jpg
 
 ## page_rhythm
 - P01: anchor
@@ -75,6 +86,9 @@
 - P10: timeline
 - P12: comparison_columns
 - P13: comparison_columns
+
+## pptx_structure
+- mode: flat
 
 ## forbidden
 - Mixing icon libraries

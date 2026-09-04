@@ -23,7 +23,10 @@
     <text x="80" y="232" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#666666" letter-spacing="2">01 · 古典</text>
     <text x="80" y="266" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="22" font-weight="900" fill="#1A1A1A">手稿网格</text>
     <text x="80" y="288" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#666666" letter-spacing="1">MANUSCRIPT GRID</text>
-    <text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="80" y="318">单栏满版 · 最古老的网格</text><text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="80" y="338">书籍正文 · 长篇散文唯一选项</text><g id="schema-manuscript" transform="translate(440,222)">
+    <text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="80" y="318">
+      <tspan>单栏满版 · 最古老的网格</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="80" y="338"><tspan>书籍正文 · 长篇散文唯一选项</tspan>
+    </text><g id="schema-manuscript" transform="translate(440,222)">
       <rect x="0" y="0" width="160" height="180" fill="none" stroke="#1A1A1A" stroke-width="1" />
       <rect x="20" y="20" width="120" height="140" fill="#1A1A1A" fill-opacity="0.08" />
       <line x1="20" y1="40" x2="140" y2="40" stroke="#1A1A1A" stroke-width="0.5" />
@@ -40,7 +43,10 @@
     <text x="660" y="232" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#666666" letter-spacing="2">02 · 期刊</text>
     <text x="660" y="266" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="22" font-weight="900" fill="#1A1A1A">列状网格</text>
     <text x="660" y="288" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#666666" letter-spacing="1">COLUMN GRID</text>
-    <text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="660" y="318">多栏并列 · 列宽行高皆可计算</text><text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="660" y="338">期刊 · 报纸 · 出版业的语法基础</text><g id="schema-column" transform="translate(1020,222)">
+    <text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="660" y="318">
+      <tspan>多栏并列 · 列宽行高皆可计算</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="660" y="338"><tspan>期刊 · 报纸 · 出版业的语法基础</tspan>
+    </text><g id="schema-column" transform="translate(1020,222)">
       <rect x="0" y="0" width="160" height="180" fill="none" stroke="#1A1A1A" stroke-width="1" />
       <rect x="10" y="20" width="40" height="140" fill="#1A1A1A" fill-opacity="0.10" />
       <rect x="60" y="20" width="40" height="140" fill="#1A1A1A" fill-opacity="0.10" />
@@ -62,7 +68,11 @@
     <text x="80" y="462" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#D9251D" letter-spacing="2">03 · 海报</text>
     <text x="80" y="496" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="22" font-weight="900" fill="#D9251D">模数网格</text>
     <text x="80" y="518" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#666666" letter-spacing="1">MODULAR GRID</text>
-    <text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="80" y="548">横列 × 纵行的方格矩阵</text><text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="80" y="568">海报 · 目录 · 平面设计的利器</text><text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="80" y="588">瑞士国际主义最具识别度的网格类型</text><g id="schema-modular" transform="translate(440,452)">
+    <text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="80" y="548">
+      <tspan>横列 × 纵行的方格矩阵</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="80" y="568"><tspan>海报 · 目录 · 平面设计的利器</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="80" y="588"><tspan>瑞士国际主义最具识别度的网格类型</tspan>
+    </text><g id="schema-modular" transform="translate(440,452)">
       <rect x="0" y="0" width="160" height="180" fill="none" stroke="#D9251D" stroke-width="1" />
       <line x1="40" y1="0" x2="40" y2="180" stroke="#D9251D" stroke-width="0.5" />
       <line x1="80" y1="0" x2="80" y2="180" stroke="#D9251D" stroke-width="0.5" />
@@ -82,7 +92,10 @@
     <text x="660" y="462" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="11" fill="#666666" letter-spacing="2">04 · 复合</text>
     <text x="660" y="496" font-family="&quot;Arial Black&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="22" font-weight="900" fill="#1A1A1A">层级网格</text>
     <text x="660" y="518" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#666666" letter-spacing="1">HIERARCHICAL GRID</text>
-    <text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="660" y="548">不规则但内部有逻辑</text><text font-size="13" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="660" y="568">复合排版 · 杂志专题 · 网页布局</text><g id="schema-hierarchical" transform="translate(1020,452)">
+    <text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="660" y="548">
+      <tspan>不规则但内部有逻辑</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#1A1A1A" x="660" y="568"><tspan>复合排版 · 杂志专题 · 网页布局</tspan>
+    </text><g id="schema-hierarchical" transform="translate(1020,452)">
       <rect x="0" y="0" width="160" height="180" fill="none" stroke="#1A1A1A" stroke-width="1" />
       <rect x="0" y="0" width="160" height="40" fill="#1A1A1A" fill-opacity="0.85" />
       <rect x="0" y="50" width="100" height="80" fill="#1A1A1A" fill-opacity="0.15" />

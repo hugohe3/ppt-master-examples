@@ -9,7 +9,7 @@
 
 ---
 
-### Image 1: cover_bg.png
+### Image 1: cover_bg.jpg
 
 | Attribute | Value |
 |---|---|
@@ -28,7 +28,7 @@ Strict Swiss-grid minimalist composition in the visual language of Josef Müller
 
 ---
 
-### Image 2: negative_space.png
+### Image 2: negative_space.jpg
 
 | Attribute | Value |
 |---|---|
@@ -47,7 +47,7 @@ Radical Swiss minimalism — the entire image is an argument for negative space.
 
 ---
 
-### Image 3: closing_grid.png
+### Image 3: closing_grid.jpg
 
 | Attribute | Value |
 |---|---|

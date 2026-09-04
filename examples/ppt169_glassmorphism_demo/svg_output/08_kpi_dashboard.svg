@@ -22,7 +22,7 @@
 
   <g id="bg">
     <rect width="1280" height="720" fill="#0A0E27"/>
-    <image href="../images/08_dashboard_bokeh.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/08_dashboard_bokeh.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
     <rect x="0" y="0" width="1280" height="720" fill="url(#bgOverlay)"/>
   </g>
 

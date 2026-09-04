@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
-  <!-- P06 THE HEADLINERS · dense · chart: icon_grid adapted with headliners.png triptych -->
+  <!-- P06 THE HEADLINERS · dense · chart: icon_grid adapted with headliners.jpg triptych -->
 
   <defs>
     <clipPath id="headlinersClip">
@@ -22,7 +22,7 @@
 
   <!-- Headliners triptych image (clipped to rounded rect) -->
   <g id="headliners-image">
-    <image href="../images/headliners.png" x="60" y="170" width="1160" height="280" preserveAspectRatio="xMidYMid slice" clip-path="url(#headlinersClip)"/>
+    <image href="../images/headliners.jpg" x="60" y="170" width="1160" height="280" preserveAspectRatio="xMidYMid slice" clip-path="url(#headlinersClip)"/>
     <!-- Border on top -->
     <rect x="60" y="170" width="1160" height="280" rx="14" fill="none" stroke="#1A1A2E" stroke-width="4"/>
     <!-- 3 vertical dividers in black to emphasize 4 panels -->

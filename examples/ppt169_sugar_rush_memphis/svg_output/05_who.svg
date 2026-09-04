@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
-  <!-- P05 Chapter 2 WHO · breathing · hero_page with ch2_who.png -->
+  <!-- P05 Chapter 2 WHO · breathing · hero_page with ch2_who.jpg -->
 
   <g id="bg-image">
-    <image href="../images/ch2_who.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/ch2_who.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Black bar with chapter number -->

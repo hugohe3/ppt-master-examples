@@ -22,8 +22,14 @@
 
     <line x1="80" y1="410" x2="320" y2="410" stroke="#2A2F36" stroke-width="1" />
 
-    <text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="80" y="442">Ilya Sutskever 创立</text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="80" y="464"><tspan><tspan fill="#E63946" font-weight="bold">$5B → $32B</tspan></tspan>
-      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="80" y="486">半年 6 倍跳涨</text><text font-style="italic" font-size="12" fill="#8A857E" font-family="Cambria, serif" x="80" y="560">"Single product:</text><text font-style="italic" font-size="12" fill="#8A857E" font-family="Cambria, serif" x="80" y="578">a safe superintelligence."</text><g transform="translate(292.0, 338.0) scale(1.1666666666666667)" fill="none" stroke="#E63946" stroke-width="1.5">
+    <text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="80" y="442">
+      <tspan>Ilya Sutskever 创立</tspan>
+      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="80" y="464"><tspan><tspan fill="#E63946" font-weight="bold">$5B → $32B</tspan></tspan>
+      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="80" y="486"><tspan>半年 6 倍跳涨</tspan>
+    </text><text font-size="12" fill="#8A857E" font-style="italic" font-family="Cambria, serif" x="80" y="560">
+      <tspan>"Single product:</tspan>
+      </text><text font-size="12" fill="#8A857E" font-style="italic" font-family="Cambria, serif" x="80" y="578"><tspan>a safe superintelligence."</tspan>
+    </text><g transform="translate(292, 338) scale(1.16667)" fill="none" stroke="#E63946" stroke-width="1.5">
     <path d="M12 3a12 12 0 0 0 8.5 3a12 12 0 0 1 -8.5 15a12 12 0 0 1 -8.5 -15a12 12 0 0 0 8.5 -3" />
   </g>
 
@@ -43,8 +49,14 @@
 
     <line x1="380" y1="410" x2="620" y2="410" stroke="#2A2F36" stroke-width="1" />
 
-    <text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="380" y="442"><tspan>月活 <tspan fill="#F4A261" font-weight="bold">4500 万</tspan></tspan>
-      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="380" y="464">Series E-6 完成</text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="380" y="486">直挑 Google 搜索</text><text font-style="italic" font-size="12" fill="#8A857E" font-family="Cambria, serif" x="380" y="560">"Answer engine,</text><text font-style="italic" font-size="12" fill="#8A857E" font-family="Cambria, serif" x="380" y="578">not search engine."</text><g transform="translate(592.0, 338.0) scale(1.1666666666666667)" fill="none" stroke="#F4A261" stroke-width="1.5">
+    <text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="380" y="442">
+      <tspan>月活 <tspan fill="#F4A261" font-weight="bold">4500 万</tspan></tspan>
+      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="380" y="464"><tspan>Series E-6 完成</tspan>
+      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="380" y="486"><tspan>直挑 Google 搜索</tspan>
+    </text><text font-size="12" fill="#8A857E" font-style="italic" font-family="Cambria, serif" x="380" y="560">
+      <tspan>"Answer engine,</tspan>
+      </text><text font-size="12" fill="#8A857E" font-style="italic" font-family="Cambria, serif" x="380" y="578"><tspan>not search engine."</tspan>
+    </text><g transform="translate(592, 338) scale(1.16667)" fill="none" stroke="#F4A261" stroke-width="1.5">
     <path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
     <path d="M21 21l-6 -6" />
   </g>
@@ -65,10 +77,15 @@
 
     <line x1="680" y1="410" x2="920" y2="410" stroke="#2A2F36" stroke-width="1" />
 
-    <text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="680" y="442"><tspan>$830M <tspan fill="#C9C5BE" font-weight="bold">债务融资</tspan></tspan>
-      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="680" y="464">巴黎数据中心</text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="680" y="486"><tspan><tspan fill="#E63946" font-weight="bold">13,800 张</tspan> Nvidia GPU</tspan>
-    </text><text font-style="italic" font-size="12" fill="#8A857E" font-family="Cambria, serif" x="680" y="560">"Europe's open-source</text><text font-style="italic" font-size="12" fill="#8A857E" font-family="Cambria, serif" x="680" y="578">sovereign answer."</text><g transform="translate(892.0, 338.0) scale(1.1666666666666667)" fill="none" stroke="#C9C5BE" stroke-width="1.5">
-    <path d="M3 7a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3" />
+    <text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="680" y="442">
+      <tspan>$830M <tspan fill="#C9C5BE" font-weight="bold">债务融资</tspan></tspan>
+      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="680" y="464"><tspan>巴黎数据中心</tspan>
+      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="680" y="486"><tspan><tspan fill="#E63946" font-weight="bold">13,800 张</tspan> Nvidia GPU</tspan>
+    </text><text font-size="12" fill="#8A857E" font-style="italic" font-family="Cambria, serif" x="680" y="560">
+      <tspan>"Europe's open-source</tspan>
+      </text><text font-size="12" fill="#8A857E" font-style="italic" font-family="Cambria, serif" x="680" y="578"><tspan>sovereign answer."</tspan>
+    </text><g transform="translate(892, 338) scale(1.16667)" fill="none" stroke="#C9C5BE" stroke-width="1.5">
+    <path d="M3 7a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3v-2" />
     <path d="M3 15a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3l0 -2" />
     <path d="M7 8l0 .01" />
     <path d="M7 16l0 .01" />
@@ -91,8 +108,14 @@
 
     <line x1="980" y1="438" x2="1200" y2="438" stroke="#2A2F36" stroke-width="1" />
 
-    <text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="980" y="470">$7B + $3B (Aleph)</text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="980" y="492"><tspan>→ <tspan fill="#E8E6E1" font-weight="bold">$20B 合并溢价</tspan></tspan>
-      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="980" y="514">ARR $240M</text><text font-style="italic" font-size="12" fill="#8A857E" font-family="Cambria, serif" x="980" y="588">"Cross-Atlantic sovereign</text><text font-style="italic" font-size="12" fill="#8A857E" font-family="Cambria, serif" x="980" y="606">enterprise stack."</text><g transform="translate(1172.0, 370.0) scale(1.1666666666666667)" fill="none" stroke="#8A857E" stroke-width="1.5">
+    <text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="980" y="470">
+      <tspan>$7B + $3B (Aleph)</tspan>
+      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="980" y="492"><tspan>→ <tspan fill="#E8E6E1" font-weight="bold">$20B 合并溢价</tspan></tspan>
+      </text><text font-size="13" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="980" y="514"><tspan>ARR $240M</tspan>
+    </text><text font-size="12" fill="#8A857E" font-style="italic" font-family="Cambria, serif" x="980" y="588">
+      <tspan>"Cross-Atlantic sovereign</tspan>
+      </text><text font-size="12" fill="#8A857E" font-style="italic" font-family="Cambria, serif" x="980" y="606"><tspan>enterprise stack."</tspan>
+    </text><g transform="translate(1172, 370) scale(1.16667)" fill="none" stroke="#8A857E" stroke-width="1.5">
     <path d="M9 15l6 -6" />
     <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
     <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />

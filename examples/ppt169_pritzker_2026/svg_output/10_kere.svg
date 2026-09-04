@@ -8,7 +8,7 @@
   </defs>
 
   <g id="bg-image">
-    <image href="../images/kere_senegal_exterior.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/kere_senegal_exterior.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
     <rect x="0" y="0" width="1280" height="720" fill="url(#kereScrim)"/>
   </g>
 
@@ -42,7 +42,7 @@
 
   <g id="card-courtyard">
     <rect x="470" y="290" width="240" height="370" fill="#F5F2EC" fill-opacity="0.94"/>
-    <image href="../images/kere_senegal_courtyard.png" x="478" y="298" width="224" height="280" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/kere_senegal_courtyard.jpg" x="478" y="298" width="224" height="280" preserveAspectRatio="xMidYMid slice"/>
     <text x="478" y="606" font-family="Georgia, serif" font-size="13" fill="#B8935A" letter-spacing="2">CORE</text>
     <text x="478" y="630" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="15" font-weight="bold" fill="#1C1C1C">猴面包树 · 生命象征</text>
     <text x="478" y="650" font-family="&quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#5C5852">置入建筑核心院落</text>
@@ -50,7 +50,7 @@
 
   <g id="card-interior">
     <rect x="740" y="290" width="480" height="370" fill="#1C1C1C" fill-opacity="0.86"/>
-    <image href="../images/kere_senegal_interior.png" x="752" y="302" width="456" height="280" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/kere_senegal_interior.jpg" x="752" y="302" width="456" height="280" preserveAspectRatio="xMidYMid slice"/>
     <text x="752" y="610" font-family="Georgia, serif" font-size="13" fill="#E8C788" letter-spacing="2">INTERIOR</text>
     <text x="752" y="636" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="17" font-weight="bold" fill="#F5F2EC">承担文化交流 · 教育传播 · 艺术展演</text>
     <text x="752" y="654" font-family="&quot;Microsoft YaHei&quot;, sans-serif" font-size="12" fill="#D4CFC4">温润亲和的空间气质 · 连接社区 · 服务民众</text>

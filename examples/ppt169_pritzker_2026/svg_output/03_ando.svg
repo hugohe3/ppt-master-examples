@@ -11,7 +11,7 @@
   </defs>
 
   <g id="bg-image">
-    <image href="../images/ando_h_exterior.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/ando_h_exterior.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
     <rect x="0" y="0" width="1280" height="720" fill="url(#leftScrim03)"/>
   </g>
 
@@ -56,7 +56,7 @@
 
   <g id="thumb-interior">
     <rect x="936" y="426" width="288" height="248" fill="#F5F2EC" fill-opacity="0.95"/>
-    <image href="../images/ando_h_interior.png" x="940" y="430" width="280" height="240" preserveAspectRatio="xMidYMid slice" clip-path="url(#ando-thumb-clip)"/>
+    <image href="../images/ando_h_interior.jpg" x="940" y="430" width="280" height="240" preserveAspectRatio="xMidYMid slice" clip-path="url(#ando-thumb-clip)"/>
     <text x="940" y="395" font-family="&quot;Microsoft YaHei&quot;, sans-serif" font-size="13" fill="#D4CFC4">美术馆内部空间</text>
   </g>
 

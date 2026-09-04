@@ -253,14 +253,14 @@ Catalog read: 71 templates
 
 | Filename | Dimensions | Ratio | Purpose | Type | Layout pattern | Acquire Via | Status | Reference | text_policy | page_role |
 | -------- | --------- | ----- | ------- | ---- | -------------- | ----------- | ------ | --------- | ----------- | --------- |
-| 01_cover_aurora.png | 1280×720 | 1.78 | 封面流光主背景 | Background | #1 full-bleed background with floating title + #29 two-stop scrim + #28 radial gradient vignette | ai | Pending | Deep space backdrop, drifting frosted glass shards in soft orbit, neon blue-purple-cyan light beams streaming horizontally, calm center band reserved for title overlay, no figures or text | none | hero_page |
-| 02_hero_transition.png | 1280×720 | 1.78 | "Demo → Production" 转场氛围 | Background | #12 faded image as backdrop with oversized overlay text + #28 radial vignette + #30 flat semi-transparent overlay | ai | Pending | Wide cinematic horizon: a glowing data city rising from violet mist, distant translucent towers and floating glass platforms, sense of crossing from small workshop to large infrastructure, low-contrast central area for hero title | none | hero_page |
-| 04_agent_topology.png | 1280×720 | 1.78 | Agent 拓扑神经脉络背景 | Background | #44 background image + native network/architecture diagram + #28 radial vignette + #30 flat overlay | ai | Pending | Abstract agent topology background: glowing neural mesh with constellation nodes connected by thin luminous filaments, soft depth-of-field, frosted glass tiles floating quietly, dark deep-space field with low-contrast working zone, no labels or text | none | local |
-| 06_pipeline_flow.png | 1280×720 | 1.78 | 工具调用流光管线 | Background | #39 background image + flow nodes drawn over the scene + #30 flat overlay + #21 rounded rectangle crop | ai | Pending | Translucent data pipelines flowing horizontally behind frosted glass, glowing liquid light traveling through tubes, scattered floating cubes catching reflections, low-detail center band, dark cosmic backdrop | none | local |
-| 07_context_sphere.png | 1280×720 | 1.78 | 上下文知识球 / RAG 隐喻 | Background | #42 background image + glassmorphism UI panels + #28 radial vignette + #30 overlay | ai | Pending | Large luminous sphere of light filaments suspended in deep space, fine threads of information radiating outward, smaller glass shards in orbit, slight chromatic aberration, calm dark surrounding for overlay panels | none | local |
-| 08_dashboard_bokeh.png | 1280×720 | 1.78 | 仪表盘失焦光斑 | Background | #40 background image + floating KPI metric cards + #34 gaussian blur backdrop baked-in + #30 overlay | ai | Pending | Out-of-focus dashboard scene: rows of soft neon bokeh circles in blue, purple, cyan against deep-space dark, hint of translucent interface panels in the distance, no readable text or numbers | none | local |
-| 10_failure_glow.png | 1280×720 | 1.78 | 失败模式警示氛围 | Background | #12 faded image as backdrop with oversized overlay text + #31 color-tinted overlay + #28 radial vignette | ai | Pending | Dark moody field washed with neon pink and violet, fractured glass shards scattered with subtle distortion, faint warning halos, deep-space backdrop, calm working zone in the center | none | local |
-| 12_cta_horizon.png | 1280×720 | 1.78 | CTA 收尾远景地平线 | Background | #1 full-bleed background with floating title + #66 image fading into solid background + #29 two-stop scrim | ai | Pending | Distant glowing horizon at dawn of the data era, floating glass platforms drifting toward the light, soft particulate atmosphere, deep navy field grading into warm blue-purple toward horizon, no figures or text | none | hero_page |
+| 01_cover_aurora.jpg | 1280×720 | 1.78 | 封面流光主背景 | Background | #1 full-bleed background with floating title + #29 two-stop scrim + #28 radial gradient vignette | ai | Pending | Deep space backdrop, drifting frosted glass shards in soft orbit, neon blue-purple-cyan light beams streaming horizontally, calm center band reserved for title overlay, no figures or text | none | hero_page |
+| 02_hero_transition.jpg | 1280×720 | 1.78 | "Demo → Production" 转场氛围 | Background | #12 faded image as backdrop with oversized overlay text + #28 radial vignette + #30 flat semi-transparent overlay | ai | Pending | Wide cinematic horizon: a glowing data city rising from violet mist, distant translucent towers and floating glass platforms, sense of crossing from small workshop to large infrastructure, low-contrast central area for hero title | none | hero_page |
+| 04_agent_topology.jpg | 1280×720 | 1.78 | Agent 拓扑神经脉络背景 | Background | #44 background image + native network/architecture diagram + #28 radial vignette + #30 flat overlay | ai | Pending | Abstract agent topology background: glowing neural mesh with constellation nodes connected by thin luminous filaments, soft depth-of-field, frosted glass tiles floating quietly, dark deep-space field with low-contrast working zone, no labels or text | none | local |
+| 06_pipeline_flow.jpg | 1280×720 | 1.78 | 工具调用流光管线 | Background | #39 background image + flow nodes drawn over the scene + #30 flat overlay + #21 rounded rectangle crop | ai | Pending | Translucent data pipelines flowing horizontally behind frosted glass, glowing liquid light traveling through tubes, scattered floating cubes catching reflections, low-detail center band, dark cosmic backdrop | none | local |
+| 07_context_sphere.jpg | 1280×720 | 1.78 | 上下文知识球 / RAG 隐喻 | Background | #42 background image + glassmorphism UI panels + #28 radial vignette + #30 overlay | ai | Pending | Large luminous sphere of light filaments suspended in deep space, fine threads of information radiating outward, smaller glass shards in orbit, slight chromatic aberration, calm dark surrounding for overlay panels | none | local |
+| 08_dashboard_bokeh.jpg | 1280×720 | 1.78 | 仪表盘失焦光斑 | Background | #40 background image + floating KPI metric cards + #34 gaussian blur backdrop baked-in + #30 overlay | ai | Pending | Out-of-focus dashboard scene: rows of soft neon bokeh circles in blue, purple, cyan against deep-space dark, hint of translucent interface panels in the distance, no readable text or numbers | none | local |
+| 10_failure_glow.jpg | 1280×720 | 1.78 | 失败模式警示氛围 | Background | #12 faded image as backdrop with oversized overlay text + #31 color-tinted overlay + #28 radial vignette | ai | Pending | Dark moody field washed with neon pink and violet, fractured glass shards scattered with subtle distortion, faint warning halos, deep-space backdrop, calm working zone in the center | none | local |
+| 12_cta_horizon.jpg | 1280×720 | 1.78 | CTA 收尾远景地平线 | Background | #1 full-bleed background with floating title + #66 image fading into solid background + #29 two-stop scrim | ai | Pending | Distant glowing horizon at dawn of the data era, floating glass platforms drifting toward the light, soft particulate atmosphere, deep navy field grading into warm blue-purple toward horizon, no figures or text | none | hero_page |
 
 ---
 
@@ -270,12 +270,18 @@ Catalog read: 71 templates
 
 #### Slide 01 - Cover
 
+- **Audience move**: 期待听新模型 → 知道今天只讲一件事:把 Agent 从 Demo 搬进生产
+- **Relationships**: 主标题与副标题为 parent;“ENGINEERING IN PRODUCTION”与中文标题 link;其余 none
+
 - **Layout**: Full-bleed AI 背景 + 中央浮玻璃标题面板（Single column centered + #1 + #29）
 - **Title**: AI Agent 工程化与落地
 - **Subtitle**: 从 Demo 到生产，需要的不只是大模型
 - **Info**: 2026 · 技术分享系列
 
 #### Slide 02 - Hero / Section opener "从 Demo 到生产"
+
+- **Audience move**: 以为 Demo 跑通就快上线了 → 接受“九成止步于 Demo”与四道门槛
+- **Relationships**: “90%”与“止步于 Demo”为 parent;四道门槛 membership 于工程化;四者 order(后文顺序)
 
 - **Layout**: Full-bleed AI 背景 + 大字浮文（breathing — #1 + #12 + #28）
 - **Title**: 90% 的 Agent 项目，止步于 Demo
@@ -287,6 +293,9 @@ Catalog read: 71 templates
 
 #### Slide 03 - 三大痛点：为什么 Agent 上不了生产
 
+- **Audience move**: 把落地困难归因于模型 → 看到性能 / 成本 / 质量三道现实门槛
+- **Relationships**: 三栏为 contrast;每栏标题、症状与数字为 parent;三者 membership 于门槛
+
 - **Layout**: 1×3 vertical_pillars（V. 三列）
 - **Title**: 三道阻碍 Agent 落地的现实门槛
 - **Visualization**: vertical_pillars
@@ -296,6 +305,9 @@ Catalog read: 71 templates
   - 质量难闭环（bug）：失败原因模糊，回归测试缺失
 
 #### Slide 04 - Agent 架构基础：四层模型
+
+- **Audience move**: 把 Agent 当作一个 prompt → 理解感知 / 推理 / 行动 / 记忆四层骨架
+- **Relationships**: 四层为 order(L1–L4);每层与其职责为 parent;四层 membership 于同一骨架
 
 - **Layout**: layered_architecture（4 横层）+ #44 AI 背景叠加
 - **Title**: Agent 的四层骨架
@@ -307,6 +319,9 @@ Catalog read: 71 templates
   - **Memory 记忆** (database) — 短期上下文 / 长期向量库 / 任务级缓存
 
 #### Slide 05 - 三种工作模式对比
+
+- **Audience move**: 不知道选 Workflow 还是 Agent → 按“路径确定性”选出合适模式
+- **Relationships**: 三种模式为 order(确定性递减);每种与特征为 parent;灵活性与代价为 contrast
 
 - **Layout**: Symmetric 3-column (comparison_columns)
 - **Title**: Workflow / Agent / Multi-Agent — 选哪种？
@@ -320,6 +335,9 @@ Catalog read: 71 templates
 
 #### Slide 06 - 工具调用与编排：六步法
 
+- **Audience move**: 工具调用只做到“能跑” → 知道六步纪律让它“稳跑”
+- **Relationships**: 六步为 order;每步与其输出为 parent;六步 membership 于工具编排
+
 - **Layout**: numbered_steps（横向 6 步） + #39 AI 管线背景
 - **Title**: 让工具调用从"能跑"到"稳跑"
 - **Visualization**: numbered_steps
@@ -332,6 +350,9 @@ Catalog read: 71 templates
   - 06 结果汇总 (stack) — 多轮聚合 → 最终回答
 
 #### Slide 07 - 上下文工程：1 核 + 6 能力
+
+- **Audience move**: 把上下文当作 prompt 拼接 → 理解上下文工程的一核六能力
+- **Relationships**: 中心 CONTEXT 与六个能力为 parent(hub → spoke);六能力 membership;彼此 link
 
 - **Layout**: hub_spoke（中心 + 6 外围） + #42 AI 球体背景
 - **Title**: 上下文，才是 Agent 真正的"权重"
@@ -347,6 +368,9 @@ Catalog read: 71 templates
 
 #### Slide 08 - KPI 仪表板：盯住四个数
 
+- **Audience move**: 没有运营指标 → 记住上生产前必装的四张表盘
+- **Relationships**: 四张表盘为 membership;每张的指标名与当前值为 parent;四者 contrast(不同维度)
+
 - **Layout**: kpi_cards 2×2 + #40 AI bokeh 背景
 - **Title**: 上生产前，先把四张表盘装上
 - **Visualization**: kpi_cards
@@ -358,6 +382,9 @@ Catalog read: 71 templates
 
 #### Slide 09 - 指标趋势：上线后 12 周
 
+- **Audience move**: 只看单点数字 → 从 12 周曲线看到准确率升、成本降的真实拐点
+- **Relationships**: 准确率线与成本线为 contrast;三个拐点 link 于对应改动;时间轴 order
+
 - **Layout**: 全宽 line_chart（双线 — 准确率 + 成本）
 - **Title**: 持续优化的真实曲线：准确率 ↑ 成本 ↓
 - **Visualization**: line_chart
@@ -367,6 +394,9 @@ Catalog read: 71 templates
   - 12 周时间轴 W1-W12，关键节点：W4 引入 reranker / W8 引入 fallback / W11 引入缓存
 
 #### Slide 10 - 失败模式四象限
+
+- **Audience move**: 遇到失败不知从哪查起 → 用频率 × 定位难度四象限归类失败
+- **Relationships**: 四象限为 membership;高频/低频、浅/深为 contrast;每象限与对策 parent
 
 - **Layout**: quadrant_text_bullets 2×2 + #12 AI failure 背景
 - **Title**: 这四类失败，你最先会遇到哪个
@@ -381,6 +411,9 @@ Catalog read: 71 templates
 
 #### Slide 11 - 落地路线图：四阶段
 
+- **Audience move**: 不知道从哪开始 → 拿到 12 周四阶段的落地路线
+- **Relationships**: 四阶段为 order(W1 → W12);每阶段与目标为 parent;阶段门槛 link 于前一阶段
+
 - **Layout**: roadmap_vertical（4 milestone 纵向）
 - **Title**: 从原型到生产 — 12 周分四阶段走
 - **Visualization**: roadmap_vertical
@@ -391,6 +424,9 @@ Catalog read: 71 templates
   - **W11-W12 生产** (rocket): 灰度上线 + SLO 监控 + 持续优化
 
 #### Slide 12 - CTA / Closing
+
+- **Audience move**: 以为工程化就是加个 LLM → 记住架构 / 上下文 / 评估 / 可观测四件事一起做
+- **Relationships**: 四件事 membership 于工程化;结语与标题 parent;两个 CTA 为 contrast(开始 / 合作)
 
 - **Layout**: breathing — Full-bleed AI 远景 + 中央 CTA 玻璃面板（#1 + #66 + #29）
 - **Title**: 下一个 Agent，从工程化开始

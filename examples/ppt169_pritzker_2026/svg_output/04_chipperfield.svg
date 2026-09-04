@@ -11,7 +11,7 @@
   </g>
 
   <g id="img-amphitheater">
-    <image href="../images/chipperfield_roman_amphitheater.png" x="60" y="220" width="540" height="340" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/chipperfield_roman_amphitheater.jpg" x="60" y="220" width="540" height="340" preserveAspectRatio="xMidYMid slice"/>
     <line x1="60" y1="220" x2="60" y2="280" stroke="#8B8680" stroke-width="3"/>
     <text x="76" y="246" font-family="Georgia, serif" font-size="14" fill="#8B8680" letter-spacing="2">PRECEDENT · 约 70 AD</text>
     <text x="76" y="270" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="18" font-weight="bold" fill="#F5F2EC">古罗马圆形剧场</text>
@@ -24,7 +24,7 @@
   </g>
 
   <g id="img-milan">
-    <image href="../images/chipperfield_milan_exterior.png" x="680" y="220" width="540" height="340" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/chipperfield_milan_exterior.jpg" x="680" y="220" width="540" height="340" preserveAspectRatio="xMidYMid slice"/>
     <line x1="680" y1="220" x2="680" y2="280" stroke="#B8935A" stroke-width="3"/>
     <text x="696" y="246" font-family="Georgia, serif" font-size="14" fill="#B8935A" letter-spacing="2">CONTEMPORARY · 2026</text>
     <text x="696" y="270" font-family="Georgia, &quot;Microsoft YaHei&quot;, serif" font-size="18" font-weight="bold" fill="#F5F2EC">米兰圣朱利亚冰球馆</text>

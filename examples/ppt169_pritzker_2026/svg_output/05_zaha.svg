@@ -12,13 +12,13 @@
   </g>
 
   <g id="img-bridge">
-    <image href="../images/zaha_tamkang_bridge.png" x="0" y="0" width="640" height="500" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/zaha_tamkang_bridge.jpg" x="0" y="0" width="640" height="500" preserveAspectRatio="xMidYMid slice"/>
   </g>
   <g id="img-structure">
-    <image href="../images/zaha_tamkang_structure.png" x="644" y="0" width="320" height="500" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/zaha_tamkang_structure.jpg" x="644" y="0" width="320" height="500" preserveAspectRatio="xMidYMid slice"/>
   </g>
   <g id="img-fullview">
-    <image href="../images/zaha_tamkang_full.png" x="968" y="0" width="312" height="500" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/zaha_tamkang_full.jpg" x="968" y="0" width="312" height="500" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <g id="text-band">

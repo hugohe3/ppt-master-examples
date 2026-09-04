@@ -215,9 +215,9 @@ Catalog read: 71 templates
 
 | Filename | Dimensions | Ratio | Purpose | Type | Layout pattern | Acquire Via | Status | Reference | text_policy | page_role |
 | -------- | --------- | ----- | ------- | ---- | -------------- | ----------- | ------ | --------- | ----------- | --------- |
-| cover_atmosphere.png | 1280×720 | 1.78 | 封面氛围底图 | Background | #1 full-bleed background with floating title + #29 two-stop scrim | ai | Pending | Abstract nighttime aerial of a vast data-center campus, faint server-rack lights forming a constellation pattern; quiet wide-angle composition with reserved dark sky for title overlay; sense of capital flowing through silent infrastructure | none | hero_page |
-| nvidia_circular.png | 1280×720 | 1.78 | Part V Nvidia 闭环章节锚点 | Background | #1 full-bleed background with floating title + #29 two-stop scrim | ai | Pending | Abstract macro shot of a circular wafer-like geometry with subtle red glow at the rim suggesting circulation; central dark void reserved for chapter title; metallic finish but no recognizable logos | none | hero_page |
-| bubble_tension.png | 1280×720 | 1.78 | Part VI 泡沫论章节锚点 | Background | #1 full-bleed background with floating title + #29 two-stop scrim | ai | Pending | Abstract atmospheric image of a single iridescent soap-bubble suspended in deep dark space, surface tension catching a faint warning-red highlight; quiet composition with negative space; sense of fragile inflation | none | hero_page |
+| cover_atmosphere.jpg | 1280×720 | 1.78 | 封面氛围底图 | Background | #1 full-bleed background with floating title + #29 two-stop scrim | ai | Pending | Abstract nighttime aerial of a vast data-center campus, faint server-rack lights forming a constellation pattern; quiet wide-angle composition with reserved dark sky for title overlay; sense of capital flowing through silent infrastructure | none | hero_page |
+| nvidia_circular.jpg | 1280×720 | 1.78 | Part V Nvidia 闭环章节锚点 | Background | #1 full-bleed background with floating title + #29 two-stop scrim | ai | Pending | Abstract macro shot of a circular wafer-like geometry with subtle red glow at the rim suggesting circulation; central dark void reserved for chapter title; metallic finish but no recognizable logos | none | hero_page |
+| bubble_tension.jpg | 1280×720 | 1.78 | Part VI 泡沫论章节锚点 | Background | #1 full-bleed background with floating title + #29 two-stop scrim | ai | Pending | Abstract atmospheric image of a single iridescent soap-bubble suspended in deep dark space, surface tension catching a faint warning-red highlight; quiet composition with negative space; sense of fragile inflation | none | hero_page |
 
 ---
 
@@ -227,12 +227,18 @@ Catalog read: 71 templates
 
 #### Slide 01 - 封面
 
+- **Audience move**: 把 AI 融资当作零散新闻 → 意识到 2026 的资本格局可以用三个数字概括
+- **Relationships**: 标题与副标题为 parent;“$297B · 81% · 4 deals”三数 membership 于同一季度;其余 none
+
 - **Layout**: Full-bleed 氛围底图 + 底部 scrim + 左下大字标题
 - **Title**: 2026 全球 AI 资本格局
 - **Subtitle**: Capital, Compute, and the Closed Loop
 - **Info**: 2026 年 5 月 · 行业洞察 · 数据截至 2026-05-15
 
 #### Slide 02 - 编辑导语
+
+- **Audience move**: 只记得单条大额融资 → 用三组数字建立“集中 / 巨额 / 剪刀差”的框架
+- **Relationships**: 三组数字之间为 order(由总盘到大单到差距);每组数字与其口径说明为 parent
 
 - **Layout**: 单栏居中 + 大引号 + 三行核心叙述
 - **Title**: 编辑导语 | Editor's Note
@@ -242,6 +248,9 @@ Catalog read: 71 templates
   - 资本与商业 ROI 的鸿沟，已超 2001 电信泡沫期
 
 #### Slide 03 - 目录
+
+- **Audience move**: 不知道简报怎么读 → 知道六个部分的顺序与各自回答的问题
+- **Relationships**: 六个部分为 order;每部分与其页码区间为 parent;各部分 membership 于同一份简报
 
 - **Layout**: 左侧六部分罗马字 + 右侧每部分页码与一句话标题
 - **Title**: 目录 | Contents
@@ -257,6 +266,9 @@ Catalog read: 71 templates
 
 #### Slide 04 - Q1 风投全景
 
+- **Audience move**: 以为 VC 总额分散 → 看到 AI 拿走 81% 且四笔大单占 65% 的集中度
+- **Relationships**: “$297B”与“81% AI”为 parent(总盘→份额);四笔大单 membership 于 AI 份额;来源 link 于数据
+
 - **Layout**: 四象限 KPI cards + 顶部小字章节标记
 - **Title**: 2026 Q1 全球风投：$297B 创纪录，AI 拿走 81%
 - **Visualization**: kpi_cards
@@ -267,6 +279,9 @@ Catalog read: 71 templates
   - 65% — 集中度（前 4 单占全季 VC）
 
 #### Slide 05 - Hyperscaler Capex
+
+- **Audience move**: 不清楚谁在为算力买单 → 记住四家 hyperscaler 的 capex 排序与 +77% 增速
+- **Relationships**: 四家公司之间为 contrast(并列比较);四者合计为 parent;“同比 +77%”link 于合计
 
 - **Layout**: Bar chart 左 7 右 3 + 右侧三条关键注解
 - **Title**: 四家 Hyperscaler 2026 年 Capex：$725B，同比 +77%
@@ -280,6 +295,9 @@ Catalog read: 71 templates
 
 #### Slide 06 - 估值前后对比
 
+- **Audience move**: 只知道估值很高 → 看到三巨头六个月内的估值跃迁幅度
+- **Relationships**: 三家公司为 contrast;每家年初值与最新值为 order(时间);涨幅 link 于两端点
+
 - **Layout**: Dumbbell chart + 顶部章节标记
 - **Title**: 三巨头 2026 估值跃迁：从年初到 Q2 的双倍线
 - **Visualization**: dumbbell_chart
@@ -289,6 +307,9 @@ Catalog read: 71 templates
   - xAI: $50B → $230B（Jan 2026）→ $1.25T 合并 SpaceX
 
 #### Slide 07 - 估值 × 收入 × 投资人
+
+- **Audience move**: 把估值当作实力 → 用 ARR 与投资人数看估值的兑现度
+- **Relationships**: X(ARR)、Y(估值)、气泡(投资人数)三维为 membership;公允线与气泡位置为 contrast(偏离度)
 
 - **Layout**: Bubble chart 全屏 + 角落数据来源
 - **Title**: 估值兑现度：收入越高，估值越实
@@ -300,6 +321,9 @@ Catalog read: 71 templates
   - xAI: ARR $5B（est）/ Val $230B / 8+ 投资人
 
 #### Slide 08 - OpenAI 投资人结构
+
+- **Audience move**: 只知道 OpenAI 融了 $122B → 知道钱从哪四方来及各自占比
+- **Relationships**: 四个出资方 membership 于同一轮;各占比与总额为 parent;post-money 估值 link 于本轮
 
 - **Layout**: Donut chart 居左 + 右侧投资人列表
 - **Title**: OpenAI $122B 这笔钱从哪来
@@ -313,6 +337,9 @@ Catalog read: 71 templates
 
 #### Slide 09 - 三巨头综合对比
 
+- **Audience move**: 把三家看作同类公司 → 区分消费驱动、企业驱动与叙事驱动三条成长曲线
+- **Relationships**: 三条曲线为 contrast;每家的关键指标 membership 于其曲线;结论句为 parent
+
 - **Layout**: 三列对照 + 顶部小标 + 底部一行总结
 - **Title**: OpenAI vs Anthropic vs xAI：三种成长曲线
 - **Content**:
@@ -323,6 +350,9 @@ Catalog read: 71 templates
 ### Part III: 中国阵营
 
 #### Slide 10 - 中国五雄
+
+- **Audience move**: 不熟悉中国阵营 → 记住五家的估值阶梯与 DeepSeek 领跑的位置
+- **Relationships**: 五家公司为 order(按估值);私募估值与港股市值为 contrast(两种定价);国家大基金 link 于 DeepSeek
 
 - **Layout**: Horizontal bar chart + 顶部一行总结
 - **Title**: 中国 AI 五雄：DeepSeek 领跑，估值阶梯分明
@@ -335,6 +365,9 @@ Catalog read: 71 templates
   - StepFun ~$8B
 
 #### Slide 11 - 中美双轨
+
+- **Audience move**: 把中美 AI 融资当作同一游戏 → 理解两条路径在规模、退出、驱动力上的结构差异
+- **Relationships**: 美国与中国为 contrast;各维度为 order(表格行);每行两侧 link(同一维度)
 
 - **Layout**: Comparison table（5 行 × 2 列）+ 顶部小标
 - **Title**: 中美 AI 资本：两条路径，两种节奏
@@ -350,6 +383,9 @@ Catalog read: 71 templates
 
 #### Slide 12 - 二线 $10-50B 阵营
 
+- **Audience move**: 没听说过二线四家 → 知道各自估值、卖点与风险
+- **Relationships**: 四家公司为 contrast;各自估值与叙事为 parent;四者 membership 于 $10B–$50B 区间
+
 - **Layout**: 四列卡片（每列：公司 logo + 估值 hero number + 一行特点）+ 顶部小标
 - **Title**: 二线梯队：$10-50B 的精英层
 - **Content**:
@@ -362,7 +398,10 @@ Catalog read: 71 templates
 
 #### Slide 13 - Nvidia 闭环（章节锚点页）
 
-- **Layout**: Full-bleed 氛围底图（nvidia_circular.png）+ 大字章节标 + 底部 scrim + 三句导语
+- **Audience move**: 把 Nvidia 只当芯片商 → 意识到它同时是 AI 实验室的大股东
+- **Relationships**: 章节标题与副题为 parent;“$40B+ 股权投资”与“85% 收入来自 6 客户”为 link(闭环两端)
+
+- **Layout**: Full-bleed 氛围底图（nvidia_circular.jpg）+ 大字章节标 + 底部 scrim + 三句导语
 - **Title**: V. 闭环
 - **Subtitle**: 当芯片商同时是大股东
 - **Content**:
@@ -371,6 +410,9 @@ Catalog read: 71 templates
   - 收入 85% 来自 6 个客户
 
 #### Slide 14 - Nvidia 资本流图
+
+- **Audience move**: 知道 Nvidia 在投资 → 看清资金从 Nvidia 到实验室再回流采购的闭环
+- **Relationships**: SOURCE → RECIPIENT → RETURN FLOW 为 order(资金流向);各接收方 membership 于 $40B;回流 link 回 Nvidia
 
 - **Layout**: Sankey chart 全幅 + 顶部章节标 + 底部 source
 - **Title**: 钱怎么转：Nvidia 的圆形投资
@@ -382,6 +424,9 @@ Catalog read: 71 templates
 
 #### Slide 15 - Nvidia 客户集中度
 
+- **Audience move**: 觉得 Nvidia 客户众多 → 看到前六名占 85% 的单点风险
+- **Relationships**: 六个客户为 order(按占比降序);累积曲线与柱 link;前四名 60% membership 于前六名 85%
+
 - **Layout**: Pareto chart + 右下风险注解
 - **Title**: 单点风险：Nvidia 收入 85% 来自 6 个客户
 - **Visualization**: pareto_chart
@@ -391,6 +436,9 @@ Catalog read: 71 templates
   - 任一家砍 capex 都会级联打击全链
 
 #### Slide 16 - Stargate
+
+- **Audience move**: 只听过 Stargate 这个名字 → 记住 $500B / 10GW / 7 站点及中心节点
+- **Relationships**: STARGATE 中心与七个站点为 parent(hub → spoke);站点之间 membership;Abilene 与“已投运”link
 
 - **Layout**: Hub-spoke chart（中心 Stargate logo + 7 个站点辐射）+ 顶部章节标
 - **Title**: Stargate：$500B / 10GW / 7 个站点
@@ -404,7 +452,10 @@ Catalog read: 71 templates
 
 #### Slide 17 - 泡沫论章节锚点
 
-- **Layout**: Full-bleed 氛围底图（bubble_tension.png）+ 章节大字 + 底部 scrim + 三行核心论点
+- **Audience move**: 觉得泡沫是情绪判断 → 得到 capex 与企业收入的可量化剪刀差
+- **Relationships**: 章节标题与副题为 parent;“capex $400B”与“收入 $100B”为 contrast;增速差 link 于二者
+
+- **Layout**: Full-bleed 氛围底图（bubble_tension.jpg）+ 章节大字 + 底部 scrim + 三行核心论点
 - **Title**: VI. 泡沫
 - **Subtitle**: 资本主义 vs 商业现实的剪刀差
 - **Content**:
@@ -413,6 +464,9 @@ Catalog read: 71 templates
   - **当前差距已超 2001 电信泡沫**
 
 #### Slide 18 - Capex vs Revenue 剪刀差
+
+- **Audience move**: 知道差距存在 → 看到 2020–2026 两条曲线斜率的悬殊
+- **Relationships**: capex 线与收入线为 contrast;每条线的 2020 与 2026 端点为 order;两端点差 link 于“鸿沟”
 
 - **Layout**: Dual-axis line chart + 顶部章节标 + 底部 source
 - **Title**: 资本与营收的鸿沟：$400B 投入 vs $100B 营收
@@ -424,6 +478,9 @@ Catalog read: 71 templates
 
 #### Slide 19 - 四大风险
 
+- **Audience move**: 把风险当作孤立问题 → 理解四类风险如何互相放大
+- **Relationships**: 四个象限为 membership(同一风险图);相邻象限 link(互相放大);每象限标题与要点为 parent
+
 - **Layout**: 2×2 quadrant + 每象限标题 + 2-3 行 bullet
 - **Title**: 四大风险，互相放大
 - **Visualization**: quadrant_text_bullets
@@ -434,6 +491,9 @@ Catalog read: 71 templates
   - 右下 融资结构：经营现金流 → 举债融资
 
 #### Slide 20 - 六大判断与结语
+
+- **Audience move**: 看完 18 张图不知道结论 → 带走六条判断
+- **Relationships**: 六条判断为 order;每条 link 回前文对应部分;六者 membership 于同一份简报的结论
 
 - **Layout**: 单栏 6 行编号列表 + 底部 Sources 致谢
 - **Title**: 六大判断 | Closing

@@ -29,7 +29,7 @@
     <use data-icon="chunk-filled/shopping-bag" x="100" y="178" width="22" height="22" fill="#1A1A2E"/>
     <text x="132" y="196" font-family="Impact, &quot;Arial Black&quot;, sans-serif" font-size="18" font-weight="900" fill="#1A1A2E" letter-spacing="3">MARKET · 周边市集</text>
     <!-- Image -->
-    <image href="../images/market.png" x="100" y="220" width="540" height="200" preserveAspectRatio="xMidYMid slice" clip-path="url(#marketClip)"/>
+    <image href="../images/market.jpg" x="100" y="220" width="540" height="200" preserveAspectRatio="xMidYMid slice" clip-path="url(#marketClip)"/>
     <rect x="100" y="220" width="540" height="200" rx="12" fill="none" stroke="#1A1A2E" stroke-width="3"/>
     <!-- KPI under image -->
     <text x="120" y="465" font-family="Impact, &quot;Arial Black&quot;, sans-serif" font-size="60" font-weight="900" fill="#FF3DA5" letter-spacing="-1">50+</text>
@@ -56,7 +56,7 @@
     <!-- "Most Popular" tag -->
     <rect x="1070" y="180" width="110" height="22" rx="11" fill="#1A1A2E"/>
     <text x="1125" y="195" text-anchor="middle" font-family="Impact, sans-serif" font-size="11" font-weight="900" fill="#FFD93D" letter-spacing="2">MOST POPULAR</text>
-    <image href="../images/installation.png" x="660" y="220" width="540" height="200" preserveAspectRatio="xMidYMid slice" clip-path="url(#installClip)"/>
+    <image href="../images/installation.jpg" x="660" y="220" width="540" height="200" preserveAspectRatio="xMidYMid slice" clip-path="url(#installClip)"/>
     <rect x="660" y="220" width="540" height="200" rx="12" fill="none" stroke="#1A1A2E" stroke-width="3"/>
     <text x="680" y="465" font-family="Impact, &quot;Arial Black&quot;, sans-serif" font-size="60" font-weight="900" fill="#FF6B4A" letter-spacing="-1">10</text>
     <text x="760" y="462" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="14" font-weight="700" fill="#1A1A2E">巨型装置</text>

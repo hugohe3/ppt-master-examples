@@ -9,7 +9,7 @@
 
 ---
 
-### Image 1: cover_hero.png
+### Image 1: cover_hero.jpg
 
 | Attribute | Value |
 |---|---|
@@ -28,7 +28,7 @@ Bold silkscreen poster art with limited flat color palette and characteristic pr
 
 ---
 
-### Image 2: zine_history_collage.png
+### Image 2: zine_history_collage.jpg
 
 | Attribute | Value |
 |---|---|
@@ -47,7 +47,7 @@ Bold silkscreen poster art with limited flat color palette and stencil-cut edges
 
 ---
 
-### Image 3: risograph_machine.png
+### Image 3: risograph_machine.jpg
 
 | Attribute | Value |
 |---|---|
@@ -66,7 +66,7 @@ Bold silkscreen poster art with confident flat color blocks, stencil-cut edges, 
 
 ---
 
-### Image 4: risograph_process_banner.png
+### Image 4: risograph_process_banner.jpg
 
 | Attribute | Value |
 |---|---|
@@ -85,7 +85,7 @@ Bold silkscreen poster art flowchart banner with stencil-cut edges and flat colo
 
 ---
 
-### Image 5: zine_folding_hands.png
+### Image 5: zine_folding_hands.jpg
 
 | Attribute | Value |
 |---|---|
@@ -104,7 +104,7 @@ Bold silkscreen poster art scene with flat color blocks, stencil-cut edges, no f
 
 ---
 
-### Image 6: jimbocho_hero.png
+### Image 6: jimbocho_hero.jpg
 
 | Attribute | Value |
 |---|---|
@@ -123,7 +123,7 @@ Bold silkscreen poster art cinematic scene with flat color blocks, stencil-cut e
 
 ---
 
-### Image 7: three_cities_triptych.png
+### Image 7: three_cities_triptych.jpg
 
 | Attribute | Value |
 |---|---|
@@ -142,7 +142,7 @@ Bold silkscreen poster art triptych baked in one image with three equal-width pa
 
 ---
 
-### Image 8: berlin_bucherbogen.png
+### Image 8: berlin_bucherbogen.jpg
 
 | Attribute | Value |
 |---|---|
@@ -161,7 +161,7 @@ Bold silkscreen poster art interior scene with flat color blocks, stencil-cut ed
 
 ---
 
-### Image 9: zine_fair_scene.png
+### Image 9: zine_fair_scene.jpg
 
 | Attribute | Value |
 |---|---|
@@ -180,7 +180,7 @@ Bold silkscreen poster art booth-aisle scene with flat color blocks, stencil-cut
 
 ---
 
-### Image 10: zine_action_outro.png
+### Image 10: zine_action_outro.jpg
 
 | Attribute | Value |
 |---|---|

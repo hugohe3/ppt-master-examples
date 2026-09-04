@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "filename": "01_cover_aurora.png",
+      "filename": "01_cover_aurora.jpg",
       "purpose": "Cover background (Slide 01) — opens the AI Agent engineering deck with a calm but unmistakably glassmorphism atmosphere",
       "type": "background",
       "page_role": "hero_page",
@@ -23,7 +23,7 @@
       "status": "Generated"
     },
     {
-      "filename": "02_hero_transition.png",
+      "filename": "02_hero_transition.jpg",
       "purpose": "Hero transition background (Slide 02) — 'from Demo to Production' wide cinematic atmosphere with horizon",
       "type": "background",
       "page_role": "hero_page",
@@ -35,7 +35,7 @@
       "status": "Generated"
     },
     {
-      "filename": "04_agent_topology.png",
+      "filename": "04_agent_topology.jpg",
       "purpose": "Agent architecture backdrop (Slide 04) — neural mesh topology suggesting the Agent four-layer architecture",
       "type": "background",
       "page_role": "local",
@@ -47,7 +47,7 @@
       "status": "Generated"
     },
     {
-      "filename": "06_pipeline_flow.png",
+      "filename": "06_pipeline_flow.jpg",
       "purpose": "Tool orchestration backdrop (Slide 06) — translucent data pipelines flowing horizontally beneath the numbered steps",
       "type": "background",
       "page_role": "local",
@@ -59,7 +59,7 @@
       "status": "Generated"
     },
     {
-      "filename": "07_context_sphere.png",
+      "filename": "07_context_sphere.jpg",
       "purpose": "Context engineering backdrop (Slide 07) — luminous knowledge sphere suspended in deep space (RAG metaphor)",
       "type": "background",
       "page_role": "local",
@@ -71,7 +71,7 @@
       "status": "Generated"
     },
     {
-      "filename": "08_dashboard_bokeh.png",
+      "filename": "08_dashboard_bokeh.jpg",
       "purpose": "KPI dashboard backdrop (Slide 08) — out-of-focus neon bokeh suggesting an operations dashboard",
       "type": "background",
       "page_role": "local",
@@ -83,7 +83,7 @@
       "status": "Generated"
     },
     {
-      "filename": "10_failure_glow.png",
+      "filename": "10_failure_glow.jpg",
       "purpose": "Failure modes backdrop (Slide 10) — warning-tinted atmosphere for the quadrant of Agent failure modes",
       "type": "background",
       "page_role": "local",
@@ -95,7 +95,7 @@
       "status": "Generated"
     },
     {
-      "filename": "12_cta_horizon.png",
+      "filename": "12_cta_horizon.jpg",
       "purpose": "Closing CTA background (Slide 12) — distant glowing horizon with floating glass platforms drifting toward the light",
       "type": "background",
       "page_role": "hero_page",

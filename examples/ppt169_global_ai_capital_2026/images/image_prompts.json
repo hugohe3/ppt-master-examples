@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "filename": "cover_atmosphere.png",
+      "filename": "cover_atmosphere.jpg",
       "purpose": "Cover background — 2026 全球 AI 资本格局封面氛围底图",
       "type": "background",
       "page_role": "hero_page",
@@ -23,7 +23,7 @@
       "status": "Generated"
     },
     {
-      "filename": "nvidia_circular.png",
+      "filename": "nvidia_circular.jpg",
       "purpose": "Part V Nvidia 闭环章节锚点 — 圆形资本流转氛围",
       "type": "background",
       "page_role": "hero_page",
@@ -35,7 +35,7 @@
       "status": "Generated"
     },
     {
-      "filename": "bubble_tension.png",
+      "filename": "bubble_tension.jpg",
       "purpose": "Part VI 泡沫论章节锚点 — 单一气泡张力氛围",
       "type": "background",
       "page_role": "hero_page",

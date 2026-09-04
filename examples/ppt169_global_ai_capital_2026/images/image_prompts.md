@@ -9,7 +9,7 @@
 
 ---
 
-### Image 1: cover_atmosphere.png
+### Image 1: cover_atmosphere.jpg
 
 | Attribute | Value |
 |---|---|
@@ -28,7 +28,7 @@ Magazine-style editorial illustration backdrop with sophisticated visual hierarc
 
 ---
 
-### Image 2: nvidia_circular.png
+### Image 2: nvidia_circular.jpg
 
 | Attribute | Value |
 |---|---|
@@ -47,7 +47,7 @@ Magazine-style editorial illustration backdrop with restrained sophistication an
 
 ---
 
-### Image 3: bubble_tension.png
+### Image 3: bubble_tension.jpg
 
 | Attribute | Value |
 |---|---|

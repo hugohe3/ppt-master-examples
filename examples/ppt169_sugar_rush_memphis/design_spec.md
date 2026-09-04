@@ -234,15 +234,15 @@ Catalog read: 71 templates
 
 | Filename | Dimensions | Ratio | Purpose | Type | Layout pattern | Acquire Via | Status | Reference | text_policy | page_role |
 | -------- | --------- | ----- | ------- | ---- | -------------- | ----------- | ------ | --------- | ----------- | --------- |
-| cover_bg.png | 1280×720 | 1.78 | P01 封面主视觉 | Illustration | #1 full-bleed background with floating title + #29 two-stop scrim | ai | Pending | 夏日狂欢主视觉：糖果色霓虹灯牌「SUGAR RUSH」横向居中悬浮于热带丛林夜空，左下角圆点群+右上角波浪闪电装饰碎片，左侧留出大面积冷色暗区供副标题叠加，鸟瞰人群剪影沿底部成弧线 | embedded | hero_page |
-| ch1_what.png | 1280×720 | 1.78 | P02 章节1 WHAT 扉页 | Illustration | #12 faded image as backdrop with oversized overlay text + #27 linear gradient mask | ai | Pending | 夏日沙滩派对俯视全景：撞色伞群+人群涂鸦风轮廓，画面中央保留 50% 留白让标题压上去，右下角棋盘条纹边角装饰 | none | hero_page |
-| ch2_who.png | 1280×720 | 1.78 | P05 章节2 WHO 扉页 | Illustration | #1 full-bleed background with floating title + #38 background image + annotation cards with bezier leader lines | ai | Pending | 五位风格化音乐人剪影并排站在霓虹聚光灯下的舞台，手持麦克风/吉他/合成器，背景为粉/蓝/黄撞色光柱，画面留有空气感不拥挤 | none | hero_page |
-| headliners.png | 1200×500 | 2.40 | P06 头牌艺人四联画 | Illustration | #26 triptych baked into a single wide image + #21 rounded rectangle crop | ai | Pending | 四联横幅插画：4 位风格化虚构音乐人正面半身像并排，左到右为电吉他女主唱（粉发）/ 电子合成器男 DJ（金色墨镜）/ 民谣女吉他手（薄荷绿衬衫）/ 嘻哈男 rapper（鲜黄连帽衫），每位人物背后是与其音乐风格匹配的撞色块背景，统一粗黑描边 | none | local |
-| ch3_where.png | 1280×720 | 1.78 | P08 章节3 WHERE & WHEN 扉页 | Illustration | #41 background image + measurement lines and module tags (engineering overlay) + #29 two-stop scrim | ai | Pending | 鸟瞰视角的虚构音乐节场地全景：椰林环抱、中央大舞台与四个卫星舞台呈放射状分布、彩色帐篷与霓虹路灯点缀、人流以柔和粉色矢量化暗示，画面留出顶部三分之一空区供标题 | none | hero_page |
-| ch4_vibes.png | 1280×720 | 1.78 | P11 章节4 VIBES 扉页 | Illustration | #1 full-bleed background with floating title + #28 radial gradient vignette | ai | Pending | 夜场氛围全景：荧光手环与彩色烟雾在人群上方腾起，远处舞台 LED 屏幕显示巨型抽象波浪图案，前景设置一个跳跃中的人物剪影做视觉焦点，左上保留暗区供标题 | none | hero_page |
-| market.png | 600×400 | 1.50 | P12 周边市集场景 | Illustration | #19 image floating in whitespace with thin frame and caption + #21 rounded rectangle crop | ai | Pending | 户外周边市集摊位：撞色雨篷下陈列着印有 SUGAR RUSH 字样的 T 恤、帆布袋、贴纸、霓虹光剑，摊主向顾客递商品的瞬间，画面充满波普海报感 | none | local |
-| installation.png | 600×400 | 1.50 | P12 互动装置场景 | Illustration | #19 image floating in whitespace with thin frame and caption + #21 rounded rectangle crop | ai | Pending | 沉浸式互动艺术装置：巨型充气几何雕塑（粉色圆球+蓝色三角+黄色波浪）矗立在草坪，两三个观众在装置间穿梭、自拍、跃起，蓝天白云作背景 | none | local |
-| closing.png | 1280×720 | 1.78 | P14 收尾页 | Illustration | #1 full-bleed background with floating title + #66 image fading into the solid background | ai | Pending | 夕阳下空荡的舞台后景：散落的彩色纸屑、被风扬起的气球、远处地平线的紫粉色霞光，画面底部 1/3 用渐变融入奶油色背景，整体悠长怀念感 | none | hero_page |
+| cover_bg.jpg | 1280×720 | 1.78 | P01 封面主视觉 | Illustration | #1 full-bleed background with floating title + #29 two-stop scrim | ai | Pending | 夏日狂欢主视觉：糖果色霓虹灯牌「SUGAR RUSH」横向居中悬浮于热带丛林夜空，左下角圆点群+右上角波浪闪电装饰碎片，左侧留出大面积冷色暗区供副标题叠加，鸟瞰人群剪影沿底部成弧线 | embedded | hero_page |
+| ch1_what.jpg | 1280×720 | 1.78 | P02 章节1 WHAT 扉页 | Illustration | #12 faded image as backdrop with oversized overlay text + #27 linear gradient mask | ai | Pending | 夏日沙滩派对俯视全景：撞色伞群+人群涂鸦风轮廓，画面中央保留 50% 留白让标题压上去，右下角棋盘条纹边角装饰 | none | hero_page |
+| ch2_who.jpg | 1280×720 | 1.78 | P05 章节2 WHO 扉页 | Illustration | #1 full-bleed background with floating title + #38 background image + annotation cards with bezier leader lines | ai | Pending | 五位风格化音乐人剪影并排站在霓虹聚光灯下的舞台，手持麦克风/吉他/合成器，背景为粉/蓝/黄撞色光柱，画面留有空气感不拥挤 | none | hero_page |
+| headliners.jpg | 1200×500 | 2.40 | P06 头牌艺人四联画 | Illustration | #26 triptych baked into a single wide image + #21 rounded rectangle crop | ai | Pending | 四联横幅插画：4 位风格化虚构音乐人正面半身像并排，左到右为电吉他女主唱（粉发）/ 电子合成器男 DJ（金色墨镜）/ 民谣女吉他手（薄荷绿衬衫）/ 嘻哈男 rapper（鲜黄连帽衫），每位人物背后是与其音乐风格匹配的撞色块背景，统一粗黑描边 | none | local |
+| ch3_where.jpg | 1280×720 | 1.78 | P08 章节3 WHERE & WHEN 扉页 | Illustration | #41 background image + measurement lines and module tags (engineering overlay) + #29 two-stop scrim | ai | Pending | 鸟瞰视角的虚构音乐节场地全景：椰林环抱、中央大舞台与四个卫星舞台呈放射状分布、彩色帐篷与霓虹路灯点缀、人流以柔和粉色矢量化暗示，画面留出顶部三分之一空区供标题 | none | hero_page |
+| ch4_vibes.jpg | 1280×720 | 1.78 | P11 章节4 VIBES 扉页 | Illustration | #1 full-bleed background with floating title + #28 radial gradient vignette | ai | Pending | 夜场氛围全景：荧光手环与彩色烟雾在人群上方腾起，远处舞台 LED 屏幕显示巨型抽象波浪图案，前景设置一个跳跃中的人物剪影做视觉焦点，左上保留暗区供标题 | none | hero_page |
+| market.jpg | 600×400 | 1.50 | P12 周边市集场景 | Illustration | #19 image floating in whitespace with thin frame and caption + #21 rounded rectangle crop | ai | Pending | 户外周边市集摊位：撞色雨篷下陈列着印有 SUGAR RUSH 字样的 T 恤、帆布袋、贴纸、霓虹光剑，摊主向顾客递商品的瞬间，画面充满波普海报感 | none | local |
+| installation.jpg | 600×400 | 1.50 | P12 互动装置场景 | Illustration | #19 image floating in whitespace with thin frame and caption + #21 rounded rectangle crop | ai | Pending | 沉浸式互动艺术装置：巨型充气几何雕塑（粉色圆球+蓝色三角+黄色波浪）矗立在草坪，两三个观众在装置间穿梭、自拍、跃起，蓝天白云作背景 | none | local |
+| closing.jpg | 1280×720 | 1.78 | P14 收尾页 | Illustration | #1 full-bleed background with floating title + #66 image fading into the solid background | ai | Pending | 夕阳下空荡的舞台后景：散落的彩色纸屑、被风扬起的气球、远处地平线的紫粉色霞光，画面底部 1/3 用渐变融入奶油色背景，整体悠长怀念感 | none | hero_page |
 
 > 9 张 AI 图全 deck 共享 `flat × vivid-launch`（h.5 锁定）。其中 6 张 hero_page（P01/P02/P05/P08/P11/P14）+ 3 张 local（P06 / P12 ×2）。#38 image-as-canvas + native overlay 覆盖在 P05；#41 用于 P08，满足"≥4 image-bearing pages 至少 1 个 #38–#46"的硬性要求。
 
@@ -254,6 +254,9 @@ Catalog read: 71 templates
 
 #### Slide 01 - Cover
 
+- **Audience move**: 不知道 SUGAR RUSH 是什么 → 记住日期、地点与“让夏天变甜”的态度
+- **Relationships**: 主标语与日期/地点为 parent;“BOOK NOW”link 于票务页;其余 none
+
 - **Layout**: Full-bleed + floating title（hero_page）
 - **Title**: `SUGAR RUSH`
 - **Subtitle**: 2026 夏日音乐节 · 年度手册
@@ -261,11 +264,17 @@ Catalog read: 71 templates
 
 #### Slide 02 - Chapter 1: WHAT IS SUGAR RUSH
 
+- **Audience move**: 把它当普通音乐节 → 接受“世界变热,我们让它变甜”的态度
+- **Relationships**: 章节号与标语为 parent;“变热”与“变甜”为 contrast
+
 - **Layout**: 章节扉页 — Faded image backdrop + 巨字标题
 - **Title**: `WHAT.`
 - **Subtitle**: 当全世界都在变热，我们决定，让它变甜。
 
 #### Slide 03 - 关键数字
+
+- **Audience move**: 对规模没概念 → 记住 7 天 / 5 舞台 / 80 组 / 5 万人四个数字
+- **Relationships**: 四个数字为 membership(同一场节日);每个数字与说明为 parent;“12 小时/天”link 于 7 天
 
 - **Layout**: Four-column cards（2×2 or 1×4）
 - **Title**: BY THE NUMBERS
@@ -277,6 +286,9 @@ Catalog read: 71 templates
   - `50K` FANS · 50000 名观众预期（icon: users）
 
 #### Slide 04 - 三大理念
+
+- **Audience move**: 不了解办节理念 → 记住 FREE / FUN / FOREVER YOUNG 三条
+- **Relationships**: 三条理念为 order(01–03);每条与阐释为 parent;三者 membership 于同一态度
 
 - **Layout**: Three-column vertical pillars
 - **Title**: WHAT WE STAND FOR
@@ -290,11 +302,17 @@ Catalog read: 71 templates
 
 #### Slide 05 - Chapter 2: WHO
 
+- **Audience move**: 不知道谁来演 → 知道 80 组艺人分五个风格阵营
+- **Relationships**: 五个阵营为 membership(合计 80 组);各阵营人数为 contrast;标语与数字 parent
+
 - **Layout**: Full-bleed + 标题压音乐人剪影 + annotation cards
 - **Title**: `WHO.`
 - **Subtitle**: 80 组艺人，5 个风格阵营，1 张你忘不掉的脸。
 
 #### Slide 06 - 头牌艺人
+
+- **Audience move**: 分不清头牌 → 记住四组头牌的风格与代表作
+- **Relationships**: 四组艺人为 contrast;每组与代表作、履历为 parent;四者 membership 于头牌
 
 - **Layout**: 2×2 grid，4 张头像 + 名字 + 风格 + 代表作
 - **Title**: THE HEADLINERS
@@ -306,6 +324,9 @@ Catalog read: 71 templates
   - **YELLOW HUSTLE**（鲜黄连帽 · 嘻哈 · 代表作 "Sugar High"）
 
 #### Slide 07 - 四大风格阵营
+
+- **Audience move**: 只知道有很多风格 → 知道四大阵营各自的舞台与主场日
+- **Relationships**: 四阵营为 contrast;每阵营与舞台、主场日为 parent;主场日 order(7.19 → 7.22)
 
 - **Layout**: 2×2 quadrant matrix
 - **Title**: FOUR FLAVORS, ONE FESTIVAL
@@ -320,11 +341,17 @@ Catalog read: 71 templates
 
 #### Slide 08 - Chapter 3: WHERE & WHEN
 
+- **Audience move**: 不知道在哪办 → 记住椰岛大草原的位置、面积与交通
+- **Relationships**: 场地信息四项 membership;面积与五舞台 parent;交通与机场 link
+
 - **Layout**: Full-bleed 鸟瞰图 + 模块标签 + scrim
 - **Title**: `WHERE.`
 - **Subtitle**: 椰岛大草原 · 一座为夏天造的城市。
 
 #### Slide 09 - 5 个主题舞台
+
+- **Audience move**: 不知道舞台布局 → 理解中央 SUGAR DOME 与四个分舞台的辐射关系
+- **Relationships**: SUGAR DOME 与四分舞台为 parent(hub → spoke);四分舞台 contrast(风格与容量);舞台 link 于 P07 阵营
 
 - **Layout**: Hub-spoke center-radiating
 - **Title**: 5 STAGES, ONE WORLD
@@ -337,6 +364,9 @@ Catalog read: 71 templates
   - **黄 · YELLOW BLOCK**（嘻哈，7000）
 
 #### Slide 10 - 7 天日程
+
+- **Audience move**: 不知道哪天去 → 一张图看完七天日程
+- **Relationships**: 七天为 order;每天与主题、头牌为 parent;主题日 link 于 P07 阵营
 
 - **Layout**: Horizontal timeline
 - **Title**: SEVEN DAYS OF SUGAR
@@ -354,11 +384,17 @@ Catalog read: 71 templates
 
 #### Slide 11 - Chapter 4: VIBES
 
+- **Audience move**: 以为只有音乐 → 知道舞台之外还有十种甜的方式
+- **Relationships**: 章节标题与十种方式为 parent;十种方式 membership;MARKET 与 ART INSTALL 为 contrast
+
 - **Layout**: Full-bleed + radial vignette
 - **Title**: `VIBES.`
 - **Subtitle**: 音乐之外，还有十种甜的方式。
 
 #### Slide 12 - 周边市集 + 互动装置
+
+- **Audience move**: 不知道音乐之外能干嘛 → 记住市集与装置两条主线
+- **Relationships**: 两条主线为 contrast;每条与数字、说明为 parent;两者 membership 于“音乐之外”
 
 - **Layout**: Two-column comparison
 - **Title**: BEYOND THE MUSIC
@@ -368,6 +404,9 @@ Catalog read: 71 templates
   - **右 · ART INSTALL**（icon: game-controller）— 10 件巨型装置、AR 互动、彩绘工坊、夜光涂鸦墙
 
 #### Slide 13 - 票务 + 赞助
+
+- **Audience move**: 不知道怎么买票 → 分清三档票务的价格与权益
+- **Relationships**: 三档票为 order(价格递增);每档与权益为 parent;早鸟“SOLD OUT”与在售两档为 contrast
 
 - **Layout**: Top three-column tickets + bottom sponsor strip
 - **Title**: GET YOUR TICKET
@@ -379,6 +418,9 @@ Catalog read: 71 templates
   - 底部 sponsor 行：5-7 个虚构赞助 logo（占位文字 + icon 装饰）
 
 #### Slide 14 - Closing
+
+- **Audience move**: 看完手册 → 记住日期与购票入口,带着“让夏天变甜”离开
+- **Relationships**: 日期、购票网址、致谢为 membership;结语 link 回封面(首尾呼应)
 
 - **Layout**: Full-bleed + fade to background
 - **Title**: `SEE YOU IN SUMMER.`

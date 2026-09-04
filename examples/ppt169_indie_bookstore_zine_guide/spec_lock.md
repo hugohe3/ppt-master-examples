@@ -4,6 +4,13 @@
 - viewBox: 0 0 1280 720
 - format: PPT 16:9
 
+## communication
+- primary_language: zh-CN
+- audience: 对独立出版 / zine / 艺术书感兴趣的入门读者
+- objective: 从 zine 的定义与百年浪潮讲到 Risograph 工艺与一张纸折八页的做法，再带读者逛遍东京、巴黎、柏林与中国大陆的独立书店，最后交出做第一本 zine 的四步
+- core_message: zine 是世界上最小的出版社，一张纸加一台复印机就能开始：印一份、送一份、换一份
+- consumption_mode: reading
+
 ## colors
 - bg: #F5EFE0
 - secondary_bg: #EAE2CC
@@ -30,22 +37,28 @@
 - cover_title: 88
 - hero_number: 64
 - chapter_opener: 56
+- caption: 11
+- lead: 32
+- section_title: 44
+- display_m: 48
+- display_l: 84
+- poster_numeral: 100
 
 ## icons
 - library: chunk-filled
 - inventory: book, book-open, books, newspaper, sticky-note, printer, copy, brush, scissors, pencil, pen-nib, toolbox, map, map-pin, globe, calendar, clock, heart, star, flag, arrow-right, circle-arrow-right, building, home, shopping-bag, folders, grid, hand, users
 
 ## images
-- cover_hero: images/cover_hero.png
-- zine_history_collage: images/zine_history_collage.png
-- risograph_machine: images/risograph_machine.png
-- risograph_process_banner: images/risograph_process_banner.png
-- zine_folding_hands: images/zine_folding_hands.png
-- jimbocho_hero: images/jimbocho_hero.png
-- three_cities_triptych: images/three_cities_triptych.png
-- berlin_bucherbogen: images/berlin_bucherbogen.png
-- zine_fair_scene: images/zine_fair_scene.png
-- zine_action_outro: images/zine_action_outro.png
+- cover_hero: images/cover_hero.jpg
+- zine_history_collage: images/zine_history_collage.jpg
+- risograph_machine: images/risograph_machine.jpg
+- risograph_process_banner: images/risograph_process_banner.jpg
+- zine_folding_hands: images/zine_folding_hands.jpg
+- jimbocho_hero: images/jimbocho_hero.jpg
+- three_cities_triptych: images/three_cities_triptych.jpg
+- berlin_bucherbogen: images/berlin_bucherbogen.jpg
+- zine_fair_scene: images/zine_fair_scene.jpg
+- zine_action_outro: images/zine_action_outro.jpg
 
 ## page_rhythm
 - P01: anchor
@@ -80,6 +93,9 @@
 - P14: vertical_list
 - P15: vertical_list
 - P16: numbered_steps
+
+## pptx_structure
+- mode: flat
 
 ## forbidden
 - Mixing icon libraries

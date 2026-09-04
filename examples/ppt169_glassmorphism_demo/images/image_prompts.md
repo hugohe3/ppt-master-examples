@@ -9,7 +9,7 @@
 
 ---
 
-### Image 1: 01_cover_aurora.png
+### Image 1: 01_cover_aurora.jpg
 
 | Attribute | Value |
 |---|---|
@@ -28,7 +28,7 @@ Modern glassmorphism aesthetic. Composition built on layered semi-transparent gl
 
 ---
 
-### Image 2: 02_hero_transition.png
+### Image 2: 02_hero_transition.jpg
 
 | Attribute | Value |
 |---|---|
@@ -47,7 +47,7 @@ Modern glassmorphism aesthetic. Wide cinematic atmosphere built on layered semi-
 
 ---
 
-### Image 3: 04_agent_topology.png
+### Image 3: 04_agent_topology.jpg
 
 | Attribute | Value |
 |---|---|
@@ -66,7 +66,7 @@ Modern glassmorphism aesthetic backdrop. Composition built on a deep-space field
 
 ---
 
-### Image 4: 06_pipeline_flow.png
+### Image 4: 06_pipeline_flow.jpg
 
 | Attribute | Value |
 |---|---|
@@ -85,7 +85,7 @@ Modern glassmorphism aesthetic backdrop. Composition built on layered semi-trans
 
 ---
 
-### Image 5: 07_context_sphere.png
+### Image 5: 07_context_sphere.jpg
 
 | Attribute | Value |
 |---|---|
@@ -104,7 +104,7 @@ Modern glassmorphism aesthetic backdrop. Composition built on a single large lum
 
 ---
 
-### Image 6: 08_dashboard_bokeh.png
+### Image 6: 08_dashboard_bokeh.jpg
 
 | Attribute | Value |
 |---|---|
@@ -123,7 +123,7 @@ Modern glassmorphism aesthetic backdrop with strong baked-in depth-of-field blur
 
 ---
 
-### Image 7: 10_failure_glow.png
+### Image 7: 10_failure_glow.jpg
 
 | Attribute | Value |
 |---|---|
@@ -142,7 +142,7 @@ Modern glassmorphism aesthetic backdrop with a subdued warning tonality. Composi
 
 ---
 
-### Image 8: 12_cta_horizon.png
+### Image 8: 12_cta_horizon.jpg
 
 | Attribute | Value |
 |---|---|

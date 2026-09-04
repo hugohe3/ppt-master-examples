@@ -17,7 +17,7 @@
 
   <!-- Full-bleed hero -->
   <g id="hero">
-    <image href="../images/berlin_bucherbogen.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/berlin_bucherbogen.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Light wash to push image toward background -->

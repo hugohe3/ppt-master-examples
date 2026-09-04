@@ -4,6 +4,13 @@
 - viewBox: 0 0 1280 720
 - format: PPT 16:9
 
+## communication
+- primary_language: zh-CN
+- audience: 科技/金融行业研究者、AI 从业者、风险投资圈、媒体编辑
+- objective: 用十八张数据图按全景、三巨头、中国阵营、二线梯队、基础设施闭环、泡沫六个部分铺开 2026 年的 AI 资本格局，最后交出六条判断
+- core_message: 2026 年全球 AI 资本以前所未有的集中度涌入少数公司，而资本开支与商业收入的剪刀差已超过 2001 年电信泡沫
+- consumption_mode: presentation
+
 ## colors
 - bg: #0E1116
 - secondary_bg: #1A1F26
@@ -36,6 +43,12 @@
 - chapter_mark: 180
 - big_quote_mark: 120
 - footnote: 10
+- lead: 24
+- chapter_lead: 32
+- stat: 40
+- kpi: 48
+- display_m: 56
+- hero_stat: 64
 
 ## icons
 - library: tabler-outline
@@ -45,9 +58,9 @@
 - brand_inventory: openai, anthropic, nvidia, google, microsoft, amazon, meta, oracle, softbank
 
 ## images
-- cover_atmosphere: images/cover_atmosphere.png
-- nvidia_circular: images/nvidia_circular.png
-- bubble_tension: images/bubble_tension.png
+- cover_atmosphere: images/cover_atmosphere.jpg
+- nvidia_circular: images/nvidia_circular.jpg
+- bubble_tension: images/bubble_tension.jpg
 
 ## page_rhythm
 - P01: anchor
@@ -84,6 +97,9 @@
 - P16: hub_spoke
 - P18: dual_axis_line_chart
 - P19: quadrant_text_bullets
+
+## pptx_structure
+- mode: flat
 
 ## forbidden
 - Mixing icon libraries

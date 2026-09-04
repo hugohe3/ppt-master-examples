@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
-  <!-- P01 Cover · anchor · hero_page with cover_bg.png -->
+  <!-- P01 Cover · anchor · hero_page with cover_bg.jpg -->
 
   <g id="bg-image">
-    <image href="../images/cover_bg.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/cover_bg.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Memphis decoration cluster top-right (extra punch on top of image) -->

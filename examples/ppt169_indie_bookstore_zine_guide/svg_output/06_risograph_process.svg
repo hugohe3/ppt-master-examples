@@ -22,7 +22,7 @@
   <!-- Mid-section horizontal banner image -->
   <g id="process-banner">
     <rect x="58" y="170" width="1164" height="200" fill="#FF5C8A"/>
-    <image href="../images/risograph_process_banner.png" x="60" y="170" width="1160" height="196" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/risograph_process_banner.jpg" x="60" y="170" width="1160" height="196" preserveAspectRatio="xMidYMid slice"/>
     <!-- Bottom black accent strip on banner -->
     <rect x="60" y="362" width="1160" height="4" fill="#1A1A1A"/>
   </g>

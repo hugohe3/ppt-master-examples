@@ -11,10 +11,10 @@
   </g>
 
   <g id="card-1">
-    <path fill="#1A1F26" stroke="#2A2F36" stroke-width="1" d="M66,190 H334 A6,6 0 0 1 340,196 V404 A6,6 0 0 1 334,410 H66 A6,6 0 0 1 60,404 V196 A6,6 0 0 1 66,190 Z" />
+    <rect x="60" y="190" width="280" height="220" rx="6" fill="#1A1F26" stroke="#2A2F36" stroke-width="1" />
     <line x1="60" y1="190" x2="60" y2="290" stroke="#E63946" stroke-width="3" />
     
-  <g transform="translate(80.0, 210.0) scale(0.9166666666666666)" fill="none" stroke="#8A857E" stroke-width="1.5">
+  <g transform="translate(80, 210) scale(0.916667)" fill="none" stroke="#8A857E" stroke-width="1.5">
     <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
     <path d="M3.6 9h16.8" />
     <path d="M3.6 15h16.8" />
@@ -28,10 +28,10 @@
   </g>
 
   <g id="card-2">
-    <path fill="#1A1F26" stroke="#2A2F36" stroke-width="1" d="M366,190 H634 A6,6 0 0 1 640,196 V404 A6,6 0 0 1 634,410 H366 A6,6 0 0 1 360,404 V196 A6,6 0 0 1 366,190 Z" />
+    <rect x="360" y="190" width="280" height="220" rx="6" fill="#1A1F26" stroke="#2A2F36" stroke-width="1" />
     <line x1="360" y1="190" x2="360" y2="290" stroke="#E63946" stroke-width="3" />
     
-  <g transform="translate(380.0, 210.0) scale(0.9166666666666666)" fill="none" stroke="#8A857E" stroke-width="1.5">
+  <g transform="translate(380, 210) scale(0.916667)" fill="none" stroke="#8A857E" stroke-width="1.5">
     <path d="M16 17a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
     <path d="M6 7a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
     <path d="M6 18l12 -12" />
@@ -43,10 +43,10 @@
   </g>
 
   <g id="card-3">
-    <path fill="#1A1F26" stroke="#2A2F36" stroke-width="1" d="M66,430 H334 A6,6 0 0 1 340,436 V644 A6,6 0 0 1 334,650 H66 A6,6 0 0 1 60,644 V436 A6,6 0 0 1 66,430 Z" />
+    <rect x="60" y="430" width="280" height="220" rx="6" fill="#1A1F26" stroke="#2A2F36" stroke-width="1" />
     <line x1="60" y1="430" x2="60" y2="530" stroke="#F4A261" stroke-width="3" />
     
-  <g transform="translate(80.0, 450.0) scale(0.9166666666666666)" fill="none" stroke="#8A857E" stroke-width="1.5">
+  <g transform="translate(80, 450) scale(0.916667)" fill="none" stroke="#8A857E" stroke-width="1.5">
     <path d="M16.7 8a3 3 0 0 0 -2.7 -2h-4a3 3 0 0 0 0 6h4a3 3 0 0 1 0 6h-4a3 3 0 0 1 -2.7 -2" />
     <path d="M12 3v3m0 12v3" />
   </g>
@@ -57,10 +57,10 @@
   </g>
 
   <g id="card-4">
-    <path fill="#1A1F26" stroke="#2A2F36" stroke-width="1" d="M366,430 H634 A6,6 0 0 1 640,436 V644 A6,6 0 0 1 634,650 H366 A6,6 0 0 1 360,644 V436 A6,6 0 0 1 366,430 Z" />
+    <rect x="360" y="430" width="280" height="220" rx="6" fill="#1A1F26" stroke="#2A2F36" stroke-width="1" />
     <line x1="360" y1="430" x2="360" y2="530" stroke="#F4A261" stroke-width="3" />
     
-  <g transform="translate(380.0, 450.0) scale(0.9166666666666666)" fill="none" stroke="#8A857E" stroke-width="1.5">
+  <g transform="translate(380, 450) scale(0.916667)" fill="none" stroke="#8A857E" stroke-width="1.5">
     <path d="M11 12a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
     <path d="M7 12a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
     <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
@@ -76,9 +76,17 @@
     <text x="700" y="220" font-family="Cambria, serif" font-size="11" fill="#E63946" letter-spacing="3">EDITORIAL NOTE</text>
     <line x1="700" y1="232" x2="820" y2="232" stroke="#E63946" stroke-width="1" />
 
-    <text font-weight="bold" font-size="22" fill="#E8E6E1" font-family="Cambria, &quot;Microsoft YaHei&quot;, serif" x="700" y="280">钱没变多，</text><text font-weight="bold" font-size="22" fill="#E8E6E1" font-family="Cambria, &quot;Microsoft YaHei&quot;, serif" x="700" y="312">是更集中。</text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="380">"While more money than ever is being</text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="402">invested in the private markets, that's</text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="424"><tspan>thanks to <tspan fill="#E63946" font-weight="bold">larger checks, not more</tspan></tspan>
+    <text font-size="22" fill="#E8E6E1" font-family="Cambria, &quot;Microsoft YaHei&quot;, serif" font-weight="bold" x="700" y="280">
+      <tspan>钱没变多，</tspan>
+      </text><text font-size="22" fill="#E8E6E1" font-family="Cambria, &quot;Microsoft YaHei&quot;, serif" font-weight="bold" x="700" y="312"><tspan>是更集中。</tspan>
+    </text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="380">
+      <tspan>"While more money than ever is being</tspan>
+      </text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="402"><tspan>invested in the private markets, that's</tspan>
+      </text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="424"><tspan>thanks to <tspan fill="#E63946" font-weight="bold">larger checks, not more</tspan></tspan>
       </text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="446"><tspan><tspan fill="#E63946" font-weight="bold">of them</tspan> — capital concentrated into a</tspan>
-      </text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="468">select few companies and a single</text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="490">industry."</text><text x="700" y="555" font-family="Cambria, serif" font-size="12" font-style="italic" fill="#8A857E">— Crunchbase, Q1 2026 venture report</text>
+      </text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="468"><tspan>select few companies and a single</tspan>
+      </text><text font-size="14" fill="#C9C5BE" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" x="700" y="490"><tspan>industry."</tspan>
+    </text><text x="700" y="555" font-family="Cambria, serif" font-size="12" font-style="italic" fill="#8A857E">— Crunchbase, Q1 2026 venture report</text>
 
     <g id="key-stat-inline">
       <line x1="700" y1="600" x2="1160" y2="600" stroke="#2A2F36" stroke-width="1" />

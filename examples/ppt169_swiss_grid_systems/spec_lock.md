@@ -4,6 +4,13 @@
 - viewBox: 0 0 1280 720
 - format: PPT 16:9
 
+## communication
+- primary_language: zh-CN
+- audience: 设计师 / 设计学生 / 文化机构活动观众
+- objective: 在约 25 分钟里从双源头、八条原则、八位人物讲到四种网格类型与模数派生，再看它输出到企业 VI、屏幕与当代品牌，使听众能把网格当作一种看世界的方式
+- core_message: 网格不是限制，而是自由的语法
+- consumption_mode: presentation
+
 ## colors
 - bg: #FFFFFF
 - secondary_bg: #F4F4F4
@@ -30,6 +37,10 @@
 - hero_number: 36
 - display_xl: 92
 - specimen: 240
+- micro_label: 10
+- display_m: 48
+- display_l: 64
+- specimen_numeral: 168
 
 ## icons
 - library: tabler-outline
@@ -38,9 +49,9 @@
 - inventory: blockquote, grid-3x3
 
 ## images
-- cover_bg: images/cover_bg.png
-- negative_space: images/negative_space.png
-- closing_grid: images/closing_grid.png
+- cover_bg: images/cover_bg.jpg
+- negative_space: images/negative_space.jpg
+- closing_grid: images/closing_grid.jpg
 
 ## page_rhythm
 - P01: anchor
@@ -68,6 +79,9 @@
 - P11: icon_grid
 - P12: numbered_steps
 - P13: icon_grid
+
+## pptx_structure
+- mode: flat
 
 ## forbidden
 - Mixing icon libraries

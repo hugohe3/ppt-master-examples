@@ -240,16 +240,16 @@
 
 | Filename | Dimensions | Ratio | Purpose | Type | Layout pattern | Acquire Via | Status | Reference | text_policy | page_role |
 | -------- | --------- | ----- | ------- | ---- | -------------- | ----------- | ------ | --------- | ----------- | --------- |
-| cover_hero.png | 1280×720 | 1.78 | P01 封面 hero | Background | `#1 Full-bleed background with floating title + #27 Linear gradient mask for text legibility + #29 Two-stop scrim — opaque on text side, transparent on focal side` | ai | Pending | "A risograph print studio scene: a hand-pulled silkscreen 'pull' of a two-color zine sheet rising from a paper stack; ink rollers and color drums visible in the lower edge; left side reserved as calm flat color block for large title overlay; bold silhouette composition" | none | hero_page |
-| zine_history_collage.png | 760×420 | 1.81 | P03 装饰图：zine 是什么 | Illustration | `#13 Narrow vertical image strip + giant horizontal title + #21 Rounded rectangle crop` | ai | Pending | "Collage silhouette of stacked zines across eras: a sci-fi pulp magazine corner, a punk fanzine front, a riot grrrl xeroxed page, a modern art-book spine — overlapping at slight angles like a desk pile; the stack is the only motif, off-white paper background visible behind" | none | local |
-| risograph_machine.png | 720×900 | 0.80 | P05 Risograph 工艺侧栏 | Illustration | `#18 Image as full-height sidebar column + #21 Rounded rectangle crop` | ai | Pending | "Front-three-quarter view of a vintage Risograph duplicator (Riso EZ200 era), boxy industrial silhouette, two color drums visible through a side panel slot, paper tray protruding from front; clean stencil-cut machine outline, no operator, isolated against off-white paper field" | none | local |
-| risograph_process_banner.png | 1280×280 | 4.57 | P06 工艺横幅 | Diagram | `#14 Horizontal banner strip cutting through mid-section + #29 Two-stop scrim` | ai | Pending | "Horizontal silkscreen frieze depicting Risograph workflow: from left to right — a digital file glyph, a stencil master sheet, a wrapped color drum, an inked roller pressing paper, a paper output stack; five stages connected by subtle ink-trail lines; bold stencil silhouettes, no text labels on the image" | none | local |
-| zine_folding_hands.png | 1080×720 | 1.50 | P07 八页折叠示意 hero | Illustration | `#38 Background image + annotation cards with bezier leader lines + #21 Rounded rectangle crop` | ai | Pending | "Overhead view of two hands folding a single A4 sheet into an 8-page zine; the sheet partially folded mid-crease, scissors and pencil nearby; composition leaves four open negative-space pockets in corners for native SVG annotation cards to overlay; soft top-down vantage" | none | local |
-| jimbocho_hero.png | 1280×720 | 1.78 | P09 神保町 hero | Background | `#1 Full-bleed background with floating title + #29 Two-stop scrim + #27 Linear gradient mask for text legibility` | ai | Pending | "Tokyo Jimbocho bookstore street at evening: rows of paper-lantern shop signs glowing, stacked secondhand books spilling onto sidewalk shelves, narrow alley vanishing into perspective; bold silhouette of pedestrian browsing in foreground; cinematic poster framing" | none | hero_page |
-| three_cities_triptych.png | 1160×400 | 2.90 | P10 三城三店三联 | Illustration | `#56 Image triptych + #21 Rounded rectangle crop + #70 Image with thin colored matte frame` | ai | Pending | "Three-panel triptych baked in one image, panels equal width separated by 4px gutters. Left panel: Paris's Shakespeare and Company exterior — narrow green-fronted shop with cobbled foreground. Middle panel: London Word-on-the-Water bookbarge on canal at dusk. Right panel: New York Strand Bookstore corner with the red awning visible. All three panels in matching screen-print silhouette style, unified color treatment for visual continuity" | none | local |
-| berlin_bucherbogen.png | 1280×720 | 1.78 | P11 柏林 hero | Background | `#1 Full-bleed background with floating title + #12 Faded image as backdrop with oversized overlay text` | ai | Pending | "Berlin Bücherbogen under S-Bahn arches: arched brick vault interior, light spilling from book-lined walls under the curved ceiling, a single train rumble silhouette implied above; central calm zone reserved for huge overlay title; atmospheric depth via halftone gradation" | none | hero_page |
-| zine_fair_scene.png | 720×720 | 1.00 | P13 书展现场氛围 | Illustration | `#2 Left-third image + right text body + #21 Rounded rectangle crop + #70 Image with thin colored matte frame` | ai | Pending | "Art-book-fair booth aisle scene: rows of low tables stacked with zines and small-press books, a few visitor silhouettes browsing, hand-lettered booth signs visible but unreadable, ceiling string-lights overhead; bold flat composition, no readable text in scene" | none | local |
-| zine_action_outro.png | 1280×720 | 1.78 | P18 封底 outro hero | Background | `#1 Full-bleed background with floating title + #12 Faded image as backdrop with oversized overlay text + #29 Two-stop scrim` | ai | Pending | "Single open hand from above holding up a small folded zine toward the viewer; the zine cover slightly halftoned; rest of canvas is open paper field; composition designed to host enormous closing-line typography overlay in upper region" | none | hero_page |
+| cover_hero.jpg | 1280×720 | 1.78 | P01 封面 hero | Background | `#1 Full-bleed background with floating title + #27 Linear gradient mask for text legibility + #29 Two-stop scrim — opaque on text side, transparent on focal side` | ai | Pending | "A risograph print studio scene: a hand-pulled silkscreen 'pull' of a two-color zine sheet rising from a paper stack; ink rollers and color drums visible in the lower edge; left side reserved as calm flat color block for large title overlay; bold silhouette composition" | none | hero_page |
+| zine_history_collage.jpg | 760×420 | 1.81 | P03 装饰图：zine 是什么 | Illustration | `#13 Narrow vertical image strip + giant horizontal title + #21 Rounded rectangle crop` | ai | Pending | "Collage silhouette of stacked zines across eras: a sci-fi pulp magazine corner, a punk fanzine front, a riot grrrl xeroxed page, a modern art-book spine — overlapping at slight angles like a desk pile; the stack is the only motif, off-white paper background visible behind" | none | local |
+| risograph_machine.jpg | 720×900 | 0.80 | P05 Risograph 工艺侧栏 | Illustration | `#18 Image as full-height sidebar column + #21 Rounded rectangle crop` | ai | Pending | "Front-three-quarter view of a vintage Risograph duplicator (Riso EZ200 era), boxy industrial silhouette, two color drums visible through a side panel slot, paper tray protruding from front; clean stencil-cut machine outline, no operator, isolated against off-white paper field" | none | local |
+| risograph_process_banner.jpg | 1280×280 | 4.57 | P06 工艺横幅 | Diagram | `#14 Horizontal banner strip cutting through mid-section + #29 Two-stop scrim` | ai | Pending | "Horizontal silkscreen frieze depicting Risograph workflow: from left to right — a digital file glyph, a stencil master sheet, a wrapped color drum, an inked roller pressing paper, a paper output stack; five stages connected by subtle ink-trail lines; bold stencil silhouettes, no text labels on the image" | none | local |
+| zine_folding_hands.jpg | 1080×720 | 1.50 | P07 八页折叠示意 hero | Illustration | `#38 Background image + annotation cards with bezier leader lines + #21 Rounded rectangle crop` | ai | Pending | "Overhead view of two hands folding a single A4 sheet into an 8-page zine; the sheet partially folded mid-crease, scissors and pencil nearby; composition leaves four open negative-space pockets in corners for native SVG annotation cards to overlay; soft top-down vantage" | none | local |
+| jimbocho_hero.jpg | 1280×720 | 1.78 | P09 神保町 hero | Background | `#1 Full-bleed background with floating title + #29 Two-stop scrim + #27 Linear gradient mask for text legibility` | ai | Pending | "Tokyo Jimbocho bookstore street at evening: rows of paper-lantern shop signs glowing, stacked secondhand books spilling onto sidewalk shelves, narrow alley vanishing into perspective; bold silhouette of pedestrian browsing in foreground; cinematic poster framing" | none | hero_page |
+| three_cities_triptych.jpg | 1160×400 | 2.90 | P10 三城三店三联 | Illustration | `#56 Image triptych + #21 Rounded rectangle crop + #70 Image with thin colored matte frame` | ai | Pending | "Three-panel triptych baked in one image, panels equal width separated by 4px gutters. Left panel: Paris's Shakespeare and Company exterior — narrow green-fronted shop with cobbled foreground. Middle panel: London Word-on-the-Water bookbarge on canal at dusk. Right panel: New York Strand Bookstore corner with the red awning visible. All three panels in matching screen-print silhouette style, unified color treatment for visual continuity" | none | local |
+| berlin_bucherbogen.jpg | 1280×720 | 1.78 | P11 柏林 hero | Background | `#1 Full-bleed background with floating title + #12 Faded image as backdrop with oversized overlay text` | ai | Pending | "Berlin Bücherbogen under S-Bahn arches: arched brick vault interior, light spilling from book-lined walls under the curved ceiling, a single train rumble silhouette implied above; central calm zone reserved for huge overlay title; atmospheric depth via halftone gradation" | none | hero_page |
+| zine_fair_scene.jpg | 720×720 | 1.00 | P13 书展现场氛围 | Illustration | `#2 Left-third image + right text body + #21 Rounded rectangle crop + #70 Image with thin colored matte frame` | ai | Pending | "Art-book-fair booth aisle scene: rows of low tables stacked with zines and small-press books, a few visitor silhouettes browsing, hand-lettered booth signs visible but unreadable, ceiling string-lights overhead; bold flat composition, no readable text in scene" | none | local |
+| zine_action_outro.jpg | 1280×720 | 1.78 | P18 封底 outro hero | Background | `#1 Full-bleed background with floating title + #12 Faded image as backdrop with oversized overlay text + #29 Two-stop scrim` | ai | Pending | "Single open hand from above holding up a small folded zine toward the viewer; the zine cover slightly halftoned; rest of canvas is open paper field; composition designed to host enormous closing-line typography overlay in upper region" | none | hero_page |
 
 > **User-provided photos** (in `sources/`, available as visual references for Image_Generator prompts — not embedded directly): `riso_ez200_printer.jpg`, `risograph_two_color_print.jpg`, `shakespeare_and_company_paris.jpg`, `jimbocho_yaguchi_koga.jpg`, `jimbocho_used_books.jpg`, `sanseido_bookstore.jpg`. Strategist 不将其作为 §VIII 资源行（避免与 ai 行 hero 冲突）；Image_Generator 在 prompt 撰写时可参照其构图与氛围。
 
@@ -261,12 +261,18 @@
 
 #### Slide 01 - Cover 封面
 
+- **Audience move**: 不知道 zine 是什么 → 意识到这本指南本身就用 zine 的语言做成
+- **Relationships**: 套色错位的 ZINE 大字与“CULTURE GUIDE”为 parent;期号与署名 membership 于刊头;其余 none
+
 - **Layout**: Full-bleed hero image + floating Impact 大字标题（zine 海报感）
 - **Title**: 「Zine 文化指南 / INDIE BOOKSTORE × ZINE」
 - **Subtitle**: 一份从一张纸到一家书店的独立出版地图
 - **Info**: PPT Master Risograph 风格演示 · 2026
 
 #### Slide 02 - 目录
+
+- **Audience move**: 不知道指南怎么读 → 知道五个部分与各自页码,可任意顺序阅读
+- **Relationships**: 五个部分为 order;每部分与页码区间为 parent;五者 membership 于同一期
 
 - **Layout**: agenda_list（5 节 + 简述 + 页码区间）
 - **Title**: 目录 / TABLE OF CONTENTS
@@ -282,6 +288,9 @@
 
 #### Slide 03 - zine 是什么
 
+- **Audience move**: 把 zine 当小杂志 → 记住“杂志 − 商业逻辑 − 编辑把关 − 规模”的定义
+- **Relationships**: ZINE 与 MAGAZINE 为 contrast;三个减项 membership 于定义;特征列举与定义 parent
+
 - **Layout**: 大字定义 + 左侧 narrow vertical image strip + 三条特征列举
 - **Title**: ZINE = MAGAZINE − 商业逻辑
 - **Content**:
@@ -290,6 +299,9 @@
   - 与 magazine / book 的边界：印量 + 商业意图 + 编辑流程
 
 #### Slide 04 - zine 简史四浪潮
+
+- **Audience move**: 以为 zine 是新事物 → 看到 1920s 至今的四次浪潮
+- **Relationships**: 四次浪潮为 order(时间线);每次与代表作为 parent;四者 membership 于百年史
 
 - **Layout**: timeline 横向年代轴
 - **Title**: 一百年里 zine 的四次浪潮
@@ -305,6 +317,9 @@
 
 #### Slide 05 - Risograph 起源 + 视觉特征
 
+- **Audience move**: 没听过 Risograph → 知道它的来历与视觉特征
+- **Relationships**: 品牌年份与机型为 parent;RISO 起源与 zine 工艺为 link;视觉特征 membership
+
 - **Layout**: 左侧 full-height 机器侧栏图 + 右侧 vertical_list 4 视觉特征
 - **Title**: Risograph：zine 工艺的灵魂载体
 - **Visualization**: vertical_list
@@ -316,6 +331,9 @@
   - 视觉特征 4：色块叠加产生第三色
 
 #### Slide 06 - Risograph 工作流程
+
+- **Audience move**: 不知道 Riso 怎么印 → 记住从数字图像到印张的五步
+- **Relationships**: 五步为 order;每步与说明为 parent;“一次一色”link 于多次过纸
 
 - **Layout**: 中段横幅图（工艺示意）+ 下方 numbered_steps 5 步
 - **Title**: 工艺：5 步从数字图像到印张
@@ -331,6 +349,9 @@
 
 #### Slide 07 - 八页折叠法
 
+- **Audience move**: 不会做 zine → 学会一张 A4 折出八页的四步
+- **Relationships**: 四步为 order;每步与图示为 parent;“8 EQUAL RECTANGLES”link 于第一步
+
 - **Layout**: 中央 hero 图（折叠的手）+ 四角 annotation cards（image-as-canvas + bezier 引线 #38）
 - **Title**: 一张纸 → 一本 zine
 - **Visualization**: numbered_steps（叠加在 image-as-canvas 上）
@@ -341,6 +362,9 @@
   - ④ 填内容：没有规则
 
 #### Slide 08 - 内容类型
+
+- **Audience move**: 不知道往里填什么 → 知道六种内容方向且“没有错误”
+- **Relationships**: 六种类型为 membership;每种与例子为 parent;六者 contrast(不同方向)
 
 - **Layout**: icon_grid 2×3 或 3×2
 - **Title**: 你能填的东西
@@ -357,6 +381,9 @@
 
 #### Slide 09 - 东京 Jimbōchō 神保町
 
+- **Audience move**: 不知道去哪逛 → 记住东京神保町的规模与代表书店
+- **Relationships**: 街区与各书店为 parent;书店之间 order(年代);“Time Out 2025”link 于街区
+
 - **Layout**: Full-bleed hero + 大字 + 左下三条事实条
 - **Title**: 神保町 / JIMBŌCHŌ
 - **Content**:
@@ -365,6 +392,9 @@
   - 2025 Time Out "全球最酷街区"
 
 #### Slide 10 - 巴黎 / 伦敦 / 纽约
+
+- **Audience move**: 只知道一座城市 → 对比巴黎 / 另两城三种书店姿态
+- **Relationships**: 三座城市为 contrast;每城与代表书店、特征为 parent;三者 membership 于全球书店
 
 - **Layout**: vertical_pillars 1×3
 - **Title**: 三座城市，三种姿态
@@ -376,6 +406,9 @@
 
 #### Slide 11 - 柏林 Bücherbogen
 
+- **Audience move**: 没听过 Bücherbogen → 理解“不要全面,要绝对”的主题书店范式
+- **Relationships**: 位置与建筑为 parent;五个专攻主题 membership;“全面”与“绝对”为 contrast
+
 - **Layout**: Full-bleed hero + 大字 + 浮动定义文字
 - **Title**: BÜCHERBOGEN
 - **Content**:
@@ -384,12 +417,18 @@
 
 #### Slide 12 - 中国大陆书店地图
 
+- **Audience move**: 不知道中国有哪些 zine 倾向的书店 → 拿到 15 家的城市与特色
+- **Relationships**: 15 家为 order(表格行);每家与城市、特色、倾向为 parent;三家圣地与其余 contrast
+
 - **Layout**: basic_table（4 列 × 15 行）
 - **Title**: 中国独立书店地图（zine 倾向）
 - **Visualization**: basic_table
 - **Content**: 15 家书店表 —— 书店 / 城市 / 特色 / zine 倾向（★/★★/★★★）
 
 #### Slide 13 - 中国艺术书展
+
+- **Audience move**: 不知道去哪见到出版方 → 记住 abC 与另一书展的年份与规模
+- **Relationships**: 两个书展为 contrast(双子星);每个与年份、规模为 parent;两者 membership 于中国艺术书展
 
 - **Layout**: labeled_card 双卡并列（abC + UNFOLD）
 - **Title**: 中国艺术书展双子星
@@ -402,6 +441,9 @@
 
 #### Slide 14 - 怎么逛独立书店
 
+- **Audience move**: 第一次进独立书店会紧张 → 记住四条不成文规则
+- **Relationships**: 四条为 order;每条与解释为 parent;四者 membership 于逛店礼仪
+
 - **Layout**: vertical_list 4 条
 - **Title**: 进店前的 4 条
 - **Visualization**: vertical_list
@@ -412,6 +454,9 @@
   - ④ 拍照前先问 —— 多数独立书店对拍照敏感
 
 #### Slide 15 - 怎么收藏 zine
+
+- **Audience move**: 不知道怎么收藏 → 记住从一本起步等四条
+- **Relationships**: 四条为 order;每条与解释为 parent;四者 membership 于收藏方法
 
 - **Layout**: vertical_list 4 条
 - **Title**: 收藏 zine 的 4 条
@@ -424,6 +469,9 @@
 
 #### Slide 16 - 行动清单：你的第一本 zine
 
+- **Audience move**: 读完不行动 → 拿到一个周末做出第一本 zine 的四步
+- **Relationships**: 四步为 order;每步与动作为 parent;第二步 link 回 P07 折法
+
 - **Layout**: numbered_steps 4 步
 - **Title**: 你的第一本 zine：4 步起手
 - **Visualization**: numbered_steps
@@ -435,11 +483,17 @@
 
 #### Slide 17 - Sources & 致谢
 
+- **Audience move**: 怀疑内容来源 → 看到 20 个公开来源的清单
+- **Relationships**: 来源按主题 membership;每条与 URL 为 parent;编号 order
+
 - **Layout**: 双列 sources 罗列 + 致谢小字
 - **Title**: Sources / References
 - **Content**: 来源链接清单（Wikipedia / My Modern Met / AFAR / The Creative Independent / 数英 / Sixth Tone 等）
 
 #### Slide 18 - 封底 outro
+
+- **Audience move**: 读完合上 → 记住“印一份 · 送一份 · 换一份”
+- **Relationships**: 三句为 order;三句 membership 于同一行动;结语 link 回封面
 
 - **Layout**: Full-bleed hero（手举 zine）+ 大字 outro
 - **Title**: 「印一份。送一份。换一份。」

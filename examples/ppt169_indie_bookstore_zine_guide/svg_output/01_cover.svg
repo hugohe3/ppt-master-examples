@@ -10,7 +10,7 @@
 
   <!-- Hero AI image -->
   <g id="hero-image">
-    <image href="../images/cover_hero.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/cover_hero.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Paper grain texture overlay -->

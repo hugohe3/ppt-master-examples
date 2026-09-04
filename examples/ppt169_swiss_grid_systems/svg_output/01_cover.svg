@@ -3,7 +3,7 @@
 
   <g id="bg">
     <rect width="1280" height="720" fill="#FFFFFF" />
-    <image href="../images/cover_bg.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
+    <image href="../images/cover_bg.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
   </g>
 
   <g id="cover-meta-top">

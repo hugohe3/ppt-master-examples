@@ -203,9 +203,9 @@ Catalog read: 71 templates
 
 | Filename | Dimensions | Ratio | Purpose | Type | Layout pattern | Acquire Via | Status | Reference | text_policy | page_role |
 | -------- | --------- | ----- | ------- | ---- | -------------- | ----------- | ------ | --------- | ----------- | --------- |
-| cover_bg.png | 1280×720 | 1.78 | 封面 hero 背景 | Background | #38 image-as-canvas with text-block inset + #1 full-bleed background with floating title | ai | Pending | 一组瑞士网格几何抽象：横竖黑色细线网格在纯白底上构成 4×3 矩阵，一枚红圆悬于第三列第二行的网格交点，左下区域留大块纯白用于压标题；构图严格对称去中心，几何 absolutely 主导 | none | hero_page |
-| negative_space.png | 1280×720 | 1.78 | P10 留白即结构 hero | Background | #46 image-as-canvas with caption-stripe overlay + #39 image-as-canvas with mega-headline | ai | Pending | 纯白画面中央偏左 1/3 处一枚 80px 直径红色实心圆，右下角一根 1px 黑色水平基线长度仅占画面 12%；其余 90% 纯白；红圆与黑线之间形成隐性张力，整画是"留白"本身的论证 | none | hero_page |
-| closing_grid.png | 1280×720 | 1.78 | P14 结语 hero | Background | #38 image-as-canvas with text-block inset + #29 two-stop scrim | ai | Pending | 由细密的黑色网格线（间距 16px）铺满整个画面，网格交点处部分高亮成红点形成稀疏星图，构图严格几何；左下 1/3 留出 8% 不透明白色叠层用于浮文字 | none | hero_page |
+| cover_bg.jpg | 1280×720 | 1.78 | 封面 hero 背景 | Background | #38 image-as-canvas with text-block inset + #1 full-bleed background with floating title | ai | Pending | 一组瑞士网格几何抽象：横竖黑色细线网格在纯白底上构成 4×3 矩阵，一枚红圆悬于第三列第二行的网格交点，左下区域留大块纯白用于压标题；构图严格对称去中心，几何 absolutely 主导 | none | hero_page |
+| negative_space.jpg | 1280×720 | 1.78 | P10 留白即结构 hero | Background | #46 image-as-canvas with caption-stripe overlay + #39 image-as-canvas with mega-headline | ai | Pending | 纯白画面中央偏左 1/3 处一枚 80px 直径红色实心圆，右下角一根 1px 黑色水平基线长度仅占画面 12%；其余 90% 纯白；红圆与黑线之间形成隐性张力，整画是"留白"本身的论证 | none | hero_page |
+| closing_grid.jpg | 1280×720 | 1.78 | P14 结语 hero | Background | #38 image-as-canvas with text-block inset + #29 two-stop scrim | ai | Pending | 由细密的黑色网格线（间距 16px）铺满整个画面，网格交点处部分高亮成红点形成稀疏星图，构图严格几何；左下 1/3 留出 8% 不透明白色叠层用于浮文字 | none | hero_page |
 
 > 三张图全部 `minimalist-swiss × mono-ink`，rendering + palette 由 §III AI Image Strategy 提供；Reference 字段不重复 style 词与 HEX。
 
@@ -217,12 +217,18 @@ Catalog read: 71 templates
 
 #### Slide 01 - 封面
 
+- **Audience move**: 把网格当作排版工具 → 意识到它是一种“看世界的方式”
+- **Relationships**: 主标题与英文副题为 parent;三位人物/字体名 membership 于瑞士风格;其余 none
+
 - **Layout**: Full-bleed + floating text（封面 hero）
 - **Title**: 网格系统
 - **Subtitle**: The Grid as a Way of Seeing
 - **Info**: A Lecture on Swiss International Typographic Style · 2026
 
 #### Slide 02 - 引言
+
+- **Audience move**: 以为网格是保证 → 听到布罗克曼说它只是辅助、需要练习
+- **Relationships**: 引文与出处为 parent;“aid”与“guarantee”为 contrast
 
 - **Layout**: Asymmetric split 3:7（左侧大引号 + 右侧引文）
 - **Title**: （无标题；引文直接是 hero）
@@ -233,6 +239,9 @@ Catalog read: 71 templates
 ### Part 2: 历史与原则
 
 #### Slide 03 - 双源头
+
+- **Audience move**: 以为风格一夜诞生 → 看到 1896–1957 六十年的双源头累积
+- **Relationships**: 各年份事件为 order(时间线);两条源头为 contrast;每个事件与说明为 parent
 
 - **Layout**: Top-bottom split（上方时间轴，下方简短叙述）
 - **Title**: 双源头 · 1896 → 1957
@@ -246,6 +255,9 @@ Catalog read: 71 templates
   - 一句结论：理性主义不是凭空到来，而是来自半个世纪的字体 + 学校 + 教学
 
 #### Slide 04 - 八条核心原则
+
+- **Audience move**: 只知道“瑞士风”这个词 → 记住八条核心原则
+- **Relationships**: 八条原则为 order(01–08);八者 membership 于同一体系;中英标题为 parent
 
 - **Layout**: Vertical list（编号 + 一行原则 + 注释）
 - **Title**: 八条核心原则
@@ -262,6 +274,9 @@ Catalog read: 71 templates
 
 #### Slide 05 - 关键人物
 
+- **Audience move**: 把风格归功于一个人 → 认识八位共同建造者
+- **Relationships**: 八位人物为 order;每人与其贡献为 parent;八者 membership 于瑞士学派
+
 - **Layout**: Four-column cards × 2 行（8 人）
 - **Title**: 八位塑造者
 - **Visualization**: team_roster
@@ -276,6 +291,9 @@ Catalog read: 71 templates
   - Adrian Frutiger (1928–2015) · 1957 设计 Univers
 
 #### Slide 06 - Müller-Brockmann
+
+- **Audience move**: 只知道布罗克曼的名字 → 用七个时刻理解他的一生
+- **Relationships**: 七个时刻为 order(生平);人物档案与时刻 parent;年份与事件 link
 
 - **Layout**: Top-bottom split（上方时间轴，下方关键事件文字）
 - **Title**: Josef Müller-Brockmann · 1914–1996
@@ -293,6 +311,9 @@ Catalog read: 71 templates
 
 #### Slide 07 - 三款决定性字体
 
+- **Audience move**: 分不清三款无衬线 → 记住 Akzidenz / Helvetica / Univers 的年份与差异
+- **Relationships**: 三款字体为 contrast;每张卡片的字样与说明为 parent;年份 order
+
 - **Layout**: Three-column cards
 - **Title**: 三款决定性字体
 - **Visualization**: comparison_columns
@@ -302,6 +323,9 @@ Catalog read: 71 templates
   - **Univers · 1957** · Frutiger · 21 字重首次数字坐标系统化 · 字体家族工程的开端
 
 #### Slide 08 - 网格四种类型
+
+- **Audience move**: 只会用列网格 → 知道四种网格类型及各自适用场景
+- **Relationships**: 四种类型为 order(01–04);每种与适用场景为 parent;四者 membership 于布罗克曼 1981 分类
 
 - **Layout**: Matrix grid 2×2
 - **Title**: 网格四种类型
@@ -314,6 +338,9 @@ Catalog read: 71 templates
 
 #### Slide 09 - 模数网格示意
 
+- **Audience move**: 凭感觉定尺寸 → 看到一切尺寸如何从 16px 基本单位派生
+- **Relationships**: BASE UNIT 与所有派生尺寸为 parent;各派生值之间 membership;倍数关系 link
+
 - **Layout**: Asymmetric split 2:8（左侧数值说明，右侧 SVG 几何绘制 8×6 模数图）
 - **Title**: 一切都是可计算的
 - **Content**:
@@ -322,6 +349,9 @@ Catalog read: 71 templates
   - 右侧画出 4×6 模数网格，每格 264×96，红色线标记一个跨 3 列的图像区
 
 #### Slide 10 - 留白即结构
+
+- **Audience move**: 把留白当剩余 → 理解留白即结构、是信息载体
+- **Relationships**: 红圆与黑线为 contrast(唯一两个元素);留白与元素为 link(张力来源);标题与论点 parent
 
 - **Layout**: Negative-space-driven（90% 纯白 + 一枚红圆 + 一行短句）
 - **Title**: 留白即结构
@@ -334,6 +364,9 @@ Catalog read: 71 templates
 
 #### Slide 11 - 输出到现代世界
 
+- **Audience move**: 觉得瑞士风只存在于海报 → 看到它输出到企业 VI 等四个方向
+- **Relationships**: 四个输出方向为 membership;每个方向与案例为 parent;1960s 起点 order
+
 - **Layout**: Four cards
 - **Title**: 输出到现代世界 · 1960s →
 - **Visualization**: icon_grid
@@ -345,6 +378,9 @@ Catalog read: 71 templates
 
 #### Slide 12 - 数字时代的延续
 
+- **Audience move**: 以为网格止于纸面 → 看到 960 Grid 到今天的屏幕网格谱系
+- **Relationships**: 各年份系统为 order(2008 → 今天);每个系统与说明为 parent;栏数 link 于纸面网格
+
 - **Layout**: Top-bottom split（上方四阶段，下方一行论断）
 - **Title**: 数字时代的延续
 - **Visualization**: numbered_steps
@@ -355,6 +391,9 @@ Catalog read: 71 templates
   - 04. Design Systems · 2020s · 大企业 VI 在屏幕上的延续
 
 #### Slide 13 - 当代品牌的瑞士血脉
+
+- **Audience move**: 不知道瑞士血脉在哪 → 在六个当代品牌里认出它
+- **Relationships**: 六个品牌为 membership;每个品牌与继承点为 parent;六者与瑞士网格 link
 
 - **Layout**: Six icon cards 3×2
 - **Title**: 当代品牌的瑞士血脉
@@ -368,6 +407,9 @@ Catalog read: 71 templates
   - Lufthansa · Otl Aicher 1962 VI 至今
 
 #### Slide 14 - 结语
+
+- **Audience move**: 把网格当限制 → 接受“网格是自由的语法”
+- **Relationships**: 中英结语为 parent;“限制”与“自由”为 contrast;结语 link 回 P02 引文
 
 - **Layout**: Full-bleed + floating text（封面回声）
 - **Title**: 网格不是限制

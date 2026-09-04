@@ -13,7 +13,7 @@
 
   <!-- Full-bleed hero image -->
   <g id="hero">
-    <image href="../images/jimbocho_hero.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/jimbocho_hero.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Top scrim for header readability -->

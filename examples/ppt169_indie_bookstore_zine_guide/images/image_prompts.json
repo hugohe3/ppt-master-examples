@@ -11,7 +11,7 @@
   },
   "items": [
     {
-      "filename": "cover_hero.png",
+      "filename": "cover_hero.jpg",
       "purpose": "P01 封面 hero — Risograph 印刷工坊场景",
       "type": "background",
       "page_role": "hero_page",
@@ -23,7 +23,7 @@
       "status": "Generated"
     },
     {
-      "filename": "zine_history_collage.png",
+      "filename": "zine_history_collage.jpg",
       "purpose": "P03 zine 是什么 — 跨年代 zine 堆叠拼贴侧栏",
       "type": "scene",
       "page_role": "local",
@@ -35,7 +35,7 @@
       "status": "Generated"
     },
     {
-      "filename": "risograph_machine.png",
+      "filename": "risograph_machine.jpg",
       "purpose": "P05 Risograph 工艺侧栏图 — 经典 Riso 复印机正三分之一立面",
       "type": "hero",
       "page_role": "local",
@@ -47,7 +47,7 @@
       "status": "Generated"
     },
     {
-      "filename": "risograph_process_banner.png",
+      "filename": "risograph_process_banner.jpg",
       "purpose": "P06 Risograph 工艺横幅 — 5 stage 流程从左到右",
       "type": "flowchart",
       "page_role": "local",
@@ -59,7 +59,7 @@
       "status": "Generated"
     },
     {
-      "filename": "zine_folding_hands.png",
+      "filename": "zine_folding_hands.jpg",
       "purpose": "P07 八页折叠 hero — 双手折 A4，四角留 SVG 注解卡空间",
       "type": "scene",
       "page_role": "local",
@@ -71,7 +71,7 @@
       "status": "Generated"
     },
     {
-      "filename": "jimbocho_hero.png",
+      "filename": "jimbocho_hero.jpg",
       "purpose": "P09 神保町 hero — 东京旧书街夜景",
       "type": "scene",
       "page_role": "hero_page",
@@ -83,7 +83,7 @@
       "status": "Generated"
     },
     {
-      "filename": "three_cities_triptych.png",
+      "filename": "three_cities_triptych.jpg",
       "purpose": "P10 三城三店三联 — 巴黎/伦敦/纽约书店并列 baked-in triptych",
       "type": "scene",
       "page_role": "local",
@@ -95,7 +95,7 @@
       "status": "Generated"
     },
     {
-      "filename": "berlin_bucherbogen.png",
+      "filename": "berlin_bucherbogen.jpg",
       "purpose": "P11 柏林 Bücherbogen hero — S-Bahn 高架桥下拱顶书店内景",
       "type": "scene",
       "page_role": "hero_page",
@@ -107,7 +107,7 @@
       "status": "Generated"
     },
     {
-      "filename": "zine_fair_scene.png",
+      "filename": "zine_fair_scene.jpg",
       "purpose": "P13 中国艺术书展 — 书展摊位现场氛围",
       "type": "scene",
       "page_role": "local",
@@ -119,7 +119,7 @@
       "status": "Generated"
     },
     {
-      "filename": "zine_action_outro.png",
+      "filename": "zine_action_outro.jpg",
       "purpose": "P18 封底 outro hero — 手举一本 zine 朝向观者",
       "type": "hero",
       "page_role": "hero_page",

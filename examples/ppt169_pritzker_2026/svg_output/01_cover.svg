@@ -8,7 +8,7 @@
   </defs>
 
   <g id="bg-image">
-    <image href="../images/ando_h_rooftop.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/ando_h_rooftop.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
     <rect x="0" y="0" width="1280" height="720" fill="url(#coverScrim)"/>
   </g>
 

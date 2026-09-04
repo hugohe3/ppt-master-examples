@@ -14,7 +14,15 @@
   </g>
 
   <g id="quote-body">
-    <text font-size="32" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="320" y="240">The grid system is an aid,</text><text font-size="32" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#1A1A1A" x="320" y="286">not a guarantee.</text><text font-size="22" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="320" y="370">It permits a number of possible uses, and each</text><text font-size="22" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="320" y="400">designer can look for a solution appropriate to</text><text font-size="22" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="320" y="430">his personal style. But one must learn how to</text><text font-size="22" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" fill="#666666" x="320" y="460">use the grid — it is an art that requires practice.</text></g>
+    <text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="32" fill="#1A1A1A" x="320" y="240">
+      <tspan>The grid system is an aid,</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="32" fill="#1A1A1A" x="320" y="286"><tspan>not a guarantee.</tspan>
+    </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="22" fill="#666666" x="320" y="370">
+      <tspan>It permits a number of possible uses, and each</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="22" fill="#666666" x="320" y="400"><tspan>designer can look for a solution appropriate to</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="22" fill="#666666" x="320" y="430"><tspan>his personal style. But one must learn how to</tspan>
+      </text><text font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="22" fill="#666666" x="320" y="460"><tspan>use the grid — it is an art that requires practice.</tspan>
+    </text></g>
 
   <g id="quote-attribution">
     <line x1="320" y1="540" x2="380" y2="540" stroke="#1A1A1A" stroke-width="2" />

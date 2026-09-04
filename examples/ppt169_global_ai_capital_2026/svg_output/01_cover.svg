@@ -9,7 +9,7 @@
 
   <g id="background">
     <rect width="1280" height="720" fill="#0E1116"/>
-    <image href="../images/cover_atmosphere.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/cover_atmosphere.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
     <rect x="0" y="0" width="1280" height="720" fill="url(#cover_scrim)"/>
   </g>
 

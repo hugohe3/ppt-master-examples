@@ -9,7 +9,7 @@
 
 ---
 
-### Image 1: cover_bg.png
+### Image 1: cover_bg.jpg
 
 | Attribute | Value |
 |---|---|
@@ -28,7 +28,7 @@ Modern flat design illustration with bold geometric blocks and confident color z
 
 ---
 
-### Image 2: ch1_what.png
+### Image 2: ch1_what.jpg
 
 | Attribute | Value |
 |---|---|
@@ -47,7 +47,7 @@ Modern flat design illustration with bold geometric blocks and confident color z
 
 ---
 
-### Image 3: ch2_who.png
+### Image 3: ch2_who.jpg
 
 | Attribute | Value |
 |---|---|
@@ -66,7 +66,7 @@ Modern flat design illustration with bold geometric blocks and confident color z
 
 ---
 
-### Image 4: headliners.png
+### Image 4: headliners.jpg
 
 | Attribute | Value |
 |---|---|
@@ -85,7 +85,7 @@ Modern flat design illustration with bold geometric blocks and confident color z
 
 ---
 
-### Image 5: ch3_where.png
+### Image 5: ch3_where.jpg
 
 | Attribute | Value |
 |---|---|
@@ -104,7 +104,7 @@ Modern flat design illustration with bold geometric blocks and confident color z
 
 ---
 
-### Image 6: ch4_vibes.png
+### Image 6: ch4_vibes.jpg
 
 | Attribute | Value |
 |---|---|
@@ -123,7 +123,7 @@ Modern flat design illustration with bold geometric blocks and confident color z
 
 ---
 
-### Image 7: market.png
+### Image 7: market.jpg
 
 | Attribute | Value |
 |---|---|
@@ -142,7 +142,7 @@ Modern flat design illustration with bold geometric blocks and confident color z
 
 ---
 
-### Image 8: installation.png
+### Image 8: installation.jpg
 
 | Attribute | Value |
 |---|---|
@@ -161,7 +161,7 @@ Modern flat design illustration with bold geometric blocks and confident color z
 
 ---
 
-### Image 9: closing.png
+### Image 9: closing.jpg
 
 | Attribute | Value |
 |---|---|

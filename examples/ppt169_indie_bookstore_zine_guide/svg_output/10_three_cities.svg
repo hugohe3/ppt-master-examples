@@ -21,7 +21,7 @@
   <!-- Top triptych banner -->
   <g id="triptych">
     <rect x="58" y="172" width="1164" height="160" fill="#FF5C8A"/>
-    <image href="../images/three_cities_triptych.png" x="60" y="170" width="1160" height="160" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/three_cities_triptych.jpg" x="60" y="170" width="1160" height="160" preserveAspectRatio="xMidYMid slice"/>
     <line x1="60" y1="330" x2="1220" y2="330" stroke="#1A1A1A" stroke-width="3"/>
   </g>
 

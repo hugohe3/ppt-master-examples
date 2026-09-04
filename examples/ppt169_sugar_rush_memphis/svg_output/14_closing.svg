@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
-  <!-- P14 SEE YOU IN SUMMER · anchor · hero_page with closing.png (text embedded in image) -->
+  <!-- P14 SEE YOU IN SUMMER · anchor · hero_page with closing.jpg (text embedded in image) -->
 
   <g id="bg-image">
-    <image href="../images/closing.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../images/closing.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <!-- Bottom-left date pill -->
