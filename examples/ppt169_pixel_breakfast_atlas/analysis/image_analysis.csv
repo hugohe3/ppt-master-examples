@@ -40,11 +40,11 @@ No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSo
 39,scene_signboard.png,608,274,2.22,2.22,,native,PNG,True,1,,bitmap,True,True,168.3,Ultra-wide
 40,scene_stall.png,302,326,0.93,0.93,,native,PNG,True,1,,bitmap,True,True,89.1,Near square
 41,scene_steamcloud.png,714,301,2.37,2.37,,native,PNG,True,1,,bitmap,True,True,226.8,Ultra-wide
-42,sheet_food_a.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,469.7,Near square
-43,sheet_food_b.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,191.7,Near square
-44,sheet_hud.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,177.1,Near square
-45,sheet_letter_marks.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,130.6,Wide landscape
-46,sheet_letter_title.jpg,1920,476,4.03,4.03,,native,JPEG,False,1,,bitmap,True,True,87.6,Ultra-wide
-47,sheet_player.jpg,1920,1434,1.34,1.34,,native,JPEG,False,1,,bitmap,True,True,166.7,Standard landscape
-48,sheet_props.jpg,1920,1288,1.49,1.49,,native,JPEG,False,1,,bitmap,True,True,129.3,Standard landscape
-49,sheet_scene.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,73.8,Wide landscape
+42,sheet_food_a.png,4096,4096,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,13458.0,Near square
+43,sheet_food_b.png,4096,4096,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,12539.0,Near square
+44,sheet_hud.png,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,3254.3,Near square
+45,sheet_letter_marks.png,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,3449.4,Wide landscape
+46,sheet_letter_title.png,4952,1228,4.03,4.03,,native,PNG,False,1,,bitmap,True,True,3320.8,Ultra-wide
+47,sheet_player.png,2400,1792,1.34,1.34,,native,PNG,False,1,,bitmap,True,True,3216.3,Standard landscape
+48,sheet_props.png,2528,1696,1.49,1.49,,native,PNG,False,1,,bitmap,True,True,3335.9,Standard landscape
+49,sheet_scene.png,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,3115.4,Wide landscape

@@ -12,7 +12,7 @@
   },
   "items": [
     {
-      "filename": "sheet_moon.jpg",
+      "filename": "sheet_moon.png",
       "purpose": "Illustration sheet — moon phases and natural chrome elements, sliced into 9 transparent elements",
       "page_role": "local",
       "text_policy": "none",
@@ -25,7 +25,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_legend.jpg",
+      "filename": "sheet_legend.png",
       "purpose": "Illustration sheet — the three Mid-Autumn legends, sliced into 6 transparent elements",
       "page_role": "local",
       "text_policy": "none",
@@ -38,7 +38,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_custom.jpg",
+      "filename": "sheet_custom.png",
       "purpose": "Illustration sheet — four Mid-Autumn custom objects, sliced into 4 transparent elements",
       "page_role": "local",
       "text_policy": "none",
@@ -51,7 +51,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_mooncake.jpg",
+      "filename": "sheet_mooncake.png",
       "purpose": "Illustration sheet — five regional mooncake schools plus a wooden mould, sliced into 6 transparent elements",
       "page_role": "local",
       "text_policy": "none",
@@ -64,7 +64,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_lettering.jpg",
+      "filename": "sheet_lettering.png",
       "purpose": "Decorative lettering sheet — four two-character Chinese marks, sliced into 4 transparent elements",
       "page_role": "local",
       "text_policy": "embedded",
@@ -99,7 +99,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_figures.jpg",
+      "filename": "sheet_figures.png",
       "purpose": "Illustration sheet — two isolated figure elements re-cut without backdrops",
       "page_role": "local",
       "text_policy": "none",

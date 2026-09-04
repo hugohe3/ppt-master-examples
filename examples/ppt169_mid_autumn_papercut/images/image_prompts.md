@@ -10,7 +10,7 @@
 
 ---
 
-### Image 1: sheet_moon.jpg
+### Image 1: sheet_moon.png
 
 | Attribute | Value |
 |---|---|
@@ -32,7 +32,7 @@ CRITICAL BACKGROUND RULE — read this before anything else. The background of t
 
 ---
 
-### Image 2: sheet_legend.jpg
+### Image 2: sheet_legend.png
 
 | Attribute | Value |
 |---|---|
@@ -54,7 +54,7 @@ CRITICAL BACKGROUND RULE — read this before anything else. The background of t
 
 ---
 
-### Image 3: sheet_custom.jpg
+### Image 3: sheet_custom.png
 
 | Attribute | Value |
 |---|---|
@@ -76,7 +76,7 @@ CRITICAL BACKGROUND RULE — read this before anything else. Every pixel that is
 
 ---
 
-### Image 4: sheet_mooncake.jpg
+### Image 4: sheet_mooncake.png
 
 | Attribute | Value |
 |---|---|
@@ -98,7 +98,7 @@ CRITICAL BACKGROUND RULE — read this before anything else. The background of t
 
 ---
 
-### Image 5: sheet_lettering.jpg
+### Image 5: sheet_lettering.png
 
 | Attribute | Value |
 |---|---|
@@ -160,7 +160,7 @@ Layered paper-cut craft aesthetic. Every form is built as if cut from sheets of 
 
 ---
 
-### Image 8: sheet_figures.jpg
+### Image 8: sheet_figures.png
 
 | Attribute | Value |
 |---|---|

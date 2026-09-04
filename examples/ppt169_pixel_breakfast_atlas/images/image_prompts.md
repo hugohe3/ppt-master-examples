@@ -10,7 +10,7 @@
 
 ---
 
-### Image 1: sheet_food_a.jpg
+### Image 1: sheet_food_a.png
 
 | Attribute | Value |
 |---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-### Image 2: sheet_food_b.jpg
+### Image 2: sheet_food_b.png
 
 | Attribute | Value |
 |---|---|
@@ -54,7 +54,7 @@
 
 ---
 
-### Image 3: sheet_props.jpg
+### Image 3: sheet_props.png
 
 | Attribute | Value |
 |---|---|
@@ -76,7 +76,7 @@
 
 ---
 
-### Image 4: sheet_hud.jpg
+### Image 4: sheet_hud.png
 
 | Attribute | Value |
 |---|---|
@@ -98,7 +98,7 @@
 
 ---
 
-### Image 5: sheet_scene.jpg
+### Image 5: sheet_scene.png
 
 | Attribute | Value |
 |---|---|
@@ -120,7 +120,7 @@
 
 ---
 
-### Image 6: sheet_player.jpg
+### Image 6: sheet_player.png
 
 | Attribute | Value |
 |---|---|
@@ -142,7 +142,7 @@
 
 ---
 
-### Image 7: sheet_letter_title.jpg
+### Image 7: sheet_letter_title.png
 
 | Attribute | Value |
 |---|---|
@@ -164,7 +164,7 @@
 
 ---
 
-### Image 8: sheet_letter_marks.jpg
+### Image 8: sheet_letter_marks.png
 
 | Attribute | Value |
 |---|---|

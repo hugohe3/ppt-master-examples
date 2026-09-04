@@ -139,45 +139,45 @@
 
 | Filename | Dimensions | Ratio | Purpose | Type | Image pattern | Crop Policy | Acquire Via | Status | Reference | text_policy | page_role |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sheet_moon.jpg | 2048×2048 | 1:1 | 月相与自然构件的剪纸元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 六种月相 + 云带 + 桂枝 + 远山脊，3×3 方形格，用于跨页连续状态与前中后三层纸 | none | local |
-| sheet_legend.jpg | 2528×1696 | 12:8 | 三则传说的人物与器物元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 嫦娥、吴刚、桂树、玉兔、蟾蜍、药壶，2×3 方形格 | none | local |
-| sheet_custom.jpg | 2048×2048 | 1:1 | 中秋习俗器物构件母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 火龙、烧塔、竖中秋灯杆、博饼骰碗，2×2 方形格 | none | local |
-| sheet_figures.jpg | 2048×2048 | 1:1 | 人物形构件母版（与器物分卷，形态族不同） | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 兔儿爷、走月行人，1×2 竖形格 | none | local |
-| sheet_mooncake.jpg | 2528×1696 | 12:8 | 五派月饼与饼模的对照元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | illustrated-icon set: 广苏京潮滇五式月饼各一 + 木质饼模，2×3 方形格，需在 180px 尺度下仍能区分饼皮特征 | none | local |
-| sheet_lettering.jpg | 2048×2048 | 1:1 | 四枚剪纸美术字 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | decorative lettering set: exact strings = 中秋 / 月夕 / 月饼 / 团圆，每格一枚竖排双字，2×2 方形格 | embedded | local |
+| sheet_moon.png | 2048×2048 | 1:1 | 月相与自然构件的剪纸元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 六种月相 + 云带 + 桂枝 + 远山脊，3×3 方形格，用于跨页连续状态与前中后三层纸 | none | local |
+| sheet_legend.png | 2528×1696 | 12:8 | 三则传说的人物与器物元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 嫦娥、吴刚、桂树、玉兔、蟾蜍、药壶，2×3 方形格 | none | local |
+| sheet_custom.png | 2048×2048 | 1:1 | 中秋习俗器物构件母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 火龙、烧塔、竖中秋灯杆、博饼骰碗，2×2 方形格 | none | local |
+| sheet_figures.png | 2048×2048 | 1:1 | 人物形构件母版（与器物分卷，形态族不同） | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | reusable illustration family: 兔儿爷、走月行人，1×2 竖形格 | none | local |
+| sheet_mooncake.png | 2528×1696 | 12:8 | 五派月饼与饼模的对照元素母版 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | illustrated-icon set: 广苏京潮滇五式月饼各一 + 木质饼模，2×3 方形格，需在 180px 尺度下仍能区分饼皮特征 | none | local |
+| sheet_lettering.png | 2048×2048 | 1:1 | 四枚剪纸美术字 | Illustration Sheet | 母版不上页 | no-crop | ai | Generated | decorative lettering set: exact strings = 中秋 / 月夕 / 月饼 / 团圆，每格一枚竖排双字，2×2 方形格 | embedded | local |
 | cover_night_field.jpg | 2752×1536 | 18:10 | 封面整幅夜景底纸（干净全画布底层） | Scene | 满版铺底，标题与剪纸构件叠在其上；底层不含主体，主体由透明切片承担 | no-crop | ai | Generated | 层叠剪纸的夜海与远岸：底部两三层波形纸构成海面，上方大片空夜，右下留出安放月牙的空区，左上三分之一保持低密度以承载竖排标题 | none | hero_page |
 | kaifeng_night_market.jpg | 2752×1536 | 18:10 | P05 北宋开封中秋夜市的整幅场景 | Scene | 满版页面场，压暗层后承载文字；右侧三分之一留安静区 | no-crop | ai | Generated | 层叠剪纸的宋代城市夜市：酒楼台榭剪影、彩楼欢门、密集的灯与人形剪影自下而上堆叠三层，右上留出被云半掩的月位 | none | hero_page |
-| moon_full.png | 495×500 | 10:10 | 满月 — 连续状态的终点 | Illustration element | 大剪圆锚定画面，可被文字压边或出血 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 1 行第 1 格切出 | none | local |
-| moon_gibbous.png | 490×492 | 10:10 | 盈凸月 — 换幕点的状态 | Illustration element | 小剪圆置于页角，随幕次改变位置 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 1 行第 2 格切出 | none | local |
-| moon_half.png | 254×500 | 10:20 | 上弦月 — 用作模切窗口 | Illustration element | 作为剪出的圆形窗口，露出下层纸与文字 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 1 行第 3 格切出 | none | local |
-| moon_crescent.png | 426×508 | 16:19 | 细牙月 — 连续状态的起点 | Illustration element | 封面右下低位，小而偏，留出上升空间 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 2 行第 1 格切出 | none | local |
-| moon_veiled.png | 653×464 | 24:17 | 被云半掩的月 | Illustration element | 与云带叠压，作夜市页右上角的呼吸口 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 2 行第 2 格切出 | none | local |
-| moon_reflection.png | 490×490 | 1:1 | 水面月影 | Illustration element | 置于页面下缘并被波形纸压住一半，暗示泛舟与照无眠 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 2 行第 3 格切出 | none | local |
-| cloud_band.png | 647×275 | 14:6 | 祥云带 — 中景纸层 | Illustration element | 横向掠过页面，压在月与文字之间建立中景 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 3 行第 1 格切出 | none | local |
-| osmanthus_sprig.png | 483×500 | 23:24 | 桂枝 — 角部构件 | Illustration element | 自页角斜出，可出血，跨页改变角度与尺度 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 3 行第 2 格切出 | none | local |
-| mountain_ridge.png | 621×191 | 13:4 | 远山脊 — 背景纸层 | Illustration element | 贴页面下缘的最底一层剪纸，建立地平线 | no-crop | slice | Generated | 由 sheet_moon.jpg 第 3 行第 3 格切出 | none | local |
-| change_e.png | 755×633 | 19:16 | 嫦娥奔月剪影 | Illustration element | 主体人物，可被标题压边，形成前景层 | no-crop | slice | Generated | 由 sheet_legend.jpg 第 1 行第 1 格切出 | none | local |
-| wu_gang.png | 393×706 | 10:18 | 吴刚伐桂剪影 | Illustration element | 与桂树成对放置，体现「树创随合」的循环 | no-crop | slice | Generated | 由 sheet_legend.jpg 第 1 行第 2 格切出 | none | local |
-| osmanthus_tree.png | 704×623 | 17:15 | 月中桂树 | Illustration element | 与吴刚同页，作为被砍与复合的对象 | no-crop | slice | Generated | 由 sheet_legend.jpg 第 1 行第 3 格切出 | none | local |
-| jade_rabbit.png | 524×605 | 13:15 | 玉兔捣药 | Illustration element | 长跪姿态，置于月轮之内或之侧 | no-crop | slice | Generated | 由 sheet_legend.jpg 第 2 行第 1 格切出 | none | local |
-| toad.png | 579×481 | 12:10 | 蟾蜍 | Illustration element | 小件，与嫦娥并置以标出「化蟾」这一后加层 | no-crop | slice | Generated | 由 sheet_legend.jpg 第 2 行第 2 格切出 | none | local |
-| elixir_jar.png | 408×508 | 12:15 | 不死药壶 | Illustration element | 小件，作为叙述起点的物证 | no-crop | slice | Generated | 由 sheet_legend.jpg 第 2 行第 3 格切出 | none | local |
-| fire_dragon.png | 797×912 | 14:16 | 大坑舞火龙 | Illustration element | 习俗页最大的一件，斜向贯穿并可出血 | no-crop | slice | Generated | 由 sheet_custom.jpg 第 1 行第 1 格切出 | none | local |
-| lantern_tower.png | 624×912 | 13:19 | 烧塔 / 瓦子灯 | Illustration element | 与火龙成组，尺度小一档 | no-crop | slice | Generated | 由 sheet_custom.jpg 第 1 行第 2 格切出 | none | local |
-| lantern_pole.png | 376×932 | 2:5 | 树中秋彩灯高杆 | Illustration element | 竖向构件，用于打断横向节奏 | no-crop | slice | Generated | 由 sheet_custom.jpg 第 2 行第 1 格切出 | none | local |
-| dice_bowl.png | 821×636 | 22:17 | 博饼骰碗 | Illustration element | 俯视小件，作为「玩法」一节的语义提示 | no-crop | slice | Generated | 由 sheet_custom.jpg 第 2 行第 2 格切出 | none | local |
-| rabbit_lord.png | 891×1755 | 10:20 | 兔儿爷泥塑 | Illustration element | 名录页的单一主角，正面端坐 | no-crop | slice | Generated | 由 sheet_figures.jpg 第 1 格切出 | none | local |
-| walking_pair.png | 934×1678 | 10:18 | 走月的一对行人 | Illustration element | 小尺度人形剪影，跨页复用于临安与习俗两页 | no-crop | slice | Generated | 由 sheet_figures.jpg 第 2 格切出 | none | local |
-| cake_guang.png | 611×635 | 23:24 | 广式月饼 | Illustrated icon | 与表格首列对齐的行标识，不进容器 | no-crop | slice | Generated | 由 sheet_mooncake.jpg 第 1 行第 1 格切出 | none | local |
-| cake_su.png | 629×503 | 10:8 | 苏式月饼 | Illustrated icon | 同上；另在 P08 放大作为「南宋点心」的物证 | no-crop | slice | Generated | 由 sheet_mooncake.jpg 第 1 行第 2 格切出 | none | local |
-| cake_jing.png | 602×592 | 10:10 | 京式月饼 | Illustrated icon | 同上；另在 P08 放大作为「明代馈赠」的物证 | no-crop | slice | Generated | 由 sheet_mooncake.jpg 第 1 行第 3 格切出 | none | local |
-| cake_chao.png | 599×604 | 10:10 | 潮式月饼 | Illustrated icon | 与表格首列对齐的行标识 | no-crop | slice | Generated | 由 sheet_mooncake.jpg 第 2 行第 1 格切出 | none | local |
-| cake_dian.png | 633×504 | 10:8 | 滇式月饼 | Illustrated icon | 与表格首列对齐的行标识 | no-crop | slice | Generated | 由 sheet_mooncake.jpg 第 2 行第 2 格切出 | none | local |
-| cake_mold.png | 678×638 | 17:16 | 木质月饼模子 | Illustration element | 章页与转折页的主物件，可大幅出血 | no-crop | slice | Generated | 由 sheet_mooncake.jpg 第 2 行第 3 格切出 | none | local |
-| letter_zhongqiu.png | 874×615 | 17:12 | 剪纸美术字「中秋」 | Decorative lettering | 封面显示层，与原生标题分置两处 | no-crop | slice | Generated | 由 sheet_lettering.jpg 第 1 行第 1 格切出；原生标题另行保留 | embedded | local |
-| letter_yuexi.png | 845×620 | 15:11 | 剪纸美术字「月夕」 | Decorative lettering | 第一幕章页的幕标 | no-crop | slice | Generated | 由 sheet_lettering.jpg 第 1 行第 2 格切出；章名另有原生文字 | embedded | local |
-| letter_yuebing.png | 871×614 | 17:12 | 剪纸美术字「月饼」 | Decorative lettering | 第二幕章页的幕标 | no-crop | slice | Generated | 由 sheet_lettering.jpg 第 2 行第 1 格切出；章名另有原生文字 | embedded | local |
-| letter_tuanyuan.png | 855×606 | 24:17 | 剪纸美术字「团圆」 | Decorative lettering | 末页的收束标记 | no-crop | slice | Generated | 由 sheet_lettering.jpg 第 2 行第 2 格切出；结语另有原生文字 | embedded | local |
+| moon_full.png | 495×500 | 10:10 | 满月 — 连续状态的终点 | Illustration element | 大剪圆锚定画面，可被文字压边或出血 | no-crop | slice | Generated | 由 sheet_moon.png 第 1 行第 1 格切出 | none | local |
+| moon_gibbous.png | 490×492 | 10:10 | 盈凸月 — 换幕点的状态 | Illustration element | 小剪圆置于页角，随幕次改变位置 | no-crop | slice | Generated | 由 sheet_moon.png 第 1 行第 2 格切出 | none | local |
+| moon_half.png | 254×500 | 10:20 | 上弦月 — 用作模切窗口 | Illustration element | 作为剪出的圆形窗口，露出下层纸与文字 | no-crop | slice | Generated | 由 sheet_moon.png 第 1 行第 3 格切出 | none | local |
+| moon_crescent.png | 426×508 | 16:19 | 细牙月 — 连续状态的起点 | Illustration element | 封面右下低位，小而偏，留出上升空间 | no-crop | slice | Generated | 由 sheet_moon.png 第 2 行第 1 格切出 | none | local |
+| moon_veiled.png | 653×464 | 24:17 | 被云半掩的月 | Illustration element | 与云带叠压，作夜市页右上角的呼吸口 | no-crop | slice | Generated | 由 sheet_moon.png 第 2 行第 2 格切出 | none | local |
+| moon_reflection.png | 490×490 | 1:1 | 水面月影 | Illustration element | 置于页面下缘并被波形纸压住一半，暗示泛舟与照无眠 | no-crop | slice | Generated | 由 sheet_moon.png 第 2 行第 3 格切出 | none | local |
+| cloud_band.png | 647×275 | 14:6 | 祥云带 — 中景纸层 | Illustration element | 横向掠过页面，压在月与文字之间建立中景 | no-crop | slice | Generated | 由 sheet_moon.png 第 3 行第 1 格切出 | none | local |
+| osmanthus_sprig.png | 483×500 | 23:24 | 桂枝 — 角部构件 | Illustration element | 自页角斜出，可出血，跨页改变角度与尺度 | no-crop | slice | Generated | 由 sheet_moon.png 第 3 行第 2 格切出 | none | local |
+| mountain_ridge.png | 621×191 | 13:4 | 远山脊 — 背景纸层 | Illustration element | 贴页面下缘的最底一层剪纸，建立地平线 | no-crop | slice | Generated | 由 sheet_moon.png 第 3 行第 3 格切出 | none | local |
+| change_e.png | 755×633 | 19:16 | 嫦娥奔月剪影 | Illustration element | 主体人物，可被标题压边，形成前景层 | no-crop | slice | Generated | 由 sheet_legend.png 第 1 行第 1 格切出 | none | local |
+| wu_gang.png | 393×706 | 10:18 | 吴刚伐桂剪影 | Illustration element | 与桂树成对放置，体现「树创随合」的循环 | no-crop | slice | Generated | 由 sheet_legend.png 第 1 行第 2 格切出 | none | local |
+| osmanthus_tree.png | 704×623 | 17:15 | 月中桂树 | Illustration element | 与吴刚同页，作为被砍与复合的对象 | no-crop | slice | Generated | 由 sheet_legend.png 第 1 行第 3 格切出 | none | local |
+| jade_rabbit.png | 524×605 | 13:15 | 玉兔捣药 | Illustration element | 长跪姿态，置于月轮之内或之侧 | no-crop | slice | Generated | 由 sheet_legend.png 第 2 行第 1 格切出 | none | local |
+| toad.png | 579×481 | 12:10 | 蟾蜍 | Illustration element | 小件，与嫦娥并置以标出「化蟾」这一后加层 | no-crop | slice | Generated | 由 sheet_legend.png 第 2 行第 2 格切出 | none | local |
+| elixir_jar.png | 408×508 | 12:15 | 不死药壶 | Illustration element | 小件，作为叙述起点的物证 | no-crop | slice | Generated | 由 sheet_legend.png 第 2 行第 3 格切出 | none | local |
+| fire_dragon.png | 797×912 | 14:16 | 大坑舞火龙 | Illustration element | 习俗页最大的一件，斜向贯穿并可出血 | no-crop | slice | Generated | 由 sheet_custom.png 第 1 行第 1 格切出 | none | local |
+| lantern_tower.png | 624×912 | 13:19 | 烧塔 / 瓦子灯 | Illustration element | 与火龙成组，尺度小一档 | no-crop | slice | Generated | 由 sheet_custom.png 第 1 行第 2 格切出 | none | local |
+| lantern_pole.png | 376×932 | 2:5 | 树中秋彩灯高杆 | Illustration element | 竖向构件，用于打断横向节奏 | no-crop | slice | Generated | 由 sheet_custom.png 第 2 行第 1 格切出 | none | local |
+| dice_bowl.png | 821×636 | 22:17 | 博饼骰碗 | Illustration element | 俯视小件，作为「玩法」一节的语义提示 | no-crop | slice | Generated | 由 sheet_custom.png 第 2 行第 2 格切出 | none | local |
+| rabbit_lord.png | 891×1755 | 10:20 | 兔儿爷泥塑 | Illustration element | 名录页的单一主角，正面端坐 | no-crop | slice | Generated | 由 sheet_figures.png 第 1 格切出 | none | local |
+| walking_pair.png | 934×1678 | 10:18 | 走月的一对行人 | Illustration element | 小尺度人形剪影，跨页复用于临安与习俗两页 | no-crop | slice | Generated | 由 sheet_figures.png 第 2 格切出 | none | local |
+| cake_guang.png | 611×635 | 23:24 | 广式月饼 | Illustrated icon | 与表格首列对齐的行标识，不进容器 | no-crop | slice | Generated | 由 sheet_mooncake.png 第 1 行第 1 格切出 | none | local |
+| cake_su.png | 629×503 | 10:8 | 苏式月饼 | Illustrated icon | 同上；另在 P08 放大作为「南宋点心」的物证 | no-crop | slice | Generated | 由 sheet_mooncake.png 第 1 行第 2 格切出 | none | local |
+| cake_jing.png | 602×592 | 10:10 | 京式月饼 | Illustrated icon | 同上；另在 P08 放大作为「明代馈赠」的物证 | no-crop | slice | Generated | 由 sheet_mooncake.png 第 1 行第 3 格切出 | none | local |
+| cake_chao.png | 599×604 | 10:10 | 潮式月饼 | Illustrated icon | 与表格首列对齐的行标识 | no-crop | slice | Generated | 由 sheet_mooncake.png 第 2 行第 1 格切出 | none | local |
+| cake_dian.png | 633×504 | 10:8 | 滇式月饼 | Illustrated icon | 与表格首列对齐的行标识 | no-crop | slice | Generated | 由 sheet_mooncake.png 第 2 行第 2 格切出 | none | local |
+| cake_mold.png | 678×638 | 17:16 | 木质月饼模子 | Illustration element | 章页与转折页的主物件，可大幅出血 | no-crop | slice | Generated | 由 sheet_mooncake.png 第 2 行第 3 格切出 | none | local |
+| letter_zhongqiu.png | 874×615 | 17:12 | 剪纸美术字「中秋」 | Decorative lettering | 封面显示层，与原生标题分置两处 | no-crop | slice | Generated | 由 sheet_lettering.png 第 1 行第 1 格切出；原生标题另行保留 | embedded | local |
+| letter_yuexi.png | 845×620 | 15:11 | 剪纸美术字「月夕」 | Decorative lettering | 第一幕章页的幕标 | no-crop | slice | Generated | 由 sheet_lettering.png 第 1 行第 2 格切出；章名另有原生文字 | embedded | local |
+| letter_yuebing.png | 871×614 | 17:12 | 剪纸美术字「月饼」 | Decorative lettering | 第二幕章页的幕标 | no-crop | slice | Generated | 由 sheet_lettering.png 第 2 行第 1 格切出；章名另有原生文字 | embedded | local |
+| letter_tuanyuan.png | 855×606 | 24:17 | 剪纸美术字「团圆」 | Decorative lettering | 末页的收束标记 | no-crop | slice | Generated | 由 sheet_lettering.png 第 2 行第 2 格切出；结语另有原生文字 | embedded | local |
 | cover_night_field_dawn.jpg | 1600×893 | 18:10 | 末页的同场景低能量变体 | Derivative | 满版铺底，比封面暗一档、偏金，作为首尾呼应的同一片海 | no-crop | ai | Generated | Derived from cover_night_field.jpg; treatment=duotone+brightness | none | local |
 | mooncake_mold_wash.png | 678×638 | 17:16 | 表格页背后的超大低对比纹样 | Derivative | 放大出血的背景纹样，压在表格之下不与文字争对比 | no-crop | ai | Generated | Derived from cake_mold.png; treatment=grayscale+brightness+fit | none | local |
 | changee_flight_scrim.png | 755×633 | 19:16 | 嫦娥页的远层虚影 | Derivative | 同一主体的远层：巨大、低对比，与前景清晰切片形成注册深度 | no-crop | ai | Generated | Derived from change_e.png; treatment=desaturate+brightness | none | local |

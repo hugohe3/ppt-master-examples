@@ -141,14 +141,14 @@
 
 | Filename | Dimensions | Ratio | Purpose | Type | Image pattern | Crop Policy | Acquire Via | Status | Reference | text_policy | page_role |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sheet_food_a.jpg | 4096x4096 | 1:1 | 食物 sprite 元素表 A（9 格） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 可组合像素食物族群第一批：豆汁焦圈、煎饼馃子、上海四大金刚、热干面、肠粉、长沙米粉、重庆小面、肉夹馍、兰州牛肉面；3x3 方格，每格一件，纯键 #00FF00 | none | local |
-| sheet_food_b.jpg | 4096x4096 | 1:1 | 食物 sprite 元素表 B（4 格） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 可组合像素食物族群第二批：小锅米线、烤包子、咸奶茶、豆腐脑；2x2 方格，每格一件，纯键 #00FF00 | none | local |
-| sheet_props.jpg | 2528x1696 | 1.49:1 | 餐具与器皿配件表（6 格） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 与食物同族的配件：碗、筷子、蒸笼、纸杯、红铜小锅、勺；2x3 方格（方形格），纯键 #00FF00 | none | local |
-| sheet_hud.jpg | 2048x2048 | 1:1 | HUD 与属性图元表（9 格） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 图鉴 HUD 图元：辣椒、硬币、时钟、饭碗、蒸汽块、星标、瓷砖块、角括号、心形；3x3 方格，小尺寸仍可辨，纯键 #00FF00 | none | local |
-| sheet_scene.jpg | 2752x1536 | 1.79:1 | 环境元素表（4 格横向） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 早市环境：推车摊位、招牌灯箱、宽蒸汽云、瓷砖地带条；2x2 横向格，纯键 #00FF00 | none | local |
-| sheet_player.jpg | 2400x1792 | 1.34:1 | 玩家小人多姿态表（6 格竖向） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 同一"玩家"像素小人的六种姿态：站、走、端碗、吃、欢呼、蹲坐；2x3 竖向格，同一身高与配色，纯键 #00FF00 | none | local |
-| sheet_letter_title.jpg | 4952x1228 | 4.03:1 | 封面主标题题字 | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 单件像素风中文题字，字符串「中国早餐图鉴」，1x1，纯键 #00FF00 | embedded | local |
-| sheet_letter_marks.jpg | 2752x1536 | 1.79:1 | 小题字两件 | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 像素风中文小题字，字符串「开吃！」与「图鉴完成」，2x1 宽格，纯键 #00FF00 | embedded | local |
+| sheet_food_a.png | 4096x4096 | 1:1 | 食物 sprite 元素表 A（9 格） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 可组合像素食物族群第一批：豆汁焦圈、煎饼馃子、上海四大金刚、热干面、肠粉、长沙米粉、重庆小面、肉夹馍、兰州牛肉面；3x3 方格，每格一件，纯键 #00FF00 | none | local |
+| sheet_food_b.png | 4096x4096 | 1:1 | 食物 sprite 元素表 B（4 格） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 可组合像素食物族群第二批：小锅米线、烤包子、咸奶茶、豆腐脑；2x2 方格，每格一件，纯键 #00FF00 | none | local |
+| sheet_props.png | 2528x1696 | 1.49:1 | 餐具与器皿配件表（6 格） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 与食物同族的配件：碗、筷子、蒸笼、纸杯、红铜小锅、勺；2x3 方格（方形格），纯键 #00FF00 | none | local |
+| sheet_hud.png | 2048x2048 | 1:1 | HUD 与属性图元表（9 格） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 图鉴 HUD 图元：辣椒、硬币、时钟、饭碗、蒸汽块、星标、瓷砖块、角括号、心形；3x3 方格，小尺寸仍可辨，纯键 #00FF00 | none | local |
+| sheet_scene.png | 2752x1536 | 1.79:1 | 环境元素表（4 格横向） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 早市环境：推车摊位、招牌灯箱、宽蒸汽云、瓷砖地带条；2x2 横向格，纯键 #00FF00 | none | local |
+| sheet_player.png | 2400x1792 | 1.34:1 | 玩家小人多姿态表（6 格竖向） | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 同一"玩家"像素小人的六种姿态：站、走、端碗、吃、欢呼、蹲坐；2x3 竖向格，同一身高与配色，纯键 #00FF00 | none | local |
+| sheet_letter_title.png | 4952x1228 | 4.03:1 | 封面主标题题字 | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 单件像素风中文题字，字符串「中国早餐图鉴」，1x1，纯键 #00FF00 | embedded | local |
+| sheet_letter_marks.png | 2752x1536 | 1.79:1 | 小题字两件 | Illustration Sheet | 生成源，不上页 | no-crop | ai | Generated | 像素风中文小题字，字符串「开吃！」与「图鉴完成」，2x1 宽格，纯键 #00FF00 | embedded | local |
 | dish_doujiao.png | 1090x1110 | 0.98:1 | No.01 豆汁焦圈主体 sprite | Illustration element | 左区大 sprite 压场，四周留白，不进容器 | no-crop | slice | Generated | 取自 sheet_food_a 第 1 格 | none | local |
 | dish_jianbing.png | 1233x987 | 1.25:1 | No.02 煎饼馃子主体 sprite | Illustration element | 左区大 sprite 压场，四周留白 | no-crop | slice | Generated | 取自 sheet_food_a 第 2 格 | none | local |
 | dish_sidajingang.png | 1254x1212 | 1.03:1 | No.03 上海四大金刚主体 sprite | Illustration element | 左区大 sprite 压场，四件并排成一组 | no-crop | slice | Generated | 取自 sheet_food_a 第 3 格 | none | local |

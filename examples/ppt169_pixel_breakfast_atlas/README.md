@@ -13,7 +13,7 @@
 
 - `svg_output/`: authored SVG slides (native-export source)
 - `svg_final/`: self-contained preview SVGs (images embedded; rendered by the gallery viewer)
-- `images/`: slide images compressed for distribution — sprites as PNG with alpha fitted to twice their rendered size (256 px floor), generation sheets as JPEG; `image_prompts.json` records every generation request
+- `images/`: slide images compressed for distribution — sprites as PNG with alpha fitted to twice their rendered size (256 px floor), the original key-colour generation sheets kept as PNG so they can be re-sliced; `image_prompts.json` records every generation request
 - `sounds/`: the three sound cues referenced by `animations.json`
 - `notes/`: speaker notes
 - `sources/`: topic-research brief and fact provenance

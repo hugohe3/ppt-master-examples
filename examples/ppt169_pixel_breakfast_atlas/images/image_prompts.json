@@ -12,7 +12,7 @@
   },
   "items": [
     {
-      "filename": "sheet_food_a.jpg",
+      "filename": "sheet_food_a.png",
       "purpose": "Food sprite element sheet A (Slides 03-11)",
       "page_role": "local",
       "text_policy": "none",
@@ -25,7 +25,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_food_b.jpg",
+      "filename": "sheet_food_b.png",
       "purpose": "Food sprite element sheet B (Slides 12-14)",
       "page_role": "local",
       "text_policy": "none",
@@ -38,7 +38,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_props.jpg",
+      "filename": "sheet_props.png",
       "purpose": "Tableware and vessel prop sheet (Slides 02,05,07,12,14)",
       "page_role": "local",
       "text_policy": "none",
@@ -51,7 +51,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_hud.jpg",
+      "filename": "sheet_hud.png",
       "purpose": "HUD and attribute glyph sheet (all entry slides)",
       "page_role": "local",
       "text_policy": "none",
@@ -64,7 +64,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_scene.jpg",
+      "filename": "sheet_scene.png",
       "purpose": "Environment element sheet (Slides 01,02,16)",
       "page_role": "local",
       "text_policy": "none",
@@ -77,7 +77,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_player.jpg",
+      "filename": "sheet_player.png",
       "purpose": "Player character pose sheet (Slides 01,02,07,08,14,16)",
       "page_role": "local",
       "text_policy": "none",
@@ -90,7 +90,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_letter_title.jpg",
+      "filename": "sheet_letter_title.png",
       "purpose": "Cover decorative lettering (Slide 01)",
       "page_role": "local",
       "text_policy": "embedded",
@@ -103,7 +103,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_letter_marks.jpg",
+      "filename": "sheet_letter_marks.png",
       "purpose": "Small decorative lettering marks (Slides 02,16)",
       "page_role": "local",
       "text_policy": "embedded",
