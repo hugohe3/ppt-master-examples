@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+  </defs>
+
+  <rect id="p04-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <image id="p04-sun" data-pptx-role="decoration" href="../images/deco_sun.png" x="720" y="100" width="260" height="260" preserveAspectRatio="xMidYMid meet"/>
+
+  <g id="p04-ground-plane" data-pptx-role="decoration" data-pptx-bounds="0 590 1080 110">
+    <g id="p04-ground" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="0 590 1080 110" data-pptx-av-adj="val 9000" fill="#E3CFA4" stroke="none">
+<path d="M 0 700 L 9.9 590 L 1070.1 590 L 1080 700 Z"/>
+</g>
+  </g>
+
+  <g id="p04-word" data-pptx-bounds="74 126 320 312">
+    <image href="../images/word_guangming.png" x="78" y="130" width="300" height="221" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="415" font-family="SimHei" font-size="54" fill="#B3402F">光明冰砖</text>
+  </g>
+
+  <g id="p04-year" text-anchor="end" data-pptx-bounds="796 78 216 150">
+    <text x="1008" y="104" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="1008" y="190" font-family="SimHei" font-size="88" fill="#B3402F">1950</text>
+  </g>
+
+  <g id="p04-good" data-pptx-bounds="536 271 285 388">
+    <image href="../images/good_icebrick.png" x="540" y="275" width="277" height="380" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p04-number-badge" data-pptx-bounds="880 520 100 100">
+    <circle cx="930" cy="570" r="46" fill="#B3402F"/>
+    <text x="930" y="584" font-family="SimHei" font-size="38" text-anchor="middle" fill="#F4E7CE">03</text>
+  </g>
+
+  <g id="p04-facts" data-pptx-bounds="72 696 936 368">
+    <use data-icon="chunk-filled/calendar" x="84" y="700" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="726" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="196" y="726" font-size="30" fill="#2A2420">1950 年 5 月「光明」牌冷饮推出<tspan x="196" dy="44">前身可溯至 1913 年创办的美商海宁洋行</tspan></text>
+
+    <use data-icon="chunk-filled/factory" x="84" y="808" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="834" font-size="22" fill="#6B5C4A">产地</text>
+    <text x="196" y="834" font-size="30" fill="#2A2420">上海 · 益民食品一厂（1953 年定名）</text>
+
+    <use data-icon="chunk-filled/fire" x="84" y="872" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="898" font-size="22" fill="#6B5C4A">当年</text>
+    <text x="196" y="898" font-size="30" fill="#2A2420">小中大三种规格分别卖 1 角 9 分、4 角 2 分和 7 角<tspan x="196" dy="44">此后<tspan fill="#B3402F" font-weight="bold">十七年没有涨过价</tspan></tspan></text>
+
+    <use data-icon="chunk-filled/shop" x="84" y="980" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="1006" font-size="22" fill="#6B5C4A">今天</text>
+    <text x="196" y="1006" font-size="30" fill="#2A2420">2018 年因「难买到」重新走红<tspan x="196" dy="44">同年光明乳业 1.43 亿元收购益民一厂</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,449 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.4
+    },
+    "animation": {
+      "duration": 0.5,
+      "stagger": 0.35,
+      "trigger": "after-previous"
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "p01-sun-disc": {
+          "effect": "entrance_wheel",
+          "order": 1,
+          "duration": 0.7
+        },
+        "p01-timeline": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.7
+        },
+        "p01-word": {
+          "effect": "entrance_rise_up",
+          "order": 3,
+          "duration": 0.6
+        },
+        "p01-title": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5
+        },
+        "p01-stamp": {
+          "effect": "entrance_zoom",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    },
+    "02_huili": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "01_cover",
+        "pairs": {
+          "sun-disc": {
+            "from": "p01-sun-disc",
+            "to": "p02-sun-disc"
+          }
+        }
+      },
+      "groups": {
+        "p02-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p02-year": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p02-good": {
+          "effect": "entrance_float",
+          "order": 3,
+          "duration": 0.7
+        },
+        "p02-number-badge": {
+          "effect": "entrance_zoom",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p02-facts": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.8
+        }
+      }
+    },
+    "03_yongjiu": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "02_huili",
+        "pairs": {
+          "number-badge": {
+            "from": "p02-number-badge",
+            "to": "p03-number-badge"
+          }
+        }
+      },
+      "groups": {
+        "p03-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p03-year": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p03-good": {
+          "effect": "entrance_fly",
+          "order": 3,
+          "duration": 0.7
+        },
+        "p03-facts": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.8
+        }
+      }
+    },
+    "04_guangming": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "03_yongjiu",
+        "pairs": {
+          "number-badge": {
+            "from": "p03-number-badge",
+            "to": "p04-number-badge"
+          }
+        }
+      },
+      "groups": {
+        "p04-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p04-year": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p04-good": {
+          "effect": "entrance_float",
+          "order": 3,
+          "duration": 0.7
+        },
+        "p04-facts": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.8
+        }
+      }
+    },
+    "05_shanghai": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "04_guangming",
+        "pairs": {
+          "number-badge": {
+            "from": "p04-number-badge",
+            "to": "p05-number-badge"
+          }
+        }
+      },
+      "groups": {
+        "p05-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p05-year": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p05-good": {
+          "effect": "entrance_grow_and_turn",
+          "order": 3,
+          "duration": 0.7
+        },
+        "p05-facts": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.8
+        }
+      }
+    },
+    "06_dabaitu": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "05_shanghai",
+        "pairs": {
+          "number-badge": {
+            "from": "p05-number-badge",
+            "to": "p06-number-badge"
+          }
+        }
+      },
+      "groups": {
+        "p06-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p06-year": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p06-good": {
+          "effect": "entrance_float",
+          "order": 3,
+          "duration": 0.7
+        },
+        "p06-facts": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.8
+        }
+      }
+    },
+    "07_yingxiong": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "06_dabaitu",
+        "pairs": {
+          "number-badge": {
+            "from": "p06-number-badge",
+            "to": "p07-number-badge"
+          }
+        }
+      },
+      "groups": {
+        "p07-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p07-quote": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p07-year": {
+          "effect": "entrance_zoom",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p07-good": {
+          "effect": "entrance_float",
+          "order": 4,
+          "duration": 0.7
+        },
+        "p07-facts": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.8
+        }
+      }
+    },
+    "08_haiou": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "07_yingxiong",
+        "pairs": {
+          "number-badge": {
+            "from": "p07-number-badge",
+            "to": "p08-number-badge"
+          }
+        }
+      },
+      "groups": {
+        "p08-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p08-year": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p08-good": {
+          "effect": "entrance_zoom",
+          "order": 3,
+          "duration": 0.7
+        },
+        "p08-facts": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.8
+        }
+      }
+    },
+    "09_hudie": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "08_haiou",
+        "pairs": {
+          "number-badge": {
+            "from": "p08-number-badge",
+            "to": "p09-number-badge"
+          }
+        }
+      },
+      "groups": {
+        "p09-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p09-year": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p09-good": {
+          "effect": "entrance_fly",
+          "order": 3,
+          "duration": 0.7
+        },
+        "p09-facts": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.8
+        }
+      }
+    },
+    "10_hongdeng": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "09_hudie",
+        "pairs": {
+          "number-badge": {
+            "from": "p09-number-badge",
+            "to": "p10-number-badge"
+          }
+        }
+      },
+      "groups": {
+        "p10-word": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p10-lead": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p10-year": {
+          "effect": "entrance_zoom",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p10-good": {
+          "effect": "entrance_float",
+          "order": 4,
+          "duration": 0.7
+        },
+        "p10-facts": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.8
+        }
+      }
+    },
+    "11_sources": {
+      "groups": {
+        "p11-title": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6
+        },
+        "p11-sources": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.9
+        },
+        "p11-nodata": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.6
+        },
+        "p11-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p11-stamp": {
+          "effect": "entrance_zoom",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    }
+  }
+}

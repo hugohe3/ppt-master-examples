@@ -2,11 +2,89 @@
   "version": 1,
   "updated": "2026-09-04",
   "stats": {
-    "examples": 19,
-    "pages": 274,
-    "templates": 19
+    "examples": 20,
+    "pages": 285,
+    "templates": 20
   },
   "projects": [
+    {
+      "id": "moments_nine_heritage_goods",
+      "title": "九件老国货",
+      "description": "朋友圈九宫格 11 页 — 回力到红灯九件 1935–1972 年的老国货,中世纪海报风平涂,4 张 AI 元素表切成 23 张切片 + 十处复古题字,原生半调纸纹,太阳盘与编号徽章链式 Morph,Default 路线纯题目生成",
+      "icon": "📻",
+      "color": "#B3402F",
+      "style": "creative",
+      "styleName": "Vintage Poster Grid",
+      "desc": "An eleven-page square series (1080×1080) made to post as a Moments grid: nine Chinese heritage products from Huili shoes (1935) to the Red Lantern radio (1972) — Forever bicycles, Bright ice bricks, Shanghai watches, White Rabbit candy, Hero pens, Seagull cameras, Butterfly sewing machines — each with its birth year and origin, why it swept the country, and where to meet it today, plus a cover and a sources page with live hyperlinks. Four AI poster sheets were generated in-pipeline and sliced into twenty-three pieces of reduced graphic illustration, decoration and poster lettering; ten brush-cut marks sit beside native editable titles; sun discs, ray wedges, off-axis blocks and badge seals in flat limited colour, native halftone and paper-grain pattern fills, and twenty-two preset shapes carry the mid-century print look with no gradients or filters. Forty-nine entrance animations and nine Morph pairs — the sun disc carries from the cover to the first poster and the numbered badge chains through all nine — finish the choreography. Generated on the Default runtime from a bare topic with topic research and speaker notes; the exported PPTX page is square.",
+      "tags": [
+        "Culture",
+        "Vintage Poster",
+        "AI Illustration",
+        "Square"
+      ],
+      "isNew": true,
+      "folder": "moments_nine_heritage_goods/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · 九件老国货"
+        },
+        {
+          "file": "02_huili.svg",
+          "title": "huili",
+          "desc": "01 回力 · 1935"
+        },
+        {
+          "file": "03_yongjiu.svg",
+          "title": "yongjiu",
+          "desc": "02 永久 · 1940"
+        },
+        {
+          "file": "04_guangming.svg",
+          "title": "guangming",
+          "desc": "03 光明"
+        },
+        {
+          "file": "05_shanghai.svg",
+          "title": "shanghai",
+          "desc": "04 上海牌手表"
+        },
+        {
+          "file": "06_dabaitu.svg",
+          "title": "dabaitu",
+          "desc": "05 大白兔"
+        },
+        {
+          "file": "07_yingxiong.svg",
+          "title": "yingxiong",
+          "desc": "06 英雄钢笔"
+        },
+        {
+          "file": "08_haiou.svg",
+          "title": "haiou",
+          "desc": "07 海鸥相机"
+        },
+        {
+          "file": "09_hudie.svg",
+          "title": "hudie",
+          "desc": "08 蝴蝶缝纫机"
+        },
+        {
+          "file": "10_hongdeng.svg",
+          "title": "hongdeng",
+          "desc": "09 红灯收音机 · 1972"
+        },
+        {
+          "file": "11_sources.svg",
+          "title": "sources",
+          "desc": "来源"
+        }
+      ],
+      "pptx": "examples/moments_nine_heritage_goods/exports/moments_nine_heritage_goods.pptx"
+    },
     {
       "id": "ppt169_webgpu_intro_quick",
       "title": "WebGPU 是什么",

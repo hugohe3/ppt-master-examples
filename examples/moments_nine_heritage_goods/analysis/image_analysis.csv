@@ -1,0 +1,24 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,deco_badge.png,886,881,1.01,1.01,,native,PNG,True,1,,bitmap,True,True,828.7,Near square
+2,deco_rays.png,873,877,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,1317.1,Near square
+3,deco_stamp.png,256,256,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,40.8,Near square
+4,deco_sun.png,522,520,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,305.1,Near square
+5,good_bike.png,1280,806,1.59,1.59,,native,PNG,True,1,,bitmap,True,True,586.6,Wide landscape
+6,good_camera.png,494,842,0.59,0.59,,native,PNG,True,1,,bitmap,True,True,415.7,Portrait
+7,good_candy.png,680,632,1.08,1.08,,native,PNG,True,1,,bitmap,True,True,273.5,Near square
+8,good_icebrick.png,554,761,0.73,0.73,,native,PNG,True,1,,bitmap,True,True,463.7,Portrait
+9,good_pen.png,1036,1064,0.97,0.97,,native,PNG,True,1,,bitmap,True,True,1155.6,Near square
+10,good_radio.png,840,603,1.39,1.39,,native,PNG,True,1,,bitmap,True,True,559.9,Standard landscape
+11,good_sewing.png,1040,764,1.36,1.36,,native,PNG,True,1,,bitmap,True,True,608.9,Standard landscape
+12,good_shoe.png,1040,718,1.45,1.45,,native,PNG,True,1,,bitmap,True,True,620.5,Standard landscape
+13,good_watch.png,582,801,0.73,0.73,,native,PNG,True,1,,bitmap,True,True,464.5,Portrait
+14,word_cover.png,1320,327,4.04,4.04,,native,PNG,True,1,,bitmap,True,True,463.3,Ultra-wide
+15,word_dabaitu.png,640,437,1.46,1.46,,native,PNG,True,1,,bitmap,True,True,289.9,Standard landscape
+16,word_guangming.png,600,442,1.36,1.36,,native,PNG,True,1,,bitmap,True,True,303.7,Standard landscape
+17,word_haiou.png,600,429,1.40,1.40,,native,PNG,True,1,,bitmap,True,True,319.8,Standard landscape
+18,word_hongdeng.png,600,436,1.38,1.38,,native,PNG,True,1,,bitmap,True,True,273.8,Standard landscape
+19,word_hudie.png,621,430,1.44,1.44,,native,PNG,True,1,,bitmap,True,True,314.8,Standard landscape
+20,word_huili.png,601,450,1.34,1.34,,native,PNG,True,1,,bitmap,True,True,272.2,Standard landscape
+21,word_shanghai.png,640,431,1.48,1.48,,native,PNG,True,1,,bitmap,True,True,295.7,Standard landscape
+22,word_yingxiong.png,600,432,1.39,1.39,,native,PNG,True,1,,bitmap,True,True,314.7,Standard landscape
+23,word_yongjiu.png,600,436,1.38,1.38,,native,PNG,True,1,,bitmap,True,True,271.0,Standard landscape

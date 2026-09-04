@@ -1,0 +1,67 @@
+{
+  "project": "nine_heritage_goods",
+  "generated_at": "2026-09-04",
+  "deck_rendering": "vintage-poster",
+  "color_scheme": {
+    "background": "#F4E7CE",
+    "secondary_bg": "#E3CFA4",
+    "primary": "#B3402F",
+    "accent": "#E0952B",
+    "secondary_accent": "#2F6B5E",
+    "body_text": "#2A2420"
+  },
+  "items": [
+    {
+      "filename": "letter_sheet.png",
+      "purpose": "Nine Chinese name lettering marks, one per heritage good (Slides 02-10)",
+      "page_role": "local",
+      "text_policy": "embedded",
+      "aspect_ratio": "1:1",
+      "image_size": "4K",
+      "slice_grid": "3x3",
+      "slice_names": "word_huili,word_yongjiu,word_guangming,word_shanghai,word_dabaitu,word_yingxiong,word_haiou,word_hudie,word_hongdeng",
+      "prompt": "THE ENTIRE BACKGROUND OF THIS IMAGE IS ONE FLAT PURE BLUE #0000FF. Every single pixel that is not part of a lettering mark is that exact blue, edge to edge, with no white card, paper, panel, mat, frame, border, gutter tint, shadow, glow or texture anywhere behind or around any mark. Mid-century modern poster aesthetic — the design language of 1950s-1970s Chinese state-store signboards, screen-printed travel posters and Saul Bass title cards. Each mark is hand-cut Chinese poster lettering (中文美术字): heavy squared-off geometric strokes, blunt terminals, tightly balanced counters, thick but hand-aware contours with slight character, a subtle halftone dot texture inside the strokes and a slight ink misregistration offset. Flat only — depth comes from the offset, never from shading. Deck color behavior: vermilion #B3402F is the dominant stroke body, mustard #E0952B is the small misregistered offset behind the strokes, pine green #2F6B5E appears on at most one or two marks as a contrasting character; no paper or cream tones appear, because there is no paper here, only the blue key. Composition: an invisible logical grid of exactly 3 rows by exactly 3 columns of equal size, read left to right then top to bottom. There are exactly nine marks, one mark per cell, never two marks in one cell and never one mark spanning two cells. Every mark is set on a single horizontal line and all nine marks share the same cap height, so a two-character mark is simply narrower than a three-character mark rather than larger. Center each mark inside roughly sixty percent of its own cell and keep at least fifteen percent pure blue margin on all four sides of every mark, including any ink-offset edge, so no stroke ever comes near a cell boundary. Never draw the cells, panels, dividers, gutters, borders or frames themselves. The nine marks, one per cell in that reading order: row 1 left 回力, row 1 middle 永久, row 1 right 光明, row 2 left 上海牌, row 2 middle 大白兔, row 2 right 英雄, row 3 left 海鸥, row 3 middle 蝴蝶, row 3 right 红灯. These exact characters are the only text in the image and no character is repeated in another cell. All identity lives in the glyph itself — silhouette, stroke construction, internal halftone material, contour-bound depth. NO topic illustrations, no mountains, buildings, animals, rabbits, birds, butterflies, shoes, bicycles, cameras, lanterns, icons, ribbons, particles, stars, underlines, seals, boxes, watermarks, captions or any other decoration beside the characters themselves. Color values (HEX codes like #B3402F) and color names are rendering guidance only — do NOT display HEX codes, color names or palette labels as visible text anywhere. Repeat and obey: every pixel outside the lettering marks is flat pure blue #0000FF, with no card, panel, frame, border or second tint of blue. Composed as a 4096x4096 slicing sheet for local use; each mark will be cut out and placed alone on a page.",
+      "alt_text": "Nine Chinese retro poster lettering marks on a flat blue key field",
+      "status": "Generated"
+    },
+    {
+      "filename": "cover_sheet.png",
+      "purpose": "Cover lettering mark 《九件老国货》 (Slide 01)",
+      "page_role": "local",
+      "text_policy": "embedded",
+      "aspect_ratio": "3:2",
+      "image_size": "2K",
+      "slice_grid": "1x1",
+      "slice_names": "word_cover",
+      "prompt": "THE ENTIRE BACKGROUND OF THIS IMAGE IS ONE FLAT PURE BLUE #0000FF. Every single pixel that is not part of a lettering mark is that exact blue, edge to edge, with no white card, paper, panel, mat, frame, border, gutter tint, shadow, glow or texture anywhere behind or around any mark. Mid-century modern poster aesthetic — the design language of 1950s-1970s Chinese state-store signboards, screen-printed travel posters and Saul Bass title cards. Each mark is hand-cut Chinese poster lettering (中文美术字): heavy squared-off geometric strokes, blunt terminals, tightly balanced counters, thick but hand-aware contours with slight character, a subtle halftone dot texture inside the strokes and a slight ink misregistration offset. Flat only — depth comes from the offset, never from shading. Deck color behavior: vermilion #B3402F is the dominant stroke body, mustard #E0952B is the small misregistered offset behind the strokes, pine green #2F6B5E appears on at most one or two marks as a contrasting character; no paper or cream tones appear, because there is no paper here, only the blue key. Composition: one single lettering mark alone at the exact centre of the canvas, set on one horizontal line, occupying roughly sixty percent of the canvas width and keeping at least eighteen percent pure blue margin on all four sides including the ink-offset edge. The mark is the five characters 九件老国货 and they are the only text in the image. Give it the weight of a shop-front signboard: the heaviest strokes in the whole set, confident and squared, the misregistered mustard offset slightly down and to the right. All identity lives in the glyph itself — silhouette, stroke construction, internal halftone material, contour-bound depth. NO topic illustrations, no mountains, buildings, animals, rabbits, birds, butterflies, shoes, bicycles, cameras, lanterns, icons, ribbons, particles, stars, underlines, seals, boxes, watermarks, captions or any other decoration beside the characters themselves. Color values (HEX codes like #B3402F) and color names are rendering guidance only — do NOT display HEX codes, color names or palette labels as visible text anywhere. Repeat and obey: every pixel outside the lettering marks is flat pure blue #0000FF, with no card, panel, frame, border or second tint of blue. Composed as a 2048x1365 single-mark sheet for local use; the mark will be cut out and placed alone on the cover.",
+      "alt_text": "The five Chinese characters 九件老国货 as a heavy retro poster mark on a flat blue key field",
+      "status": "Generated"
+    },
+    {
+      "filename": "goods_sheet.png",
+      "purpose": "Nine reduced poster-style object illustrations, one per heritage good (Slides 02-10)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "1:1",
+      "image_size": "4K",
+      "slice_grid": "3x3",
+      "slice_names": "good_shoe,good_bike,good_icebrick,good_watch,good_candy,good_pen,good_camera,good_sewing,good_radio",
+      "prompt": "THE ENTIRE BACKGROUND OF THIS IMAGE IS ONE FLAT PURE BLUE #0000FF. Every single pixel that is not part of an object is that exact blue, edge to edge, with no white card, paper, panel, mat, frame, border, gutter tint, ground shadow, glow or texture anywhere behind or around any object. Mid-century modern poster aesthetic — the design language of 1950s-1970s travel posters and screen-printed state-store advertising. Each object is drawn by subtraction: bold geometric shapes with rounded organic edges, thick hand-aware outlines with slight character, limited flat color blocks, subtle halftone dot texture over the fills, slight ink misregistration at one or two edges. Never photorealistic, never rendered, never three-dimensional shading — an iconic reduced silhouette with just enough interior division to be recognizable. Deck color behavior: vermilion #B3402F carries the main body of each object, mustard #E0952B marks small secondary parts and the halftone tint, pine green #2F6B5E appears on two or three objects as the contrasting block, and warm near-black #2A2420 draws the outlines and the smallest details. Composition: an invisible logical grid of 3 rows by 3 columns, read left to right then top to bottom, each cell square. Center each object inside roughly sixty-five percent of its own cell and keep at least ten percent pure blue margin on all four sides, including any protruding handle, wheel or wrapper twist. Never draw the cells, panels, dividers, gutters, borders or frames themselves, and never shrink an object into a round or square sticker. The nine objects, one per cell in that reading order: cell 1 a canvas high-top basketball sneaker in strict side view with a rubber toe cap and lace row; cell 2 a heavy black-framed roadster bicycle in side view with a full chain guard, upright handlebars and a rear rack; cell 3 a rectangular block of ice cream in a folded paper wrapper standing upright; cell 4 a round mechanical wristwatch seen face-on with a leather strap curving away above and below, hour markers and two hands; cell 5 a single wrapped hard candy with twisted paper ends; cell 6 a capped fountain pen lying at a slight diagonal, showing the clip and a banded cap ring; cell 7 a twin-lens reflex camera seen from the front with two stacked round lenses, a squared body and a folded waist-level hood; cell 8 a household sewing machine head in side view with a curved arm, needle bar, hand wheel and flat bed; cell 9 a valve radio in a rectangular cabinet seen from the front with a round tuning dial, a speaker grille and two knobs. NO brand marks, logos, wordmarks, model numbers, price tags or lettering of any kind on or beside any object. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels or written symbols. Composed as a 4096x4096 slicing sheet for local use; each object will be cut out and placed alone on a page. Color values (HEX codes like #B3402F) and color names are rendering guidance only — do NOT display HEX codes, color names or palette labels as visible text anywhere. Repeat and obey: every pixel outside the nine objects is flat pure blue #0000FF, with no card, panel, frame, border or second tint of blue.",
+      "alt_text": "Nine mid-century poster-style illustrations of Chinese heritage consumer goods on a flat blue key field",
+      "status": "Generated"
+    },
+    {
+      "filename": "deco_sheet.png",
+      "purpose": "Four printed ornament elements reused as page furniture across the deck",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "1:1",
+      "image_size": "2K",
+      "slice_grid": "2x2",
+      "slice_names": "deco_sun,deco_rays,deco_badge,deco_stamp",
+      "prompt": "THE ENTIRE BACKGROUND OF THIS IMAGE IS ONE FLAT PURE BLUE #0000FF. Every single pixel that is not part of an ornament is that exact blue, edge to edge, with no white card, paper, panel, mat, frame, border, gutter tint, shadow, glow or texture anywhere behind or around any ornament. Mid-century modern screen-printed poster aesthetic: flat limited color, thick hand-aware contours, visible halftone dot gradation, deliberate slight ink misregistration. Flat only — depth comes from overlap, never from shading. Deck color behavior: mustard #E0952B carries the radiant elements, vermilion #B3402F carries the seal and stamp bodies, and warm near-black #2A2420 supplies the thinnest contour lines and the halftone dots. Composition: an invisible logical grid of 2 rows by 2 columns, read left to right then top to bottom, each cell square. Center each ornament inside roughly sixty-five percent of its own cell and keep at least ten percent pure blue margin on all four sides, including the outermost dot or ray tip. Never draw the cells, panels, dividers, gutters, borders or frames themselves. The four ornaments, one per cell in that reading order: cell 1 a solid sun disc whose lower half dissolves into a coarse halftone dot gradation, ringed by short blunt rays of alternating length; cell 2 a fan of nine tapering straight ray wedges radiating from one origin point at the lower-left of the cell, wedges of alternating length and slight misregistration; cell 3 a circular rosette seal with a scalloped outer edge, two concentric contour rings and a plain empty flat center large enough for other content to be laid over it later; cell 4 a square ink stamp consisting only of a thick contour frame with slightly broken, ink-starved edges and rounded corners, its center completely empty and filled with the blue key so it reads as an open frame. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels or written symbols. Composed as a 2048x2048 slicing sheet for local use; each ornament will be cut out and placed alone on a page. Color values (HEX codes like #E0952B) and color names are rendering guidance only — do NOT display HEX codes, color names or palette labels as visible text anywhere. Repeat and obey: every pixel outside the four ornaments is flat pure blue #0000FF, including the open center of the square stamp, with no card, panel, frame, border or second tint of blue.",
+      "alt_text": "Four screen-printed poster ornaments — sun disc, ray fan, rosette seal and square stamp — on a flat blue key field",
+      "status": "Generated"
+    }
+  ]
+}

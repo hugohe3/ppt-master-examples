@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+  </defs>
+
+  <rect id="p10-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <g id="p10-waves" data-pptx-role="decoration" data-pptx-bounds="180 340 720 720">
+    <g id="p10-wave-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="180 340 720 720" data-pptx-av-adj1="val 16200000" data-pptx-av-adj2="val 21600000" data-pptx-av-adj3="val 3600" fill="#C3AC80" stroke="none">
+<path d="M 540 340 A 360 360 0 0 1 900 700 L 874.08 700 A 334.08 334.08 0 0 0 540 365.92 Z"/>
+</g>
+    <g id="p10-wave-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="280 440 520 520" data-pptx-av-adj1="val 16200000" data-pptx-av-adj2="val 21600000" data-pptx-av-adj3="val 5000" fill="#E3CFA4" stroke="none">
+<path d="M 540 440 A 260 260 0 0 1 800 700 L 774 700 A 234 234 0 0 0 540 466 Z"/>
+</g>
+    <g id="p10-wave-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="380 540 320 320" data-pptx-av-adj1="val 16200000" data-pptx-av-adj2="val 21600000" data-pptx-av-adj3="val 8000" fill="#C3AC80" stroke="none">
+<path d="M 540 540 A 160 160 0 0 1 700 700 L 674.4 700 A 134.4 134.4 0 0 0 540 565.6 Z"/>
+</g>
+  </g>
+
+  <g id="p10-word" data-pptx-bounds="74 76 396 309">
+    <image href="../images/word_hongdeng.png" x="78" y="80" width="300" height="218" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="362" font-family="SimHei" font-size="54" fill="#B3402F">红灯711收音机</text>
+  </g>
+
+  <g id="p10-year" text-anchor="end" data-pptx-bounds="796 78 216 150">
+    <text x="1008" y="104" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="1008" y="190" font-family="SimHei" font-size="88" fill="#B3402F">1972</text>
+  </g>
+
+  <g id="p10-lead" data-pptx-bounds="596 426 412 110">
+    <text x="600" y="470" font-family="SimHei" font-size="36" fill="#2F6B5E">「三转一响」里的</text>
+    <text x="600" y="518" font-family="SimHei" font-size="36" fill="#2F6B5E">那一响</text>
+  </g>
+
+  <g id="p10-good" data-pptx-bounds="116 396 428 309">
+    <image href="../images/good_radio.png" x="120" y="400" width="420" height="301" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p10-number-badge" data-pptx-bounds="880 560 100 100">
+    <circle cx="930" cy="610" r="46" fill="#B3402F"/>
+    <text x="930" y="624" font-family="SimHei" font-size="38" text-anchor="middle" fill="#F4E7CE">09</text>
+  </g>
+
+  <g id="p10-facts" data-pptx-bounds="72 756 936 292">
+    <use data-icon="chunk-filled/calendar" x="84" y="760" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="786" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="196" y="786" font-size="30" fill="#2A2420">1972 年 6 月红灯牌 711 型电子管收音机上市</text>
+
+    <use data-icon="chunk-filled/factory" x="84" y="824" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="850" font-size="22" fill="#6B5C4A">产地</text>
+    <text x="196" y="850" font-size="30" fill="#2A2420">上海 · 上海无线电二厂</text>
+
+    <use data-icon="chunk-filled/trophy" x="84" y="888" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="914" font-size="22" fill="#6B5C4A">当年</text>
+    <text x="196" y="914" font-size="30" fill="#2A2420">1972–1980 年累计约 <tspan fill="#B3402F" font-weight="bold">186 万台</tspan>，创同期单一型号纪录<tspan x="196" dy="44">全国厂家纷纷仿制，一度供不应求</tspan></text>
+
+    <use data-icon="chunk-filled/shop" x="84" y="996" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="1022" font-size="22" fill="#6B5C4A">今天</text>
+    <text x="196" y="1022" font-size="30" fill="#2A2420">藏于上海无线电博物馆，2017 年 11 月起免费开放</text>
+  </g>
+</svg>

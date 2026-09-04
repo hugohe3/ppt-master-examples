@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+  </defs>
+
+  <rect id="p03-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <g id="p03-word-block" data-pptx-role="decoration" data-pptx-bounds="52 66 380 350">
+    <g id="p03-word-field" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="parallelogram" data-pptx-frame="52 66 380 350" data-pptx-av-adj="val 18000" fill="#E3CFA4" stroke="none">
+<path d="M 52 416 L 115 66 L 432 66 L 369 416 Z"/>
+</g>
+  </g>
+
+  <image id="p03-rays" data-pptx-role="decoration" href="../images/deco_rays.png" x="150" y="240" width="440" height="440" preserveAspectRatio="xMidYMid meet"/>
+
+  <g id="p03-word" data-pptx-bounds="74 84 320 312">
+    <image href="../images/word_yongjiu.png" x="78" y="88" width="300" height="218" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="372" font-family="SimHei" font-size="54" fill="#B3402F">永久自行车</text>
+  </g>
+
+  <g id="p03-year" text-anchor="end" data-pptx-bounds="796 78 216 150">
+    <text x="1008" y="104" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="1008" y="190" font-family="SimHei" font-size="88" fill="#B3402F">1949</text>
+  </g>
+
+  <g id="p03-number-badge" data-pptx-bounds="120 510 100 100">
+    <circle cx="170" cy="560" r="46" fill="#B3402F"/>
+    <text x="170" y="574" font-family="SimHei" font-size="38" text-anchor="middle" fill="#F4E7CE">02</text>
+  </g>
+
+  <g id="p03-good" data-pptx-bounds="436 276 644 411">
+    <image href="../images/good_bike.png" x="440" y="280" width="640" height="403" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p03-facts" data-pptx-bounds="72 696 936 332">
+    <use data-icon="chunk-filled/calendar" x="84" y="700" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="726" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="196" y="726" font-size="30" fill="#2A2420">1949 年底「永久」试制成功并正式启用<tspan x="196" dy="44">前身是 1940 年秋创办的昌和制作所</tspan></text>
+
+    <use data-icon="chunk-filled/factory" x="84" y="808" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="834" font-size="22" fill="#6B5C4A">产地</text>
+    <text x="196" y="834" font-size="30" fill="#2A2420">上海杨浦 · 昌和制作所 → 上海自行车厂</text>
+
+    <use data-icon="chunk-filled/fire" x="84" y="872" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="898" font-size="22" fill="#6B5C4A">当年</text>
+    <text x="196" y="898" font-size="30" fill="#2A2420">1949–1990 年累计生产约 <tspan fill="#B3402F" font-weight="bold">5000 万辆</tspan><tspan x="196" dy="44">约占当时全国自行车拥有量的六分之一</tspan></text>
+
+    <use data-icon="chunk-filled/shop" x="84" y="980" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="1006" font-size="22" fill="#6B5C4A">今天</text>
+    <text x="196" y="1006" font-size="30" fill="#2A2420">今由中路股份生产，已扩到电动车、童车与轮椅</text>
+  </g>
+</svg>

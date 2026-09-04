@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+  </defs>
+
+  <rect id="p08-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <g id="p08-frame-field" data-pptx-role="decoration" data-pptx-bounds="100 150 880 520">
+    <g id="p08-viewfinder" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="100 150 880 520" data-pptx-av-adj1="val 5000" fill="#E3CFA4" stroke="none">
+<path d="M 100 150 L 980 150 L 980 670 L 100 670 Z M 126 176 L 126 644 L 954 644 L 954 176 Z"/>
+</g>
+  </g>
+
+  <g id="p08-focus-marks" data-pptx-role="decoration" stroke="#B3402F" stroke-width="5" stroke-linecap="square" data-pptx-bounds="150 200 780 420">
+    <line x1="152" y1="202" x2="212" y2="202"/>
+    <line x1="152" y1="202" x2="152" y2="262"/>
+    <line x1="928" y1="202" x2="868" y2="202"/>
+    <line x1="928" y1="202" x2="928" y2="262"/>
+    <line x1="152" y1="618" x2="212" y2="618"/>
+    <line x1="152" y1="618" x2="152" y2="558"/>
+    <line x1="928" y1="618" x2="868" y2="618"/>
+    <line x1="928" y1="618" x2="928" y2="558"/>
+  </g>
+
+  <g id="p08-word" data-pptx-bounds="74 92 320 306">
+    <image href="../images/word_haiou.png" x="78" y="96" width="300" height="214" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="374" font-family="SimHei" font-size="54" fill="#B3402F">海鸥4型相机</text>
+  </g>
+
+  <g id="p08-year" text-anchor="end" data-pptx-bounds="796 78 216 150">
+    <text x="1008" y="104" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="1008" y="190" font-family="SimHei" font-size="88" fill="#B3402F">1963</text>
+  </g>
+
+  <g id="p08-good" data-pptx-bounds="616 236 255 428">
+    <image href="../images/good_camera.png" x="620" y="240" width="247" height="420" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p08-number-badge" data-pptx-bounds="140 540 100 100">
+    <circle cx="190" cy="590" r="46" fill="#B3402F"/>
+    <text x="190" y="604" font-family="SimHei" font-size="38" text-anchor="middle" fill="#F4E7CE">07</text>
+  </g>
+
+  <g id="p08-facts" data-pptx-bounds="72 696 936 372">
+    <use data-icon="chunk-filled/calendar" x="84" y="700" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="726" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="196" y="726" font-size="30" fill="#2A2420">1963 年底 4 型双反相机开始批量生产（厂 1958 年成立）</text>
+
+    <use data-icon="chunk-filled/factory" x="84" y="764" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="790" font-size="22" fill="#6B5C4A">产地</text>
+    <text x="196" y="790" font-size="30" fill="#2A2420">上海 · 上海照相机厂<tspan x="196" dy="44">1967 年为出口把「上海牌」改为「海鸥牌」</tspan></text>
+
+    <use data-icon="chunk-filled/trophy" x="84" y="872" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="898" font-size="22" fill="#6B5C4A">当年</text>
+    <text x="196" y="898" font-size="30" fill="#2A2420"><tspan fill="#B3402F" font-weight="bold">中国第一款出口的相机</tspan><tspan x="196" dy="44">1980 年年产 20 万架，累计产量超 2066 万台</tspan></text>
+
+    <use data-icon="chunk-filled/shop" x="84" y="980" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="1006" font-size="22" fill="#6B5C4A">今天</text>
+    <text x="196" y="1006" font-size="30" fill="#2A2420">2004 年停产，2011 年海鸥数码成立<tspan x="196" dy="44">2014 年推出复古数码相机，2020 年转做工业相机</tspan></text>
+  </g>
+</svg>

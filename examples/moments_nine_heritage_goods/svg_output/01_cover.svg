@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+    <pattern id="halftone" width="12" height="12" patternUnits="userSpaceOnUse" data-pptx-pattern="pct30" data-pptx-bg="#E0952B" data-pptx-fg="#B3402F">
+      <rect width="12" height="12" fill="#E0952B"/>
+      <circle cx="6" cy="6" r="3" fill="#B3402F"/>
+    </pattern>
+  </defs>
+
+  <rect id="p01-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <g id="p01-rays" data-pptx-role="decoration" data-pptx-bounds="232 22 616 292">
+    <g transform="rotate(-80 540 330)"><g id="p01-ray-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g></g>
+    <g transform="rotate(-60 540 330)"><g id="p01-ray-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g></g>
+    <g transform="rotate(-40 540 330)"><g id="p01-ray-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g></g>
+    <g transform="rotate(-20 540 330)"><g id="p01-ray-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g></g>
+    <g id="p01-ray-5" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g>
+    <g transform="rotate(20 540 330)"><g id="p01-ray-6" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g></g>
+    <g transform="rotate(40 540 330)"><g id="p01-ray-7" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g></g>
+    <g transform="rotate(60 540 330)"><g id="p01-ray-8" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g></g>
+    <g transform="rotate(80 540 330)"><g id="p01-ray-9" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="526 26 28 98" fill="#E0952B" stroke="none">
+<path d="M 526 124 L 540 26 L 554 124 Z"/>
+</g></g>
+  </g>
+
+  <g id="p01-sun-disc" data-pptx-bounds="346 136 388 388">
+    <circle cx="540" cy="330" r="190" fill="#E0952B"/>
+    <circle cx="540" cy="330" r="118" fill="url(#halftone)"/>
+  </g>
+
+  <g id="p01-stamp" data-pptx-bounds="896 56 104 104">
+    <image href="../images/deco_stamp.png" x="900" y="60" width="96" height="96" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p01-timeline" data-pptx-bounds="110 538 860 92">
+    <line x1="140" y1="566" x2="940" y2="566" stroke="#2A2420" stroke-width="3"/>
+    <line x1="140" y1="550" x2="140" y2="582" stroke="#B3402F" stroke-width="6"/>
+    <line x1="240" y1="554" x2="240" y2="578" stroke="#2A2420" stroke-width="3"/>
+    <line x1="340" y1="554" x2="340" y2="578" stroke="#2A2420" stroke-width="3"/>
+    <line x1="440" y1="554" x2="440" y2="578" stroke="#2A2420" stroke-width="3"/>
+    <line x1="540" y1="554" x2="540" y2="578" stroke="#2A2420" stroke-width="3"/>
+    <line x1="640" y1="554" x2="640" y2="578" stroke="#2A2420" stroke-width="3"/>
+    <line x1="740" y1="554" x2="740" y2="578" stroke="#2A2420" stroke-width="3"/>
+    <line x1="840" y1="554" x2="840" y2="578" stroke="#2A2420" stroke-width="3"/>
+    <line x1="940" y1="550" x2="940" y2="582" stroke="#B3402F" stroke-width="6"/>
+    <text x="140" y="618" font-family="SimHei" font-size="22" fill="#B3402F">1935</text>
+    <text x="540" y="618" font-size="22" text-anchor="middle" fill="#6B5C4A">按诞生年份先后排列</text>
+    <text x="940" y="618" font-family="SimHei" font-size="22" text-anchor="end" fill="#B3402F">1972</text>
+  </g>
+
+  <g id="p01-word" data-pptx-bounds="206 760 668 171">
+    <image href="../images/word_cover.png" x="210" y="764" width="660" height="163" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p01-title" font-family="SimHei" data-pptx-bounds="150 944 782 118">
+    <text x="150" y="996" font-size="54" fill="#B3402F">九件老国货</text>
+    <text x="150" y="1046" font-size="38" fill="#2F6B5E">1935–1972 · 九件仍然活着的中国制造</text>
+  </g>
+</svg>

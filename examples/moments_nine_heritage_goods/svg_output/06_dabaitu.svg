@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+  </defs>
+
+  <rect id="p06-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <image id="p06-seal" data-pptx-role="decoration" href="../images/deco_badge.png" x="300" y="110" width="520" height="520" preserveAspectRatio="xMidYMid meet"/>
+
+  <g id="p06-scatter" data-pptx-role="decoration" fill="#E0952B" data-pptx-bounds="820 300 200 300">
+    <circle cx="860" cy="330" r="14"/>
+    <circle cx="930" cy="380" r="22"/>
+    <circle cx="880" cy="450" r="10"/>
+    <circle cx="965" cy="480" r="16"/>
+    <circle cx="900" cy="545" r="26"/>
+    <circle cx="980" cy="580" r="12"/>
+  </g>
+
+  <g id="p06-word" data-pptx-bounds="74 92 340 310">
+    <image href="../images/word_dabaitu.png" x="78" y="96" width="320" height="218" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="378" font-family="SimHei" font-size="54" fill="#B3402F">大白兔奶糖</text>
+  </g>
+
+  <g id="p06-year" text-anchor="end" data-pptx-bounds="796 78 216 150">
+    <text x="1008" y="104" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="1008" y="190" font-family="SimHei" font-size="88" fill="#B3402F">1959</text>
+  </g>
+
+  <g id="p06-good" data-pptx-bounds="466 256 348 324">
+    <image href="../images/good_candy.png" x="470" y="260" width="340" height="316" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p06-number-badge" data-pptx-bounds="210 550 100 100">
+    <circle cx="260" cy="600" r="46" fill="#B3402F"/>
+    <text x="260" y="614" font-family="SimHei" font-size="38" text-anchor="middle" fill="#F4E7CE">05</text>
+  </g>
+
+  <g id="p06-facts" data-pptx-bounds="72 696 936 336">
+    <use data-icon="chunk-filled/calendar" x="84" y="700" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="726" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="196" y="726" font-size="30" fill="#2A2420">1959 年作为新中国成立十周年献礼产品推出</text>
+
+    <use data-icon="chunk-filled/factory" x="84" y="764" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="790" font-size="22" fill="#6B5C4A">产地</text>
+    <text x="196" y="790" font-size="30" fill="#2A2420">上海 · 爱民糖果厂（1976 年并入冠生园）</text>
+
+    <use data-icon="chunk-filled/fire" x="84" y="828" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="854" font-size="22" fill="#6B5C4A">当年</text>
+    <text x="196" y="854" font-size="30" fill="#2A2420">投产初期日产约 800 公斤，多道工序靠手工<tspan x="196" dy="44">「<tspan fill="#B3402F" font-weight="bold">七粒大白兔顶一杯牛奶</tspan>」的说法传开</tspan></text>
+
+    <use data-icon="chunk-filled/shop" x="84" y="936" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="962" font-size="22" fill="#6B5C4A">今天</text>
+    <text x="196" y="962" font-size="30" fill="#2A2420">仍在生产，与气味图书馆做过奶糖味香氛<tspan x="196" dy="44">天猫上线 10 分钟售出超 14000 件</tspan></text>
+  </g>
+</svg>

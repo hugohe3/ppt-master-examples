@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+    <pattern id="halftone" width="12" height="12" patternUnits="userSpaceOnUse" data-pptx-pattern="pct30" data-pptx-bg="#E3CFA4" data-pptx-fg="#E0952B">
+      <rect width="12" height="12" fill="#E3CFA4"/>
+      <circle cx="6" cy="6" r="3" fill="#E0952B"/>
+    </pattern>
+  </defs>
+
+  <rect id="p02-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <g id="p02-arch-field" data-pptx-role="decoration" data-pptx-bounds="250 170 580 600">
+    <g id="p02-arch" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="250 170 580 600" data-pptx-av-adj1="val 50000" data-pptx-av-adj2="val 0" fill="#E3CFA4" stroke="none">
+<path d="M 540 170 L 540 170 A 290 290 0 0 1 830 460 L 830 770 L 250 770 L 250 460 A 290 290 0 0 1 540 170 Z"/>
+</g>
+  </g>
+
+  <rect id="p02-horizon" data-pptx-role="decoration" x="0" y="700" width="1080" height="80" fill="url(#halftone)"/>
+
+  <g id="p02-sun-disc" data-pptx-bounds="476 151 128 128">
+    <circle cx="540" cy="215" r="60" fill="#E0952B"/>
+    <circle cx="540" cy="215" r="37" fill="url(#halftone)"/>
+  </g>
+
+  <g id="p02-word" data-pptx-bounds="74 88 320 320">
+    <image href="../images/word_huili.png" x="78" y="92" width="300" height="225" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="380" font-family="SimHei" font-size="54" fill="#B3402F">回力球鞋</text>
+  </g>
+
+  <g id="p02-year" text-anchor="end" data-pptx-bounds="796 78 216 150">
+    <text x="1008" y="104" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="1008" y="190" font-family="SimHei" font-size="88" fill="#B3402F">1935</text>
+  </g>
+
+  <g id="p02-number-badge" data-pptx-bounds="200 510 100 100">
+    <circle cx="250" cy="560" r="46" fill="#B3402F"/>
+    <text x="250" y="574" font-family="SimHei" font-size="38" text-anchor="middle" fill="#F4E7CE">01</text>
+  </g>
+
+  <g id="p02-good" data-pptx-bounds="446 296 528 367">
+    <image href="../images/good_shoe.png" x="450" y="300" width="520" height="359" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p02-facts" data-pptx-bounds="72 686 936 334">
+    <use data-icon="chunk-filled/calendar" x="84" y="692" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="718" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="196" y="718" font-size="30" fill="#2A2420">「回力」商标 1935 年 4 月注册，工厂 1927 年创办</text>
+
+    <use data-icon="chunk-filled/factory" x="84" y="756" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="782" font-size="22" fill="#6B5C4A">产地</text>
+    <text x="196" y="782" font-size="30" fill="#2A2420">上海 · 正泰橡胶厂（今上海回力鞋业）</text>
+
+    <use data-icon="chunk-filled/trophy" x="84" y="820" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="846" font-size="22" fill="#6B5C4A">当年</text>
+    <text x="196" y="846" font-size="30" fill="#2A2420">1956 年为奥运中国篮球队设计 565 长球鞋<tspan x="196" dy="44">1988 年获<tspan fill="#B3402F" font-weight="bold">国家银质奖</tspan></tspan></text>
+
+    <use data-icon="chunk-filled/shop" x="84" y="928" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="954" font-size="22" fill="#6B5C4A">今天</text>
+    <text x="196" y="954" font-size="30" fill="#2A2420">仍在生产，与故宫、敦煌博物馆联名<tspan x="196" dy="44">电商与直播都买得到</tspan></text>
+  </g>
+</svg>

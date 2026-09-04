@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+  </defs>
+
+  <rect id="p05-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <g id="p05-dial-field" data-pptx-role="decoration" data-pptx-bounds="240 80 600 600">
+    <g id="p05-dial" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="donut" data-pptx-frame="240 80 600 600" data-pptx-av-adj="val 8000" fill="#E3CFA4" stroke="none">
+<path d="M 240 380 A 300 300 0 0 1 540 80 A 300 300 0 0 1 840 380 A 300 300 0 0 1 540 680 A 300 300 0 0 1 240 380 Z M 288 380 A 252 252 0 0 0 540 632 A 252 252 0 0 0 792 380 A 252 252 0 0 0 540 128 A 252 252 0 0 0 288 380 Z"/>
+</g>
+  </g>
+
+  <g id="p05-dial-ticks" stroke="#C3AC80" stroke-linecap="round" data-pptx-role="decoration" data-pptx-bounds="260 100 560 560">
+    <line x1="540.0" y1="132.0" x2="540.0" y2="104.0" stroke-width="6"/>
+    <line x1="664.0" y1="165.2" x2="678.0" y2="141.0" stroke-width="3"/>
+    <line x1="754.8" y1="256.0" x2="779.0" y2="242.0" stroke-width="3"/>
+    <line x1="788.0" y1="380.0" x2="816.0" y2="380.0" stroke-width="6"/>
+    <line x1="754.8" y1="504.0" x2="779.0" y2="518.0" stroke-width="3"/>
+    <line x1="664.0" y1="594.8" x2="678.0" y2="619.0" stroke-width="3"/>
+    <line x1="540.0" y1="628.0" x2="540.0" y2="656.0" stroke-width="6"/>
+    <line x1="416.0" y1="594.8" x2="402.0" y2="619.0" stroke-width="3"/>
+    <line x1="325.2" y1="504.0" x2="301.0" y2="518.0" stroke-width="3"/>
+    <line x1="292.0" y1="380.0" x2="264.0" y2="380.0" stroke-width="6"/>
+    <line x1="325.2" y1="256.0" x2="301.0" y2="242.0" stroke-width="3"/>
+    <line x1="416.0" y1="165.2" x2="402.0" y2="141.0" stroke-width="3"/>
+  </g>
+
+  <g id="p05-word" data-pptx-bounds="74 92 342 308">
+    <image href="../images/word_shanghai.png" x="78" y="96" width="320" height="215" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="376" font-family="SimHei" font-size="54" fill="#B3402F">上海牌手表</text>
+  </g>
+
+  <g id="p05-year" text-anchor="end" data-pptx-bounds="796 78 216 150">
+    <text x="1008" y="104" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="1008" y="190" font-family="SimHei" font-size="88" fill="#B3402F">1958</text>
+  </g>
+
+  <g id="p05-good" data-pptx-bounds="496 196 299 408">
+    <image href="../images/good_watch.png" x="500" y="200" width="291" height="400" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p05-number-badge" data-pptx-bounds="200 550 100 100">
+    <circle cx="250" cy="600" r="46" fill="#B3402F"/>
+    <text x="250" y="614" font-family="SimHei" font-size="38" text-anchor="middle" fill="#F4E7CE">04</text>
+  </g>
+
+  <g id="p05-facts" data-pptx-bounds="72 696 936 368">
+    <use data-icon="chunk-filled/calendar" x="84" y="700" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="726" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="196" y="726" font-size="30" fill="#2A2420">1958 年 4 月 23 日上海手表厂建成投产<tspan x="196" dy="44">当年生产 A581 型上海牌手表 13600 只</tspan></text>
+
+    <use data-icon="chunk-filled/factory" x="84" y="808" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="834" font-size="22" fill="#6B5C4A">产地</text>
+    <text x="196" y="834" font-size="30" fill="#2A2420">上海 · 地方国营上海手表厂</text>
+
+    <use data-icon="chunk-filled/fire" x="84" y="872" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="898" font-size="22" fill="#6B5C4A">当年</text>
+    <text x="196" y="898" font-size="30" fill="#2A2420">1958 年 7 月 1 日首次上市，<tspan fill="#B3402F" font-weight="bold">当天被抢购一空</tspan><tspan x="196" dy="44">1978 年全钢防震表约 120 元，约合三个月工资</tspan></text>
+
+    <use data-icon="chunk-filled/shop" x="84" y="980" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="1006" font-size="22" fill="#6B5C4A">今天</text>
+    <text x="196" y="1006" font-size="30" fill="#2A2420">中华老字号，南京西路与蟠龙天地已开新店<tspan x="196" dy="44">全国门店约 46 家</tspan></text>
+  </g>
+</svg>

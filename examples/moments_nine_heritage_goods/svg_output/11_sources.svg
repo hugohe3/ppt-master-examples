@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+  </defs>
+
+  <rect id="p11-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <g id="p11-plaque-field" data-pptx-role="decoration" data-pptx-bounds="72 690 936 260">
+    <g id="p11-note-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 690 936 260" data-pptx-av-adj="val 6000" fill="#E3CFA4" stroke="none">
+<path d="M 72 705.6 A 15.6 15.6 0 0 0 87.6 690 L 992.4 690 A 15.6 15.6 0 0 0 1008 705.6 L 1008 934.4 A 15.6 15.6 0 0 0 992.4 950 L 87.6 950 A 15.6 15.6 0 0 0 72 934.4 Z"/>
+</g>
+  </g>
+
+  <g id="p11-title" font-family="SimHei" data-pptx-bounds="72 100 800 134">
+    <text x="76" y="156" font-size="54" fill="#B3402F">来源与说明</text>
+    <text x="76" y="212" font-size="38" fill="#2F6B5E">九件的年份、厂家与数字都有出处</text>
+    <line x1="76" y1="230" x2="500" y2="230" stroke="#B3402F" stroke-width="4"/>
+  </g>
+
+  <g id="p11-stamp" data-pptx-bounds="900 86 104 104">
+    <image href="../images/deco_stamp.png" x="904" y="90" width="96" height="96" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p11-sources" font-size="30" fill="#2A2420" data-pptx-bounds="72 262 936 412">
+    <text x="110" y="300"><tspan font-family="SimHei" fill="#B3402F">02 回力</tspan> · <a href="https://www.shyp.gov.cn/shypq/xwzx-jzdt/20250219/474464.html"><tspan text-decoration="underline" fill="#2F6B5E">上海杨浦区人民政府门户</tspan></a></text>
+    <text x="110" y="344"><tspan font-family="SimHei" fill="#B3402F">03 永久</tspan> · <a href="https://www.shyp.gov.cn/shypq/shxd-gyyj/20231128/442714.html"><tspan text-decoration="underline" fill="#2F6B5E">杨浦百年 · 工业印迹</tspan></a></text>
+    <text x="110" y="388"><tspan font-family="SimHei" fill="#B3402F">04 光明</tspan> · <a href="https://finance.sina.cn/sa/2014-04-10/detail-iiznctkf1412318.d.html"><tspan text-decoration="underline" fill="#2F6B5E">新浪财经《光明牌冰砖的由来》</tspan></a></text>
+    <text x="110" y="432"><tspan font-family="SimHei" fill="#B3402F">05 上海牌</tspan> · <a href="https://m.thepaper.cn/baijiahao_9955419"><tspan text-decoration="underline" fill="#2F6B5E">澎湃新闻《上海老品牌：上海牌手表》</tspan></a></text>
+    <text x="110" y="476"><tspan font-family="SimHei" fill="#B3402F">06 大白兔</tspan> · <a href="http://ish.xinmin.cn/xnhsh/2014/07/14/24784021.html"><tspan text-decoration="underline" fill="#2F6B5E">新民网《苦涩年代诞生的甜滋味》</tspan></a></text>
+    <text x="110" y="520"><tspan font-family="SimHei" fill="#B3402F">07 英雄</tspan> · <a href="https://zh.wikipedia.org/zh-hans/%E8%8B%B1%E9%9B%84%E9%92%A2%E7%AC%94"><tspan text-decoration="underline" fill="#2F6B5E">维基百科「英雄钢笔」</tspan></a></text>
+    <text x="110" y="564"><tspan font-family="SimHei" fill="#B3402F">08 海鸥</tspan> · <a href="https://zh.wikipedia.org/zh-hans/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E9%B8%A5%E7%85%A7%E7%9B%B8%E6%9C%BA"><tspan text-decoration="underline" fill="#2F6B5E">维基百科「上海海鸥照相机」</tspan></a></text>
+    <text x="110" y="608"><tspan font-family="SimHei" fill="#B3402F">09 蝴蝶</tspan> · <a href="https://sghservices.shobserver.com/html/toutiao/2020/07/22/228729.html"><tspan text-decoration="underline" fill="#2F6B5E">上观新闻《闲话“蝴蝶牌”缝纫机》</tspan></a></text>
+    <text x="110" y="652"><tspan font-family="SimHei" fill="#B3402F">10 红灯</tspan> · <a href="https://www.gzw.sh.gov.cn/shgzw_gqdj_szxc/20220718/d4a68455f5084c67bf20b5a5f9ba809f.html"><tspan text-decoration="underline" fill="#2F6B5E">上海市国资委《红色印迹》</tspan></a></text>
+  </g>
+
+  <g id="p11-nodata" data-pptx-bounds="96 706 890 230">
+    <text x="108" y="756" font-family="SimHei" font-size="36" fill="#B3402F">两处查不到的地方，写 NO DATA</text>
+    <text x="108" y="810" font-size="30" fill="#2A2420">· 上海无线电二厂的建厂年份未能核实<tspan x="108" dy="44">　红灯一页的诞生年份按「711 型 1972 年上市」表述</tspan></text>
+    <text x="108" y="908" font-size="30" fill="#2A2420">· 红灯品牌今天是否仍生产收音机整机，未能核实</text>
+  </g>
+
+  <g id="p11-note" data-pptx-bounds="72 958 890 66">
+    <text x="84" y="1000" font-size="22" fill="#6B5C4A">年份指品牌或型号的诞生／上市年份，与工厂创办年份不同的地方已在各页标出</text>
+  </g>
+</svg>

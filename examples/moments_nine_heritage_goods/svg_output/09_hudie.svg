@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paper" width="10" height="10" patternUnits="userSpaceOnUse" data-pptx-pattern="pct5" data-pptx-bg="#F4E7CE" data-pptx-fg="#C3AC80">
+      <rect width="10" height="10" fill="#F4E7CE"/>
+      <circle cx="5" cy="5" r="1" fill="#C3AC80"/>
+    </pattern>
+  </defs>
+
+  <rect id="p09-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1080" fill="url(#paper)"/>
+
+  <g id="p09-stack" data-pptx-role="decoration" data-pptx-bounds="60 180 900 510">
+    <g id="p09-block-a" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="parallelogram" data-pptx-frame="60 180 560 340" data-pptx-av-adj="val 16000" fill="#E3CFA4" stroke="none">
+<path d="M 60 520 L 114.4 180 L 620 180 L 565.6 520 Z"/>
+</g>
+    <g id="p09-block-b" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="300 300 620 300" data-pptx-av-adj1="val 22000" data-pptx-av-adj2="val 0" fill="#C3AC80" stroke="none">
+<path d="M 366 300 L 920 300 L 920 300 L 920 534 L 854 600 L 300 600 L 300 600 L 300 366 Z"/>
+</g>
+    <g id="p09-block-c" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="parallelogram" data-pptx-frame="420 430 540 260" data-pptx-av-adj="val 12000" fill="#E3CFA4" stroke="none">
+<path d="M 420 690 L 451.2 430 L 960 430 L 928.8 690 Z"/>
+</g>
+  </g>
+
+  <g id="p09-word" data-pptx-bounds="74 106 360 306">
+    <image href="../images/word_hudie.png" x="78" y="110" width="310" height="215" preserveAspectRatio="xMidYMid meet"/>
+    <text x="80" y="389" font-family="SimHei" font-size="54" fill="#B3402F">蝴蝶牌缝纫机</text>
+  </g>
+
+  <g id="p09-year" text-anchor="end" data-pptx-bounds="796 78 216 150">
+    <text x="1008" y="104" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="1008" y="190" font-family="SimHei" font-size="88" fill="#B3402F">1966</text>
+  </g>
+
+  <g id="p09-good" data-pptx-bounds="456 246 528 390">
+    <image href="../images/good_sewing.png" x="460" y="250" width="520" height="382" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p09-number-badge" data-pptx-bounds="150 520 100 100">
+    <circle cx="200" cy="570" r="46" fill="#B3402F"/>
+    <text x="200" y="584" font-family="SimHei" font-size="38" text-anchor="middle" fill="#F4E7CE">08</text>
+  </g>
+
+  <g id="p09-facts" data-pptx-bounds="72 676 936 378">
+    <use data-icon="chunk-filled/calendar" x="84" y="680" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="706" font-size="22" fill="#6B5C4A">诞生</text>
+    <text x="196" y="706" font-size="30" fill="#2A2420">1966 年商标由「无敌牌」改名「蝴蝶牌」<tspan x="196" dy="44">前身是 1919 年创办的协昌铁车铺</tspan></text>
+
+    <use data-icon="chunk-filled/factory" x="84" y="788" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="814" font-size="22" fill="#6B5C4A">产地</text>
+    <text x="196" y="814" font-size="30" fill="#2A2420">上海 · 上海协昌缝纫机厂（1982 年定名）</text>
+
+    <use data-icon="chunk-filled/fire" x="84" y="852" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="878" font-size="22" fill="#6B5C4A">当年</text>
+    <text x="196" y="878" font-size="30" fill="#2A2420">1972 年起凭票供应，上海约 80 人才配一张券<tspan x="196" dy="44">售价 <tspan fill="#B3402F" font-weight="bold">130–140 元</tspan>，而月工资只有 30–40 元</tspan></text>
+
+    <use data-icon="chunk-filled/shop" x="84" y="960" width="32" height="32" fill="#B3402F"/>
+    <text x="130" y="986" font-size="22" fill="#6B5C4A">今天</text>
+    <text x="196" y="986" font-size="30" fill="#2A2420">上海蝴蝶进出口仍做蝴蝶牌家用缝纫机<tspan x="196" dy="44">主攻电商与非洲等海外市场</tspan></text>
+  </g>
+</svg>
