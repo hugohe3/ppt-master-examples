@@ -1,0 +1,581 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.4
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "hero-gdp": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "up"
+          }
+        },
+        "cover-title": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "cover-kicker": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "cover-source": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "p01-edge-corner": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "02_overview": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "01_cover",
+        "pairs": {
+          "hero-gdp": {
+            "from": "hero-gdp",
+            "to": "hero-gdp"
+          }
+        }
+      },
+      "groups": {
+        "stat-population": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.45,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "stat-urbanization": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.45,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "stat-income": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.45,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "stat-trade": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.45,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "stat-retail": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.45,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        }
+      }
+    },
+    "03_gdp_growth": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "02_overview",
+        "pairs": {
+          "hero-gdp": {
+            "from": "hero-gdp",
+            "to": "gdp-growth-hero"
+          }
+        }
+      },
+      "groups": {
+        "quarterly-gdp-growth": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "gdp-companions": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "04_industry_share": {
+      "groups": {
+        "industry-share": {
+          "effect": "entrance_wheel",
+          "order": 1,
+          "duration": 0.9,
+          "trigger": "after-previous"
+        },
+        "industry-primary": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "industry-secondary": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "industry-tertiary": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "industry-note": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "05_demand_contribution": {
+      "groups": {
+        "gdp-contribution": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "up"
+          }
+        },
+        "contribution-note": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "06_population_structure": {
+      "groups": {
+        "hero-population": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        },
+        "population-structure-table": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "population-note": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "07_population_change": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "06_population_structure",
+        "pairs": {
+          "population-hero": {
+            "from": "hero-population",
+            "to": "natural-growth"
+          }
+        }
+      },
+      "groups": {
+        "births-deaths": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.8,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "up"
+          }
+        },
+        "net-change": {
+          "effect": "entrance_descend",
+          "order": 2,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        },
+        "urbanization-bar": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.7,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        }
+      }
+    },
+    "08_employment_income": {
+      "groups": {
+        "income-quintiles": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "employment-stats": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "income-stats": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "09_consumption": {
+      "groups": {
+        "retail-total": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "retail-percapita": {
+          "effect": "entrance_rise_up",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "retail-composition": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.8,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "retail-urban-rural": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.6,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "retail-online": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "10_investment": {
+      "groups": {
+        "investment-summary": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "investment-by-industry": {
+          "effect": "entrance_split",
+          "order": 2,
+          "duration": 1.0,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "horizontal_out"
+          }
+        }
+      }
+    },
+    "11_foreign_trade": {
+      "groups": {
+        "trade-summary": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "trade-composition": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "up"
+          }
+        }
+      }
+    },
+    "12_trade_partners": {
+      "groups": {
+        "trade-partners-table": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "partners-note": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "13_energy_green": {
+      "groups": {
+        "power-generation-mix": {
+          "effect": "entrance_wheel",
+          "order": 1,
+          "duration": 0.9,
+          "trigger": "after-previous"
+        },
+        "energy-output": {
+          "effect": "entrance_rise_up",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "energy-capacity": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "energy-nodata": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "energy-consumption": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "14_innovation_digital": {
+      "groups": {
+        "innovation-stats": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "innovation-growth": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "up"
+          }
+        },
+        "innovation-nodata": {
+          "effect": "entrance_zoom",
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "digital-economy": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "15_livelihood": {
+      "groups": {
+        "social-insurance-table": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.9,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "livelihood-support": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "health-stats": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "education-stats": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "16_key_takeaways": {
+      "groups": {
+        "takeaway-banner": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "takeaway-bracket": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous",
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "takeaway-1": {
+          "effect": "entrance_ascend",
+          "order": 3,
+          "duration": 0.45,
+          "trigger": "after-previous"
+        },
+        "takeaway-2": {
+          "effect": "entrance_ascend",
+          "order": 4,
+          "duration": 0.45,
+          "trigger": "after-previous"
+        },
+        "takeaway-3": {
+          "effect": "entrance_ascend",
+          "order": 5,
+          "duration": 0.45,
+          "trigger": "after-previous"
+        },
+        "takeaway-4": {
+          "effect": "entrance_ascend",
+          "order": 6,
+          "duration": 0.45,
+          "trigger": "after-previous"
+        },
+        "takeaway-5": {
+          "effect": "entrance_ascend",
+          "order": 7,
+          "duration": 0.45,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "17_sources": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "16_key_takeaways",
+        "pairs": {
+          "takeaway-banner": {
+            "from": "takeaway-banner",
+            "to": "takeaway-banner"
+          }
+        }
+      },
+      "groups": {
+        "source-block": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        },
+        "caveats": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        }
+      }
+    }
+  }
+}

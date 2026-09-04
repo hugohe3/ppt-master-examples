@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <!-- icon: tabler-outline/link -->
+  <g transform="translate(64, 62) scale(0.833333)" fill="none" stroke="#5F6B72" stroke-width="2">
+    <path d="M9 15l6 -6" />
+    <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
+    <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />
+  </g>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">五 · 收束</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">数据来源与口径</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="takeaway-banner" data-pptx-bounds="64 170 1152 46">
+    <rect x="64" y="176" width="1152" height="6" fill="url(#accentRule)"/>
+    <text x="64" y="208" font-size="18" fill="#5F6B72">本简报全部数字的唯一出处</text>
+  </g>
+
+  <g id="source-block" data-pptx-bounds="64 246 1152 176">
+    <g id="p17-source-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="64 250 1152 168" data-pptx-av-adj1="val 2000" fill="#CFC7B8" stroke="none">
+<path d="M 64 250 L 1216 250 L 1216 418 L 64 418 Z M 67.36 253.36 L 67.36 414.64 L 1212.64 414.64 L 1212.64 253.36 Z"/>
+</g>
+    <text x="96" y="300" font-size="24" font-weight="bold" fill="#123B57">《中华人民共和国 2025 年国民经济和社会发展统计公报》</text>
+    <text x="96" y="342" font-size="20" fill="#1F2A30">国家统计局 · 2026 年 2 月 28 日发布</text>
+    <text x="96" y="390" font-size="20" fill="#5F6B72">原文链接：<a href="https://www.stats.gov.cn/sj/zxfbhjd/202602/t20260228_1962662.html"><tspan fill="#C0392B" text-decoration="underline">https://www.stats.gov.cn/sj/zxfbhjd/202602/t20260228_1962662.html</tspan></a></text>
+  </g>
+
+  <g id="caveats" data-pptx-bounds="64 450 1152 172">
+    <line x1="64" y1="454" x2="1216" y2="454" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="490" font-size="20" fill="#1F2A30">口径一：本公报中数据均为初步统计数。</text>
+    <text x="64" y="530" font-size="20" fill="#1F2A30">口径二：各项统计数据均未包括香港特别行政区、澳门特别行政区和台湾省。</text>
+    <text x="64" y="570" font-size="20" fill="#1F2A30">口径三：部分数据因四舍五入的原因，存在总计与分项合计不等的情况。</text>
+    <text x="64" y="610" font-size="18" fill="#5F6B72">本简报只引用公报原文数值，不作换算与推算；公报未给出的量已在相应页面标注 NO DATA。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》注释[1]；资料来源</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">17</text>
+  </g>
+</svg>

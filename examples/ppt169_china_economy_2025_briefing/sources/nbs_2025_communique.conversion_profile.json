@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "doc_to_md.py",
+  "conversion_type": "html",
+  "source": {
+    "path": "nbs_2025_communique.html",
+    "name": "nbs_2025_communique.html",
+    "suffix": ".html",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 1118852
+  },
+  "outputs": {
+    "markdown": "nbs_2025_communique.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 2888,
+    "char_count": 74295,
+    "heading_count": 3,
+    "table_count": 34,
+    "image_ref_count": 60,
+    "link_count": 359
+  },
+  "warnings": []
+}

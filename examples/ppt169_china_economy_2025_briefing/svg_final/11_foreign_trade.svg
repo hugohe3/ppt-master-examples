@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <!-- icon: tabler-outline/ship -->
+  <g transform="translate(64, 62) scale(0.833333)" fill="none" stroke="#5F6B72" stroke-width="2">
+    <path d="M2 20a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1a2.4 2.4 0 0 1 2 -1a2.4 2.4 0 0 1 2 1a2.4 2.4 0 0 0 2 1a2.4 2.4 0 0 0 2 -1" />
+    <path d="M4 18l-1 -5h18l-2 4" />
+    <path d="M5 13v-6h8l4 6" />
+    <path d="M7 7v-4h-1" />
+  </g>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">三 · 需求三面</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">对外贸易：规模与口径</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">四类口径下的出口额与进口额 · 单位：亿元</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="trade-summary" data-pptx-bounds="64 186 1152 102">
+    <text x="64" y="214" font-size="20" fill="#1F2A30">货物进出口总额 <tspan font-family="Arial" font-weight="bold">454685</tspan> 亿元，比上年增长 <tspan font-weight="bold" fill="#2E6F4E">3.8%</tspan>；出口 269890 亿元（+6.1%），进口 184795 亿元（+0.5%）</text>
+    <text x="64" y="246" font-size="20" fill="#1F2A30">货物进出口顺差 <tspan font-family="Arial" font-weight="bold">85094</tspan> 亿元，比上年增长 <tspan font-weight="bold" fill="#2E6F4E">20.4%</tspan></text>
+    <text x="64" y="278" font-size="18" fill="#5F6B72">对共建“一带一路”国家进出口额 236018 亿元（+6.3%），占比 51.9% · 民营企业进出口额 260403 亿元（+7.1%），占比 57.3%</text>
+  </g>
+
+  <g id="trade-composition" data-pptx-replace-with="chart" data-pptx-bounds="64 310 1152 330" data-pptx-fallback-sha256="94fc7f802f7fcc5c9a17b923e3631908604eedc6eb87b2c48be0ad8aea6d0ff9">
+    <metadata type="application/json">
+{
+  "x": 64, "y": 310, "width": 1152, "height": 330,
+  "name": "trade-composition",
+  "type": "column",
+  "grouping": "clustered",
+  "categories": ["一般贸易", "加工贸易", "机电产品", "高新技术产品"],
+  "series": [
+    {"name": "出口额", "values": [176411, 52633, 164683, 67806]},
+    {"name": "进口额", "values": [110650, 32527, 74069, 58844]}
+  ],
+  "plot_area": {"x": 200, "y": 340, "width": 980, "height": 250},
+  "show_legend": true,
+  "legend_position": "top",
+  "data_labels": {"show_value": true, "position": "outside_end", "font_size": 20, "font_family": "Arial", "bold": true, "color": "#1F2A30"},
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to"},
+    "value": {"kind": "value", "position": "left", "visible": true, "minimum": 0, "maximum": 180000, "major_unit": 60000, "major_gridlines": true, "label_position": "next_to"}
+  },
+  "style": {
+    "colors": ["#123B57", "#4A7593"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 20,
+    "legend_font_size": 18,
+    "axis_color": "#E4DED0",
+    "grid_color": "#E4DED0",
+    "text_color": "#5F6B72",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="trade-composition-chartArea">
+      <rect x="900" y="314" width="16" height="16" fill="#123B57"/>
+      <text x="924" y="328" font-size="18" fill="#5F6B72">出口额</text>
+      <rect x="1020" y="314" width="16" height="16" fill="#4A7593"/>
+      <text x="1044" y="328" font-size="18" fill="#5F6B72">进口额</text>
+      <line x1="200" y1="340" x2="1180" y2="340" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="200" y1="423.33" x2="1180" y2="423.33" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="200" y1="506.67" x2="1180" y2="506.67" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="200" y1="590" x2="1180" y2="590" stroke="#E4DED0" stroke-width="1"/>
+      <text x="190" y="430.33" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">120000</text>
+      <text x="190" y="513.67" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">60000</text>
+      <text x="190" y="597" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">0</text>
+      <text x="322.5" y="622" font-size="20" fill="#5F6B72" text-anchor="middle">一般贸易</text>
+      <text x="567.5" y="622" font-size="20" fill="#5F6B72" text-anchor="middle">加工贸易</text>
+      <text x="812.5" y="622" font-size="20" fill="#5F6B72" text-anchor="middle">机电产品</text>
+      <text x="1057.5" y="622" font-size="20" fill="#5F6B72" text-anchor="middle">高新技术产品</text>
+      <!-- chart-plot-area: object=trade-composition | 200,340,1180,590 -->
+      <rect x="236.5" y="345" width="80" height="245" fill="#123B57"/>
+      <rect x="328.5" y="436.3" width="80" height="153.7" fill="#4A7593"/>
+      <rect x="481.5" y="516.9" width="80" height="73.1" fill="#123B57"/>
+      <rect x="573.5" y="544.8" width="80" height="45.2" fill="#4A7593"/>
+      <rect x="726.5" y="361.3" width="80" height="228.7" fill="#123B57"/>
+      <rect x="818.5" y="487.1" width="80" height="102.9" fill="#4A7593"/>
+      <rect x="971.5" y="495.8" width="80" height="94.2" fill="#123B57"/>
+      <rect x="1063.5" y="508.3" width="80" height="81.7" fill="#4A7593"/>
+      <text x="276.5" y="337" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">176411</text>
+      <text x="368.5" y="428.3" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">110650</text>
+      <text x="521.5" y="508.9" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">52633</text>
+      <text x="613.5" y="536.8" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">32527</text>
+      <text x="766.5" y="353.3" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">164683</text>
+      <text x="858.5" y="479.1" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">74069</text>
+      <text x="1011.5" y="487.8" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">67806</text>
+      <text x="1103.5" y="500.3" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">58844</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》七、对外经济 表 10</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">11</text>
+  </g>
+</svg>

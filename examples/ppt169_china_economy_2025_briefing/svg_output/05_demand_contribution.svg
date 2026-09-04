@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/coin" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">一 · 坐标</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">增长从哪里来</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">三大需求对国内生产总值增长的拉动 · 单位：个百分点</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="gdp-contribution" data-pptx-replace-with="chart" data-pptx-bounds="64 190 1152 340" data-pptx-fallback-sha256="53b7be7a1cdcd605b0070e62f0948cacd90d9dafe818459c24dd86ac8947220d">
+    <metadata type="application/json">
+{
+  "x": 64, "y": 190, "width": 1152, "height": 340,
+  "name": "gdp-contribution",
+  "type": "waterfall",
+  "categories": ["最终消费支出", "资本形成总额", "货物和服务净出口", "全年增速"],
+  "values": [2.6, 0.8, 1.6, 5.0],
+  "subtotal_indices": [3],
+  "notes": [
+    {"text": "2.6", "x": 292, "y": 336, "width": 62, "height": 26, "font_size": 20, "color": "#123B57", "bold": true, "align": "ctr"},
+    {"text": "0.8", "x": 537, "y": 304, "width": 62, "height": 26, "font_size": 20, "color": "#123B57", "bold": true, "align": "ctr"},
+    {"text": "1.6", "x": 782, "y": 240, "width": 62, "height": 26, "font_size": 20, "color": "#123B57", "bold": true, "align": "ctr"},
+    {"text": "5.0", "x": 1027, "y": 240, "width": 62, "height": 26, "font_size": 20, "color": "#123B57", "bold": true, "align": "ctr"}
+  ],
+  "style": {
+    "colors": ["#123B57", "#C0392B"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 20,
+    "text_color": "#5F6B72",
+    "axis_color": "#CFC7B8",
+    "grid_color": "#CFC7B8",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="gdp-contribution-chartArea">
+      <line x1="200" y1="470" x2="1180" y2="470" stroke="#CFC7B8" stroke-width="1"/>
+      <text x="322.5" y="502" font-size="20" fill="#5F6B72" text-anchor="middle">最终消费支出</text>
+      <text x="567.5" y="502" font-size="20" fill="#5F6B72" text-anchor="middle">资本形成总额</text>
+      <text x="812.5" y="502" font-size="20" fill="#5F6B72" text-anchor="middle">货物和服务净出口</text>
+      <text x="1057.5" y="502" font-size="20" fill="#5F6B72" text-anchor="middle">全年增速</text>
+      <!-- chart-plot-area: object=gdp-contribution | 200,230,1180,470 -->
+      <rect x="252.5" y="366" width="140" height="104" fill="#123B57"/>
+      <rect x="497.5" y="334" width="140" height="32" fill="#123B57"/>
+      <rect x="742.5" y="270" width="140" height="64" fill="#123B57"/>
+      <rect x="987.5" y="270" width="140" height="200" fill="#C0392B"/>
+      <line x1="392.5" y1="366" x2="497.5" y2="366" stroke="#CFC7B8" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="637.5" y1="334" x2="742.5" y2="334" stroke="#CFC7B8" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="882.5" y1="270" x2="987.5" y2="270" stroke="#CFC7B8" stroke-width="1" stroke-dasharray="4,4"/>
+      <text x="322.5" y="354" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="middle">2.6</text>
+      <text x="567.5" y="322" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="middle">0.8</text>
+      <text x="812.5" y="258" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="middle">1.6</text>
+      <text x="1057.5" y="258" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="middle">5.0</text>
+    </g>
+  </g>
+
+  <g id="contribution-note" data-pptx-bounds="64 550 1152 84">
+    <line x1="64" y1="554" x2="1216" y2="554" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="588" font-size="24" fill="#1F2A30">最终消费支出拉动 <tspan font-family="Arial" font-weight="bold" fill="#C0392B">2.6</tspan> 个百分点，是三大需求中最大的一项。</text>
+    <text x="64" y="624" font-size="18" fill="#5F6B72">NO DATA：公报只给出三大需求各自的拉动百分点，未给出三者各自的绝对规模，本页不作推算。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》一、综合</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">05</text>
+  </g>
+</svg>

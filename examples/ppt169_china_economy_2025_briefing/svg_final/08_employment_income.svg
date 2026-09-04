@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57" />
+      <stop offset="100%" stop-color="#C0392B" />
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA" />
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    
+  <g transform="translate(64, 62) scale(0.833333)" fill="none" stroke="#5F6B72" stroke-width="2">
+    <path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9" />
+    <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2" />
+    <path d="M12 12l0 .01" />
+    <path d="M3 13a20 20 0 0 0 18 0" />
+  </g>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">二 · 人</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">就业与居民收入</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">全国居民五等份分组人均可支配收入 · 单位：元</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)" />
+  </g>
+
+  <g id="employment-stats" data-pptx-bounds="64 190 432 218">
+    <text x="64" y="216" font-size="24" fill="#5F6B72">年末全国就业人员</text>
+    <text x="64" y="290" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">72504</text>
+    <text x="64" y="330" font-size="18" fill="#5F6B72">万人 · 城镇就业 47535 万人，占 65.6%</text>
+    <text x="64" y="364" font-size="18" fill="#5F6B72">城镇新增就业 1267 万人（多增 11 万）</text>
+    <text x="64" y="398" font-size="18" fill="#5F6B72">城镇调查失业率平均 5.2%，年末 5.1%</text>
+  </g>
+
+  <g id="income-stats" data-pptx-bounds="64 430 432 198">
+    <line x1="64" y1="434" x2="496" y2="434" stroke="#CFC7B8" stroke-width="1" />
+    <text x="64" y="468" font-size="24" fill="#1F2A30">全国居民人均可支配收入</text>
+    <text x="64" y="512" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57">43377<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72"> 元 · 中位数 36231 元</tspan></text>
+    <text x="64" y="556" font-size="18" fill="#5F6B72">城镇 56502 元 · 农村 24456 元</text>
+    <text font-size="18" fill="#5F6B72" x="64" y="590">城乡居民人均可支配收入比值 2.31，</text><text font-size="18" fill="#5F6B72" x="64" y="616">比上年缩小 0.03</text></g>
+
+  <g id="income-quintiles" data-pptx-replace-with="chart" data-pptx-bounds="528 190 688 420" data-pptx-fallback-sha256="4ff0e330fb9a3c1c731ec76630bafa3e731d17542d96698a2619da2047d70008">
+    <metadata type="application/json">
+{
+  "x": 528, "y": 190, "width": 688, "height": 420,
+  "name": "income-quintiles",
+  "type": "bar",
+  "grouping": "clustered",
+  "categories": ["低收入组", "中间偏下收入组", "中间收入组", "中间偏上收入组", "高收入组"],
+  "series": [{"name": "人均可支配收入（元）", "values": [10150, 22702, 35536, 55586, 103778], "point_colors": ["#9DB4C4", "#7E9DB0", "#5E829C", "#3E6B8A", "#123B57"]}],
+  "plot_area": {"x": 700, "y": 220, "width": 480, "height": 320},
+  "data_labels": {"show_value": true, "position": "outside_end", "font_size": 20, "font_family": "Arial", "bold": true, "color": "#1F2A30"},
+  "axes": {
+    "category": {"kind": "text", "position": "left", "visible": true, "label_position": "next_to"},
+    "value": {"kind": "value", "position": "bottom", "visible": true, "minimum": 0, "maximum": 120000, "major_unit": 30000, "major_gridlines": true, "label_position": "next_to"}
+  },
+  "style": {
+    "colors": ["#123B57"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 20,
+    "axis_color": "#E4DED0",
+    "grid_color": "#E4DED0",
+    "text_color": "#5F6B72",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="income-quintiles-chartArea">
+      <line x1="700" y1="220" x2="700" y2="540" stroke="#E4DED0" stroke-width="1" />
+      <line x1="820" y1="220" x2="820" y2="540" stroke="#E4DED0" stroke-width="1" />
+      <line x1="940" y1="220" x2="940" y2="540" stroke="#E4DED0" stroke-width="1" />
+      <line x1="1060" y1="220" x2="1060" y2="540" stroke="#E4DED0" stroke-width="1" />
+      <line x1="1180" y1="220" x2="1180" y2="540" stroke="#E4DED0" stroke-width="1" />
+      <text x="700" y="568" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="middle">0</text>
+      <text x="820" y="568" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="middle">30000</text>
+      <text x="940" y="568" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="middle">60000</text>
+      <text x="1060" y="568" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="middle">90000</text>
+      <text x="690" y="259" font-size="20" fill="#5F6B72" text-anchor="end">低收入组</text>
+      <text x="690" y="323" font-size="20" fill="#5F6B72" text-anchor="end">中间偏下收入组</text>
+      <text x="690" y="387" font-size="20" fill="#5F6B72" text-anchor="end">中间收入组</text>
+      <text x="690" y="451" font-size="20" fill="#5F6B72" text-anchor="end">中间偏上收入组</text>
+      <text x="690" y="515" font-size="20" fill="#5F6B72" text-anchor="end">高收入组</text>
+      
+      <rect x="700" y="234" width="40.6" height="36" fill="#9DB4C4" />
+      <rect x="700" y="298" width="90.8" height="36" fill="#7E9DB0" />
+      <rect x="700" y="362" width="142.1" height="36" fill="#5E829C" />
+      <rect x="700" y="426" width="222.3" height="36" fill="#3E6B8A" />
+      <rect x="700" y="490" width="415.1" height="36" fill="#123B57" />
+      <text x="750.6" y="259" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">10150</text>
+      <text x="800.8" y="323" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">22702</text>
+      <text x="852.1" y="387" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">35536</text>
+      <text x="932.3" y="451" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">55586</text>
+      <text x="1125.1" y="515" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">103778</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1" />
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》一、综合；九、居民收入消费和社会保障；注释[64]</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">08</text>
+  </g>
+</svg>

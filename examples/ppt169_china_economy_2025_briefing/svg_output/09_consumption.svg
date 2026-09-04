@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/shopping-cart" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">三 · 需求三面</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">消费：社零总额与结构</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">单位：亿元</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="retail-total" data-pptx-bounds="64 190 552 134">
+    <text x="64" y="216" font-size="24" fill="#5F6B72">社会消费品零售总额</text>
+    <text x="64" y="292" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">501202</text>
+    <text x="320" y="292" font-size="24" fill="#1F2A30">亿元 · 比上年增长 <tspan font-weight="bold" fill="#2E6F4E">3.7%</tspan></text>
+  </g>
+
+  <g id="retail-percapita" data-pptx-bounds="664 190 552 134">
+    <text x="664" y="216" font-size="24" fill="#5F6B72">全国居民人均消费支出</text>
+    <text x="664" y="292" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">29476</text>
+    <text x="880" y="292" font-size="24" fill="#1F2A30">元 · 比上年增长 <tspan font-weight="bold" fill="#2E6F4E">4.4%</tspan></text>
+  </g>
+
+  <g id="retail-composition" data-pptx-replace-with="chart" data-pptx-bounds="64 326 1152 130" data-pptx-fallback-sha256="96dc324267b8c23c897182082e741656b407eec24cabf0996d5ead9f009f1a1a">
+    <metadata type="application/json">
+{
+  "x": 64, "y": 326, "width": 1152, "height": 130,
+  "name": "retail-composition",
+  "type": "bar",
+  "grouping": "stacked",
+  "categories": ["社会消费品零售总额"],
+  "series": [
+    {"name": "商品零售额", "values": [443220]},
+    {"name": "餐饮收入", "values": [57982]}
+  ],
+  "plot_area": {"x": 220, "y": 350, "width": 960, "height": 60},
+  "caption": {"text": "按消费类型拆分", "x": 220, "y": 328, "width": 300, "height": 24, "font_size": 18, "color": "#5F6B72", "align": "l"},
+  "show_legend": true,
+  "legend_position": "bottom",
+  "data_labels": {"show_value": true, "position": "center", "font_size": 20, "font_family": "Arial", "bold": true, "color": "#FFFFFF"},
+  "axes": {
+    "category": {"kind": "text", "position": "left", "visible": false, "label_position": "none"},
+    "value": {"kind": "value", "position": "bottom", "visible": false, "label_position": "none", "minimum": 0, "maximum": 501202, "major_gridlines": false}
+  },
+  "style": {
+    "colors": ["#123B57", "#4A7593"],
+    "font_family": "Microsoft YaHei",
+    "legend_font_size": 18,
+    "text_color": "#5F6B72",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="retail-composition-chartArea">
+      <text x="220" y="344" font-size="18" fill="#5F6B72">按消费类型拆分</text>
+      <!-- chart-plot-area: object=retail-composition | 220,350,1180,410 -->
+      <rect x="220" y="350" width="849.1" height="60" fill="#123B57"/>
+      <rect x="1069.1" y="350" width="110.9" height="60" fill="#4A7593"/>
+      <text x="644.6" y="387" font-family="Arial" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">443220</text>
+      <text x="1124.6" y="387" font-family="Arial" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">57982</text>
+      <rect x="220" y="428" width="16" height="16" fill="#123B57"/>
+      <text x="244" y="442" font-size="18" fill="#5F6B72">商品零售额</text>
+      <rect x="420" y="428" width="16" height="16" fill="#4A7593"/>
+      <text x="444" y="442" font-size="18" fill="#5F6B72">餐饮收入</text>
+    </g>
+  </g>
+
+  <g id="retail-urban-rural" data-pptx-bounds="64 476 1152 96">
+    <line x1="64" y1="480" x2="1216" y2="480" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="508" font-size="20" fill="#1F2A30">城镇消费品零售额 432972 亿元（+3.6%）</text>
+    <rect x="64" y="522" width="564" height="14" fill="#E4DED0"/>
+    <rect x="64" y="522" width="487.2" height="14" fill="#123B57"/>
+    <text x="664" y="508" font-size="20" fill="#1F2A30">乡村消费品零售额 68230 亿元（+4.1%）</text>
+    <rect x="664" y="522" width="552" height="14" fill="#E4DED0"/>
+    <rect x="664" y="522" width="75.2" height="14" fill="#2E6F4E"/>
+    <text x="64" y="566" font-size="18" fill="#5F6B72">商品零售额 443220 亿元（+3.8%）· 餐饮收入 57982 亿元（+3.2%）· 服务零售额比上年增长 5.5%</text>
+  </g>
+
+  <g id="retail-online" data-pptx-bounds="64 586 1152 50">
+    <g id="p09-online-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 586 1152 48" data-pptx-av-adj="val 30000" fill="#FFFFFF" stroke="#CFC7B8" stroke-width="1">
+<path d="M 64 586 L 1201.6 586 L 1216 600.4 L 1216 634 L 64 634 Z"/>
+</g>
+    <text x="88" y="617" font-size="20" fill="#1F2A30">实物商品网上零售额 130923 亿元，比上年增长 5.2%，占社会消费品零售总额比重 26.1%；恩格尔系数 29.3%</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》五、国内贸易；九、居民收入消费和社会保障</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">09</text>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57" />
+      <stop offset="100%" stop-color="#C0392B" />
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA" />
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    
+  <g transform="translate(64, 62) scale(0.833333)" fill="none" stroke="#5F6B72" stroke-width="2">
+    <path d="M13 3l0 7l6 0l-8 11l0 -7l-6 0l8 -11" />
+  </g>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">四 · 能源、创新与民生</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">能源与绿色转型</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">全年发电量构成 · 单位：亿千瓦时</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)" />
+  </g>
+
+  <g id="power-generation-mix" data-pptx-replace-with="chart" data-pptx-bounds="64 164 536 376" data-pptx-fallback-sha256="7d8d894c29c1f888c3f93e2a0449fc042acfcb94f5d4f03379994cf8d8473d49">
+    <metadata type="application/json">
+{
+  "x": 64, "y": 164, "width": 536, "height": 376,
+  "name": "power-generation-mix",
+  "type": "pie",
+  "categories": ["火电", "水电", "核电", "风电", "太阳能发电"],
+  "series": [{"name": "发电量（亿千瓦时）", "values": [63271.5, 14616.7, 4852.3, 11279.2, 11732.4]}],
+  "notes": [
+    {"text": "63271.5", "x": 470, "y": 378, "width": 96, "height": 26, "font_size": 20, "color": "#1F2A30", "bold": true, "align": "l"},
+    {"text": "14616.7", "x": 84, "y": 410, "width": 96, "height": 26, "font_size": 20, "color": "#1F2A30", "bold": true, "align": "r"},
+    {"text": "4852.3", "x": 74, "y": 316, "width": 86, "height": 26, "font_size": 20, "color": "#1F2A30", "bold": true, "align": "r"},
+    {"text": "11279.2", "x": 88, "y": 239, "width": 96, "height": 26, "font_size": 20, "color": "#1F2A30", "bold": true, "align": "r"},
+    {"text": "11732.4", "x": 214, "y": 166, "width": 96, "height": 26, "font_size": 20, "color": "#1F2A30", "bold": true, "align": "ctr"}
+  ],
+  "style": {
+    "colors": ["#5F6B72", "#4A7593", "#7E9DB0", "#2E6F4E", "#C98B2E"],
+    "font_family": "Microsoft YaHei",
+    "text_color": "#1F2A30",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="power-generation-mix-chartArea">
+      
+      <path d="M 320 350 L 320.0 205.0 A 145 145 0 1 1 236.03 468.21 Z" fill="#5F6B72" />
+      <path d="M 320 350 L 236.03 468.21 A 145 145 0 0 1 175.52 362.27 Z" fill="#4A7593" />
+      <path d="M 320 350 L 175.52 362.27 A 145 145 0 0 1 177.99 320.68 Z" fill="#7E9DB0" />
+      <path d="M 320 350 L 177.99 320.68 A 145 145 0 0 1 226.91 238.82 Z" fill="#2E6F4E" />
+      <path d="M 320 350 L 226.91 238.82 A 145 145 0 0 1 320.0 205.0 Z" fill="#C98B2E" />
+      <text x="470" y="396" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">63271.5</text>
+      <text x="470" y="418" font-size="18" fill="#5F6B72">火电</text>
+      <text x="180" y="428" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">14616.7</text>
+      <text x="180" y="450" font-size="18" fill="#5F6B72" text-anchor="end">水电</text>
+      <text x="160" y="334" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">4852.3</text>
+      <text x="160" y="356" font-size="18" fill="#5F6B72" text-anchor="end">核电</text>
+      <text x="184" y="257" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">11279.2</text>
+      <text x="184" y="279" font-size="18" fill="#5F6B72" text-anchor="end">风电</text>
+      <text x="262" y="184" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">11732.4</text>
+      <text x="262" y="206" font-size="18" fill="#5F6B72" text-anchor="middle">太阳能发电</text>
+    </g>
+  </g>
+
+  <g id="energy-output" data-pptx-bounds="648 170 568 176">
+    <text x="648" y="196" font-size="24" fill="#5F6B72">全年发电量</text>
+    <text x="648" y="272" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">105752.5</text>
+    <text x="648" y="310" font-size="20" fill="#1F2A30">亿千瓦时 · 比上年增长 <tspan font-weight="bold" fill="#2E6F4E">4.8%</tspan></text>
+    <text x="648" y="340" font-size="18" fill="#5F6B72">清洁能源发电量 42481 亿千瓦时（+14.4%）</text>
+  </g>
+
+  <g id="energy-capacity" data-pptx-bounds="648 360 568 142">
+    <line x1="648" y1="364" x2="1216" y2="364" stroke="#CFC7B8" stroke-width="1" />
+    <text x="648" y="396" font-size="20" fill="#1F2A30">年末发电装机容量 <tspan font-family="Arial" font-weight="bold">389134</tspan> 万千瓦（+16.1%）</text>
+    <text x="648" y="430" font-size="18" fill="#5F6B72">太阳能发电装机 120173 万千瓦（+35.4%）</text>
+    <text x="648" y="460" font-size="18" fill="#5F6B72">风电装机 64001 万千瓦（+22.9%）</text>
+    <text x="648" y="490" font-size="18" fill="#5F6B72">新能源汽车产量 1652.4 万辆（+25.1%）</text>
+  </g>
+
+  <g id="energy-nodata" data-pptx-bounds="648 506 568 50">
+    <text font-size="18" fill="#5F6B72" x="648" y="524">NO DATA：公报分别给出清洁能源发电量与全年发电量，</text><text font-size="18" fill="#5F6B72" x="648" y="548">未给出清洁能源占总发电量的比重，本页不作推算。</text></g>
+
+  <g id="energy-consumption" data-pptx-bounds="64 560 1152 76">
+    <line x1="64" y1="564" x2="1216" y2="564" stroke="#CFC7B8" stroke-width="1" />
+    <text x="64" y="594" font-size="18" fill="#5F6B72">能源消费总量 61.7 亿吨标准煤（+3.5%）· 煤炭消费量占比 51.4%（-1.8 个百分点）· 清洁能源消费量占比 30.4%（+1.8 个百分点）</text>
+    <text x="64" y="624" font-size="18" fill="#5F6B72">万元国内生产总值二氧化碳排放 -5.0% · 万元国内生产总值能耗 -5.1% · 监测的 339 个城市中空气质量达标占 72.6%</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1" />
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》表 4；一、综合；十二、资源、环境和应急管理</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">13</text>
+  </g>
+</svg>

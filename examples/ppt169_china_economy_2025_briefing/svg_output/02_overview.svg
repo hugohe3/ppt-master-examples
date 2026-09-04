@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/chart-bar" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">导读</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">六个数字读懂 2025</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="hero-gdp" data-pptx-bounds="64 172 352 186">
+    <g id="p02-gdp-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 172 352 186" data-pptx-av-adj="val 14000" fill="#FFFFFF" stroke="#CFC7B8" stroke-width="1">
+<path d="M 64 172 L 389.96 172 L 416 198.04 L 416 358 L 64 358 Z"/>
+</g>
+    <text x="88" y="222" font-size="24" fill="#5F6B72">国内生产总值</text>
+    <text x="88" y="300" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">1401879</text>
+    <text x="88" y="340" font-size="24" fill="#1F2A30">亿元 · 比上年增长 <tspan font-weight="bold" fill="#C0392B">5.0%</tspan></text>
+  </g>
+
+  <g id="stat-population" data-pptx-bounds="448 172 352 186">
+    <line x1="448" y1="176" x2="800" y2="176" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="448" y="222" font-size="24" fill="#5F6B72">年末全国人口</text>
+    <text x="448" y="300" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">140489</text>
+    <text x="448" y="340" font-size="24" fill="#1F2A30">万人 · 较上年末<tspan font-weight="bold" fill="#C0392B">减少 339 万</tspan></text>
+  </g>
+
+  <g id="stat-urbanization" data-pptx-bounds="832 172 352 186">
+    <line x1="832" y1="176" x2="1184" y2="176" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="832" y="222" font-size="24" fill="#5F6B72">常住人口城镇化率</text>
+    <text x="832" y="300" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">67.89</text>
+    <text x="832" y="340" font-size="24" fill="#1F2A30">% · 较上年末<tspan font-weight="bold" fill="#2E6F4E">+0.89 个百分点</tspan></text>
+  </g>
+
+  <g id="stat-income" data-pptx-bounds="64 418 352 186">
+    <line x1="64" y1="422" x2="416" y2="422" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="468" font-size="24" fill="#5F6B72">居民人均可支配收入</text>
+    <text x="64" y="546" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">43377</text>
+    <text x="64" y="586" font-size="24" fill="#1F2A30">元 · 比上年<tspan font-weight="bold" fill="#2E6F4E">增长 5.0%</tspan></text>
+  </g>
+
+  <g id="stat-trade" data-pptx-bounds="448 418 352 186">
+    <line x1="448" y1="422" x2="800" y2="422" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="448" y="468" font-size="24" fill="#5F6B72">货物进出口总额</text>
+    <text x="448" y="546" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">454685</text>
+    <text x="448" y="586" font-size="24" fill="#1F2A30">亿元 · 比上年<tspan font-weight="bold" fill="#2E6F4E">增长 3.8%</tspan></text>
+  </g>
+
+  <g id="stat-retail" data-pptx-bounds="832 418 352 186">
+    <line x1="832" y1="422" x2="1184" y2="422" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="832" y="468" font-size="24" fill="#5F6B72">社会消费品零售总额</text>
+    <text x="832" y="546" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">501202</text>
+    <text x="832" y="586" font-size="24" fill="#1F2A30">亿元 · 比上年<tspan font-weight="bold" fill="#2E6F4E">增长 3.7%</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《中华人民共和国 2025 年国民经济和社会发展统计公报》</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">02</text>
+  </g>
+</svg>

@@ -1,0 +1,450 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/world" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">三 · 需求三面</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">主要贸易伙伴</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">按出口额从大到小排列</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="trade-partners-table" data-pptx-replace-with="table" data-pptx-bounds="64 196 1152 408" data-pptx-fallback-sha256="f2a06afef1d9812134e162a1adcfe108f7d709bbb36a348aa427c3f4c903d55a">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 64,
+  "y": 200,
+  "width": 1152,
+  "height": 400,
+  "name": "trade-partners-table",
+  "header_rows": 1,
+  "column_widths": [
+    240,
+    190,
+    170,
+    210,
+    190,
+    152
+  ],
+  "row_heights": [
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40
+  ],
+  "defaults": {
+    "cell": {
+      "font_size": 20,
+      "align": "l",
+      "valign": "middle",
+      "color": "#1F2A30",
+      "padding": 8,
+      "borders": {
+        "top": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        },
+        "bottom": {
+          "style": "solid",
+          "color": "#CFC7B8",
+          "width": 1
+        }
+      }
+    }
+  },
+  "columns": [
+    {
+      "text": "国家和地区",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "l"
+    },
+    {
+      "text": "出口额（亿元）",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "r"
+    },
+    {
+      "text": "出口增速（%）",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "r"
+    },
+    {
+      "text": "占全部出口比重（%）",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "r"
+    },
+    {
+      "text": "进口额（亿元）",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "r"
+    },
+    {
+      "text": "进口增速（%）",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "r"
+    }
+  ],
+  "rows": [
+    [
+      {
+        "text": "东盟"
+      },
+      {
+        "text": "47596",
+        "align": "r"
+      },
+      {
+        "text": "+14.0",
+        "align": "r",
+        "color": "#2E6F4E"
+      },
+      {
+        "text": "17.6",
+        "align": "r"
+      },
+      {
+        "text": "27861",
+        "align": "r"
+      },
+      {
+        "text": "-1.0",
+        "align": "r",
+        "color": "#C0392B"
+      }
+    ],
+    [
+      {
+        "text": "欧盟"
+      },
+      {
+        "text": "40071",
+        "align": "r"
+      },
+      {
+        "text": "+9.0",
+        "align": "r",
+        "color": "#2E6F4E"
+      },
+      {
+        "text": "14.8",
+        "align": "r"
+      },
+      {
+        "text": "19182",
+        "align": "r"
+      },
+      {
+        "text": "+0.1",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "美国"
+      },
+      {
+        "text": "30067",
+        "align": "r"
+      },
+      {
+        "text": "-19.5",
+        "align": "r",
+        "color": "#C0392B"
+      },
+      {
+        "text": "11.1",
+        "align": "r"
+      },
+      {
+        "text": "10000",
+        "align": "r"
+      },
+      {
+        "text": "-14.1",
+        "align": "r",
+        "color": "#C0392B"
+      }
+    ],
+    [
+      {
+        "text": "中国香港"
+      },
+      {
+        "text": "24001",
+        "align": "r"
+      },
+      {
+        "text": "+16.1",
+        "align": "r",
+        "color": "#2E6F4E"
+      },
+      {
+        "text": "8.9",
+        "align": "r"
+      },
+      {
+        "text": "2266",
+        "align": "r"
+      },
+      {
+        "text": "+73.4",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "日本"
+      },
+      {
+        "text": "11261",
+        "align": "r"
+      },
+      {
+        "text": "+4.1",
+        "align": "r",
+        "color": "#2E6F4E"
+      },
+      {
+        "text": "4.2",
+        "align": "r"
+      },
+      {
+        "text": "11792",
+        "align": "r"
+      },
+      {
+        "text": "+6.1",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "韩国"
+      },
+      {
+        "text": "10319",
+        "align": "r"
+      },
+      {
+        "text": "-0.6",
+        "align": "r",
+        "color": "#C0392B"
+      },
+      {
+        "text": "3.8",
+        "align": "r"
+      },
+      {
+        "text": "13379",
+        "align": "r"
+      },
+      {
+        "text": "+3.6",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "印度"
+      },
+      {
+        "text": "9723",
+        "align": "r"
+      },
+      {
+        "text": "+13.4",
+        "align": "r",
+        "color": "#2E6F4E"
+      },
+      {
+        "text": "3.6",
+        "align": "r"
+      },
+      {
+        "text": "1412",
+        "align": "r"
+      },
+      {
+        "text": "+10.3",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "俄罗斯"
+      },
+      {
+        "text": "7384",
+        "align": "r"
+      },
+      {
+        "text": "-9.9",
+        "align": "r",
+        "color": "#C0392B"
+      },
+      {
+        "text": "2.7",
+        "align": "r"
+      },
+      {
+        "text": "8924",
+        "align": "r"
+      },
+      {
+        "text": "-3.4",
+        "align": "r",
+        "color": "#C0392B"
+      }
+    ],
+    [
+      {
+        "text": "中国台湾"
+      },
+      {
+        "text": "5982",
+        "align": "r"
+      },
+      {
+        "text": "+11.8",
+        "align": "r",
+        "color": "#2E6F4E"
+      },
+      {
+        "text": "2.2",
+        "align": "r"
+      },
+      {
+        "text": "16509",
+        "align": "r"
+      },
+      {
+        "text": "+6.5",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ]
+  ],
+  "style": {
+    "font_family": "Microsoft YaHei",
+    "font_size": 20,
+    "band_row": false
+  }
+}
+    </metadata>
+    <rect x="64" y="200" width="1152" height="40" fill="#123B57"/>
+    <text x="72" y="227" font-size="20" font-weight="bold" fill="#FFFFFF">国家和地区</text>
+    <text x="486" y="227" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">出口额（亿元）</text>
+    <text x="656" y="227" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">出口增速（%）</text>
+    <text x="866" y="227" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">占全部出口比重（%）</text>
+    <text x="1056" y="227" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">进口额（亿元）</text>
+    <text x="1208" y="227" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">进口增速（%）</text>
+    <text x="72" y="267" font-size="20" fill="#1F2A30">东盟</text>
+    <text x="486" y="267" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">47596</text>
+    <text x="656" y="267" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+14.0</text>
+    <text x="866" y="267" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">17.6</text>
+    <text x="1056" y="267" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">27861</text>
+    <text x="1208" y="267" font-family="Arial" font-size="20" fill="#C0392B" text-anchor="end">-1.0</text>
+    <line x1="64" y1="280" x2="1216" y2="280" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="307" font-size="20" fill="#1F2A30">欧盟</text>
+    <text x="486" y="307" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">40071</text>
+    <text x="656" y="307" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+9.0</text>
+    <text x="866" y="307" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">14.8</text>
+    <text x="1056" y="307" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">19182</text>
+    <text x="1208" y="307" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+0.1</text>
+    <line x1="64" y1="320" x2="1216" y2="320" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="347" font-size="20" fill="#1F2A30">美国</text>
+    <text x="486" y="347" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">30067</text>
+    <text x="656" y="347" font-family="Arial" font-size="20" fill="#C0392B" text-anchor="end">-19.5</text>
+    <text x="866" y="347" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">11.1</text>
+    <text x="1056" y="347" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">10000</text>
+    <text x="1208" y="347" font-family="Arial" font-size="20" fill="#C0392B" text-anchor="end">-14.1</text>
+    <line x1="64" y1="360" x2="1216" y2="360" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="387" font-size="20" fill="#1F2A30">中国香港</text>
+    <text x="486" y="387" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">24001</text>
+    <text x="656" y="387" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+16.1</text>
+    <text x="866" y="387" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">8.9</text>
+    <text x="1056" y="387" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">2266</text>
+    <text x="1208" y="387" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+73.4</text>
+    <line x1="64" y1="400" x2="1216" y2="400" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="427" font-size="20" fill="#1F2A30">日本</text>
+    <text x="486" y="427" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">11261</text>
+    <text x="656" y="427" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+4.1</text>
+    <text x="866" y="427" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">4.2</text>
+    <text x="1056" y="427" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">11792</text>
+    <text x="1208" y="427" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+6.1</text>
+    <line x1="64" y1="440" x2="1216" y2="440" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="467" font-size="20" fill="#1F2A30">韩国</text>
+    <text x="486" y="467" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">10319</text>
+    <text x="656" y="467" font-family="Arial" font-size="20" fill="#C0392B" text-anchor="end">-0.6</text>
+    <text x="866" y="467" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">3.8</text>
+    <text x="1056" y="467" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">13379</text>
+    <text x="1208" y="467" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+3.6</text>
+    <line x1="64" y1="480" x2="1216" y2="480" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="507" font-size="20" fill="#1F2A30">印度</text>
+    <text x="486" y="507" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">9723</text>
+    <text x="656" y="507" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+13.4</text>
+    <text x="866" y="507" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">3.6</text>
+    <text x="1056" y="507" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">1412</text>
+    <text x="1208" y="507" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+10.3</text>
+    <line x1="64" y1="520" x2="1216" y2="520" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="547" font-size="20" fill="#1F2A30">俄罗斯</text>
+    <text x="486" y="547" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">7384</text>
+    <text x="656" y="547" font-family="Arial" font-size="20" fill="#C0392B" text-anchor="end">-9.9</text>
+    <text x="866" y="547" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">2.7</text>
+    <text x="1056" y="547" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">8924</text>
+    <text x="1208" y="547" font-family="Arial" font-size="20" fill="#C0392B" text-anchor="end">-3.4</text>
+    <line x1="64" y1="560" x2="1216" y2="560" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="587" font-size="20" fill="#1F2A30">中国台湾</text>
+    <text x="486" y="587" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">5982</text>
+    <text x="656" y="587" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+11.8</text>
+    <text x="866" y="587" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">2.2</text>
+    <text x="1056" y="587" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">16509</text>
+    <text x="1208" y="587" font-family="Arial" font-size="20" fill="#2E6F4E" text-anchor="end">+6.5</text>
+    <line x1="64" y1="600" x2="1216" y2="600" stroke="#CFC7B8" stroke-width="1"/>
+  </g>
+
+  <g id="partners-note" data-pptx-bounds="64 610 1152 30">
+    <text x="64" y="630" font-size="18" fill="#5F6B72">口径：各项统计数据均未包括香港特别行政区、澳门特别行政区和台湾省；表中“中国香港”“中国台湾”为货物贸易统计口径。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》七、对外经济 表 13；注释[1]</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">12</text>
+  </g>
+</svg>

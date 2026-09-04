@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <!-- icon: tabler-outline/file-text -->
+  <g transform="translate(64, 62) scale(0.833333)" fill="none" stroke="#5F6B72" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">五 · 收束</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">关键要点回顾</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="takeaway-banner" data-pptx-bounds="64 170 1152 46">
+    <rect x="64" y="176" width="1152" height="6" fill="url(#accentRule)"/>
+    <text x="64" y="208" font-size="18" fill="#5F6B72">五条可复述的事实，每条都出自公报原文</text>
+  </g>
+
+  <g id="takeaway-bracket" data-pptx-bounds="64 236 48 392">
+    <g id="p16-list-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="64 240 40 384" fill="none" stroke="#C0392B" stroke-width="2">
+<path d="M 104 624 A 40 3.33 0 0 1 64 620.67 L 64 243.33 A 40 3.33 0 0 1 104 240 Z" stroke="none"/>
+<path d="M 104 624 A 40 3.33 0 0 1 64 620.67 L 64 243.33 A 40 3.33 0 0 1 104 240"/>
+</g>
+  </g>
+
+  <g id="takeaway-1" data-pptx-bounds="128 238 1088 72">
+    <text x="128" y="278" font-family="SimSun" font-size="42" font-weight="bold" fill="#C0392B">一</text>
+    <text x="200" y="270" font-size="24" font-weight="bold" fill="#123B57">总量与增速</text>
+    <text x="200" y="302" font-size="18" fill="#1F2A30">国内生产总值 1401879 亿元，比上年增长 5.0%；分季度增速由 5.4% 回落至 4.5%</text>
+  </g>
+
+  <g id="takeaway-2" data-pptx-bounds="128 314 1088 72">
+    <text x="128" y="354" font-family="SimSun" font-size="42" font-weight="bold" fill="#C0392B">二</text>
+    <text x="200" y="346" font-size="24" font-weight="bold" fill="#123B57">结构</text>
+    <text x="200" y="378" font-size="18" fill="#1F2A30">第三产业增加值占比 57.7%；最终消费支出拉动增长 2.6 个百分点，是三大需求中最大的一项</text>
+  </g>
+
+  <g id="takeaway-3" data-pptx-bounds="128 390 1088 72">
+    <text x="128" y="430" font-family="SimSun" font-size="42" font-weight="bold" fill="#C0392B">三</text>
+    <text x="200" y="422" font-size="24" font-weight="bold" fill="#123B57">人口</text>
+    <text x="200" y="454" font-size="18" fill="#1F2A30">年末全国人口 140489 万人，比上年末减少 339 万人；常住人口城镇化率 67.89%，提高 0.89 个百分点</text>
+  </g>
+
+  <g id="takeaway-4" data-pptx-bounds="128 466 1088 72">
+    <text x="128" y="506" font-family="SimSun" font-size="42" font-weight="bold" fill="#C0392B">四</text>
+    <text x="200" y="498" font-size="24" font-weight="bold" fill="#123B57">需求三面</text>
+    <text x="200" y="530" font-size="18" fill="#1F2A30">社会消费品零售总额 501202 亿元（+3.7%）· 货物进出口 454685 亿元（+3.8%）· 固定资产投资（不含农户）-3.8%</text>
+  </g>
+
+  <g id="takeaway-5" data-pptx-bounds="128 542 1088 72">
+    <text x="128" y="582" font-family="SimSun" font-size="42" font-weight="bold" fill="#C0392B">五</text>
+    <text x="200" y="574" font-size="24" font-weight="bold" fill="#123B57">新与绿</text>
+    <text x="200" y="606" font-size="18" fill="#1F2A30">太阳能发电量增长 39.8%，新能源汽车产量 1652.4 万辆增长 25.1%；万元国内生产总值二氧化碳排放下降 5.0%</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">16</text>
+  </g>
+</svg>

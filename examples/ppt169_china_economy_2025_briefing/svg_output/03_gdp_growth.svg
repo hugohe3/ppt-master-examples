@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/trending-up" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">一 · 坐标</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">总量与增速</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">分季度国内生产总值同比增速 · 单位：%</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="gdp-growth-hero" data-pptx-bounds="64 190 416 152">
+    <text x="64" y="216" font-size="24" fill="#5F6B72">全年增速</text>
+    <text x="64" y="300" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">5.0<tspan font-family="Microsoft YaHei" font-size="32" font-weight="normal" fill="#1F2A30">%</tspan></text>
+    <text x="64" y="332" font-size="18" fill="#5F6B72">国内生产总值 1401879 亿元</text>
+  </g>
+
+  <g id="gdp-companions" data-pptx-bounds="64 370 416 190">
+    <line x1="64" y1="372" x2="480" y2="372" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="406" font-size="24" fill="#1F2A30">人均国内生产总值</text>
+    <text x="300" y="406" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57">99665<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72"> 元</tspan></text>
+    <text x="480" y="406" font-size="18" fill="#2E6F4E" text-anchor="end">+5.1%</text>
+    <line x1="64" y1="444" x2="480" y2="444" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="478" font-size="24" fill="#1F2A30">国民总收入</text>
+    <text x="300" y="478" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57">1393700<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72"> 亿元</tspan></text>
+    <text x="480" y="478" font-size="18" fill="#2E6F4E" text-anchor="end">+5.1%</text>
+    <line x1="64" y1="516" x2="480" y2="516" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="550" font-size="24" fill="#1F2A30">全员劳动生产率</text>
+    <text x="300" y="550" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57">184413<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72"> 元/人</tspan></text>
+    <text x="480" y="550" font-size="18" fill="#2E6F4E" text-anchor="end">+6.1%</text>
+  </g>
+
+  <g id="quarterly-gdp-growth" data-pptx-replace-with="chart" data-pptx-bounds="528 190 688 420" data-pptx-fallback-sha256="9aeb731f79dd3534e6e2e7031f9e6e5cc189f486d9d72c02023497e79597b906">
+    <metadata type="application/json">
+{
+  "x": 528, "y": 190, "width": 688, "height": 420,
+  "name": "quarterly-gdp-growth",
+  "type": "line",
+  "grouping": "standard",
+  "line_style": "lineMarker",
+  "categories": ["一季度", "二季度", "三季度", "四季度"],
+  "series": [{"name": "国内生产总值同比增速", "values": [5.4, 5.2, 4.8, 4.5], "line_width": 3}],
+  "plot_area": {"x": 600, "y": 230, "width": 580, "height": 310},
+  "data_labels": {"show_value": true, "position": "above", "font_size": 20, "font_family": "Arial", "color": "#123B57"},
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to"},
+    "value": {"kind": "value", "position": "left", "visible": true, "minimum": 4.0, "maximum": 5.6, "major_unit": 0.4, "major_gridlines": true, "label_position": "next_to"}
+  },
+  "style": {
+    "colors": ["#123B57"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 20,
+    "axis_color": "#E4DED0",
+    "grid_color": "#E4DED0",
+    "text_color": "#5F6B72",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="quarterly-gdp-growth-chartArea">
+      <line x1="600" y1="230" x2="1180" y2="230" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="600" y1="307.5" x2="1180" y2="307.5" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="600" y1="385" x2="1180" y2="385" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="600" y1="462.5" x2="1180" y2="462.5" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="600" y1="540" x2="1180" y2="540" stroke="#CFC7B8" stroke-width="1"/>
+      <text x="584" y="314.5" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">5.2</text>
+      <text x="584" y="392" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">4.8</text>
+      <text x="584" y="469.5" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">4.4</text>
+      <text x="584" y="547" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">4.0</text>
+      <text x="672.5" y="572" font-size="20" fill="#5F6B72" text-anchor="middle">一季度</text>
+      <text x="817.5" y="572" font-size="20" fill="#5F6B72" text-anchor="middle">二季度</text>
+      <text x="962.5" y="572" font-size="20" fill="#5F6B72" text-anchor="middle">三季度</text>
+      <text x="1107.5" y="572" font-size="20" fill="#5F6B72" text-anchor="middle">四季度</text>
+      <!-- chart-plot-area: object=quarterly-gdp-growth | 600,230,1180,540 -->
+      <polyline points="672.5,268.75 817.5,307.5 962.5,385 1107.5,443.13" fill="none" stroke="#123B57" stroke-width="3"/>
+      <circle cx="672.5" cy="268.75" r="6" fill="#123B57"/>
+      <circle cx="817.5" cy="307.5" r="6" fill="#123B57"/>
+      <circle cx="962.5" cy="385" r="6" fill="#123B57"/>
+      <circle cx="1107.5" cy="443.13" r="6" fill="#123B57"/>
+      <text x="672.5" y="248" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="middle">5.4</text>
+      <text x="817.5" y="287" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="middle">5.2</text>
+      <text x="962.5" y="364" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="middle">4.8</text>
+      <text x="1107.5" y="422" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="middle">4.5</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》一、综合</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">03</text>
+  </g>
+</svg>

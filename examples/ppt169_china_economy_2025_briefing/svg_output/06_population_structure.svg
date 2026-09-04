@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/users" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">二 · 人</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">人口：总量与结构</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">2025 年年末人口数及其构成</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="hero-population" data-pptx-bounds="64 190 368 162">
+    <text x="64" y="216" font-size="24" fill="#5F6B72">年末全国人口</text>
+    <text x="64" y="300" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#123B57">140489</text>
+    <text x="64" y="340" font-size="24" fill="#1F2A30">万人 · 较上年末<tspan font-weight="bold" fill="#C0392B">减少 339 万</tspan></text>
+  </g>
+
+  <g id="population-note" data-pptx-bounds="64 380 368 246">
+    <line x1="64" y1="384" x2="432" y2="384" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="418" font-size="24" fill="#1F2A30">城镇常住人口</text>
+    <text x="64" y="452" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57">95380<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72"> 万人 · 占 67.9%</tspan></text>
+    <text x="64" y="510" font-size="24" fill="#1F2A30">乡村常住人口</text>
+    <text x="64" y="544" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57">45109<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72"> 万人 · 占 32.1%</tspan></text>
+    <text x="64" y="588" font-size="18" fill="#5F6B72">口径：全国人口指大陆 31 个省、<tspan x="64" dy="26">自治区、直辖市和现役军人的人口。</tspan></text>
+  </g>
+
+  <g id="population-structure-table" data-pptx-replace-with="table" data-pptx-bounds="448 196 768 408" data-pptx-fallback-sha256="9af22541fdce33d03cb22204b3935585c6442945456fd8a9842e5e9481ab1b54">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 448, "y": 200, "width": 768, "height": 400,
+  "name": "population-structure-table",
+  "header_rows": 1,
+  "column_widths": [380, 200, 188],
+  "row_heights": [40, 40, 40, 40, 40, 40, 40, 40, 40, 40],
+  "defaults": {
+    "cell": {
+      "font_size": 20,
+      "align": "l",
+      "valign": "middle",
+      "color": "#1F2A30",
+      "padding": 8,
+      "borders": {
+        "top": {"style": "none"},
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#CFC7B8", "width": 1}
+      }
+    }
+  },
+  "columns": [
+    {"text": "指标", "fill": "#123B57", "color": "#FFFFFF", "bold": true},
+    {"text": "年末数（万人）", "fill": "#123B57", "color": "#FFFFFF", "bold": true, "align": "r"},
+    {"text": "比重（%）", "fill": "#123B57", "color": "#FFFFFF", "bold": true, "align": "r"}
+  ],
+  "rows": [
+    [{"text": "全国人口", "bold": true}, {"text": "140489", "align": "r", "bold": true}, {"text": "100.0", "align": "r", "bold": true}],
+    [{"text": "其中：城镇"}, {"text": "95380", "align": "r"}, {"text": "67.9", "align": "r"}],
+    [{"text": "　　　乡村"}, {"text": "45109", "align": "r"}, {"text": "32.1", "align": "r"}],
+    [{"text": "其中：男性"}, {"text": "71685", "align": "r"}, {"text": "51.0", "align": "r"}],
+    [{"text": "　　　女性"}, {"text": "68804", "align": "r"}, {"text": "49.0", "align": "r"}],
+    [{"text": "其中：0—15 岁（含不满 16 周岁）"}, {"text": "23015", "align": "r"}, {"text": "16.4", "align": "r"}],
+    [{"text": "　　　16—59 岁（含不满 60 周岁）"}, {"text": "85136", "align": "r"}, {"text": "60.6", "align": "r"}],
+    [{"text": "　　　60 周岁及以上"}, {"text": "32338", "align": "r"}, {"text": "23.0", "align": "r"}],
+    [{"text": "　　　其中：65 周岁及以上"}, {"text": "22365", "align": "r"}, {"text": "15.9", "align": "r"}]
+  ],
+  "style": {
+    "font_family": "Microsoft YaHei",
+    "font_size": 20,
+    "band_row": false
+  }
+}
+    </metadata>
+    <rect x="448" y="200" width="768" height="40" fill="#123B57"/>
+    <text x="456" y="227" font-size="20" font-weight="bold" fill="#FFFFFF">指标</text>
+    <text x="1020" y="227" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">年末数（万人）</text>
+    <text x="1208" y="227" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">比重（%）</text>
+    <text x="456" y="267" font-size="20" font-weight="bold" fill="#1F2A30">全国人口</text>
+    <text x="1020" y="267" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">140489</text>
+    <text x="1208" y="267" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">100.0</text>
+    <line x1="448" y1="280" x2="1216" y2="280" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="456" y="307" font-size="20" fill="#1F2A30">其中：城镇</text>
+    <text x="1020" y="307" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">95380</text>
+    <text x="1208" y="307" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">67.9</text>
+    <line x1="448" y1="320" x2="1216" y2="320" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="456" y="347" font-size="20" fill="#1F2A30">　　　乡村</text>
+    <text x="1020" y="347" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">45109</text>
+    <text x="1208" y="347" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">32.1</text>
+    <line x1="448" y1="360" x2="1216" y2="360" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="456" y="387" font-size="20" fill="#1F2A30">其中：男性</text>
+    <text x="1020" y="387" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">71685</text>
+    <text x="1208" y="387" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">51.0</text>
+    <line x1="448" y1="400" x2="1216" y2="400" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="456" y="427" font-size="20" fill="#1F2A30">　　　女性</text>
+    <text x="1020" y="427" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">68804</text>
+    <text x="1208" y="427" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">49.0</text>
+    <line x1="448" y1="440" x2="1216" y2="440" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="456" y="467" font-size="20" fill="#1F2A30">其中：0—15 岁（含不满 16 周岁）</text>
+    <text x="1020" y="467" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">23015</text>
+    <text x="1208" y="467" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">16.4</text>
+    <line x1="448" y1="480" x2="1216" y2="480" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="456" y="507" font-size="20" fill="#1F2A30">　　　16—59 岁（含不满 60 周岁）</text>
+    <text x="1020" y="507" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">85136</text>
+    <text x="1208" y="507" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">60.6</text>
+    <line x1="448" y1="520" x2="1216" y2="520" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="456" y="547" font-size="20" fill="#1F2A30">　　　60 周岁及以上</text>
+    <text x="1020" y="547" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">32338</text>
+    <text x="1208" y="547" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">23.0</text>
+    <line x1="448" y1="560" x2="1216" y2="560" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="456" y="587" font-size="20" fill="#1F2A30">　　　其中：65 周岁及以上</text>
+    <text x="1020" y="587" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">22365</text>
+    <text x="1208" y="587" font-family="Arial" font-size="20" fill="#1F2A30" text-anchor="end">15.9</text>
+    <line x1="448" y1="600" x2="1216" y2="600" stroke="#CFC7B8" stroke-width="1"/>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》表 1；注释[5]</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">06</text>
+  </g>
+</svg>

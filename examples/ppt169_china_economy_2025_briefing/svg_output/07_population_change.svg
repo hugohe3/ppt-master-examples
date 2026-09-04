@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/home" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">二 · 人</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">人口变动</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">出生、死亡与城镇化 · 单位：万人</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="births-deaths" data-pptx-replace-with="chart" data-pptx-bounds="64 190 576 420" data-pptx-fallback-sha256="c91a89f6565eec98884cdd248c4649a88d63c26a0ac93c32116a49f18379afdb">
+    <metadata type="application/json">
+{
+  "x": 64, "y": 190, "width": 576, "height": 420,
+  "name": "births-deaths",
+  "type": "column",
+  "grouping": "clustered",
+  "categories": ["出生人口", "死亡人口"],
+  "series": [{"name": "人数（万人）", "values": [792, 1131], "point_colors": ["#2E6F4E", "#C0392B"]}],
+  "plot_area": {"x": 160, "y": 240, "width": 440, "height": 280},
+  "data_labels": {"show_value": true, "position": "outside_end", "font_size": 20, "font_family": "Arial", "bold": true, "color": "#1F2A30"},
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to"},
+    "value": {"kind": "value", "position": "left", "visible": true, "minimum": 0, "maximum": 1200, "major_unit": 300, "major_gridlines": true, "label_position": "next_to"}
+  },
+  "style": {
+    "colors": ["#123B57"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 20,
+    "axis_color": "#E4DED0",
+    "grid_color": "#E4DED0",
+    "text_color": "#5F6B72",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="births-deaths-chartArea">
+      <line x1="160" y1="240" x2="600" y2="240" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="160" y1="310" x2="600" y2="310" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="160" y1="380" x2="600" y2="380" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="160" y1="450" x2="600" y2="450" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="160" y1="520" x2="600" y2="520" stroke="#E4DED0" stroke-width="1"/>
+      <text x="150" y="317" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">900</text>
+      <text x="150" y="387" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">600</text>
+      <text x="150" y="457" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">300</text>
+      <text x="150" y="527" font-family="Arial" font-size="20" fill="#5F6B72" text-anchor="end">0</text>
+      <text x="270" y="552" font-size="20" fill="#5F6B72" text-anchor="middle">出生人口</text>
+      <text x="490" y="552" font-size="20" fill="#5F6B72" text-anchor="middle">死亡人口</text>
+      <!-- chart-plot-area: object=births-deaths | 160,240,600,520 -->
+      <rect x="210" y="335.2" width="120" height="184.8" fill="#2E6F4E"/>
+      <rect x="430" y="256.1" width="120" height="263.9" fill="#C0392B"/>
+      <text x="270" y="323" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">792</text>
+      <text x="490" y="244" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">1131</text>
+    </g>
+  </g>
+
+  <g id="natural-growth" data-pptx-bounds="688 190 528 164">
+    <text x="688" y="216" font-size="24" fill="#5F6B72">人口自然增长率</text>
+    <text x="688" y="300" font-family="Times New Roman" font-size="72" font-weight="bold" fill="#C0392B">−2.41<tspan font-family="Microsoft YaHei" font-size="32" font-weight="normal" fill="#1F2A30">‰</tspan></text>
+    <text x="688" y="340" font-size="18" fill="#5F6B72">出生率 5.63‰ · 死亡率 8.04‰</text>
+  </g>
+
+  <g id="net-change" data-pptx-bounds="688 380 528 108">
+    <g id="p07-net-change-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="688 386 56 96" fill="#C0392B" stroke="none">
+<path d="M 688 454 L 702 454 L 702 386 L 730 386 L 730 454 L 744 454 L 716 482 Z"/>
+</g>
+    <text x="772" y="424" font-size="24" fill="#1F2A30">年末全国人口比上年末</text>
+    <text x="772" y="464" font-size="24" font-weight="bold" fill="#C0392B">减少 339 万人</text>
+  </g>
+
+  <g id="urbanization-bar" data-pptx-bounds="688 510 528 112">
+    <line x1="688" y1="514" x2="1216" y2="514" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="688" y="548" font-size="24" fill="#1F2A30">常住人口城镇化率</text>
+    <text x="1216" y="548" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="end">67.89%</text>
+    <rect x="688" y="566" width="528" height="16" fill="#E4DED0"/>
+    <rect x="688" y="566" width="358.5" height="16" fill="#123B57"/>
+    <text x="688" y="612" font-size="18" fill="#5F6B72">比上年末提高 0.89 个百分点；城镇常住人口 95380 万人</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》一、综合</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">07</text>
+  </g>
+</svg>

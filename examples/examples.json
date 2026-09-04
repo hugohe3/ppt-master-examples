@@ -2,11 +2,120 @@
   "version": 1,
   "updated": "2026-09-04",
   "stats": {
-    "examples": 16,
-    "pages": 236,
-    "templates": 16
+    "examples": 17,
+    "pages": 253,
+    "templates": 17
   },
   "projects": [
+    {
+      "id": "ppt169_china_economy_2025_briefing",
+      "title": "2025 年中国经济数据简报",
+      "description": "数据简报 17 页 — 以国家统计局 2025 年统计公报为源,10 张原生图表(6 种类型)+ 3 张原生表,每个数字回源可查,数据新闻风格,Default 路线源文件驱动生成",
+      "icon": "📊",
+      "color": "#123B57",
+      "style": "data",
+      "styleName": "Data Journalism Briefing",
+      "desc": "A seventeen-page data briefing built from the National Bureau of Statistics communiqué on China's 2025 economic and social development: GDP and quarterly growth, the three-industry structure, demand contribution, population and its change, employment and income, consumption, investment, foreign trade and partners, energy and the green transition, innovation and the digital economy, livelihood, key takeaways, and sources. Ten native-ready charts in six types (column, bar, line, doughnut, pie, waterfall) and three native-ready tables become real PowerPoint chart and table objects in the second export; hero numbers, progress bars and preset shapes carry the rest in native geometry, with no images by design. Every figure is quoted from the communiqué in its written form, the three values it does not give show NO DATA, and a fidelity note traces ten sampled numbers back to their source sentences. Lining-figure number faces, sixty-one entrance animations and four Morph transitions finish the deck, generated on the Default runtime from the source document with speaker notes.",
+      "tags": [
+        "Economy",
+        "Data",
+        "Native Charts",
+        "Native Tables"
+      ],
+      "isNew": true,
+      "folder": "ppt169_china_economy_2025_briefing/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · 2025 年中国经济数据简报"
+        },
+        {
+          "file": "02_overview.svg",
+          "title": "overview",
+          "desc": "导读 · 五个关键数字"
+        },
+        {
+          "file": "03_gdp_growth.svg",
+          "title": "gdp growth",
+          "desc": "总量与增速"
+        },
+        {
+          "file": "04_industry_share.svg",
+          "title": "industry share",
+          "desc": "三次产业：结构与贡献"
+        },
+        {
+          "file": "05_demand_contribution.svg",
+          "title": "demand contribution",
+          "desc": "增长从哪里来：三大需求"
+        },
+        {
+          "file": "06_population_structure.svg",
+          "title": "population structure",
+          "desc": "人口：总量与结构（原生表）"
+        },
+        {
+          "file": "07_population_change.svg",
+          "title": "population change",
+          "desc": "人口变动：出生、死亡与自然增长"
+        },
+        {
+          "file": "08_employment_income.svg",
+          "title": "employment income",
+          "desc": "就业与居民收入"
+        },
+        {
+          "file": "09_consumption.svg",
+          "title": "consumption",
+          "desc": "消费：商品零售与餐饮"
+        },
+        {
+          "file": "10_investment.svg",
+          "title": "investment",
+          "desc": "投资：全面收缩"
+        },
+        {
+          "file": "11_foreign_trade.svg",
+          "title": "foreign trade",
+          "desc": "对外贸易：规模与口径"
+        },
+        {
+          "file": "12_trade_partners.svg",
+          "title": "trade partners",
+          "desc": "主要贸易伙伴（原生表）"
+        },
+        {
+          "file": "13_energy_green.svg",
+          "title": "energy green",
+          "desc": "能源与绿色转型"
+        },
+        {
+          "file": "14_innovation_digital.svg",
+          "title": "innovation digital",
+          "desc": "创新与数字经济"
+        },
+        {
+          "file": "15_livelihood.svg",
+          "title": "livelihood",
+          "desc": "民生：社保、医疗与教育（原生表）"
+        },
+        {
+          "file": "16_key_takeaways.svg",
+          "title": "key takeaways",
+          "desc": "关键要点回顾"
+        },
+        {
+          "file": "17_sources.svg",
+          "title": "sources",
+          "desc": "数据来源与口径"
+        }
+      ],
+      "pptx": "examples/ppt169_china_economy_2025_briefing/exports/ppt169_china_economy_2025_briefing.pptx",
+      "pptxNative": "examples/ppt169_china_economy_2025_briefing/exports/ppt169_china_economy_2025_briefing_native_charts_tables.pptx"
+    },
     {
       "id": "story_autumn_solar_terms",
       "title": "二十四节气手账·秋",

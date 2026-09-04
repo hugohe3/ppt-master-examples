@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/shield-check" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">四 · 能源、创新与民生</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">民生：社保、医疗与教育</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">五项社会保险年末参保人数</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="social-insurance-table" data-pptx-replace-with="table" data-pptx-bounds="64 196 640 272" data-pptx-fallback-sha256="3c47bac6f7b8dabadc8c4861a98ea2387aed47601b9f3f02871266be9b9486ed">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 64,
+  "y": 200,
+  "width": 640,
+  "height": 264,
+  "name": "social-insurance-table",
+  "header_rows": 1,
+  "column_widths": [
+    220,
+    210,
+    210
+  ],
+  "row_heights": [
+    44,
+    44,
+    44,
+    44,
+    44,
+    44
+  ],
+  "defaults": {
+    "cell": {
+      "font_size": 18,
+      "align": "l",
+      "valign": "middle",
+      "color": "#1F2A30",
+      "padding": 8,
+      "borders": {
+        "top": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        },
+        "bottom": {
+          "style": "solid",
+          "color": "#CFC7B8",
+          "width": 1
+        }
+      }
+    }
+  },
+  "columns": [
+    {
+      "text": "险种",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "l"
+    },
+    {
+      "text": "年末参保人数（万人）",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "r"
+    },
+    {
+      "text": "比上年末增加（万人）",
+      "fill": "#123B57",
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "r"
+    }
+  ],
+  "rows": [
+    [
+      {
+        "text": "基本医疗保险"
+      },
+      {
+        "text": "133068",
+        "align": "r"
+      },
+      {
+        "text": "+406",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "基本养老保险"
+      },
+      {
+        "text": "107599",
+        "align": "r"
+      },
+      {
+        "text": "+316",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "工伤保险"
+      },
+      {
+        "text": "30500",
+        "align": "r"
+      },
+      {
+        "text": "+102",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "生育保险"
+      },
+      {
+        "text": "25966",
+        "align": "r"
+      },
+      {
+        "text": "+666",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ],
+    [
+      {
+        "text": "失业保险"
+      },
+      {
+        "text": "24918",
+        "align": "r"
+      },
+      {
+        "text": "+329",
+        "align": "r",
+        "color": "#2E6F4E"
+      }
+    ]
+  ],
+  "style": {
+    "font_family": "Microsoft YaHei",
+    "font_size": 18,
+    "band_row": false
+  }
+}
+    </metadata>
+    <rect x="64" y="200" width="640" height="44" fill="#123B57"/>
+    <text x="72" y="228" font-size="18" font-weight="bold" fill="#FFFFFF">险种</text>
+    <text x="506" y="228" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="end">年末参保人数（万人）</text>
+    <text x="696" y="228" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="end">比上年末增加（万人）</text>
+    <text x="72" y="272" font-size="18" fill="#1F2A30">基本医疗保险</text>
+    <text x="506" y="272" font-family="Arial" font-size="18" fill="#1F2A30" text-anchor="end">133068</text>
+    <text x="696" y="272" font-family="Arial" font-size="18" fill="#2E6F4E" text-anchor="end">+406</text>
+    <line x1="64" y1="288" x2="704" y2="288" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="316" font-size="18" fill="#1F2A30">基本养老保险</text>
+    <text x="506" y="316" font-family="Arial" font-size="18" fill="#1F2A30" text-anchor="end">107599</text>
+    <text x="696" y="316" font-family="Arial" font-size="18" fill="#2E6F4E" text-anchor="end">+316</text>
+    <line x1="64" y1="332" x2="704" y2="332" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="360" font-size="18" fill="#1F2A30">工伤保险</text>
+    <text x="506" y="360" font-family="Arial" font-size="18" fill="#1F2A30" text-anchor="end">30500</text>
+    <text x="696" y="360" font-family="Arial" font-size="18" fill="#2E6F4E" text-anchor="end">+102</text>
+    <line x1="64" y1="376" x2="704" y2="376" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="404" font-size="18" fill="#1F2A30">生育保险</text>
+    <text x="506" y="404" font-family="Arial" font-size="18" fill="#1F2A30" text-anchor="end">25966</text>
+    <text x="696" y="404" font-family="Arial" font-size="18" fill="#2E6F4E" text-anchor="end">+666</text>
+    <line x1="64" y1="420" x2="704" y2="420" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="72" y="448" font-size="18" fill="#1F2A30">失业保险</text>
+    <text x="506" y="448" font-family="Arial" font-size="18" fill="#1F2A30" text-anchor="end">24918</text>
+    <text x="696" y="448" font-family="Arial" font-size="18" fill="#2E6F4E" text-anchor="end">+329</text>
+    <line x1="64" y1="464" x2="704" y2="464" stroke="#CFC7B8" stroke-width="1"/>
+  </g>
+
+  <g id="livelihood-support" data-pptx-bounds="64 490 640 76">
+    <line x1="64" y1="494" x2="704" y2="494" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="528" font-size="20" fill="#1F2A30">年末 595 万人享受城市最低生活保障，<tspan x="64" dy="30">3340 万人享受农村最低生活保障。</tspan></text>
+  </g>
+
+  <g id="health-stats" data-pptx-bounds="752 196 464 136">
+    <text x="752" y="222" font-size="24" fill="#5F6B72">医疗卫生</text>
+    <text x="752" y="262" font-size="20" fill="#1F2A30">年末医疗卫生机构 <tspan font-family="Arial" font-weight="bold">110.7</tspan> 万个</text>
+    <text x="752" y="292" font-size="20" fill="#1F2A30">床位 1009 万张 · 卫生技术人员 1340 万人</text>
+    <text x="752" y="322" font-size="20" fill="#1F2A30">全年总诊疗 105.8 亿人次，出院 3.0 亿人次</text>
+  </g>
+
+  <g id="education-stats" data-pptx-bounds="752 350 464 224">
+    <line x1="752" y1="354" x2="1216" y2="354" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="752" y="388" font-size="24" fill="#5F6B72">教育</text>
+    <text x="752" y="428" font-size="20" fill="#1F2A30">九年义务教育巩固率 <tspan font-family="Arial" font-weight="bold">96.1%</tspan></text>
+    <text x="752" y="458" font-size="20" fill="#1F2A30">高中阶段毛入学率 <tspan font-family="Arial" font-weight="bold">92.0%</tspan></text>
+    <text x="752" y="496" font-size="20" fill="#1F2A30">16—59 岁人口平均受教育年限 11.3 年，<tspan x="752" dy="30">比上年提高 0.1 年</tspan></text>
+    <text x="752" y="566" font-size="20" fill="#1F2A30">在学研究生 430.0 万人</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》九、居民收入消费和社会保障；十、科学技术和教育；十一、文化旅游、卫生健康和体育</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">15</text>
+  </g>
+</svg>

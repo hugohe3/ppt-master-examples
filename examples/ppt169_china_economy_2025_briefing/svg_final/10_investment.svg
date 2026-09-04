@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <!-- icon: tabler-outline/building-bridge-2 -->
+  <g transform="translate(64, 62) scale(0.833333)" fill="none" stroke="#5F6B72" stroke-width="2">
+    <path d="M6 7h12a2 2 0 0 1 2 2v9a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1v-2a4 4 0 0 0 -8 0v2a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1v-9a2 2 0 0 1 2 -2" />
+  </g>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">三 · 需求三面</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">投资：全面收缩</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">分行业固定资产投资（不含农户）增速 · 单位：%</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="investment-summary" data-pptx-bounds="64 186 1152 98">
+    <text x="64" y="214" font-size="20" fill="#1F2A30">全社会固定资产投资 <tspan font-family="Arial" font-weight="bold">491109</tspan> 亿元，比上年下降 <tspan font-weight="bold" fill="#C0392B">3.9%</tspan>；不含农户 <tspan font-family="Arial" font-weight="bold">485186</tspan> 亿元，下降 <tspan font-weight="bold" fill="#C0392B">3.8%</tspan></text>
+    <text x="64" y="244" font-size="18" fill="#5F6B72">第一产业 9570 亿元（+2.3%）· 第二产业 177368 亿元（+2.5%）· 第三产业 298248 亿元（-7.4%）</text>
+    <text x="64" y="272" font-size="18" fill="#5F6B72">房地产开发投资 82788 亿元（-17.2%），其中住宅 63514 亿元（-16.3%）· 基础设施投资 -2.2% · 民间投资 -6.4%</text>
+  </g>
+
+  <g id="investment-by-industry" data-pptx-replace-with="chart" data-pptx-bounds="64 300 1152 340" data-pptx-fallback-sha256="f7b853e0a2ae66cc89ab83d546ce4a44e031c9cd0f337b60c78e4abf59f36d1a">
+    <metadata type="application/json">
+{
+  "x": 64, "y": 300, "width": 1152, "height": 340,
+  "name": "investment-by-industry",
+  "type": "bar",
+  "grouping": "clustered",
+  "categories": [
+    "电力、热力、燃气及水生产和供应业",
+    "信息传输、软件和信息技术服务业",
+    "金融业",
+    "批发和零售业",
+    "制造业",
+    "总计",
+    "水利、环境和公共设施管理业",
+    "卫生和社会工作",
+    "房地产业",
+    "建筑业"
+  ],
+  "series": [{
+    "name": "比上年增长（%）",
+    "values": [9.1, 8.8, 7.2, 5.6, 0.6, -3.8, -8.4, -12.3, -17.5, -22.2],
+    "point_colors": ["#2E6F4E", "#2E6F4E", "#2E6F4E", "#2E6F4E", "#2E6F4E", "#123B57", "#C0392B", "#C0392B", "#C0392B", "#C0392B"]
+  }],
+  "plot_area": {"x": 420, "y": 320, "width": 760, "height": 280},
+  "data_labels": {"show_value": true, "position": "outside_end", "font_size": 20, "font_family": "Arial", "bold": true, "color": "#1F2A30"},
+  "axes": {
+    "category": {"kind": "text", "position": "left", "visible": true, "label_position": "low", "reverse": true},
+    "value": {"kind": "value", "position": "bottom", "visible": true, "minimum": -24, "maximum": 12, "major_unit": 6, "major_gridlines": true, "label_position": "next_to"}
+  },
+  "style": {
+    "colors": ["#123B57"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 18,
+    "axis_color": "#E4DED0",
+    "grid_color": "#E4DED0",
+    "text_color": "#5F6B72",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="investment-by-industry-chartArea">
+      <line x1="420" y1="320" x2="420" y2="600" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="546.67" y1="320" x2="546.67" y2="600" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="673.33" y1="320" x2="673.33" y2="600" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="800" y1="320" x2="800" y2="600" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="1053.33" y1="320" x2="1053.33" y2="600" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="1180" y1="320" x2="1180" y2="600" stroke="#E4DED0" stroke-width="1"/>
+      <line x1="926.67" y1="320" x2="926.67" y2="600" stroke="#CFC7B8" stroke-width="1"/>
+      <text x="420" y="628" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="middle">-24</text>
+      <text x="546.67" y="628" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="middle">-18</text>
+      <text x="673.33" y="628" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="middle">-12</text>
+      <text x="800" y="628" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="middle">-6</text>
+      <text x="926.67" y="628" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="middle">0</text>
+      <text x="1053.33" y="628" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="middle">6</text>
+      <text x="380" y="340" font-size="18" fill="#5F6B72" text-anchor="end">电力、热力、燃气及水生产和供应业</text>
+      <text x="380" y="368" font-size="18" fill="#5F6B72" text-anchor="end">信息传输、软件和信息技术服务业</text>
+      <text x="380" y="396" font-size="18" fill="#5F6B72" text-anchor="end">金融业</text>
+      <text x="380" y="424" font-size="18" fill="#5F6B72" text-anchor="end">批发和零售业</text>
+      <text x="380" y="452" font-size="18" fill="#5F6B72" text-anchor="end">制造业</text>
+      <text x="380" y="480" font-size="18" fill="#5F6B72" text-anchor="end">总计</text>
+      <text x="380" y="508" font-size="18" fill="#5F6B72" text-anchor="end">水利、环境和公共设施管理业</text>
+      <text x="380" y="536" font-size="18" fill="#5F6B72" text-anchor="end">卫生和社会工作</text>
+      <text x="380" y="564" font-size="18" fill="#5F6B72" text-anchor="end">房地产业</text>
+      <text x="380" y="592" font-size="18" fill="#5F6B72" text-anchor="end">建筑业</text>
+      <!-- chart-plot-area: object=investment-by-industry | 420,320,1180,600 -->
+      <rect x="926.67" y="326" width="192.11" height="16" fill="#2E6F4E"/>
+      <rect x="926.67" y="354" width="185.78" height="16" fill="#2E6F4E"/>
+      <rect x="926.67" y="382" width="152" height="16" fill="#2E6F4E"/>
+      <rect x="926.67" y="410" width="118.22" height="16" fill="#2E6F4E"/>
+      <rect x="926.67" y="438" width="12.67" height="16" fill="#2E6F4E"/>
+      <rect x="846.44" y="466" width="80.23" height="16" fill="#123B57"/>
+      <rect x="749.34" y="494" width="177.33" height="16" fill="#C0392B"/>
+      <rect x="667" y="522" width="259.67" height="16" fill="#C0392B"/>
+      <rect x="557.23" y="550" width="369.44" height="16" fill="#C0392B"/>
+      <rect x="458" y="578" width="468.67" height="16" fill="#C0392B"/>
+      <text x="1128.78" y="340" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">9.1</text>
+      <text x="1122.45" y="368" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">8.8</text>
+      <text x="1088.67" y="396" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">7.2</text>
+      <text x="1054.89" y="424" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">5.6</text>
+      <text x="949.34" y="452" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">0.6</text>
+      <text x="836.44" y="480" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">-3.8</text>
+      <text x="739.34" y="508" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">-8.4</text>
+      <text x="657" y="536" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">-12.3</text>
+      <text x="547.23" y="564" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">-17.5</text>
+      <text x="448" y="592" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">-22.2</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》六、固定资产投资 表 7；注释[20]</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">10</text>
+  </g>
+</svg>

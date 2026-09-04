@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57" />
+      <stop offset="100%" stop-color="#C0392B" />
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA" />
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    
+  <g transform="translate(64, 62) scale(0.833333)" fill="none" stroke="#5F6B72" stroke-width="2">
+    <path d="M5 6a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v12a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1l0 -12" />
+    <path d="M9 9h6v6h-6l0 -6" />
+    <path d="M3 10h2" />
+    <path d="M3 14h2" />
+    <path d="M10 3v2" />
+    <path d="M14 3v2" />
+    <path d="M21 10h-2" />
+    <path d="M21 14h-2" />
+    <path d="M14 21v-2" />
+    <path d="M10 21v-2" />
+  </g>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">四 · 能源、创新与民生</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">创新与数字经济</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">相关行业与产品比上年增速 · 单位：%</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)" />
+  </g>
+
+  <g id="innovation-stats" data-pptx-bounds="64 186 700 100">
+    <text x="64" y="214" font-size="20" fill="#1F2A30">研究与试验发展（R&amp;D）经费支出 <tspan font-family="Arial" font-weight="bold">39262</tspan> 亿元（+8.1%）</text>
+    <text x="64" y="244" font-size="18" fill="#5F6B72">与国内生产总值之比 2.80% · 基础研究经费 2778 亿元（+11.1%），占 7.08%</text>
+    <text x="64" y="274" font-size="18" fill="#5F6B72">年末有效发明专利 631.8 万件（+11.1%）· 每万人口高价值发明专利 16 件</text>
+  </g>
+
+  <g id="innovation-nodata" data-pptx-bounds="800 176 416 104">
+    <g id="p14-nodata-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="800 180 416 92" data-pptx-av-adj1="val -30000" data-pptx-av-adj2="val 80000" fill="#FFFFFF" stroke="#C0392B" stroke-width="1">
+<path d="M 800 180 L 869.33 180 L 869.33 180 L 973.33 180 L 1216 180 L 1216 233.67 L 1216 233.67 L 1216 256.67 L 1216 272 L 973.33 272 L 883.2 299.6 L 869.33 272 L 800 272 L 800 256.67 L 800 233.67 L 800 233.67 Z" />
+</g>
+    <text font-size="18" fill="#5F6B72" x="820" y="216">NO DATA：公报未给出“数字经济总规模”</text><text font-size="18" fill="#5F6B72" x="820" y="242">这一口径的数值，本页不作估算。</text></g>
+
+  <g id="innovation-growth" data-pptx-replace-with="chart" data-pptx-bounds="64 300 1152 250" data-pptx-fallback-sha256="07931e8c0e7ac900a448b21ae7fc247a68a75d6465aae5311d0fca02e308b264">
+    <metadata type="application/json">
+{
+  "x": 64, "y": 300, "width": 1152, "height": 250,
+  "name": "innovation-growth",
+  "type": "column",
+  "grouping": "clustered",
+  "categories": ["3D 打印设备", "工业机器人", "新能源汽车", "服务机器人", "集成电路", "高技术制造业", "数字产品制造业", "装备制造业"],
+  "series": [{"name": "比上年增长（%）", "values": [52.5, 28.0, 25.1, 16.1, 10.9, 9.4, 9.3, 9.2]}],
+  "plot_area": {"x": 140, "y": 320, "width": 1040, "height": 190},
+  "data_labels": {"show_value": true, "position": "outside_end", "font_size": 20, "font_family": "Arial", "bold": true, "color": "#1F2A30"},
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to"},
+    "value": {"kind": "value", "position": "left", "visible": true, "minimum": 0, "maximum": 60, "major_unit": 15, "major_gridlines": true, "label_position": "next_to"}
+  },
+  "style": {
+    "colors": ["#2E6F4E"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 18,
+    "axis_color": "#E4DED0",
+    "grid_color": "#E4DED0",
+    "text_color": "#5F6B72",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="innovation-growth-chartArea">
+      <line x1="140" y1="320" x2="1180" y2="320" stroke="#E4DED0" stroke-width="1" />
+      <line x1="140" y1="367.5" x2="1180" y2="367.5" stroke="#E4DED0" stroke-width="1" />
+      <line x1="140" y1="415" x2="1180" y2="415" stroke="#E4DED0" stroke-width="1" />
+      <line x1="140" y1="462.5" x2="1180" y2="462.5" stroke="#E4DED0" stroke-width="1" />
+      <line x1="140" y1="510" x2="1180" y2="510" stroke="#E4DED0" stroke-width="1" />
+      <text x="130" y="374.5" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="end">45</text>
+      <text x="130" y="422" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="end">30</text>
+      <text x="130" y="469.5" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="end">15</text>
+      <text x="130" y="517" font-family="Arial" font-size="18" fill="#5F6B72" text-anchor="end">0</text>
+      <text x="205" y="540" font-size="18" fill="#5F6B72" text-anchor="middle">3D 打印设备</text>
+      <text x="335" y="540" font-size="18" fill="#5F6B72" text-anchor="middle">工业机器人</text>
+      <text x="465" y="540" font-size="18" fill="#5F6B72" text-anchor="middle">新能源汽车</text>
+      <text x="595" y="540" font-size="18" fill="#5F6B72" text-anchor="middle">服务机器人</text>
+      <text x="725" y="540" font-size="18" fill="#5F6B72" text-anchor="middle">集成电路</text>
+      <text x="855" y="540" font-size="18" fill="#5F6B72" text-anchor="middle">高技术制造业</text>
+      <text x="985" y="540" font-size="18" fill="#5F6B72" text-anchor="middle">数字产品制造业</text>
+      <text x="1115" y="540" font-size="18" fill="#5F6B72" text-anchor="middle">装备制造业</text>
+      
+      <rect x="165" y="343.75" width="80" height="166.25" fill="#2E6F4E" />
+      <rect x="295" y="421.33" width="80" height="88.67" fill="#2E6F4E" />
+      <rect x="425" y="430.52" width="80" height="79.48" fill="#2E6F4E" />
+      <rect x="555" y="459.02" width="80" height="50.98" fill="#2E6F4E" />
+      <rect x="685" y="475.48" width="80" height="34.52" fill="#2E6F4E" />
+      <rect x="815" y="480.23" width="80" height="29.77" fill="#2E6F4E" />
+      <rect x="945" y="480.55" width="80" height="29.45" fill="#2E6F4E" />
+      <rect x="1075" y="480.87" width="80" height="29.13" fill="#2E6F4E" />
+      <text x="205" y="335.75" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">52.5</text>
+      <text x="335" y="413.33" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">28</text>
+      <text x="465" y="422.52" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">25.1</text>
+      <text x="595" y="451.02" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">16.1</text>
+      <text x="725" y="467.48" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">10.9</text>
+      <text x="855" y="472.23" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">9.4</text>
+      <text x="985" y="472.55" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">9.3</text>
+      <text x="1115" y="472.87" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="middle">9.2</text>
+    </g>
+  </g>
+
+  <g id="digital-economy" data-pptx-bounds="64 558 1152 86">
+    <line x1="64" y1="562" x2="1216" y2="562" stroke="#CFC7B8" stroke-width="1" />
+    <text x="64" y="586" font-size="18" fill="#5F6B72">电子商务交易额 467339 亿元（+2.5%）· 网上零售额 159722 亿元（+8.6%）</text>
+    <text x="64" y="612" font-size="18" fill="#5F6B72">软件业务收入 154831 亿元（+13.2%）· 5G 基站 484 万个 · 互联网普及率 80.1%</text>
+    <text x="64" y="638" font-size="18" fill="#5F6B72">占规模以上工业增加值比重：装备制造业 36.8%、高技术制造业 17.1%、数字产品制造业 12.5%</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 650 1152 40">
+    <line x1="64" y1="654" x2="1216" y2="654" stroke="#CFC7B8" stroke-width="1" />
+    <text x="64" y="680" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》一、综合；表 3；四、服务业；十、科学技术和教育</text>
+    <text x="1216" y="680" font-size="16" fill="#5F6B72" text-anchor="end">14</text>
+  </g>
+</svg>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#123B57"/>
+      <stop offset="100%" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+
+  <g id="page-header" data-pptx-bounds="64 58 1152 96">
+    <use data-icon="tabler-outline/chart-pie" x="64" y="62" width="20" height="20" fill="#5F6B72" stroke-width="2"/>
+    <text x="94" y="78" font-size="18" fill="#5F6B72" letter-spacing="2">一 · 坐标</text>
+    <text x="64" y="126" font-family="SimSun" font-size="42" font-weight="bold" fill="#123B57">三次产业：结构与贡献</text>
+    <text x="1216" y="126" font-size="18" fill="#5F6B72" text-anchor="end">占国内生产总值比重 · 单位：%</text>
+    <rect x="64" y="145" width="136" height="4" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="industry-share" data-pptx-replace-with="chart" data-pptx-bounds="64 190 536 420" data-pptx-fallback-sha256="99d209a5ba0b0d42381671c2e4c7dfb86bde883675c82ea31b7386bc3b584e52">
+    <metadata type="application/json">
+{
+  "x": 64, "y": 190, "width": 536, "height": 420,
+  "name": "industry-share",
+  "type": "doughnut",
+  "hole_size": 60,
+  "categories": ["第一产业", "第二产业", "第三产业"],
+  "series": [{"name": "占国内生产总值比重", "values": [6.7, 35.6, 57.7]}],
+  "notes": [
+    {"text": "6.7", "x": 378, "y": 204, "width": 60, "height": 26, "font_size": 20, "color": "#1F2A30", "bold": true, "align": "l"},
+    {"text": "35.6", "x": 500, "y": 376, "width": 72, "height": 26, "font_size": 20, "color": "#1F2A30", "bold": true, "align": "l"},
+    {"text": "57.7", "x": 110, "y": 425, "width": 60, "height": 26, "font_size": 20, "color": "#1F2A30", "bold": true, "align": "r"}
+  ],
+  "style": {
+    "colors": ["#9DB4C4", "#4A7593", "#123B57"],
+    "font_family": "Microsoft YaHei",
+    "text_color": "#1F2A30",
+    "chart_area_fill": "#F4F1EA",
+    "plot_area_fill": "#F4F1EA"
+  }
+}
+    </metadata>
+    <g id="industry-share-chartArea">
+      <!-- chart-plot-area: object=industry-share | donut | center: 332,400 | outer-radius: 150 | inner-radius: 90 -->
+      <path d="M 332.0 250.0 A 150 150 0 0 1 393.3 263.1 L 368.78 317.86 A 90 90 0 0 0 332.0 310.0 Z" fill="#9DB4C4"/>
+      <path d="M 393.3 263.1 A 150 150 0 0 1 401.77 532.78 L 373.86 479.67 A 90 90 0 0 0 368.78 317.86 Z" fill="#4A7593"/>
+      <path d="M 401.77 532.78 A 150 150 0 1 1 332.0 250.0 L 332.0 310.0 A 90 90 0 1 0 373.86 479.67 Z" fill="#123B57"/>
+      <text x="378" y="222" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">6.7</text>
+      <text x="378" y="246" font-size="18" fill="#5F6B72">第一产业</text>
+      <text x="500" y="394" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30">35.6</text>
+      <text x="500" y="418" font-size="18" fill="#5F6B72">第二产业</text>
+      <text x="170" y="443" font-family="Arial" font-size="20" font-weight="bold" fill="#1F2A30" text-anchor="end">57.7</text>
+      <text x="170" y="467" font-size="18" fill="#5F6B72" text-anchor="end">第三产业</text>
+    </g>
+  </g>
+
+  <g id="industry-primary" data-pptx-bounds="640 218 576 88">
+    <line x1="640" y1="222" x2="1216" y2="222" stroke="#CFC7B8" stroke-width="1"/>
+    <rect x="640" y="246" width="18" height="18" fill="#9DB4C4"/>
+    <text x="672" y="262" font-size="24" fill="#1F2A30">第一产业</text>
+    <text x="1216" y="262" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="end">6.7<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72">%</tspan></text>
+    <text x="640" y="296" font-size="18" fill="#5F6B72">增加值 93347 亿元 · 比上年增长 3.9%</text>
+  </g>
+
+  <g id="industry-secondary" data-pptx-bounds="640 338 576 88">
+    <line x1="640" y1="342" x2="1216" y2="342" stroke="#CFC7B8" stroke-width="1"/>
+    <rect x="640" y="366" width="18" height="18" fill="#4A7593"/>
+    <text x="672" y="382" font-size="24" fill="#1F2A30">第二产业</text>
+    <text x="1216" y="382" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="end">35.6<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72">%</tspan></text>
+    <text x="640" y="416" font-size="18" fill="#5F6B72">增加值 499653 亿元 · 比上年增长 4.5%</text>
+  </g>
+
+  <g id="industry-tertiary" data-pptx-bounds="640 458 576 88">
+    <line x1="640" y1="462" x2="1216" y2="462" stroke="#CFC7B8" stroke-width="1"/>
+    <rect x="640" y="486" width="18" height="18" fill="#123B57"/>
+    <text x="672" y="502" font-size="24" fill="#1F2A30">第三产业</text>
+    <text x="1216" y="502" font-family="Arial" font-size="20" font-weight="bold" fill="#123B57" text-anchor="end">57.7<tspan font-family="Microsoft YaHei" font-weight="normal" fill="#5F6B72">%</tspan></text>
+    <text x="640" y="536" font-size="18" fill="#5F6B72">增加值 808879 亿元 · 比上年增长 5.4%</text>
+  </g>
+
+  <g id="industry-note" data-pptx-bounds="640 570 576 38">
+    <text x="640" y="588" font-size="18" fill="#5F6B72">口径：绝对数按现价计算，增长速度按不变价格计算。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 44">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#CFC7B8" stroke-width="1"/>
+    <text x="64" y="676" font-size="16" fill="#5F6B72">来源：国家统计局《2025 年国民经济和社会发展统计公报》一、综合；注释[2]</text>
+    <text x="1216" y="676" font-size="16" fill="#5F6B72" text-anchor="end">04</text>
+  </g>
+</svg>
