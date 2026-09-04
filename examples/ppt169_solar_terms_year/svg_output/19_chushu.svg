@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="softShadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.12" />
+    </filter>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+
+  <g id="term-band" data-pptx-bounds="0 0 1060 200">
+    <rect x="-60" y="-60" width="1120" height="256" rx="40" fill="#D99A2B" />
+    <image href="../images/word_chushu.png" x="64" y="36" width="200" height="128" preserveAspectRatio="xMidYMid meet" />
+    <text x="300" y="96" font-size="44" font-weight="bold" fill="#FFFFFF">处暑<tspan font-size="18" font-weight="normal" font-family="Trebuchet MS, sans-serif" fill-opacity="0.75"> End of Heat</tspan></text>
+    <text x="300" y="132" font-size="18" fill="#FFFFFF" fill-opacity="0.85">「处」是终止：暑气到此打住。</text>
+    <rect x="620" y="110" width="400" height="68" rx="34" fill="#FFFFFF" filter="url(#softShadow)" />
+    <use data-icon="tabler-filled/clock" x="646" y="128" width="32" height="32" fill="#D99A2B" />
+    <text x="690" y="152" font-size="24" font-weight="bold" fill="#3A332C">2026 年 8 月 23 日</text>
+    <text x="925" y="154" font-size="32" font-weight="bold" fill="#D99A2B" font-family="Trebuchet MS, sans-serif">10:19</text>
+    <text x="300" y="188" font-size="16" fill="#FFFFFF" fill-opacity="0.75">北京时间（UTC+8） · 秋 · 第 2 格 · 全年第 14 格</text>
+  </g>
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-autumn" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 5400000" data-pptx-av-adj2="val 10800000" data-pptx-av-adj3="val 26000" fill="#D99A2B" stroke="none">
+<path d="M 1152 130 A 38 38 0 0 1 1114 92 L 1133.76 92 A 18.24 18.24 0 0 0 1152 110.24 Z" />
+</g>
+    <circle cx="1142.2" cy="128.7" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="card-pentads" data-pptx-bounds="64 232 362 424">
+    <rect x="64" y="232" width="362" height="424" rx="24" fill="#FFFFFF" />
+    <text x="88" y="274" font-size="18" fill="#8A8078">三候 · 《月令七十二候集解》</text>
+    <g id="p19-pentad-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="88 296 298 88" data-pptx-av-adj="val 30000" fill="#F2EDE4" stroke="none">
+<path d="M 88 296 L 359.6 296 L 386 340 L 359.6 384 L 88 384 Z" />
+</g>
+    <text x="112" y="328" font-size="18" fill="#8A8078">一候</text>
+    <text x="112" y="366" font-size="26" font-weight="bold" fill="#3A332C">鹰乃祭鸟</text>
+    <g id="p19-pentad-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="88 400 298 88" data-pptx-av-adj="val 30000" fill="#F2EDE4" stroke="none">
+<path d="M 88 400 L 359.6 400 L 386 444 L 359.6 488 L 88 488 Z" />
+</g>
+    <text x="112" y="432" font-size="18" fill="#8A8078">二候</text>
+    <text x="112" y="470" font-size="26" font-weight="bold" fill="#3A332C">天地始肃</text>
+    <g id="p19-pentad-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="88 504 298 88" data-pptx-av-adj="val 30000" fill="#F2EDE4" stroke="none">
+<path d="M 88 504 L 359.6 504 L 386 548 L 359.6 592 L 88 592 Z" />
+</g>
+    <text x="112" y="536" font-size="18" fill="#8A8078">三候</text>
+    <text x="112" y="574" font-size="26" font-weight="bold" fill="#3A332C">禾乃登</text>
+    <text x="88" y="632" font-size="16" fill="#8A8078">禾谷成熟，天地转肃</text>
+  </g>
+
+  <g id="card-custom" data-pptx-bounds="458 232 362 424">
+    <rect x="458" y="232" width="362" height="424" rx="24" fill="#FFFFFF" />
+    <text x="482" y="274" font-size="18" fill="#8A8078">时令 · 一条可查的习俗</text>
+    <image href="../images/elem_chushu.png" x="559" y="290" width="160" height="160" preserveAspectRatio="xMidYMid meet" />
+    <text x="482" y="500" font-size="24" font-weight="bold" fill="#7A5C3E">处暑吃鸭子</text>
+    <text x="482" y="536" font-size="24" fill="#3A332C">农历七月中旬的鸭子最<tspan x="482" dy="36">肥美，补阴益血。</tspan></text>
+    <text x="482" y="616" font-size="18" fill="#8A8078">前后另有庆赞中元、放河灯。</text>
+  </g>
+
+  <g id="card-howto" data-pptx-bounds="852 232 362 424">
+    <rect x="852" y="232" width="362" height="424" rx="24" fill="#F2EDE4" />
+    <text x="876" y="274" font-size="18" fill="#8A8078">怎么过</text>
+    <image href="../images/orn_divider.png" x="876" y="292" width="120" height="36" preserveAspectRatio="xMidYMid meet" opacity="0.6" />
+    <text x="876" y="392" font-size="26" fill="#3A332C">河灯不必真放，<tspan x="876" dy="40">给过去的一段事情道个别。</tspan></text>
+    <line x1="876" y1="470" x2="1190" y2="470" stroke="#E3DACB" stroke-width="2" />
+    <text x="876" y="508" font-size="18" fill="#8A8078">处暑之后昼夜温差拉开，太<tspan x="876" dy="30">阳上中天仰角已从夏至的</tspan><tspan x="876" dy="30">89° 降到 79°。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 676 1152 32" fill="#8A8078" font-size="16">
+    <text x="64" y="700">时刻据紫金山天文台 · 三候据《月令七十二候集解》 · 习俗据中国气象网 · 仰角据香港天文台年曆2026</text>
+    <text x="1216" y="700" text-anchor="end" font-family="Trebuchet MS, sans-serif">19 / 31</text>
+  </g>
+</svg>

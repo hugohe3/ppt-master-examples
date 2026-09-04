@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="cover">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA"/>
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="14" fill="#14110F"/>
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1"/>
+
+  <g id="cover-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+  </g>
+
+  <g id="cover-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">01</text>
+  </g>
+
+  <g id="cover-word" data-pptx-bounds="48 180 530 220">
+    <rect x="48" y="182" width="200" height="12" fill="#C8331E"/>
+    <text x="48" y="238" font-family="Arial Black" font-size="64" fill="#14110F">CONCRETE,<tspan x="48" dy="70">HONEST,</tspan><tspan x="48" dy="70">UNFORGIVING</tspan></text>
+  </g>
+
+  <g id="cover-photo" data-pptx-bounds="600 198 584 426">
+    <image href="../images/cover_beton_brut_duo.png" x="600" y="200" width="584" height="390" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="600" y="200" width="584" height="390" fill="none" stroke="#14110F" stroke-width="4"/>
+    <text x="600" y="616" font-family="Consolas" font-size="16" fill="#55514A">© Tom Parnell / Wikimedia Commons / CC BY-SA 4.0</text>
+  </g>
+
+  <g id="cover-claim" data-pptx-bounds="48 458 504 184">
+    <rect x="48" y="460" width="504" height="180" fill="#14110F"/>
+    <text x="80" y="492" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.6">THE CLAIM</text>
+    <text x="80" y="526" font-size="20" fill="#F2F0EA">minimalist construction showcasing<tspan x="80" dy="30">the bare building materials and</tspan><tspan x="80" dy="30">structural elements over</tspan><tspan x="80" dy="30">decorative design</tspan></text>
+  </g>
+
+  <g id="cover-meta" data-pptx-bounds="48 656 540 40">
+    <text x="48" y="682" font-family="Consolas" font-size="22" fill="#1C1A17">ACTIVE 1950s – EARLY 1980s · INTERNATIONAL</text>
+  </g>
+
+  <g id="cover-stamp" data-pptx-bounds="956 626 268 72">
+    <g transform="rotate(-3 1090 662)">
+      <rect x="960" y="634" width="260" height="56" fill="none" stroke="#C8331E" stroke-width="3"/>
+      <text x="1090" y="668" text-anchor="middle" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.6">FIELD GUIDE · No 01</text>
+    </g>
+  </g>
+</svg>

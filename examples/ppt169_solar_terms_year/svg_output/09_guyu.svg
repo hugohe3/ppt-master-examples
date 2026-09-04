@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-spring" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 16200000" data-pptx-av-adj2="val 21600000" data-pptx-av-adj3="val 26000" fill="#6FA46B" stroke="none">
+<path d="M 1152 54 A 38 38 0 0 1 1190 92 L 1170.24 92 A 18.24 18.24 0 0 0 1152 73.76 Z" />
+</g>
+    <circle cx="1188.7" cy="82.2" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="64 44 596 180">
+    <image href="../images/word_guyu.png" x="64" y="48" width="240" height="152" preserveAspectRatio="xMidYMid meet" />
+    <text x="328" y="122" font-size="44" font-weight="bold" fill="#7A5C3E">谷雨<tspan font-size="18" font-weight="normal" font-family="Trebuchet MS, sans-serif" fill="#8A8078"> Grain Rain</tspan></text>
+    <text x="328" y="158" font-size="18" fill="#8A8078">雨生百谷，春天把最后一份<tspan x="328" dy="30">力气交给土地。春季最后一格。</tspan></text>
+  </g>
+
+  <g id="term-moment" data-pptx-bounds="700 160 500 92">
+    <rect x="700" y="160" width="500" height="92" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/clock" x="728" y="188" width="36" height="36" fill="#6FA46B" />
+    <text x="784" y="202" font-size="24" font-weight="bold" fill="#3A332C">2026 年 4 月 20 日</text>
+    <text x="784" y="232" font-size="18" fill="#8A8078">北京时间（UTC+8）</text>
+    <text x="1176" y="218" font-size="40" font-weight="bold" fill="#6FA46B" font-family="Trebuchet MS, sans-serif" text-anchor="end">09:39</text>
+  </g>
+
+  <g id="term-pentads" data-pptx-bounds="64 272 936 240">
+    <rect x="64" y="276" width="936" height="236" rx="24" fill="#FFFFFF" />
+    <text x="88" y="294" font-size="18" fill="#8A8078">三候 · 《月令七十二候集解》</text>
+    <g id="p09-pentad-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="88 300 264 180" data-pptx-av-adj="val 12000" fill="#F2EDE4" stroke="none">
+<path d="M 88 321.6 A 21.6 21.6 0 0 0 109.6 300 L 330.4 300 A 21.6 21.6 0 0 0 352 321.6 L 352 458.4 A 21.6 21.6 0 0 0 330.4 480 L 109.6 480 A 21.6 21.6 0 0 0 88 458.4 Z" />
+</g>
+    <text x="220" y="360" font-size="18" text-anchor="middle" fill="#8A8078">一候</text>
+    <text x="220" y="404" font-size="26" font-weight="bold" text-anchor="middle" fill="#3A332C">萍始生</text>
+    <text x="220" y="444" font-size="18" text-anchor="middle" fill="#8A8078">浮萍开始生长</text>
+    <g id="p09-pentad-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="392 300 264 180" data-pptx-av-adj="val 12000" fill="#F2EDE4" stroke="none">
+<path d="M 392 321.6 A 21.6 21.6 0 0 0 413.6 300 L 634.4 300 A 21.6 21.6 0 0 0 656 321.6 L 656 458.4 A 21.6 21.6 0 0 0 634.4 480 L 413.6 480 A 21.6 21.6 0 0 0 392 458.4 Z" />
+</g>
+    <text x="524" y="360" font-size="18" text-anchor="middle" fill="#8A8078">二候</text>
+    <text x="524" y="404" font-size="26" font-weight="bold" text-anchor="middle" fill="#3A332C">鸣鸠拂其羽</text>
+    <text x="524" y="444" font-size="18" text-anchor="middle" fill="#8A8078">布谷理羽而鸣</text>
+    <g id="p09-pentad-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="696 300 264 180" data-pptx-av-adj="val 12000" fill="#F2EDE4" stroke="none">
+<path d="M 696 321.6 A 21.6 21.6 0 0 0 717.6 300 L 938.4 300 A 21.6 21.6 0 0 0 960 321.6 L 960 458.4 A 21.6 21.6 0 0 0 938.4 480 L 717.6 480 A 21.6 21.6 0 0 0 696 458.4 Z" />
+</g>
+    <text x="828" y="360" font-size="18" text-anchor="middle" fill="#8A8078">三候</text>
+    <text x="828" y="404" font-size="26" font-weight="bold" text-anchor="middle" fill="#3A332C">戴胜降于桑</text>
+    <text x="828" y="444" font-size="18" text-anchor="middle" fill="#8A8078">戴胜鸟落于桑树</text>
+  </g>
+
+  <g id="term-visual" data-pptx-bounds="1032 276 188 236">
+    <image href="../images/elem_guyu.png" x="1032" y="300" width="188" height="188" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="term-custom" data-pptx-bounds="64 532 560 124">
+    <rect x="64" y="532" width="560" height="124" rx="40" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/leaf" x="96" y="558" width="32" height="32" fill="#7A5C3E" />
+    <text x="144" y="576" font-size="24" fill="#3A332C">时令 · <tspan font-weight="bold" fill="#7A5C3E">谷雨茶</tspan>与<tspan font-weight="bold" fill="#7A5C3E">香椿</tspan></text>
+    <text x="96" y="612" font-size="18" fill="#8A8078">南方喝谷雨茶，细嫩清香；北方食香椿，亦称<tspan x="96" dy="28">「吃春」。另有赏牡丹、走谷雨。</tspan></text>
+  </g>
+
+  <g id="term-howto" data-pptx-bounds="648 532 568 124">
+    <g id="p09-howto-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2DiagRect" data-pptx-frame="648 532 568 124" data-pptx-av-adj1="val 30000" data-pptx-av-adj2="val 0" fill="#F2EDE4" stroke="none">
+<path d="M 685.2 532 L 1216 532 L 1216 618.8 A 37.2 37.2 0 0 1 1178.8 656 L 648 656 L 648 569.2 A 37.2 37.2 0 0 1 685.2 532 Z" />
+</g>
+    <text x="688" y="572" font-size="18" fill="#8A8078">怎么过</text>
+    <text x="688" y="616" font-size="26" fill="#3A332C">泡一杯今年的新茶，<tspan x="688" dy="30">或者炒一盘香椿鸡蛋。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 676 1152 32" fill="#8A8078" font-size="16">
+    <text x="64" y="700">三候释义为本手账整理 · 时刻据紫金山天文台 · 习俗据中国气象网 · 春 · 第 6 格 · 全年第 6 格</text>
+    <text x="1216" y="700" text-anchor="end" font-family="Trebuchet MS, sans-serif">09 / 31</text>
+  </g>
+</svg>

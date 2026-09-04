@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <rect id="claim-bar" data-pptx-role="decoration" x="0" y="264" width="1280" height="6" fill="#14110F" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p07-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART TWO · THE ETHIC</text>
+  </g>
+
+  <g id="p07-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">07</text>
+  </g>
+
+  <g id="p07-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">A façade that admits what it is doing</text>
+  </g>
+
+  <g id="p07-claim" data-pptx-bounds="48 186 1184 66">
+    <text x="48" y="210" font-size="24" fill="#14110F">A common theme is the exposure of the building's inner workings — structure,<tspan x="48" dy="30">services and human use — on the exterior.</tspan></text>
+  </g>
+
+  <g id="p07-boston" data-pptx-bounds="48 266 660 168">
+    <text x="48" y="282" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.6">EXAMPLE ONE · BOSTON</text>
+    <text x="48" y="316" font-size="20" fill="#1C1A17">Boston City Hall, designed in 1962: the strikingly<tspan x="48" dy="28">different and projected portions of the building</tspan><tspan x="48" dy="28">indicate the special nature of the rooms behind those</tspan><tspan x="48" dy="28">walls, such as the mayor's office or the city council</tspan><tspan x="48" dy="28">chambers.</tspan></text>
+  </g>
+
+  <g id="p07-hunstanton" data-pptx-bounds="48 458 660 188">
+    <rect x="48" y="460" width="660" height="184" fill="#14110F" />
+    <rect x="48" y="460" width="6" height="184" fill="#C8331E" />
+    <text x="80" y="494" font-size="20" fill="#F2F0EA">Hunstanton School put the facility's water tank —<tspan x="80" dy="28">normally a hidden service feature — in a</tspan><tspan x="80" dy="28">prominent, visible tower. Its water and electric</tspan><tspan x="80" dy="28">utilities were delivered via readily visible</tspan><tspan x="80" dy="28">pipes and conduits rather than hidden in the</tspan><tspan x="80" dy="28">walls.</tspan></text>
+  </g>
+
+  <g id="p07-photo" data-pptx-bounds="760 278 472 392">
+    <image href="../images/boston_city_hall_half.png" x="760" y="280" width="472" height="354" preserveAspectRatio="xMidYMid meet" />
+    <rect x="760" y="280" width="472" height="354" fill="none" stroke="#14110F" stroke-width="4" />
+    <text x="760" y="660" font-family="Consolas" font-size="16" fill="#55514A">© Epicgenius / Wikimedia Commons / CC BY-SA 4.0</text>
+  </g>
+
+  <g id="p07-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">07 / 16</text>
+  </g>
+</svg>

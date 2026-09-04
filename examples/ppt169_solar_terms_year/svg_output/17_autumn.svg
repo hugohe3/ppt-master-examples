@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="section">
+  <defs>
+    <linearGradient id="discField" x1="0" y1="0" x2="0.85" y2="1">
+      <stop offset="0%" stop-color="#E3A83B" />
+      <stop offset="100%" stop-color="#C8871B" />
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+
+  <g id="season-disc" data-pptx-bounds="0 0 548 720">
+    <circle cx="110" cy="360" r="440" fill="url(#discField)" />
+    <text x="96" y="286" font-size="96" font-weight="bold" fill="#FFFFFF">秋</text>
+    <text x="216" y="286" font-size="32" fill="#FFFFFF" fill-opacity="0.85" font-family="Trebuchet MS, sans-serif">Autumn</text>
+    <text x="96" y="352" font-size="24" fill="#FFFFFF" fill-opacity="0.90">秋天从 <tspan font-family="Trebuchet MS, sans-serif" font-weight="bold">8 月 7 日 19:43</tspan> 开始，<tspan x="96" dy="38">六格里暑气退场、露水成霜。</tspan></text>
+    <line x1="96" y1="424" x2="300" y2="424" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="2" />
+    <text x="96" y="470" font-size="24" fill="#FFFFFF" fill-opacity="0.90">立秋 <tspan font-family="Trebuchet MS, sans-serif">8月7日 19:43</tspan><tspan x="96" dy="36">霜降 <tspan font-family="Trebuchet MS, sans-serif">10月23日 17:38</tspan></tspan></text>
+    <text x="96" y="556" font-size="18" fill="#FFFFFF" fill-opacity="0.75">全年第 13–18 格</text>
+  </g>
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-autumn" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 5400000" data-pptx-av-adj2="val 10800000" data-pptx-av-adj3="val 26000" fill="#D99A2B" stroke="none">
+<path d="M 1152 130 A 38 38 0 0 1 1114 92 L 1133.76 92 A 18.24 18.24 0 0 0 1152 110.24 Z" />
+</g>
+    <circle cx="1152.0" cy="130.0" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="season-terms" data-pptx-bounds="560 176 656 492">
+    <g id="nav-liqiu">
+      <rect x="560" y="176" width="200" height="232" rx="24" fill="#FFFFFF" />
+      <image href="../images/elem_liqiu.png" x="610" y="204" width="100" height="100" preserveAspectRatio="xMidYMid meet" />
+      <text x="660" y="348" font-size="32" font-weight="bold" text-anchor="middle" fill="#7A5C3E">立秋</text>
+      <text x="660" y="382" font-size="18" text-anchor="middle" fill="#8A8078" font-family="Trebuchet MS, sans-serif">8/7 19:43</text>
+    </g>
+    <g id="nav-chushu">
+      <rect x="788" y="176" width="200" height="232" rx="24" fill="#FFFFFF" />
+      <image href="../images/elem_chushu.png" x="838" y="204" width="100" height="100" preserveAspectRatio="xMidYMid meet" />
+      <text x="888" y="348" font-size="32" font-weight="bold" text-anchor="middle" fill="#7A5C3E">处暑</text>
+      <text x="888" y="382" font-size="18" text-anchor="middle" fill="#8A8078" font-family="Trebuchet MS, sans-serif">8/23 10:19</text>
+    </g>
+    <g id="nav-bailu">
+      <rect x="1016" y="176" width="200" height="232" rx="24" fill="#FFFFFF" />
+      <image href="../images/elem_bailu.png" x="1066" y="204" width="100" height="100" preserveAspectRatio="xMidYMid meet" />
+      <text x="1116" y="348" font-size="32" font-weight="bold" text-anchor="middle" fill="#7A5C3E">白露</text>
+      <text x="1116" y="382" font-size="18" text-anchor="middle" fill="#8A8078" font-family="Trebuchet MS, sans-serif">9/7 22:41</text>
+    </g>
+    <g id="nav-qiufen">
+      <rect x="560" y="436" width="200" height="232" rx="24" fill="#FFFFFF" />
+      <image href="../images/elem_qiufen.png" x="610" y="464" width="100" height="100" preserveAspectRatio="xMidYMid meet" />
+      <text x="660" y="608" font-size="32" font-weight="bold" text-anchor="middle" fill="#7A5C3E">秋分</text>
+      <text x="660" y="642" font-size="18" text-anchor="middle" fill="#8A8078" font-family="Trebuchet MS, sans-serif">9/23 08:05</text>
+    </g>
+    <g id="nav-hanlu">
+      <rect x="788" y="436" width="200" height="232" rx="24" fill="#FFFFFF" />
+      <image href="../images/elem_hanlu.png" x="838" y="464" width="100" height="100" preserveAspectRatio="xMidYMid meet" />
+      <text x="888" y="608" font-size="32" font-weight="bold" text-anchor="middle" fill="#7A5C3E">寒露</text>
+      <text x="888" y="642" font-size="18" text-anchor="middle" fill="#8A8078" font-family="Trebuchet MS, sans-serif">10/8 14:29</text>
+    </g>
+    <g id="nav-shuangjiang">
+      <rect x="1016" y="436" width="200" height="232" rx="24" fill="#FFFFFF" />
+      <image href="../images/elem_shuangjiang.png" x="1066" y="464" width="100" height="100" preserveAspectRatio="xMidYMid meet" />
+      <text x="1116" y="608" font-size="32" font-weight="bold" text-anchor="middle" fill="#7A5C3E">霜降</text>
+      <text x="1116" y="642" font-size="18" text-anchor="middle" fill="#8A8078" font-family="Trebuchet MS, sans-serif">10/23 17:38</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="560 674 656 34" fill="#8A8078" font-size="16">
+    <text x="560" y="698">秋 · 立秋到霜降</text>
+    <text x="1216" y="698" text-anchor="end" font-family="Trebuchet MS, sans-serif">17 / 31</text>
+  </g>
+</svg>

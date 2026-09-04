@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p12-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART FOUR · THE RECKONING</text>
+  </g>
+
+  <g id="p12-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">12</text>
+  </g>
+
+  <g id="p12-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">The public verdict</text>
+  </g>
+
+  <g id="p12-quote-cell" data-pptx-bounds="48 186 792 250">
+    <rect x="48" y="188" width="792" height="246" fill="#14110F" />
+    <text x="80" y="238" font-family="Arial Black" font-size="33" fill="#F2F0EA">Few styles in history can have been met<tspan x="80" dy="50">with so many pleas from its users to</tspan><tspan x="80" dy="50">see it destroyed.</tspan></text>
+    <text x="80" y="368" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.4">— SIMON JENKINS</text>
+    <text x="80" y="396" font-family="Consolas" font-size="16" fill="#9A958B">A 2014 article in The Economist noted that a campaign to demolish a building<tspan x="80" dy="22">will usually be directed against a brutalist one.</tspan></text>
+  </g>
+
+  <g id="p12-vote" data-pptx-bounds="48 444 792 154">
+    <text x="48" y="550" font-family="Arial Black" font-size="120" fill="#C8331E">8</text>
+    <text x="150" y="490" font-size="20" fill="#1C1A17">In 2005 the British TV programme <tspan font-style="italic">Demolition</tspan> ran a<tspan x="150" dy="28">public vote to select twelve buildings that ought to</tspan><tspan x="150" dy="28">be demolished — eight of those selected were</tspan><tspan x="150" dy="28">brutalist.</tspan></text>
+  </g>
+
+  <g id="p12-weathering" data-pptx-bounds="48 598 792 86">
+    <text x="48" y="618" font-size="20" fill="#1C1A17">Concrete façades do not age well in damp maritime climates:<tspan x="48" dy="28">water stains, moss and lichen, rust from the reinforcing bars.</tspan><tspan x="48" dy="28">Critics add the "cold" look and an air of totalitarianism.</tspan></text>
+  </g>
+
+  <g id="p12-photo" data-pptx-bounds="880 186 352 494">
+    <image href="../images/demolition_mono.png" x="880" y="188" width="352" height="402" preserveAspectRatio="xMidYMid slice" />
+    <rect x="880" y="188" width="352" height="402" fill="none" stroke="#14110F" stroke-width="4" />
+    <text x="880" y="620" font-family="Consolas" font-size="16" fill="#55514A">The Queen Elizabeth Square flats<tspan x="880" dy="22">in Glasgow (1962) were demolished</tspan><tspan x="880" dy="22">in 1993.</tspan></text>
+  </g>
+
+  <g id="p12-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">12 / 16</text>
+  </g>
+</svg>

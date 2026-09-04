@@ -1,0 +1,549 @@
+{
+  "version": 1,
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.7
+            }
+          ]
+        },
+        "cover-route": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.8
+            }
+          ]
+        },
+        "station-liqiu": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 3,
+              "duration": 0.35
+            }
+          ]
+        },
+        "station-chushu": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 4,
+              "duration": 0.35
+            }
+          ]
+        },
+        "station-bailu": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 5,
+              "duration": 0.35
+            }
+          ]
+        },
+        "station-qiufen": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 6,
+              "duration": 0.35
+            }
+          ]
+        },
+        "station-hanlu": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 7,
+              "duration": 0.35
+            }
+          ]
+        },
+        "station-shuangjiang": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 8,
+              "duration": 0.35
+            }
+          ]
+        }
+      }
+    },
+    "02_liqiu": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "01_cover",
+        "pairs": {
+          "autumn-route": {
+            "from": "cover-route",
+            "to": "term-route"
+          },
+          "autumn-seal": {
+            "from": "autumn-seal",
+            "to": "autumn-seal"
+          }
+        }
+      },
+      "groups": {
+        "term-head": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-date": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-hou": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-how": {
+          "effects": [
+            {
+              "effect": "entrance_expand",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-ph": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 5,
+              "duration": 0.4
+            }
+          ]
+        },
+        "term-custom": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 6,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "03_chushu": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "02_liqiu",
+        "pairs": {
+          "autumn-route": {
+            "from": "term-route",
+            "to": "term-route"
+          },
+          "autumn-seal": {
+            "from": "autumn-seal",
+            "to": "autumn-seal"
+          }
+        }
+      },
+      "groups": {
+        "term-head": {
+          "effects": [
+            {
+              "effect": "entrance_glide",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-date": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-hou": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-how": {
+          "effects": [
+            {
+              "effect": "entrance_grow_and_turn",
+              "order": 4,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-doodle": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-food": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 6,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "04_bailu": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "03_chushu",
+        "pairs": {
+          "autumn-route": {
+            "from": "term-route",
+            "to": "term-route"
+          },
+          "autumn-seal": {
+            "from": "autumn-seal",
+            "to": "autumn-seal"
+          }
+        }
+      },
+      "groups": {
+        "term-head": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-date": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "ph-left": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "ph-right": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-hou": {
+          "effects": [
+            {
+              "effect": "entrance_unfold",
+              "order": 5,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-how": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 6,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "05_qiufen": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "04_bailu",
+        "pairs": {
+          "autumn-route": {
+            "from": "term-route",
+            "to": "term-route"
+          },
+          "autumn-seal": {
+            "from": "autumn-seal",
+            "to": "autumn-seal"
+          }
+        }
+      },
+      "groups": {
+        "term-head": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-date": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-hou": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-how": {
+          "effects": [
+            {
+              "effect": "entrance_unfold",
+              "order": 4,
+              "duration": 0.6
+            }
+          ]
+        },
+        "harvest-fact": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-star": {
+          "effects": [
+            {
+              "effect": "entrance_grow_and_turn",
+              "order": 6,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "06_hanlu": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "05_qiufen",
+        "pairs": {
+          "autumn-route": {
+            "from": "term-route",
+            "to": "term-route"
+          },
+          "autumn-seal": {
+            "from": "autumn-seal",
+            "to": "autumn-seal"
+          }
+        }
+      },
+      "groups": {
+        "term-head": {
+          "effects": [
+            {
+              "effect": "entrance_glide",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-date": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "ph-chrysanthemum": {
+          "effects": [
+            {
+              "effect": "entrance_grow_and_turn",
+              "order": 3,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-hou": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.7
+            }
+          ]
+        },
+        "term-how": {
+          "effects": [
+            {
+              "effect": "entrance_expand",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-food": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 6,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "07_shuangjiang": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "06_hanlu",
+        "pairs": {
+          "autumn-route": {
+            "from": "term-route",
+            "to": "term-route"
+          },
+          "autumn-seal": {
+            "from": "autumn-seal",
+            "to": "autumn-seal"
+          }
+        }
+      },
+      "groups": {
+        "term-how": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-food": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 2,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-head": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 3,
+              "duration": 0.6
+            }
+          ]
+        },
+        "term-date": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "term-hou": {
+          "effects": [
+            {
+              "effect": "entrance_unfold",
+              "order": 5,
+              "duration": 0.6
+            }
+          ]
+        },
+        "next-term": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 6,
+              "duration": 0.6
+            }
+          ]
+        }
+      }
+    }
+  }
+}

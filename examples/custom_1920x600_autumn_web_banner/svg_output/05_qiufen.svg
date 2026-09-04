@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 600" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E3D8C2" data-pptx-bg="#F7F1E4" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#F7F1E4"/>
+      <circle cx="4" cy="4" r="1.1" fill="#E3D8C2"/>
+      <circle cx="13" cy="11" r="1.1" fill="#E3D8C2"/>
+    </pattern>
+  </defs>
+
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1920" height="600" fill="url(#paperGrain)"/>
+
+  <g id="term-mark-qiufen" data-pptx-bounds="68 40 560 346">
+    <image href="../images/let_qiufen.png" x="80" y="44" width="330" height="165.46"/>
+    <text x="80" y="296" font-family="KaiTi" font-size="88" fill="#2E2A26">秋分</text>
+    <text x="80" y="356" font-size="40" fill="#7A6E60">2026年9月23日 08:05 交节</text>
+  </g>
+
+  <g id="doodle-qiufen" data-pptx-bounds="648 40 282 356">
+    <image href="../images/term_qiufen.png" x="668" y="50" width="240" height="268.84"/>
+    <text x="668" y="344" font-size="30" fill="#7A6E60">竖蛋 · 秋汤<tspan x="668" dy="36">送秋牛 · 放风筝</tspan></text>
+  </g>
+
+  <g id="route-spine" data-pptx-bounds="946 40 28 346">
+    <path d="M960 46 C952 130 968 220 959 260 C951 310 966 350 960 380" fill="none" stroke="#2E2A26" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="959" cy="260" r="9" fill="#C0503C"/>
+  </g>
+
+  <g id="hou-qiufen" data-pptx-bounds="990 40 866 160">
+    <text x="1010" y="106" font-size="52" fill="#2E2A26">一候 雷始收声   二候 蛰虫坯户<tspan x="1010" dy="72">三候 水始涸</tspan></text>
+  </g>
+
+  <g id="balance-qiufen" data-pptx-bounds="990 216 340 170">
+    <g id="p05-balance-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftRightArrow" data-pptx-frame="1000 240 320 100" fill="#E3C263" stroke="#2E2A26" stroke-width="3">
+<path d="M 1000 290 L 1050 240 L 1050 265 L 1270 265 L 1270 240 L 1320 290 L 1270 340 L 1270 315 L 1050 315 L 1050 340 Z"/>
+</g>
+    <text x="1160" y="304" font-size="40" text-anchor="middle" fill="#2E2A26">昼 = 夜</text>
+  </g>
+
+  <g id="callout-fengshou" data-pptx-bounds="1340 210 516 176">
+    <g id="p05-fengshou-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRoundRectCallout" data-pptx-frame="1358 216 490 140" data-pptx-av-adj1="val -35000" data-pptx-av-adj2="val 55000" fill="none" stroke="#2E2A26" stroke-width="3">
+<path d="M 1358 239.33 A 23.33 23.33 0 0 1 1381.33 216 L 1439.67 216 L 1439.67 216 L 1562.17 216 L 1824.67 216 A 23.33 23.33 0 0 1 1848 239.33 L 1848 297.67 L 1848 297.67 L 1848 332.67 L 1848 332.67 A 23.33 23.33 0 0 1 1824.67 356 L 1562.17 356 L 1431.5 363 L 1439.67 356 L 1381.33 356 A 23.33 23.33 0 0 1 1358 332.67 L 1358 332.67 L 1358 297.67 L 1358 297.67 Z"/>
+</g>
+    <text x="1392" y="280" font-size="30" fill="#2E2A26">2018 年起,农历秋分<tspan x="1392" dy="44">定为中国农民丰收节</tspan></text>
+  </g>
+
+  <g id="advice-qiufen" data-pptx-bounds="68 402 1452 178">
+    <path d="M78 414 C500 404 960 424 1508 412 C1516 470 1504 528 1512 570 C1000 580 520 562 76 572 C68 520 84 464 78 414 Z" fill="#E3C263" stroke="none"/>
+    <text x="130" y="480" font-size="60" fill="#2E2A26">昼夜刚好<tspan fill="#C0503C" font-weight="bold">一样长</tspan>,去田里或菜场逛逛,<tspan x="130" dy="74">这天全国的农民过节。</tspan></text>
+  </g>
+
+  <g id="doodle-qiucai" data-pptx-bounds="1540 402 150 178">
+    <image href="../images/food_qiucai.png" x="1550" y="412" width="120" height="145.29"/>
+  </g>
+
+  <g id="seal-mark" data-pptx-bounds="1710 402 146 178">
+    <image href="../images/let_seal.png" x="1725" y="430" width="120" height="120.47"/>
+  </g>
+</svg>

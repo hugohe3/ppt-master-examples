@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="ending">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <rect id="foot-bar" data-pptx-role="decoration" x="0" y="618" width="1280" height="6" fill="#14110F" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p16-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART FIVE · CLOSE</text>
+  </g>
+
+  <g id="p16-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">16</text>
+  </g>
+
+  <g id="p16-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">Source</text>
+  </g>
+
+  <g id="p16-provenance" data-pptx-bounds="48 224 1184 362">
+    <text x="48" y="240" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.6">EVERY FACT IN THIS GUIDE COMES FROM ONE PAGE</text>
+    <text x="48" y="300" font-family="Consolas" font-size="22" fill="#1C1A17">"Brutalist architecture", Wikipedia, the free encyclopedia.</text>
+    <text x="48" y="344" font-family="Consolas" font-size="22" fill="#1C1A17">Retrieved 4 September 2026 · <a href="https://en.wikipedia.org/wiki/Brutalist_architecture"><tspan fill="#C8331E" text-decoration="underline">en.wikipedia.org</tspan></a></text>
+    <text font-size="20" fill="#1C1A17" x="48" y="410"><tspan>Text from that article is reused under <a href="https://creativecommons.org/licenses/by-sa/4.0/"><tspan fill="#C8331E" text-decoration="underline">CC BY-SA 4.0</tspan></a>; this deck is a</tspan></text><text font-size="20" fill="#1C1A17" x="48" y="440">derivative work and carries the same licence.</text><text x="48" y="496" font-size="20" fill="#1C1A17">Photographs are individually credited on the pages where they appear.</text>
+    <text font-size="20" fill="#1C1A17" x="48" y="546">No claim in this deck comes from outside that article. Where the article</text><text font-size="20" fill="#1C1A17" x="48" y="576">states no figure, the page prints NO DATA rather than an estimate.</text></g>
+
+  <g id="p16-colophon" data-pptx-bounds="48 630 992 50">
+    <text x="48" y="664" font-family="Arial Black" font-size="36" fill="#14110F">Concrete, honest, unforgiving</text>
+  </g>
+
+  <g id="p16-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">16 / 16</text>
+  </g>
+</svg>

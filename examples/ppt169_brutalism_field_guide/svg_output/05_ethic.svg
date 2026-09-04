@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="column-rule" data-pptx-role="decoration" x1="850" y1="186" x2="850" y2="664" stroke="#9A958B" stroke-width="1" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p05-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART TWO · THE ETHIC</text>
+  </g>
+
+  <g id="p05-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">05</text>
+  </g>
+
+  <g id="p05-headline" data-pptx-bounds="48 86 780 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">"An ethic, not an aesthetic"</text>
+  </g>
+
+  <g id="p05-argument" data-pptx-bounds="48 190 782 460" fill="#1C1A17" font-size="20">
+    <text x="48" y="210">New brutalism was never only a style. It was a philosophical<tspan x="48" dy="30">approach to design — a striving to create simple, honest,</tspan><tspan x="48" dy="30">functional buildings that accommodate their purpose,</tspan><tspan x="48" dy="30">inhabitants and location, a strict modernist language set</tspan><tspan x="48" dy="30">against the retrospective nostalgia of much 1940s architecture.</tspan></text>
+    <text x="48" y="380">Peter Smithson held that the core of brutalism was a reverence<tspan x="48" dy="30">for materials, expressed honestly: "Brutalism is not concerned</tspan><tspan x="48" dy="30">with the material as such but rather <tspan font-weight="bold">the quality of material</tspan>",</tspan><tspan x="48" dy="30">and "the seeing of materials for what they were: the woodness</tspan><tspan x="48" dy="30">of the wood; the sandiness of sand".</tspan></text>
+    <text x="48" y="550">John Voelcker said the new brutalism "cannot be understood<tspan x="48" dy="30">through stylistic analysis, although some day a comprehensible</tspan><tspan x="48" dy="30">style might emerge" — supporting the Smithsons' description of</tspan><tspan x="48" dy="30">the movement as <tspan font-weight="bold">an ethic, not an aesthetic</tspan>.</tspan></text>
+  </g>
+
+  <g id="p05-banham-terms" data-pptx-bounds="870 184 362 258">
+    <rect x="870" y="186" width="120" height="6" fill="#C8331E" />
+    <text x="870" y="222" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.6">BANHAM'S THREE TERMS</text>
+    <line x1="870" y1="240" x2="1232" y2="240" stroke="#14110F" stroke-width="2" />
+    <text x="870" y="278" font-family="Arial Black" font-size="36" fill="#14110F">1</text>
+    <text x="912" y="272" font-size="20" fill="#1C1A17">formal legibility of plan</text>
+    <line x1="870" y1="296" x2="1232" y2="296" stroke="#9A958B" stroke-width="1" />
+    <text x="870" y="334" font-family="Arial Black" font-size="36" fill="#14110F">2</text>
+    <text x="912" y="328" font-size="20" fill="#1C1A17">clear exhibition of structure</text>
+    <line x1="870" y1="352" x2="1232" y2="352" stroke="#9A958B" stroke-width="1" />
+    <text x="870" y="390" font-family="Arial Black" font-size="36" fill="#C8331E">3</text>
+    <text x="912" y="384" font-size="20" fill="#1C1A17">valuation of materials for<tspan x="912" dy="30">their inherent qualities</tspan></text>
+    <text x="870" y="430" font-size="20" fill="#1C1A17">"as found"</text>
+  </g>
+
+  <g id="p05-ethic-cell" data-pptx-bounds="870 448 362 154">
+    <g id="p05-ethic-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="870 450 362 150" data-pptx-av-adj1="val 16000" fill="#14110F" stroke="none">
+<path d="M 894 450 L 1207 450 L 1232 475 L 1232 576 L 1208 600 L 895 600 L 870 575 L 870 474 Z" />
+</g>
+    <text x="902" y="500" font-family="Arial Black" font-size="36" fill="#F2F0EA">an ethic,<tspan x="902" dy="40">not an</tspan><tspan x="902" dy="40">aesthetic</tspan></text>
+  </g>
+
+  <g id="p05-image-note" data-pptx-bounds="870 604 362 68">
+    <text x="870" y="620" font-family="Consolas" font-size="16" fill="#55514A">Banham also required the aesthetic<tspan x="870" dy="22">"image" — the coherence of the</tspan><tspan x="870" dy="22">building as a visual entity.</tspan></text>
+  </g>
+
+  <g id="p05-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">05 / 16</text>
+  </g>
+</svg>

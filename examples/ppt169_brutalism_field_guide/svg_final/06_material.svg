@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <defs>
+    <pattern id="halftone-screen" data-pptx-pattern="pct20" data-pptx-fg="#14110F" data-pptx-bg="#F2F0EA" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="14" height="14" fill="#F2F0EA" />
+      <circle cx="7" cy="7" r="2.8" fill="#14110F" />
+    </pattern>
+  </defs>
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="column-rule" data-pptx-role="decoration" x1="616" y1="268" x2="616" y2="684" stroke="#9A958B" stroke-width="1" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p06-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART TWO · THE ETHIC</text>
+  </g>
+
+  <g id="p06-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">06</text>
+  </g>
+
+  <g id="p06-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">The grain of the formwork stays in the wall</text>
+  </g>
+
+  <g id="p06-materials" data-pptx-bounds="48 188 1184 74">
+    <line x1="48" y1="190" x2="1232" y2="190" stroke="#14110F" stroke-width="2" />
+    <rect x="48" y="190" width="160" height="6" fill="#C8331E" />
+    <text x="48" y="240" font-family="Arial Black" font-size="36" fill="#14110F">CONCRETE</text>
+    <text x="248" y="240" font-family="Consolas" font-size="22" fill="#55514A">BRICK</text>
+    <text x="349" y="240" font-family="Consolas" font-size="22" fill="#55514A">GLASS</text>
+    <text x="450" y="240" font-family="Consolas" font-size="22" fill="#55514A">STEEL</text>
+    <text x="551" y="240" font-family="Consolas" font-size="22" fill="#55514A">TIMBER</text>
+    <text x="664" y="240" font-family="Consolas" font-size="22" fill="#55514A">ROUGH-HEWN STONE</text>
+    <text x="899" y="240" font-family="Consolas" font-size="22" fill="#55514A">GABIONS</text>
+    <line x1="48" y1="258" x2="1232" y2="258" stroke="#14110F" stroke-width="1" />
+  </g>
+
+  <g id="p06-shuttering" data-pptx-bounds="48 268 560 416" fill="#1C1A17" font-size="20">
+    <text x="48" y="286">Raw concrete is often used because of its low</text><text x="48" y="314">cost, and then left to reveal the basic nature</text><text x="48" y="342">of its construction — rough surfaces carrying</text><text x="48" y="370"><tspan>the wood <tspan fill="#C8331E" font-weight="bold">"shuttering"</tspan> pattern produced when</tspan></text><text x="48" y="398">the forms were cast in situ.</text><text x="48" y="438">The style commonly uses exposed, unpainted</text><text x="48" y="466">concrete or brick, angular geometric shapes</text><text x="48" y="494">and a predominantly monochrome colour palette;</text><text x="48" y="522">steel, timber and glass also feature.</text><text x="48" y="562">Examples are frequently massive in character</text><text x="48" y="590">even when not large, and challenge traditional</text><text x="48" y="618">notions of what a building should look like,</text><text x="48" y="646">with focus given to interior spaces as much as</text><text x="48" y="674">exterior.</text></g>
+
+  <g id="p06-modular" data-pptx-bounds="640 268 490 264" fill="#1C1A17" font-size="20">
+    <text x="640" y="286">Buildings are constructed with recurring</text><text x="640" y="314">modular elements representing specific</text><text x="640" y="342">functional zones, distinctly articulated</text><text x="640" y="370">and grouped into a unified whole.</text><text x="640" y="410">Emphasis falls on graphic expression in</text><text x="640" y="438">the external elevations and in the</text><text x="640" y="466">whole-site plan, in regard to the main</text><text x="640" y="494">functions and people-flows of the</text><text x="640" y="522">building.</text></g>
+
+  <g id="p06-screen-edge" data-pptx-bounds="1160 268 72 416">
+    <rect x="1160" y="268" width="72" height="416" fill="url(#halftone-screen)" />
+    <line x1="1160" y1="268" x2="1160" y2="684" stroke="#14110F" stroke-width="2" />
+  </g>
+
+  <g id="p06-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">06 / 16</text>
+  </g>
+</svg>

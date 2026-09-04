@@ -1,0 +1,586 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p13-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART FOUR · THE RECKONING</text>
+  </g>
+
+  <g id="p13-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">13</text>
+  </g>
+
+  <g id="p13-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">The score sheet</text>
+  </g>
+
+  <g id="loss-and-rescue" data-pptx-replace-with="table" data-pptx-bounds="48 186 1184 464" data-pptx-fallback-sha256="e9f62892a6e585a361d330fcea762b4d5d347bc9b62e974bbe9bed46ecd7c535">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 48,
+  "y": 188,
+  "width": 1184,
+  "height": 458,
+  "name": "loss-and-rescue",
+  "column_widths": [
+    420,
+    400,
+    110,
+    254
+  ],
+  "row_heights": [
+    30,
+    34,
+    36,
+    36,
+    36,
+    36,
+    36,
+    36,
+    34,
+    36,
+    36,
+    36,
+    36
+  ],
+  "defaults": {
+    "cell": {
+      "align": "l",
+      "valign": "middle",
+      "padding": 6,
+      "font_size": 16,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#9A958B",
+          "width": 1
+        },
+        "bottom": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "solid",
+          "color": "#9A958B",
+          "width": 1
+        }
+      }
+    }
+  },
+  "columns": [
+    {
+      "text": "BUILDING",
+      "fill": "#14110F",
+      "color": "#F2F0EA",
+      "bold": true,
+      "align": "l",
+      "font_size": 16,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#14110F",
+          "width": 2
+        },
+        "bottom": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "solid",
+          "color": "#9A958B",
+          "width": 1
+        }
+      }
+    },
+    {
+      "text": "ARCHITECT",
+      "fill": "#14110F",
+      "color": "#F2F0EA",
+      "bold": true,
+      "align": "l",
+      "font_size": 16,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#14110F",
+          "width": 2
+        },
+        "bottom": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "solid",
+          "color": "#9A958B",
+          "width": 1
+        }
+      }
+    },
+    {
+      "text": "YEAR",
+      "fill": "#14110F",
+      "color": "#F2F0EA",
+      "bold": true,
+      "align": "l",
+      "font_size": 16,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#14110F",
+          "width": 2
+        },
+        "bottom": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "solid",
+          "color": "#9A958B",
+          "width": 1
+        }
+      }
+    },
+    {
+      "text": "OUTCOME",
+      "fill": "#14110F",
+      "color": "#F2F0EA",
+      "bold": true,
+      "align": "l",
+      "font_size": 16,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#14110F",
+          "width": 2
+        },
+        "bottom": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "solid",
+          "color": "#9A958B",
+          "width": 1
+        }
+      }
+    }
+  ],
+  "rows": [
+    [
+      {
+        "text": "DEMOLISHED",
+        "col_span": 4,
+        "color": "#14110F",
+        "bold": true,
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#14110F",
+            "width": 4
+          },
+          "bottom": {
+            "style": "none"
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "merge_continuation": true
+      },
+      {
+        "merge_continuation": true
+      },
+      {
+        "merge_continuation": true
+      }
+    ],
+    [
+      {
+        "text": "Tricorn Centre, Portsmouth",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Owen Luder and Rodney Gordon",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "2004",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Demolished",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "Third Church of Christ, Scientist, D.C.",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Araldo Cossutta",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "2014",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Demolished",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "Birmingham Central Library",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "John Madin",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "2016",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Demolished",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "Robin Hood Gardens, East London",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Alison and Peter Smithson",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "2017",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Demolished",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "Welbeck Street car park, London",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "NO DATA",
+        "color": "#C8331E"
+      },
+      {
+        "text": "2019",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Demolished",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "American Press Institute, Reston VA",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Marcel Breuer",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "NO DATA",
+        "color": "#C8331E"
+      },
+      {
+        "text": "Demolished",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "SAVED OR LISTED",
+        "col_span": 4,
+        "color": "#14110F",
+        "bold": true,
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#14110F",
+            "width": 4
+          },
+          "bottom": {
+            "style": "none"
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "merge_continuation": true
+      },
+      {
+        "merge_continuation": true
+      },
+      {
+        "merge_continuation": true
+      }
+    ],
+    [
+      {
+        "text": "Villa Göth, Uppsala",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Bengt Edman and Lennart Holm",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "1995",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Listed by Uppsala county",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "Preston bus station garage",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "NO DATA",
+        "color": "#C8331E"
+      },
+      {
+        "text": "2013",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Grade II listed",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "Dunelm House, Durham",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Architects' Co-Partnership",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "2021",
+        "color": "#1C1A17"
+      },
+      {
+        "text": "Saved, 5-year campaign",
+        "color": "#1C1A17"
+      }
+    ],
+    [
+      {
+        "text": "Southbank Centre, London",
+        "color": "#1C1A17",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#14110F",
+            "width": 2
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          }
+        }
+      },
+      {
+        "text": "NO DATA",
+        "color": "#C8331E",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#14110F",
+            "width": 2
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          }
+        }
+      },
+      {
+        "text": "2026",
+        "color": "#1C1A17",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#14110F",
+            "width": 2
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          }
+        }
+      },
+      {
+        "text": "Grade II listed",
+        "color": "#1C1A17",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#14110F",
+            "width": 2
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          }
+        }
+      }
+    ]
+  ]
+}
+    </metadata>
+    <rect x="48" y="188" width="1184" height="30" fill="#14110F" />
+    <line x1="48" y1="188" x2="1232" y2="188" stroke="#14110F" stroke-width="2" />
+    <text x="56" y="208" font-family="Consolas" font-size="16" font-weight="bold" fill="#F2F0EA" letter-spacing="1.2">BUILDING</text>
+    <text x="476" y="208" font-family="Consolas" font-size="16" font-weight="bold" fill="#F2F0EA" letter-spacing="1.2">ARCHITECT</text>
+    <text x="876" y="208" font-family="Consolas" font-size="16" font-weight="bold" fill="#F2F0EA" letter-spacing="1.2">YEAR</text>
+    <text x="986" y="208" font-family="Consolas" font-size="16" font-weight="bold" fill="#F2F0EA" letter-spacing="1.2">OUTCOME</text>
+    <line x1="468" y1="188" x2="468" y2="646" stroke="#9A958B" stroke-width="1" />
+    <line x1="868" y1="188" x2="868" y2="646" stroke="#9A958B" stroke-width="1" />
+    <line x1="978" y1="188" x2="978" y2="646" stroke="#9A958B" stroke-width="1" />
+    <line x1="48" y1="218" x2="1232" y2="218" stroke="#14110F" stroke-width="4" />
+    <text x="56" y="240" font-family="Consolas" font-size="16" font-weight="bold" fill="#14110F" letter-spacing="1.6">DEMOLISHED</text>
+    <line x1="48" y1="252" x2="1232" y2="252" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="274" font-family="Consolas" font-size="16" fill="#1C1A17">Tricorn Centre, Portsmouth</text>
+    <text x="476" y="274" font-family="Consolas" font-size="16" fill="#1C1A17">Owen Luder and Rodney Gordon</text>
+    <text x="876" y="274" font-family="Consolas" font-size="16" fill="#1C1A17">2004</text>
+    <text x="986" y="274" font-family="Consolas" font-size="16" fill="#1C1A17">Demolished</text>
+    <line x1="48" y1="288" x2="1232" y2="288" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="310" font-family="Consolas" font-size="16" fill="#1C1A17">Third Church of Christ, Scientist, D.C.</text>
+    <text x="476" y="310" font-family="Consolas" font-size="16" fill="#1C1A17">Araldo Cossutta</text>
+    <text x="876" y="310" font-family="Consolas" font-size="16" fill="#1C1A17">2014</text>
+    <text x="986" y="310" font-family="Consolas" font-size="16" fill="#1C1A17">Demolished</text>
+    <line x1="48" y1="324" x2="1232" y2="324" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="346" font-family="Consolas" font-size="16" fill="#1C1A17">Birmingham Central Library</text>
+    <text x="476" y="346" font-family="Consolas" font-size="16" fill="#1C1A17">John Madin</text>
+    <text x="876" y="346" font-family="Consolas" font-size="16" fill="#1C1A17">2016</text>
+    <text x="986" y="346" font-family="Consolas" font-size="16" fill="#1C1A17">Demolished</text>
+    <line x1="48" y1="360" x2="1232" y2="360" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="382" font-family="Consolas" font-size="16" fill="#1C1A17">Robin Hood Gardens, East London</text>
+    <text x="476" y="382" font-family="Consolas" font-size="16" fill="#1C1A17">Alison and Peter Smithson</text>
+    <text x="876" y="382" font-family="Consolas" font-size="16" fill="#1C1A17">2017</text>
+    <text x="986" y="382" font-family="Consolas" font-size="16" fill="#1C1A17">Demolished</text>
+    <line x1="48" y1="396" x2="1232" y2="396" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="418" font-family="Consolas" font-size="16" fill="#1C1A17">Welbeck Street car park, London</text>
+    <text x="476" y="418" font-family="Consolas" font-size="16" fill="#C8331E">NO DATA</text>
+    <text x="876" y="418" font-family="Consolas" font-size="16" fill="#1C1A17">2019</text>
+    <text x="986" y="418" font-family="Consolas" font-size="16" fill="#1C1A17">Demolished</text>
+    <line x1="48" y1="432" x2="1232" y2="432" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="454" font-family="Consolas" font-size="16" fill="#1C1A17">American Press Institute, Reston VA</text>
+    <text x="476" y="454" font-family="Consolas" font-size="16" fill="#1C1A17">Marcel Breuer</text>
+    <text x="876" y="454" font-family="Consolas" font-size="16" fill="#C8331E">NO DATA</text>
+    <text x="986" y="454" font-family="Consolas" font-size="16" fill="#1C1A17">Demolished</text>
+    <line x1="48" y1="468" x2="1232" y2="468" stroke="#14110F" stroke-width="4" />
+    <text x="56" y="490" font-family="Consolas" font-size="16" font-weight="bold" fill="#14110F" letter-spacing="1.6">SAVED OR LISTED</text>
+    <line x1="48" y1="502" x2="1232" y2="502" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="524" font-family="Consolas" font-size="16" fill="#1C1A17">Villa Göth, Uppsala</text>
+    <text x="476" y="524" font-family="Consolas" font-size="16" fill="#1C1A17">Bengt Edman and Lennart Holm</text>
+    <text x="876" y="524" font-family="Consolas" font-size="16" fill="#1C1A17">1995</text>
+    <text x="986" y="524" font-family="Consolas" font-size="16" fill="#1C1A17">Listed by Uppsala county</text>
+    <line x1="48" y1="538" x2="1232" y2="538" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="560" font-family="Consolas" font-size="16" fill="#1C1A17">Preston bus station garage</text>
+    <text x="476" y="560" font-family="Consolas" font-size="16" fill="#C8331E">NO DATA</text>
+    <text x="876" y="560" font-family="Consolas" font-size="16" fill="#1C1A17">2013</text>
+    <text x="986" y="560" font-family="Consolas" font-size="16" fill="#1C1A17">Grade II listed</text>
+    <line x1="48" y1="574" x2="1232" y2="574" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="596" font-family="Consolas" font-size="16" fill="#1C1A17">Dunelm House, Durham</text>
+    <text x="476" y="596" font-family="Consolas" font-size="16" fill="#1C1A17">Architects' Co-Partnership</text>
+    <text x="876" y="596" font-family="Consolas" font-size="16" fill="#1C1A17">2021</text>
+    <text x="986" y="596" font-family="Consolas" font-size="16" fill="#1C1A17">Saved, 5-year campaign</text>
+    <line x1="48" y1="610" x2="1232" y2="610" stroke="#9A958B" stroke-width="1" />
+    <text x="56" y="632" font-family="Consolas" font-size="16" fill="#1C1A17">Southbank Centre, London</text>
+    <text x="476" y="632" font-family="Consolas" font-size="16" fill="#C8331E">NO DATA</text>
+    <text x="876" y="632" font-family="Consolas" font-size="16" fill="#1C1A17">2026</text>
+    <text x="986" y="632" font-family="Consolas" font-size="16" fill="#1C1A17">Grade II listed</text>
+    <line x1="48" y1="646" x2="1232" y2="646" stroke="#14110F" stroke-width="2" />
+  </g>
+
+  <g id="p13-note" data-pptx-bounds="48 660 1184 26">
+    <text x="48" y="678" font-family="Consolas" font-size="16" fill="#55514A">The Twentieth Century Society lost the Tricorn and Trinity Square, and won Preston and the Southbank.</text>
+  </g>
+
+  <g id="p13-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">NO DATA = A FACT THE SOURCE DOES NOT GIVE</text>
+    <text x="1232" y="700" text-anchor="end">13 / 16</text>
+  </g>
+</svg>

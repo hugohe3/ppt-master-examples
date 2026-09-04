@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+
+  <g id="season-disc" data-pptx-bounds="0 0 360 720">
+    <rect x="-60" y="0" width="420" height="720" rx="40" fill="#6FA46B" />
+    <image href="../images/word_lichun.png" x="88" y="112" width="224" height="150" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/elem_lichun.png" x="110" y="326" width="196" height="196" preserveAspectRatio="xMidYMid meet" />
+    <text x="88" y="620" font-size="18" fill="#FFFFFF" fill-opacity="0.80">春 · 第 1 格<tspan x="88" dy="32">全年第 1 格</tspan></text>
+  </g>
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-spring" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 16200000" data-pptx-av-adj2="val 21600000" data-pptx-av-adj3="val 26000" fill="#6FA46B" stroke="none">
+<path d="M 1152 54 A 38 38 0 0 1 1190 92 L 1170.24 92 A 18.24 18.24 0 0 0 1152 73.76 Z" />
+</g>
+    <circle cx="1152.0" cy="54.0" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="408 56 660 100">
+    <text x="408" y="116" font-size="44" font-weight="bold" fill="#7A5C3E">立春<tspan font-size="18" font-weight="normal" font-family="Trebuchet MS, sans-serif" fill="#8A8078"> Start of Spring</tspan></text>
+    <text x="408" y="150" font-size="18" fill="#8A8078">春天不是暖起来才开始的，是从这一分钟起算的。</text>
+  </g>
+
+  <g id="term-moment" data-pptx-bounds="408 172 808 92">
+    <rect x="408" y="172" width="808" height="92" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/clock" x="440" y="200" width="36" height="36" fill="#6FA46B" />
+    <text x="496" y="230" font-size="32" font-weight="bold" fill="#3A332C">2026 年 2 月 4 日</text>
+    <text x="836" y="234" font-size="40" font-weight="bold" fill="#6FA46B" font-family="Trebuchet MS, sans-serif">04:02</text>
+    <text x="960" y="230" font-size="18" fill="#8A8078">北京时间（UTC+8）</text>
+  </g>
+
+  <g id="term-pentads" data-pptx-bounds="408 268 808 178">
+    <text x="408" y="290" font-size="18" fill="#8A8078">三候 · 《月令七十二候集解》</text>
+    <g id="pentad-1">
+      <rect x="408" y="302" width="226" height="140" rx="24" fill="#FFFFFF" />
+      <circle cx="446" cy="340" r="14" fill="#6FA46B" />
+      <text x="446" y="346" font-size="16" text-anchor="middle" fill="#FFFFFF">一</text>
+      <text x="472" y="346" font-size="18" fill="#8A8078">一候</text>
+      <text x="432" y="404" font-size="26" font-weight="bold" fill="#3A332C">东风解冻</text>
+    </g>
+    <g id="p04-hou-arrow-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="646 352 40 40" data-pptx-av-adj1="val 50000" data-pptx-av-adj2="val 50000" fill="#9C8B7A" stroke="none">
+<path d="M 646 362 L 666 362 L 666 352 L 686 372 L 666 392 L 666 382 L 646 382 Z" />
+</g>
+    <g id="pentad-2">
+      <rect x="698" y="302" width="226" height="140" rx="24" fill="#FFFFFF" />
+      <circle cx="736" cy="340" r="14" fill="#6FA46B" />
+      <text x="736" y="346" font-size="16" text-anchor="middle" fill="#FFFFFF">二</text>
+      <text x="762" y="346" font-size="18" fill="#8A8078">二候</text>
+      <text x="722" y="404" font-size="26" font-weight="bold" fill="#3A332C">蛰虫始振</text>
+    </g>
+    <g id="p04-hou-arrow-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="936 352 40 40" data-pptx-av-adj1="val 50000" data-pptx-av-adj2="val 50000" fill="#9C8B7A" stroke="none">
+<path d="M 936 362 L 956 362 L 956 352 L 976 372 L 956 392 L 956 382 L 936 382 Z" />
+</g>
+    <g id="pentad-3">
+      <rect x="988" y="302" width="226" height="140" rx="24" fill="#FFFFFF" />
+      <circle cx="1026" cy="340" r="14" fill="#6FA46B" />
+      <text x="1026" y="346" font-size="16" text-anchor="middle" fill="#FFFFFF">三</text>
+      <text x="1052" y="346" font-size="18" fill="#8A8078">三候</text>
+      <text x="1012" y="404" font-size="26" font-weight="bold" fill="#3A332C">鱼陟负冰</text>
+    </g>
+  </g>
+
+  <g id="term-custom" data-pptx-bounds="408 466 808 94">
+    <rect x="408" y="466" width="808" height="94" rx="40" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/soup" x="440" y="494" width="36" height="36" fill="#7A5C3E" />
+    <text x="492" y="508" font-size="24" fill="#3A332C">时令 · <tspan font-weight="bold" fill="#7A5C3E">咬春</tspan>：吃春饼、赠春盘、品尝春菜</text>
+    <text x="492" y="540" font-size="18" fill="#8A8078">另有鞭土牛的「打春」礼，祭芒神、劝课农桑</text>
+  </g>
+
+  <g id="term-howto" data-pptx-bounds="408 564 808 100">
+    <g id="p04-howto-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRoundRectCallout" data-pptx-frame="408 580 808 84" data-pptx-av-adj1="val -32000" data-pptx-av-adj2="val -68000" data-pptx-av-adj3="val 16667" fill="#F2EDE4" stroke="none">
+<path d="M 408 594 A 14 14 0 0 1 422 580 L 542.67 580 L 553.44 564.88 L 744.67 580 L 1202 580 A 14 14 0 0 1 1216 594 L 1216 594 L 1216 594 L 1216 615 L 1216 650 A 14 14 0 0 1 1202 664 L 744.67 664 L 542.67 664 L 542.67 664 L 422 664 A 14 14 0 0 1 408 650 L 408 615 L 408 594 L 408 594 Z" />
+</g>
+    <text x="440" y="616" font-size="18" fill="#8A8078">怎么过</text>
+    <text x="440" y="650" font-size="26" fill="#3A332C">买张春饼，把第一口春天咬进嘴里。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="408 676 808 32" fill="#8A8078" font-size="16">
+    <text x="408" y="700">时刻据紫金山天文台 · 三候据《月令七十二候集解》 · 习俗据中国气象网</text>
+    <text x="1216" y="700" text-anchor="end" font-family="Trebuchet MS, sans-serif">04 / 31</text>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="timeline-spine" data-pptx-role="decoration" x1="260" y1="186" x2="260" y2="642" stroke="#14110F" stroke-width="3" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p03-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART ONE · THE WORD</text>
+  </g>
+
+  <g id="p03-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">03</text>
+  </g>
+
+  <g id="p03-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">Then it spread like wildfire</text>
+  </g>
+
+  <g id="p03-entry-1" data-pptx-bounds="48 186 802 98">
+    <rect x="252" y="198" width="16" height="16" fill="#14110F" />
+    <text x="48" y="220" font-family="Arial Black" font-size="36" fill="#14110F">1950</text>
+    <text x="290" y="212" font-size="20" fill="#1C1A17">English architects visiting Sweden — Michael<tspan x="290" dy="30">Ventris, Oliver Cox, Graeme Shankland — carry</tspan><tspan x="290" dy="30">the term home, where it "spread like wildfire".</tspan></text>
+  </g>
+
+  <g id="p03-entry-2" data-pptx-bounds="48 306 802 98">
+    <rect x="252" y="318" width="16" height="16" fill="#C8331E" />
+    <text x="48" y="340" font-family="Arial Black" font-size="36" fill="#14110F">1953</text>
+    <text x="290" y="332" font-size="20" fill="#1C1A17">Alison Smithson puts <tspan font-weight="bold">"new brutalism"</tspan> in print<tspan x="290" dy="30">for the first time, describing the unbuilt Soho</tspan><tspan x="290" dy="30">house in <tspan font-style="italic">Architectural Design</tspan>.</tspan></text>
+  </g>
+
+  <g id="p03-entry-3" data-pptx-bounds="48 426 802 98">
+    <rect x="252" y="438" width="16" height="16" fill="#14110F" />
+    <text x="48" y="460" font-family="Arial Black" font-size="36" fill="#14110F">1954</text>
+    <text x="290" y="452" font-size="20" fill="#1C1A17">Hunstanton School completes in Norfolk: the<tspan x="290" dy="30"><tspan font-weight="bold">first finished building in the world</tspan> its own</tspan><tspan x="290" dy="30">architects called "new brutalist".</tspan></text>
+  </g>
+
+  <g id="p03-entry-4" data-pptx-bounds="48 546 802 98">
+    <rect x="252" y="558" width="16" height="16" fill="#14110F" />
+    <text x="48" y="580" font-family="Arial Black" font-size="36" fill="#14110F">1955</text>
+    <text x="290" y="572" font-size="20" fill="#1C1A17">The Sugden House completes in Watford.<tspan x="290" dy="30">Hunstanton was likely inspired by Mies van der</tspan><tspan x="290" dy="30">Rohe's 1946 Alumni Memorial Hall in Chicago.</tspan></text>
+  </g>
+
+  <g id="p03-pullquote" data-pptx-bounds="888 294 346 250">
+    <rect x="890" y="296" width="342" height="244" fill="none" stroke="#C8331E" stroke-width="3" />
+    <text x="912" y="336" font-size="20" fill="#1C1A17">It is our intention in<tspan x="912" dy="30">this building to have the</tspan><tspan x="912" dy="30">structure exposed</tspan><tspan x="912" dy="30">entirely, without</tspan><tspan x="912" dy="30">interior finishes</tspan><tspan x="912" dy="30">wherever practicable.</tspan></text>
+    <text x="912" y="516" font-family="Consolas" font-size="16" fill="#55514A">— ALISON SMITHSON, 1953</text>
+  </g>
+
+  <g id="p03-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">03 / 16</text>
+  </g>
+</svg>

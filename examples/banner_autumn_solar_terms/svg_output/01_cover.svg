@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#D8C7A4" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="24" height="24">
+      <rect x="0" y="0" width="24" height="24" fill="#FBF6EA"/>
+      <circle cx="6" cy="7" r="1.2" fill="#D8C7A4"/>
+      <circle cx="18" cy="17" r="1.2" fill="#D8C7A4"/>
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1920" height="1080" fill="url(#paperGrain)"/>
+
+  <g id="cover-title" data-pptx-bounds="330 20 1260 375">
+    <text x="960" y="56" font-size="40" letter-spacing="6" text-anchor="middle" fill="#A8502A">二十四节气 · 秋</text>
+    <image href="../images/let_cover.png" x="342" y="90" width="1237" height="173" preserveAspectRatio="xMidYMid meet"/>
+    <path d="M636 292 Q800 284 960 291 T1284 288" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round"/>
+    <text x="960" y="340" font-size="68" font-family="KaiTi" text-anchor="middle" fill="#33302A">从一阵凉风，到第一片霜。</text>
+    <text x="960" y="378" font-size="30" text-anchor="middle" fill="#33302A" fill-opacity="0.62">2016年，二十四节气列入联合国教科文组织人类非物质文化遗产代表作名录。</text>
+  </g>
+
+  <g id="autumn-seal" data-pptx-bounds="1650 90 172 172">
+    <image href="../images/let_seal.png" x="1650" y="90" width="170" height="171" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="station-liqiu" data-pptx-bounds="87 400 280 245">
+    <image href="../images/term_liqiu.png" x="152" y="400" width="150" height="151" preserveAspectRatio="xMidYMid meet"/>
+    <text x="227" y="620" font-size="68" font-family="KaiTi" text-anchor="middle" fill="#33302A">立秋</text>
+  </g>
+
+  <g id="station-bailu" data-pptx-bounds="673 400 280 245">
+    <image href="../images/term_bailu.png" x="738" y="400" width="150" height="179" preserveAspectRatio="xMidYMid meet"/>
+    <text x="813" y="620" font-size="68" font-family="KaiTi" text-anchor="middle" fill="#33302A">白露</text>
+  </g>
+
+  <g id="station-hanlu" data-pptx-bounds="1260 400 280 245">
+    <image href="../images/term_hanlu.png" x="1325" y="400" width="150" height="148" preserveAspectRatio="xMidYMid meet"/>
+    <text x="1400" y="620" font-size="68" font-family="KaiTi" text-anchor="middle" fill="#33302A">寒露</text>
+  </g>
+
+  <g id="cover-route" data-pptx-bounds="80 655 1760 160">
+    <path d="M110 692 Q260 674 410 690 T710 686 T1010 694 T1310 684 T1610 692 T1750 686" fill="none" stroke="#33302A" stroke-opacity="0.55" stroke-width="5" stroke-linecap="round" stroke-dasharray="10,14"/>
+    <g id="p01-route-end" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="1762 668 68 44" data-pptx-av-adj1="val 55000" data-pptx-av-adj2="val 50000" fill="#A8502A" stroke="none">
+      <path d="M 1762 677.9 L 1808 677.9 L 1808 668 L 1830 690 L 1808 712 L 1808 702.1 L 1762 702.1 Z"/>
+    </g>
+    <g id="cover-stops">
+      <circle cx="227" cy="689" r="20" fill="#FBF6EA"/><circle cx="227" cy="689" r="12" fill="#A8502A"/>
+      <circle cx="520" cy="687" r="20" fill="#FBF6EA"/><circle cx="520" cy="687" r="12" fill="#A8502A"/>
+      <circle cx="813" cy="691" r="20" fill="#FBF6EA"/><circle cx="813" cy="691" r="12" fill="#A8502A"/>
+      <circle cx="1107" cy="688" r="20" fill="#FBF6EA"/><circle cx="1107" cy="688" r="12" fill="#A8502A"/>
+      <circle cx="1400" cy="691" r="20" fill="#FBF6EA"/><circle cx="1400" cy="691" r="12" fill="#A8502A"/>
+      <circle cx="1693" cy="687" r="20" fill="#FBF6EA"/><circle cx="1693" cy="687" r="12" fill="#A8502A"/>
+    </g>
+    <text x="227" y="745" font-size="40" text-anchor="middle" fill="#33302A">8月7日<tspan x="227" dy="45" fill-opacity="0.7">19:43</tspan></text>
+    <text x="520" y="745" font-size="40" text-anchor="middle" fill="#33302A">8月23日<tspan x="520" dy="45" fill-opacity="0.7">10:19</tspan></text>
+    <text x="813" y="745" font-size="40" text-anchor="middle" fill="#33302A">9月7日<tspan x="813" dy="45" fill-opacity="0.7">22:41</tspan></text>
+    <text x="1107" y="745" font-size="40" text-anchor="middle" fill="#33302A">9月23日<tspan x="1107" dy="45" fill-opacity="0.7">08:05</tspan></text>
+    <text x="1400" y="745" font-size="40" text-anchor="middle" fill="#33302A">10月8日<tspan x="1400" dy="45" fill-opacity="0.7">14:29</tspan></text>
+    <text x="1693" y="745" font-size="40" text-anchor="middle" fill="#33302A">10月23日<tspan x="1693" dy="45" fill-opacity="0.7">17:38</tspan></text>
+  </g>
+
+  <g id="station-chushu" data-pptx-bounds="380 825 280 250">
+    <text x="520" y="885" font-size="68" font-family="KaiTi" text-anchor="middle" fill="#33302A">处暑</text>
+    <image href="../images/term_chushu.png" x="445" y="905" width="150" height="158" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="station-qiufen" data-pptx-bounds="967 825 280 250">
+    <text x="1107" y="885" font-size="68" font-family="KaiTi" text-anchor="middle" fill="#33302A">秋分</text>
+    <image href="../images/term_qiufen.png" x="1032" y="905" width="150" height="168" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="station-shuangjiang" data-pptx-bounds="1553 825 280 250">
+    <text x="1693" y="885" font-size="68" font-family="KaiTi" text-anchor="middle" fill="#33302A">霜降</text>
+    <image href="../images/term_shuangjiang.png" x="1618" y="905" width="150" height="141" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+</svg>

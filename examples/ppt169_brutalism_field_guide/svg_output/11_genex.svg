@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p11-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART THREE · THE BUILDINGS</text>
+  </g>
+
+  <g id="p11-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">11</text>
+  </g>
+
+  <g id="p11-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">117 metres of Belgrade</text>
+  </g>
+
+  <g id="p11-lead" data-pptx-bounds="48 188 1136 34">
+    <text x="48" y="212" font-size="24" fill="#14110F">The Western City Gate — also known as the Genex Tower — in Belgrade, Serbia.</text>
+  </g>
+
+  <g id="p11-figures" data-pptx-bounds="48 236 1184 206">
+    <text x="48" y="340" font-family="Arial Black" font-size="120" fill="#14110F">36</text>
+    <line x1="48" y1="400" x2="400" y2="400" stroke="#14110F" stroke-width="3" />
+    <text x="48" y="430" font-family="Consolas" font-size="22" fill="#1C1A17">STOREYS</text>
+    <text x="460" y="340" font-family="Arial Black" font-size="120" fill="#C8331E">117</text>
+    <line x1="460" y1="400" x2="812" y2="400" stroke="#14110F" stroke-width="3" />
+    <text x="460" y="430" font-family="Consolas" font-size="22" fill="#1C1A17">METRES · 384 FT</text>
+    <text x="880" y="340" font-family="Arial Black" font-size="120" fill="#14110F">1977</text>
+    <line x1="880" y1="400" x2="1232" y2="400" stroke="#14110F" stroke-width="3" />
+    <text x="880" y="430" font-family="Consolas" font-size="22" fill="#1C1A17">MIHAJLO MITROVIĆ</text>
+  </g>
+
+  <g id="p11-form" data-pptx-bounds="48 468 560 216" fill="#1C1A17" font-size="20">
+    <text x="48" y="490">Formed by two towers connected with a two-<tspan x="48" dy="28">storey bridge, with a revolving restaurant at</tspan><tspan x="48" dy="28">the top. With the restaurant it reaches</tspan><tspan x="48" dy="28">135–140 m (443–459 ft).</tspan></text>
+    <text x="48" y="614">Considered a prime representative of the style<tspan x="48" dy="28">in Serbia, and one of the best built anywhere</tspan><tspan x="48" dy="28">in the 1960s and 1970s.</tspan></text>
+  </g>
+
+  <g id="p11-nodata" data-pptx-bounds="660 468 572 204">
+    <g id="p11-nodata-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="660 470 572 200" data-pptx-av-adj="val 22000" fill="none" stroke="#14110F" stroke-width="3">
+<path d="M 660 470 L 1188 470 L 1232 514 L 1232 670 L 660 670 Z"/>
+</g>
+    <text x="692" y="512" font-family="Arial Black" font-size="36" fill="#C8331E">NO DATA</text>
+    <line x1="692" y1="528" x2="1200" y2="528" stroke="#9A958B" stroke-width="1" />
+    <text x="692" y="562" font-size="20" fill="#1C1A17">The source calls the Genex Tower the<tspan x="692" dy="28">second-tallest high-rise in Belgrade,</tspan><tspan x="692" dy="28">after Ušće Tower — but gives no height</tspan><tspan x="692" dy="28">for it. The gap is printed, not estimated.</tspan></text>
+  </g>
+
+  <g id="p11-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">11 / 16</text>
+  </g>
+</svg>

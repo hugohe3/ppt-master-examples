@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="cover">
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+  <image id="orn-corner" data-pptx-role="decoration" href="../images/orn_corner.png" x="1078" y="18" width="184" height="120" preserveAspectRatio="xMidYMid meet" opacity="0.35" />
+  <image id="orn-sunmoon" data-pptx-role="decoration" href="../images/orn_sunmoon.png" x="60" y="576" width="96" height="96" preserveAspectRatio="xMidYMid meet" opacity="0.30" />
+
+  <g id="cover-wordmark" data-pptx-bounds="96 132 640 220">
+    <rect x="96" y="140" width="72" height="8" rx="4" fill="#7A5470" />
+    <text x="96" y="262" font-size="96" font-weight="bold" fill="#7A5C3E">二十四节气</text>
+    <text x="96" y="322" font-size="32" fill="#8A8078">全年手账 · <tspan font-family="Trebuchet MS, sans-serif">2026</tspan></text>
+  </g>
+
+  <g id="cover-hook" data-pptx-bounds="96 372 640 76">
+    <text x="96" y="416" font-size="30" fill="#3A332C">2026 年的春天，始于 <tspan font-family="Trebuchet MS, sans-serif" font-weight="bold" fill="#7A5470">2 月 4 日 4:02</tspan>。</text>
+  </g>
+
+  <g id="cover-figures" data-pptx-bounds="96 476 640 128">
+    <rect x="96" y="476" width="640" height="128" rx="24" fill="#FFFFFF" />
+    <g id="cover-figure-terms">
+      <text x="140" y="536" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#6FA46B">24</text>
+      <text x="140" y="568" font-size="18" fill="#8A8078">格节气</text>
+    </g>
+    <line x1="288" y1="504" x2="288" y2="576" stroke="#E3DACB" stroke-width="2" />
+    <g id="cover-figure-pentads">
+      <text x="332" y="536" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#D99A2B">72</text>
+      <text x="332" y="568" font-size="18" fill="#8A8078">候物候</text>
+    </g>
+    <line x1="480" y1="504" x2="480" y2="576" stroke="#E3DACB" stroke-width="2" />
+    <g id="cover-figure-year">
+      <text x="524" y="536" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#5C7FA3">1</text>
+      <text x="524" y="568" font-size="18" fill="#8A8078">整年，精确到分钟</text>
+    </g>
+  </g>
+
+  <g id="year-ring" data-pptx-bounds="756 128 464 464">
+    <circle cx="988" cy="360" r="200" fill="#FFFFFF" />
+    <image href="../images/orn_ring.png" x="818" y="190" width="340" height="340" preserveAspectRatio="xMidYMid meet" opacity="0.22" />
+    <g id="p01-arc-spring" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="808 180 360 360" data-pptx-av-adj1="val 16200000" data-pptx-av-adj2="val 21600000" data-pptx-av-adj3="val 11000" fill="#6FA46B" stroke="none">
+<path d="M 988 180 A 180 180 0 0 1 1168 360 L 1128.4 360 A 140.4 140.4 0 0 0 988 219.6 Z" />
+</g>
+    <g id="p01-arc-summer" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="808 180 360 360" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 5400000" data-pptx-av-adj3="val 11000" fill="#CC5B4C" stroke="none">
+<path d="M 1168 360 A 180 180 0 0 1 988 540 L 988 500.4 A 140.4 140.4 0 0 0 1128.4 360 Z" />
+</g>
+    <g id="p01-arc-autumn" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="808 180 360 360" data-pptx-av-adj1="val 5400000" data-pptx-av-adj2="val 10800000" data-pptx-av-adj3="val 11000" fill="#D99A2B" stroke="none">
+<path d="M 988 540 A 180 180 0 0 1 808 360 L 847.6 360 A 140.4 140.4 0 0 0 988 500.4 Z" />
+</g>
+    <g id="p01-arc-winter" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="808 180 360 360" data-pptx-av-adj1="val 10800000" data-pptx-av-adj2="val 16200000" data-pptx-av-adj3="val 11000" fill="#5C7FA3" stroke="none">
+<path d="M 808 360 A 180 180 0 0 1 988 180 L 988 219.6 A 140.4 140.4 0 0 0 847.6 360 Z" />
+</g>
+    <g id="year-ring-ticks" stroke="#9C8B7A" stroke-width="2" stroke-linecap="round">
+      <line x1="988.0" y1="174.0" x2="988.0" y2="161.0" /> <line x1="1036.1" y1="180.3" x2="1039.5" y2="167.8" /> <line x1="1081.0" y1="198.9" x2="1087.5" y2="187.7" /> <line x1="1119.5" y1="228.5" x2="1128.7" y2="219.3" /> <line x1="1149.1" y1="267.0" x2="1160.3" y2="260.5" /> <line x1="1167.7" y1="311.9" x2="1180.2" y2="308.5" /> <line x1="1174.0" y1="360.0" x2="1187.0" y2="360.0" /> <line x1="1167.7" y1="408.1" x2="1180.2" y2="411.5" /> <line x1="1149.1" y1="453.0" x2="1160.3" y2="459.5" /> <line x1="1119.5" y1="491.5" x2="1128.7" y2="500.7" /> <line x1="1081.0" y1="521.1" x2="1087.5" y2="532.3" /> <line x1="1036.1" y1="539.7" x2="1039.5" y2="552.2" /> <line x1="988.0" y1="546.0" x2="988.0" y2="559.0" /> <line x1="939.9" y1="539.7" x2="936.5" y2="552.2" /> <line x1="895.0" y1="521.1" x2="888.5" y2="532.3" /> <line x1="856.5" y1="491.5" x2="847.3" y2="500.7" /> <line x1="826.9" y1="453.0" x2="815.7" y2="459.5" /> <line x1="808.3" y1="408.1" x2="795.8" y2="411.5" /> <line x1="802.0" y1="360.0" x2="789.0" y2="360.0" /> <line x1="808.3" y1="311.9" x2="795.8" y2="308.5" /> <line x1="826.9" y1="267.0" x2="815.7" y2="260.5" /> <line x1="856.5" y1="228.5" x2="847.3" y2="219.3" /> <line x1="895.0" y1="198.9" x2="888.5" y2="187.7" /> <line x1="939.9" y1="180.3" x2="936.5" y2="167.8" />
+    </g>
+    <g id="year-ring-pointer" fill="#7A5470">
+      <circle cx="988" cy="160" r="9" />
+      <text x="988" y="146" font-size="18" text-anchor="middle">立春</text>
+    </g>
+    <text x="988" y="352" font-size="26" text-anchor="middle" fill="#7A5C3E">一年</text>
+    <text x="988" y="386" font-size="18" text-anchor="middle" fill="#8A8078">四季 · 二十四格</text>
+  </g>
+
+  <g id="cover-footer" data-pptx-bounds="96 644 1088 40">
+    <line x1="96" y1="646" x2="1184" y2="646" stroke="#E3DACB" stroke-width="2" />
+    <text x="96" y="676" font-size="16" fill="#8A8078">交节时刻据中国科学院紫金山天文台发布，三候原文出自《月令七十二候集解》，习俗据中国气象网 · 详见末页来源</text>
+  </g>
+</svg>

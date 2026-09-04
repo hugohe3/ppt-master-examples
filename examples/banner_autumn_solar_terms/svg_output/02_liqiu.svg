@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#D8C7A4" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="24" height="24">
+      <rect x="0" y="0" width="24" height="24" fill="#FBF6EA"/>
+      <circle cx="6" cy="7" r="1.2" fill="#D8C7A4"/>
+      <circle cx="18" cy="17" r="1.2" fill="#D8C7A4"/>
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1920" height="1080" fill="url(#paperGrain)"/>
+
+  <g id="term-head" data-pptx-bounds="100 90 800 315">
+    <image href="../images/let_liqiu.png" x="100" y="100" width="366" height="170" preserveAspectRatio="xMidYMid meet"/>
+    <text x="100" y="340" font-size="88" font-family="KaiTi" fill="#33302A">第一站 · 立秋</text>
+    <path d="M100 378 Q300 368 520 376 T860 372" fill="none" stroke="#E39A1F" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g id="term-date" data-pptx-bounds="950 90 580 320">
+    <text x="950" y="150" font-size="40" fill="#A8502A">2026 交节</text>
+    <text x="950" y="290" font-size="132" font-family="KaiTi" fill="#33302A">8月7日</text>
+    <text x="950" y="380" font-size="40" fill="#33302A" fill-opacity="0.7">19:43</text>
+  </g>
+
+  <g id="autumn-seal" data-pptx-bounds="1620 100 160 161">
+    <image href="../images/let_seal.png" x="1620" y="100" width="160" height="161" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="term-hou" data-pptx-bounds="100 450 800 300">
+    <g id="p02-hou-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="100 450 800 300" fill="#F1E5CE" stroke="#33302A" stroke-width="3" stroke-opacity="0.55">
+      <path d="M 100 500 A 50 50 0 0 0 150 450 L 850 450 A 50 50 0 0 0 900 500 L 900 700 A 50 50 0 0 0 850 750 L 150 750 A 50 50 0 0 0 100 700 Z"/>
+    </g>
+    <text x="150" y="540" font-size="52" font-weight="bold" fill="#A8502A">一候　凉风至</text>
+    <text x="150" y="615" font-size="40" fill="#33302A">二候　白露降</text>
+    <text x="150" y="670" font-size="40" fill="#33302A">三候　寒蝉鸣</text>
+    <text x="150" y="722" font-size="30" fill="#33302A" fill-opacity="0.6">《月令七十二候集解》</text>
+  </g>
+
+  <g id="term-how" data-pptx-bounds="950 450 880 300">
+    <text x="990" y="500" font-size="40" fill="#A8502A">怎么过</text>
+    <rect x="950" y="525" width="880" height="200" rx="18" fill="#E39A1F" fill-opacity="0.16"/>
+    <text x="990" y="600" font-size="68" font-family="KaiTi" fill="#33302A">秤一秤，<tspan fill="#A8502A">别急着进补</tspan>；<tspan x="990" dy="92">把西瓜最后一口啃完。</tspan></text>
+  </g>
+
+  <g id="term-ph" data-pptx-bounds="100 775 800 160">
+    <image href="../images/ph_coolwind.png" x="110" y="775" width="120" height="102" preserveAspectRatio="xMidYMid meet"/>
+    <text x="110" y="915" font-size="40" fill="#33302A">一候·凉风至</text>
+    <image href="../images/ph_cicada.png" x="470" y="775" width="81" height="110" preserveAspectRatio="xMidYMid meet"/>
+    <text x="430" y="915" font-size="40" fill="#33302A">三候·寒蝉鸣</text>
+  </g>
+
+  <g id="term-custom" data-pptx-bounds="950 770 880 155">
+    <image href="../images/food_watermelon.png" x="960" y="780" width="130" height="113" preserveAspectRatio="xMidYMid meet"/>
+    <text x="1110" y="830" font-size="52" fill="#33302A">啃秋　<tspan fill="#A8502A">这天吃西瓜防秋燥</tspan></text>
+    <text x="1110" y="890" font-size="30" fill="#33302A" fill-opacity="0.6">贴秋膘：悬秤称人，与立夏比轻重</text>
+  </g>
+
+  <g id="term-route" data-pptx-bounds="80 940 1760 120">
+    <path d="M110 986 Q260 970 410 984 T710 980 T1010 988 T1310 978 T1610 986 T1810 980" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round" stroke-dasharray="8,12"/>
+    <circle cx="227" cy="983" r="24" fill="#FBF6EA"/><circle cx="227" cy="983" r="15" fill="#A8502A"/>
+    <circle cx="520" cy="981" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="813" cy="985" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="1107" cy="982" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="1400" cy="985" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="1693" cy="981" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <text x="227" y="1045" font-size="40" text-anchor="middle" fill="#A8502A">立秋</text>
+  </g>
+</svg>

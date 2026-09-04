@@ -1,0 +1,30 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,decor_arrow.png,367,268,1.37,1.37,,native,PNG,True,1,,bitmap,True,True,100.5,Standard landscape
+2,decor_ribbon.png,452,166,2.72,2.72,,native,PNG,True,1,,bitmap,True,True,90.2,Ultra-wide
+3,decor_star.png,256,255,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,61.4,Near square
+4,food_duck.png,274,213,1.29,1.29,,native,PNG,True,1,,bitmap,True,True,87.6,Standard landscape
+5,food_longan.png,227,256,0.89,0.89,,native,PNG,True,1,,bitmap,True,True,73.1,Near square
+6,food_persimmon.png,235,281,0.84,0.84,,native,PNG,True,1,,bitmap,True,True,98.2,Near square
+7,food_qiucai.png,211,256,0.82,0.82,,native,PNG,True,1,,bitmap,True,True,63.8,Near square
+8,food_sesame.png,257,214,1.20,1.20,,native,PNG,True,1,,bitmap,True,True,98.4,Standard landscape
+9,food_watermelon.png,261,226,1.15,1.15,,native,PNG,True,1,,bitmap,True,True,61.0,Near square
+10,let_bailu.png,335,191,1.75,1.75,,native,PNG,True,1,,bitmap,True,True,97.4,Wide landscape
+11,let_chushu.png,344,204,1.69,1.69,,native,PNG,True,1,,bitmap,True,True,101.6,Wide landscape
+12,let_cover.png,1237,173,7.15,7.15,,native,PNG,True,1,,bitmap,True,True,269.7,Ultra-wide
+13,let_hanlu.png,360,214,1.68,1.68,,native,PNG,True,1,,bitmap,True,True,116.4,Wide landscape
+14,let_liqiu.png,366,170,2.15,2.15,,native,PNG,True,1,,bitmap,True,True,89.1,Ultra-wide
+15,let_qiufen.png,361,181,1.99,1.99,,native,PNG,True,1,,bitmap,True,True,99.0,Wide landscape
+16,let_seal.png,253,254,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,85.1,Near square
+17,let_shuangjiang.png,361,215,1.68,1.68,,native,PNG,True,1,,bitmap,True,True,115.1,Wide landscape
+18,ph_chrysanthemum.png,262,225,1.16,1.16,,native,PNG,True,1,,bitmap,True,True,126.1,Near square
+19,ph_cicada.png,184,251,0.73,0.73,,native,PNG,True,1,,bitmap,True,True,83.4,Portrait
+20,ph_coolwind.png,240,204,1.18,1.18,,native,PNG,True,1,,bitmap,True,True,68.8,Near square
+21,ph_frost.png,237,231,1.03,1.03,,native,PNG,True,1,,bitmap,True,True,80.2,Near square
+22,ph_goose.png,270,215,1.26,1.26,,native,PNG,True,1,,bitmap,True,True,87.8,Standard landscape
+23,ph_swallow.png,238,232,1.03,1.03,,native,PNG,True,1,,bitmap,True,True,77.4,Near square
+24,term_bailu.png,257,307,0.84,0.84,,native,PNG,True,1,,bitmap,True,True,123.2,Near square
+25,term_chushu.png,294,309,0.95,0.95,,native,PNG,True,1,,bitmap,True,True,127.4,Near square
+26,term_hanlu.png,268,265,1.01,1.01,,native,PNG,True,1,,bitmap,True,True,131.2,Near square
+27,term_liqiu.png,268,269,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,102.7,Near square
+28,term_qiufen.png,258,289,0.89,0.89,,native,PNG,True,1,,bitmap,True,True,127.1,Near square
+29,term_shuangjiang.png,269,252,1.07,1.07,,native,PNG,True,1,,bitmap,True,True,108.9,Near square

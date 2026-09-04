@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#D8C7A4" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="24" height="24">
+      <rect x="0" y="0" width="24" height="24" fill="#FBF6EA"/>
+      <circle cx="6" cy="7" r="1.2" fill="#D8C7A4"/>
+      <circle cx="18" cy="17" r="1.2" fill="#D8C7A4"/>
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1920" height="1080" fill="url(#paperGrain)"/>
+  <path id="dew-arc" data-pptx-role="decoration" d="M180 300 Q620 150 960 205 T1740 300" fill="none" stroke="#6F8C5A" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round" stroke-dasharray="2,16"/>
+
+  <g text-anchor="middle" id="term-head" data-pptx-bounds="580 70 760 320">
+    <image href="../images/let_bailu.png" x="792" y="80" width="335" height="191" preserveAspectRatio="xMidYMid meet"/>
+    <text x="960" y="340" font-size="88" font-family="KaiTi" fill="#33302A">第三站 · 白露</text>
+  </g>
+
+  <g id="autumn-seal" data-pptx-bounds="1740 100 150 151">
+    <image href="../images/let_seal.png" x="1740" y="100" width="150" height="151" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g text-anchor="middle" id="term-date" data-pptx-bounds="580 400 760 210">
+    <text x="960" y="515" font-size="132" font-family="KaiTi" fill="#33302A">9月7日</text>
+    <text x="960" y="595" font-size="40" fill="#A8502A">2026年 22:41 交节</text>
+  </g>
+
+  <g text-anchor="middle" id="ph-left" data-pptx-bounds="200 420 340 310">
+    <image href="../images/ph_goose.png" x="260" y="430" width="220" height="175" preserveAspectRatio="xMidYMid meet"/>
+    <text x="370" y="670" font-size="40" fill="#33302A">一候·鸿雁来</text>
+    <text x="370" y="715" font-size="30" fill="#33302A" fill-opacity="0.6">自北而南也</text>
+  </g>
+
+  <g text-anchor="middle" id="ph-right" data-pptx-bounds="1380 420 340 310">
+    <image href="../images/ph_swallow.png" x="1450" y="430" width="200" height="195" preserveAspectRatio="xMidYMid meet"/>
+    <text x="1550" y="670" font-size="40" fill="#33302A">二候·玄鸟归</text>
+    <text x="1550" y="715" font-size="30" fill="#33302A" fill-opacity="0.6">燕去也</text>
+  </g>
+
+  <g text-anchor="middle" id="term-hou" data-pptx-bounds="580 630 760 200">
+    <g id="p04-hou-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="580 635 760 180" fill="none" stroke="#33302A" stroke-width="3" stroke-opacity="0.5">
+      <path d="M 580 665 A 30 30 0 0 1 610 635 L 1310 635 A 30 30 0 0 1 1340 665 L 1340 785 A 30 30 0 0 1 1310 815 L 610 815 A 30 30 0 0 1 580 785 Z" stroke="none"/>
+      <path d="M 610 815 A 30 30 0 0 1 580 785 L 580 665 A 30 30 0 0 1 610 635 M 1310 635 A 30 30 0 0 1 1340 665 L 1340 785 A 30 30 0 0 1 1310 815"/>
+    </g>
+    <text x="960" y="715" font-size="52" font-weight="bold" fill="#A8502A">三候　群鸟养羞</text>
+    <text x="960" y="775" font-size="30" fill="#33302A">羞，粮食也。养羞以备冬月。</text>
+    <text x="960" y="812" font-size="30" fill="#33302A" fill-opacity="0.6">《月令七十二候集解》</text>
+  </g>
+
+  <g id="term-food" data-pptx-bounds="140 775 250 161">
+    <image href="../images/food_longan.png" x="150" y="778" width="100" height="113" preserveAspectRatio="xMidYMid meet"/>
+    <text x="150" y="925" font-size="30" fill="#33302A" fill-opacity="0.7">白露必吃龙眼</text>
+  </g>
+
+  <g id="term-proverb" data-pptx-bounds="1530 780 290 155" font-size="30" fill="#33302A">
+    <text x="1530" y="830">春茶苦，夏茶涩，<tspan x="1530" dy="45">要喝茶，秋白露。</tspan></text>
+    <text x="1530" y="920" fill-opacity="0.55">民谚 · 白露茶</text>
+  </g>
+
+  <g text-anchor="middle" id="term-how" data-pptx-bounds="420 845 1080 90">
+    <text x="960" y="905" font-size="68" font-family="KaiTi" fill="#33302A">早晚加一件；泡一壶<tspan fill="#A8502A">秋白露</tspan>。</text>
+  </g>
+
+  <g text-anchor="middle" id="term-route" data-pptx-bounds="80 940 1760 120">
+    <path d="M110 986 Q260 970 410 984 T710 980 T1010 988 T1310 978 T1610 986 T1810 980" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round" stroke-dasharray="8,12"/>
+    <circle cx="227" cy="983" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="520" cy="981" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="813" cy="985" r="24" fill="#FBF6EA"/><circle cx="813" cy="985" r="15" fill="#A8502A"/>
+    <circle cx="1107" cy="982" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="1400" cy="985" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="1693" cy="981" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <text x="813" y="1045" font-size="40" fill="#A8502A">白露</text>
+  </g>
+</svg>

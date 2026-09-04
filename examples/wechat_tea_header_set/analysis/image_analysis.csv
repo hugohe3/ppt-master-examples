@@ -1,0 +1,16 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,leaf_dark.png,256,212,1.21,1.21,,native,PNG,True,1,,bitmap,True,True,110.9,Standard landscape
+2,leaf_green.png,224,256,0.88,0.88,,native,PNG,True,1,,bitmap,True,True,51.8,Near square
+3,leaf_oolong.png,259,234,1.11,1.11,,native,PNG,True,1,,bitmap,True,True,126.9,Near square
+4,leaf_red.png,256,203,1.26,1.26,,native,PNG,True,1,,bitmap,True,True,80.9,Standard landscape
+5,leaf_white.png,192,256,0.75,0.75,,native,PNG,True,1,,bitmap,True,True,68.3,Portrait
+6,leaf_yellow.png,198,240,0.82,0.82,,native,PNG,True,1,,bitmap,True,True,91.0,Near square
+7,ware_cup.png,207,202,1.02,1.02,,native,PNG,True,1,,bitmap,True,True,67.6,Near square
+8,ware_gaiwan.png,256,243,1.05,1.05,,native,PNG,True,1,,bitmap,True,True,58.8,Near square
+9,ware_kettle.png,256,252,1.02,1.02,,native,PNG,True,1,,bitmap,True,True,48.0,Near square
+10,word_dark.png,351,194,1.81,1.81,,native,PNG,True,1,,bitmap,True,True,73.7,Wide landscape
+11,word_green.png,360,194,1.86,1.86,,native,PNG,True,1,,bitmap,True,True,78.0,Wide landscape
+12,word_oolong.png,350,203,1.72,1.72,,native,PNG,True,1,,bitmap,True,True,65.8,Wide landscape
+13,word_red.png,352,188,1.87,1.87,,native,PNG,True,1,,bitmap,True,True,61.0,Wide landscape
+14,word_white.png,362,208,1.74,1.74,,native,PNG,True,1,,bitmap,True,True,70.1,Wide landscape
+15,word_yellow.png,352,190,1.85,1.85,,native,PNG,True,1,,bitmap,True,True,68.0,Wide landscape

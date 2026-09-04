@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 600" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E3D8C2" data-pptx-bg="#F7F1E4" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#F7F1E4"/>
+      <circle cx="4" cy="4" r="1.1" fill="#E3D8C2"/>
+      <circle cx="13" cy="11" r="1.1" fill="#E3D8C2"/>
+    </pattern>
+  </defs>
+
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1920" height="600" fill="url(#paperGrain)"/>
+
+  <g id="term-mark-hanlu" data-pptx-bounds="68 36 580 350">
+    <image href="../images/let_hanlu.png" x="80" y="40" width="330" height="196.17"/>
+    <text x="80" y="308" font-family="KaiTi" font-size="88" fill="#2E2A26">寒露</text>
+    <text x="80" y="360" font-size="40" fill="#7A6E60">2026年10月8日 14:29 交节</text>
+  </g>
+
+  <g id="hou-hanlu-1" data-pptx-bounds="694 54 532 108">
+    <g id="p06-hou-chevron-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="700 60 520 96" fill="#B7A2C8" stroke="#2E2A26" stroke-width="3">
+<path d="M 700 60 L 1172 60 L 1220 108 L 1172 156 L 700 156 L 748 108 Z"/>
+</g>
+    <text x="770" y="126" font-size="52" fill="#2E2A26">一候 鸿雁来宾</text>
+  </g>
+
+  <g id="hou-hanlu-2" data-pptx-bounds="854 184 632 108">
+    <g id="p06-hou-chevron-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="860 190 620 96" fill="#B7A2C8" stroke="#2E2A26" stroke-width="3">
+<path d="M 860 190 L 1432 190 L 1480 238 L 1432 286 L 860 286 L 908 238 Z"/>
+</g>
+    <text x="930" y="256" font-size="52" fill="#2E2A26">二候 雀入大水为蛤</text>
+  </g>
+
+  <g id="hou-hanlu-3" data-pptx-bounds="1014 314 532 108">
+    <g id="p06-hou-chevron-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="1020 320 520 96" fill="#B7A2C8" stroke="#2E2A26" stroke-width="3">
+<path d="M 1020 320 L 1492 320 L 1540 368 L 1492 416 L 1020 416 L 1068 368 Z"/>
+</g>
+    <text x="1090" y="386" font-size="52" fill="#2E2A26">三候 菊有黄花</text>
+  </g>
+
+  <g id="doodle-hanlu-top" data-pptx-bounds="1570 46 286 200">
+    <image href="../images/ph_chrysanthemum.png" x="1580" y="58" width="150" height="128.82"/>
+    <image href="../images/term_hanlu.png" x="1720" y="58" width="130" height="128.54"/>
+  </g>
+
+  <g id="doodle-arrow" data-pptx-bounds="1560 270 220 150">
+    <image href="../images/decor_arrow.png" x="1580" y="278" width="180" height="131.44"/>
+  </g>
+
+  <g id="route-spine" data-pptx-bounds="68 396 900 26">
+    <path d="M76 410 C260 402 420 416 600 407 C760 399 880 412 960 406" fill="none" stroke="#2E2A26" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="500" cy="410.6" r="9" fill="#C0503C"/>
+  </g>
+
+  <g id="advice-hanlu" data-pptx-bounds="68 436 1332 144">
+    <path d="M78 448 C420 438 900 456 1390 444 C1398 490 1386 534 1394 570 C1000 578 500 560 76 570 C68 528 84 486 78 448 Z" fill="none" stroke="#2E2A26" stroke-width="4"/>
+    <text x="120" y="500" font-size="60" fill="#2E2A26">把凉鞋收起来,<tspan fill="#C0503C" font-weight="bold">登一次高</tspan>,回家吃点芝麻。</text>
+    <text x="120" y="556" font-size="30" fill="#7A6E60">寒露三候另有传本作「菊有黄华」</text>
+  </g>
+
+  <g id="doodle-sesame" data-pptx-bounds="1420 436 200 144">
+    <image href="../images/food_sesame.png" x="1432" y="440" width="170" height="141.56"/>
+  </g>
+
+  <g id="seal-mark" data-pptx-bounds="1650 436 206 144">
+    <image href="../images/let_seal.png" x="1690" y="445" width="120" height="120.47"/>
+  </g>
+</svg>

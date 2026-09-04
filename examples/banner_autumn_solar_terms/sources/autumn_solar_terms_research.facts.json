@@ -1,0 +1,166 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "二十四节气·秋（立秋、处暑、白露、秋分、寒露、霜降）2026年日期、三候原文与习俗",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "2026年立秋交节时刻为8月7日19时43分（东八区时间）。",
+      "source_title": "香港天文台 二十四节气日期及时间资料 24SolarTerms_2026.xml",
+      "source_url": "https://www.hko.gov.hk/tc/gts/astronomy/data/files/24SolarTerms_2026.xml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "2026年处暑交节时刻为8月23日10时19分（东八区时间）。",
+      "source_title": "香港天文台 二十四节气日期及时间资料 24SolarTerms_2026.xml",
+      "source_url": "https://www.hko.gov.hk/tc/gts/astronomy/data/files/24SolarTerms_2026.xml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "2026年白露交节时刻为9月7日22时41分（东八区时间）。",
+      "source_title": "香港天文台 二十四节气日期及时间资料 24SolarTerms_2026.xml",
+      "source_url": "https://www.hko.gov.hk/tc/gts/astronomy/data/files/24SolarTerms_2026.xml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "2026年秋分交节时刻为9月23日8时05分（东八区时间）。",
+      "source_title": "香港天文台 二十四节气日期及时间资料 24SolarTerms_2026.xml",
+      "source_url": "https://www.hko.gov.hk/tc/gts/astronomy/data/files/24SolarTerms_2026.xml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "2026年寒露交节时刻为10月8日14时29分（东八区时间）。",
+      "source_title": "香港天文台 二十四节气日期及时间资料 24SolarTerms_2026.xml",
+      "source_url": "https://www.hko.gov.hk/tc/gts/astronomy/data/files/24SolarTerms_2026.xml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "2026年霜降交节时刻为10月23日17时38分（东八区时间）。",
+      "source_title": "香港天文台 二十四节气日期及时间资料 24SolarTerms_2026.xml",
+      "source_url": "https://www.hko.gov.hk/tc/gts/astronomy/data/files/24SolarTerms_2026.xml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "立秋三候为：一候凉风至，二候白露降，三候寒蝉鸣（《月令七十二候集解》释三候作“蝉小而青赤色者”）。",
+      "source_title": "七十二候 - 维基百科",
+      "source_url": "https://zh.wikipedia.org/zh-hans/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "处暑三候为：一候鹰乃祭鸟，二候天地始肃，三候禾乃登（集解释“稷为五谷之长，首熟此时”）。",
+      "source_title": "七十二候 - 维基百科",
+      "source_url": "https://zh.wikipedia.org/zh-hans/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "白露三候为：一候鸿雁来，二候玄鸟归，三候群鸟养羞（集解释“羞，粮食也。养羞以备冬月”）。",
+      "source_title": "七十二候 - 维基百科",
+      "source_url": "https://zh.wikipedia.org/zh-hans/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "秋分三候为：一候雷始收声，二候蛰虫坯户，三候水始涸。",
+      "source_title": "七十二候 - 维基百科",
+      "source_url": "https://zh.wikipedia.org/zh-hans/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "寒露三候为：一候鸿雁来宾，二候雀入大水为蛤，三候菊有黄花。",
+      "source_title": "七十二候 - 维基百科",
+      "source_url": "https://zh.wikipedia.org/zh-hans/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "霜降三候为：一候豺乃祭兽，二候草木黄落，三候蛰虫咸俯。",
+      "source_title": "七十二候 - 维基百科",
+      "source_url": "https://zh.wikipedia.org/zh-hans/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "立秋民间有“贴秋膘”与“啃秋”习俗：立秋悬秤称人与立夏比轻重，瘦了要补；南方立秋这天多吃西瓜以防秋燥。",
+      "source_title": "二十四节气之立秋 处暑 - 北京市园林绿化局",
+      "source_url": "https://yllhj.beijing.gov.cn/ztxx/lhysh/sh/202309/t20230906_3252770.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "处暑有吃鸭子与放河灯的习俗，江苏一带谚语称“处暑送鸭，无病各家”，河灯又名荷花灯，用以悼念逝者、祈祝安康。",
+      "source_title": "【二十四节气】处暑 - 首都之窗·北京市人民政府门户网站",
+      "source_url": "https://www.beijing.gov.cn/renwen//lsfm/msfy/201908/t20190823_1870107.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "白露习俗包括饮白露茶（民谚“春茶苦，夏茶涩，要喝茶，秋白露”）、福州“白露必吃龙眼”，以及依《本草纲目》收秋露作煎膏的“收清露”。",
+      "source_title": "白露习俗：饮白露茶吃龙眼酿米酒 - 中国天气网",
+      "source_url": "https://m.weather.com.cn/news/2024/09/3872584.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "秋分习俗有秋祭月、送秋牛、放风筝、吃秋菜、喝秋汤；岭南采野苋菜与鱼片“滚汤”名曰“秋汤”，另有“秋分到，蛋儿俏”的竖蛋游戏。",
+      "source_title": "二十四节气·秋分 - 中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/qiufen/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "寒露有“寒露吃芝麻”的习俗，寒露前三后四所采之茶谓之“正秋茶”，并有赏枫、饮菊花酒之俗；霜降前后柿子皮薄肉多味鲜美，民谚“霜降吃灯柿，不会流鼻涕”，霜降雅事为登高山、赏菊花。",
+      "source_title": "二十四节气之寒露 霜降 - 北京市园林绿化局",
+      "source_url": "https://yllhj.beijing.gov.cn/ztxx/lhysh/sh/202311/t20231120_3305348.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "国务院于2018年批复同意自2018年起将每年农历秋分设立为“中国农民丰收节”，这是第一个在国家层面专门为农民设立的节日。",
+      "source_title": "让农民成为节日的主角 - 中国政府网",
+      "source_url": "https://www.gov.cn/zhengce/2018-06/22/content_5300368.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "2016年11月30日，联合国教科文组织保护非物质文化遗产政府间委员会第十一届常会通过决议，将中国申报的“二十四节气”列入人类非物质文化遗产代表作名录。",
+      "source_title": "“二十四节气”正式列入联合国教科文组织人类非物质文化遗产代表作名录 - 中华人民共和国文化和旅游部",
+      "source_url": "https://www.mct.gov.cn/whzx/bnsj/dwwhllj/201612/t20161214_773196.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "2026年立冬交节时刻为11月7日17时52分（东八区时间），秋季六节气之后由立冬接棒。",
+      "source_title": "香港天文台 二十四节气日期及时间资料 24SolarTerms_2026.xml",
+      "source_url": "https://www.hko.gov.hk/tc/gts/astronomy/data/files/24SolarTerms_2026.xml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    }
+  ]
+}

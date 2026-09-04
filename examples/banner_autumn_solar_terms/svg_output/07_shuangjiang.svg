@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#D8C7A4" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="24" height="24">
+      <rect x="0" y="0" width="24" height="24" fill="#FBF6EA"/>
+      <circle cx="6" cy="7" r="1.2" fill="#D8C7A4"/>
+      <circle cx="18" cy="17" r="1.2" fill="#D8C7A4"/>
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1920" height="1080" fill="url(#paperGrain)"/>
+  <path id="frost-rule" data-pptx-role="decoration" d="M110 128 Q560 118 1010 126 T1810 120" fill="none" stroke="#33302A" stroke-opacity="0.3" stroke-width="3" stroke-dasharray="3,10" stroke-linecap="round"/>
+
+  <g id="term-how" data-pptx-bounds="110 14 1300 94">
+    <text x="110" y="80" font-size="68" font-family="KaiTi" fill="#33302A">秋天最后一站，<tspan fill="#A8502A">给秋天收个尾</tspan>。</text>
+  </g>
+
+  <g id="term-food" data-pptx-bounds="110 120 540 500">
+    <image href="../images/food_persimmon.png" x="150" y="130" width="280" height="335" preserveAspectRatio="xMidYMid meet"/>
+    <text x="150" y="540" font-size="52" fill="#33302A">霜降吃灯柿</text>
+    <text x="150" y="600" font-size="30" fill="#33302A" fill-opacity="0.65">民谚：霜降吃灯柿，不会流鼻涕</text>
+  </g>
+
+  <g id="term-head" data-pptx-bounds="720 110 800 340">
+    <image href="../images/let_shuangjiang.png" x="720" y="120" width="361" height="215" preserveAspectRatio="xMidYMid meet"/>
+    <text x="720" y="415" font-size="88" font-family="KaiTi" fill="#33302A">第六站 · 霜降</text>
+  </g>
+
+  <g id="autumn-seal" data-pptx-bounds="1560 110 340 300">
+    <image href="../images/let_seal.png" x="1600" y="130" width="250" height="251" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="term-date" data-pptx-bounds="720 470 800 200">
+    <text x="740" y="585" font-size="132" font-family="KaiTi" fill="#33302A">10月23日</text>
+    <text x="740" y="655" font-size="40" fill="#A8502A">17:38 交节</text>
+  </g>
+
+  <g id="next-term" data-pptx-bounds="1560 470 340 465">
+    <g id="p07-next-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="1590 500 130 64" data-pptx-av-adj1="val 55000" data-pptx-av-adj2="val 50000" fill="#A8502A" stroke="none">
+      <path d="M 1590 514.4 L 1688 514.4 L 1688 500 L 1720 532 L 1688 564 L 1688 549.6 L 1590 549.6 Z"/>
+    </g>
+    <text x="1590" y="620" font-size="40" fill="#33302A">下一站 立冬</text>
+    <text x="1590" y="670" font-size="30" fill="#33302A" fill-opacity="0.65">11月7日 17:52</text>
+    <image href="../images/decor_arrow.png" x="1620" y="730" width="200" height="146" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="ph-frost" data-pptx-bounds="110 680 540 255">
+    <image href="../images/ph_frost.png" x="140" y="690" width="170" height="166" preserveAspectRatio="xMidYMid meet"/>
+    <text x="340" y="750" font-size="40" fill="#33302A">二候·草木黄落</text>
+    <text x="340" y="800" font-size="30" fill="#33302A" fill-opacity="0.65">霜降前后扫墓祭祖</text>
+  </g>
+
+  <g id="term-hou" data-pptx-bounds="720 700 800 235">
+    <g id="p07-hou-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="720 705 56 230" fill="none" stroke="#33302A" stroke-width="3" stroke-opacity="0.55">
+      <path d="M 776 935 A 28 4.67 0 0 1 748 930.33 L 748 824.67 A 28 4.67 0 0 0 720 820 A 28 4.67 0 0 0 748 815.33 L 748 709.67 A 28 4.67 0 0 1 776 705 Z" stroke="none"/>
+      <path d="M 776 935 A 28 4.67 0 0 1 748 930.33 L 748 824.67 A 28 4.67 0 0 0 720 820 A 28 4.67 0 0 0 748 815.33 L 748 709.67 A 28 4.67 0 0 1 776 705"/>
+    </g>
+    <text x="810" y="760" font-size="52" font-weight="bold" fill="#A8502A">一候　豺乃祭兽</text>
+    <text x="810" y="820" font-size="40" fill="#33302A" fill-opacity="0.85">二候　草木黄落</text>
+    <text x="810" y="870" font-size="40" fill="#33302A" fill-opacity="0.85">三候　蛰虫咸俯</text>
+    <text x="810" y="915" font-size="30" fill="#33302A" fill-opacity="0.6">《月令七十二候集解》·俯，蛰伏也</text>
+  </g>
+
+  <g id="term-route" data-pptx-bounds="80 940 1760 120" text-anchor="middle">
+    <path d="M110 986 Q260 970 410 984 T710 980 T1010 988 T1310 978 T1610 986 T1810 980" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round" stroke-dasharray="8,12"/>
+    <circle cx="227" cy="983" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="520" cy="981" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="813" cy="985" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="1107" cy="982" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="1400" cy="985" r="9" fill="none" stroke="#33302A" stroke-opacity="0.45" stroke-width="3"/>
+    <circle cx="1693" cy="981" r="24" fill="#FBF6EA"/><circle cx="1693" cy="981" r="15" fill="#A8502A"/>
+    <text x="1693" y="1045" font-size="40" fill="#A8502A">霜降</text>
+  </g>
+</svg>

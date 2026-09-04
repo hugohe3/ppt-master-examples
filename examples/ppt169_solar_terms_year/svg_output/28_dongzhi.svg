@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-winter" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 10800000" data-pptx-av-adj2="val 16200000" data-pptx-av-adj3="val 26000" fill="#5C7FA3" stroke="none">
+<path d="M 1114 92 A 38 38 0 0 1 1152 54 L 1152 73.76 A 18.24 18.24 0 0 0 1133.76 92 Z" />
+</g>
+    <circle cx="1125.1" cy="65.1" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="64 44 596 194">
+    <image href="../images/word_dongzhi.png" x="64" y="48" width="230" height="146" preserveAspectRatio="xMidYMid meet" />
+    <text x="320" y="126" font-size="44" font-weight="bold" fill="#7A5C3E">冬至<tspan font-size="18" font-weight="normal" font-family="Trebuchet MS, sans-serif" fill="#8A8078"> Winter Solstice</tspan></text>
+    <text x="320" y="164" font-size="18" fill="#8A8078">黑夜最长的一天</text>
+    <text x="64" y="224" font-size="18" fill="#8A8078">也是阳气回头的那一天。太阳上中天仰角全年最低：44°。</text>
+  </g>
+
+  <g id="term-moment" data-pptx-bounds="64 254 596 92">
+    <rect x="64" y="254" width="596" height="92" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/sun" x="96" y="282" width="36" height="36" fill="#5C7FA3" />
+    <text x="152" y="300" font-size="24" font-weight="bold" fill="#3A332C">2026 年 12 月 22 日</text>
+    <text x="152" y="330" font-size="18" fill="#8A8078">北京时间（UTC+8）</text>
+    <text x="640" y="316" font-size="40" font-weight="bold" fill="#5C7FA3" font-family="Trebuchet MS, sans-serif" text-anchor="end">04:50</text>
+  </g>
+
+  <g id="term-custom" data-pptx-bounds="64 366 596 96">
+    <g id="p28-custom-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="64 366 596 96" data-pptx-av-adj1="val 34000" data-pptx-av-adj2="val 0" fill="#FFFFFF" stroke="none">
+<path d="M 96.64 366 L 627.36 366 A 32.64 32.64 0 0 1 660 398.64 L 660 462 L 64 462 L 64 398.64 A 32.64 32.64 0 0 1 96.64 366 Z" />
+</g>
+    <use data-icon="tabler-filled/soup" x="96" y="392" width="32" height="32" fill="#7A5C3E" />
+    <text x="144" y="410" font-size="24" fill="#3A332C">时令 · 北方<tspan font-weight="bold" fill="#7A5C3E">饺子</tspan>，南方<tspan font-weight="bold" fill="#7A5C3E">汤圆</tspan></text>
+    <text x="144" y="442" font-size="18" fill="#8A8078">汤圆谐音「团圆」，古人常以其祭祀祖先而后全家分食</text>
+  </g>
+
+  <g id="term-howto" data-pptx-bounds="64 482 596 114">
+    <g id="p28-howto-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="64 482 596 114" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 30000" fill="#F2EDE4" stroke="none">
+<path d="M 64 482 L 660 482 L 660 561.8 A 34.2 34.2 0 0 1 625.8 596 L 98.2 596 A 34.2 34.2 0 0 1 64 561.8 L 64 482 Z" />
+</g>
+    <text x="96" y="514" font-size="18" fill="#8A8078">怎么过</text>
+    <text x="96" y="552" font-size="26" fill="#3A332C">北方饺子南方汤圆，<tspan x="96" dy="32">今天开始白天变长。</tspan></text>
+  </g>
+
+  <g id="pentad-ring" data-pptx-bounds="700 176 516 404">
+    <text x="700" y="196" font-size="18" fill="#8A8078">三候 · 《月令七十二候集解》</text>
+    <g id="p28-ring-base" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="donut" data-pptx-frame="770 230 340 340" data-pptx-av-adj="val 6000" fill="#EFE8DC" stroke="none">
+<path d="M 770 400 A 170 170 0 0 1 940 230 A 170 170 0 0 1 1110 400 A 170 170 0 0 1 940 570 A 170 170 0 0 1 770 400 Z M 790.4 400 A 149.6 149.6 0 0 0 940 549.6 A 149.6 149.6 0 0 0 1089.6 400 A 149.6 149.6 0 0 0 940 250.4 A 149.6 149.6 0 0 0 790.4 400 Z" />
+</g>
+    <g id="p28-ring-season" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="770 230 340 340" data-pptx-av-adj1="val 10800000" data-pptx-av-adj2="val 16200000" data-pptx-av-adj3="val 6000" fill="#5C7FA3" stroke="none">
+<path d="M 770 400 A 170 170 0 0 1 940 230 L 940 250.4 A 149.6 149.6 0 0 0 790.4 400 Z" />
+</g>
+    <image href="../images/elem_dongzhi.png" x="850" y="310" width="180" height="180" preserveAspectRatio="xMidYMid meet" />
+    <g id="pentad-1">
+      <circle cx="940" cy="230" r="22" fill="#5C7FA3" />
+      <text x="940" y="238" font-size="18" text-anchor="middle" fill="#FFFFFF">一</text>
+      <text x="940" y="212" font-size="26" font-weight="bold" text-anchor="middle" fill="#3A332C">蚯蚓结</text>
+    </g>
+    <g id="pentad-2">
+      <circle cx="1087.2" cy="485" r="22" fill="#5C7FA3" />
+      <text x="1087.2" y="493" font-size="18" text-anchor="middle" fill="#FFFFFF">二</text>
+      <text x="1087.2" y="540" font-size="26" font-weight="bold" text-anchor="middle" fill="#3A332C">麋角解</text>
+    </g>
+    <g id="pentad-3">
+      <circle cx="792.8" cy="485" r="22" fill="#5C7FA3" />
+      <text x="792.8" y="493" font-size="18" text-anchor="middle" fill="#FFFFFF">三</text>
+      <text x="792.8" y="540" font-size="26" font-weight="bold" text-anchor="middle" fill="#3A332C">水泉动</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 648 1152 32" fill="#8A8078" font-size="16">
+    <text x="64" y="672">仰角据《香港天文台年曆2026》 · 时刻据紫金山天文台 · 习俗据中国气象网 · 冬 · 第 4 格 · 全年第 22 格</text>
+    <text x="1216" y="672" text-anchor="end" font-family="Trebuchet MS, sans-serif">28 / 31</text>
+  </g>
+</svg>

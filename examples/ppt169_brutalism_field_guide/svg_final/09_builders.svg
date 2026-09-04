@@ -1,0 +1,348 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p09-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART THREE · THE BUILDINGS</text>
+  </g>
+
+  <g id="p09-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">09</text>
+  </g>
+
+  <g id="p09-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">Eight countries, one language of concrete</text>
+  </g>
+
+  <g id="architect-roster" data-pptx-replace-with="table" data-pptx-bounds="48 186 1184 478" data-pptx-fallback-sha256="e2547ea09ca2d4159a6ce7c48dc716f9e268cf47e872dc3d41f68679e2fadaf6">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 48,
+  "y": 188,
+  "width": 1184,
+  "height": 472,
+  "name": "architect-roster",
+  "column_widths": [
+    300,
+    884
+  ],
+  "row_heights": [
+    28,
+    68,
+    68,
+    68,
+    68,
+    48,
+    48,
+    48,
+    28
+  ],
+  "defaults": {
+    "cell": {
+      "align": "l",
+      "valign": "top",
+      "padding": 6,
+      "font_size": 16,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#9A958B",
+          "width": 1
+        },
+        "bottom": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        }
+      }
+    }
+  },
+  "columns": [
+    {
+      "text": "COUNTRY",
+      "fill": "#14110F",
+      "color": "#F2F0EA",
+      "bold": true,
+      "align": "l",
+      "font_size": 16,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#14110F",
+          "width": 2
+        },
+        "bottom": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        }
+      }
+    },
+    {
+      "text": "ARCHITECTS AND THE WORKS THE SOURCE NAMES",
+      "fill": "#14110F",
+      "color": "#F2F0EA",
+      "bold": true,
+      "align": "l",
+      "font_size": 16,
+      "borders": {
+        "top": {
+          "style": "solid",
+          "color": "#14110F",
+          "width": 2
+        },
+        "bottom": {
+          "style": "none"
+        },
+        "left": {
+          "style": "none"
+        },
+        "right": {
+          "style": "none"
+        }
+      }
+    }
+  ],
+  "rows": [
+    [
+      {
+        "text": "UNITED KINGDOM",
+        "font_size": 22,
+        "color": "#1C1A17"
+      },
+      {
+        "font_size": 16,
+        "color": "#1C1A17",
+        "paragraphs": [
+          {
+            "text": "Alison and Peter Smithson (pioneers) · Ernő Goldfinger · Chamberlin, Powell and Bon (Barbican) ·"
+          },
+          {
+            "text": "Denys Lasdun (National Theatre) · Norman Engleback (Hayward Gallery) · Basil Spence · Owen Luder"
+          },
+          {
+            "text": "· John Bancroft · Leslie Martin · James Stirling with James Gowan · LCC/GLC Architects Dept"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "UNITED STATES",
+        "font_size": 22,
+        "color": "#1C1A17"
+      },
+      {
+        "font_size": 16,
+        "color": "#1C1A17",
+        "paragraphs": [
+          {
+            "text": "Evans Woollen III (brought the style to Indianapolis) · Walter Netsch (academic buildings) ·"
+          },
+          {
+            "text": "Marcel Breuer (curves, not corners) · Eero Saarinen (Milwaukee County War Memorial, 1957) · Ted"
+          },
+          {
+            "text": "Levy (Plaza Towers, Atlanta) · Louis Kahn, opposed to its posturing yet informed by it"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "AUSTRALIA",
+        "font_size": 22,
+        "color": "#1C1A17"
+      },
+      {
+        "font_size": 16,
+        "color": "#1C1A17",
+        "paragraphs": [
+          {
+            "text": "Robin Gibson (Queensland Art Gallery) · Ken Woolley (Fisher Library, Sydney) · Christopher"
+          },
+          {
+            "text": "Kringas (High Court of Australia) · John Andrews · Daryl Jackson and Kevin Borland (Harold Holt"
+          },
+          {
+            "text": "Memorial Swimming Centre, Malvern, 1967)"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "CANADA",
+        "font_size": 22,
+        "color": "#1C1A17"
+      },
+      {
+        "font_size": 16,
+        "color": "#1C1A17",
+        "paragraphs": [
+          {
+            "text": "Arthur Erickson (Simon Fraser University, MacMillan Bloedel Building, UBC Museum of"
+          },
+          {
+            "text": "Anthropology, Vancouver Law Courts) · Green Blankstein Russell (Winnipeg Civic Centre) · Waisman"
+          },
+          {
+            "text": "Ross Blankstein Coop Gillmor Hanna (Manitoba Students' Union; Royal Manitoba Theatre Centre)"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "ARGENTINA",
+        "font_size": 22,
+        "color": "#1C1A17"
+      },
+      {
+        "font_size": 16,
+        "color": "#1C1A17",
+        "paragraphs": [
+          {
+            "text": "Clorindo Testa (Banco de Londres y América del Sur; National Library of Argentina) · Federico"
+          },
+          {
+            "text": "Peralta Ramos (Entel building)"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "SERBIA",
+        "font_size": 22,
+        "color": "#1C1A17"
+      },
+      {
+        "font_size": 16,
+        "color": "#1C1A17",
+        "paragraphs": [
+          {
+            "text": "Božidar Janković (the “Belgrade School of residence”) · Mihajlo Mitrović (Western City Gate /"
+          },
+          {
+            "text": "Genex Tower, 1977)"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "VIETNAM",
+        "font_size": 22,
+        "color": "#1C1A17"
+      },
+      {
+        "font_size": 16,
+        "color": "#1C1A17",
+        "paragraphs": [
+          {
+            "text": "Garol Isakovich (Vietnam-Soviet Friendship Palace of Culture and Labour, 1985) · Ngô Viết Thụ"
+          },
+          {
+            "text": "(Independence Palace, 1966)"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "text": "BOSNIA AND HERZEGOVINA",
+        "font_size": 22,
+        "color": "#1C1A17",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#14110F",
+            "width": 2
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        }
+      },
+      {
+        "font_size": 16,
+        "color": "#1C1A17",
+        "borders": {
+          "top": {
+            "style": "solid",
+            "color": "#9A958B",
+            "width": 1
+          },
+          "bottom": {
+            "style": "solid",
+            "color": "#14110F",
+            "width": 2
+          },
+          "left": {
+            "style": "none"
+          },
+          "right": {
+            "style": "none"
+          }
+        },
+        "paragraphs": [
+          {
+            "text": "Slobodan Jovandić (Hotel Internacional; the residential building Lamela — both in Zenica)"
+          }
+        ]
+      }
+    ]
+  ]
+}
+    </metadata>
+    <rect x="48" y="188" width="1184" height="28" fill="#14110F" />
+    <line x1="48" y1="188" x2="1232" y2="188" stroke="#14110F" stroke-width="2" />
+    <text x="60" y="208" font-family="Consolas" font-size="16" font-weight="bold" fill="#F2F0EA" letter-spacing="1.2">COUNTRY</text>
+    <text x="360" y="208" font-family="Consolas" font-size="16" font-weight="bold" fill="#F2F0EA" letter-spacing="1.2">ARCHITECTS AND THE WORKS THE SOURCE NAMES</text>
+    <line x1="336" y1="188" x2="336" y2="660" stroke="#9A958B" stroke-width="1" />
+    <line x1="48" y1="216" x2="1232" y2="216" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="234" font-family="Consolas" font-size="22" fill="#1C1A17">UNITED KINGDOM</text>
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="234">Alison and Peter Smithson (pioneers) · Ernő Goldfinger · Chamberlin, Powell and Bon (Barbican) ·</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="254">Denys Lasdun (National Theatre) · Norman Engleback (Hayward Gallery) · Basil Spence · Owen Luder</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="274">· John Bancroft · Leslie Martin · James Stirling with James Gowan · LCC/GLC Architects Dept</text><line x1="48" y1="284" x2="1232" y2="284" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="302" font-family="Consolas" font-size="22" fill="#1C1A17">UNITED STATES</text>
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="302">Evans Woollen III (brought the style to Indianapolis) · Walter Netsch (academic buildings) ·</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="322">Marcel Breuer (curves, not corners) · Eero Saarinen (Milwaukee County War Memorial, 1957) · Ted</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="342">Levy (Plaza Towers, Atlanta) · Louis Kahn, opposed to its posturing yet informed by it</text><line x1="48" y1="352" x2="1232" y2="352" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="370" font-family="Consolas" font-size="22" fill="#1C1A17">AUSTRALIA</text>
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="370">Robin Gibson (Queensland Art Gallery) · Ken Woolley (Fisher Library, Sydney) · Christopher</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="390">Kringas (High Court of Australia) · John Andrews · Daryl Jackson and Kevin Borland (Harold Holt</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="410">Memorial Swimming Centre, Malvern, 1967)</text><line x1="48" y1="420" x2="1232" y2="420" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="438" font-family="Consolas" font-size="22" fill="#1C1A17">CANADA</text>
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="438">Arthur Erickson (Simon Fraser University, MacMillan Bloedel Building, UBC Museum of</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="458">Anthropology, Vancouver Law Courts) · Green Blankstein Russell (Winnipeg Civic Centre) · Waisman</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="478">Ross Blankstein Coop Gillmor Hanna (Manitoba Students' Union; Royal Manitoba Theatre Centre)</text><line x1="48" y1="488" x2="1232" y2="488" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="506" font-family="Consolas" font-size="22" fill="#1C1A17">ARGENTINA</text>
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="506">Clorindo Testa (Banco de Londres y América del Sur; National Library of Argentina) · Federico</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="526">Peralta Ramos (Entel building)</text><line x1="48" y1="536" x2="1232" y2="536" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="554" font-family="Consolas" font-size="22" fill="#1C1A17">SERBIA</text>
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="554">Božidar Janković (the “Belgrade School of residence”) · Mihajlo Mitrović (Western City Gate /</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="574">Genex Tower, 1977)</text><line x1="48" y1="584" x2="1232" y2="584" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="602" font-family="Consolas" font-size="22" fill="#1C1A17">VIETNAM</text>
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="602">Garol Isakovich (Vietnam-Soviet Friendship Palace of Culture and Labour, 1985) · Ngô Viết Thụ</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="348" y="622">(Independence Palace, 1966)</text><line x1="48" y1="632" x2="1232" y2="632" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="650" font-family="Consolas" font-size="22" fill="#1C1A17">BOSNIA AND HERZEGOVINA</text>
+    <text x="348" y="650" font-family="Consolas" font-size="16" fill="#1C1A17">Slobodan Jovandić (Hotel Internacional; the residential building Lamela — both in Zenica)</text>
+    <line x1="48" y1="660" x2="1232" y2="660" stroke="#14110F" stroke-width="2" />
+  </g>
+
+  <g id="p09-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">09 / 16</text>
+  </g>
+</svg>

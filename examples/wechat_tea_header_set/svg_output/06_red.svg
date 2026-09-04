@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#FCFCFA" />
+
+  <g id="tea-ware" data-pptx-bounds="36 26 90 96">
+    <image href="../images/ware_cup.png" x="40" y="30" width="72" height="70" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="class-leaf" data-pptx-bounds="400 26 160 150" text-anchor="middle">
+    <image href="../images/leaf_red.png" x="410" y="30" width="120" height="95" preserveAspectRatio="xMidYMid meet" />
+    <text x="470" y="165" font-size="20" fill="#14120F" fill-opacity="0.62">叶态</text>
+  </g>
+
+  <g id="class-craft" data-pptx-bounds="600 22 270 153" fill="#14120F">
+    <text x="600" y="52" font-size="20" fill-opacity="0.62">核心工艺</text>
+    <text x="600" y="126" font-size="66" font-family="KaiTi">发酵</text>
+    <text x="600" y="165" font-size="15" fill-opacity="0.72">全程酶促氧化</text>
+  </g>
+
+  <g id="class-head" data-pptx-bounds="36 130 330 165">
+    <image href="../images/word_red.png" x="36" y="134" width="175" height="94" preserveAspectRatio="xMidYMid meet" />
+    <text x="36" y="275" font-size="44" font-family="KaiTi" fill="#14120F">红茶 · 全发酵</text>
+  </g>
+
+  <g id="class-soup" data-pptx-bounds="370 190 200 100">
+    <text x="370" y="212" font-size="20" fill="#14120F" fill-opacity="0.62">汤色</text>
+    <circle cx="440" cy="205" r="13" fill="#A6301E" />
+    <text x="370" y="250" font-size="26" fill="#14120F">红艳明亮</text>
+    <text x="370" y="278" font-size="15" fill="#14120F" fill-opacity="0.72">代表：祁门红茶</text>
+  </g>
+
+  <g id="class-pick" data-pptx-bounds="596 184 278 112">
+    <g id="p06-pick-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="596 186 278 106" fill="none" stroke="#14120F" stroke-width="2" stroke-opacity="0.6">
+      <path d="M 596 203.67 A 17.67 17.67 0 0 1 613.67 186 L 856.33 186 A 17.67 17.67 0 0 1 874 203.67 L 874 274.33 A 17.67 17.67 0 0 1 856.33 292 L 613.67 292 A 17.67 17.67 0 0 1 596 274.33 Z" stroke="none" />
+      <path d="M 613.67 292 A 17.67 17.67 0 0 1 596 274.33 L 596 203.67 A 17.67 17.67 0 0 1 613.67 186 M 856.33 186 A 17.67 17.67 0 0 1 874 203.67 L 874 274.33 A 17.67 17.67 0 0 1 856.33 292" />
+    </g>
+    <text x="616" y="208" font-size="20" fill="#14120F" fill-opacity="0.62">怎么挑</text>
+    <text x="616" y="240" font-size="26" fill="#14120F"><tspan fill="#A6301E" font-weight="bold">85–90℃</tspan> 约10秒起</text>
+    <text x="616" y="266" font-size="15" fill="#14120F" fill-opacity="0.72">另说 95℃，两说并存<tspan x="616" dy="20">投茶比 1:30，通常 5 泡</tspan></text>
+  </g>
+
+  <g id="class-axis" data-pptx-bounds="36 300 828 66" text-anchor="middle">
+    <path d="M60 326 Q240 320 420 327 T780 323 L836 325" fill="none" stroke="#14120F" stroke-opacity="0.75" stroke-width="2" stroke-linecap="round" />
+    <g id="axis-dir" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="840 318 22 17" data-pptx-av-adj1="val 55000" data-pptx-av-adj2="val 50000" fill="#14120F" stroke="none">
+      <path d="M 840 321.82 L 853.5 321.82 L 853.5 318 L 862 326.5 L 853.5 335 L 853.5 331.18 L 840 331.18 Z" />
+    </g>
+    <g id="axis-stops">
+      <circle cx="105" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="243" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="381" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="519" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="657" cy="325" r="8" fill="#A6301E" />
+      <circle cx="795" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+    </g>
+    <g id="axis-labels" font-size="15">
+      <text x="105" y="356" fill="#14120F" fill-opacity="0.42">绿茶</text>
+      <text x="243" y="356" fill="#14120F" fill-opacity="0.42">白茶</text>
+      <text x="381" y="356" fill="#14120F" fill-opacity="0.42">黄茶</text>
+      <text x="519" y="356" fill="#14120F" fill-opacity="0.42">青茶</text>
+      <text x="657" y="356" font-weight="bold" fill="#A6301E">红茶</text>
+      <text x="795" y="356" fill="#14120F" fill-opacity="0.42">黑茶</text>
+    </g>
+  </g>
+</svg>

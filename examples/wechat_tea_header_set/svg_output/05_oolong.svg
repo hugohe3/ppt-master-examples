@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#FCFCFA" />
+
+  <g id="class-leaf" data-pptx-bounds="36 24 200 170">
+    <image href="../images/leaf_oolong.png" x="46" y="28" width="140" height="127" preserveAspectRatio="xMidYMid meet" />
+    <text x="46" y="185" font-size="20" fill="#14120F" fill-opacity="0.62">叶态·做青后</text>
+  </g>
+
+  <g id="class-head" data-pptx-bounds="270 24 330 170">
+    <image href="../images/word_oolong.png" x="270" y="28" width="175" height="101" preserveAspectRatio="xMidYMid meet" />
+    <text x="270" y="172" font-size="44" font-family="KaiTi" fill="#14120F">青茶 · 半发酵</text>
+  </g>
+
+  <g id="class-craft" data-pptx-bounds="610 24 260 170" fill="#14120F">
+    <text x="610" y="54" font-size="20" fill-opacity="0.62">核心工艺</text>
+    <text x="610" y="134" font-size="66" font-family="KaiTi">做青</text>
+    <text x="610" y="172" font-size="15" fill-opacity="0.72">摇青、碰青，造成局部氧化</text>
+  </g>
+
+  <g id="tea-ware" data-pptx-bounds="36 205 90 90">
+    <image href="../images/ware_gaiwan.png" x="40" y="208" width="72" height="68" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="class-soup" data-pptx-bounds="150 196 340 96">
+    <g id="p05-soup-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="150 196 340 96" data-pptx-av-adj1="val 20000" data-pptx-av-adj2="val -62000" fill="none" stroke="#14120F" stroke-width="2">
+      <path d="M 150 196 L 348.33 196 L 388 184.48 L 433.33 196 L 490 196 L 490 212 L 490 212 L 490 236 L 490 292 L 433.33 292 L 348.33 292 L 348.33 292 L 150 292 L 150 236 L 150 212 L 150 212 Z" />
+    </g>
+    <text x="170" y="224" font-size="20" fill="#14120F" fill-opacity="0.62">汤色</text>
+    <circle cx="242" cy="217" r="13" fill="none" stroke="#14120F" stroke-width="2" stroke-dasharray="3,3" />
+    <text x="272" y="226" font-size="26" fill="#14120F">NO DATA</text>
+    <text x="170" y="258" font-size="15" fill="#14120F" fill-opacity="0.72">整类通用汤色无权威表述<tspan x="170" dy="22">单品：阿里山乌龙 golden yellow</tspan></text>
+  </g>
+
+  <g id="class-pick" data-pptx-bounds="520 196 350 96" fill="#14120F">
+    <text x="520" y="220" font-size="20" fill-opacity="0.62">怎么挑</text>
+    <text x="520" y="252" font-size="26"><tspan font-weight="bold">90–95℃</tspan>，10 秒内出汤</text>
+    <text x="520" y="278" font-size="15" fill-opacity="0.72">8%–85% 氧化 · 武夷岩茶、铁观音</text>
+  </g>
+
+  <g id="class-axis" data-pptx-bounds="36 300 828 66" text-anchor="middle">
+    <path d="M60 326 Q240 320 420 327 T780 323 L836 325" fill="none" stroke="#14120F" stroke-opacity="0.75" stroke-width="2" stroke-linecap="round" />
+    <g id="axis-dir" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="840 318 22 17" data-pptx-av-adj1="val 55000" data-pptx-av-adj2="val 50000" fill="#14120F" stroke="none">
+      <path d="M 840 321.82 L 853.5 321.82 L 853.5 318 L 862 326.5 L 853.5 335 L 853.5 331.18 L 840 331.18 Z" />
+    </g>
+    <g id="axis-stops">
+      <circle cx="105" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="243" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="381" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="519" cy="325" r="8" fill="none" stroke="#14120F" stroke-width="2" stroke-dasharray="2,2" />
+      <circle cx="657" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="795" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+    </g>
+    <g id="axis-labels" font-size="15" fill="#14120F">
+      <text x="105" y="356" fill-opacity="0.42">绿茶</text>
+      <text x="243" y="356" fill-opacity="0.42">白茶</text>
+      <text x="381" y="356" fill-opacity="0.42">黄茶</text>
+      <text x="519" y="356" font-weight="bold">青茶</text>
+      <text x="657" y="356" fill-opacity="0.42">红茶</text>
+      <text x="795" y="356" fill-opacity="0.42">黑茶</text>
+    </g>
+  </g>
+</svg>

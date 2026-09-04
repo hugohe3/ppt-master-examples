@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="col-rule-1" data-pptx-role="decoration" x1="438" y1="186" x2="438" y2="586" stroke="#9A958B" stroke-width="1" />
+  <line id="col-rule-2" data-pptx-role="decoration" x1="842" y1="186" x2="842" y2="586" stroke="#9A958B" stroke-width="1" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p10-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART THREE · THE BUILDINGS</text>
+  </g>
+
+  <g id="p10-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">10</text>
+  </g>
+
+  <g id="p10-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">The universities built them first, and biggest</text>
+  </g>
+
+  <g id="p10-column-1" data-pptx-bounds="48 186 376 400">
+    <text x="48" y="206" font-family="Consolas" font-size="22" fill="#C8331E" letter-spacing="1.2">BRITAIN, EARLY</text>
+    <line x1="48" y1="216" x2="424" y2="216" stroke="#14110F" stroke-width="2" />
+    <text x="48" y="238" font-family="Consolas" font-size="16" fill="#1C1A17">The 'beehives' at St John's College,<tspan x="48" dy="22">Oxford (Michael Powers, Architects' Co-</tspan><tspan x="48" dy="22">Partnership, 1958–60).</tspan></text>
+    <text x="48" y="318" font-family="Consolas" font-size="16" fill="#1C1A17">The 1959 architecture department<tspan x="48" dy="22">extension at Cambridge under Leslie</tspan><tspan x="48" dy="22">Martin, by Colin St John Wilson and Alex</tspan><tspan x="48" dy="22">Hardy with student participation — it</tspan><tspan x="48" dy="22">inspired the Grade II listed University</tspan><tspan x="48" dy="22">Centre.</tspan></text>
+    <text x="48" y="464" font-family="Consolas" font-size="16" fill="#1C1A17">Stirling's Red Trilogy: Leicester<tspan x="48" dy="22">Engineering with James Gowan (1959–63),</tspan><tspan x="48" dy="22">often called Britain's first postmodern</tspan><tspan x="48" dy="22">building; the Grade II* History Faculty,</tspan><tspan x="48" dy="22">Cambridge (1964–67); the Florey</tspan><tspan x="48" dy="22">Building, Oxford (1966–71).</tspan></text>
+  </g>
+  <g id="p10-column-2" data-pptx-bounds="452 186 376 400">
+    <text x="452" y="206" font-family="Consolas" font-size="22" fill="#55514A" letter-spacing="1.2">THE NEW UNIVERSITIES</text>
+    <line x1="452" y1="216" x2="828" y2="216" stroke="#14110F" stroke-width="2" />
+    <text x="452" y="238" font-family="Consolas" font-size="16" fill="#1C1A17">Basil Spence's Grade I Falmer House at<tspan x="452" dy="22">Sussex (1960–62), a “meeting of Arts and</tspan><tspan x="452" dy="22">Crafts with modernism” — hand-made</tspan><tspan x="452" dy="22">bricks and colonnades of board-marked</tspan><tspan x="452" dy="22">concrete arches inspired by the</tspan><tspan x="452" dy="22">Colosseum.</tspan></text>
+    <text x="452" y="384" font-family="Consolas" font-size="16" fill="#1C1A17">Denys Lasdun's 'ziggurats' at UEA<tspan x="452" dy="22">(1968): six linked halls in Norfolk</tspan><tspan x="452" dy="22">Terrace, four in Suffolk Terrace, with</tspan><tspan x="452" dy="22">the library and teaching wall between</tspan><tspan x="452" dy="22">them.</tspan></text>
+    <text x="452" y="508" font-family="Consolas" font-size="16" fill="#1C1A17">Ove Arup's Grade I Kingsgate Bridge at<tspan x="452" dy="22">Durham (1963) and Dunelm House</tspan><tspan x="452" dy="22">(1964–66), saved from demolition in 2021</tspan><tspan x="452" dy="22">after a five-year campaign.</tspan></text>
+  </g>
+  <g id="p10-column-3" data-pptx-bounds="856 186 376 400">
+    <text x="856" y="206" font-family="Consolas" font-size="22" fill="#55514A" letter-spacing="1.2">AMERICA AND BEYOND</text>
+    <line x1="856" y1="216" x2="1232" y2="216" stroke="#14110F" stroke-width="2" />
+    <text x="856" y="238" font-family="Consolas" font-size="16" fill="#1C1A17">Paul Rudolph's Art and Architecture<tspan x="856" dy="22">Building at Yale (1963), where as</tspan><tspan x="856" dy="22">department chair he was both client and</tspan><tspan x="856" dy="22">architect. His 1964 UMass Dartmouth is a</tspan><tspan x="856" dy="22">rare entire campus in the style.</tspan></text>
+    <text x="856" y="362" font-family="Consolas" font-size="16" fill="#1C1A17">William Pereira's Geisel Library at UC<tspan x="856" dy="22">San Diego (1969–70), “a fascinating</tspan><tspan x="856" dy="22">nexus between brutalism and futurism” —</tspan><tspan x="856" dy="22">intended in steel and glass until cost</tspan><tspan x="856" dy="22">moved the structure outside.</tspan></text>
+    <text x="856" y="486" font-family="Consolas" font-size="16" fill="#1C1A17">Robarts Library, Toronto (Warner, Burns,<tspan x="856" dy="22">Toan and Lunde, 1968–73), condemned on</tspan><tspan x="856" dy="22">opening as “a blunder on the grandest</tspan><tspan x="856" dy="22">scale”.</tspan></text>
+  </g>
+
+  <g id="p10-ziggurat-cell" data-pptx-bounds="48 608 1184 72">
+    <rect x="48" y="610" width="1184" height="68" fill="#14110F" />
+    <text x="80" y="638" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.4">STILL CLOSED —</text>
+    <text x="248" y="638" font-size="20" fill="#F2F0EA">The UEA ziggurats closed in 2023 in the reinforced autoclaved aerated<tspan x="248" dy="28">concrete crisis, with no refurbishment date set as of February 2025.</tspan></text>
+  </g>
+
+  <g id="p10-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">10 / 16</text>
+  </g>
+</svg>

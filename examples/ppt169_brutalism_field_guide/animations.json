@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "wipe", "effect_options": { "direction": "right" }, "duration": 0.5 },
+    "animation": { "effect": "entrance_wipe", "trigger": "after-previous", "duration": 0.45, "stagger": 0.12 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-numeral": { "effect": "entrance_appear", "order": 1 },
+        "cover-word": { "effect": "entrance_stretch", "order": 2, "duration": 0.7 },
+        "cover-photo": { "effect": "entrance_zoom", "order": 3, "duration": 0.7 },
+        "cover-claim": { "effect": "entrance_split", "order": 4, "duration": 0.6 },
+        "cover-stamp": { "effect": "entrance_box", "order": 5, "delay": 0.3 }
+      }
+    },
+    "02_uppsala": {
+      "groups": {
+        "p02-origin-column": { "effect": "entrance_wipe", "order": 1 },
+        "p02-asfound-argument": { "effect": "entrance_wipe", "order": 2 },
+        "p02-asfound-bracket": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3 },
+        "p02-asfound-rows": { "effect": "entrance_strips", "order": 4, "duration": 0.6 }
+      }
+    },
+    "03_wildfire": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "02_uppsala",
+        "pairs": { "guide-numeral": { "from": "p02-numeral", "to": "p03-numeral" } }
+      },
+      "groups": {
+        "p03-entry-1": { "effect": "entrance_wipe", "order": 1 },
+        "p03-entry-2": { "effect": "entrance_wipe", "order": 2 },
+        "p03-entry-3": { "effect": "entrance_wipe", "order": 3 },
+        "p03-entry-4": { "effect": "entrance_wipe", "order": 4 },
+        "p03-pullquote": { "effect": "entrance_box", "order": 5, "delay": 0.25 }
+      }
+    },
+    "04_beton_brut": {
+      "groups": {
+        "p04-phrases": { "effect": "entrance_stretch", "order": 1, "duration": 0.7 },
+        "p04-banham-column": { "effect": "entrance_wipe", "order": 2 },
+        "p04-corbusier-cell": { "effect": "entrance_split", "order": 3, "duration": 0.6 }
+      }
+    },
+    "05_ethic": {
+      "groups": {
+        "p05-argument": { "effect": "entrance_wipe", "order": 1 },
+        "p05-banham-terms": { "effect": "entrance_strips", "order": 2, "duration": 0.6 },
+        "p05-ethic-cell": { "effect": "entrance_split", "order": 3, "duration": 0.6 }
+      }
+    },
+    "06_material": {
+      "groups": {
+        "p06-materials": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.7 },
+        "p06-screen-edge": { "effect": "entrance_dissolve", "order": 2, "duration": 0.8 },
+        "p06-shuttering": { "effect": "entrance_wipe", "order": 3 },
+        "p06-modular": { "effect": "entrance_wipe", "order": 4 }
+      }
+    },
+    "07_inner_workings": {
+      "groups": {
+        "p07-claim": { "effect": "entrance_wipe", "order": 1 },
+        "p07-boston": { "effect": "entrance_wipe", "order": 2 },
+        "p07-photo": { "effect": "entrance_zoom", "order": 3, "duration": 0.7 },
+        "p07-hunstanton": { "effect": "entrance_split", "order": 4, "duration": 0.6 }
+      }
+    },
+    "08_streets_in_the_sky": {
+      "groups": {
+        "p08-ideology": { "effect": "entrance_wipe", "order": 1 },
+        "p08-bloc": { "effect": "entrance_strips", "order": 2, "duration": 0.6 },
+        "p08-brickalism": { "effect": "entrance_box", "order": 3 },
+        "p08-equality-cell": { "effect": "entrance_split", "order": 4, "duration": 0.6 }
+      }
+    },
+    "09_builders": {
+      "groups": {
+        "architect-roster": { "effect": "entrance_strips", "order": 1, "duration": 0.9 }
+      }
+    },
+    "10_campus": {
+      "groups": {
+        "p10-column-1": { "effect": "entrance_wipe", "order": 1 },
+        "p10-column-2": { "effect": "entrance_wipe", "order": 2 },
+        "p10-column-3": { "effect": "entrance_wipe", "order": 3 },
+        "p10-ziggurat-cell": { "effect": "entrance_split", "order": 4, "duration": 0.6, "delay": 0.3 }
+      }
+    },
+    "11_genex": {
+      "groups": {
+        "p11-lead": { "effect": "entrance_wipe", "order": 1 },
+        "p11-figures": { "effect": "entrance_stretch", "order": 2, "duration": 0.7 },
+        "p11-form": { "effect": "entrance_wipe", "order": 3 },
+        "p11-nodata": { "effect": "entrance_box", "order": 4, "delay": 0.3 }
+      }
+    },
+    "12_backlash": {
+      "groups": {
+        "p12-quote-cell": { "effect": "entrance_split", "order": 1, "duration": 0.7 },
+        "p12-vote": { "effect": "entrance_stretch", "order": 2, "duration": 0.6 },
+        "p12-photo": { "effect": "entrance_zoom", "order": 3, "duration": 0.8 },
+        "p12-weathering": { "effect": "entrance_wipe", "order": 4 }
+      }
+    },
+    "13_score_sheet": {
+      "groups": {
+        "loss-and-rescue": { "effect": "entrance_strips", "order": 1, "duration": 0.9 },
+        "p13-note": { "effect": "entrance_wipe", "order": 2 }
+      }
+    },
+    "14_revival": {
+      "groups": {
+        "p14-books": { "effect": "entrance_wipe", "order": 1, "duration": 0.6 },
+        "p14-neobrutalism": { "effect": "entrance_wipe", "order": 2 },
+        "p14-photo": { "effect": "entrance_zoom", "order": 3, "duration": 0.7 },
+        "p14-private-cell": { "effect": "entrance_split", "order": 4, "duration": 0.6 },
+        "p14-softening": { "effect": "entrance_wipe", "order": 5 }
+      }
+    },
+    "15_closing": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "14_revival",
+        "pairs": { "section-rule": { "from": "p14-section-bar", "to": "p15-section-bar" } }
+      },
+      "groups": {
+        "p15-takeaway": { "effect": "entrance_stretch", "order": 1, "duration": 0.8 },
+        "p15-stamp": { "effect": "entrance_box", "order": 2, "delay": 0.3 },
+        "p15-conditions": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.7 },
+        "p15-coda": { "effect": "entrance_wipe", "order": 4 }
+      }
+    },
+    "16_source": {
+      "groups": {
+        "p16-provenance": { "effect": "entrance_wipe", "order": 1 },
+        "p16-colophon": { "effect": "entrance_appear", "order": 2, "delay": 0.4 }
+      }
+    }
+  }
+}

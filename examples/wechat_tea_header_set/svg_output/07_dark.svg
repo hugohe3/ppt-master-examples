@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#FCFCFA" />
+
+  <g id="class-craft" data-pptx-bounds="36 22 236 160" fill="#14120F">
+    <text x="36" y="52" font-size="20" fill-opacity="0.62">核心工艺</text>
+    <text x="36" y="126" font-size="66" font-family="KaiTi">渥堆</text>
+    <text x="36" y="165" font-size="15" fill-opacity="0.72">微生物后发酵，可数月至数年</text>
+  </g>
+
+  <g id="class-head" data-pptx-bounds="280 16 340 172" text-anchor="middle">
+    <g id="p07-head-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="296 18 308 168" data-pptx-av-adj1="val 12000" data-pptx-av-adj2="val 0" fill="none" stroke="#14120F" stroke-width="2">
+      <path d="M 316.16 18 L 604 18 L 604 18 L 604 165.84 L 583.84 186 L 296 186 L 296 186 L 296 38.16 Z" />
+    </g>
+    <image href="../images/word_dark.png" x="362" y="34" width="175" height="97" preserveAspectRatio="xMidYMid meet" />
+    <text x="450" y="172" font-size="44" font-family="KaiTi" fill="#14120F">黑茶 · 后发酵</text>
+  </g>
+
+  <g id="class-leaf" data-pptx-bounds="630 22 140 160" text-anchor="middle">
+    <image href="../images/leaf_dark.png" x="640" y="26" width="105" height="87" preserveAspectRatio="xMidYMid meet" />
+    <text x="692" y="155" font-size="20" fill="#14120F" fill-opacity="0.62">叶态</text>
+  </g>
+
+  <g id="tea-ware" data-pptx-bounds="800 22 90 100">
+    <image href="../images/ware_kettle.png" x="805" y="26" width="80" height="79" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="class-soup" data-pptx-bounds="36 196 400 96">
+    <text x="36" y="218" font-size="20" fill="#14120F" fill-opacity="0.62">汤色</text>
+    <circle cx="108" cy="211" r="13" fill="#4A2E1E" />
+    <text x="140" y="220" font-size="26" fill="#14120F">随氧化加深</text>
+    <text x="36" y="256" font-size="15" fill="#14120F" fill-opacity="0.72">随氧化变深；审评术语 NO DATA<tspan x="36" dy="24">煮饮 1:80–1:100，每次不超过 3 分钟</tspan></text>
+  </g>
+
+  <g id="class-pick" data-pptx-bounds="470 196 400 96" fill="#14120F">
+    <text x="470" y="218" font-size="20" fill-opacity="0.62">怎么挑</text>
+    <text x="470" y="248" font-size="26"><tspan fill="#4A2E1E" font-weight="bold">95℃</tspan>，先洗茶，出汤 20 秒内</text>
+    <text x="470" y="276" font-size="15" fill-opacity="0.72">代表：普洱熟茶、湖南茯砖、广西六堡</text>
+  </g>
+
+  <g id="class-axis" data-pptx-bounds="36 300 828 66" text-anchor="middle">
+    <path d="M60 326 Q240 320 420 327 T780 323 L836 325" fill="none" stroke="#14120F" stroke-opacity="0.75" stroke-width="2" stroke-linecap="round" />
+    <g id="axis-dir" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="840 318 22 17" data-pptx-av-adj1="val 55000" data-pptx-av-adj2="val 50000" fill="#14120F" stroke="none">
+      <path d="M 840 321.82 L 853.5 321.82 L 853.5 318 L 862 326.5 L 853.5 335 L 853.5 331.18 L 840 331.18 Z" />
+    </g>
+    <g id="axis-stops">
+      <circle cx="105" cy="325" r="5" fill="#6E8B3D" />
+      <circle cx="243" cy="325" r="5" fill="none" stroke="#14120F" stroke-width="2" stroke-dasharray="2,2" />
+      <circle cx="381" cy="325" r="5" fill="#D8A21B" />
+      <circle cx="519" cy="325" r="5" fill="none" stroke="#14120F" stroke-width="2" stroke-dasharray="2,2" />
+      <circle cx="657" cy="325" r="5" fill="#A6301E" />
+      <circle cx="795" cy="325" r="8" fill="#4A2E1E" />
+    </g>
+    <g id="axis-labels" font-size="15">
+      <text x="105" y="356" fill="#14120F" fill-opacity="0.42">绿茶</text>
+      <text x="243" y="356" fill="#14120F" fill-opacity="0.42">白茶</text>
+      <text x="381" y="356" fill="#14120F" fill-opacity="0.42">黄茶</text>
+      <text x="519" y="356" fill="#14120F" fill-opacity="0.42">青茶</text>
+      <text x="657" y="356" fill="#14120F" fill-opacity="0.42">红茶</text>
+      <text x="795" y="356" font-weight="bold" fill="#4A2E1E">黑茶</text>
+    </g>
+  </g>
+</svg>

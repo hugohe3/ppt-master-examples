@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <line id="col-rule-1" data-pptx-role="decoration" x1="440" y1="186" x2="440" y2="570" stroke="#9A958B" stroke-width="1" />
+  <line id="col-rule-2" data-pptx-role="decoration" x1="832" y1="186" x2="832" y2="570" stroke="#9A958B" stroke-width="1" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p14-section-bar" data-pptx-bounds="0 148 1040 12">
+    <rect x="0" y="150" width="1040" height="8" fill="#14110F" />
+  </g>
+
+  <g id="p14-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART FOUR · THE RECKONING</text>
+  </g>
+
+  <g id="p14-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">14</text>
+  </g>
+
+  <g id="p14-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">Printed back into fashion</text>
+  </g>
+
+  <g id="p14-books" data-pptx-bounds="48 186 380 384">
+    <text x="48" y="206" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.4">THE REVIVAL IN PRINT</text>
+    <line x1="48" y1="216" x2="428" y2="216" stroke="#14110F" stroke-width="2" />
+    <text x="48" y="250" font-family="Consolas" font-size="16" fill="#1C1A17">BRUTAL LONDON · Zupagrafika, 2015</text>
+    <line x1="48" y1="262" x2="428" y2="262" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="290" font-family="Consolas" font-size="16" fill="#1C1A17">BRUTALIST LONDON MAP · 2015</text>
+    <line x1="48" y1="302" x2="428" y2="302" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="330" font-family="Consolas" font-size="16" fill="#1C1A17">THIS BRUTAL WORLD · 2016</text>
+    <line x1="48" y1="342" x2="428" y2="342" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="370" font-family="Consolas" font-size="16" fill="#1C1A17">SOS BRUTALISM: A GLOBAL SURVEY · 2017</text>
+    <line x1="48" y1="382" x2="428" y2="382" stroke="#9A958B" stroke-width="1" />
+    <text x="48" y="410" font-family="Consolas" font-size="16" fill="#1C1A17">ATLAS OF BRUTALIST ARCHITECTURE · 2018</text>
+    <line x1="48" y1="422" x2="428" y2="422" stroke="#14110F" stroke-width="2" />
+    <text x="48" y="460" font-family="Consolas" font-size="16" fill="#1C1A17">The original movement was largely over by<tspan x="48" dy="20">the late 1970s and early 1980s, having</tspan><tspan x="48" dy="20">given way to structural expressionism and</tspan><tspan x="48" dy="20">deconstructivism. Interest resurged from</tspan><tspan x="48" dy="20">2015, and new construction followed,</tspan><tspan x="48" dy="20">termed neobrutalism.</tspan></text>
+  </g>
+
+  <g id="p14-neobrutalism" data-pptx-bounds="460 186 360 286">
+    <text x="460" y="206" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">BUILT AGAIN</text>
+    <line x1="460" y1="216" x2="820" y2="216" stroke="#14110F" stroke-width="2" />
+    <text x="460" y="250" font-family="Consolas" font-size="16" fill="#1C1A17">Wang Shu's Ningbo Museum (2008) shows<tspan x="460" dy="20">traces of the bamboo framework on its</tspan><tspan x="460" dy="20">monumental concrete, called "an urban</tspan><tspan x="460" dy="20">icon" in his 2012 Pritzker Prize</tspan><tspan x="460" dy="20">citation.</tspan></text>
+    <text x="460" y="370" font-family="Consolas" font-size="16" fill="#1C1A17">The campus of the private University of<tspan x="460" dy="20">Engineering and Technology (UTEC) in</tspan><tspan x="460" dy="20">Peru, by Yvonne Farrell and Shelley</tspan><tspan x="460" dy="20">McNamara, is referenced in their 2020</tspan><tspan x="460" dy="20">Pritzker citation.</tspan></text>
+  </g>
+
+  <g id="p14-photo" data-pptx-bounds="848 186 384 330">
+    <image href="../images/ningbo_museum_duo.png" x="848" y="190" width="384" height="256" preserveAspectRatio="xMidYMid meet" />
+    <rect x="848" y="190" width="384" height="256" fill="none" stroke="#14110F" stroke-width="4" />
+    <text x="848" y="486" font-family="Consolas" font-size="16" fill="#55514A">© Siyuwj , building designed by Wang Shu<tspan x="848" dy="22">/ Wikimedia Commons / CC BY-SA 3.0</tspan></text>
+  </g>
+
+  <g id="p14-private-cell" data-pptx-bounds="48 570 592 100">
+    <rect x="48" y="572" width="592" height="96" fill="#14110F" />
+    <text x="80" y="604" font-family="Consolas" font-size="16" fill="#F2F0EA">Neobrutalist buildings tend to be commissioned by the<tspan x="80" dy="22">private sector, and may use recycled brick or timber rather</tspan><tspan x="80" dy="22">than concrete — while still exposing materials and structure.</tspan></text>
+  </g>
+
+  <g id="p14-softening" data-pptx-bounds="672 558 560 124">
+    <text x="672" y="574" font-family="Consolas" font-size="16" fill="#1C1A17">Many defining aspects have been softened: façades sandblasted<tspan x="672" dy="20">to a stone-like surface, covered in stucco, or made of</tspan><tspan x="672" dy="20">patterned precast elements — as in the redevelopment of</tspan><tspan x="672" dy="20">Sheffield's Park Hill. But board-marked concrete is still</tspan><tspan x="672" dy="20">used, as at the neobrutalist Silberrad Student Centre,</tspan><tspan x="672" dy="20">University of Essex (2015).</tspan></text>
+  </g>
+
+  <g id="p14-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">14 / 16</text>
+  </g>
+</svg>

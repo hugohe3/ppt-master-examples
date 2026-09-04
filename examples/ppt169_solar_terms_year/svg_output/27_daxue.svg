@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+
+  <g id="season-panel" data-pptx-bounds="700 160 580 560">
+    <rect x="700" y="160" width="640" height="620" rx="48" fill="#5C7FA3" />
+    <image href="../images/word_daxue.png" x="748" y="196" width="260" height="164" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/elem_daxue.png" x="828" y="376" width="240" height="240" preserveAspectRatio="xMidYMid meet" />
+    <text x="748" y="664" font-size="18" fill="#FFFFFF" fill-opacity="0.80">冬 · 第 3 格 · 全年第 21 格</text>
+  </g>
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-winter" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 10800000" data-pptx-av-adj2="val 16200000" data-pptx-av-adj3="val 26000" fill="#5C7FA3" stroke="none">
+<path d="M 1114 92 A 38 38 0 0 1 1152 54 L 1152 73.76 A 18.24 18.24 0 0 0 1133.76 92 Z" />
+</g>
+    <circle cx="1119.1" cy="73.0" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="64 56 596 100">
+    <text x="64" y="112" font-size="44" font-weight="bold" fill="#7A5C3E">大雪<tspan font-size="18" font-weight="normal" font-family="Trebuchet MS, sans-serif" fill="#8A8078"> Major Snow</tspan></text>
+    <text x="64" y="146" font-size="18" fill="#8A8078">雪不一定更大，但冷是真的更深了。</text>
+  </g>
+
+  <g id="term-moment" data-pptx-bounds="64 176 596 92">
+    <rect x="64" y="176" width="596" height="92" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/cloud" x="96" y="204" width="36" height="36" fill="#5C7FA3" />
+    <text x="152" y="222" font-size="24" font-weight="bold" fill="#3A332C">2026 年 12 月 7 日</text>
+    <text x="152" y="252" font-size="18" fill="#8A8078">北京时间（UTC+8）</text>
+    <text x="640" y="238" font-size="40" font-weight="bold" fill="#5C7FA3" font-family="Trebuchet MS, sans-serif" text-anchor="end">10:53</text>
+  </g>
+
+  <g id="term-pentads" data-pptx-bounds="64 272 596 228">
+    <text x="64" y="290" font-size="18" fill="#8A8078">三候 · 《月令七十二候集解》</text>
+    <g id="p27-pentad-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="64 292 32 208" data-pptx-av-adj1="val 8333" data-pptx-av-adj2="val 50000" fill="none" stroke="#9C8B7A" stroke-width="2">
+<path d="M 96 500 A 16 2.67 0 0 1 80 497.33 L 80 398.67 A 16 2.67 0 0 0 64 396 A 16 2.67 0 0 0 80 393.33 L 80 294.67 A 16 2.67 0 0 1 96 292 Z" stroke="none" />
+<path d="M 96 500 A 16 2.67 0 0 1 80 497.33 L 80 398.67 A 16 2.67 0 0 0 64 396 A 16 2.67 0 0 0 80 393.33 L 80 294.67 A 16 2.67 0 0 1 96 292" />
+</g>
+    <g id="pentad-1">
+      <text x="120" y="330" font-size="18" fill="#8A8078">一候</text>
+      <text x="180" y="332" font-size="26" font-weight="bold" fill="#3A332C">鹖鴠不鸣</text>
+    </g>
+    <g id="pentad-2">
+      <text x="120" y="404" font-size="18" fill="#8A8078">二候</text>
+      <text x="180" y="406" font-size="26" font-weight="bold" fill="#3A332C">虎始交</text>
+    </g>
+    <g id="pentad-3">
+      <text x="120" y="478" font-size="18" fill="#8A8078">三候</text>
+      <text x="180" y="480" font-size="26" font-weight="bold" fill="#3A332C">荔挺出</text>
+    </g>
+    <line x1="120" y1="352" x2="640" y2="352" stroke="#EFE8DC" stroke-width="2" />
+    <line x1="120" y1="426" x2="640" y2="426" stroke="#EFE8DC" stroke-width="2" />
+  </g>
+
+  <g id="term-custom" data-pptx-bounds="64 500 596 80">
+    <g id="p27-custom-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round1Rect" data-pptx-frame="64 500 596 80" data-pptx-av-adj="val 32000" fill="#FFFFFF" stroke="none">
+<path d="M 64 500 L 634.4 500 A 25.6 25.6 0 0 1 660 525.6 L 660 580 L 64 580 Z" />
+</g>
+    <use data-icon="tabler-filled/bowl" x="96" y="522" width="32" height="32" fill="#7A5C3E" />
+    <text x="144" y="534" font-size="24" fill="#3A332C">时令 · <tspan font-weight="bold" fill="#7A5C3E">「小雪腌菜，大雪腌肉」</tspan></text>
+    <text x="144" y="562" font-size="18" fill="#8A8078">老南京的俗话；另有打雪仗、赏雪景、进补</text>
+  </g>
+
+  <g id="term-howto" data-pptx-bounds="64 584 596 76">
+    <g id="p27-howto-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 584 596 76" data-pptx-av-adj="val 26000" fill="#F2EDE4" stroke="none">
+<path d="M 64 584 L 640.24 584 L 660 603.76 L 660 660 L 64 660 Z" />
+</g>
+    <text x="96" y="610" font-size="18" fill="#8A8078">怎么过</text>
+    <text x="96" y="646" font-size="26" fill="#3A332C">腌块肉挂起来，或者约一顿火锅。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 672 596 32" fill="#8A8078" font-size="16">
+    <text x="64" y="696">时刻据紫金山天文台 · 三候据《月令七十二候集解》</text>
+    <text x="660" y="696" text-anchor="end" font-family="Trebuchet MS, sans-serif">27 / 31</text>
+  </g>
+</svg>

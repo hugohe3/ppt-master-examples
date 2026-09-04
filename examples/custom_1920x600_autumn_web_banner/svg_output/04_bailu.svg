@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 600" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E3D8C2" data-pptx-bg="#F7F1E4" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#F7F1E4"/>
+      <circle cx="4" cy="4" r="1.1" fill="#E3D8C2"/>
+      <circle cx="13" cy="11" r="1.1" fill="#E3D8C2"/>
+    </pattern>
+  </defs>
+
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1920" height="600" fill="url(#paperGrain)"/>
+
+  <g id="term-mark-bailu" data-pptx-bounds="68 40 580 348">
+    <image href="../images/let_bailu.png" x="80" y="44" width="320" height="182.45"/>
+    <text x="80" y="310" font-family="KaiTi" font-size="88" fill="#2E2A26">白露</text>
+    <text x="80" y="366" font-size="40" fill="#7A6E60">2026年9月7日 22:41 交节</text>
+  </g>
+
+  <g id="hou-bailu" data-pptx-bounds="668 40 660 348">
+    <path d="M680 66 C900 54 1120 74 1316 62 C1324 150 1312 250 1318 330 C1100 342 880 326 678 336 C670 250 686 150 680 66 Z" fill="#9FC3D4" stroke="none"/>
+    <text x="712" y="140" font-size="52" fill="#2E2A26">一候 鸿雁来<tspan x="712" dy="78">二候 玄鸟归</tspan><tspan x="712" dy="78">三候 群鸟养羞</tspan></text>
+  </g>
+
+  <g id="doodle-bailu" data-pptx-bounds="1348 40 508 348">
+    <image href="../images/ph_goose.png" x="1380" y="55" width="180" height="143.33"/>
+    <image href="../images/ph_swallow.png" x="1626" y="60" width="160" height="155.97"/>
+    <image href="../images/term_bailu.png" x="1470" y="230" width="130" height="155.30"/>
+  </g>
+
+  <g id="route-spine" data-pptx-bounds="68 390 1788 22">
+    <path d="M76 402 C420 394 660 408 900 400 C1180 391 1480 409 1848 400" fill="none" stroke="#2E2A26" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="810" cy="403.4" r="9" fill="#C0503C"/>
+  </g>
+
+  <g id="advice-bailu" data-pptx-bounds="68 416 1080 172">
+    <g id="p04-advice-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="76 422 1060 160" fill="none" stroke="#2E2A26" stroke-width="4">
+<path d="M 76 448.67 A 26.67 26.67 0 0 1 102.67 422 L 1109.33 422 A 26.67 26.67 0 0 1 1136 448.67 L 1136 555.33 A 26.67 26.67 0 0 1 1109.33 582 L 102.67 582 A 26.67 26.67 0 0 1 76 555.33 Z" stroke="none"/>
+<path d="M 102.67 582 A 26.67 26.67 0 0 1 76 555.33 L 76 448.67 A 26.67 26.67 0 0 1 102.67 422 M 1109.33 422 A 26.67 26.67 0 0 1 1136 448.67 L 1136 555.33 A 26.67 26.67 0 0 1 1109.33 582"/>
+</g>
+    <text x="140" y="484" font-size="60" fill="#2E2A26">早晚加一件;泡一壶<tspan fill="#C0503C" font-weight="bold">秋白露</tspan>,<tspan x="140" dy="74">看院子里的露水什么时候结上。</tspan></text>
+  </g>
+
+  <g id="doodle-longan" data-pptx-bounds="1160 416 490 172">
+    <image href="../images/food_longan.png" x="1180" y="426" width="140" height="157.92"/>
+    <text x="1340" y="516" font-size="30" fill="#7A6E60">福州:白露必吃龙眼</text>
+  </g>
+
+  <g id="seal-mark" data-pptx-bounds="1660 416 196 172">
+    <image href="../images/let_seal.png" x="1690" y="428" width="150" height="150.59"/>
+  </g>
+</svg>

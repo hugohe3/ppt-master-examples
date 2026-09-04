@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="column-rule" data-pptx-role="decoration" x1="440" y1="186" x2="440" y2="664" stroke="#9A958B" stroke-width="1" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p04-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART ONE · THE WORD</text>
+  </g>
+
+  <g id="p04-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">04</text>
+  </g>
+
+  <g id="p04-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">Raw concrete, raw art</text>
+  </g>
+
+  <g id="p04-banham-column" data-pptx-bounds="48 190 400 400" fill="#1C1A17" font-size="20">
+    <text x="48" y="210">Reyner Banham, British</text><text x="48" y="240">architectural historian, used</text><text x="48" y="270">"new brutalism" to identify both</text><text x="48" y="300">an ethic and an aesthetic in his</text><text x="48" y="330"><tspan><tspan font-weight="bold">1955 essay</tspan> <tspan font-style="italic">The New Brutalism</tspan>.</tspan></text><text x="48" y="380">He named Hunstanton and the Soho</text><text x="48" y="410">house as "the reference by which</text><text x="48" y="440">The New Brutalism in</text><text x="48" y="470">architecture may be defined".</text><text x="48" y="520">He expanded the argument in his</text><text x="48" y="550"><tspan>1966 book <tspan font-style="italic">The New Brutalism:</tspan></tspan></text><text x="48" y="580"><tspan><tspan font-style="italic">Ethic or Aesthetic?</tspan></tspan></text></g>
+
+  <g id="p04-phrases" data-pptx-bounds="470 192 762 274">
+    <text x="470" y="208" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.6">THE CRITIC NAMES THE MATERIAL</text>
+    <text x="470" y="292" font-family="Arial Black" font-size="80" fill="#14110F">béton <tspan fill="#C8331E">brut</tspan></text>
+    <text x="470" y="330" font-family="Consolas" font-size="22" fill="#1C1A17" letter-spacing="1.6">RAW CONCRETE</text>
+    <text x="470" y="416" font-family="Arial Black" font-size="80" fill="#14110F">art <tspan fill="#C8331E">brut</tspan></text>
+    <text x="470" y="454" font-family="Consolas" font-size="22" fill="#1C1A17" letter-spacing="1.6">RAW ART</text>
+  </g>
+
+  <g id="p04-corbusier-cell" data-pptx-bounds="470 486 762 180">
+    <rect x="470" y="488" width="762" height="176" fill="#14110F" />
+    <text font-size="20" fill="#F2F0EA" x="502" y="528">"if there is one single verbal formula that has made the</text><text font-size="20" fill="#F2F0EA" x="502" y="558">concept of Brutalism admissible in most of the world's</text><text font-size="20" fill="#F2F0EA" x="502" y="588">Western languages, it is that Le Corbusier himself</text><text font-size="20" fill="#F2F0EA" x="502" y="618">described that concrete work as 'béton-brut'"</text><text x="502" y="648" font-family="Consolas" font-size="16" fill="#9A958B">— REYNER BANHAM, 1966</text>
+  </g>
+
+  <g id="p04-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">04 / 16</text>
+  </g>
+</svg>

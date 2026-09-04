@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#FCFCFA" />
+
+  <g id="class-craft" data-pptx-bounds="36 26 240 159" fill="#14120F">
+    <text x="36" y="60" font-size="20" fill-opacity="0.62">核心工艺</text>
+    <text x="36" y="140" font-size="66" font-family="KaiTi">萎凋</text>
+    <text x="36" y="175" font-size="15" fill-opacity="0.72">只有萎凋和干燥两步，不揉不炒</text>
+  </g>
+
+  <g id="class-head" data-pptx-bounds="300 26 330 165">
+    <image href="../images/word_white.png" x="300" y="30" width="180" height="104" preserveAspectRatio="xMidYMid meet" />
+    <text x="300" y="172" font-size="44" font-family="KaiTi" fill="#14120F">白茶 · 微发酵</text>
+  </g>
+
+  <g id="class-leaf" data-pptx-bounds="650 26 120 165" text-anchor="middle">
+    <image href="../images/leaf_white.png" x="670" y="30" width="80" height="106" preserveAspectRatio="xMidYMid meet" />
+    <text x="710" y="175" font-size="20" fill="#14120F" fill-opacity="0.62">叶态</text>
+  </g>
+
+  <g id="tea-ware" data-pptx-bounds="790 26 90 100">
+    <image href="../images/ware_gaiwan.png" x="795" y="30" width="80" height="76" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="class-soup" data-pptx-bounds="36 198 386 96">
+    <g id="p03-soup-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="36 200 386 92" data-pptx-av-adj1="val -33000" data-pptx-av-adj2="val -60000" fill="none" stroke="#14120F" stroke-width="2">
+      <path d="M 36 200 L 100.33 200 L 101.62 190.8 L 196.83 200 L 422 200 L 422 215.33 L 422 215.33 L 422 238.33 L 422 292 L 196.83 292 L 100.33 292 L 100.33 292 L 36 292 L 36 238.33 L 36 215.33 L 36 215.33 Z" />
+    </g>
+    <text x="56" y="228" font-size="20" fill="#14120F" fill-opacity="0.62">汤色</text>
+    <circle cx="128" cy="221" r="13" fill="none" stroke="#14120F" stroke-width="2" stroke-dasharray="3,3" />
+    <text x="158" y="230" font-size="26" fill="#14120F">NO DATA</text>
+    <text x="56" y="266" font-size="15" fill="#14120F" fill-opacity="0.72">叶表完整保留银毫，呈白色（外观，非汤色）</text>
+  </g>
+
+  <g id="class-pick" data-pptx-bounds="450 198 420 96" fill="#14120F">
+    <text x="450" y="228" font-size="20" fill-opacity="0.62">怎么挑</text>
+    <text x="540" y="230" font-size="26"><tspan font-weight="bold">85–90℃</tspan>，前三泡各 10 秒</text>
+    <text x="450" y="266" font-size="15" fill-opacity="0.72">代表：白毫银针、白牡丹（新白茶冲泡）</text>
+  </g>
+
+  <g id="class-axis" data-pptx-bounds="36 300 828 66" text-anchor="middle">
+    <path d="M60 326 Q240 320 420 327 T780 323 L836 325" fill="none" stroke="#14120F" stroke-opacity="0.75" stroke-width="2" stroke-linecap="round" />
+    <g id="axis-dir" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="840 318 22 17" data-pptx-av-adj1="val 55000" data-pptx-av-adj2="val 50000" fill="#14120F" stroke="none">
+      <path d="M 840 321.82 L 853.5 321.82 L 853.5 318 L 862 326.5 L 853.5 335 L 853.5 331.18 L 840 331.18 Z" />
+    </g>
+    <g id="axis-stops">
+      <circle cx="105" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="243" cy="325" r="8" fill="none" stroke="#14120F" stroke-width="2" stroke-dasharray="2,2" />
+      <circle cx="381" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="519" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="657" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+      <circle cx="795" cy="325" r="4" fill="#14120F" fill-opacity="0.3" />
+    </g>
+    <g id="axis-labels" font-size="15" fill="#14120F">
+      <text x="105" y="356" fill-opacity="0.42">绿茶</text>
+      <text x="243" y="356" font-weight="bold">白茶</text>
+      <text x="381" y="356" fill-opacity="0.42">黄茶</text>
+      <text x="519" y="356" fill-opacity="0.42">青茶</text>
+      <text x="657" y="356" fill-opacity="0.42">红茶</text>
+      <text x="795" y="356" fill-opacity="0.42">黑茶</text>
+    </g>
+  </g>
+</svg>

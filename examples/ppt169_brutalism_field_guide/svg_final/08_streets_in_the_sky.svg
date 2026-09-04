@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="column-rule" data-pptx-role="decoration" x1="828" y1="186" x2="828" y2="660" stroke="#9A958B" stroke-width="1" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p08-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART TWO · THE ETHIC</text>
+  </g>
+
+  <g id="p08-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">08</text>
+  </g>
+
+  <g id="p08-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">Concrete was the point, not the compromise</text>
+  </g>
+
+  <g id="p08-ideology" data-pptx-bounds="48 188 760 380" fill="#1C1A17" font-size="20">
+    <text x="48" y="206">Brutalism as an architectural philosophy was often associated</text><text x="48" y="234">with a socialist utopian ideology, supported by its designers</text><text x="48" y="262">and especially by Alison and Peter Smithson near the height of</text><text x="48" y="290">the style. Their work sought to connect architecture with what</text><text x="48" y="318">they saw as the realities of modern life.</text><text x="48" y="358">Among their early contributions were "streets in the sky", in</text><text x="48" y="386">which traffic and pedestrian circulation were rigorously</text><text x="48" y="414">separated — a theme popular in the 1960s. In Britain the style</text><text x="48" y="442"><tspan>featured in <tspan font-weight="bold">utilitarian, low-cost social housing</tspan> influenced by</tspan></text><text x="48" y="470">socialist principles, and spread from there to other regions.</text><text x="48" y="502">In Czechoslovakia it was presented as an attempt at a</text><text x="48" y="530">"national" but also "modern socialist" style; such</text><text x="48" y="558"><tspan>prefabricated socialist-era buildings are called <tspan font-style="italic">panelaky</tspan>.</tspan></text></g>
+
+  <g id="p08-bloc" data-pptx-bounds="850 188 382 230">
+    <text x="850" y="204" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.4">MID-1960s TO LATE 1980s</text>
+    <line x1="850" y1="216" x2="1232" y2="216" stroke="#14110F" stroke-width="2" />
+    <text x="850" y="252" font-family="Consolas" font-size="22" fill="#1C1A17">BULGARIA</text>
+    <line x1="850" y1="264" x2="1232" y2="264" stroke="#9A958B" stroke-width="1" />
+    <text x="850" y="288" font-family="Consolas" font-size="22" fill="#1C1A17">CZECHOSLOVAKIA</text>
+    <line x1="850" y1="300" x2="1232" y2="300" stroke="#9A958B" stroke-width="1" />
+    <text x="850" y="324" font-family="Consolas" font-size="22" fill="#1C1A17">EAST GERMANY</text>
+    <line x1="850" y1="336" x2="1232" y2="336" stroke="#9A958B" stroke-width="1" />
+    <text x="850" y="360" font-family="Consolas" font-size="22" fill="#1C1A17">USSR</text>
+    <line x1="850" y1="372" x2="1232" y2="372" stroke="#9A958B" stroke-width="1" />
+    <text x="850" y="396" font-family="Consolas" font-size="22" fill="#1C1A17">YUGOSLAVIA</text>
+    <line x1="850" y1="410" x2="1232" y2="410" stroke="#14110F" stroke-width="2" />
+  </g>
+
+  <g id="p08-brickalism" data-pptx-bounds="850 438 382 222">
+    <rect x="850" y="440" width="382" height="216" fill="none" stroke="#14110F" stroke-width="3" />
+    <text font-size="20" fill="#1C1A17" x="874" y="476">Brick brutalism, or</text><text font-size="20" fill="#1C1A17" x="874" y="504">"brickalism", is the sub-genre</text><text font-size="20" fill="#1C1A17" x="874" y="532">where brick dominates instead</text><text font-size="20" fill="#1C1A17" x="874" y="560">of concrete — from the</text><text font-size="20" fill="#1C1A17" x="874" y="588">Smithsons' Soho house (1952)</text><text font-size="20" fill="#1C1A17" x="874" y="616">to Colin St John Wilson's</text><text font-size="20" fill="#1C1A17" x="874" y="644">British Library (1982–1998).</text></g>
+
+  <g id="p08-equality-cell" data-pptx-bounds="48 568 760 112">
+    <rect x="48" y="570" width="760" height="108" fill="#14110F" />
+    <text x="80" y="604" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.4">TRADITIONAL STYLES BELONGED TO THE BOURGEOISIE —</text>
+    <text x="80" y="656" font-family="Arial Black" font-size="36" fill="#F2F0EA">concrete emphasised equality</text>
+  </g>
+
+  <g id="p08-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">08 / 16</text>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+  <image id="orn-divider" data-pptx-role="decoration" href="../images/orn_divider.png" x="596" y="382" width="88" height="30" preserveAspectRatio="xMidYMid meet" opacity="0.5" />
+
+  <g id="page-header" data-pptx-bounds="64 48 980 96">
+    <text x="64" y="106" font-size="44" font-weight="bold" fill="#7A5C3E">每一条都能点开</text>
+    <text x="424" y="106" font-size="24" fill="#8A8078">这本手账里的每个时刻、每句三候、每条习俗都有出处</text>
+    <line x1="64" y1="132" x2="1044" y2="132" stroke="#E3DACB" stroke-width="2" />
+  </g>
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-spring" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 16200000" data-pptx-av-adj2="val 21600000" data-pptx-av-adj3="val 26000" fill="#6FA46B" stroke="none">
+<path d="M 1152 54 A 38 38 0 0 1 1190 92 L 1170.24 92 A 18.24 18.24 0 0 0 1152 73.76 Z" />
+</g>
+    <circle cx="1152.0" cy="54.0" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="source-moments" data-pptx-bounds="64 176 556 210">
+    <rect x="64" y="176" width="556" height="210" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/clock" x="96" y="204" width="32" height="32" fill="#6FA46B" />
+    <text x="144" y="228" font-size="24" font-weight="bold" fill="#7A5C3E">交节时刻</text>
+    <text x="96" y="272" font-size="18" fill="#3A332C">中国科学院紫金山天文台发布，经荔枝新闻整理。</text>
+    <text x="96" y="302" font-size="18" fill="#8A8078">覆盖全部 24 格的公历日期与交节时刻（北京时间）。</text>
+    <text x="96" y="346" font-size="18" fill="#7A5470"><tspan font-family="Trebuchet MS, sans-serif">→ </tspan><a href="https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml"><tspan text-decoration="underline">2026 年二十四节气精确到分钟（新浪财经）</tspan></a></text>
+  </g>
+
+  <g id="source-astro" data-pptx-bounds="660 176 556 210">
+    <rect x="660" y="176" width="556" height="210" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/sun" x="692" y="204" width="32" height="32" fill="#CC5B4C" />
+    <text x="740" y="228" font-size="24" font-weight="bold" fill="#7A5C3E">天文交叉印证</text>
+    <text x="692" y="272" font-size="18" fill="#3A332C">12 个中气时刻与太阳上中天仰角，与上一条完全一致。</text>
+    <text x="692" y="310" font-size="18" fill="#7A5470"><tspan x="692" dy="0"><tspan font-family="Trebuchet MS, sans-serif">→ </tspan><a href="https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf"><tspan text-decoration="underline">《香港天文台年曆2026》二十四節氣</tspan></a></tspan><tspan x="692" dy="38"><tspan font-family="Trebuchet MS, sans-serif">→ </tspan><a href="https://finance.sina.com.cn/jjxw/2026-02-03/doc-inhkpvfi7233217.shtml"><tspan text-decoration="underline">新华社：立春 2 月 4 日 4 时 2 分</tspan></a></tspan></text>
+  </g>
+
+  <g id="source-pentads" data-pptx-bounds="64 406 556 210">
+    <rect x="64" y="406" width="556" height="210" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/book" x="96" y="434" width="32" height="32" fill="#D99A2B" />
+    <text x="144" y="458" font-size="24" font-weight="bold" fill="#7A5C3E">三候原文</text>
+    <text x="96" y="502" font-size="18" fill="#3A332C">《月令七十二候集解》，24 组共 72 候，逐条对应本手账。</text>
+    <text x="96" y="532" font-size="18" fill="#8A8078">本手账依通行本作「玄鸟」，维基文库本作「元鸟」。</text>
+    <text x="96" y="576" font-size="18" fill="#7A5470"><tspan font-family="Trebuchet MS, sans-serif">→ </tspan><a href="https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3"><tspan text-decoration="underline">月令七十二候集解（维基文库）</tspan></a></text>
+  </g>
+
+  <g id="source-customs" data-pptx-bounds="660 406 556 210">
+    <rect x="660" y="406" width="556" height="210" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/link" x="692" y="434" width="32" height="32" fill="#5C7FA3" />
+    <text x="740" y="458" font-size="24" font-weight="bold" fill="#7A5C3E">习俗与时令</text>
+    <text x="692" y="502" font-size="18" fill="#3A332C">中国气象网「二十四节气」专题，逐节气一页。</text>
+    <text x="692" y="540" font-size="18" fill="#7A5470"><tspan x="692" dy="0"><tspan font-family="Trebuchet MS, sans-serif">→ </tspan><a href="https://www.cma.gov.cn/ztbd/2025zt/24jq/lichun/index.html"><tspan text-decoration="underline">中国气象网 · 二十四节气（以立春页为例）</tspan></a></tspan><tspan x="692" dy="38"><tspan font-family="Trebuchet MS, sans-serif">→ </tspan><a href="https://www.unesco.org/zh/articles/ershisijieqiruxuanrenleifeiwuzhiwenhuayichandaibiaominglu"><tspan text-decoration="underline">UNESCO 人类非物质文化遗产代表作名录</tspan></a></tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 636 1152 64" fill="#8A8078">
+    <text x="64" y="664" font-size="18">口径：紫金山天文台为北京时间、香港天文台为香港时间，同属 UTC+8；12 个中气时刻两处实测完全一致。</text>
+    <text x="64" y="694" font-size="16">「三候释义」「怎么过」为本手账整理，不属引文。</text>
+    <text x="1216" y="694" font-size="16" text-anchor="end" font-family="Trebuchet MS, sans-serif">31 / 31</text>
+  </g>
+</svg>

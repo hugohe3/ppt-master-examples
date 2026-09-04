@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 600" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E3D8C2" data-pptx-bg="#F7F1E4" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#F7F1E4"/>
+      <circle cx="4" cy="4" r="1.1" fill="#E3D8C2"/>
+      <circle cx="13" cy="11" r="1.1" fill="#E3D8C2"/>
+    </pattern>
+  </defs>
+
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1920" height="600" fill="url(#paperGrain)"/>
+
+  <g id="cover-title" data-pptx-bounds="64 36 920 274">
+    <image href="../images/let_cover.png" x="72" y="46" width="820" height="114.68"/>
+    <text x="72" y="278" font-family="KaiTi" font-size="88" fill="#2E2A26">二十四节气手账·秋</text>
+  </g>
+
+  <g id="cover-kicker" data-pptx-bounds="1000 36 360 174">
+    <image href="../images/decor_ribbon.png" x="1000" y="44" width="360" height="132.21"/>
+    <text x="1180" y="124" font-size="40" text-anchor="middle" fill="#2E2A26">2026 · 六站</text>
+  </g>
+
+  <g id="cover-sparkles" data-pptx-bounds="1400 36 220 172">
+    <image href="../images/decor_star.png" x="1450" y="60" width="110" height="109.68"/>
+  </g>
+
+  <g id="seal-mark" data-pptx-bounds="1660 36 200 172">
+    <image href="../images/let_seal.png" x="1694" y="42" width="132" height="132.52"/>
+  </g>
+
+  <g id="cover-slogan" data-pptx-bounds="1000 220 852 90">
+    <text x="1012" y="282" font-size="60" fill="#2E2A26">从立秋到霜降,秋天走完六站</text>
+  </g>
+
+  <g id="route-spine" data-pptx-bounds="64 428 1792 28">
+    <path d="M72 446 C220 434 366 458 512 444 C660 430 802 434 950 448 C1100 462 1252 436 1400 450 C1552 464 1700 438 1848 444" fill="none" stroke="#2E2A26" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="212" cy="443.4" r="9" fill="#2E2A26"/>
+    <circle cx="511.2" cy="444.1" r="9" fill="#2E2A26"/>
+    <circle cx="810.4" cy="441.8" r="9" fill="#2E2A26"/>
+    <circle cx="1109.6" cy="452.2" r="9" fill="#2E2A26"/>
+    <circle cx="1408.8" cy="450.1" r="9" fill="#2E2A26"/>
+    <circle cx="1708" cy="443.6" r="9" fill="#C0503C"/>
+  </g>
+
+  <g id="stop-liqiu" data-pptx-bounds="68 314 288 112">
+    <g id="p01-stop-plaque-liqiu" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 318 280 104" fill="#A9C6A0" stroke="#2E2A26" stroke-width="3">
+<path d="M 72 335.33 A 17.33 17.33 0 0 0 89.33 318 L 334.67 318 A 17.33 17.33 0 0 0 352 335.33 L 352 404.67 A 17.33 17.33 0 0 0 334.67 422 L 89.33 422 A 17.33 17.33 0 0 0 72 404.67 Z"/>
+</g>
+    <image href="../images/term_liqiu.png" x="88" y="329" width="80" height="80.30"/>
+    <text x="180" y="370" font-size="40" fill="#2E2A26">立秋</text>
+    <text x="180" y="408" font-size="30" fill="#4A4239">8月7日</text>
+  </g>
+
+  <g id="stop-chushu" data-pptx-bounds="367.2 460 288 112">
+    <g id="p01-stop-plaque-chushu" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="371.2 464 280 104" fill="#E7B183" stroke="#2E2A26" stroke-width="3">
+<path d="M 371.2 481.33 A 17.33 17.33 0 0 0 388.53 464 L 633.87 464 A 17.33 17.33 0 0 0 651.2 481.33 L 651.2 550.67 A 17.33 17.33 0 0 0 633.87 568 L 388.53 568 A 17.33 17.33 0 0 0 371.2 550.67 Z"/>
+</g>
+    <image href="../images/term_chushu.png" x="387.2" y="473" width="80" height="84.08"/>
+    <text x="479.2" y="516" font-size="40" fill="#2E2A26">处暑</text>
+    <text x="479.2" y="554" font-size="30" fill="#4A4239">8月23日</text>
+  </g>
+
+  <g id="stop-bailu" data-pptx-bounds="666.4 314 288 112">
+    <g id="p01-stop-plaque-bailu" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="670.4 318 280 104" fill="#9FC3D4" stroke="#2E2A26" stroke-width="3">
+<path d="M 670.4 335.33 A 17.33 17.33 0 0 0 687.73 318 L 933.07 318 A 17.33 17.33 0 0 0 950.4 335.33 L 950.4 404.67 A 17.33 17.33 0 0 0 933.07 422 L 687.73 422 A 17.33 17.33 0 0 0 670.4 404.67 Z"/>
+</g>
+    <image href="../images/term_bailu.png" x="690.4" y="326" width="72" height="86.02"/>
+    <text x="778.4" y="370" font-size="40" fill="#2E2A26">白露</text>
+    <text x="778.4" y="408" font-size="30" fill="#4A4239">9月7日</text>
+  </g>
+
+  <g id="stop-qiufen" data-pptx-bounds="965.6 460 288 112">
+    <g id="p01-stop-plaque-qiufen" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="969.6 464 280 104" fill="#E3C263" stroke="#2E2A26" stroke-width="3">
+<path d="M 969.6 481.33 A 17.33 17.33 0 0 0 986.93 464 L 1232.27 464 A 17.33 17.33 0 0 0 1249.6 481.33 L 1249.6 550.67 A 17.33 17.33 0 0 0 1232.27 568 L 986.93 568 A 17.33 17.33 0 0 0 969.6 550.67 Z"/>
+</g>
+    <image href="../images/term_qiufen.png" x="985.6" y="470" width="80" height="89.61"/>
+    <text x="1077.6" y="516" font-size="40" fill="#2E2A26">秋分</text>
+    <text x="1077.6" y="554" font-size="30" fill="#4A4239">9月23日</text>
+  </g>
+
+  <g id="stop-hanlu" data-pptx-bounds="1264.8 314 288 112">
+    <g id="p01-stop-plaque-hanlu" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="1268.8 318 280 104" fill="#B7A2C8" stroke="#2E2A26" stroke-width="3">
+<path d="M 1268.8 335.33 A 17.33 17.33 0 0 0 1286.13 318 L 1531.47 318 A 17.33 17.33 0 0 0 1548.8 335.33 L 1548.8 404.67 A 17.33 17.33 0 0 0 1531.47 422 L 1286.13 422 A 17.33 17.33 0 0 0 1268.8 404.67 Z"/>
+</g>
+    <image href="../images/term_hanlu.png" x="1284.8" y="330" width="80" height="79.10"/>
+    <text x="1376.8" y="370" font-size="40" fill="#2E2A26">寒露</text>
+    <text x="1376.8" y="408" font-size="30" fill="#4A4239">10月8日</text>
+  </g>
+
+  <g id="stop-shuangjiang" data-pptx-bounds="1564 460 288 112">
+    <g id="p01-stop-plaque-shuangjiang" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="1568 464 280 104" fill="#C6D5DD" stroke="#2E2A26" stroke-width="3">
+<path d="M 1568 481.33 A 17.33 17.33 0 0 0 1585.33 464 L 1830.67 464 A 17.33 17.33 0 0 0 1848 481.33 L 1848 550.67 A 17.33 17.33 0 0 0 1830.67 568 L 1585.33 568 A 17.33 17.33 0 0 0 1568 550.67 Z"/>
+</g>
+    <image href="../images/term_shuangjiang.png" x="1584" y="478" width="80" height="74.94"/>
+    <text x="1676" y="516" font-size="40" fill="#2E2A26">霜降</text>
+    <text x="1676" y="554" font-size="30" fill="#4A4239">10月23日</text>
+  </g>
+</svg>

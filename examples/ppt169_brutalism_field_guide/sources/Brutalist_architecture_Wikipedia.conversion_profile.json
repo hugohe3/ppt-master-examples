@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "name": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "Brutalist_architecture_Wikipedia.md",
+    "asset_dir": "Brutalist_architecture_Wikipedia_files",
+    "image_manifest": "Brutalist_architecture_Wikipedia_files/image_manifest.json",
+    "image_count": 20
+  },
+  "markdown": {
+    "line_count": 371,
+    "char_count": 107113,
+    "heading_count": 19,
+    "table_count": 5,
+    "image_ref_count": 16,
+    "link_count": 780
+  },
+  "warnings": []
+}

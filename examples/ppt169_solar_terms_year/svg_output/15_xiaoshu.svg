@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+  <rect id="corner-field" data-pptx-role="decoration" x="-120" y="-120" width="520" height="360" rx="48" fill="#CC5B4C" fill-opacity="0.14" />
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-summer" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 5400000" data-pptx-av-adj3="val 26000" fill="#CC5B4C" stroke="none">
+<path d="M 1190 92 A 38 38 0 0 1 1152 130 L 1152 110.24 A 18.24 18.24 0 0 0 1170.24 92 Z" />
+</g>
+    <circle cx="1171.0" cy="124.9" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="64 44 720 200">
+    <image href="../images/word_xiaoshu.png" x="64" y="48" width="270" height="172" preserveAspectRatio="xMidYMid meet" />
+    <text x="360" y="130" font-size="44" font-weight="bold" fill="#7A5C3E">小暑<tspan font-size="18" font-weight="normal" font-family="Trebuchet MS, sans-serif" fill="#8A8078"> Minor Heat</tspan></text>
+    <text x="360" y="168" font-size="18" fill="#8A8078">风里已经没有凉气了，<tspan x="360" dy="30">暑天正式开场。</tspan></text>
+  </g>
+
+  <g id="term-visual" data-pptx-bounds="800 40 280 224">
+    <image href="../images/elem_xiaoshu.png" x="820" y="44" width="216" height="216" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="term-moment" data-pptx-bounds="800 288 416 92">
+    <rect x="800" y="288" width="416" height="92" rx="24" fill="#FFFFFF" />
+    <use data-icon="tabler-filled/flame" x="828" y="316" width="36" height="36" fill="#CC5B4C" />
+    <text x="884" y="330" font-size="24" font-weight="bold" fill="#3A332C">2026 年 7 月 7 日</text>
+    <text x="884" y="360" font-size="18" fill="#8A8078">北京时间（UTC+8）</text>
+    <text x="1192" y="346" font-size="40" font-weight="bold" fill="#CC5B4C" font-family="Trebuchet MS, sans-serif" text-anchor="end">09:57</text>
+  </g>
+
+  <g id="term-custom" data-pptx-bounds="800 400 416 130">
+    <g id="p15-custom-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="foldedCorner" data-pptx-frame="800 400 416 130" data-pptx-av-adj="val 16667" fill="#FFFFFF" stroke="none">
+<path d="M 800 400 L 1216 400 L 1216 508.33 L 1194.33 530 L 800 530 Z" />
+<path d="M 1194.33 530 L 1198.67 512.67 L 1216 508.33 Z" fill="#D1D1D1" />
+<path d="M 1194.33 530 L 1198.67 512.67 L 1216 508.33 L 1194.33 530 L 800 530 L 800 400 L 1216 400 L 1216 508.33" fill="none" />
+</g>
+    <text x="828" y="436" font-size="18" fill="#8A8078">时令</text>
+    <text x="828" y="470" font-size="24" fill="#3A332C">「食新」尝新米，祭五<tspan x="828" dy="32">谷大神；北方头伏饺子。</tspan></text>
+  </g>
+
+  <g id="term-howto" data-pptx-bounds="800 550 416 116">
+    <rect x="800" y="550" width="416" height="108" rx="24" fill="#F2EDE4" />
+    <text x="828" y="584" font-size="18" fill="#8A8078">怎么过</text>
+    <text x="828" y="620" font-size="26" fill="#3A332C">尝一口新米，<tspan x="828" dy="30">把伏天的第一顿吃踏实。</tspan></text>
+  </g>
+
+  <g id="term-pentads" data-pptx-bounds="64 254 612 344">
+    <text x="64" y="272" font-size="18" fill="#8A8078">三候 · 《月令七十二候集解》 · 一候接一候，各约五日</text>
+    <g id="p15-pentad-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="parallelogram" data-pptx-frame="64 282 520 92" data-pptx-av-adj="val 12000" fill="#FFFFFF" stroke="none">
+<path d="M 64 374 L 75.04 282 L 584 282 L 572.96 374 Z" />
+</g>
+    <text x="108" y="322" font-size="18" fill="#8A8078">一候</text>
+    <text x="188" y="324" font-size="26" font-weight="bold" fill="#3A332C">温风至</text>
+    <text x="108" y="354" font-size="18" fill="#8A8078">风里再无凉意</text>
+    <g id="p15-pentad-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="parallelogram" data-pptx-frame="110 394 520 92" data-pptx-av-adj="val 12000" fill="#FFFFFF" stroke="none">
+<path d="M 110 486 L 121.04 394 L 630 394 L 618.96 486 Z" />
+</g>
+    <text x="154" y="434" font-size="18" fill="#8A8078">二候</text>
+    <text x="234" y="436" font-size="26" font-weight="bold" fill="#3A332C">蟋蟀居壁</text>
+    <text x="154" y="466" font-size="18" fill="#8A8078">蟋蟀离田入墙根避暑</text>
+    <g id="p15-pentad-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="parallelogram" data-pptx-frame="156 506 520 92" data-pptx-av-adj="val 12000" fill="#FFFFFF" stroke="none">
+<path d="M 156 598 L 167.04 506 L 676 506 L 664.96 598 Z" />
+</g>
+    <text x="200" y="546" font-size="18" fill="#8A8078">三候</text>
+    <text x="280" y="548" font-size="26" font-weight="bold" fill="#3A332C">鹰始击</text>
+    <text x="200" y="578" font-size="18" fill="#8A8078">鹰在清凉高空搏击</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 668 1152 32" fill="#8A8078" font-size="16">
+    <text x="64" y="692">三候释义为本手账整理 · 时刻据紫金山天文台 · 习俗据中国气象网 · 夏 · 第 5 格 · 全年第 11 格</text>
+    <text x="1216" y="692" text-anchor="end" font-family="Trebuchet MS, sans-serif">15 / 31</text>
+  </g>
+</svg>

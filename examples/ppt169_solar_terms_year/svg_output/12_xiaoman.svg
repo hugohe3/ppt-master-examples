@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="softShadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.12" />
+    </filter>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF8F3" />
+
+  <g id="term-band" data-pptx-bounds="0 0 1060 200">
+    <rect x="-60" y="-60" width="1120" height="256" rx="40" fill="#CC5B4C" />
+    <image href="../images/word_xiaoman.png" x="64" y="36" width="200" height="128" preserveAspectRatio="xMidYMid meet" />
+    <text x="300" y="96" font-size="44" font-weight="bold" fill="#FFFFFF">小满<tspan font-size="18" font-weight="normal" font-family="Trebuchet MS, sans-serif" fill-opacity="0.75"> Grain Buds</tspan></text>
+    <text x="300" y="132" font-size="18" fill="#FFFFFF" fill-opacity="0.85">籽粒将满未满——二十四节气里唯一不求圆满的一格。</text>
+    <rect x="620" y="110" width="400" height="68" rx="34" fill="#FFFFFF" filter="url(#softShadow)" />
+    <use data-icon="tabler-filled/clock" x="646" y="128" width="32" height="32" fill="#CC5B4C" />
+    <text x="690" y="152" font-size="24" font-weight="bold" fill="#3A332C">2026 年 5 月 21 日</text>
+    <text x="925" y="154" font-size="32" font-weight="bold" fill="#CC5B4C" font-family="Trebuchet MS, sans-serif">08:37</text>
+    <text x="300" y="188" font-size="16" fill="#FFFFFF" fill-opacity="0.75">北京时间（UTC+8） · 夏 · 第 2 格 · 全年第 8 格</text>
+  </g>
+
+  <g id="year-ring" data-pptx-bounds="1102 42 100 100">
+    <circle cx="1152" cy="92" r="38" fill="none" stroke="#E3DACB" stroke-width="10" />
+    <g id="mini-arc-summer" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="1114 54 76 76" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 5400000" data-pptx-av-adj3="val 26000" fill="#CC5B4C" stroke="none">
+<path d="M 1190 92 A 38 38 0 0 1 1152 130 L 1152 110.24 A 18.24 18.24 0 0 0 1170.24 92 Z" />
+</g>
+    <circle cx="1188.7" cy="101.8" r="6" fill="#7A5470" />
+  </g>
+
+  <g id="card-pentads" data-pptx-bounds="64 232 362 424">
+    <rect x="64" y="232" width="362" height="424" rx="24" fill="#FFFFFF" />
+    <text x="88" y="274" font-size="18" fill="#8A8078">三候 · 《月令七十二候集解》</text>
+    <g id="p12-pentad-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="88 296 298 88" data-pptx-av-adj="val 30000" fill="#F2EDE4" stroke="none">
+<path d="M 88 296 L 359.6 296 L 386 340 L 359.6 384 L 88 384 Z" />
+</g>
+    <text x="112" y="328" font-size="18" fill="#8A8078">一候</text>
+    <text x="112" y="366" font-size="26" font-weight="bold" fill="#3A332C">苦菜秀</text>
+    <g id="p12-pentad-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="88 400 298 88" data-pptx-av-adj="val 30000" fill="#F2EDE4" stroke="none">
+<path d="M 88 400 L 359.6 400 L 386 444 L 359.6 488 L 88 488 Z" />
+</g>
+    <text x="112" y="432" font-size="18" fill="#8A8078">二候</text>
+    <text x="112" y="470" font-size="26" font-weight="bold" fill="#3A332C">靡草死</text>
+    <g id="p12-pentad-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="88 504 298 88" data-pptx-av-adj="val 30000" fill="#F2EDE4" stroke="none">
+<path d="M 88 504 L 359.6 504 L 386 548 L 359.6 592 L 88 592 Z" />
+</g>
+    <text x="112" y="536" font-size="18" fill="#8A8078">三候</text>
+    <text x="112" y="574" font-size="26" font-weight="bold" fill="#3A332C">麦秋至</text>
+    <text x="88" y="632" font-size="16" fill="#8A8078">麦子到了它自己的「秋天」</text>
+  </g>
+
+  <g id="card-custom" data-pptx-bounds="458 232 362 424">
+    <rect x="458" y="232" width="362" height="424" rx="24" fill="#FFFFFF" />
+    <text x="482" y="274" font-size="18" fill="#8A8078">时令 · 一条可查的习俗</text>
+    <image href="../images/elem_xiaoman.png" x="559" y="290" width="160" height="160" preserveAspectRatio="xMidYMid meet" />
+    <text x="482" y="500" font-size="24" font-weight="bold" fill="#7A5C3E">「小满动三车」</text>
+    <text x="482" y="536" font-size="24" fill="#3A332C">江南的水车、榨油车、缫<tspan x="482" dy="36">丝车一齐动起来。</tspan></text>
+    <text x="482" y="616" font-size="18" fill="#8A8078">另有吃苦菜：苦中带甜，新鲜爽口。</text>
+  </g>
+
+  <g id="card-howto" data-pptx-bounds="852 232 362 424">
+    <rect x="852" y="232" width="362" height="424" rx="24" fill="#F2EDE4" />
+    <text x="876" y="274" font-size="18" fill="#8A8078">怎么过</text>
+    <image href="../images/orn_divider.png" x="876" y="292" width="120" height="36" preserveAspectRatio="xMidYMid meet" opacity="0.6" />
+    <text x="876" y="392" font-size="26" fill="#3A332C">吃一盘略带苦味的菜，<tspan x="876" dy="40">给太满的日子留个余地。</tspan></text>
+    <line x1="876" y1="470" x2="1190" y2="470" stroke="#E3DACB" stroke-width="2" />
+    <text x="876" y="508" font-size="18" fill="#8A8078">二十四节气里有小暑大暑、小<tspan x="876" dy="30">雪大雪、小寒大寒，唯独小满</tspan><tspan x="876" dy="30">没有「大满」。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 676 1152 32" fill="#8A8078" font-size="16">
+    <text x="64" y="700">时刻据紫金山天文台 · 三候据《月令七十二候集解》 · 习俗据中国气象网 · 末句为本手账整理</text>
+    <text x="1216" y="700" text-anchor="end" font-family="Trebuchet MS, sans-serif">12 / 31</text>
+  </g>
+</svg>

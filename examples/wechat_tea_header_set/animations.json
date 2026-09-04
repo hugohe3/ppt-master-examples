@@ -1,0 +1,459 @@
+{
+  "version": 1,
+  "slides": {
+    "01_overview": {
+      "groups": {
+        "deck-title": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "ferment-axis": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.9
+            }
+          ]
+        },
+        "std-note": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "02_green": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.7
+      },
+      "morph": {
+        "from": "01_overview",
+        "pairs": {
+          "ferment-axis": {
+            "from": "ferment-axis",
+            "to": "class-axis"
+          },
+          "tea-ware": {
+            "from": "tea-ware",
+            "to": "tea-ware"
+          }
+        }
+      },
+      "groups": {
+        "class-head": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-craft": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-leaf": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 3,
+              "duration": 0.45
+            }
+          ]
+        },
+        "class-soup": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-pick": {
+          "effects": [
+            {
+              "effect": "entrance_expand",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "03_white": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.7
+      },
+      "morph": {
+        "from": "02_green",
+        "pairs": {
+          "ferment-axis": {
+            "from": "class-axis",
+            "to": "class-axis"
+          },
+          "tea-ware": {
+            "from": "tea-ware",
+            "to": "tea-ware"
+          }
+        }
+      },
+      "groups": {
+        "class-craft": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-head": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-leaf": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 3,
+              "duration": 0.45
+            }
+          ]
+        },
+        "class-soup": {
+          "effects": [
+            {
+              "effect": "entrance_grow_and_turn",
+              "order": 4,
+              "duration": 0.55
+            }
+          ]
+        },
+        "class-pick": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "04_yellow": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.7
+      },
+      "morph": {
+        "from": "03_white",
+        "pairs": {
+          "ferment-axis": {
+            "from": "class-axis",
+            "to": "class-axis"
+          },
+          "tea-ware": {
+            "from": "tea-ware",
+            "to": "tea-ware"
+          }
+        }
+      },
+      "groups": {
+        "class-head": {
+          "effects": [
+            {
+              "effect": "entrance_glide",
+              "order": 1,
+              "duration": 0.55
+            }
+          ]
+        },
+        "class-craft": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-leaf": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 3,
+              "duration": 0.45
+            }
+          ]
+        },
+        "class-soup": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.55
+            }
+          ]
+        },
+        "class-pick": {
+          "effects": [
+            {
+              "effect": "entrance_expand",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-rep": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 6,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "05_oolong": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.7
+      },
+      "morph": {
+        "from": "04_yellow",
+        "pairs": {
+          "ferment-axis": {
+            "from": "class-axis",
+            "to": "class-axis"
+          },
+          "tea-ware": {
+            "from": "tea-ware",
+            "to": "tea-ware"
+          }
+        }
+      },
+      "groups": {
+        "class-leaf": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-head": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-craft": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-soup": {
+          "effects": [
+            {
+              "effect": "entrance_grow_and_turn",
+              "order": 4,
+              "duration": 0.55
+            }
+          ]
+        },
+        "class-pick": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "06_red": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.7
+      },
+      "morph": {
+        "from": "05_oolong",
+        "pairs": {
+          "ferment-axis": {
+            "from": "class-axis",
+            "to": "class-axis"
+          },
+          "tea-ware": {
+            "from": "tea-ware",
+            "to": "tea-ware"
+          }
+        }
+      },
+      "groups": {
+        "class-craft": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-leaf": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 2,
+              "duration": 0.45
+            }
+          ]
+        },
+        "class-head": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 3,
+              "duration": 0.55
+            }
+          ]
+        },
+        "class-soup": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-pick": {
+          "effects": [
+            {
+              "effect": "entrance_expand",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "07_dark": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.7
+      },
+      "morph": {
+        "from": "06_red",
+        "pairs": {
+          "ferment-axis": {
+            "from": "class-axis",
+            "to": "class-axis"
+          },
+          "tea-ware": {
+            "from": "tea-ware",
+            "to": "tea-ware"
+          }
+        }
+      },
+      "groups": {
+        "class-craft": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-head": {
+          "effects": [
+            {
+              "effect": "entrance_unfold",
+              "order": 2,
+              "duration": 0.6
+            }
+          ]
+        },
+        "class-leaf": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 3,
+              "duration": 0.45
+            }
+          ]
+        },
+        "class-soup": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "class-pick": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    }
+  }
+}

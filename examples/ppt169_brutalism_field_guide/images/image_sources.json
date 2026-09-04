@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "filename": "src_beton_brut.jpg",
+      "slide": "01_cover",
+      "purpose": "cover concrete field",
+      "search_query": "brutalist concrete facade",
+      "matched_query": "board marked concrete wall",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Dingleton Boiler House - detail of board-marked concrete.jpg",
+      "author": "Tom Parnell",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Dingleton_Boiler_House_-_detail_of_board-marked_concrete.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Dingleton_Boiler_House_-_detail_of_board-marked_concrete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 5358,
+      "height": 3572,
+      "attribution_text": "src_beton_brut.jpg — \"Dingleton Boiler House - detail of board-marked concrete.jpg\" by Tom Parnell via Wikimedia Commons — license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "beton brut concrete building",
+        "board marked concrete wall",
+        "raw concrete architecture"
+      ]
+    },
+    {
+      "filename": "src_boston_city_hall.jpg",
+      "slide": "07_inner_workings",
+      "purpose": "exact named building",
+      "search_query": "Boston City Hall building",
+      "matched_query": "Boston City Hall building",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Boston City Hall Mar 2025 14.jpg",
+      "author": "Epicgenius",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Boston_City_Hall_Mar_2025_14.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Boston_City_Hall_Mar_2025_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 4080,
+      "height": 3060,
+      "attribution_text": "src_boston_city_hall.jpg — \"Boston City Hall Mar 2025 14.jpg\" by Epicgenius via Wikimedia Commons — license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Boston",
+        "City Hall"
+      ],
+      "query_variants": [
+        "Boston City Hall brutalist",
+        "Boston City Hall Plaza"
+      ]
+    },
+    {
+      "filename": "src_demolition.jpg",
+      "slide": "12_backlash",
+      "purpose": "documentary demolition",
+      "search_query": "tower block demolition",
+      "matched_query": "concrete building demolition",
+      "orientation": "landscape",
+      "provider": "pexels",
+      "stage": "all",
+      "title": "A multi-story building in England undergoing demolition, revealing exposed concrete and debris.",
+      "author": "Mike Bird",
+      "source_page_url": "https://www.pexels.com/photo/demolished-concrete-building-11461011/",
+      "download_url": "https://images.pexels.com/photos/11461011/pexels-photo-11461011.jpeg",
+      "license_name": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 6000,
+      "height": 4000,
+      "attribution_text": "src_demolition.jpg — \"A multi-story building in England undergoing demolition, revealing exposed concrete and debris.\" by Mike Bird via Pexels — license: Pexels License (https://www.pexels.com/license/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "concrete building demolition",
+        "high rise demolition dust",
+        "housing block being demolished"
+      ]
+    },
+    {
+      "filename": "src_ningbo_museum.jpg",
+      "slide": "14_revival",
+      "purpose": "exact named building",
+      "search_query": "Ningbo Museum Wang Shu",
+      "matched_query": "Ningbo Museum Wang Shu",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Window setting of Ningbo Museum (1).JPG",
+      "author": "Siyuwj , building designed by Wang Shu",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Window_setting_of_Ningbo_Museum_(1).JPG",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Window_setting_of_Ningbo_Museum_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 5472,
+      "height": 3648,
+      "attribution_text": "src_ningbo_museum.jpg — \"Window setting of Ningbo Museum (1).JPG\" by Siyuwj , building designed by Wang Shu via Wikimedia Commons — license: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Ningbo|宁波",
+        "Museum|博物馆"
+      ],
+      "query_variants": [
+        "Ningbo History Museum",
+        "宁波博物馆"
+      ]
+    },
+    {
+      "filename": "cover_beton_brut_duo.png",
+      "slide": "01_cover",
+      "purpose": "cover concrete field",
+      "search_query": "brutalist concrete facade",
+      "matched_query": "board marked concrete wall",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Dingleton Boiler House - detail of board-marked concrete.jpg",
+      "author": "Tom Parnell",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Dingleton_Boiler_House_-_detail_of_board-marked_concrete.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Dingleton_Boiler_House_-_detail_of_board-marked_concrete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 1000,
+      "height": 667,
+      "attribution_text": "cover_beton_brut_duo.png — \"Dingleton Boiler House - detail of board-marked concrete.jpg\" by Tom Parnell via Wikimedia Commons — license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "beton brut concrete building",
+        "board marked concrete wall",
+        "raw concrete architecture"
+      ],
+      "derived_from": "src_beton_brut.jpg",
+      "treatments": [
+        {
+          "operation": "contrast",
+          "factor": 1.35
+        },
+        {
+          "operation": "duotone",
+          "shadow": "#14110F",
+          "highlight": "#F2F0EA"
+        },
+        {
+          "operation": "fit",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "filename": "boston_city_hall_half.png",
+      "slide": "07_inner_workings",
+      "purpose": "exact named building",
+      "search_query": "Boston City Hall building",
+      "matched_query": "Boston City Hall building",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Boston City Hall Mar 2025 14.jpg",
+      "author": "Epicgenius",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Boston_City_Hall_Mar_2025_14.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Boston_City_Hall_Mar_2025_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 900,
+      "height": 675,
+      "attribution_text": "boston_city_hall_half.png — \"Boston City Hall Mar 2025 14.jpg\" by Epicgenius via Wikimedia Commons — license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Boston",
+        "City Hall"
+      ],
+      "query_variants": [
+        "Boston City Hall brutalist",
+        "Boston City Hall Plaza"
+      ],
+      "derived_from": "src_boston_city_hall.jpg",
+      "treatments": [
+        {
+          "operation": "contrast",
+          "factor": 1.4
+        },
+        {
+          "operation": "duotone",
+          "shadow": "#14110F",
+          "highlight": "#E2DFD5"
+        },
+        {
+          "operation": "fit",
+          "width": 900,
+          "height": 900
+        }
+      ]
+    },
+    {
+      "filename": "demolition_mono.png",
+      "slide": "12_backlash",
+      "purpose": "documentary demolition",
+      "search_query": "tower block demolition",
+      "matched_query": "concrete building demolition",
+      "orientation": "landscape",
+      "provider": "pexels",
+      "stage": "all",
+      "title": "A multi-story building in England undergoing demolition, revealing exposed concrete and debris.",
+      "author": "Mike Bird",
+      "source_page_url": "https://www.pexels.com/photo/demolished-concrete-building-11461011/",
+      "download_url": "https://images.pexels.com/photos/11461011/pexels-photo-11461011.jpeg",
+      "license_name": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1000,
+      "height": 667,
+      "attribution_text": "demolition_mono.png — \"A multi-story building in England undergoing demolition, revealing exposed concrete and debris.\" by Mike Bird via Pexels — license: Pexels License (https://www.pexels.com/license/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "concrete building demolition",
+        "high rise demolition dust",
+        "housing block being demolished"
+      ],
+      "derived_from": "src_demolition.jpg",
+      "treatments": [
+        {
+          "operation": "contrast",
+          "factor": 1.5
+        },
+        {
+          "operation": "duotone",
+          "shadow": "#14110F",
+          "highlight": "#C9C5BA"
+        },
+        {
+          "operation": "fit",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "filename": "ningbo_museum_duo.png",
+      "slide": "14_revival",
+      "purpose": "exact named building",
+      "search_query": "Ningbo Museum Wang Shu",
+      "matched_query": "Ningbo Museum Wang Shu",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Window setting of Ningbo Museum (1).JPG",
+      "author": "Siyuwj , building designed by Wang Shu",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Window_setting_of_Ningbo_Museum_(1).JPG",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Window_setting_of_Ningbo_Museum_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 900,
+      "height": 600,
+      "attribution_text": "ningbo_museum_duo.png — \"Window setting of Ningbo Museum (1).JPG\" by Siyuwj , building designed by Wang Shu via Wikimedia Commons — license: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Ningbo|宁波",
+        "Museum|博物馆"
+      ],
+      "query_variants": [
+        "Ningbo History Museum",
+        "宁波博物馆"
+      ],
+      "derived_from": "src_ningbo_museum.jpg",
+      "treatments": [
+        {
+          "operation": "contrast",
+          "factor": 1.3
+        },
+        {
+          "operation": "duotone",
+          "shadow": "#14110F",
+          "highlight": "#E2DFD5"
+        },
+        {
+          "operation": "fit",
+          "width": 900,
+          "height": 900
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-04T08:27:32.087510Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

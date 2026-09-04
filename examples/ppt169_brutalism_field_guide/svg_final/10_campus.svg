@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="col-rule-1" data-pptx-role="decoration" x1="438" y1="186" x2="438" y2="586" stroke="#9A958B" stroke-width="1" />
+  <line id="col-rule-2" data-pptx-role="decoration" x1="842" y1="186" x2="842" y2="586" stroke="#9A958B" stroke-width="1" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p10-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART THREE · THE BUILDINGS</text>
+  </g>
+
+  <g id="p10-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">10</text>
+  </g>
+
+  <g id="p10-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">The universities built them first, and biggest</text>
+  </g>
+
+  <g id="p10-column-1" data-pptx-bounds="48 186 376 400">
+    <text x="48" y="206" font-family="Consolas" font-size="22" fill="#C8331E" letter-spacing="1.2">BRITAIN, EARLY</text>
+    <line x1="48" y1="216" x2="424" y2="216" stroke="#14110F" stroke-width="2" />
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="238">The 'beehives' at St John's College,</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="260">Oxford (Michael Powers, Architects' Co-</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="282">Partnership, 1958–60).</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="318">The 1959 architecture department</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="340">extension at Cambridge under Leslie</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="362">Martin, by Colin St John Wilson and Alex</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="384">Hardy with student participation — it</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="406">inspired the Grade II listed University</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="428">Centre.</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="464">Stirling's Red Trilogy: Leicester</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="486">Engineering with James Gowan (1959–63),</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="508">often called Britain's first postmodern</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="530">building; the Grade II* History Faculty,</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="552">Cambridge (1964–67); the Florey</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="48" y="574">Building, Oxford (1966–71).</text></g>
+  <g id="p10-column-2" data-pptx-bounds="452 186 376 400">
+    <text x="452" y="206" font-family="Consolas" font-size="22" fill="#55514A" letter-spacing="1.2">THE NEW UNIVERSITIES</text>
+    <line x1="452" y1="216" x2="828" y2="216" stroke="#14110F" stroke-width="2" />
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="238">Basil Spence's Grade I Falmer House at</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="260">Sussex (1960–62), a “meeting of Arts and</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="282">Crafts with modernism” — hand-made</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="304">bricks and colonnades of board-marked</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="326">concrete arches inspired by the</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="348">Colosseum.</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="384">Denys Lasdun's 'ziggurats' at UEA</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="406">(1968): six linked halls in Norfolk</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="428">Terrace, four in Suffolk Terrace, with</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="450">the library and teaching wall between</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="472">them.</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="508">Ove Arup's Grade I Kingsgate Bridge at</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="530">Durham (1963) and Dunelm House</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="552">(1964–66), saved from demolition in 2021</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="452" y="574">after a five-year campaign.</text></g>
+  <g id="p10-column-3" data-pptx-bounds="856 186 376 400">
+    <text x="856" y="206" font-family="Consolas" font-size="22" fill="#55514A" letter-spacing="1.2">AMERICA AND BEYOND</text>
+    <line x1="856" y1="216" x2="1232" y2="216" stroke="#14110F" stroke-width="2" />
+    <text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="238">Paul Rudolph's Art and Architecture</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="260">Building at Yale (1963), where as</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="282">department chair he was both client and</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="304">architect. His 1964 UMass Dartmouth is a</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="326">rare entire campus in the style.</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="362">William Pereira's Geisel Library at UC</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="384">San Diego (1969–70), “a fascinating</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="406">nexus between brutalism and futurism” —</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="428">intended in steel and glass until cost</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="450">moved the structure outside.</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="486">Robarts Library, Toronto (Warner, Burns,</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="508">Toan and Lunde, 1968–73), condemned on</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="530">opening as “a blunder on the grandest</text><text font-size="16" font-family="Consolas" fill="#1C1A17" x="856" y="552">scale”.</text></g>
+
+  <g id="p10-ziggurat-cell" data-pptx-bounds="48 608 1184 72">
+    <rect x="48" y="610" width="1184" height="68" fill="#14110F" />
+    <text x="80" y="638" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.4">STILL CLOSED —</text>
+    <text font-size="20" fill="#F2F0EA" x="248" y="638">The UEA ziggurats closed in 2023 in the reinforced autoclaved aerated</text><text font-size="20" fill="#F2F0EA" x="248" y="666">concrete crisis, with no refurbishment date set as of February 2025.</text></g>
+
+  <g id="p10-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">10 / 16</text>
+  </g>
+</svg>

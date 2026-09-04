@@ -1,0 +1,606 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "二十四节气·2026年全年手账（交节时刻、三候、习俗）",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "2026年立春交节时刻为2月4日04时02分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "2026年雨水交节时刻为2月18日23时52分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "2026年惊蛰交节时刻为3月5日21时59分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "2026年春分交节时刻为3月20日22时46分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "2026年清明交节时刻为4月5日02时40分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "2026年谷雨交节时刻为4月20日09时39分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "2026年立夏交节时刻为5月5日19时49分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "2026年小满交节时刻为5月21日08时37分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "2026年芒种交节时刻为6月5日23时48分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "2026年夏至交节时刻为6月21日16时25分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "2026年小暑交节时刻为7月7日09时57分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "2026年大暑交节时刻为7月23日03时13分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "2026年立秋交节时刻为8月7日19时43分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "2026年处暑交节时刻为8月23日10时19分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "2026年白露交节时刻为9月7日22时41分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "2026年秋分交节时刻为9月23日08时05分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "2026年寒露交节时刻为10月8日14时29分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "2026年霜降交节时刻为10月23日17时38分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "2026年立冬交节时刻为11月7日17时52分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "2026年小雪交节时刻为11月22日15时23分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "2026年大雪交节时刻为12月7日10时53分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "2026年冬至交节时刻为12月22日04时50分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "2026年小寒交节时刻为1月5日16时23分（北京时间/香港时间，UTC+8）。",
+      "source_title": "原来二十四节气可以精准到分钟！2026年中国四季密码来了（荔枝新闻，据中国科学院紫金山天文台发布）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-01-05/doc-inhffsfn9506531.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "2026年大寒交节时刻为1月20日09时45分（北京时间/香港时间，UTC+8）。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "新华社引中国科学院紫金山天文台：2026年立春为2月4日4时2分。",
+      "source_title": "星空有约丨立春日期为啥“变来变去”？（新华社）",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-02-03/doc-inhkpvfi7233217.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "《月令七十二候集解》载立春三候：一候东风解冻，二候蛰虫始振，三候鱼陟负冰。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "《月令七十二候集解》载雨水三候：一候獭祭鱼，二候候雁北，三候草木萌动。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "《月令七十二候集解》载惊蛰三候：一候桃始华，二候仓庚鸣，三候鹰化为鸠。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "《月令七十二候集解》载春分三候：一候玄鸟至，二候雷乃发声，三候始电。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "《月令七十二候集解》载清明三候：一候桐始华，二候田鼠化为鴽，三候虹始见。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "《月令七十二候集解》载谷雨三候：一候萍始生，二候鸣鸠拂其羽，三候戴胜降于桑。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "《月令七十二候集解》载立夏三候：一候蝼蝈鸣，二候蚯蚓出，三候王瓜生。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "《月令七十二候集解》载小满三候：一候苦菜秀，二候靡草死，三候麦秋至。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "《月令七十二候集解》载芒种三候：一候螳螂生，二候鵙始鸣，三候反舌无声。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "《月令七十二候集解》载夏至三候：一候鹿角解，二候蜩始鸣，三候半夏生。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "《月令七十二候集解》载小暑三候：一候温风至，二候蟋蟀居壁，三候鹰始击。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "《月令七十二候集解》载大暑三候：一候腐草为萤，二候土润溽暑，三候大雨时行。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "《月令七十二候集解》载立秋三候：一候凉风至，二候白露降，三候寒蝉鸣。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "《月令七十二候集解》载处暑三候：一候鹰乃祭鸟，二候天地始肃，三候禾乃登。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "《月令七十二候集解》载白露三候：一候鸿雁来，二候玄鸟归，三候群鸟养羞。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "《月令七十二候集解》载秋分三候：一候雷始收声，二候蛰虫坏户，三候水始涸。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "《月令七十二候集解》载寒露三候：一候鸿雁来宾，二候雀入大水为蛤，三候菊有黄华。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "《月令七十二候集解》载霜降三候：一候豺祭兽，二候草木黄落，三候蛰虫咸俯。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "《月令七十二候集解》载立冬三候：一候水始冰，二候地始冻，三候雉入大水为蜃。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "《月令七十二候集解》载小雪三候：一候虹藏不见，二候天气上升地气下降，三候闭塞而成冬。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "《月令七十二候集解》载大雪三候：一候鹖鴠不鸣，二候虎始交，三候荔挺出。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "《月令七十二候集解》载冬至三候：一候蚯蚓结，二候麋角解，三候水泉动。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "《月令七十二候集解》载小寒三候：一候雁北乡，二候鹊始巢，三候雉雊。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "《月令七十二候集解》载大寒三候：一候鸡乳，二候征鸟厉疾，三候水泽腹坚。",
+      "source_title": "月令七十二候集解（维基文库）",
+      "source_url": "https://zh.wikisource.org/wiki/%E6%9C%88%E4%BB%A4%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99%E9%9B%86%E8%A7%A3",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F050",
+      "claim": "立春习俗/时令：咬春：吃春饼、赠春盘、品尝春菜；官方礼仪有鞭土牛（打春）。",
+      "source_title": "二十四节气·立春-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/lichun/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F051",
+      "claim": "雨水习俗/时令：“雨水节，回娘家”：川西一带出嫁女儿带礼物回娘家拜望父母。",
+      "source_title": "二十四节气·雨水-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/yushui/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F052",
+      "claim": "惊蛰习俗/时令：惊蛰吃梨：滋阴清肺，“梨”谐“离”，取远离害虫灾病之意。",
+      "source_title": "二十四节气·惊蛰-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/jingzhe/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F053",
+      "claim": "春分习俗/时令：“春分到，蛋儿俏”竖蛋；踏青放风筝、吃春菜。",
+      "source_title": "二十四节气·春分-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/chunfen/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F054",
+      "claim": "清明习俗/时令：扫墓祭祖之外有踏青、荡秋千、蹴鞠、插柳；食青团、清明花饼。",
+      "source_title": "二十四节气·清明-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/qingming/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F055",
+      "claim": "谷雨习俗/时令：南方喝谷雨茶，北方食香椿（亦称“吃春”）；赏牡丹、走谷雨。",
+      "source_title": "二十四节气·谷雨-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/guyu/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F056",
+      "claim": "立夏习俗/时令：立夏称人，祈健康长寿；孩童挂立夏蛋、斗蛋。",
+      "source_title": "二十四节气·立夏-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/lixia/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F057",
+      "claim": "小满习俗/时令：江南“小满动三车”（水车、榨油车、缫丝车）；吃苦菜。",
+      "source_title": "二十四节气·小满-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/xiaoman/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F058",
+      "claim": "芒种习俗/时令：祭花神、饯送花神归位；南方“煮梅”。",
+      "source_title": "二十四节气·芒种-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/mangzhong/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F059",
+      "claim": "夏至习俗/时令：北方“冬至饺子夏至面”，麦收后吃面尝新；女子互赠折扇脂粉。",
+      "source_title": "二十四节气·夏至-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/xiazhi/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F060",
+      "claim": "小暑习俗/时令：“食新”尝新米、祭五谷大神；北方“头伏饺子”。",
+      "source_title": "二十四节气·小暑-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/xiaoshu/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F061",
+      "claim": "大暑习俗/时令：广东食仙草消暑；陕西安康以酸菜面配油泼辣子开胃。",
+      "source_title": "二十四节气·大暑-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/dashu/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F062",
+      "claim": "立秋习俗/时令：贴秋膘：吃炖肉烤肉以肉贴膘；啃秋：吃西瓜香瓜“咬住秋天”。",
+      "source_title": "二十四节气·立秋-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/liqiu/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F063",
+      "claim": "处暑习俗/时令：吃鸭子补阴益血；庆赞中元、放河灯。",
+      "source_title": "二十四节气·处暑-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/chushu/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F064",
+      "claim": "白露习俗/时令：收清露；饮白露茶——“要喝茶，秋白露”。",
+      "source_title": "二十四节气·白露-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/bailu/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F065",
+      "claim": "秋分习俗/时令：秋祭月、送秋牛、放风筝；采秋菜与鱼片滚汤，名曰“秋汤”。",
+      "source_title": "二十四节气·秋分-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/qiufen/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F066",
+      "claim": "寒露习俗/时令：“寒露吃芝麻”养阴防燥；近重阳而登高、赏菊、吃蟹。",
+      "source_title": "二十四节气·寒露-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/hanlu/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F067",
+      "claim": "霜降习俗/时令：“霜降摘柿子，立冬打软枣”；“霜降羊肉赛金丹”。",
+      "source_title": "二十四节气·霜降-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/shuangjiang/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F068",
+      "claim": "立冬习俗/时令：“立冬补冬，补嘴空”；北方“立冬不端饺子碗，冻掉耳朵没人管”。",
+      "source_title": "二十四节气·立冬-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/lidong/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F069",
+      "claim": "小雪习俗/时令：“小雪腌菜”：腌咸菜、品糍粑、晒鱼干、吃刨汤、酿小雪酒。",
+      "source_title": "二十四节气·小雪-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/xiaoxue/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F070",
+      "claim": "大雪习俗/时令：“小雪腌菜，大雪腌肉”；打雪仗、赏雪景、进补。",
+      "source_title": "二十四节气·大雪-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/daxue/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F071",
+      "claim": "冬至习俗/时令：北方吃饺子——“冬至不端饺子碗，冻掉耳朵没人管”；南方吃汤圆取团圆意。",
+      "source_title": "二十四节气·冬至-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/dongzhi/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F072",
+      "claim": "小寒习俗/时令：福建沿海晒鱼干；北京腊八粥、南京菜饭、东北冰戏。",
+      "source_title": "二十四节气·小寒-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/xiaohan/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F073",
+      "claim": "大寒习俗/时令：扎帚扫屋、洗涤杂物，预备过年；北方吃消寒糕，南方煨鸡汤。",
+      "source_title": "二十四节气·大寒-中国气象网",
+      "source_url": "https://www.cma.gov.cn/ztbd/2025zt/24jq/dahan/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F074",
+      "claim": "2016年11月30日，“二十四节气”列入联合国教科文组织人类非物质文化遗产代表作名录。",
+      "source_title": "二十四节气入选《人类非物质文化遗产代表名录》（UNESCO）",
+      "source_url": "https://www.unesco.org/zh/articles/ershisijieqiruxuanrenleifeiwuzhiwenhuayichandaibiaominglu",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F075",
+      "claim": "《香港天文台年曆2026》给出2026年12个中气日太阳上中天仰角（香港）：大寒48°、雨水56°、春分68°、谷雨79°、小满88°、夏至89°、大暑88°、处暑79°、秋分68°、霜降56°、小雪48°、冬至44°。",
+      "source_title": "二十四節氣 24 Solar Terms（《香港天文台年曆2026》）",
+      "source_url": "https://www.hko.gov.hk/en/gts/astron2026/files/2026SolarTerms24.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    }
+  ]
+}

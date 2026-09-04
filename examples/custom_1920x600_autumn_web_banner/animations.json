@@ -1,0 +1,661 @@
+{
+  "version": 1,
+  "slides": {
+    "01_overview": {
+      "groups": {
+        "cover-title": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.7
+            }
+          ]
+        },
+        "cover-kicker": {
+          "effects": [
+            {
+              "effect": "entrance_grow_and_turn",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "cover-slogan": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.6
+            }
+          ]
+        },
+        "route-spine": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.9
+            }
+          ]
+        },
+        "stop-liqiu": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 5,
+              "duration": 0.4
+            }
+          ]
+        },
+        "stop-chushu": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 6,
+              "duration": 0.4
+            }
+          ]
+        },
+        "stop-bailu": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 7,
+              "duration": 0.4
+            }
+          ]
+        },
+        "stop-qiufen": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 8,
+              "duration": 0.4
+            }
+          ]
+        },
+        "stop-hanlu": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 9,
+              "duration": 0.4
+            }
+          ]
+        },
+        "stop-shuangjiang": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 10,
+              "duration": 0.4
+            }
+          ]
+        },
+        "cover-sparkles": {
+          "effects": [
+            {
+              "effect": "entrance_zoom",
+              "order": 11,
+              "duration": 0.4
+            }
+          ]
+        },
+        "seal-mark": {
+          "effects": [
+            {
+              "effect": "entrance_faded_zoom",
+              "order": 12,
+              "duration": 0.5
+            }
+          ]
+        }
+      },
+      "transition": {
+        "effect": "fade",
+        "duration": 0.5
+      }
+    },
+    "02_liqiu": {
+      "groups": {
+        "term-mark-liqiu": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "hou-liqiu": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.6
+            }
+          ]
+        },
+        "doodle-liqiu": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "route-spine": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.8
+            }
+          ]
+        },
+        "advice-liqiu": {
+          "effects": [
+            {
+              "effect": "entrance_ease_in",
+              "order": 5,
+              "duration": 0.6
+            }
+          ]
+        },
+        "seal-mark": {
+          "effects": [
+            {
+              "effect": "entrance_faded_zoom",
+              "order": 6,
+              "duration": 0.45
+            }
+          ]
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "01_overview",
+        "pairs": {
+          "route-spine": {
+            "from": "route-spine",
+            "to": "route-spine"
+          },
+          "autumn-seal": {
+            "from": "seal-mark",
+            "to": "seal-mark"
+          }
+        }
+      }
+    },
+    "03_chushu": {
+      "groups": {
+        "term-mark-chushu": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "hou-chushu": {
+          "effects": [
+            {
+              "effect": "entrance_split",
+              "order": 2,
+              "duration": 0.6
+            }
+          ]
+        },
+        "route-spine": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.8
+            }
+          ]
+        },
+        "doodle-chushu": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "advice-chushu": {
+          "effects": [
+            {
+              "effect": "entrance_ease_in",
+              "order": 5,
+              "duration": 0.6
+            }
+          ]
+        },
+        "seal-mark": {
+          "effects": [
+            {
+              "effect": "entrance_faded_zoom",
+              "order": 6,
+              "duration": 0.45
+            }
+          ]
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "02_liqiu",
+        "pairs": {
+          "route-spine": {
+            "from": "route-spine",
+            "to": "route-spine"
+          },
+          "autumn-seal": {
+            "from": "seal-mark",
+            "to": "seal-mark"
+          }
+        }
+      }
+    },
+    "04_bailu": {
+      "groups": {
+        "term-mark-bailu": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "hou-bailu": {
+          "effects": [
+            {
+              "effect": "entrance_stretch",
+              "order": 2,
+              "duration": 0.6
+            }
+          ]
+        },
+        "doodle-bailu": {
+          "effects": [
+            {
+              "effect": "entrance_glide",
+              "order": 3,
+              "duration": 0.55
+            }
+          ]
+        },
+        "route-spine": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.8
+            }
+          ]
+        },
+        "advice-bailu": {
+          "effects": [
+            {
+              "effect": "entrance_ease_in",
+              "order": 5,
+              "duration": 0.6
+            }
+          ]
+        },
+        "doodle-longan": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 6,
+              "duration": 0.45
+            }
+          ]
+        },
+        "seal-mark": {
+          "effects": [
+            {
+              "effect": "entrance_faded_zoom",
+              "order": 7,
+              "duration": 0.45
+            }
+          ]
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "03_chushu",
+        "pairs": {
+          "route-spine": {
+            "from": "route-spine",
+            "to": "route-spine"
+          },
+          "autumn-seal": {
+            "from": "seal-mark",
+            "to": "seal-mark"
+          }
+        }
+      }
+    },
+    "05_qiufen": {
+      "groups": {
+        "term-mark-qiufen": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "doodle-qiufen": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "route-spine": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 3,
+              "duration": 0.8
+            }
+          ]
+        },
+        "hou-qiufen": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.6
+            }
+          ]
+        },
+        "balance-qiufen": {
+          "effects": [
+            {
+              "effect": "entrance_expand",
+              "order": 5,
+              "duration": 0.55
+            }
+          ]
+        },
+        "callout-fengshou": {
+          "effects": [
+            {
+              "effect": "entrance_grow_and_turn",
+              "order": 6,
+              "duration": 0.55
+            }
+          ]
+        },
+        "advice-qiufen": {
+          "effects": [
+            {
+              "effect": "entrance_ease_in",
+              "order": 7,
+              "duration": 0.6
+            }
+          ]
+        },
+        "doodle-qiucai": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 8,
+              "duration": 0.45
+            }
+          ]
+        },
+        "seal-mark": {
+          "effects": [
+            {
+              "effect": "entrance_faded_zoom",
+              "order": 9,
+              "duration": 0.45
+            }
+          ]
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "04_bailu",
+        "pairs": {
+          "route-spine": {
+            "from": "route-spine",
+            "to": "route-spine"
+          },
+          "autumn-seal": {
+            "from": "seal-mark",
+            "to": "seal-mark"
+          }
+        }
+      }
+    },
+    "06_hanlu": {
+      "groups": {
+        "term-mark-hanlu": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "hou-hanlu-1": {
+          "effects": [
+            {
+              "effect": "entrance_glide",
+              "order": 2,
+              "duration": 0.45
+            }
+          ]
+        },
+        "hou-hanlu-2": {
+          "effects": [
+            {
+              "effect": "entrance_glide",
+              "order": 3,
+              "duration": 0.45
+            }
+          ]
+        },
+        "hou-hanlu-3": {
+          "effects": [
+            {
+              "effect": "entrance_glide",
+              "order": 4,
+              "duration": 0.45
+            }
+          ]
+        },
+        "doodle-hanlu-top": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 5,
+              "duration": 0.5
+            }
+          ]
+        },
+        "doodle-arrow": {
+          "effects": [
+            {
+              "effect": "entrance_ascend",
+              "order": 6,
+              "duration": 0.55
+            }
+          ]
+        },
+        "route-spine": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 7,
+              "duration": 0.8
+            }
+          ]
+        },
+        "advice-hanlu": {
+          "effects": [
+            {
+              "effect": "entrance_ease_in",
+              "order": 8,
+              "duration": 0.6
+            }
+          ]
+        },
+        "doodle-sesame": {
+          "effects": [
+            {
+              "effect": "entrance_float",
+              "order": 9,
+              "duration": 0.45
+            }
+          ]
+        },
+        "seal-mark": {
+          "effects": [
+            {
+              "effect": "entrance_faded_zoom",
+              "order": 10,
+              "duration": 0.45
+            }
+          ]
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "05_qiufen",
+        "pairs": {
+          "route-spine": {
+            "from": "route-spine",
+            "to": "route-spine"
+          },
+          "autumn-seal": {
+            "from": "seal-mark",
+            "to": "seal-mark"
+          }
+        }
+      }
+    },
+    "07_shuangjiang": {
+      "groups": {
+        "term-mark-shuangjiang": {
+          "effects": [
+            {
+              "effect": "entrance_rise_up",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "hou-shuangjiang": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 2,
+              "duration": 0.6
+            }
+          ]
+        },
+        "doodle-shuangjiang": {
+          "effects": [
+            {
+              "effect": "entrance_descend",
+              "order": 3,
+              "duration": 0.55
+            }
+          ]
+        },
+        "route-spine": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "order": 4,
+              "duration": 0.8
+            }
+          ]
+        },
+        "advice-shuangjiang": {
+          "effects": [
+            {
+              "effect": "entrance_ease_in",
+              "order": 5,
+              "duration": 0.6
+            }
+          ]
+        },
+        "seal-mark": {
+          "effects": [
+            {
+              "effect": "entrance_faded_zoom",
+              "order": 6,
+              "duration": 0.6
+            }
+          ]
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "06_hanlu",
+        "pairs": {
+          "route-spine": {
+            "from": "route-spine",
+            "to": "route-spine"
+          },
+          "autumn-seal": {
+            "from": "seal-mark",
+            "to": "seal-mark"
+          }
+        }
+      }
+    }
+  }
+}

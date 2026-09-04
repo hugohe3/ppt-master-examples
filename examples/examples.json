@@ -2,11 +2,466 @@
   "version": 1,
   "updated": "2026-09-04",
   "stats": {
-    "examples": 20,
-    "pages": 285,
-    "templates": 20
+    "examples": 25,
+    "pages": 353,
+    "templates": 25
   },
   "projects": [
+    {
+      "id": "custom_1920x600_autumn_web_banner",
+      "title": "二十四节气手账·秋 · 网页横幅",
+      "description": "扁长条网页横幅一组 7 张(自定义画布 1920×600)— 总览加六个秋季节气各一张,横向展开的手账排法,复用节气手账的切片作用户素材,路线与秋印跨页 Morph,Quick 路线生成,首份自定义画布示例",
+      "icon": "🍁",
+      "color": "#D08A2E",
+      "style": "creative",
+      "styleName": "Sketch-notes Web Banner Set",
+      "desc": "A set of seven wide web banners on a custom 1920×600 canvas — the first example outside the registered formats: an overview with the six autumn terms on a hand-drawn route, then one banner per term laid out horizontally with lettering, date, one 候 line, one thing to do and the term's doodle. Built on the Quick runtime from the autumn journal's slices as user material, in the sketch-notes style; the route spine and the autumn seal carry through as twelve Morph pairs, with fifty-six entrance animations. Typography was scaled from the short edge (body 52), and the exported PPTX page is 1920×600.",
+      "tags": [
+        "Culture",
+        "Sketch Notes",
+        "Custom Canvas",
+        "Series"
+      ],
+      "isNew": true,
+      "folder": "custom_1920x600_autumn_web_banner/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_overview.svg",
+      "slides": [
+        {
+          "file": "01_overview.svg",
+          "title": "overview",
+          "desc": "总览 · 秋天六站"
+        },
+        {
+          "file": "02_liqiu.svg",
+          "title": "liqiu",
+          "desc": "立秋"
+        },
+        {
+          "file": "03_chushu.svg",
+          "title": "chushu",
+          "desc": "处暑"
+        },
+        {
+          "file": "04_bailu.svg",
+          "title": "bailu",
+          "desc": "白露"
+        },
+        {
+          "file": "05_qiufen.svg",
+          "title": "qiufen",
+          "desc": "秋分"
+        },
+        {
+          "file": "06_hanlu.svg",
+          "title": "hanlu",
+          "desc": "寒露"
+        },
+        {
+          "file": "07_shuangjiang.svg",
+          "title": "shuangjiang",
+          "desc": "霜降"
+        }
+      ],
+      "pptx": "examples/custom_1920x600_autumn_web_banner/exports/custom_1920x600_autumn_web_banner.pptx"
+    },
+    {
+      "id": "banner_autumn_solar_terms",
+      "title": "二十四节气手账·秋 · 横幅",
+      "description": "横版 banner 一组 7 张(1920×1080)— 总览加六个秋季节气各一张,手账抖线与粉彩色块,复用节气手账的切片作用户素材,路线条与秋印跨页 Morph,Quick 路线生成",
+      "icon": "🍂",
+      "color": "#C6512E",
+      "style": "creative",
+      "styleName": "Sketch-notes Banner Set",
+      "desc": "A set of seven landscape banners (1920×1080) for the six autumn solar terms: an overview that lines the six terms along a hand-drawn route, then one banner per term with its brush-lettered name beside a native title, the 2026 date, one 候 line and one thing to do, and the term's doodle. Built on the Quick runtime from the autumn journal's own slices supplied as user material, in the sketch-notes style with wobbly path outlines, pastel blocks and a native paper-grain pattern; the route line and the autumn seal travel through the set as twelve Morph pairs, with forty-four entrance animations.",
+      "tags": [
+        "Culture",
+        "Sketch Notes",
+        "Banner",
+        "Series"
+      ],
+      "isNew": true,
+      "folder": "banner_autumn_solar_terms/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "总览 · 秋天六站"
+        },
+        {
+          "file": "02_liqiu.svg",
+          "title": "liqiu",
+          "desc": "立秋"
+        },
+        {
+          "file": "03_chushu.svg",
+          "title": "chushu",
+          "desc": "处暑"
+        },
+        {
+          "file": "04_bailu.svg",
+          "title": "bailu",
+          "desc": "白露"
+        },
+        {
+          "file": "05_qiufen.svg",
+          "title": "qiufen",
+          "desc": "秋分"
+        },
+        {
+          "file": "06_hanlu.svg",
+          "title": "hanlu",
+          "desc": "寒露"
+        },
+        {
+          "file": "07_shuangjiang.svg",
+          "title": "shuangjiang",
+          "desc": "霜降"
+        }
+      ],
+      "pptx": "examples/banner_autumn_solar_terms/exports/banner_autumn_solar_terms.pptx"
+    },
+    {
+      "id": "wechat_tea_header_set",
+      "title": "中国茶六大类 · 公众号头图",
+      "description": "公众号头图一组 7 张(900×383)— 总览加绿白黄青红黑六类各一张,墨线手绘 + 每类一个汤色语义色,复用茶手页的切片作用户素材,发酵度轴与盖碗跨页 Morph,Quick 路线生成",
+      "icon": "🍵",
+      "color": "#4F7A43",
+      "style": "editorial",
+      "styleName": "Ink-notes Header Set",
+      "desc": "A set of seven WeChat article headers (900×383) for the six classes of Chinese tea: an overview that seats all six on a fermentation axis, then one header per class — green, white, yellow, oolong, black and dark — with the class name in brush lettering beside a native title, its core process, a liquor-colour dot, and one buying tip. Built on the Quick runtime from the tea handout's own slices supplied as user material (no new AI generation), in the ink-notes style with black line work and one semantic colour per class; the fermentation axis and the gaiwan carry through the set as twelve Morph pairs, with thirty-four entrance animations. The two classes without a verifiable liquor colour show NO DATA in a callout.",
+      "tags": [
+        "Culture",
+        "Ink Notes",
+        "WeChat",
+        "Series"
+      ],
+      "isNew": true,
+      "folder": "wechat_tea_header_set/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_overview.svg",
+      "slides": [
+        {
+          "file": "01_overview.svg",
+          "title": "overview",
+          "desc": "总览 · 一张纸讲清楚中国茶六大类"
+        },
+        {
+          "file": "02_green.svg",
+          "title": "green",
+          "desc": "绿茶 · 不发酵"
+        },
+        {
+          "file": "03_white.svg",
+          "title": "white",
+          "desc": "白茶 · 微发酵"
+        },
+        {
+          "file": "04_yellow.svg",
+          "title": "yellow",
+          "desc": "黄茶 · 轻发酵"
+        },
+        {
+          "file": "05_oolong.svg",
+          "title": "oolong",
+          "desc": "青茶 · 半发酵"
+        },
+        {
+          "file": "06_red.svg",
+          "title": "red",
+          "desc": "红茶 · 全发酵"
+        },
+        {
+          "file": "07_dark.svg",
+          "title": "dark",
+          "desc": "黑茶 · 后发酵"
+        }
+      ],
+      "pptx": "examples/wechat_tea_header_set/exports/wechat_tea_header_set.pptx"
+    },
+    {
+      "id": "ppt169_brutalism_field_guide",
+      "title": "Brutalism: A Field Guide",
+      "description": "英文 deck 16 页 — 以英文维基百科 Brutalist architecture 页为源,粗暴主义报纸版式:满版小字、粗规则线、反白格、旋转印章框,4 张 Commons 照片经双色调与裁形处理,Morph 与原生表,Default 路线源文件驱动生成,首份全英文示例",
+      "icon": "🏢",
+      "color": "#14110F",
+      "style": "editorial",
+      "styleName": "Brutalist Newspaper",
+      "desc": "A sixteen-page English field guide built from the Wikipedia article on Brutalist architecture: what the word means and where it came from, the postwar conditions that produced it, béton brut and the ethic of exposed structure, streets in the sky, the builders and the campuses, the backlash and demolitions, and the revival — closing with a scored sheet and a CC BY-SA sources page. Set as a brutalist newspaper: wall-to-wall small type in Arial Black, Cambria and Consolas, heavy rule lines, one inverted ink cell per spread, a rotated stamp box, masthead numerals set so large they cross the column rules. Four Wikimedia and Pexels photographs pass through a processing layer — contrast, duotone into the deck ink and paper, hard ruled crops — with inline credits; two native-ready tables; two Morph pairs carry the masthead numeral and the section rule; fifty-eight entrance animations across eight families. Generated on the Default runtime from the source page with speaker notes; the first English-language example.",
+      "tags": [
+        "Architecture",
+        "Brutalist",
+        "English",
+        "Photo Treatment"
+      ],
+      "isNew": true,
+      "folder": "ppt169_brutalism_field_guide/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "Cover · Concrete, Honest, Unforgiving"
+        },
+        {
+          "file": "02_uppsala.svg",
+          "title": "uppsala",
+          "desc": "1950: a name for a house in Kå"
+        },
+        {
+          "file": "03_wildfire.svg",
+          "title": "wildfire",
+          "desc": "Then it spread like wildfire"
+        },
+        {
+          "file": "04_beton_brut.svg",
+          "title": "beton brut",
+          "desc": "béton brut"
+        },
+        {
+          "file": "05_ethic.svg",
+          "title": "ethic",
+          "desc": "an ethic,not anaesthetic"
+        },
+        {
+          "file": "06_material.svg",
+          "title": "material",
+          "desc": "The grain of the formwork stay"
+        },
+        {
+          "file": "07_inner_workings.svg",
+          "title": "inner workings",
+          "desc": "A façade that admits what it i"
+        },
+        {
+          "file": "08_streets_in_the_sky.svg",
+          "title": "streets in the sky",
+          "desc": "concrete emphasised equality"
+        },
+        {
+          "file": "09_builders.svg",
+          "title": "builders",
+          "desc": "Eight countries, one language "
+        },
+        {
+          "file": "10_campus.svg",
+          "title": "campus",
+          "desc": "The universities built them fi"
+        },
+        {
+          "file": "11_genex.svg",
+          "title": "genex",
+          "desc": "NO DATA"
+        },
+        {
+          "file": "12_backlash.svg",
+          "title": "backlash",
+          "desc": "The public verdict"
+        },
+        {
+          "file": "13_score_sheet.svg",
+          "title": "score sheet",
+          "desc": "The score sheet"
+        },
+        {
+          "file": "14_revival.svg",
+          "title": "revival",
+          "desc": "Printed back into fashion"
+        },
+        {
+          "file": "15_closing.svg",
+          "title": "closing",
+          "desc": "Judge it the way itasked to be"
+        },
+        {
+          "file": "16_source.svg",
+          "title": "source",
+          "desc": "Sources"
+        }
+      ],
+      "pptx": "examples/ppt169_brutalism_field_guide/exports/ppt169_brutalism_field_guide.pptx"
+    },
+    {
+      "id": "ppt169_solar_terms_year",
+      "title": "二十四节气·全年手账",
+      "description": "全年手账 31 页 — 封面、年轮总览、四季分隔页与二十四个节气各一页,圆角卡片手账风,9 张 AI 元素表切成 51 张切片 + 23 处题字,四季色盘与年轮跨页 Morph,Default 路线纯题目生成,首份 30 页以上长卷",
+      "icon": "🗓️",
+      "color": "#2F6B5E",
+      "style": "creative",
+      "styleName": "Soft-rounded Journal",
+      "desc": "A thirty-one-page journal of the twenty-four solar terms for 2026: a cover, a year-ring overview, four season dividers and one page per term with its exact date and time, the three 候 lines from 《月令七十二候集解》, a custom or seasonal food, and one thing to do that day, closing with a sources page of live hyperlinks. Nine AI sheets were generated in-pipeline and sliced into fifty-one pieces — twenty-four term motifs, twenty-three brush-lettered term names beside native titles (惊蛰 kept native after the model misdrew the character), four ornaments — inside a soft-rounded card system with one semantic colour per season, a native sun-elevation line chart and one hundred twenty-one preset shapes. Five Morph groups carry the season disc and the year ring from each divider into its first term, and one hundred forty-nine entrance animations across seven families finish the deck. Generated on the Default runtime from a bare topic with topic research; the first deck over thirty pages, with per-page timing recorded in notes/longform.md.",
+      "tags": [
+        "Culture",
+        "Soft Rounded",
+        "AI Illustration",
+        "Long Deck"
+      ],
+      "isNew": true,
+      "folder": "ppt169_solar_terms_year/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · 二十四节气全年手账"
+        },
+        {
+          "file": "02_overview.svg",
+          "title": "overview",
+          "desc": "全年总览 · 一年是一个环"
+        },
+        {
+          "file": "03_spring.svg",
+          "title": "spring",
+          "desc": "春"
+        },
+        {
+          "file": "04_lichun.svg",
+          "title": "lichun",
+          "desc": "立春 Start of Spring"
+        },
+        {
+          "file": "05_yushui.svg",
+          "title": "yushui",
+          "desc": "雨水 Rain Water"
+        },
+        {
+          "file": "06_jingzhe.svg",
+          "title": "jingzhe",
+          "desc": "惊蛰"
+        },
+        {
+          "file": "07_chunfen.svg",
+          "title": "chunfen",
+          "desc": "春分 Spring Equinox"
+        },
+        {
+          "file": "08_qingming.svg",
+          "title": "qingming",
+          "desc": "清明 Clear and Bright"
+        },
+        {
+          "file": "09_guyu.svg",
+          "title": "guyu",
+          "desc": "谷雨 Grain Rain"
+        },
+        {
+          "file": "10_summer.svg",
+          "title": "summer",
+          "desc": "夏"
+        },
+        {
+          "file": "11_lixia.svg",
+          "title": "lixia",
+          "desc": "立夏 Start of Summer"
+        },
+        {
+          "file": "12_xiaoman.svg",
+          "title": "xiaoman",
+          "desc": "小满 Grain Buds"
+        },
+        {
+          "file": "13_mangzhong.svg",
+          "title": "mangzhong",
+          "desc": "芒种 Grain in Ear"
+        },
+        {
+          "file": "14_xiazhi.svg",
+          "title": "xiazhi",
+          "desc": "夏至 Summer Solstice"
+        },
+        {
+          "file": "15_xiaoshu.svg",
+          "title": "xiaoshu",
+          "desc": "小暑 Minor Heat"
+        },
+        {
+          "file": "16_dashu.svg",
+          "title": "dashu",
+          "desc": "大暑 Major Heat"
+        },
+        {
+          "file": "17_autumn.svg",
+          "title": "autumn",
+          "desc": "秋"
+        },
+        {
+          "file": "18_liqiu.svg",
+          "title": "liqiu",
+          "desc": "立秋 Start of Autumn"
+        },
+        {
+          "file": "19_chushu.svg",
+          "title": "chushu",
+          "desc": "处暑 End of Heat"
+        },
+        {
+          "file": "20_bailu.svg",
+          "title": "bailu",
+          "desc": "白露 White Dew"
+        },
+        {
+          "file": "21_qiufen.svg",
+          "title": "qiufen",
+          "desc": "秋分 Autumn Equinox"
+        },
+        {
+          "file": "22_hanlu.svg",
+          "title": "hanlu",
+          "desc": "寒露 Cold Dew"
+        },
+        {
+          "file": "23_shuangjiang.svg",
+          "title": "shuangjiang",
+          "desc": "霜降 Frost Descent"
+        },
+        {
+          "file": "24_winter.svg",
+          "title": "winter",
+          "desc": "冬"
+        },
+        {
+          "file": "25_lidong.svg",
+          "title": "lidong",
+          "desc": "立冬 Start of Winter"
+        },
+        {
+          "file": "26_xiaoxue.svg",
+          "title": "xiaoxue",
+          "desc": "小雪 Minor Snow"
+        },
+        {
+          "file": "27_daxue.svg",
+          "title": "daxue",
+          "desc": "大雪 Major Snow"
+        },
+        {
+          "file": "28_dongzhi.svg",
+          "title": "dongzhi",
+          "desc": "冬至 Winter Solstice"
+        },
+        {
+          "file": "29_xiaohan.svg",
+          "title": "xiaohan",
+          "desc": "小寒 Minor Cold"
+        },
+        {
+          "file": "30_dahan.svg",
+          "title": "dahan",
+          "desc": "大寒 Major Cold"
+        },
+        {
+          "file": "31_sources.svg",
+          "title": "sources",
+          "desc": "来源"
+        }
+      ],
+      "pptx": "examples/ppt169_solar_terms_year/exports/ppt169_solar_terms_year.pptx"
+    },
     {
       "id": "moments_nine_heritage_goods",
       "title": "九件老国货",

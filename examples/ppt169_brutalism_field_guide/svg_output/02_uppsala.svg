@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Cambria" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F2F0EA" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="10" fill="#14110F" />
+  <line id="masthead-rule" data-pptx-role="decoration" x1="48" y1="64" x2="1232" y2="64" stroke="#14110F" stroke-width="1" />
+  <rect id="section-bar" data-pptx-role="decoration" x="0" y="150" width="1280" height="8" fill="#14110F" />
+  <line id="footer-rule" data-pptx-role="decoration" x1="48" y1="678" x2="1232" y2="678" stroke="#9A958B" stroke-width="1" />
+
+  <g id="p02-slug" data-pptx-bounds="48 36 660 28">
+    <text x="48" y="54" font-family="Consolas" font-size="16" fill="#55514A" letter-spacing="1.4">PART ONE · THE WORD</text>
+  </g>
+
+  <g id="p02-numeral" data-pptx-bounds="1050 36 182 148">
+    <text x="1232" y="140" text-anchor="end" font-family="Arial Black" font-size="120" fill="#14110F">02</text>
+  </g>
+
+  <g id="p02-headline" data-pptx-bounds="48 86 992 48">
+    <text x="48" y="118" font-family="Arial Black" font-size="36" fill="#14110F">1950: a name for a house in Kåbo</text>
+  </g>
+
+  <g id="p02-origin-column" data-pptx-bounds="48 168 508 470">
+    <text x="48" y="272" font-family="Arial Black" font-size="120" fill="#14110F">1950</text>
+    <rect x="48" y="286" width="286" height="8" fill="#C8331E" />
+    <text x="48" y="326" font-family="Consolas" font-size="16" fill="#C8331E" letter-spacing="1.6">THE FIRST USE</text>
+    <text x="48" y="368" font-size="20" fill="#1C1A17">The word arrived before the concrete.<tspan x="48" dy="30">The Swedish architect Hans Asplund</tspan><tspan x="48" dy="30">coined the term <tspan font-style="italic">nybrutalism</tspan> — new</tspan><tspan x="48" dy="30">brutalism — to describe Villa Göth, a</tspan><tspan x="48" dy="30">modern brick home in Uppsala.</tspan></text>
+    <text x="48" y="538" font-size="20" fill="#1C1A17">The house was designed in January 1950<tspan x="48" dy="30">by <tspan font-weight="bold">Bengt Edman</tspan> and <tspan font-weight="bold">Lennart Holm</tspan>,</tspan><tspan x="48" dy="30">contemporaries of Asplund. Nothing</tspan><tspan x="48" dy="30">about it was monumental.</tspan></text>
+  </g>
+
+  <g id="p02-asfound-argument" data-pptx-bounds="600 190 632 268" fill="#1C1A17" font-size="20">
+    <text x="600" y="210">What it showed was the "as found" approach that<tspan x="600" dy="30">would later sit at the core of brutalism: the</tspan><tspan x="600" dy="30">building was allowed to say what it was made of,</tspan><tspan x="600" dy="30">and no finish was added to soften the answer.</tspan></text>
+    <text x="600" y="350">Villa Göth was listed as historically significant<tspan x="600" dy="30">by the Uppsala county board on <tspan font-weight="bold">3 March 1995</tspan> — the</tspan><tspan x="600" dy="30">house that named the movement outlived most of</tspan><tspan x="600" dy="30">the towers built in its name.</tspan></text>
+  </g>
+
+  <g id="p02-asfound-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="550 464 26 200" fill="none" stroke="#14110F" stroke-width="3">
+<path d="M 576 664 A 26 2.17 0 0 1 550 661.83 L 550 466.17 A 26 2.17 0 0 1 576 464 Z" stroke="none" />
+<path d="M 576 664 A 26 2.17 0 0 1 550 661.83 L 550 466.17 A 26 2.17 0 0 1 576 464" />
+</g>
+
+  <g id="p02-asfound-rows" data-pptx-bounds="596 462 636 204">
+    <rect x="596" y="524" width="636" height="60" fill="#14110F" />
+    <line x1="596" y1="464" x2="1232" y2="464" stroke="#14110F" stroke-width="1" />
+    <line x1="596" y1="664" x2="1232" y2="664" stroke="#14110F" stroke-width="1" />
+    <text x="616" y="500" font-family="Consolas" font-size="16" fill="#6E6A62">01</text>
+    <text x="668" y="500" font-size="20" fill="#1C1A17">visible I-beams over the windows</text>
+    <text x="616" y="560" font-family="Consolas" font-size="16" fill="#C8331E">02</text>
+    <text x="668" y="560" font-size="20" fill="#F2F0EA">exposed brick, inside and out</text>
+    <text x="616" y="616" font-family="Consolas" font-size="16" fill="#6E6A62">03</text>
+    <text x="668" y="616" font-size="20" fill="#1C1A17">poured concrete keeping the<tspan x="668" dy="30">tongue-and-groove pattern of its forms</tspan></text>
+  </g>
+
+  <g id="p02-footer" data-pptx-bounds="48 686 1184 24" fill="#55514A" font-family="Consolas" font-size="12">
+    <text x="48" y="700">BRUTALIST ARCHITECTURE · A FIELD GUIDE</text>
+    <text x="1232" y="700" text-anchor="end">02 / 16</text>
+  </g>
+</svg>
