@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="content" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p07-header" data-pptx-bounds="80 176 920 262">
+    <text x="80" y="222" font-size="44" fill="#6B6355">第三站</text>
+    <image href="../images/let_bailu.png" x="80" y="252" width="298" height="170" preserveAspectRatio="xMidYMid meet" />
+    <text x="500" y="350" font-family="KaiTi" font-size="100" fill="#33302A">白露</text>
+    <text x="500" y="415" font-size="44" fill="#6B6355">2026年9月7日 22:41</text>
+  </g>
+  <g id="p07-goose" data-pptx-bounds="660 470 340 220">
+    <image href="../images/ph_goose.png" x="700" y="486" width="250" height="199" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="p07-route" data-pptx-bounds="80 690 920 330">
+    <path d="M 770 736 C 660 782 566 830 470 872 C 420 894 372 916 336 936" fill="none" stroke="#D8C9AC" stroke-width="4" stroke-dasharray="10,12" stroke-linecap="round"/>
+    <path d="M 764 716 C 654 762 560 810 464 852 C 414 874 366 896 330 916" fill="none" stroke="#6F8C5A" stroke-width="5" stroke-linecap="round"/>
+    <image href="../images/term_bailu.png" x="80" y="700" width="200" height="239" preserveAspectRatio="xMidYMid meet"/>
+    <text x="390" y="800" font-size="40" fill="#6F8C5A">自北而南</text>
+  </g>
+  <g id="p07-hou" data-pptx-bounds="80 1046 920 254">
+    <image href="../images/ph_swallow.png" x="80" y="1148" width="96" height="94" preserveAspectRatio="xMidYMid meet" />
+    <text x="200" y="1110" font-size="40" fill="#33302A">一候 · 鸿雁来</text>
+    <text x="200" y="1180" font-size="40" fill="#33302A">二候 · 玄鸟归</text>
+    <text x="200" y="1250" font-size="40" fill="#33302A">三候 · 群鸟养羞</text>
+    <path d="M 660 1094 C 752.3 1093.2 847.9 1089.6 940 1090" fill="none" stroke="#D8C9AC" stroke-width="3" stroke-linecap="round" />
+    <path d="M 660 1164 C 756.7 1159.4 849.5 1158.7 940 1160" fill="none" stroke="#D8C9AC" stroke-width="3" stroke-linecap="round" />
+    <path d="M 660 1234 C 751.9 1230.6 848.9 1231.2 940 1230" fill="none" stroke="#D8C9AC" stroke-width="3" stroke-linecap="round" />
+  </g>
+  <g id="p07-custom" data-pptx-bounds="80 1310 920 215">
+    <text x="80" y="1350" font-size="44" fill="#A8502A">习俗</text>
+    <text x="80" y="1420" fill="#33302A">春茶苦，夏茶涩，要喝茶秋白<tspan x="80" dy="78">露；福州白露必吃龙眼。</tspan></text>
+  </g>
+  <g id="p07-action" data-pptx-bounds="80 1550 920 190">
+    <path d="M 82 1566 C 260 1560 420 1572 600 1564 S 862 1558 998 1570" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+    <text x="80" y="1618" font-size="68" fill="#A8502A">早晚加一件，泡一壶秋白露<tspan x="80" dy="88">看看院子里的露水结在哪</tspan></text>
+  </g>
+</svg>

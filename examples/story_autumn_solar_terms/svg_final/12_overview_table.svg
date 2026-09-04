@@ -1,0 +1,340 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="content" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p12-header" data-pptx-bounds="80 176 920 214">
+    <text x="80" y="222" font-size="44" fill="#6B6355">合起来看</text>
+    <text x="80" y="340" font-family="KaiTi" font-size="100" fill="#33302A">六站一览</text>
+    <path d="M 84 378 C 236.1 377.7 396.9 380.3 560 374" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+  </g>
+  <g id="autumn-terms-overview" data-pptx-replace-with="table" data-pptx-bounds="80 470 920 950" data-pptx-fallback-sha256="631198cca52d7950dbed510e3382b364ddbe22fd54fd792beb183884a49076ff">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "x": 80,
+        "y": 480,
+        "width": 920,
+        "height": 930,
+        "name": "autumn-terms-overview",
+        "column_widths": [
+          180,
+          300,
+          440
+        ],
+        "row_heights": [
+          90,
+          140,
+          140,
+          140,
+          140,
+          140,
+          140
+        ],
+        "header_rows": 1,
+        "style": {
+          "font_family": "Microsoft YaHei",
+          "font_size": 32,
+          "header_font_size": 40,
+          "band_row": false
+        },
+        "defaults": {
+          "cell": {
+            "valign": "middle",
+            "padding": 16,
+            "font_size": 32,
+            "align": "l",
+            "borders": {
+              "left": {
+                "style": "none"
+              },
+              "right": {
+                "style": "none"
+              },
+              "top": {
+                "style": "none"
+              },
+              "bottom": {
+                "style": "solid",
+                "color": "#D8C9AC",
+                "width": 2
+              }
+            }
+          }
+        },
+        "columns": [
+          {
+            "text": "节气",
+            "bold": true,
+            "font_size": 40,
+            "fill": "#F1E5CE",
+            "color": "#33302A",
+            "borders": {
+              "left": {
+                "style": "none"
+              },
+              "right": {
+                "style": "none"
+              },
+              "top": {
+                "style": "none"
+              },
+              "bottom": {
+                "style": "solid",
+                "color": "#33302A",
+                "width": 3
+              }
+            }
+          },
+          {
+            "text": "2026年日期",
+            "bold": true,
+            "font_size": 40,
+            "fill": "#F1E5CE",
+            "color": "#33302A",
+            "borders": {
+              "left": {
+                "style": "none"
+              },
+              "right": {
+                "style": "none"
+              },
+              "top": {
+                "style": "none"
+              },
+              "bottom": {
+                "style": "solid",
+                "color": "#33302A",
+                "width": 3
+              }
+            }
+          },
+          {
+            "text": "三候",
+            "bold": true,
+            "font_size": 40,
+            "fill": "#F1E5CE",
+            "color": "#33302A",
+            "borders": {
+              "left": {
+                "style": "none"
+              },
+              "right": {
+                "style": "none"
+              },
+              "top": {
+                "style": "none"
+              },
+              "bottom": {
+                "style": "solid",
+                "color": "#33302A",
+                "width": 3
+              }
+            }
+          }
+        ],
+        "rows": [
+          [
+            {
+              "text": "立秋",
+              "font_size": 40,
+              "color": "#33302A"
+            },
+            {
+              "text": "8月7日 19:43",
+              "font_size": 32,
+              "color": "#33302A"
+            },
+            {
+              "paragraphs": [
+                {
+                  "text": "凉风至·白露降"
+                },
+                {
+                  "text": "寒蝉鸣"
+                }
+              ],
+              "font_size": 32,
+              "color": "#33302A"
+            }
+          ],
+          [
+            {
+              "text": "处暑",
+              "font_size": 40,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            },
+            {
+              "text": "8月23日 10:19",
+              "font_size": 32,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            },
+            {
+              "paragraphs": [
+                {
+                  "text": "鹰乃祭鸟·天地始肃"
+                },
+                {
+                  "text": "禾乃登"
+                }
+              ],
+              "font_size": 32,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            }
+          ],
+          [
+            {
+              "text": "白露",
+              "font_size": 40,
+              "color": "#33302A"
+            },
+            {
+              "text": "9月7日 22:41",
+              "font_size": 32,
+              "color": "#33302A"
+            },
+            {
+              "paragraphs": [
+                {
+                  "text": "鸿雁来·玄鸟归"
+                },
+                {
+                  "text": "群鸟养羞"
+                }
+              ],
+              "font_size": 32,
+              "color": "#33302A"
+            }
+          ],
+          [
+            {
+              "text": "秋分",
+              "font_size": 40,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            },
+            {
+              "text": "9月23日 08:05",
+              "font_size": 32,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            },
+            {
+              "paragraphs": [
+                {
+                  "text": "雷始收声·蛰虫坯户"
+                },
+                {
+                  "text": "水始涸"
+                }
+              ],
+              "font_size": 32,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            }
+          ],
+          [
+            {
+              "text": "寒露",
+              "font_size": 40,
+              "color": "#33302A"
+            },
+            {
+              "text": "10月8日 14:29",
+              "font_size": 32,
+              "color": "#33302A"
+            },
+            {
+              "paragraphs": [
+                {
+                  "text": "鸿雁来宾·雀入大水为蛤"
+                },
+                {
+                  "text": "菊有黄花"
+                }
+              ],
+              "font_size": 32,
+              "color": "#33302A"
+            }
+          ],
+          [
+            {
+              "text": "霜降",
+              "font_size": 40,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            },
+            {
+              "text": "10月23日 17:38",
+              "font_size": 32,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            },
+            {
+              "paragraphs": [
+                {
+                  "text": "豺乃祭兽·草木黄落"
+                },
+                {
+                  "text": "蛰虫咸俯"
+                }
+              ],
+              "font_size": 32,
+              "color": "#33302A",
+              "fill": "#F5EBD8"
+            }
+          ]
+        ]
+      }
+    </metadata>
+    <rect x="80" y="480" width="920" height="90" fill="#F1E5CE" />
+    <rect x="80" y="710" width="920" height="140" fill="#F5EBD8" />
+    <rect x="80" y="990" width="920" height="140" fill="#F5EBD8" />
+    <rect x="80" y="1270" width="920" height="140" fill="#F5EBD8" />
+    <text x="96" y="538" font-size="40" font-weight="bold" fill="#33302A">节气</text>
+    <text x="276" y="538" font-size="40" font-weight="bold" fill="#33302A">2026年日期</text>
+    <text x="576" y="538" font-size="40" font-weight="bold" fill="#33302A">三候</text>
+    <line x1="80" y1="570" x2="1000" y2="570" stroke="#33302A" stroke-width="3" />
+    <g id="p12-row-1">
+      <text x="96" y="654" font-size="40" fill="#33302A">立秋</text>
+      <text x="276" y="654" font-size="32" fill="#33302A">8月7日 19:43</text>
+      <text fill="#33302A" font-size="32" x="576" y="628">凉风至·白露降</text><text fill="#33302A" font-size="32" x="576" y="674">寒蝉鸣</text><line x1="80" y1="710" x2="1000" y2="710" stroke="#D8C9AC" stroke-width="2" />
+    </g>
+    <g id="p12-row-2">
+      <text x="96" y="794" font-size="40" fill="#33302A">处暑</text>
+      <text x="276" y="794" font-size="32" fill="#33302A">8月23日 10:19</text>
+      <text fill="#33302A" font-size="32" x="576" y="768">鹰乃祭鸟·天地始肃</text><text fill="#33302A" font-size="32" x="576" y="814">禾乃登</text><line x1="80" y1="850" x2="1000" y2="850" stroke="#D8C9AC" stroke-width="2" />
+    </g>
+    <g id="p12-row-3">
+      <text x="96" y="934" font-size="40" fill="#33302A">白露</text>
+      <text x="276" y="934" font-size="32" fill="#33302A">9月7日 22:41</text>
+      <text fill="#33302A" font-size="32" x="576" y="908">鸿雁来·玄鸟归</text><text fill="#33302A" font-size="32" x="576" y="954">群鸟养羞</text><line x1="80" y1="990" x2="1000" y2="990" stroke="#D8C9AC" stroke-width="2" />
+    </g>
+    <g id="p12-row-4">
+      <text x="96" y="1074" font-size="40" fill="#33302A">秋分</text>
+      <text x="276" y="1074" font-size="32" fill="#33302A">9月23日 08:05</text>
+      <text fill="#33302A" font-size="32" x="576" y="1048">雷始收声·蛰虫坯户</text><text fill="#33302A" font-size="32" x="576" y="1094">水始涸</text><line x1="80" y1="1130" x2="1000" y2="1130" stroke="#D8C9AC" stroke-width="2" />
+    </g>
+    <g id="p12-row-5">
+      <text x="96" y="1214" font-size="40" fill="#33302A">寒露</text>
+      <text x="276" y="1214" font-size="32" fill="#33302A">10月8日 14:29</text>
+      <text fill="#33302A" font-size="32" x="576" y="1188">鸿雁来宾·雀入大水为蛤</text><text fill="#33302A" font-size="32" x="576" y="1234">菊有黄花</text><line x1="80" y1="1270" x2="1000" y2="1270" stroke="#D8C9AC" stroke-width="2" />
+    </g>
+    <g id="p12-row-6">
+      <text x="96" y="1354" font-size="40" fill="#33302A">霜降</text>
+      <text x="276" y="1354" font-size="32" fill="#33302A">10月23日 17:38</text>
+      <text fill="#33302A" font-size="32" x="576" y="1328">豺乃祭兽·草木黄落</text><text fill="#33302A" font-size="32" x="576" y="1374">蛰虫咸俯</text><line x1="80" y1="1410" x2="1000" y2="1410" stroke="#D8C9AC" stroke-width="2" />
+    </g>
+  </g>
+  <g id="p12-footnote" data-pptx-bounds="80 1440 920 90">
+    <text x="80" y="1490" font-size="32" fill="#6B6355">时刻为东八区时间；三候依《月令七十二候集解》</text>
+  </g>
+  <g id="p12-message" data-pptx-bounds="80 1530 920 200">
+    <text fill="#A8502A" font-size="68" x="80" y="1600">六个日期、十八条候</text><text fill="#A8502A" font-size="68" x="80" y="1690">一张表抄走</text></g>
+</svg>

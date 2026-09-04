@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="content" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p10-header" data-pptx-bounds="80 176 920 262">
+    <text x="80" y="222" font-size="44" fill="#6B6355">第五站</text>
+    <image href="../images/let_hanlu.png" x="80" y="252" width="286" height="170" preserveAspectRatio="xMidYMid meet" />
+    <text x="500" y="350" font-family="KaiTi" font-size="100" fill="#33302A">寒露</text>
+    <text x="500" y="415" font-size="44" fill="#6B6355">2026年10月8日 14:29</text>
+  </g>
+  <g id="p10-climb" data-pptx-bounds="100 470 900 740">
+    <image href="../images/term_hanlu.png" x="700" y="490" width="250" height="247" preserveAspectRatio="xMidYMid meet" />
+    <g id="p10-climb-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upArrow" data-pptx-frame="110 690 180 510" fill="#F1E5CE" stroke="#A8502A" stroke-width="4" stroke-linejoin="round">
+<path d="M 110 780 L 200 690 L 290 780 L 245 780 L 245 1200 L 155 1200 L 155 780 Z" />
+</g>
+    <text x="360" y="800" font-size="40" fill="#33302A">三候 · 菊有黄花</text>
+    <text x="360" y="950" font-size="40" fill="#33302A">二候 · 雀入大水为蛤</text>
+    <text x="360" y="1100" font-size="40" fill="#33302A">一候 · 鸿雁来宾</text>
+    <image href="../images/ph_chrysanthemum.png" x="800" y="760" width="130" height="112" preserveAspectRatio="xMidYMid meet" />
+    <path d="M 340 812 C 459.6 807.6 582.3 813.6 700 808" fill="none" stroke="#D8C9AC" stroke-width="3" stroke-dasharray="8,8" stroke-linecap="round" />
+  </g>
+  <g id="p10-contrast" data-pptx-bounds="80 1240 920 135">
+    <text x="80" y="1290" font-size="44" fill="#6B6355">同是露：白露是降，寒露是寒，下一站<tspan x="80" dy="62">就结霜了。</tspan></text>
+  </g>
+  <g id="p10-custom" data-pptx-bounds="80 1400 920 220">
+    <text x="80" y="1440" font-size="44" fill="#A8502A">习俗</text>
+    <text x="80" y="1510" fill="#33302A">寒露吃芝麻；近重阳，登高、<tspan x="80" dy="78">赏枫、饮菊花酒。</tspan></text>
+  </g>
+  <g id="p10-action" data-pptx-bounds="80 1636 920 104">
+    <path d="M 82 1652 C 260 1646 420 1658 600 1650 S 862 1644 998 1656" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+    <text x="80" y="1712" font-size="68" fill="#A8502A">把凉鞋收起来，登一次高</text>
+  </g>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="ending" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p14-header" data-pptx-bounds="80 176 920 214">
+    <text x="80" y="222" font-size="44" fill="#6B6355">来源</text>
+    <text x="80" y="340" font-family="KaiTi" font-size="100" fill="#33302A">这些说法从哪来</text>
+    <path d="M 84 378 C 287.5 371.0 494.0 371.5 700 374" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+  </g>
+  <g id="p14-card-1" data-pptx-bounds="80 464 920 212">
+    <g id="p14-card-1-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="80 470 920 200" data-pptx-av-adj="val 8000" fill="#F1E5CE" stroke="#33302A" stroke-width="4">
+    <path d="M 80 486 A 16 16 0 0 0 96 470 L 984 470 A 16 16 0 0 0 1000 486 L 1000 654 A 16 16 0 0 0 984 670 L 96 670 A 16 16 0 0 0 80 654 Z" />
+    </g>
+    
+  <g transform="translate(120, 494) scale(2)" fill="none" stroke="#A8502A" stroke-width="2">
+    <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+    <path d="M16 3l0 4" />
+    <path d="M8 3l0 4" />
+    <path d="M4 11l16 0" />
+    <path d="M8 15h2v2h-2l0 -2" />
+  </g>
+    <text x="188" y="532" font-size="44" fill="#A8502A">交节时刻</text>
+    <text x="120" y="602" font-size="40" fill="#33302A"><a href="https://www.hko.gov.hk/tc/gts/astronomy/data/files/24SolarTerms_2026.xml"><tspan text-decoration="underline">香港天文台 二十四节气日期及时间资料</tspan></a></text>
+    <text x="120" y="650" font-size="32" fill="#6B6355">hko.gov.hk</text>
+  </g>
+  <g id="p14-card-2" data-pptx-bounds="80 684 920 212">
+    <g id="p14-card-2-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="80 690 920 200" data-pptx-av-adj="val 8000" fill="#FBF6EA" stroke="#33302A" stroke-width="4">
+    <path d="M 80 706 A 16 16 0 0 0 96 690 L 984 690 A 16 16 0 0 0 1000 706 L 1000 874 A 16 16 0 0 0 984 890 L 96 890 A 16 16 0 0 0 80 874 Z" />
+    </g>
+    
+  <g transform="translate(120, 714) scale(2)" fill="none" stroke="#A8502A" stroke-width="2">
+    <path d="M4 20l10 -10m0 -5v5h5m-9 -1v5h5m-9 -1v5h5m-5 -5l4 -4l4 -4" />
+    <path d="M19 10c.638 -.636 1 -1.515 1 -2.486a3.515 3.515 0 0 0 -3.517 -3.514c-.97 0 -1.847 .367 -2.483 1m-3 13l4 -4l4 -4" />
+  </g>
+    <text x="188" y="752" font-size="44" fill="#A8502A">三候原文</text>
+    <text x="120" y="822" font-size="40" fill="#33302A"><a href="https://zh.wikipedia.org/zh-hans/%E4%B8%83%E5%8D%81%E4%BA%8C%E5%80%99"><tspan text-decoration="underline">维基百科 七十二候</tspan></a></text>
+    <text x="120" y="870" font-size="32" fill="#6B6355">zh.wikipedia.org · 依《月令七十二候集解》</text>
+  </g>
+  <g id="p14-card-3" data-pptx-bounds="80 904 920 312">
+    <g id="p14-card-3-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="80 910 920 300" data-pptx-av-adj="val 6000" fill="#F1E5CE" stroke="#33302A" stroke-width="4">
+    <path d="M 80 928 A 18 18 0 0 0 98 910 L 982 910 A 18 18 0 0 0 1000 928 L 1000 1192 A 18 18 0 0 0 982 1210 L 98 1210 A 18 18 0 0 0 80 1192 Z" />
+    </g>
+    
+  <g transform="translate(120, 934) scale(2)" fill="none" stroke="#A8502A" stroke-width="2">
+    <path d="M4 8h16a1 1 0 0 1 1 1v.5c0 1.5 -2.517 5.573 -4 6.5v1a1 1 0 0 1 -1 1h-8a1 1 0 0 1 -1 -1v-1c-1.687 -1.054 -4 -5 -4 -6.5v-.5a1 1 0 0 1 1 -1" />
+  </g>
+    <text x="188" y="972" font-size="44" fill="#A8502A">习俗与时令食物</text>
+    <text x="120" y="1042" font-size="40" fill="#33302A"><a href="https://yllhj.beijing.gov.cn/ztxx/lhysh/sh/202311/t20231120_3305348.shtml"><tspan text-decoration="underline">北京市园林绿化局 二十四节气科普</tspan></a></text>
+    <text x="120" y="1090" font-size="32" fill="#6B6355">yllhj.beijing.gov.cn</text>
+    <text x="120" y="1150" font-size="40" fill="#33302A"><a href="https://www.cma.gov.cn/ztbd/2025zt/24jq/qiufen/index.html"><tspan text-decoration="underline">中国气象网 二十四节气·秋分</tspan></a></text>
+    <text x="120" y="1198" font-size="32" fill="#6B6355">cma.gov.cn</text>
+  </g>
+  <g id="p14-card-4" data-pptx-bounds="80 1224 920 312">
+    <g id="p14-card-4-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="80 1230 920 300" data-pptx-av-adj="val 6000" fill="#FBF6EA" stroke="#33302A" stroke-width="4">
+    <path d="M 80 1248 A 18 18 0 0 0 98 1230 L 982 1230 A 18 18 0 0 0 1000 1248 L 1000 1512 A 18 18 0 0 0 982 1530 L 98 1530 A 18 18 0 0 0 80 1512 Z" />
+    </g>
+    
+  <g transform="translate(120, 1254) scale(2)" fill="none" stroke="#A8502A" stroke-width="2">
+    <path d="M12.014 21.514v-3.75" />
+    <path d="M5.93 9.504l-.43 1.604c-.712 2.659 .866 5.391 3.524 6.105c.997 .268 1.993 .535 2.99 .801v-3.44c-.164 -2.105 -1.637 -3.879 -3.676 -4.426l-2.408 -.644" />
+    <path d="M13.744 11.164c.454 -.454 .815 -.994 1.061 -1.587c.246 -.594 .372 -1.23 .372 -1.873c0 -.643 -.126 -1.279 -.372 -1.872c-.246 -.594 -.606 -1.133 -1.061 -1.588l-1.73 -1.73l-1.73 1.73c-.454 .454 -.815 .994 -1.06 1.588c-.246 .594 -.372 1.23 -.373 1.872c0 .643 .127 1.279 .373 1.873c.246 .594 .606 1.133 1.06 1.587" />
+    <path d="M18.099 9.504l.43 1.604c.712 2.659 -.866 5.391 -3.525 6.105c-.997 .268 -1.994 .535 -2.99 .801v-3.44c.164 -2.105 1.637 -3.879 3.677 -4.426l2.408 -.644" />
+  </g>
+    <text x="188" y="1292" font-size="44" fill="#A8502A">制度背景</text>
+    <text x="120" y="1362" font-size="40" fill="#33302A"><a href="https://www.gov.cn/zhengce/2018-06/22/content_5300368.htm"><tspan text-decoration="underline">中国政府网 中国农民丰收节</tspan></a></text>
+    <text x="120" y="1410" font-size="32" fill="#6B6355">gov.cn</text>
+    <text x="120" y="1470" font-size="40" fill="#33302A"><a href="https://www.mct.gov.cn/whzx/bnsj/dwwhllj/201612/t20161214_773196.html"><tspan text-decoration="underline">文化和旅游部 二十四节气列入人类非遗名录</tspan></a></text>
+    <text x="120" y="1518" font-size="32" fill="#6B6355">mct.gov.cn</text>
+  </g>
+  <g id="p14-nodata" data-pptx-bounds="80 1560 920 140">
+    <text fill="#6B6355" font-size="32" x="80" y="1610">农历对照日期未取到权威逐条数据，本手账标</text><text fill="#6B6355" font-size="32" x="80" y="1654">NO DATA，不作推算。</text></g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="ending" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p13-header" data-pptx-bounds="80 176 920 214">
+    <text x="80" y="222" font-size="44" fill="#6B6355">收尾</text>
+    <text x="80" y="340" font-family="KaiTi" font-size="100" fill="#33302A">挑一站，过一次</text>
+    <path d="M 84 378 C 285.1 379.9 485.6 372.8 700 374" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+  </g>
+<g id="p13-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="100 540 880 640" fill="none" stroke="#A8502A" stroke-width="4">
+<path d="M 100 646.67 A 106.67 106.67 0 0 1 206.67 540 L 873.33 540 A 106.67 106.67 0 0 1 980 646.67 L 980 1073.33 A 106.67 106.67 0 0 1 873.33 1180 L 206.67 1180 A 106.67 106.67 0 0 1 100 1073.33 Z" stroke="none" />
+<path d="M 206.67 1180 A 106.67 106.67 0 0 1 100 1073.33 L 100 646.67 A 106.67 106.67 0 0 1 206.67 540 M 873.33 540 A 106.67 106.67 0 0 1 980 646.67 L 980 1073.33 A 106.67 106.67 0 0 1 873.33 1180" />
+</g>
+  <g id="p13-item-1" data-pptx-bounds="140 572 760 96">
+    <path d="M 150.2 584.2 L 195.9 588.4 L 195.2 626.2 L 147.9 628.7 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="230" y="620" fill="#33302A">立秋 · 啃个瓜</text>
+  </g>
+  <g id="p13-item-2" data-pptx-bounds="140 672 760 96">
+    <path d="M 148.5 688.2 L 190.7 684.3 L 193.1 733.2 L 148.8 730.8 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="230" y="720" fill="#33302A">处暑 · 放盏灯</text>
+  </g>
+  <g id="p13-item-3" data-pptx-bounds="140 772 760 96">
+    <path d="M 149.3 785.3 L 197.2 789.2 L 192.5 832.8 L 153.7 832.7 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="230" y="820" fill="#33302A">白露 · 泡壶茶</text>
+  </g>
+  <g id="p13-item-4" data-pptx-bounds="140 872 760 96">
+    <path d="M 150.0 885.9 L 196.2 888.5 L 192.7 930.4 L 151.0 931.7 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="230" y="920" fill="#33302A">秋分 · 逛趟菜场</text>
+  </g>
+  <g id="p13-item-5" data-pptx-bounds="140 972 760 96">
+    <path d="M 149.9 983.6 L 197.9 989.3 L 196.0 1032.7 L 146.2 1032.1 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="230" y="1020" fill="#33302A">寒露 · 登次高</text>
+  </g>
+  <g id="p13-item-6" data-pptx-bounds="140 1072 760 96">
+    <path d="M 151.4 1087.0 L 194.7 1085.9 L 196.6 1127.0 L 148.3 1130.7 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="230" y="1120" fill="#33302A">霜降 · 买几只柿子</text>
+  </g>
+  <g id="p13-deadline" data-pptx-bounds="80 1250 660 140">
+    <text x="80" y="1300" font-size="44" fill="#6B6355">2026年11月7日 17:52 立冬<tspan x="80" dy="62">秋天就交班了</tspan></text>
+  </g>
+  <g id="p13-seal" data-pptx-bounds="780 1230 210 215">
+    <image href="../images/let_seal.png" x="790" y="1240" width="190" height="191" preserveAspectRatio="xMidYMid meet" />
+  </g>
+  <g id="p13-closing" data-pptx-bounds="80 1450 920 250">
+    <image href="../images/decor_route.png" x="80" y="1455" width="400" height="49" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/decor_arrow.png" x="770" y="1470" width="220" height="161" preserveAspectRatio="xMidYMid meet" />
+    <text x="80" y="1580" font-size="68" fill="#A8502A">别等下一个秋天<tspan x="80" dy="88">挑一站，照着过一次</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="content" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p02-header" data-pptx-bounds="80 176 920 208">
+    <text x="80" y="222" font-size="44" fill="#6B6355">引子</text>
+    <text x="80" y="340" font-family="KaiTi" font-size="100" fill="#33302A">一个节气，三候</text>
+    <path d="M84 372 C204 366 296 380 420 371 S624 364 742 377" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+  </g>
+  <g id="p02-cloud" data-pptx-bounds="80 430 920 574">
+    <g id="p02-cloud-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="cloudCallout" data-pptx-frame="80 440 900 470" data-pptx-av-adj1="val -30000" data-pptx-av-adj2="val 62000" fill="#FFFFFF" stroke="#33302A" fill-opacity="0" stroke-width="4" stroke-linejoin="round">
+<path d="M 161.25 596.34 A 140.69 99.98 0 0 1 371.77 496.6 A 111.1 79.06 0 0 1 547.83 477.34 A 90.94 64.68 0 0 1 701.52 466.99 A 101.19 71.75 0 0 1 878.29 500.66 A 111.1 79.13 0 0 1 951.22 608.2 A 141.15 100.31 0 0 1 859.26 768.6 A 120.52 85.59 0 0 1 674.92 840.51 A 140.67 100.26 0 0 1 423.34 867.18 A 160.83 114.7 0 0 1 200.94 825.9 A 90.83 64.39 0 0 1 124.03 717.96 A 90.52 64.68 0 0 1 160.49 597.8 Z" />
+<path d="M 273.06 966.4 A 13.06 13.06 0 0 1 246.94 966.4 A 13.06 13.06 0 0 1 273.06 966.4 Z" />
+<path d="M 304.86 946.16 A 26.11 26.11 0 0 1 252.64 946.16 A 26.11 26.11 0 0 1 304.86 946.16 Z" />
+<path d="M 354.41 906.77 A 39.17 39.17 0 0 1 276.08 906.77 A 39.17 39.17 0 0 1 354.41 906.77 Z" />
+<path d="M 177.77 724.8 A 90.52 64.68 0 0 1 125 716.12 M 224.33 819.69 A 90.83 64.39 0 0 1 201.24 823.84 M 423.29 865.28 A 140.67 100.26 0 0 1 409.38 846.35 M 680.56 818.08 A 140.67 100.26 0 0 1 675.01 838.85 M 791.02 689.73 A 120.52 85.59 0 0 1 858.76 767.36 M 950.79 607.05 A 111.1 79.13 0 0 1 920.63 636.16 M 878.42 499.03 A 101.19 71.75 0 0 1 880.01 512.78 M 685.79 483 A 101.19 71.75 0 0 1 701.24 465.46 M 541.27 491.35 A 90.94 64.68 0 0 1 548.75 476.23 M 371.67 496.49 A 140.69 99.98 0 0 1 398.75 511.16 M 165.98 611.78 A 140.69 99.98 0 0 1 161.25 596.34" fill="none" />
+</g>
+    <text fill="#33302A" text-anchor="middle" x="540" y="638">节气不只是日期</text><text fill="#33302A" text-anchor="middle" x="540" y="726">它自带一套五天</text><text fill="#33302A" text-anchor="middle" x="540" y="814">一变的物候观察</text></g>
+  <g id="p02-structure" data-pptx-bounds="80 1060 920 340">
+    <text x="80" y="1116" font-size="44" fill="#6B6355">五日为一候，三候为一气</text>
+    <g id="p02-hou-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="120 1150 840 180" fill="none" stroke="#A8502A" stroke-width="4">
+<path d="M 120 1180 A 30 30 0 0 1 150 1150 L 930 1150 A 30 30 0 0 1 960 1180 L 960 1300 A 30 30 0 0 1 930 1330 L 150 1330 A 30 30 0 0 1 120 1300 Z" stroke="none" />
+<path d="M 150 1330 A 30 30 0 0 1 120 1300 L 120 1180 A 30 30 0 0 1 150 1150 M 930 1150 A 30 30 0 0 1 960 1180 L 960 1300 A 30 30 0 0 1 930 1330" />
+</g>
+    <g id="p02-hou-nodes">
+      <path d="M 300 1180 C 340 1180 366 1210 364 1240 C 362 1272 336 1300 300 1299 C 264 1298 238 1270 238 1240 C 238 1208 262 1181 300 1180 Z" fill="none" stroke="#33302A" stroke-width="4" />
+      <text x="300" y="1256" text-anchor="middle" font-size="44" fill="#33302A">一候</text>
+      <path d="M 540 1181 C 578 1179 606 1208 605 1240 C 604 1273 578 1301 540 1299 C 504 1297 478 1271 478 1240 C 478 1209 502 1182 540 1181 Z" fill="none" stroke="#33302A" stroke-width="4" />
+      <text x="540" y="1256" text-anchor="middle" font-size="44" fill="#33302A">二候</text>
+      <path d="M 780 1180 C 818 1181 845 1209 844 1241 C 843 1273 816 1300 780 1299 C 744 1298 719 1270 719 1239 C 719 1208 744 1180 780 1180 Z" fill="none" stroke="#33302A" stroke-width="4" />
+      <text x="780" y="1256" text-anchor="middle" font-size="44" fill="#33302A">三候</text>
+      <path d="M 372 1240 L 468 1240" stroke="#D8C9AC" stroke-width="4" stroke-dasharray="8,8" stroke-linecap="round" />
+      <path d="M 612 1240 L 710 1240" stroke="#D8C9AC" stroke-width="4" stroke-dasharray="8,8" stroke-linecap="round" />
+    </g>
+    <text x="80" y="1380" font-size="40" fill="#6B6355">三候原文出自元代吴澄《月令七十二候集解》</text>
+  </g>
+  <g id="p02-unesco" data-pptx-bounds="80 1432 920 190">
+    
+  <g transform="translate(80, 1452) scale(2.16667)" fill="none" stroke="#6F8C5A" stroke-width="2">
+    <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+    <path d="M16 3l0 4" />
+    <path d="M8 3l0 4" />
+    <path d="M4 11l16 0" />
+    <path d="M8 15h2v2h-2l0 -2" />
+  </g>
+    <text fill="#33302A" font-size="44" x="152" y="1478">2016 年 11 月 30 日，二十四节气</text><text fill="#33302A" font-size="44" x="152" y="1536">列入联合国教科文组织人类非物质</text><text fill="#33302A" font-size="44" x="152" y="1594">文化遗产代表作名录。</text></g>
+  <g id="p02-howto" data-pptx-bounds="80 1638 920 90">
+    <text x="80" y="1684" font-size="44" fill="#A8502A">每站：日期 · 三候 · 习俗 · 一件能做的事</text>
+    <path d="M84 1712 C210 1706 320 1720 448 1711 S700 1704 830 1717" fill="none" stroke="#E39A1F" stroke-width="4" stroke-linecap="round" />
+  </g>
+</svg>

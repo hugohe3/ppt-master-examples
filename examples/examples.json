@@ -1,12 +1,105 @@
 {
   "version": 1,
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "stats": {
-    "examples": 15,
-    "pages": 222,
-    "templates": 15
+    "examples": 16,
+    "pages": 236,
+    "templates": 16
   },
   "projects": [
+    {
+      "id": "story_autumn_solar_terms",
+      "title": "二十四节气手账·秋",
+      "description": "竖版 story 手账 14 页 — 立秋到霜降六个节气,手绘手账风,6 张 AI 元素表切成 30 张切片 + 八处手绘题字,雁与霜叶两条路径动画、Morph 与原生一览表、来源页原生超链接,Default 路线纯题目生成",
+      "icon": "🍂",
+      "color": "#C6512E",
+      "style": "creative",
+      "styleName": "Sketch-notes Journal",
+      "desc": "A fourteen-page vertical story deck (1080×1920) that walks through the six autumn solar terms from Liqiu to Shuangjiang: each station gives the exact 2026 date from the Hong Kong Observatory almanac, the three 候 lines quoted from 《月令七十二候集解》, one custom or seasonal food, and one plain thing to do that day; two breathing pages cover autumn colours and what to eat, an overview table gathers all six dates, and a sources page carries live hyperlinks (the single unverifiable field shows NO DATA). Six AI sketch sheets were generated in-pipeline and sliced into thirty transparent pieces; eight brush-lettered marks sit beside native editable titles; wobbly path outlines, pastel blocks, a native paper-grain pattern and fifteen preset shapes carry the hand-drawn look with no gradients or filters. Twenty-two entrance animations, two Morph transitions and two motion paths — the wild goose crossing the Bailu page and the frosted leaf drifting into its card on Shuangjiang — finish the choreography. Generated on the Default runtime from a bare topic with topic research and speaker notes.",
+      "tags": [
+        "Culture",
+        "Sketch Notes",
+        "AI Illustration",
+        "Vertical"
+      ],
+      "isNew": true,
+      "folder": "story_autumn_solar_terms/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · 二十四节气手账·秋"
+        },
+        {
+          "file": "02_what_is_jieqi.svg",
+          "title": "what is jieqi",
+          "desc": "引子 · 一个节气，三候"
+        },
+        {
+          "file": "03_six_stations.svg",
+          "title": "six stations",
+          "desc": "秋天的六站"
+        },
+        {
+          "file": "04_liqiu.svg",
+          "title": "liqiu",
+          "desc": "第一站 · 立秋"
+        },
+        {
+          "file": "05_chushu.svg",
+          "title": "chushu",
+          "desc": "第二站 · 处暑"
+        },
+        {
+          "file": "06_autumn_colors.svg",
+          "title": "autumn colors",
+          "desc": "呼吸页 · 秋天的颜色"
+        },
+        {
+          "file": "07_bailu.svg",
+          "title": "bailu",
+          "desc": "第三站 · 白露"
+        },
+        {
+          "file": "08_qiufen.svg",
+          "title": "qiufen",
+          "desc": "第四站 · 秋分"
+        },
+        {
+          "file": "09_autumn_food.svg",
+          "title": "autumn food",
+          "desc": "呼吸页 · 秋天吃什么"
+        },
+        {
+          "file": "10_hanlu.svg",
+          "title": "hanlu",
+          "desc": "第五站 · 寒露"
+        },
+        {
+          "file": "11_shuangjiang.svg",
+          "title": "shuangjiang",
+          "desc": "第六站 · 霜降"
+        },
+        {
+          "file": "12_overview_table.svg",
+          "title": "overview table",
+          "desc": "六站一览"
+        },
+        {
+          "file": "13_pick_one.svg",
+          "title": "pick one",
+          "desc": "收尾 · 挑一站，过一次"
+        },
+        {
+          "file": "14_sources.svg",
+          "title": "sources",
+          "desc": "来源 · 这些说法从哪来"
+        }
+      ],
+      "pptx": "examples/story_autumn_solar_terms/exports/story_autumn_solar_terms.pptx"
+    },
     {
       "id": "ppt169_pixel_breakfast_atlas",
       "title": "中国早餐图鉴",

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="content" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA"/>
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8"/>
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)"/>
+  <path id="p09-plate" data-pptx-role="decoration" d="M 149.3 434.8 L 542.9 434.6 L 931.2 445.5 C 977.9 439.4 989.2 455.9 985.7 497.9 L 983.8 927.4 L 979.5 1344.1 C 988.3 1379.4 971.9 1399.2 924.7 1396.8 L 540.9 1407.4 L 153.6 1403.7 C 116.5 1405.9 99.1 1380.9 93.4 1338.1 L 94.0 926.2 L 101.3 495.4 C 92.2 448.7 120.9 432.9 154.3 434.9 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" stroke-linejoin="round"/>
+  <g id="p09-header" data-pptx-bounds="80 176 920 214">
+    <text x="80" y="222" font-size="44" fill="#6B6355">呼吸页</text>
+    <text x="80" y="340" font-family="KaiTi" font-size="100" fill="#33302A">秋天吃什么</text>
+    <image href="../images/decor_ribbon.png" x="700" y="200" width="280" height="103" preserveAspectRatio="xMidYMid meet"/>
+    <path d="M 84 378 C 240.1 377.5 398.9 376.4 560 374" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g id="p09-item-1" data-pptx-bounds="130 450 380 290">
+    <image href="../images/food_watermelon.png" x="222" y="460" width="196" height="170" preserveAspectRatio="xMidYMid meet"/>
+    <text x="320" y="680" text-anchor="middle" font-size="40" fill="#33302A">立秋 · 西瓜</text>
+    <text x="320" y="726" text-anchor="middle" font-size="32" fill="#6B6355">啃秋防秋燥</text>
+  </g>
+  <g id="p09-item-2" data-pptx-bounds="570 450 380 290">
+    <image href="../images/food_duck.png" x="651" y="460" width="219" height="170" preserveAspectRatio="xMidYMid meet"/>
+    <text x="760" y="680" text-anchor="middle" font-size="40" fill="#33302A">处暑 · 鸭</text>
+    <text x="760" y="726" text-anchor="middle" font-size="32" fill="#6B6355">处暑送鸭</text>
+  </g>
+  <g id="p09-item-3" data-pptx-bounds="130 750 380 290">
+    <image href="../images/food_longan.png" x="245" y="760" width="151" height="170" preserveAspectRatio="xMidYMid meet"/>
+    <text x="320" y="980" text-anchor="middle" font-size="40" fill="#33302A">白露 · 龙眼</text>
+    <text x="320" y="1026" text-anchor="middle" font-size="32" fill="#6B6355">福州必吃</text>
+  </g>
+  <g id="p09-item-4" data-pptx-bounds="570 750 380 290">
+    <image href="../images/food_qiucai.png" x="690" y="760" width="140" height="170" preserveAspectRatio="xMidYMid meet"/>
+    <text x="760" y="980" text-anchor="middle" font-size="40" fill="#33302A">秋分 · 秋汤</text>
+    <text x="760" y="1026" text-anchor="middle" font-size="32" fill="#6B6355">岭南滚汤</text>
+  </g>
+  <g id="p09-item-5" data-pptx-bounds="130 1050 380 290">
+    <image href="../images/food_sesame.png" x="218" y="1060" width="204" height="170" preserveAspectRatio="xMidYMid meet"/>
+    <text x="320" y="1280" text-anchor="middle" font-size="40" fill="#33302A">寒露 · 芝麻</text>
+    <text x="320" y="1326" text-anchor="middle" font-size="32" fill="#6B6355">寒露吃芝麻</text>
+  </g>
+  <g id="p09-item-6" data-pptx-bounds="570 1050 380 290">
+    <image href="../images/food_persimmon.png" x="689" y="1060" width="142" height="170" preserveAspectRatio="xMidYMid meet"/>
+    <text x="760" y="1280" text-anchor="middle" font-size="40" fill="#33302A">霜降 · 柿子</text>
+    <text x="760" y="1326" text-anchor="middle" font-size="32" fill="#6B6355">霜降吃灯柿</text>
+  </g>
+  <g id="p09-message" data-pptx-bounds="80 1450 920 200">
+    <text x="80" y="1520" font-size="68" fill="#A8502A">六站各有一件当季的东西<tspan x="80" dy="90">照单买就行</tspan></text>
+  </g>
+</svg>

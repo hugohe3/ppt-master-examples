@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="toc" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <path id="p03-route" data-pptx-role="decoration" d="M 240 520 C 460 560 640 640 840 720 C 640 800 460 860 240 920 C 460 1000 640 1060 840 1120 C 640 1200 460 1260 240 1320 C 460 1400 640 1460 840 1520" fill="none" stroke="#D8C9AC" stroke-width="6" stroke-dasharray="10,14" stroke-linecap="round" />
+  <g id="p03-header" data-pptx-bounds="80 176 920 234">
+    <text x="80" y="222" font-size="44" fill="#6B6355">总览</text>
+    <text x="80" y="340" font-family="KaiTi" font-size="100" fill="#33302A">秋天的六站</text>
+    <image href="../images/decor_route.png" x="80" y="372" width="400" height="49" preserveAspectRatio="xMidYMid meet" />
+  </g>
+  <g id="p03-station-1" data-pptx-bounds="176 450 580 140">
+    <path d="M 240 458 C 278 460 303 488 302 521 C 301 554 274 582 239 581 C 204 580 178 553 178 519 C 178 486 204 459 240 458 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" />
+    <text x="240" y="540" text-anchor="middle" font-family="KaiTi" fill="#A8502A">1</text>
+    <text x="340" y="514" text-anchor="start" font-family="KaiTi" font-size="72" fill="#33302A">立秋</text>
+    <text x="340" y="572" text-anchor="start" font-size="44" fill="#6B6355">8月7日 19:43</text>
+  </g>
+  <g id="p03-station-2" data-pptx-bounds="400 650 510 140">
+    <path d="M 840 658 C 878 660 903 688 902 721 C 901 754 874 782 839 781 C 804 780 778 753 778 719 C 778 686 804 659 840 658 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" />
+    <text x="840" y="740" text-anchor="middle" font-family="KaiTi" fill="#A8502A">2</text>
+    <text x="740" y="714" text-anchor="end" font-family="KaiTi" font-size="72" fill="#33302A">处暑</text>
+    <text x="740" y="772" text-anchor="end" font-size="44" fill="#6B6355">8月23日 10:19</text>
+  </g>
+  <g id="p03-station-3" data-pptx-bounds="176 850 580 140">
+    <path d="M 240 858 C 278 860 303 888 302 921 C 301 954 274 982 239 981 C 204 980 178 953 178 919 C 178 886 204 859 240 858 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" />
+    <text x="240" y="940" text-anchor="middle" font-family="KaiTi" fill="#A8502A">3</text>
+    <text x="340" y="914" text-anchor="start" font-family="KaiTi" font-size="72" fill="#33302A">白露</text>
+    <text x="340" y="972" text-anchor="start" font-size="44" fill="#6B6355">9月7日 22:41</text>
+  </g>
+  <g id="p03-station-4" data-pptx-bounds="400 1050 510 140">
+    <path d="M 840 1058 C 878 1060 903 1088 902 1121 C 901 1154 874 1182 839 1181 C 804 1180 778 1153 778 1119 C 778 1086 804 1059 840 1058 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" />
+    <text x="840" y="1140" text-anchor="middle" font-family="KaiTi" fill="#A8502A">4</text>
+    <text x="740" y="1114" text-anchor="end" font-family="KaiTi" font-size="72" fill="#33302A">秋分</text>
+    <text x="740" y="1172" text-anchor="end" font-size="44" fill="#6B6355">9月23日 08:05</text>
+  </g>
+  <g id="p03-station-5" data-pptx-bounds="176 1250 580 140">
+    <path d="M 240 1258 C 278 1260 303 1288 302 1321 C 301 1354 274 1382 239 1381 C 204 1380 178 1353 178 1319 C 178 1286 204 1259 240 1258 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" />
+    <text x="240" y="1340" text-anchor="middle" font-family="KaiTi" fill="#A8502A">5</text>
+    <text x="340" y="1314" text-anchor="start" font-family="KaiTi" font-size="72" fill="#33302A">寒露</text>
+    <text x="340" y="1372" text-anchor="start" font-size="44" fill="#6B6355">10月8日 14:29</text>
+  </g>
+  <g id="p03-station-6" data-pptx-bounds="400 1450 510 140">
+    <path d="M 840 1458 C 878 1460 903 1488 902 1521 C 901 1554 874 1582 839 1581 C 804 1580 778 1553 778 1519 C 778 1486 804 1459 840 1458 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" />
+    <text x="840" y="1540" text-anchor="middle" font-family="KaiTi" fill="#A8502A">6</text>
+    <text x="740" y="1514" text-anchor="end" font-family="KaiTi" font-size="72" fill="#33302A">霜降</text>
+    <text x="740" y="1572" text-anchor="end" font-size="44" fill="#6B6355">10月23日 17:38</text>
+  </g>
+  <g id="p03-footnote" data-pptx-bounds="80 1596 920 145" fill="#6B6355">
+    <text x="80" y="1636" font-size="40">交节时刻均为东八区时间</text>
+    <text x="80" y="1682" font-size="32">农历对照日期：NO DATA<tspan x="80" dy="40">（未取到权威逐条数据，不作推算）</tspan></text>
+  </g>
+</svg>

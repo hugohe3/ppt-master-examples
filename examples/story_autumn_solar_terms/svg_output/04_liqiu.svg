@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="content" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p04-header" data-pptx-bounds="80 148 920 290">
+    <path id="p04-station-badge" d="M 84.9 206.5 C 88.4 175.0 112.9 148.8 134.2 158.0 C 166.2 150.8 197.9 174.4 196.0 205.7 C 193.7 234.0 169.7 262.4 140.3 260.9 C 111.9 252.8 91.1 238.3 85.6 200.4 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" />
+    <text x="140" y="226" text-anchor="middle" font-family="KaiTi" fill="#A8502A">1</text>
+    <text x="220" y="226" font-size="44" fill="#6B6355">第一站</text>
+    <image href="../images/let_liqiu.png" x="80" y="252" width="366" height="170" preserveAspectRatio="xMidYMid meet" />
+    <text x="500" y="350" font-family="KaiTi" font-size="100" fill="#33302A">立秋</text>
+    <text x="500" y="415" font-size="44" fill="#6B6355">2026年8月7日 19:43</text>
+  </g>
+  <g id="p04-radial" data-pptx-bounds="40 520 940 680">
+    <image href="../images/term_liqiu.png" x="400" y="720" width="280" height="262" preserveAspectRatio="xMidYMid meet" />
+    <path d="M 101.9 620.5 C 105.4 580.3 185.3 548.8 274.2 558.0 C 375.1 550.8 460.9 580.0 459.0 619.7 C 456.7 656.7 376.1 690.4 280.3 688.9 C 180.6 680.8 108.1 660.7 102.6 614.4 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="280" y="634" text-anchor="middle" font-size="40" fill="#33302A">一候·凉风至</text>
+    <image href="../images/ph_coolwind.png" x="40" y="520" width="120" height="102" preserveAspectRatio="xMidYMid meet" />
+    <path d="M 621.8 615.2 C 625.8 574.9 698.5 552.8 805.0 557.6 C 901.2 550.7 975.4 577.7 971.1 615.3 C 971.6 666.0 898.4 689.7 803.6 682.3 C 696.2 687.5 627.8 663.9 629.6 615.0 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="800" y="634" text-anchor="middle" font-size="40" fill="#33302A">二候·白露降</text>
+    <path d="M 366.5 1122.9 C 370.5 1084.4 446.6 1059.1 534.3 1053.6 C 643.3 1055.8 719.8 1075.8 714.6 1117.0 C 715.5 1161.8 628.7 1182.6 537.4 1191.0 C 441.7 1181.9 368.6 1155.3 366.4 1115.5 Z" fill="#F1E5CE" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="540" y="1134" text-anchor="middle" font-size="40" fill="#33302A">三候·寒蝉鸣</text>
+    <image href="../images/ph_cicada.png" x="860" y="1050" width="100" height="136" preserveAspectRatio="xMidYMid meet" />
+    <path d="M 455 760 C 416.6 737.5 383.3 713.5 340 690" fill="none" stroke="#A8502A" stroke-width="4" stroke-dasharray="10,10" stroke-linecap="round" />
+    <path d="M 625 760 C 663.4 738.5 703.9 710.2 742 690" fill="none" stroke="#A8502A" stroke-width="4" stroke-dasharray="10,10" stroke-linecap="round" />
+    <path d="M 540 982 C 537.6 1007.6 541.8 1033.0 540 1054" fill="none" stroke="#A8502A" stroke-width="4" stroke-dasharray="10,10" stroke-linecap="round" />
+  </g>
+  <g id="p04-custom" data-pptx-bounds="80 1230 920 290">
+    <text x="80" y="1270" font-size="44" fill="#A8502A">习俗</text>
+    <text x="80" y="1340" fill="#33302A">立秋悬秤称人，与立夏比<tspan x="80" dy="78">轻重，瘦了要贴秋膘；南</tspan><tspan x="80" dy="78">方啃秋，多吃西瓜防秋燥</tspan></text>
+  </g>
+  <g id="p04-action" data-pptx-bounds="80 1540 920 200">
+    <path d="M 82 1556 C 260 1550 420 1562 600 1554 S 862 1548 998 1560" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+    <text x="80" y="1622" font-size="68" fill="#A8502A">秤一秤，别急着进补，<tspan x="80" dy="90">先把西瓜的最后一口啃完</tspan></text>
+  </g>
+</svg>

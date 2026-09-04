@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.4
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        },
+        "cover-doodles": {
+          "effect": "entrance_float",
+          "order": 2,
+          "delay": 0.2,
+          "duration": 0.8,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "03_six_stations": {
+      "groups": {
+        "p03-station-1": {
+          "effect": "entrance_ascend",
+          "order": 1,
+          "duration": 0.35,
+          "trigger": "after-previous"
+        },
+        "p03-station-2": {
+          "effect": "entrance_ascend",
+          "order": 2,
+          "duration": 0.35,
+          "trigger": "after-previous"
+        },
+        "p03-station-3": {
+          "effect": "entrance_ascend",
+          "order": 3,
+          "duration": 0.35,
+          "trigger": "after-previous"
+        },
+        "p03-station-4": {
+          "effect": "entrance_ascend",
+          "order": 4,
+          "duration": 0.35,
+          "trigger": "after-previous"
+        },
+        "p03-station-5": {
+          "effect": "entrance_ascend",
+          "order": 5,
+          "duration": 0.35,
+          "trigger": "after-previous"
+        },
+        "p03-station-6": {
+          "effect": "entrance_ascend",
+          "order": 6,
+          "duration": 0.35,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "04_liqiu": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "03_six_stations",
+        "pairs": {
+          "station-liqiu": {
+            "from": "p03-station-1",
+            "to": "p04-header"
+          }
+        }
+      }
+    },
+    "07_bailu": {
+      "groups": {
+        "p07-goose": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.3,
+              "trigger": "after-previous"
+            },
+            {
+              "effect": "path_arc_left",
+              "effect_options": {
+                "relative": true
+              },
+              "order": 2,
+              "duration": 2.4,
+              "trigger": "after-previous"
+            }
+          ]
+        }
+      }
+    },
+    "09_autumn_food": {
+      "groups": {
+        "p09-item-1": {
+          "effect": "entrance_zoom",
+          "order": 1,
+          "duration": 0.3,
+          "trigger": "after-previous"
+        },
+        "p09-item-2": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "duration": 0.3,
+          "trigger": "after-previous"
+        },
+        "p09-item-3": {
+          "effect": "entrance_zoom",
+          "order": 3,
+          "duration": 0.3,
+          "trigger": "after-previous"
+        },
+        "p09-item-4": {
+          "effect": "entrance_zoom",
+          "order": 4,
+          "duration": 0.3,
+          "trigger": "after-previous"
+        },
+        "p09-item-5": {
+          "effect": "entrance_zoom",
+          "order": 5,
+          "duration": 0.3,
+          "trigger": "after-previous"
+        },
+        "p09-item-6": {
+          "effect": "entrance_zoom",
+          "order": 6,
+          "duration": 0.3,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "11_shuangjiang": {
+      "groups": {
+        "p11-leaf": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.3,
+              "trigger": "after-previous"
+            },
+            {
+              "effect": "path_arc_down",
+              "effect_options": {
+                "relative": true
+              },
+              "order": 2,
+              "duration": 2.2,
+              "trigger": "after-previous"
+            }
+          ]
+        }
+      }
+    },
+    "12_overview_table": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "11_shuangjiang",
+        "pairs": {
+          "term-header": {
+            "from": "p11-header",
+            "to": "p12-header"
+          },
+          "takeaway-line": {
+            "from": "p11-action",
+            "to": "p12-message"
+          }
+        }
+      }
+    },
+    "13_pick_one": {
+      "groups": {
+        "p13-item-1": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.25,
+          "trigger": "after-previous"
+        },
+        "p13-item-2": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.25,
+          "trigger": "after-previous"
+        },
+        "p13-item-3": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.25,
+          "trigger": "after-previous"
+        },
+        "p13-item-4": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.25,
+          "trigger": "after-previous"
+        },
+        "p13-item-5": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.25,
+          "trigger": "after-previous"
+        },
+        "p13-item-6": {
+          "effect": "entrance_wipe",
+          "order": 6,
+          "duration": 0.25,
+          "trigger": "after-previous"
+        }
+      }
+    }
+  }
+}

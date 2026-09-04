@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="content" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p05-header" data-pptx-bounds="80 176 920 262">
+    <text x="80" y="222" font-size="44" fill="#6B6355">第二站</text>
+    <image href="../images/let_chushu.png" x="80" y="252" width="287" height="170" preserveAspectRatio="xMidYMid meet" />
+    <text x="500" y="350" font-family="KaiTi" font-size="100" fill="#33302A">处暑</text>
+    <text x="500" y="415" font-size="44" fill="#6B6355">2026年8月23日 10:19</text>
+  </g>
+  <g id="p05-banner" data-pptx-bounds="80 470 920 170">
+    <g id="p05-banner-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="ribbon2" data-pptx-frame="80 480 920 150" fill="#F1E5CE" stroke="#33302A" stroke-width="4" stroke-linejoin="round">
+    <path d="M 80 630 L 396.25 630 A 28.75 6.25 0 0 0 396.25 617.5 L 338.75 617.5 A 28.75 6.25 0 0 1 338.75 605 L 741.25 605 A 28.75 6.25 0 0 1 741.25 617.5 L 683.75 617.5 A 28.75 6.25 0 0 0 683.75 630 L 1000 630 L 885 567.5 L 1000 505 L 770 505 L 770 486.25 A 28.75 6.25 0 0 0 741.25 480 L 338.75 480 A 28.75 6.25 0 0 0 310 486.25 L 310 505 L 80 505 L 195 567.5 Z" stroke="none" />
+    <path d="M 425 623.75 A 28.75 6.25 0 0 0 396.25 617.5 L 338.75 617.5 A 28.75 6.25 0 0 1 338.75 605 L 425 605 Z M 655 623.75 A 28.75 6.25 0 0 1 683.75 617.5 L 741.25 617.5 A 28.75 6.25 0 0 0 741.25 605 L 655 605 Z" fill="#C6BCA9" stroke="none" />
+    <path d="M 80 630 L 195 567.5 L 80 505 L 310 505 L 310 486.25 A 28.75 6.25 0 0 1 338.75 480 L 741.25 480 A 28.75 6.25 0 0 1 770 486.25 L 770 505 L 770 505 L 1000 505 L 885 567.5 L 1000 630 L 683.75 630 A 28.75 6.25 0 0 1 683.75 617.5 L 741.25 617.5 A 28.75 6.25 0 0 0 741.25 605 L 338.75 605 A 28.75 6.25 0 0 0 338.75 617.5 L 396.25 617.5 A 28.75 6.25 0 0 1 396.25 630 Z M 425 605 L 425 623.75 M 655 623.75 L 655 605 M 310 611.25 L 310 505 M 770 505 L 770 611.25" fill="none" />
+    </g>
+    <text x="540" y="562" text-anchor="middle" font-family="KaiTi" fill="#A8502A">暑气到此为止</text>
+  </g>
+  <g id="p05-hou" data-pptx-bounds="80 650 920 170">
+    <g id="p05-hou-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="80 660 320 140" fill="#FBF6EA" stroke="#33302A" stroke-width="4">
+    <path d="M 80 660 L 330 660 L 400 730 L 330 800 L 80 800 L 150 730 Z" />
+    </g>
+    <g id="p05-hou-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="372 660 320 140" fill="#FBF6EA" stroke="#33302A" stroke-width="4">
+    <path d="M 372 660 L 622 660 L 692 730 L 622 800 L 372 800 L 442 730 Z" />
+    </g>
+    <g id="p05-hou-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="664 660 320 140" fill="#FBF6EA" stroke="#33302A" stroke-width="4">
+    <path d="M 664 660 L 914 660 L 984 730 L 914 800 L 664 800 L 734 730 Z" />
+    </g>
+    <text x="240" y="706" text-anchor="middle" font-size="32" fill="#6B6355">一候</text>
+    <text x="240" y="764" text-anchor="middle" font-size="40" fill="#33302A">鹰乃祭鸟</text>
+    <text x="532" y="706" text-anchor="middle" font-size="32" fill="#6B6355">二候</text>
+    <text x="532" y="764" text-anchor="middle" font-size="40" fill="#33302A">天地始肃</text>
+    <text x="824" y="706" text-anchor="middle" font-size="32" fill="#6B6355">三候</text>
+    <text x="824" y="764" text-anchor="middle" font-size="40" fill="#33302A">禾乃登</text>
+  </g>
+  <g id="p05-visual" data-pptx-bounds="80 850 920 300">
+    <path d="M 120 1090 C 201.1 1088.7 293.5 1081.8 380 1078" fill="none" stroke="#D8C9AC" stroke-width="4" stroke-linecap="round" />
+    <path d="M 140 1120 C 219.0 1111.7 278.5 1120.4 360 1110" fill="none" stroke="#D8C9AC" stroke-width="4" stroke-linecap="round" />
+    <image href="../images/term_chushu.png" x="410" y="860" width="260" height="273" preserveAspectRatio="xMidYMid meet" />
+    <path d="M 700 1090 C 791.7 1092.3 877.1 1076.2 960 1078" fill="none" stroke="#D8C9AC" stroke-width="4" stroke-linecap="round" />
+    <path d="M 720 1120 C 795.6 1121.5 860.8 1120.4 940 1110" fill="none" stroke="#D8C9AC" stroke-width="4" stroke-linecap="round" />
+  </g>
+  <g id="p05-custom" data-pptx-bounds="80 1190 920 330">
+    <text x="80" y="1230" font-size="44" fill="#A8502A">习俗</text>
+    <text x="80" y="1300" fill="#33302A">吃鸭子——处暑送鸭，无病各家；<tspan x="80" dy="78">傍晚放一盏河灯，悼念逝者，也</tspan><tspan x="80" dy="78">祝家里安康。</tspan></text>
+  </g>
+  <g id="p05-action" data-pptx-bounds="80 1540 920 200">
+    <path d="M 82 1556 C 260 1550 420 1562 600 1554 S 862 1548 998 1560" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+    <text x="80" y="1622" font-size="68" fill="#A8502A">暑气打包退场，找个傍晚<tspan x="80" dy="90">去水边，把一盏灯放走</tspan></text>
+  </g>
+</svg>

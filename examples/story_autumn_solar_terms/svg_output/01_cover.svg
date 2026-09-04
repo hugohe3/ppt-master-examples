@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="cover" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="cover-masthead" data-pptx-bounds="80 176 840 196">
+    <image href="../images/let_cover.png" x="80" y="186" width="760" height="106" preserveAspectRatio="xMidYMid meet" />
+    <path d="M82 344 C214 335 318 353 448 342 S702 332 858 347" fill="none" stroke="#A8502A" stroke-width="4" stroke-linecap="round" />
+    <path d="M96 360 C226 353 336 368 462 358 S708 350 842 363" fill="none" stroke="#D8C9AC" stroke-width="3" stroke-linecap="round" />
+  </g>
+  <g id="cover-title" data-pptx-bounds="80 468 920 264">
+    <text x="80" y="560" font-family="KaiTi" font-size="100" fill="#33302A">二十四节气<tspan x="80" dy="125">手账·秋</tspan></text>
+  </g>
+  <g id="cover-subtitle" data-pptx-bounds="80 740 920 200">
+    <text x="80" y="810" font-family="KaiTi" font-size="72" fill="#A8502A">立秋到霜降<tspan x="80" dy="90">六个可以分别过的日子</tspan></text>
+  </g>
+  <g id="cover-meta" data-pptx-bounds="80 946 920 136" fill="#6B6355">
+    <text x="80" y="990" font-size="44">2026.8.7 — 2026.10.23</text>
+    <text x="80" y="1050" font-size="32">日期与三候原文均有出处，见末页</text>
+  </g>
+  <g id="cover-doodles" data-pptx-bounds="80 1140 920 580">
+    <path d="M104 1236 C268 1198 402 1276 556 1232 S848 1180 992 1246" fill="none" stroke="#D8C9AC" stroke-width="3" stroke-dasharray="8,10" stroke-linecap="round" />
+    <image href="../images/ph_goose.png" x="706" y="1150" width="240" height="191" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/term_shuangjiang.png" x="104" y="1330" width="300" height="281" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/decor_star.png" x="452" y="1352" width="190" height="189" preserveAspectRatio="xMidYMid meet" />
+    <image href="../images/let_seal.png" x="760" y="1500" width="200" height="201" preserveAspectRatio="xMidYMid meet" />
+    <text x="104" y="1690" font-size="32" fill="#6B6355">秋天不是一整块，它有六个可以分别过的日子。</text>
+  </g>
+</svg>

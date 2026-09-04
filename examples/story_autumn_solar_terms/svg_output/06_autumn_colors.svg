@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" data-pptx-page-role="content" font-family="Microsoft YaHei" font-size="56">
+  <defs>
+    <pattern id="paperGrain" data-pptx-pattern="pct5" data-pptx-fg="#E4D6B8" data-pptx-bg="#FBF6EA" patternUnits="userSpaceOnUse" width="12" height="12">
+      <rect x="0" y="0" width="12" height="12" fill="#FBF6EA" />
+      <circle cx="3" cy="3" r="1" fill="#E4D6B8" />
+    </pattern>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1080" height="1920" fill="url(#paperGrain)" />
+  <g id="p06-header" data-pptx-bounds="80 176 920 214">
+    <text x="80" y="222" font-size="44" fill="#6B6355">呼吸页</text>
+    <text x="80" y="340" font-family="KaiTi" font-size="100" fill="#33302A">秋天的颜色</text>
+    <path d="M 84 378 C 239.7 373.4 394.2 380.3 560 374" fill="none" stroke="#E39A1F" stroke-width="5" stroke-linecap="round" />
+  </g>
+  <g id="p06-band-1" data-pptx-bounds="112 530 868 130">
+    <path d="M 126.0 536.7 C 375.7 536.4 703.8 546.6 946.2 537.4 C 954.5 577.4 947.1 652.6 958.7 645.5 C 699.8 654.6 371.4 649.5 127.5 649.9 C 131.8 611.3 128.7 544.5 130.1 542.0 Z" fill="#D9755A" stroke="none" />
+    <path d="M 125.7 541.1 C 367.2 538.9 705.1 539.2 948.4 545.4 C 949.0 585.9 944.3 650.6 940.0 649.5 C 695.1 655.9 367.0 646.3 113.4 649.8 C 126.8 602.2 119.3 547.8 114.7 548.2 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="176" y="616" fill="#33302A">立秋 · 瓜瓤红</text>
+  </g>
+  <g id="p06-band-2" data-pptx-bounds="112 670 868 130">
+    <path d="M 122.4 680.0 C 369.1 684.5 700.4 680.7 958.0 678.6 C 958.6 726.4 952.7 789.8 953.2 786.0 C 711.2 786.7 380.6 792.9 119.4 784.6 C 125.7 749.2 121.5 681.6 124.1 684.0 Z" fill="#E3B45C" stroke="none" />
+    <path d="M 117.5 685.7 C 360.9 690.8 702.7 691.0 942.7 679.8 C 939.8 722.9 939.3 794.7 944.1 796.4 C 701.8 789.9 363.1 789.9 113.4 794.1 C 115.7 743.9 125.4 683.1 126.2 690.7 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="176" y="756" fill="#33302A">处暑 · 鸭黄</text>
+  </g>
+  <g id="p06-band-3" data-pptx-bounds="112 810 868 130">
+    <path d="M 132.7 813.8 C 377.0 819.8 710.4 818.7 957.9 815.2 C 958.9 862.0 947.6 925.8 953.8 921.5 C 702.6 921.2 367.8 923.4 122.2 924.8 C 129.9 883.6 131.0 825.6 131.5 826.3 Z" fill="#9FB392" stroke="none" />
+    <path d="M 114.0 825.3 C 374.7 821.8 698.8 822.2 949.4 826.6 C 947.4 873.9 948.8 929.8 944.3 933.9 C 700.9 928.1 372.1 931.3 123.8 926.3 C 117.4 882.0 118.8 820.6 117.9 820.1 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="176" y="896" fill="#33302A">白露 · 露水青</text>
+  </g>
+  <g id="p06-band-4" data-pptx-bounds="112 950 868 130">
+    <path d="M 127.6 965.5 C 373.2 963.0 710.3 960.3 955.3 963.2 C 957.0 996.7 947.4 1075.0 955.5 1064.7 C 707.6 1063.4 371.8 1067.2 122.2 1062.9 C 126.1 1026.9 123.5 962.2 132.7 953.8 Z" fill="#E39A1F" stroke="none" />
+    <path d="M 116.9 964.0 C 368.7 963.5 699.4 963.8 946.3 959.8 C 940.5 1003.8 949.9 1065.4 943.9 1070.9 C 698.9 1071.1 372.8 1078.1 121.0 1067.8 C 125.3 1033.8 119.5 968.2 125.4 970.3 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="176" y="1036" fill="#33302A">秋分 · 稻穗金</text>
+  </g>
+  <g id="p06-band-5" data-pptx-bounds="112 1090 868 130">
+    <path d="M 131.8 1094.9 C 374.6 1099.8 710.6 1098.3 951.3 1101.1 C 950.3 1149.0 957.3 1211.1 945.8 1214.9 C 704.9 1209.4 374.4 1208.2 132.0 1204.8 C 121.0 1171.8 122.7 1096.9 125.1 1105.6 Z" fill="#D9A94A" stroke="none" />
+    <path d="M 125.0 1104.2 C 362.4 1098.7 695.5 1109.3 952.1 1101.9 C 945.2 1146.6 951.9 1211.2 943.4 1212.0 C 691.2 1212.2 362.6 1216.5 119.1 1218.3 C 118.9 1165.6 126.9 1109.2 113.0 1110.8 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="176" y="1176" fill="#33302A">寒露 · 菊花黄</text>
+  </g>
+  <g id="p06-band-6" data-pptx-bounds="112 1230 868 130">
+    <path d="M 120.3 1246.3 C 368.9 1243.4 709.0 1243.5 949.2 1237.9 C 955.1 1289.7 954.3 1348.6 950.4 1346.7 C 707.3 1347.0 374.3 1349.8 127.9 1341.6 C 122.2 1307.7 127.0 1244.7 119.7 1236.2 Z" fill="#EDE0C6" stroke="none" />
+    <path d="M 119.3 1243.1 C 361.4 1247.7 700.6 1246.4 945.6 1246.4 C 951.4 1289.9 943.8 1357.6 943.4 1346.2 C 694.7 1352.0 372.9 1349.9 122.3 1348.8 C 113.4 1315.5 121.0 1243.5 122.5 1238.8 Z" fill="none" stroke="#33302A" stroke-width="4" stroke-linejoin="round" />
+    <text x="176" y="1316" fill="#33302A">霜降 · 霜白</text>
+  </g>
+  <g id="p06-message" data-pptx-bounds="80 1420 920 110">
+    <text x="80" y="1490" font-size="68" fill="#A8502A">秋天的颜色是一路凉下去的</text>
+  </g>
+  <g id="p06-note" data-pptx-bounds="80 1560 920 90">
+    <text x="80" y="1610" font-size="32" fill="#6B6355">颜色是这本手账的说法，不是节气本身的规定</text>
+  </g>
+</svg>
