@@ -80,6 +80,14 @@
             "to": "p04-header"
           }
         }
+      },
+      "groups": {
+        "p04-radial": {
+          "effect": "entrance_zoom",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        }
       }
     },
     "07_bailu": {
@@ -88,7 +96,7 @@
           "effects": [
             {
               "effect": "entrance_fade",
-              "order": 1,
+              "order": 2,
               "duration": 0.3,
               "trigger": "after-previous"
             },
@@ -97,11 +105,17 @@
               "effect_options": {
                 "relative": true
               },
-              "order": 2,
+              "order": 3,
               "duration": 2.4,
               "trigger": "after-previous"
             }
           ]
+        },
+        "p07-route": {
+          "effect": "entrance_zoom",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous"
         }
       }
     },
@@ -226,6 +240,42 @@
           "effect": "entrance_wipe",
           "order": 6,
           "duration": 0.25,
+          "trigger": "after-previous"
+        },
+        "p13-seal": {
+          "effect": "entrance_zoom",
+          "order": 7,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "05_chushu": {
+      "groups": {
+        "p05-visual": {
+          "effect": "entrance_float",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "08_qiufen": {
+      "groups": {
+        "p08-visual": {
+          "effect": "entrance_zoom",
+          "order": 1,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "10_hanlu": {
+      "groups": {
+        "p10-climb": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.7,
           "trigger": "after-previous"
         }
       }
