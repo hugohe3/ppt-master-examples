@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="100%" stop-color="#0C1729" />
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect id="p08-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)" />
+  <path id="p08-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8" />
+
+  <g id="p08-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">07 / 应用结构</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">一个 WebGPU 应用大致要走五步</text>
+    <rect x="740" y="128" width="484" height="2" fill="url(#titleRule)" />
+  </g>
+
+  <g id="p08-steps" data-pptx-bounds="56 176 1164 98">
+    <g id="p08-step-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="56 180 244 90" fill="#0F2740" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.5">
+    <path d="M 56 180 L 255 180 L 300 225 L 255 270 L 56 270 L 101 225 Z" /></g>
+    <text x="178" y="216" font-family="Consolas" font-size="16" text-anchor="middle" fill="#38BDF8">01</text>
+    <text x="178" y="248" font-size="22" font-weight="bold" text-anchor="middle" fill="#E8EEF9">着色器模块</text>
+    <g id="p08-step-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="285 180 244 90" fill="#0F2740" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.5">
+    <path d="M 285 180 L 484 180 L 529 225 L 484 270 L 285 270 L 330 225 Z" /></g>
+    <text x="407" y="216" font-family="Consolas" font-size="16" text-anchor="middle" fill="#38BDF8">02</text>
+    <text x="407" y="248" font-size="22" font-weight="bold" text-anchor="middle" fill="#E8EEF9">画布上下文</text>
+    <g id="p08-step-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="514 180 244 90" fill="#0F2740" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.5">
+    <path d="M 514 180 L 713 180 L 758 225 L 713 270 L 514 270 L 559 225 Z" /></g>
+    <text x="636" y="216" font-family="Consolas" font-size="16" text-anchor="middle" fill="#38BDF8">03</text>
+    <text x="636" y="248" font-size="22" font-weight="bold" text-anchor="middle" fill="#E8EEF9">数据资源</text>
+    <g id="p08-step-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="743 180 244 90" fill="#0F2740" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.5">
+    <path d="M 743 180 L 942 180 L 987 225 L 942 270 L 743 270 L 788 225 Z" /></g>
+    <text x="865" y="216" font-family="Consolas" font-size="16" text-anchor="middle" fill="#38BDF8">04</text>
+    <text x="865" y="248" font-size="22" font-weight="bold" text-anchor="middle" fill="#E8EEF9">创建管线</text>
+    <g id="p08-step-5" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="972 180 244 90" fill="#0B3B5C" stroke="#38BDF8" stroke-width="2">
+    <path d="M 972 180 L 1171 180 L 1216 225 L 1171 270 L 972 270 L 1017 225 Z" /></g>
+    <text x="1094" y="216" font-family="Consolas" font-size="16" text-anchor="middle" fill="#38BDF8">05</text>
+    <text x="1094" y="248" font-size="22" font-weight="bold" text-anchor="middle" fill="#E8EEF9">跑一个 pass</text>
+  </g>
+  <g id="p08-details" data-pptx-bounds="56 296 1164 116" font-size="18" fill="#8DA2C0">
+    <text x="60" y="320">用 WGSL 写好着色</text><text x="60" y="346">器代码,打包进一</text><text x="60" y="372">个或多个 shader</text><text x="60" y="398">module。</text><text x="289" y="320">拿到 &lt;canvas&gt; 的</text><text x="289" y="346">webgpu 上下文并</text><text x="289" y="372">配置它;纯计算的</text><text x="289" y="398">程序不需要这步。</text><text x="518" y="320">要被管线处理的数</text><text x="518" y="346">据,得先放进 GPU</text><text x="518" y="372">buffer 或 texture</text><text x="518" y="398">里才能被访问。</text><text x="747" y="320">用描述符写清数据</text><text x="747" y="346">结构、绑定、着色</text><text x="747" y="372">器与资源布局,再</text><text x="747" y="398">据此创建管线。</text><text x="976" y="320">创建编码器、下达</text><text x="976" y="346">命令、封装成命令</text><text x="976" y="372">缓冲,最后提交到</text><text x="976" y="398">设备的命令队列。</text></g>
+  <g id="p08-pass" data-pptx-bounds="56 440 1164 228">
+    <rect x="56" y="444" width="1164" height="220" rx="6" fill="#101B2C" stroke="#22354F" stroke-width="1.5" />
+    <text x="80" y="486" font-size="24" font-weight="bold" fill="#E8EEF9">第 05 步展开:<tspan fill="#38BDF8">一个 pass 的五个子步骤</tspan></text>
+    <rect x="56" y="510" width="212" height="90" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+    <text x="162" y="546" font-family="Consolas" font-size="16" text-anchor="middle" fill="#CFE0F2">command encoder</text>
+    <text x="162" y="576" font-size="18" text-anchor="middle" fill="#8DA2C0">创建命令编码器</text>
+    <rect x="295" y="510" width="212" height="90" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+    <text x="401" y="546" font-family="Consolas" font-size="16" text-anchor="middle" fill="#CFE0F2">pass encoder</text>
+    <text x="401" y="576" font-size="18" text-anchor="middle" fill="#8DA2C0">创建 pass 编码器</text>
+    <rect x="534" y="510" width="212" height="90" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+    <text x="640" y="546" font-family="Consolas" font-size="16" text-anchor="middle" fill="#CFE0F2">commands</text>
+    <text x="640" y="576" font-size="18" text-anchor="middle" fill="#8DA2C0">下达绘制命令</text>
+    <rect x="773" y="510" width="212" height="90" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+    <text x="879" y="546" font-family="Consolas" font-size="16" text-anchor="middle" fill="#CFE0F2">command buffer</text>
+    <text x="879" y="576" font-size="18" text-anchor="middle" fill="#8DA2C0">封装命令缓冲</text>
+    <rect x="1012" y="510" width="212" height="90" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+    <text x="1118" y="546" font-family="Consolas" font-size="16" text-anchor="middle" fill="#CFE0F2">queue.submit()</text>
+    <text x="1118" y="576" font-size="18" text-anchor="middle" fill="#8DA2C0">提交给 GPU</text>
+    <g id="p08-sub-arrow-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="271 536 20 18" fill="#3E6E9E" stroke="none">
+    <path d="M 271 540.5 L 282 540.5 L 282 536 L 291 545 L 282 554 L 282 549.5 L 271 549.5 Z" /></g>
+    <g id="p08-sub-arrow-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="510 536 20 18" fill="#3E6E9E" stroke="none">
+    <path d="M 510 540.5 L 521 540.5 L 521 536 L 530 545 L 521 554 L 521 549.5 L 510 549.5 Z" /></g>
+    <g id="p08-sub-arrow-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="749 536 20 18" fill="#3E6E9E" stroke="none">
+    <path d="M 749 540.5 L 760 540.5 L 760 536 L 769 545 L 760 554 L 760 549.5 L 749 549.5 Z" /></g>
+    <g id="p08-sub-arrow-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="988 536 20 18" fill="#3E6E9E" stroke="none">
+    <path d="M 988 540.5 L 999 540.5 L 999 536 L 1008 545 L 999 554 L 999 549.5 L 988 549.5 Z" /></g>
+    <text x="80" y="640" font-size="18" fill="#6F8399">基础 demo 只有一条管线;复杂应用通常会为不同用途准备多条管线。</text>
+  </g>
+</svg>

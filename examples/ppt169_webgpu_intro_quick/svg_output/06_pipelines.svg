@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0C1729"/>
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p06-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)"/>
+  <path id="p06-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8"/>
+
+  <g id="p06-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">05 / 管线</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">WebGPU 目前有两类管线</text>
+    <rect x="660" y="128" width="564" height="2" fill="url(#titleRule)"/>
+  </g>
+
+  <g id="p06-intro" data-pptx-bounds="56 168 1168 44">
+    <text x="56" y="200" font-size="30" fill="#8DA2C0">管线是一个包含若干可编程阶段的逻辑结构,这些阶段跑完,程序的活就干完了。</text>
+  </g>
+
+  <g id="p06-render-pipeline" data-pptx-bounds="56 232 568 372">
+    <rect x="56" y="232" width="568" height="372" rx="6" fill="#101B2C" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.6"/>
+    <g id="p06-badge-render" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="80 256 48 48" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5">
+      <path d="M 80 280 L 92 256 L 116 256 L 128 280 L 116 304 L 92 304 Z"/>
+    </g>
+    <use data-icon="tabler-outline/player-play" x="92" y="268" width="24" height="24" fill="#38BDF8" stroke-width="2"/>
+    <text x="148" y="278" font-size="24" font-weight="bold" fill="#E8EEF9">渲染管线</text>
+    <text x="148" y="302" font-family="Consolas" font-size="16" fill="#7E96B4">render pipeline</text>
+    <text x="80" y="342" font-size="18" fill="#8DA2C0">把图形画出来,通常画进 &lt;canvas&gt;,也可以离屏渲染。</text>
+    <g id="p06-stage-vertex">
+      <rect x="80" y="366" width="520" height="106" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5"/>
+      <text x="104" y="396" font-family="Consolas" font-size="19" fill="#CFE0F2">vertex stage</text>
+      <text x="104" y="424" font-size="16" fill="#A8C0DA">顶点着色器按位置数据在 3D 空间摆放顶点,<tspan x="104" dy="24">装配成三角形等图元,再由 GPU 光栅化,</tspan><tspan x="104" dy="24">算出每个图元覆盖画布上的哪些像素。</tspan></text>
+    </g>
+    <g id="p06-stage-fragment">
+      <rect x="80" y="486" width="520" height="94" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5"/>
+      <text x="104" y="516" font-family="Consolas" font-size="19" fill="#CFE0F2">fragment stage</text>
+      <text x="104" y="544" font-size="16" fill="#A8C0DA">片元着色器为图元覆盖的每个像素算颜色,常<tspan x="104" dy="24">以纹理提供表面细节与虚拟光源的位置颜色。</tspan></text>
+    </g>
+  </g>
+
+  <g id="p06-compute-pipeline" data-pptx-bounds="656 232 568 372">
+    <rect x="656" y="232" width="568" height="372" rx="6" fill="#101B2C" stroke="#A78BFA" stroke-width="1.5" stroke-opacity="0.6"/>
+    <g id="p06-badge-compute" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="680 256 48 48" fill="#2A2140" stroke="#A78BFA" stroke-width="1.5">
+      <path d="M 680 280 L 692 256 L 716 256 L 728 280 L 716 304 L 692 304 Z"/>
+    </g>
+    <use data-icon="tabler-outline/cpu" x="692" y="268" width="24" height="24" fill="#A78BFA" stroke-width="2"/>
+    <text x="748" y="278" font-size="24" font-weight="bold" fill="#E8EEF9">计算管线</text>
+    <text x="748" y="302" font-family="Consolas" font-size="16" fill="#7E96B4">compute pipeline</text>
+    <text x="680" y="342" font-size="18" fill="#8DA2C0">用于通用计算,只包含一个阶段。</text>
+    <g id="p06-stage-compute">
+      <rect x="680" y="366" width="520" height="106" rx="8" fill="#241A3B" stroke="#6D5AA8" stroke-width="1.5"/>
+      <text x="704" y="396" font-family="Consolas" font-size="19" fill="#D9CFF5">compute stage</text>
+      <text x="704" y="424" font-size="16" fill="#BEB2DE">计算着色器拿到通用数据,按指定的工作组数<tspan x="704" dy="24">量并行处理,再把结果写回一个或多个 buffer。</tspan></text>
+    </g>
+    <g id="p06-compute-note">
+      <use data-icon="tabler-outline/database" x="680" y="500" width="28" height="28" fill="#A78BFA" stroke-width="2"/>
+      <text x="722" y="522" font-size="24" fill="#E8EEF9">这些 buffer 可以装<tspan fill="#A78BFA" font-weight="bold">任何类型</tspan>的数据。</text>
+      <text x="680" y="566" font-size="18" fill="#6F8399">计算管线不画东西,所以不需要指定图元类型。</text>
+    </g>
+  </g>
+
+  <g id="p06-wgsl" data-pptx-bounds="56 616 1168 68">
+    <line x1="56" y1="622" x2="1224" y2="622" stroke="#233350" stroke-width="1.5"/>
+    <text x="56" y="662" font-size="24" fill="#8DA2C0">着色器是 GPU 处理的一组指令,用类 Rust 的低级语言 <tspan fill="#38BDF8" font-weight="bold">WGSL</tspan>(WebGPU Shading Language)编写。</text>
+  </g>
+</svg>

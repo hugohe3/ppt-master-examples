@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0C1729"/>
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p05-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)"/>
+  <path id="p05-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8"/>
+
+  <g id="p05-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">04 / 特性档位</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">core 与 compatibility:两档能力</text>
+    <rect x="800" y="128" width="424" height="2" fill="url(#titleRule)"/>
+  </g>
+
+  <g id="p05-core" data-pptx-bounds="56 184 568 316">
+    <rect x="56" y="184" width="568" height="316" rx="6" fill="#101B2C" stroke="#22354F" stroke-width="1.5"/>
+    <g id="p05-badge-core" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="80 208 120 44" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5">
+      <path d="M 80 215.33 A 7.33 7.33 0 0 0 87.33 208 L 192.67 208 A 7.33 7.33 0 0 0 200 215.33 L 200 244.67 A 7.33 7.33 0 0 0 192.67 252 L 87.33 252 A 7.33 7.33 0 0 0 80 244.67 Z"/>
+    </g>
+    <text x="140" y="237" font-family="Consolas" font-size="19" text-anchor="middle" fill="#E8EEF9">core</text>
+    <text x="216" y="237" font-size="20" fill="#38BDF8">默认档</text>
+    <text x="80" y="300" font-size="24" fill="#E8EEF9">默认情况下,一个 GPUAdapter 支持<tspan x="80" dy="36">全部 core WebGPU 特性与限制。</tspan></text>
+    <text x="80" y="400" font-size="24" fill="#8DA2C0">面向拥有现代平台图形 API 的设备。</text>
+    <text x="80" y="454" font-size="18" fill="#6F8399">检测方式:适配器或设备是否带 core-features-and-limits</text>
+  </g>
+
+  <g id="p05-compat" data-pptx-bounds="656 184 568 316">
+    <rect x="656" y="184" width="568" height="316" rx="6" fill="#101B2C" stroke="#22354F" stroke-width="1.5"/>
+    <g id="p05-badge-compat" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="680 208 236 44" fill="#2A2140" stroke="#A78BFA" stroke-width="1.5">
+      <path d="M 680 215.33 A 7.33 7.33 0 0 0 687.33 208 L 908.67 208 A 7.33 7.33 0 0 0 916 215.33 L 916 244.67 A 7.33 7.33 0 0 0 908.67 252 L 687.33 252 A 7.33 7.33 0 0 0 680 244.67 Z"/>
+    </g>
+    <text x="798" y="237" font-family="Consolas" font-size="19" text-anchor="middle" fill="#E8EEF9">compatibility</text>
+    <text x="932" y="237" font-size="20" fill="#A78BFA">可选档</text>
+    <text x="680" y="300" font-size="24" fill="#E8EEF9">只支持能在 OpenGL ES 3.1、<tspan x="680" dy="36">Direct3D 11 等更老图形 API 上</tspan><tspan x="680" dy="36">运行的<tspan fill="#A78BFA" font-weight="bold">受限子集</tspan>。</tspan></text>
+    <text x="680" y="440" font-size="18" fill="#8DA2C0">受限应用仍然是合法的 core 应用,因此在所有<tspan x="680" dy="26">支持 core WebGPU 的浏览器上都能运行。</tspan></text>
+  </g>
+
+  <g id="p05-code-a" data-pptx-bounds="56 516 568 148">
+    <rect x="56" y="520" width="568" height="140" rx="6" fill="#0B1120" stroke="#22354F" stroke-width="1.5"/>
+    <text x="80" y="548" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#6F8399">js · 请求兼容模式适配器</text>
+    <text x="80" y="586" font-family="Consolas" font-size="19" fill="#BFD6EE" xml:space="preserve">const adapter = await navigator.gpu<tspan x="80" dy="28">  .requestAdapter({ featureLevel: "compatibility" });</tspan></text>
+  </g>
+
+  <g id="p05-code-b" data-pptx-bounds="656 516 568 148">
+    <rect x="656" y="520" width="568" height="140" rx="6" fill="#0B1120" stroke="#22354F" stroke-width="1.5"/>
+    <text x="680" y="548" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#6F8399">js · 判断当前跑在哪一档</text>
+    <text x="680" y="586" font-family="Consolas" font-size="19" fill="#BFD6EE" xml:space="preserve">const isCore = device.features<tspan x="680" dy="28">  .has("core-features-and-limits");</tspan></text>
+  </g>
+
+  <text id="p05-footnote" data-pptx-role="footer" x="56" y="694" font-size="15" fill="#5D7089">来源:MDN《WebGPU API》WebGPU compatibility mode</text>
+</svg>

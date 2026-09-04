@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="100%" stop-color="#0D1A31" />
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15" />
+    </linearGradient>
+    <filter id="cyanGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b" />
+      <feFlood flood-color="#38BDF8" flood-opacity="0.45" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect id="p12-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)" />
+  <path id="p12-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8" />
+
+  <g id="p12-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">11 / 现状与来源</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">今天能用到什么程度</text>
+    <rect x="600" y="128" width="624" height="2" fill="url(#titleRule)" />
+  </g>
+
+  <g id="p12-status-1" data-pptx-bounds="56 186 364 214">
+    <rect x="56" y="186" width="364" height="214" rx="6" fill="#101B2C" stroke="#F59E0B" stroke-width="1.5" stroke-opacity="0.55" />
+    
+  <g transform="translate(84, 212) scale(1.25)" fill="none" stroke="#F59E0B" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+    <text x="84" y="286" font-size="24" font-weight="bold" fill="#F59E0B">Limited availability</text>
+    <text fill="#8DA2C0" font-size="18" x="84" y="318">该特性不是 Baseline,</text><text fill="#8DA2C0" font-size="18" x="84" y="344">因为它在一些使用最广</text><text fill="#8DA2C0" font-size="18" x="84" y="370">泛的浏览器里无法工作。</text></g>
+
+  <g id="p12-status-2" data-pptx-bounds="456 186 364 214">
+    <rect x="456" y="186" width="364" height="214" rx="6" fill="#101B2C" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.55" />
+    
+  <g transform="translate(484, 212) scale(1.25)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M5 13a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-6" />
+    <path d="M11 16a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+    <path d="M8 11v-4a4 4 0 1 1 8 0v4" />
+  </g>
+    <text x="484" y="286" font-size="24" font-weight="bold" fill="#38BDF8">Secure context</text>
+    <text fill="#8DA2C0" font-size="18" x="484" y="318">只在安全上下文(HTTPS)</text><text fill="#8DA2C0" font-size="18" x="484" y="344">里可用 —— 在部分或全部</text><text fill="#8DA2C0" font-size="18" x="484" y="370">支持它的浏览器中如此。</text></g>
+
+  <g id="p12-status-3" data-pptx-bounds="856 186 368 214">
+    <rect x="856" y="186" width="368" height="214" rx="6" fill="#0E1626" stroke="#3A4A63" stroke-width="1.5" stroke-dasharray="4,4" />
+    
+  <g transform="translate(884, 212) scale(1.25)" fill="none" stroke="#7E93AD" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M10 10l4 4m0 -4l-4 4" />
+  </g>
+    <text x="884" y="286" font-size="24" font-weight="bold" fill="#7E93AD">具体版本号:NO DATA</text>
+    <text fill="#6F8399" font-size="18" x="884" y="318">MDN 的兼容性表由脚本</text><text fill="#6F8399" font-size="18" x="884" y="344">渲染,本次抓取到的页</text><text fill="#6F8399" font-size="18" x="884" y="370">面内容里没有版本数据。</text></g>
+
+  <g id="p12-nodata" data-pptx-bounds="56 416 1168 48">
+    <text x="56" y="446" font-size="18" fill="#6F8399">另一处 <tspan fill="#7E93AD" font-weight="bold">NO DATA</tspan>:compatibility mode 的确切限制清单 —— 本页只给出外部文档链接,没有列出内容。</text>
+  </g>
+
+  <g id="p12-takeaway" data-pptx-bounds="56 476 1168 96">
+    <g id="p12-takeaway-panel" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="56 476 1168 96" data-pptx-av-adj1="val 22000" data-pptx-av-adj2="val 0" fill="#0B3B5C" stroke="#38BDF8" stroke-width="2">
+      <path d="M 77.12 476 L 1224 476 L 1224 476 L 1224 550.88 L 1202.88 572 L 56 572 L 56 572 L 56 497.12 Z" />
+    </g>
+    <text x="96" y="516" font-size="30" font-weight="bold" fill="#E8EEF9" filter="url(#cyanGlow)">先做能力检测,再写渲染代码</text>
+    <text x="96" y="552" font-size="24" fill="#BFD6EE">拿不到 <tspan font-family="Consolas" fill="#38BDF8">navigator.gpu</tspan> 或适配器时直接走降级路径 —— 这是现状唯一能落到代码上的结论。</text>
+  </g>
+
+  <g id="p12-source" data-pptx-bounds="56 588 1168 100">
+    <line x1="56" y1="592" x2="1224" y2="592" stroke="#233350" stroke-width="1.5" />
+    <text x="56" y="628" font-size="18" fill="#6F8399">本篇全部事实来自单一来源:MDN Web Docs《WebGPU API》概览页(页面最后修改于 2026 年 9 月 2 日)。</text>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API">
+      <g id="p12-source-link">
+        <rect x="56" y="646" width="576" height="40" rx="6" fill="#132238" stroke="#38BDF8" stroke-width="1.5" />
+        
+  <g transform="translate(72, 656) scale(0.833333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M9 15l6 -6" />
+    <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
+    <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />
+  </g>
+        <text x="102" y="673" font-family="Consolas" font-size="17" fill="#7FD4FA">developer.mozilla.org/en-US/docs/Web/API/WebGPU_API</text>
+      </g>
+    </a>
+  </g>
+</svg>

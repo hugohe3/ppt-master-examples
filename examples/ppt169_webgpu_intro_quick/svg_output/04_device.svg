@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0C1729"/>
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p04-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)"/>
+  <path id="p04-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8"/>
+
+  <g id="p04-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">03 / 入口</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">三步拿到设备:gpu → adapter → device</text>
+    <rect x="880" y="128" width="344" height="2" fill="url(#titleRule)"/>
+  </g>
+
+  <g id="p04-band-webgpu" data-pptx-bounds="56 176 584 324">
+    <rect x="56" y="176" width="584" height="324" rx="4" fill="#0E1A2E" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.55"/>
+    <rect x="80" y="206" width="536" height="60" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5"/>
+    <text x="104" y="232" font-family="Consolas" font-size="19" fill="#CFE0F2">navigator.gpu</text>
+    <text x="104" y="255" font-size="16" fill="#7E96B4">取得当前上下文的 GPU 对象</text>
+    <g id="p04-flow-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="340 272 16 26" fill="#38BDF8" stroke="none">
+      <path d="M 340 290 L 344 290 L 344 272 L 352 272 L 352 290 L 356 290 L 348 298 Z"/>
+    </g>
+    <rect x="80" y="302" width="536" height="60" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5"/>
+    <text x="104" y="328" font-family="Consolas" font-size="19" fill="#CFE0F2">GPU.requestAdapter()</text>
+    <text x="104" y="351" font-size="16" fill="#7E96B4">取得适配器,不传参就是默认适配器</text>
+    <g id="p04-flow-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="340 368 16 26" fill="#38BDF8" stroke="none">
+      <path d="M 340 386 L 344 386 L 344 368 L 352 368 L 352 386 L 356 386 L 348 394 Z"/>
+    </g>
+    <rect x="80" y="398" width="536" height="60" rx="8" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="104" y="424" font-family="Consolas" font-size="19" fill="#E8EEF9">GPUAdapter.requestDevice()</text>
+    <text x="104" y="447" font-size="16" fill="#8CC6EA">取得逻辑设备,可用描述符指定 features 与 limits</text>
+    <text x="80" y="484" font-size="18" fill="#8DA2C0">两个方法的参数都可以省略,默认值对多数场景已经够用。</text>
+  </g>
+
+  <g id="p04-notes" data-pptx-bounds="56 512 584 152">
+    <use data-icon="tabler-outline/circle-check" x="56" y="524" width="26" height="26" fill="#34D399" stroke-width="2"/>
+    <text x="94" y="545" font-size="24" fill="#E8EEF9"><tspan font-family="Consolas" fill="#38BDF8">GPUDevice</tspan> 是访问一切功能的起点</text>
+    <use data-icon="tabler-outline/browser" x="56" y="586" width="26" height="26" fill="#8DA2C0" stroke-width="2"/>
+    <text x="94" y="607" font-size="24" fill="#8DA2C0">在 Worker 里改用 <tspan font-family="Consolas">WorkerNavigator.gpu</tspan></text>
+    <text x="56" y="652" font-size="15" fill="#5D7089">来源:MDN《WebGPU API》Accessing a device</text>
+  </g>
+
+  <g id="p04-code" data-pptx-bounds="664 176 560 488">
+    <g id="p04-code-panel" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="664 176 560 488" data-pptx-av-adj="val 8000" fill="#0B1120" stroke="#22354F" stroke-width="1.5">
+      <path d="M 664 176 L 1184.96 176 L 1224 215.04 L 1224 664 L 664 664 Z"/>
+    </g>
+    <text x="692" y="210" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#6F8399">js · 特性检测 + 取设备</text>
+    <line x1="692" y1="226" x2="1196" y2="226" stroke="#22354F" stroke-width="1"/>
+    <text x="692" y="262" font-family="Consolas" font-size="17" fill="#BFD6EE" xml:space="preserve">async function init() {<tspan x="692" dy="28">  if (!navigator.gpu) {</tspan><tspan x="692" dy="28">    throw Error("WebGPU not supported.");</tspan><tspan x="692" dy="28">  }</tspan><tspan x="692" dy="28">  let adapter;</tspan><tspan x="692" dy="28">  try {</tspan><tspan x="692" dy="28">    adapter = await navigator.gpu.requestAdapter();</tspan><tspan x="692" dy="28">  } catch (error) {</tspan><tspan x="692" dy="28">    console.error(error);</tspan><tspan x="692" dy="28">  }</tspan><tspan x="692" dy="28">  if (!adapter) {</tspan><tspan x="692" dy="28">    throw Error("Couldn't request WebGPU adapter.");</tspan><tspan x="692" dy="28">  }</tspan><tspan x="692" dy="28">  const device = await adapter.requestDevice();</tspan><tspan x="692" dy="28">}</tspan></text>
+  </g>
+</svg>

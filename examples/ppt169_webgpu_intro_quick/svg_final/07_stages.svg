@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="100%" stop-color="#0C1729" />
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect id="p07-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)" />
+  <path id="p07-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8" />
+
+  <g id="p07-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">06 / 渲染管线</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">顶点阶段与片元阶段,以及写它们的 WGSL</text>
+    <rect x="940" y="128" width="284" height="2" fill="url(#titleRule)" />
+  </g>
+
+  <g id="p07-render-pipeline" data-pptx-bounds="56 176 504 504">
+    <rect x="56" y="176" width="504" height="504" rx="6" fill="#101B2C" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.6" />
+    <g id="p07-badge-render" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="80 198 48 48" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5">
+      <path d="M 80 222 L 92 198 L 116 198 L 128 222 L 116 246 L 92 246 Z" />
+    </g>
+    
+  <g transform="translate(92, 210)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M7 4v16l13 -8l-13 -8" />
+  </g>
+    <text x="148" y="220" font-size="24" font-weight="bold" fill="#E8EEF9">渲染管线</text>
+    <text x="148" y="244" font-family="Consolas" font-size="16" fill="#7E96B4">render pipeline</text>
+    <g id="p07-stage-vertex">
+      <rect x="80" y="280" width="456" height="180" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+      <text x="104" y="312" font-family="Consolas" font-size="19" fill="#CFE0F2">vertex stage</text>
+      <text fill="#A8C0DA" font-size="16" x="104" y="342">顶点着色器拿到喂给 GPU 的位置数据,在 3D</text><text fill="#A8C0DA" font-size="16" x="104" y="366">空间里摆放一串顶点,可以施加旋转、平移、</text><text fill="#A8C0DA" font-size="16" x="104" y="390">透视等效果;顶点随后被装配成三角形等图元</text><text fill="#A8C0DA" font-size="16" x="104" y="414">——渲染图形的基本积木——再由 GPU 光栅化,</text><text fill="#A8C0DA" font-size="16" x="104" y="438">算出每个图元覆盖画布上的哪些像素。</text></g>
+    <g id="p07-stage-flow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="298 468 20 30" fill="#38BDF8" stroke="none">
+      <path d="M 298 488 L 303 488 L 303 468 L 313 468 L 313 488 L 318 488 L 308 498 Z" />
+    </g>
+    <g id="p07-stage-fragment">
+      <rect x="80" y="506" width="456" height="132" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+      <text x="104" y="538" font-family="Consolas" font-size="19" fill="#CFE0F2">fragment stage</text>
+      <text fill="#A8C0DA" font-size="16" x="104" y="568">片元着色器为上一阶段产出的图元所覆盖的每</text><text fill="#A8C0DA" font-size="16" x="104" y="592">个像素计算颜色;这些计算常用到纹理形式的</text><text fill="#A8C0DA" font-size="16" x="104" y="616">图像输入,提供表面细节与虚拟光源的位置颜色。</text></g>
+    <text x="80" y="664" font-size="18" fill="#6F8399">两个阶段的入口函数名在管线描述符里指定。</text>
+  </g>
+
+  <g id="p07-shader" data-pptx-bounds="588 176 636 504">
+    <rect x="588" y="176" width="636" height="504" rx="6" fill="#0B1120" stroke="#22354F" stroke-width="1.5" />
+    <text x="620" y="212" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#6F8399">wgsl · 一个着色器模块里的两个阶段</text>
+    <line x1="620" y1="228" x2="1196" y2="228" stroke="#22354F" stroke-width="1" />
+    <text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="262">struct VertexOut {</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="286">  @builtin(position) position : vec4f,</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="310">  @location(0) color : vec4f</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="334">}</text><text fill="#38BDF8" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="358">@vertex</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="382">fn vertex_main(@location(0) position: vec4f,</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="406">               @location(1) color: vec4f) -&gt; VertexOut</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="430">{</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="454">  var output : VertexOut;</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="478">  output.position = position;</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="502">  output.color = color;</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="526">  return output;</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="550">}</text><text fill="#A78BFA" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="574">@fragment</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="598">fn fragment_main(fragData: VertexOut) -&gt; @location(0) vec4f</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="622">{</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="646">  return fragData.color;</text><text fill="#BFD6EE" font-family="Consolas" font-size="17" xml:space="preserve" x="620" y="670">}</text></g>
+  <text id="p07-footnote" data-pptx-role="footer" x="588" y="704" font-size="15" fill="#5D7089">着色器代码常放在模板字符串或 &lt;script&gt; 里读取;WGSL 的 mime 类型是 text/wgsl。</text>
+</svg>

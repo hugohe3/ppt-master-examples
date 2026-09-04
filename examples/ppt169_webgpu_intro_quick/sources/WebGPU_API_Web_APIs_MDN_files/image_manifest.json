@@ -1,0 +1,22 @@
+[
+  {
+    "index": 1,
+    "filename": "basicwebgpustack.png",
+    "original_filename": "basicwebgpustack.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "web_image",
+    "source_url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API/basic-webgpu-stack.png",
+    "source_page_url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API",
+    "content_type": "image/png",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "source_url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API/basic-webgpu-stack.png",
+        "alt_text": "A basic stack diagram showing the position of the different elements of a WebGPU architecture on a device"
+      }
+    ],
+    "usage_count": 1
+  }
+]

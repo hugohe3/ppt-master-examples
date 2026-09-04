@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API",
+    "name": "https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "WebGPU_API_Web_APIs_MDN.md",
+    "asset_dir": "WebGPU_API_Web_APIs_MDN_files",
+    "image_manifest": "WebGPU_API_Web_APIs_MDN_files/image_manifest.json",
+    "image_count": 1
+  },
+  "markdown": {
+    "line_count": 912,
+    "char_count": 50526,
+    "heading_count": 35,
+    "table_count": 1,
+    "image_ref_count": 1,
+    "link_count": 237
+  },
+  "warnings": []
+}

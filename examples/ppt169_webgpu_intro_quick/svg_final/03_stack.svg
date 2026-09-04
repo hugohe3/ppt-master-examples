@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="100%" stop-color="#0C1729" />
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect id="p03-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)" />
+  <path id="p03-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8" />
+
+  <g id="p03-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">02 / 分层模型</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">从网页到 GPU,中间隔着几层</text>
+    <rect x="700" y="128" width="524" height="2" fill="url(#titleRule)" />
+  </g>
+
+  <g id="p03-apps" data-pptx-bounds="232 180 728 108">
+    <rect x="232" y="184" width="200" height="60" rx="8" fill="#132238" stroke="#2A4468" stroke-width="1.5" />
+    <text x="332" y="221" font-family="Consolas" font-size="19" text-anchor="middle" fill="#CFE0F2">Web app</text>
+    <rect x="496" y="184" width="200" height="60" rx="8" fill="#132238" stroke="#2A4468" stroke-width="1.5" />
+    <text x="596" y="221" font-family="Consolas" font-size="19" text-anchor="middle" fill="#CFE0F2">Web app</text>
+    <rect x="760" y="184" width="200" height="60" rx="8" fill="#132238" stroke="#2A4468" stroke-width="1.5" />
+    <text x="860" y="221" font-family="Consolas" font-size="19" text-anchor="middle" fill="#CFE0F2">Web app</text>
+    <g id="p03-link-app-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upDownArrow" data-pptx-frame="322 248 20 36" fill="#38BDF8" stroke="none" fill-opacity="0.85">
+      <path d="M 322 258 L 332 248 L 342 258 L 337 258 L 337 274 L 342 274 L 332 284 L 322 274 L 327 274 L 327 258 Z" />
+    </g>
+    <g id="p03-link-app-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upDownArrow" data-pptx-frame="586 248 20 36" fill="#38BDF8" stroke="none" fill-opacity="0.85">
+      <path d="M 586 258 L 596 248 L 606 258 L 601 258 L 601 274 L 606 274 L 596 284 L 586 274 L 591 274 L 591 258 Z" />
+    </g>
+    <g id="p03-link-app-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upDownArrow" data-pptx-frame="850 248 20 36" fill="#38BDF8" stroke="none" fill-opacity="0.85">
+      <path d="M 850 258 L 860 248 L 870 258 L 865 258 L 865 274 L 870 274 L 860 284 L 850 274 L 855 274 L 855 258 Z" />
+    </g>
+  </g>
+
+  <g id="p03-band-webgpu" data-pptx-bounds="216 292 760 188">
+    <rect x="216" y="292" width="760" height="188" rx="4" fill="#0E1A2E" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.55" />
+    <rect x="232" y="320" width="200" height="60" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+    <text x="332" y="345" font-family="Consolas" font-size="19" text-anchor="middle" fill="#CFE0F2">Logical device</text>
+    <text x="332" y="368" font-size="16" text-anchor="middle" fill="#7E96B4">逻辑设备</text>
+    <rect x="496" y="320" width="200" height="60" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+    <text x="596" y="345" font-family="Consolas" font-size="19" text-anchor="middle" fill="#CFE0F2">Logical device</text>
+    <text x="596" y="368" font-size="16" text-anchor="middle" fill="#7E96B4">逻辑设备</text>
+    <rect x="760" y="320" width="200" height="60" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5" />
+    <text x="860" y="345" font-family="Consolas" font-size="19" text-anchor="middle" fill="#CFE0F2">Logical device</text>
+    <text x="860" y="368" font-size="16" text-anchor="middle" fill="#7E96B4">逻辑设备</text>
+    <rect x="232" y="404" width="728" height="60" rx="8" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5" />
+    <text x="596" y="431" font-family="Consolas" font-size="19" text-anchor="middle" fill="#E8EEF9">Adapter</text>
+    <text x="596" y="454" font-size="16" text-anchor="middle" fill="#8CC6EA">适配器 · 代表系统上的一块物理 GPU 与驱动</text>
+  </g>
+
+  <g id="p03-link-native" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upDownArrow" data-pptx-frame="586 484 20 32" fill="#A78BFA" stroke="none" fill-opacity="0.9">
+    <path d="M 586 494 L 596 484 L 606 494 L 601 494 L 601 506 L 606 506 L 596 516 L 586 506 L 591 506 L 591 494 Z" />
+  </g>
+
+  <g id="p03-band-system" data-pptx-bounds="216 522 760 150">
+    <rect x="216" y="522" width="760" height="150" rx="4" fill="#0E1526" stroke="#A78BFA" stroke-width="1.5" stroke-opacity="0.45" />
+    <rect x="232" y="540" width="728" height="72" rx="8" fill="#1A1B36" stroke="#4B4A82" stroke-width="1.5" />
+    <line x1="232" y1="576" x2="960" y2="576" stroke="#4B4A82" stroke-width="1.5" />
+    <text x="596" y="565" font-family="Consolas" font-size="19" text-anchor="middle" fill="#CFC9F2">Native GPU API</text>
+    <text x="596" y="601" font-family="Consolas" font-size="19" text-anchor="middle" fill="#CFC9F2">Driver</text>
+    <rect x="232" y="622" width="728" height="40" rx="8" fill="#241A3B" stroke="#6D5AA8" stroke-width="1.5" />
+    <text x="596" y="649" font-family="Consolas" font-size="19" text-anchor="middle" fill="#D9CFF5">GPU</text>
+  </g>
+
+  <g id="p03-lane-labels" data-pptx-bounds="56 292 152 380">
+    <text x="56" y="392" font-size="24" font-weight="bold" fill="#38BDF8">WebGPU</text>
+    <text x="56" y="420" font-size="16" fill="#6F8399">浏览器实现</text>
+    <text x="56" y="596" font-size="24" font-weight="bold" fill="#A78BFA">底层系统</text>
+    <text x="56" y="624" font-size="16" fill="#6F8399">操作系统与硬件</text>
+  </g>
+
+  <g id="p03-notes" data-pptx-bounds="1008 180 216 492">
+    <line x1="1008" y1="196" x2="1008" y2="656" stroke="#233350" stroke-width="1.5" />
+    <text fill="#8DA2C0" font-size="18" x="1028" y="216">同一块 GPU 会被</text><text fill="#8DA2C0" font-size="18" x="1028" y="243">多个应用和进程</text><text fill="#8DA2C0" font-size="18" x="1028" y="270">并发使用。</text><text fill="#8DA2C0" font-size="18" x="1028" y="352">逻辑设备提供多</text><text fill="#8DA2C0" font-size="18" x="1028" y="379">路复用,让每个</text><text fill="#8DA2C0" font-size="18" x="1028" y="406">应用彼此隔离。</text><text fill="#8DA2C0" font-size="18" x="1028" y="562">图中按“只有一</text><text fill="#8DA2C0" font-size="18" x="1028" y="589">块 GPU、一套原</text><text fill="#8DA2C0" font-size="18" x="1028" y="616">生 API 和驱动”</text><text fill="#8DA2C0" font-size="18" x="1028" y="643">来画。</text></g>
+</svg>

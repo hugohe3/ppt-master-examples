@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0C1729"/>
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p09-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)"/>
+  <path id="p09-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8"/>
+
+  <g id="p09-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">08 / 读代码</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">一趟渲染 pass,逐行读下来</text>
+    <rect x="680" y="128" width="544" height="2" fill="url(#titleRule)"/>
+  </g>
+
+  <g id="p09-code" data-pptx-bounds="56 176 744 508">
+    <rect x="56" y="176" width="744" height="508" rx="6" fill="#0B1120" stroke="#22354F" stroke-width="1.5"/>
+    <text x="84" y="212" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#6F8399">js · 基础渲染 demo 的渲染流程</text>
+    <line x1="84" y1="220" x2="756" y2="220" stroke="#22354F" stroke-width="1"/>
+    <text x="84" y="232" font-family="Consolas" font-size="17" fill="#BFD6EE" xml:space="preserve">const commandEncoder = device.createCommandEncoder();<tspan x="84" dy="24">const clearColor = { r: 0.0, g: 0.5, b: 1.0, a: 1.0 };</tspan><tspan x="84" dy="24">const renderPassDescriptor = {</tspan><tspan x="84" dy="24">  colorAttachments: [</tspan><tspan x="84" dy="24">    {</tspan><tspan x="84" dy="24">      clearValue: clearColor,</tspan><tspan x="84" dy="24">      loadOp: "clear",</tspan><tspan x="84" dy="24">      storeOp: "store",</tspan><tspan x="84" dy="24">      view: context.getCurrentTexture().createView(),</tspan><tspan x="84" dy="24">    },</tspan><tspan x="84" dy="24">  ],</tspan><tspan x="84" dy="24">};</tspan><tspan x="84" dy="24">const passEncoder =</tspan><tspan x="84" dy="24">  commandEncoder.beginRenderPass(renderPassDescriptor);</tspan><tspan x="84" dy="24">passEncoder.setPipeline(renderPipeline);</tspan><tspan x="84" dy="24">passEncoder.setVertexBuffer(0, vertexBuffer);</tspan><tspan x="84" dy="24">passEncoder.draw(3);</tspan><tspan x="84" dy="24">passEncoder.end();</tspan><tspan x="84" dy="24">device.queue.submit([commandEncoder.finish()]);</tspan></text>
+    <circle cx="776" cy="370" r="11" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="776" y="375" font-family="Consolas" font-size="14" text-anchor="middle" fill="#7FD4FA">1</text>
+    <line x1="787" y1="370" x2="798" y2="370" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.6"/>
+    <circle cx="776" cy="562" r="11" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="776" y="567" font-family="Consolas" font-size="14" text-anchor="middle" fill="#7FD4FA">2</text>
+    <line x1="787" y1="562" x2="798" y2="562" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.6"/>
+    <circle cx="776" cy="610" r="11" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="776" y="615" font-family="Consolas" font-size="14" text-anchor="middle" fill="#7FD4FA">3</text>
+    <line x1="787" y1="610" x2="798" y2="610" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.6"/>
+    <circle cx="776" cy="658" r="11" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="776" y="663" font-family="Consolas" font-size="14" text-anchor="middle" fill="#7FD4FA">4</text>
+    <line x1="787" y1="658" x2="798" y2="658" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.6"/>
+  </g>
+  <g id="p09-notes" data-pptx-bounds="810 180 414 508">
+    <rect x="832" y="186" width="392" height="122" rx="6" fill="#101B2C" stroke="#22354F" stroke-width="1.5"/>
+    <circle cx="856" cy="208" r="11" fill="#132238" stroke="#3E6E9E" stroke-width="1.5"/>
+    <text x="856" y="213" font-family="Consolas" font-size="14" text-anchor="middle" fill="#7FD4FA">1</text>
+    <text x="880" y="228" font-size="18" fill="#8DA2C0">视图会先被清成 clearColor,<tspan x="880" dy="26">三角形背后那块纯蓝就是这么</tspan><tspan x="880" dy="26">来的;storeOp 为 "store" 表示</tspan><tspan x="880" dy="26">这一趟的结果要存下来。</tspan></text>
+    <rect x="832" y="328" width="392" height="122" rx="6" fill="#101B2C" stroke="#22354F" stroke-width="1.5"/>
+    <circle cx="856" cy="350" r="11" fill="#132238" stroke="#3E6E9E" stroke-width="1.5"/>
+    <text x="856" y="355" font-family="Consolas" font-size="14" text-anchor="middle" fill="#7FD4FA">2</text>
+    <text x="880" y="370" font-size="18" fill="#8DA2C0">setPipeline 指定这一趟用哪<tspan x="880" dy="26">条管线;setVertexBuffer 的第</tspan><tspan x="880" dy="26">一个参数是槽位,对应顶点缓</tspan><tspan x="880" dy="26">冲布局数组里的下标。</tspan></text>
+    <rect x="832" y="580" width="392" height="104" rx="6" fill="#101B2C" stroke="#22354F" stroke-width="1.5"/>
+    <circle cx="856" cy="602" r="11" fill="#132238" stroke="#3E6E9E" stroke-width="1.5"/>
+    <text x="856" y="607" font-family="Consolas" font-size="14" text-anchor="middle" fill="#7FD4FA">4</text>
+    <text x="880" y="624" font-size="18" fill="#8DA2C0">end() 结束命令列表,finish()<tspan x="880" dy="26">封装成 command buffer,再由</tspan><tspan x="880" dy="26">submit() 交给设备的命令队列。</tspan></text>
+    <g id="p09-note-3-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="832 470 392 90" data-pptx-av-adj1="val -55612" data-pptx-av-adj2="val 105556" fill="#0B3B5C" stroke="#38BDF8" stroke-width="1.5">
+      <path d="M 832 470 L 897.33 470 L 897.33 470 L 995.33 470 L 1224 470 L 1224 522.5 L 1224 522.5 L 1224 545 L 1224 560 L 995.33 560 L 810 610 L 897.33 560 L 832 560 L 832 545 L 832 522.5 L 832 522.5 Z"/>
+    </g>
+    <circle cx="856" cy="492" r="11" fill="#132238" stroke="#7FD4FA" stroke-width="1.5"/>
+    <text x="856" y="497" font-family="Consolas" font-size="14" text-anchor="middle" fill="#7FD4FA">3</text>
+    <text x="880" y="504" font-size="18" fill="#CFE0F2">vertexBuffer 里放着三个顶点的<tspan x="880" dy="26">数据,所以这里是 <tspan fill="#38BDF8" font-weight="bold">draw(3)</tspan>。</tspan></text>
+  </g>
+</svg>

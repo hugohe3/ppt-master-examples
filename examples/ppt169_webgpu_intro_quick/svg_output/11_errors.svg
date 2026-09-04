@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0C1729"/>
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F87171"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p11-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)"/>
+  <path id="p11-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8"/>
+
+  <g id="p11-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">10 / 错误处理</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">错误会传染,所以要圈作用域来抓</text>
+    <rect x="820" y="128" width="404" height="2" fill="url(#titleRule)"/>
+  </g>
+
+  <g id="p11-contagious" data-pptx-bounds="56 176 568 280">
+    <rect x="56" y="176" width="568" height="280" rx="6" fill="#101B2C" stroke="#F87171" stroke-width="1.5" stroke-opacity="0.5"/>
+    <use data-icon="tabler-outline/bug" x="80" y="196" width="26" height="26" fill="#F87171" stroke-width="2"/>
+    <text x="118" y="217" font-size="24" font-weight="bold" fill="#E8EEF9">错误是“传染性”的</text>
+    <g id="p11-chain">
+      <rect x="80" y="248" width="148" height="64" rx="8" fill="#2B1A1F" stroke="#8A4247" stroke-width="1.5"/>
+      <text x="154" y="276" font-family="Consolas" font-size="17" text-anchor="middle" fill="#F3B7B7">call A</text>
+      <text x="154" y="298" font-size="16" text-anchor="middle" fill="#C68A8A">被判定非法</text>
+      <rect x="268" y="248" width="148" height="64" rx="8" fill="#2B1A1F" stroke="#8A4247" stroke-width="1.5"/>
+      <text x="342" y="276" font-family="Consolas" font-size="17" text-anchor="middle" fill="#F3B7B7">call B</text>
+      <text x="342" y="298" font-size="16" text-anchor="middle" fill="#C68A8A">用了 A 的返回值</text>
+      <rect x="456" y="248" width="148" height="64" rx="8" fill="#2B1A1F" stroke="#8A4247" stroke-width="1.5"/>
+      <text x="530" y="276" font-family="Consolas" font-size="17" text-anchor="middle" fill="#F3B7B7">call C</text>
+      <text x="530" y="298" font-size="16" text-anchor="middle" fill="#C68A8A">用了 B 的返回值</text>
+      <g id="p11-spread-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="232 271 20 18" fill="#F87171" stroke="none">
+        <path d="M 232 275.5 L 243 275.5 L 243 271 L 252 280 L 243 289 L 243 284.5 L 232 284.5 Z"/>
+      </g>
+      <g id="p11-spread-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="420 271 20 18" fill="#F87171" stroke="none">
+        <path d="M 420 275.5 L 431 275.5 L 431 271 L 440 280 L 431 289 L 431 284.5 L 420 284.5 Z"/>
+      </g>
+    </g>
+    <text x="80" y="352" font-size="18" fill="#8DA2C0">WebGPU 的调用在 GPU 进程里异步校验;某次调用一旦<tspan x="80" dy="26">被标记为无效,依赖它返回值的对象也会跟着无效,</tspan><tspan x="80" dy="26">一路传下去 —— 所以这类错误被称为 contagious。</tspan></text>
+  </g>
+
+  <g id="p11-scope" data-pptx-bounds="656 176 568 280">
+    <rect x="656" y="176" width="568" height="280" rx="6" fill="#101B2C" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.5"/>
+    <use data-icon="tabler-outline/shield-lock" x="680" y="196" width="26" height="26" fill="#38BDF8" stroke-width="2"/>
+    <text x="718" y="217" font-size="24" font-weight="bold" fill="#E8EEF9">每个设备有自己的作用域栈</text>
+    <g id="p11-scope-code">
+      <rect x="680" y="240" width="520" height="112" rx="6" fill="#0B1120" stroke="#22354F" stroke-width="1.5"/>
+      <text x="704" y="272" font-family="Consolas" font-size="17" fill="#BFD6EE" xml:space="preserve">device.pushErrorScope("validation");<tspan x="704" dy="26" fill="#6F8399">// … 你要检查的那批调用 …</tspan><tspan x="704" dy="26">const err = await device.popErrorScope();</tspan></text>
+    </g>
+    <text x="680" y="386" font-family="Consolas" font-size="16" fill="#7FD4FA">GPUValidationError · GPUOutOfMemoryError · GPUInternalError</text>
+    <text x="680" y="416" font-size="18" fill="#8DA2C0">弹出作用域后拿到的 Promise,解析成该作用域内<tspan x="680" dy="26">捕获到的第一个错误;没有错误则为 <tspan font-family="Consolas" fill="#34D399">null</tspan>。</tspan></text>
+  </g>
+
+  <g id="p11-webgl" data-pptx-bounds="56 464 1168 216">
+    <rect x="56" y="464" width="1168" height="216" rx="6" fill="#0E1626" stroke="#22354F" stroke-width="1.5"/>
+    <text x="88" y="510" font-size="24" font-weight="bold" fill="#E8EEF9">对比:WebGL 历史上的做法是同步的 <tspan font-family="Consolas" fill="#F59E0B">getError()</tspan></text>
+    <g id="p11-webgl-a">
+      <use data-icon="tabler-outline/gauge" x="88" y="540" width="28" height="28" fill="#F59E0B" stroke-width="2"/>
+      <text x="130" y="562" font-size="24" fill="#E8EEF9">同步返回,伤性能</text>
+      <text x="130" y="600" font-size="18" fill="#8DA2C0">每次调用都要往返一次 GPU,并且要求此前<tspan x="130" dy="26">发出的所有操作都已完成。</tspan></text>
+    </g>
+    <g id="p11-webgl-b">
+      <use data-icon="tabler-outline/layers-intersect" x="664" y="540" width="28" height="28" fill="#F59E0B" stroke-width="2"/>
+      <text x="706" y="562" font-size="24" fill="#E8EEF9">状态模型是扁平的</text>
+      <text x="706" y="600" font-size="18" fill="#8DA2C0">错误会在互不相关的代码之间泄漏。WebGPU<tspan x="706" dy="26">的设计者决心改掉这一点。</tspan></text>
+    </g>
+    <line x1="640" y1="530" x2="640" y2="640" stroke="#233350" stroke-width="1.5"/>
+  </g>
+</svg>

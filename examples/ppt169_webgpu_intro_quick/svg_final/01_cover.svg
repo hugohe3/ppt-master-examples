@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="100%" stop-color="#0D1A31" />
+    </linearGradient>
+    <linearGradient id="traceLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="45%" stop-color="#38BDF8" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="canvasField" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A4E96" />
+      <stop offset="100%" stop-color="#04294F" />
+    </linearGradient>
+    <filter id="cyanGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b" />
+      <feFlood flood-color="#38BDF8" flood-opacity="0.5" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect id="p01-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)" />
+  <path id="p01-grid" data-pptx-role="decoration" d="M80 0V720 M160 0V720 M240 0V720 M320 0V720 M400 0V720 M480 0V720 M560 0V720 M640 0V720 M720 0V720 M800 0V720 M880 0V720 M960 0V720 M1040 0V720 M1120 0V720 M1200 0V720 M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280 M0 640H1280" fill="none" stroke="#1B2942" stroke-width="0.8" />
+  <path id="p01-trace" data-pptx-role="decoration" d="M0 612 L392 612 L520 484 L1280 484" fill="none" stroke="url(#traceLine)" stroke-width="2.5" stroke-linejoin="bevel" />
+
+  <g id="p01-headline" data-pptx-bounds="60 150 604 318">
+    <line x1="64" y1="164" x2="140" y2="164" stroke="#38BDF8" stroke-width="3" />
+    <text x="152" y="171" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#8DA2C0">MDN / WEB API / WEBGPU</text>
+    <text x="64" y="290" font-size="76" font-weight="bold" fill="#E8EEF9" filter="url(#cyanGlow)">WebGPU 是什么</text>
+    <text fill="#8DA2C0" font-size="30" x="64" y="360">WebGL 的继任者</text><text fill="#8DA2C0" font-size="30" x="64" y="406">把现代 GPU 能力带进网页</text></g>
+
+  <g id="p01-lead" data-pptx-bounds="64 496 596 128">
+    <rect x="64" y="504" width="4" height="52" fill="#38BDF8" />
+    <text x="88" y="542" font-size="30" fill="#E8EEF9">面向前端工程师的入门简报</text>
+    <text x="64" y="600" font-size="15" fill="#6F8399">事实来源:MDN Web Docs — WebGPU API 概览页</text>
+  </g>
+
+  <g id="p01-canvas" data-pptx-bounds="668 150 552 420">
+    <rect x="676" y="160" width="520" height="340" rx="6" fill="url(#canvasField)" stroke="#1E5A94" stroke-width="1.5" />
+    <text x="696" y="192" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#7FB6E8">&lt;canvas&gt; · webgpu context</text>
+    <g id="p01-hero-triangle" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="816 216 240 210" fill="#0EA5E9" stroke="none" filter="url(#cyanGlow)">
+      <path d="M 816 426 L 936 216 L 1056 426 Z" />
+    </g>
+    <circle cx="936" cy="216" r="7" fill="#F87171" />
+    <circle cx="816" cy="426" r="7" fill="#34D399" />
+    <circle cx="1056" cy="426" r="7" fill="#60A5FA" />
+    <text x="696" y="470" font-family="Consolas" font-size="19" fill="#BFD6EE">clearColor = { r:0, g:0.5, b:1 }</text>
+    <text x="676" y="546" font-size="18" fill="#8DA2C0">三个顶点各带一种颜色,片元着色器把它们插值成整块渐变。</text>
+  </g>
+</svg>

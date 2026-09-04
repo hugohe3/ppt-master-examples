@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="100%" stop-color="#0C1729" />
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15" />
+    </linearGradient>
+  </defs>
+
+  <rect id="p02-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)" />
+  <path id="p02-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8" />
+
+  <g id="p02-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">01 / 起因</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">为什么会有 WebGPU</text>
+    <rect x="560" y="128" width="664" height="2" fill="url(#titleRule)" />
+  </g>
+
+  <g id="p02-problems" data-pptx-bounds="52 178 572 442">
+    <text x="56" y="210" font-size="30" fill="#F59E0B">WebGL 的三个根本问题</text>
+    <g id="p02-problem-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="56 232 560 380" fill="none" stroke="#F59E0B" stroke-width="2" stroke-opacity="0.75">
+      <path d="M 56 295.33 A 63.33 63.33 0 0 1 119.33 232 L 552.67 232 A 63.33 63.33 0 0 1 616 295.33 L 616 548.67 A 63.33 63.33 0 0 1 552.67 612 L 119.33 612 A 63.33 63.33 0 0 1 56 548.67 Z" stroke="none" />
+      <path d="M 119.33 612 A 63.33 63.33 0 0 1 56 548.67 L 56 295.33 A 63.33 63.33 0 0 1 119.33 232 M 552.67 232 A 63.33 63.33 0 0 1 616 295.33 L 616 548.67 A 63.33 63.33 0 0 1 552.67 612" />
+    </g>
+    <g id="p02-problem-1">
+      <text x="96" y="272" font-size="24" font-weight="bold" fill="#E8EEF9"><tspan font-family="Consolas" fill="#F59E0B">01 </tspan>拿不到现代 GPU 新特性</text>
+      <text fill="#8DA2C0" font-size="18" x="96" y="308">Direct3D 12、Metal、Vulkan 提供大量新功能;</text><text fill="#8DA2C0" font-size="18" x="96" y="335">OpenGL 与 WebGL 已无更新计划,不会再拿到。</text></g>
+    <g id="p02-problem-2">
+      <text x="96" y="392" font-size="24" font-weight="bold" fill="#E8EEF9"><tspan font-family="Consolas" fill="#F59E0B">02 </tspan>对通用计算支持很差</text>
+      <text fill="#8DA2C0" font-size="18" x="96" y="428">WebGL 完全围绕“画到 canvas”这一用例设计;</text><text fill="#8DA2C0" font-size="18" x="96" y="455">而机器学习等 GPGPU 场景越来越重要。</text></g>
+    <g id="p02-problem-3">
+      <text x="96" y="512" font-size="24" font-weight="bold" fill="#E8EEF9"><tspan font-family="Consolas" fill="#F59E0B">03 </tspan>3D 应用越来越吃资源</text>
+      <text fill="#8DA2C0" font-size="18" x="96" y="548">同屏需要渲染的对象越来越多,</text><text fill="#8DA2C0" font-size="18" x="96" y="575">新的渲染特性也在不断加码。</text></g>
+  </g>
+
+  <g id="p02-answer" data-pptx-bounds="652 178 572 442">
+    <text x="652" y="210" font-size="30" fill="#38BDF8">WebGPU 的回应</text>
+    <g id="p02-answer-panel" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="652 232 572 380" data-pptx-av-adj="val 12000" fill="#111C2F" stroke="#1E3A5F" stroke-width="1.5">
+      <path d="M 652 232 L 1178.4 232 L 1224 277.6 L 1224 612 L 652 612 Z" />
+    </g>
+    <g id="p02-answer-items">
+      
+  <g transform="translate(688, 272) scale(1.33333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M5 6a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v12a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1l0 -12" />
+    <path d="M9 9h6v6h-6l0 -6" />
+    <path d="M3 10h2" />
+    <path d="M3 14h2" />
+    <path d="M10 3v2" />
+    <path d="M14 3v2" />
+    <path d="M21 10h-2" />
+    <path d="M21 14h-2" />
+    <path d="M14 21v-2" />
+    <path d="M10 21v-2" />
+  </g>
+      <text x="736" y="296" font-size="24" fill="#E8EEF9">与现代 GPU API 对齐的通用架构</text>
+      
+  <g transform="translate(688, 338) scale(1.33333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M11 10v-5h-1m8 14v-5h-1" />
+    <path d="M15 5.5a.5 .5 0 0 1 .5 -.5h2a.5 .5 0 0 1 .5 .5v4a.5 .5 0 0 1 -.5 .5h-2a.5 .5 0 0 1 -.5 -.5l0 -4" />
+    <path d="M10 14.5a.5 .5 0 0 1 .5 -.5h2a.5 .5 0 0 1 .5 .5v4a.5 .5 0 0 1 -.5 .5h-2a.5 .5 0 0 1 -.5 -.5l0 -4" />
+    <path d="M6 10h.01m-.01 9h.01" />
+  </g>
+      <text x="736" y="362" font-size="24" fill="#E8EEF9">一等公民的 GPGPU 计算支持</text>
+      
+  <g transform="translate(688, 404) scale(1.33333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M13 3l0 7l6 0l-8 11l0 -7l-6 0l8 -11" />
+  </g>
+      <text x="736" y="428" font-size="24" fill="#E8EEF9">单个对象渲染的 <tspan fill="#38BDF8" font-weight="bold">CPU 开销显著更低</tspan></text>
+      
+  <g transform="translate(688, 470) scale(1.33333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M12 21a9 9 0 0 1 0 -18c4.97 0 9 3.582 9 8c0 1.06 -.474 2.078 -1.318 2.828c-.844 .75 -1.989 1.172 -3.182 1.172h-2.5a2 2 0 0 0 -1 3.75a1.3 1.3 0 0 1 -1 2.25" />
+    <path d="M7.5 10.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+    <path d="M11.5 7.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+    <path d="M15.5 10.5a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  </g>
+      <text x="736" y="494" font-size="24" fill="#E8EEF9">计算粒子、后处理滤镜等现代特性</text>
+      
+  <g transform="translate(688, 536) scale(1.33333)" fill="none" stroke="#38BDF8" stroke-width="2">
+    <path d="M20 10h-16l5.5 -6" />
+    <path d="M4 14h16l-5.5 6" />
+  </g>
+      <text x="736" y="560" font-size="24" fill="#E8EEF9">剔除、蒙皮变换可直接在 GPU 上做</text>
+    </g>
+  </g>
+
+  <text id="p02-footnote" data-pptx-role="footer" x="56" y="664" font-size="15" fill="#5D7089">来源:MDN《WebGPU API》Concepts and usage</text>
+</svg>

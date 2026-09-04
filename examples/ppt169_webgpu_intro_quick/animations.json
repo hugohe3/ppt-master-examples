@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "duration": 0.5, "stagger": 0.15, "trigger": "after-previous" }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "p01-headline": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "p01-lead": { "effect": "entrance_wipe", "order": 2, "duration": 0.5 },
+        "p01-canvas": { "effect": "entrance_zoom", "order": 3, "duration": 0.7 }
+      }
+    },
+    "02_why": {
+      "groups": {
+        "p02-problems": { "effect": "entrance_wipe", "order": 1, "duration": 0.6 },
+        "p02-answer": { "effect": "entrance_rise_up", "order": 2, "duration": 0.6 }
+      }
+    },
+    "03_stack": {
+      "groups": {
+        "p03-apps": { "effect": "entrance_descend", "order": 1, "duration": 0.5 },
+        "p03-band-webgpu": { "effect": "entrance_expand", "order": 2, "duration": 0.6 },
+        "p03-link-native": { "effect": "entrance_fade", "order": 3, "duration": 0.3 },
+        "p03-band-system": { "effect": "entrance_expand", "order": 4, "duration": 0.6 },
+        "p03-notes": { "effect": "entrance_fade", "order": 5, "duration": 0.5 }
+      }
+    },
+    "04_device": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "03_stack",
+        "pairs": { "webgpu-layer": { "from": "p03-band-webgpu", "to": "p04-band-webgpu" } }
+      },
+      "groups": {
+        "p04-code": { "effect": "entrance_wipe", "order": 1, "duration": 0.6 },
+        "p04-notes": { "effect": "entrance_fade", "order": 2, "duration": 0.5 }
+      }
+    },
+    "05_compat": {
+      "groups": {
+        "p05-core": { "effect": "entrance_split", "order": 1, "duration": 0.5 },
+        "p05-compat": { "effect": "entrance_split", "order": 2, "duration": 0.5 },
+        "p05-code-a": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "p05-code-b": { "effect": "entrance_fade", "order": 4, "duration": 0.4 }
+      }
+    },
+    "06_pipelines": {
+      "groups": {
+        "p06-intro": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "p06-render-pipeline": { "effect": "entrance_rise_up", "order": 2, "duration": 0.6 },
+        "p06-compute-pipeline": { "effect": "entrance_rise_up", "order": 3, "duration": 0.6 },
+        "p06-wgsl": { "effect": "entrance_wipe", "order": 4, "duration": 0.5 }
+      }
+    },
+    "07_stages": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "06_pipelines",
+        "pairs": { "render-pipeline": { "from": "p06-render-pipeline", "to": "p07-render-pipeline" } }
+      },
+      "groups": {
+        "p07-shader": { "effect": "entrance_wipe", "order": 1, "duration": 0.6 }
+      }
+    },
+    "08_steps": {
+      "transition": { "effect": "push", "duration": 0.5 },
+      "groups": {
+        "p08-steps": { "effect": "entrance_wipe", "order": 1, "duration": 0.7 },
+        "p08-details": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "p08-pass": { "effect": "entrance_expand", "order": 3, "duration": 0.6 }
+      }
+    },
+    "09_readcode": {
+      "groups": {
+        "p09-code": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "p09-notes": { "effect": "entrance_float", "order": 2, "duration": 0.6 }
+      }
+    },
+    "10_compute": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "09_readcode",
+        "pairs": { "code-panel": { "from": "p09-code", "to": "p10-code" } }
+      },
+      "groups": {
+        "p10-flow": { "effect": "entrance_descend", "order": 1, "duration": 0.6 }
+      }
+    },
+    "11_errors": {
+      "groups": {
+        "p11-contagious": { "effect": "entrance_wipe", "order": 1, "duration": 0.6 },
+        "p11-scope": { "effect": "entrance_wipe", "order": 2, "duration": 0.6 },
+        "p11-webgl": { "effect": "entrance_fade", "order": 3, "duration": 0.5 }
+      }
+    },
+    "12_status": {
+      "groups": {
+        "p12-status-1": { "effect": "entrance_rise_up", "order": 1, "duration": 0.45 },
+        "p12-status-2": { "effect": "entrance_rise_up", "order": 2, "duration": 0.45 },
+        "p12-status-3": { "effect": "entrance_rise_up", "order": 3, "duration": 0.45 },
+        "p12-nodata": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "p12-takeaway": { "effect": "entrance_zoom", "order": 5, "duration": 0.7 },
+        "p12-source": { "effect": "entrance_fade", "order": 6, "duration": 0.5 }
+      }
+    }
+  }
+}

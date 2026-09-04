@@ -2,11 +2,94 @@
   "version": 1,
   "updated": "2026-09-04",
   "stats": {
-    "examples": 18,
-    "pages": 262,
-    "templates": 18
+    "examples": 19,
+    "pages": 274,
+    "templates": 19
   },
   "projects": [
+    {
+      "id": "ppt169_webgpu_intro_quick",
+      "title": "WebGPU 是什么",
+      "description": "技术入门简报 12 页 — 以 MDN WebGPU API 概览页为源,暗色科技风,7 段原生可编辑 Consolas 代码块,32 个预设形状与 3 对 Morph,Quick 路线源文件驱动生成",
+      "icon": "🖥️",
+      "color": "#0B1220",
+      "style": "technical",
+      "styleName": "Dark-tech Primer",
+      "desc": "A twelve-page primer for front-end engineers built on the Quick runtime from the MDN WebGPU API overview page: why WebGPU exists, the browser-to-GPU stack, getting an adapter and a device, core versus compatibility mode, render and compute pipelines, vertex and fragment stages with WGSL, the five steps of an app, a render pass read line by line, moving compute results back to JavaScript, error scopes, and support status. Seven code blocks are editable Consolas text; thirty-two preset shapes, nineteen icons, gradients and a few filters carry the dark-tech surface; the source page's only bitmap is redrawn as native SVG and doubles as a Morph endpoint. Everything is quoted from the one page, and the fields its script-rendered compatibility table would have supplied show NO DATA. Thirty-six entrance animations and three Morph pairs finish the deck; no images, notes, or sound.",
+      "tags": [
+        "Web",
+        "Technical",
+        "Dark Tech",
+        "Quick"
+      ],
+      "isNew": true,
+      "folder": "ppt169_webgpu_intro_quick/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · WebGPU 是什么"
+        },
+        {
+          "file": "02_why.svg",
+          "title": "why",
+          "desc": "为什么会有 WebGPU"
+        },
+        {
+          "file": "03_stack.svg",
+          "title": "stack",
+          "desc": "从网页到 GPU,中间隔着几层"
+        },
+        {
+          "file": "04_device.svg",
+          "title": "device",
+          "desc": "三步拿到设备:gpu → adapter → device"
+        },
+        {
+          "file": "05_compat.svg",
+          "title": "compat",
+          "desc": "core 与 compatibility:两档能力"
+        },
+        {
+          "file": "06_pipelines.svg",
+          "title": "pipelines",
+          "desc": "WebGPU 目前有两类管线"
+        },
+        {
+          "file": "07_stages.svg",
+          "title": "stages",
+          "desc": "顶点阶段与片元阶段,以及 WGSL"
+        },
+        {
+          "file": "08_steps.svg",
+          "title": "steps",
+          "desc": "一个 WebGPU 应用大致要走五步"
+        },
+        {
+          "file": "09_readcode.svg",
+          "title": "read code",
+          "desc": "一趟渲染 pass,逐行读下来"
+        },
+        {
+          "file": "10_compute.svg",
+          "title": "compute",
+          "desc": "算完的结果,怎么回到 JavaScript"
+        },
+        {
+          "file": "11_errors.svg",
+          "title": "errors",
+          "desc": "错误会传染,所以要圈作用域来抓"
+        },
+        {
+          "file": "12_status.svg",
+          "title": "status",
+          "desc": "今天能用到什么程度"
+        }
+      ],
+      "pptx": "examples/ppt169_webgpu_intro_quick/exports/ppt169_webgpu_intro_quick.pptx"
+    },
     {
       "id": "a4_tea_six_classes",
       "title": "中国茶六大类",

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Microsoft YaHei">
+  <defs>
+    <linearGradient id="bgField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0C1729"/>
+    </linearGradient>
+    <linearGradient id="titleRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p10-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#bgField)"/>
+  <path id="p10-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 160H1280 M0 320H1280 M0 480H1280 M0 640H1280" fill="none" stroke="#18253C" stroke-width="0.8"/>
+
+  <g id="p10-header" data-pptx-bounds="56 56 1168 100">
+    <text x="56" y="92" font-family="Consolas" font-size="16" letter-spacing="2.4" fill="#6F8399">09 / 计算管线</text>
+    <text x="56" y="140" font-size="40" font-weight="bold" fill="#E8EEF9">算完的结果,怎么回到 JavaScript</text>
+    <rect x="800" y="128" width="424" height="2" fill="url(#titleRule)"/>
+  </g>
+
+  <g id="p10-code" data-pptx-bounds="56 176 744 508">
+    <rect x="56" y="176" width="744" height="508" rx="6" fill="#0B1120" stroke="#22354F" stroke-width="1.5"/>
+    <text x="84" y="212" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#6F8399">js · 基础计算 demo 的两个 buffer 与读回</text>
+    <line x1="84" y1="220" x2="756" y2="220" stroke="#22354F" stroke-width="1"/>
+    <text x="84" y="252" font-family="Consolas" font-size="17" fill="#BFD6EE" xml:space="preserve">const output = device.createBuffer({<tspan x="84" dy="25">  size: BUFFER_SIZE,</tspan><tspan x="84" dy="25">  usage: GPUBufferUsage.STORAGE | GPUBufferUsage.COPY_SRC,</tspan><tspan x="84" dy="25">});</tspan><tspan x="84" dy="25">const stagingBuffer = device.createBuffer({</tspan><tspan x="84" dy="25">  size: BUFFER_SIZE,</tspan><tspan x="84" dy="25">  usage: GPUBufferUsage.MAP_READ | GPUBufferUsage.COPY_DST,</tspan><tspan x="84" dy="25">});</tspan><tspan x="84" dy="25">commandEncoder.copyBufferToBuffer(</tspan><tspan x="84" dy="25">  output, 0, stagingBuffer, 0, BUFFER_SIZE);</tspan><tspan x="84" dy="25">device.queue.submit([commandEncoder.finish()]);</tspan><tspan x="84" dy="25">await stagingBuffer.mapAsync(GPUMapMode.READ, 0, BUFFER_SIZE);</tspan><tspan x="84" dy="25">const copyArrayBuffer = stagingBuffer.getMappedRange(0, BUFFER_SIZE);</tspan><tspan x="84" dy="25">const data = copyArrayBuffer.slice();</tspan><tspan x="84" dy="25">stagingBuffer.unmap();</tspan><tspan x="84" dy="25">console.log(new Float32Array(data));</tspan></text>
+    <text x="84" y="668" font-size="18" fill="#6F8399">GPU buffer 紧贴 GPU 核心存放,浏览器这样的主机进程读不到,所以要中转。</text>
+  </g>
+  <g id="p10-flow" data-pptx-bounds="810 180 414 508">
+    <rect x="832" y="190" width="392" height="72" rx="8" fill="#241A3B" stroke="#6D5AA8" stroke-width="1.5"/>
+    <text x="856" y="220" font-family="Consolas" font-size="19" fill="#D9CFF5">compute shader</text>
+    <text x="856" y="246" font-size="16" fill="#8DA2C0">按工作组数量并行计算</text>
+    <rect x="832" y="302" width="392" height="72" rx="8" fill="#1A1B36" stroke="#4B4A82" stroke-width="1.5"/>
+    <text x="856" y="332" font-family="Consolas" font-size="19" fill="#CFC9F2">output</text>
+    <text x="856" y="358" font-size="16" fill="#8DA2C0">storage · COPY_SRC</text>
+    <rect x="832" y="414" width="392" height="72" rx="8" fill="#1A1B36" stroke="#4B4A82" stroke-width="1.5"/>
+    <text x="856" y="444" font-family="Consolas" font-size="19" fill="#CFC9F2">stagingBuffer</text>
+    <text x="856" y="470" font-size="16" fill="#8DA2C0">MAP_READ · COPY_DST</text>
+    <rect x="832" y="526" width="392" height="72" rx="8" fill="#16304F" stroke="#3E6E9E" stroke-width="1.5"/>
+    <text x="856" y="556" font-family="Consolas" font-size="19" fill="#CFE0F2">JavaScript</text>
+    <text x="856" y="582" font-size="16" fill="#8DA2C0">new Float32Array(data)</text>
+    <g id="p10-flow-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="862 268 20 28" fill="#A78BFA" stroke="none">
+    <path d="M 862 286 L 867 286 L 867 268 L 877 268 L 877 286 L 882 286 L 872 296 Z"/></g>
+    <g id="p10-flow-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="862 380 20 28" fill="#A78BFA" stroke="none">
+    <path d="M 862 398 L 867 398 L 867 380 L 877 380 L 877 398 L 882 398 L 872 408 Z"/></g>
+    <g id="p10-flow-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="862 492 20 28" fill="#A78BFA" stroke="none">
+    <path d="M 862 510 L 867 510 L 867 492 L 877 492 L 877 510 L 882 510 L 872 520 Z"/></g>
+    <text x="898" y="300" font-family="Consolas" font-size="16" fill="#8DA2C0">写回 buffer</text>
+    <text x="898" y="412" font-family="Consolas" font-size="16" fill="#8DA2C0">copyBufferToBuffer</text>
+    <text x="898" y="524" font-family="Consolas" font-size="16" fill="#8DA2C0">mapAsync + getMappedRange</text>
+    <text x="832" y="632" font-size="18" fill="#8DA2C0">读完记得 <tspan font-family="Consolas" fill="#A78BFA">unmap()</tspan>,<tspan x="832" dy="26">把 staging buffer 交还回去。</tspan></text>
+  </g>
+</svg>
