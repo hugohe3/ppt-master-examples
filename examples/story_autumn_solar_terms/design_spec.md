@@ -146,42 +146,42 @@
 
 | Filename | Dimensions | Ratio | Purpose | Type | Image pattern | Crop Policy | Acquire Via | Status | Reference | text_policy | page_role |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sheet_terms.jpg | 1024×1024 | 1:1 | 六个节气主视觉 doodle 的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个节气主视觉简笔画：啃秋西瓜、处暑鸭与河灯、白露草叶露珠与龙眼、秋分稻穗与天平、寒露黄菊与芝麻、霜降软柿与霜叶 | none | local |
-| sheet_phenology.jpg | 1024×1024 | 1:1 | 六个物候小图的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个物候小图：凉风、寒蝉、鸿雁、玄鸟、黄菊、霜晶 | none | local |
-| sheet_decor.jpg | 1024×1024 | 1:1 | 装饰件母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 2列2行纯键色底：星星簇、波浪箭头、虚线路线段、手绘横幅飘带 | none | local |
-| sheet_food.jpg | 1024×1024 | 1:1 | 时令食物小图母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底：西瓜块、烤鸭腿、龙眼、秋菜鱼片汤、芝麻、软柿 | none | local |
-| sheet_lettering_terms.jpg | 1376×768 | 34:19 | 六个节气名的手绘题字母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个横排两字手写题字：立秋／处暑／白露／秋分／寒露／霜降 | embedded | local |
-| sheet_lettering_title.jpg | 1376×768 | 34:19 | 封面题字与落款印章的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 1列2行纯键色底，上格封面题字「二十四节气手账·秋」，下格「秋」字印章 | embedded | local |
-| term_liqiu.png | 268×269 | 1:1 | 立秋页主视觉 | Illustration element | 页面上半区主视觉，压在波浪路线的第一站上 | no-crop | slice | Generated | Derived from sheet_terms.jpg; 第1格 | none | local |
-| term_chushu.png | 294×309 | 19:20 | 处暑页主视觉 | Illustration element | 横幅标题右侧，与河灯栏并置 | no-crop | slice | Generated | Derived from sheet_terms.jpg; 第2格 | none | local |
-| term_bailu.png | 257×307 | 5:6 | 白露页主视觉 | Illustration element | 页面下半区，承接雁的飞行弧线终点 | no-crop | slice | Generated | Derived from sheet_terms.jpg; 第3格 | none | local |
-| term_qiufen.png | 258×289 | 17:19 | 秋分页主视觉 | Illustration element | 中轴对称构图的轴心 | no-crop | slice | Generated | Derived from sheet_terms.jpg; 第4格 | none | local |
-| term_hanlu.png | 268×265 | 1:1 | 寒露页主视觉 | Illustration element | 上坡路线的坡顶 | no-crop | slice | Generated | Derived from sheet_terms.jpg; 第5格 | none | local |
-| term_shuangjiang.png | 269×252 | 16:15 | 霜降页主视觉 | Illustration element | 云朵框内的主体 | no-crop | slice | Generated | Derived from sheet_terms.jpg; 第6格 | none | local |
-| ph_coolwind.png | 240×204 | 20:17 | 凉风至 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.jpg; 第1格 | none | local |
-| ph_cicada.png | 184×251 | 11:15 | 寒蝉鸣 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.jpg; 第2格 | none | local |
-| ph_goose.png | 270×215 | 5:4 | 鸿雁来 | Illustration element | 沿手绘飞行弧线移动的主体，白露与寒露两页复用 | no-crop | slice | Generated | Derived from sheet_phenology.jpg; 第3格 | none | local |
-| ph_swallow.png | 238×232 | 21:20 | 玄鸟归 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.jpg; 第4格 | none | local |
-| ph_chrysanthemum.png | 262×225 | 7:6 | 菊有黄花 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.jpg; 第5格 | none | local |
-| ph_frost.png | 237×231 | 21:20 | 霜与草木黄落 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.jpg; 第6格 | none | local |
-| decor_star.png | 349×348 | 1:1 | 星星簇装饰 | Illustration element | 空白角落点缀 | no-crop | slice | Generated | Derived from sheet_decor.jpg; 第1格 | none | local |
-| decor_arrow.png | 367×268 | 26:19 | 波浪箭头 | Illustration element | 连接两块内容的指向 | no-crop | slice | Generated | Derived from sheet_decor.jpg; 第2格 | none | local |
-| decor_route.png | 438×54 | 73:9 | 虚线路线段 | Illustration element | 总览页与收尾页的路线装饰 | no-crop | slice | Generated | Derived from sheet_decor.jpg; 第3格 | none | local |
-| decor_ribbon.png | 452×166 | 49:18 | 手绘横幅飘带 | Illustration element | 承载页面标题的横幅 | no-crop | slice | Generated | Derived from sheet_decor.jpg; 第4格 | none | local |
-| food_watermelon.png | 277×240 | 15:13 | 啃秋西瓜 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.jpg; 第1格 | none | local |
-| food_duck.png | 274×213 | 9:7 | 处暑鸭 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.jpg; 第2格 | none | local |
-| food_longan.png | 250×282 | 8:9 | 白露龙眼 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.jpg; 第3格 | none | local |
-| food_qiucai.png | 261×316 | 14:17 | 秋分秋汤 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.jpg; 第4格 | none | local |
-| food_sesame.png | 257×214 | 6:5 | 寒露芝麻 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.jpg; 第5格 | none | local |
-| food_persimmon.png | 235×281 | 5:6 | 霜降柿子 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.jpg; 第6格 | none | local |
-| let_cover.png | 1237×173 | 143:20 | 封面题字「二十四节气手账·秋」 | Lettering element | 封面横幅上方的显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_title.jpg; 第1格 | embedded | hero_page |
-| let_liqiu.png | 366×170 | 28:13 | 题字「立秋」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.jpg; 第1格 | embedded | local |
-| let_chushu.png | 344×204 | 27:16 | 题字「处暑」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.jpg; 第2格 | embedded | local |
-| let_bailu.png | 335×191 | 7:4 | 题字「白露」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.jpg; 第3格 | embedded | local |
-| let_qiufen.png | 361×181 | 2:1 | 题字「秋分」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.jpg; 第4格 | embedded | local |
-| let_hanlu.png | 360×214 | 32:19 | 题字「寒露」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.jpg; 第5格 | embedded | local |
-| let_shuangjiang.png | 361×215 | 32:19 | 题字「霜降」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.jpg; 第6格 | embedded | local |
-| let_seal.png | 253×254 | 1:1 | 「秋」字印章 | Lettering element | 收尾页的落款印记 | no-crop | slice | Generated | Derived from sheet_lettering_title.jpg; 第2格 | embedded | local |
+| sheet_terms.png | 1024×1024 | 1:1 | 六个节气主视觉 doodle 的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个节气主视觉简笔画：啃秋西瓜、处暑鸭与河灯、白露草叶露珠与龙眼、秋分稻穗与天平、寒露黄菊与芝麻、霜降软柿与霜叶 | none | local |
+| sheet_phenology.png | 1024×1024 | 1:1 | 六个物候小图的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个物候小图：凉风、寒蝉、鸿雁、玄鸟、黄菊、霜晶 | none | local |
+| sheet_decor.png | 1024×1024 | 1:1 | 装饰件母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 2列2行纯键色底：星星簇、波浪箭头、虚线路线段、手绘横幅飘带 | none | local |
+| sheet_food.png | 1024×1024 | 1:1 | 时令食物小图母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底：西瓜块、烤鸭腿、龙眼、秋菜鱼片汤、芝麻、软柿 | none | local |
+| sheet_lettering_terms.png | 1376×768 | 34:19 | 六个节气名的手绘题字母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 3列2行纯键色底，每格一个横排两字手写题字：立秋／处暑／白露／秋分／寒露／霜降 | embedded | local |
+| sheet_lettering_title.png | 1376×768 | 34:19 | 封面题字与落款印章的母表 | Illustration Sheet | 不落页，仅供切片 | no-crop | ai | Generated | 1列2行纯键色底，上格封面题字「二十四节气手账·秋」，下格「秋」字印章 | embedded | local |
+| term_liqiu.png | 268×269 | 1:1 | 立秋页主视觉 | Illustration element | 页面上半区主视觉，压在波浪路线的第一站上 | no-crop | slice | Generated | Derived from sheet_terms.png; 第1格 | none | local |
+| term_chushu.png | 294×309 | 19:20 | 处暑页主视觉 | Illustration element | 横幅标题右侧，与河灯栏并置 | no-crop | slice | Generated | Derived from sheet_terms.png; 第2格 | none | local |
+| term_bailu.png | 257×307 | 5:6 | 白露页主视觉 | Illustration element | 页面下半区，承接雁的飞行弧线终点 | no-crop | slice | Generated | Derived from sheet_terms.png; 第3格 | none | local |
+| term_qiufen.png | 258×289 | 17:19 | 秋分页主视觉 | Illustration element | 中轴对称构图的轴心 | no-crop | slice | Generated | Derived from sheet_terms.png; 第4格 | none | local |
+| term_hanlu.png | 268×265 | 1:1 | 寒露页主视觉 | Illustration element | 上坡路线的坡顶 | no-crop | slice | Generated | Derived from sheet_terms.png; 第5格 | none | local |
+| term_shuangjiang.png | 269×252 | 16:15 | 霜降页主视觉 | Illustration element | 云朵框内的主体 | no-crop | slice | Generated | Derived from sheet_terms.png; 第6格 | none | local |
+| ph_coolwind.png | 240×204 | 20:17 | 凉风至 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.png; 第1格 | none | local |
+| ph_cicada.png | 184×251 | 11:15 | 寒蝉鸣 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.png; 第2格 | none | local |
+| ph_goose.png | 270×215 | 5:4 | 鸿雁来 | Illustration element | 沿手绘飞行弧线移动的主体，白露与寒露两页复用 | no-crop | slice | Generated | Derived from sheet_phenology.png; 第3格 | none | local |
+| ph_swallow.png | 238×232 | 21:20 | 玄鸟归 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.png; 第4格 | none | local |
+| ph_chrysanthemum.png | 262×225 | 7:6 | 菊有黄花 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.png; 第5格 | none | local |
+| ph_frost.png | 237×231 | 21:20 | 霜与草木黄落 | Illustration element | 三候行的行首小图 | no-crop | slice | Generated | Derived from sheet_phenology.png; 第6格 | none | local |
+| decor_star.png | 349×348 | 1:1 | 星星簇装饰 | Illustration element | 空白角落点缀 | no-crop | slice | Generated | Derived from sheet_decor.png; 第1格 | none | local |
+| decor_arrow.png | 367×268 | 26:19 | 波浪箭头 | Illustration element | 连接两块内容的指向 | no-crop | slice | Generated | Derived from sheet_decor.png; 第2格 | none | local |
+| decor_route.png | 438×54 | 73:9 | 虚线路线段 | Illustration element | 总览页与收尾页的路线装饰 | no-crop | slice | Generated | Derived from sheet_decor.png; 第3格 | none | local |
+| decor_ribbon.png | 452×166 | 49:18 | 手绘横幅飘带 | Illustration element | 承载页面标题的横幅 | no-crop | slice | Generated | Derived from sheet_decor.png; 第4格 | none | local |
+| food_watermelon.png | 277×240 | 15:13 | 啃秋西瓜 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.png; 第1格 | none | local |
+| food_duck.png | 274×213 | 9:7 | 处暑鸭 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.png; 第2格 | none | local |
+| food_longan.png | 250×282 | 8:9 | 白露龙眼 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.png; 第3格 | none | local |
+| food_qiucai.png | 261×316 | 14:17 | 秋分秋汤 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.png; 第4格 | none | local |
+| food_sesame.png | 257×214 | 6:5 | 寒露芝麻 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.png; 第5格 | none | local |
+| food_persimmon.png | 235×281 | 5:6 | 霜降柿子 | Illustration element | 食物页拼盘中的一件 | no-crop | slice | Generated | Derived from sheet_food.png; 第6格 | none | local |
+| let_cover.png | 1237×173 | 143:20 | 封面题字「二十四节气手账·秋」 | Lettering element | 封面横幅上方的显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_title.png; 第1格 | embedded | hero_page |
+| let_liqiu.png | 366×170 | 28:13 | 题字「立秋」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.png; 第1格 | embedded | local |
+| let_chushu.png | 344×204 | 27:16 | 题字「处暑」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.png; 第2格 | embedded | local |
+| let_bailu.png | 335×191 | 7:4 | 题字「白露」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.png; 第3格 | embedded | local |
+| let_qiufen.png | 361×181 | 2:1 | 题字「秋分」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.png; 第4格 | embedded | local |
+| let_hanlu.png | 360×214 | 32:19 | 题字「寒露」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.png; 第5格 | embedded | local |
+| let_shuangjiang.png | 361×215 | 32:19 | 题字「霜降」 | Lettering element | 节气页顶部显示层，原生标题另置 | no-crop | slice | Generated | Derived from sheet_lettering_terms.png; 第6格 | embedded | local |
+| let_seal.png | 253×254 | 1:1 | 「秋」字印章 | Lettering element | 收尾页的落款印记 | no-crop | slice | Generated | Derived from sheet_lettering_title.png; 第2格 | embedded | local |
 
 ## IX. Content Outline
 

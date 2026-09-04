@@ -12,7 +12,7 @@
   },
   "items": [
     {
-      "filename": "sheet_terms.jpg",
+      "filename": "sheet_terms.png",
       "purpose": "六个节气主视觉 doodle 的母表（切片源）",
       "page_role": "local",
       "text_policy": "none",
@@ -24,7 +24,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_phenology.jpg",
+      "filename": "sheet_phenology.png",
       "purpose": "六个物候小图母表（切片源）",
       "page_role": "local",
       "text_policy": "none",
@@ -36,7 +36,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_decor.jpg",
+      "filename": "sheet_decor.png",
       "purpose": "装饰件母表（切片源）",
       "page_role": "local",
       "text_policy": "none",
@@ -48,7 +48,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_food.jpg",
+      "filename": "sheet_food.png",
       "purpose": "六件时令食物小图母表（切片源）",
       "page_role": "local",
       "text_policy": "none",
@@ -60,7 +60,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_lettering_terms.jpg",
+      "filename": "sheet_lettering_terms.png",
       "purpose": "六个节气名手绘题字母表（切片源）",
       "page_role": "local",
       "text_policy": "embedded",
@@ -72,7 +72,7 @@
       "status": "Generated"
     },
     {
-      "filename": "sheet_lettering_title.jpg",
+      "filename": "sheet_lettering_title.png",
       "purpose": "封面题字与落款印章母表（切片源）",
       "page_role": "local",
       "text_policy": "embedded",

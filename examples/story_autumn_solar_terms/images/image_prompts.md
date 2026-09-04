@@ -10,7 +10,7 @@
 
 ---
 
-### Image 1: sheet_terms.jpg
+### Image 1: sheet_terms.png
 
 | Attribute | Value |
 |---|---|
@@ -31,7 +31,7 @@ CRITICAL BACKGROUND RULE, applied before anything else: the one and only backgro
 
 ---
 
-### Image 2: sheet_phenology.jpg
+### Image 2: sheet_phenology.png
 
 | Attribute | Value |
 |---|---|
@@ -52,7 +52,7 @@ CRITICAL BACKGROUND RULE, applied before anything else: the one and only backgro
 
 ---
 
-### Image 3: sheet_decor.jpg
+### Image 3: sheet_decor.png
 
 | Attribute | Value |
 |---|---|
@@ -73,7 +73,7 @@ CRITICAL BACKGROUND RULE, applied before anything else: the one and only backgro
 
 ---
 
-### Image 4: sheet_food.jpg
+### Image 4: sheet_food.png
 
 | Attribute | Value |
 |---|---|
@@ -94,7 +94,7 @@ CRITICAL BACKGROUND RULE, applied before anything else: the one and only backgro
 
 ---
 
-### Image 5: sheet_lettering_terms.jpg
+### Image 5: sheet_lettering_terms.png
 
 | Attribute | Value |
 |---|---|
@@ -115,7 +115,7 @@ CRITICAL BACKGROUND RULE, applied before anything else: the one and only backgro
 
 ---
 
-### Image 6: sheet_lettering_title.jpg
+### Image 6: sheet_lettering_title.png
 
 | Attribute | Value |
 |---|---|
