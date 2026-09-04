@@ -11,7 +11,7 @@
 
 ## Directories
 
-- `svg_output/`, `svg_final/`, `images/`, `icons/`, `sources/`, `animations.json`, `exports/` as in the other examples; no spec or lock (Quick runtime)
+- `svg_output/`, `svg_final/`, `images/`, `sources/`, `animations.json`, `exports/` as in the other examples; no spec or lock (Quick runtime)
 
 ## Regenerate the PPTX
 
