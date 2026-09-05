@@ -17,7 +17,7 @@
     <text x="82" y="436" font-size="24" fill="#C9DBEA">The Transformer, explained:<tspan x="82" dy="34">one paper, no recurrence, no convolutions,</tspan><tspan x="82" dy="34">and a training run measured in days</tspan></text>
   </g>
 
-  <g id="authors-block" data-pptx-bounds="80 540 700 60">
+  <g id="authors-block" data-pptx-bounds="80 540 780 60">
     <text x="82" y="562" font-family="Consolas" font-size="14" fill="#9CB4CC" letter-spacing="1">VASWANI · SHAZEER · PARMAR · USZKOREIT · JONES · GOMEZ · KAISER · POLOSUKHIN<tspan x="82" dy="26">GOOGLE BRAIN · GOOGLE RESEARCH</tspan></text>
   </g>
 

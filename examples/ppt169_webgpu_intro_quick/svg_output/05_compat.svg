@@ -42,7 +42,7 @@
     <text x="680" y="440" font-size="18" fill="#8DA2C0">受限应用仍然是合法的 core 应用,因此在所有<tspan x="680" dy="26">支持 core WebGPU 的浏览器上都能运行。</tspan></text>
   </g>
 
-  <g id="p05-code-a" data-pptx-bounds="56 516 568 148">
+  <g id="p05-code-a" data-pptx-bounds="56 516 600 148">
     <rect x="56" y="520" width="568" height="140" rx="6" fill="#0B1120" stroke="#22354F" stroke-width="1.5"/>
     <text x="80" y="548" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#6F8399">js · 请求兼容模式适配器</text>
     <text x="80" y="586" font-family="Consolas" font-size="19" fill="#BFD6EE" xml:space="preserve">const adapter = await navigator.gpu<tspan x="80" dy="28">  .requestAdapter({ featureLevel: "compatibility" });</tspan></text>

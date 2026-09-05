@@ -15,7 +15,7 @@
     <text font-weight="bold" fill="#E8F1FA" font-size="66" x="80" y="292">Attention Is</text><text font-weight="bold" fill="#E8F1FA" font-size="66" x="80" y="364">All You Need</text><line x1="82" y1="392" x2="262" y2="392" stroke="#F5A623" stroke-width="3" />
     <text fill="#C9DBEA" font-size="24" x="82" y="436">The Transformer, explained:</text><text fill="#C9DBEA" font-size="24" x="82" y="470">one paper, no recurrence, no convolutions,</text><text fill="#C9DBEA" font-size="24" x="82" y="504">and a training run measured in days</text></g>
 
-  <g id="authors-block" data-pptx-bounds="80 540 700 60">
+  <g id="authors-block" data-pptx-bounds="80 540 780 60">
     <text fill="#9CB4CC" font-family="Consolas" font-size="14" letter-spacing="1" x="82" y="562">VASWANI · SHAZEER · PARMAR · USZKOREIT · JONES · GOMEZ · KAISER · POLOSUKHIN</text><text fill="#9CB4CC" font-family="Consolas" font-size="14" letter-spacing="1" x="82" y="588">GOOGLE BRAIN · GOOGLE RESEARCH</text></g>
 
   <g id="sheet-block" data-pptx-role="footer" data-pptx-bounds="1000 668 220 32" font-family="Consolas" font-size="12" fill="#9CB4CC">

@@ -39,7 +39,7 @@
     <text x="932" y="237" font-size="20" fill="#A78BFA">可选档</text>
     <text fill="#E8EEF9" font-size="24" x="680" y="300">只支持能在 OpenGL ES 3.1、</text><text fill="#E8EEF9" font-size="24" x="680" y="336">Direct3D 11 等更老图形 API 上</text><text fill="#E8EEF9" font-size="24" x="680" y="372"><tspan>运行的<tspan fill="#A78BFA" font-weight="bold">受限子集</tspan>。</tspan></text><text fill="#8DA2C0" font-size="18" x="680" y="440">受限应用仍然是合法的 core 应用,因此在所有</text><text fill="#8DA2C0" font-size="18" x="680" y="466">支持 core WebGPU 的浏览器上都能运行。</text></g>
 
-  <g id="p05-code-a" data-pptx-bounds="56 516 568 148">
+  <g id="p05-code-a" data-pptx-bounds="56 516 600 148">
     <rect x="56" y="520" width="568" height="140" rx="6" fill="#0B1120" stroke="#22354F" stroke-width="1.5" />
     <text x="80" y="548" font-family="Consolas" font-size="16" letter-spacing="1.6" fill="#6F8399">js · 请求兼容模式适配器</text>
     <text fill="#BFD6EE" font-family="Consolas" font-size="19" xml:space="preserve" x="80" y="586">const adapter = await navigator.gpu</text><text fill="#BFD6EE" font-family="Consolas" font-size="19" xml:space="preserve" x="80" y="614">  .requestAdapter({ featureLevel: "compatibility" });</text></g>

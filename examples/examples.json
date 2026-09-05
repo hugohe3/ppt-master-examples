@@ -923,7 +923,7 @@
     {
       "id": "ppt169_webgpu_intro_quick",
       "title": "WebGPU 是什么",
-      "description": "技术入门简报 12 页 — 以 MDN WebGPU API 概览页为源,暗色科技风,7 段原生可编辑 Consolas 代码块,32 个预设形状与 3 对 Morph,Quick 路线源文件驱动生成",
+      "description": "技术入门简报 12 页 — 以 MDN WebGPU API 概览页为源,暗色科技风,7 段原生可编辑 Consolas 代码块,32 个预设形状与 3 对 Morph,Quick 路线源文件驱动生成 (2026-09-04 生成;2026-09-05 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "🖥️",
       "color": "#0B1220",
       "style": "technical",
@@ -1484,7 +1484,7 @@
     {
       "id": "ppt169_attention_is_all_you_need",
       "title": "Attention Is All You Need",
-      "description": "Transformer 原论文深读 — 蓝图图纸风,结构图 + 公式 + 表格,带备注与动画,Quick 路线生成",
+      "description": "Transformer 原论文深读 — 蓝图图纸风,结构图 + 公式 + 表格,带备注与动画,Quick 路线生成 (2026-08 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "🧠",
       "color": "#1A365D",
       "style": "technical",
@@ -2039,7 +2039,7 @@
     {
       "id": "ppt169_what_is_ppt",
       "title": "什么是 PPT",
-      "description": "“PPT 到底是什么”17 页系统讲解 — 蓝图×编辑杂志混合风,AI 线稿插图 + 备注 + 动画,Default 路线生成",
+      "description": "“PPT 到底是什么”17 页系统讲解 — 蓝图×编辑杂志混合风,AI 线稿插图 + 备注 + 动画,Default 路线生成 (2026-07 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "📽️",
       "color": "#1A2B4A",
       "style": "editorial",
