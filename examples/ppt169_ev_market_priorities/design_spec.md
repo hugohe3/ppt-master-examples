@@ -26,7 +26,7 @@
 | Narration Audio | disabled — workflow default |
 | Created Date | 2026-09-05 |
 
-- **Template Application**: 采用已安装的 consulting-decision 方法模板:答案先行的论证链(总答案 → 关键支撑 → 页面信息 → 证据)、事实/假设/推论/建议四类表述分开、每页一个行动标题;其 swiss-minimal 视觉种子在本项目扩展为咨询文档惯例(见 §III),页面为自由设计的扁平结构,不引入模板原型或原生结构。
+- **Template Application**: 采用已安装的 mbb-consulting 方法模板(自 consulting-decision 继承论证方法,视觉改为文档密度惯例):答案先行的论证链(总答案 → 关键支撑 → 页面信息 → 证据)、事实/假设/推论/建议四类表述分开、每页一个行动标题;其 swiss-minimal 视觉种子在本项目扩展为咨询文档惯例(见 §III),页面为自由设计的扁平结构,不引入模板原型或原生结构。
 
 ## II. Canvas Specification
 
