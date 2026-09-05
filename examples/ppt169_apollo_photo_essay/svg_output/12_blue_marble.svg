@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="ending">
+  <defs>
+    <linearGradient id="p12Scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06080B" stop-opacity="0.88"/>
+      <stop offset="34%" stop-color="#06080B" stop-opacity="0.62"/>
+      <stop offset="58%" stop-color="#06080B" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#06080B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p12-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p12-photo" data-pptx-role="background" data-pptx-bounds="560 30 720 690">
+    <image href="../images/09_blue_marble.jpg" x="560" y="30" width="760" height="760" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <rect id="p12-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p12Scrim)"/>
+
+  <g id="p12-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1972 · APOLLO 17</text>
+  </g>
+
+  <g id="p12-title" data-pptx-bounds="72 138 524 150">
+    <text x="72" y="190" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">走的时候，<tspan x="72" dy="72">他说我们还会回来</tspan></text>
+  </g>
+
+  <g id="p12-closing" data-pptx-bounds="72 300 524 88">
+    <text x="72" y="330" font-size="30" fill="#DAD5CA">十二个人走过月面，<tspan x="72" dy="40">此后没有第十三个。</tspan></text>
+  </g>
+
+  <g id="p12-quote" data-pptx-bounds="72 400 524 128">
+    <text x="72" y="424" font-size="22" fill="#E9E4D9">“we leave as we came and,<tspan x="72" dy="30">God willing, as we shall return,</tspan><tspan x="72" dy="30">with peace and hope for</tspan><tspan x="72" dy="30">all mankind.”</tspan></text>
+  </g>
+
+  <g id="p12-attrib" data-pptx-bounds="72 532 524 30">
+    <text x="72" y="550" font-size="18" fill="#D2622B">—— Eugene Cernan · 1972.12.14 UTC</text>
+  </g>
+
+  <g id="p12-facts" data-pptx-bounds="72 566 524 120">
+    <text x="72" y="586" font-size="18" fill="#98A0A9">AS17-148-22727<tspan x="72" dy="22">1972.12.07 10:39 UTC</tspan><tspan x="72" dy="22">距地表约 29,400 公里</tspan><tspan x="72" dy="22">NASA 把版权归属乘组，</tspan><tspan x="72" dy="22">实际很可能是 Schmitt 按的快门。</tspan></text>
+  </g>
+</svg>

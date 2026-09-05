@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="section">
+  <rect id="p05-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#111111" />
+  <rect id="p05-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#3A3A3A" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 379 4">
+    <rect x="72" y="76" width="379" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p05-chapter-icon" data-pptx-bounds="1152 240 64 64">
+    
+  <g transform="translate(1160, 248) scale(2)" fill="none" stroke="#C8102E" stroke-width="1.5">
+    <path d="M4.28 14h15.44a1 1 0 0 0 .97 -1.243l-1.5 -6a1 1 0 0 0 -.97 -.757h-12.44a1 1 0 0 0 -.97 .757l-1.5 6a1 1 0 0 0 .97 1.243" />
+    <path d="M4 10h16" />
+    <path d="M10 6l-1 8" />
+    <path d="M14 6l1 8" />
+    <path d="M12 14v4" />
+    <path d="M7 18h10" />
+  </g>
+  </g>
+
+  <g id="chapter-numeral" data-pptx-bounds="72 300 216 200">
+    <text x="72" y="440" font-family="Arial Black" font-size="160" font-weight="bold" fill="#FFFFFF">01</text>
+  </g>
+
+  <line id="p05-split" data-pptx-role="decoration" x1="312" y1="304" x2="312" y2="550" stroke="#3A3A3A" stroke-width="1" />
+
+  <g id="p05-assertion" data-pptx-bounds="360 356 848 116">
+    <text font-size="44" fill="#FFFFFF" font-weight="bold" x="360" y="400">便宜来自学习率，</text><text font-size="44" fill="#FFFFFF" font-weight="bold" x="360" y="454">不是补贴，也不是运气</text></g>
+
+  <g id="p05-question" data-pptx-bounds="360 510 848 48">
+    <text x="360" y="540" font-size="30" fill="#D4D4D4">如果不是补贴，那 <tspan fill="#C8102E" font-weight="bold">81%</tspan> 是从哪里来的</text>
+  </g>
+
+  <line id="p05-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#3A3A3A" stroke-width="1" />
+
+  <g id="p05-footer" data-pptx-bounds="72 668 1136 24" fill="#D4D4D4" font-size="16">
+    <text x="72" y="684">判断一 · 便宜来自制造规模</text>
+    <text x="1208" y="684" text-anchor="end">05</text>
+  </g>
+</svg>

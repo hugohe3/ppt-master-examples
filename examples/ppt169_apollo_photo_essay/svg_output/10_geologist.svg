@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <clipPath id="p10LensClip">
+      <ellipse cx="0.155" cy="0.805" rx="0.0316" ry="0.055"/>
+    </clipPath>
+  </defs>
+
+  <rect id="p10-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p10-photo" data-pptx-role="background" data-pptx-bounds="0 0 1280 720">
+    <image href="../images/08_schmitt_boulder.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <circle id="p10-marker" data-pptx-role="decoration" cx="188" cy="591" r="32" fill="none" stroke="#D2622B" stroke-width="2"/>
+  <line id="p10-leader" data-pptx-role="decoration" x1="1020" y1="177" x2="218" y2="573" stroke="#D2622B" stroke-width="1" stroke-dasharray="4,4" stroke-opacity="0.7"/>
+
+  <g id="p10-lens" data-pptx-bounds="1010 40 190 190">
+    <svg x="1010" y="40" width="190" height="190" viewBox="0.1234 0.75 0.0632 0.11" preserveAspectRatio="none" overflow="hidden" data-pptx-crop="1">
+      <image href="../images/08_schmitt_boulder.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none" clip-path="url(#p10LensClip)"/>
+    </svg>
+    <circle cx="1105" cy="135" r="95" fill="none" stroke="#D2622B" stroke-width="2"/>
+  </g>
+
+  <g id="p10-era" data-pptx-bounds="72 46 400 44">
+    <line x1="72" y1="66" x2="128" y2="66" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="74" font-size="22" letter-spacing="3" fill="#98A0A9">1972 · APOLLO 17</text>
+  </g>
+
+  <g id="p10-title" data-pptx-bounds="72 100 900 76">
+    <text x="72" y="152" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">最后一次去的人里，有地质学家</text>
+  </g>
+
+  <g id="p10-body" data-pptx-bounds="72 178 900 44">
+    <text x="72" y="204" font-size="30" fill="#DAD5CA">阿波罗17号是载人土星五号<tspan fill="#E9E4D9" font-weight="bold">唯一一次夜间发射</tspan>。</text>
+  </g>
+
+  <g id="p10-band" data-pptx-bounds="0 624 1280 96">
+    <rect x="0" y="624" width="1280" height="96" fill="#161A20"/>
+    <text x="72" y="648" font-size="22" fill="#DAD5CA">着陆 Taurus–Littrow · 三次月面行走 22 小时 4 分 · 月球车穿越 30.5 公里（NASA 口径）<tspan x="72" dy="30">Schmitt 在 Shorty 陨石坑发现橙色土壤——35 亿年前的极细火山玻璃珠</tspan></text>
+    <text x="72" y="706" font-size="18" fill="#6E7B8A">S73-22871 · NASA · 岩面上的 “Tracy” 出自 1984 年的一幅画，原照片里没有</text>
+  </g>
+</svg>

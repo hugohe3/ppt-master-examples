@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p09Scrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#06080B" stop-opacity="0.88"/>
+      <stop offset="38%" stop-color="#06080B" stop-opacity="0.76"/>
+      <stop offset="56%" stop-color="#06080B" stop-opacity="0.04"/>
+      <stop offset="82%" stop-color="#06080B" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#06080B" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p09-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p09-photo" data-pptx-role="background" data-pptx-bounds="0 0 1280 720">
+    <image href="../images/07_irwin_rover.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <rect id="p09-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p09Scrim)"/>
+
+  <g id="p09-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1971 · APOLLO 15</text>
+  </g>
+
+  <g id="p09-credit" data-pptx-bounds="540 64 668 60" text-anchor="end">
+    <text x="1208" y="88" font-size="22" fill="#98A0A9">乘组：大卫·斯科特 / 阿尔弗莱德·沃尔登 / 詹姆斯·艾尔文</text>
+    <text x="1208" y="116" font-size="18" fill="#6E7B8A">AS15-88-11866 · 摄影 David R. Scott / NASA</text>
+  </g>
+
+  <g id="p09-title" data-pptx-bounds="72 128 800 90">
+    <text x="72" y="180" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">1971年，他们开始开车</text>
+  </g>
+
+  <g id="p09-body" data-pptx-bounds="72 224 1000 84">
+    <text x="72" y="254" font-size="30" fill="#DAD5CA">阿波罗15号第一次把月球车带上月面，在哈德利—亚平宁<tspan x="72" dy="40">一共开了 <tspan fill="#E9E4D9" font-weight="bold">27.9 公里</tspan>。空车 210 公斤，设计最高时速 10 公里。</tspan></text>
+  </g>
+
+  <g id="p09-card" data-pptx-bounds="0 664 760 56">
+    <rect x="0" y="664" width="760" height="56" fill="#161A20"/>
+    <text x="72" y="700" font-size="22" fill="#98A0A9">收尾时 Scott 当着电视镜头同时放下羽毛和地质锤</text>
+  </g>
+</svg>

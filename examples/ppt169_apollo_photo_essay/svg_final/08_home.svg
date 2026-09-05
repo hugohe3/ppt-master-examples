@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <marker id="p08Arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#D2622B" />
+    </marker>
+  </defs>
+
+  <rect id="p08-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11" />
+
+  <g id="p08-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2" />
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1970 · APOLLO 13</text>
+  </g>
+
+  <g id="p08-title" data-pptx-bounds="72 138 1136 80">
+    <text x="72" y="190" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">回家的路，是绕着月球再走一圈</text>
+  </g>
+
+  <g id="p08-swap" data-pptx-bounds="72 256 528 200">
+    <text x="72" y="280" font-size="22" fill="#D2622B">临阵换人</text>
+    <text fill="#DAD5CA" font-size="30" x="72" y="320">发射前两天，备份乘组的 Duke</text><text fill="#DAD5CA" font-size="30" x="72" y="360">感染风疹，同批训练的五人中</text><text fill="#DAD5CA" font-size="30" x="72" y="400">只有 Mattingly 没有免疫力，</text><text fill="#DAD5CA" font-size="30" x="72" y="440">于是 Swigert 顶替了他。</text></g>
+
+  <g id="p08-diagram" data-pptx-bounds="664 230 540 344">
+    <circle cx="1030" cy="400" r="110" fill="#161A20" stroke="#39414A" stroke-width="1" />
+    <text x="1030" y="408" font-size="22" text-anchor="middle" fill="#6E7B8A">月球</text>
+    <circle cx="700" cy="400" r="26" fill="#1E242B" stroke="#6E7B8A" stroke-width="1.5" />
+    <text x="700" y="458" font-size="22" text-anchor="middle" fill="#98A0A9">地球</text>
+    <line x1="726" y1="392" x2="1086" y2="245" stroke="#D2622B" stroke-width="3" />
+    <line x1="1086" y1="555" x2="726" y2="410" stroke="#D2622B" stroke-width="3" marker-end="url(#p08Arrow)" />
+    <g id="p08-swing" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="865 235 330 330" data-pptx-av-adj1="val 17400000" data-pptx-av-adj2="val 4200000" fill="none" stroke="#D2622B" stroke-width="3">
+<path d="M 1086.43 244.95 A 165 165 0 0 1 1086.43 555.05 L 1030 400 Z" stroke="none" />
+<path d="M 1086.43 244.95 A 165 165 0 0 1 1086.43 555.05" />
+</g>
+    <text x="742" y="300" font-size="22" fill="#D2622B">自由返回轨道</text>
+  </g>
+
+  <g id="p08-record" data-pptx-bounds="72 590 1136 90">
+    <text fill="#DAD5CA" font-size="30" x="72" y="620">过近月点时距地球 <tspan fill="#E9E4D9" font-weight="bold">400,171 公里</tspan>，这项纪录保持了半个多世纪。</text><text fill="#DAD5CA" font-size="30" x="72" y="660">2026 年 4 月 6 日，Artemis II 乘组以 252,756 英里打破了它。</text></g>
+
+  <g id="p08-splash" data-pptx-bounds="72 686 700 32">
+    <text x="72" y="702" font-size="18" fill="#6E7B8A">1970.04.17 溅落南太平洋 · 全程 5 天 22 小时 54 分 41 秒</text>
+  </g>
+</svg>

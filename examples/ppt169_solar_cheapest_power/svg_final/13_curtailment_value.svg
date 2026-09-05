@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p13-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p13-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 985 4">
+    <rect x="72" y="76" width="985" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p13-headline" data-pptx-bounds="72 100 1136 112">
+    <text font-size="44" fill="#111111" font-weight="bold" x="72" y="140">弃电与负电价同步上升，</text><text font-size="44" fill="#111111" font-weight="bold" x="72" y="194">光伏卖出的每度电正在贬值</text></g>
+
+  <g id="p13-curtail" data-pptx-bounds="72 240 560 202">
+    <text x="72" y="264" font-size="24" font-weight="bold" fill="#111111">弃电：可治理，但治理有代价</text>
+    <text font-size="18" fill="#1A1A1A" x="72" y="302">中国 2010 年代初弃风弃光率曾达 15%，经省级</text><text font-size="18" fill="#1A1A1A" x="72" y="328">&lt;5% 目标、电价改革与年均 USD 880 亿电网投资</text><text font-size="18" fill="#1A1A1A" x="72" y="354">降至 3% 以下；2024 年为缓解拥堵将高渗透率省</text><text font-size="18" fill="#1A1A1A" x="72" y="380"><tspan>份上限由 5% 提高到 10%，弃光率升至 <tspan font-weight="bold" fill="#C8102E">3.2%</tspan></tspan></text><text font-size="18" fill="#1A1A1A" x="72" y="406">加州 2024 年 CAISO 弃电 340 万 MWh（+29%），光伏</text><text font-size="18" fill="#1A1A1A" x="72" y="432">占 93%；WEIM 当年避免逾 274,000 MWh 弃电</text></g>
+
+  <g id="p13-capture" data-pptx-bounds="72 462 560 180">
+    <text x="72" y="488" font-size="24" font-weight="bold" fill="#111111">价值贬损：捕获率同步崩塌</text>
+    <text font-size="18" fill="#1A1A1A" x="72" y="526">捕获系数（2025 → 2026 同月）：法国 <tspan font-weight="bold" fill="#C8102E">0.42 → 0.10</tspan></text><text font-size="18" fill="#1A1A1A" x="72" y="552">德国 0.40 → 0.26 · 波兰 0.54 → 0.40</text><text font-size="18" fill="#1A1A1A" x="72" y="578">意大利 0.75 → 0.71 · 西班牙 0.71 → 0.18</text><text font-size="18" fill="#1A1A1A" x="72" y="604">德国 2024 捕获电价 EUR 47/MWh、捕获率 59%（欧洲最低）</text><text font-size="18" fill="#1A1A1A" x="72" y="630">2025 年约 54%，2022 年曾达 98%</text></g>
+
+  <line id="p13-split" data-pptx-role="decoration" x1="652" y1="236" x2="652" y2="620" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="negative-price-hours" data-pptx-replace-with="chart" data-pptx-bounds="672 236 536 384" data-pptx-fallback-sha256="4213fb01689133e1309a306e324ae3cd285b437752c258e68b2275cc4a6687b0">
+    <metadata type="application/json">
+{
+  "x": 672,
+  "y": 236,
+  "width": 536,
+  "height": 384,
+  "name": "negative-price-hours",
+  "type": "bar",
+  "grouping": "clustered",
+  "categories": [
+    "法国 4 月",
+    "德国 4 月",
+    "波兰 4 月",
+    "西班牙 2 月"
+  ],
+  "series": [
+    {
+      "name": "2025 同月",
+      "values": [
+        90,
+        75,
+        75,
+        0
+      ]
+    },
+    {
+      "name": "2026 同月",
+      "values": [
+        139,
+        123,
+        87,
+        148
+      ]
+    }
+  ],
+  "axes": {
+    "category": {
+      "kind": "text",
+      "position": "left"
+    },
+    "value": {
+      "kind": "value",
+      "position": "bottom",
+      "minimum": 0,
+      "maximum": 160,
+      "major_unit": 40,
+      "major_gridlines": true,
+      "color": "#6E6E6E",
+      "font_family": "Arial"
+    }
+  },
+  "data_labels": {
+    "show_value": true,
+    "position": "outside_end",
+    "font_size": 18,
+    "font_family": "Arial",
+    "color": "#111111"
+  },
+  "notes": [
+    {
+      "text": "月度负电价小时数（Pexapark）",
+      "x": 800,
+      "y": 242,
+      "width": 340,
+      "height": 26,
+      "font_size": 18,
+      "color": "#6E6E6E"
+    }
+  ],
+  "plot_area": {
+    "x": 800,
+    "y": 280,
+    "width": 380,
+    "height": 280
+  },
+  "style": {
+    "colors": [
+      "#D4D4D4",
+      "#C8102E"
+    ],
+    "chart_area_fill": "#FFFFFF",
+    "plot_area_fill": "#FFFFFF",
+    "axis_color": "#D4D4D4",
+    "grid_color": "#E8E8E8",
+    "text_color": "#111111",
+    "font_family": "Arial",
+    "font_size": 20
+  }
+}
+</metadata>
+    <g id="negative-price-hours-chartArea">
+      <line id="p13-grid-40" x1="895" y1="280" x2="895" y2="560" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p13-grid-80" x1="990" y1="280" x2="990" y2="560" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p13-grid-120" x1="1085" y1="280" x2="1085" y2="560" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p13-grid-160" x1="1180" y1="280" x2="1180" y2="560" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p13-axis-y" x1="800" y1="280" x2="800" y2="560" stroke="#D4D4D4" stroke-width="1" />
+      <line id="p13-axis-x" x1="800" y1="560" x2="1180" y2="560" stroke="#D4D4D4" stroke-width="1" />
+      <text x="792" y="327" font-size="20" fill="#1A1A1A" text-anchor="end">法国 4 月</text>
+      <text x="792" y="397" font-size="20" fill="#1A1A1A" text-anchor="end">德国 4 月</text>
+      <text x="792" y="467" font-size="20" fill="#1A1A1A" text-anchor="end">波兰 4 月</text>
+      <text x="792" y="537" font-size="20" fill="#1A1A1A" text-anchor="end">西班牙 2 月</text>
+      <text x="800" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">0</text>
+      <text x="895" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">40</text>
+      <text x="990" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">80</text>
+      <text x="1085" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">120</text>
+      <text x="1180" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">160</text>
+      
+      <rect x="800" y="289" width="213.8" height="24" fill="#D4D4D4" />
+      <rect x="800" y="317" width="330.1" height="24" fill="#C8102E" />
+      <rect x="800" y="359" width="178.1" height="24" fill="#D4D4D4" />
+      <rect x="800" y="387" width="292.1" height="24" fill="#C8102E" />
+      <rect x="800" y="429" width="178.1" height="24" fill="#D4D4D4" />
+      <rect x="800" y="457" width="206.6" height="24" fill="#C8102E" />
+      <rect x="800" y="527" width="351.5" height="24" fill="#C8102E" />
+      <text x="1021.8" y="306" font-family="Arial" font-size="18" fill="#111111">90</text>
+      <text x="1138.1" y="334" font-family="Arial" font-size="18" fill="#111111">139</text>
+      <text x="986.1" y="376" font-family="Arial" font-size="18" fill="#111111">75</text>
+      <text x="1100.1" y="404" font-family="Arial" font-size="18" fill="#111111">123</text>
+      <text x="986.1" y="446" font-family="Arial" font-size="18" fill="#111111">75</text>
+      <text x="1014.6" y="474" font-family="Arial" font-size="18" fill="#111111">87</text>
+      <text x="808" y="516" font-family="Arial" font-size="18" fill="#111111">0</text>
+      <text x="1159.5" y="544" font-family="Arial" font-size="18" fill="#111111">148</text>
+      <text x="800" y="258" font-size="18" fill="#6E6E6E">月度负电价小时数（Pexapark）</text>
+    </g>
+  </g>
+
+  <line id="p13-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p13-footer" data-pptx-bounds="72 662 1136 48" fill="#6E6E6E" font-size="16">
+    <text x="72" y="680">来源：IEA《Renewables 2025》、美国 EIA（CAISO）、Pexapark（经 pv magazine 转述）；IEA：弃电与负电价是系统灵活性不足的信号</text><text x="72" y="702">拥堵成本已出现但仍不大：德国 &gt;EUR 5/MWh、西班牙约 4；约占居民电费 0.5–1.5%；美国 ISO New England &lt;USD 1 到 MISO USD 12/MWh</text><text x="1208" y="680" text-anchor="end">13</text>
+  </g>
+</svg>

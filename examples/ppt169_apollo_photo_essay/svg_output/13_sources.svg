@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="ending">
+  <defs>
+    <clipPath id="p13Circle">
+      <circle cx="988" cy="380" r="190"/>
+    </clipPath>
+  </defs>
+
+  <rect id="p13-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p13-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1968 — 1972</text>
+  </g>
+
+  <g id="p13-title" data-pptx-bounds="72 138 680 80">
+    <text x="72" y="190" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">来源与图片版权</text>
+  </g>
+
+  <g id="p13-photo" data-pptx-bounds="768 180 440 460">
+    <image href="../images/10_apollo11_liftoff.jpg" x="798" y="190" width="380" height="380" preserveAspectRatio="xMidYMid slice" clip-path="url(#p13Circle)"/>
+    <circle cx="988" cy="380" r="198" fill="none" stroke="#D2622B" stroke-width="2"/>
+    <text x="988" y="620" font-size="22" text-anchor="middle" fill="#98A0A9">阿波罗11号 · 1969.07.16 / NASA</text>
+  </g>
+
+  <g id="p13-heading" data-pptx-bounds="72 244 680 40">
+    <text x="72" y="266" font-size="22" fill="#98A0A9">事实来源（可点击）</text>
+  </g>
+
+  <g id="p13-links" data-pptx-bounds="72 286 680 160">
+    <text x="72" y="310" font-size="22" fill="#DAD5CA"><tspan x="72" dy="0"><a href="https://www.nasa.gov/the-apollo-program/"><tspan fill="#D2622B" text-decoration="underline">NASA · The Apollo Program</tspan></a></tspan><tspan x="72" dy="40"><a href="https://www.nasa.gov/missions/apollo/apollo-17-mission-details/"><tspan fill="#D2622B" text-decoration="underline">NASA · Apollo 17 Mission Details</tspan></a></tspan><tspan x="72" dy="40"><a href="https://eol.jsc.nasa.gov/SearchPhotos/"><tspan fill="#D2622B" text-decoration="underline">NASA JSC · Apollo Image Database</tspan></a></tspan><tspan x="72" dy="40"><a href="https://www.nasa.gov/nasa-brand-center/images-and-media/"><tspan fill="#D2622B" text-decoration="underline">NASA · Images and Media（版权说明）</tspan></a></tspan></text>
+  </g>
+
+  <g id="p13-license" data-pptx-bounds="72 466 680 76">
+    <text x="72" y="486" font-size="22" fill="#DAD5CA">NASA 声明其影像在美国境内一般不受版权保护，<tspan x="72" dy="30">使用时希望注明来源为 NASA；徽标与第三方素材另需许可。</tspan></text>
+  </g>
+
+  <g id="p13-ids" data-pptx-bounds="72 558 680 82">
+    <text x="72" y="578" font-size="18" fill="#6E7B8A">AS08-14-2383 · AS11-40-5868 · AS11-40-5878<tspan x="72" dy="24">AS11-40-5903 · AS13-59-8500 · AS15-88-11866</tspan><tspan x="72" dy="24">S73-22871 · AS17-148-22727 · GPN-2000-001150</tspan></text>
+  </g>
+
+  <g id="p13-facts" data-pptx-bounds="72 652 680 34">
+    <text x="72" y="668" font-size="18" fill="#6E7B8A">全卷 100 条外部事实，逐条挂到 fact_id</text>
+  </g>
+</svg>

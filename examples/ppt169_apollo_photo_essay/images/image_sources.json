@@ -1,0 +1,409 @@
+{
+  "items": [
+    {
+      "filename": "02_earthrise.jpg",
+      "slide": "02_earthrise",
+      "purpose": "full-bleed hero",
+      "search_query": "Earthrise Apollo 8",
+      "matched_query": "Earthrise Apollo 8",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "NASA Earthrise AS08-14-2383 Apollo 8, 1968-12-24, from print.jpg",
+      "author": "NASA",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:NASA_Earthrise_AS08-14-2383_Apollo_8,_1968-12-24,_from_print.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/NASA_Earthrise_AS08-14-2383_Apollo_8%2C_1968-12-24%2C_from_print.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 5550,
+      "height": 4446,
+      "attribution_text": "02_earthrise.jpg — \"NASA Earthrise AS08-14-2383 Apollo 8, 1968-12-24, from print.jpg\" by NASA via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 8|AS08",
+        "Earthrise"
+      ],
+      "query_variants": [
+        "AS08-14-2383",
+        "NASA Earthrise 1968",
+        "Apollo 8 Earthrise photograph"
+      ]
+    },
+    {
+      "filename": "03_ladder.jpg",
+      "slide": "04_ladder",
+      "purpose": "shaped crop, vertical",
+      "search_query": "Aldrin descends lunar module ladder",
+      "matched_query": "Aldrin descends lunar module ladder",
+      "orientation": "portrait",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "AS11-40-5868 - Apollo 11 - Apollo 11 Mission image - Astronaut Edwin Aldrin descends the Lunar Module ladder - NARA - 16685031.jpg",
+      "author": "Unknown author Unknown author or not provided",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:AS11-40-5868_-_Apollo_11_-_Apollo_11_Mission_image_-_Astronaut_Edwin_Aldrin_descends_the_Lunar_Module_ladder_-_NARA_-_16685031.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/AS11-40-5868_-_Apollo_11_-_Apollo_11_Mission_image_-_Astronaut_Edwin_Aldrin_descends_the_Lunar_Module_ladder_-_NARA_-_16685031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 3912,
+      "height": 3960,
+      "attribution_text": "03_ladder.jpg — \"AS11-40-5868 - Apollo 11 - Apollo 11 Mission image - Astronaut Edwin Aldrin descends the Lunar Module ladder - NARA - 16685031.jpg\" by Unknown author Unknown author or not provided via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 11|AS11",
+        "Aldrin|ladder"
+      ],
+      "query_variants": [
+        "AS11-40-5868",
+        "Apollo 11 Aldrin ladder",
+        "Aldrin climbing down Eagle ladder"
+      ]
+    },
+    {
+      "filename": "04_visor.jpg",
+      "slide": "05_visor",
+      "purpose": "full-bleed hero",
+      "search_query": "Buzz Aldrin visor Apollo 11",
+      "matched_query": "Buzz Aldrin visor Apollo 11",
+      "orientation": "any",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Aldrin Apollo 11 original.jpg",
+      "author": "Neil Armstrong",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11_original.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 3912,
+      "height": 3936,
+      "attribution_text": "04_visor.jpg — \"Aldrin Apollo 11 original.jpg\" by Neil Armstrong via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 11|AS11",
+        "Aldrin"
+      ],
+      "query_variants": [
+        "AS11-40-5903",
+        "Aldrin on the Moon Apollo 11",
+        "Apollo 11 Aldrin lunar surface portrait"
+      ]
+    },
+    {
+      "filename": "05_bootprint.jpg",
+      "slide": "06_bootprint",
+      "purpose": "full-bleed overview plus same-source zoom",
+      "search_query": "Apollo 11 bootprint lunar soil",
+      "matched_query": "Apollo 11 footprint Moon",
+      "orientation": "any",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "AS11-40-5878 - Apollo 11 - Apollo 11 Mission image - Astronaut bootprint on the lunar surface - NARA - 16685061.jpg",
+      "author": "Unknown author Unknown author or not provided",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:AS11-40-5878_-_Apollo_11_-_Apollo_11_Mission_image_-_Astronaut_bootprint_on_the_lunar_surface_-_NARA_-_16685061.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/AS11-40-5878_-_Apollo_11_-_Apollo_11_Mission_image_-_Astronaut_bootprint_on_the_lunar_surface_-_NARA_-_16685061.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 3896,
+      "height": 3912,
+      "attribution_text": "05_bootprint.jpg — \"AS11-40-5878 - Apollo 11 - Apollo 11 Mission image - Astronaut bootprint on the lunar surface - NARA - 16685061.jpg\" by Unknown author Unknown author or not provided via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 11|AS11",
+        "bootprint|boot print|footprint"
+      ],
+      "query_variants": [
+        "AS11-40-5878",
+        "Apollo 11 footprint Moon",
+        "Buzz Aldrin boot print lunar surface"
+      ]
+    },
+    {
+      "filename": "06_apollo13_sm.jpg",
+      "slide": "07_problem",
+      "purpose": "source for a monochrome derivative",
+      "search_query": "Apollo 13 damaged service module",
+      "matched_query": "AS13-59-8500",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Apollo 13 Service Module - AS13-59-8500.jpg",
+      "author": "NASA Scan by Kipp Teague",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Apollo_13_Service_Module_-_AS13-59-8500.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Apollo_13_Service_Module_-_AS13-59-8500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2946,
+      "height": 2399,
+      "attribution_text": "06_apollo13_sm.jpg — \"Apollo 13 Service Module - AS13-59-8500.jpg\" by NASA Scan by Kipp Teague via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 13|AS13",
+        "service module"
+      ],
+      "query_variants": [
+        "AS13-59-8500",
+        "Apollo 13 service module jettison",
+        "Apollo 13 service module damage"
+      ]
+    },
+    {
+      "filename": "07_irwin_rover.jpg",
+      "slide": "09_rover",
+      "purpose": "full-bleed hero",
+      "search_query": "Apollo 15 Irwin salute flag",
+      "matched_query": "Apollo 15 Irwin salute flag",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Apollo 15 flag, rover, LM, Irwin cropped.jpg",
+      "author": "Astronaut David R. Scott, Apollo 15 commander.",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Apollo_15_flag,_rover,_LM,_Irwin_cropped.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2394,
+      "height": 1642,
+      "attribution_text": "07_irwin_rover.jpg — \"Apollo 15 flag, rover, LM, Irwin cropped.jpg\" by Astronaut David R. Scott, Apollo 15 commander. via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 15|AS15",
+        "Irwin|flag|rover"
+      ],
+      "query_variants": [
+        "AS15-88-11866",
+        "Apollo 15 Hadley lunar roving vehicle",
+        "James Irwin salutes flag Moon"
+      ]
+    },
+    {
+      "filename": "09_blue_marble.jpg",
+      "slide": "12_blue_marble",
+      "purpose": "full-bleed closing hero",
+      "search_query": "Blue Marble Apollo 17 Earth",
+      "matched_query": "Apollo 17 Earth photograph",
+      "orientation": "any",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "The Earth seen from Apollo 17 (AS17-148-22727).jpg",
+      "author": "NASA/Apollo 17 crew",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17_(AS17-148-22727).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Earth_seen_from_Apollo_17_%28AS17-148-22727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2400,
+      "height": 2400,
+      "attribution_text": "09_blue_marble.jpg — \"The Earth seen from Apollo 17 (AS17-148-22727).jpg\" by NASA/Apollo 17 crew via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 17|AS17|Blue Marble",
+        "Earth|Blue Marble"
+      ],
+      "query_variants": [
+        "AS17-148-22727",
+        "The Blue Marble 1972",
+        "Apollo 17 Earth photograph"
+      ]
+    },
+    {
+      "filename": "01_launch.jpg",
+      "slide": "01_cover",
+      "purpose": "cover full-bleed",
+      "search_query": "Apollo 17 night launch",
+      "matched_query": "Apollo 17 night launch",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Apollo 17 Night Launch - GPN-2000-001150.jpg",
+      "author": "NASA",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Apollo_17_Night_Launch_-_GPN-2000-001150.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Apollo_17_Night_Launch_-_GPN-2000-001150.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 3000,
+      "height": 2252,
+      "attribution_text": "01_launch.jpg — \"Apollo 17 Night Launch - GPN-2000-001150.jpg\" by NASA via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 17",
+        "launch|liftoff|night"
+      ],
+      "query_variants": [
+        "Apollo 17 Saturn V night liftoff",
+        "Apollo 17 launch December 7 1972",
+        "Apollo 17 liftoff"
+      ]
+    },
+    {
+      "filename": "08_schmitt_boulder.jpg",
+      "slide": "10_geologist",
+      "purpose": "full-bleed hero",
+      "search_query": "AS17-140-21496",
+      "matched_query": "Apollo 17 astronaut large split boulder Moon",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "APOLLO XVII EXTRAVEHICULAR ACTIVITY (EVA) - SCIENTIST-ASTRONAUT HARRISON H SCHMITT - MOON (S73-22871).jpg",
+      "author": "NASA Johnson Space Center",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:APOLLO_XVII_EXTRAVEHICULAR_ACTIVITY_(EVA)_-_SCIENTIST-ASTRONAUT_HARRISON_H_SCHMITT_-_MOON_(S73-22871).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/APOLLO_XVII_EXTRAVEHICULAR_ACTIVITY_%28EVA%29_-_SCIENTIST-ASTRONAUT_HARRISON_H_SCHMITT_-_MOON_%28S73-22871%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 6932,
+      "height": 3982,
+      "attribution_text": "08_schmitt_boulder.jpg — \"APOLLO XVII EXTRAVEHICULAR ACTIVITY (EVA) - SCIENTIST-ASTRONAUT HARRISON H SCHMITT - MOON (S73-22871).jpg\" by NASA Johnson Space Center via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 17|AS17",
+        "Schmitt|boulder|rock"
+      ],
+      "query_variants": [
+        "Apollo 17 Schmitt lunar roving vehicle boulder",
+        "Harrison Schmitt beside Station 6 boulder",
+        "Apollo 17 astronaut large split boulder Moon"
+      ]
+    },
+    {
+      "filename": "10_apollo11_liftoff.jpg",
+      "slide": "13_sources",
+      "purpose": "circular shaped crop",
+      "search_query": "Apollo 11 Saturn V lifting off",
+      "matched_query": "Apollo 11 Saturn V lifting off",
+      "orientation": "any",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Apollo 11 Saturn V lifting off on July 16, 1969.jpg",
+      "author": "NASA",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Apollo_11_Saturn_V_lifting_off_on_July_16,_1969.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Apollo_11_Saturn_V_lifting_off_on_July_16%2C_1969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2280,
+      "height": 2862,
+      "attribution_text": "10_apollo11_liftoff.jpg — \"Apollo 11 Saturn V lifting off on July 16, 1969.jpg\" by NASA via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 11",
+        "launch|liftoff|Saturn"
+      ],
+      "query_variants": [
+        "Apollo 11 launch July 16 1969",
+        "Apollo 11 liftoff",
+        "Apollo 11 Saturn V ascent"
+      ]
+    },
+    {
+      "filename": "06_apollo13_sm_mono.jpg",
+      "slide": "07_problem",
+      "purpose": "source for a monochrome derivative",
+      "search_query": "Apollo 13 damaged service module",
+      "matched_query": "AS13-59-8500",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Apollo 13 Service Module - AS13-59-8500.jpg",
+      "author": "NASA Scan by Kipp Teague",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Apollo_13_Service_Module_-_AS13-59-8500.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Apollo_13_Service_Module_-_AS13-59-8500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2946,
+      "height": 2399,
+      "attribution_text": "06_apollo13_sm_mono.jpg — \"Apollo 13 Service Module - AS13-59-8500.jpg\" by NASA Scan by Kipp Teague via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 13|AS13",
+        "service module"
+      ],
+      "query_variants": [
+        "AS13-59-8500",
+        "Apollo 13 service module jettison",
+        "Apollo 13 service module damage"
+      ],
+      "derived_from": "06_apollo13_sm.jpg",
+      "treatments": [
+        {
+          "operation": "contrast",
+          "factor": 1.18
+        },
+        {
+          "operation": "desaturate",
+          "amount": 1.0
+        }
+      ]
+    },
+    {
+      "filename": "02_earthrise_fit.png",
+      "slide": "02_earthrise",
+      "purpose": "full-bleed hero",
+      "search_query": "Earthrise Apollo 8",
+      "matched_query": "Earthrise Apollo 8",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "NASA Earthrise AS08-14-2383 Apollo 8, 1968-12-24, from print.jpg",
+      "author": "NASA",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:NASA_Earthrise_AS08-14-2383_Apollo_8,_1968-12-24,_from_print.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/NASA_Earthrise_AS08-14-2383_Apollo_8%2C_1968-12-24%2C_from_print.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2197,
+      "height": 1760,
+      "attribution_text": "02_earthrise_fit.png — \"NASA Earthrise AS08-14-2383 Apollo 8, 1968-12-24, from print.jpg\" by NASA via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Apollo 8|AS08",
+        "Earthrise"
+      ],
+      "query_variants": [
+        "AS08-14-2383",
+        "NASA Earthrise 1968",
+        "Apollo 8 Earthrise photograph"
+      ],
+      "derived_from": "02_earthrise.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 2200,
+          "height": 1760
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-04T15:01:35.176914Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="toc">
+  <rect id="p04-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p04-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 303 4">
+    <rect x="72" y="76" width="303" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p04-headline" data-pptx-bounds="72 100 1136 112">
+    <text font-size="44" fill="#111111" font-weight="bold" x="72" y="140">三个问题，三条判断：</text><text font-size="44" fill="#111111" font-weight="bold" x="72" y="194">成本从哪来、还会不会降、真正卡在哪</text></g>
+
+  <g id="p04-grid" data-pptx-role="decoration" data-pptx-bounds="72 336 1136 300" stroke="#E8E8E8" stroke-width="1">
+    <line x1="72" y1="336" x2="72" y2="636" />
+    <line x1="168" y1="336" x2="168" y2="636" />
+    <line x1="264" y1="336" x2="264" y2="636" />
+    <line x1="360" y1="336" x2="360" y2="636" />
+    <line x1="456" y1="336" x2="456" y2="636" />
+    <line x1="552" y1="336" x2="552" y2="636" />
+    <line x1="648" y1="336" x2="648" y2="636" />
+    <line x1="744" y1="336" x2="744" y2="636" />
+    <line x1="840" y1="336" x2="840" y2="636" />
+    <line x1="936" y1="336" x2="936" y2="636" />
+    <line x1="1032" y1="336" x2="1032" y2="636" />
+    <line x1="1128" y1="336" x2="1128" y2="636" />
+    <line x1="1208" y1="336" x2="1208" y2="636" />
+  </g>
+
+  <g id="p04-thesis" data-pptx-bounds="72 236 1136 96">
+    <rect x="72" y="236" width="1136" height="96" fill="#111111" />
+    <text font-size="24" fill="#FFFFFF" x="104" y="278">光伏的成本优势由制造规模的学习率产生，</text><text font-size="24" fill="#FFFFFF" x="104" y="314">已经转移到系统侧，并正在被电网侧的稀缺重新定价</text></g>
+
+  <g id="p04-num-01" data-pptx-bounds="72 334 140 128">
+    <text x="72" y="420" font-family="Arial Black" font-size="96" font-weight="bold" fill="#111111">01</text>
+  </g>
+  <g id="p04-branch-01" data-pptx-bounds="72 470 368 162">
+    <text x="72" y="492" font-size="18" fill="#C8102E">便宜从哪来？</text>
+    <text x="72" y="530" font-size="24" font-weight="bold" fill="#111111">成本下降来自学习率</text>
+    <text font-size="18" fill="#6E6E6E" x="72" y="598">累计装机每翻一番，</text><text font-size="18" fill="#6E6E6E" x="72" y="624">组件价格下降 20%</text></g>
+
+  <g id="p04-num-02" data-pptx-bounds="456 334 140 128">
+    <text x="456" y="420" font-family="Arial Black" font-size="96" font-weight="bold" fill="#111111">02</text>
+  </g>
+  <g id="p04-branch-02" data-pptx-bounds="456 470 368 162">
+    <text x="456" y="492" font-size="18" fill="#C8102E">还会继续便宜吗？</text>
+    <text font-size="24" fill="#111111" font-weight="bold" x="456" y="530">成本中心已从组件</text><text font-size="24" fill="#111111" font-weight="bold" x="456" y="566">挪到 BOS 与储能</text><text font-size="18" fill="#6E6E6E" x="456" y="598">2024 年组件只占</text><text font-size="18" fill="#6E6E6E" x="456" y="624">系统成本的 30%</text></g>
+
+  <g id="p04-num-03" data-pptx-bounds="840 334 140 128">
+    <text x="840" y="420" font-family="Arial Black" font-size="96" font-weight="bold" fill="#111111">03</text>
+  </g>
+  <g id="p04-branch-03" data-pptx-bounds="840 470 368 162">
+    <text x="840" y="492" font-size="18" fill="#C8102E">什么时候它不便宜？</text>
+    <text font-size="24" fill="#111111" font-weight="bold" x="840" y="530">真正的稀缺是并网</text><text font-size="24" fill="#111111" font-weight="bold" x="840" y="566">容量与消纳空间</text><text font-size="18" fill="#6E6E6E" x="840" y="598">美国并网中位等待</text><text font-size="18" fill="#6E6E6E" x="840" y="624">已达 61 个月</text></g>
+
+  <line id="p04-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p04-footer" data-pptx-bounds="72 668 1136 24" fill="#6E6E6E" font-size="16">
+    <text x="72" y="684">三条判断按生产端 / 系统端 / 电网端划分，覆盖成本从产生到兑现的完整链条｜来源：Our World in Data、NREL、Berkeley Lab</text>
+    <text x="1208" y="684" text-anchor="end">04</text>
+  </g>
+</svg>

@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {"effect": "fade", "duration": 0.4},
+    "animation": {"effect": "none", "trigger": "after-previous", "duration": 0.4, "stagger": 0.3}
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "p01-headline": {"effect": "entrance_fade", "order": 1},
+        "p01-fall": {"effect": "entrance_fade", "order": 2, "duration": 0.5},
+        "p01-rise": {"effect": "entrance_fade", "order": 3, "duration": 0.5, "delay": 0.3},
+        "p01-subtitle": {"effect": "entrance_fade", "order": 4}
+      }
+    },
+    "02_cost_curve": {
+      "groups": {
+        "p02-headline": {"effect": "entrance_fade", "order": 1},
+        "p02-takeaway": {"effect": "entrance_fade", "order": 2},
+        "lcoe-recent": {"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 3, "duration": 0.9},
+        "lcoe-full": {"effect": "entrance_fade", "order": 4},
+        "p02-wacc": {"effect": "entrance_fade", "order": 5}
+      }
+    },
+    "03_source_comparison": {
+      "groups": {
+        "p03-headline": {"effect": "entrance_fade", "order": 1},
+        "source-cost-range": {"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 2, "duration": 0.9},
+        "p03-disclaimer": {"effect": "entrance_fade", "order": 3},
+        "p03-irena": {"effect": "entrance_fade", "order": 4},
+        "p03-geography": {"effect": "entrance_fade", "order": 5},
+        "p03-caveat": {"effect": "entrance_fade", "order": 6}
+      }
+    },
+    "04_three_judgements": {
+      "groups": {
+        "p04-headline": {"effect": "entrance_fade", "order": 1},
+        "p04-thesis": {"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 2, "duration": 0.7},
+        "p04-num-01": {"effect": "entrance_fade", "order": 3},
+        "p04-branch-01": {"effect": "entrance_fade", "order": 4},
+        "p04-num-02": {"effect": "entrance_fade", "order": 5},
+        "p04-branch-02": {"effect": "entrance_fade", "order": 6},
+        "p04-num-03": {"effect": "entrance_fade", "order": 7},
+        "p04-branch-03": {"effect": "entrance_fade", "order": 8}
+      }
+    },
+    "05_chapter_learning": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.8},
+      "morph": {
+        "from": "04_three_judgements",
+        "pairs": {
+          "chapter-numeral": {"from": "p04-num-01", "to": "chapter-numeral"},
+          "argument-progress": {"from": "argument-progress", "to": "argument-progress"}
+        }
+      },
+      "groups": {
+        "p05-assertion": {"effect": "entrance_fade", "order": 1, "delay": 0.4},
+        "p05-question": {"effect": "entrance_fade", "order": 2},
+        "p05-chapter-icon": {"effect": "entrance_fade", "order": 3}
+      }
+    },
+    "06_learning_rate": {
+      "groups": {
+        "p06-headline": {"effect": "entrance_fade", "order": 1},
+        "p06-rate": {"effect": "entrance_fade", "order": 2, "duration": 0.5},
+        "module-price-decline": {"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 3, "duration": 0.9},
+        "p06-endpoints": {"effect": "entrance_fade", "order": 4},
+        "p06-wright": {"effect": "entrance_fade", "order": 5}
+      }
+    },
+    "07_scale_and_price": {
+      "groups": {
+        "p07-headline": {"effect": "entrance_fade", "order": 1},
+        "p07-kpi-price": {"effect": "entrance_fade", "order": 2},
+        "p07-kpi-margin": {"effect": "entrance_fade", "order": 3},
+        "p07-kpi-util": {"effect": "entrance_fade", "order": 4},
+        "p07-scale": {"effect": "entrance_fade", "order": 5},
+        "p07-chain": {"effect": "entrance_fade", "order": 6},
+        "p07-geography": {"effect": "entrance_fade", "order": 7}
+      }
+    },
+    "08_chapter_cost_shift": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.8},
+      "morph": {
+        "from": "07_scale_and_price",
+        "pairs": {
+          "argument-progress": {"from": "argument-progress", "to": "argument-progress"}
+        }
+      },
+      "groups": {
+        "p08-assertion": {"effect": "entrance_fade", "order": 1, "delay": 0.4},
+        "p08-question": {"effect": "entrance_fade", "order": 2},
+        "p08-chapter-icon": {"effect": "entrance_fade", "order": 3}
+      }
+    },
+    "09_cost_structure": {
+      "groups": {
+        "p09-headline": {"effect": "entrance_fade", "order": 1},
+        "system-cost-split": {"effect": "entrance_wipe", "effect_options": {"direction": "up"}, "order": 2, "duration": 0.9},
+        "p09-legend": {"effect": "entrance_fade", "order": 3},
+        "p09-total": {"effect": "entrance_fade", "order": 4},
+        "p09-trough": {"effect": "entrance_fade", "order": 5}
+      }
+    },
+    "10_storage_two_directions": {
+      "groups": {
+        "p10-headline": {"effect": "entrance_fade", "order": 1},
+        "p10-falling": {"effect": "entrance_fade", "order": 2},
+        "storage-lcos-range": {"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 3, "duration": 0.9},
+        "p10-firm": {"effect": "entrance_fade", "order": 4}
+      }
+    },
+    "11_chapter_grid": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.8},
+      "morph": {
+        "from": "10_storage_two_directions",
+        "pairs": {
+          "argument-progress": {"from": "argument-progress", "to": "argument-progress"}
+        }
+      },
+      "groups": {
+        "p11-assertion": {"effect": "entrance_fade", "order": 1, "delay": 0.4},
+        "p11-question": {"effect": "entrance_fade", "order": 2},
+        "p11-chapter-icon": {"effect": "entrance_fade", "order": 3}
+      }
+    },
+    "12_interconnection_queue": {
+      "groups": {
+        "p12-headline": {"effect": "entrance_fade", "order": 1},
+        "queue-wait-months": {"effect": "entrance_wipe", "effect_options": {"direction": "up"}, "order": 2, "duration": 0.9},
+        "p12-queue": {"effect": "entrance_fade", "order": 3},
+        "p12-global": {"effect": "entrance_fade", "order": 4}
+      }
+    },
+    "13_curtailment_value": {
+      "groups": {
+        "p13-headline": {"effect": "entrance_fade", "order": 1},
+        "p13-curtail": {"effect": "entrance_fade", "order": 2},
+        "p13-capture": {"effect": "entrance_fade", "order": 3},
+        "negative-price-hours": {"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 4, "duration": 0.9}
+      }
+    },
+    "14_methodology_boundary": {
+      "groups": {
+        "p14-headline": {"effect": "entrance_fade", "order": 1},
+        "lcoe-methodology-table": {"effect": "entrance_wipe", "effect_options": {"direction": "down"}, "order": 2, "duration": 0.9},
+        "p14-excluded": {"effect": "entrance_fade", "order": 3},
+        "p14-quote": {"effect": "entrance_fade", "order": 4}
+      }
+    },
+    "15_decision_and_sources": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.8},
+      "morph": {
+        "from": "14_methodology_boundary",
+        "pairs": {
+          "argument-progress": {"from": "argument-progress", "to": "argument-progress"}
+        }
+      },
+      "groups": {
+        "p15-headline": {"effect": "entrance_fade", "order": 1, "delay": 0.4},
+        "p15-rec-01": {"effect": "entrance_fade", "order": 2},
+        "p15-rec-02": {"effect": "entrance_fade", "order": 3},
+        "p15-rec-03": {"effect": "entrance_fade", "order": 4},
+        "p15-rec-04": {"effect": "entrance_fade", "order": 5},
+        "p15-sources": {"effect": "entrance_fade", "order": 6}
+      }
+    }
+  }
+}

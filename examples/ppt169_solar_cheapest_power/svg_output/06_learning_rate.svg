@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p06-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p06-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 455 4">
+    <rect x="72" y="76" width="455" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p06-headline" data-pptx-bounds="72 100 1136 112">
+    <text x="72" y="140" font-size="44" font-weight="bold" fill="#111111">累计装机每翻一番，<tspan x="72" dy="54">组件价格下降 20%——四十年未变</tspan></text>
+  </g>
+
+  <g id="p06-rate" data-pptx-bounds="72 250 460 200">
+    <text x="72" y="340" font-family="Arial Black" font-size="96" font-weight="bold" fill="#C8102E">20%</text>
+    <text x="72" y="396" font-size="24" fill="#1A1A1A">累计装机每翻一番的价格降幅，<tspan x="72" dy="36">已持续四十余年（Swanson's law）</tspan></text>
+  </g>
+
+  <line id="p06-split" data-pptx-role="decoration" x1="72" y1="470" x2="500" y2="470" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p06-endpoints" data-pptx-bounds="72 486 480 132">
+    <text x="72" y="516" font-size="24" fill="#6E6E6E">1975</text>
+    <text x="192" y="516" font-size="24" font-weight="bold" fill="#111111">$132.38 / 瓦</text>
+    <text x="72" y="562" font-size="24" fill="#6E6E6E">2024</text>
+    <text x="192" y="562" font-size="24" font-weight="bold" fill="#111111">$0.265 / 瓦</text>
+    <text x="72" y="600" font-size="18" fill="#6E6E6E">constant 2025 USD｜累计装机 0.54 → 2,378,042 MW</text>
+  </g>
+
+  <g id="module-price-decline" data-pptx-replace-with="chart" data-pptx-bounds="560 250 648 364" data-pptx-fallback-sha256="223c4419b34d8c707e6e9fa8f6891d6c49e57aad6fa2a2d5b8d8be5003fd3d5c">
+    <metadata type="application/json">
+{
+  "x": 560,
+  "y": 250,
+  "width": 648,
+  "height": 364,
+  "name": "module-price-decline",
+  "type": "combo",
+  "categories": [
+    "2010",
+    "2015",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "axes": {
+    "category": {
+      "kind": "text",
+      "position": "bottom"
+    },
+    "value": {
+      "kind": "value",
+      "position": "left",
+      "minimum": 0,
+      "maximum": 3,
+      "major_unit": 1,
+      "major_gridlines": true
+    }
+  },
+  "notes": [
+    {
+      "text": "USD/W（constant 2025）｜2010–2020 为五年间隔",
+      "x": 640,
+      "y": 268,
+      "width": 460,
+      "height": 26,
+      "font_size": 18,
+      "color": "#6E6E6E"
+    }
+  ],
+  "plot_area": {
+    "x": 640,
+    "y": 300,
+    "width": 540,
+    "height": 260
+  },
+  "style": {
+    "colors": [
+      "#111111",
+      "#111111"
+    ],
+    "chart_area_fill": "#FFFFFF",
+    "plot_area_fill": "#FFFFFF",
+    "axis_color": "#D4D4D4",
+    "grid_color": "#E8E8E8",
+    "text_color": "#6E6E6E",
+    "font_family": "Arial",
+    "font_size": 20
+  },
+  "plots": [
+    {
+      "type": "area",
+      "series": [
+        {
+          "name": "组件价格（constant 2025 USD/W）",
+          "values": [
+            2.51,
+            0.736,
+            0.37,
+            0.332,
+            0.366,
+            0.322,
+            0.265
+          ],
+          "fill_opacity": 0.14
+        }
+      ]
+    },
+    {
+      "type": "line",
+      "line_style": "line",
+      "marker_size": 10,
+      "series": [
+        {
+          "name": "组件价格（constant 2025 USD/W）（折线）",
+          "values": [
+            2.51,
+            0.736,
+            0.37,
+            0.332,
+            0.366,
+            0.322,
+            0.265
+          ],
+          "line_width": 3,
+          "point_colors": [
+            "#111111",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "#C8102E"
+          ]
+        }
+      ]
+    }
+  ]
+}
+</metadata>
+    <g id="module-price-decline-chartArea">
+      <line id="p06-grid-3" x1="640" y1="300" x2="1180" y2="300" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p06-grid-2" x1="640" y1="386.7" x2="1180" y2="386.7" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p06-grid-1" x1="640" y1="473.3" x2="1180" y2="473.3" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p06-axis-y" x1="640" y1="300" x2="640" y2="560" stroke="#D4D4D4" stroke-width="1" />
+      <line id="p06-axis-x" x1="640" y1="560" x2="1180" y2="560" stroke="#D4D4D4" stroke-width="1" />
+      <text x="632" y="567" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">0</text>
+      <text x="632" y="480.3" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">1.0</text>
+      <text x="632" y="393.7" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">2.0</text>
+      <text x="632" y="307" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">3.0</text>
+      <text x="678.6" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2010</text>
+      <text x="755.7" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2015</text>
+      <text x="832.9" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2020</text>
+      <text x="910" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2021</text>
+      <text x="987.1" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2022</text>
+      <text x="1064.3" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2023</text>
+      <text x="1141.4" y="586" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2024</text>
+      <!-- chart-plot-area: object=module-price-decline | 640,300,1180,560 -->
+      <path d="M678.6 342.5 L755.7 496.2 L832.9 527.9 L910 531.2 L987.1 528.3 L1064.3 532.1 L1141.4 537 L1141.4 560 L678.6 560 Z" fill="#111111" fill-opacity="0.14" />
+      <polyline points="678.6,342.5 755.7,496.2 832.9,527.9 910,531.2 987.1,528.3 1064.3,532.1 1141.4,537" fill="none" stroke="#111111" stroke-width="3" stroke-linejoin="round" />
+      <circle cx="678.6" cy="342.5" r="5" fill="#111111" />
+      <circle cx="1141.4" cy="537" r="5" fill="#C8102E" />
+      <text x="640" y="284" font-size="18" fill="#6E6E6E">USD/W（constant 2025）｜2010–2020 为五年间隔</text>
+    </g>
+  </g>
+
+  <g id="p06-wright" data-pptx-bounds="72 618 1136 34">
+    <text x="72" y="640" font-size="16" fill="#1A1A1A">大多数技术不遵循 Wright's Law——自行车、冰箱、燃煤电厂都不呈指数下降；光伏、电池与计算机做到了</text>
+  </g>
+
+  <line id="p06-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p06-footer" data-pptx-bounds="72 668 1136 24" fill="#6E6E6E" font-size="16">
+    <text x="72" y="684">来源：Our World in Data（组件价格、累计装机、学习曲线）；Swanson's law 以 SunPower 创始人 Richard Swanson 命名</text>
+    <text x="1208" y="684" text-anchor="end">06</text>
+  </g>
+</svg>

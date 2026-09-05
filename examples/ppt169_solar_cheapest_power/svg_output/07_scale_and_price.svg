@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p07-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p07-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 530 4">
+    <rect x="72" y="76" width="530" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p07-headline" data-pptx-bounds="72 100 1136 112">
+    <text x="72" y="140" font-size="44" font-weight="bold" fill="#111111">今天的组件价格里含着制造商的亏损，<tspan x="72" dy="54">它不是可持续的均衡价</tspan></text>
+  </g>
+
+  <g id="p07-kpi-price" data-pptx-bounds="72 228 340 186">
+    <text x="72" y="316" font-family="Arial Black" font-size="96" font-weight="bold" fill="#C8102E">$0.09</text>
+    <text x="72" y="376" font-size="18" fill="#6E6E6E">2024 年全球组件批发现货均价 /W<tspan x="72" dy="26">同比 −45%，2025 上半年持平</tspan></text>
+  </g>
+
+  <g id="p07-kpi-margin" data-pptx-bounds="432 228 336 186">
+    <text x="432" y="316" font-family="Arial Black" font-size="96" font-weight="bold" fill="#111111">−10%</text>
+    <text x="432" y="376" font-size="18" fill="#6E6E6E">中国头部制造商利润率，自 2024 年<tspan x="432" dy="26">初累计亏损近 USD 50 亿</tspan></text>
+  </g>
+
+  <g id="p07-kpi-util" data-pptx-bounds="792 228 416 186">
+    <text x="792" y="316" font-family="Arial Black" font-size="96" font-weight="bold" fill="#111111">55–65%</text>
+    <text x="792" y="376" font-size="18" fill="#6E6E6E">2024 年全球组件产能利用率<tspan x="792" dy="26">（2023 年为 60–80%，可能跌破 50%）</tspan></text>
+  </g>
+
+  <line id="p07-split-a" data-pptx-role="decoration" x1="72" y1="424" x2="1208" y2="424" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p07-scale" data-pptx-bounds="72 428 1136 58">
+    <text x="72" y="450" font-size="18" fill="#1A1A1A">2025 年全球新增光伏 <tspan font-weight="bold" fill="#111111">647 GW</tspan>（+11%，Ember）｜IEA 口径首次突破 600 GW，2030 年将达 700 GW/年<tspan x="72" dy="26">光伏占当年全球可再生电力新增装机近 80%｜中国 2025 年投运近 370 GW（IEA）/ 378 GWdc（Ember，占全球 58%）</tspan></text>
+  </g>
+
+  <g id="p07-chain" data-pptx-bounds="72 500 640 128">
+    <text x="72" y="524" font-size="24" font-weight="bold" fill="#111111">低价里的三个成分</text>
+    <text x="72" y="560" font-size="18" fill="#1A1A1A">产能 1,100–1,350 GW，是当年装机量的两倍以上<tspan x="72" dy="26">该价格低于多数制造商（含中国头部企业）的生产成本</tspan><tspan x="72" dy="26">中国价格自 2023 年跌超 60%，累计亏损近 USD 50 亿</tspan></text>
+  </g>
+
+  <line id="p07-split-b" data-pptx-role="decoration" x1="720" y1="500" x2="720" y2="628" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p07-geography" data-pptx-bounds="752 500 456 128">
+    <text x="752" y="524" font-size="24" font-weight="bold" fill="#111111">但不是谁都买得到</text>
+    <text x="752" y="560" font-size="18" fill="#1A1A1A">运往美国 $0.27/W（全球均价三倍）<tspan x="752" dy="26">印度本土制造 $0.15/W（高约 70%）</tspan><tspan x="752" dy="26">2030 年中国仍占供应链产能 75–95%</tspan></text>
+  </g>
+
+  <line id="p07-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p07-footer" data-pptx-bounds="72 668 1136 24" fill="#6E6E6E" font-size="16">
+    <text x="72" y="684">来源：IEA《Renewables 2025》（产能、价格、利用率、地区价差）；Ember（新增装机）</text>
+    <text x="1208" y="684" text-anchor="end">07</text>
+  </g>
+</svg>

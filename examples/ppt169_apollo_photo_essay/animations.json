@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.4
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "p01-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p01-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p01-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p01-count": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p01-credit": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.3
+        }
+      }
+    },
+    "02_earthrise": {
+      "groups": {
+        "p02-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p02-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p02-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p02-body": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p02-gear": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p02-note": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.3
+        },
+        "p02-caption": {
+          "effect": "entrance_fade",
+          "order": 7,
+          "duration": 0.3
+        }
+      }
+    },
+    "03_broadcast": {
+      "groups": {
+        "p03-era": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.3
+        },
+        "p03-title": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p03-count-orbits": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "p03-count-hours": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p03-count-audience": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p03-broadcast": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.4
+        },
+        "p03-meta": {
+          "effect": "entrance_fade",
+          "order": 7,
+          "duration": 0.4
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "02_earthrise",
+        "pairs": {
+          "era-mark": {
+            "from": "p02-era",
+            "to": "p03-era"
+          },
+          "page-title": {
+            "from": "p02-title",
+            "to": "p03-title"
+          }
+        }
+      }
+    },
+    "04_ladder": {
+      "groups": {
+        "p04-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p04-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p04-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p04-landing": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p04-step": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p04-quote": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.4
+        },
+        "p04-credit": {
+          "effect": "entrance_fade",
+          "order": 7,
+          "duration": 0.3
+        }
+      }
+    },
+    "05_visor": {
+      "groups": {
+        "p05-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p05-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p05-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p05-body": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p05-caption": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.3
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "04_ladder",
+        "pairs": {
+          "era-mark": {
+            "from": "p04-era",
+            "to": "p05-era"
+          },
+          "page-title": {
+            "from": "p04-title",
+            "to": "p05-title"
+          }
+        }
+      }
+    },
+    "06_bootprint": {
+      "groups": {
+        "p06-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p06-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p06-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p06-body": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p06-card": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "05_visor",
+        "pairs": {
+          "era-mark": {
+            "from": "p05-era",
+            "to": "p06-era"
+          }
+        }
+      }
+    },
+    "07_problem": {
+      "groups": {
+        "p07-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p07-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p07-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p07-time": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p07-cause": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p07-quote": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.4
+        },
+        "p07-note": {
+          "effect": "entrance_fade",
+          "order": 7,
+          "duration": 0.3
+        },
+        "p07-credit": {
+          "effect": "entrance_fade",
+          "order": 8,
+          "duration": 0.3
+        }
+      }
+    },
+    "08_home": {
+      "groups": {
+        "p08-era": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.3
+        },
+        "p08-title": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p08-swap": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "p08-diagram": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p08-record": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p08-splash": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.3
+        }
+      }
+    },
+    "09_rover": {
+      "groups": {
+        "p09-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p09-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p09-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p09-body": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p09-card": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p09-credit": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.3
+        }
+      }
+    },
+    "10_geologist": {
+      "groups": {
+        "p10-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p10-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p10-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p10-body": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p10-lens": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p10-band": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.4
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "09_rover",
+        "pairs": {
+          "era-mark": {
+            "from": "p09-era",
+            "to": "p10-era"
+          }
+        }
+      }
+    },
+    "11_ledger": {
+      "groups": {
+        "p11-era": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.3
+        },
+        "p11-title": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "mission-ledger": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "p11-summary": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p11-days": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p11-cost": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.3
+        }
+      }
+    },
+    "12_blue_marble": {
+      "groups": {
+        "p12-photo": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "p12-era": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.3
+        },
+        "p12-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p12-closing": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p12-quote": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p12-attrib": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.3
+        },
+        "p12-facts": {
+          "effect": "entrance_fade",
+          "order": 7,
+          "duration": 0.3
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "11_ledger",
+        "pairs": {
+          "era-mark": {
+            "from": "p11-era",
+            "to": "p12-era"
+          }
+        }
+      }
+    },
+    "13_sources": {
+      "groups": {
+        "p13-era": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.3
+        },
+        "p13-title": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "p13-photo": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.9
+        },
+        "p13-heading": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "p13-links": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "p13-license": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.4
+        },
+        "p13-ids": {
+          "effect": "entrance_fade",
+          "order": 7,
+          "duration": 0.3
+        },
+        "p13-facts": {
+          "effect": "entrance_fade",
+          "order": 8,
+          "duration": 0.3
+        }
+      }
+    }
+  }
+}

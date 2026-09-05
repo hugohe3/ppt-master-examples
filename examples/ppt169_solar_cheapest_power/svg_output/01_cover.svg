@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <rect id="p01-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <rect id="p01-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8"/>
+
+  <g id="argument-progress" data-pptx-bounds="72 76 76 4">
+    <rect x="72" y="76" width="76" height="4" fill="#C8102E"/>
+  </g>
+
+  <g id="p01-headline" data-pptx-bounds="72 100 1136 112">
+    <text x="72" y="140" font-size="44" font-weight="bold" fill="#111111">光伏已是最便宜的新增电源，<tspan x="72" dy="54">但它不会自动更便宜</tspan></text>
+  </g>
+
+  <g id="p01-fall" data-pptx-bounds="72 260 470 250">
+    <text x="72" y="400" font-family="Arial Black" font-size="160" font-weight="bold" fill="#111111">−81%</text>
+    <text x="72" y="500" font-size="18" fill="#6E6E6E">2009 → 2026 累计降幅（Lazard 均值，CAGR −10%）</text>
+  </g>
+
+  <line id="p01-split" data-pptx-role="decoration" x1="620" y1="270" x2="620" y2="500" stroke="#D4D4D4" stroke-width="1"/>
+
+  <g id="p01-rise" data-pptx-bounds="680 260 460 250">
+    <text x="680" y="400" font-family="Arial Black" font-size="160" font-weight="bold" fill="#C8102E">+85%</text>
+    <text x="680" y="500" font-size="18" fill="#6E6E6E">2021 低点 → 2026 回升（CAGR +12%）</text>
+  </g>
+
+  <g id="p01-subtitle" data-pptx-bounds="72 538 900 46">
+    <text x="72" y="570" font-size="32" fill="#1A1A1A">为什么会降、为什么又涨、以及现在真正卡住它的是什么</text>
+  </g>
+
+  <line id="p01-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1"/>
+
+  <g id="p01-footer" data-pptx-bounds="72 668 1136 24">
+    <text x="72" y="684" font-size="16" fill="#6E6E6E">全卷数值均标注来源与年份；Lazard 与 IRENA 口径不同，不做平均、不做跨口径换算</text>
+  </g>
+</svg>

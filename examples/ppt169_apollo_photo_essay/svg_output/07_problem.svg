@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p07-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p07-photo" data-pptx-role="background" data-pptx-bounds="200 0 1080 720">
+    <image href="../images/06_apollo13_sm_mono.jpg" x="200" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <g id="p07-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1970 · APOLLO 13</text>
+  </g>
+
+  <g id="p07-credit" data-pptx-bounds="960 70 248 44">
+    <text x="1208" y="94" font-size="18" text-anchor="end" fill="#6E7B8A">AS13-59-8500 / NASA</text>
+  </g>
+
+  <g id="p07-title" data-pptx-bounds="72 148 448 150">
+    <text x="72" y="200" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">原话是<tspan x="72" dy="72">过去完成时</tspan></text>
+  </g>
+
+  <g id="p07-time" data-pptx-bounds="72 316 448 96">
+    <text x="72" y="340" font-size="22" fill="#98A0A9">1970.04.14 · 经过 55:54:53</text>
+    <text x="72" y="390" font-family="Times New Roman, SimSun" font-size="40" fill="#D2622B">03:08 UTC</text>
+  </g>
+
+  <g id="p07-cause" data-pptx-bounds="72 422 448 128">
+    <text x="72" y="452" font-size="30" fill="#DAD5CA">2 号氧罐搅拌风扇的导线绝缘<tspan x="72" dy="40">层受损，按地面要求开风扇时</tspan><tspan x="72" dy="40">短路起火。</tspan></text>
+  </g>
+
+  <g id="p07-quote" data-pptx-bounds="72 562 448 96" font-size="22">
+    <text x="72" y="586" fill="#E9E4D9">“Okay, Houston, we’ve had<tspan x="72" dy="28">a problem here.”</tspan></text>
+    <text x="72" y="642" fill="#98A0A9">—— Jack Swigert</text>
+  </g>
+
+  <g id="p07-note" data-pptx-bounds="72 660 448 56">
+    <text x="72" y="682" font-size="18" fill="#6E7B8A">通行的 “Houston, we have a<tspan x="72" dy="24">problem” 出自电影，不是飞行原话。</tspan></text>
+  </g>
+</svg>

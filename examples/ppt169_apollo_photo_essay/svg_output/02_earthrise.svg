@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p02Scrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#06080B" stop-opacity="0"/>
+      <stop offset="62%" stop-color="#06080B" stop-opacity="0"/>
+      <stop offset="74%" stop-color="#06080B" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#06080B" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p02-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p02-photo" data-pptx-role="background" data-pptx-bounds="0 0 1280 720">
+    <image href="../images/02_earthrise.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <rect id="p02-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p02Scrim)"/>
+
+  <g id="p02-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1968 · APOLLO 8</text>
+  </g>
+
+  <g id="p02-body" data-pptx-bounds="72 168 560 140">
+    <text x="72" y="200" font-size="30" fill="#DAD5CA">绕月途中，地球从月平线上升起来。<tspan x="72" dy="44">Anders 先拍了一张黑白，随即要来</tspan><tspan x="72" dy="44">彩色胶片，才拍下这一张。</tspan></text>
+  </g>
+
+  <g id="p02-gear" data-pptx-bounds="72 336 560 44">
+    <text x="72" y="360" font-size="22" fill="#98A0A9">改装的电动 Hasselblad 500 EL，250 mm 镜头</text>
+  </g>
+
+  <g id="p02-title" data-pptx-bounds="72 554 620 96">
+    <text x="72" y="606" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">他们本来是去看月球的</text>
+  </g>
+
+  <g id="p02-note" data-pptx-bounds="72 666 560 44">
+    <text x="72" y="690" font-size="22" fill="#98A0A9">NASA 说，这张照片给了人类看待自己家园的<tspan fill="#D2622B">新视角</tspan></text>
+  </g>
+
+  <g id="p02-caption" data-pptx-bounds="720 644 488 60" font-size="18" text-anchor="end">
+    <text x="1208" y="664" fill="#98A0A9">AS08-14-2383 · 摄影 William Anders / NASA</text>
+    <text x="1208" y="692" fill="#6E7B8A">1968.12.24 16:39:39.3 UTC</text>
+  </g>
+</svg>

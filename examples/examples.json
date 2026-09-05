@@ -1,12 +1,199 @@
 {
   "version": 1,
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "stats": {
-    "examples": 25,
-    "pages": 353,
-    "templates": 25
+    "examples": 27,
+    "pages": 381,
+    "templates": 27
   },
   "projects": [
+    {
+      "id": "ppt169_solar_cheapest_power",
+      "title": "光伏为什么最便宜,以及它开始变贵",
+      "description": "能源经济简报 15 页 — 以 Lazard、IRENA、NREL、Berkeley Lab、IEA 等公开报告为源,金字塔论证结构,8 张原生图表 + 1 张原生表,瑞士极简风,Default 路线纯题目 + 主题研究生成",
+      "icon": "☀️",
+      "color": "#C8102E",
+      "style": "data",
+      "styleName": "Swiss Minimal Briefing",
+      "desc": "A fifteen-page energy-economics briefing built pyramid-first: the answer on the cover (solar fell 81% in seventeen years, bottomed in 2021 and has risen 85% since), then three judgements — cost comes from the learning rate, the cost centre has moved from modules to balance-of-system and storage, and the scarce resource is now grid capacity — each opened by a chapter divider and argued with one native-ready chart per page: the LCOE line with its 2022 break and emphasised endpoints, a stacked range bar across ten generation sources, a translucent area under the module-price curve, stacked cost-structure columns, twin storage lines, the interconnection-queue columns and the negative-price-hours bars, plus a methodology table that keeps four cost definitions apart. Every figure is quoted in its written form from Lazard, IRENA, NREL, Berkeley Lab, IEA, BloombergNEF and Our World in Data with live hyperlinks on the sources page. The second export turns the eight charts and the table into real PowerPoint chart and table objects grouped with their captions; the deck also drove the exporter fixes for bar order, point markers, area fills, bar spacing and plot-area layout. Swiss-minimal typography with a single red accent, four Morph transitions and entrance animations throughout, generated on the Default runtime from a bare topic with topic research.",
+      "tags": [
+        "Energy",
+        "Data",
+        "Native Charts",
+        "Swiss Minimal"
+      ],
+      "isNew": true,
+      "folder": "ppt169_solar_cheapest_power/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_solar_cheapest_power/exports/ppt169_solar_cheapest_power.pptx",
+      "pptxNative": "examples/ppt169_solar_cheapest_power/exports/ppt169_solar_cheapest_power_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · 光伏为什么最便宜,以及它开始变贵"
+        },
+        {
+          "file": "02_cost_curve.svg",
+          "title": "cost curve",
+          "desc": "十七年降 81% 之后,光伏成本在 2021 年触底、回升 85%"
+        },
+        {
+          "file": "03_source_comparison.svg",
+          "title": "source comparison",
+          "desc": "同一口径下,光伏与陆上风电是最便宜的两种新增电源"
+        },
+        {
+          "file": "04_three_judgements.svg",
+          "title": "three judgements",
+          "desc": "三个判断"
+        },
+        {
+          "file": "05_chapter_learning.svg",
+          "title": "chapter learning",
+          "desc": "01 · 便宜来自学习率"
+        },
+        {
+          "file": "06_learning_rate.svg",
+          "title": "learning rate",
+          "desc": "累计装机每翻一番,组件价格下降 20%"
+        },
+        {
+          "file": "07_scale_and_price.svg",
+          "title": "scale and price",
+          "desc": "规模与价格"
+        },
+        {
+          "file": "08_chapter_cost_shift.svg",
+          "title": "chapter cost shift",
+          "desc": "02 · 成本中心已经从组件挪到了 BOS 与储能"
+        },
+        {
+          "file": "09_cost_structure.svg",
+          "title": "cost structure",
+          "desc": "组件从系统成本的 44% 降到 30%"
+        },
+        {
+          "file": "10_storage_two_directions.svg",
+          "title": "storage two directions",
+          "desc": "电芯价格在创新低,储能度电成本却涨了 39%"
+        },
+        {
+          "file": "11_chapter_grid.svg",
+          "title": "chapter grid",
+          "desc": "03 · 稀缺的不是价格,是并网容量与消纳空间"
+        },
+        {
+          "file": "12_interconnection_queue.svg",
+          "title": "interconnection queue",
+          "desc": "并网中位等待从 22 个月拉长到 61 个月"
+        },
+        {
+          "file": "13_curtailment_value.svg",
+          "title": "curtailment value",
+          "desc": "弃电与负电价同步上升"
+        },
+        {
+          "file": "14_methodology_boundary.svg",
+          "title": "methodology boundary",
+          "desc": "「最便宜」有四种口径,它们不可平均、也不可互换"
+        },
+        {
+          "file": "15_decision_and_sources.svg",
+          "title": "decision and sources",
+          "desc": "把预算从最便宜的组件,移到最好的并网位置 · 来源"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_apollo_photo_essay",
+      "title": "阿波罗:人类离开地球的四年",
+      "description": "照片专辑 13 页 — 十张 NASA 公有领域照片,每页一张主图、满版出血、只用一种处理层,一页一个被误读的细节,Default 路线纯题目 + 主题研究生成",
+      "icon": "🌕",
+      "color": "#0B0D12",
+      "style": "editorial",
+      "styleName": "Photo Editorial",
+      "desc": "A thirteen-page photo essay on the four years in which people left Earth, 1968 to 1972: Earthrise, the ten-orbit broadcast, the six hours between landing and stepping down, the photographer in the visor, the bootprint that was a soil-mechanics test, the past-perfect wording of Apollo 13's problem, the loop around the Moon on the way home, the first rover, the geologist on the last flight, a ledger of the four years, Blue Marble and a rights page. Ten NASA public-domain photographs carry the deck at one hero image per page, most of them full-bleed, each with exactly one treatment layer — a crop, a tone, a mono conversion or a mask — chosen so the picture stays the argument; the text beside each photo names one detail the picture is usually misread on, with its date, time or count quoted from the mission record. Five Morph groups carry the mission numbers between pages, and the flight ledger is a native-ready table. Generated on the Default runtime from a bare topic with topic research, with image sources recorded per photograph.",
+      "tags": [
+        "Space",
+        "Photography",
+        "Editorial",
+        "Sourced Images"
+      ],
+      "isNew": true,
+      "folder": "ppt169_apollo_photo_essay/svg_final",
+      "generatedAt": "2026-09-04",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_apollo_photo_essay/exports/ppt169_apollo_photo_essay.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · 阿波罗:人类离开地球的四年"
+        },
+        {
+          "file": "02_earthrise.svg",
+          "title": "earthrise",
+          "desc": "他们本来是去看月球的 · 地出"
+        },
+        {
+          "file": "03_broadcast.svg",
+          "title": "broadcast",
+          "desc": "10 圈 · 20 小时"
+        },
+        {
+          "file": "04_ladder.svg",
+          "title": "ladder",
+          "desc": "从落地到落脚,中间隔了六个小时"
+        },
+        {
+          "file": "05_visor.svg",
+          "title": "visor",
+          "desc": "面罩里的那个人,就是按快门的人"
+        },
+        {
+          "file": "06_bootprint.svg",
+          "title": "bootprint",
+          "desc": "那不是纪念照,是一次土壤力学试验"
+        },
+        {
+          "file": "07_problem.svg",
+          "title": "problem",
+          "desc": "原话是过去完成时 · 阿波罗 13 号"
+        },
+        {
+          "file": "08_home.svg",
+          "title": "home",
+          "desc": "回家的路,是绕着月球再走一圈"
+        },
+        {
+          "file": "09_rover.svg",
+          "title": "rover",
+          "desc": "1971 年,他们开始开车"
+        },
+        {
+          "file": "10_geologist.svg",
+          "title": "geologist",
+          "desc": "最后一次去的人里,有地质学家"
+        },
+        {
+          "file": "11_ledger.svg",
+          "title": "ledger",
+          "desc": "1,459 天 · 四年的账"
+        },
+        {
+          "file": "12_blue_marble.svg",
+          "title": "blue marble",
+          "desc": "走的时候,他说我们还会回来 · 蓝色弹珠"
+        },
+        {
+          "file": "13_sources.svg",
+          "title": "sources",
+          "desc": "来源与图片版权"
+        }
+      ]
+    },
     {
       "id": "ppt169_solar_terms_year",
       "title": "二十四节气·全年手账",

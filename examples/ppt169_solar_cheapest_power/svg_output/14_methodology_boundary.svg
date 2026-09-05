@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p14-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p14-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 1061 4">
+    <rect x="72" y="76" width="1061" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p14-grid" data-pptx-role="decoration" data-pptx-bounds="72 196 1136 448" stroke="#E8E8E8" stroke-width="1">
+    <line x1="72" y1="196" x2="72" y2="644" />
+    <line x1="168" y1="196" x2="168" y2="644" />
+    <line x1="264" y1="196" x2="264" y2="644" />
+    <line x1="360" y1="196" x2="360" y2="644" />
+    <line x1="456" y1="196" x2="456" y2="644" />
+    <line x1="552" y1="196" x2="552" y2="644" />
+    <line x1="648" y1="196" x2="648" y2="644" />
+    <line x1="744" y1="196" x2="744" y2="644" />
+    <line x1="840" y1="196" x2="840" y2="644" />
+    <line x1="936" y1="196" x2="936" y2="644" />
+    <line x1="1032" y1="196" x2="1032" y2="644" />
+    <line x1="1128" y1="196" x2="1128" y2="644" />
+    <line x1="1208" y1="196" x2="1208" y2="644" />
+  </g>
+
+  <g id="p14-headline" data-pptx-bounds="72 96 1136 62">
+    <text x="72" y="140" font-size="44" font-weight="bold" fill="#111111">「最便宜」有四种口径，它们不可平均、也不可互换</text>
+  </g>
+
+  <g id="lcoe-methodology-table" data-pptx-replace-with="table" data-pptx-bounds="72 200 1136 240" data-pptx-fallback-sha256="51c720f1239a6a62b8a9bd826519e2b00fafc446f8b07625f060fc7e40f72fd6">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 72, "y": 200, "width": 1136, "height": 240,
+  "name": "lcoe-methodology-table",
+  "header_rows": 1,
+  "column_widths": [192, 288, 288, 368],
+  "row_heights": [48, 48, 48, 48, 48],
+  "strict_grid": true,
+  "defaults": {
+    "cell": {
+      "valign": "middle",
+      "padding": 16,
+      "font_size": 20,
+      "color": "#1A1A1A",
+      "align": "l",
+      "borders": {
+        "top": {"style": "none"},
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D4D4D4", "width": 1}
+      }
+    }
+  },
+  "columns": [
+    {"text": "机构", "bold": true, "color": "#111111", "borders": {"top": {"style": "solid", "color": "#111111", "width": 2}, "bottom": {"style": "solid", "color": "#111111", "width": 2}, "left": {"style": "none"}, "right": {"style": "none"}}},
+    {"text": "地域与口径", "bold": true, "color": "#111111", "borders": {"top": {"style": "solid", "color": "#111111", "width": 2}, "bottom": {"style": "solid", "color": "#111111", "width": 2}, "left": {"style": "none"}, "right": {"style": "none"}}},
+    {"text": "单位与基年", "bold": true, "color": "#111111", "borders": {"top": {"style": "solid", "color": "#111111", "width": 2}, "bottom": {"style": "solid", "color": "#111111", "width": 2}, "left": {"style": "none"}, "right": {"style": "none"}}},
+    {"text": "最新值", "bold": true, "color": "#111111", "borders": {"top": {"style": "solid", "color": "#111111", "width": 2}, "bottom": {"style": "solid", "color": "#111111", "width": 2}, "left": {"style": "none"}, "right": {"style": "none"}}}
+  ],
+  "rows": [
+    [{"text": "Lazard v19.0", "bold": true, "color": "#111111"}, "美国、无补贴、区间值", "USD/MWh", {"text": "2026 年 $40–$98（均值 $69）", "color": "#C8102E", "bold": true}],
+    [{"text": "IRENA", "bold": true, "color": "#111111"}, "全球加权平均、实际投产", "USD/kWh，报告当年美元", "2024 年 0.043；2025 年 0.044"],
+    [{"text": "NREL", "bold": true, "color": "#111111"}, "美国基准电站 100 MWdc", "¢/kWh，2024 USD", "2024 年 4.8¢"],
+    [{"text": "BloombergNEF", "bold": true, "color": "#111111"}, "全球电池组价格调查", "USD/kWh，2025 实际美元", "2025 年 108（储能专用 70）"]
+  ],
+  "style": {"font_family": "Microsoft YaHei", "font_size": 20, "band_row": false}
+}
+    </metadata>
+    <line x1="72" y1="200" x2="1208" y2="200" stroke="#111111" stroke-width="2" />
+    <line x1="72" y1="248" x2="1208" y2="248" stroke="#111111" stroke-width="2" />
+    <line x1="72" y1="296" x2="1208" y2="296" stroke="#D4D4D4" stroke-width="1" />
+    <line x1="72" y1="344" x2="1208" y2="344" stroke="#D4D4D4" stroke-width="1" />
+    <line x1="72" y1="392" x2="1208" y2="392" stroke="#D4D4D4" stroke-width="1" />
+    <line x1="72" y1="440" x2="1208" y2="440" stroke="#D4D4D4" stroke-width="1" />
+    <text x="88" y="231" font-size="20" font-weight="bold" fill="#111111">机构</text>
+    <text x="280" y="231" font-size="20" font-weight="bold" fill="#111111">地域与口径</text>
+    <text x="568" y="231" font-size="20" font-weight="bold" fill="#111111">单位与基年</text>
+    <text x="856" y="231" font-size="20" font-weight="bold" fill="#111111">最新值</text>
+    <text x="88" y="279" font-size="20" font-weight="bold" fill="#111111">Lazard v19.0</text>
+    <text x="280" y="279" font-size="20" fill="#1A1A1A">美国、无补贴、区间值</text>
+    <text x="568" y="279" font-size="20" fill="#1A1A1A">USD/MWh</text>
+    <text x="856" y="279" font-size="20" font-weight="bold" fill="#C8102E">2026 年 $40–$98（均值 $69）</text>
+    <text x="88" y="327" font-size="20" font-weight="bold" fill="#111111">IRENA</text>
+    <text x="280" y="327" font-size="20" fill="#1A1A1A">全球加权平均、实际投产</text>
+    <text x="568" y="327" font-size="20" fill="#1A1A1A">USD/kWh，报告当年美元</text>
+    <text x="856" y="327" font-size="20" fill="#1A1A1A">2024 年 0.043；2025 年 0.044</text>
+    <text x="88" y="375" font-size="20" font-weight="bold" fill="#111111">NREL</text>
+    <text x="280" y="375" font-size="20" fill="#1A1A1A">美国基准电站 100 MWdc</text>
+    <text x="568" y="375" font-size="20" fill="#1A1A1A">¢/kWh，2024 USD</text>
+    <text x="856" y="375" font-size="20" fill="#1A1A1A">2024 年 4.8¢</text>
+    <text x="88" y="423" font-size="20" font-weight="bold" fill="#111111">BloombergNEF</text>
+    <text x="280" y="423" font-size="20" fill="#1A1A1A">全球电池组价格调查</text>
+    <text x="568" y="423" font-size="20" fill="#1A1A1A">USD/kWh，2025 实际美元</text>
+    <text x="856" y="423" font-size="20" fill="#1A1A1A">2025 年 108（储能专用 70）</text>
+  </g>
+
+  <g id="p14-excluded" data-pptx-bounds="72 462 552 182">
+    <text x="72" y="488" font-size="24" font-weight="bold" fill="#111111">LCOE 这个指标没算什么</text>
+    <use data-icon="tabler-outline/alert-triangle" x="480" y="466" width="28" height="28" fill="#C8102E" stroke-width="1.5" />
+    <text x="72" y="526" font-size="18" fill="#1A1A1A">Lazard 明确列出未纳入的因素：<tspan x="72" dy="26" fill="#6E6E6E">· 输电队列改革与网络升级等输电事项</tspan><tspan x="72" dy="26" fill="#6E6E6E">· 拥堵、弃电或其他并网整合成本</tspan><tspan x="72" dy="26" fill="#6E6E6E">· 许可与其他开发成本</tspan><tspan x="72" dy="26">任何只用 LCOE 横条作结论的页，都应同时出现这句</tspan></text>
+  </g>
+
+  <line id="p14-split" data-pptx-role="decoration" x1="600" y1="462" x2="600" y2="644" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p14-quote" data-pptx-bounds="632 462 576 182">
+    <text x="632" y="488" font-size="24" font-weight="bold" fill="#111111">正面回应与权威原话</text>
+    <text x="632" y="522" font-size="18" fill="#1A1A1A">Lazard 另有 Cost of Firming Intermittency 分析：即便计入<tspan x="632" dy="24">调峰成本，可再生与新建燃气联合循环相比总体仍具竞争力</tspan></text>
+    <text x="632" y="578" font-size="18" fill="#C8102E">“solar PV is now the cheapest source<tspan x="632" dy="24">of electricity in history.”</tspan><tspan x="632" dy="24" fill="#6E6E6E">—— IEA WEO 2020（原文含低成本融资与优质资源两个限定）</tspan></text>
+  </g>
+
+  <line id="p14-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p14-footer" data-pptx-bounds="72 668 1136 24" fill="#6E6E6E" font-size="16">
+    <text x="72" y="684">口径警告：同一年 Lazard 均值 $61/MWh 与 IRENA $43/MWh 相差一倍以上，是口径差异不是矛盾</text>
+    <text x="1208" y="684" text-anchor="end">14</text>
+  </g>
+</svg>

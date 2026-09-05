@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p12-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p12-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 909 4">
+    <rect x="72" y="76" width="909" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p12-headline" data-pptx-bounds="72 100 1136 112">
+    <text x="72" y="140" font-size="44" font-weight="bold" fill="#111111">并网中位等待从 22 个月拉长到 61 个月，<tspan x="72" dy="54">排队里压着 2,061 GW</tspan></text>
+  </g>
+
+  <g id="queue-wait-months" data-pptx-replace-with="chart" data-pptx-bounds="72 236 560 384" data-pptx-fallback-sha256="1316145d3d8a8dddb0c97722c15f7b7e7b6b03f23ae34edf491a9a75ec5188db">
+    <metadata type="application/json">
+{
+  "x": 72, "y": 236, "width": 560, "height": 384,
+  "name": "queue-wait-months",
+  "type": "column",
+  "grouping": "clustered",
+  "categories": ["2008", "2015", "2025"],
+  "series": [
+    {
+      "name": "并网中位等待（月）",
+      "values": [22, 36, 61],
+      "point_colors": ["#6E6E6E", "#6E6E6E", "#C8102E"]
+    }
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom"},
+    "value": {"kind": "value", "position": "left", "minimum": 0, "maximum": 70, "major_unit": 20, "major_gridlines": true}
+  },
+  "data_labels": {"show_value": true, "position": "outside_end", "font_size": 20, "font_family": "Arial", "color": "#111111"},
+  "notes": [
+    {"text": "从提出并网申请到商业运行的中位耗时（月）", "x": 150, "y": 242, "width": 420, "height": 26, "font_size": 18, "color": "#6E6E6E"}
+  ],
+  "plot_area": {"x": 150, "y": 280, "width": 450, "height": 290},
+  "style": {
+    "colors": ["#6E6E6E"],
+    "chart_area_fill": "#FFFFFF",
+    "plot_area_fill": "#FFFFFF",
+    "axis_color": "#D4D4D4",
+    "grid_color": "#E8E8E8",
+    "text_color": "#6E6E6E",
+    "font_family": "Arial",
+    "font_size": 20
+  }
+}
+    </metadata>
+    <g id="queue-wait-months-chartArea">
+      <line id="p12-grid-60" x1="150" y1="321.4" x2="600" y2="321.4" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p12-grid-40" x1="150" y1="404.3" x2="600" y2="404.3" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p12-grid-20" x1="150" y1="487.1" x2="600" y2="487.1" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p12-axis-y" x1="150" y1="280" x2="150" y2="570" stroke="#D4D4D4" stroke-width="1" />
+      <line id="p12-axis-x" x1="150" y1="570" x2="600" y2="570" stroke="#D4D4D4" stroke-width="1" />
+      <text x="142" y="577" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">0</text>
+      <text x="142" y="494.1" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">20</text>
+      <text x="142" y="411.3" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">40</text>
+      <text x="142" y="328.4" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">60</text>
+      <text x="225" y="596" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2008</text>
+      <text x="375" y="596" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2015</text>
+      <text x="525" y="596" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2025</text>
+      <!-- chart-plot-area: object=queue-wait-months | 150,280,600,570 -->
+      <rect x="180" y="478.9" width="90" height="91.1" fill="#6E6E6E" />
+      <rect x="330" y="420.9" width="90" height="149.1" fill="#6E6E6E" />
+      <rect x="480" y="317.3" width="90" height="252.7" fill="#C8102E" />
+      <text x="225" y="468.9" font-family="Arial" font-size="20" fill="#111111" text-anchor="middle">22</text>
+      <text x="375" y="410.9" font-family="Arial" font-size="20" fill="#111111" text-anchor="middle">36</text>
+      <text x="525" y="307.3" font-family="Arial" font-size="20" fill="#111111" text-anchor="middle">61</text>
+      <text x="150" y="258" font-size="18" fill="#6E6E6E">从提出并网申请到商业运行的中位耗时（月）</text>
+    </g>
+  </g>
+
+  <line id="p12-split" data-pptx-role="decoration" x1="652" y1="236" x2="652" y2="620" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p12-queue" data-pptx-bounds="672 238 536 152">
+    <text x="672" y="264" font-size="24" font-weight="bold" fill="#111111">队列里有什么</text>
+    <text x="672" y="302" font-size="18" fill="#1A1A1A">8,244 个项目、约 <tspan font-weight="bold" fill="#C8102E">2,061 GW</tspan>（2025 年底）<tspan x="672" dy="26" fill="#6E6E6E">光伏 773 GW（−19%）· 储能 749 GW（−16%）</tspan><tspan x="672" dy="26" fill="#6E6E6E">风电 220 GW（−19%）· 天然气 253 GW（+86%）</tspan><tspan x="672" dy="26" fill="#6E6E6E">另有 549 GW 已签或已出草签并网协议未投运</tspan></text>
+  </g>
+
+  <g id="p12-global" data-pptx-bounds="672 422 536 194">
+    <text x="672" y="448" font-size="24" font-weight="bold" fill="#111111">全球尺度</text>
+    <text x="672" y="486" font-size="18" fill="#1A1A1A">至少 3,000 GW 可再生项目在接入队列等待，<tspan x="672" dy="26">其中 1,500 GW 已进入后期阶段——相当于</tspan><tspan x="672" dy="26">2022 年全球新增风光装机的五倍</tspan></text>
+    <text x="672" y="574" font-size="18" fill="#1A1A1A">2040 年前需新增或更换 <tspan font-weight="bold" fill="#C8102E">8,000 万公里</tspan>输配<tspan x="672" dy="26">电线路，相当于现有全球电网的总长度</tspan></text>
+  </g>
+
+  <line id="p12-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p12-footer" data-pptx-bounds="72 662 1136 48" fill="#6E6E6E" font-size="16">
+    <text x="72" y="680">来源：Berkeley Lab《Queued Up: 2026 Edition》（美国并网队列）；IEA《Electricity Grids and Secure Energy Transitions》<tspan x="72" dy="22">电网年投资自 2015 年以来长期停滞在约 USD 3,000 亿，需在 2030 年前翻倍至每年 USD 6,000 亿以上</tspan></text>
+    <text x="1208" y="680" text-anchor="end">12</text>
+  </g>
+</svg>

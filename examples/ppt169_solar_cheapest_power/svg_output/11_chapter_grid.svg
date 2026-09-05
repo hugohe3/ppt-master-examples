@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="section">
+  <rect id="p11-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#111111" />
+  <rect id="p11-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#3A3A3A" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 833 4">
+    <rect x="72" y="76" width="833" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p11-chapter-icon" data-pptx-bounds="1152 240 64 64">
+    <use data-icon="tabler-outline/plug-connected" x="1160" y="248" width="48" height="48" fill="#C8102E" stroke-width="1.5" />
+  </g>
+
+  <g id="chapter-numeral" data-pptx-bounds="72 296 232 208">
+    <text x="72" y="440" font-family="Arial Black" font-size="160" font-weight="bold" fill="#FFFFFF">03</text>
+  </g>
+
+  <line id="p11-split" data-pptx-role="decoration" x1="312" y1="304" x2="312" y2="550" stroke="#3A3A3A" stroke-width="1" />
+
+  <g id="p11-assertion" data-pptx-bounds="360 352 848 124">
+    <text x="360" y="400" font-size="44" font-weight="bold" fill="#FFFFFF">稀缺的不是价格，<tspan x="360" dy="54">是并网容量与消纳空间</tspan></text>
+  </g>
+
+  <g id="p11-question" data-pptx-bounds="360 508 848 52">
+    <text x="360" y="540" font-size="30" fill="#D4D4D4">如果价格已经不是问题，那什么是</text>
+  </g>
+
+  <line id="p11-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#3A3A3A" stroke-width="1" />
+
+  <g id="p11-footer" data-pptx-bounds="72 668 1136 24" fill="#D4D4D4" font-size="16">
+    <text x="72" y="684">判断三 · 真正的约束在电网</text>
+    <text x="1208" y="684" text-anchor="end">11</text>
+  </g>
+</svg>

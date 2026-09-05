@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <clipPath id="p04Clip">
+      <polygon points="860,76 936,0 1280,0 1280,720 860,720"/>
+    </clipPath>
+  </defs>
+
+  <rect id="p04-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p04-photo" data-pptx-bounds="860 0 420 720">
+    <image href="../images/03_ladder.jpg" x="860" y="0" width="420" height="720" preserveAspectRatio="xMidYMid slice" clip-path="url(#p04Clip)"/>
+  </g>
+
+  <g id="p04-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1969 · APOLLO 11</text>
+  </g>
+
+  <g id="p04-title" data-pptx-bounds="72 188 728 150">
+    <text x="72" y="240" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">从落地到落脚，<tspan x="72" dy="72">中间隔了六个小时</tspan></text>
+  </g>
+
+  <g id="p04-landing" data-pptx-bounds="72 370 728 96">
+    <text x="72" y="394" font-size="22" fill="#98A0A9">着陆 · 静海基地 Tranquility Base</text>
+    <text x="72" y="444" font-family="Times New Roman, SimSun" font-size="40" fill="#E9E4D9">1969.07.20 20:17:40 UTC</text>
+  </g>
+
+  <line id="p04-rule" data-pptx-role="decoration" x1="72" y1="486" x2="800" y2="486" stroke="#39414A" stroke-width="1"/>
+
+  <g id="p04-step" data-pptx-bounds="72 496 728 96">
+    <text x="72" y="524" font-size="22" fill="#D2622B">第一步 · 着陆后六个多小时</text>
+    <text x="72" y="574" font-family="Times New Roman, SimSun" font-size="40" fill="#E9E4D9">1969.07.21 02:56:15 UTC</text>
+  </g>
+
+  <g id="p04-quote" data-pptx-bounds="72 594 728 92" font-size="22">
+    <text x="72" y="618" fill="#DAD5CA">“That’s one small step for [a] man,<tspan x="72" dy="28">one giant leap for mankind.”</tspan></text>
+    <text x="72" y="674" fill="#98A0A9">录音里听不清那个 “a”，Armstrong 后来承认漏掉了。</text>
+  </g>
+
+  <g id="p04-credit" data-pptx-bounds="72 690 728 30">
+    <text x="72" y="706" font-size="18" fill="#98A0A9">AS11-40-5868 · 摄影 Neil Armstrong / NASA</text>
+  </g>
+</svg>

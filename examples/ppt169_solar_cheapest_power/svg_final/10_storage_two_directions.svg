@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p10-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p10-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 757 4">
+    <rect x="72" y="76" width="757" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p10-headline" data-pptx-bounds="72 96 1136 62">
+    <text x="72" y="140" font-size="44" font-weight="bold" fill="#111111">电芯价格在创新低，储能度电成本却涨了 39%</text>
+  </g>
+
+  <g id="p10-falling" data-pptx-bounds="72 190 460 340">
+    <text x="72" y="216" font-size="24" font-weight="bold" fill="#111111">在降 · 电芯</text>
+    <text x="72" y="320" font-family="Arial Black" font-size="96" font-weight="bold" fill="#C8102E">$70</text>
+    <text font-size="18" fill="#1A1A1A" x="72" y="380">储能专用电池组，2025 年，同比 −45%</text><text font-size="18" fill="#6E6E6E" x="72" y="406">全球电池组均价 USD 108/kWh（同比 −8%，</text><text font-size="18" fill="#6E6E6E" x="72" y="432">自 2010 年约 1,474 降 93%）</text><text font-size="18" fill="#6E6E6E" x="72" y="458">IRENA：电池储能系统成本 2010–2024</text><text font-size="18" fill="#6E6E6E" x="72" y="484">降 93%，2,634 → 197 USD/kWh</text><text font-size="18" fill="#6E6E6E" x="72" y="510">2025 年再降约 30%</text></g>
+
+  <line id="p10-split" data-pptx-role="decoration" x1="546" y1="190" x2="546" y2="530" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="storage-lcos-range" data-pptx-replace-with="chart" data-pptx-bounds="560 190 648 340" data-pptx-fallback-sha256="d83b06bbebbc4ed2a86a825da15976f065e0248541e7bb9ba145e2da2bd2f6f5">
+    <metadata type="application/json">
+{
+  "x": 560,
+  "y": 190,
+  "width": 648,
+  "height": 340,
+  "name": "storage-lcos-range",
+  "type": "line",
+  "grouping": "standard",
+  "categories": [
+    "2020",
+    "2021",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "series": [
+    {
+      "name": "LCOS 下限",
+      "values": [
+        132,
+        131,
+        200,
+        170,
+        115,
+        210
+      ],
+      "point_colors": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "#C8102E"
+      ]
+    },
+    {
+      "name": "LCOS 上限",
+      "values": [
+        245,
+        232,
+        257,
+        296,
+        254,
+        292
+      ],
+      "point_colors": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "#C8102E"
+      ]
+    }
+  ],
+  "axes": {
+    "category": {
+      "kind": "text",
+      "position": "bottom"
+    },
+    "value": {
+      "kind": "value",
+      "position": "left",
+      "minimum": 0,
+      "maximum": 450,
+      "major_unit": 150,
+      "major_gridlines": true
+    }
+  },
+  "notes": [
+    {
+      "text": "$/MWh｜公用事业级独立储能 100 MW/4h；2022 年无版本",
+      "x": 640,
+      "y": 208,
+      "width": 540,
+      "height": 26,
+      "font_size": 18,
+      "color": "#6E6E6E"
+    },
+    {
+      "text": "2026 逆转上一年降势：锂电池进口关税切断低价中国电芯",
+      "x": 700,
+      "y": 268,
+      "width": 470,
+      "height": 26,
+      "font_size": 18,
+      "color": "#C8102E"
+    },
+    {
+      "text": "2020 → 2026 累计 +39%（CAGR 6%）",
+      "x": 640,
+      "y": 504,
+      "width": 400,
+      "height": 26,
+      "font_size": 18,
+      "color": "#111111"
+    }
+  ],
+  "plot_area": {
+    "x": 640,
+    "y": 240,
+    "width": 540,
+    "height": 230
+  },
+  "style": {
+    "colors": [
+      "#6E6E6E",
+      "#111111"
+    ],
+    "chart_area_fill": "#FFFFFF",
+    "plot_area_fill": "#FFFFFF",
+    "axis_color": "#D4D4D4",
+    "grid_color": "#E8E8E8",
+    "text_color": "#6E6E6E",
+    "font_family": "Arial",
+    "font_size": 20
+  },
+  "marker_size": 12
+}
+</metadata>
+    <g id="storage-lcos-range-chartArea">
+      <line id="p10-grid-450" x1="640" y1="240" x2="1180" y2="240" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p10-grid-300" x1="640" y1="316.7" x2="1180" y2="316.7" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p10-grid-150" x1="640" y1="393.3" x2="1180" y2="393.3" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p10-axis-y" x1="640" y1="240" x2="640" y2="470" stroke="#D4D4D4" stroke-width="1" />
+      <line id="p10-axis-x" x1="640" y1="470" x2="1180" y2="470" stroke="#D4D4D4" stroke-width="1" />
+      <text x="632" y="477" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">0</text>
+      <text x="632" y="400.3" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">150</text>
+      <text x="632" y="323.7" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">300</text>
+      <text x="632" y="247" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="end">450</text>
+      <text x="685" y="496" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2020</text>
+      <text x="775" y="496" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2021</text>
+      <text x="865" y="496" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2023</text>
+      <text x="955" y="496" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2024</text>
+      <text x="1045" y="496" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2025</text>
+      <text x="1135" y="496" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">2026</text>
+      
+      <polyline points="685,402.5 775,403.1 865,367.8 955,383.1 1045,411.2 1135,362.7" fill="none" stroke="#6E6E6E" stroke-width="3" stroke-linejoin="round" />
+      <polyline points="685,344.8 775,351.4 865,338.6 955,318.7 1045,340.2 1135,320.8" fill="none" stroke="#111111" stroke-width="3" stroke-linejoin="round" />
+      <circle cx="1135" cy="362.7" r="6" fill="#C8102E" />
+      <circle cx="1135" cy="320.8" r="6" fill="#C8102E" />
+      <text x="640" y="224" font-size="18" fill="#6E6E6E">$/MWh｜公用事业级独立储能 100 MW/4h；2022 年无版本</text>
+      <text x="700" y="284" font-size="18" fill="#C8102E">2026 逆转上一年降势：锂电池进口关税切断低价中国电芯</text>
+      <text x="640" y="520" font-size="18" fill="#111111">2020 → 2026 累计 +39%（CAGR 6%）</text>
+    </g>
+  </g>
+
+  <g id="p10-firm" data-pptx-bounds="72 550 1136 100">
+    <text x="72" y="576" font-size="24" font-weight="bold" fill="#111111">可用的合成指标：firm LCOE</text>
+    <text font-size="18" fill="#1A1A1A" x="72" y="610">IRENA（2026-05）：2025 年高资源区 firm LCOE 为 USD 54–82/MWh，2030 年再降约 30%、2035 年约 40%</text><text font-size="18" fill="#6E6E6E" x="72" y="636">中国 90% 可靠性下 USD 30/MWh、99% 下约 46；巴西、印度、南非、澳大利亚与海湾 USD 65–82</text></g>
+
+  <line id="p10-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p10-footer" data-pptx-bounds="72 668 1136 24" fill="#6E6E6E" font-size="16">
+    <text x="72" y="684">来源：BloombergNEF 2025 锂电池价格调查；Lazard LCOS v11.0；IRENA《24/7 renewables》；Lazard「光伏+储能」$61–$156/MWh</text>
+    <text x="1208" y="684" text-anchor="end">10</text>
+  </g>
+</svg>

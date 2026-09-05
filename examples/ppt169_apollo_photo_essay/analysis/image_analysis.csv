@@ -1,0 +1,12 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,01_launch.jpg,3000,2252,1.33,1.33,,native,JPEG,False,1,,bitmap,True,True,6190.9,Standard landscape
+2,02_earthrise.jpg,5550,4446,1.25,1.25,,native,JPEG,False,1,,bitmap,True,True,9969.1,Standard landscape
+3,03_ladder.jpg,3912,3960,0.99,0.99,,native,JPEG,False,1,,bitmap,True,True,1692.9,Near square
+4,04_visor.jpg,3912,3936,0.99,0.99,,native,JPEG,False,1,,bitmap,True,True,4702.6,Near square
+5,05_bootprint.jpg,3896,3912,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,1821.1,Near square
+6,06_apollo13_sm.jpg,2946,2399,1.23,1.23,,native,JPEG,False,1,,bitmap,True,True,404.9,Standard landscape
+7,06_apollo13_sm_mono.jpg,2946,2399,1.23,1.23,,native,PNG,False,1,,bitmap,True,True,1740.1,Standard landscape
+8,07_irwin_rover.jpg,2394,1642,1.46,1.46,,native,JPEG,False,1,,bitmap,True,True,821.7,Standard landscape
+9,08_schmitt_boulder.jpg,6932,3982,1.74,1.74,,native,JPEG,False,1,,bitmap,True,True,2447.4,Wide landscape
+10,09_blue_marble.jpg,2400,2400,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,3407.8,Near square
+11,10_apollo11_liftoff.jpg,2280,2862,0.80,0.80,,native,JPEG,False,1,,bitmap,True,True,951.2,Portrait

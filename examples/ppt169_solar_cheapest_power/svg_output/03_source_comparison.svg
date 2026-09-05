@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p03-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p03-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 227 4">
+    <rect x="72" y="76" width="227" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p03-headline" data-pptx-bounds="72 100 1136 112">
+    <text x="72" y="140" font-size="44" font-weight="bold" fill="#111111">在同一口径下，<tspan x="72" dy="54">光伏与陆上风电是最便宜的两种新增电源</tspan></text>
+  </g>
+
+  <g id="source-cost-range" data-pptx-replace-with="chart" data-pptx-bounds="72 236 778 384" data-pptx-fallback-sha256="63b876613f99fcf999401f2d99067f85bd8c7f856445c9cf35f9a2953df1fdce">
+    <metadata type="application/json">
+{
+  "x": 72,
+  "y": 236,
+  "width": 778,
+  "height": 384,
+  "name": "source-cost-range",
+  "type": "bar",
+  "grouping": "stacked",
+  "categories": [
+    "陆上风电 $37–$99",
+    "公用事业级光伏 $40–$98",
+    "陆上风电+储能 $49–$140",
+    "天然气联合循环 $51–$129",
+    "光伏+储能 $61–$156",
+    "燃煤 $72–$177",
+    "社区级与工商业光伏 $88–$197",
+    "海上风电 $105–$167",
+    "天然气调峰 $144–$276",
+    "美国核电 $175–$255"
+  ],
+  "series": [
+    {
+      "name": "成本下限",
+      "values": [
+        37,
+        40,
+        49,
+        51,
+        61,
+        72,
+        88,
+        105,
+        144,
+        175
+      ],
+      "point_colors": [
+        "#6E6E6E",
+        "#C8102E",
+        "#6E6E6E",
+        "#6E6E6E",
+        "#6E6E6E",
+        "#6E6E6E",
+        "#6E6E6E",
+        "#6E6E6E",
+        "#6E6E6E",
+        "#6E6E6E"
+      ]
+    },
+    {
+      "name": "区间上探至上限",
+      "values": [
+        62,
+        58,
+        91,
+        78,
+        95,
+        105,
+        109,
+        62,
+        132,
+        80
+      ],
+      "point_colors": [
+        "#D4D4D4",
+        "#D4D4D4",
+        "#D4D4D4",
+        "#D4D4D4",
+        "#D4D4D4",
+        "#D4D4D4",
+        "#D4D4D4",
+        "#D4D4D4",
+        "#D4D4D4",
+        "#D4D4D4"
+      ]
+    }
+  ],
+  "axes": {
+    "category": {
+      "kind": "text",
+      "position": "left"
+    },
+    "value": {
+      "kind": "value",
+      "position": "bottom",
+      "minimum": 0,
+      "maximum": 300,
+      "major_unit": 100,
+      "major_gridlines": true,
+      "color": "#6E6E6E",
+      "font_family": "Arial"
+    }
+  },
+  "notes": [
+    {
+      "text": "条形总长 = 区间上限，USD/MWh",
+      "x": 410,
+      "y": 240,
+      "width": 340,
+      "height": 24,
+      "font_size": 18,
+      "color": "#6E6E6E"
+    }
+  ],
+  "plot_area": {
+    "x": 410,
+    "y": 256,
+    "width": 410,
+    "height": 334
+  },
+  "style": {
+    "colors": [
+      "#6E6E6E",
+      "#D4D4D4"
+    ],
+    "chart_area_fill": "#FFFFFF",
+    "plot_area_fill": "#FFFFFF",
+    "axis_color": "#D4D4D4",
+    "grid_color": "#E8E8E8",
+    "text_color": "#1A1A1A",
+    "font_family": "Microsoft YaHei",
+    "font_size": 20
+  }
+}
+</metadata>
+    <g id="source-cost-range-chartArea">
+      <line id="p03-grid-100" x1="546.7" y1="256" x2="546.7" y2="590" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p03-grid-200" x1="683.3" y1="256" x2="683.3" y2="590" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p03-grid-300" x1="820" y1="256" x2="820" y2="590" stroke="#E8E8E8" stroke-width="1" />
+      <line id="p03-axis-y" x1="410" y1="256" x2="410" y2="590" stroke="#D4D4D4" stroke-width="1" />
+      <line id="p03-axis-x" x1="410" y1="590" x2="820" y2="590" stroke="#D4D4D4" stroke-width="1" />
+      <text x="400" y="281" font-size="20" fill="#1A1A1A" text-anchor="end">陆上风电 $37–$99</text>
+      <text x="400" y="314" font-size="20" fill="#C8102E" text-anchor="end">公用事业级光伏 $40–$98</text>
+      <text x="400" y="347" font-size="20" fill="#1A1A1A" text-anchor="end">陆上风电+储能 $49–$140</text>
+      <text x="400" y="380" font-size="20" fill="#1A1A1A" text-anchor="end">天然气联合循环 $51–$129</text>
+      <text x="400" y="413" font-size="20" fill="#1A1A1A" text-anchor="end">光伏+储能 $61–$156</text>
+      <text x="400" y="446" font-size="20" fill="#1A1A1A" text-anchor="end">燃煤 $72–$177</text>
+      <text x="400" y="479" font-size="20" fill="#1A1A1A" text-anchor="end">社区级与工商业光伏 $88–$197</text>
+      <text x="400" y="512" font-size="20" fill="#1A1A1A" text-anchor="end">海上风电 $105–$167</text>
+      <text x="400" y="545" font-size="20" fill="#1A1A1A" text-anchor="end">天然气调峰 $144–$276</text>
+      <text x="400" y="578" font-size="20" fill="#1A1A1A" text-anchor="end">美国核电 $175–$255</text>
+      <text x="410" y="610" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">0</text>
+      <text x="546.7" y="610" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">100</text>
+      <text x="683.3" y="610" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">200</text>
+      <text x="820" y="610" font-family="Arial" font-size="20" fill="#6E6E6E" text-anchor="middle">300</text>
+      <!-- chart-plot-area: object=source-cost-range | 410,256,820,590 -->
+      <rect x="410" y="266" width="50.6" height="20" fill="#6E6E6E" />
+      <rect x="460.6" y="266" width="84.7" height="20" fill="#D4D4D4" />
+      <rect x="410" y="299" width="54.7" height="20" fill="#C8102E" />
+      <rect x="464.7" y="299" width="79.3" height="20" fill="#D4D4D4" />
+      <rect x="410" y="332" width="67" height="20" fill="#6E6E6E" />
+      <rect x="477" y="332" width="124.4" height="20" fill="#D4D4D4" />
+      <rect x="410" y="365" width="69.7" height="20" fill="#6E6E6E" />
+      <rect x="479.7" y="365" width="106.6" height="20" fill="#D4D4D4" />
+      <rect x="410" y="398" width="83.4" height="20" fill="#6E6E6E" />
+      <rect x="493.4" y="398" width="129.8" height="20" fill="#D4D4D4" />
+      <rect x="410" y="431" width="98.4" height="20" fill="#6E6E6E" />
+      <rect x="508.4" y="431" width="143.5" height="20" fill="#D4D4D4" />
+      <rect x="410" y="464" width="120.3" height="20" fill="#6E6E6E" />
+      <rect x="530.3" y="464" width="149" height="20" fill="#D4D4D4" />
+      <rect x="410" y="497" width="143.5" height="20" fill="#6E6E6E" />
+      <rect x="553.5" y="497" width="84.7" height="20" fill="#D4D4D4" />
+      <rect x="410" y="530" width="196.8" height="20" fill="#6E6E6E" />
+      <rect x="606.8" y="530" width="180.4" height="20" fill="#D4D4D4" />
+      <rect x="410" y="563" width="239.2" height="20" fill="#6E6E6E" />
+      <rect x="649.2" y="563" width="109.3" height="20" fill="#D4D4D4" />
+      <text x="410" y="254" font-size="18" fill="#6E6E6E">条形总长 = 区间上限，USD/MWh</text>
+    </g>
+  </g>
+
+  <g id="p03-disclaimer" data-pptx-bounds="872 236 336 130">
+    <text x="872" y="264" font-size="18" fill="#1A1A1A">Lazard 原文：该分析不考虑部分<tspan x="872" dy="26">可再生技术的间歇性特征，也不</tspan><tspan x="872" dy="26">考虑新增可再生部署带来的电网</tspan><tspan x="872" dy="26">影响。</tspan></text>
+  </g>
+
+  <g id="p03-irena" data-pptx-bounds="872 380 336 156">
+    <text x="872" y="408" font-size="18" fill="#1A1A1A">IRENA 全球口径（2024）：<tspan x="872" dy="26">新建光伏比最低成本化石方案</tspan><tspan x="872" dy="26">便宜 <tspan fill="#C8102E" font-weight="bold">41%</tspan>，陆上风电便宜 53%；</tspan><tspan x="872" dy="26">当年投产的新建可再生项目中，</tspan><tspan x="872" dy="26"><tspan fill="#C8102E" font-weight="bold">91%</tspan> 成本低于新建化石机组</tspan></text>
+  </g>
+
+  <g id="p03-geography" data-pptx-bounds="872 542 336 112">
+    <text x="872" y="560" font-size="18" fill="#1A1A1A">「最便宜」不是全球均匀的<tspan x="872" dy="26" fill="#6E6E6E">中国 0.036 ｜ 印度 0.035 ｜</tspan><tspan x="872" dy="26" fill="#6E6E6E">美国 0.062 ｜ 德国 0.065</tspan><tspan x="872" dy="26" fill="#6E6E6E">日本 0.123（2024，约中国 3.7 倍）</tspan></text>
+  </g>
+
+  <g id="p03-caveat" data-pptx-bounds="72 624 760 28">
+    <text x="72" y="642" font-size="16" fill="#6E6E6E">燃煤区间由 LCOE v14.0 按通胀调整；核电基于 Vogtle 3、4 号机组公开造价</text>
+  </g>
+
+  <line id="p03-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p03-footer" data-pptx-bounds="72 668 1136 24" fill="#6E6E6E" font-size="16">
+    <text x="72" y="684">来源：Lazard LCOE v19.0（2026），美国、无补贴；天然气 $3.45、燃煤 $1.47、核燃料 $0.85/MMBTU，60% 债务(8%) + 40% 权益(12%)</text>
+    <text x="1208" y="684" text-anchor="end">03</text>
+  </g>
+</svg>

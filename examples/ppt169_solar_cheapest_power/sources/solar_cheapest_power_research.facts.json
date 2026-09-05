@@ -1,0 +1,726 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "光伏为什么成了最便宜的电",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "Lazard 公用事业级光伏(Solar PV—Utility)无补贴 LCOE 区间序列(美国口径,USD/MWh):2009 年 $323–$394、2010 $226–$270、2011 $148–$166、2012 $101–$149、2013 $91–$104、2014 $72–$86、2015 $58–$70、2016 $49–$61、2017 $46–$53、2018 $40–$46、2019 $36–$44、2020 $31–$42、2021 $30–$41、2023 $24–$96、2024 $29–$92、2025 $38–$78、2026 $40–$98(Lazard 未发布 2022 年版本,序列中断一年)。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "Lazard 公用事业级光伏 LCOE 高低端均值序列(USD/MWh):2009 $359、2010 $248、2011 $157、2012 $125、2013 $98、2014 $79、2015 $64、2016 $55、2017 $50、2018 $43、2019 $40、2020 $37、2021 $36(历史最低)、2023 $60、2024 $61、2025 $58、2026 $69。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "Lazard:公用事业级光伏 LCOE 2009–2026 年累计下降 81%,年均复合变化率 -10%。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "Lazard:公用事业级光伏 LCOE 自 2021 年低点到 2026 年回升 85%,年均复合增长率 +12%。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "Lazard 陆上风电无补贴 LCOE:2009 年 $101–$169/MWh,2026 年 $37–$99/MWh,2009–2026 累计下降 52%(CAGR -4%);2021–2026 回升 70%(CAGR +11%)。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "IRENA 全球加权平均公用事业级光伏 LCOE 序列(constant 2025 USD/kWh):2010 年 0.408、2011 0.344、2012 0.260、2013 0.203、2014 0.181、2015 0.134、2016 0.117、2017 0.094、2018 0.079、2019 0.068、2020 0.061、2021 0.054、2022 0.050、2023 0.043、2024 0.043、2025 0.044。",
+      "source_title": "Levelized cost of energy for renewables (IRENA data) | Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/levelized-cost-of-energy",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "IRENA 官方口径:2024 年全球加权平均公用事业级光伏 LCOE 为 USD 0.043/kWh,同比上升 0.6%;而 2022 年到 2023 年该指标曾下降 12%。",
+      "source_title": "Global average solar LCOE stood at $0.043/kWh in 2024, says IRENA | pv magazine",
+      "source_url": "https://www.pv-magazine.com/2025/07/23/global-average-solar-lcoe-stood-at-0-043-kwh-in-2024-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "IRENA:2025 年全球加权平均光伏 LCOE 保持在 2024 年水平,为 USD 44/MWh。",
+      "source_title": "Solar PV and storage cost declines drive rapid fall in 'firm LCOE', says IRENA | PV Tech",
+      "source_url": "https://www.pv-tech.org/solar-pv-and-storage-cost-declines-drive-rapid-fall-in-firm-lcoe-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "IRENA:2010 年至 2024 年,全球加权平均光伏 LCOE 下降 90%,降至 USD 44/MWh。",
+      "source_title": "Solar PV and storage cost declines drive rapid fall in 'firm LCOE', says IRENA | PV Tech",
+      "source_url": "https://www.pv-tech.org/solar-pv-and-storage-cost-declines-drive-rapid-fall-in-firm-lcoe-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "NREL 美国公用事业级光伏 LCOE 基准序列(2024 USD,分/kWh):2010 年 34.9¢、2011 28.8¢、2012 19.8¢、2013 14.9¢、2014 13.1¢、2015 11.8¢、2016 9.3¢、2017 7.1¢、2018 6.8¢、2019 5.7¢、2020 5.5¢、2021 4.9¢、2022 5.2¢、2023 4.8¢、2024 4.8¢。",
+      "source_title": "Documenting 15 Years of Reductions in U.S. Solar Photovoltaic System Costs (NREL/TP-7A40-92536)",
+      "source_url": "https://docs.nrel.gov/docs/fy25osti/92536.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "Lazard LCOE v19.0(2026,美国无补贴口径,USD/MWh):公用事业级光伏 $40–$98。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "Lazard LCOE v19.0(美国无补贴,USD/MWh):公用事业级光伏+储能 $61–$156。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "Lazard LCOE v19.0(美国无补贴,USD/MWh):社区级与工商业光伏 $88–$197。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "Lazard LCOE v19.0(美国无补贴,USD/MWh):陆上风电 $37–$99;陆上风电+储能 $49–$140。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "Lazard LCOE v19.0(美国无补贴,USD/MWh):海上风电 $105–$167。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "Lazard LCOE v19.0(美国无补贴,USD/MWh):天然气联合循环 $51–$129。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "Lazard LCOE v19.0(美国无补贴,USD/MWh):天然气调峰机组 $144–$276。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "Lazard LCOE v19.0(美国无补贴,USD/MWh):燃煤 $72–$177(基于 LCOE v14.0 结果按通胀调整,不含运输与储存)。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "Lazard LCOE v19.0(美国无补贴,USD/MWh):美国核电 $175–$255,基于 Vogtle 3、4 号机组公开造价。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "Lazard LCOE v19.0 的燃料价格假设:天然气 $3.45/MMBTU、燃煤 $1.47/MMBTU、核燃料 $0.85/MMBTU;资本结构假设为 60% 债务(利率 8%)+ 40% 权益(成本 12%)。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "Lazard LCOE v19.0 补贴敏感性:公用事业级光伏在 ITC 下降至 $27–$83/MWh,在 PTC 下降至 $16–$81/MWh;陆上风电在 PTC 下降至 $11–$81/MWh。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "IRENA 2024 年全球加权平均 LCOE:陆上风电 USD 0.034/kWh(最低),光伏 USD 0.043/kWh(第二低)。",
+      "source_title": "Global average solar LCOE stood at $0.043/kWh in 2024, says IRENA | pv magazine",
+      "source_url": "https://www.pv-magazine.com/2025/07/23/global-average-solar-lcoe-stood-at-0-043-kwh-in-2024-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "IRENA 2025 年全球加权平均 LCOE:陆上风电 USD 33/MWh、光伏 USD 44/MWh、海上风电 USD 78/MWh。",
+      "source_title": "Solar PV and storage cost declines drive rapid fall in 'firm LCOE', says IRENA | PV Tech",
+      "source_url": "https://www.pv-tech.org/solar-pv-and-storage-cost-declines-drive-rapid-fall-in-firm-lcoe-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "IRENA:2024 年新建光伏项目的发电成本平均比成本最低的化石燃料方案低 41%,陆上风电低 53%。",
+      "source_title": "IRENA, Renewable Power Generation Costs in 2024",
+      "source_url": "https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "IRENA:2024 年投产的新建可再生能源项目中,91% 的发电成本低于新建化石燃料机组。",
+      "source_title": "IRENA, Renewable Power Generation Costs in 2024",
+      "source_url": "https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "IRENA 国别加权平均光伏 LCOE(constant 2025 USD/kWh):中国 2024 年 0.033、2025 年 0.036;印度 2024 年 0.038、2025 年 0.035;美国 2024 年 0.070、2025 年 0.062;德国 2024 年 0.060、2025 年 0.065;日本 2024 年 0.123。",
+      "source_title": "Levelized cost of energy for renewables (IRENA data) | Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/levelized-cost-of-energy",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "Our World in Data:四十多年来,全球累计光伏装机每翻一番,组件价格下降 20%——即光伏组件的学习率(learning rate)为 20%。",
+      "source_title": "Learning curves: What does it mean for a technology to follow Wright's Law? | Our World in Data",
+      "source_url": "https://ourworldindata.org/learning-curve",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "Swanson's law 指光伏组件价格随累计出货量每翻一番下降约 20%,以 SunPower 创始人 Richard Swanson 命名。",
+      "source_title": "Swanson's law | Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Swanson%27s_law",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "Our World in Data:光伏组件价格从 1975 年的 132.38 美元/瓦 降至 2024 年的 0.265 美元/瓦(constant 2025 USD)。",
+      "source_title": "Solar (photovoltaic) panel prices | Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/solar-pv-prices",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "光伏组件价格序列(constant 2025 USD/W):1975 年 132.38、1980 36.60、1985 17.22、1990 12.09、1995 8.54、2000 6.50、2005 4.75、2010 2.51、2015 0.736、2020 0.370、2021 0.332、2022 0.366、2023 0.322、2024 0.265。",
+      "source_title": "Solar (photovoltaic) panel prices | Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/solar-pv-prices",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "全球累计光伏装机(MW):1975 年 0.54、1980 7.97、1985 66.5、1990 212、1995 489、2000 1,103、2005 4,391、2010 39,849、2015 220,151、2020 710,726、2023 1,410,556、2024 1,866,898、2025 2,378,042。",
+      "source_title": "Solar PV module prices vs. cumulative capacity | Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/solar-pv-prices-vs-cumulative-capacity",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "Our World in Data:大多数技术并不遵循 Wright's Law——自行车、冰箱、燃煤电厂的价格都不呈指数下降;光伏、电池与计算机则遵循该规律,即价格下降速率随累计产量保持大致恒定。",
+      "source_title": "Learning curves: What does it mean for a technology to follow Wright's Law? | Our World in Data",
+      "source_url": "https://ourworldindata.org/learning-curve",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "Ember:2025 年全球新增光伏装机 647 GW,创历史纪录,较 2024 年的 582 GW 增长 11%。",
+      "source_title": "Global solar generation met three-quarters of new power demand in 2025 — Ember | PV Tech",
+      "source_url": "https://www.pv-tech.org/global-solar-generation-met-three-quarters-of-new-power-demand-in-2025-ember/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "IEA:2025 年全球光伏新增装机同比增长约 12%,首次突破 600 GW;IEA 预计年新增量将从 2025 年的约 600 GW 升至 2030 年的 700 GW。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "IEA:光伏占 2025 年全球可再生电力新增装机的近 80%,维持其自 2024 年以来的主导份额。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "IEA:2025 年中国投运光伏近 370 GW,同比增长 13%,占全球新增装机的一半以上;Ember 口径为 378 GWdc,占全球新增的 58%。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "IEA:2024 年全球光伏组件制造产能达到约 1,100–1,350 GW,是当年全球光伏装机量的两倍以上。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "IEA:2024 年全球光伏制造产能扩张约 70 GW(电池片)、190 GW(组件与硅片)、创纪录的 460 GW(多晶硅),2021 至 2024 年整体供应链潜在产出增长超过三倍;而 2025–2030 年新增制造产能预计仅为组件 230 GW、电池片 190 GW、硅片 80 GW,多晶硅产能则减少 60 GW,约 35% 的新增产能位于中国以外(过去六年该比例低于 10%)。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "IEA:到 2030 年中国仍将占全球光伏供应链制造产能的 75–95%,关键生产环节的集中度将维持在 90% 以上,与当前水平相当。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "IEA:2024 年全球光伏组件批发现货均价同比下跌近 45%,降至 USD 0.09/W,并在 2025 年上半年稳定于该水平;该价格低于包括中国头部企业在内的多数制造商的生产成本。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "IEA:2025 年上半年运往美国的组件平均现货价为 USD 0.27/W,是全球均价的三倍;印度本土制造组件为 USD 0.15/W,高于全球均价约 70%。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "IEA:受组件供给过剩与市场份额竞争影响,中国光伏价格自 2023 年以来下跌超过 60%,头部制造商利润率降至 -10%,自 2024 年初以来累计亏损接近 USD 50 亿。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "IEA:2024 年全球光伏制造产能利用率降至 55–65%(2023 年为 60–80%),短期内可能跌破 50%,到 2030 年才逐步回升至 50–60%。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "NREL 美国公用事业级光伏系统成本分项(2024 USD,$/Wdc),2010 年:组件 $3.08、逆变器 $0.35、BOS $0.96、人工 $0.79、软成本 $1.77,合计 $6.94。",
+      "source_title": "Documenting 15 Years of Reductions in U.S. Solar Photovoltaic System Costs (NREL/TP-7A40-92536)",
+      "source_url": "https://docs.nrel.gov/docs/fy25osti/92536.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "NREL 美国公用事业级光伏系统成本分项(2024 USD,$/Wdc),2024 年:组件 $0.35、逆变器 $0.03、BOS $0.33、人工 $0.24、软成本 $0.20,合计 $1.15。",
+      "source_title": "Documenting 15 Years of Reductions in U.S. Solar Photovoltaic System Costs (NREL/TP-7A40-92536)",
+      "source_url": "https://docs.nrel.gov/docs/fy25osti/92536.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "NREL 美国公用事业级光伏系统总安装成本序列($/Wdc,2024 USD):2010 年 $6.94、2012 $4.03、2014 $2.76、2016 $1.99、2018 $1.43、2020 $1.23、2021 $1.08(最低)、2022 $1.14、2023 $1.24、2024 $1.15;基准系统为 100 MWdc 单轴跟踪电站。",
+      "source_title": "Documenting 15 Years of Reductions in U.S. Solar Photovoltaic System Costs (NREL/TP-7A40-92536)",
+      "source_url": "https://docs.nrel.gov/docs/fy25osti/92536.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "IRENA:2010 年至 2024 年,公用事业级光伏总安装成本下降 87%,降至 USD 708/kW。",
+      "source_title": "Solar PV and storage cost declines drive rapid fall in 'firm LCOE', says IRENA | PV Tech",
+      "source_url": "https://www.pv-tech.org/solar-pv-and-storage-cost-declines-drive-rapid-fall-in-firm-lcoe-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "IRENA《Renewable Power Generation Costs in 2024》:2024 年光伏总安装成本为 USD 691/kW,陆上风电 USD 1,041/kW,海上风电 USD 2,852/kW。",
+      "source_title": "IRENA, Renewable Power Generation Costs in 2024",
+      "source_url": "https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "BloombergNEF 2025 年锂电池价格调查(2025 年 12 月 9 日发布):全球电池组均价同比下降 8%,降至历史新低 USD 108/kWh。",
+      "source_title": "Lithium-Ion Battery Pack Prices Fall to $108 Per Kilowatt-Hour, Despite Rising Metal Prices | BloombergNEF",
+      "source_url": "https://about.bnef.com/insights/clean-transport/lithium-ion-battery-pack-prices-fall-to-108-per-kilowatt-hour-despite-rising-metal-prices-bloombergnef/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F050",
+      "claim": "BloombergNEF:电池组价格自 2010 年以来下降 93%,2010 年均价约为 USD 1,474/kWh(按 2025 年实际美元计)。",
+      "source_title": "Lithium-Ion Battery Pack Prices Fall to $108 Per Kilowatt-Hour, Despite Rising Metal Prices | BloombergNEF",
+      "source_url": "https://about.bnef.com/insights/clean-transport/lithium-ion-battery-pack-prices-fall-to-108-per-kilowatt-hour-despite-rising-metal-prices-bloombergnef/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F051",
+      "claim": "BloombergNEF 2025:储能(stationary storage)用电池组价格降至 USD 70/kWh,较 2024 年低 45%,成为价格最低的细分市场;电动车电池组为 USD 99/kWh;LFP 电池组均价 USD 81/kWh,NMC 为 USD 128/kWh;中国 USD 84/kWh(同比 -13%),北美比中国高 44%,欧洲高 56%。",
+      "source_title": "Lithium-Ion Battery Pack Prices Fall to $108 Per Kilowatt-Hour, Despite Rising Metal Prices | BloombergNEF",
+      "source_url": "https://about.bnef.com/insights/clean-transport/lithium-ion-battery-pack-prices-fall-to-108-per-kilowatt-hour-despite-rising-metal-prices-bloombergnef/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F052",
+      "claim": "IRENA:2010 年至 2024 年电池储能成本下降 93%,从 USD 2,634/kWh 降至 USD 197/kWh;2025 年单年又下降约 30% 至历史新低。",
+      "source_title": "Solar PV and storage cost declines drive rapid fall in 'firm LCOE', says IRENA | PV Tech",
+      "source_url": "https://www.pv-tech.org/solar-pv-and-storage-cost-declines-drive-rapid-fall-in-firm-lcoe-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F053",
+      "claim": "Lazard LCOS v11.0(2026,美国无补贴):公用事业级独立储能 100 MW/4 小时为 $210–$292/MWh,100 MW/2 小时为 $215–$414/MWh。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F054",
+      "claim": "Lazard 公用事业级独立储能(100 MW/4 小时)LCOS 序列($/MWh):2020 年 $132–$245、2021 $131–$232、2023 $200–$257、2024 $170–$296、2025 $115–$254、2026 $210–$292;2020 至 2026 年累计上涨 39%(CAGR 6%)。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F055",
+      "claim": "Lazard 2026:公用事业级独立储能 LCOS 上升,逆转了上一年的下降趋势,主因是锂电池进口关税落地,切断了此前压低成本的低价中国电芯供应。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F056",
+      "claim": "IRENA《24/7 renewables: The economics of firm solar and wind》(2026 年 5 月 6 日):2025 年高资源区光伏+风电+电池的 'firm LCOE'(可持续稳定供电的项目级成本)为 USD 54–82/MWh,预计到 2030 年下降约 30%,到 2035 年下降约 40%,最优站点将低于 USD 50/MWh。",
+      "source_title": "Solar PV and storage cost declines drive rapid fall in 'firm LCOE', says IRENA | PV Tech",
+      "source_url": "https://www.pv-tech.org/solar-pv-and-storage-cost-declines-drive-rapid-fall-in-firm-lcoe-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F057",
+      "claim": "IRENA firm LCOE 案例:中国在 90% 可靠性要求下低至 USD 30/MWh,在 99% 可靠性要求下约 USD 46/MWh;巴西、印度、南非、澳大利亚与海湾地区等高辐照市场为 USD 65–82/MWh。",
+      "source_title": "Solar PV and storage cost declines drive rapid fall in 'firm LCOE', says IRENA | PV Tech",
+      "source_url": "https://www.pv-tech.org/solar-pv-and-storage-cost-declines-drive-rapid-fall-in-firm-lcoe-says-irena/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F058",
+      "claim": "Berkeley Lab《Queued Up: 2026 Edition》:截至 2025 年底,美国输电并网队列中有 8,244 个在途项目,合计约 2,061 GW,其中发电 1,312 GW、储能 749 GW。",
+      "source_title": "Queued Up: 2026 Edition — Characteristics of Power Plants Seeking Transmission Interconnection as of the End of 2025 | Berkeley Lab",
+      "source_url": "https://emp.lbl.gov/publications/queued-2026-edition-characteristics",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F059",
+      "claim": "Berkeley Lab:2025 年美国并网队列中光伏 773 GW(同比 -19%)、储能 749 GW(-16%)、风电 220 GW(-19%),而天然气容量同比激增 86% 至 253 GW。",
+      "source_title": "Queued Up: 2026 Edition — Characteristics of Power Plants Seeking Transmission Interconnection as of the End of 2025 | Berkeley Lab",
+      "source_url": "https://emp.lbl.gov/publications/queued-2026-edition-characteristics",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F060",
+      "claim": "Berkeley Lab:2025 年建成投运的项目从提出并网申请到商业运行的中位耗时为 61 个月,而 2015 年建成的项目为 36 个月,2008 年为 22 个月。",
+      "source_title": "Queued Up: 2026 Edition — Characteristics of Power Plants Seeking Transmission Interconnection as of the End of 2025 | Berkeley Lab",
+      "source_url": "https://emp.lbl.gov/publications/queued-2026-edition-characteristics",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F061",
+      "claim": "Berkeley Lab:已签署或已出具并网协议草案但尚未投运的容量达 549 GW,其中光伏 256 GW、储能 161 GW、风电 76 GW、天然气 45 GW。",
+      "source_title": "Queued Up: 2026 Edition — Characteristics of Power Plants Seeking Transmission Interconnection as of the End of 2025 | Berkeley Lab",
+      "source_url": "https://emp.lbl.gov/publications/queued-2026-edition-characteristics",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F062",
+      "claim": "IEA:全球至少有 3,000 GW 可再生能源项目在电网接入队列中等待,其中 1,500 GW 已进入后期阶段,相当于 2022 年全球新增风光装机量的五倍。",
+      "source_title": "IEA, Electricity Grids and Secure Energy Transitions — Executive summary",
+      "source_url": "https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions/executive-summary",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F063",
+      "claim": "IEA:实现各国气候与能源目标需要在 2040 年前新增或更换 8,000 万公里输配电线路,相当于现有全球电网的总长度。",
+      "source_title": "IEA, Electricity Grids and Secure Energy Transitions — Executive summary",
+      "source_url": "https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions/executive-summary",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F064",
+      "claim": "IEA:全球电网年投资自 2015 年《巴黎协定》批准以来长期停滞在约 USD 3,000 亿的水平,需在 2030 年前翻倍至每年 USD 6,000 亿以上。",
+      "source_title": "IEA, Electricity Grids and Secure Energy Transitions — Executive summary",
+      "source_url": "https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions/executive-summary",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F065",
+      "claim": "IEA:中国在 2010 年代初弃风弃光率曾高达 15%;通过 2018 年起设定省级弃电率低于 5% 的目标、改革上网电价机制、年均 USD 880 亿电网投资与区域电力交易改革,弃电率一度降至 3% 以下。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F066",
+      "claim": "IEA:2024 年中国将高渗透率省份的风光弃电率上限由 5% 提高到 10% 以缓解电网拥堵;当年弃光率升至 3.2%、弃风率升至 4.1%,各自上升逾一个百分点。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F067",
+      "claim": "美国 EIA:2024 年 CAISO 弃掉公用事业级风电与光伏出力 340 万 MWh,较 2023 年增长 29%,其中光伏占全部弃电量的 93%;弃电最集中于春季。",
+      "source_title": "Solar and wind power curtailments are increasing in California | U.S. Energy Information Administration",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=65364",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F068",
+      "claim": "美国 EIA:加州风电与公用事业级光伏合计装机从 2014 年的 9.7 GW 增至 2024 年底的 28.2 GW;2024 年通过西部能量不平衡市场(WEIM)避免了逾 274,000 MWh 弃电,约相当于当年弃电量的 8%。",
+      "source_title": "Solar and wind power curtailments are increasing in California | U.S. Energy Information Administration",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=65364",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F069",
+      "claim": "IEA:2023 年到 2024 年,负电价小时数在法国增长 12 倍至约 350 小时、在德国翻倍至约 460 小时、在英国增长 9 倍至约 230 小时;西班牙 2021 年年中前不允许负电价,2025 年 1 月至 7 月已出现 460 个负电价小时。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F070",
+      "claim": "IEA:德国的电网补救措施成本(remedial costs)超过 EUR 5/MWh(欧洲最高),西班牙约 EUR 4/MWh,拥堵管理成本在发生时约占居民电费账单的 0.5–1.5%;美国区域间差异更大,从 ISO New England 的不足 USD 1/MWh 到 MISO 的 USD 12/MWh,ERCOT 弃电量全美最高但成本仍低于 USD 6/MWh,且多数美国 ISO 的弃电率自 2020 年以来持续上升。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F071",
+      "claim": "Ember《Global Electricity Review 2026》:2025 年全球光伏发电量达 2,778 TWh,首次超过风电。",
+      "source_title": "Global solar generation met three-quarters of new power demand in 2025 — Ember | PV Tech",
+      "source_url": "https://www.pv-tech.org/global-solar-generation-met-three-quarters-of-new-power-demand-in-2025-ember/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F072",
+      "claim": "Ember 数据:光伏占全球发电量的比例 2015 年为 1.07%、2018 年 2.17%、2020 年 3.19%、2022 年 4.61%、2023 年 5.61%、2024 年 6.93%、2025 年 8.75%。",
+      "source_title": "Share of electricity generated by solar power (Ember data) | Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/share-electricity-solar",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F073",
+      "claim": "Ember:2025 年全球光伏发电量增长 636 TWh,是有记录以来任何单一电源的最大年度增量(增速在报道中被表述为 30% 或 33%,口径不一)。",
+      "source_title": "Global solar generation met three-quarters of new power demand in 2025 — Ember | PV Tech",
+      "source_url": "https://www.pv-tech.org/global-solar-generation-met-three-quarters-of-new-power-demand-in-2025-ember/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F074",
+      "claim": "Ember:2025 年光伏发电增量满足了全球电力需求增量的 75%,光伏与风电合计满足了 99%。",
+      "source_title": "Clean energy pushes fossil-fuel power into reverse for 'first time ever' (Ember Global Electricity Review 2026) | Carbon Brief",
+      "source_url": "https://www.carbonbrief.org/clean-energy-pushes-fossil-fuel-power-into-reverse-for-first-time-ever",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F075",
+      "claim": "Ember:2025 年可再生能源占全球发电量的 33.8%(10,730 TWh),首次超过煤电的 33.0%(10,476 TWh);这是 1919 年以来煤电份额首次低于可再生能源,也是煤电份额首次低于三分之一。",
+      "source_title": "Clean energy pushes fossil-fuel power into reverse for 'first time ever' (Ember Global Electricity Review 2026) | Carbon Brief",
+      "source_url": "https://www.carbonbrief.org/clean-energy-pushes-fossil-fuel-power-into-reverse-for-first-time-ever",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F076",
+      "claim": "Ember:2025 年全球电力需求增长 849 TWh(+2.8%),化石燃料发电量下降 38 TWh(-0.2%),是 2020 年以来首次没有增长。",
+      "source_title": "Clean energy pushes fossil-fuel power into reverse for 'first time ever' (Ember Global Electricity Review 2026) | Carbon Brief",
+      "source_url": "https://www.carbonbrief.org/clean-energy-pushes-fossil-fuel-power-into-reverse-for-first-time-ever",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F077",
+      "claim": "Ember:2025 年风电发电量增长 205 TWh(+8.2%),为当年第二大发电增量来源。",
+      "source_title": "Clean energy pushes fossil-fuel power into reverse for 'first time ever' (Ember Global Electricity Review 2026) | Carbon Brief",
+      "source_url": "https://www.carbonbrief.org/clean-energy-pushes-fossil-fuel-power-into-reverse-for-first-time-ever",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F078",
+      "claim": "Ember:2015 年全球光伏发电量仅为 256 TWh,十年间增长逾十倍;光伏发电量大约每三年翻一番。",
+      "source_title": "Global solar generation met three-quarters of new power demand in 2025 — Ember | PV Tech",
+      "source_url": "https://www.pv-tech.org/global-solar-generation-met-three-quarters-of-new-power-demand-in-2025-ember/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F079",
+      "claim": "IEA《World Energy Outlook 2020》原话:\"For projects with low-cost financing that tap high-quality resources, solar PV is now the cheapest source of electricity in history.\"(2020 年 10 月发布)",
+      "source_title": "Solar is now 'cheapest electricity in history', confirms IEA (World Energy Outlook 2020) | Carbon Brief",
+      "source_url": "https://www.carbonbrief.org/solar-is-now-cheapest-electricity-in-history-confirms-iea/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F080",
+      "claim": "IEA《World Energy Outlook 2020》给出的光伏 LCOE:最优项目可达 USD 20/MWh 或更低;欧洲与美国为 USD 30–60/MWh;中国与印度为 USD 20–40/MWh。",
+      "source_title": "Solar is now 'cheapest electricity in history', confirms IEA (World Energy Outlook 2020) | Carbon Brief",
+      "source_url": "https://www.carbonbrief.org/solar-is-now-cheapest-electricity-in-history-confirms-iea/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F081",
+      "claim": "Lazard 资本成本敏感性(LCOE v19.0 均值,USD/MWh):公用事业级光伏在税后 IRR/WACC 4.2% 时为 $53,在基准 7.7% 时为 $69,在 10.0% 时为 $83——资本成本从 4.2% 升至 10.0% 使光伏 LCOE 上升约六成。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F082",
+      "claim": "Lazard 同一资本成本敏感性表(均值,USD/MWh):陆上风电 $53(WACC 4.2%)→ $68(7.7%)→ $81(10.0%);美国核电 $160 → $215 → $291;天然气调峰 $130 → $210 → $252。资本密集型技术对资本成本最敏感。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F083",
+      "claim": "高纬度与低辐照的代价:IRENA 口径下日本 2024 年光伏 LCOE 为 USD 0.123/kWh,是中国(0.033)的约 3.7 倍、印度(0.038)的约 3.2 倍;德国 2025 年为 0.065、美国 0.062(均为 constant 2025 USD/kWh)。",
+      "source_title": "Levelized cost of energy for renewables (IRENA data) | Our World in Data",
+      "source_url": "https://ourworldindata.org/grapher/levelized-cost-of-energy",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F084",
+      "claim": "Lazard 明确声明:其 LCOE 分析\"除做说明性敏感性分析外,不考虑部分可再生能源技术的间歇性特征,也不考虑新增可再生能源部署带来的相关电网影响\"。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F085",
+      "claim": "Lazard 明确列出其 LCOE 未纳入的因素,包括:输电队列改革与网络升级等输电事项、拥堵、弃电或其他并网整合成本,以及许可与其他开发成本。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F086",
+      "claim": "欧洲光伏捕获系数(capture factor)快速下滑(Pexapark 数据):法国 4 月从 2025 年的 0.42 降至 2026 年的 0.10(同比降 75%);德国 0.40 → 0.26;波兰 0.54 → 0.40;意大利 0.75 → 0.71;西班牙 2 月从 0.71(2025)降至 0.18(2026)。",
+      "source_title": "Solar capture factors fall across Europe as negative price hours surge in key markets | pv magazine",
+      "source_url": "https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F087",
+      "claim": "欧洲月度负电价小时数(Pexapark 数据):法国 4 月从 2025 年的 90 小时增至 2026 年的 139 小时;德国 75 → 123;波兰 75 → 87;西班牙 2 月从 0 增至 148。",
+      "source_title": "Solar capture factors fall across Europe as negative price hours surge in key markets | pv magazine",
+      "source_url": "https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F088",
+      "claim": "德国 2024 年光伏捕获电价为 EUR 47/MWh,捕获率 59%(欧洲最低),2025 年进一步降至约 54%,而 2022 年曾达 98%。",
+      "source_title": "Solar capture factors fall across Europe as negative price hours surge in key markets | pv magazine",
+      "source_url": "https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F089",
+      "claim": "IEA:弃电与负电价是电力系统灵活性不足的信号;需求响应与加强互联可抑制弃电、降低负电价小时频率并限制价格自噬(price cannibalisation)。",
+      "source_title": "IEA, Renewables 2025: Analysis and forecasts to 2030",
+      "source_url": "https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    },
+    {
+      "fact_id": "F090",
+      "claim": "Lazard 2026:即便按各电网运营商的容量认证与资源充裕度框架计入\"间歇性调峰成本\"(Cost of Firming Intermittency),可再生能源与新建燃气联合循环相比总体仍具成本竞争力。",
+      "source_title": "Lazard's Levelized Cost of Energy+ (LCOE+), 2026 Edition (LCOE v19.0 / LCOS v11.0)",
+      "source_url": "https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-04"
+    }
+  ]
+}

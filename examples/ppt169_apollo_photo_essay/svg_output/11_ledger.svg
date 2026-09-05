@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p11-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p11-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1968 — 1972</text>
+  </g>
+
+  <g id="p11-title" data-pptx-bounds="72 138 1136 80">
+    <text x="72" y="190" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">四年的账：六次落下去</text>
+  </g>
+
+  <g id="mission-ledger" data-pptx-bounds="72 248 1136 298" data-pptx-replace-with="table" data-pptx-fallback-sha256="8897a4560a51bd0f473534db45cff87def2cfc266a8b7b08535bcde562c2ec2f">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "mission-ledger",
+  "x": 72, "y": 252, "width": 1136, "height": 294,
+  "column_widths": [160, 220, 500, 256],
+  "row_heights": [42, 42, 42, 42, 42, 42, 42],
+  "defaults": {
+    "cell": {"valign": "middle", "align": "l", "padding": 6, "font_size": 22, "fill": "#0B0E11", "color": "#DAD5CA"},
+    "run": {"color": "#DAD5CA"}
+  },
+  "columns": [
+    {"text": "任务", "bold": true, "color": "#98A0A9", "borders": {"bottom": {"style": "solid", "color": "#39414A", "width": 1}}},
+    {"text": "发射", "bold": true, "color": "#98A0A9", "borders": {"bottom": {"style": "solid", "color": "#39414A", "width": 1}}},
+    {"text": "着陆点", "bold": true, "color": "#98A0A9", "borders": {"bottom": {"style": "solid", "color": "#39414A", "width": 1}}},
+    {"text": "带回样品", "bold": true, "color": "#98A0A9", "align": "r", "borders": {"bottom": {"style": "solid", "color": "#39414A", "width": 1}}}
+  ],
+  "rows": [
+    [
+      {"text": "Apollo 11", "color": "#E9E4D9", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "1969.07.16", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "Tranquility Base 静海", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "21.5 kg", "color": "#E9E4D9", "align": "r", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}}
+    ],
+    [
+      {"text": "Apollo 12", "color": "#E9E4D9", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "1969.11.14", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "Surveyor 3 旁 163 米", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "33.45 kg", "color": "#E9E4D9", "align": "r", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}}
+    ],
+    [
+      {"text": "Apollo 14", "color": "#E9E4D9", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "1971.01.31", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "Fra Mauro", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "42.80 kg", "color": "#E9E4D9", "align": "r", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}}
+    ],
+    [
+      {"text": "Apollo 15", "color": "#E9E4D9", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "1971.07.26", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "Hadley–Apennine 哈德利—亚平宁", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "77 kg", "color": "#E9E4D9", "align": "r", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}}
+    ],
+    [
+      {"text": "Apollo 16", "color": "#E9E4D9", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "1972.04.16", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "Descartes 高地", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "95.71 kg", "color": "#E9E4D9", "align": "r", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}}
+    ],
+    [
+      {"text": "Apollo 17", "color": "#E9E4D9", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "1972.12.07", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "Taurus–Littrow 陶拉斯—利特罗", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}},
+      {"text": "110.4 kg", "color": "#E9E4D9", "align": "r", "borders": {"bottom": {"style": "solid", "color": "#262D34", "width": 1}}}
+    ]
+  ]
+}
+    </metadata>
+    <g id="mission-ledger-head" font-size="22" font-weight="bold" fill="#98A0A9">
+      <text x="78" y="281">任务</text>
+      <text x="238" y="281">发射</text>
+      <text x="458" y="281">着陆点</text>
+      <text x="1202" y="281" text-anchor="end">带回样品</text>
+    </g>
+    <line x1="72" y1="294" x2="1208" y2="294" stroke="#39414A" stroke-width="1"/>
+    <g id="mission-ledger-body" font-size="22">
+      <text x="78" y="323" fill="#E9E4D9">Apollo 11</text>
+      <text x="238" y="323" fill="#DAD5CA">1969.07.16</text>
+      <text x="458" y="323" fill="#DAD5CA">Tranquility Base 静海</text>
+      <text x="1202" y="323" text-anchor="end" fill="#E9E4D9">21.5 kg</text>
+      <text x="78" y="365" fill="#E9E4D9">Apollo 12</text>
+      <text x="238" y="365" fill="#DAD5CA">1969.11.14</text>
+      <text x="458" y="365" fill="#DAD5CA">Surveyor 3 旁 163 米</text>
+      <text x="1202" y="365" text-anchor="end" fill="#E9E4D9">33.45 kg</text>
+      <text x="78" y="407" fill="#E9E4D9">Apollo 14</text>
+      <text x="238" y="407" fill="#DAD5CA">1971.01.31</text>
+      <text x="458" y="407" fill="#DAD5CA">Fra Mauro</text>
+      <text x="1202" y="407" text-anchor="end" fill="#E9E4D9">42.80 kg</text>
+      <text x="78" y="449" fill="#E9E4D9">Apollo 15</text>
+      <text x="238" y="449" fill="#DAD5CA">1971.07.26</text>
+      <text x="458" y="449" fill="#DAD5CA">Hadley–Apennine 哈德利—亚平宁</text>
+      <text x="1202" y="449" text-anchor="end" fill="#E9E4D9">77 kg</text>
+      <text x="78" y="491" fill="#E9E4D9">Apollo 16</text>
+      <text x="238" y="491" fill="#DAD5CA">1972.04.16</text>
+      <text x="458" y="491" fill="#DAD5CA">Descartes 高地</text>
+      <text x="1202" y="491" text-anchor="end" fill="#E9E4D9">95.71 kg</text>
+      <text x="78" y="533" fill="#E9E4D9">Apollo 17</text>
+      <text x="238" y="533" fill="#DAD5CA">1972.12.07</text>
+      <text x="458" y="533" fill="#DAD5CA">Taurus–Littrow 陶拉斯—利特罗</text>
+      <text x="1202" y="533" text-anchor="end" fill="#E9E4D9">110.4 kg</text>
+    </g>
+    <g id="mission-ledger-rules" stroke="#262D34" stroke-width="1">
+      <line x1="72" y1="336" x2="1208" y2="336"/>
+      <line x1="72" y1="378" x2="1208" y2="378"/>
+      <line x1="72" y1="420" x2="1208" y2="420"/>
+      <line x1="72" y1="462" x2="1208" y2="462"/>
+      <line x1="72" y1="504" x2="1208" y2="504"/>
+      <line x1="72" y1="546" x2="1208" y2="546"/>
+    </g>
+  </g>
+
+  <g id="p11-summary" data-pptx-bounds="72 566 700 88">
+    <text x="72" y="596" font-size="30" fill="#DAD5CA">24 人到过月球，其中 <tspan fill="#E9E4D9" font-weight="bold">12 人踩上月面</tspan>。<tspan x="72" dy="40">全计划带回 <tspan fill="#E9E4D9" font-weight="bold">382 公斤</tspan>月球岩石与土壤。</tspan></text>
+  </g>
+
+  <g id="p11-days" data-pptx-bounds="840 550 368 114" text-anchor="end">
+    <text x="1208" y="620" font-family="Times New Roman, SimSun" font-size="78" fill="#D2622B">1,459</text>
+    <text x="1208" y="650" font-size="22" fill="#98A0A9">天 · 本卷推算</text>
+  </g>
+
+  <g id="p11-cost" data-pptx-bounds="72 668 1000 34">
+    <text x="72" y="690" font-size="18" fill="#6E7B8A">另有三次抵达月球而未着陆：阿波罗8号、10号、13号 · 计划总耗资 254 亿美元（1973 年美元），峰值雇用 40 万人</text>
+  </g>
+</svg>

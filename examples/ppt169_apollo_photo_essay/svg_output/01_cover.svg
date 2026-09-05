@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="p01Scrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06080B" stop-opacity="0.92"/>
+      <stop offset="45%" stop-color="#06080B" stop-opacity="0.72"/>
+      <stop offset="78%" stop-color="#06080B" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#06080B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p01-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p01-photo" data-pptx-role="background" data-pptx-bounds="0 0 1280 720">
+    <image href="../images/01_launch.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMin slice"/>
+  </g>
+
+  <rect id="p01-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p01Scrim)"/>
+
+  <g id="p01-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1968 — 1972</text>
+  </g>
+
+  <g id="p01-title" data-pptx-bounds="72 228 560 290">
+    <text x="72" y="300" font-family="Times New Roman, SimSun" font-size="78" fill="#E9E4D9">阿波罗<tspan x="72" dy="92">人类离开</tspan><tspan x="72" dy="92">地球的四年</tspan></text>
+  </g>
+
+  <g id="p01-count" data-pptx-bounds="72 524 560 140">
+    <text x="72" y="596" font-family="Times New Roman, SimSun" font-size="78" fill="#D2622B">1,459<tspan font-size="30" fill="#E9E4D9"> 天</tspan></text>
+    <text x="72" y="646" font-size="22" fill="#98A0A9">本卷推算 · 1968.12.21 → 1972.12.19</text>
+  </g>
+
+  <g id="p01-credit" data-pptx-bounds="72 668 560 44">
+    <text x="72" y="694" font-size="18" fill="#98A0A9">阿波罗17号 · 土星五号夜间发射 1972.12.07 / NASA</text>
+  </g>
+</svg>

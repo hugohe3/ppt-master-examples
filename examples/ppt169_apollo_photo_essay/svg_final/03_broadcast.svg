@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="p03-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11" />
+
+  <g id="p03-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2" />
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1968 · APOLLO 8</text>
+  </g>
+
+  <g id="p03-title" data-pptx-bounds="72 138 1136 84">
+    <text x="72" y="190" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">十圈，二十小时，四分之一的人类在听</text>
+  </g>
+
+  <line id="p03-rule" data-pptx-role="decoration" x1="72" y1="248" x2="1208" y2="248" stroke="#39414A" stroke-width="1" />
+  <line id="p03-colrule-1" data-pptx-role="decoration" x1="436" y1="310" x2="436" y2="446" stroke="#39414A" stroke-width="1" />
+  <line id="p03-colrule-2" data-pptx-role="decoration" x1="824" y1="310" x2="824" y2="446" stroke="#39414A" stroke-width="1" />
+
+  <g id="p03-count-orbits" data-pptx-bounds="72 306 340 142">
+    <text x="72" y="380" font-family="Times New Roman, SimSun" font-size="78" fill="#D2622B">10<tspan font-family="Arial, Microsoft YaHei" font-size="30" fill="#E9E4D9"> 圈</tspan></text>
+    <text x="72" y="430" font-size="22" fill="#98A0A9">绕着另一个天体</text>
+  </g>
+
+  <g id="p03-count-hours" data-pptx-bounds="460 306 340 142">
+    <text x="460" y="380" font-family="Times New Roman, SimSun" font-size="78" fill="#D2622B">20<tspan font-family="Arial, Microsoft YaHei" font-size="30" fill="#E9E4D9"> 小时</tspan></text>
+    <text x="460" y="430" font-size="22" fill="#98A0A9">停留在月球轨道上</text>
+  </g>
+
+  <g id="p03-count-audience" data-pptx-bounds="848 306 340 142">
+    <text x="848" y="380" font-family="Times New Roman, SimSun" font-size="78" fill="#D2622B">1/4</text>
+    <text x="848" y="430" font-size="22" fill="#98A0A9">全球看到或听到的人</text>
+  </g>
+
+  <g id="p03-broadcast" data-pptx-bounds="72 506 1136 100">
+    <text fill="#DAD5CA" font-size="30" x="72" y="540">平安夜第九圈绕月，三人轮流朗读<tspan fill="#E9E4D9" font-weight="bold">《创世记》前十节</tspan>。</text><text fill="#DAD5CA" font-size="30" x="72" y="584">NASA 说，乘组刻意挑了适合全球不同信仰听众的内容。</text></g>
+
+  <g id="p03-meta" data-pptx-bounds="72 620 760 76" font-size="22">
+    <text x="72" y="646" fill="#98A0A9">乘组：Frank Borman · James Lovell · William Anders</text>
+    <text x="72" y="680" fill="#6E7B8A">1968.12.27 15:51 UTC 溅落北太平洋 · 全程 6 天 3 小时</text>
+  </g>
+</svg>

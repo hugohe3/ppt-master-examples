@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p06Scrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#06080B" stop-opacity="0.93"/>
+      <stop offset="36%" stop-color="#06080B" stop-opacity="0.78"/>
+      <stop offset="48%" stop-color="#06080B" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#06080B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p06-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p06-photo" data-pptx-role="background" data-pptx-bounds="0 0 1280 720">
+    <image href="../images/05_bootprint.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <rect id="p06-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p06Scrim)"/>
+
+  <g id="p06-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1969 · APOLLO 11</text>
+  </g>
+
+  <g id="p06-title" data-pptx-bounds="72 138 1136 80">
+    <text x="72" y="190" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">那不是纪念照，是一次土壤力学试验</text>
+  </g>
+
+  <g id="p06-body" data-pptx-bounds="72 224 1000 48">
+    <text x="72" y="250" font-size="30" fill="#DAD5CA">这枚鞋印属于同一组土壤力学取样序列。</text>
+  </g>
+
+  <g id="p06-card" data-pptx-bounds="0 500 560 220">
+    <rect x="0" y="500" width="560" height="220" fill="#161A20"/>
+    <line x1="72" y1="528" x2="120" y2="528" stroke="#D2622B" stroke-width="2"/>
+    <text x="72" y="566" font-size="30" fill="#E9E4D9">带回样品 21.5 公斤<tspan x="72" dy="40">电视观众约 6–6.5 亿</tspan></text>
+    <text x="72" y="646" font-size="22" fill="#98A0A9">同序列的 AS11-40-5877，<tspan x="72" dy="28">是靴子与印痕同框的那张。</tspan></text>
+    <text x="72" y="704" font-size="18" fill="#6E7B8A">AS11-40-5878 · NASA</text>
+  </g>
+</svg>

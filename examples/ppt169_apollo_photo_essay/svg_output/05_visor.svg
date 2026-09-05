@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p05Scrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#06080B" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#06080B" stop-opacity="0"/>
+      <stop offset="56%" stop-color="#06080B" stop-opacity="0.70"/>
+      <stop offset="100%" stop-color="#06080B" stop-opacity="0.94"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="p05-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B0E11"/>
+
+  <g id="p05-photo" data-pptx-role="background" data-pptx-bounds="0 0 1280 720">
+    <image href="../images/04_visor.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMin slice"/>
+  </g>
+
+  <rect id="p05-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p05Scrim)"/>
+
+  <g id="p05-era" data-pptx-bounds="72 66 400 44">
+    <line x1="72" y1="86" x2="128" y2="86" stroke="#D2622B" stroke-width="2"/>
+    <text x="144" y="94" font-size="22" letter-spacing="3" fill="#98A0A9">1969 · APOLLO 11</text>
+  </g>
+
+  <g id="p05-title" data-pptx-bounds="72 470 940 76">
+    <text x="72" y="520" font-family="Times New Roman, SimSun" font-size="54" fill="#E9E4D9">面罩里的那个人，就是按快门的人</text>
+  </g>
+
+  <g id="p05-body" data-pptx-bounds="72 570 820 124">
+    <text x="72" y="600" font-size="30" fill="#DAD5CA">面罩反射里能看到登月舱、国旗，<tspan x="72" dy="40">和正在拍照的 Armstrong。</tspan><tspan x="72" dy="40">两人在月面一共只待了 <tspan fill="#E9E4D9" font-weight="bold">2 小时 31 分 40 秒</tspan>。</tspan></text>
+  </g>
+
+  <g id="p05-caption" data-pptx-bounds="920 596 360 124" font-size="18">
+    <rect x="920" y="596" width="360" height="124" fill="#161A20"/>
+    <line x1="952" y1="620" x2="1000" y2="620" stroke="#D2622B" stroke-width="2"/>
+    <text x="952" y="662" fill="#E9E4D9">AS11-40-5903</text>
+    <text x="952" y="690" fill="#98A0A9">摄影 Neil Armstrong / NASA</text>
+  </g>
+</svg>

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <rect id="p15-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="p15-progress-track" data-pptx-role="decoration" x="72" y="76" width="1136" height="4" fill="#E8E8E8" />
+
+  <g id="argument-progress" data-pptx-bounds="72 76 1136 4">
+    <rect x="72" y="76" width="1136" height="4" fill="#C8102E" />
+  </g>
+
+  <g id="p15-headline" data-pptx-bounds="72 96 1136 62">
+    <text x="72" y="140" font-size="44" font-weight="bold" fill="#111111">把预算从最便宜的组件，移到最好的并网位置</text>
+  </g>
+
+  <g id="p15-rec-01" data-pptx-bounds="72 194 1136 70">
+    <text x="72" y="220" font-family="Arial Black" font-size="24" font-weight="bold" fill="#C8102E">01</text>
+    <text x="136" y="220" font-size="24" font-weight="bold" fill="#111111">不要用 2020 年前的价格表做 2026 年的决策</text>
+    <text x="136" y="252" font-size="18" fill="#6E6E6E">同一口径下光伏 LCOE 已降 81–90%，且已是多数市场最便宜的新增电源</text>
+  </g>
+
+  <line id="p15-rule-1" data-pptx-role="decoration" x1="72" y1="268" x2="1208" y2="268" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p15-rec-02" data-pptx-bounds="72 272 1136 70">
+    <text x="72" y="298" font-family="Arial Black" font-size="24" font-weight="bold" fill="#C8102E">02</text>
+    <text x="136" y="298" font-size="24" font-weight="bold" fill="#111111">但也不要假设它会一直更便宜</text>
+    <text x="136" y="330" font-size="18" fill="#6E6E6E">两条独立序列都在 2021 年触底并回升；低价含卖方亏损；WACC 4.2%→10.0% 使 LCOE $53→$83</text>
+  </g>
+
+  <line id="p15-rule-2" data-pptx-role="decoration" x1="72" y1="346" x2="1208" y2="346" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p15-rec-03" data-pptx-bounds="72 350 1136 70">
+    <text x="72" y="376" font-family="Arial Black" font-size="24" font-weight="bold" fill="#C8102E">03</text>
+    <text x="136" y="376" font-size="24" font-weight="bold" fill="#111111">把重心从「买便宜组件」转向「买可调度性与并网位置」</text>
+    <text x="136" y="408" font-size="18" fill="#6E6E6E">成本中心已从组件转向 BOS 与储能；储能 LCOS 2020–2026 上涨 39%；firm LCOE（USD 54–82/MWh）已是可用指标</text>
+  </g>
+
+  <line id="p15-rule-3" data-pptx-role="decoration" x1="72" y1="424" x2="1208" y2="424" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p15-rec-04" data-pptx-bounds="72 428 1136 70">
+    <text x="72" y="454" font-family="Arial Black" font-size="24" font-weight="bold" fill="#C8102E">04</text>
+    <text x="136" y="454" font-size="24" font-weight="bold" fill="#111111">稀缺资源是并网容量与消纳空间，不是价格</text>
+    <text x="136" y="486" font-size="18" fill="#6E6E6E">美国队列中位等待 61 个月、全球 3,000 GW 排队；排在队列里的便宜电不产生度电价值</text>
+  </g>
+
+  <g id="p15-sources" data-pptx-bounds="72 522 1136 134">
+    <text x="72" y="544" font-size="18" fill="#111111">来源（可点击）｜每个数字均标注来源与年份；不同机构口径并列写出，不做平均、不做跨口径换算</text>
+    <a href="https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf">
+      <g id="p15-link-lazard">
+        <rect x="72" y="564" width="8" height="3" fill="#C8102E" />
+        <text x="88" y="576" font-size="16" fill="#111111" text-decoration="underline">Lazard LCOE+ 2026 Edition（LCOE v19.0 / LCOS v11.0）</text>
+      </g>
+    </a>
+    <a href="https://iea.blob.core.windows.net/assets/76ad6eac-2aa6-4c55-9a55-b8dc0dba9f9e/Renewables2025.pdf">
+      <g id="p15-link-iea-renewables">
+        <rect x="72" y="588" width="8" height="3" fill="#C8102E" />
+        <text x="88" y="600" font-size="16" fill="#111111" text-decoration="underline">IEA《Renewables 2025》</text>
+      </g>
+    </a>
+    <a href="https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024">
+      <g id="p15-link-irena">
+        <rect x="72" y="612" width="8" height="3" fill="#C8102E" />
+        <text x="88" y="624" font-size="16" fill="#111111" text-decoration="underline">IRENA《Renewable Power Generation Costs in 2024》</text>
+      </g>
+    </a>
+    <a href="https://docs.nrel.gov/docs/fy25osti/92536.pdf">
+      <g id="p15-link-nrel">
+        <rect x="72" y="636" width="8" height="3" fill="#C8102E" />
+        <text x="88" y="648" font-size="16" fill="#111111" text-decoration="underline">NREL/TP-7A40-92536（15 年成本下降记录）</text>
+      </g>
+    </a>
+    <a href="https://emp.lbl.gov/publications/queued-2026-edition-characteristics">
+      <g id="p15-link-lbnl">
+        <rect x="660" y="564" width="8" height="3" fill="#C8102E" />
+        <text x="676" y="576" font-size="16" fill="#111111" text-decoration="underline">Berkeley Lab《Queued Up: 2026 Edition》</text>
+      </g>
+    </a>
+    <a href="https://about.bnef.com/insights/clean-transport/lithium-ion-battery-pack-prices-fall-to-108-per-kilowatt-hour-despite-rising-metal-prices-bloombergnef/">
+      <g id="p15-link-bnef">
+        <rect x="660" y="588" width="8" height="3" fill="#C8102E" />
+        <text x="676" y="600" font-size="16" fill="#111111" text-decoration="underline">BloombergNEF 2025 年锂电池价格调查</text>
+      </g>
+    </a>
+    <a href="https://ourworldindata.org/grapher/solar-pv-prices">
+      <g id="p15-link-owid">
+        <rect x="660" y="612" width="8" height="3" fill="#C8102E" />
+        <text x="676" y="624" font-size="16" fill="#111111" text-decoration="underline">Our World in Data（组件价格与学习曲线）</text>
+      </g>
+    </a>
+    <a href="https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions/executive-summary">
+      <g id="p15-link-iea-grids">
+        <rect x="660" y="636" width="8" height="3" fill="#C8102E" />
+        <text x="676" y="648" font-size="16" fill="#111111" text-decoration="underline">IEA《Electricity Grids and Secure Energy Transitions》</text>
+      </g>
+    </a>
+  </g>
+
+  <line id="p15-footrule" data-pptx-role="decoration" x1="72" y1="660" x2="1208" y2="660" stroke="#D4D4D4" stroke-width="1" />
+
+  <g id="p15-footer" data-pptx-bounds="72 668 1136 24" fill="#6E6E6E" font-size="16">
+    <text x="72" y="684">检索日期 2026-09-04｜90 条外部事实、20 个来源页，全部记录在项目 sources/ 的事实溯源文件中</text>
+    <text x="1208" y="684" text-anchor="end">15</text>
+  </g>
+</svg>
