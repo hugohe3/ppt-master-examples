@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "excel_to_md.py",
+  "conversion_type": "xlsx",
+  "source": {
+    "path": "apple_fy2025_quarterly.xlsx",
+    "name": "apple_fy2025_quarterly.xlsx",
+    "suffix": ".xlsx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 9733
+  },
+  "outputs": {
+    "markdown": "apple_fy2025_quarterly.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 98,
+    "char_count": 3895,
+    "heading_count": 6,
+    "table_count": 4,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}

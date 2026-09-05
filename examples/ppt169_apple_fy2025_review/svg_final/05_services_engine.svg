@@ -1,0 +1,465 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="180" x2="1216" y2="180" stroke="#1E293B" stroke-width="2"/>
+  <g id="page-header" data-pptx-bounds="64 52 1152 116">
+    <text x="64" y="100" font-size="44" font-weight="bold" fill="#1E293B">服务是唯一八个季度连续增长的业务</text>
+    <text x="64" y="146" font-size="28" fill="#64748B">毛利率 75.41%,是产品的两倍以上;它同时解释了收入增量与毛利增量</text>
+  </g>
+  <g id="exhibit-a-head" data-pptx-bounds="64 204 688 46">
+    <circle cx="75" cy="215" r="11" fill="#1E293B"/>
+    <text x="75" y="221" font-size="14" font-weight="bold" font-family="Consolas" fill="#FFFFFF" text-anchor="middle">A</text>
+    <text x="94" y="222" font-size="20" font-weight="bold" fill="#1E293B">服务净销售额:八个季度逐季走高,无一次回落</text>
+    <text x="64" y="244" font-size="16" fill="#64748B">百万美元;FY25 各季标注同比</text>
+  </g>
+  <g id="services-trend" data-pptx-replace-with="chart" data-pptx-bounds="64 262 688 324" data-pptx-fallback-sha256="db8c18367ccee05495d15d65dbffb168bda4ce9fd66cdce09f3c1934156bbd5e">
+    <metadata type="application/json">{
+ "schema": "ppt-master.native-chart.v1",
+ "name": "services-trend",
+ "type": "column",
+ "grouping": "clustered",
+ "x": 64,
+ "y": 262,
+ "width": 688,
+ "height": 324,
+ "plot_area": {
+  "x": 100,
+  "y": 280,
+  "width": 640,
+  "height": 220
+ },
+ "gap_width": 54,
+ "categories": [
+  "FY24 Q1",
+  "FY24 Q2",
+  "FY24 Q3",
+  "FY24 Q4",
+  "FY25 Q1",
+  "FY25 Q2",
+  "FY25 Q3",
+  "FY25 Q4"
+ ],
+ "series": [
+  {
+   "name": "服务净销售额",
+   "values": [
+    23117,
+    23867,
+    24213,
+    24972,
+    26340,
+    26645,
+    27423,
+    28750
+   ],
+   "point_colors": [
+    "#7BA7D4",
+    "#7BA7D4",
+    "#7BA7D4",
+    "#7BA7D4",
+    "#2B6CB0",
+    "#2B6CB0",
+    "#2B6CB0",
+    "#2B6CB0"
+   ]
+  }
+ ],
+ "data_labels": {
+  "show_value": true,
+  "position": "outside_end",
+  "number_format": "#,##0",
+  "font_size": 18,
+  "font_family": "Consolas",
+  "color": "#1E293B"
+ },
+ "axes": {
+  "category": {
+   "kind": "text",
+   "tick_marks": "none",
+   "color": "#64748B",
+   "font_size": 16,
+   "font_family": "Microsoft YaHei"
+  },
+  "value": {
+   "kind": "value",
+   "visible": false,
+   "major_gridlines": false
+  }
+ },
+ "notes": [
+  {
+   "text": "同比 FY24 同季",
+   "x": 100,
+   "y": 556.4,
+   "width": 130,
+   "height": 22,
+   "font_size": 16,
+   "font_family": "Microsoft YaHei",
+   "color": "#64748B",
+   "align": "l",
+   "bold": false
+  },
+  {
+   "text": "+13.9%",
+   "x": 423.0,
+   "y": 554.2,
+   "width": 74,
+   "height": 25,
+   "font_size": 18,
+   "font_family": "Consolas",
+   "color": "#2E7D5B",
+   "align": "ctr",
+   "bold": true
+  },
+  {
+   "text": "+11.6%",
+   "x": 503.0,
+   "y": 554.2,
+   "width": 74,
+   "height": 25,
+   "font_size": 18,
+   "font_family": "Consolas",
+   "color": "#2E7D5B",
+   "align": "ctr",
+   "bold": true
+  },
+  {
+   "text": "+13.3%",
+   "x": 583.0,
+   "y": 554.2,
+   "width": 74,
+   "height": 25,
+   "font_size": 18,
+   "font_family": "Consolas",
+   "color": "#2E7D5B",
+   "align": "ctr",
+   "bold": true
+  },
+  {
+   "text": "+15.1%",
+   "x": 663.0,
+   "y": 554.2,
+   "width": 74,
+   "height": 25,
+   "font_size": 18,
+   "font_family": "Consolas",
+   "color": "#2E7D5B",
+   "align": "ctr",
+   "bold": true
+  }
+ ],
+ "style": {
+  "font_family": "Microsoft YaHei",
+  "axis_font_size": 18,
+  "axis_color": "#1E293B",
+  "text_color": "#64748B"
+ }
+}</metadata>
+    <g id="services-trend-chartArea">
+      <line id="services-trend-axis" x1="100" y1="500" x2="740" y2="500" stroke="#1E293B" stroke-width="2"/>
+      <!-- chart-plot-area: object=services-trend | 100,280,740,500 -->
+      <rect x="114.0" y="330.5" width="52" height="169.5" fill="#7BA7D4"/>
+      <rect x="194.0" y="325.0" width="52" height="175.0" fill="#7BA7D4"/>
+      <rect x="274.0" y="322.4" width="52" height="177.6" fill="#7BA7D4"/>
+      <rect x="354.0" y="316.9" width="52" height="183.1" fill="#7BA7D4"/>
+      <rect x="434.0" y="306.8" width="52" height="193.2" fill="#2B6CB0"/>
+      <rect x="514.0" y="304.6" width="52" height="195.4" fill="#2B6CB0"/>
+      <rect x="594.0" y="298.9" width="52" height="201.1" fill="#2B6CB0"/>
+      <rect x="674.0" y="289.2" width="52" height="210.8" fill="#2B6CB0"/>
+    </g>
+    <text x="140.0" y="320.5" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">23,117</text>
+    <text x="220.0" y="315.0" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">23,867</text>
+    <text x="300.0" y="312.4" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">24,213</text>
+    <text x="380.0" y="306.9" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">24,972</text>
+    <text x="460.0" y="296.8" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">26,340</text>
+    <text x="540.0" y="294.6" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">26,645</text>
+    <text x="620.0" y="288.9" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">27,423</text>
+    <text x="700.0" y="279.2" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">28,750</text>
+    <text x="140.0" y="528" font-size="16" fill="#64748B" text-anchor="middle">FY24 Q1</text>
+    <text x="220.0" y="528" font-size="16" fill="#64748B" text-anchor="middle">FY24 Q2</text>
+    <text x="300.0" y="528" font-size="16" fill="#64748B" text-anchor="middle">FY24 Q3</text>
+    <text x="380.0" y="528" font-size="16" fill="#64748B" text-anchor="middle">FY24 Q4</text>
+    <text x="460.0" y="528" font-size="16" fill="#64748B" text-anchor="middle">FY25 Q1</text>
+    <text x="540.0" y="528" font-size="16" fill="#64748B" text-anchor="middle">FY25 Q2</text>
+    <text x="620.0" y="528" font-size="16" fill="#64748B" text-anchor="middle">FY25 Q3</text>
+    <text x="700.0" y="528" font-size="16" fill="#64748B" text-anchor="middle">FY25 Q4</text>
+    <text x="100" y="574" font-size="16" fill="#64748B">同比 FY24 同季</text>
+    <text x="460.0" y="574" font-size="18" font-family="Consolas" font-weight="bold" fill="#2E7D5B" text-anchor="middle">+13.9%</text>
+    <text x="540.0" y="574" font-size="18" font-family="Consolas" font-weight="bold" fill="#2E7D5B" text-anchor="middle">+11.6%</text>
+    <text x="620.0" y="574" font-size="18" font-family="Consolas" font-weight="bold" fill="#2E7D5B" text-anchor="middle">+13.3%</text>
+    <text x="700.0" y="574" font-size="18" font-family="Consolas" font-weight="bold" fill="#2E7D5B" text-anchor="middle">+15.1%</text>
+  </g>
+  <g id="exhibit-b-head" data-pptx-bounds="800 204 416 46">
+    <circle cx="811" cy="215" r="11" fill="#1E293B"/>
+    <text x="811" y="221" font-size="14" font-weight="bold" font-family="Consolas" fill="#FFFFFF" text-anchor="middle">B</text>
+    <text x="830" y="222" font-size="20" font-weight="bold" fill="#1E293B">毛利率:服务约 75%,产品 35%–39%</text>
+    <text x="800" y="244" font-size="16" fill="#64748B">%,按季;毛利率 = 毛利 ÷ 净销售额</text>
+  </g>
+  <g id="services-margin-lines" data-pptx-replace-with="chart" data-pptx-bounds="800 262 416 190" data-pptx-fallback-sha256="09e5b0b9d0bb4877451b3c62df5fbc4b66d3d9f47d89687a17836880b470f1bf">
+    <metadata type="application/json">{
+ "schema": "ppt-master.native-chart.v1",
+ "name": "services-margin-lines",
+ "type": "line",
+ "grouping": "standard",
+ "line_style": "lineMarker",
+ "marker_size": 10,
+ "x": 800,
+ "y": 262,
+ "width": 416,
+ "height": 190,
+ "plot_area": {
+  "x": 850,
+  "y": 286,
+  "width": 320,
+  "height": 134
+ },
+ "categories": [
+  "24Q1",
+  "24Q2",
+  "24Q3",
+  "24Q4",
+  "25Q1",
+  "25Q2",
+  "25Q3",
+  "25Q4"
+ ],
+ "series": [
+  {
+   "name": "服务",
+   "values": [
+    72.8,
+    74.6,
+    74.0,
+    74.0,
+    75.0,
+    75.7,
+    75.6,
+    75.3
+   ],
+   "line_width": 3
+  },
+  {
+   "name": "产品",
+   "values": [
+    39.4,
+    36.6,
+    35.3,
+    36.3,
+    39.3,
+    35.9,
+    34.5,
+    36.2
+   ],
+   "line_width": 3
+  }
+ ],
+ "show_legend": true,
+ "legend_position": "top",
+ "axes": {
+  "category": {
+   "kind": "text",
+   "tick_marks": "none",
+   "color": "#64748B",
+   "font_size": 14,
+   "font_family": "Consolas"
+  },
+  "value": {
+   "kind": "value",
+   "minimum": 30,
+   "maximum": 80,
+   "major_unit": 10,
+   "number_format": "0",
+   "major_gridlines": true,
+   "tick_marks": "none",
+   "color": "#64748B",
+   "font_size": 14,
+   "font_family": "Consolas",
+   "cross_between": "mid_category"
+  }
+ },
+ "notes": [
+  {
+   "text": "75.3",
+   "x": 1174,
+   "y": 271.0,
+   "width": 47,
+   "height": 22,
+   "font_size": 16,
+   "font_family": "Consolas",
+   "color": "#2B6CB0",
+   "align": "l",
+   "bold": true
+  },
+  {
+   "text": "36.2",
+   "x": 1174,
+   "y": 407.8,
+   "width": 47,
+   "height": 22,
+   "font_size": 16,
+   "font_family": "Consolas",
+   "color": "#64748B",
+   "align": "l",
+   "bold": true
+  }
+ ],
+ "style": {
+  "colors": [
+   "#2B6CB0",
+   "#94A3B8"
+  ],
+  "font_family": "Microsoft YaHei",
+  "axis_font_size": 14,
+  "axis_color": "#1E293B",
+  "grid_color": "#E8EDF2",
+  "text_color": "#64748B",
+  "legend_font_size": 16
+ }
+}</metadata>
+    <g id="services-margin-lines-chartArea">
+      <line id="services-margin-lines-axis" x1="850" y1="420.0" x2="1170" y2="420.0" stroke="#1E293B" stroke-width="2"/>
+      <line id="services-margin-lines-grid-40" x1="850" y1="393.2" x2="1170" y2="393.2" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="services-margin-lines-grid-50" x1="850" y1="366.4" x2="1170" y2="366.4" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="services-margin-lines-grid-60" x1="850" y1="339.6" x2="1170" y2="339.6" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="services-margin-lines-grid-70" x1="850" y1="312.8" x2="1170" y2="312.8" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="services-margin-lines-grid-80" x1="850" y1="286.0" x2="1170" y2="286.0" stroke="#E8EDF2" stroke-width="1"/>
+      <!-- chart-plot-area: object=services-margin-lines | 850,286,1170,420 -->
+      <polyline points="850.0,305.3 895.7,300.5 941.4,302.1 987.1,302.1 1032.9,299.4 1078.6,297.5 1124.3,297.8 1170.0,298.6" fill="none" stroke="#2B6CB0" stroke-width="3"/>
+      <circle cx="850.0" cy="305.3" r="5" fill="#2B6CB0"/>
+      <circle cx="895.7" cy="300.5" r="5" fill="#2B6CB0"/>
+      <circle cx="941.4" cy="302.1" r="5" fill="#2B6CB0"/>
+      <circle cx="987.1" cy="302.1" r="5" fill="#2B6CB0"/>
+      <circle cx="1032.9" cy="299.4" r="5" fill="#2B6CB0"/>
+      <circle cx="1078.6" cy="297.5" r="5" fill="#2B6CB0"/>
+      <circle cx="1124.3" cy="297.8" r="5" fill="#2B6CB0"/>
+      <circle cx="1170.0" cy="298.6" r="5" fill="#2B6CB0"/>
+      <polyline points="850.0,394.8 895.7,402.3 941.4,405.8 987.1,403.1 1032.9,395.1 1078.6,404.2 1124.3,407.9 1170.0,403.4" fill="none" stroke="#94A3B8" stroke-width="3"/>
+      <circle cx="850.0" cy="394.8" r="5" fill="#94A3B8"/>
+      <circle cx="895.7" cy="402.3" r="5" fill="#94A3B8"/>
+      <circle cx="941.4" cy="405.8" r="5" fill="#94A3B8"/>
+      <circle cx="987.1" cy="403.1" r="5" fill="#94A3B8"/>
+      <circle cx="1032.9" cy="395.1" r="5" fill="#94A3B8"/>
+      <circle cx="1078.6" cy="404.2" r="5" fill="#94A3B8"/>
+      <circle cx="1124.3" cy="407.9" r="5" fill="#94A3B8"/>
+      <circle cx="1170.0" cy="403.4" r="5" fill="#94A3B8"/>
+    </g>
+    <line x1="850" y1="272" x2="870" y2="272" stroke="#2B6CB0" stroke-width="3"/><text x="876" y="277" font-size="16" fill="#1E293B">服务</text>
+    <line x1="930" y1="272" x2="950" y2="272" stroke="#94A3B8" stroke-width="3"/><text x="956" y="277" font-size="16" fill="#1E293B">产品</text>
+    <text x="840" y="425.0" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="end">30</text>
+    <text x="840" y="398.2" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="end">40</text>
+    <text x="840" y="371.4" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="end">50</text>
+    <text x="840" y="344.6" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="end">60</text>
+    <text x="840" y="317.8" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="end">70</text>
+    <text x="840" y="291.0" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="end">80</text>
+    <text x="850.0" y="440" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="middle">24Q1</text>
+    <text x="895.7" y="440" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="middle">24Q2</text>
+    <text x="941.4" y="440" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="middle">24Q3</text>
+    <text x="987.1" y="440" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="middle">24Q4</text>
+    <text x="1032.9" y="440" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="middle">25Q1</text>
+    <text x="1078.6" y="440" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="middle">25Q2</text>
+    <text x="1124.3" y="440" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="middle">25Q3</text>
+    <text x="1170.0" y="440" font-size="14" font-family="Consolas" fill="#64748B" text-anchor="middle">25Q4</text>
+    <text x="1174" y="288.6" font-size="16" font-family="Consolas" font-weight="bold" fill="#2B6CB0">75.3</text>
+    <text x="1174" y="425.4" font-size="16" font-family="Consolas" font-weight="bold" fill="#64748B">36.2</text>
+  </g>
+  <g id="exhibit-c-head" data-pptx-bounds="800 460 416 46">
+    <circle cx="811" cy="471" r="11" fill="#1E293B"/>
+    <text x="811" y="477" font-size="14" font-weight="bold" font-family="Consolas" fill="#FFFFFF" text-anchor="middle">C</text>
+    <text x="830" y="478" font-size="20" font-weight="bold" fill="#1E293B">服务占 FY25 增量:收入过半,毛利八成</text>
+    <text x="800" y="500" font-size="16" fill="#64748B">%;收入增量 25,126、毛利增量 14,518 百万美元</text>
+  </g>
+  <g id="increment-share" data-pptx-replace-with="chart" data-pptx-bounds="800 506 416 92" data-pptx-fallback-sha256="3cf16badbbc1a3e39a1f3b0bd5c94fc1f18a550ab8e7d821c7c3700e6665c87a">
+    <metadata type="application/json">{
+ "schema": "ppt-master.native-chart.v1",
+ "name": "increment-share",
+ "type": "bar",
+ "grouping": "stacked",
+ "x": 800,
+ "y": 506,
+ "width": 416,
+ "height": 92,
+ "plot_area": {
+  "x": 940,
+  "y": 514,
+  "width": 260,
+  "height": 78
+ },
+ "gap_width": 30,
+ "categories": [
+  "收入增量",
+  "毛利增量"
+ ],
+ "series": [
+  {
+   "name": "服务",
+   "values": [
+    51.7,
+    77.6
+   ]
+  },
+  {
+   "name": "产品",
+   "values": [
+    48.3,
+    22.4
+   ]
+  }
+ ],
+ "data_labels": {
+  "show_value": true,
+  "position": "center",
+  "number_format": "0.0",
+  "font_size": 16,
+  "font_family": "Consolas",
+  "color": "#FFFFFF"
+ },
+ "axes": {
+  "category": {
+   "kind": "text",
+   "tick_marks": "none",
+   "color": "#1E293B",
+   "font_size": 18,
+   "font_family": "Microsoft YaHei"
+  },
+  "value": {
+   "kind": "value",
+   "visible": false,
+   "major_gridlines": false,
+   "minimum": 0,
+   "maximum": 100
+  }
+ },
+ "style": {
+  "colors": [
+   "#2B6CB0",
+   "#7BA7D4"
+  ],
+  "font_family": "Microsoft YaHei",
+  "axis_font_size": 18,
+  "axis_color": "#1E293B",
+  "text_color": "#FFFFFF"
+ }
+}</metadata>
+    <g id="increment-share-chartArea">
+      <!-- chart-plot-area: object=increment-share | 940,514,1200,592 -->
+      <rect x="940" y="514" width="134.4" height="34" fill="#2B6CB0"/>
+      <rect x="1074.4" y="514" width="125.6" height="34" fill="#7BA7D4"/>
+      <rect x="940" y="558" width="201.8" height="34" fill="#2B6CB0"/>
+      <rect x="1141.8" y="558" width="58.2" height="34" fill="#7BA7D4"/>
+    </g>
+    <text x="928" y="537" font-size="18" fill="#1E293B" text-anchor="end">收入增量</text>
+    <text x="1007.2" y="537" font-size="16" font-family="Consolas" font-weight="bold" fill="#FFFFFF" text-anchor="middle">51.7</text>
+    <text x="1137.2" y="537" font-size="16" font-family="Consolas" font-weight="bold" fill="#FFFFFF" text-anchor="middle">48.3</text>
+    <text x="928" y="581" font-size="18" fill="#1E293B" text-anchor="end">毛利增量</text>
+    <text x="1040.9" y="581" font-size="16" font-family="Consolas" font-weight="bold" fill="#FFFFFF" text-anchor="middle">77.6</text>
+    <text x="1170.9" y="581" font-size="16" font-family="Consolas" font-weight="bold" fill="#FFFFFF" text-anchor="middle">22.4</text>
+  </g>
+  <g id="takeaway" data-pptx-bounds="64 604 1152 36">
+    <rect x="64" y="604" width="4" height="30" fill="#2B6CB0"/>
+    <text x="82" y="627" font-size="20" fill="#1E293B">服务占全年收入 <tspan font-family="Consolas" font-weight="bold">26.23%</tspan>(FY24 24.59%),却贡献了收入增量的 <tspan font-family="Consolas" font-weight="bold">51.7%</tspan> 和毛利增量的 <tspan font-family="Consolas" font-weight="bold">77.6%</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 644 1152 50">
+    <line x1="64" y1="652" x2="1216" y2="652" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="684" font-size="16" fill="#64748B">来源:「季度损益」sheet 产品/服务净销售额与销售成本四行,「年度汇总」sheet;毛利增量 = FY25 毛利 195,201 − FY24 180,683</text>
+    <text x="1216" y="684" font-size="16" fill="#64748B" text-anchor="end">05</text>
+  </g>
+</svg>

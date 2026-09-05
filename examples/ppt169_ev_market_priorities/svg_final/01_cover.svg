@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="cover">
+<rect id="cover-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#051C2C" />
+<g id="cover-meta" data-pptx-role="chrome" data-pptx-bounds="48 28 1184 26">
+  <text x="48" y="46" font-size="11" fill="#8FB8FF" letter-spacing="2">管理层讨论稿 · 2026 年 9 月 · 基于 IEA Global EV Outlook 2025</text>
+  <rect x="1150" y="30" width="82" height="18" fill="none" stroke="#8FB8FF" stroke-width="0.75" /><text x="1191" y="43" font-size="10" fill="#8FB8FF" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="cover-title-stack" data-pptx-bounds="48 120 720 190">
+  <text x="48" y="176" font-size="44" font-weight="bold" fill="#FFFFFF">电动车增长的下一站</text>
+  <text x="48" y="214" font-size="20" fill="#8FB8FF">2026–2028 车企市场优先级与产品组合决策</text>
+  <line x1="48" y1="240" x2="360" y2="240" stroke="#8FB8FF" stroke-width="1" />
+  <text fill="#FFFFFF" font-size="14" x="48" y="272">2025 年全球每四辆新车就有一辆是电动车,</text><text fill="#FFFFFF" font-size="14" x="48" y="292">但 400 万辆增量里美国为负、中美欧之外的市场首次超过欧洲。</text></g>
+<g id="cover-questions" data-pptx-bounds="48 330 720 150">
+  <text x="48" y="348" font-size="11" fill="#8FB8FF" letter-spacing="2" font-weight="bold">本文档回答三个问题</text>
+  <circle cx="56" cy="371" r="8" fill="#8FB8FF" /><text x="56" y="374.5" font-family="Arial" font-size="10" font-weight="bold" fill="#051C2C" text-anchor="middle">1</text><text x="72" y="376" font-size="14" fill="#FFFFFF">增量在哪里:中国、欧洲、美国和新兴市场 2025 年各贡献了多少,2035 年还会是这样吗</text>
+  <circle cx="56" cy="401" r="8" fill="#8FB8FF" /><text x="56" y="404.5" font-family="Arial" font-size="10" font-weight="bold" fill="#051C2C" text-anchor="middle">2</text><text x="72" y="406" font-size="14" fill="#FFFFFF">用什么产品进入:PHEV 在低渗透市场的角色是过渡还是破冰</text>
+  <circle cx="56" cy="431" r="8" fill="#8FB8FF" /><text x="56" y="434.5" font-family="Arial" font-size="10" font-weight="bold" fill="#051C2C" text-anchor="middle">3</text><text x="72" y="436" font-size="14" fill="#FFFFFF">怎么排优先级:2026–2028 三年,增量投入按什么层级、什么节奏分配</text>
+</g>
+<g id="cover-figures" data-pptx-bounds="820 120 412 320">
+  <line x1="820" y1="130" x2="1232" y2="130" stroke="#8FB8FF" stroke-width="0.75" />
+  <text x="820" y="196" font-family="Arial" font-size="40" font-weight="bold" fill="#FFFFFF">2,100<tspan font-family="Microsoft YaHei" font-size="14" font-weight="normal" fill="#8FB8FF"> 万辆</tspan></text>
+  <text x="820" y="216" font-size="12" fill="#8FB8FF">2025 年全球电动车销量,较 2020 年 7.0 倍</text>
+  <line x1="820" y1="234" x2="1232" y2="234" stroke="#8FB8FF" stroke-width="0.75" stroke-opacity="0.5" />
+  <text x="820" y="300" font-family="Arial" font-size="40" font-weight="bold" fill="#FFFFFF">25%</text>
+  <text x="820" y="320" font-size="12" fill="#8FB8FF">2025 年全球渗透率,2020 年为 4.4%</text>
+  <line x1="820" y1="338" x2="1232" y2="338" stroke="#8FB8FF" stroke-width="0.75" stroke-opacity="0.5" />
+  <text x="820" y="404" font-family="Arial" font-size="40" font-weight="bold" fill="#FFFFFF">−10<tspan font-family="Microsoft YaHei" font-size="14" font-weight="normal" fill="#8FB8FF"> 万辆</tspan></text>
+  <text x="820" y="424" font-size="12" fill="#8FB8FF">2025 年美国销量变化,2015 年以来首次下滑</text>
+</g>
+<g id="cover-structure" data-pptx-bounds="48 500 1184 110">
+  <line x1="48" y1="500" x2="1232" y2="500" stroke="#8FB8FF" stroke-width="0.75" />
+  <text x="48" y="524" font-size="11" fill="#8FB8FF" letter-spacing="2" font-weight="bold">文档结构</text>
+  <text x="48" y="556" font-size="14" font-weight="bold" fill="#FFFFFF">诊断<tspan font-family="Arial" font-weight="normal" fill="#8FB8FF"> 第 3–9 页</tspan></text>
+  <text fill="#8FB8FF" font-size="12" x="48" y="578">全球总量与地区增量拆分;成熟市场、欧洲、新兴市场逐一诊断;</text><text fill="#8FB8FF" font-size="12" x="48" y="596">PHEV 产品组合;2035 年 IEA 情景下的增量地图</text><text x="448" y="556" font-size="14" font-weight="bold" fill="#FFFFFF">建议<tspan font-family="Arial" font-weight="normal" fill="#8FB8FF"> 第 10–12 页</tspan></text>
+  <text fill="#8FB8FF" font-size="12" x="448" y="578">三级市场优先级表;2026–2028 三年行动节奏与决策门;</text><text fill="#8FB8FF" font-size="12" x="448" y="596">三项风险的触发指标、影响与应对</text><text x="848" y="556" font-size="14" font-weight="bold" fill="#FFFFFF">决策<tspan font-family="Arial" font-weight="normal" fill="#8FB8FF"> 第 13–14 页</tspan></text>
+  <text fill="#8FB8FF" font-size="12" x="848" y="578">本季度请管理层决定的三件事、90 天内动作与负责角色;</text><text fill="#8FB8FF" font-size="12" x="848" y="596">附录列出全部数据、口径与来源链接</text></g>
+<g id="cover-source" data-pptx-role="footer" data-pptx-bounds="48 640 1184 48">
+  <text fill="#8FB8FF" font-size="10" x="48" y="656">电动车 = 纯电(BEV)+ 插电混动(PHEV),乘用车口径;渗透率 = 电动车占新车销量的比例</text><text fill="#8FB8FF" font-size="10" x="48" y="672">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析;数据通过官方接口于 2026-09-05 取得,未做数值修改</text></g>
+</svg>

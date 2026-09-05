@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">诊断 · 新兴市场</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75"/>
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text x="48" y="70" font-size="24" font-weight="bold" fill="#051C2C">东南亚渗透率两年从 8.4% 升到 18%、泰国达 23%,巴西、墨西哥、印度同步起量<tspan x="48" dy="30">——新兴市场已经进入加速段</tspan></text>
+</g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">A:电动车渗透率,%,2023 vs 2025;B:2025 年电动车销量,万辆,及 2023→2025 倍数</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1"/>
+<g id="exhibit-a-head" data-pptx-bounds="48 160 404 40"><circle cx="56" cy="171" r="8" fill="#051C2C"/><text x="56" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A</text><text x="70" y="176" font-size="13" font-weight="bold" fill="#051C2C">渗透率:2023 vs 2025</text><text x="48" y="192" font-size="11" fill="#7F7F7F">电动车占新车销量的 %</text></g>
+<g id="emerging-share" data-pptx-replace-with="chart" data-pptx-bounds="48 204 404 266" data-pptx-fallback-sha256="f72661c3bcf8c0379d529951052b65d7e6dda603ebe2db3dc566f01a2b8384d3">
+  <metadata type="application/json">{"type": "column", "grouping": "clustered", "categories": ["东南亚", "泰国", "巴西", "墨西哥", "印度"], "series": [{"name": "2023", "values": [5.2, 11, 3, 1.5, 2.1]}, {"name": "2025", "values": [18, 23, 9, 7, 4]}], "plot_area": {"x": 56, "y": 226, "width": 388, "height": 208}, "axes": {"category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Microsoft YaHei", "color": "#7F7F7F", "tick_marks": "none"}, "value": {"kind": "value", "position": "left", "visible": false, "label_position": "none", "minimum": 0, "major_gridlines": false, "maximum": 27}}, "style": {"colors": ["#B7B7B7", "#2251FF"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#7F7F7F", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF", "legend_font_size": 11}, "data_labels": {"show_value": true, "position": "outside_end", "font_size": 11, "font_family": "Arial", "color": "#7F7F7F"}, "show_legend": true, "legend_position": "bottom", "gap_width": 23, "overlap": -13, "x": 48, "y": 204, "width": 404, "height": 266, "name": "emerging-share"}</metadata>
+  <g id="emerging-share-chartArea">
+    <line id="emerging-share-axis" x1="56" y1="434" x2="444" y2="434" stroke="#B7B7B7" stroke-width="0.75"/>
+    <!-- chart-plot-area: object=emerging-share | 56,226,444,434 -->
+    <rect x="62.80" y="393.94" width="30.00" height="40.06" fill="#B7B7B7"/>
+    <text x="77.80" y="388.94" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">5.2</text>
+    <rect x="96.80" y="295.33" width="30.00" height="138.67" fill="#2251FF"/>
+    <text x="111.80" y="290.33" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">18</text>
+    <text x="94.80" y="449" font-family="Microsoft YaHei" font-size="11" fill="#7F7F7F" text-anchor="middle">东南亚</text>
+    <rect x="140.40" y="349.26" width="30.00" height="84.74" fill="#B7B7B7"/>
+    <text x="155.40" y="344.26" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">11</text>
+    <rect x="174.40" y="256.81" width="30.00" height="177.19" fill="#2251FF"/>
+    <text x="189.40" y="251.81" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">23</text>
+    <text x="172.40" y="449" font-family="Microsoft YaHei" font-size="11" fill="#7F7F7F" text-anchor="middle">泰国</text>
+    <rect x="218.00" y="410.89" width="30.00" height="23.11" fill="#B7B7B7"/>
+    <text x="233.00" y="405.89" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">3</text>
+    <rect x="252.00" y="364.67" width="30.00" height="69.33" fill="#2251FF"/>
+    <text x="267.00" y="359.67" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">9</text>
+    <text x="250.00" y="449" font-family="Microsoft YaHei" font-size="11" fill="#7F7F7F" text-anchor="middle">巴西</text>
+    <rect x="295.60" y="422.44" width="30.00" height="11.56" fill="#B7B7B7"/>
+    <text x="310.60" y="417.44" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">1.5</text>
+    <rect x="329.60" y="380.07" width="30.00" height="53.93" fill="#2251FF"/>
+    <text x="344.60" y="375.07" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">7</text>
+    <text x="327.60" y="449" font-family="Microsoft YaHei" font-size="11" fill="#7F7F7F" text-anchor="middle">墨西哥</text>
+    <rect x="373.20" y="417.82" width="30.00" height="16.18" fill="#B7B7B7"/>
+    <text x="388.20" y="412.82" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2.1</text>
+    <rect x="407.20" y="403.19" width="30.00" height="30.81" fill="#2251FF"/>
+    <text x="422.20" y="398.19" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">4</text>
+    <text x="405.20" y="449" font-family="Microsoft YaHei" font-size="11" fill="#7F7F7F" text-anchor="middle">印度</text>
+    <rect x="56" y="456" width="10" height="10" fill="#B7B7B7"/><text x="70" y="465" font-size="11" fill="#333333">2023</text>
+    <rect x="138" y="456" width="10" height="10" fill="#2251FF"/><text x="152" y="465" font-size="11" fill="#333333">2025</text>
+  </g>
+</g>
+<g id="exhibit-b-head" data-pptx-bounds="476 160 412 40"><circle cx="484" cy="171" r="8" fill="#051C2C"/><text x="484" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">B</text><text x="498" y="176" font-size="13" font-weight="bold" fill="#051C2C">2025 年销量与两年倍数</text><text x="476" y="192" font-size="11" fill="#7F7F7F">万辆;右侧为 2023→2025 倍数²</text></g>
+<g id="emerging-sales" data-pptx-replace-with="chart" data-pptx-bounds="476 204 412 266" data-pptx-fallback-sha256="9b65db88b0bd06e99679bd5fad7e3813ee5a23cdbaf71bdd3b2d6c8fd547f2d4">
+  <metadata type="application/json">{"type": "bar", "grouping": "clustered", "categories": ["东南亚", "巴西", "印度", "泰国", "墨西哥"], "series": [{"name": "值", "values": [54, 18, 17, 14, 9], "point_colors": ["#2251FF", "#2251FF", "#051C2C", "#051C2C", "#2251FF"]}], "plot_area": {"x": 538, "y": 222, "width": 260, "height": 236}, "axes": {"category": {"kind": "text", "position": "left", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Microsoft YaHei", "color": "#333333", "tick_marks": "none"}, "value": {"kind": "value", "position": "bottom", "visible": false, "label_position": "none", "minimum": 0, "major_gridlines": false, "maximum": 60}}, "data_labels": {"show_value": true, "position": "outside_end", "font_size": 11, "font_family": "Arial", "bold": true, "color": "#051C2C"}, "style": {"colors": ["#051C2C"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#051C2C", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "gap_width": 115, "notes": [{"text": "3.4×", "x": 828.0, "y": 0, "width": 80, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#2251FF", "align": "l"}, {"text": "3.5×", "x": 672.0, "y": 0, "width": 80, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#2251FF", "align": "l"}, {"text": "2.1×", "x": 667.6666666666666, "y": 0, "width": 80, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "align": "l"}, {"text": "1.6×", "x": 654.6666666666666, "y": 0, "width": 80, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "align": "l"}, {"text": "5.3×", "x": 633.0, "y": 0, "width": 80, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#2251FF", "align": "l"}], "x": 476, "y": 204, "width": 412, "height": 266, "name": "emerging-sales"}</metadata>
+  <g id="emerging-sales-chartArea">
+    <line id="emerging-sales-axis" x1="538.00" y1="222" x2="538.00" y2="458" stroke="#B7B7B7" stroke-width="0.75"/>
+    <!-- chart-plot-area: object=emerging-sales | 538,222,798,458 -->
+    <rect x="538.00" y="234.60" width="234.00" height="22" fill="#2251FF"/>
+    <text x="778.00" y="249.60" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">54</text>
+    <text x="530" y="249.60" font-size="11" fill="#333333" text-anchor="end">东南亚</text>
+    <text x="828.00" y="249.60" font-family="Arial" font-size="11" fill="#2251FF">3.4×</text>
+    <rect x="538.00" y="281.80" width="78.00" height="22" fill="#2251FF"/>
+    <text x="622.00" y="296.80" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">18</text>
+    <text x="530" y="296.80" font-size="11" fill="#333333" text-anchor="end">巴西</text>
+    <text x="672.00" y="296.80" font-family="Arial" font-size="11" fill="#2251FF">3.5×</text>
+    <rect x="538.00" y="329.00" width="73.67" height="22" fill="#051C2C"/>
+    <text x="617.67" y="344.00" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">17</text>
+    <text x="530" y="344.00" font-size="11" fill="#333333" text-anchor="end">印度</text>
+    <text x="667.67" y="344.00" font-family="Arial" font-size="11" fill="#051C2C">2.1×</text>
+    <rect x="538.00" y="376.20" width="60.67" height="22" fill="#051C2C"/>
+    <text x="604.67" y="391.20" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">14</text>
+    <text x="530" y="391.20" font-size="11" fill="#333333" text-anchor="end">泰国</text>
+    <text x="654.67" y="391.20" font-family="Arial" font-size="11" fill="#051C2C">1.6×</text>
+    <rect x="538.00" y="423.40" width="39.00" height="22" fill="#2251FF"/>
+    <text x="583.00" y="438.40" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">9</text>
+    <text x="530" y="438.40" font-size="11" fill="#333333" text-anchor="end">墨西哥</text>
+    <text x="633.00" y="438.40" font-family="Arial" font-size="11" fill="#2251FF">5.3×</text>
+  </g>
+</g>
+<g id="exhibit-c-head" data-pptx-bounds="48 478 840 40"><circle cx="56" cy="489" r="8" fill="#051C2C"/><text x="56" y="492.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">C</text><text x="70" y="494" font-size="13" font-weight="bold" fill="#051C2C">新兴五市场 2025 年概览</text><text x="48" y="510" font-size="11" fill="#7F7F7F">销量:万辆;渗透率:%;2035 情景为 IEA STEPS,「—」为未单列</text></g>
+<g id="emerging-overview" data-pptx-replace-with="table" data-pptx-bounds="48 520 840 124" data-pptx-fallback-sha256="7882deb77ec22d6ec13ed430dc64961534c04a62d46bda957b75b7cba248c858">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "emerging-overview", "x": 48, "y": 520, "width": 840, "height": 124, "header_rows": 1, "column_widths": [120, 150, 150, 150, 130, 140], "row_heights": [24, 20, 20, 20, 20, 20], "style": {"font_family": "Microsoft YaHei", "font_size": 11, "header_font_size": 11, "band_row": false, "header_text": "#051C2C", "body_text": "#333333", "border_color": "#E3E3E3", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 1, "bottom": 1}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E3E3E3", "width": 0.75}, "bottom": {"style": "solid", "color": "#E3E3E3", "width": 0.75}}}}, "columns": [{"text": "市场", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2025 销量", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2023→25 倍数", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2025 渗透率", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2035 情景", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "进入方式", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}], "rows": [[{"bold": true, "text": "东南亚"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "54", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "3.4×", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "18%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "270", "font_family": "Arial", "font_size": 11}]}]}, {"color": "#2251FF", "bold": true, "text": "一级 · PHEV 先行"}], [{"bold": true, "text": "泰国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "14", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.6×", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "23%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "—", "font_family": "Arial", "font_size": 11}]}]}, {"color": "#2251FF", "bold": true, "text": "东南亚首发国"}], [{"bold": true, "text": "巴西"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "18", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "3.5×", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "—", "font_family": "Arial", "font_size": 11}]}]}, {"color": "#051C2C", "bold": true, "text": "二级 · PHEV 试点"}], [{"bold": true, "text": "墨西哥"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "5.3×", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "7%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "—", "font_family": "Arial", "font_size": 11}]}]}, {"color": "#051C2C", "bold": true, "text": "二级 · PHEV 试点"}], [{"bold": true, "text": "印度"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "17", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "2.1×", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "210", "font_family": "Arial", "font_size": 11}]}]}, {"color": "#051C2C", "bold": true, "text": "二级 · 2027 起试点"}]]}</metadata>
+  <line x1="48" y1="544" x2="888" y2="544" stroke="#051C2C" stroke-width="1"/>
+  <text x="56" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">市场</text>
+  <text x="310" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2025 销量</text>
+  <text x="460" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2023→25 倍数</text>
+  <text x="610" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2025 渗透率</text>
+  <text x="740" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2035 情景</text>
+  <text x="756" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">进入方式</text>
+  <line x1="48" y1="564" x2="888" y2="564" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="557.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">东南亚</text>
+  <text x="310" y="557.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">54</text>
+  <text x="460" y="557.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">3.4×</text>
+  <text x="610" y="557.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">18%</text>
+  <text x="740" y="557.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">270</text>
+  <text x="756" y="557.9" font-size="11" fill="#2251FF" text-anchor="start" font-weight="bold">一级 · PHEV 先行</text>
+  <line x1="48" y1="584" x2="888" y2="584" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="577.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">泰国</text>
+  <text x="310" y="577.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">14</text>
+  <text x="460" y="577.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">1.6×</text>
+  <text x="610" y="577.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">23%</text>
+  <text x="740" y="577.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">—</text>
+  <text x="756" y="577.9" font-size="11" fill="#2251FF" text-anchor="start" font-weight="bold">东南亚首发国</text>
+  <line x1="48" y1="604" x2="888" y2="604" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="597.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">巴西</text>
+  <text x="310" y="597.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">18</text>
+  <text x="460" y="597.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">3.5×</text>
+  <text x="610" y="597.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">9%</text>
+  <text x="740" y="597.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">—</text>
+  <text x="756" y="597.9" font-size="11" fill="#051C2C" text-anchor="start" font-weight="bold">二级 · PHEV 试点</text>
+  <line x1="48" y1="624" x2="888" y2="624" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="617.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">墨西哥</text>
+  <text x="310" y="617.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">9</text>
+  <text x="460" y="617.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">5.3×</text>
+  <text x="610" y="617.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">7%</text>
+  <text x="740" y="617.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">—</text>
+  <text x="756" y="617.9" font-size="11" fill="#051C2C" text-anchor="start" font-weight="bold">二级 · PHEV 试点</text>
+  <line x1="48" y1="644" x2="888" y2="644" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="637.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">印度</text>
+  <text x="310" y="637.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">17</text>
+  <text x="460" y="637.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">2.1×</text>
+  <text x="610" y="637.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">4%</text>
+  <text x="740" y="637.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">210</text>
+  <text x="756" y="637.9" font-size="11" fill="#051C2C" text-anchor="start" font-weight="bold">二级 · 2027 起试点</text>
+</g>
+<g id="insights" data-pptx-bounds="916 160 316 472">
+  <text x="916" y="176" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">关键信息</text>
+  <line x1="916" y1="184" x2="1232" y2="184" stroke="#051C2C" stroke-width="1"/>
+  <circle cx="924" cy="205" r="8" fill="#051C2C"/><text x="924" y="208.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="940" y="210" fill="#333333">东南亚:渗透率 8.4%→18%,销量<tspan x="940" dy="20">16 万→54 万辆(3.4 倍);泰国 23%</tspan><tspan x="940" dy="20">已经是美国的两倍以上。</tspan></text>
+  <circle cx="924" cy="281" r="8" fill="#051C2C"/><text x="924" y="284.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="940" y="286" fill="#333333">巴西 3%→9%、墨西哥 1.5%→7%:<tspan x="940" dy="20">拉美两国销量合计 6.9 万→27 万辆,</tspan><tspan x="940" dy="20">两年 3.9 倍。</tspan></text>
+  <circle cx="924" cy="357" r="8" fill="#051C2C"/><text x="924" y="360.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="940" y="362" fill="#333333">印度 2.1%→4%:起点最低,但销量<tspan x="940" dy="20">8.2 万→17 万辆翻倍,2035 年</tspan><tspan x="940" dy="20">情景达 210 万辆(第 9 页)。</tspan></text>
+  <circle cx="924" cy="433" r="8" fill="#051C2C"/><text x="924" y="436.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="940" y="438" fill="#333333">四市场合计 31 万→98 万辆(3.2 倍),<tspan x="940" dy="20">窗口期就是 2026–2028;</tspan><tspan x="940" dy="20">进入方式见第 8、10 页。</tspan></text>
+  <rect x="916" y="516" width="316" height="116" fill="#F7F7F7"/><rect x="916" y="516" width="4" height="116" fill="#2251FF"/>
+  <text x="932" y="538" font-size="12" font-weight="bold" fill="#051C2C">对决策的含义</text>
+  <text x="932" y="560" fill="#333333">东南亚列一级抢滩、泰国首发;巴西、<tspan x="932" dy="20">墨西哥、印度列二级 PHEV 试点,</tspan><tspan x="932" dy="20">2026 年内启动(第 10、11 页)。</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. 电动车 = 纯电(BEV)+ 插电混动(PHEV),乘用车口径;渗透率 = 电动车占新车销量的比例</text>
+  <text x="48" y="674" font-size="10" fill="#7F7F7F">2. 东南亚为 IEA 区域汇总,泰国单列;倍数 = 2025 年销量 ÷ 2023 年销量</text>
+  <text x="48" y="690" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="690" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">7</text>
+</g>
+</svg>

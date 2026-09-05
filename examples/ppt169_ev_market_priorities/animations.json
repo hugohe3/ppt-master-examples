@@ -1,0 +1,724 @@
+{
+ "version": 1,
+ "defaults": {
+  "transition": {
+   "effect": "fade",
+   "duration": 0.4
+  },
+  "animation": {
+   "effect": "none",
+   "trigger": "after-previous",
+   "duration": 0.4
+  }
+ },
+ "slides": {
+  "01_cover": {
+   "groups": {
+    "cover-title-stack": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.5
+    },
+    "cover-questions": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.4
+    },
+    "cover-figures": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.5
+    },
+    "cover-structure": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    }
+   }
+  },
+  "02_summary": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "finding-1": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "finding-2": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.3
+    },
+    "finding-3": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.3
+    },
+    "inference": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.3
+    },
+    "decision-ask": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.5
+    },
+    "data-basis": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    }
+   }
+  },
+  "03_global_total": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "exhibit-a-head": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.2
+    },
+    "world-sales": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 3,
+     "duration": 0.6
+    },
+    "exhibit-b-head": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.2
+    },
+    "world-share": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 5,
+     "duration": 0.6
+    },
+    "insights": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.4
+    },
+    "exhibit-c-head": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.2
+    },
+    "key-years": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 7,
+     "duration": 0.5
+    }
+   }
+  },
+  "04_regional_split": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "exhibit-a-head": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.2
+    },
+    "regional-mix": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 3,
+     "duration": 0.6
+    },
+    "exhibit-b-head": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.2
+    },
+    "increment-2025": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 7,
+     "duration": 0.6
+    },
+    "share-2025": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.3
+    },
+    "insights": {
+     "effect": "entrance_fade",
+     "order": 9,
+     "duration": 0.4
+    },
+    "growth-multiples": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.3
+    },
+    "mix-note": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.3
+    }
+   }
+  },
+  "05_mature_markets": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "exhibit-a-head": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.2
+    },
+    "mature-share": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "exhibit-b-head": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.2
+    },
+    "mature-sales": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 5,
+     "duration": 0.6
+    },
+    "insights": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.4
+    },
+    "exhibit-c-head": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.2
+    },
+    "mature-overview": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 7,
+     "duration": 0.5
+    }
+   }
+  },
+  "06_europe": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "05_mature_markets",
+    "pairs": {
+     "insight-column": {
+      "from": "insights",
+      "to": "insights"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "exhibit-a-head": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.2
+    },
+    "europe-share": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.6
+    },
+    "exhibit-b-head": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.2
+    },
+    "europe-sales": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 5,
+     "duration": 0.6
+    },
+    "insights": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.4
+    },
+    "exhibit-c-head": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.2
+    },
+    "europe-overview": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 7,
+     "duration": 0.5
+    }
+   }
+  },
+  "07_emerging": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "06_europe",
+    "pairs": {
+     "insight-column": {
+      "from": "insights",
+      "to": "insights"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "exhibit-a-head": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.2
+    },
+    "emerging-share": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 3,
+     "duration": 0.6
+    },
+    "exhibit-b-head": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.2
+    },
+    "emerging-sales": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 5,
+     "duration": 0.6
+    },
+    "insights": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.4
+    },
+    "exhibit-c-head": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.2
+    },
+    "emerging-overview": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 7,
+     "duration": 0.5
+    }
+   }
+  },
+  "08_phev": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "07_emerging",
+    "pairs": {
+     "insight-column": {
+      "from": "insights",
+      "to": "insights"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "exhibit-a-head": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.2
+    },
+    "powertrain-mix": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "exhibit-b-head": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.2
+    },
+    "phev-share-region": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 7,
+     "duration": 0.6
+    },
+    "exhibit-c-head": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.2
+    },
+    "china-powertrain": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 9,
+     "duration": 0.6
+    },
+    "insights": {
+     "effect": "entrance_fade",
+     "order": 10,
+     "duration": 0.4
+    },
+    "powertrain-multiples": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.3
+    },
+    "powertrain-note": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.3
+    }
+   }
+  },
+  "09_scenario": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "08_phev",
+    "pairs": {
+     "insight-column": {
+      "from": "insights",
+      "to": "insights"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "exhibit-a-head": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.2
+    },
+    "steps-waterfall": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 1.0
+    },
+    "increment-share": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.3
+    },
+    "insights": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.4
+    },
+    "exhibit-b-head": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.2
+    },
+    "steps-top5": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 6,
+     "duration": 0.5
+    }
+   }
+  },
+  "10_priorities": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "market-tiers": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 2,
+     "duration": 0.7
+    },
+    "tier-note": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.3
+    },
+    "tier-totals": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.3
+    }
+   }
+  },
+  "11_roadmap": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "stage-2026": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 2,
+     "duration": 0.4
+    },
+    "stage-2027": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.4
+    },
+    "stage-2028": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 4,
+     "duration": 0.4
+    },
+    "lane-1": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.3
+    },
+    "lane-2": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.3
+    },
+    "lane-3": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.3
+    },
+    "decision-gate": {
+     "effect": "entrance_fade",
+     "order": 9,
+     "duration": 0.5
+    },
+    "stage-outputs": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.3
+    }
+   }
+  },
+  "12_risks": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "risk-register": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 2,
+     "duration": 0.7
+    },
+    "insights": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.3
+    },
+    "risk-implication": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.5
+    },
+    "volatility-reference": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.3
+    }
+   }
+  },
+  "13_decisions": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "12_risks",
+    "pairs": {
+     "implication-band": {
+      "from": "risk-implication",
+      "to": "review-point"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "decision-1": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "decision-2": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.3
+    },
+    "decision-3": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.3
+    },
+    "review-point": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.5
+    },
+    "milestones": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.3
+    }
+   }
+  },
+  "14_appendix": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.3
+    },
+    "exhibit-a-head": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.2
+    },
+    "appendix-data": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.5
+    },
+    "exhibit-b-head": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.2
+    },
+    "steps-2035": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "source-links": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.3
+    },
+    "method-notes": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.3
+    }
+   }
+  }
+ }
+}

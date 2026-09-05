@@ -2,11 +2,201 @@
   "version": 1,
   "updated": "2026-09-05",
   "stats": {
-    "examples": 30,
-    "pages": 425,
-    "templates": 30
+    "examples": 32,
+    "pages": 453,
+    "templates": 32
   },
   "projects": [
+    {
+      "id": "ppt169_ev_market_priorities",
+      "title": "电动车增长的下一站:2026–2028 车企市场优先级与产品组合决策",
+      "description": "咨询决策文档 14 页 — 以 IEA Global EV Outlook 2025 数据浏览器整理的 XLSX 为唯一源,显式挂载 consulting-decision 方法模板,pyramid × 文档密度自定义视觉(swiss-minimal 基底):每页 5–7 个模块、编号 exhibit、关键信息栏与「对决策的含义」、编号脚注与来源行,14 张原生图表 + 9 张原生表,Default 路线源文件驱动生成",
+      "icon": "🔋",
+      "color": "#2251FF",
+      "style": "consulting",
+      "styleName": "Consulting Document",
+      "desc": "A fourteen-page Chinese strategy document on where electric-car growth goes next, built from a single workbook assembled from the IEA Global EV Data Explorer (sales, penetration, powertrain split, and the 2035 Stated Policies scenario). It follows the bundled consulting-decision Style in pyramid mode with a custom visual on a swiss-minimal base at document density: every content page carries a two-line action title, a unit line, a section tracker, five to seven modules — two or three lettered exhibits, a compact comparison table or KPI strip beneath them, a numbered key-message column ending in an implication panel — and numbered footnotes with a source line. Fourteen native-ready charts (column, stacked column, bar, line, stacked area, waterfall) and nine native-ready tables become real PowerPoint objects in the second export; chevron presets carry the three-year roadmap; five Morph pairs carry the key-message column across the diagnosis pages and the implication panel into the decision page; one hundred entrance animations and speaker notes throughout. Authored by Claude on the Default runtime from the source workbook.",
+      "tags": [
+        "Consulting",
+        "Strategy",
+        "Style Template",
+        "Native Charts",
+        "Native Tables"
+      ],
+      "isNew": true,
+      "folder": "ppt169_ev_market_priorities/svg_final",
+      "generatedAt": "2026-09-05",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_ev_market_priorities/exports/ppt169_ev_market_priorities.pptx",
+      "pptxNative": "examples/ppt169_ev_market_priorities/exports/ppt169_ev_market_priorities_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "电动车增长的下一站"
+        },
+        {
+          "file": "02_summary.svg",
+          "title": "summary",
+          "desc": "增量重心已从欧美转向新兴市场,2026–2028 应分级投入,并以 PHEV 打开低渗透市场"
+        },
+        {
+          "file": "03_global_total.svg",
+          "title": "global total",
+          "desc": "2025 年全球电动车销量 2,100 万辆、渗透率 25%,五年增长七倍——电动车已是主流市场,不是利基"
+        },
+        {
+          "file": "04_regional_split.svg",
+          "title": "regional split",
+          "desc": "2025 年 400 万辆增量中,中国贡献一半,美国转负,中美欧之外的市场增量首次超过欧洲"
+        },
+        {
+          "file": "05_mature_markets.svg",
+          "title": "mature markets",
+          "desc": "美国渗透率连续两年停在 10%、销量首次下滑,日本仍在 3%——成熟市场里只有韩国还在起量"
+        },
+        {
+          "file": "06_europe.svg",
+          "title": "europe",
+          "desc": "欧洲反弹到 28% 靠英国(35%)和德国(30%)拉动,法国两年零增长——进入欧洲要选国家,而不是选大区"
+        },
+        {
+          "file": "07_emerging.svg",
+          "title": "emerging",
+          "desc": "东南亚渗透率两年从 8.4% 升到 18%、泰国达 23%,巴西、墨西哥、印度同步起量——新兴市场已经进入加速段"
+        },
+        {
+          "file": "08_phev.svg",
+          "title": "phev",
+          "desc": "PHEV 已占全球电动车销量的 34%,在中国三年增长 3.4 倍——它是低渗透市场的破冰产品,不是过渡产品"
+        },
+        {
+          "file": "09_scenario.svg",
+          "title": "scenario",
+          "desc": "到 2035 年的 3,400 万辆增量中,中国占 38%、欧洲 29%、印度与东南亚合计 12%,美国仅 5%——增量地图与今天的存量地图不同"
+        },
+        {
+          "file": "10_priorities.svg",
+          "title": "priorities",
+          "desc": "建议按三级优先级分配 2026–2028 增量投入:中国深耕、欧洲选点、东南亚与拉美抢滩,美国转为守势"
+        },
+        {
+          "file": "11_roadmap.svg",
+          "title": "roadmap",
+          "desc": "2026 年 PHEV 试点东南亚与拉美,2027 年按结果放量并补齐英德 BEV,2028 年再决定是否加码美国"
+        },
+        {
+          "file": "12_risks.svg",
+          "title": "risks",
+          "desc": "三项风险各有可监测的触发指标:新兴市场增速回落、欧洲政策反复、PHEV 需求提前见顶——它们不构成不行动的理由"
+        },
+        {
+          "file": "13_decisions.svg",
+          "title": "decisions",
+          "desc": "请管理层本季度决定三件事:批准三级优先级、批准 PHEV 先行节奏、指定东南亚试点负责人"
+        },
+        {
+          "file": "14_appendix.svg",
+          "title": "appendix",
+          "desc": "附录:本报告全部数字来自 IEA Global EV Outlook 2025 数据浏览器,口径为乘用车 BEV + PHEV"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_apple_fy2025_review",
+      "title": "Apple FY2025 经营复盘:收入创新高,增长的一半来自服务",
+      "description": "经营复盘 14 页 — 以从 Apple 四份季度财报整理的 XLSX + CSV 为唯一源(首个表格数据源示例),挂载 operating-review 方法模板,账页式数据复盘风格,9 张原生图表 + 2 张原生表,每个比率在备注里写明公式,Default 路线源文件驱动生成",
+      "icon": "🍎",
+      "color": "#2B6CB0",
+      "style": "corporate",
+      "styleName": "Operating Review",
+      "desc": "A fourteen-page Chinese operating review of Apple's fiscal 2025, built from one workbook and one CSV compiled from the four quarterly condensed consolidated statements (quarterly P&L, geographic segments, annual summary, product categories) — the first example driven by spreadsheet sources. It follows the bundled operating-review Style: a nine-metric scorecard, the revenue bridge that credits services with 51.7% of the increment, quarterly rhythm, the services engine as three panels (eight-quarter columns with year-over-year labels, services-versus-products gross-margin lines, and services' share of the revenue and gross-profit increments), category and region mix, Greater China's three-quarter decline, margin quality, the one-off tax base effect that turns +19.5% net income into +7.72% like-for-like, opex discipline, three open questions, the verdict, and sources with hyperlinks. Ledger-page composition: paper-white field, hairline grid, Consolas figures, state colours only for state. Nine native-ready charts and two native-ready tables become real PowerPoint objects in the second export; four Morph pairs and fifty-seven entrance animations; every ratio is derived in the speaker notes with its formula. Generated on the Default runtime from the source files.",
+      "tags": [
+        "Finance",
+        "Operating Review",
+        "XLSX Source",
+        "Style Template",
+        "Native Charts"
+      ],
+      "isNew": true,
+      "folder": "ppt169_apple_fy2025_review/svg_final",
+      "generatedAt": "2026-09-05",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_apple_fy2025_review/exports/ppt169_apple_fy2025_review.pptx",
+      "pptxNative": "examples/ppt169_apple_fy2025_review/exports/ppt169_apple_fy2025_review_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面 · FY2025:收入创新高,增长的一半来自服务"
+        },
+        {
+          "file": "02_scorecard.svg",
+          "title": "scorecard",
+          "desc": "九项核心指标全部改善问题不在总量而在结构"
+        },
+        {
+          "file": "03_revenue_bridge.svg",
+          "title": "revenue bridge",
+          "desc": "25,126 百万美元增量里,服务贡献 51.7%"
+        },
+        {
+          "file": "04_quarterly_rhythm.svg",
+          "title": "quarterly rhythm",
+          "desc": "四个季度同比全部为正,Q1 峰值节奏保持不变"
+        },
+        {
+          "file": "05_services_engine.svg",
+          "title": "services engine",
+          "desc": "服务是唯一八个季度连续增长的业务"
+        },
+        {
+          "file": "06_category_mix.svg",
+          "title": "category mix",
+          "desc": "iPhone 依赖度降至 50.36%,可穿戴唯一收缩"
+        },
+        {
+          "file": "07_region_mix.svg",
+          "title": "region mix",
+          "desc": "四个地区增长,大中华区是唯一下滑地区"
+        },
+        {
+          "file": "08_greater_china.svg",
+          "title": "greater china",
+          "desc": "大中华区连降三个季度,Q4 是八季最低点"
+        },
+        {
+          "file": "09_margin_quality.svg",
+          "title": "margin quality",
+          "desc": "毛利率升至 46.91%,提升全部来自服务占比"
+        },
+        {
+          "file": "10_one_off_tax.svg",
+          "title": "one off tax",
+          "desc": "净利润 +19.50% 有基数效应,可比口径 +7.72%"
+        },
+        {
+          "file": "11_opex_discipline.svg",
+          "title": "opex discipline",
+          "desc": "研发增速快于收入,销售及管理占比反而下降"
+        },
+        {
+          "file": "12_open_questions.svg",
+          "title": "open questions",
+          "desc": "三个必须回答的问题,每一个都缺一项数据"
+        },
+        {
+          "file": "13_verdict.svg",
+          "title": "verdict",
+          "desc": "总量健康,质量提升,风险集中在两处"
+        },
+        {
+          "file": "14_sources.svg",
+          "title": "sources",
+          "desc": "数据来源与口径"
+        }
+      ]
+    },
     {
       "id": "ppt169_uv_launch",
       "title": "uv:一个二进制,收干净 Python 装包那一摊",

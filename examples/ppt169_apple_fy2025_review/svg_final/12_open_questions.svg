@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="180" x2="1216" y2="180" stroke="#1E293B" stroke-width="2"/>
+
+  <g id="page-header" data-pptx-bounds="64 52 1152 116">
+    <text x="64" y="100" font-size="44" font-weight="bold" fill="#1E293B">三个必须回答的问题,每一个都缺一项数据</text>
+    <text x="64" y="146" font-size="28" fill="#64748B">三条都由本卷数字推出;源数据不含责任人与到期日,因此不写承诺</text>
+  </g>
+
+  <g id="question-china" data-pptx-bounds="64 230 1152 128">
+    <rect x="64" y="230" width="1152" height="128" fill="#F4F6F8"/>
+    <text x="96" y="298" font-size="44" font-weight="bold" font-family="Consolas" fill="#B4342C">01</text>
+    <text x="176" y="272" font-size="28" font-weight="bold" fill="#1E293B">大中华区的下滑是区域需求问题,还是产品组合问题?</text>
+    <text x="176" y="310" font-size="24" fill="#1E293B">证据:连降三季,FY25 Q4 <tspan font-family="Consolas" font-weight="bold">14,493</tspan> 为八季最低;同期日本 <tspan font-family="Consolas">+14.57%</tspan></text>
+    <text x="176" y="342" font-size="18" fill="#64748B">现有口径无法判定;需要地区 × 品类交叉数据</text>
+    <!-- icon: tabler-outline/alert-triangle -->
+  <g transform="translate(1136, 270) scale(1.5)" fill="none" stroke="#B4342C" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+  </g>
+
+  <g id="question-wearables" data-pptx-bounds="64 372 1152 128">
+    <rect x="64" y="372" width="1152" height="128" fill="#F4F6F8"/>
+    <text x="96" y="440" font-size="44" font-weight="bold" font-family="Consolas" fill="#B4342C">02</text>
+    <text x="176" y="414" font-size="28" font-weight="bold" fill="#1E293B">可穿戴的收缩是产品周期,还是趋势性下行?</text>
+    <text x="176" y="452" font-size="24" fill="#1E293B">证据:全年 <tspan font-family="Consolas" font-weight="bold">−3.56%</tspan>,FY25 Q3 <tspan font-family="Consolas">−8.56%</tspan> 最深,Q4 <tspan font-family="Consolas">−0.32%</tspan> 几乎持平</text>
+    <text x="176" y="484" font-size="18" fill="#64748B">现有口径无法判定;需要品类内的单品与出货口径</text>
+    <!-- icon: tabler-outline/alert-triangle -->
+  <g transform="translate(1136, 412) scale(1.5)" fill="none" stroke="#B4342C" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+  </g>
+
+  <g id="question-services-gp" data-pptx-bounds="64 514 1152 128">
+    <rect x="64" y="514" width="1152" height="128" fill="#F4F6F8"/>
+    <text x="96" y="582" font-size="44" font-weight="bold" font-family="Consolas" fill="#8A5A12">03</text>
+    <text x="176" y="556" font-size="28" font-weight="bold" fill="#1E293B">毛利对服务的依赖度,敞口有多大?</text>
+    <text x="176" y="594" font-size="24" fill="#1E293B">证据:毛利增量的 <tspan font-family="Consolas" font-weight="bold">77.6%</tspan> 来自服务,服务毛利已占全部毛利 <tspan font-family="Consolas">42.17%</tspan></text>
+    <text x="176" y="626" font-size="18" fill="#64748B">现有口径无法判定;需要服务收入的构成拆分</text>
+    <!-- icon: tabler-outline/alert-triangle -->
+  <g transform="translate(1136, 554) scale(1.5)" fill="none" stroke="#8A5A12" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 656 1152 38" font-size="16" fill="#64748B">
+    <text x="64" y="684">来源:P06 / P08 / P09 的页面证据;"现有口径无法判定"指两个源文件不含该维度,不是尚未分析</text>
+    <text x="1216" y="684" text-anchor="end">12</text>
+  </g>
+</svg>

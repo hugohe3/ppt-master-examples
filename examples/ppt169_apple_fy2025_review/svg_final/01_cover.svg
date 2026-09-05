@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="cover-headline" data-pptx-bounds="64 110 800 296">
+    <text x="64" y="140" font-size="18" fill="#64748B" letter-spacing="2">APPLE INC. · 财年 2025 经营复盘</text>
+    <text font-weight="bold" fill="#1E293B" font-size="72" x="64" y="252">FY2025:收入创新高</text><text font-weight="bold" fill="#1E293B" font-size="72" x="64" y="342">增长的一半来自服务</text><line x1="64" y1="400" x2="864" y2="400" stroke="#1E293B" stroke-width="3" />
+  </g>
+
+  <g id="metric-net-sales" data-pptx-bounds="64 440 300 160">
+    <text x="64" y="470" font-size="18" fill="#64748B">净销售额合计(百万美元)</text>
+    <text x="64" y="546" font-size="64" font-weight="bold" font-family="Consolas" fill="#1E293B">416,161</text>
+    <text x="64" y="584" font-size="24" fill="#2E7D5B">▲ 同比 <tspan font-family="Consolas" font-weight="bold">+6.43%</tspan></text>
+  </g>
+
+  <g id="metric-increment" data-pptx-bounds="404 440 300 160">
+    <text x="404" y="470" font-size="18" fill="#64748B">收入增量(百万美元)</text>
+    <text x="404" y="546" font-size="64" font-weight="bold" font-family="Consolas" fill="#1E293B">25,126</text>
+    <text x="404" y="584" font-size="24" fill="#64748B">FY2024 为 <tspan font-family="Consolas">391,035</tspan></text>
+  </g>
+
+  <g id="metric-services-share" data-pptx-bounds="744 440 320 160">
+    <text x="744" y="470" font-size="18" fill="#64748B">服务在增量中的贡献</text>
+    <text x="744" y="546" font-size="64" font-weight="bold" font-family="Consolas" fill="#2B6CB0">51.7%</text>
+    <text x="744" y="584" font-size="24" fill="#1E293B">高于全部产品之和</text>
+  </g>
+
+  <g id="cover-meta" data-pptx-bounds="1020 104 196 112">
+    
+  <g transform="translate(1168, 110) scale(2)" fill="#1E293B">
+    <path d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701" />
+  </g>
+    <text x="1216" y="196" font-size="18" fill="#64748B" text-anchor="end">财年截止 2025-09-27</text>
+  </g>
+
+  <g id="cover-source" data-pptx-bounds="64 640 1152 54">
+    <line x1="64" y1="648" x2="1216" y2="648" stroke="#D8DEE6" stroke-width="1" />
+    <text x="64" y="684" font-size="16" fill="#64748B">数据来源:Apple Inc. 各季度 Condensed Consolidated Financial Statements(Unaudited),Apple Newsroom 公开 PDF</text>
+  </g>
+</svg>

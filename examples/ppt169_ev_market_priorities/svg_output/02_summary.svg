@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">执行摘要</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75"/>
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text x="48" y="70" font-size="24" font-weight="bold" fill="#051C2C">增量重心已从欧美转向新兴市场,2026–2028 应分级投入,<tspan x="48" dy="30">并以 PHEV 打开低渗透市场</tspan></text>
+</g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">执行摘要:三个事实判断、一个产品推论、四个基础数字、三项决策请求</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1"/>
+<g id="finding-1" data-pptx-bounds="48 162 820 82">
+  <circle cx="56" cy="181" r="8" fill="#051C2C"/><text x="56" y="184.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text><text x="72" y="186" font-size="15" font-weight="bold" fill="#051C2C">成熟市场见顶:美国销量首次下滑、渗透率两年停在 10%,日本仍在 3%</text>
+  <text x="72" y="210" fill="#333333">美国 2025 年销量 160 万→150 万辆(−6%),是 2015 年以来首次下滑;渗透率 2024、2025 两年都是 10%;<tspan x="72" dy="20">日本销量 10 万辆持平、渗透率 3%。成熟市场里只有韩国起量:13 万→22 万辆(+69%),渗透率 11%。(第 5 页)</tspan></text>
+</g>
+<g id="finding-2" data-pptx-bounds="48 266 820 82">
+  <circle cx="56" cy="285" r="8" fill="#051C2C"/><text x="56" y="288.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text><text x="72" y="290" font-size="15" font-weight="bold" fill="#051C2C">欧洲反弹到 28% 靠英国和德国,法国两年零增长——进入欧洲要按国家排序</text>
+  <text x="72" y="314" fill="#333333">英国渗透率两年 +12 个百分点到 35%、销量 46 万→70 万辆;德国 2024 年曾回落到 20%,2025 年反弹到 30%;<tspan x="72" dy="20">法国持平在 26%、销量 47 万→45 万辆。欧洲 100 万辆增量集中在英德两国。(第 6 页)</tspan></text>
+</g>
+<g id="finding-3" data-pptx-bounds="48 370 820 82">
+  <circle cx="56" cy="389" r="8" fill="#051C2C"/><text x="56" y="392.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text><text x="72" y="394" font-size="15" font-weight="bold" fill="#051C2C">新兴市场进入加速段:东南亚渗透率 8.4%→18%,中美欧之外的市场增量首次超过欧洲</text>
+  <text x="72" y="418" fill="#333333">2025 年全球 400 万辆增量:中国 +200 万、欧洲 +100 万、美国 −10 万、其他市场 +110 万;<tspan x="72" dy="20">东南亚销量 16 万→54 万辆(3.4 倍),泰国渗透率 23%;东南亚、印度、巴西、墨西哥合计 31 万→98 万辆。(第 4、7 页)</tspan></text>
+</g>
+<g id="inference" data-pptx-bounds="48 470 820 68">
+  <rect x="48" y="470" width="820" height="66" fill="#F7F7F7"/><rect x="48" y="470" width="4" height="66" fill="#2251FF"/>
+  <text x="64" y="492" font-size="12" font-weight="bold" fill="#051C2C">产品推论</text>
+  <text x="64" y="512" fill="#333333">PHEV 占全球电动车销量 34%、占中国 38%,中国 PHEV 三年增长 3.4 倍而 BEV 只有 1.8 倍<tspan x="64" dy="18">——PHEV 是低渗透市场的破冰产品,不是过渡产品。(第 8 页)</tspan></text>
+</g>
+<g id="data-basis" data-pptx-bounds="48 548 820 84">
+  <text x="48" y="564" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">四个基础数字</text>
+  <line x1="48" y1="572" x2="868" y2="572" stroke="#051C2C" stroke-width="0.75"/>
+  <text x="48" y="606" font-family="Arial" font-size="26" font-weight="bold" fill="#051C2C">2,100<tspan font-family="Microsoft YaHei" font-size="12" font-weight="normal" fill="#7F7F7F"> 万辆</tspan></text><text x="48" y="626" font-size="11" fill="#7F7F7F">2025 年全球电动车销量,五年 7.0 倍(第 3 页)</text>
+  <text x="258" y="606" font-family="Arial" font-size="26" font-weight="bold" fill="#051C2C">25%</text><text x="258" y="626" font-size="11" fill="#7F7F7F">2025 年全球渗透率,2020 年为 4.4%(第 3 页)</text>
+  <text x="468" y="606" font-family="Arial" font-size="26" font-weight="bold" fill="#2251FF">+400<tspan font-family="Microsoft YaHei" font-size="12" font-weight="normal" fill="#7F7F7F"> 万辆</tspan></text><text x="468" y="626" font-size="11" fill="#7F7F7F">2025 年增量,其中美国 −10 万(第 4 页)</text>
+  <text x="678" y="606" font-family="Arial" font-size="26" font-weight="bold" fill="#051C2C">3,400<tspan font-family="Microsoft YaHei" font-size="12" font-weight="normal" fill="#7F7F7F"> 万辆</tspan></text><text x="678" y="626" font-size="11" fill="#7F7F7F">2025→2035 增量(第 9 页)</text>
+</g>
+<g id="decision-ask" data-pptx-bounds="900 160 332 472">
+  <rect x="900" y="160" width="332" height="472" fill="#051C2C"/>
+  <text x="920" y="190" font-size="11" fill="#8FB8FF" letter-spacing="2" font-weight="bold">本次请管理层决定</text>
+  <line x1="920" y1="200" x2="1212" y2="200" stroke="#8FB8FF" stroke-width="0.75"/>
+  <circle cx="928" cy="231" r="8" fill="#8FB8FF"/><text x="928" y="234.5" font-family="Arial" font-size="10" font-weight="bold" fill="#051C2C" text-anchor="middle">1</text><text x="944" y="236" font-size="14" font-weight="bold" fill="#FFFFFF">批准三级市场优先级</text>
+  <text x="944" y="260" font-size="12" fill="#8FB8FF">中国深耕、东南亚与英德重点,巴西、墨西哥、<tspan x="944" dy="18">印度、韩国以 PHEV 试点择机,美国、日本、</tspan><tspan x="944" dy="18">法国守势(第 10 页)</tspan></text>
+  <circle cx="928" cy="347" r="8" fill="#8FB8FF"/><text x="928" y="350.5" font-family="Arial" font-size="10" font-weight="bold" fill="#051C2C" text-anchor="middle">2</text><text x="944" y="352" font-size="14" font-weight="bold" fill="#FFFFFF">批准 PHEV 先行的产品节奏</text>
+  <text x="944" y="376" font-size="12" fill="#8FB8FF">2026 试点、2027 放量并补齐英德 BEV、<tspan x="944" dy="18">2028 复盘美国后再决定加码(第 11 页)</tspan></text>
+  <circle cx="928" cy="445" r="8" fill="#8FB8FF"/><text x="928" y="448.5" font-family="Arial" font-size="10" font-weight="bold" fill="#051C2C" text-anchor="middle">3</text><text x="944" y="450" font-size="14" font-weight="bold" fill="#FFFFFF">指定东南亚试点负责人</text>
+  <text x="944" y="474" font-size="12" fill="#8FB8FF">90 天内成立试点小组、确定泰国首发;<tspan x="944" dy="18">2026 年 12 月以 IEA 同口径数据复盘</tspan><tspan x="944" dy="18">三项风险触发指标(第 12–13 页)</tspan></text>
+  <line x1="920" y1="556" x2="1212" y2="556" stroke="#8FB8FF" stroke-width="0.75" stroke-opacity="0.5"/>
+  <text x="920" y="580" font-size="12" fill="#FFFFFF">不决定的后果:预算继续按存量地图分配,<tspan x="920" dy="18">错过东南亚 2026–28 窗口期(第 13 页)</tspan></text>
+  <text x="920" y="620" font-size="11" fill="#8FB8FF">证据链:第 3–9 页;方法与口径:第 14 页</text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. 电动车 = 纯电(BEV)+ 插电混动(PHEV),乘用车口径;渗透率 = 电动车占新车销量的比例</text>
+  <text x="48" y="676" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="676" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">2</text>
+</g>
+</svg>

@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">前瞻</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75"/>
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text x="48" y="70" font-size="24" font-weight="bold" fill="#051C2C">到 2035 年的 3,400 万辆增量中,中国占 38%、欧洲 29%、印度与东南亚合计 12%,<tspan x="48" dy="30">美国仅 5%——增量地图与今天的存量地图不同</tspan></text>
+</g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">2025→2035 电动车年销量增量分解,百万辆;IEA 既定政策情景(STEPS),仅供参照</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1"/>
+<g id="exhibit-a-head" data-pptx-bounds="48 160 840 40"><circle cx="56" cy="171" r="8" fill="#051C2C"/><text x="56" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A</text><text x="70" y="176" font-size="13" font-weight="bold" fill="#051C2C">2025→2035 年销量增量按地区分解</text><text x="48" y="192" font-size="11" fill="#7F7F7F">百万辆;柱顶为各项增量</text></g>
+<g id="steps-waterfall" data-pptx-replace-with="chart" data-pptx-bounds="48 204 840 200" data-pptx-fallback-sha256="199b9481bee2abac9e0ea5cd722d1c1fc437a7283e29df220c8f008a28c93e27">
+  <metadata type="application/json">{"type": "waterfall", "categories": ["2025 年销量", "中国", "欧洲", "东南亚", "印度", "美国", "韩国", "日本", "其他", "2035 年情景"], "values": [21, 13, 9.8, 2.16, 1.93, 1.6, 0.66, 0.6, 4.25, 55], "subtotal_indices": [0, 9], "notes": [{"text": "21.0", "x": 67.2, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "+13.0", "x": 149.60000000000002, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "+9.8", "x": 232.0, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "+2.2", "x": 314.40000000000003, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "+1.9", "x": 396.8, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "+1.6", "x": 479.20000000000005, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "+0.7", "x": 561.6, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "+0.6", "x": 644.0, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "+4.3", "x": 726.4000000000001, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "55.0", "x": 808.8000000000001, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}], "style": {"colors": ["#051C2C", "#8FB8FF", "#B3261E"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#051C2C", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "x": 48, "y": 204, "width": 840, "height": 200, "name": "steps-waterfall"}</metadata>
+  <g id="steps-waterfall-chartArea">
+    <line id="steps-waterfall-axis" x1="56" y1="368" x2="880" y2="368" stroke="#B7B7B7" stroke-width="0.75"/>
+    <!-- chart-plot-area: object=steps-waterfall | 56,226,880,368 -->
+    <rect x="73.20" y="317.80" width="48.00" height="50.20" fill="#051C2C"/>
+    <text x="97.20" y="312.80" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">21.0</text>
+    <text x="97.20" y="383" font-size="11" fill="#051C2C" text-anchor="middle">2025 年销量</text>
+    <rect x="155.60" y="286.72" width="48.00" height="31.08" fill="#8FB8FF"/>
+    <text x="179.60" y="281.72" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">+13.0</text>
+    <text x="179.60" y="383" font-size="11" fill="#051C2C" text-anchor="middle">中国</text>
+    <rect x="238.00" y="263.29" width="48.00" height="23.43" fill="#8FB8FF"/>
+    <text x="262.00" y="258.29" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">+9.8</text>
+    <text x="262.00" y="383" font-size="11" fill="#051C2C" text-anchor="middle">欧洲</text>
+    <rect x="320.40" y="258.13" width="48.00" height="5.16" fill="#2251FF"/>
+    <text x="344.40" y="253.13" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">+2.2</text>
+    <text x="344.40" y="383" font-size="11" fill="#051C2C" text-anchor="middle">东南亚</text>
+    <rect x="402.80" y="253.52" width="48.00" height="4.61" fill="#2251FF"/>
+    <text x="426.80" y="248.52" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">+1.9</text>
+    <text x="426.80" y="383" font-size="11" fill="#051C2C" text-anchor="middle">印度</text>
+    <rect x="485.20" y="249.69" width="48.00" height="3.82" fill="#8FB8FF"/>
+    <text x="509.20" y="244.69" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">+1.6</text>
+    <text x="509.20" y="383" font-size="11" fill="#051C2C" text-anchor="middle">美国</text>
+    <rect x="567.60" y="248.11" width="48.00" height="1.58" fill="#8FB8FF"/>
+    <text x="591.60" y="243.11" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">+0.7</text>
+    <text x="591.60" y="383" font-size="11" fill="#051C2C" text-anchor="middle">韩国</text>
+    <rect x="650.00" y="246.68" width="48.00" height="1.43" fill="#8FB8FF"/>
+    <text x="674.00" y="241.68" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">+0.6</text>
+    <text x="674.00" y="383" font-size="11" fill="#051C2C" text-anchor="middle">日本</text>
+    <rect x="732.40" y="236.52" width="48.00" height="10.16" fill="#8FB8FF"/>
+    <text x="756.40" y="231.52" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">+4.3</text>
+    <text x="756.40" y="383" font-size="11" fill="#051C2C" text-anchor="middle">其他</text>
+    <rect x="814.80" y="236.52" width="48.00" height="131.48" fill="#051C2C"/>
+    <text x="838.80" y="231.52" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">55.0</text>
+    <text x="838.80" y="383" font-size="11" fill="#051C2C" text-anchor="middle">2035 年情景</text>
+    <line x1="121.20" y1="317.80" x2="155.60" y2="317.80" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+    <line x1="203.60" y1="286.72" x2="238.00" y2="286.72" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+    <line x1="286.00" y1="263.29" x2="320.40" y2="263.29" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+    <line x1="368.40" y1="258.13" x2="402.80" y2="258.13" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+    <line x1="450.80" y1="253.52" x2="485.20" y2="253.52" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+    <line x1="533.20" y1="249.69" x2="567.60" y2="249.69" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+    <line x1="615.60" y1="248.11" x2="650.00" y2="248.11" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+    <line x1="698.00" y1="246.68" x2="732.40" y2="246.68" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+    <line x1="780.40" y1="236.52" x2="814.80" y2="236.52" stroke="#B7B7B7" stroke-width="0.75" stroke-dasharray="3,3"/>
+  </g>
+</g>
+<g id="increment-share" data-pptx-bounds="48 412 840 50">
+  <text x="48" y="426" font-size="12" font-weight="bold" fill="#051C2C">占总增量比例</text>
+  <line x1="48" y1="434" x2="888" y2="434" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="140" y="452" font-family="Arial" font-size="12" fill="#7F7F7F" text-anchor="middle">—</text>
+  <text x="222" y="452" font-family="Arial" font-size="12" font-weight="bold" fill="#051C2C" text-anchor="middle">38%</text>
+  <text x="304" y="452" font-family="Arial" font-size="12" font-weight="bold" fill="#051C2C" text-anchor="middle">29%</text>
+  <text x="386" y="452" font-family="Arial" font-size="12" font-weight="bold" fill="#2251FF" text-anchor="middle">6%</text>
+  <text x="468" y="452" font-family="Arial" font-size="12" font-weight="bold" fill="#2251FF" text-anchor="middle">6%</text>
+  <text x="550" y="452" font-family="Arial" font-size="12" font-weight="bold" fill="#B3261E" text-anchor="middle">5%</text>
+  <text x="632" y="452" font-family="Arial" font-size="12" fill="#051C2C" text-anchor="middle">2%</text>
+  <text x="714" y="452" font-family="Arial" font-size="12" fill="#051C2C" text-anchor="middle">2%</text>
+  <text x="796" y="452" font-family="Arial" font-size="12" fill="#051C2C" text-anchor="middle">12%</text>
+  <text x="878" y="452" font-family="Arial" font-size="12" fill="#7F7F7F" text-anchor="middle">—</text>
+</g>
+<g id="exhibit-b-head" data-pptx-bounds="48 470 840 40"><circle cx="56" cy="481" r="8" fill="#051C2C"/><text x="56" y="484.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">B</text><text x="70" y="486" font-size="13" font-weight="bold" fill="#051C2C">增量前五地区:2025 与 2035 情景对照</text><text x="48" y="502" font-size="11" fill="#7F7F7F">销量:万辆;渗透率:%;占比 = 该地区增量 ÷ 总增量 3,400 万</text></g>
+<g id="steps-top5" data-pptx-replace-with="table" data-pptx-bounds="48 512 840 114" data-pptx-fallback-sha256="118836d7bc478292aff72d7c7a830c04f3393c694e7d68994af696e9b993729a">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "steps-top5", "x": 48, "y": 512, "width": 840, "height": 114, "header_rows": 1, "column_widths": [120, 130, 130, 150, 150, 160], "row_heights": [24, 18, 18, 18, 18, 18], "style": {"font_family": "Microsoft YaHei", "font_size": 11, "header_font_size": 11, "band_row": false, "header_text": "#051C2C", "body_text": "#333333", "border_color": "#E3E3E3", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 1, "bottom": 1}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E3E3E3", "width": 0.75}, "bottom": {"style": "solid", "color": "#E3E3E3", "width": 0.75}}}}, "columns": [{"text": "地区", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2025 销量", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2035 情景", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2025 渗透率", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2035 渗透率", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "占总增量", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}], "rows": [[{"bold": true, "text": "中国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1,300", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "2,600", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "53%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "94%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "38%", "font_family": "Arial", "font_size": 11}]}]}], [{"bold": true, "text": "欧洲"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "420", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1,400", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "28%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "85%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "29%", "font_family": "Arial", "font_size": 11}]}]}], [{"bold": true, "text": "东南亚"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "54", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "270", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "18%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "58%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "color": "#2251FF", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "6%", "font_family": "Arial", "font_size": 11, "color": "#2251FF", "bold": true}]}]}], [{"bold": true, "text": "印度"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "17", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "210", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "24%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "color": "#2251FF", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "6%", "font_family": "Arial", "font_size": 11, "color": "#2251FF", "bold": true}]}]}], [{"bold": true, "text": "美国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "150", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "310", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "10%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "20%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "color": "#B3261E", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "5%", "font_family": "Arial", "font_size": 11, "color": "#B3261E", "bold": true}]}]}]]}</metadata>
+  <line x1="48" y1="536" x2="888" y2="536" stroke="#051C2C" stroke-width="1"/>
+  <text x="56" y="527" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">地区</text>
+  <text x="290" y="527" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2025 销量</text>
+  <text x="420" y="527" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2035 情景</text>
+  <text x="570" y="527" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2025 渗透率</text>
+  <text x="720" y="527" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2035 渗透率</text>
+  <text x="880" y="527" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">占总增量</text>
+  <line x1="48" y1="554" x2="888" y2="554" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="548.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">中国</text>
+  <text x="290" y="548.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">1,300</text>
+  <text x="420" y="548.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">2,600</text>
+  <text x="570" y="548.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">53%</text>
+  <text x="720" y="548.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">94%</text>
+  <text x="880" y="548.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">38%</text>
+  <line x1="48" y1="572" x2="888" y2="572" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="566.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">欧洲</text>
+  <text x="290" y="566.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">420</text>
+  <text x="420" y="566.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">1,400</text>
+  <text x="570" y="566.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">28%</text>
+  <text x="720" y="566.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">85%</text>
+  <text x="880" y="566.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">29%</text>
+  <line x1="48" y1="590" x2="888" y2="590" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="584.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">东南亚</text>
+  <text x="290" y="584.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">54</text>
+  <text x="420" y="584.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">270</text>
+  <text x="570" y="584.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">18%</text>
+  <text x="720" y="584.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">58%</text>
+  <text x="880" y="584.9" font-size="11" fill="#2251FF" text-anchor="end" font-family="Arial" font-weight="bold">6%</text>
+  <line x1="48" y1="608" x2="888" y2="608" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="602.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">印度</text>
+  <text x="290" y="602.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">17</text>
+  <text x="420" y="602.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">210</text>
+  <text x="570" y="602.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">4%</text>
+  <text x="720" y="602.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">24%</text>
+  <text x="880" y="602.9" font-size="11" fill="#2251FF" text-anchor="end" font-family="Arial" font-weight="bold">6%</text>
+  <line x1="48" y1="626" x2="888" y2="626" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="620.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">美国</text>
+  <text x="290" y="620.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">150</text>
+  <text x="420" y="620.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">310</text>
+  <text x="570" y="620.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">10%</text>
+  <text x="720" y="620.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">20%</text>
+  <text x="880" y="620.9" font-size="11" fill="#B3261E" text-anchor="end" font-family="Arial" font-weight="bold">5%</text>
+</g>
+<g id="insights" data-pptx-bounds="916 160 316 472">
+  <text x="916" y="176" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">关键信息</text>
+  <line x1="916" y1="184" x2="1232" y2="184" stroke="#051C2C" stroke-width="1"/>
+  <circle cx="924" cy="205" r="8" fill="#051C2C"/><text x="924" y="208.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="940" y="210" fill="#333333">总增量 3,400 万辆:2025 年 2,100 万<tspan x="940" dy="20">→ 2035 年 5,500 万,十年再增 1.6 倍,</tspan><tspan x="940" dy="20">增速低于过去五年但绝对量更大。</tspan></text>
+  <circle cx="924" cy="281" r="8" fill="#051C2C"/><text x="924" y="284.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="940" y="286" fill="#333333">中国 +1,300 万(38%)、欧洲 +980 万<tspan x="940" dy="20">(29%):两者合计三分之二,仍是</tspan><tspan x="940" dy="20">2035 年前最大的增量池。</tspan></text>
+  <circle cx="924" cy="357" r="8" fill="#051C2C"/><text x="924" y="360.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="940" y="362" fill="#333333">印度 +193 万、东南亚 +216 万,合计<tspan x="940" dy="20">12%,超过美国的 5%(+160 万):</tspan><tspan x="940" dy="20">美国在情景里也只是守势市场。</tspan></text>
+  <circle cx="924" cy="433" r="8" fill="#051C2C"/><text x="924" y="436.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="940" y="438" fill="#333333">其他 +425 万(12%)是拉美、中东等<tspan x="940" dy="20">IEA 未单列的市场,与第 7 页的</tspan><tspan x="940" dy="20">巴西、墨西哥趋势一致。</tspan></text>
+  <rect x="916" y="516" width="316" height="116" fill="#F7F7F7"/><rect x="916" y="516" width="4" height="116" fill="#2251FF"/>
+  <text x="932" y="538" font-size="12" font-weight="bold" fill="#051C2C">对决策的含义</text>
+  <text x="932" y="560" fill="#333333">2035 年前中国与欧洲仍是主池;印度加<tspan x="932" dy="20">东南亚 12% 的增量要在 2026–28 建立</tspan><tspan x="932" dy="20">位置,否则后期进不去(第 10 页)。</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. STEPS = IEA Stated Policies Scenario,2035 年值来自 IEA 数据浏览器;各项增量 = 2035 情景销量 − 2025 销量</text>
+  <text x="48" y="674" font-size="10" fill="#7F7F7F">2. 「其他」= 总增量 3,400 万 − 上列各项之和 = 425 万,为本报告计算值;占比 = 各项 ÷ 3,400 万</text>
+  <text x="48" y="690" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="690" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">9</text>
+</g>
+</svg>

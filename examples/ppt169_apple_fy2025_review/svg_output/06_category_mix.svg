@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="180" x2="1216" y2="180" stroke="#1E293B" stroke-width="2"/>
+
+  <g id="page-header" data-pptx-bounds="64 52 1152 116">
+    <text x="64" y="100" font-size="44" font-weight="bold" fill="#1E293B">iPhone 依赖度降至 50.36%,可穿戴唯一收缩</text>
+    <text x="64" y="146" font-size="28" fill="#64748B">iPhone 仍是半壁江山,但依赖度较 FY24 下降 1.09 个百分点</text>
+  </g>
+
+  <g id="category-compare" data-pptx-replace-with="chart" data-pptx-bounds="64 208 800 372" data-pptx-fallback-sha256="4c720b2a3ed3724490862b821fe54e316497c1e4a6976fcf6d02172005907f65">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.native-chart.v1",
+  "name": "category-compare",
+  "type": "bar",
+  "grouping": "clustered",
+  "x": 64, "y": 208, "width": 800, "height": 372,
+  "plot_area": {"x": 280, "y": 260, "width": 510, "height": 320},
+  "gap_width": 73,
+  "overlap": -18,
+  "categories": ["iPhone", "服务", "可穿戴、家居及配件", "Mac", "iPad"],
+  "series": [
+    {
+      "name": "FY2025",
+      "values": [209586, 109158, 35686, 33708, 28023],
+      "point_colors": ["#2B6CB0", "#2B6CB0", "#B4342C", "#2B6CB0", "#2B6CB0"]
+    },
+    {"name": "FY2024", "values": [201183, 96169, 37005, 29984, 26694]}
+  ],
+  "data_labels": {
+    "show_value": true,
+    "position": "outside_end",
+    "number_format": "#,##0",
+    "font_size": 18,
+    "font_family": "Consolas",
+    "color": "#1E293B"
+  },
+  "show_legend": true,
+  "legend_position": "top",
+  "axes": {
+    "category": {"kind": "text", "position": "left", "tick_marks": "none", "color": "#64748B", "font_size": 18, "font_family": "Microsoft YaHei"},
+    "value": {"kind": "value", "position": "bottom", "visible": false, "major_gridlines": false}
+  },
+  "style": {
+    "colors": ["#2B6CB0", "#7BA7D4"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 18,
+    "axis_color": "#1E293B",
+    "text_color": "#1E293B",
+    "legend_font_size": 18
+  }
+}
+    </metadata>
+    <g id="category-compare-chartArea">
+      <line id="category-compare-axis" x1="280" y1="260" x2="280" y2="580" stroke="#1E293B" stroke-width="2"/>
+      <!-- chart-plot-area: object=category-compare | 280,260,790,580 -->
+      <rect x="280" y="268" width="485.8" height="22" fill="#2B6CB0"/>
+      <rect x="280" y="294" width="466.4" height="22" fill="#7BA7D4"/>
+      <rect x="280" y="332" width="253.0" height="22" fill="#2B6CB0"/>
+      <rect x="280" y="358" width="222.9" height="22" fill="#7BA7D4"/>
+      <rect x="280" y="396" width="82.7" height="22" fill="#B4342C"/>
+      <rect x="280" y="422" width="85.8" height="22" fill="#7BA7D4"/>
+      <rect x="280" y="460" width="78.1" height="22" fill="#2B6CB0"/>
+      <rect x="280" y="486" width="69.5" height="22" fill="#7BA7D4"/>
+      <rect x="280" y="524" width="65.0" height="22" fill="#2B6CB0"/>
+      <rect x="280" y="550" width="61.9" height="22" fill="#7BA7D4"/>
+    </g>
+    <rect x="280" y="216" width="14" height="14" fill="#2B6CB0"/>
+    <text x="302" y="228" font-size="18" fill="#1E293B">FY2025</text>
+    <rect x="380" y="216" width="14" height="14" fill="#7BA7D4"/>
+    <text x="402" y="228" font-size="18" fill="#1E293B">FY2024</text>
+    <text x="773.8" y="285.3" font-size="18" font-family="Consolas" fill="#1E293B">209,586</text>
+    <text x="754.4" y="311.3" font-size="18" font-family="Consolas" fill="#1E293B">201,183</text>
+    <text x="541.0" y="349.3" font-size="18" font-family="Consolas" fill="#1E293B">109,158</text>
+    <text x="510.9" y="375.3" font-size="18" font-family="Consolas" fill="#1E293B">96,169</text>
+    <text x="370.7" y="413.3" font-size="18" font-family="Consolas" fill="#1E293B">35,686</text>
+    <text x="373.8" y="439.3" font-size="18" font-family="Consolas" fill="#1E293B">37,005</text>
+    <text x="366.1" y="477.3" font-size="18" font-family="Consolas" fill="#1E293B">33,708</text>
+    <text x="357.5" y="503.3" font-size="18" font-family="Consolas" fill="#1E293B">29,984</text>
+    <text x="353.0" y="541.3" font-size="18" font-family="Consolas" fill="#1E293B">28,023</text>
+    <text x="349.9" y="567.3" font-size="18" font-family="Consolas" fill="#1E293B">26,694</text>
+    <text x="270" y="298" font-size="18" fill="#64748B" text-anchor="end">iPhone</text>
+    <text x="270" y="362" font-size="18" fill="#64748B" text-anchor="end">服务</text>
+    <text x="270" y="426" font-size="18" fill="#64748B" text-anchor="end">可穿戴、家居及配件</text>
+    <text x="270" y="490" font-size="18" fill="#64748B" text-anchor="end">Mac</text>
+    <text x="270" y="554" font-size="18" fill="#64748B" text-anchor="end">iPad</text>
+  </g>
+
+  <g id="category-shrinking" data-pptx-bounds="888 232 328 200">
+    <text x="888" y="250" font-size="18" fill="#64748B">唯一收缩的品类</text>
+    <text x="888" y="316" font-size="64" font-weight="bold" font-family="Consolas" fill="#B4342C">−3.56%</text>
+    <text x="888" y="356" font-size="24" fill="#1E293B">▼ 可穿戴、家居及配件</text>
+    <text x="888" y="392" font-size="18" fill="#64748B">FY25 逐季同比</text>
+    <text x="888" y="418" font-size="18" font-family="Consolas" fill="#B4342C">−1.7% −4.9% −8.6% −0.3%</text>
+  </g>
+
+  <g id="category-iphone" data-pptx-bounds="888 448 328 190">
+    <line x1="888" y1="456" x2="1216" y2="456" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="888" y="488" font-size="18" fill="#64748B">iPhone 依赖度</text>
+    <text x="888" y="554" font-size="64" font-weight="bold" font-family="Consolas" fill="#1E293B">50.36%</text>
+    <text x="888" y="594" font-size="24" fill="#1E293B">FY24 为 <tspan font-family="Consolas">51.45%</tspan></text>
+    <text x="888" y="626" font-size="18" fill="#64748B">较上年下降 1.09 个百分点</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 50">
+    <line x1="64" y1="652" x2="1216" y2="652" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="684" font-size="16" fill="#64748B">来源:apple_fy2025_product_categories.csv 与「年度汇总」sheet;按 FY2025 规模降序排列</text>
+    <text x="1216" y="684" font-size="16" fill="#64748B" text-anchor="end">06</text>
+  </g>
+</svg>

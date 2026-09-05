@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">决策</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75"/>
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text x="48" y="70" font-size="24" font-weight="bold" fill="#051C2C">请管理层本季度决定三件事:批准三级优先级、批准 PHEV 先行节奏、<tspan x="48" dy="30">指定东南亚试点负责人</tspan></text>
+</g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">决策请求、决定后 90 天内的动作、负责角色,以及不决定的后果</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1"/>
+<g id="decision-header" data-pptx-role="chrome" data-pptx-bounds="48 160 1184 24">
+  <text x="88" y="176" font-size="11" fill="#7F7F7F" letter-spacing="1">需要决定的事项</text><text x="440" y="176" font-size="11" fill="#7F7F7F" letter-spacing="1">决定后 90 天内的动作</text><text x="760" y="176" font-size="11" fill="#7F7F7F" letter-spacing="1">负责</text><text x="900" y="176" font-size="11" fill="#7F7F7F" letter-spacing="1">不决定的后果</text>
+  <line x1="48" y1="184" x2="1232" y2="184" stroke="#051C2C" stroke-width="1"/>
+</g>
+<g id="decision-1" data-pptx-bounds="48 184 1184 120">
+  <text x="48" y="228" font-family="Arial" font-size="40" font-weight="bold" fill="#2251FF">1</text>
+  <text x="88" y="214" font-size="15" font-weight="bold" fill="#051C2C">批准三级市场优先级</text>
+  <text x="88" y="236" font-size="12" fill="#7F7F7F">一级中国/东南亚/英德,二级巴西/墨西哥/印度/韩国,<tspan x="88" dy="17">三级美国/日本/法国(第 10 页)</tspan></text>
+  <text x="440" y="214" fill="#333333">海外业务部按层级重排 2026 年<tspan x="440" dy="20">预算与人员配置</tspan></text>
+  <text x="760" y="214" fill="#333333">海外业务负责人</text>
+  <text x="900" y="214" fill="#B3261E">预算继续按存量地图分配,一半以上<tspan x="900" dy="20">投向增速放缓的市场,错过东南亚窗口</tspan></text>
+  <line x1="48" y1="286" x2="1232" y2="286" stroke="#E3E3E3" stroke-width="0.75"/>
+</g>
+<g id="decision-2" data-pptx-bounds="48 304 1184 120">
+  <text x="48" y="348" font-family="Arial" font-size="40" font-weight="bold" fill="#2251FF">2</text>
+  <text x="88" y="334" font-size="15" font-weight="bold" fill="#051C2C">批准 PHEV 先行的产品节奏</text>
+  <text x="88" y="356" font-size="12" fill="#7F7F7F">低渗透市场 PHEV 先行、BEV 跟进,<tspan x="88" dy="17">英德补齐 BEV(第 8、11 页)</tspan></text>
+  <text x="440" y="334" fill="#333333">产品部提交东南亚 PHEV 首发<tspan x="440" dy="20">车型清单与上市时间表</tspan></text>
+  <text x="760" y="334" fill="#333333">产品负责人</text>
+  <text x="900" y="334" fill="#B3261E">产品线继续 BEV 优先,渗透率低于 10%<tspan x="900" dy="20">的市场进不去,拉美与印度试点无产品</tspan></text>
+  <line x1="48" y1="406" x2="1232" y2="406" stroke="#E3E3E3" stroke-width="0.75"/>
+</g>
+<g id="decision-3" data-pptx-bounds="48 424 1184 120">
+  <text x="48" y="468" font-family="Arial" font-size="40" font-weight="bold" fill="#2251FF">3</text>
+  <text x="88" y="454" font-size="15" font-weight="bold" fill="#051C2C">指定东南亚试点负责人</text>
+  <text x="88" y="476" font-size="12" fill="#7F7F7F">成立试点小组,泰国首发,<tspan x="88" dy="17">2026 年 12 月首次复盘(第 11、12 页)</tspan></text>
+  <text x="440" y="454" fill="#333333">成立试点小组,确定泰国首发<tspan x="440" dy="20">与试点规模上限</tspan></text>
+  <text x="760" y="454" fill="#333333">管理层指定</text>
+  <text x="900" y="454" fill="#B3261E">试点无人负责,2027 年没有渗透率<tspan x="900" dy="20">数据可复盘,放量决定只能凭判断</tspan></text>
+  <line x1="48" y1="526" x2="1232" y2="526" stroke="#E3E3E3" stroke-width="0.75"/>
+</g>
+<g id="milestones" data-pptx-bounds="48 552 1184 66">
+  <text x="48" y="566" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">决定后 90 天里程碑</text>
+  <line x1="48" y1="574" x2="1232" y2="574" stroke="#051C2C" stroke-width="0.75"/>
+  <text x="48" y="600" font-family="Arial" font-size="22" font-weight="bold" fill="#2251FF">D+30<tspan font-family="Microsoft YaHei" font-size="12" font-weight="normal" fill="#333333"> 试点小组成立,泰国首发确定;三级优先级下发各区域</tspan></text>
+  <text x="448" y="600" font-family="Arial" font-size="22" font-weight="bold" fill="#2251FF">D+60<tspan font-family="Microsoft YaHei" font-size="12" font-weight="normal" fill="#333333"> 东南亚 PHEV 首发车型清单;2026 年预算按层级重排</tspan></text>
+  <text x="848" y="600" font-family="Arial" font-size="22" font-weight="bold" fill="#2251FF">D+90<tspan font-family="Microsoft YaHei" font-size="12" font-weight="normal" fill="#333333"> 泰国上市时间表;三项触发指标基线冻结</tspan></text>
+</g>
+<g id="review-point" data-pptx-bounds="48 622 1184 26">
+  <rect x="48" y="622" width="1184" height="24" fill="#F7F7F7"/><rect x="48" y="622" width="4" height="24" fill="#051C2C"/>
+  <text x="64" y="639" font-size="12" fill="#333333"><tspan font-weight="bold" fill="#051C2C">下一次复盘:2026 年 12 月</tspan>,以 IEA 下一版数据浏览器的同口径数据复核第 12 页三项触发指标,决定 2027 年是否放量。</text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. 本页为决策请求与行动计划,不含新的数据事实;分级与节奏的依据见第 4–12 页</text>
+  <text x="48" y="676" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="676" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">13</text>
+</g>
+</svg>

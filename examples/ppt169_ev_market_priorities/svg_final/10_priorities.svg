@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">建议</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75" />
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text font-weight="bold" fill="#051C2C" font-size="24" x="48" y="70">建议按三级优先级分配 2026–2028 增量投入:中国深耕、欧洲选点、</text><text font-weight="bold" fill="#051C2C" font-size="24" x="48" y="100">东南亚与拉美抢滩,美国转为守势</text></g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">市场优先级分级:2025 年销量与渗透率、2023→2025 销量倍数、2035 年情景、进入方式与依据</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1" />
+<g id="market-tiers" data-pptx-replace-with="table" data-pptx-bounds="48 160 1184 360" data-pptx-fallback-sha256="96eec88d5a19353238ea48cf39033b7d027260b9d9af1dcf90bc9e1a9b1fea97">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "market-tiers", "x": 48, "y": 160, "width": 1184, "height": 360, "header_rows": 1, "column_widths": [110, 130, 110, 110, 140, 120, 300, 164], "row_heights": [30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30], "style": {"font_family": "Microsoft YaHei", "font_size": 12, "header_font_size": 11, "band_row": false, "header_text": "#051C2C", "body_text": "#333333", "border_color": "#E3E3E3", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 1, "bottom": 1}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E3E3E3", "width": 0.75}, "bottom": {"style": "solid", "color": "#E3E3E3", "width": 0.75}}}}, "columns": [{"text": "市场", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2025 销量(万辆)", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2023→25 倍数", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2025 渗透率", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2035 情景(万辆)", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "优先级", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "进入方式", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "依据(页)", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}], "rows": [[{"fill": "#EEF2FF", "bold": true, "text": "中国"}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "1,300", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "1.6×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "53%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "2,600", "font_family": "Arial", "font_size": 12}]}]}, {"fill": "#EEF2FF", "color": "#2251FF", "bold": true, "text": "一级 · 深耕"}, {"fill": "#EEF2FF", "text": "BEV + PHEV 双线,巩固份额"}, {"fill": "#EEF2FF", "text": "3、4、8"}], [{"fill": "#EEF2FF", "bold": true, "text": "东南亚"}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "54", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "3.4×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "18%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "270", "font_family": "Arial", "font_size": 12}]}]}, {"fill": "#EEF2FF", "color": "#2251FF", "bold": true, "text": "一级 · 抢滩"}, {"fill": "#EEF2FF", "text": "PHEV 先行,泰国首发"}, {"fill": "#EEF2FF", "text": "7、9"}], [{"fill": "#EEF2FF", "bold": true, "text": "英国"}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "70", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "1.5×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "35%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "—", "font_family": "Arial", "font_size": 12}]}]}, {"fill": "#EEF2FF", "color": "#2251FF", "bold": true, "text": "一级 · 重点"}, {"fill": "#EEF2FF", "text": "补齐 BEV 车型"}, {"fill": "#EEF2FF", "text": "6"}], [{"fill": "#EEF2FF", "bold": true, "text": "德国"}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "86", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "1.2×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "30%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "fill": "#EEF2FF", "paragraphs": [{"align": "r", "runs": [{"text": "—", "font_family": "Arial", "font_size": 12}]}]}, {"fill": "#EEF2FF", "color": "#2251FF", "bold": true, "text": "一级 · 重点"}, {"fill": "#EEF2FF", "text": "补齐 BEV 车型,按季评估"}, {"fill": "#EEF2FF", "text": "6、12"}], [{"bold": true, "text": "巴西"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "18", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "3.5×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "—", "font_family": "Arial", "font_size": 12}]}]}, {"color": "#051C2C", "bold": true, "text": "二级 · 择机"}, {"text": "PHEV 试点"}, {"text": "7"}], [{"bold": true, "text": "墨西哥"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "5.3×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "7%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "—", "font_family": "Arial", "font_size": 12}]}]}, {"color": "#051C2C", "bold": true, "text": "二级 · 择机"}, {"text": "PHEV 试点"}, {"text": "7"}], [{"bold": true, "text": "印度"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "17", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "2.1×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "210", "font_family": "Arial", "font_size": 12}]}]}, {"color": "#051C2C", "bold": true, "text": "二级 · 择机"}, {"text": "PHEV 试点,2027 起"}, {"text": "7、9"}], [{"bold": true, "text": "韩国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "22", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.7×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "11%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "88", "font_family": "Arial", "font_size": 12}]}]}, {"color": "#051C2C", "bold": true, "text": "二级 · 择机"}, {"text": "渠道试点"}, {"text": "5"}], [{"bold": true, "text": "美国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "150", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.1×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "10%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "310", "font_family": "Arial", "font_size": 12}]}]}, {"color": "#7F7F7F", "bold": true, "text": "三级 · 守势"}, {"text": "不新增产能,2028 复盘"}, {"text": "5、9"}], [{"bold": true, "text": "日本"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "10", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "0.7×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "3%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "70", "font_family": "Arial", "font_size": 12}]}]}, {"color": "#7F7F7F", "bold": true, "text": "三级 · 守势"}, {"text": "维持现状"}, {"text": "5"}], [{"bold": true, "text": "法国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "45", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.0×", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "26%", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "—", "font_family": "Arial", "font_size": 12}]}]}, {"color": "#7F7F7F", "bold": true, "text": "三级 · 守势"}, {"text": "维持现状"}, {"text": "6"}]]}</metadata>
+  <line x1="48" y1="190" x2="1232" y2="190" stroke="#051C2C" stroke-width="1" />
+  <rect x="48" y="190" width="1184" height="30" fill="#EEF2FF" />
+  <rect x="48" y="220" width="1184" height="30" fill="#EEF2FF" />
+  <rect x="48" y="250" width="1184" height="30" fill="#EEF2FF" />
+  <rect x="48" y="280" width="1184" height="30" fill="#EEF2FF" />
+  <text x="56" y="181" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">市场</text>
+  <text x="280" y="181" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2025 销量(万辆)</text>
+  <text x="390" y="181" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2023→25 倍数</text>
+  <text x="500" y="181" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2025 渗透率</text>
+  <text x="640" y="181" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2035 情景(万辆)</text>
+  <text x="656" y="181" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">优先级</text>
+  <text x="776" y="181" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">进入方式</text>
+  <text x="1076" y="181" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">依据(页)</text>
+  <line x1="48" y1="220" x2="1232" y2="220" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="209.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">中国</text>
+  <text x="280" y="209.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1,300</text>
+  <text x="390" y="209.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.6×</text>
+  <text x="500" y="209.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">53%</text>
+  <text x="640" y="209.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">2,600</text>
+  <text x="656" y="209.2" font-size="12" fill="#2251FF" text-anchor="start" font-weight="bold">一级 · 深耕</text>
+  <text x="776" y="209.2" font-size="12" fill="#333333" text-anchor="start">BEV + PHEV 双线,巩固份额</text>
+  <text x="1076" y="209.2" font-size="12" fill="#333333" text-anchor="start">3、4、8</text>
+  <line x1="48" y1="250" x2="1232" y2="250" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="239.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">东南亚</text>
+  <text x="280" y="239.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">54</text>
+  <text x="390" y="239.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">3.4×</text>
+  <text x="500" y="239.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">18%</text>
+  <text x="640" y="239.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">270</text>
+  <text x="656" y="239.2" font-size="12" fill="#2251FF" text-anchor="start" font-weight="bold">一级 · 抢滩</text>
+  <text x="776" y="239.2" font-size="12" fill="#333333" text-anchor="start">PHEV 先行,泰国首发</text>
+  <text x="1076" y="239.2" font-size="12" fill="#333333" text-anchor="start">7、9</text>
+  <line x1="48" y1="280" x2="1232" y2="280" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="269.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">英国</text>
+  <text x="280" y="269.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">70</text>
+  <text x="390" y="269.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.5×</text>
+  <text x="500" y="269.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">35%</text>
+  <text x="640" y="269.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">—</text>
+  <text x="656" y="269.2" font-size="12" fill="#2251FF" text-anchor="start" font-weight="bold">一级 · 重点</text>
+  <text x="776" y="269.2" font-size="12" fill="#333333" text-anchor="start">补齐 BEV 车型</text>
+  <text x="1076" y="269.2" font-size="12" fill="#333333" text-anchor="start">6</text>
+  <line x1="48" y1="310" x2="1232" y2="310" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="299.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">德国</text>
+  <text x="280" y="299.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">86</text>
+  <text x="390" y="299.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.2×</text>
+  <text x="500" y="299.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">30%</text>
+  <text x="640" y="299.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">—</text>
+  <text x="656" y="299.2" font-size="12" fill="#2251FF" text-anchor="start" font-weight="bold">一级 · 重点</text>
+  <text x="776" y="299.2" font-size="12" fill="#333333" text-anchor="start">补齐 BEV 车型,按季评估</text>
+  <text x="1076" y="299.2" font-size="12" fill="#333333" text-anchor="start">6、12</text>
+  <line x1="48" y1="340" x2="1232" y2="340" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="329.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">巴西</text>
+  <text x="280" y="329.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">18</text>
+  <text x="390" y="329.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">3.5×</text>
+  <text x="500" y="329.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">9%</text>
+  <text x="640" y="329.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">—</text>
+  <text x="656" y="329.2" font-size="12" fill="#051C2C" text-anchor="start" font-weight="bold">二级 · 择机</text>
+  <text x="776" y="329.2" font-size="12" fill="#333333" text-anchor="start">PHEV 试点</text>
+  <text x="1076" y="329.2" font-size="12" fill="#333333" text-anchor="start">7</text>
+  <line x1="48" y1="370" x2="1232" y2="370" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="359.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">墨西哥</text>
+  <text x="280" y="359.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">9</text>
+  <text x="390" y="359.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">5.3×</text>
+  <text x="500" y="359.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">7%</text>
+  <text x="640" y="359.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">—</text>
+  <text x="656" y="359.2" font-size="12" fill="#051C2C" text-anchor="start" font-weight="bold">二级 · 择机</text>
+  <text x="776" y="359.2" font-size="12" fill="#333333" text-anchor="start">PHEV 试点</text>
+  <text x="1076" y="359.2" font-size="12" fill="#333333" text-anchor="start">7</text>
+  <line x1="48" y1="400" x2="1232" y2="400" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="389.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">印度</text>
+  <text x="280" y="389.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">17</text>
+  <text x="390" y="389.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">2.1×</text>
+  <text x="500" y="389.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">4%</text>
+  <text x="640" y="389.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">210</text>
+  <text x="656" y="389.2" font-size="12" fill="#051C2C" text-anchor="start" font-weight="bold">二级 · 择机</text>
+  <text x="776" y="389.2" font-size="12" fill="#333333" text-anchor="start">PHEV 试点,2027 起</text>
+  <text x="1076" y="389.2" font-size="12" fill="#333333" text-anchor="start">7、9</text>
+  <line x1="48" y1="430" x2="1232" y2="430" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="419.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">韩国</text>
+  <text x="280" y="419.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">22</text>
+  <text x="390" y="419.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.7×</text>
+  <text x="500" y="419.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">11%</text>
+  <text x="640" y="419.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">88</text>
+  <text x="656" y="419.2" font-size="12" fill="#051C2C" text-anchor="start" font-weight="bold">二级 · 择机</text>
+  <text x="776" y="419.2" font-size="12" fill="#333333" text-anchor="start">渠道试点</text>
+  <text x="1076" y="419.2" font-size="12" fill="#333333" text-anchor="start">5</text>
+  <line x1="48" y1="460" x2="1232" y2="460" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="449.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">美国</text>
+  <text x="280" y="449.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">150</text>
+  <text x="390" y="449.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.1×</text>
+  <text x="500" y="449.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">10%</text>
+  <text x="640" y="449.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">310</text>
+  <text x="656" y="449.2" font-size="12" fill="#7F7F7F" text-anchor="start" font-weight="bold">三级 · 守势</text>
+  <text x="776" y="449.2" font-size="12" fill="#333333" text-anchor="start">不新增产能,2028 复盘</text>
+  <text x="1076" y="449.2" font-size="12" fill="#333333" text-anchor="start">5、9</text>
+  <line x1="48" y1="490" x2="1232" y2="490" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="479.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">日本</text>
+  <text x="280" y="479.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">10</text>
+  <text x="390" y="479.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">0.7×</text>
+  <text x="500" y="479.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">3%</text>
+  <text x="640" y="479.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">70</text>
+  <text x="656" y="479.2" font-size="12" fill="#7F7F7F" text-anchor="start" font-weight="bold">三级 · 守势</text>
+  <text x="776" y="479.2" font-size="12" fill="#333333" text-anchor="start">维持现状</text>
+  <text x="1076" y="479.2" font-size="12" fill="#333333" text-anchor="start">5</text>
+  <line x1="48" y1="520" x2="1232" y2="520" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="509.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">法国</text>
+  <text x="280" y="509.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">45</text>
+  <text x="390" y="509.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.0×</text>
+  <text x="500" y="509.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">26%</text>
+  <text x="640" y="509.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">—</text>
+  <text x="656" y="509.2" font-size="12" fill="#7F7F7F" text-anchor="start" font-weight="bold">三级 · 守势</text>
+  <text x="776" y="509.2" font-size="12" fill="#333333" text-anchor="start">维持现状</text>
+  <text x="1076" y="509.2" font-size="12" fill="#333333" text-anchor="start">6</text>
+</g>
+<g id="tier-totals" data-pptx-bounds="48 534 560 76">
+  <text x="48" y="548" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">三级合计:2025 年销量与 2023→25 增量(万辆)</text>
+  <line x1="48" y1="556" x2="608" y2="556" stroke="#051C2C" stroke-width="0.75" />
+  <text x="48.0" y="580" font-family="Arial" font-size="22" font-weight="bold" fill="#2251FF">1,510<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="48.0" y="596" font-size="11" fill="#7F7F7F">一级 4 市场,增量 +370</text>
+  <text x="234.7" y="580" font-family="Arial" font-size="22" font-weight="bold" fill="#051C2C">66<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="234.7" y="596" font-size="11" fill="#7F7F7F">二级 4 市场,增量 +37</text>
+  <text x="421.3" y="580" font-family="Arial" font-size="22" font-weight="bold" fill="#7F7F7F">205<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="421.3" y="596" font-size="11" fill="#7F7F7F">三级 3 市场,增量 −2</text>
+</g>
+<g id="tier-note" data-pptx-bounds="640 534 592 96">
+  <text x="640" y="548" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">分级含义</text>
+  <line x1="640" y1="556" x2="1232" y2="556" stroke="#051C2C" stroke-width="0.75" />
+  <text fill="#333333" x="640" y="576"><tspan fill="#2251FF" font-weight="bold">一级</tspan> 2026–28 增量投入主战场:中国守存量、东南亚抢窗口、</text><text fill="#333333" x="640" y="594">英德是欧洲仅有的确定增量;</text><text fill="#333333" x="640" y="612"><tspan><tspan fill="#051C2C" font-weight="bold">二级</tspan> 以 PHEV 试点验证后择机放量,试点规模受控;</tspan></text><text fill="#333333" x="640" y="630"><tspan><tspan fill="#7F7F7F" font-weight="bold">三级</tspan> 停滞或饱和市场维持布局、不新增投入,2028 年复盘美国。</tspan></text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. 电动车 = 纯电(BEV)+ 插电混动(PHEV),乘用车口径;渗透率 = 电动车占新车销量的比例;2035 情景为 IEA STEPS,「—」为 IEA 未单列</text>
+  <text x="48" y="674" font-size="10" fill="#7F7F7F">2. 分级规则:一级 = 增量确定且渗透率仍有空间或已是最大存量;二级 = 起量中、以 PHEV 试点验证;三级 = 停滞或饱和,维持不加</text>
+  <text x="48" y="690" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="690" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">10</text>
+</g>
+</svg>

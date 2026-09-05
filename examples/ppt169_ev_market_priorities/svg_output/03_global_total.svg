@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">现状与张力</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75"/>
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text x="48" y="70" font-size="24" font-weight="bold" fill="#051C2C">2025 年全球电动车销量 2,100 万辆、渗透率 25%,五年增长七倍<tspan x="48" dy="30">——电动车已是主流市场,不是利基</tspan></text>
+</g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">A:全球电动车销量,百万辆;B:电动车渗透率,%;2015–2025</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1"/>
+<g id="exhibit-a-head" data-pptx-bounds="48 160 404 40"><circle cx="56" cy="171" r="8" fill="#051C2C"/><text x="56" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A</text><text x="70" y="176" font-size="13" font-weight="bold" fill="#051C2C">全球电动车销量</text><text x="48" y="192" font-size="11" fill="#7F7F7F">百万辆;2025 年为 IEA 全年估计</text></g>
+<g id="world-sales" data-pptx-replace-with="chart" data-pptx-bounds="48 204 404 266" data-pptx-fallback-sha256="173a4932e9db2c25018387bbb7108d54a3b265e1992ef49c269a6464f4271a5d">
+  <metadata type="application/json">{"type": "column", "grouping": "clustered", "categories": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"], "series": [{"name": "全球电动车销量", "values": [0.53, 0.78, 1.2, 2.0, 2.1, 3.0, 6.6, 10, 14, 17, 21], "point_colors": ["#051C2C", "#051C2C", "#051C2C", "#051C2C", "#051C2C", "#051C2C", "#051C2C", "#051C2C", "#051C2C", "#051C2C", "#2251FF"]}], "plot_area": {"x": 56, "y": 226, "width": 388, "height": 208}, "axes": {"category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Arial", "color": "#7F7F7F", "tick_marks": "none"}, "value": {"kind": "value", "position": "left", "visible": false, "label_position": "none", "minimum": 0, "major_gridlines": false, "maximum": 26}}, "style": {"colors": ["#051C2C"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#051C2C", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "data_labels": {"show_value": true, "position": "outside_end", "font_size": 11, "font_family": "Arial", "color": "#051C2C", "number_format": "0.0"}, "notes": [{"text": "2020–25 年均 +48%", "x": 60, "y": 0, "width": 220, "height": 16, "font_size": 11, "color": "#2251FF", "align": "l"}], "gap_width": 43, "x": 48, "y": 204, "width": 404, "height": 266, "name": "world-sales"}</metadata>
+  <g id="world-sales-chartArea">
+    <line id="world-sales-axis" x1="56" y1="434" x2="444" y2="434" stroke="#B7B7B7" stroke-width="0.75"/>
+    <!-- chart-plot-area: object=world-sales | 56,226,444,434 -->
+    <rect x="61.29" y="429.76" width="24.69" height="4.24" fill="#051C2C"/>
+    <text x="73.64" y="424.76" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">0.5</text>
+    <text x="73.64" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2015</text>
+    <rect x="96.56" y="427.76" width="24.69" height="6.24" fill="#051C2C"/>
+    <text x="108.91" y="422.76" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">0.8</text>
+    <text x="108.91" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2016</text>
+    <rect x="131.84" y="424.40" width="24.69" height="9.60" fill="#051C2C"/>
+    <text x="144.18" y="419.40" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">1.2</text>
+    <text x="144.18" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2017</text>
+    <rect x="167.11" y="418.00" width="24.69" height="16.00" fill="#051C2C"/>
+    <text x="179.45" y="413.00" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">2.0</text>
+    <text x="179.45" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2018</text>
+    <rect x="202.38" y="417.20" width="24.69" height="16.80" fill="#051C2C"/>
+    <text x="214.73" y="412.20" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">2.1</text>
+    <text x="214.73" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2019</text>
+    <rect x="237.65" y="410.00" width="24.69" height="24.00" fill="#051C2C"/>
+    <text x="250.00" y="405.00" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">3.0</text>
+    <text x="250.00" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2020</text>
+    <rect x="272.93" y="381.20" width="24.69" height="52.80" fill="#051C2C"/>
+    <text x="285.27" y="376.20" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">6.6</text>
+    <text x="285.27" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2021</text>
+    <rect x="308.20" y="354.00" width="24.69" height="80.00" fill="#051C2C"/>
+    <text x="320.55" y="349.00" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">10.0</text>
+    <text x="320.55" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2022</text>
+    <rect x="343.47" y="322.00" width="24.69" height="112.00" fill="#051C2C"/>
+    <text x="355.82" y="317.00" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">14.0</text>
+    <text x="355.82" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2023</text>
+    <rect x="378.75" y="298.00" width="24.69" height="136.00" fill="#051C2C"/>
+    <text x="391.09" y="293.00" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">17.0</text>
+    <text x="391.09" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2024</text>
+    <rect x="414.02" y="266.00" width="24.69" height="168.00" fill="#2251FF"/>
+    <text x="426.36" y="261.00" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">21.0</text>
+    <text x="426.36" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2025</text>
+    <text x="60" y="236" font-size="11" fill="#2251FF">2020–25 年均 +48%</text>
+  </g>
+</g>
+<g id="exhibit-b-head" data-pptx-bounds="476 160 412 40"><circle cx="484" cy="171" r="8" fill="#051C2C"/><text x="484" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">B</text><text x="498" y="176" font-size="13" font-weight="bold" fill="#051C2C">电动车渗透率</text><text x="476" y="192" font-size="11" fill="#7F7F7F">电动车占新车销量的 %</text></g>
+<g id="world-share" data-pptx-replace-with="chart" data-pptx-bounds="476 204 412 266" data-pptx-fallback-sha256="73578f5a7a7c35e0d8c7d3a7503fbb68120985df867a8efb2a405d339de3254c">
+  <metadata type="application/json">{"type": "line", "grouping": "standard", "line_style": "lineMarker", "marker_size": 6, "categories": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"], "series": [{"name": "全球", "values": [0.7, 0.9, 1.4, 2.5, 2.7, 4.4, 9.3, 15, 18, 21, 25], "line_width": 2}], "plot_area": {"x": 484, "y": 226, "width": 342, "height": 208}, "notes": [{"text": "全球 25%", "x": 818.4545454545455, "y": 0, "width": 70, "height": 16, "font_size": 11, "color": "#2251FF", "bold": true, "align": "l"}, {"text": "1%", "x": 451.54545454545456, "y": 0, "width": 40, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#2251FF", "align": "r"}, {"text": "2020 年 4.4% → 2025 年 25%", "x": 560, "y": 0, "width": 220, "height": 16, "font_size": 11, "color": "#7F7F7F", "align": "l"}], "axes": {"category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Arial", "color": "#7F7F7F", "tick_marks": "none"}, "value": {"kind": "value", "position": "left", "visible": false, "label_position": "none", "minimum": 0, "major_gridlines": false, "maximum": 30, "cross_between": "between"}}, "style": {"colors": ["#2251FF"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#7F7F7F", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "x": 476, "y": 204, "width": 412, "height": 266, "name": "world-share"}</metadata>
+  <g id="world-share-chartArea">
+    <line id="world-share-axis" x1="484" y1="434" x2="826" y2="434" stroke="#B7B7B7" stroke-width="0.75"/>
+    <!-- chart-plot-area: object=world-share | 484,226,826,434 -->
+    <polyline points="499.55,429.15 530.64,427.76 561.73,424.29 592.82,416.67 623.91,415.28 655.00,403.49 686.09,369.52 717.18,330.00 748.27,309.20 779.36,288.40 810.45,260.67" fill="none" stroke="#2251FF" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="499.55" cy="429.15" r="3" fill="#2251FF"/>
+    <circle cx="530.64" cy="427.76" r="3" fill="#2251FF"/>
+    <circle cx="561.73" cy="424.29" r="3" fill="#2251FF"/>
+    <circle cx="592.82" cy="416.67" r="3" fill="#2251FF"/>
+    <circle cx="623.91" cy="415.28" r="3" fill="#2251FF"/>
+    <circle cx="655.00" cy="403.49" r="3" fill="#2251FF"/>
+    <circle cx="686.09" cy="369.52" r="3" fill="#2251FF"/>
+    <circle cx="717.18" cy="330.00" r="3" fill="#2251FF"/>
+    <circle cx="748.27" cy="309.20" r="3" fill="#2251FF"/>
+    <circle cx="779.36" cy="288.40" r="3" fill="#2251FF"/>
+    <circle cx="810.45" cy="260.67" r="3" fill="#2251FF"/>
+    <text x="818.45" y="264.67" font-size="11" font-weight="bold" fill="#2251FF">全球 25%</text>
+    <text x="491.55" y="433.15" font-family="Arial" font-size="11" fill="#2251FF" text-anchor="end">1%</text>
+    <text x="499.55" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2015</text>
+    <text x="530.64" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2016</text>
+    <text x="561.73" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2017</text>
+    <text x="592.82" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2018</text>
+    <text x="623.91" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2019</text>
+    <text x="655.00" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2020</text>
+    <text x="686.09" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2021</text>
+    <text x="717.18" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2022</text>
+    <text x="748.27" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2023</text>
+    <text x="779.36" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2024</text>
+    <text x="810.45" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2025</text>
+    <text x="560" y="236" font-size="11" fill="#7F7F7F">2020 年 4.4% → 2025 年 25%</text>
+  </g>
+</g>
+<g id="exhibit-c-head" data-pptx-bounds="48 478 840 40"><circle cx="56" cy="489" r="8" fill="#051C2C"/><text x="56" y="492.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">C</text><text x="70" y="494" font-size="13" font-weight="bold" fill="#051C2C">关键年份对照</text><text x="48" y="510" font-size="11" fill="#7F7F7F">销量与增量:百万辆;同比与渗透率:%</text></g>
+<g id="key-years" data-pptx-replace-with="table" data-pptx-bounds="48 520 840 104" data-pptx-fallback-sha256="0b5f0b2158210c6824223f5a15afb2bf20359d53e023815df2ce0be96fcfd922">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "key-years", "x": 48, "y": 520, "width": 840, "height": 104, "header_rows": 1, "column_widths": [120, 180, 180, 180, 180], "row_heights": [24, 20, 20, 20, 20], "style": {"font_family": "Microsoft YaHei", "font_size": 11, "header_font_size": 11, "band_row": false, "header_text": "#051C2C", "body_text": "#333333", "border_color": "#E3E3E3", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 1, "bottom": 1}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E3E3E3", "width": 0.75}, "bottom": {"style": "solid", "color": "#E3E3E3", "width": 0.75}}}}, "columns": [{"text": "年份", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "销量", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "增量(较上年)", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "同比", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "渗透率", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}], "rows": [[{"bold": true, "text": "2020"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "3.0", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "+0.9", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "+43%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4.4%", "font_family": "Arial", "font_size": 11}]}]}], [{"bold": true, "text": "2021"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "6.6", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "+3.6", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "+120%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9.3%", "font_family": "Arial", "font_size": 11}]}]}], [{"bold": true, "text": "2023"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "14", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "+4.0", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "+40%", "font_family": "Arial", "font_size": 11}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "18%", "font_family": "Arial", "font_size": 11}]}]}], [{"color": "#051C2C", "bold": true, "text": "2025"}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "21", "font_family": "Arial", "font_size": 11, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "+4.0", "font_family": "Arial", "font_size": 11, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "+24%", "font_family": "Arial", "font_size": 11, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "25%", "font_family": "Arial", "font_size": 11, "color": "#051C2C", "bold": true}]}]}]]}</metadata>
+  <line x1="48" y1="544" x2="888" y2="544" stroke="#051C2C" stroke-width="1"/>
+  <text x="56" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">年份</text>
+  <text x="340" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">销量</text>
+  <text x="520" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">增量(较上年)</text>
+  <text x="700" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">同比</text>
+  <text x="880" y="535" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">渗透率</text>
+  <line x1="48" y1="564" x2="888" y2="564" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="557.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">2020</text>
+  <text x="340" y="557.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">3.0</text>
+  <text x="520" y="557.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">+0.9</text>
+  <text x="700" y="557.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">+43%</text>
+  <text x="880" y="557.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">4.4%</text>
+  <line x1="48" y1="584" x2="888" y2="584" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="577.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">2021</text>
+  <text x="340" y="577.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">6.6</text>
+  <text x="520" y="577.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">+3.6</text>
+  <text x="700" y="577.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">+120%</text>
+  <text x="880" y="577.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">9.3%</text>
+  <line x1="48" y1="604" x2="888" y2="604" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="597.9" font-size="11" fill="#333333" text-anchor="start" font-weight="bold">2023</text>
+  <text x="340" y="597.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">14</text>
+  <text x="520" y="597.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">+4.0</text>
+  <text x="700" y="597.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">+40%</text>
+  <text x="880" y="597.9" font-size="11" fill="#333333" text-anchor="end" font-family="Arial">18%</text>
+  <line x1="48" y1="624" x2="888" y2="624" stroke="#E3E3E3" stroke-width="0.75"/>
+  <text x="56" y="617.9" font-size="11" fill="#051C2C" text-anchor="start" font-weight="bold">2025</text>
+  <text x="340" y="617.9" font-size="11" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">21</text>
+  <text x="520" y="617.9" font-size="11" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">+4.0</text>
+  <text x="700" y="617.9" font-size="11" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">+24%</text>
+  <text x="880" y="617.9" font-size="11" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">25%</text>
+</g>
+<g id="insights" data-pptx-bounds="916 160 316 472">
+  <text x="916" y="176" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">关键信息</text>
+  <line x1="916" y1="184" x2="1232" y2="184" stroke="#051C2C" stroke-width="1"/>
+  <circle cx="924" cy="205" r="8" fill="#051C2C"/><text x="924" y="208.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="940" y="210" fill="#333333">销量五年增长 7.0 倍:2020 年 300 万辆<tspan x="940" dy="20">→ 2025 年 2,100 万辆,年均增速 48%¹;</tspan><tspan x="940" dy="20">2021 年起每年增量都不低于 300 万辆。</tspan></text>
+  <circle cx="924" cy="281" r="8" fill="#051C2C"/><text x="924" y="284.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="940" y="286" fill="#333333">渗透率从 4.4% 升到 25%:每四辆新车<tspan x="940" dy="20">就有一辆是电动车;2021 年翻倍(9.3%)</tspan><tspan x="940" dy="20">是拐点,此后逐年抬升未回落。</tspan></text>
+  <circle cx="924" cy="357" r="8" fill="#051C2C"/><text x="924" y="360.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="940" y="362" fill="#333333">基数已经不是"是否会来"的问题:<tspan x="940" dy="20">2,100 万辆的存量市场足以支撑</tspan><tspan x="940" dy="20">按地区分级的差异化投入决策。</tspan></text>
+  <rect x="916" y="516" width="316" height="116" fill="#F7F7F7"/><rect x="916" y="516" width="4" height="116" fill="#2251FF"/>
+  <text x="932" y="538" font-size="12" font-weight="bold" fill="#051C2C">对决策的含义</text>
+  <text x="932" y="560" fill="#333333">市场规模已不是投入前提;剩下的问题<tspan x="932" dy="20">只有'投在哪'和'用什么产品进'——</tspan><tspan x="932" dy="20">下两页按地区拆分增量。</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. 电动车 = 纯电(BEV)+ 插电混动(PHEV),乘用车口径;渗透率 = 电动车占新车销量的比例</text>
+  <text x="48" y="674" font-size="10" fill="#7F7F7F">2. 年均增速(CAGR)按 2020–2025 五年复合计算:(21÷3)^(1/5) − 1 = 47.6%</text>
+  <text x="48" y="690" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="690" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">3</text>
+</g>
+</svg>

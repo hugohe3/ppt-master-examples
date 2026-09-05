@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">现状与张力</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75" />
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text font-weight="bold" fill="#051C2C" font-size="24" x="48" y="70">2025 年 400 万辆增量中,中国贡献一半,美国转负,</text><text font-weight="bold" fill="#051C2C" font-size="24" x="48" y="100">中美欧之外的市场增量首次超过欧洲</text></g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">A:全球电动车销量按地区,百万辆,2020–2025;B:2025 年增量按地区,百万辆</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1" />
+<g id="exhibit-a-head" data-pptx-bounds="48 160 404 40"><circle cx="56" cy="171" r="8" fill="#051C2C" /><text x="56" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A</text><text x="70" y="176" font-size="13" font-weight="bold" fill="#051C2C">全球电动车销量按地区</text><text x="48" y="192" font-size="11" fill="#7F7F7F">百万辆;柱顶为当年合计</text></g>
+<g id="regional-mix" data-pptx-replace-with="chart" data-pptx-bounds="48 204 404 266" data-pptx-fallback-sha256="716f52c544752ff1d659924e0837d1de5a8de18a579215962a271ca30b8f8254">
+  <metadata type="application/json">{"type": "column", "grouping": "stacked", "categories": ["2020", "2021", "2022", "2023", "2024", "2025"], "series": [{"name": "中国", "values": [1.1, 3.3, 6.0, 8.1, 11.0, 13.0]}, {"name": "欧洲", "values": [1.4, 2.3, 2.7, 3.2, 3.2, 4.2]}, {"name": "美国", "values": [0.3, 0.63, 0.99, 1.4, 1.6, 1.5]}, {"name": "其他市场", "values": [0.2, 0.37, 0.31, 1.3, 1.2, 2.3]}], "plot_area": {"x": 56, "y": 226, "width": 388, "height": 208}, "axes": {"category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Arial", "color": "#7F7F7F", "tick_marks": "none"}, "value": {"kind": "value", "position": "left", "visible": false, "label_position": "none", "minimum": 0, "major_gridlines": false, "maximum": 26}}, "style": {"colors": ["#051C2C", "#8FB8FF", "#B7B7B7", "#2251FF"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#051C2C", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF", "legend_font_size": 11}, "notes": [{"text": "3.0", "x": 58.33333333333334, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "6.6", "x": 123.0, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "10.0", "x": 187.66666666666669, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "14.0", "x": 252.33333333333337, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "17.0", "x": 317.0, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}, {"text": "21.0", "x": 381.6666666666667, "y": 0, "width": 60, "height": 16, "font_size": 11, "font_family": "Arial", "color": "#051C2C", "bold": true, "align": "ctr"}], "show_legend": true, "legend_position": "bottom", "gap_width": 80, "x": 48, "y": 204, "width": 404, "height": 266, "name": "regional-mix"}</metadata>
+  <g id="regional-mix-chartArea">
+    <line id="regional-mix-axis" x1="56" y1="434" x2="444" y2="434" stroke="#B7B7B7" stroke-width="0.75" />
+    
+    <rect x="70.33" y="425.20" width="36.00" height="8.80" fill="#051C2C" />
+    <rect x="70.33" y="414.00" width="36.00" height="11.20" fill="#8FB8FF" />
+    <rect x="70.33" y="411.60" width="36.00" height="2.40" fill="#B7B7B7" />
+    <rect x="70.33" y="410.00" width="36.00" height="1.60" fill="#2251FF" />
+    <text x="88.33" y="404.00" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">3.0</text>
+    <text x="88.33" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2020</text>
+    <rect x="135.00" y="407.60" width="36.00" height="26.40" fill="#051C2C" />
+    <rect x="135.00" y="389.20" width="36.00" height="18.40" fill="#8FB8FF" />
+    <rect x="135.00" y="384.16" width="36.00" height="5.04" fill="#B7B7B7" />
+    <rect x="135.00" y="381.20" width="36.00" height="2.96" fill="#2251FF" />
+    <text x="153.00" y="375.20" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">6.6</text>
+    <text x="153.00" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2021</text>
+    <rect x="199.67" y="386.00" width="36.00" height="48.00" fill="#051C2C" />
+    <rect x="199.67" y="364.40" width="36.00" height="21.60" fill="#8FB8FF" />
+    <rect x="199.67" y="356.48" width="36.00" height="7.92" fill="#B7B7B7" />
+    <rect x="199.67" y="354.00" width="36.00" height="2.48" fill="#2251FF" />
+    <text x="217.67" y="348.00" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">10.0</text>
+    <text x="217.67" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2022</text>
+    <rect x="264.33" y="369.20" width="36.00" height="64.80" fill="#051C2C" />
+    <rect x="264.33" y="343.60" width="36.00" height="25.60" fill="#8FB8FF" />
+    <rect x="264.33" y="332.40" width="36.00" height="11.20" fill="#B7B7B7" />
+    <rect x="264.33" y="322.00" width="36.00" height="10.40" fill="#2251FF" />
+    <text x="282.33" y="316.00" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">14.0</text>
+    <text x="282.33" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2023</text>
+    <rect x="329.00" y="346.00" width="36.00" height="88.00" fill="#051C2C" />
+    <rect x="329.00" y="320.40" width="36.00" height="25.60" fill="#8FB8FF" />
+    <rect x="329.00" y="307.60" width="36.00" height="12.80" fill="#B7B7B7" />
+    <rect x="329.00" y="298.00" width="36.00" height="9.60" fill="#2251FF" />
+    <text x="347.00" y="292.00" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">17.0</text>
+    <text x="347.00" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2024</text>
+    <rect x="393.67" y="330.00" width="36.00" height="104.00" fill="#051C2C" />
+    <rect x="393.67" y="296.40" width="36.00" height="33.60" fill="#8FB8FF" />
+    <rect x="393.67" y="284.40" width="36.00" height="12.00" fill="#B7B7B7" />
+    <rect x="393.67" y="266.00" width="36.00" height="18.40" fill="#2251FF" />
+    <text x="411.67" y="260.00" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="middle">21.0</text>
+    <text x="411.67" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2025</text>
+    <rect x="56" y="456" width="10" height="10" fill="#051C2C" /><text x="70" y="465" font-size="11" fill="#333333">中国</text>
+    <rect x="116" y="456" width="10" height="10" fill="#8FB8FF" /><text x="130" y="465" font-size="11" fill="#333333">欧洲</text>
+    <rect x="176" y="456" width="10" height="10" fill="#B7B7B7" /><text x="190" y="465" font-size="11" fill="#333333">美国</text>
+    <rect x="236" y="456" width="10" height="10" fill="#2251FF" /><text x="250" y="465" font-size="11" fill="#333333">其他市场</text>
+  </g>
+</g>
+<g id="growth-multiples" data-pptx-bounds="48 486 404 76">
+  <text x="48" y="500" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">2020→2025 销量倍数(百万辆)</text>
+  <line x1="48" y1="508" x2="452" y2="508" stroke="#051C2C" stroke-width="0.75" />
+  <text x="48.0" y="532" font-family="Arial" font-size="22" font-weight="bold" fill="#051C2C">11.8×<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="48.0" y="548" font-size="11" fill="#7F7F7F">中国 1.1→13.0</text>
+  <text x="149.0" y="532" font-family="Arial" font-size="22" font-weight="bold" fill="#051C2C">3.0×<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="149.0" y="548" font-size="11" fill="#7F7F7F">欧洲 1.4→4.2</text>
+  <text x="250.0" y="532" font-family="Arial" font-size="22" font-weight="bold" fill="#051C2C">5.0×<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="250.0" y="548" font-size="11" fill="#7F7F7F">美国 0.3→1.5</text>
+  <text x="351.0" y="532" font-family="Arial" font-size="22" font-weight="bold" fill="#2251FF">11.5×<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="351.0" y="548" font-size="11" fill="#7F7F7F">其他 0.2→2.3</text>
+</g>
+<g id="mix-note" data-pptx-bounds="48 574 404 58">
+  <text fill="#7F7F7F" font-size="11" x="48" y="590">中国倍数最高但份额已从 2024 年 65% 回落到 62%;</text><text fill="#7F7F7F" font-size="11" x="48" y="606">其他市场倍数与中国相当,且 2025 年增量占比升到 28%,</text><text fill="#7F7F7F" font-size="11" x="48" y="622">是唯一"倍数高、份额低、增量占比上升"的分区。</text></g>
+<g id="exhibit-b-head" data-pptx-bounds="476 160 412 40"><circle cx="484" cy="171" r="8" fill="#051C2C" /><text x="484" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">B</text><text x="498" y="176" font-size="13" font-weight="bold" fill="#051C2C">2025 年销量增量按地区</text><text x="476" y="192" font-size="11" fill="#7F7F7F">百万辆,较 2024 年²</text></g>
+<g id="increment-2025" data-pptx-replace-with="chart" data-pptx-bounds="476 204 412 224" data-pptx-fallback-sha256="2bcf35940e8ca1e487ee667cbb3a73b30a5a03493966da65218f1521de7ca790">
+  <metadata type="application/json">{"type": "bar", "grouping": "clustered", "categories": ["中国", "其他市场", "欧洲", "美国"], "series": [{"name": "值", "values": [2.0, 1.1, 1.0, -0.1], "point_colors": ["#051C2C", "#2251FF", "#8FB8FF", "#B3261E"]}], "plot_area": {"x": 546, "y": 222, "width": 252, "height": 194}, "axes": {"category": {"kind": "text", "position": "left", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Microsoft YaHei", "color": "#333333", "tick_marks": "none"}, "value": {"kind": "value", "position": "bottom", "visible": false, "label_position": "none", "minimum": -0.10500000000000001, "major_gridlines": false, "maximum": 2.4}}, "data_labels": {"show_value": true, "position": "outside_end", "font_size": 11, "font_family": "Arial", "bold": true, "color": "#051C2C", "number_format": "0.0"}, "style": {"colors": ["#051C2C"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#333333", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "gap_width": 120, "x": 476, "y": 204, "width": 412, "height": 224, "name": "increment-2025"}</metadata>
+  <g id="increment-2025-chartArea">
+    <line id="increment-2025-axis" x1="556.50" y1="222" x2="556.50" y2="416" stroke="#B7B7B7" stroke-width="0.75" />
+    
+    <rect x="556.50" y="235.25" width="210.00" height="22" fill="#051C2C" />
+    <text x="772.50" y="250.25" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">2.0</text>
+    <text x="538" y="250.25" font-size="11" fill="#333333" text-anchor="end">中国</text>
+    <rect x="556.50" y="283.75" width="115.50" height="22" fill="#2251FF" />
+    <text x="678.00" y="298.75" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">1.1</text>
+    <text x="538" y="298.75" font-size="11" fill="#333333" text-anchor="end">其他市场</text>
+    <rect x="556.50" y="332.25" width="105.00" height="22" fill="#8FB8FF" />
+    <text x="667.50" y="347.25" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">1.0</text>
+    <text x="538" y="347.25" font-size="11" fill="#333333" text-anchor="end">欧洲</text>
+    <rect x="546.00" y="380.75" width="10.50" height="22" fill="#B3261E" />
+    <text x="562.50" y="395.75" font-family="Arial" font-size="11" font-weight="bold" fill="#B3261E">-0.1</text>
+    <text x="538" y="395.75" font-size="11" fill="#333333" text-anchor="end">美国</text>
+  </g>
+</g>
+<g id="share-2025" data-pptx-bounds="476 444 412 156">
+  <text x="476" y="462" font-size="13" font-weight="bold" fill="#051C2C">2025 年销量占比 vs 增量占比</text>
+  <line x1="476" y1="472" x2="888" y2="472" stroke="#051C2C" stroke-width="0.75" />
+  <text x="476" y="492" font-size="11" fill="#7F7F7F">地区</text><text x="700" y="492" font-size="11" fill="#7F7F7F" text-anchor="end">存量占比</text><text x="880" y="492" font-size="11" fill="#7F7F7F" text-anchor="end">增量占比</text>
+  <line x1="476" y1="498" x2="888" y2="498" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="476" y="518" fill="#333333">中国</text><text x="700" y="518" font-family="Arial" fill="#333333" text-anchor="end">62%</text><text x="880" y="518" font-family="Arial" fill="#051C2C" font-weight="bold" text-anchor="end">50%</text>
+  <text x="476" y="540" fill="#333333">欧洲</text><text x="700" y="540" font-family="Arial" fill="#333333" text-anchor="end">20%</text><text x="880" y="540" font-family="Arial" fill="#333333" text-anchor="end">25%</text>
+  <text x="476" y="562" fill="#333333">美国</text><text x="700" y="562" font-family="Arial" fill="#333333" text-anchor="end">7%</text><text x="880" y="562" font-family="Arial" fill="#B3261E" font-weight="bold" text-anchor="end">−3%</text>
+  <text x="476" y="584" fill="#333333">其他市场</text><text x="700" y="584" font-family="Arial" fill="#333333" text-anchor="end">11%</text><text x="880" y="584" font-family="Arial" fill="#2251FF" font-weight="bold" text-anchor="end">28%</text>
+</g>
+<g id="insights" data-pptx-bounds="916 160 316 472">
+  <text x="916" y="176" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">关键信息</text>
+  <line x1="916" y1="184" x2="1232" y2="184" stroke="#051C2C" stroke-width="1" />
+  <circle cx="924" cy="205" r="8" fill="#051C2C" /><text x="924" y="208.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text fill="#333333" x="940" y="210">中国占存量 62%、占增量 50%:</text><text fill="#333333" x="940" y="230">1,100 万→1,300 万辆,仍是最大单一</text><text fill="#333333" x="940" y="250">增量来源,但份额已从 2024 年 65% 回落。</text><circle cx="924" cy="281" r="8" fill="#051C2C" /><text x="924" y="284.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text fill="#333333" x="940" y="286">其他市场增量 110 万辆,首次超过欧洲</text><text fill="#333333" x="940" y="306">的 100 万辆:存量占比只有 11%,</text><text fill="#333333" x="940" y="326">增量占比却有 28%(B、右表)。</text><circle cx="924" cy="357" r="8" fill="#051C2C" /><text x="924" y="360.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text fill="#333333" x="940" y="362">美国 −10 万辆,是四个分区里唯一</text><text fill="#333333" x="940" y="382">为负的:2020 年以来它从未贡献</text><text fill="#333333" x="940" y="402">超过 10% 的年度增量。</text><circle cx="924" cy="433" r="8" fill="#051C2C" /><text x="924" y="436.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text fill="#333333" x="940" y="438">结论:按存量地图分配预算会把</text><text fill="#333333" x="940" y="458">一半以上投向增速放缓的市场;</text><text fill="#333333" x="940" y="478">增量地图才是 2026–28 的依据。</text><rect x="916" y="516" width="316" height="116" fill="#F7F7F7" /><rect x="916" y="516" width="4" height="116" fill="#2251FF" />
+  <text x="932" y="538" font-size="12" font-weight="bold" fill="#051C2C">对决策的含义</text>
+  <text fill="#333333" x="932" y="560">预算依据从存量地图切换到增量地图:</text><text fill="#333333" x="932" y="580">中国保份额、其他市场抢增量、美国</text><text fill="#333333" x="932" y="600">不追加(第 10 页分级)。</text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. 电动车 = 纯电(BEV)+ 插电混动(PHEV),乘用车口径;渗透率 = 电动车占新车销量的比例</text>
+  <text x="48" y="674" font-size="10" fill="#7F7F7F">2. 「其他市场」= 全球 − 中国 − 欧洲 − 美国,为本报告计算值;增量 = 2025 年销量 − 2024 年销量</text>
+  <text x="48" y="690" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="690" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">4</text>
+</g>
+</svg>

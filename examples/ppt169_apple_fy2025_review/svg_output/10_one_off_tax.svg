@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="180" x2="1216" y2="180" stroke="#1E293B" stroke-width="2"/>
+
+  <g id="page-header" data-pptx-bounds="64 52 1152 116">
+    <text x="64" y="100" font-size="44" font-weight="bold" fill="#1E293B">净利润 +19.50% 有基数效应,可比口径 +7.72%</text>
+    <text x="64" y="146" font-size="28" fill="#64748B">FY24 Q4 所得税费用 14,874 含欧盟 State Aid 一次性税项 10,246</text>
+  </g>
+
+  <g id="compare-reported" data-pptx-bounds="64 250 460 300">
+    <rect x="64" y="250" width="460" height="300" fill="#F4F6F8"/>
+    <text x="96" y="290" font-size="18" fill="#64748B">报告口径</text>
+    <text x="96" y="380" font-size="64" font-weight="bold" font-family="Consolas" fill="#1E293B">+19.50%</text>
+    <text x="96" y="430" font-size="24" fill="#1E293B">FY2025 净利润 <tspan font-family="Consolas">112,010</tspan></text>
+    <text x="96" y="466" font-size="24" fill="#1E293B">FY2024 净利润 <tspan font-family="Consolas">93,736</tspan></text>
+    <text x="96" y="510" font-size="18" fill="#64748B">FY2024 基数被一次性税项压低</text>
+  </g>
+
+  <g id="adjustment-bridge" data-pptx-bounds="540 334 200 142">
+    <text x="640" y="356" font-size="18" fill="#B4342C" text-anchor="middle">剔除 FY24 一次性税项</text>
+    <g id="p10-adjust-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="560 380 160 44" fill="#B4342C" stroke="none">
+<path d="M 560 391 L 698 391 L 698 380 L 720 402 L 698 424 L 698 413 L 560 413 Z"/>
+</g>
+    <text x="640" y="462" font-size="24" font-family="Consolas" font-weight="bold" fill="#B4342C" text-anchor="middle">10,246</text>
+  </g>
+
+  <g id="compare-adjusted" data-pptx-bounds="756 250 460 300">
+    <rect x="756" y="250" width="460" height="300" fill="#F4F6F8"/>
+    <text x="788" y="290" font-size="18" fill="#64748B">可比口径(剔除一次性税项)</text>
+    <text x="788" y="380" font-size="64" font-weight="bold" font-family="Consolas" fill="#2B6CB0">+7.72%</text>
+    <text x="788" y="430" font-size="24" fill="#1E293B">FY2025 净利润 <tspan font-family="Consolas">112,010</tspan></text>
+    <text x="788" y="466" font-size="24" fill="#2B6CB0">FY2024 还原 <tspan font-family="Consolas" font-weight="bold">103,982</tspan></text>
+    <text x="788" y="510" font-size="18" fill="#64748B">103,982 = 93,736 + 10,246</text>
+  </g>
+
+  <g id="tax-rate-evidence" data-pptx-bounds="64 570 1152 66">
+    <line x1="64" y1="576" x2="1216" y2="576" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="610" font-size="24" fill="#1E293B">FY24 Q4 有效税率 <tspan font-family="Consolas" font-weight="bold" fill="#B4342C">50.23%</tspan>,剔除后 <tspan font-family="Consolas">15.63%</tspan>;其余七个季度 <tspan font-family="Consolas">14.69%–16.40%</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 50">
+    <line x1="64" y1="652" x2="1216" y2="652" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="684" font-size="16" fill="#64748B">来源:「来源与口径」sheet 特殊事项行 与「季度损益」sheet 所得税费用行;有效税率 = 所得税费用 ÷(营业利润 + 其他收益净额)</text>
+    <text x="1216" y="684" font-size="16" fill="#64748B" text-anchor="end">10</text>
+  </g>
+</svg>

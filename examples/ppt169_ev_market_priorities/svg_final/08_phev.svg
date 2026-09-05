@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">诊断 · 产品组合</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75" />
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text font-weight="bold" fill="#051C2C" font-size="24" x="48" y="70">PHEV 已占全球电动车销量的 34%,在中国三年增长 3.4 倍</text><text font-weight="bold" fill="#051C2C" font-size="24" x="48" y="100">——它是低渗透市场的破冰产品,不是过渡产品</text></g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">A:全球 BEV 与 PHEV 销量,百万辆,2019–2025;B:PHEV 占电动车销量比例,%,2025;C:中国 BEV 与 PHEV 销量,百万辆,2022–2025</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1" />
+<g id="exhibit-a-head" data-pptx-bounds="48 160 404 40"><circle cx="56" cy="171" r="8" fill="#051C2C" /><text x="56" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A</text><text x="70" y="176" font-size="13" font-weight="bold" fill="#051C2C">全球 BEV 与 PHEV 销量</text><text x="48" y="192" font-size="11" fill="#7F7F7F">百万辆,堆叠面积</text></g>
+<g id="powertrain-mix" data-pptx-replace-with="chart" data-pptx-bounds="48 204 404 266" data-pptx-fallback-sha256="bb3ec358fddca1988d9cbc9ed53d7862e77beecc3ca5d4d7c9e34bcb9159a948">
+  <metadata type="application/json">{"type": "area", "grouping": "stacked", "categories": ["2019", "2020", "2021", "2022", "2023", "2024", "2025"], "series": [{"name": "BEV", "values": [1.5, 2.0, 4.7, 7.3, 9.5, 11, 14]}, {"name": "PHEV", "values": [0.58, 0.98, 1.9, 2.9, 4.2, 6.5, 7.2]}], "plot_area": {"x": 66, "y": 226, "width": 368, "height": 208}, "notes": [{"text": "BEV 1,400 万辆", "x": 270, "y": 0, "width": 160, "height": 16, "font_size": 11, "color": "#FFFFFF", "bold": true, "align": "r"}, {"text": "PHEV 720 万辆", "x": 270, "y": 0, "width": 160, "height": 16, "font_size": 11, "color": "#FFFFFF", "bold": true, "align": "r"}], "axes": {"category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Arial", "color": "#7F7F7F", "tick_marks": "none"}, "value": {"kind": "value", "position": "left", "visible": false, "label_position": "none", "minimum": 0, "major_gridlines": false, "maximum": 24, "cross_between": "mid_category"}}, "style": {"colors": ["#051C2C", "#2251FF"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#7F7F7F", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "x": 48, "y": 204, "width": 404, "height": 266, "name": "powertrain-mix"}</metadata>
+  <g id="powertrain-mix-chartArea">
+    <line id="powertrain-mix-axis" x1="66" y1="434" x2="434" y2="434" stroke="#B7B7B7" stroke-width="0.75" />
+    
+    <polygon points="66.00,421.00 127.33,416.67 188.67,393.27 250.00,370.73 311.33,351.67 372.67,338.67 434.00,312.67 434.00,434.00 372.67,434.00 311.33,434.00 250.00,434.00 188.67,434.00 127.33,434.00 66.00,434.00" fill="#051C2C" />
+    <polygon points="66.00,415.97 127.33,408.17 188.67,376.80 250.00,345.60 311.33,315.27 372.67,282.33 434.00,250.27 434.00,312.67 372.67,338.67 311.33,351.67 250.00,370.73 188.67,393.27 127.33,416.67 66.00,421.00" fill="#2251FF" />
+    <text x="66.00" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2019</text>
+    <text x="127.33" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2020</text>
+    <text x="188.67" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2021</text>
+    <text x="250.00" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2022</text>
+    <text x="311.33" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2023</text>
+    <text x="372.67" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2024</text>
+    <text x="434.00" y="449" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2025</text>
+    <text x="430" y="420" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="end">BEV 1,400 万辆</text>
+    <text x="430" y="278" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="end">PHEV 720 万辆</text>
+  </g>
+</g>
+<g id="powertrain-multiples" data-pptx-bounds="48 486 404 76">
+  <text x="48" y="500" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">增长倍数(百万辆)</text>
+  <line x1="48" y1="508" x2="452" y2="508" stroke="#051C2C" stroke-width="0.75" />
+  <text x="48.0" y="532" font-family="Arial" font-size="22" font-weight="bold" fill="#2251FF">12×<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="48.0" y="548" font-size="11" fill="#7F7F7F">全球 PHEV 0.58→7.2</text>
+  <text x="149.0" y="532" font-family="Arial" font-size="22" font-weight="bold" fill="#051C2C">9×<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="149.0" y="548" font-size="11" fill="#7F7F7F">全球 BEV 1.5→14</text>
+  <text x="250.0" y="532" font-family="Arial" font-size="22" font-weight="bold" fill="#2251FF">3.4×<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="250.0" y="548" font-size="11" fill="#7F7F7F">中国 PHEV 1.5→5.1</text>
+  <text x="351.0" y="532" font-family="Arial" font-size="22" font-weight="bold" fill="#051C2C">1.8×<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
+  <text x="351.0" y="548" font-size="11" fill="#7F7F7F">中国 BEV 4.5→8.2</text>
+</g>
+<g id="powertrain-note" data-pptx-bounds="48 574 404 58">
+  <text fill="#7F7F7F" font-size="11" x="48" y="590">全球倍数按 2019→2025,中国按 2022→2025;</text><text fill="#7F7F7F" font-size="11" x="48" y="606">两组口径下 PHEV 的倍数都高于 BEV,且差距在中国</text><text fill="#7F7F7F" font-size="11" x="48" y="622">这个渗透率最高的市场里最大——不是低基数效应。</text></g>
+<g id="exhibit-b-head" data-pptx-bounds="476 160 412 40"><circle cx="484" cy="171" r="8" fill="#051C2C" /><text x="484" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">B</text><text x="498" y="176" font-size="13" font-weight="bold" fill="#051C2C">PHEV 占电动车销量比例,2025</text><text x="476" y="192" font-size="11" fill="#7F7F7F">%²</text></g>
+<g id="phev-share-region" data-pptx-replace-with="chart" data-pptx-bounds="476 204 412 170" data-pptx-fallback-sha256="8bb1495a8d96f981f3e4d6ec699dc3c6d6f99e3278ff8b17e9ea478d6cc2c4c0">
+  <metadata type="application/json">{"type": "bar", "grouping": "clustered", "categories": ["中国", "全球", "欧洲", "美国"], "series": [{"name": "值", "values": [38, 34, 33, 22], "point_colors": ["#2251FF", "#051C2C", "#B7B7B7", "#B7B7B7"]}], "plot_area": {"x": 526, "y": 222, "width": 272, "height": 140}, "axes": {"category": {"kind": "text", "position": "left", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Microsoft YaHei", "color": "#333333", "tick_marks": "none"}, "value": {"kind": "value", "position": "bottom", "visible": false, "label_position": "none", "minimum": 0, "major_gridlines": false, "maximum": 44}}, "data_labels": {"show_value": true, "position": "outside_end", "font_size": 11, "font_family": "Arial", "bold": true, "color": "#051C2C"}, "style": {"colors": ["#051C2C"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#051C2C", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "gap_width": 67, "x": 476, "y": 204, "width": 412, "height": 170, "name": "phev-share-region"}</metadata>
+  <g id="phev-share-region-chartArea">
+    <line id="phev-share-region-axis" x1="526.00" y1="222" x2="526.00" y2="362" stroke="#B7B7B7" stroke-width="0.75" />
+    
+    <rect x="526.00" y="229.00" width="234.91" height="21.0" fill="#2251FF" />
+    <text x="766.91" y="243.50" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">38</text>
+    <text x="518" y="243.50" font-size="11" fill="#333333" text-anchor="end">中国</text>
+    <rect x="526.00" y="264.00" width="210.18" height="21.0" fill="#051C2C" />
+    <text x="742.18" y="278.50" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">34</text>
+    <text x="518" y="278.50" font-size="11" fill="#333333" text-anchor="end">全球</text>
+    <rect x="526.00" y="299.00" width="204.00" height="21.0" fill="#B7B7B7" />
+    <text x="736.00" y="313.50" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">33</text>
+    <text x="518" y="313.50" font-size="11" fill="#333333" text-anchor="end">欧洲</text>
+    <rect x="526.00" y="334.00" width="136.00" height="21.0" fill="#B7B7B7" />
+    <text x="668.00" y="348.50" font-family="Arial" font-size="11" font-weight="bold" fill="#051C2C">22</text>
+    <text x="518" y="348.50" font-size="11" fill="#333333" text-anchor="end">美国</text>
+  </g>
+</g>
+<g id="exhibit-c-head" data-pptx-bounds="476 386 412 40"><circle cx="484" cy="397" r="8" fill="#051C2C" /><text x="484" y="400.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">C</text><text x="498" y="402" font-size="13" font-weight="bold" fill="#051C2C">中国 BEV 与 PHEV 销量</text><text x="476" y="418" font-size="11" fill="#7F7F7F">百万辆,2022–2025</text></g>
+<g id="china-powertrain" data-pptx-replace-with="chart" data-pptx-bounds="476 430 412 170" data-pptx-fallback-sha256="ac42339694e808a4b9afaff808ec11b0105362f796fba4ae661ef3514005c5eb">
+  <metadata type="application/json">{"type": "column", "grouping": "clustered", "categories": ["2022", "2023", "2024", "2025"], "series": [{"name": "BEV", "values": [4.5, 5.5, 6.4, 8.2]}, {"name": "PHEV", "values": [1.5, 2.7, 4.9, 5.1]}], "plot_area": {"x": 484, "y": 452, "width": 396, "height": 112}, "axes": {"category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Arial", "color": "#7F7F7F", "tick_marks": "none"}, "value": {"kind": "value", "position": "left", "visible": false, "label_position": "none", "minimum": 0, "major_gridlines": false, "maximum": 10}}, "style": {"colors": ["#051C2C", "#2251FF"], "font_family": "Microsoft YaHei", "font_size": 11, "text_color": "#051C2C", "axis_color": "#B7B7B7", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF", "legend_font_size": 11}, "data_labels": {"show_value": true, "position": "outside_end", "font_size": 11, "font_family": "Arial", "color": "#051C2C", "number_format": "0.0"}, "show_legend": true, "legend_position": "bottom", "gap_width": 58, "overlap": -13, "x": 476, "y": 430, "width": 412, "height": 170, "name": "china-powertrain"}</metadata>
+  <g id="china-powertrain-chartArea">
+    <line id="china-powertrain-axis" x1="484" y1="564" x2="880" y2="564" stroke="#B7B7B7" stroke-width="0.75" />
+    
+    <rect x="501.50" y="513.60" width="30.00" height="50.40" fill="#051C2C" />
+    <text x="516.50" y="508.60" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">4.5</text>
+    <rect x="535.50" y="547.20" width="30.00" height="16.80" fill="#2251FF" />
+    <text x="550.50" y="542.20" font-family="Arial" font-size="11" fill="#2251FF" text-anchor="middle">1.5</text>
+    <text x="533.50" y="579" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2022</text>
+    <rect x="600.50" y="502.40" width="30.00" height="61.60" fill="#051C2C" />
+    <text x="615.50" y="497.40" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">5.5</text>
+    <rect x="634.50" y="533.76" width="30.00" height="30.24" fill="#2251FF" />
+    <text x="649.50" y="528.76" font-family="Arial" font-size="11" fill="#2251FF" text-anchor="middle">2.7</text>
+    <text x="632.50" y="579" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2023</text>
+    <rect x="699.50" y="492.32" width="30.00" height="71.68" fill="#051C2C" />
+    <text x="714.50" y="487.32" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">6.4</text>
+    <rect x="733.50" y="509.12" width="30.00" height="54.88" fill="#2251FF" />
+    <text x="748.50" y="504.12" font-family="Arial" font-size="11" fill="#2251FF" text-anchor="middle">4.9</text>
+    <text x="731.50" y="579" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2024</text>
+    <rect x="798.50" y="472.16" width="30.00" height="91.84" fill="#051C2C" />
+    <text x="813.50" y="467.16" font-family="Arial" font-size="11" fill="#051C2C" text-anchor="middle">8.2</text>
+    <rect x="832.50" y="506.88" width="30.00" height="57.12" fill="#2251FF" />
+    <text x="847.50" y="501.88" font-family="Arial" font-size="11" fill="#2251FF" text-anchor="middle">5.1</text>
+    <text x="830.50" y="579" font-family="Arial" font-size="11" fill="#7F7F7F" text-anchor="middle">2025</text>
+    <rect x="484" y="586" width="10" height="10" fill="#051C2C" /><text x="498" y="595" font-size="11" fill="#333333">BEV</text>
+    <rect x="555" y="586" width="10" height="10" fill="#2251FF" /><text x="569" y="595" font-size="11" fill="#333333">PHEV</text>
+  </g>
+</g>
+<g id="insights" data-pptx-bounds="916 160 316 472">
+  <text x="916" y="176" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">关键信息</text>
+  <line x1="916" y1="184" x2="1232" y2="184" stroke="#051C2C" stroke-width="1" />
+  <circle cx="924" cy="205" r="8" fill="#051C2C" /><text x="924" y="208.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text fill="#333333" x="940" y="210">全球 2,100 万辆电动车里 PHEV 占 720 万</text><text fill="#333333" x="940" y="230">(34%);2019 年以来 PHEV 增 12 倍,</text><text fill="#333333" x="940" y="250">BEV 增 9 倍(A)。</text><circle cx="924" cy="281" r="8" fill="#051C2C" /><text x="924" y="284.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text fill="#333333" x="940" y="286">中国 PHEV 占比 38%,三年从 150 万</text><text fill="#333333" x="940" y="306">增到 510 万辆(3.4 倍),BEV 同期</text><text fill="#333333" x="940" y="326">450 万→820 万辆(1.8 倍)(C)。</text><circle cx="924" cy="357" r="8" fill="#051C2C" /><text x="924" y="360.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text fill="#333333" x="940" y="362">PHEV 占比与渗透率并不同向:美国</text><text fill="#333333" x="940" y="382">渗透率 10%、PHEV 占比只有 22%,是</text><text fill="#333333" x="940" y="402">唯一占比低于 25% 的大市场(B)。</text><circle cx="924" cy="433" r="8" fill="#051C2C" /><text x="924" y="436.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text fill="#333333" x="940" y="438">推论:进入渗透率低于 10% 的市场</text><text fill="#333333" x="940" y="458">(拉美、印度、东南亚多数国家),</text><text fill="#333333" x="940" y="478">以 PHEV 先行、BEV 跟进。</text><rect x="916" y="516" width="316" height="116" fill="#F7F7F7" /><rect x="916" y="516" width="4" height="116" fill="#2251FF" />
+  <text x="932" y="538" font-size="12" font-weight="bold" fill="#051C2C">对决策的含义</text>
+  <text fill="#333333" x="932" y="560">产品节奏改为 PHEV 先行:渗透率低于</text><text fill="#333333" x="932" y="580">10% 的市场先上 PHEV,渗透率过 15%</text><text fill="#333333" x="932" y="600">后 BEV 跟进(第 11 页)。</text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. 电动车 = 纯电(BEV)+ 插电混动(PHEV),乘用车口径;渗透率 = 电动车占新车销量的比例</text>
+  <text x="48" y="674" font-size="10" fill="#7F7F7F">2. PHEV 占比 = PHEV ÷ (BEV + PHEV);中国 2022→2025 倍数:PHEV 5.1 ÷ 1.5 = 3.4,BEV 8.2 ÷ 4.5 = 1.8</text>
+  <text x="48" y="690" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="690" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">8</text>
+</g>
+</svg>

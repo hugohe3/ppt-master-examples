@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="196" x2="1216" y2="196" stroke="#1E293B" stroke-width="2" />
+
+  <g id="page-header" data-pptx-bounds="64 52 1152 152">
+    <text x="64" y="96" font-size="44" font-weight="bold" fill="#1E293B">毛利率升至 46.91%,提升全部来自服务占比</text>
+    <text fill="#64748B" font-size="28" x="64" y="140">产品毛利率反而由 37.18% 降到 36.77%</text><text fill="#64748B" font-size="28" x="64" y="174">毛利率仍上升,全部来自服务占比的提高</text></g>
+
+  <g id="metric-gross-margin" data-pptx-bounds="64 238 352 142">
+    <text x="64" y="256" font-size="18" fill="#64748B">毛利率 FY2025</text>
+    <text x="64" y="328" font-size="64" font-weight="bold" font-family="Consolas" fill="#1E293B">46.91%</text>
+    <text x="64" y="368" font-size="24" fill="#2E7D5B">▲ FY24 <tspan font-family="Consolas">46.21%</tspan></text>
+  </g>
+
+  <g id="metric-services-margin" data-pptx-bounds="448 238 352 142">
+    <text x="448" y="256" font-size="18" fill="#64748B">服务毛利率(FY25 四季合计)</text>
+    <text x="448" y="328" font-size="64" font-weight="bold" font-family="Consolas" fill="#2B6CB0">75.41%</text>
+    <text x="448" y="368" font-size="24" fill="#1E293B">产品毛利率 <tspan font-family="Consolas">36.77%</tspan></text>
+  </g>
+
+  <g id="metric-gp-from-services" data-pptx-bounds="832 238 352 142">
+    <text x="832" y="256" font-size="18" fill="#64748B">毛利增量中服务的贡献</text>
+    <text x="832" y="328" font-size="64" font-weight="bold" font-family="Consolas" fill="#2B6CB0">77.6%</text>
+    <text x="832" y="368" font-size="24" fill="#1E293B">服务占全部毛利 <tspan font-family="Consolas">42.17%</tspan></text>
+  </g>
+
+  <g id="quarterly-pl-matrix" data-pptx-replace-with="table" data-pptx-bounds="64 400 1152 240" font-size="22" data-pptx-fallback-sha256="dcb3b8cad5aa54b459c0c22c58d9f7783bb5c595fbda9e7716dd05f13015ea6b">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "quarterly-pl-matrix",
+  "x": 64, "y": 400, "width": 1152, "height": 240,
+  "column_widths": [200, 119, 119, 119, 119, 119, 119, 119, 119],
+  "row_heights": [40, 40, 40, 40, 40, 40],
+  "header_rows": 1,
+  "style": {
+    "font_family": "Consolas",
+    "font_size": 22,
+    "header_font_size": 22,
+    "band_row": false,
+    "header_fill": "#1E293B",
+    "header_text": "#FFFFFF",
+    "body_text": "#1E293B",
+    "valign": "middle"
+  },
+  "defaults": {
+    "cell": {
+      "valign": "middle",
+      "padding": {"left": 12, "right": 12, "top": 6, "bottom": 6},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}
+      }
+    },
+    "run": {"color": "#1E293B"}
+  },
+  "columns": [
+    {"paragraphs": [{"runs": [{"text": "指标", "font_family": "Microsoft YaHei", "color": "#FFFFFF"}]}], "align": "l"},
+    {"text": "FY24 Q1", "align": "r", "color": "#FFFFFF"},
+    {"text": "FY24 Q2", "align": "r", "color": "#FFFFFF"},
+    {"text": "FY24 Q3", "align": "r", "color": "#FFFFFF"},
+    {"text": "FY24 Q4", "align": "r", "color": "#FFFFFF"},
+    {"text": "FY25 Q1", "align": "r", "color": "#FFFFFF",
+     "borders": {"left": {"style": "solid", "color": "#FFFFFF", "width": 2}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}},
+    {"text": "FY25 Q2", "align": "r", "color": "#FFFFFF"},
+    {"text": "FY25 Q3", "align": "r", "color": "#FFFFFF"},
+    {"text": "FY25 Q4", "align": "r", "color": "#FFFFFF"}
+  ],
+  "rows": [
+    [{"paragraphs": [{"runs": [{"text": "净销售额", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "119,575", "align": "r"}, {"text": "90,753", "align": "r"}, {"text": "85,777", "align": "r"}, {"text": "94,930", "align": "r"},
+     {"text": "124,300", "align": "r", "borders": {"left": {"style": "solid", "color": "#1E293B", "width": 2}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}},
+     {"text": "95,359", "align": "r"}, {"text": "94,036", "align": "r"}, {"text": "102,466", "align": "r"}],
+    [{"paragraphs": [{"runs": [{"text": "毛利", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "54,855", "align": "r"}, {"text": "42,271", "align": "r"}, {"text": "39,678", "align": "r"}, {"text": "43,879", "align": "r"},
+     {"text": "58,275", "align": "r", "borders": {"left": {"style": "solid", "color": "#1E293B", "width": 2}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}},
+     {"text": "44,867", "align": "r"}, {"text": "43,718", "align": "r"}, {"text": "48,341", "align": "r"}],
+    [{"paragraphs": [{"runs": [{"text": "毛利率 %", "font_family": "Microsoft YaHei", "color": "#2B6CB0"}]}], "align": "l", "color": "#2B6CB0"},
+     {"text": "45.87", "align": "r", "color": "#2B6CB0"}, {"text": "46.58", "align": "r", "color": "#2B6CB0"}, {"text": "46.26", "align": "r", "color": "#2B6CB0"}, {"text": "46.22", "align": "r", "color": "#2B6CB0"},
+     {"text": "46.88", "align": "r", "color": "#2B6CB0", "borders": {"left": {"style": "solid", "color": "#1E293B", "width": 2}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}},
+     {"text": "47.05", "align": "r", "color": "#2B6CB0"}, {"text": "46.49", "align": "r", "color": "#2B6CB0"}, {"text": "47.18", "align": "r", "color": "#2B6CB0"}],
+    [{"paragraphs": [{"runs": [{"text": "营业利润", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "40,373", "align": "r"}, {"text": "27,900", "align": "r"}, {"text": "25,352", "align": "r"}, {"text": "29,591", "align": "r"},
+     {"text": "42,832", "align": "r", "borders": {"left": {"style": "solid", "color": "#1E293B", "width": 2}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}},
+     {"text": "29,589", "align": "r"}, {"text": "28,202", "align": "r"}, {"text": "32,427", "align": "r"}],
+    [{"paragraphs": [{"runs": [{"text": "营业利润率 %", "font_family": "Microsoft YaHei", "color": "#2B6CB0"}]}], "align": "l", "color": "#2B6CB0"},
+     {"text": "33.76", "align": "r", "color": "#2B6CB0"}, {"text": "30.74", "align": "r", "color": "#2B6CB0"}, {"text": "29.56", "align": "r", "color": "#2B6CB0"}, {"text": "31.17", "align": "r", "color": "#2B6CB0"},
+     {"text": "34.46", "align": "r", "color": "#2B6CB0", "borders": {"left": {"style": "solid", "color": "#1E293B", "width": 2}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}},
+     {"text": "31.03", "align": "r", "color": "#2B6CB0"}, {"text": "29.99", "align": "r", "color": "#2B6CB0"}, {"text": "31.65", "align": "r", "color": "#2B6CB0"}]
+  ]
+}
+    </metadata>
+    <rect x="64" y="400" width="1152" height="40" fill="#1E293B" />
+    <text x="76" y="428" fill="#FFFFFF">指标</text>
+    <text x="371" y="428" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY24 Q1</text>
+    <text x="490" y="428" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY24 Q2</text>
+    <text x="609" y="428" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY24 Q3</text>
+    <text x="728" y="428" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY24 Q4</text>
+    <text x="847" y="428" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY25 Q1</text>
+    <text x="966" y="428" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY25 Q2</text>
+    <text x="1085" y="428" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY25 Q3</text>
+    <text x="1204" y="428" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY25 Q4</text>
+
+    <text x="76" y="468" fill="#1E293B">净销售额</text>
+    <text x="371" y="468" font-family="Consolas" fill="#1E293B" text-anchor="end">119,575</text>
+    <text x="490" y="468" font-family="Consolas" fill="#1E293B" text-anchor="end">90,753</text>
+    <text x="609" y="468" font-family="Consolas" fill="#1E293B" text-anchor="end">85,777</text>
+    <text x="728" y="468" font-family="Consolas" fill="#1E293B" text-anchor="end">94,930</text>
+    <text x="847" y="468" font-family="Consolas" fill="#1E293B" text-anchor="end">124,300</text>
+    <text x="966" y="468" font-family="Consolas" fill="#1E293B" text-anchor="end">95,359</text>
+    <text x="1085" y="468" font-family="Consolas" fill="#1E293B" text-anchor="end">94,036</text>
+    <text x="1204" y="468" font-family="Consolas" fill="#1E293B" text-anchor="end">102,466</text>
+    <line x1="64" y1="480" x2="1216" y2="480" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="76" y="508" fill="#1E293B">毛利</text>
+    <text x="371" y="508" font-family="Consolas" fill="#1E293B" text-anchor="end">54,855</text>
+    <text x="490" y="508" font-family="Consolas" fill="#1E293B" text-anchor="end">42,271</text>
+    <text x="609" y="508" font-family="Consolas" fill="#1E293B" text-anchor="end">39,678</text>
+    <text x="728" y="508" font-family="Consolas" fill="#1E293B" text-anchor="end">43,879</text>
+    <text x="847" y="508" font-family="Consolas" fill="#1E293B" text-anchor="end">58,275</text>
+    <text x="966" y="508" font-family="Consolas" fill="#1E293B" text-anchor="end">44,867</text>
+    <text x="1085" y="508" font-family="Consolas" fill="#1E293B" text-anchor="end">43,718</text>
+    <text x="1204" y="508" font-family="Consolas" fill="#1E293B" text-anchor="end">48,341</text>
+    <line x1="64" y1="520" x2="1216" y2="520" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="76" y="548" fill="#2B6CB0">毛利率 %</text>
+    <text x="371" y="548" font-family="Consolas" fill="#2B6CB0" text-anchor="end">45.87</text>
+    <text x="490" y="548" font-family="Consolas" fill="#2B6CB0" text-anchor="end">46.58</text>
+    <text x="609" y="548" font-family="Consolas" fill="#2B6CB0" text-anchor="end">46.26</text>
+    <text x="728" y="548" font-family="Consolas" fill="#2B6CB0" text-anchor="end">46.22</text>
+    <text x="847" y="548" font-family="Consolas" fill="#2B6CB0" text-anchor="end">46.88</text>
+    <text x="966" y="548" font-family="Consolas" fill="#2B6CB0" text-anchor="end">47.05</text>
+    <text x="1085" y="548" font-family="Consolas" fill="#2B6CB0" text-anchor="end">46.49</text>
+    <text x="1204" y="548" font-family="Consolas" fill="#2B6CB0" text-anchor="end">47.18</text>
+    <line x1="64" y1="560" x2="1216" y2="560" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="76" y="588" fill="#1E293B">营业利润</text>
+    <text x="371" y="588" font-family="Consolas" fill="#1E293B" text-anchor="end">40,373</text>
+    <text x="490" y="588" font-family="Consolas" fill="#1E293B" text-anchor="end">27,900</text>
+    <text x="609" y="588" font-family="Consolas" fill="#1E293B" text-anchor="end">25,352</text>
+    <text x="728" y="588" font-family="Consolas" fill="#1E293B" text-anchor="end">29,591</text>
+    <text x="847" y="588" font-family="Consolas" fill="#1E293B" text-anchor="end">42,832</text>
+    <text x="966" y="588" font-family="Consolas" fill="#1E293B" text-anchor="end">29,589</text>
+    <text x="1085" y="588" font-family="Consolas" fill="#1E293B" text-anchor="end">28,202</text>
+    <text x="1204" y="588" font-family="Consolas" fill="#1E293B" text-anchor="end">32,427</text>
+    <line x1="64" y1="600" x2="1216" y2="600" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="76" y="628" fill="#2B6CB0">营业利润率 %</text>
+    <text x="371" y="628" font-family="Consolas" fill="#2B6CB0" text-anchor="end">33.76</text>
+    <text x="490" y="628" font-family="Consolas" fill="#2B6CB0" text-anchor="end">30.74</text>
+    <text x="609" y="628" font-family="Consolas" fill="#2B6CB0" text-anchor="end">29.56</text>
+    <text x="728" y="628" font-family="Consolas" fill="#2B6CB0" text-anchor="end">31.17</text>
+    <text x="847" y="628" font-family="Consolas" fill="#2B6CB0" text-anchor="end">34.46</text>
+    <text x="966" y="628" font-family="Consolas" fill="#2B6CB0" text-anchor="end">31.03</text>
+    <text x="1085" y="628" font-family="Consolas" fill="#2B6CB0" text-anchor="end">29.99</text>
+    <text x="1204" y="628" font-family="Consolas" fill="#2B6CB0" text-anchor="end">31.65</text>
+    <line x1="64" y1="640" x2="1216" y2="640" stroke="#D8DEE6" stroke-width="1" />
+    <line x1="740" y1="400" x2="740" y2="640" stroke="#1E293B" stroke-width="2" />
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 656 1152 38" font-size="16" fill="#64748B">
+    <text x="64" y="684">来源:「季度损益」sheet;毛利率 = 毛利 ÷ 净销售额合计,营业利润率 = 营业利润 ÷ 净销售额合计</text>
+    <text x="1216" y="684" text-anchor="end">09</text>
+  </g>
+</svg>

@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="210" x2="1216" y2="210" stroke="#1E293B" stroke-width="2" />
+
+  <g id="page-header" data-pptx-bounds="64 52 800 122">
+    <text font-weight="bold" fill="#1E293B" font-size="44" x="64" y="96">九项核心指标全部改善</text><text font-weight="bold" fill="#1E293B" font-size="44" x="64" y="151">问题不在总量而在结构</text></g>
+
+  <g id="metric-net-sales" data-pptx-bounds="930 76 286 126" text-anchor="end">
+    <text x="1216" y="96" font-size="18" fill="#64748B">净销售额合计(百万美元)</text>
+    <text x="1216" y="152" font-size="64" font-weight="bold" font-family="Consolas" fill="#1E293B">416,161</text>
+    <text x="1216" y="186" font-size="24" fill="#2E7D5B">▲ 同比 <tspan font-family="Consolas" font-weight="bold">+6.43%</tspan></text>
+  </g>
+
+  <g id="annual-scorecard" data-pptx-replace-with="table" data-pptx-bounds="64 236 1152 400" font-size="22" data-pptx-fallback-sha256="1d6ebb5a7488187b130ab8cedde09cfb6b17fd59b730f7482b579e75af03eff2">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "annual-scorecard",
+  "x": 64, "y": 236, "width": 1152, "height": 400,
+  "column_widths": [300, 213, 213, 213, 213],
+  "row_heights": [40, 40, 40, 40, 40, 40, 40, 40, 40, 40],
+  "header_rows": 1,
+  "style": {
+    "font_family": "Consolas",
+    "font_size": 22,
+    "header_font_size": 22,
+    "band_row": false,
+    "header_fill": "#1E293B",
+    "header_text": "#FFFFFF",
+    "body_text": "#1E293B",
+    "valign": "middle"
+  },
+  "defaults": {
+    "cell": {
+      "valign": "middle",
+      "padding": {"left": 16, "right": 16, "top": 6, "bottom": 6},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}
+      }
+    },
+    "run": {"color": "#1E293B"}
+  },
+  "columns": [
+    {"paragraphs": [{"runs": [{"text": "项目(百万美元)", "font_family": "Microsoft YaHei", "color": "#FFFFFF"}]}], "align": "l"},
+    {"text": "FY2025", "align": "r", "color": "#FFFFFF"},
+    {"text": "FY2024", "align": "r", "color": "#FFFFFF"},
+    {"text": "变化", "align": "r", "color": "#FFFFFF"},
+    {"text": "变化率", "align": "r", "color": "#FFFFFF"}
+  ],
+  "rows": [
+    [{"paragraphs": [{"runs": [{"text": "净销售额合计", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "416,161", "align": "r"}, {"text": "391,035", "align": "r"},
+     {"text": "+25,126", "align": "r", "color": "#2E7D5B"}, {"text": "+6.43%", "align": "r", "color": "#2E7D5B"}],
+    [{"paragraphs": [{"runs": [{"text": "产品净销售额", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "307,003", "align": "r"}, {"text": "294,866", "align": "r"},
+     {"text": "+12,137", "align": "r", "color": "#2E7D5B"}, {"text": "+4.12%", "align": "r", "color": "#2E7D5B"}],
+    [{"paragraphs": [{"runs": [{"text": "服务净销售额", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "109,158", "align": "r"}, {"text": "96,169", "align": "r"},
+     {"text": "+12,989", "align": "r", "color": "#2E7D5B"}, {"text": "+13.51%", "align": "r", "color": "#2E7D5B"}],
+    [{"paragraphs": [{"runs": [{"text": "毛利", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "195,201", "align": "r"}, {"text": "180,683", "align": "r"},
+     {"text": "+14,518", "align": "r", "color": "#2E7D5B"}, {"text": "+8.04%", "align": "r", "color": "#2E7D5B"}],
+    [{"paragraphs": [{"runs": [{"text": "研发费用", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "34,550", "align": "r"}, {"text": "31,370", "align": "r"},
+     {"text": "+3,180", "align": "r", "color": "#2E7D5B"}, {"text": "+10.14%", "align": "r", "color": "#2E7D5B"}],
+    [{"paragraphs": [{"runs": [{"text": "销售及管理费用", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "27,601", "align": "r"}, {"text": "26,097", "align": "r"},
+     {"text": "+1,504", "align": "r", "color": "#2E7D5B"}, {"text": "+5.76%", "align": "r", "color": "#2E7D5B"}],
+    [{"paragraphs": [{"runs": [{"text": "营业利润", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "133,050", "align": "r"}, {"text": "123,216", "align": "r"},
+     {"text": "+9,834", "align": "r", "color": "#2E7D5B"}, {"text": "+7.98%", "align": "r", "color": "#2E7D5B"}],
+    [{"paragraphs": [{"runs": [{"text": "净利润", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "112,010", "align": "r"}, {"text": "93,736", "align": "r"},
+     {"text": "+18,274", "align": "r", "color": "#2E7D5B"}, {"text": "+19.50%", "align": "r", "color": "#2E7D5B"}],
+    [{"paragraphs": [{"runs": [{"text": "稀释每股收益(美元)", "font_family": "Microsoft YaHei", "color": "#1E293B"}]}], "align": "l"},
+     {"text": "7.46", "align": "r"}, {"text": "6.08", "align": "r"},
+     {"text": "+1.38", "align": "r", "color": "#2E7D5B"}, {"text": "+22.70%", "align": "r", "color": "#2E7D5B"}]
+  ]
+}
+    </metadata>
+    <rect x="64" y="236" width="1152" height="40" fill="#1E293B" />
+    <text x="80" y="264" fill="#FFFFFF">项目(百万美元)</text>
+    <text x="561" y="264" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY2025</text>
+    <text x="774" y="264" font-family="Consolas" fill="#FFFFFF" text-anchor="end">FY2024</text>
+    <text x="987" y="264" fill="#FFFFFF" text-anchor="end">变化</text>
+    <text x="1200" y="264" fill="#FFFFFF" text-anchor="end">变化率</text>
+
+    <text x="80" y="304" fill="#1E293B">净销售额合计</text>
+    <text x="561" y="304" font-family="Consolas" fill="#1E293B" text-anchor="end">416,161</text>
+    <text x="774" y="304" font-family="Consolas" fill="#1E293B" text-anchor="end">391,035</text>
+    <text x="987" y="304" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+25,126</text>
+    <text x="1200" y="304" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+6.43%</text>
+    <line x1="64" y1="316" x2="1216" y2="316" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="80" y="344" fill="#1E293B">产品净销售额</text>
+    <text x="561" y="344" font-family="Consolas" fill="#1E293B" text-anchor="end">307,003</text>
+    <text x="774" y="344" font-family="Consolas" fill="#1E293B" text-anchor="end">294,866</text>
+    <text x="987" y="344" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+12,137</text>
+    <text x="1200" y="344" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+4.12%</text>
+    <line x1="64" y1="356" x2="1216" y2="356" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="80" y="384" fill="#1E293B">服务净销售额</text>
+    <text x="561" y="384" font-family="Consolas" fill="#1E293B" text-anchor="end">109,158</text>
+    <text x="774" y="384" font-family="Consolas" fill="#1E293B" text-anchor="end">96,169</text>
+    <text x="987" y="384" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+12,989</text>
+    <text x="1200" y="384" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+13.51%</text>
+    <line x1="64" y1="396" x2="1216" y2="396" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="80" y="424" fill="#1E293B">毛利</text>
+    <text x="561" y="424" font-family="Consolas" fill="#1E293B" text-anchor="end">195,201</text>
+    <text x="774" y="424" font-family="Consolas" fill="#1E293B" text-anchor="end">180,683</text>
+    <text x="987" y="424" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+14,518</text>
+    <text x="1200" y="424" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+8.04%</text>
+    <line x1="64" y1="436" x2="1216" y2="436" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="80" y="464" fill="#1E293B">研发费用</text>
+    <text x="561" y="464" font-family="Consolas" fill="#1E293B" text-anchor="end">34,550</text>
+    <text x="774" y="464" font-family="Consolas" fill="#1E293B" text-anchor="end">31,370</text>
+    <text x="987" y="464" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+3,180</text>
+    <text x="1200" y="464" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+10.14%</text>
+    <line x1="64" y1="476" x2="1216" y2="476" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="80" y="504" fill="#1E293B">销售及管理费用</text>
+    <text x="561" y="504" font-family="Consolas" fill="#1E293B" text-anchor="end">27,601</text>
+    <text x="774" y="504" font-family="Consolas" fill="#1E293B" text-anchor="end">26,097</text>
+    <text x="987" y="504" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+1,504</text>
+    <text x="1200" y="504" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+5.76%</text>
+    <line x1="64" y1="516" x2="1216" y2="516" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="80" y="544" fill="#1E293B">营业利润</text>
+    <text x="561" y="544" font-family="Consolas" fill="#1E293B" text-anchor="end">133,050</text>
+    <text x="774" y="544" font-family="Consolas" fill="#1E293B" text-anchor="end">123,216</text>
+    <text x="987" y="544" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+9,834</text>
+    <text x="1200" y="544" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+7.98%</text>
+    <line x1="64" y1="556" x2="1216" y2="556" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="80" y="584" fill="#1E293B">净利润</text>
+    <text x="561" y="584" font-family="Consolas" fill="#1E293B" text-anchor="end">112,010</text>
+    <text x="774" y="584" font-family="Consolas" fill="#1E293B" text-anchor="end">93,736</text>
+    <text x="987" y="584" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+18,274</text>
+    <text x="1200" y="584" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+19.50%</text>
+    <line x1="64" y1="596" x2="1216" y2="596" stroke="#D8DEE6" stroke-width="1" />
+
+    <text x="80" y="624" fill="#1E293B">稀释每股收益(美元)</text>
+    <text x="561" y="624" font-family="Consolas" fill="#1E293B" text-anchor="end">7.46</text>
+    <text x="774" y="624" font-family="Consolas" fill="#1E293B" text-anchor="end">6.08</text>
+    <text x="987" y="624" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+1.38</text>
+    <text x="1200" y="624" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+22.70%</text>
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#D8DEE6" stroke-width="1" />
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 50">
+    <line x1="64" y1="652" x2="1216" y2="652" stroke="#D8DEE6" stroke-width="1" />
+    <text x="64" y="684" font-size="16" fill="#64748B">来源:「年度汇总」sheet;比较基准为上年同期,本项目无计划值</text>
+    <text x="1216" y="684" font-size="16" fill="#64748B" text-anchor="end">02</text>
+  </g>
+</svg>

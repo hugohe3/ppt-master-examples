@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="ending">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">附录</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75" />
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text font-weight="bold" fill="#051C2C" font-size="24" x="48" y="70">附录:本报告全部数字来自 IEA Global EV Outlook 2025 数据浏览器,</text><text font-weight="bold" fill="#051C2C" font-size="24" x="48" y="100">口径为乘用车 BEV + PHEV</text></g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">A:各地区电动车销量,万辆,2020–2025,及 2025 年渗透率;B:2035 年 IEA 既定政策情景</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1" />
+<g id="exhibit-a-head" data-pptx-bounds="48 160 760 40"><circle cx="56" cy="171" r="8" fill="#051C2C" /><text x="56" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A</text><text x="70" y="176" font-size="13" font-weight="bold" fill="#051C2C">电动车销量与渗透率</text><text x="48" y="192" font-size="11" fill="#7F7F7F">万辆;渗透率 %</text></g>
+<g id="appendix-data" data-pptx-replace-with="table" data-pptx-bounds="48 200 720 420" data-pptx-fallback-sha256="fe634972acd3a23e84781196b8870b99d5e357cd3028776a62b9e67c21c1bc98">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "appendix-data", "x": 48, "y": 200, "width": 720, "height": 420, "header_rows": 1, "column_widths": [100, 84, 84, 84, 84, 84, 84, 116], "row_heights": [30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30], "style": {"font_family": "Microsoft YaHei", "font_size": 12, "header_font_size": 11, "band_row": false, "header_text": "#051C2C", "body_text": "#333333", "border_color": "#E3E3E3", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 1, "bottom": 1}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E3E3E3", "width": 0.75}, "bottom": {"style": "solid", "color": "#E3E3E3", "width": 0.75}}}}, "columns": [{"text": "地区", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2020", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2021", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2022", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2023", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2024", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2025", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2025 渗透率", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}], "rows": [[{"color": "#051C2C", "bold": true, "text": "全球"}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "300", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "660", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "1,000", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "1,400", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "1,700", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "2,100", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "25%", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}], [{"bold": true, "text": "中国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "110", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "330", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "600", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "810", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1,100", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1,300", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "53%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "欧洲"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "140", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "230", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "270", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "320", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "320", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "420", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "28%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "美国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "30", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "63", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "99", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "140", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "160", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "150", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "10%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "德国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "39", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "68", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "83", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "70", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "57", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "86", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "30%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "英国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "18", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "31", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "37", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "46", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "55", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "70", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "35%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "法国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "19", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "31", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "34", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "47", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "45", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "45", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "26%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "日本"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "2.9", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4.4", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9.6", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "14", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "10", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "10", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "3%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "韩国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4.0", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9.1", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "14", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "13", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "13", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "22", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "11%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "印度"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "0.32", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.2", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4.8", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "8.2", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9.2", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "17", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "东南亚"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.1", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.5", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "4.6", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "16", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "24", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "54", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "18%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "巴西"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "0.26", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.4", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.9", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "5.2", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "13", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "18", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "墨西哥"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "0.38", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "0.65", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "0.84", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1.7", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "2.7", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "9.0", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "7%", "font_family": "Arial", "font_size": 12}]}]}]]}</metadata>
+  <line x1="48" y1="230" x2="768" y2="230" stroke="#051C2C" stroke-width="1" />
+  <text x="56" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">地区</text>
+  <text x="224" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2020</text>
+  <text x="308" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2021</text>
+  <text x="392" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2022</text>
+  <text x="476" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2023</text>
+  <text x="560" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2024</text>
+  <text x="644" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2025</text>
+  <text x="760" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2025 渗透率</text>
+  <line x1="48" y1="260" x2="768" y2="260" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="249.2" font-size="12" fill="#051C2C" text-anchor="start" font-weight="bold">全球</text>
+  <text x="224" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">300</text>
+  <text x="308" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">660</text>
+  <text x="392" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">1,000</text>
+  <text x="476" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">1,400</text>
+  <text x="560" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">1,700</text>
+  <text x="644" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">2,100</text>
+  <text x="760" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">25%</text>
+  <line x1="48" y1="290" x2="768" y2="290" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="279.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">中国</text>
+  <text x="224" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">110</text>
+  <text x="308" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">330</text>
+  <text x="392" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">600</text>
+  <text x="476" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">810</text>
+  <text x="560" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1,100</text>
+  <text x="644" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1,300</text>
+  <text x="760" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">53%</text>
+  <line x1="48" y1="320" x2="768" y2="320" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="309.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">欧洲</text>
+  <text x="224" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">140</text>
+  <text x="308" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">230</text>
+  <text x="392" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">270</text>
+  <text x="476" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">320</text>
+  <text x="560" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">320</text>
+  <text x="644" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">420</text>
+  <text x="760" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">28%</text>
+  <line x1="48" y1="350" x2="768" y2="350" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="339.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">美国</text>
+  <text x="224" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">30</text>
+  <text x="308" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">63</text>
+  <text x="392" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">99</text>
+  <text x="476" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">140</text>
+  <text x="560" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">160</text>
+  <text x="644" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">150</text>
+  <text x="760" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">10%</text>
+  <line x1="48" y1="380" x2="768" y2="380" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="369.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">德国</text>
+  <text x="224" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">39</text>
+  <text x="308" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">68</text>
+  <text x="392" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">83</text>
+  <text x="476" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">70</text>
+  <text x="560" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">57</text>
+  <text x="644" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">86</text>
+  <text x="760" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">30%</text>
+  <line x1="48" y1="410" x2="768" y2="410" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="399.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">英国</text>
+  <text x="224" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">18</text>
+  <text x="308" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">31</text>
+  <text x="392" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">37</text>
+  <text x="476" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">46</text>
+  <text x="560" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">55</text>
+  <text x="644" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">70</text>
+  <text x="760" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">35%</text>
+  <line x1="48" y1="440" x2="768" y2="440" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="429.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">法国</text>
+  <text x="224" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">19</text>
+  <text x="308" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">31</text>
+  <text x="392" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">34</text>
+  <text x="476" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">47</text>
+  <text x="560" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">45</text>
+  <text x="644" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">45</text>
+  <text x="760" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">26%</text>
+  <line x1="48" y1="470" x2="768" y2="470" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="459.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">日本</text>
+  <text x="224" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">2.9</text>
+  <text x="308" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">4.4</text>
+  <text x="392" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">9.6</text>
+  <text x="476" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">14</text>
+  <text x="560" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">10</text>
+  <text x="644" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">10</text>
+  <text x="760" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">3%</text>
+  <line x1="48" y1="500" x2="768" y2="500" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="489.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">韩国</text>
+  <text x="224" y="489.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">4.0</text>
+  <text x="308" y="489.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">9.1</text>
+  <text x="392" y="489.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">14</text>
+  <text x="476" y="489.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">13</text>
+  <text x="560" y="489.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">13</text>
+  <text x="644" y="489.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">22</text>
+  <text x="760" y="489.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">11%</text>
+  <line x1="48" y1="530" x2="768" y2="530" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="519.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">印度</text>
+  <text x="224" y="519.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">0.32</text>
+  <text x="308" y="519.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.2</text>
+  <text x="392" y="519.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">4.8</text>
+  <text x="476" y="519.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">8.2</text>
+  <text x="560" y="519.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">9.2</text>
+  <text x="644" y="519.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">17</text>
+  <text x="760" y="519.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">4%</text>
+  <line x1="48" y1="560" x2="768" y2="560" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="549.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">东南亚</text>
+  <text x="224" y="549.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.1</text>
+  <text x="308" y="549.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.5</text>
+  <text x="392" y="549.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">4.6</text>
+  <text x="476" y="549.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">16</text>
+  <text x="560" y="549.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">24</text>
+  <text x="644" y="549.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">54</text>
+  <text x="760" y="549.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">18%</text>
+  <line x1="48" y1="590" x2="768" y2="590" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="579.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">巴西</text>
+  <text x="224" y="579.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">0.26</text>
+  <text x="308" y="579.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.4</text>
+  <text x="392" y="579.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.9</text>
+  <text x="476" y="579.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">5.2</text>
+  <text x="560" y="579.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">13</text>
+  <text x="644" y="579.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">18</text>
+  <text x="760" y="579.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">9%</text>
+  <line x1="48" y1="620" x2="768" y2="620" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="56" y="609.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">墨西哥</text>
+  <text x="224" y="609.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">0.38</text>
+  <text x="308" y="609.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">0.65</text>
+  <text x="392" y="609.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">0.84</text>
+  <text x="476" y="609.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1.7</text>
+  <text x="560" y="609.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">2.7</text>
+  <text x="644" y="609.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">9.0</text>
+  <text x="760" y="609.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">7%</text>
+</g>
+<g id="exhibit-b-head" data-pptx-bounds="848 160 384 40"><circle cx="856" cy="171" r="8" fill="#051C2C" /><text x="856" y="174.5" font-family="Arial" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">B</text><text x="870" y="176" font-size="13" font-weight="bold" fill="#051C2C">2035 年 IEA 既定政策情景</text><text x="848" y="192" font-size="11" fill="#7F7F7F">年销量,万辆;渗透率 %</text></g>
+<g id="steps-2035" data-pptx-replace-with="table" data-pptx-bounds="848 200 384 270" data-pptx-fallback-sha256="e5d1923f743ee172a60140a1eeeb662e27ce4e023fbb923e4140b348a55d37e1">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "steps-2035", "x": 848, "y": 200, "width": 384, "height": 270, "header_rows": 1, "column_widths": [120, 132, 132], "row_heights": [30, 30, 30, 30, 30, 30, 30, 30, 30], "style": {"font_family": "Microsoft YaHei", "font_size": 12, "header_font_size": 11, "band_row": false, "header_text": "#051C2C", "body_text": "#333333", "border_color": "#E3E3E3", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 1, "bottom": 1}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E3E3E3", "width": 0.75}, "bottom": {"style": "solid", "color": "#E3E3E3", "width": 0.75}}}}, "columns": [{"text": "地区", "align": "l", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2035 销量", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}, {"text": "2035 渗透率", "align": "r", "bold": true, "color": "#051C2C", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#051C2C", "width": 1}}}], "rows": [[{"color": "#051C2C", "bold": true, "text": "全球"}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "5,500", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}, {"align": "r", "color": "#051C2C", "bold": true, "paragraphs": [{"align": "r", "runs": [{"text": "53%", "font_family": "Arial", "font_size": 12, "color": "#051C2C", "bold": true}]}]}], [{"bold": true, "text": "中国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "2,600", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "94%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "欧洲"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "1,400", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "85%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "美国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "310", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "20%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "东南亚"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "270", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "58%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "印度"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "210", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "24%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "韩国"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "88", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "60%", "font_family": "Arial", "font_size": 12}]}]}], [{"bold": true, "text": "日本"}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "70", "font_family": "Arial", "font_size": 12}]}]}, {"align": "r", "paragraphs": [{"align": "r", "runs": [{"text": "20%", "font_family": "Arial", "font_size": 12}]}]}]]}</metadata>
+  <line x1="848" y1="230" x2="1232" y2="230" stroke="#051C2C" stroke-width="1" />
+  <text x="856" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="start">地区</text>
+  <text x="1092" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2035 销量</text>
+  <text x="1224" y="221" font-size="11" font-weight="bold" fill="#051C2C" text-anchor="end">2035 渗透率</text>
+  <line x1="848" y1="260" x2="1232" y2="260" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="856" y="249.2" font-size="12" fill="#051C2C" text-anchor="start" font-weight="bold">全球</text>
+  <text x="1092" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">5,500</text>
+  <text x="1224" y="249.2" font-size="12" fill="#051C2C" text-anchor="end" font-family="Arial" font-weight="bold">53%</text>
+  <line x1="848" y1="290" x2="1232" y2="290" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="856" y="279.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">中国</text>
+  <text x="1092" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">2,600</text>
+  <text x="1224" y="279.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">94%</text>
+  <line x1="848" y1="320" x2="1232" y2="320" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="856" y="309.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">欧洲</text>
+  <text x="1092" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">1,400</text>
+  <text x="1224" y="309.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">85%</text>
+  <line x1="848" y1="350" x2="1232" y2="350" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="856" y="339.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">美国</text>
+  <text x="1092" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">310</text>
+  <text x="1224" y="339.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">20%</text>
+  <line x1="848" y1="380" x2="1232" y2="380" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="856" y="369.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">东南亚</text>
+  <text x="1092" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">270</text>
+  <text x="1224" y="369.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">58%</text>
+  <line x1="848" y1="410" x2="1232" y2="410" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="856" y="399.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">印度</text>
+  <text x="1092" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">210</text>
+  <text x="1224" y="399.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">24%</text>
+  <line x1="848" y1="440" x2="1232" y2="440" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="856" y="429.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">韩国</text>
+  <text x="1092" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">88</text>
+  <text x="1224" y="429.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">60%</text>
+  <line x1="848" y1="470" x2="1232" y2="470" stroke="#E3E3E3" stroke-width="0.75" />
+  <text x="856" y="459.2" font-size="12" fill="#333333" text-anchor="start" font-weight="bold">日本</text>
+  <text x="1092" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">70</text>
+  <text x="1224" y="459.2" font-size="12" fill="#333333" text-anchor="end" font-family="Arial">20%</text>
+</g>
+<g id="method-notes" data-pptx-bounds="848 484 384 76">
+  <text x="848" y="498" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">计算口径</text>
+  <line x1="848" y1="506" x2="1232" y2="506" stroke="#051C2C" stroke-width="0.75" />
+  <text fill="#333333" font-size="11" x="848" y="524">渗透率 = 电动车销量 ÷ 乘用车新车销量;倍数 = 2025 年销量 ÷ 2023 年销量</text><text fill="#333333" font-size="11" x="848" y="540">增量 = 2025 年销量 − 2024 年销量;增量占比 = 该地区增量 ÷ 总增量</text><text fill="#333333" font-size="11" x="848" y="556">年均增速 = (期末 ÷ 期初)^(1 ÷ 年数) − 1;比例均按取整前数值计算后取整</text></g>
+<g id="source-links" data-pptx-bounds="848 572 384 70">
+  <text x="848" y="586" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">数据来源与许可</text>
+  <line x1="848" y1="594" x2="1232" y2="594" stroke="#051C2C" stroke-width="0.75" />
+  <text fill="#333333" font-size="12" x="848" y="614">IEA (2025), Global EV Outlook 2025,2025 年为 IEA 全年估计</text><text fill="#333333" font-size="12" x="848" y="632"><tspan><a href="https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer"><tspan fill="#2251FF" text-decoration="underline">Global EV Data Explorer</tspan></a>,许可 CC BY 4.0;2035 年为 STEPS 情景</tspan></text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. IEA 数值为取整后的估计值;FCEV 数量极小,忽略;欧洲含 EU27 + 英国 + 挪威等;东南亚为 IEA 区域汇总</text>
+  <text x="48" y="674" font-size="10" fill="#7F7F7F">2. 数据于 2026-09-05 通过 IEA 官方接口取得(api.iea.org/evs,category=Historical / Projection-STEPS,mode=Cars),未做数值修改</text>
+  <text x="48" y="690" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer,CC BY 4.0</text>
+  <text x="1232" y="690" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">14</text>
+</g>
+</svg>

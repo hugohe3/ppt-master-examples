@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="180" x2="1216" y2="180" stroke="#1E293B" stroke-width="2"/>
+
+  <g id="page-header" data-pptx-bounds="64 52 1152 116">
+    <text x="64" y="100" font-size="44" font-weight="bold" fill="#1E293B">四个地区增长,大中华区是唯一下滑地区</text>
+    <text x="64" y="146" font-size="28" fill="#64748B">日本 +14.57%、欧洲 +9.58%、美洲 +6.77%,只有大中华区为负</text>
+  </g>
+
+  <g id="region-stack" data-pptx-replace-with="chart" data-pptx-bounds="40 256 844 378" data-pptx-fallback-sha256="f7ff5cdf10c6ba5d89030a3595afb4ac6120fb0acf6a061259eb385026b331f6">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.native-chart.v1",
+  "name": "region-stack",
+  "type": "column",
+  "grouping": "stacked",
+  "x": 40, "y": 256, "width": 844, "height": 378,
+  "plot_area": {"x": 130, "y": 260, "width": 730, "height": 300},
+  "gap_width": 63,
+  "categories": ["FY24 Q1", "FY24 Q2", "FY24 Q3", "FY24 Q4", "FY25 Q1", "FY25 Q2", "FY25 Q3", "FY25 Q4"],
+  "series": [
+    {"name": "美洲", "values": [50430, 37273, 37678, 41664, 52648, 40315, 41198, 44192]},
+    {"name": "欧洲", "values": [30397, 24123, 21884, 24924, 33861, 24454, 24014, 28703]},
+    {"name": "大中华区", "values": [20819, 16372, 14728, 15033, 18513, 16002, 15369, 14493]},
+    {"name": "日本", "values": [7767, 6262, 5097, 5926, 8987, 7298, 5782, 6636]},
+    {"name": "亚太其他地区", "values": [10162, 6723, 6390, 7383, 10291, 7290, 7673, 8442]}
+  ],
+  "show_legend": true,
+  "legend_position": "bottom",
+  "axes": {
+    "category": {"kind": "text", "tick_marks": "none", "color": "#64748B", "font_size": 18, "font_family": "Microsoft YaHei"},
+    "value": {"kind": "value", "minimum": 0, "maximum": 130000, "major_unit": 40000, "number_format": "#,##0", "major_gridlines": true, "tick_marks": "none", "color": "#64748B", "font_size": 18, "font_family": "Consolas"}
+  },
+  "style": {
+    "colors": ["#1E293B", "#2B6CB0", "#B4342C", "#7BA7D4", "#94A3B8"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 18,
+    "axis_color": "#1E293B",
+    "grid_color": "#E8EDF2",
+    "text_color": "#64748B",
+    "legend_font_size": 18
+  }
+}
+    </metadata>
+    <g id="region-stack-chartArea">
+      <line id="region-stack-grid-120000" x1="130" y1="283.1" x2="860" y2="283.1" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="region-stack-grid-80000" x1="130" y1="375.4" x2="860" y2="375.4" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="region-stack-grid-40000" x1="130" y1="467.7" x2="860" y2="467.7" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="region-stack-axis" x1="130" y1="560" x2="860" y2="560" stroke="#1E293B" stroke-width="2"/>
+      <!-- chart-plot-area: object=region-stack | 130,260,860,560 -->
+      <rect x="147.6" y="443.6" width="56" height="116.4" fill="#1E293B"/>
+      <rect x="147.6" y="373.5" width="56" height="70.1" fill="#2B6CB0"/>
+      <rect x="147.6" y="325.5" width="56" height="48.0" fill="#B4342C"/>
+      <rect x="147.6" y="307.6" width="56" height="17.9" fill="#7BA7D4"/>
+      <rect x="147.6" y="284.1" width="56" height="23.5" fill="#94A3B8"/>
+      <rect x="238.9" y="474.0" width="56" height="86.0" fill="#1E293B"/>
+      <rect x="238.9" y="418.3" width="56" height="55.7" fill="#2B6CB0"/>
+      <rect x="238.9" y="380.5" width="56" height="37.8" fill="#B4342C"/>
+      <rect x="238.9" y="366.0" width="56" height="14.5" fill="#7BA7D4"/>
+      <rect x="238.9" y="350.5" width="56" height="15.5" fill="#94A3B8"/>
+      <rect x="330.1" y="473.1" width="56" height="86.9" fill="#1E293B"/>
+      <rect x="330.1" y="422.6" width="56" height="50.5" fill="#2B6CB0"/>
+      <rect x="330.1" y="388.6" width="56" height="34.0" fill="#B4342C"/>
+      <rect x="330.1" y="376.8" width="56" height="11.8" fill="#7BA7D4"/>
+      <rect x="330.1" y="362.1" width="56" height="14.7" fill="#94A3B8"/>
+      <rect x="421.4" y="463.9" width="56" height="96.1" fill="#1E293B"/>
+      <rect x="421.4" y="406.4" width="56" height="57.5" fill="#2B6CB0"/>
+      <rect x="421.4" y="371.7" width="56" height="34.7" fill="#B4342C"/>
+      <rect x="421.4" y="358.0" width="56" height="13.7" fill="#7BA7D4"/>
+      <rect x="421.4" y="341.0" width="56" height="17.0" fill="#94A3B8"/>
+      <rect x="512.6" y="438.5" width="56" height="121.5" fill="#1E293B"/>
+      <rect x="512.6" y="360.4" width="56" height="78.1" fill="#2B6CB0"/>
+      <rect x="512.6" y="317.7" width="56" height="42.7" fill="#B4342C"/>
+      <rect x="512.6" y="297.0" width="56" height="20.7" fill="#7BA7D4"/>
+      <rect x="512.6" y="273.3" width="56" height="23.7" fill="#94A3B8"/>
+      <rect x="603.9" y="467.0" width="56" height="93.0" fill="#1E293B"/>
+      <rect x="603.9" y="410.6" width="56" height="56.4" fill="#2B6CB0"/>
+      <rect x="603.9" y="373.7" width="56" height="36.9" fill="#B4342C"/>
+      <rect x="603.9" y="356.9" width="56" height="16.8" fill="#7BA7D4"/>
+      <rect x="603.9" y="340.1" width="56" height="16.8" fill="#94A3B8"/>
+      <rect x="695.1" y="464.9" width="56" height="95.1" fill="#1E293B"/>
+      <rect x="695.1" y="409.5" width="56" height="55.4" fill="#2B6CB0"/>
+      <rect x="695.1" y="374.0" width="56" height="35.5" fill="#B4342C"/>
+      <rect x="695.1" y="360.7" width="56" height="13.3" fill="#7BA7D4"/>
+      <rect x="695.1" y="343.0" width="56" height="17.7" fill="#94A3B8"/>
+      <rect x="786.4" y="458.0" width="56" height="102.0" fill="#1E293B"/>
+      <rect x="786.4" y="391.8" width="56" height="66.2" fill="#2B6CB0"/>
+      <rect x="786.4" y="358.4" width="56" height="33.4" fill="#B4342C"/>
+      <rect x="786.4" y="343.1" width="56" height="15.3" fill="#7BA7D4"/>
+      <rect x="786.4" y="323.6" width="56" height="19.5" fill="#94A3B8"/>
+    </g>
+    <text x="120" y="289.1" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">120,000</text>
+    <text x="120" y="381.4" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">80,000</text>
+    <text x="120" y="473.7" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">40,000</text>
+    <text x="120" y="566" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">0</text>
+    <text x="175.6" y="588" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q1</text>
+    <text x="266.9" y="588" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q2</text>
+    <text x="358.1" y="588" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q3</text>
+    <text x="449.4" y="588" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q4</text>
+    <text x="540.6" y="588" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q1</text>
+    <text x="631.9" y="588" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q2</text>
+    <text x="723.1" y="588" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q3</text>
+    <text x="814.4" y="588" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q4</text>
+    <rect x="130" y="612" width="14" height="14" fill="#1E293B"/>
+    <text x="152" y="624" font-size="18" fill="#64748B">美洲</text>
+    <rect x="250" y="612" width="14" height="14" fill="#2B6CB0"/>
+    <text x="272" y="624" font-size="18" fill="#64748B">欧洲</text>
+    <rect x="370" y="612" width="14" height="14" fill="#B4342C"/>
+    <text x="392" y="624" font-size="18" fill="#64748B">大中华区</text>
+    <rect x="530" y="612" width="14" height="14" fill="#7BA7D4"/>
+    <text x="552" y="624" font-size="18" fill="#64748B">日本</text>
+    <rect x="650" y="612" width="14" height="14" fill="#94A3B8"/>
+    <text x="672" y="624" font-size="18" fill="#64748B">亚太其他地区</text>
+  </g>
+
+  <g id="metric-greater-china" data-pptx-bounds="908 256 308 200">
+    <text x="908" y="278" font-size="18" fill="#64748B">大中华区 FY2025 同比</text>
+    <text x="908" y="352" font-size="64" font-weight="bold" font-family="Consolas" fill="#B4342C">−3.85%</text>
+    <text x="908" y="392" font-size="24" fill="#1E293B">▼ 唯一下滑的地区</text>
+    <text x="908" y="428" font-size="18" fill="#64748B">占收入比 17.12% → 15.47%</text>
+  </g>
+
+  <g id="region-yoy" data-pptx-bounds="908 472 308 166">
+    <line x1="908" y1="478" x2="1216" y2="478" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="908" y="510" font-size="18" fill="#64748B">其余地区 FY2025 同比</text>
+    <text x="908" y="540" font-size="18" fill="#1E293B">美洲</text>
+    <text x="1216" y="540" font-size="18" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+6.77%</text>
+    <text x="908" y="568" font-size="18" fill="#1E293B">欧洲</text>
+    <text x="1216" y="568" font-size="18" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+9.58%</text>
+    <text x="908" y="596" font-size="18" fill="#1E293B">日本</text>
+    <text x="1216" y="596" font-size="18" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+14.57%</text>
+    <text x="908" y="624" font-size="18" fill="#1E293B">亚太其他地区</text>
+    <text x="1216" y="624" font-size="18" font-family="Consolas" fill="#2E7D5B" text-anchor="end">+9.91%</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 50">
+    <line x1="64" y1="652" x2="1216" y2="652" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="684" font-size="16" fill="#64748B">来源:「地区分部」sheet;五个地区合计等于净销售额合计,已逐季校验</text>
+    <text x="1216" y="684" font-size="16" fill="#64748B" text-anchor="end">07</text>
+  </g>
+</svg>

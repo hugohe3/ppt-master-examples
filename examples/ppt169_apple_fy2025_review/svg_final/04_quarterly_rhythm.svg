@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="180" x2="1216" y2="180" stroke="#1E293B" stroke-width="2"/>
+
+  <g id="page-header" data-pptx-bounds="64 52 1152 116">
+    <text x="64" y="100" font-size="44" font-weight="bold" fill="#1E293B">四个季度同比全部为正,Q1 峰值节奏保持不变</text>
+    <text x="64" y="146" font-size="28" fill="#64748B">增长不是靠某一个季度拉起来的:同比区间 +3.95% 到 +9.63%</text>
+  </g>
+
+  <g id="quarterly-revenue" data-pptx-replace-with="chart" data-pptx-bounds="64 230 1152 330" data-pptx-fallback-sha256="f5a726fd82593bb304885306ed7d78bdd780f39dfdd43ab39d084a23d54514c5">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.native-chart.v1",
+  "name": "quarterly-revenue",
+  "type": "column",
+  "grouping": "clustered",
+  "x": 64, "y": 230, "width": 1152, "height": 330,
+  "plot_area": {"x": 150, "y": 250, "width": 1050, "height": 270},
+  "gap_width": 56,
+  "categories": ["FY24 Q1", "FY24 Q2", "FY24 Q3", "FY24 Q4", "FY25 Q1", "FY25 Q2", "FY25 Q3", "FY25 Q4"],
+  "series": [
+    {
+      "name": "净销售额合计",
+      "values": [119575, 90753, 85777, 94930, 124300, 95359, 94036, 102466],
+      "point_colors": ["#7BA7D4", "#7BA7D4", "#7BA7D4", "#7BA7D4", "#2B6CB0", "#2B6CB0", "#2B6CB0", "#2B6CB0"]
+    }
+  ],
+  "data_labels": {
+    "show_value": true,
+    "position": "outside_end",
+    "number_format": "#,##0",
+    "font_size": 18,
+    "font_family": "Consolas",
+    "color": "#1E293B"
+  },
+  "axes": {
+    "category": {"kind": "text", "tick_marks": "none", "color": "#64748B", "font_size": 18, "font_family": "Microsoft YaHei"},
+    "value": {"kind": "value", "visible": false, "major_gridlines": false}
+  },
+  "style": {
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 18,
+    "axis_color": "#1E293B",
+    "text_color": "#1E293B"
+  }
+}
+    </metadata>
+    <g id="quarterly-revenue-chartArea">
+      <line id="quarterly-revenue-axis" x1="150" y1="520" x2="1200" y2="520" stroke="#1E293B" stroke-width="2"/>
+      <!-- chart-plot-area: object=quarterly-revenue | 150,250,1200,520 -->
+      <rect x="173.6" y="271.7" width="84" height="248.3" fill="#7BA7D4"/>
+      <rect x="304.9" y="331.5" width="84" height="188.5" fill="#7BA7D4"/>
+      <rect x="436.1" y="341.9" width="84" height="178.1" fill="#7BA7D4"/>
+      <rect x="567.4" y="322.8" width="84" height="197.2" fill="#7BA7D4"/>
+      <rect x="698.6" y="261.8" width="84" height="258.2" fill="#2B6CB0"/>
+      <rect x="829.9" y="322.0" width="84" height="198.0" fill="#2B6CB0"/>
+      <rect x="961.1" y="324.7" width="84" height="195.3" fill="#2B6CB0"/>
+      <rect x="1092.4" y="307.2" width="84" height="212.8" fill="#2B6CB0"/>
+    </g>
+    <text x="215.6" y="261.7" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">119,575</text>
+    <text x="346.9" y="321.5" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">90,753</text>
+    <text x="478.1" y="331.9" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">85,777</text>
+    <text x="609.4" y="312.8" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">94,930</text>
+    <text x="740.6" y="251.8" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">124,300</text>
+    <text x="871.9" y="312.0" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">95,359</text>
+    <text x="1003.1" y="314.7" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">94,036</text>
+    <text x="1134.4" y="297.2" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">102,466</text>
+    <text x="215.6" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q1</text>
+    <text x="346.9" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q2</text>
+    <text x="478.1" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q3</text>
+    <text x="609.4" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q4</text>
+    <text x="740.6" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q1</text>
+    <text x="871.9" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q2</text>
+    <text x="1003.1" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q3</text>
+    <text x="1134.4" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q4</text>
+  </g>
+
+  <g id="yoy-strip" data-pptx-bounds="64 578 1152 60">
+    <line x1="64" y1="584" x2="1216" y2="584" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="616" font-size="24" fill="#1E293B">FY25 四个季度同比全部为正:</text>
+    <text x="740.6" y="616" font-size="24" font-family="Consolas" font-weight="bold" fill="#2E7D5B" text-anchor="middle">+3.95%</text>
+    <text x="871.9" y="616" font-size="24" font-family="Consolas" font-weight="bold" fill="#2E7D5B" text-anchor="middle">+5.08%</text>
+    <text x="1003.1" y="616" font-size="24" font-family="Consolas" font-weight="bold" fill="#2E7D5B" text-anchor="middle">+9.63%</text>
+    <text x="1134.4" y="616" font-size="24" font-family="Consolas" font-weight="bold" fill="#2E7D5B" text-anchor="middle">+7.94%</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 50">
+    <line x1="64" y1="652" x2="1216" y2="652" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="684" font-size="16" fill="#64748B">来源:「季度损益」sheet 净销售额合计行;FY25 Q1 占全年 29.87%,FY24 Q1 占 30.58%</text>
+    <text x="1216" y="684" font-size="16" fill="#64748B" text-anchor="end">04</text>
+  </g>
+</svg>

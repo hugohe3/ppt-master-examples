@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="180" x2="1216" y2="180" stroke="#1E293B" stroke-width="2"/>
+
+  <g id="page-header" data-pptx-bounds="64 52 1152 116">
+    <text x="64" y="100" font-size="44" font-weight="bold" fill="#1E293B">数据来源与口径</text>
+    <text x="64" y="146" font-size="28" fill="#64748B">全部数字取自 Apple Newsroom 公开的四份季度合并财务报表</text>
+  </g>
+
+  <a href="https://www.apple.com/newsroom/pdfs/fy2025-q1/FY25_Q1_Consolidated_Financial_Statements.pdf"><g id="source-fy25-q1" data-pptx-bounds="64 220 680 74">
+    <rect x="64" y="220" width="680" height="74" fill="#F4F6F8"/>
+    <use data-icon="tabler-outline/link" x="84" y="243" width="28" height="28" fill="#2B6CB0" stroke-width="2"/>
+    <text x="128" y="252" font-size="24" font-weight="bold" fill="#2B6CB0">FY25 Q1 合并财务报表</text>
+    <text x="128" y="282" font-size="18" fill="#64748B">apple.com/newsroom · 季度截止 2024-12-28</text>
+  </g></a>
+
+  <a href="https://www.apple.com/newsroom/pdfs/fy2025-q2/FY25_Q2_Consolidated_Financial_Statements.pdf"><g id="source-fy25-q2" data-pptx-bounds="64 306 680 74">
+    <rect x="64" y="306" width="680" height="74" fill="#F4F6F8"/>
+    <use data-icon="tabler-outline/link" x="84" y="329" width="28" height="28" fill="#2B6CB0" stroke-width="2"/>
+    <text x="128" y="338" font-size="24" font-weight="bold" fill="#2B6CB0">FY25 Q2 合并财务报表</text>
+    <text x="128" y="368" font-size="18" fill="#64748B">apple.com/newsroom · 季度截止 2025-03-29</text>
+  </g></a>
+
+  <a href="https://www.apple.com/newsroom/pdfs/fy2025-q3/FY25_Q3_Consolidated_Financial_Statements.pdf"><g id="source-fy25-q3" data-pptx-bounds="64 392 680 74">
+    <rect x="64" y="392" width="680" height="74" fill="#F4F6F8"/>
+    <use data-icon="tabler-outline/link" x="84" y="415" width="28" height="28" fill="#2B6CB0" stroke-width="2"/>
+    <text x="128" y="424" font-size="24" font-weight="bold" fill="#2B6CB0">FY25 Q3 合并财务报表</text>
+    <text x="128" y="454" font-size="18" fill="#64748B">apple.com/newsroom · 季度截止 2025-06-28</text>
+  </g></a>
+
+  <a href="https://www.apple.com/newsroom/pdfs/fy2025-q4/FY25_Q4_Consolidated_Financial_Statements.pdf"><g id="source-fy25-q4" data-pptx-bounds="64 478 680 74">
+    <rect x="64" y="478" width="680" height="74" fill="#F4F6F8"/>
+    <use data-icon="tabler-outline/link" x="84" y="501" width="28" height="28" fill="#2B6CB0" stroke-width="2"/>
+    <text x="128" y="510" font-size="24" font-weight="bold" fill="#2B6CB0">FY25 Q4 合并财务报表</text>
+    <text x="128" y="540" font-size="18" fill="#64748B">apple.com/newsroom · 含 FY2025 与 FY2024 十二个月合计</text>
+  </g></a>
+
+  <g id="scope-notes" data-pptx-bounds="776 220 440 332">
+    <use data-icon="tabler-outline/file-text" x="776" y="222" width="28" height="28" fill="#64748B" stroke-width="2"/>
+    <text x="816" y="244" font-size="18" fill="#64748B">口径</text>
+    <text x="776" y="290" font-size="24" fill="#1E293B">单位:百万美元;每股收益为美元</text>
+    <text x="776" y="340" font-size="24" fill="#1E293B">财年为苹果财年,9 月底截止</text>
+    <text x="776" y="390" font-size="24" fill="#1E293B">FY24 各季度取自对应 FY25<tspan x="776" dy="34">季度报表的上年同期列</tspan></text>
+    <text x="776" y="474" font-size="24" fill="#1E293B">特殊事项:FY24 Q4 所得税费用<tspan x="776" dy="34"><tspan font-family="Consolas">14,874</tspan> 含一次性税项 <tspan font-family="Consolas">10,246</tspan></tspan></text>
+  </g>
+
+  <g id="compile-note" data-pptx-bounds="64 570 1152 66">
+    <line x1="64" y1="576" x2="1216" y2="576" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="610" font-size="18" fill="#64748B">整理:2026-09-05 由 PPT Master 维护者从上述 PDF 逐项抄录并校验各分部/品类合计等于净销售额合计</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 656 1152 38" font-size="16" fill="#64748B">
+    <text x="64" y="684">品类明细另见 apple_fy2025_product_categories.csv,与「年度汇总」sheet 交叉校验一致</text>
+    <text x="1216" y="684" text-anchor="end">14</text>
+  </g>
+</svg>

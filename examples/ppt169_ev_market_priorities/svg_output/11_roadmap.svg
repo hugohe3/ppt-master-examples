@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" font-size="14" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="tracker" data-pptx-role="chrome" data-pptx-bounds="760 22 472 24">
+  <text x="1134" y="40" font-size="11" fill="#7F7F7F" text-anchor="end" letter-spacing="1">建议</text>
+  <rect x="1150" y="26" width="82" height="18" fill="none" stroke="#7F7F7F" stroke-width="0.75"/>
+  <text x="1191" y="39" font-size="10" fill="#7F7F7F" text-anchor="middle" letter-spacing="1">讨论稿</text>
+</g>
+<g id="title" data-pptx-bounds="48 46 1184 64">
+  <text x="48" y="70" font-size="24" font-weight="bold" fill="#051C2C">2026 年 PHEV 试点东南亚与拉美,2027 年按结果放量并补齐英德 BEV,<tspan x="48" dy="30">2028 年再决定是否加码美国</tspan></text>
+</g>
+<g id="unit-line" data-pptx-bounds="48 116 1184 22">
+  <text x="48" y="132" font-size="12" fill="#7F7F7F">三年行动节奏:三个层级 × 三个阶段,每年 12 月以 IEA 同口径数据通过决策门</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="48" y1="146" x2="1232" y2="146" stroke="#051C2C" stroke-width="1"/>
+<g id="stage-2026" data-pptx-bounds="132 156 352 44">
+  <g id="stage-2026-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="132 160 352 36" data-pptx-av-adj="val 20000" fill="#051C2C" stroke="none">
+<path d="M 132 160 L 476.8 160 L 484 178 L 476.8 196 L 132 196 L 139.2 178 Z"/>
+</g>
+  <text x="152" y="183" font-family="Arial" font-size="14" font-weight="bold" fill="#FFFFFF">2026</text><text x="200" y="183" font-size="12" fill="#FFFFFF">试点</text>
+</g>
+<g id="stage-2027" data-pptx-bounds="500 156 352 44">
+  <g id="stage-2027-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="500 160 352 36" data-pptx-av-adj="val 20000" fill="#2251FF" stroke="none">
+<path d="M 500 160 L 844.8 160 L 852 178 L 844.8 196 L 500 196 L 507.2 178 Z"/>
+</g>
+  <text x="520" y="183" font-family="Arial" font-size="14" font-weight="bold" fill="#FFFFFF">2027</text><text x="568" y="183" font-size="12" fill="#FFFFFF">放量</text>
+</g>
+<g id="stage-2028" data-pptx-bounds="868 156 364 44">
+  <g id="stage-2028-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="868 160 364 36" data-pptx-av-adj="val 20000" fill="#8FB8FF" stroke="none">
+<path d="M 868 160 L 1224.8 160 L 1232 178 L 1224.8 196 L 868 196 L 875.2 178 Z"/>
+</g>
+  <text x="888" y="183" font-family="Arial" font-size="14" font-weight="bold" fill="#051C2C">2028</text><text x="936" y="183" font-size="12" fill="#051C2C">决定</text>
+</g>
+<g id="stage-outputs" data-pptx-bounds="48 206 1184 30">
+  <text x="60" y="226" font-size="11" fill="#7F7F7F" letter-spacing="1">阶段产出</text>
+  <text x="144" y="226" font-size="12" fill="#051C2C">东南亚试点渗透率数据、泰国首发结果、英德车型上市</text>
+  <text x="512" y="226" font-size="12" fill="#051C2C">二级市场放量决定、印度试点启动、拉美 PHEV 上市</text>
+  <text x="880" y="226" font-size="12" fill="#051C2C">美国加码与否的决定、下一轮三年优先级</text>
+</g>
+<g id="lane-1" data-pptx-bounds="48 244 1184 104">
+  <rect x="48" y="244" width="1184" height="104" fill="#F7F7F7"/>
+  <text x="60" y="268" font-size="13" font-weight="bold" fill="#2251FF">一级</text>
+  <text x="144" y="268" fill="#333333">· 东南亚 PHEV 试点上市,泰国首发<tspan x="144" dy="20">· 英国、德国补齐 BEV 车型</tspan><tspan x="144" dy="20">· 中国维持 BEV + PHEV 双线</tspan></text>
+  <text x="512" y="268" fill="#333333">· 按试点渗透率数据在东南亚放量<tspan x="512" dy="20">· 英德 BEV 车型全面上市</tspan></text>
+  <text x="880" y="268" fill="#333333">· 东南亚补齐 BEV 车型<tspan x="880" dy="20">· 中国、英德按年度复盘调整</tspan></text>
+</g>
+<g id="lane-2" data-pptx-bounds="48 356 1184 96">
+  <text x="60" y="380" font-size="13" font-weight="bold" fill="#051C2C">二级</text>
+  <text x="144" y="380" fill="#333333">· 巴西、墨西哥搭建渠道<tspan x="144" dy="20">· 韩国渠道试点</tspan></text>
+  <text x="512" y="380" fill="#333333">· 印度启动 PHEV 试点<tspan x="512" dy="20">· 巴西、墨西哥 PHEV 上市</tspan></text>
+  <text x="880" y="380" fill="#333333">· 印度按试点结果放量<tspan x="880" dy="20">· 拉美按渗透率数据决定加码</tspan></text>
+</g>
+<g id="lane-3" data-pptx-bounds="48 460 1184 96">
+  <rect x="48" y="460" width="1184" height="96" fill="#F7F7F7"/>
+  <text x="60" y="484" font-size="13" font-weight="bold" fill="#7F7F7F">三级</text>
+  <text x="144" y="484" fill="#333333">· 美国、日本、法国维持现状<tspan x="144" dy="20">· 美国不新增产能</tspan></text>
+  <text x="512" y="484" fill="#333333">· 美国不新增产能<tspan x="512" dy="20">· 法国按英德节奏观望</tspan></text>
+  <text x="880" y="484" fill="#333333">· 复盘美国渗透率是否突破 10%<tspan x="880" dy="20">· 决定是否加码美国</tspan></text>
+</g>
+<g id="decision-gate" data-pptx-bounds="48 566 1184 74">
+  <rect x="48" y="566" width="1184" height="70" fill="none" stroke="#051C2C" stroke-width="0.75"/>
+  <text x="64" y="588" font-size="12" font-weight="bold" fill="#051C2C">决策门(每年 12 月,以 IEA 同口径数据)</text>
+  <text x="64" y="608" fill="#333333">2026 年底:东南亚试点渗透率是否守住 18%(低于则冻结二级放量);2027 年底:德国是否回落到 25% 以下、中国 PHEV 占比是否连续两季下降;<tspan x="64" dy="18">2028 年底:美国渗透率是否突破 10%(突破则进入下一轮三年优先级评估,否则维持守势)。</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="48 650 1184 44">
+  <text x="48" y="660" font-size="10" fill="#7F7F7F">1. 本页为建议的行动节奏,不含新的数据事实;决策门阈值见第 12 页</text>
+  <text x="48" y="676" font-size="10" fill="#7F7F7F">资料来源:IEA (2025), Global EV Outlook 2025, Global EV Data Explorer(CC BY 4.0);2025 年为 IEA 全年估计;本报告分析</text>
+  <text x="1232" y="676" font-family="Arial" font-size="10" fill="#7F7F7F" text-anchor="end">11</text>
+</g>
+</svg>

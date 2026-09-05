@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="64" y1="180" x2="1216" y2="180" stroke="#1E293B" stroke-width="2"/>
+
+  <g id="page-header" data-pptx-bounds="64 52 1152 116">
+    <text x="64" y="100" font-size="44" font-weight="bold" fill="#1E293B">大中华区连降三个季度,Q4 是八季最低点</text>
+    <text x="64" y="146" font-size="28" fill="#64748B">FY25 逐季环比 −13.6% / −4.0% / −5.7%;同比四个季度中三个为负</text>
+  </g>
+
+  <g id="greater-china-trend" data-pptx-replace-with="chart" data-pptx-bounds="64 236 832 324" data-pptx-fallback-sha256="302154a58d2e7b7ba996281d39830cb63379bd4da35e4542c96873cfefe91672">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.native-chart.v1",
+  "name": "greater-china-trend",
+  "type": "line",
+  "grouping": "standard",
+  "line_style": "lineMarker",
+  "marker_size": 12,
+  "x": 64, "y": 236, "width": 832, "height": 324,
+  "plot_area": {"x": 150, "y": 250, "width": 700, "height": 270},
+  "categories": ["FY24 Q1", "FY24 Q2", "FY24 Q3", "FY24 Q4", "FY25 Q1", "FY25 Q2", "FY25 Q3", "FY25 Q4"],
+  "series": [
+    {"name": "大中华区净销售额", "values": [20819, 16372, 14728, 15033, 18513, 16002, 15369, 14493], "line_width": 3}
+  ],
+  "data_labels": {
+    "show_value": true,
+    "position": "above",
+    "number_format": "#,##0",
+    "font_size": 18,
+    "font_family": "Consolas",
+    "color": "#1E293B"
+  },
+  "axes": {
+    "category": {"kind": "text", "tick_marks": "none", "color": "#64748B", "font_size": 18, "font_family": "Microsoft YaHei"},
+    "value": {"kind": "value", "minimum": 0, "maximum": 24000, "major_unit": 6000, "number_format": "#,##0", "major_gridlines": true, "tick_marks": "none", "color": "#64748B", "font_size": 18, "font_family": "Consolas", "cross_between": "mid_category"}
+  },
+  "style": {
+    "colors": ["#B4342C"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 18,
+    "axis_color": "#1E293B",
+    "grid_color": "#E8EDF2",
+    "text_color": "#64748B"
+  }
+}
+    </metadata>
+    <g id="greater-china-trend-chartArea">
+      <line id="greater-china-trend-grid-24000" x1="150" y1="250" x2="850" y2="250" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="greater-china-trend-grid-18000" x1="150" y1="317.5" x2="850" y2="317.5" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="greater-china-trend-grid-12000" x1="150" y1="385" x2="850" y2="385" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="greater-china-trend-grid-6000" x1="150" y1="452.5" x2="850" y2="452.5" stroke="#E8EDF2" stroke-width="1"/>
+      <line id="greater-china-trend-axis" x1="150" y1="520" x2="850" y2="520" stroke="#1E293B" stroke-width="2"/>
+      <!-- chart-plot-area: object=greater-china-trend | 150,250,850,520 -->
+      <polyline points="150,285.8 250,335.8 350,354.3 450,350.9 550,311.7 650,340.0 750,347.1 850,357.0" fill="none" stroke="#B4342C" stroke-width="3"/>
+      <circle cx="150" cy="285.8" r="6" fill="#B4342C"/>
+      <circle cx="250" cy="335.8" r="6" fill="#B4342C"/>
+      <circle cx="350" cy="354.3" r="6" fill="#B4342C"/>
+      <circle cx="450" cy="350.9" r="6" fill="#B4342C"/>
+      <circle cx="550" cy="311.7" r="6" fill="#B4342C"/>
+      <circle cx="650" cy="340.0" r="6" fill="#B4342C"/>
+      <circle cx="750" cy="347.1" r="6" fill="#B4342C"/>
+      <circle cx="850" cy="357.0" r="6" fill="#B4342C"/>
+    </g>
+    <text x="150" y="271.8" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">20,819</text>
+    <text x="250" y="321.8" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">16,372</text>
+    <text x="350" y="340.3" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">14,728</text>
+    <text x="450" y="336.9" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">15,033</text>
+    <text x="550" y="297.7" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">18,513</text>
+    <text x="650" y="326.0" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">16,002</text>
+    <text x="750" y="333.1" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">15,369</text>
+    <text x="850" y="343.0" font-size="18" font-family="Consolas" fill="#1E293B" text-anchor="middle">14,493</text>
+    <text x="140" y="256" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">24,000</text>
+    <text x="140" y="323.5" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">18,000</text>
+    <text x="140" y="391" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">12,000</text>
+    <text x="140" y="458.5" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">6,000</text>
+    <text x="140" y="526" font-size="18" font-family="Consolas" fill="#64748B" text-anchor="end">0</text>
+    <text x="150" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q1</text>
+    <text x="250" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q2</text>
+    <text x="350" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q3</text>
+    <text x="450" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY24 Q4</text>
+    <text x="550" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q1</text>
+    <text x="650" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q2</text>
+    <text x="750" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q3</text>
+    <text x="850" y="548" font-size="18" fill="#64748B" text-anchor="middle">FY25 Q4</text>
+  </g>
+
+  <g id="metric-greater-china" data-pptx-bounds="908 236 308 200">
+    <text x="908" y="258" font-size="18" fill="#64748B">大中华区 FY2025 同比</text>
+    <text x="908" y="332" font-size="64" font-weight="bold" font-family="Consolas" fill="#B4342C">−3.85%</text>
+    <text x="908" y="372" font-size="24" fill="#1E293B">▼ 唯一下滑的地区</text>
+    <text x="908" y="408" font-size="18" fill="#64748B">占收入比 17.12% → 15.47%</text>
+  </g>
+
+  <g id="china-low-point" data-pptx-bounds="908 452 308 186">
+    <line x1="908" y1="458" x2="1216" y2="458" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="908" y="490" font-size="18" fill="#64748B">FY25 Q4 是八个季度最低点</text>
+    <text x="908" y="562" font-size="64" font-weight="bold" font-family="Consolas" fill="#B4342C">14,493</text>
+    <text x="908" y="602" font-size="24" fill="#1E293B">环比 <tspan font-family="Consolas">−5.7%</tspan></text>
+    <text x="908" y="632" font-size="18" fill="#64748B">前值 15,369(FY25 Q3)</text>
+  </g>
+
+  <g id="china-qoq" data-pptx-bounds="64 578 820 60">
+    <line x1="64" y1="584" x2="884" y2="584" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="616" font-size="24" fill="#1E293B">FY25 连续三个季度环比下降</text>
+    <text x="650" y="616" font-size="24" font-family="Consolas" font-weight="bold" fill="#B4342C" text-anchor="middle">−13.6%</text>
+    <text x="750" y="616" font-size="24" font-family="Consolas" font-weight="bold" fill="#B4342C" text-anchor="middle">−4.0%</text>
+    <text x="850" y="616" font-size="24" font-family="Consolas" font-weight="bold" fill="#B4342C" text-anchor="middle">−5.7%</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 644 1152 50">
+    <line x1="64" y1="652" x2="1216" y2="652" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="64" y="684" font-size="16" fill="#64748B">来源:「地区分部」sheet 大中华区行;源表无地区 × 品类交叉,下滑归因于哪一类产品——现有口径无法判定</text>
+    <text x="1216" y="684" font-size="16" fill="#64748B" text-anchor="end">08</text>
+  </g>
+</svg>
