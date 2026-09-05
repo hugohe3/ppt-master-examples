@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0"/>
+      <stop offset="100%" stop-color="#FF8A3D"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+
+  <g id="p10-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">能力全景</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">你可以只用其中一块,也可以整套换过来</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="p10-sections" data-pptx-bounds="72 184 1136 424">
+    <rect x="72" y="184" width="1136" height="64" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <use data-icon="tabler-outline/versions" x="96" y="200" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="148" y="226" font-size="24" fill="#E6EDF3">Python 版本</text>
+    <text x="368" y="226" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uv python install / list / find / pin / uninstall</text>
+
+    <rect x="72" y="256" width="1136" height="64" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <use data-icon="tabler-outline/file-code" x="96" y="272" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="148" y="298" font-size="24" fill="#E6EDF3">脚本</text>
+    <text x="368" y="298" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uv run / uv add --script / uv remove --script</text>
+
+    <rect x="72" y="328" width="1136" height="64" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <use data-icon="tabler-outline/package" x="96" y="344" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="148" y="370" font-size="24" fill="#E6EDF3">项目</text>
+    <text x="368" y="370" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uv init / add / remove / sync / lock / run / tree / build / publish</text>
+
+    <rect x="72" y="400" width="1136" height="64" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <use data-icon="tabler-outline/tool" x="96" y="416" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="148" y="442" font-size="24" fill="#E6EDF3">工具</text>
+    <text x="368" y="442" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uvx (= uv tool run) / uv tool install / uninstall / list</text>
+
+    <rect x="72" y="472" width="1136" height="64" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <use data-icon="tabler-outline/terminal-2" x="96" y="488" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="148" y="514" font-size="24" fill="#E6EDF3">pip 接口</text>
+    <text x="368" y="514" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uv venv / uv pip install / compile / sync / freeze / tree</text>
+
+    <rect x="72" y="544" width="1136" height="64" rx="4" fill="none" stroke="#243349" stroke-width="1" stroke-dasharray="4,4"/>
+    <use data-icon="tabler-outline/refresh" x="96" y="560" width="32" height="32" fill="#9BA9BC" stroke-width="2"/>
+    <text x="148" y="586" font-size="24" fill="#9BA9BC">Utility</text>
+    <text x="368" y="586" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uv cache clean / prune / dir · uv self update</text>
+  </g>
+
+  <g id="p10-note" data-pptx-bounds="72 612 1136 34">
+    <text x="72" y="638" font-size="18" fill="#9BA9BC">官方原话:uv 的界面可以拆成若干部分,这些部分既可以单独使用,也可以合起来用。</text>
+  </g>
+
+  <g id="p10-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1"/>
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">命令清单与分区引自 uv 官方文档 Features 页(docs.astral.sh/uv/getting-started/features)</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">10 / 14</text>
+  </g>
+</svg>

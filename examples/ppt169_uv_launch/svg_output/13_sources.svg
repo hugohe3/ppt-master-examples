@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0"/>
+      <stop offset="100%" stop-color="#FF8A3D"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+
+  <g id="p13-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">出处</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">本卷每一句的出处都在这四个地方</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="p13-sources" data-pptx-bounds="72 184 1136 432">
+    <use data-icon="tabler-outline/world" x="96" y="200" width="36" height="36" fill="#4CC9F0" stroke-width="2"/>
+    <text x="152" y="226" font-size="24" fill="#E6EDF3"><tspan x="152" dy="0">官方文档 <a href="https://docs.astral.sh/uv/"><tspan fill="#4CC9F0">docs.astral.sh/uv</tspan></a></tspan></text>
+    <text x="152" y="260" font-size="18" fill="#9BA9BC">命令、示例输出与能力划分 — 支撑 P03–P08、P10、P12</text>
+    <line x1="72" y1="280" x2="1208" y2="280" stroke="#243349" stroke-width="1"/>
+
+    <use data-icon="simple-icons/github" x="96" y="312" width="36" height="36" fill="#4CC9F0"/>
+    <text x="152" y="338" font-size="24" fill="#E6EDF3"><tspan x="152" dy="0">更新日志 <a href="https://raw.githubusercontent.com/astral-sh/uv/main/CHANGELOG.md"><tspan fill="#4CC9F0">uv/main/CHANGELOG.md</tspan></a></tspan></text>
+    <text x="152" y="372" font-size="18" fill="#9BA9BC">版本号、发布日期、preview 与稳定的分界 — 支撑 P01、P11、P12</text>
+    <line x1="72" y1="392" x2="1208" y2="392" stroke="#243349" stroke-width="1"/>
+
+    <use data-icon="simple-icons/astral" x="96" y="424" width="36" height="36" fill="#FF8A3D"/>
+    <text x="152" y="450" font-size="24" fill="#E6EDF3"><tspan x="152" dy="0">发布博文 <a href="https://astral.sh/blog/uv"><tspan fill="#4CC9F0">astral.sh/blog/uv</tspan></a></tspan></text>
+    <text x="152" y="484" font-size="18" fill="#9BA9BC">定位说法与 8-10x / 80-115x 的原始出处(2024-02-15)— 支撑 P02、P09</text>
+    <line x1="72" y1="504" x2="1208" y2="504" stroke="#243349" stroke-width="1"/>
+
+    <use data-icon="simple-icons/github" x="96" y="536" width="36" height="36" fill="#4CC9F0"/>
+    <text x="152" y="562" font-size="24" fill="#E6EDF3"><tspan x="152" dy="0">基准说明 <a href="https://raw.githubusercontent.com/astral-sh/uv/main/BENCHMARKS.md"><tspan fill="#4CC9F0">uv/main/BENCHMARKS.md</tspan></a></tspan></text>
+    <text x="152" y="596" font-size="18" fill="#9BA9BC">测量条件与告诫,本身不含数字 — 支撑 P09</text>
+  </g>
+
+  <g id="p13-note" data-pptx-bounds="72 620 1136 26">
+    <text x="72" y="638" font-size="18" fill="#9BA9BC">本卷所有性能倍数均为 Astral 在 macOS 上的测量,未在本机复测;命令与输出照官方文档原样引用。</text>
+  </g>
+
+  <g id="p13-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1"/>
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">四个链接均为原生超链接,在 PowerPoint 中可直接点击</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">13 / 14</text>
+  </g>
+</svg>

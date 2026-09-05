@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="winGlow" x="-8%" y="-14%" width="116%" height="128%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b" />
+      <feFlood flood-color="#4CC9F0" flood-opacity="0.30" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0" />
+      <stop offset="100%" stop-color="#FF8A3D" />
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220" />
+
+  <g id="p07-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">能力揭示 · Python 版本</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">连 Python 版本也归它管,不用再装一个 pyenv</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)" />
+  </g>
+
+  <g id="p07-terminal" data-pptx-bounds="72 180 720 356">
+    <rect x="72" y="180" width="720" height="356" rx="4" fill="#131C2E" stroke="#4CC9F0" stroke-width="1" filter="url(#winGlow)" />
+    <line x1="72" y1="218" x2="792" y2="218" stroke="#243349" stroke-width="1" />
+    <circle cx="96" cy="199" r="5" fill="#FF8A3D" />
+    <circle cx="116" cy="199" r="5" fill="#243349" />
+    <text x="140" y="206" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">bash — uv python</text>
+    <text x="104" y="254" font-family="Consolas, monospace" font-size="18" fill="#E6EDF3"><tspan x="104" dy="0"><tspan fill="#FF8A3D">$ </tspan>uv python install 3.10 3.11 3.12</tspan><tspan x="104" dy="24" fill="#9BA9BC">Installed 3 versions in <tspan fill="#4CC9F0">3.42s</tspan></tspan><tspan x="104" dy="24" fill="#9BA9BC"> + cpython-3.10.14-macos-aarch64-none</tspan><tspan x="104" dy="24" fill="#9BA9BC"> + cpython-3.11.9-macos-aarch64-none</tspan><tspan x="104" dy="24" fill="#9BA9BC"> + cpython-3.12.4-macos-aarch64-none</tspan><tspan x="104" dy="24"><tspan fill="#FF8A3D">$ </tspan>uv venv --python 3.12.0</tspan><tspan x="104" dy="24" fill="#9BA9BC">Using CPython 3.12.0</tspan><tspan x="104" dy="24" fill="#9BA9BC">Creating virtual environment at: .venv</tspan><tspan x="104" dy="24"><tspan fill="#FF8A3D">$ </tspan>uv python pin 3.11</tspan><tspan x="104" dy="24" fill="#9BA9BC">Pinned `.python-version` to `3.11`</tspan></text>
+  </g>
+
+  <g id="p07-actions" data-pptx-bounds="832 180 376 356">
+    <use data-icon="tabler-outline/versions" x="832" y="192" width="32" height="32" fill="#4CC9F0" stroke-width="2" />
+    <text x="880" y="216" font-size="24" fill="#E6EDF3">装多个 Python 版本</text>
+    <text x="832" y="252" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uv python install</text>
+    <line x1="832" y1="284" x2="1208" y2="284" stroke="#243349" stroke-width="1" />
+
+    <use data-icon="tabler-outline/download" x="832" y="312" width="32" height="32" fill="#4CC9F0" stroke-width="2" />
+    <text x="880" y="336" font-size="24" fill="#E6EDF3">需要时按需下载</text>
+    <text x="832" y="372" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uv venv --python 3.12.0</text>
+    <line x1="832" y1="404" x2="1208" y2="404" stroke="#243349" stroke-width="1" />
+
+    <use data-icon="tabler-outline/lock" x="832" y="432" width="32" height="32" fill="#4CC9F0" stroke-width="2" />
+    <text x="880" y="456" font-size="24" fill="#E6EDF3">钉住当前目录</text>
+    <text x="832" y="492" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">uv python pin 3.11</text>
+  </g>
+
+  <g id="p07-note" data-pptx-bounds="72 556 1136 64" fill="#9BA9BC" font-size="18">
+    <text x="72" y="580">.python-version 决定 uv 为这个项目创建虚拟环境时使用哪个 Python 版本。</text>
+    <text x="72" y="608">上面输出末尾的 macos-aarch64 说明这段官方示例是在 macOS 上执行的;你机器上的标识会不同。</text>
+  </g>
+
+  <g id="p07-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1" />
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">命令与输出引自 uv 官方文档首页 Python versions 段与 Working on projects 页</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">07 / 14</text>
+  </g>
+</svg>

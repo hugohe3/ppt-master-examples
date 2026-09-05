@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="winGlow" x="-8%" y="-14%" width="116%" height="128%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b"/>
+      <feFlood flood-color="#4CC9F0" flood-opacity="0.30" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0"/>
+      <stop offset="100%" stop-color="#FF8A3D"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+
+  <g id="p03-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">定位主张</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">一个入口,替掉一整排命令</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="p03-tool-cluster" data-pptx-bounds="72 200 452 280">
+    <rect x="72" y="200" width="452" height="280" rx="4" fill="#131C2E" stroke="#4CC9F0" stroke-width="1" filter="url(#winGlow)"/>
+    <line x1="72" y1="238" x2="524" y2="238" stroke="#243349" stroke-width="1"/>
+    <circle cx="96" cy="219" r="5" fill="#FF8A3D"/>
+    <circle cx="116" cy="219" r="5" fill="#243349"/>
+    <text x="140" y="226" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">one binary</text>
+    <text x="298" y="346" font-family="Consolas, monospace" font-size="88" font-weight="bold" fill="#4CC9F0" text-anchor="middle">uv</text>
+    <text x="298" y="400" font-size="18" fill="#9BA9BC" text-anchor="middle">一个命令替掉:</text>
+    <text x="298" y="432" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3" text-anchor="middle">pip  pip-tools  pipx  poetry</text>
+    <text x="298" y="460" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3" text-anchor="middle">pyenv  twine  virtualenv</text>
+  </g>
+
+  <g id="p03-claim" data-pptx-bounds="560 200 648 200">
+    <text x="560" y="248" font-size="30" fill="#E6EDF3"><tspan x="560" dy="0">A single tool to replace pip, pip-tools,</tspan><tspan x="560" dy="42">pipx, poetry, pyenv, twine, virtualenv,</tspan><tspan x="560" dy="42">and more.</tspan></text>
+    <text x="560" y="380" font-size="24" fill="#9BA9BC"><tspan x="560" dy="0">出处:<a href="https://docs.astral.sh/uv/"><tspan fill="#4CC9F0">docs.astral.sh/uv</tspan></a> 首页 Highlights 第一条</tspan></text>
+  </g>
+
+  <g id="p03-support" data-pptx-bounds="560 424 648 176">
+    <use data-icon="tabler-outline/box" x="560" y="436" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="608" y="460" font-size="24" fill="#E6EDF3">用 Rust 写成的单个静态二进制</text>
+    <use data-icon="tabler-outline/download" x="560" y="492" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="608" y="516" font-size="24" fill="#E6EDF3">不需要先有 Rust 或 Python 就能装</text>
+    <use data-icon="tabler-outline/lock" x="560" y="548" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="608" y="572" font-size="24" fill="#E6EDF3">提供跨平台的 uv.lock,一份锁文件走遍机器</text>
+  </g>
+
+  <g id="p03-caveat" data-pptx-bounds="72 504 452 96">
+    <use data-icon="tabler-outline/alert-triangle" x="72" y="508" width="28" height="28" fill="#FF8A3D" stroke-width="2"/>
+    <text x="112" y="532" font-size="24" fill="#E6EDF3"><tspan x="112" dy="0">后面每一个倍数都会标出:</tspan><tspan x="112" dy="38">谁测的、什么机器、什么时候</tspan></text>
+  </g>
+
+  <g id="p03-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1"/>
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">定位句与三条属性均引自 uv 官方文档首页 Highlights(docs.astral.sh/uv)</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">03 / 14</text>
+  </g>
+</svg>

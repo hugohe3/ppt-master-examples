@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0"/>
+      <stop offset="100%" stop-color="#FF8A3D"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+
+  <g id="p12-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">可获得性</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">三个平台都能装,而且不用先有 Python</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="p12-platforms" data-pptx-bounds="72 184 1136 88">
+    <rect x="72" y="184" width="1136" height="88" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <use data-icon="simple-icons/apple" x="112" y="212" width="36" height="36" fill="#E6EDF3"/>
+    <text x="162" y="240" font-size="24" fill="#E6EDF3">macOS</text>
+    <use data-icon="simple-icons/linux" x="290" y="212" width="36" height="36" fill="#E6EDF3"/>
+    <text x="340" y="240" font-size="24" fill="#E6EDF3">Linux</text>
+    <use data-icon="simple-icons/windows" x="452" y="212" width="36" height="36" fill="#E6EDF3"/>
+    <text x="502" y="240" font-size="24" fill="#E6EDF3">Windows</text>
+    <text x="700" y="240" font-size="24" fill="#4CC9F0">安装 uv 不需要先有 Rust 或 Python</text>
+  </g>
+
+  <g id="p12-install-unix" data-pptx-bounds="72 292 1136 84">
+    <rect x="72" y="292" width="1136" height="84" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <text x="96" y="322" font-size="18" fill="#FF8A3D" letter-spacing="2">macOS / Linux</text>
+    <text x="96" y="358" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3"><tspan x="96" dy="0"><tspan fill="#FF8A3D">$ </tspan>curl -LsSf https://astral.sh/uv/install.sh | sh</tspan></text>
+  </g>
+
+  <g id="p12-install-win" data-pptx-bounds="72 388 1136 116">
+    <rect x="72" y="388" width="1136" height="116" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <text x="96" y="418" font-size="18" fill="#FF8A3D" letter-spacing="2">Windows PowerShell</text>
+    <text x="96" y="452" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3"><tspan x="96" dy="0"><tspan fill="#FF8A3D">PS&gt; </tspan>powershell -ExecutionPolicy ByPass -c</tspan><tspan x="96" dy="30">&quot;irm https://astral.sh/uv/install.ps1 | iex&quot;</tspan></text>
+  </g>
+
+  <g id="p12-other" data-pptx-bounds="72 516 1136 100">
+    <use data-icon="tabler-outline/download" x="72" y="520" width="28" height="28" fill="#4CC9F0" stroke-width="2"/>
+    <text x="112" y="542" font-size="24" fill="#E6EDF3">其他渠道:pip、pipx、Homebrew 等,见官方安装页</text>
+    <use data-icon="tabler-outline/alert-triangle" x="72" y="562" width="28" height="28" fill="#FF8A3D" stroke-width="2"/>
+    <text x="112" y="584" font-size="18" fill="#9BA9BC"><tspan x="112" dy="0">已有项目升到 0.12:若 [build-system] 给 uv_build 设了上界,改成 uv_build&gt;=0.11.32,&lt;0.13</tspan><tspan x="112" dy="26">uv build backend 的配置本身没有破坏性变更,只需放开这一个版本上界</tspan></text>
+  </g>
+
+  <g id="p12-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1"/>
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">平台与安装方式引自 uv 官方文档首页 Installation 段;升级提醒引自 uv CHANGELOG 0.12.0(2026-07-28)</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">12 / 14</text>
+  </g>
+</svg>

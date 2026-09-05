@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <filter id="winGlow" x="-8%" y="-14%" width="116%" height="128%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b" />
+      <feFlood flood-color="#4CC9F0" flood-opacity="0.30" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0" />
+      <stop offset="100%" stop-color="#FF8A3D" />
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220" />
+
+  <g id="p01-grid" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke="#1E2A3D" stroke-width="1">
+    <line x1="140" y1="0" x2="140" y2="720" />
+    <line x1="1140" y1="0" x2="1140" y2="720" />
+    <line x1="0" y1="140" x2="1280" y2="140" />
+    <line x1="0" y1="556" x2="1280" y2="556" />
+  </g>
+
+  <g id="p01-hero" data-pptx-bounds="140 176 1000 316">
+    <rect x="140" y="176" width="1000" height="316" rx="4" fill="#131C2E" stroke="#4CC9F0" stroke-width="1" filter="url(#winGlow)" />
+    <line x1="140" y1="214" x2="1140" y2="214" stroke="#243349" stroke-width="1" />
+    <circle cx="164" cy="195" r="5" fill="#FF8A3D" />
+    <circle cx="184" cy="195" r="5" fill="#243349" />
+    <circle cx="204" cy="195" r="5" fill="#243349" />
+    <text x="228" y="202" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">~/dev — uv</text>
+    <text x="176" y="300" font-size="64" font-weight="bold" fill="#E6EDF3"><tspan x="176" dy="0">一个二进制,</tspan><tspan x="176" dy="80">收干净 <tspan fill="#4CC9F0">Python</tspan> 装包那一摊</tspan></text>
+    <text x="176" y="440" font-size="32" fill="#E6EDF3">极快的 Python 包与项目管理器,用 Rust 写成</text>
+    <text x="176" y="472" font-size="18" fill="#9BA9BC">An extremely fast Python package and project manager, written in Rust.</text>
+  </g>
+
+  <g id="p01-identity" data-pptx-bounds="140 508 1000 48" fill="#9BA9BC">
+    <text x="140" y="540" font-family="Consolas, monospace" font-size="20">uv <tspan fill="#FF8A3D">0.12.10</tspan> · released 2026-09-04 · docs.astral.sh/uv</text>
+    <use data-icon="simple-icons/rust" x="1052" y="516" width="32" height="32" />
+    <use data-icon="simple-icons/python" x="1100" y="516" width="32" height="32" />
+  </g>
+
+  <g id="p01-tool-cluster" data-pptx-bounds="264 580 752 48">
+    <rect x="264" y="584" width="76" height="44" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1" />
+    <text x="302" y="613" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC" text-anchor="middle">pip</text>
+    <rect x="356" y="584" width="148" height="44" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1" />
+    <text x="430" y="613" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC" text-anchor="middle">pip-tools</text>
+    <rect x="520" y="584" width="88" height="44" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1" />
+    <text x="564" y="613" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC" text-anchor="middle">pipx</text>
+    <rect x="624" y="584" width="100" height="44" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1" />
+    <text x="674" y="613" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC" text-anchor="middle">pyenv</text>
+    <rect x="740" y="584" width="160" height="44" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1" />
+    <text x="820" y="613" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC" text-anchor="middle">virtualenv</text>
+    <rect x="916" y="584" width="100" height="44" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1" />
+    <text x="966" y="613" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC" text-anchor="middle">twine</text>
+  </g>
+
+  <g id="p01-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1" />
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">来源:uv 官方文档首页(docs.astral.sh/uv)· 版本与发布日期取自 uv CHANGELOG</text>
+    <rect x="1140" y="662" width="24" height="3" fill="url(#accentRule)" />
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">01 / 14</text>
+  </g>
+</svg>

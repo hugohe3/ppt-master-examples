@@ -2,11 +2,105 @@
   "version": 1,
   "updated": "2026-09-05",
   "stats": {
-    "examples": 29,
-    "pages": 411,
-    "templates": 29
+    "examples": 30,
+    "pages": 425,
+    "templates": 30
   },
   "projects": [
+    {
+      "id": "ppt169_uv_launch",
+      "title": "uv:一个二进制,收干净 Python 装包那一摊",
+      "description": "开源产品发布 deck 14 页 — 以 uv 官方文档、CHANGELOG、Astral 发布博文为源,显式挂载 product-launch 方法模板,showcase × dark-tech,终端窗口当主角、前后对照原生表、Astral 冷/热缓存倍数原生柱图、已发布/preview 分栏,Default 路线源文件驱动生成",
+      "icon": "⚡",
+      "color": "#4CC9F0",
+      "style": "technical",
+      "styleName": "Dark-Tech Launch",
+      "desc": "A fourteen-page Chinese launch deck for uv, Astral's Python package and project manager, built from the official docs, the CHANGELOG (0.12.10, 4 September 2026) and the Astral launch post — nothing was installed or measured locally. It follows the bundled product-launch Style: the tension of six separate tools, the positioning claim in Astral's own words, four capability reveals (project flow, a full-page demonstration quoting the docs' session line by line, scripts and tools, Python versions), a before-and-after command table, the proof point as a native column chart of Astral's cold- and warm-cache speedups with their macOS basis and date, a capability landscape, a shipped-versus-preview matrix with the version each feature first appeared in, three-platform availability, a sources page with live hyperlinks, and one next step. Dark-tech composition: near-black blue canvas, terminal windows in Consolas as the lead carrier, a single cyan and orange accent pair, chevrons for the four-step flow. Two native-ready tables and one native chart, five Morph pairs on two carried objects (six tool badges converging into the uv block; a terminal window growing across four pages), thirty-one entrance animations, speaker notes throughout. Generated on the Default runtime from source pages with the new apply_template installer and --no-images conversion; the second export turns the tables and chart into native PowerPoint objects.",
+      "tags": [
+        "Developer Tools",
+        "Product Launch",
+        "Style Template",
+        "Native Charts"
+      ],
+      "isNew": true,
+      "folder": "ppt169_uv_launch/svg_final",
+      "generatedAt": "2026-09-05",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_uv_launch/exports/ppt169_uv_launch.pptx",
+      "pptxNative": "examples/ppt169_uv_launch/exports/ppt169_uv_launch_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "一个二进制,收干净 Python 装包那一摊"
+        },
+        {
+          "file": "02_tension.svg",
+          "title": "tension",
+          "desc": "你每天在修的,不是包,是工具之间的缝"
+        },
+        {
+          "file": "03_positioning.svg",
+          "title": "positioning",
+          "desc": "一个入口,替掉一整排命令"
+        },
+        {
+          "file": "04_project_flow.svg",
+          "title": "project flow",
+          "desc": "从零到能跑,你只需要记住四个动作"
+        },
+        {
+          "file": "05_demo_moment.svg",
+          "title": "demo moment",
+          "desc": "看它跑一遍:五条命令,一次装完"
+        },
+        {
+          "file": "06_scripts_tools.svg",
+          "title": "scripts and tools",
+          "desc": "一个脚本也能有自己的依赖,不用先建环境"
+        },
+        {
+          "file": "07_python_versions.svg",
+          "title": "python versions",
+          "desc": "连 Python 版本也归它管,不用再装一个 pyenv"
+        },
+        {
+          "file": "08_before_after.svg",
+          "title": "before and after",
+          "desc": "同一件事,你只是换了一条命令"
+        },
+        {
+          "file": "09_proof_point.svg",
+          "title": "proof point",
+          "desc": "快多少,取决于缓存是冷是热"
+        },
+        {
+          "file": "10_capability_landscape.svg",
+          "title": "capability landscape",
+          "desc": "你可以只用其中一块,也可以整套换过来"
+        },
+        {
+          "file": "11_shipped_vs_preview.svg",
+          "title": "shipped vs preview",
+          "desc": "分清哪些能拿来用,哪些要显式开启"
+        },
+        {
+          "file": "12_availability.svg",
+          "title": "availability",
+          "desc": "三个平台都能装,而且不用先有 Python"
+        },
+        {
+          "file": "13_sources.svg",
+          "title": "sources",
+          "desc": "本卷每一句的出处都在这四个地方"
+        },
+        {
+          "file": "14_next_step.svg",
+          "title": "next step",
+          "desc": "今天先做一件事:在一个项目上跑通 uv pip install"
+        }
+      ]
+    },
     {
       "id": "ppt169_cloudflare_outage_postmortem",
       "title": "Cloudflare Outage Postmortem, 18 November 2025",

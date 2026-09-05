@@ -1,0 +1,1 @@
+那迁移到底要付多少学习成本。这张表把同一件事的两套命令逐行对齐:建虚拟环境,以前是 python -m venv,现在是 uv venv;装包,pip install 变成 uv pip install;锁定依赖,pip-compile 变成 uv pip compile;同步环境,pip-sync 变成 uv pip sync;跑命令行工具,pipx run 变成 uvx;装 Python 版本,pyenv install 变成 uv python install。命令形状是刻意保持熟悉的,所以迁移不是重学,是逐条替换。但有两条提醒必须说清楚。第一,uv 不依赖也不调用 pip,这个名字只表示这组低层命令与 pip 的接口对齐。第二,官方明确写了:这些命令并非逐字实现 pip 的全部行为,你越偏离常见工作流,差异越可能出现。

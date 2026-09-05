@@ -1,0 +1,1 @@
+uv 收编的不只是项目。上面这个窗口讲的是单文件脚本:uv add --script example.py requests,依赖就被写进脚本文件本身,成为内联依赖元数据;然后 uv run example.py,它读取内联元数据,装了五个包用了十二毫秒,打印出 Response 200。整个过程你没有手动建过任何环境。下面左边是临时跑一次的场景,uvx 是 uv tool run 的别名,在一个临时环境里跑完就走;右边是装成常驻,uv tool install ruff 之后你可以直接敲 ruff。选择很简单:临时用 uvx,常用就 install。右边这一栏是三点小结,最后一句请记住:脚本、工具、项目、pip 接口这几块可以单独采用,不必整套迁移。

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0"/>
+      <stop offset="100%" stop-color="#FF8A3D"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+
+  <g id="p02-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">开场张力</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">你每天在修的,不是包,是工具之间的缝</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="p02-tool-cluster" data-pptx-bounds="72 176 452 352">
+    <rect x="72" y="176" width="216" height="104" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <line x1="72" y1="206" x2="288" y2="206" stroke="#243349" stroke-width="1"/>
+    <text x="88" y="199" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">pip</text>
+    <text x="88" y="248" font-size="24" fill="#E6EDF3">装包</text>
+
+    <rect x="308" y="176" width="216" height="104" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <line x1="308" y1="206" x2="524" y2="206" stroke="#243349" stroke-width="1"/>
+    <text x="324" y="199" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">pip-tools</text>
+    <text x="324" y="248" font-size="24" fill="#E6EDF3">锁版本</text>
+
+    <rect x="72" y="300" width="216" height="104" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <line x1="72" y1="330" x2="288" y2="330" stroke="#243349" stroke-width="1"/>
+    <text x="88" y="323" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">pipx</text>
+    <text x="88" y="372" font-size="24" fill="#E6EDF3">跑命令行工具</text>
+
+    <rect x="308" y="300" width="216" height="104" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <line x1="308" y1="330" x2="524" y2="330" stroke="#243349" stroke-width="1"/>
+    <text x="324" y="323" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">pyenv</text>
+    <text x="324" y="372" font-size="24" fill="#E6EDF3">管 Python 版本</text>
+
+    <rect x="72" y="424" width="216" height="104" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <line x1="72" y1="454" x2="288" y2="454" stroke="#243349" stroke-width="1"/>
+    <text x="88" y="447" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">virtualenv</text>
+    <text x="88" y="496" font-size="24" fill="#E6EDF3">建虚拟环境</text>
+
+    <rect x="308" y="424" width="216" height="104" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <line x1="308" y1="454" x2="524" y2="454" stroke="#243349" stroke-width="1"/>
+    <text x="324" y="447" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">twine</text>
+    <text x="324" y="496" font-size="24" fill="#E6EDF3">发包到索引</text>
+  </g>
+
+  <g id="p02-gaps" data-pptx-bounds="560 176 648 208">
+    <text x="560" y="200" font-size="18" fill="#FF8A3D" letter-spacing="3">缝在哪</text>
+    <text x="560" y="252" font-size="24" fill="#E6EDF3">装 Python 与装包是两套工具,各有各的失败方式</text>
+    <line x1="560" y1="276" x2="1208" y2="276" stroke="#243349" stroke-width="1"/>
+    <text x="560" y="312" font-size="24" fill="#E6EDF3">requirements.txt 不跨平台,换台机器就重解一次</text>
+    <line x1="560" y1="336" x2="1208" y2="336" stroke="#243349" stroke-width="1"/>
+    <text x="560" y="372" font-size="24" fill="#E6EDF3">环境重建慢,于是没人愿意删掉重来</text>
+  </g>
+
+  <g id="p02-quote" data-pptx-bounds="560 408 648 120">
+    <g id="p02-quote-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="560 408 20 120" fill="none" stroke="#4CC9F0" stroke-width="2">
+<path d="M 580 528 A 20 1.67 0 0 1 560 526.33 L 560 409.67 A 20 1.67 0 0 1 580 408 Z" stroke="none"/>
+<path d="M 580 528 A 20 1.67 0 0 1 560 526.33 L 560 409.67 A 20 1.67 0 0 1 580 408"/>
+</g>
+    <text x="588" y="440" font-size="18" fill="#E6EDF3"><tspan x="588" dy="0">Python tooling can be a low-confidence experience: it&apos;s a</tspan><tspan x="588" dy="28">significant amount of work to stand up a new or existing</tspan><tspan x="588" dy="28">project, and commands fail in confusing ways.</tspan></text>
+    <text x="588" y="520" font-size="16" fill="#9BA9BC">— Astral,uv: Python packaging in Rust,2024-02-15</text>
+  </g>
+
+  <g id="p02-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1"/>
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">工具职责划分依据 uv 官方文档 Features 页;引文出自 Astral 发布博文 astral.sh/blog/uv</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">02 / 14</text>
+  </g>
+</svg>

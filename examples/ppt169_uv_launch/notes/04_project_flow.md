@@ -1,0 +1,1 @@
+先看它怎么用。日常项目工作流只有四个动作,按顺序是:uv init 建项目,uv add 加依赖,uv run 在项目环境里跑命令,uv lock 生成或更新锁文件。下面这个终端窗口是官方文档 Working on projects 页给的例子:建一个 hello-world,进去,加一个 requests,然后 uv run hello-world,打印出 Hello from hello-world。这里有一个很关键的机制:你第一次运行任何项目命令时,uv 会自动帮你创建 .venv 和 uv.lock,不需要你手动建环境。右边是这四步留下的三样东西:pyproject.toml 声明依赖和项目元数据;uv.lock 是精确的解析结果,应该提交到版本库;点 venv 目录是这个项目自己的隔离环境。

@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "trigger": "after-previous", "duration": 0.4 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "p01-hero": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "p01-identity": { "effect": "entrance_fade", "order": 2, "duration": 0.3 },
+        "p01-tool-cluster": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "02_tension": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "01_cover", "pairs": { "tool-cluster": { "from": "p01-tool-cluster", "to": "p02-tool-cluster" } } },
+      "groups": {
+        "p02-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p02-gaps": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.5 },
+        "p02-quote": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "03_positioning": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "02_tension", "pairs": { "tool-cluster": { "from": "p02-tool-cluster", "to": "p03-tool-cluster" } } },
+      "groups": {
+        "p03-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p03-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "p03-support": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.5 }
+      }
+    },
+    "04_project_flow": {
+      "groups": {
+        "p04-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p04-command-path": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.7 },
+        "p04-terminal": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "05_demo_moment": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "04_project_flow", "pairs": { "terminal-window": { "from": "p04-terminal", "to": "p05-terminal" } } },
+      "groups": {
+        "p05-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 }
+      }
+    },
+    "06_scripts_tools": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "05_demo_moment", "pairs": { "terminal-window": { "from": "p05-terminal", "to": "p06-terminal" } } },
+      "groups": {
+        "p06-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p06-tools": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.5 }
+      }
+    },
+    "07_python_versions": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "06_scripts_tools", "pairs": { "terminal-window": { "from": "p06-terminal", "to": "p07-terminal" } } },
+      "groups": {
+        "p07-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p07-actions": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.5 }
+      }
+    },
+    "08_before_after": {
+      "groups": {
+        "p08-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "tool-replacement-matrix": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.7 }
+      }
+    },
+    "09_proof_point": {
+      "groups": {
+        "p09-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "astral-speedup-claim": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 2, "duration": 0.7 },
+        "p09-basis": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "10_capability_landscape": {
+      "groups": {
+        "p10-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p10-sections": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.7 }
+      }
+    },
+    "11_shipped_vs_preview": {
+      "groups": {
+        "p11-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "capability-status-matrix": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.7 },
+        "p11-preview-usage": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "12_availability": {
+      "groups": {
+        "p12-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p12-install-unix": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "p12-install-win": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "13_sources": {
+      "groups": {
+        "p13-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p13-sources": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.7 }
+      }
+    },
+    "14_next_step": {
+      "groups": {
+        "p14-header": { "effect": "entrance_fade", "order": 1, "duration": 0.3 },
+        "p14-terminal": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "p14-close": { "effect": "entrance_fade", "order": 3, "duration": 0.6 }
+      }
+    }
+  }
+}

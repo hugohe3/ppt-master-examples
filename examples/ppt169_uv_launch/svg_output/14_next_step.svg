@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="ending">
+  <defs>
+    <filter id="winGlow" x="-8%" y="-14%" width="116%" height="128%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b" />
+      <feFlood flood-color="#FF8A3D" flood-opacity="0.32" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0" />
+      <stop offset="100%" stop-color="#FF8A3D" />
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220" />
+
+  <g id="p14-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#FF8A3D" letter-spacing="3">下一步</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">今天先做一件事:在一个项目上跑通 uv pip install</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)" />
+  </g>
+
+  <g id="p14-terminal" data-pptx-bounds="200 204 880 252">
+    <rect x="200" y="204" width="880" height="252" rx="4" fill="#131C2E" stroke="#FF8A3D" stroke-width="1" filter="url(#winGlow)" />
+    <line x1="200" y1="242" x2="1080" y2="242" stroke="#243349" stroke-width="1" />
+    <circle cx="224" cy="223" r="5" fill="#FF8A3D" />
+    <circle cx="244" cy="223" r="5" fill="#243349" />
+    <use data-icon="tabler-outline/rocket" x="268" y="209" width="28" height="28" fill="#FF8A3D" stroke-width="2" />
+    <text x="306" y="230" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">first run</text>
+    <text x="232" y="286" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3"><tspan x="232" dy="0"><tspan fill="#FF8A3D">$ </tspan>curl -LsSf https://astral.sh/uv/install.sh | sh</tspan><tspan x="232" dy="36"><tspan fill="#FF8A3D">$ </tspan>cd my-project</tspan><tspan x="232" dy="36"><tspan fill="#FF8A3D">$ </tspan>uv venv</tspan><tspan x="232" dy="36"><tspan fill="#FF8A3D">$ </tspan>uv pip install -r requirements.txt</tspan></text>
+  </g>
+
+  <g id="p14-close" data-pptx-bounds="72 480 1136 88">
+    <text x="640" y="540" font-size="64" font-weight="bold" fill="#E6EDF3" text-anchor="middle">先换一条命令,再谈换一套流程</text>
+  </g>
+
+  <g id="p14-precondition" data-pptx-bounds="72 578 1136 62" fill="#9BA9BC" font-size="18" text-anchor="middle">
+    <text x="640" y="600">uv 的虚拟环境符合标准,可与其他工具互换使用;uv pip 不调用 pip,越偏离常见工作流差异越可能出现</text>
+    <text x="640" y="630">不必整套迁移:先在一个现有项目上跑通这两条命令,再决定要不要用 uv init 重建工程</text>
+  </g>
+
+  <g id="p14-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1" />
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">安装命令与 pip 接口说明引自 uv 官方文档首页 Installation / The pip interface 段</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">14 / 14</text>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="winGlow" x="-8%" y="-14%" width="116%" height="128%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b"/>
+      <feFlood flood-color="#4CC9F0" flood-opacity="0.30" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0"/>
+      <stop offset="100%" stop-color="#FF8A3D"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+
+  <g id="p06-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">能力揭示 · 脚本与工具</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">一个脚本也能有自己的依赖,不用先建环境</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="p06-terminal" data-pptx-bounds="72 180 680 232">
+    <rect x="72" y="180" width="680" height="232" rx="4" fill="#131C2E" stroke="#4CC9F0" stroke-width="1" filter="url(#winGlow)"/>
+    <line x1="72" y1="218" x2="752" y2="218" stroke="#243349" stroke-width="1"/>
+    <circle cx="96" cy="199" r="5" fill="#FF8A3D"/>
+    <circle cx="116" cy="199" r="5" fill="#243349"/>
+    <text x="140" y="206" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">bash — example.py</text>
+    <text x="104" y="254" font-family="Consolas, monospace" font-size="18" fill="#E6EDF3"><tspan x="104" dy="0"><tspan fill="#FF8A3D">$ </tspan>uv add --script example.py requests</tspan><tspan x="104" dy="24" fill="#9BA9BC">Updated `example.py`</tspan><tspan x="104" dy="24"><tspan fill="#FF8A3D">$ </tspan>uv run example.py</tspan><tspan x="104" dy="24" fill="#9BA9BC">Reading inline script metadata from: example.py</tspan><tspan x="104" dy="24" fill="#9BA9BC">Installed 5 packages in <tspan fill="#4CC9F0">12ms</tspan></tspan><tspan x="104" dy="24" fill="#9BA9BC">&lt;Response [200]&gt;</tspan></text>
+  </g>
+
+  <g id="p06-tools" data-pptx-bounds="72 444 680 172">
+    <rect x="72" y="444" width="328" height="172" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <text x="96" y="480" font-size="18" fill="#FF8A3D" letter-spacing="2">临时跑一次</text>
+    <text x="96" y="522" font-family="Consolas, monospace" font-size="18" fill="#E6EDF3"><tspan x="96" dy="0">uvx pycowsay</tspan><tspan x="96" dy="24">&apos;hello world!&apos;</tspan></text>
+    <text x="96" y="588" font-size="18" fill="#9BA9BC">uvx 即 uv tool run</text>
+
+    <rect x="424" y="444" width="328" height="172" rx="4" fill="#131C2E" stroke="#243349" stroke-width="1"/>
+    <text x="448" y="480" font-size="18" fill="#FF8A3D" letter-spacing="2">装成常驻</text>
+    <text x="448" y="522" font-family="Consolas, monospace" font-size="18" fill="#E6EDF3"><tspan x="448" dy="0">uv tool install ruff</tspan><tspan x="448" dy="24" fill="#9BA9BC">Installed 1 executable</tspan></text>
+    <text x="448" y="588" font-size="18" fill="#9BA9BC">此后直接敲 ruff 即可</text>
+  </g>
+
+  <g id="p06-explain" data-pptx-bounds="792 180 416 436">
+    <use data-icon="tabler-outline/file-code" x="792" y="192" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="840" y="216" font-size="24" fill="#E6EDF3">内联依赖元数据</text>
+    <text x="792" y="256" font-size="18" fill="#9BA9BC">依赖写进脚本文件本身,不再靠全局环境</text>
+    <line x1="792" y1="288" x2="1208" y2="288" stroke="#243349" stroke-width="1"/>
+
+    <use data-icon="tabler-outline/box" x="792" y="316" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="840" y="340" font-size="24" fill="#E6EDF3">隔离环境</text>
+    <text x="792" y="380" font-size="18" fill="#9BA9BC">uv run 在隔离的虚拟环境里执行脚本</text>
+    <line x1="792" y1="412" x2="1208" y2="412" stroke="#243349" stroke-width="1"/>
+
+    <use data-icon="tabler-outline/tool" x="792" y="440" width="32" height="32" fill="#4CC9F0" stroke-width="2"/>
+    <text x="840" y="464" font-size="24" fill="#E6EDF3">临时与常驻</text>
+    <text x="792" y="504" font-size="18" fill="#9BA9BC">uvx 跑一次;uv tool install 装成常驻</text>
+    <line x1="792" y1="536" x2="1208" y2="536" stroke="#243349" stroke-width="1"/>
+
+    <text x="792" y="572" font-size="18" fill="#9BA9BC"><tspan x="792" dy="0">这两块与项目、pip 接口一样,</tspan><tspan x="792" dy="26">都可以单独采用,不必整套迁移</tspan></text>
+  </g>
+
+  <g id="p06-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1"/>
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">命令与输出引自 uv 官方文档首页 Scripts / Tools 段与 Features 页(docs.astral.sh/uv)</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">06 / 14</text>
+  </g>
+</svg>

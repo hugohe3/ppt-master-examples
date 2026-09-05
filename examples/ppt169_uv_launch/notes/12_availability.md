@@ -1,0 +1,1 @@
+接下来是最实际的问题:在哪能装,怎么装。三个平台都支持,macOS、Linux、Windows。macOS 和 Linux 用官方独立安装脚本,一行 curl 管道给 sh;Windows 用 PowerShell,irm 拉下来交给 iex。这里有一条属性值得单独强调,也是官方首页原话:安装 uv 不需要先有 Rust,也不需要先有 Python,它就是一个二进制。除了官方脚本,你也可以用 pip、pipx、Homebrew 等渠道,完整清单在官方安装页。最后一条是给已有项目的:如果你要升到零点十二,而你的 build-system 表里对 uv_build 设了版本上界,把它改成大于等于零点十一点三二、小于零点十三。uv 构建后端的配置本身没有破坏性变更,只需要放开这一个上界。

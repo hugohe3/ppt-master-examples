@@ -1,0 +1,1 @@
+把前面几块拼起来看,官方是这样切分它的界面的。第一块是 Python 版本,install、list、find、pin、uninstall。第二块是脚本,uv run 加上给脚本增删依赖。第三块是项目,init、add、remove、sync、lock、run、tree、build、publish,是最完整的一块。第四块是工具,uvx 等于 uv tool run,再加上 install、uninstall、list。第五块是 pip 接口,uv venv 加上 uv pip 的那一组。最下面用虚线框出来的是 Utility,不算能力块,是管理 uv 自己的状态:清缓存、看目录、自更新。这里最重要的一句是官方原话:uv 的界面可以拆成若干部分,这些部分既可以单独使用,也可以合起来用。也就是说,迁移可以从任意一块开始,不是全有或全无。

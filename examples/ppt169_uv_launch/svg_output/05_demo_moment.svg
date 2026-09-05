@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="winGlow" x="-6%" y="-12%" width="112%" height="124%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b"/>
+      <feFlood flood-color="#4CC9F0" flood-opacity="0.30" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0"/>
+      <stop offset="100%" stop-color="#FF8A3D"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220"/>
+
+  <g id="p05-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">演示时刻</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">看它跑一遍:五条命令,一次装完</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)"/>
+  </g>
+
+  <g id="p05-terminal" data-pptx-bounds="72 176 1136 432">
+    <rect x="72" y="176" width="1136" height="432" rx="4" fill="#131C2E" stroke="#4CC9F0" stroke-width="1" filter="url(#winGlow)"/>
+    <line x1="72" y1="214" x2="1208" y2="214" stroke="#243349" stroke-width="1"/>
+    <circle cx="96" cy="195" r="5" fill="#FF8A3D"/>
+    <circle cx="116" cy="195" r="5" fill="#243349"/>
+    <circle cx="136" cy="195" r="5" fill="#243349"/>
+    <text x="160" y="202" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">bash — uv 0.12.10</text>
+    <text x="1184" y="202" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC" text-anchor="end">docs.astral.sh/uv</text>
+    <text x="104" y="232" font-family="Consolas, monospace" font-size="18" fill="#E6EDF3"><tspan x="104" dy="0"><tspan fill="#FF8A3D">$ </tspan>uv init example</tspan><tspan x="104" dy="24" fill="#9BA9BC">Initialized project `example` at `/home/user/example`</tspan><tspan x="104" dy="24"><tspan fill="#FF8A3D">$ </tspan>cd example</tspan><tspan x="104" dy="24"><tspan fill="#FF8A3D">$ </tspan>uv add ruff</tspan><tspan x="104" dy="24" fill="#9BA9BC">Creating virtual environment at: .venv</tspan><tspan x="104" dy="24" fill="#9BA9BC">Resolved 2 packages in <tspan fill="#4CC9F0">170ms</tspan></tspan><tspan x="104" dy="24" fill="#9BA9BC">   Built example @ file:///home/user/example</tspan><tspan x="104" dy="24" fill="#9BA9BC">Prepared 2 packages in <tspan fill="#4CC9F0">627ms</tspan></tspan><tspan x="104" dy="24" fill="#9BA9BC">Installed 2 packages in <tspan fill="#4CC9F0">1ms</tspan></tspan><tspan x="104" dy="24" fill="#9BA9BC"> + example==0.1.0 (from file:///home/user/example)</tspan><tspan x="104" dy="24" fill="#9BA9BC"> + ruff==0.5.4</tspan><tspan x="104" dy="24"><tspan fill="#FF8A3D">$ </tspan>uv run ruff check</tspan><tspan x="104" dy="24" fill="#9BA9BC">All checks passed!</tspan><tspan x="104" dy="24"><tspan fill="#FF8A3D">$ </tspan>uv lock</tspan><tspan x="104" dy="24" fill="#9BA9BC">Resolved 2 packages in <tspan fill="#4CC9F0">0.33ms</tspan></tspan></text>
+  </g>
+
+  <g id="p05-note" data-pptx-bounds="72 616 1136 30">
+    <text x="72" y="636" font-size="18" fill="#9BA9BC">以上为 uv 官方文档首页 Projects 段的示例会话,逐行照抄;机器与网络条件未公布,本页不做本机复测</text>
+  </g>
+
+  <g id="p05-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1"/>
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">来源:docs.astral.sh/uv 首页 Projects 段;高亮的耗时数字为该示例输出原文</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">05 / 14</text>
+  </g>
+</svg>

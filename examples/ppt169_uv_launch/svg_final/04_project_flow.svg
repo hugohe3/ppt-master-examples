@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="winGlow" x="-8%" y="-14%" width="116%" height="128%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b" />
+      <feFlood flood-color="#4CC9F0" flood-opacity="0.30" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0" />
+      <stop offset="100%" stop-color="#FF8A3D" />
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220" />
+
+  <g id="p04-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">能力揭示 · 项目工作流</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">从零到能跑,你只需要记住四个动作</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)" />
+  </g>
+
+  <g id="p04-command-path" data-pptx-bounds="72 176 1136 124">
+    <g id="p04-step-init" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 180 292 112" fill="#131C2E" stroke="#243349" stroke-width="1">
+<path d="M 72 180 L 308 180 L 364 236 L 308 292 L 72 292 L 128 236 Z" />
+</g>
+    <g id="p04-step-add" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="352 180 292 112" fill="#131C2E" stroke="#243349" stroke-width="1">
+<path d="M 352 180 L 588 180 L 644 236 L 588 292 L 352 292 L 408 236 Z" />
+</g>
+    <g id="p04-step-run" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="632 180 292 112" fill="#131C2E" stroke="#243349" stroke-width="1">
+<path d="M 632 180 L 868 180 L 924 236 L 868 292 L 632 292 L 688 236 Z" />
+</g>
+    <g id="p04-step-lock" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="912 180 292 112" fill="#131C2E" stroke="#243349" stroke-width="1">
+<path d="M 912 180 L 1148 180 L 1204 236 L 1148 292 L 912 292 L 968 236 Z" />
+</g>
+    <text x="252" y="228" font-family="Consolas, monospace" font-size="20" fill="#4CC9F0" text-anchor="middle">uv init</text>
+    <text x="252" y="260" font-size="18" fill="#9BA9BC" text-anchor="middle">建项目</text>
+    <text x="532" y="228" font-family="Consolas, monospace" font-size="20" fill="#4CC9F0" text-anchor="middle">uv add</text>
+    <text x="532" y="260" font-size="18" fill="#9BA9BC" text-anchor="middle">加依赖</text>
+    <text x="812" y="228" font-family="Consolas, monospace" font-size="20" fill="#4CC9F0" text-anchor="middle">uv run</text>
+    <text x="812" y="260" font-size="18" fill="#9BA9BC" text-anchor="middle">跑命令</text>
+    <text x="1092" y="228" font-family="Consolas, monospace" font-size="20" fill="#4CC9F0" text-anchor="middle">uv lock</text>
+    <text x="1092" y="260" font-size="18" fill="#9BA9BC" text-anchor="middle">锁版本</text>
+  </g>
+
+  <g id="p04-terminal" data-pptx-bounds="72 336 680 272">
+    <rect x="72" y="336" width="680" height="272" rx="4" fill="#131C2E" stroke="#4CC9F0" stroke-width="1" filter="url(#winGlow)" />
+    <line x1="72" y1="374" x2="752" y2="374" stroke="#243349" stroke-width="1" />
+    <circle cx="96" cy="355" r="5" fill="#FF8A3D" />
+    <circle cx="116" cy="355" r="5" fill="#243349" />
+    <text x="140" y="362" font-family="Consolas, monospace" font-size="18" fill="#9BA9BC">bash</text>
+    <text font-size="20" fill="#E6EDF3" font-family="Consolas, monospace" x="104" y="412"><tspan><tspan fill="#FF8A3D">$ </tspan>uv init hello-world</tspan></text><text font-size="20" fill="#E6EDF3" font-family="Consolas, monospace" x="104" y="442"><tspan><tspan fill="#FF8A3D">$ </tspan>cd hello-world</tspan></text><text font-size="20" fill="#E6EDF3" font-family="Consolas, monospace" x="104" y="472"><tspan><tspan fill="#FF8A3D">$ </tspan>uv add requests</tspan></text><text font-size="20" fill="#E6EDF3" font-family="Consolas, monospace" x="104" y="502"><tspan><tspan fill="#FF8A3D">$ </tspan>uv run hello-world</tspan></text><text font-size="20" fill="#9BA9BC" font-family="Consolas, monospace" x="104" y="532">Hello from hello-world!</text><text x="104" y="580" font-size="18" fill="#9BA9BC">首次运行项目命令时,uv 自动创建 .venv 与 uv.lock</text>
+  </g>
+
+  <g id="p04-artifacts" data-pptx-bounds="792 336 416 272">
+    <text x="792" y="352" font-size="18" fill="#FF8A3D" letter-spacing="3">这四步留下什么</text>
+    
+  <g transform="translate(792, 368) scale(1.16667)" fill="none" stroke="#4CC9F0" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M10 13l-1 2l1 2" />
+    <path d="M14 13l1 2l-1 2" />
+  </g>
+    <text x="832" y="390" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">pyproject.toml</text>
+    <text x="832" y="416" font-size="18" fill="#9BA9BC">声明依赖与项目元数据</text>
+    
+  <g transform="translate(792, 448) scale(1.16667)" fill="none" stroke="#4CC9F0" stroke-width="2">
+    <path d="M5 13a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-6" />
+    <path d="M11 16a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" />
+    <path d="M8 11v-4a4 4 0 1 1 8 0v4" />
+  </g>
+    <text x="832" y="470" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">uv.lock</text>
+    <text x="832" y="496" font-size="18" fill="#9BA9BC">精确解析结果,应提交到版本库</text>
+    
+  <g transform="translate(792, 528) scale(1.16667)" fill="none" stroke="#4CC9F0" stroke-width="2">
+    <path d="M12 3l8 4.5l0 9l-8 4.5l-8 -4.5l0 -9l8 -4.5" />
+    <path d="M12 12l8 -4.5" />
+    <path d="M12 12l0 9" />
+    <path d="M12 12l-8 -4.5" />
+  </g>
+    <text x="832" y="550" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">.venv/</text>
+    <text x="832" y="576" font-size="18" fill="#9BA9BC">项目自己的隔离环境</text>
+  </g>
+
+  <g id="p04-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1" />
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">命令与终端输出引自 uv 官方文档「Working on projects」页(docs.astral.sh/uv/guides/projects)</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">04 / 14</text>
+  </g>
+</svg>

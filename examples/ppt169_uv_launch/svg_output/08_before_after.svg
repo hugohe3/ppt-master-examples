@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4CC9F0" />
+      <stop offset="100%" stop-color="#FF8A3D" />
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1220" />
+
+  <g id="p08-header" data-pptx-bounds="72 56 1136 94">
+    <text x="72" y="76" font-size="18" fill="#4CC9F0" letter-spacing="3">前后对照</text>
+    <text x="72" y="124" font-size="42" font-weight="bold" fill="#E6EDF3">同一件事,你只是换了一条命令</text>
+    <rect x="72" y="142" width="64" height="3" fill="url(#accentRule)" />
+  </g>
+
+  <g id="tool-replacement-matrix" data-pptx-replace-with="table" data-pptx-bounds="72 184 1136 400" data-pptx-fallback-sha256="afcd216cdebc71ad35542d00348ac0ce68e24b6f6d18a9e1e63dffd94b8441d6">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "tool-replacement-matrix",
+  "x": 72, "y": 184, "width": 1136, "height": 400,
+  "header_rows": 1,
+  "column_widths": [240, 460, 436],
+  "row_heights": [52, 58, 58, 58, 58, 58, 58],
+  "style": {
+    "font_family": "Microsoft YaHei",
+    "font_size": 24,
+    "header_font_size": 18,
+    "band_row": false,
+    "header_fill": "#1E2A3D",
+    "header_text": "#9BA9BC",
+    "body_fill": "#0B1220",
+    "body_text": "#E6EDF3",
+    "border_color": "#243349",
+    "border_width": 1
+  },
+  "defaults": {
+    "cell": {
+      "valign": "middle",
+      "padding": {"left": 24, "right": 24, "top": 6, "bottom": 6},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "solid", "color": "#243349", "width": 1},
+        "bottom": {"style": "solid", "color": "#243349", "width": 1}
+      }
+    }
+  },
+  "columns": [
+    {"text": "任务", "align": "l"},
+    {"text": "传统命令", "align": "l"},
+    {"text": "uv 命令", "align": "l", "fill": "#FF8A3D", "color": "#0B1220", "bold": true}
+  ],
+  "rows": [
+    [
+      {"text": "建虚拟环境", "fill": "#101929", "color": "#E6EDF3"},
+      {"fill": "#0B1220", "paragraphs": [{"align": "l", "runs": [{"text": "python -m venv .venv", "font_family": "Consolas", "font_size": 20, "color": "#9BA9BC"}]}]},
+      {"fill": "#131C2E", "paragraphs": [{"align": "l", "runs": [{"text": "uv venv", "font_family": "Consolas", "font_size": 20, "color": "#E6EDF3"}]}]}
+    ],
+    [
+      {"text": "装包", "fill": "#101929", "color": "#E6EDF3"},
+      {"fill": "#0B1220", "paragraphs": [{"align": "l", "runs": [{"text": "pip install requests", "font_family": "Consolas", "font_size": 20, "color": "#9BA9BC"}]}]},
+      {"fill": "#131C2E", "paragraphs": [{"align": "l", "runs": [{"text": "uv pip install requests", "font_family": "Consolas", "font_size": 20, "color": "#E6EDF3"}]}]}
+    ],
+    [
+      {"text": "锁定依赖", "fill": "#101929", "color": "#E6EDF3"},
+      {"fill": "#0B1220", "paragraphs": [{"align": "l", "runs": [{"text": "pip-compile requirements.in", "font_family": "Consolas", "font_size": 20, "color": "#9BA9BC"}]}]},
+      {"fill": "#131C2E", "paragraphs": [{"align": "l", "runs": [{"text": "uv pip compile requirements.in", "font_family": "Consolas", "font_size": 20, "color": "#E6EDF3"}]}]}
+    ],
+    [
+      {"text": "同步环境", "fill": "#101929", "color": "#E6EDF3"},
+      {"fill": "#0B1220", "paragraphs": [{"align": "l", "runs": [{"text": "pip-sync requirements.txt", "font_family": "Consolas", "font_size": 20, "color": "#9BA9BC"}]}]},
+      {"fill": "#131C2E", "paragraphs": [{"align": "l", "runs": [{"text": "uv pip sync requirements.txt", "font_family": "Consolas", "font_size": 20, "color": "#E6EDF3"}]}]}
+    ],
+    [
+      {"text": "跑命令行工具", "fill": "#101929", "color": "#E6EDF3"},
+      {"fill": "#0B1220", "paragraphs": [{"align": "l", "runs": [{"text": "pipx run ruff", "font_family": "Consolas", "font_size": 20, "color": "#9BA9BC"}]}]},
+      {"fill": "#131C2E", "paragraphs": [{"align": "l", "runs": [{"text": "uvx ruff", "font_family": "Consolas", "font_size": 20, "color": "#E6EDF3"}]}]}
+    ],
+    [
+      {"text": "装 Python 版本", "fill": "#101929", "color": "#E6EDF3"},
+      {"fill": "#0B1220", "paragraphs": [{"align": "l", "runs": [{"text": "pyenv install 3.12", "font_family": "Consolas", "font_size": 20, "color": "#9BA9BC"}]}]},
+      {"fill": "#131C2E", "paragraphs": [{"align": "l", "runs": [{"text": "uv python install 3.12", "font_family": "Consolas", "font_size": 20, "color": "#E6EDF3"}]}]}
+    ]
+  ]
+}
+    </metadata>
+
+    <rect x="72" y="236" width="240" height="348" fill="#101929" />
+    <rect x="312" y="236" width="460" height="348" fill="#0B1220" />
+    <rect x="772" y="236" width="436" height="348" fill="#131C2E" />
+    <rect x="72" y="184" width="700" height="52" fill="#1E2A3D" />
+    <rect x="772" y="184" width="436" height="52" fill="#FF8A3D" />
+
+    <g stroke="#243349" stroke-width="1">
+      <line x1="72" y1="184" x2="1208" y2="184" />
+      <line x1="72" y1="236" x2="1208" y2="236" />
+      <line x1="72" y1="294" x2="1208" y2="294" />
+      <line x1="72" y1="352" x2="1208" y2="352" />
+      <line x1="72" y1="410" x2="1208" y2="410" />
+      <line x1="72" y1="468" x2="1208" y2="468" />
+      <line x1="72" y1="526" x2="1208" y2="526" />
+      <line x1="72" y1="584" x2="1208" y2="584" />
+    </g>
+
+    <text x="96" y="217" font-size="18" fill="#9BA9BC">任务</text>
+    <text x="336" y="217" font-size="18" fill="#9BA9BC">传统命令</text>
+    <text x="796" y="217" font-size="18" font-weight="bold" fill="#0B1220">uv 命令</text>
+
+    <text x="96" y="273" font-size="24" fill="#E6EDF3">建虚拟环境</text>
+    <text x="336" y="273" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC">python -m venv .venv</text>
+    <text x="796" y="273" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">uv venv</text>
+
+    <text x="96" y="331" font-size="24" fill="#E6EDF3">装包</text>
+    <text x="336" y="331" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC">pip install requests</text>
+    <text x="796" y="331" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">uv pip install requests</text>
+
+    <text x="96" y="389" font-size="24" fill="#E6EDF3">锁定依赖</text>
+    <text x="336" y="389" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC">pip-compile requirements.in</text>
+    <text x="796" y="389" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">uv pip compile requirements.in</text>
+
+    <text x="96" y="447" font-size="24" fill="#E6EDF3">同步环境</text>
+    <text x="336" y="447" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC">pip-sync requirements.txt</text>
+    <text x="796" y="447" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">uv pip sync requirements.txt</text>
+
+    <text x="96" y="505" font-size="24" fill="#E6EDF3">跑命令行工具</text>
+    <text x="336" y="505" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC">pipx run ruff</text>
+    <text x="796" y="505" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">uvx ruff</text>
+
+    <text x="96" y="563" font-size="24" fill="#E6EDF3">装 Python 版本</text>
+    <text x="336" y="563" font-family="Consolas, monospace" font-size="20" fill="#9BA9BC">pyenv install 3.12</text>
+    <text x="796" y="563" font-family="Consolas, monospace" font-size="20" fill="#E6EDF3">uv python install 3.12</text>
+  </g>
+
+  <g id="p08-notes" data-pptx-bounds="72 596 1136 50" fill="#9BA9BC" font-size="18">
+    <text x="72" y="614">uv 不依赖也不调用 pip:这个名字只表示这组低层命令与 pip 的接口对齐。</text>
+    <text x="72" y="638">官方同时提醒:这些命令并非逐字实现 pip 的全部行为,越偏离常见工作流,差异越可能出现。</text>
+  </g>
+
+  <g id="p08-footer" data-pptx-bounds="72 646 1136 40">
+    <line x1="72" y1="652" x2="1208" y2="652" stroke="#243349" stroke-width="1" />
+    <text x="72" y="676" font-size="16" fill="#9BA9BC">对照与两条提醒引自 uv 官方文档 The pip interface 页与 Features 页(docs.astral.sh/uv/pip)</text>
+    <text x="1208" y="676" font-family="Consolas, monospace" font-size="16" fill="#9BA9BC" text-anchor="end">08 / 14</text>
+  </g>
+</svg>
