@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <line id="column-divider" data-pptx-role="decoration" x1="640" y1="250" x2="640" y2="508" stroke="#D7DDE3" stroke-width="1" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">The same bad file produced errors on the new proxy and</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">silent false positives on the old one</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="proxy-migration-context" data-pptx-bounds="64 173 1152 56">
+    <text font-size="20" fill="#5A6673" x="64" y="190">Unrelated to this incident, customer traffic was being migrated to a new proxy version, FL2.</text><text font-size="20" fill="#5A6673" x="64" y="220">Both versions were affected by the bad feature file, but the impact each one produced differed.</text></g>
+  <g id="proxy-fl2" data-pptx-bounds="64 250 548 258">
+    <text x="64" y="262" font-size="12" font-weight="bold" fill="#B4342C">FL2 · THE NEW PROXY ENGINE</text>
+    <text x="64" y="300" font-size="28" font-weight="bold" fill="#1F2933">HTTP 5xx errors</text>
+    <text font-size="20" fill="#1F2933" x="64" y="340">Customers deployed on the new FL2 proxy</text><text font-size="20" fill="#1F2933" x="64" y="370">engine observed HTTP 5xx errors for any</text><text font-size="20" fill="#1F2933" x="64" y="400">traffic that depended on the bots module.</text><text font-size="20" fill="#1F2933" x="64" y="470">This also affected Workers KV and Access,</text><text font-size="20" fill="#1F2933" x="64" y="500">which rely on the core proxy.</text></g>
+  <g id="proxy-fl" data-pptx-bounds="668 250 548 258">
+    <text x="668" y="262" font-size="12" font-weight="bold" fill="#B7791F">FL · THE PREVIOUS PROXY ENGINE</text>
+    <text x="668" y="300" font-size="28" font-weight="bold" fill="#1F2933">Silent bot-score failure</text>
+    <text font-size="20" fill="#1F2933" x="668" y="340">Customers on the old FL engine did not see</text><text font-size="20" fill="#1F2933" x="668" y="370">errors, but bot scores were not generated</text><text font-size="20" fill="#1F2933" x="668" y="400">correctly and all traffic received a bot</text><text font-size="20" fill="#1F2933" x="668" y="430">score of zero.</text><text font-size="20" fill="#1F2933" x="668" y="470">Customers with rules that block bots would</text><text font-size="20" fill="#1F2933" x="668" y="500">have seen large numbers of false positives.</text></g>
+  <g id="proxy-no-impact" data-pptx-bounds="64 538 1152 42">
+    <text x="64" y="560" font-size="26" fill="#1F2933">Customers who were not using the bot score in their rules did not see any impact.</text>
+  </g>
+  <g id="proxy-claim-label" data-pptx-bounds="64 606 1152 26">
+    <text x="64" y="620" font-size="16" fill="#5A6673">Observed fact: both proxy behaviours are stated in the published account; neither is inferred here.</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, request-path section. All times UTC.</text>
+    <text x="1216" y="692" text-anchor="end">04</text>
+  </g>
+</svg>

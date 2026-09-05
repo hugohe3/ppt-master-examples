@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="92" font-size="36" font-weight="bold" fill="#1F2933">One feature file doubled in size and a fixed 200-feature<tspan x="64" dy="43">limit turned it into a global 5xx event</tspan></text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="summary-lead" data-pptx-bounds="64 166 1152 70">
+    <text x="64" y="190" font-size="26" fill="#1F2933">The failure was in the ingestion of Cloudflare’s own generated<tspan x="64" dy="36">configuration, not in the traffic that configuration governs.</tspan></text>
+  </g>
+  <g id="moment-change-deployed" data-pptx-bounds="64 246 264 122">
+    <use data-icon="chunk-filled/circle-minus" x="64" y="248" width="12" height="12" fill="#4A5568" />
+    <text x="82" y="258" font-size="12" font-weight="bold" fill="#5A6673">NORMAL · CHANGE DEPLOYED</text>
+    <text x="64" y="316" font-family="Consolas" font-size="56" font-weight="bold" fill="#4A5568">11:05</text>
+    <text x="64" y="342" font-size="16" fill="#5A6673">Database access control<tspan x="64" dy="20">change deployed</tspan></text>
+  </g>
+  <g id="moment-impact-starts" data-pptx-bounds="360 246 264 122">
+    <use data-icon="chunk-filled/circle-x" x="360" y="248" width="12" height="12" fill="#B4342C" />
+    <text x="378" y="258" font-size="12" font-weight="bold" fill="#5A6673">CRITICAL · IMPACT STARTS</text>
+    <text x="360" y="316" font-family="Consolas" font-size="56" font-weight="bold" fill="#B4342C">11:28</text>
+    <text x="360" y="342" font-size="16" fill="#5A6673">First errors observed on<tspan x="360" dy="20">customer HTTP traffic</tspan></text>
+  </g>
+  <g id="moment-main-resolved" data-pptx-bounds="656 246 264 122">
+    <use data-icon="chunk-filled/triangle-exclamation" x="656" y="248" width="12" height="12" fill="#B7791F" />
+    <text x="674" y="258" font-size="12" font-weight="bold" fill="#5A6673">DEGRADED · MAIN IMPACT ENDS</text>
+    <text x="656" y="316" font-family="Consolas" font-size="56" font-weight="bold" fill="#B7791F">14:30</text>
+    <text x="656" y="342" font-size="16" fill="#5A6673">Correct configuration file<tspan x="656" dy="20">deployed globally</tspan></text>
+  </g>
+  <g id="moment-all-resolved" data-pptx-bounds="952 246 264 122">
+    <use data-icon="chunk-filled/circle-checkmark" x="952" y="248" width="12" height="12" fill="#2E7D5B" />
+    <text x="970" y="258" font-size="12" font-weight="bold" fill="#5A6673">RECOVERED · ALL RESOLVED</text>
+    <text x="952" y="316" font-family="Consolas" font-size="56" font-weight="bold" fill="#2E7D5B">17:06</text>
+    <text x="952" y="342" font-size="16" fill="#5A6673">All downstream services<tspan x="952" dy="20">restarted and restored</tspan></text>
+  </g>
+  <g id="fact-trigger" data-pptx-bounds="64 400 552 112">
+    <text x="64" y="412" font-size="12" font-weight="bold" fill="#B4342C">TRIGGER</text>
+    <text x="64" y="442" font-size="20" fill="#1F2933">A change to one of Cloudflare’s database<tspan x="64" dy="30">systems’ permissions made the query output</tspan><tspan x="64" dy="30">duplicate entries into the feature file.</tspan></text>
+  </g>
+  <g id="fact-mechanism" data-pptx-bounds="664 400 552 112">
+    <text x="664" y="412" font-size="12" font-weight="bold" fill="#B4342C">MECHANISM</text>
+    <text x="664" y="442" font-size="20" fill="#1F2933">The file doubled in size and passed the<tspan x="664" dy="30">bots module’s preallocated limit of 200</tspan><tspan x="664" dy="30">features, against roughly 60 then in use.</tspan></text>
+  </g>
+  <g id="fact-scope" data-pptx-bounds="64 548 552 112">
+    <text x="64" y="560" font-size="12" font-weight="bold" fill="#B4342C">SCOPE</text>
+    <text x="64" y="590" font-size="20" fill="#1F2933">Core CDN and security services, Turnstile,<tspan x="64" dy="30">Workers KV, Dashboard, Email Security and</tspan><tspan x="64" dy="30">Access were affected, in different ways.</tspan></text>
+  </g>
+  <g id="fact-recovery" data-pptx-bounds="664 548 552 112">
+    <text x="664" y="560" font-size="12" font-weight="bold" fill="#B4342C">RECOVERY</text>
+    <text x="664" y="590" font-size="20" fill="#1F2933">Core traffic was largely flowing as normal<tspan x="664" dy="30">by 14:30, and all remaining services were</tspan><tspan x="664" dy="30">restored at 17:06.</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”. All times UTC.</text>
+    <text x="1216" y="692" text-anchor="end">02</text>
+  </g>
+</svg>

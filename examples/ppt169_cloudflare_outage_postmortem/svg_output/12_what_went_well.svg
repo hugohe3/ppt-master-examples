@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="92" font-size="36" font-weight="bold" fill="#1F2933">Three controls limited the damage<tspan x="64" dy="43">and are the ones to protect</tspan></text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1"/>
+  </g>
+  <g id="control-detection" data-pptx-bounds="64 190 356 280">
+    <g id="p12-control-1-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 190 356 280" fill="none" stroke="#2E7D5B" stroke-width="1.5">
+<path d="M 64 190 L 373.33 190 L 420 236.67 L 420 470 L 64 470 Z"/>
+</g>
+    <use data-icon="chunk-filled/circle-checkmark" x="88" y="214" width="12" height="12" fill="#2E7D5B"/>
+    <text x="106" y="224" font-size="12" font-weight="bold" fill="#2E7D5B">PROTECT THIS</text>
+    <text x="88" y="266" font-size="28" font-weight="bold" fill="#1F2933">Automated detection<tspan x="88" dy="34">was fast</tspan></text>
+    <text x="88" y="352" font-size="16" fill="#1F2933">The first automated test detected<tspan x="88" dy="22">the issue at 11:31, three minutes</tspan><tspan x="88" dy="22">after impact began at 11:28. Manual</tspan><tspan x="88" dy="22">investigation started the following</tspan><tspan x="88" dy="22">minute and the incident call was</tspan><tspan x="88" dy="22">created at 11:35.</tspan></text>
+  </g>
+  <g id="control-bypass" data-pptx-bounds="462 190 356 280">
+    <g id="p12-control-2-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="462 190 356 280" fill="none" stroke="#2E7D5B" stroke-width="1.5">
+<path d="M 462 190 L 771.33 190 L 818 236.67 L 818 470 L 462 470 Z"/>
+</g>
+    <use data-icon="chunk-filled/circle-checkmark" x="486" y="214" width="12" height="12" fill="#2E7D5B"/>
+    <text x="504" y="224" font-size="12" font-weight="bold" fill="#2E7D5B">PROTECT THIS</text>
+    <text x="486" y="266" font-size="28" font-weight="bold" fill="#1F2933">A bypass existed<tspan x="486" dy="34">and was used</tspan></text>
+    <text x="486" y="352" font-size="16" fill="#1F2933">At 13:05, internal system bypasses<tspan x="486" dy="22">failed Workers KV and Cloudflare</tspan><tspan x="486" dy="22">Access back to a prior version of</tspan><tspan x="486" dy="22">the core proxy, reducing impact for</tspan><tspan x="486" dy="22">every downstream system — before</tspan><tspan x="486" dy="22">the trigger was known.</tspan></text>
+  </g>
+  <g id="control-graceful-fl" data-pptx-bounds="860 190 356 280">
+    <g id="p12-control-3-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="860 190 356 280" fill="none" stroke="#2E7D5B" stroke-width="1.5">
+<path d="M 860 190 L 1169.33 190 L 1216 236.67 L 1216 470 L 860 470 Z"/>
+</g>
+    <use data-icon="chunk-filled/circle-checkmark" x="884" y="214" width="12" height="12" fill="#2E7D5B"/>
+    <text x="902" y="224" font-size="12" font-weight="bold" fill="#2E7D5B">PROTECT THIS</text>
+    <text x="884" y="266" font-size="28" font-weight="bold" fill="#1F2933">The older engine<tspan x="884" dy="34">degraded, not failed</tspan></text>
+    <text x="884" y="352" font-size="16" fill="#1F2933">Customers on the old FL proxy<tspan x="884" dy="22">engine did not see errors, and</tspan><tspan x="884" dy="22">customers who were not using the</tspan><tspan x="884" dy="22">bot score in their rules saw no</tspan><tspan x="884" dy="22">impact at all.</tspan></text>
+  </g>
+  <g id="controls-claim-label" data-pptx-bounds="64 506 1152 26">
+    <text x="64" y="520" font-size="16" fill="#5A6673">Observed facts from the published account; the judgement that these three are worth protecting is this review’s.</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, incident timeline and other-impact section. All times UTC.</text>
+    <text x="1216" y="692" text-anchor="end">12</text>
+  </g>
+</svg>

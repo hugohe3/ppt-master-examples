@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">Detection took three minutes; identifying the failing</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">module took two hours and fifty-three</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="duration-detection" data-pptx-bounds="64 190 436 136">
+    
+  <g transform="translate(64, 192) scale(0.75)" fill="#2E7D5B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM7 3V8.41421L10.2929 11.7071L11.7071 10.2929L9 7.58579V3H7Z" />
+  </g>
+    <text x="82" y="202" font-size="12" font-weight="bold" fill="#1F2933">AUTOMATED DETECTION</text>
+    <text x="64" y="262" font-family="Consolas" font-size="56" font-weight="bold" fill="#2E7D5B">3 min</text>
+    <text font-size="16" fill="#5A6673" x="64" y="292">11:28 impact starts to 11:31, the first automated</text><text font-size="16" fill="#5A6673" x="64" y="314">test that detects the issue.</text></g>
+  <g id="p08-gap-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="520 236 80 28" data-pptx-av-adj1="val 50000" data-pptx-av-adj2="val 50000" fill="#D7DDE3" stroke="none">
+<path d="M 520 243 L 586 243 L 586 236 L 600 250 L 586 264 L 586 257 L 520 257 Z" />
+</g>
+  <g id="duration-diagnosis" data-pptx-bounds="620 190 596 136">
+    
+  <g transform="translate(620, 192) scale(0.75)" fill="#B4342C">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM7 3V8.41421L10.2929 11.7071L11.7071 10.2929L9 7.58579V3H7Z" />
+  </g>
+    <text x="638" y="202" font-size="12" font-weight="bold" fill="#1F2933">TIME TO IDENTIFY THE FAILING MODULE</text>
+    <text x="620" y="262" font-family="Consolas" font-size="56" font-weight="bold" fill="#B4342C">2 h 53 min</text>
+    <text font-size="16" fill="#5A6673" x="620" y="292">11:31 detection to 14:24, when Bot Management</text><text font-size="16" fill="#5A6673" x="620" y="314">was identified as the source of the 500 errors.</text></g>
+  <g id="reason-alternating" data-pptx-bounds="64 380 356 160">
+    <text x="64" y="392" font-size="12" font-weight="bold" fill="#B4342C">THE FAILURE ALTERNATED</text>
+    <text font-size="16" fill="#1F2933" x="64" y="420">The system failed and then recovered as</text><text font-size="16" fill="#1F2933" x="64" y="442">good and bad files alternated every five</text><text font-size="16" fill="#1F2933" x="64" y="464">minutes — behaviour the published account</text><text font-size="16" fill="#1F2933" x="64" y="486">calls very unusual for an internal error.</text></g>
+  <g id="reason-status-page" data-pptx-bounds="462 380 356 160">
+    <text x="462" y="392" font-size="12" font-weight="bold" fill="#B4342C">THE STATUS PAGE WENT DOWN TOO</text>
+    <text font-size="16" fill="#1F2933" x="462" y="420">Cloudflare’s status page, hosted</text><text font-size="16" fill="#1F2933" x="462" y="442">completely off Cloudflare’s</text><text font-size="16" fill="#1F2933" x="462" y="464">infrastructure with no dependencies on</text><text font-size="16" fill="#1F2933" x="462" y="486">it, went down at the same time. The</text><text font-size="16" fill="#1F2933" x="462" y="508">published account calls this a</text><text font-size="16" fill="#1F2933" x="462" y="530">coincidence.</text></g>
+  <g id="reason-ddos-context" data-pptx-bounds="860 380 356 160">
+    <text x="860" y="392" font-size="12" font-weight="bold" fill="#B4342C">RECENT DDoS ACTIVITY</text>
+    <text font-size="16" fill="#1F2933" x="860" y="420">In the internal incident chat room the</text><text font-size="16" fill="#1F2933" x="860" y="442">team was concerned this might continue</text><text font-size="16" fill="#1F2933" x="860" y="464">the recent spate of high-volume Aisuru</text><text font-size="16" fill="#1F2933" x="860" y="486">DDoS attacks.</text></g>
+  <g id="detection-claim-label" data-pptx-bounds="64 560 1152 48">
+    <text font-size="16" fill="#5A6673" x="64" y="574">Inferred sequence: the attack hypothesis is what the published account says the team held at the time. Naming it here is not a</text><text font-size="16" fill="#5A6673" x="64" y="596">criticism of holding it, and the account is explicit that no cyber attack or malicious activity was involved.</text></g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, incident timeline and status-page section. All times UTC.</text>
+    <text x="1216" y="692" text-anchor="end">08</text>
+  </g>
+</svg>

@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">From the 11:05 access-control change</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">to the first bypass at 13:05</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="p06-window-strip" data-pptx-bounds="64 164 1152 64">
+    
+  <g transform="translate(64, 166) scale(0.75)" fill="#4A5568">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12 9V7L4 7V9H12Z" />
+  </g>
+    <text x="80" y="176" font-size="12" font-weight="bold" fill="#1F2933">NORMAL</text>
+    
+  <g transform="translate(137, 166) scale(0.75)" fill="#B4342C">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM4.29289 5.70711L6.58579 8L4.29289 10.2929L5.70711 11.7071L8 9.41421L10.2929 11.7071L11.7071 10.2929L9.41421 8L11.7071 5.70711L10.2929 4.29289L8 6.58579L5.70711 4.29289L4.29289 5.70711Z" />
+  </g>
+    <text x="153" y="176" font-size="12" font-weight="bold" fill="#1F2933">CRITICAL</text>
+    
+  <g transform="translate(447, 166) scale(0.75)" fill="#B7791F">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16 15H0V12L7 0H9L16 12V15ZM7 4H9V9H7V4ZM7 11H9V13H7V11Z" />
+  </g>
+    <text x="463" y="176" font-size="12" font-weight="bold" fill="#1F2933">DEGRADED</text>
+    
+  <g transform="translate(718, 166) scale(0.75)" fill="#2E7D5B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12.7071 5.70711L11.2929 4.29289L6.5 9.08579L4.70711 7.29289L3.29289 8.70711L6.5 11.9142L12.7071 5.70711Z" />
+  </g>
+    <text x="734" y="176" font-size="12" font-weight="bold" fill="#1F2933">RECOVERED</text>
+    <text x="64" y="202" font-family="Consolas" font-size="18" fill="#5A6673">11:05</text>
+    <text x="141" y="202" font-family="Consolas" font-size="18" fill="#5A6673">11:28</text>
+    <text x="451" y="202" font-family="Consolas" font-size="18" fill="#5A6673">13:05</text>
+    <text x="722" y="202" font-family="Consolas" font-size="18" fill="#5A6673">14:30</text>
+    <text x="1216" y="202" font-family="Consolas" font-size="18" fill="#5A6673" text-anchor="end">17:06</text>
+    <rect x="64" y="212" width="73" height="16" fill="#4A5568" />
+    <rect x="137" y="212" width="310" height="16" fill="#B4342C" />
+    <rect x="447" y="212" width="271" height="16" fill="#B7791F" />
+    <rect x="718" y="212" width="498" height="16" fill="#2E7D5B" />
+  </g>
+  <g id="p06-playhead" data-pptx-bounds="330 232 260 42">
+    <g id="p06-playhead-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="440 232 14 12" fill="#1F2933" stroke="none">
+<path d="M 440 244 L 447 232 L 454 244 Z" />
+</g>
+    <text x="447" y="264" font-size="16" fill="#5A6673" text-anchor="middle">First bypass reduces impact</text>
+  </g>
+  <g id="timeline-part-1" data-pptx-replace-with="table" data-pptx-bounds="64 292 1152 308" data-pptx-fallback-sha256="66d52d26d9f4ff41ab66cdacad2141ad612bfaf6daa8b1feafb387feb060d964">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "timeline-part-1",
+  "x": 64, "y": 292, "width": 1152, "height": 308,
+  "column_widths": [110, 170, 872],
+  "row_heights": [40, 36, 36, 58, 80, 58],
+  "header_rows": 1,
+  "style": {
+    "font_family": "Arial",
+    "font_size": 16,
+    "header_font_size": 16,
+    "band_row": false,
+    "header_text": "#1F2933",
+    "body_text": "#1F2933",
+    "valign": "top"
+  },
+  "defaults": {
+    "cell": {
+      "valign": "top",
+      "align": "l",
+      "padding": {"left": 12, "right": 12, "top": 8, "bottom": 8},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D7DDE3", "width": 1}
+      }
+    },
+    "run": {"color": "#1F2933"}
+  },
+  "cell_styles": {
+    "header": {
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#1F2933", "width": 2}
+      }
+    }
+  },
+  "columns": [
+    {"text": "Time (UTC)", "cell_style": "header"},
+    {"text": "Severity", "cell_style": "header"},
+    {"text": "Recorded event", "cell_style": "header"}
+  ],
+  "rows": [
+    [
+      {"paragraphs": [{"runs": [{"text": "11:05", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Normal", "fill": "#EDEFF2", "bold": true},
+      {"text": "Database access control change deployed."}
+    ],
+    [
+      {"paragraphs": [{"runs": [{"text": "11:28", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Critical", "fill": "#F7E4E2", "bold": true},
+      {"text": "Deployment reaches customer environments; first errors observed on customer HTTP traffic."}
+    ],
+    [
+      {"paragraphs": [{"runs": [{"text": "11:31", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Critical", "fill": "#F7E4E2", "bold": true},
+      {"paragraphs": ["First automated test detects the issue; manual investigation starts at 11:32 and the", "incident call is created at 11:35."]}
+    ],
+    [
+      {"paragraphs": [{"runs": [{"text": "11:32", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Critical", "fill": "#F7E4E2", "bold": true},
+      {"paragraphs": ["Through 13:05 the team investigates elevated traffic levels and errors to Workers KV. The initial", "symptom appeared to be a degraded Workers KV response rate causing downstream impact on other", "Cloudflare services. Traffic manipulation and account limiting were attempted."]}
+    ],
+    [
+      {"paragraphs": [{"runs": [{"text": "13:05", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Degraded", "fill": "#FAF0DC", "bold": true},
+      {"paragraphs": ["Workers KV and Cloudflare Access bypass implemented and impact reduced: internal system", "bypasses fell back to a prior version of the core proxy."]}
+    ]
+  ]
+}
+    </metadata>
+    <rect x="174" y="332" width="170" height="36" fill="#EDEFF2" />
+    <rect x="174" y="368" width="170" height="36" fill="#F7E4E2" />
+    <rect x="174" y="404" width="170" height="58" fill="#F7E4E2" />
+    <rect x="174" y="462" width="170" height="80" fill="#F7E4E2" />
+    <rect x="174" y="542" width="170" height="58" fill="#FAF0DC" />
+    <line x1="64" y1="332" x2="1216" y2="332" stroke="#1F2933" stroke-width="2" />
+    <line x1="64" y1="368" x2="1216" y2="368" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="404" x2="1216" y2="404" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="462" x2="1216" y2="462" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="542" x2="1216" y2="542" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="600" x2="1216" y2="600" stroke="#D7DDE3" stroke-width="1" />
+    <text x="76" y="313" font-size="16" font-weight="bold" fill="#1F2933">Time (UTC)</text>
+    <text x="186" y="313" font-size="16" font-weight="bold" fill="#1F2933">Severity</text>
+    <text x="356" y="313" font-size="16" font-weight="bold" fill="#1F2933">Recorded event</text>
+    <text x="76" y="353" font-family="Consolas" font-size="18" fill="#1F2933">11:05</text>
+    <text x="186" y="353" font-size="16" font-weight="bold" fill="#1F2933">Normal</text>
+    <text x="356" y="353" font-size="16" fill="#1F2933">Database access control change deployed.</text>
+    <text x="76" y="389" font-family="Consolas" font-size="18" fill="#1F2933">11:28</text>
+    <text x="186" y="389" font-size="16" font-weight="bold" fill="#1F2933">Critical</text>
+    <text x="356" y="389" font-size="16" fill="#1F2933">Deployment reaches customer environments; first errors observed on customer HTTP traffic.</text>
+    <text x="76" y="425" font-family="Consolas" font-size="18" fill="#1F2933">11:31</text>
+    <text x="186" y="425" font-size="16" font-weight="bold" fill="#1F2933">Critical</text>
+    <text font-size="16" fill="#1F2933" x="356" y="425">First automated test detects the issue; manual investigation starts at 11:32 and the</text><text font-size="16" fill="#1F2933" x="356" y="447">incident call is created at 11:35.</text><text x="76" y="483" font-family="Consolas" font-size="18" fill="#1F2933">11:32</text>
+    <text x="186" y="483" font-size="16" font-weight="bold" fill="#1F2933">Critical</text>
+    <text font-size="16" fill="#1F2933" x="356" y="483">Through 13:05 the team investigates elevated traffic levels and errors to Workers KV. The initial</text><text font-size="16" fill="#1F2933" x="356" y="505">symptom appeared to be a degraded Workers KV response rate causing downstream impact on other</text><text font-size="16" fill="#1F2933" x="356" y="527">Cloudflare services. Traffic manipulation and account limiting were attempted.</text><text x="76" y="563" font-family="Consolas" font-size="18" fill="#1F2933">13:05</text>
+    <text x="186" y="563" font-size="16" font-weight="bold" fill="#1F2933">Degraded</text>
+    <text font-size="16" fill="#1F2933" x="356" y="563">Workers KV and Cloudflare Access bypass implemented and impact reduced: internal system</text><text font-size="16" fill="#1F2933" x="356" y="585">bypasses fell back to a prior version of the core proxy.</text></g>
+  <g id="timeline-1-derived" data-pptx-bounds="64 612 1152 26">
+    <text x="64" y="626" font-size="16" fill="#5A6673">1 h 37 min from the first customer errors at 11:28 to the first bypass at 13:05 — derived from the published timestamps.</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, incident timeline. Severity bands are this review’s reading of the published status column.</text>
+    <text x="1216" y="692" text-anchor="end">06</text>
+  </g>
+</svg>

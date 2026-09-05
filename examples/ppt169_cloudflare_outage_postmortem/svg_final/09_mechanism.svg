@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">A query that filtered on table name but not database</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">name became an unhandled panic in the core proxy</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="p09-stage-1" data-pptx-bounds="64 180 218 72">
+    <g id="p09-stage-1-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 180 218 72" fill="#F2F4F6" stroke="none">
+<path d="M 64 180 L 246 180 L 282 216 L 246 252 L 64 252 L 100 216 Z" />
+</g>
+    <text text-anchor="middle" font-size="16" fill="#1F2933" x="173" y="210">Access change</text><text text-anchor="middle" font-size="16" fill="#1F2933" x="173" y="232">made explicit</text></g>
+  <g id="p09-stage-2" data-pptx-bounds="290 180 218 72">
+    <g id="p09-stage-2-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="290 180 218 72" fill="#F2F4F6" stroke="none">
+<path d="M 290 180 L 472 180 L 508 216 L 472 252 L 290 252 L 326 216 Z" />
+</g>
+    <text text-anchor="middle" font-size="16" fill="#1F2933" x="399" y="210">Query returns</text><text text-anchor="middle" font-size="16" fill="#1F2933" x="399" y="232">duplicate rows</text></g>
+  <g id="p09-stage-3" data-pptx-bounds="516 180 218 72">
+    <g id="p09-stage-3-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="516 180 218 72" fill="#F2F4F6" stroke="none">
+<path d="M 516 180 L 698 180 L 734 216 L 698 252 L 516 252 L 552 216 Z" />
+</g>
+    <text text-anchor="middle" font-size="16" fill="#1F2933" x="625" y="210">Feature file</text><text text-anchor="middle" font-size="16" fill="#1F2933" x="625" y="232">doubles in size</text></g>
+  <g id="p09-stage-4" data-pptx-bounds="742 180 218 72">
+    <g id="p09-stage-4-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="742 180 218 72" fill="#FAF0DC" stroke="none">
+<path d="M 742 180 L 924 180 L 960 216 L 924 252 L 742 252 L 778 216 Z" />
+</g>
+    <text text-anchor="middle" font-size="16" fill="#1F2933" x="851" y="210">200-feature</text><text text-anchor="middle" font-size="16" fill="#1F2933" x="851" y="232">limit exceeded</text></g>
+  <g id="p09-stage-5" data-pptx-bounds="968 180 218 72">
+    <g id="p09-stage-5-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="968 180 218 72" fill="#F7E4E2" stroke="none">
+<path d="M 968 180 L 1150 180 L 1186 216 L 1150 252 L 968 252 L 1004 216 Z" />
+</g>
+    <text text-anchor="middle" font-size="16" fill="#1F2933" x="1077" y="210">Thread panics,</text><text text-anchor="middle" font-size="16" fill="#1F2933" x="1077" y="232">5xx returned</text></g>
+  <g id="mechanism-query" data-pptx-bounds="64 284 560 268">
+    <text x="64" y="296" font-size="12" font-weight="bold" fill="#B4342C">THE QUERY</text>
+    <rect x="64" y="316" width="560" height="150" fill="#F2F4F6" />
+    <text font-family="Consolas" font-size="16" fill="#1F2933" x="88" y="342">SELECT</text><text font-family="Consolas" font-size="16" fill="#1F2933" x="88" y="364">  name,</text><text font-family="Consolas" font-size="16" fill="#1F2933" x="88" y="386">  type</text><text font-family="Consolas" font-size="16" fill="#1F2933" x="88" y="408">FROM system.columns</text><text font-family="Consolas" font-size="16" fill="#1F2933" x="88" y="430">WHERE table = 'http_requests_features'</text><text font-family="Consolas" font-size="16" fill="#1F2933" x="88" y="452">order by name;</text><text font-size="16" fill="#1F2933" x="64" y="496">The feature-file query filtered on the table name but</text><text font-size="16" fill="#1F2933" x="64" y="518">not the database name, so after the 11:05 change made</text><text font-size="16" fill="#1F2933" x="64" y="540">access to the r0 database explicit it returned columns twice.</text></g>
+  <g id="mechanism-limit" data-pptx-bounds="656 284 560 268">
+    <text x="656" y="296" font-size="12" font-weight="bold" fill="#B4342C">THE LIMIT</text>
+    <rect x="656" y="316" width="560" height="150" fill="#F2F4F6" />
+    <text font-family="Consolas" font-size="16" fill="#B4342C" x="680" y="380">thread fl2_worker_thread panicked:</text><text font-family="Consolas" font-size="16" fill="#B4342C" x="680" y="402">called Result::unwrap() on an Err value</text><text font-size="16" fill="#1F2933" x="656" y="496">The bots module preallocates memory for at most 200</text><text font-size="16" fill="#1F2933" x="656" y="518">features, well above the roughly 60 in use. The oversized</text><text font-size="16" fill="#1F2933" x="656" y="540">file hit that limit and the check produced an unhandled error.</text></g>
+  <g id="mechanism-claim-label" data-pptx-bounds="64 566 1152 48">
+    <text font-size="16" fill="#5A6673" x="64" y="580">Observed facts: the access change, the query form, the file growth and the 200-feature limit are each stated in the published</text><text font-size="16" fill="#5A6673" x="64" y="602">account. The order that connects them into one chain is that account’s own inferred sequence.</text></g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, query-behaviour-change and memory-preallocation sections.</text>
+    <text x="1216" y="692" text-anchor="end">09</text>
+  </g>
+</svg>

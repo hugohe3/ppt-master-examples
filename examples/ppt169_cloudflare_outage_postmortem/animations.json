@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "trigger": "after-previous", "duration": 0.4 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-mark": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 1, "duration": 0.6 } ] },
+        "cover-title": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "cover-quote": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] },
+        "cover-window": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] }
+      }
+    },
+    "02_incident_summary": {
+      "groups": {
+        "moment-change-deployed": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.3 } ] },
+        "moment-impact-starts": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.3 } ] },
+        "moment-main-resolved": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.3 } ] },
+        "moment-all-resolved": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.3 } ] }
+      }
+    },
+    "03_impact_by_surface": {
+      "groups": {
+        "impact-by-surface": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] }
+      }
+    },
+    "04_two_proxy_generations": {
+      "groups": {
+        "proxy-fl2": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "proxy-fl": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.4 } ] },
+        "proxy-no-impact": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "05_five_minute_cycle": {
+      "groups": {
+        "error-rate-schematic": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 1.0 } ] },
+        "p05-playhead": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.3 } ] }
+      }
+    },
+    "06_timeline_1105_1305": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "05_five_minute_cycle",
+        "pairs": { "incident-clock": { "from": "p05-playhead", "to": "p06-playhead" } }
+      },
+      "groups": {
+        "timeline-part-1": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] }
+      }
+    },
+    "07_timeline_1337_1706": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "06_timeline_1105_1305",
+        "pairs": { "incident-clock": { "from": "p06-playhead", "to": "p07-playhead" } }
+      },
+      "groups": {
+        "timeline-part-2": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] }
+      }
+    },
+    "08_detection_and_diagnosis": {
+      "groups": {
+        "duration-detection": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "p08-gap-arrow": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.5 } ] },
+        "duration-diagnosis": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "09_mechanism": {
+      "groups": {
+        "p09-stage-1": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.25 } ] },
+        "p09-stage-2": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.25 } ] },
+        "p09-stage-3": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.25 } ] },
+        "p09-stage-4": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.25 } ] },
+        "p09-stage-5": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.25 } ] },
+        "mechanism-query": { "effects": [ { "effect": "entrance_fade", "order": 6, "duration": 0.4 } ] },
+        "mechanism-limit": { "effects": [ { "effect": "entrance_fade", "order": 7, "duration": 0.4 } ] }
+      }
+    },
+    "10_contributing_factors": {
+      "groups": {
+        "p10-factor-assumption": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.35 } ] },
+        "p10-factor-limit": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.35 } ] },
+        "p10-factor-validation": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.35 } ] },
+        "p10-factor-propagation": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.35 } ] }
+      }
+    },
+    "11_systemic_condition": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "10_contributing_factors",
+        "pairs": { "propagation-factor": { "from": "p10-factor-propagation", "to": "p11-condition-headline" } }
+      },
+      "groups": {
+        "era-2019": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.45 } ] },
+        "era-2025": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.45 } ] }
+      }
+    },
+    "12_what_went_well": {
+      "groups": {
+        "control-detection": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "control-bypass": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.4 } ] },
+        "control-graceful-fl": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "13_corrective_actions": {
+      "groups": {
+        "corrective-actions": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] }
+      }
+    },
+    "14_open_questions": {
+      "groups": {
+        "question-impact-start": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.25 } ] },
+        "question-bypass-time": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.25 } ] },
+        "question-cost": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.25 } ] },
+        "question-ownership": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.25 } ] },
+        "question-other-modules": { "effects": [ { "effect": "entrance_fade", "order": 5, "duration": 0.25 } ] }
+      }
+    },
+    "15_sources": {
+      "groups": {
+        "source-primary": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.35 } ] },
+        "source-comparison": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.35 } ] },
+        "source-status": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.35 } ] }
+      }
+    }
+  }
+}

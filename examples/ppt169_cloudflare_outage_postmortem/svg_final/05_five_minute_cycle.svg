@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">The error rate rose and fell every five minutes until</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">every database node produced the bad file</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="p05-window-strip" data-pptx-bounds="64 164 1152 64">
+    
+  <g transform="translate(64, 166) scale(0.75)" fill="#4A5568">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12 9V7L4 7V9H12Z" />
+  </g>
+    <text x="80" y="176" font-size="12" font-weight="bold" fill="#1F2933">NORMAL</text>
+    
+  <g transform="translate(137, 166) scale(0.75)" fill="#B4342C">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM4.29289 5.70711L6.58579 8L4.29289 10.2929L5.70711 11.7071L8 9.41421L10.2929 11.7071L11.7071 10.2929L9.41421 8L11.7071 5.70711L10.2929 4.29289L8 6.58579L5.70711 4.29289L4.29289 5.70711Z" />
+  </g>
+    <text x="153" y="176" font-size="12" font-weight="bold" fill="#1F2933">CRITICAL</text>
+    
+  <g transform="translate(447, 166) scale(0.75)" fill="#B7791F">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16 15H0V12L7 0H9L16 12V15ZM7 4H9V9H7V4ZM7 11H9V13H7V11Z" />
+  </g>
+    <text x="463" y="176" font-size="12" font-weight="bold" fill="#1F2933">DEGRADED</text>
+    
+  <g transform="translate(718, 166) scale(0.75)" fill="#2E7D5B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12.7071 5.70711L11.2929 4.29289L6.5 9.08579L4.70711 7.29289L3.29289 8.70711L6.5 11.9142L12.7071 5.70711Z" />
+  </g>
+    <text x="734" y="176" font-size="12" font-weight="bold" fill="#1F2933">RECOVERED</text>
+    <text x="64" y="202" font-family="Consolas" font-size="18" fill="#5A6673">11:05</text>
+    <text x="141" y="202" font-family="Consolas" font-size="18" fill="#5A6673">11:28</text>
+    <text x="451" y="202" font-family="Consolas" font-size="18" fill="#5A6673">13:05</text>
+    <text x="722" y="202" font-family="Consolas" font-size="18" fill="#5A6673">14:30</text>
+    <text x="1216" y="202" font-family="Consolas" font-size="18" fill="#5A6673" text-anchor="end">17:06</text>
+    <rect x="64" y="212" width="73" height="16" fill="#4A5568" />
+    <rect x="137" y="212" width="310" height="16" fill="#B4342C" />
+    <rect x="447" y="212" width="271" height="16" fill="#B7791F" />
+    <rect x="718" y="212" width="498" height="16" fill="#2E7D5B" />
+  </g>
+  <g id="p05-playhead" data-pptx-bounds="104 232 280 42">
+    <g id="p05-playhead-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="130 232 14 12" fill="#1F2933" stroke="none">
+<path d="M 130 244 L 137 232 L 144 244 Z" />
+</g>
+    <text x="110" y="264" font-size="16" fill="#5A6673">First customer errors observed</text>
+  </g>
+  <g id="error-rate-schematic" data-pptx-replace-with="chart" data-pptx-bounds="64 286 1152 288" data-pptx-fallback-sha256="bf6cbde3e8e3924e2fa024477f81826498554f3e3bbac7e3d0297ed98f04717b">
+    <metadata type="application/json">
+{
+  "name": "error-rate-schematic",
+  "x": 64, "y": 286, "width": 1152, "height": 288,
+  "plot_area": {"x": 140, "y": 310, "width": 1040, "height": 212},
+  "type": "line",
+  "grouping": "standard",
+  "line_style": "lineMarker",
+  "marker_size": 8,
+  "categories": ["11:00", "11:20", "11:28", "11:35", "11:45", "12:00", "12:30", "13:05", "14:24", "14:30", "15:00", "17:06"],
+  "series": [
+    {"name": "Relative 5xx volume", "values": [0, 0, 82, 12, 90, 18, 96, 74, 80, 16, 8, 0], "line_width": 2.5}
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none", "reverse": false},
+    "value": {"kind": "value", "position": "left", "visible": true, "label_position": "none", "minimum": 0, "maximum": 100, "major_unit": 25, "major_gridlines": true, "tick_marks": "none", "cross_between": "mid_category"}
+  },
+  "show_legend": false,
+  "style": {
+    "font_family": "Consolas",
+    "font_size": 16,
+    "axis_font_size": 16,
+    "colors": ["#B4342C"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "axis_color": "#1F2933",
+    "grid_color": "#E8ECEF",
+    "text_color": "#5A6673"
+  }
+}
+    </metadata>
+    <g id="error-rate-schematic-chartArea">
+      <line id="error-rate-schematic-grid-100" x1="140" y1="310" x2="1180" y2="310" stroke="#E8ECEF" stroke-width="1" />
+      <line id="error-rate-schematic-grid-75" x1="140" y1="363" x2="1180" y2="363" stroke="#E8ECEF" stroke-width="1" />
+      <line id="error-rate-schematic-grid-50" x1="140" y1="416" x2="1180" y2="416" stroke="#E8ECEF" stroke-width="1" />
+      <line id="error-rate-schematic-grid-25" x1="140" y1="469" x2="1180" y2="469" stroke="#E8ECEF" stroke-width="1" />
+      <line id="error-rate-schematic-axis-value" x1="140" y1="310" x2="140" y2="522" stroke="#1F2933" stroke-width="1" />
+      <line id="error-rate-schematic-axis-category" x1="140" y1="522" x2="1180" y2="522" stroke="#1F2933" stroke-width="1" />
+      
+      <polyline fill="none" stroke="#B4342C" stroke-width="2.5" points="140,522 234.5,522 329.1,348.2 423.6,496.6 518.2,331.2 612.7,483.8 707.3,318.5 801.8,365.1 896.4,352.4 990.9,488.1 1085.5,505 1180,522" />
+      <circle cx="140" cy="522" r="4" fill="#B4342C" />
+      <circle cx="234.5" cy="522" r="4" fill="#B4342C" />
+      <circle cx="329.1" cy="348.2" r="4" fill="#B4342C" />
+      <circle cx="423.6" cy="496.6" r="4" fill="#B4342C" />
+      <circle cx="518.2" cy="331.2" r="4" fill="#B4342C" />
+      <circle cx="612.7" cy="483.8" r="4" fill="#B4342C" />
+      <circle cx="707.3" cy="318.5" r="4" fill="#B4342C" />
+      <circle cx="801.8" cy="365.1" r="4" fill="#B4342C" />
+      <circle cx="896.4" cy="352.4" r="4" fill="#B4342C" />
+      <circle cx="990.9" cy="488.1" r="4" fill="#B4342C" />
+      <circle cx="1085.5" cy="505" r="4" fill="#B4342C" />
+      <circle cx="1180" cy="522" r="4" fill="#B4342C" />
+    </g>
+    <text x="140" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">11:00</text>
+    <text x="234.5" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">11:20</text>
+    <text x="329.1" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">11:28</text>
+    <text x="423.6" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">11:35</text>
+    <text x="518.2" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">11:45</text>
+    <text x="612.7" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">12:00</text>
+    <text x="707.3" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">12:30</text>
+    <text x="801.8" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">13:05</text>
+    <text x="896.4" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">14:24</text>
+    <text x="990.9" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">14:30</text>
+    <text x="1085.5" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">15:00</text>
+    <text x="1180" y="550" font-family="Consolas" font-size="16" fill="#5A6673" text-anchor="middle">17:06</text>
+  </g>
+  <g id="cycle-explanation" data-pptx-bounds="64 590 1152 68" fill="#1F2933" font-size="16">
+    <text x="64" y="604">The feature file was regenerated every five minutes by a query on a ClickHouse cluster that was being gradually updated, so each</text><text x="64" y="626">cycle could produce either a good or a bad file — until every ClickHouse node generated the bad file and the failure stabilised.</text><text x="64" y="648" font-weight="bold">Schematic reconstruction from the published account, not the original monitoring record. No error-rate magnitude is published.</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”. Severity bands are this review’s reading of the published status column.</text>
+    <text x="1216" y="692" text-anchor="end">05</text>
+  </g>
+</svg>

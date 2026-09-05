@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="92" font-size="36" font-weight="bold" fill="#1F2933">Five questions the published account does not settle</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1"/>
+  </g>
+  <g id="question-impact-start" data-pptx-bounds="64 180 1152 96">
+    <text x="64" y="206" font-family="Consolas" font-size="18" font-weight="bold" fill="#B7791F">01</text>
+    <text x="110" y="206" font-size="20" font-weight="bold" fill="#1F2933">When did impact begin — 11:20 or 11:28?</text>
+    <text x="110" y="236" font-size="16" fill="#5A6673">The opening paragraph states the network began experiencing significant failures at 11:20; the incident timeline records<tspan x="110" dy="22">impact starts at 11:28. This deck uses 11:28 for every derived duration and says so on each page that shows one.</tspan></text>
+  </g>
+  <g id="question-bypass-time" data-pptx-bounds="64 276 1152 96">
+    <text x="64" y="302" font-family="Consolas" font-size="18" font-weight="bold" fill="#B7791F">02</text>
+    <text x="110" y="302" font-size="20" font-weight="bold" fill="#1F2933">When was the Workers KV bypass effective — 13:04, 13:05 or 13:10?</text>
+    <text x="110" y="332" font-size="16" fill="#5A6673">The narrative gives 13:04 for the patch and 13:10 for restoration, while the timeline gives 13:05 for the bypass. Three<tspan x="110" dy="22">values describe one mitigation, and the published account does not reconcile them.</tspan></text>
+  </g>
+  <g id="question-cost" data-pptx-bounds="64 372 1152 96">
+    <text x="64" y="398" font-family="Consolas" font-size="18" font-weight="bold" fill="#B7791F">03</text>
+    <text x="110" y="398" font-size="20" font-weight="bold" fill="#1F2933">What did the outage cost?</text>
+    <text x="110" y="428" font-size="16" fill="#5A6673">No error count, request volume, affected-customer count, availability figure or financial figure appears anywhere in the<tspan x="110" dy="22">published account. NO DATA.</tspan></text>
+  </g>
+  <g id="question-ownership" data-pptx-bounds="64 468 1152 96">
+    <text x="64" y="494" font-family="Consolas" font-size="18" font-weight="bold" fill="#B7791F">04</text>
+    <text x="110" y="494" font-size="20" font-weight="bold" fill="#1F2933">Who owns the four corrective actions, and by when?</text>
+    <text x="110" y="524" font-size="16" fill="#5A6673">No owner, target date or verification method is published for any of the four remediation items. NO DATA.</text>
+  </g>
+  <g id="question-other-modules" data-pptx-bounds="64 564 1152 96">
+    <text x="64" y="590" font-family="Consolas" font-size="18" font-weight="bold" fill="#B7791F">05</text>
+    <text x="110" y="590" font-size="20" font-weight="bold" fill="#1F2933">Do other core proxy modules share the unbounded failure pattern?</text>
+    <text x="110" y="620" font-size="16" fill="#5A6673">The account commits to reviewing failure modes for error conditions across all core proxy modules, but does not say<tspan x="110" dy="22">whether any others were found. Unconfirmed.</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Each item names the evidence that would settle it. None is resolved here by inference. Cloudflare, 18 November 2025 account.</text>
+    <text x="1216" y="692" text-anchor="end">14</text>
+  </g>
+</svg>

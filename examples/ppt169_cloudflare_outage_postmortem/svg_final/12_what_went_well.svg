@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">Three controls limited the damage</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">and are the ones to protect</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="control-detection" data-pptx-bounds="64 190 356 280">
+    <g id="p12-control-1-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 190 356 280" fill="none" stroke="#2E7D5B" stroke-width="1.5">
+<path d="M 64 190 L 373.33 190 L 420 236.67 L 420 470 L 64 470 Z" />
+</g>
+    
+  <g transform="translate(88, 214) scale(0.75)" fill="#2E7D5B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12.7071 5.70711L11.2929 4.29289L6.5 9.08579L4.70711 7.29289L3.29289 8.70711L6.5 11.9142L12.7071 5.70711Z" />
+  </g>
+    <text x="106" y="224" font-size="12" font-weight="bold" fill="#2E7D5B">PROTECT THIS</text>
+    <text font-weight="bold" font-size="28" fill="#1F2933" x="88" y="266">Automated detection</text><text font-weight="bold" font-size="28" fill="#1F2933" x="88" y="300">was fast</text><text font-size="16" fill="#1F2933" x="88" y="352">The first automated test detected</text><text font-size="16" fill="#1F2933" x="88" y="374">the issue at 11:31, three minutes</text><text font-size="16" fill="#1F2933" x="88" y="396">after impact began at 11:28. Manual</text><text font-size="16" fill="#1F2933" x="88" y="418">investigation started the following</text><text font-size="16" fill="#1F2933" x="88" y="440">minute and the incident call was</text><text font-size="16" fill="#1F2933" x="88" y="462">created at 11:35.</text></g>
+  <g id="control-bypass" data-pptx-bounds="462 190 356 280">
+    <g id="p12-control-2-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="462 190 356 280" fill="none" stroke="#2E7D5B" stroke-width="1.5">
+<path d="M 462 190 L 771.33 190 L 818 236.67 L 818 470 L 462 470 Z" />
+</g>
+    
+  <g transform="translate(486, 214) scale(0.75)" fill="#2E7D5B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12.7071 5.70711L11.2929 4.29289L6.5 9.08579L4.70711 7.29289L3.29289 8.70711L6.5 11.9142L12.7071 5.70711Z" />
+  </g>
+    <text x="504" y="224" font-size="12" font-weight="bold" fill="#2E7D5B">PROTECT THIS</text>
+    <text font-weight="bold" font-size="28" fill="#1F2933" x="486" y="266">A bypass existed</text><text font-weight="bold" font-size="28" fill="#1F2933" x="486" y="300">and was used</text><text font-size="16" fill="#1F2933" x="486" y="352">At 13:05, internal system bypasses</text><text font-size="16" fill="#1F2933" x="486" y="374">failed Workers KV and Cloudflare</text><text font-size="16" fill="#1F2933" x="486" y="396">Access back to a prior version of</text><text font-size="16" fill="#1F2933" x="486" y="418">the core proxy, reducing impact for</text><text font-size="16" fill="#1F2933" x="486" y="440">every downstream system — before</text><text font-size="16" fill="#1F2933" x="486" y="462">the trigger was known.</text></g>
+  <g id="control-graceful-fl" data-pptx-bounds="860 190 356 280">
+    <g id="p12-control-3-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="860 190 356 280" fill="none" stroke="#2E7D5B" stroke-width="1.5">
+<path d="M 860 190 L 1169.33 190 L 1216 236.67 L 1216 470 L 860 470 Z" />
+</g>
+    
+  <g transform="translate(884, 214) scale(0.75)" fill="#2E7D5B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12.7071 5.70711L11.2929 4.29289L6.5 9.08579L4.70711 7.29289L3.29289 8.70711L6.5 11.9142L12.7071 5.70711Z" />
+  </g>
+    <text x="902" y="224" font-size="12" font-weight="bold" fill="#2E7D5B">PROTECT THIS</text>
+    <text font-weight="bold" font-size="28" fill="#1F2933" x="884" y="266">The older engine</text><text font-weight="bold" font-size="28" fill="#1F2933" x="884" y="300">degraded, not failed</text><text font-size="16" fill="#1F2933" x="884" y="352">Customers on the old FL proxy</text><text font-size="16" fill="#1F2933" x="884" y="374">engine did not see errors, and</text><text font-size="16" fill="#1F2933" x="884" y="396">customers who were not using the</text><text font-size="16" fill="#1F2933" x="884" y="418">bot score in their rules saw no</text><text font-size="16" fill="#1F2933" x="884" y="440">impact at all.</text></g>
+  <g id="controls-claim-label" data-pptx-bounds="64 506 1152 26">
+    <text x="64" y="520" font-size="16" fill="#5A6673">Observed facts from the published account; the judgement that these three are worth protecting is this review’s.</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, incident timeline and other-impact section. All times UTC.</text>
+    <text x="1216" y="692" text-anchor="end">12</text>
+  </g>
+</svg>

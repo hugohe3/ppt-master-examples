@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="ending">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">Every figure in this deck traces to</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">one of three published records</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="source-primary" data-pptx-bounds="64 180 1152 120">
+    <text x="64" y="198" font-size="12" font-weight="bold" fill="#B4342C">PRIMARY SOURCE</text>
+    <text x="64" y="228" font-size="20" font-weight="bold" fill="#1F2933">Cloudflare outage on November 18, 2025 — Matthew Prince, 18 November 2025</text>
+    <text font-family="Consolas" font-size="16" fill="#B4342C" x="64" y="256"><tspan><a href="https://blog.cloudflare.com/18-november-2025-outage/"><tspan>https://blog.cloudflare.com/18-november-2025-outage/</tspan></a></tspan></text><text x="64" y="280" font-size="16" fill="#5A6673">Supports slides 1–10 and 12–14: the timeline, the impact table, the mechanism, the factors, the controls and the actions.</text>
+  </g>
+  <g id="source-comparison" data-pptx-bounds="64 320 1152 120">
+    <text x="64" y="338" font-size="12" font-weight="bold" fill="#B4342C">COMPARISON SOURCE</text>
+    <text x="64" y="368" font-size="20" font-weight="bold" fill="#1F2933">Details of the Cloudflare outage on July 2, 2019</text>
+    <text font-family="Consolas" font-size="16" fill="#B4342C" x="64" y="396"><tspan><a href="https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/"><tspan>https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/</tspan></a></tspan></text><text x="64" y="420" font-size="16" fill="#5A6673">Supports slide 11: the 2019 trigger, the Quicksilver propagation path, the global kill switch and the 27-minute recovery.</text>
+  </g>
+  <g id="source-status" data-pptx-bounds="64 460 1152 120">
+    <text x="64" y="478" font-size="12" font-weight="bold" fill="#B4342C">OPERATOR STATUS RECORD</text>
+    <text x="64" y="508" font-size="20" font-weight="bold" fill="#1F2933">Cloudflare System Status</text>
+    <text font-family="Consolas" font-size="16" fill="#B4342C" x="64" y="536"><tspan><a href="https://www.cloudflarestatus.com/"><tspan>https://www.cloudflarestatus.com/</tspan></a></tspan></text><text x="64" y="560" font-size="16" fill="#5A6673">Listed as the operator’s own event record; not consulted for any figure in this deck.</text>
+  </g>
+  <g id="verification-policy" data-pptx-bounds="64 586 1152 86">
+    <text font-size="16" fill="#1F2933" x="64" y="600">All times in this deck are UTC to the minute, exactly as published. Elapsed durations are arithmetic on published timestamps</text><text font-size="16" fill="#1F2933" x="64" y="622">and are labelled as derived. No figure originates outside these documents; where the account states no value, the page says</text><text font-size="16" fill="#1F2933" x="64" y="644">NO DATA or marks the item unconfirmed. The schematic chart on slide 5 carries no published magnitudes, and the severity</text><text font-size="16" fill="#1F2933" x="64" y="666">bands on slides 5 to 7 are this review’s reading of the published status column.</text></g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 24" fill="#5A6673" font-size="12">
+    
+  <g transform="translate(64, 682) scale(0.666667)" fill="#000000">
+    <path d="M16.5088 16.8447c.1475-.5068.0908-.9707-.1553-1.3154-.2246-.3164-.6045-.499-1.0615-.5205l-8.6592-.1123a.1559.1559 0 0 1-.1333-.0713c-.0283-.042-.0351-.0986-.021-.1553.0278-.084.1123-.1484.2036-.1562l8.7359-.1123c1.0351-.0489 2.1601-.8868 2.5537-1.9136l.499-1.3013c.0215-.0561.0293-.1128.0147-.168-.5625-2.5463-2.835-4.4453-5.5499-4.4453-2.5039 0-4.6284 1.6177-5.3876 3.8614-.4927-.3658-1.1187-.5625-1.794-.499-1.2026.119-2.1665 1.083-2.2861 2.2856-.0283.31-.0069.6128.0635.894C1.5683 13.171 0 14.7754 0 16.752c0 .1748.0142.3515.0352.5273.0141.083.0844.1475.1689.1475h15.9814c.0909 0 .1758-.0645.2032-.1553l.12-.4268zm2.7568-5.5634c-.0771 0-.1611 0-.2383.0112-.0566 0-.1054.0415-.127.0976l-.3378 1.1744c-.1475.5068-.0918.9707.1543 1.3164.2256.3164.6055.498 1.0625.5195l1.8437.1133c.0557 0 .1055.0263.1329.0703.0283.043.0351.1074.0214.1562-.0283.084-.1132.1485-.204.1553l-1.921.1123c-1.041.0488-2.1582.8867-2.5527 1.914l-.1406.3585c-.0283.0713.0215.1416.0986.1416h6.5977c.0771 0 .1474-.0489.169-.126.1122-.4082.1757-.837.1757-1.2803 0-2.6025-2.125-4.727-4.7344-4.727" />
+  </g>
+    <text x="88" y="694">Cloudflare official post-incident accounts, 2 July 2019 and 18 November 2025. All times UTC.</text>
+    <text x="1216" y="694" text-anchor="end">15</text>
+  </g>
+</svg>

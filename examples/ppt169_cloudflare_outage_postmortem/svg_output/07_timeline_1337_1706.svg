@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="92" font-size="36" font-weight="bold" fill="#1F2933">From confidence in the trigger at 13:37<tspan x="64" dy="43">to full restoration at 17:06</tspan></text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1"/>
+  </g>
+  <g id="p07-window-strip" data-pptx-bounds="64 164 1152 64">
+    <use data-icon="chunk-filled/circle-minus" x="64" y="166" width="12" height="12" fill="#4A5568"/>
+    <text x="80" y="176" font-size="12" font-weight="bold" fill="#1F2933">NORMAL</text>
+    <use data-icon="chunk-filled/circle-x" x="137" y="166" width="12" height="12" fill="#B4342C"/>
+    <text x="153" y="176" font-size="12" font-weight="bold" fill="#1F2933">CRITICAL</text>
+    <use data-icon="chunk-filled/triangle-exclamation" x="447" y="166" width="12" height="12" fill="#B7791F"/>
+    <text x="463" y="176" font-size="12" font-weight="bold" fill="#1F2933">DEGRADED</text>
+    <use data-icon="chunk-filled/circle-checkmark" x="718" y="166" width="12" height="12" fill="#2E7D5B"/>
+    <text x="734" y="176" font-size="12" font-weight="bold" fill="#1F2933">RECOVERED</text>
+    <text x="64" y="202" font-family="Consolas" font-size="18" fill="#5A6673">11:05</text>
+    <text x="141" y="202" font-family="Consolas" font-size="18" fill="#5A6673">11:28</text>
+    <text x="451" y="202" font-family="Consolas" font-size="18" fill="#5A6673">13:05</text>
+    <text x="722" y="202" font-family="Consolas" font-size="18" fill="#5A6673">14:30</text>
+    <text x="1216" y="202" font-family="Consolas" font-size="18" fill="#5A6673" text-anchor="end">17:06</text>
+    <rect x="64" y="212" width="73" height="16" fill="#4A5568"/>
+    <rect x="137" y="212" width="310" height="16" fill="#B4342C"/>
+    <rect x="447" y="212" width="271" height="16" fill="#B7791F"/>
+    <rect x="718" y="212" width="498" height="16" fill="#2E7D5B"/>
+  </g>
+  <g id="p07-playhead" data-pptx-bounds="1020 232 196 42">
+    <g id="p07-playhead-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1201 232 14 12" fill="#1F2933" stroke="none">
+<path d="M 1201 244 L 1208 232 L 1215 244 Z"/>
+</g>
+    <text x="1216" y="264" font-size="16" fill="#5A6673" text-anchor="end">All services resolved</text>
+  </g>
+  <g id="timeline-part-2" data-pptx-replace-with="table" data-pptx-bounds="64 292 1152 308" data-pptx-fallback-sha256="3ad89b69f1390c2cc97aad793de0627586e9402a84467403152ebf458c3742a4">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "timeline-part-2",
+  "x": 64, "y": 292, "width": 1152, "height": 308,
+  "column_widths": [110, 170, 872],
+  "row_heights": [40, 58, 58, 58, 58, 36],
+  "header_rows": 1,
+  "style": {
+    "font_family": "Arial",
+    "font_size": 16,
+    "header_font_size": 16,
+    "band_row": false,
+    "header_text": "#1F2933",
+    "body_text": "#1F2933",
+    "valign": "top"
+  },
+  "defaults": {
+    "cell": {
+      "valign": "top",
+      "align": "l",
+      "padding": {"left": 12, "right": 12, "top": 8, "bottom": 8},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D7DDE3", "width": 1}
+      }
+    },
+    "run": {"color": "#1F2933"}
+  },
+  "cell_styles": {
+    "header": {
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#1F2933", "width": 2}
+      }
+    }
+  },
+  "columns": [
+    {"text": "Time (UTC)", "cell_style": "header"},
+    {"text": "Severity", "cell_style": "header"},
+    {"text": "Recorded event", "cell_style": "header"}
+  ],
+  "rows": [
+    [
+      {"paragraphs": [{"runs": [{"text": "13:37", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Degraded", "fill": "#FAF0DC", "bold": true},
+      {"paragraphs": ["Work focuses on rolling the Bot Management configuration file back to a last-known-good version;", "the file restore is the fastest of several parallel workstreams."]}
+    ],
+    [
+      {"paragraphs": [{"runs": [{"text": "14:24", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Degraded", "fill": "#FAF0DC", "bold": true},
+      {"paragraphs": ["Creation and propagation of new Bot Management configuration files stopped, after identifying the", "module as the source of the 500 errors."]}
+    ],
+    [
+      {"paragraphs": [{"runs": [{"text": "14:24", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Degraded", "fill": "#FAF0DC", "bold": true},
+      {"paragraphs": ["Test of the new file complete: recovery observed using the old version of the configuration file,", "and the fix accelerated globally."]}
+    ],
+    [
+      {"paragraphs": [{"runs": [{"text": "14:30", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Recovered", "fill": "#E4F0EA", "bold": true},
+      {"paragraphs": ["Main impact resolved. A correct Bot Management configuration file deployed globally and most", "services start operating correctly; downstream services observe reduced errors."]}
+    ],
+    [
+      {"paragraphs": [{"runs": [{"text": "17:06", "font_family": "Consolas", "font_size": 18, "color": "#1F2933"}]}]},
+      {"text": "Recovered", "fill": "#E4F0EA", "bold": true},
+      {"text": "All services resolved. All downstream services restarted and all operations fully restored."}
+    ]
+  ]
+}
+    </metadata>
+    <rect x="174" y="332" width="170" height="58" fill="#FAF0DC"/>
+    <rect x="174" y="390" width="170" height="58" fill="#FAF0DC"/>
+    <rect x="174" y="448" width="170" height="58" fill="#FAF0DC"/>
+    <rect x="174" y="506" width="170" height="58" fill="#E4F0EA"/>
+    <rect x="174" y="564" width="170" height="36" fill="#E4F0EA"/>
+    <line x1="64" y1="332" x2="1216" y2="332" stroke="#1F2933" stroke-width="2"/>
+    <line x1="64" y1="390" x2="1216" y2="390" stroke="#D7DDE3" stroke-width="1"/>
+    <line x1="64" y1="448" x2="1216" y2="448" stroke="#D7DDE3" stroke-width="1"/>
+    <line x1="64" y1="506" x2="1216" y2="506" stroke="#D7DDE3" stroke-width="1"/>
+    <line x1="64" y1="564" x2="1216" y2="564" stroke="#D7DDE3" stroke-width="1"/>
+    <line x1="64" y1="600" x2="1216" y2="600" stroke="#D7DDE3" stroke-width="1"/>
+    <text x="76" y="313" font-size="16" font-weight="bold" fill="#1F2933">Time (UTC)</text>
+    <text x="186" y="313" font-size="16" font-weight="bold" fill="#1F2933">Severity</text>
+    <text x="356" y="313" font-size="16" font-weight="bold" fill="#1F2933">Recorded event</text>
+    <text x="76" y="353" font-family="Consolas" font-size="18" fill="#1F2933">13:37</text>
+    <text x="186" y="353" font-size="16" font-weight="bold" fill="#1F2933">Degraded</text>
+    <text x="356" y="353" font-size="16" fill="#1F2933">Work focuses on rolling the Bot Management configuration file back to a last-known-good version;<tspan x="356" dy="22">the file restore is the fastest of several parallel workstreams.</tspan></text>
+    <text x="76" y="411" font-family="Consolas" font-size="18" fill="#1F2933">14:24</text>
+    <text x="186" y="411" font-size="16" font-weight="bold" fill="#1F2933">Degraded</text>
+    <text x="356" y="411" font-size="16" fill="#1F2933">Creation and propagation of new Bot Management configuration files stopped, after identifying the<tspan x="356" dy="22">module as the source of the 500 errors.</tspan></text>
+    <text x="76" y="469" font-family="Consolas" font-size="18" fill="#1F2933">14:24</text>
+    <text x="186" y="469" font-size="16" font-weight="bold" fill="#1F2933">Degraded</text>
+    <text x="356" y="469" font-size="16" fill="#1F2933">Test of the new file complete: recovery observed using the old version of the configuration file,<tspan x="356" dy="22">and the fix accelerated globally.</tspan></text>
+    <text x="76" y="527" font-family="Consolas" font-size="18" fill="#1F2933">14:30</text>
+    <text x="186" y="527" font-size="16" font-weight="bold" fill="#1F2933">Recovered</text>
+    <text x="356" y="527" font-size="16" fill="#1F2933">Main impact resolved. A correct Bot Management configuration file deployed globally and most<tspan x="356" dy="22">services start operating correctly; downstream services observe reduced errors.</tspan></text>
+    <text x="76" y="585" font-family="Consolas" font-size="18" fill="#1F2933">17:06</text>
+    <text x="186" y="585" font-size="16" font-weight="bold" fill="#1F2933">Recovered</text>
+    <text x="356" y="585" font-size="16" fill="#1F2933">All services resolved. All downstream services restarted and all operations fully restored.</text>
+  </g>
+  <g id="timeline-2-derived" data-pptx-bounds="64 612 1152 26">
+    <text x="64" y="626" font-size="16" fill="#5A6673">3 h 02 min from impact start to main resolution, and 5 h 38 min to full restoration — derived from the published timestamps.</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, incident timeline. Severity bands are this review’s reading of the published status column.</text>
+    <text x="1216" y="692" text-anchor="end">07</text>
+  </g>
+</svg>

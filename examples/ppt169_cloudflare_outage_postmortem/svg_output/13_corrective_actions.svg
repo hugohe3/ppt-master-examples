@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="92" font-size="36" font-weight="bold" fill="#1F2933">Four corrective actions are published, and none of them<tspan x="64" dy="43">carries an owner, a date, or a verification method</tspan></text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1"/>
+  </g>
+  <g id="corrective-actions" data-pptx-replace-with="table" data-pptx-bounds="64 190 1152 294" data-pptx-fallback-sha256="f8e6bcea69e8110337e5c85a1ee2594439c6751aa26c992756e1ac2b7574add2">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "corrective-actions",
+  "x": 64, "y": 190, "width": 1152, "height": 294,
+  "column_widths": [440, 120, 240, 110, 90, 152],
+  "row_heights": [40, 80, 58, 58, 58],
+  "header_rows": 1,
+  "style": {
+    "font_family": "Arial",
+    "font_size": 16,
+    "header_font_size": 16,
+    "band_row": false,
+    "header_text": "#1F2933",
+    "body_text": "#1F2933",
+    "valign": "top"
+  },
+  "defaults": {
+    "cell": {
+      "valign": "top",
+      "align": "l",
+      "padding": {"left": 12, "right": 12, "top": 8, "bottom": 8},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D7DDE3", "width": 1}
+      }
+    },
+    "run": {"color": "#1F2933"}
+  },
+  "cell_styles": {
+    "header": {
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#1F2933", "width": 2}
+      }
+    },
+    "missing": {
+      "fill": "#F2F4F6",
+      "bold": true,
+      "color": "#B4342C",
+      "align": "l"
+    }
+  },
+  "columns": [
+    {"text": "Published corrective action", "cell_style": "header"},
+    {"text": "Class", "cell_style": "header"},
+    {"text": "Factor addressed", "cell_style": "header"},
+    {"text": "Owner", "cell_style": "header"},
+    {"text": "Due", "cell_style": "header"},
+    {"text": "Verification", "cell_style": "header"}
+  ],
+  "rows": [
+    [
+      {"color": "#1F2933", "paragraphs": ["Hardening ingestion of Cloudflare-generated", "configuration files in the same way as", "user-generated input"]},
+      {"text": "Prevention"},
+      {"paragraphs": ["Generated configuration", "trusted more than user", "input"]},
+      {"text": "NO DATA", "cell_style": "missing"},
+      {"text": "NO DATA", "cell_style": "missing"},
+      {"text": "NO DATA", "cell_style": "missing"}
+    ],
+    [
+      {"text": "Enabling more global kill switches for features", "color": "#1F2933"},
+      {"text": "Mitigation"},
+      {"paragraphs": ["Rapid global propagation", "with no per-feature switch"]},
+      {"text": "NO DATA", "cell_style": "missing"},
+      {"text": "NO DATA", "cell_style": "missing"},
+      {"text": "NO DATA", "cell_style": "missing"}
+    ],
+    [
+      {"color": "#1F2933", "paragraphs": ["Eliminating the ability for core dumps or other", "error reports to overwhelm system resources"]},
+      {"text": "Mitigation"},
+      {"paragraphs": ["Observability CPU use", "during the incident"]},
+      {"text": "NO DATA", "cell_style": "missing"},
+      {"text": "NO DATA", "cell_style": "missing"},
+      {"text": "NO DATA", "cell_style": "missing"}
+    ],
+    [
+      {"color": "#1F2933", "paragraphs": ["Reviewing failure modes for error conditions", "across all core proxy modules"]},
+      {"text": "Prevention"},
+      {"paragraphs": ["Unbounded failure path in", "a core proxy module"]},
+      {"text": "NO DATA", "cell_style": "missing"},
+      {"text": "NO DATA", "cell_style": "missing"},
+      {"text": "NO DATA", "cell_style": "missing"}
+    ]
+  ]
+}
+    </metadata>
+    <rect x="864" y="230" width="352" height="80" fill="#F2F4F6"/>
+    <rect x="864" y="310" width="352" height="58" fill="#F2F4F6"/>
+    <rect x="864" y="368" width="352" height="58" fill="#F2F4F6"/>
+    <rect x="864" y="426" width="352" height="58" fill="#F2F4F6"/>
+    <line x1="64" y1="230" x2="1216" y2="230" stroke="#1F2933" stroke-width="2"/>
+    <line x1="64" y1="310" x2="1216" y2="310" stroke="#D7DDE3" stroke-width="1"/>
+    <line x1="64" y1="368" x2="1216" y2="368" stroke="#D7DDE3" stroke-width="1"/>
+    <line x1="64" y1="426" x2="1216" y2="426" stroke="#D7DDE3" stroke-width="1"/>
+    <line x1="64" y1="484" x2="1216" y2="484" stroke="#D7DDE3" stroke-width="1"/>
+    <text x="76" y="211" font-size="16" font-weight="bold" fill="#1F2933">Published corrective action</text>
+    <text x="516" y="211" font-size="16" font-weight="bold" fill="#1F2933">Class</text>
+    <text x="636" y="211" font-size="16" font-weight="bold" fill="#1F2933">Factor addressed</text>
+    <text x="876" y="211" font-size="16" font-weight="bold" fill="#1F2933">Owner</text>
+    <text x="986" y="211" font-size="16" font-weight="bold" fill="#1F2933">Due</text>
+    <text x="1076" y="211" font-size="16" font-weight="bold" fill="#1F2933">Verification</text>
+    <text x="76" y="251" font-size="16" fill="#1F2933">Hardening ingestion of Cloudflare-generated<tspan x="76" dy="22">configuration files in the same way as</tspan><tspan x="76" dy="22">user-generated input</tspan></text>
+    <text x="516" y="251" font-size="16" fill="#1F2933">Prevention</text>
+    <text x="636" y="251" font-size="16" fill="#1F2933">Generated configuration<tspan x="636" dy="22">trusted more than user</tspan><tspan x="636" dy="22">input</tspan></text>
+    <text x="876" y="251" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="986" y="251" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="1076" y="251" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="76" y="331" font-size="16" fill="#1F2933">Enabling more global kill switches for features</text>
+    <text x="516" y="331" font-size="16" fill="#1F2933">Mitigation</text>
+    <text x="636" y="331" font-size="16" fill="#1F2933">Rapid global propagation<tspan x="636" dy="22">with no per-feature switch</tspan></text>
+    <text x="876" y="331" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="986" y="331" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="1076" y="331" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="76" y="389" font-size="16" fill="#1F2933">Eliminating the ability for core dumps or other<tspan x="76" dy="22">error reports to overwhelm system resources</tspan></text>
+    <text x="516" y="389" font-size="16" fill="#1F2933">Mitigation</text>
+    <text x="636" y="389" font-size="16" fill="#1F2933">Observability CPU use<tspan x="636" dy="22">during the incident</tspan></text>
+    <text x="876" y="389" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="986" y="389" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="1076" y="389" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="76" y="447" font-size="16" fill="#1F2933">Reviewing failure modes for error conditions<tspan x="76" dy="22">across all core proxy modules</tspan></text>
+    <text x="516" y="447" font-size="16" fill="#1F2933">Prevention</text>
+    <text x="636" y="447" font-size="16" fill="#1F2933">Unbounded failure path in<tspan x="636" dy="22">a core proxy module</tspan></text>
+    <text x="876" y="447" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="986" y="447" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+    <text x="1076" y="447" font-size="16" font-weight="bold" fill="#B4342C">NO DATA</text>
+  </g>
+  <g id="actions-missing-note" data-pptx-bounds="64 504 1152 48">
+    <text x="64" y="518" font-size="16" fill="#5A6673">The published account lists these four remediation items and no more. It states no owner, no target date and no verification<tspan x="64" dy="22">method for any of them, so those three columns are recorded as NO DATA rather than dropped.</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, remediation and follow-up steps. Factor mapping is this review’s.</text>
+    <text x="1216" y="692" text-anchor="end">13</text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <line id="era-divider" data-pptx-role="decoration" x1="632" y1="310" x2="632" y2="636" stroke="#D7DDE3" stroke-width="1" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">Rapid global propagation of internally generated</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">configuration is the condition both 2019 and 2025 share</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="p11-condition-headline" data-pptx-bounds="64 180 1152 108">
+    <rect x="64" y="180" width="4" height="108" fill="#B7791F" />
+    <text x="84" y="198" font-size="12" font-weight="bold" fill="#B7791F">SYSTEMIC CONDITION</text>
+    <text x="230" y="206" font-size="20" font-weight="bold" fill="#1F2933">Internally generated configuration reaches every machine in minutes</text>
+    <text font-size="16" fill="#1F2933" x="230" y="254">Both outages began inside Cloudflare’s own configuration path, and in both the step that made a local</text><text font-size="16" fill="#1F2933" x="230" y="276">defect global was the same. Naming that shared condition is an inference across two published accounts.</text></g>
+  <g id="era-2019" data-pptx-bounds="64 310 560 326">
+    <text x="64" y="336" font-size="28" font-weight="bold" fill="#1F2933">2 July 2019</text>
+    <text x="64" y="366" font-size="12" font-weight="bold" fill="#5A6673">TRIGGER</text>
+    <text font-size="16" fill="#1F2933" x="64" y="388">A new WAF managed rule containing a regular expression</text><text font-size="16" fill="#1F2933" x="64" y="410">that backtracked enormously and exhausted CPU worldwide.</text><text x="64" y="438" font-size="12" font-weight="bold" fill="#5A6673">PROPAGATION</text>
+    <text font-size="16" fill="#1F2933" x="64" y="460">Pushed through Quicksilver, which distributes changes</text><text font-size="16" fill="#1F2933" x="64" y="482">globally in seconds; by design the WAF skipped the</text><text font-size="16" fill="#1F2933" x="64" y="504">staged rollout process.</text><text x="64" y="532" font-size="12" font-weight="bold" fill="#5A6673">MITIGATION</text>
+    <text font-size="16" fill="#1F2933" x="64" y="554">A global kill switch — a “global terminate” — executed</text><text font-size="16" fill="#1F2933" x="64" y="576">at 14:07; traffic and CPU normal again by 14:09.</text><text x="64" y="604" font-size="12" font-weight="bold" fill="#5A6673">TIME TO RECOVERY</text>
+    <text x="64" y="624" font-family="Consolas" font-size="18" font-weight="bold" fill="#1F2933">27 minutes</text>
+  </g>
+  <g id="era-2025" data-pptx-bounds="656 310 560 326">
+    <text x="656" y="336" font-size="28" font-weight="bold" fill="#1F2933">18 November 2025</text>
+    <text x="656" y="366" font-size="12" font-weight="bold" fill="#5A6673">TRIGGER</text>
+    <text font-size="16" fill="#1F2933" x="656" y="388">A database permissions change that made the Bot</text><text font-size="16" fill="#1F2933" x="656" y="410">Management feature file more than double in size.</text><text x="656" y="438" font-size="12" font-weight="bold" fill="#5A6673">PROPAGATION</text>
+    <text font-size="16" fill="#1F2933" x="656" y="460">The feature file is refreshed every few minutes and</text><text font-size="16" fill="#1F2933" x="656" y="482">published to the entire network so the model can react</text><text font-size="16" fill="#1F2933" x="656" y="504">to new bots and new bot attacks.</text><text x="656" y="532" font-size="12" font-weight="bold" fill="#5A6673">MITIGATION</text>
+    <text font-size="16" fill="#1F2933" x="656" y="554">No per-feature kill switch is described; the remediation</text><text font-size="16" fill="#1F2933" x="656" y="576">commits to enabling more global kill switches.</text><text x="656" y="604" font-size="12" font-weight="bold" fill="#5A6673">TIME TO RECOVERY</text>
+    <text x="656" y="624" font-family="Consolas" font-size="18" font-weight="bold" fill="#1F2933">5 h 38 min</text>
+  </g>
+  <g id="worst-since-note" data-pptx-bounds="64 644 1152 28">
+    <text x="64" y="660" font-size="16" fill="#5A6673">The published account calls this Cloudflare’s worst outage since 2019, and the first in six-plus years to stop most core traffic.</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, and “Details of the Cloudflare outage on July 2, 2019”. All times UTC.</text>
+    <text x="1216" y="692" text-anchor="end">11</text>
+  </g>
+</svg>

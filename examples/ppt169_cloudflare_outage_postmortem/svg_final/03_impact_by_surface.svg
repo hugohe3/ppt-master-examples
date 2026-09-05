@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">Six product surfaces failed, and two of them</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">degraded rather than stopped</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="impact-by-surface" data-pptx-replace-with="table" data-pptx-bounds="64 175 1152 390" data-pptx-fallback-sha256="3d5c44c743ce2f8fcec5914ae7359463507d7cf51c0b290eea0ae3385f8afae5">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "impact-by-surface",
+  "x": 64, "y": 175, "width": 1152, "height": 390,
+  "column_widths": [150, 290, 712],
+  "row_heights": [40, 40, 40, 62, 62, 62, 84],
+  "header_rows": 1,
+  "style": {
+    "font_family": "Arial",
+    "font_size": 16,
+    "header_font_size": 16,
+    "band_row": false,
+    "header_text": "#1F2933",
+    "body_text": "#1F2933",
+    "valign": "top"
+  },
+  "defaults": {
+    "cell": {
+      "valign": "top",
+      "align": "l",
+      "padding": {"left": 12, "right": 12, "top": 8, "bottom": 8},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D7DDE3", "width": 1}
+      }
+    },
+    "run": {"color": "#1F2933"}
+  },
+  "cell_styles": {
+    "header": {
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#1F2933", "width": 2}
+      }
+    }
+  },
+  "columns": [
+    {"text": "Severity", "cell_style": "header"},
+    {"text": "Service or product", "cell_style": "header"},
+    {"text": "Impact as published", "cell_style": "header"}
+  ],
+  "rows": [
+    [
+      {"text": "Critical", "fill": "#F7E4E2", "bold": true},
+      {"text": "Core CDN and security services", "bold": true},
+      {"text": "HTTP 5xx status codes returned to end users."}
+    ],
+    [
+      {"text": "Critical", "fill": "#F7E4E2", "bold": true},
+      {"text": "Turnstile", "bold": true},
+      {"text": "Turnstile failed to load."}
+    ],
+    [
+      {"text": "Critical", "fill": "#F7E4E2", "bold": true},
+      {"text": "Workers KV", "bold": true},
+      {"paragraphs": ["Significantly elevated HTTP 5xx errors, as requests to the KV", "front-end gateway failed with the core proxy."]}
+    ],
+    [
+      {"text": "Critical", "fill": "#F7E4E2", "bold": true},
+      {"text": "Access", "bold": true},
+      {"paragraphs": ["Widespread authentication failures until the rollback was initiated", "at 13:05; existing sessions unaffected, failed attempts returned an error page."]}
+    ],
+    [
+      {"text": "Degraded", "fill": "#FAF0DC", "bold": true},
+      {"text": "Dashboard", "bold": true},
+      {"paragraphs": ["Mostly operational, but most users could not log in because", "Turnstile was unavailable on the login page."]}
+    ],
+    [
+      {"text": "Degraded", "fill": "#FAF0DC", "bold": true},
+      {"text": "Email Security", "bold": true},
+      {"paragraphs": ["Processing and delivery unaffected. Temporary loss of an IP reputation", "source reduced spam-detection accuracy and prevented some new-domain-age", "detections; some Auto Move actions failed, all reviewed and remediated."]}
+    ]
+  ]
+}
+    </metadata>
+    <rect x="64" y="215" width="150" height="40" fill="#F7E4E2" />
+    <rect x="64" y="255" width="150" height="40" fill="#F7E4E2" />
+    <rect x="64" y="295" width="150" height="62" fill="#F7E4E2" />
+    <rect x="64" y="357" width="150" height="62" fill="#F7E4E2" />
+    <rect x="64" y="419" width="150" height="62" fill="#FAF0DC" />
+    <rect x="64" y="481" width="150" height="84" fill="#FAF0DC" />
+    <line x1="64" y1="215" x2="1216" y2="215" stroke="#1F2933" stroke-width="2" />
+    <line x1="64" y1="255" x2="1216" y2="255" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="295" x2="1216" y2="295" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="357" x2="1216" y2="357" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="419" x2="1216" y2="419" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="481" x2="1216" y2="481" stroke="#D7DDE3" stroke-width="1" />
+    <line x1="64" y1="565" x2="1216" y2="565" stroke="#D7DDE3" stroke-width="1" />
+    <text x="76" y="196" font-size="16" font-weight="bold" fill="#1F2933">Severity</text>
+    <text x="226" y="196" font-size="16" font-weight="bold" fill="#1F2933">Service or product</text>
+    <text x="516" y="196" font-size="16" font-weight="bold" fill="#1F2933">Impact as published</text>
+    <text x="76" y="236" font-size="16" font-weight="bold" fill="#1F2933">Critical</text>
+    <text x="226" y="236" font-size="16" font-weight="bold" fill="#1F2933">Core CDN and security services</text>
+    <text x="516" y="236" font-size="16" fill="#1F2933">HTTP 5xx status codes returned to end users.</text>
+    <text x="76" y="276" font-size="16" font-weight="bold" fill="#1F2933">Critical</text>
+    <text x="226" y="276" font-size="16" font-weight="bold" fill="#1F2933">Turnstile</text>
+    <text x="516" y="276" font-size="16" fill="#1F2933">Turnstile failed to load.</text>
+    <text x="76" y="316" font-size="16" font-weight="bold" fill="#1F2933">Critical</text>
+    <text x="226" y="316" font-size="16" font-weight="bold" fill="#1F2933">Workers KV</text>
+    <text font-size="16" fill="#1F2933" x="516" y="316">Significantly elevated HTTP 5xx errors, as requests to the KV</text><text font-size="16" fill="#1F2933" x="516" y="338">front-end gateway failed with the core proxy.</text><text x="76" y="378" font-size="16" font-weight="bold" fill="#1F2933">Critical</text>
+    <text x="226" y="378" font-size="16" font-weight="bold" fill="#1F2933">Access</text>
+    <text font-size="16" fill="#1F2933" x="516" y="378">Widespread authentication failures until the rollback was initiated</text><text font-size="16" fill="#1F2933" x="516" y="400">at 13:05; existing sessions unaffected, failed attempts returned an error page.</text><text x="76" y="440" font-size="16" font-weight="bold" fill="#1F2933">Degraded</text>
+    <text x="226" y="440" font-size="16" font-weight="bold" fill="#1F2933">Dashboard</text>
+    <text font-size="16" fill="#1F2933" x="516" y="440">Mostly operational, but most users could not log in because</text><text font-size="16" fill="#1F2933" x="516" y="462">Turnstile was unavailable on the login page.</text><text x="76" y="502" font-size="16" font-weight="bold" fill="#1F2933">Degraded</text>
+    <text x="226" y="502" font-size="16" font-weight="bold" fill="#1F2933">Email Security</text>
+    <text font-size="16" fill="#1F2933" x="516" y="502">Processing and delivery unaffected. Temporary loss of an IP reputation</text><text font-size="16" fill="#1F2933" x="516" y="524">source reduced spam-detection accuracy and prevented some new-domain-age</text><text font-size="16" fill="#1F2933" x="516" y="546">detections; some Auto Move actions failed, all reviewed and remediated.</text></g>
+  <g id="impact-latency-note" data-pptx-bounds="64 580 1152 48">
+    <text font-size="16" fill="#5A6673" x="64" y="594">Response latency also rose across the CDN during the impact window: debugging and observability systems consumed large</text><text font-size="16" fill="#5A6673" x="64" y="616">amounts of CPU automatically enriching uncaught errors with additional debugging information.</text></g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, impact table. All times UTC.</text>
+    <text x="1216" y="692" text-anchor="end">03</text>
+  </g>
+</svg>

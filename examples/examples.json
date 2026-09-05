@@ -2,11 +2,110 @@
   "version": 1,
   "updated": "2026-09-05",
   "stats": {
-    "examples": 27,
-    "pages": 381,
-    "templates": 27
+    "examples": 29,
+    "pages": 411,
+    "templates": 29
   },
   "projects": [
+    {
+      "id": "ppt169_cloudflare_outage_postmortem",
+      "title": "Cloudflare Outage Postmortem, 18 November 2025",
+      "description": "英文事故复盘 15 页 — 以 Cloudflare 官方博客复盘为唯一事实源,显式挂载 incident-postmortem 方法模板,briefing × swiss-minimal,严重度四色时间条贯穿全卷,4 张原生表 + 1 张示意折线图 + 原生超链接,Default 路线源文件驱动生成,首份方法模板示例",
+      "icon": "🟠",
+      "color": "#B4342C",
+      "style": "corporate",
+      "styleName": "Blameless Postmortem",
+      "desc": "A fifteen-page English incident review of the 18 November 2025 Cloudflare outage, built solely from Cloudflare's published account (with the July 2019 postmortem as a comparison record): the summary that can be forwarded alone, the impact table by product surface, the two proxy generations, the five-minute oscillation of the error rate, two timeline tables with a UTC clock, the three-minute detection against the two-hour-fifty-three diagnosis, the query-to-panic mechanism, four contributing factors, the systemic condition shared with 2019, what went well, four corrective actions with owner, date and verification recorded as NO DATA, five open questions, and a sources page with live hyperlinks. The first example to install a bundled Style workspace: the incident-postmortem method (blameless, observed versus inferred versus unconfirmed, roles not people) seeded briefing mode, swiss-minimal composition, Arial with Consolas for timestamps and code, and a fixed severity palette (normal, degraded, critical, recovered) that runs as a segmented strip across the deck. Four native-ready tables, one schematic chart labelled as a reconstruction, three Morph pairs (a time cursor walking the severity strip across three pages, a factor band becoming the next page's headline), forty-four entrance animations, speaker notes throughout. Generated on the Default runtime from the source pages; the second export turns the tables and chart into native PowerPoint objects.",
+      "tags": [
+        "Incident Review",
+        "English",
+        "Style Template",
+        "Native Tables"
+      ],
+      "isNew": true,
+      "folder": "ppt169_cloudflare_outage_postmortem/svg_final",
+      "generatedAt": "2026-09-05",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_cloudflare_outage_postmortem/exports/ppt169_cloudflare_outage_postmortem.pptx",
+      "pptxNative": "examples/ppt169_cloudflare_outage_postmortem/exports/ppt169_cloudflare_outage_postmortem_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "A database permissions change, not an attack, stopped Cloudflare's core traffic on 18 November 2025"
+        },
+        {
+          "file": "02_incident_summary.svg",
+          "title": "incident summary",
+          "desc": "One feature file doubled in size and a fixed 200-feature limit turned it into a global 5xx event"
+        },
+        {
+          "file": "03_impact_by_surface.svg",
+          "title": "impact by surface",
+          "desc": "Six product surfaces failed, and two of them degraded rather than stopped"
+        },
+        {
+          "file": "04_two_proxy_generations.svg",
+          "title": "two proxy generations",
+          "desc": "The same bad file produced errors on the new proxy and silent false positives on the old one"
+        },
+        {
+          "file": "05_five_minute_cycle.svg",
+          "title": "five-minute cycle",
+          "desc": "The error rate rose and fell every five minutes until every database node produced the bad file"
+        },
+        {
+          "file": "06_timeline_1105_1305.svg",
+          "title": "timeline 11:05–13:05",
+          "desc": "From the 11:05 access-control change to the first bypass at 13:05"
+        },
+        {
+          "file": "07_timeline_1337_1706.svg",
+          "title": "timeline 13:37–17:06",
+          "desc": "From confidence in the trigger at 13:37 to full restoration at 17:06"
+        },
+        {
+          "file": "08_detection_and_diagnosis.svg",
+          "title": "detection and diagnosis",
+          "desc": "Detection took three minutes; identifying the failing module took two hours and fifty-three"
+        },
+        {
+          "file": "09_mechanism.svg",
+          "title": "mechanism",
+          "desc": "A query that filtered on table name but not database name became an unhandled panic in the core proxy"
+        },
+        {
+          "file": "10_contributing_factors.svg",
+          "title": "contributing factors",
+          "desc": "Four conditions had to hold at once, and no single one of them is the cause"
+        },
+        {
+          "file": "11_systemic_condition.svg",
+          "title": "systemic condition",
+          "desc": "Rapid global propagation of internally generated configuration is the condition both 2019 and 2025 share"
+        },
+        {
+          "file": "12_what_went_well.svg",
+          "title": "what went well",
+          "desc": "Three controls limited the damage and are the ones to protect"
+        },
+        {
+          "file": "13_corrective_actions.svg",
+          "title": "corrective actions",
+          "desc": "Four corrective actions are published, and none of them carries an owner, a date, or a verification method"
+        },
+        {
+          "file": "14_open_questions.svg",
+          "title": "open questions",
+          "desc": "Five questions the published account does not settle"
+        },
+        {
+          "file": "15_sources.svg",
+          "title": "sources",
+          "desc": "Every figure in this deck traces to one of three published records"
+        }
+      ]
+    },
     {
       "id": "ppt169_solar_cheapest_power",
       "title": "光伏为什么最便宜,以及它开始变贵",
@@ -1949,6 +2048,103 @@
         }
       ],
       "pptx": "examples/ppt169_what_is_ppt/exports/what_is_ppt.pptx"
+    },
+    {
+      "id": "ppt169_lora_hu_2021",
+      "title": "LoRA Hu 2021",
+      "description": "LoRA 论文解读 15 页 — 冷静技术蓝图风,结构图 + 公式 + KPI 卡片 + 逐页旁白与自定义动画 (2026-05 生成;2026-09 从历史中恢复并按当前规范适配表达、重新打包,幻灯片内容未重生成)",
+      "icon": "🧠",
+      "color": "#1B3A5C",
+      "style": "technical",
+      "styleName": "Blueprint Technical",
+      "desc": "Technical reading deck for Hu et al. 2021, LoRA: Low-Rank Adaptation of Large Language Models: why full fine-tuning stops scaling at 175B (the GPU-rack cost figure), the limits of adapters and prefix tuning, the low intrinsic-rank hypothesis, the frozen-W0-plus-BA reparameterization, the alpha/r scaling and merge-at-deployment details, where it attaches inside the Transformer, the four advantages, zero inference latency, the GLUE and GPT-3 results, and the rank/subspace analysis. Blueprint-style AI diagrams, rendered formulas, KPI cards, tabler icons, per-slide speaker notes, and object-level entrance animations. Generated in May 2026 and dropped from the gallery in the August clean-up; restored from git history in September 2026 at readers' request and adapted to the current authoring rules (spec metadata, shipped icons, gradient rails, compressed images, re-export) without regenerating the slides.",
+      "tags": [
+        "Paper Reading",
+        "LLM",
+        "Technical Blueprint"
+      ],
+      "isNew": false,
+      "folder": "ppt169_lora_hu_2021/svg_final",
+      "generatedAt": "2026-05-23",
+      "cover": "01_cover.svg",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "LoRA: 大模型的低秩适配"
+        },
+        {
+          "file": "02_agenda.svg",
+          "title": "agenda",
+          "desc": "本次讲什么"
+        },
+        {
+          "file": "03_problem.svg",
+          "title": "problem",
+          "desc": "模型越大, 全量微调越不可行"
+        },
+        {
+          "file": "04_limitations.svg",
+          "title": "limitations",
+          "desc": "为什么现有高效适配方法不够好"
+        },
+        {
+          "file": "05_insight.svg",
+          "title": "low-rank insight",
+          "desc": "权重更新其实低秩"
+        },
+        {
+          "file": "06_method.svg",
+          "title": "method",
+          "desc": "冻结 W0, 注入低秩 BA"
+        },
+        {
+          "file": "07_implementation.svg",
+          "title": "implementation",
+          "desc": "一个常数 alpha, 一次部署合并"
+        },
+        {
+          "file": "08_transformer.svg",
+          "title": "transformer",
+          "desc": "只适配注意力权重"
+        },
+        {
+          "file": "09_advantages.svg",
+          "title": "advantages",
+          "desc": "LoRA 的四个关键优势"
+        },
+        {
+          "file": "10_latency.svg",
+          "title": "latency",
+          "desc": "Adapter 增延迟, LoRA 不增"
+        },
+        {
+          "file": "11_setup.svg",
+          "title": "setup",
+          "desc": "覆盖 NLU 到 NLG 的四类模型"
+        },
+        {
+          "file": "12_glue.svg",
+          "title": "glue",
+          "desc": "更少参数, 持平或更优"
+        },
+        {
+          "file": "13_gpt3.svg",
+          "title": "gpt-3",
+          "desc": "在 175B 尺度上仍然成立"
+        },
+        {
+          "file": "14_understanding.svg",
+          "title": "understanding",
+          "desc": "该适配谁? 秩要多大?"
+        },
+        {
+          "file": "15_conclusion.svg",
+          "title": "conclusion",
+          "desc": "结论与影响"
+        }
+      ],
+      "pptx": "examples/ppt169_lora_hu_2021/exports/ppt169_lora_hu_2021.pptx"
     },
     {
       "id": "ppt169_pritzker_2026",

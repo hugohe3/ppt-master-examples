@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">Four conditions had to hold at once, and no</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">single one of them is the cause</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="p10-factor-assumption" data-pptx-bounds="64 180 1152 108">
+    <rect x="64" y="180" width="4" height="108" fill="#B4342C" />
+    <text x="84" y="198" font-size="12" font-weight="bold" fill="#B4342C">TECHNICAL</text>
+    <text x="230" y="206" font-size="20" font-weight="bold" fill="#1F2933">An assumption about the query’s scope was never restated</text>
+    <text font-size="16" fill="#1F2933" x="230" y="254">The feature-generation query assumed table metadata would only ever be returned for the</text><text font-size="16" fill="#1F2933" x="230" y="276">default database. That assumption was not revisited when the permissions model changed at 11:05.</text></g>
+  <g id="p10-factor-limit" data-pptx-bounds="64 296 1152 108">
+    <rect x="64" y="296" width="4" height="108" fill="#B4342C" />
+    <text x="84" y="314" font-size="12" font-weight="bold" fill="#B4342C">TECHNICAL</text>
+    <text x="230" y="322" font-size="20" font-weight="bold" fill="#1F2933">A fixed limit guarded memory but had no bounded failure path</text>
+    <text font-size="16" fill="#1F2933" x="230" y="370">The bots module preallocates memory for at most 200 machine-learning features. An input above</text><text font-size="16" fill="#1F2933" x="230" y="392">that limit produced an unhandled error and a thread panic, not a rejected file or a degraded score.</text></g>
+  <g id="p10-factor-validation" data-pptx-bounds="64 412 1152 108">
+    <rect x="64" y="412" width="4" height="108" fill="#B7791F" />
+    <text x="84" y="430" font-size="12" font-weight="bold" fill="#B7791F">PROCEDURAL</text>
+    <text x="230" y="438" font-size="20" font-weight="bold" fill="#1F2933">Cloudflare-generated configuration was trusted more than user input</text>
+    <text font-size="16" fill="#1F2933" x="230" y="486">The first published remediation item is to harden ingestion of Cloudflare-generated configuration</text><text font-size="16" fill="#1F2933" x="230" y="508">files in the same way as user-generated input — which states that, before this incident, it was not.</text></g>
+  <g id="p10-factor-propagation" data-pptx-bounds="64 528 1152 108">
+    <rect x="64" y="528" width="4" height="108" fill="#B7791F" />
+    <text x="84" y="546" font-size="12" font-weight="bold" fill="#B7791F">PROCEDURAL</text>
+    <text x="230" y="554" font-size="20" font-weight="bold" fill="#1F2933">The change propagated gradually, so the failure looked like an attack</text>
+    <text font-size="16" fill="#1F2933" x="230" y="602">Only the updated part of the ClickHouse cluster produced bad data, so output alternated every</text><text font-size="16" fill="#1F2933" x="230" y="624">five minutes and the failure signature resembled an attack rather than a deployment.</text></g>
+  <g id="factors-trace-note" data-pptx-bounds="64 640 1152 28">
+    <text x="64" y="656" font-size="16" fill="#5A6673">Each factor traces to the timeline evidence on slides 6 and 7, and no single one of them is described here as the cause.</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”, query-behaviour, memory-preallocation and remediation sections.</text>
+    <text x="1216" y="692" text-anchor="end">10</text>
+  </g>
+</svg>

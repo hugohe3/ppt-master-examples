@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="64 60 1152 100">
+    <text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="92">One feature file doubled in size and a fixed 200-feature</text><text font-weight="bold" font-size="36" fill="#1F2933" x="64" y="135">limit turned it into a global 5xx event</text><line x1="64" y1="158" x2="1216" y2="158" stroke="#D7DDE3" stroke-width="1" />
+  </g>
+  <g id="summary-lead" data-pptx-bounds="64 166 1152 70">
+    <text font-size="26" fill="#1F2933" x="64" y="190">The failure was in the ingestion of Cloudflare’s own generated</text><text font-size="26" fill="#1F2933" x="64" y="226">configuration, not in the traffic that configuration governs.</text></g>
+  <g id="moment-change-deployed" data-pptx-bounds="64 246 264 122">
+    
+  <g transform="translate(64, 248) scale(0.75)" fill="#4A5568">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12 9V7L4 7V9H12Z" />
+  </g>
+    <text x="82" y="258" font-size="12" font-weight="bold" fill="#5A6673">NORMAL · CHANGE DEPLOYED</text>
+    <text x="64" y="316" font-family="Consolas" font-size="56" font-weight="bold" fill="#4A5568">11:05</text>
+    <text font-size="16" fill="#5A6673" x="64" y="342">Database access control</text><text font-size="16" fill="#5A6673" x="64" y="362">change deployed</text></g>
+  <g id="moment-impact-starts" data-pptx-bounds="360 246 264 122">
+    
+  <g transform="translate(360, 248) scale(0.75)" fill="#B4342C">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM4.29289 5.70711L6.58579 8L4.29289 10.2929L5.70711 11.7071L8 9.41421L10.2929 11.7071L11.7071 10.2929L9.41421 8L11.7071 5.70711L10.2929 4.29289L8 6.58579L5.70711 4.29289L4.29289 5.70711Z" />
+  </g>
+    <text x="378" y="258" font-size="12" font-weight="bold" fill="#5A6673">CRITICAL · IMPACT STARTS</text>
+    <text x="360" y="316" font-family="Consolas" font-size="56" font-weight="bold" fill="#B4342C">11:28</text>
+    <text font-size="16" fill="#5A6673" x="360" y="342">First errors observed on</text><text font-size="16" fill="#5A6673" x="360" y="362">customer HTTP traffic</text></g>
+  <g id="moment-main-resolved" data-pptx-bounds="656 246 264 122">
+    
+  <g transform="translate(656, 248) scale(0.75)" fill="#B7791F">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16 15H0V12L7 0H9L16 12V15ZM7 4H9V9H7V4ZM7 11H9V13H7V11Z" />
+  </g>
+    <text x="674" y="258" font-size="12" font-weight="bold" fill="#5A6673">DEGRADED · MAIN IMPACT ENDS</text>
+    <text x="656" y="316" font-family="Consolas" font-size="56" font-weight="bold" fill="#B7791F">14:30</text>
+    <text font-size="16" fill="#5A6673" x="656" y="342">Correct configuration file</text><text font-size="16" fill="#5A6673" x="656" y="362">deployed globally</text></g>
+  <g id="moment-all-resolved" data-pptx-bounds="952 246 264 122">
+    
+  <g transform="translate(952, 248) scale(0.75)" fill="#2E7D5B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12.7071 5.70711L11.2929 4.29289L6.5 9.08579L4.70711 7.29289L3.29289 8.70711L6.5 11.9142L12.7071 5.70711Z" />
+  </g>
+    <text x="970" y="258" font-size="12" font-weight="bold" fill="#5A6673">RECOVERED · ALL RESOLVED</text>
+    <text x="952" y="316" font-family="Consolas" font-size="56" font-weight="bold" fill="#2E7D5B">17:06</text>
+    <text font-size="16" fill="#5A6673" x="952" y="342">All downstream services</text><text font-size="16" fill="#5A6673" x="952" y="362">restarted and restored</text></g>
+  <g id="fact-trigger" data-pptx-bounds="64 400 552 112">
+    <text x="64" y="412" font-size="12" font-weight="bold" fill="#B4342C">TRIGGER</text>
+    <text font-size="20" fill="#1F2933" x="64" y="442">A change to one of Cloudflare’s database</text><text font-size="20" fill="#1F2933" x="64" y="472">systems’ permissions made the query output</text><text font-size="20" fill="#1F2933" x="64" y="502">duplicate entries into the feature file.</text></g>
+  <g id="fact-mechanism" data-pptx-bounds="664 400 552 112">
+    <text x="664" y="412" font-size="12" font-weight="bold" fill="#B4342C">MECHANISM</text>
+    <text font-size="20" fill="#1F2933" x="664" y="442">The file doubled in size and passed the</text><text font-size="20" fill="#1F2933" x="664" y="472">bots module’s preallocated limit of 200</text><text font-size="20" fill="#1F2933" x="664" y="502">features, against roughly 60 then in use.</text></g>
+  <g id="fact-scope" data-pptx-bounds="64 548 552 112">
+    <text x="64" y="560" font-size="12" font-weight="bold" fill="#B4342C">SCOPE</text>
+    <text font-size="20" fill="#1F2933" x="64" y="590">Core CDN and security services, Turnstile,</text><text font-size="20" fill="#1F2933" x="64" y="620">Workers KV, Dashboard, Email Security and</text><text font-size="20" fill="#1F2933" x="64" y="650">Access were affected, in different ways.</text></g>
+  <g id="fact-recovery" data-pptx-bounds="664 548 552 112">
+    <text x="664" y="560" font-size="12" font-weight="bold" fill="#B4342C">RECOVERY</text>
+    <text font-size="20" fill="#1F2933" x="664" y="590">Core traffic was largely flowing as normal</text><text font-size="20" fill="#1F2933" x="664" y="620">by 14:30, and all remaining services were</text><text font-size="20" fill="#1F2933" x="664" y="650">restored at 17:06.</text></g>
+  <g id="page-footer" data-pptx-bounds="64 680 1152 22" fill="#5A6673" font-size="12">
+    <text x="64" y="692">Cloudflare, “Cloudflare outage on November 18, 2025”. All times UTC.</text>
+    <text x="1216" y="692" text-anchor="end">02</text>
+  </g>
+</svg>
