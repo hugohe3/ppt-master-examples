@@ -1,0 +1,29 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "pdf_to_md.py",
+  "conversion_type": "pdf",
+  "source": {
+    "path": "researchstudio_reel.pdf",
+    "name": "researchstudio_reel.pdf",
+    "suffix": ".pdf",
+    "kind": "file",
+    "exists": false,
+    "size_bytes": 32898632,
+    "note": "PDF not bundled; download arXiv:2607.04438 v2"
+  },
+  "outputs": {
+    "markdown": "researchstudio_reel.md",
+    "asset_dir": "researchstudio_reel_files",
+    "image_manifest": "researchstudio_reel_files/image_manifest.json",
+    "image_count": 60
+  },
+  "markdown": {
+    "line_count": 838,
+    "char_count": 113085,
+    "heading_count": 3,
+    "table_count": 4,
+    "image_ref_count": 60,
+    "link_count": 0
+  },
+  "warnings": []
+}

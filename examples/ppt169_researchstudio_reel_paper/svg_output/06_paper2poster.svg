@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">SKILL 2 OF 5 · §2.2 PAPER2POSTER</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Paper2Poster composes on four orthogonal axes, fills the page with a measured<tspan x="56" dy="34">loop, and exports native PowerPoint shapes</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Figure 3: bundle → pick figures → compose poster.html → staged-fill loop → PDF, PNG, editable PPTX → deliverables gate</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="poster-pipeline-figure" data-pptx-bounds="56 192 600 188">
+  <rect x="56" y="194" width="600" height="186" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/fig3_poster_pipeline.png" x="62" y="200" width="588" height="174" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="56" y="194" width="50" height="16" fill="#1B2430"/><text x="60" y="206" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 3</text>
+</g>
+<g id="poster-outputs" data-pptx-bounds="680 192 544 190">
+  <text x="680" y="206" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">ONE RUN, FOUR COUPLED FORMATS</text>
+  <line x1="680" y1="214" x2="1180" y2="214" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="684" cy="226.2" r="3" fill="#1D4ED8"/>
+  <text x="696" y="230" font-size="12" fill="#2F3A48">A self-contained web page (the visual ground truth)</text>
+  <circle cx="684" cy="248.2" r="3" fill="#1D4ED8"/>
+  <text x="696" y="252" font-size="12" fill="#2F3A48">A print-resolution PDF at the exact venue canvas (60 × 36 in landscape for ICML /<tspan x="696" dy="16">NeurIPS / CVPR, A0 portrait for the ACL family)</tspan></text>
+  <circle cx="684" cy="286.2" r="3" fill="#1D4ED8"/>
+  <text x="696" y="290" font-size="12" fill="#2F3A48">A thumbnail PNG and a natively editable PowerPoint file</text>
+  <circle cx="684" cy="308.2" r="3" fill="#1D4ED8"/>
+  <text x="696" y="312" font-size="12" fill="#2F3A48">Optional per-section narration audio (Edge TTS or Azure Speech)</text>
+</g>
+<g id="poster-requirements" data-pptx-replace-with="table" data-pptx-bounds="56 396 1168 242" data-pptx-fallback-sha256="54b36f9ef7ed70ca367114dc65a9394f302bf9cda0766168ba2d80e5aafcdcea">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "poster-requirements", "x": 56, "y": 396, "width": 1168, "height": 242, "header_rows": 1, "column_widths": [40, 380, 748], "row_heights": [28, 54, 40, 40, 40, 40], "style": {"font_family": "Arial", "font_size": 11, "header_font_size": 12, "band_row": false, "header_fill": "#F3F5F8", "header_text": "#1B2430", "body_text": "#2F3A48", "border_color": "#E6EAEF", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 2, "bottom": 2}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E6EAEF", "width": 0.75}, "bottom": {"style": "solid", "color": "#E6EAEF", "width": 0.75}}}}, "columns": [{"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "ID"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Requirement"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Solution the paper gives"}], "rows": [[{"color": "#1D4ED8", "bold": true, "text": "A1"}, {"paragraphs": [{"align": "l", "text": "Composition without a template explosion — a bank of fixed"}, {"align": "l", "text": "templates blows up across layout × style × header × QR block and"}, {"align": "l", "text": "still makes posters look alike"}]}, {"paragraphs": [{"align": "l", "text": "Assemble at build time from four orthogonal axes: layout (full / half / three-column), style (11 interchangeable CSS themes), header (5"}, {"align": "l", "text": "arrangements of venue logo, institution logos, QR), Scan-to-Read block; only the layout is fixed by a hard rule (the Method figure's shape),"}, {"align": "l", "text": "the rest sampled reproducibly; every section carries a distinct widget"}]}], [{"color": "#1D4ED8", "bold": true, "text": "A2"}, {"paragraphs": [{"align": "l", "text": "A fill loop that converges — the band where a section reads full is"}, {"align": "l", "text": "narrow and one discrete edit overshoots it"}]}, {"paragraphs": [{"align": "l", "text": "A staged, discrete measured-fill loop: five categorical verdicts select the move, one section per round, moves sized by the measured pixel"}, {"align": "l", "text": "delta (next page)"}]}], [{"color": "#1D4ED8", "bold": true, "text": "A3"}, {"paragraphs": [{"align": "l", "text": "A page too large to re-read — a ~100 KB HTML file floods the"}, {"align": "l", "text": "context and overflows the output channel"}]}, {"paragraphs": [{"align": "l", "text": "Each measurement returns only the verbatim source of off-target sections; the file is generated indirectly and never printed back, so neither"}, {"align": "l", "text": "token budget is spent on the bulk of the page"}]}], [{"color": "#1D4ED8", "bold": true, "text": "A4"}, {"paragraphs": [{"align": "l", "text": "Figures that fill their cards — a figure absorbs whatever room the text"}, {"align": "l", "text": "leaves and can strand as a small stamp"}]}, {"paragraphs": [{"align": "l", "text": "Size each figure through its height cap and hold it to a hard floor on its card; a figure below its cap is enlarged by raising the cap, a crowded"}, {"align": "l", "text": "column is relieved by trimming text; the floor is a termination condition"}]}], [{"color": "#1D4ED8", "bold": true, "text": "A5"}, {"paragraphs": [{"align": "l", "text": "A faithful editable export — a reopenable poster needs native"}, {"align": "l", "text": "shapes, not a pasted image"}]}, {"paragraphs": [{"align": "l", "text": "Rebuild each slide from the live DOM: text → editable frames keeping bold/italic, figure → replaceable picture, equation → native equation"}, {"align": "l", "text": "object, section card → styled shape; edit in PowerPoint without re-running the loop"}]}]]}</metadata>
+  <rect x="56" y="396" width="1168" height="28" fill="#F3F5F8"/>
+  <line x1="56" y1="424" x2="1224" y2="424" stroke="#1B2430" stroke-width="1"/>
+  <text x="64" y="414.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">ID</text>
+  <text x="104" y="414.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Requirement</text>
+  <text x="484" y="414.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Solution the paper gives</text>
+  <line x1="56" y1="478" x2="1224" y2="478" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="454.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">A1</text>
+  <text x="104" y="440.9" font-size="11" fill="#2F3A48" text-anchor="start">Composition without a template explosion — a bank of fixed<tspan x="104" dy="14">templates blows up across layout × style × header × QR block and</tspan><tspan x="104" dy="14">still makes posters look alike</tspan></text>
+  <text x="484" y="440.9" font-size="11" fill="#2F3A48" text-anchor="start">Assemble at build time from four orthogonal axes: layout (full / half / three-column), style (11 interchangeable CSS themes), header (5<tspan x="484" dy="14">arrangements of venue logo, institution logos, QR), Scan-to-Read block; only the layout is fixed by a hard rule (the Method figure's shape),</tspan><tspan x="484" dy="14">the rest sampled reproducibly; every section carries a distinct widget</tspan></text>
+  <line x1="56" y1="518" x2="1224" y2="518" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="501.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">A2</text>
+  <text x="104" y="494.9" font-size="11" fill="#2F3A48" text-anchor="start">A fill loop that converges — the band where a section reads full is<tspan x="104" dy="14">narrow and one discrete edit overshoots it</tspan></text>
+  <text x="484" y="494.9" font-size="11" fill="#2F3A48" text-anchor="start">A staged, discrete measured-fill loop: five categorical verdicts select the move, one section per round, moves sized by the measured pixel<tspan x="484" dy="14">delta (next page)</tspan></text>
+  <line x1="56" y1="558" x2="1224" y2="558" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="541.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">A3</text>
+  <text x="104" y="534.9" font-size="11" fill="#2F3A48" text-anchor="start">A page too large to re-read — a ~100 KB HTML file floods the<tspan x="104" dy="14">context and overflows the output channel</tspan></text>
+  <text x="484" y="534.9" font-size="11" fill="#2F3A48" text-anchor="start">Each measurement returns only the verbatim source of off-target sections; the file is generated indirectly and never printed back, so neither<tspan x="484" dy="14">token budget is spent on the bulk of the page</tspan></text>
+  <line x1="56" y1="598" x2="1224" y2="598" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="581.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">A4</text>
+  <text x="104" y="574.9" font-size="11" fill="#2F3A48" text-anchor="start">Figures that fill their cards — a figure absorbs whatever room the text<tspan x="104" dy="14">leaves and can strand as a small stamp</tspan></text>
+  <text x="484" y="574.9" font-size="11" fill="#2F3A48" text-anchor="start">Size each figure through its height cap and hold it to a hard floor on its card; a figure below its cap is enlarged by raising the cap, a crowded<tspan x="484" dy="14">column is relieved by trimming text; the floor is a termination condition</tspan></text>
+  <line x1="56" y1="638" x2="1224" y2="638" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="621.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">A5</text>
+  <text x="104" y="614.9" font-size="11" fill="#2F3A48" text-anchor="start">A faithful editable export — a reopenable poster needs native<tspan x="104" dy="14">shapes, not a pasted image</tspan></text>
+  <text x="484" y="614.9" font-size="11" fill="#2F3A48" text-anchor="start">Rebuild each slide from the live DOM: text → editable frames keeping bold/italic, figure → replaceable picture, equation → native equation<tspan x="484" dy="14">object, section card → styled shape; edit in PowerPoint without re-running the loop</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">6</text>
+</g>
+</svg>

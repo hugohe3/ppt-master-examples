@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">§3 CAPABILITY COVERAGE · §4 APPLICATIONS</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text fill="#1B2430" font-size="28" font-weight="bold" x="56" y="84">Three contexts span the dissemination spectrum on one pipeline: a</text><text fill="#1B2430" font-size="28" font-weight="bold" x="56" y="118">camera-ready week, a lab's intake, a course's weekly packs</text></g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Who runs it, which artifacts they lean on, what they revise; Tables 2–3 audit what the video and blog generators emit</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1" />
+<g id="application-1" data-pptx-bounds="56 194 368 268">
+  <rect x="56" y="194" width="368" height="2" fill="#1B2430" />
+  <circle cx="66" cy="216" r="10" fill="#1D4ED8" /><text x="66" y="220.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text><text x="84" y="221" font-size="14" font-weight="bold" fill="#1B2430">§4.1 The author's last mile</text>
+  <text x="56" y="242" font-size="11" fill="#1D4ED8" letter-spacing="1">ONE-OFF, SINGLE PAPER</text>
+  <text fill="#2F3A48" font-size="12" x="56" y="266">One Claude Code session per paper: one extraction pass</text><text fill="#2F3A48" font-size="12" x="56" y="282">populates the bundle, then the three generators emit an editable</text><text fill="#2F3A48" font-size="12" x="56" y="298">.pptx, a synchronized video.pptx + .mp4 pair, and a bilingual</text><text fill="#2F3A48" font-size="12" x="56" y="314">Word .docx pair the author hand-revises rather than</text><text fill="#2F3A48" font-size="12" x="56" y="330">regenerates — all navigable through one reel.html that doubles</text><text fill="#2F3A48" font-size="12" x="56" y="346">as a review surface for co-authors.</text><text x="56" y="376" font-size="10" fill="#6B7684" letter-spacing="1">LEANS ON</text>
+  <text x="70" y="394" font-size="11" fill="#2F3A48">editable .pptx poster</text><circle cx="61" cy="390" r="2.5" fill="#1D4ED8" /><text x="70" y="411" font-size="11" fill="#2F3A48">video.pptx + .mp4 pair</text><circle cx="61" cy="407" r="2.5" fill="#1D4ED8" /><text x="70" y="428" font-size="11" fill="#2F3A48">bilingual .docx pair</text><circle cx="61" cy="424" r="2.5" fill="#1D4ED8" /><text x="70" y="445" font-size="11" fill="#2F3A48">reel.html as a review surface</text><circle cx="61" cy="441" r="2.5" fill="#1D4ED8" />
+</g>
+<g id="application-2" data-pptx-bounds="456 194 368 251">
+  <rect x="456" y="194" width="368" height="2" fill="#1B2430" />
+  <circle cx="466" cy="216" r="10" fill="#1D4ED8" /><text x="466" y="220.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text><text x="484" y="221" font-size="14" font-weight="bold" fill="#1B2430">§4.2 Lab and org communication</text>
+  <text x="456" y="242" font-size="11" fill="#1D4ED8" letter-spacing="1">CONTINUOUS, PER ACCEPTED PAPER</text>
+  <text fill="#2F3A48" font-size="12" x="456" y="266">Wired into the publication-intake pipeline so every accepted</text><text fill="#2F3A48" font-size="12" x="456" y="282">paper auto-generates draft dissemination artifacts an editorial or</text><text fill="#2F3A48" font-size="12" x="456" y="298">communications team then polishes. The editable PowerPoint</text><text fill="#2F3A48" font-size="12" x="456" y="314">and Word outputs make it a draft-and-revise workflow; the</text><text fill="#2F3A48" font-size="12" x="456" y="330">bilingual blog covers a Chinese-WeChat and an English</text><text fill="#2F3A48" font-size="12" x="456" y="346">research-blog register from one evidence map.</text><text x="456" y="376" font-size="10" fill="#6B7684" letter-spacing="1">LEANS ON</text>
+  <text x="470" y="394" font-size="11" fill="#2F3A48">draft artifacts per accepted paper</text><circle cx="461" cy="390" r="2.5" fill="#1D4ED8" /><text x="470" y="411" font-size="11" fill="#2F3A48">PowerPoint and Word for hand-off</text><circle cx="461" cy="407" r="2.5" fill="#1D4ED8" /><text x="470" y="428" font-size="11" fill="#2F3A48">one reel per paper for the comms team</text><circle cx="461" cy="424" r="2.5" fill="#1D4ED8" />
+</g>
+<g id="application-3" data-pptx-bounds="856 194 368 252">
+  <rect x="856" y="194" width="368" height="2" fill="#1B2430" />
+  <circle cx="866" cy="216" r="10" fill="#1D4ED8" /><text x="866" y="220.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text><text x="884" y="221" font-size="14" font-weight="bold" fill="#1B2430">§4.3 Educational reuse</text>
+  <text x="856" y="242" font-size="11" fill="#1D4ED8" letter-spacing="1">PERIODIC, MANY-PAPER BATCH</text>
+  <text fill="#2F3A48" font-size="12" x="856" y="266">A course, reading group, or public-understanding outlet feeds a</text><text fill="#2F3A48" font-size="12" x="856" y="282">reading list through the pipeline to produce paper-of-the-week</text><text fill="#2F3A48" font-size="12" x="856" y="298">briefing packs: a lecture deck, an asynchronous talk video, a</text><text fill="#2F3A48" font-size="12" x="856" y="314">newsletter blog. Instructors adjust framing or drop a slide;</text><text fill="#2F3A48" font-size="12" x="856" y="330">re-running on a corrected PDF re-issues the whole pack.</text><text x="856" y="360" font-size="10" fill="#6B7684" letter-spacing="1">LEANS ON</text>
+  <text x="870" y="378" font-size="11" fill="#2F3A48">lecture deck</text><circle cx="861" cy="374" r="2.5" fill="#1D4ED8" /><text x="870" y="395" font-size="11" fill="#2F3A48">asynchronous talk video</text><circle cx="861" cy="391" r="2.5" fill="#1D4ED8" /><text x="870" y="412" font-size="11" fill="#2F3A48">newsletter blog</text><circle cx="861" cy="408" r="2.5" fill="#1D4ED8" /><text x="870" y="429" font-size="11" fill="#2F3A48">versioned bundle per paper</text><circle cx="861" cy="425" r="2.5" fill="#1D4ED8" />
+</g>
+<g id="capability-audits" data-pptx-bounds="56 492 560 148">
+  <text x="56" y="506" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">CAPABILITY AUDITS, TABLES 2 AND 3</text>
+  <line x1="56" y1="514" x2="616" y2="514" stroke="#1B2430" stroke-width="1" />
+  <circle cx="60" cy="524.5" r="3" fill="#1D4ED8" />
+  <text fill="#2F3A48" font-size="11" x="72" y="528">Table 2 (video) asks whether a system emits visual attention cues or cursor grounding, an editable</text><text fill="#2F3A48" font-size="11" x="72" y="542">PPTX deck, duration control, and narration audio; Table 3 (blog) asks about layout checks, embedded</text><text fill="#2F3A48" font-size="11" x="72" y="556">figures, editable DOCX output, and paper-input summarization.</text><circle cx="60" cy="570.5" r="3" fill="#1D4ED8" />
+  <text fill="#2F3A48" font-size="11" x="72" y="574">The audited products and research systems generally cover a single artifact; ResearchStudio-Reel</text><text fill="#2F3A48" font-size="11" x="72" y="588">emits all three, exposes the shared bundle, includes a native-editable source in each package, and</text><text fill="#2F3A48" font-size="11" x="72" y="602">stitches them into one surface. The audit documents breadth of the contract; it does not measure editing</text><text fill="#2F3A48" font-size="11" x="72" y="616">effort or the viewer's usability.</text></g>
+<g id="gap-to-human" data-pptx-bounds="640 492 584 148">
+  <text x="640" y="506" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">GAP TO HUMAN POSTERS</text>
+  <line x1="640" y1="514" x2="1224" y2="514" stroke="#1B2430" stroke-width="1" />
+  <text fill="#2F3A48" font-size="11" x="640" y="528">Matching or exceeding the aggregate judge scores does not mean the output is on par with an author's own</text><text fill="#2F3A48" font-size="11" x="640" y="542">poster. A human designer routinely adds material the paper does not contain — a purpose-drawn method or</text><text fill="#2F3A48" font-size="11" x="640" y="556">overview diagram, explanatory icons — whereas the pipeline is grounded in the extracted bundle and reuses</text><text fill="#2F3A48" font-size="11" x="640" y="570">only figures and content that appear in the paper. Author taste also spans a wide, legitimate range; the pipeline</text><text fill="#2F3A48" font-size="11" x="640" y="584">analyses each paper's figure and content profile and chooses the layout that fits it, aiming for a sensible middle</text><text fill="#2F3A48" font-size="11" x="640" y="598">ground rather than any single house style.</text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">15</text>
+</g>
+</svg>

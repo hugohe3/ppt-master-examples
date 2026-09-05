@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">§3 ANALYSIS · CONTROLLED COMPARISONS</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">The PaperQuiz ordering nearly reverses the aesthetic ordering: denser posters<tspan x="56" dy="34">answer more; the fill loop packs to a target density</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Left: aesthetic overall vs PaperQuiz detail, nine systems; right: same model with and without the loop, same skill under Codex</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="aesthetics-vs-quiz" data-pptx-replace-with="chart" data-pptx-bounds="56 194 640 300" data-pptx-fallback-sha256="17b383eee047f8038bd90ca1f00b8ef940942f33e19b4745f9a27734020aedf4">
+  <metadata type="application/json">{"type": "scatter", "scatter_style": "marker", "marker_size": 12, "series": [{"name": "Single-shot LLM", "x": [2.92, 3.15, 3.08], "y": [69.86, 70.89, 65.36]}, {"name": "Poster pipeline (reproduced)", "x": [2.72, 2.72, 2.71], "y": [69.95, 75.4, 57.45]}, {"name": "ResearchStudio-Reel, Codex", "x": [3.27], "y": [55.55]}, {"name": "ResearchStudio-Reel, Claude Code", "x": [3.56], "y": [56.79]}, {"name": "Author ground truth", "x": [3.03], "y": [54.73]}], "plot_area": {"x": 120, "y": 218, "width": 556, "height": 210}, "notes": [{"text": "Claude-4.8 Opus (1-shot)", "x": 291.7, "y": 292.9, "width": 139, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "align": "l", "bold": false}, {"text": "GPT-5.5 (1-shot)", "x": 408.0, "y": 261.7, "width": 97, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "align": "l", "bold": false}, {"text": "Gemini-3.1 Pro (1-shot)", "x": 372.6, "y": 312.4, "width": 130, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "align": "l", "bold": false}, {"text": "Paper2Poster tool", "x": 190.7, "y": 292.2, "width": 101, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "align": "l", "bold": false}, {"text": "P2P", "x": 190.7, "y": 242.1, "width": 31, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "align": "l", "bold": false}, {"text": "PosterGen", "x": 185.6, "y": 367.7, "width": 64, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "align": "l", "bold": false}, {"text": "Reel · Codex", "x": 470.7, "y": 381.1, "width": 79, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#0E9F8A", "align": "l", "bold": true}, {"text": "Reel · Claude Code", "x": 481.2, "y": 360.4, "width": 114, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#1D4ED8", "align": "r", "bold": true}, {"text": "Author ground truth", "x": 219.3, "y": 386.8, "width": 108, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#1B2430", "align": "r", "bold": false}, {"text": "Aesthetic overall (1–5)", "x": 336.5, "y": 449.9, "width": 123, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "align": "ctr", "bold": false}, {"text": "PaperQuiz detail (%)", "x": 74, "y": 197.9, "width": 115, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "align": "l", "bold": false}], "axes": {"x": {"kind": "value", "position": "bottom", "visible": true, "minimum": 2.6, "maximum": 3.7, "major_unit": 0.2, "number_format": "0.0", "major_gridlines": false, "font_size": 11, "font_family": "Arial", "color": "#6B7684", "tick_marks": "none"}, "y": {"kind": "value", "position": "left", "visible": true, "minimum": 50, "maximum": 80, "major_unit": 10, "number_format": "0", "major_gridlines": true, "font_size": 11, "font_family": "Arial", "color": "#6B7684", "tick_marks": "none"}}, "style": {"colors": ["#94A3B8", "#C7CDD6", "#0E9F8A", "#1D4ED8", "#1B2430"], "font_family": "Arial", "font_size": 11, "text_color": "#6B7684", "axis_color": "#C9D0D8", "grid_color": "#E6EAEF", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "x": 56, "y": 194, "width": 640, "height": 300, "name": "aesthetics-vs-quiz"}</metadata>
+  <g id="aesthetics-vs-quiz-chartArea">
+    <line id="aesthetics-vs-quiz-grid-50" x1="120" y1="428.0" x2="676" y2="428.0" stroke="#C9D0D8" stroke-width="0.75"/>
+    <line id="aesthetics-vs-quiz-grid-60" x1="120" y1="358.0" x2="676" y2="358.0" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="aesthetics-vs-quiz-grid-70" x1="120" y1="288.0" x2="676" y2="288.0" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="aesthetics-vs-quiz-grid-80" x1="120" y1="218.0" x2="676" y2="218.0" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="aesthetics-vs-quiz-axis" x1="120" y1="218" x2="120" y2="428" stroke="#C9D0D8" stroke-width="0.75"/>
+    <!-- chart-plot-area: object=aesthetics-vs-quiz | 120,218,676,428 -->
+    <circle cx="281.7" cy="289.0" r="6" fill="#94A3B8"/>
+    <circle cx="398.0" cy="281.8" r="6" fill="#94A3B8"/>
+    <circle cx="362.6" cy="320.5" r="6" fill="#94A3B8"/>
+    <circle cx="180.7" cy="288.3" r="6" fill="#C7CDD6"/>
+    <circle cx="180.7" cy="250.2" r="6" fill="#C7CDD6"/>
+    <circle cx="175.6" cy="375.8" r="6" fill="#C7CDD6"/>
+    <circle cx="458.7" cy="389.2" r="6" fill="#0E9F8A"/>
+    <circle cx="605.2" cy="380.5" r="6" fill="#1D4ED8"/>
+    <circle cx="337.3" cy="394.9" r="6" fill="#1B2430"/>
+  </g>
+  <text x="112" y="432.0" font-size="11" fill="#6B7684" text-anchor="end">50</text>
+  <text x="112" y="362.0" font-size="11" fill="#6B7684" text-anchor="end">60</text>
+  <text x="112" y="292.0" font-size="11" fill="#6B7684" text-anchor="end">70</text>
+  <text x="112" y="222.0" font-size="11" fill="#6B7684" text-anchor="end">80</text>
+  <text x="120.0" y="444" font-size="11" fill="#6B7684" text-anchor="middle">2.6</text>
+  <text x="221.1" y="444" font-size="11" fill="#6B7684" text-anchor="middle">2.8</text>
+  <text x="322.2" y="444" font-size="11" fill="#6B7684" text-anchor="middle">3.0</text>
+  <text x="423.3" y="444" font-size="11" fill="#6B7684" text-anchor="middle">3.2</text>
+  <text x="524.4" y="444" font-size="11" fill="#6B7684" text-anchor="middle">3.4</text>
+  <text x="625.5" y="444" font-size="11" fill="#6B7684" text-anchor="middle">3.6</text>
+  <text x="398.0" y="462" font-size="11" fill="#2F3A48" text-anchor="middle">Aesthetic overall (1–5)</text>
+  <text x="74" y="210" font-size="11" fill="#2F3A48">PaperQuiz detail (%)</text>
+  <text x="291.7" y="305.0" font-size="11" fill="#2F3A48" text-anchor="start">Claude-4.8 Opus (1-shot)</text>
+  <text x="408.0" y="273.8" font-size="11" fill="#2F3A48" text-anchor="start">GPT-5.5 (1-shot)</text>
+  <text x="372.6" y="324.5" font-size="11" fill="#2F3A48" text-anchor="start">Gemini-3.1 Pro (1-shot)</text>
+  <text x="190.7" y="304.3" font-size="11" fill="#2F3A48" text-anchor="start">Paper2Poster tool</text>
+  <text x="190.7" y="254.2" font-size="11" fill="#2F3A48" text-anchor="start">P2P</text>
+  <text x="185.6" y="379.8" font-size="11" fill="#2F3A48" text-anchor="start">PosterGen</text>
+  <text x="470.7" y="393.2" font-size="11" fill="#0E9F8A" text-anchor="start" font-weight="bold">Reel · Codex</text>
+  <text x="595.2" y="372.5" font-size="11" fill="#1D4ED8" text-anchor="end" font-weight="bold">Reel · Claude Code</text>
+  <text x="327.3" y="398.9" font-size="11" fill="#1B2430" text-anchor="end">Author ground truth</text>
+</g>
+<g id="controlled-bars" data-pptx-replace-with="chart" data-pptx-bounds="736 194 488 300" data-pptx-fallback-sha256="58b865cdf01e6f72d99fc96b0d2e16587cad2ea2933d9d9403d2ebd723e07518">
+  <metadata type="application/json">{"type": "column", "grouping": "clustered", "categories": ["1-shot claude-opus-4.8", "Reel · Codex", "Reel · Claude Code", "Author ground truth"], "series": [{"name": "Aesthetic overall", "values": [2.92, 3.27, 3.56, 3.03], "point_colors": ["#94A3B8", "#0E9F8A", "#1D4ED8", "#1B2430"]}], "plot_area": {"x": 776, "y": 234, "width": 432, "height": 200}, "gap_width": 86, "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.00", "font_size": 12, "font_family": "Arial", "bold": true, "color": "#1B2430"}, "notes": [{"text": "Aesthetic overall", "x": 776, "y": 207.9, "width": 101, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#1B2430", "align": "l", "bold": true}, {"text": "+0.64 vs the same model single-shot", "x": 884.0, "y": 213.9, "width": 197, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#1D4ED8", "align": "l", "bold": false}], "axes": {"category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "font_size": 10, "font_family": "Arial", "color": "#6B7684", "tick_marks": "none"}, "value": {"kind": "value", "position": "left", "visible": true, "minimum": 0, "maximum": 4, "major_unit": 1, "number_format": "0", "major_gridlines": true, "font_size": 11, "font_family": "Arial", "color": "#6B7684", "tick_marks": "none"}}, "style": {"colors": ["#1B2430"], "font_family": "Arial", "font_size": 11, "text_color": "#6B7684", "axis_color": "#C9D0D8", "grid_color": "#E6EAEF", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "x": 736, "y": 194, "width": 488, "height": 300, "name": "controlled-bars"}</metadata>
+  <g id="controlled-bars-chartArea">
+    <line id="controlled-bars-axis" x1="776" y1="434" x2="1208" y2="434" stroke="#C9D0D8" stroke-width="0.75"/>
+    <line id="controlled-bars-grid-1" x1="776" y1="384.0" x2="1208" y2="384.0" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="controlled-bars-grid-2" x1="776" y1="334.0" x2="1208" y2="334.0" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="controlled-bars-grid-3" x1="776" y1="284.0" x2="1208" y2="284.0" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="controlled-bars-grid-4" x1="776" y1="234.0" x2="1208" y2="234.0" stroke="#E6EAEF" stroke-width="0.75"/>
+    <!-- chart-plot-area: object=controlled-bars | 776,234,1208,434 -->
+    <rect x="801.0" y="288.0" width="58" height="146.0" fill="#94A3B8"/>
+    <rect x="909.0" y="270.5" width="58" height="163.5" fill="#0E9F8A"/>
+    <rect x="1017.0" y="256.0" width="58" height="178.0" fill="#1D4ED8"/>
+    <rect x="1125.0" y="282.5" width="58" height="151.5" fill="#1B2430"/>
+  </g>
+  <text x="830.0" y="280.0" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="middle">2.92</text>
+  <text x="830.0" y="450" font-size="10" fill="#6B7684" text-anchor="middle">1-shot claude-opus-4.8</text>
+  <text x="938.0" y="262.5" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="middle">3.27</text>
+  <text x="938.0" y="450" font-size="10" fill="#6B7684" text-anchor="middle">Reel · Codex</text>
+  <text x="1046.0" y="248.0" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="middle">3.56</text>
+  <text x="1046.0" y="450" font-size="10" fill="#6B7684" text-anchor="middle">Reel · Claude Code</text>
+  <text x="1154.0" y="274.5" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="middle">3.03</text>
+  <text x="1154.0" y="450" font-size="10" fill="#6B7684" text-anchor="middle">Author ground truth</text>
+  <text x="768" y="438.0" font-size="11" fill="#6B7684" text-anchor="end">0</text>
+  <text x="768" y="388.0" font-size="11" fill="#6B7684" text-anchor="end">1</text>
+  <text x="768" y="338.0" font-size="11" fill="#6B7684" text-anchor="end">2</text>
+  <text x="768" y="288.0" font-size="11" fill="#6B7684" text-anchor="end">3</text>
+  <text x="768" y="238.0" font-size="11" fill="#6B7684" text-anchor="end">4</text>
+  <text x="776" y="220" font-size="11" font-weight="bold" fill="#1B2430">Aesthetic overall</text>
+  <text x="884.0" y="226.0" font-size="11" fill="#1D4ED8">+0.64 vs the same model single-shot</text>
+</g>
+<g id="reading" data-pptx-bounds="56 502 640 138">
+  <circle cx="60" cy="512.5" r="3" fill="#1D4ED8"/>
+  <text x="72" y="516" font-size="11" fill="#2F3A48">P2P leads both Quiz splits: its portrait canvas is packed with near-verbatim prose, at some of the lowest aesthetic<tspan x="72" dy="14">scores. The Paper2Poster tool is close behind because its content is assembled from the benchmark's own Q&amp;A</tspan><tspan x="72" dy="14">extraction. Author posters prune to headline results and place last on both Quiz splits.</tspan></text>
+  <circle cx="60" cy="558.5" r="3" fill="#1D4ED8"/>
+  <text x="72" y="562" font-size="11" fill="#2F3A48">The single-shot baselines are strong on content and intermediate on aesthetics; Reel sits deliberately between the<tspan x="72" dy="14">poles.</tspan></text>
+</g>
+<g id="caution" data-pptx-bounds="736 502 488 138">
+  <rect x="736" y="502" width="488" height="138" fill="#F3F5F8"/><rect x="736" y="502" width="4" height="138" fill="#E0A100"/>
+  <text x="752" y="520" font-size="12" font-weight="bold" fill="#1B2430">The authors' caution, kept</text>
+  <text x="752" y="540" font-size="11" fill="#2F3A48">Aesthetic appeal is subjective and audience-dependent; the sub-criteria are scored by<tspan x="752" dy="14">VLM judges that stand in for, but do not equal, human preference — a higher score</tspan><tspan x="752" dy="14">means the raters prefer the poster, not that humans would. Comparison (i) also</tspan><tspan x="752" dy="14">changes prompting, call count, and budget, so it does not isolate the loop; Codex at</tspan><tspan x="752" dy="14">3.27 (per judge 3.29 / 3.25) is second-highest in Table 1.</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">12</text>
+</g>
+</svg>

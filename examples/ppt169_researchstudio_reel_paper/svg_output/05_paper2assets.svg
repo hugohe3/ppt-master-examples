@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">SKILL 1 OF 5 · §2.1 PAPER2ASSETS</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Paper2Assets reads the PDF once and emits one bundle every generator<tspan x="56" dy="34">consumes verbatim; figure cleanup runs once</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">The bundle is the only interface; stable ids, figure handles, and claim anchors keep the artifacts aligned (G1)</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="step-1" data-pptx-bounds="56 192 190 126">
+  <g id="step-1-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="56 196 190 56" data-pptx-av-adj="val 22000" fill="#1D4ED8" stroke="none">
+<path d="M 56 196 L 233.68 196 L 246 224 L 233.68 252 L 56 252 L 68.32 224 Z"/>
+</g>
+  <text x="72" y="229" font-size="12" font-weight="bold" fill="#FFFFFF">Text, captions, figures</text>
+  <text x="62" y="274" font-size="12" fill="#2F3A48">pull text and captions; crop<tspan x="62" dy="16">each figure with a</tspan><tspan x="62" dy="16">column-aware margin</tspan></text>
+</g>
+<g id="step-2" data-pptx-bounds="250 192 190 126">
+  <g id="step-2-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="250 196 190 56" data-pptx-av-adj="val 22000" fill="#1B2430" stroke="none">
+<path d="M 250 196 L 427.68 196 L 440 224 L 427.68 252 L 250 252 L 262.32 224 Z"/>
+</g>
+  <text x="266" y="229" font-size="12" font-weight="bold" fill="#FFFFFF">Metadata</text>
+  <text x="256" y="274" font-size="12" fill="#2F3A48">title, authors, institutes, venue,<tspan x="256" dy="16">paper and code links from</tspan><tspan x="256" dy="16">page 1 / arXiv page</tspan></text>
+</g>
+<g id="step-3" data-pptx-bounds="444 192 190 142">
+  <g id="step-3-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="444 196 190 56" data-pptx-av-adj="val 22000" fill="#1B2430" stroke="none">
+<path d="M 444 196 L 621.68 196 L 634 224 L 621.68 252 L 444 252 L 456.32 224 Z"/>
+</g>
+  <text x="460" y="229" font-size="12" font-weight="bold" fill="#FFFFFF">Nine-section summary</text>
+  <text x="450" y="274" font-size="12" fill="#2F3A48">Problem … Takeaway; each<tspan x="450" dy="16">with an essential entry, a</tspan><tspan x="450" dy="16">reserve entry, and a spoken</tspan><tspan x="450" dy="16">script</tspan></text>
+</g>
+<g id="step-4" data-pptx-bounds="638 192 190 142">
+  <g id="step-4-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="638 196 190 56" data-pptx-av-adj="val 22000" fill="#1B2430" stroke="none">
+<path d="M 638 196 L 815.68 196 L 828 224 L 815.68 252 L 638 252 L 650.32 224 Z"/>
+</g>
+  <text x="654" y="229" font-size="12" font-weight="bold" fill="#FFFFFF">Logos and QR</text>
+  <text x="644" y="274" font-size="12" fill="#2F3A48">institution marks from<tspan x="644" dy="16">Wikimedia infoboxes, venue</tspan><tspan x="644" dy="16">from Wikidata; slot hidden</tspan><tspan x="644" dy="16">when unresolved</tspan></text>
+</g>
+<g id="step-5" data-pptx-bounds="832 192 190 110">
+  <g id="step-5-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="832 196 190 56" data-pptx-av-adj="val 22000" fill="#1B2430" stroke="none">
+<path d="M 832 196 L 1009.68 196 L 1022 224 L 1009.68 252 L 832 252 L 844.32 224 Z"/>
+</g>
+  <text x="848" y="229" font-size="12" font-weight="bold" fill="#FFFFFF">Canonical records</text>
+  <text x="838" y="274" font-size="12" fill="#2F3A48">emit the record files the<tspan x="838" dy="16">downstream skills read</tspan></text>
+</g>
+<g id="step-6" data-pptx-bounds="1026 192 190 126">
+  <g id="step-6-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="1026 196 190 56" data-pptx-av-adj="val 22000" fill="#1B2430" stroke="none">
+<path d="M 1026 196 L 1203.68 196 L 1216 224 L 1203.68 252 L 1026 252 L 1038.32 224 Z"/>
+</g>
+  <text x="1042" y="229" font-size="12" font-weight="bold" fill="#FFFFFF">Second pass</text>
+  <text x="1032" y="274" font-size="12" fill="#2F3A48">inventory manifest with PDF<tspan x="1032" dy="16">checksum, per-section ids,</tspan><tspan x="1032" dy="16">narration list in reading order</tspan></text>
+</g>
+<g id="cleanup-head" data-pptx-bounds="56 338 1168 22">
+  <text x="56" y="354" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">FIGURE-CLEANUP CHAIN — THE LOAD-BEARING STAGE, RUN ONCE PER FIGURE</text>
+</g>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6B7684"/></marker></defs>
+<g id="cleanup-1" data-pptx-bounds="56 376 264 70">
+  <rect x="56" y="376" width="264" height="70" fill="#F3F5F8"/>
+  <text x="68" y="400" font-size="14" font-weight="bold" fill="#1B2430">Deterministic prefix</text>
+  <text x="68" y="420" font-size="12" fill="#2F3A48">strips chrome residue, baked-in caption<tspan x="68" dy="16">strips, uniform margins</tspan></text>
+</g>
+<line id="cleanup-link-1" data-pptx-role="decoration" x1="322" y1="411" x2="352" y2="411" stroke="#6B7684" stroke-width="1.5" marker-end="url(#arrow)"/>
+<g id="cleanup-2" data-pptx-bounds="356 376 264 70">
+  <rect x="356" y="376" width="264" height="70" fill="#F3F5F8"/>
+  <text x="368" y="400" font-size="14" font-weight="bold" fill="#1B2430">Visual-AI crop</text>
+  <text x="368" y="420" font-size="12" fill="#2F3A48">judges a tight bounding box for the hard<tspan x="368" dy="16">cases</tspan></text>
+</g>
+<line id="cleanup-link-2" data-pptx-role="decoration" x1="622" y1="411" x2="652" y2="411" stroke="#6B7684" stroke-width="1.5" marker-end="url(#arrow)"/>
+<g id="cleanup-3" data-pptx-bounds="656 376 264 70">
+  <rect x="656" y="376" width="264" height="70" fill="#F3F5F8"/>
+  <text x="668" y="400" font-size="14" font-weight="bold" fill="#1B2430">Fresh-context verifier</text>
+  <text x="668" y="420" font-size="12" fill="#2F3A48">a sub-agent re-reads the original against<tspan x="668" dy="16">the proposed crop</tspan></text>
+</g>
+<line id="cleanup-link-3" data-pptx-role="decoration" x1="922" y1="411" x2="952" y2="411" stroke="#6B7684" stroke-width="1.5" marker-end="url(#arrow)"/>
+<g id="cleanup-4" data-pptx-bounds="956 376 264 70">
+  <rect x="956" y="376" width="264" height="70" fill="#F3F5F8"/>
+  <text x="968" y="400" font-size="14" font-weight="bold" fill="#1B2430">Commit only on a clean pass</text>
+  <text x="968" y="420" font-size="12" fill="#2F3A48">splits a raster that packs two figures; raw<tspan x="968" dy="16">extract backed up once</tspan></text>
+</g>
+<g id="bundle-contents" data-pptx-bounds="56 472 700 168">
+  <text x="56" y="486" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">WHAT THE BUNDLE HOLDS</text>
+  <line x1="56" y1="494" x2="756" y2="494" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="60" cy="512.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="516" font-size="12" fill="#2F3A48">Full body text with page breaks; detected figure captions; a per-figure manifest; cleaned figure images</text>
+  <circle cx="60" cy="536.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="540" font-size="12" fill="#2F3A48">Metadata: title, authors, institutes, venue, paper and code links; best-effort institution and venue logos; QR codes</text>
+  <circle cx="60" cy="560.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="564" font-size="12" fill="#2F3A48">The nine-section summary — Problem, Motivation, Contribution, Method, Dataset/Benchmark, Key Result, Ablation,<tspan x="72" dy="16">Headline Numbers, Takeaway — plus the inventory manifest, per-section records with stable ids, and the narration clip</tspan><tspan x="72" dy="16">list</tspan></text>
+</g>
+<g id="single-owner" data-pptx-bounds="788 472 436 168">
+  <rect x="788" y="472" width="436" height="168" fill="#F3F5F8"/><rect x="788" y="472" width="4" height="168" fill="#1D4ED8"/>
+  <text x="806" y="496" font-size="14" font-weight="bold" fill="#1B2430">Single-owner extraction</text>
+  <text x="806" y="520" font-size="12" fill="#2F3A48">Downstream skills read the bundle and never re-open the PDF. A<tspan x="806" dy="16">stable figure-naming invariant means the figure the poster's method</tspan><tspan x="806" dy="16">card embeds is the one the video's slide cites and the blog's evidence</tspan><tspan x="806" dy="16">map references, without any cross-skill coordination. Each step is an</tspan><tspan x="806" dy="16">idempotent script, so a failed stage re-runs in isolation.</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">5</text>
+</g>
+</svg>

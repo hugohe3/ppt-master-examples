@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">SKILL 4 OF 5 · §2.4 PAPER2BLOG</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Paper2Blog writes the Chinese and English articles separately from one<tspan x="56" dy="34">evidence map, then gates the Word files on layout</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Figure 7: assets → evidence map → multilingual drafts → editorial QA loop → the Chinese and English DOCX (§2.4)</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="blog-pipeline-figure" data-pptx-bounds="56 192 700 146">
+  <rect x="56" y="194" width="700" height="144" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/fig7_blog_pipeline.png" x="62" y="200" width="688" height="132" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="56" y="194" width="50" height="16" fill="#1B2430"/><text x="60" y="206" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 7</text>
+</g>
+<g id="blog-deliverables" data-pptx-bounds="780 192 444 150">
+  <text x="780" y="206" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">ROOT DELIVERABLES</text>
+  <line x1="780" y1="214" x2="1224" y2="214" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="784" cy="226.2" r="3" fill="#1D4ED8"/>
+  <text x="796" y="230" font-size="12" fill="#2F3A48">The Chinese article, cast as a WeChat public-account piece</text>
+  <circle cx="784" cy="247.2" r="3" fill="#1D4ED8"/>
+  <text x="796" y="251" font-size="12" fill="#2F3A48">The English article, cast as a research-blog piece</text>
+  <circle cx="784" cy="268.2" r="3" fill="#1D4ED8"/>
+  <text x="796" y="272" font-size="12" fill="#2F3A48">Same facts, figures, numbers, claims, and source links; different openings,<tspan x="796" dy="16">pacing, and examples; outlines, previews, and QA reports stay in the</tspan><tspan x="796" dy="16">intermediates directory</tspan></text>
+</g>
+<g id="blog-gate" data-pptx-bounds="56 596 1168 38">
+  <text x="56" y="610" font-size="11" fill="#6B7684">Package gate: both DOCX exist and are readable, contain enough article text, embed images rather than link them, carry no placeholder text, declare a Latin body font and a Chinese fallback; embedded image count,<tspan x="56" dy="14">identity, and order are compared across the two languages, extracted numeric claims and technical-looking terms are cross-checked — concrete divergences, not writing style.</tspan></text>
+</g>
+<g id="blog-requirements" data-pptx-replace-with="table" data-pptx-bounds="56 356 1168 228" data-pptx-fallback-sha256="61f581e5a9eb31ecb0c92702568490e6f75755010c7519b8528b16cc8d1b7ecb">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "blog-requirements", "x": 56, "y": 356, "width": 1168, "height": 228, "header_rows": 1, "column_widths": [40, 380, 748], "row_heights": [28, 40, 40, 40, 40, 40], "style": {"font_family": "Arial", "font_size": 11, "header_font_size": 12, "band_row": false, "header_fill": "#F3F5F8", "header_text": "#1B2430", "body_text": "#2F3A48", "border_color": "#E6EAEF", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 2, "bottom": 2}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E6EAEF", "width": 0.75}, "bottom": {"style": "solid", "color": "#E6EAEF", "width": 0.75}}}}, "columns": [{"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "ID"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Requirement"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Solution the paper gives"}], "rows": [[{"color": "#1D4ED8", "bold": true, "text": "C1"}, {"paragraphs": [{"align": "l", "text": "One evidence base for two languages — the articles may differ in"}, {"align": "l", "text": "pacing but cannot drift on results, method names, figures, or links"}]}, {"paragraphs": [{"align": "l", "text": "One evidence map from the bundle: hook, problem, method components, claims, quantitative results, limitations, links, figure roles; a"}, {"align": "l", "text": "missing hard fact (code link, DOI, venue, affiliation) is omitted, never guessed"}]}], [{"color": "#1D4ED8", "bold": true, "text": "C2"}, {"paragraphs": [{"align": "l", "text": "Register must be controlled during writing — a deterministic script"}, {"align": "l", "text": "cannot check it afterwards"}]}, {"paragraphs": [{"align": "l", "text": "The two articles are written separately from language-specific outlines and a style guide (restrained public-account register vs neutral"}, {"align": "l", "text": "research blog), not translated sentence by sentence"}]}], [{"color": "#1D4ED8", "bold": true, "text": "C3"}, {"paragraphs": [{"align": "l", "text": "Figures need article-level selection and placement"}]}, {"paragraphs": [{"align": "l", "text": "A small shared figure set, the same in both languages, each placed next to the section that prepares the reader, with captions per language;"}, {"align": "l", "text": "readability after DOCX resizing is checked"}]}], [{"color": "#1D4ED8", "bold": true, "text": "C4"}, {"paragraphs": [{"align": "l", "text": "The deliverable is a Word article, not plain text"}]}, {"paragraphs": [{"align": "l", "text": "Fixed filenames, embedded media, captions in the matching language, source links, editor-friendly fonts (Latin body font plus a Chinese"}, {"align": "l", "text": "fallback)"}]}], [{"color": "#1D4ED8", "bold": true, "text": "C5"}, {"paragraphs": [{"align": "l", "text": "Word layout has to be editor-ready — blank pages, thumbnails,"}, {"align": "l", "text": "orphan tails"}]}, {"paragraphs": [{"align": "l", "text": "Underfilled images, images pushed to the next page, and orphan tails are read from the document structure; strict mode renders page"}, {"align": "l", "text": "images to catch near-blank pages and bottom whitespace"}]}]]}</metadata>
+  <rect x="56" y="356" width="1168" height="28" fill="#F3F5F8"/>
+  <line x1="56" y1="384" x2="1224" y2="384" stroke="#1B2430" stroke-width="1"/>
+  <text x="64" y="374.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">ID</text>
+  <text x="104" y="374.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Requirement</text>
+  <text x="484" y="374.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Solution the paper gives</text>
+  <line x1="56" y1="424" x2="1224" y2="424" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="407.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">C1</text>
+  <text x="104" y="400.9" font-size="11" fill="#2F3A48" text-anchor="start">One evidence base for two languages — the articles may differ in<tspan x="104" dy="14">pacing but cannot drift on results, method names, figures, or links</tspan></text>
+  <text x="484" y="400.9" font-size="11" fill="#2F3A48" text-anchor="start">One evidence map from the bundle: hook, problem, method components, claims, quantitative results, limitations, links, figure roles; a<tspan x="484" dy="14">missing hard fact (code link, DOI, venue, affiliation) is omitted, never guessed</tspan></text>
+  <line x1="56" y1="464" x2="1224" y2="464" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="447.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">C2</text>
+  <text x="104" y="440.9" font-size="11" fill="#2F3A48" text-anchor="start">Register must be controlled during writing — a deterministic script<tspan x="104" dy="14">cannot check it afterwards</tspan></text>
+  <text x="484" y="440.9" font-size="11" fill="#2F3A48" text-anchor="start">The two articles are written separately from language-specific outlines and a style guide (restrained public-account register vs neutral<tspan x="484" dy="14">research blog), not translated sentence by sentence</tspan></text>
+  <line x1="56" y1="504" x2="1224" y2="504" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="487.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">C3</text>
+  <text x="104" y="487.9" font-size="11" fill="#2F3A48" text-anchor="start">Figures need article-level selection and placement</text>
+  <text x="484" y="480.9" font-size="11" fill="#2F3A48" text-anchor="start">A small shared figure set, the same in both languages, each placed next to the section that prepares the reader, with captions per language;<tspan x="484" dy="14">readability after DOCX resizing is checked</tspan></text>
+  <line x1="56" y1="544" x2="1224" y2="544" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="527.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">C4</text>
+  <text x="104" y="527.9" font-size="11" fill="#2F3A48" text-anchor="start">The deliverable is a Word article, not plain text</text>
+  <text x="484" y="520.9" font-size="11" fill="#2F3A48" text-anchor="start">Fixed filenames, embedded media, captions in the matching language, source links, editor-friendly fonts (Latin body font plus a Chinese<tspan x="484" dy="14">fallback)</tspan></text>
+  <line x1="56" y1="584" x2="1224" y2="584" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="567.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">C5</text>
+  <text x="104" y="560.9" font-size="11" fill="#2F3A48" text-anchor="start">Word layout has to be editor-ready — blank pages, thumbnails,<tspan x="104" dy="14">orphan tails</tspan></text>
+  <text x="484" y="560.9" font-size="11" fill="#2F3A48" text-anchor="start">Underfilled images, images pushed to the next page, and orphan tails are read from the document structure; strict mode renders page<tspan x="484" dy="14">images to catch near-blank pages and bottom whitespace</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">9</text>
+</g>
+</svg>

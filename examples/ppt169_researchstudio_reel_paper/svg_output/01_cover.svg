@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="cover">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="cover-kicker" data-pptx-role="chrome" data-pptx-bounds="56 80 1168 24">
+  <text x="56" y="98" font-size="12" fill="#6B7684" letter-spacing="2">PAPER READING · arXiv:2607.04438 · v2, 19 JULY 2026</text>
+</g>
+<g id="cover-title" data-pptx-bounds="56 122 1168 180">
+  <text x="56" y="164" font-size="44" font-weight="bold" fill="#1B2430">ResearchStudio-Reel:<tspan x="56" dy="52">Automate the Last Mile of Research</tspan><tspan x="56" dy="52">from Paper to Poster, Video, and Blog</tspan></text>
+  <rect x="56" y="292" width="160" height="4" fill="#1D4ED8"/>
+</g>
+<g id="cover-authors" data-pptx-bounds="56 306 1168 76">
+  <text x="56" y="322" font-size="14" fill="#2F3A48">Hugo He, Lingao Xiao, Yalun Dai, Yangyu Huang, Qihao Zhao, Wenshan Wu, Ruishuo Chen, Jin Jiang, Qianli Ma, Jiahuan Zhang, Xin Zhang, Ying Xin,<tspan x="56" dy="18">Yang Ou, Yan Xia, Scarlett Li, Longbo Huang, Zhipeng Zhang, Yang He, Yap Kim Hui, Yan Lu</tspan></text>
+  <text x="56" y="360" font-size="12" fill="#6B7684">Microsoft Research · National University of Singapore · Nanyang Technological University · Tsinghua University · Peking University<tspan x="56" dy="16">Shanghai Jiao Tong University · Westlake University · CFAR, A*STAR</tspan></text>
+</g>
+<g id="cover-hook" data-pptx-bounds="56 386 1168 28">
+  <text x="56" y="404" font-size="18" fill="#1B2430">One paper PDF in, <tspan font-weight="bold" fill="#1D4ED8">three editor-ready artifacts</tspan> out, and one navigable surface that binds them.</text>
+</g>
+<g id="cover-labels" data-pptx-bounds="56 422 1168 20">
+  <text x="56" y="436" font-size="12" fill="#6B7684">(a) Poster — Paper2Poster</text>
+  <text x="440" y="436" font-size="12" fill="#6B7684">(b) Talk video — Paper2Video</text>
+  <text x="848" y="436" font-size="12" fill="#6B7684">(c) Bilingual blog — Paper2Blog</text>
+</g>
+<g id="cover-poster" data-pptx-bounds="56 444 360 208">
+  <rect x="56" y="446" width="360" height="206" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/poster_beit.jpg" x="62" y="452" width="348" height="194" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="56" y="446" width="57" height="16" fill="#1B2430"/><text x="60" y="458" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 1a</text>
+</g>
+<g id="cover-video" data-pptx-bounds="440 444 384 208">
+  <rect x="440" y="446" width="384" height="206" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/video_frame_citransnet.jpg" x="446" y="452" width="372" height="194" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="440" y="446" width="57" height="16" fill="#1B2430"/><text x="444" y="458" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 1b</text>
+</g>
+<g id="cover-blog" data-pptx-bounds="848 444 376 208">
+  <rect x="848" y="446" width="376" height="206" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/blog_docx_en.jpg" x="854" y="452" width="364" height="194" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="848" y="446" width="57" height="16" fill="#1B2430"/><text x="852" y="458" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 1c</text>
+</g>
+<g id="cover-footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Figure 1 of the paper: three editor-ready artifacts from one paper. Project: <a href="https://aka.ms/ResearchStudio"><tspan fill="#1D4ED8" text-decoration="underline">https://aka.ms/ResearchStudio</tspan></a></text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">1</text>
+</g>
+</svg>

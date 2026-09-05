@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">SKILL 5 OF 5 · §2.5 PAPER2REEL</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Paper2Reel is a presentation surface, not a fourth summary: one alignment<tspan x="56" dy="34">sidecar makes four artifacts views of one section</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Figure 9: hover highlights a section; double-click opens video, captions, thumbnails, and the aligned blog passage</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="reel-figure" data-pptx-bounds="56 192 776 242">
+  <rect x="56" y="194" width="776" height="240" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/fig9_reel_interaction.jpg" x="62" y="200" width="764" height="228" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="56" y="194" width="50" height="16" fill="#1B2430"/><text x="60" y="206" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 9</text>
+</g>
+<g id="reel-interaction" data-pptx-bounds="856 192 368 164">
+  <text x="856" y="206" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">INTERACTION DESIGN</text>
+  <line x1="856" y1="214" x2="1224" y2="214" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="860" cy="224.5" r="3" fill="#1D4ED8"/>
+  <text x="872" y="228" font-size="11" fill="#2F3A48">Poster-first: the first screen is the generated poster, not a<tspan x="872" dy="14">dashboard</tspan></text>
+  <circle cx="860" cy="256.5" r="3" fill="#1D4ED8"/>
+  <text x="872" y="260" font-size="11" fill="#2F3A48">Hover feedback; double-click opens the section modal — video left,<tspan x="872" dy="14">blog right, draggable splitter</tspan></text>
+  <circle cx="860" cy="288.5" r="3" fill="#1D4ED8"/>
+  <text x="872" y="292" font-size="11" fill="#2F3A48">Playback uses the subtitle-free source; captions come from<tspan x="872" dy="14">sidecars behind the viewer's toggle</tspan></text>
+  <circle cx="860" cy="320.5" r="3" fill="#1D4ED8"/>
+  <text x="872" y="324" font-size="11" fill="#2F3A48">Slide thumbnails seek to their time; the title area opens a full-paper<tspan x="872" dy="14">modal; EN / 中文 switch in the header</tspan></text>
+</g>
+<g id="reel-alignment" data-pptx-bounds="56 454 560 186">
+  <text x="56" y="468" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">CONTENT ALIGNMENT</text>
+  <line x1="56" y1="476" x2="616" y2="476" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="60" cy="486.5" r="3" fill="#1D4ED8"/>
+  <text x="72" y="490" font-size="11" fill="#2F3A48">The alignment sidecar maps each canonical section id to its poster block, one or more slide targets,<tspan x="72" dy="14">video start and end, subtitle tracks, thumbnails, and blog blocks; the viewer never scrapes filenames,</tspan><tspan x="72" dy="14">the poster, or the video</tspan></text>
+  <circle cx="60" cy="532.5" r="3" fill="#1D4ED8"/>
+  <text x="72" y="536" font-size="11" fill="#2F3A48">On a PDF, an arXiv link, or a partial bundle, missing upstream stages are completed through the full<tspan x="72" dy="14">workflows, preserving section ids and asset paths</tspan></text>
+  <circle cx="60" cy="564.5" r="3" fill="#1D4ED8"/>
+  <text x="72" y="568" font-size="11" fill="#2F3A48">Root: the viewer page, the alignment record, the manifest; poster, media, slides, blog, and downloads in<tspan x="72" dy="14">their own folders; native files stay downloadable</tspan></text>
+</g>
+<g id="reel-gates" data-pptx-bounds="640 454 584 186">
+  <text x="640" y="468" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">VALIDATED AS AN INTERACTIVE ARTIFACT</text>
+  <line x1="640" y1="476" x2="1224" y2="476" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="644" cy="486.5" r="3" fill="#1D4ED8"/>
+  <text x="656" y="490" font-size="11" fill="#2F3A48">Static gate: viewer, alignment record, manifest, copied poster assets, media, slide frames, blog blocks,<tspan x="656" dy="14">wordmark, downloads all present; no stale tabbed-viewer markers, machine-local paths, or backup files; raw</tspan><tspan x="656" dy="14">pre-subtitle video as playback source</tspan></text>
+  <circle cx="644" cy="532.5" r="3" fill="#1D4ED8"/>
+  <text x="656" y="536" font-size="11" fill="#2F3A48">Browser gate: served with a range-capable local server (seeking and thumbnail jumps need partial-content<tspan x="656" dy="14">responses); headless checks of poster-first load, hover, both modals, split pane, subtitle toggle, thumbnail</tspan><tspan x="656" dy="14">and direct seeking, menu, downloads, shortcuts, blog rendering</tspan></text>
+  <circle cx="644" cy="578.5" r="3" fill="#1D4ED8"/>
+  <text x="656" y="582" font-size="11" fill="#2F3A48">A separate file-browser gate confirms the page also opens directly from disk</text>
+</g>
+<g id="reel-root" data-pptx-bounds="856 364 368 82">
+  <rect x="856" y="364" width="368" height="82" fill="#F3F5F8"/>
+  <text x="868" y="384" font-size="12" font-weight="bold" fill="#1B2430">Bundle root, kept to three files</text>
+  <text x="868" y="402" font-size="11" fill="#2F3A48">The interactive viewer page, the alignment record, and the<tspan x="868" dy="14">package manifest; poster, media, slides, blog, and downloads sit</tspan><tspan x="868" dy="14">in their own folders and stay downloadable as native files.</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">10</text>
+</g>
+</svg>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">§3 OPERATIONAL PROFILE · TABLE 4</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text fill="#1B2430" font-size="28" font-weight="bold" x="56" y="84">A full four-artifact bundle takes about 89 minutes of stage time and 2.6M input /</text><text fill="#1B2430" font-size="28" font-weight="bold" x="56" y="118">276K output tokens per paper</text></g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Table 4: per-stage time and tokens, mean over 5 papers on claude-opus-4-8; each skill runs as an isolated subprocess</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1" />
+<g id="minutes-by-skill" data-pptx-replace-with="chart" data-pptx-bounds="56 194 620 236" data-pptx-fallback-sha256="79d4fafa91d29cb7a3d4c1dc6bf7e805b0c4ba259bd832434b8c565c23f58fb2">
+  <metadata type="application/json">{"type": "bar", "grouping": "clustered", "categories": ["Paper2Assets", "Paper2Poster", "Paper2Video", "Paper2Blog", "Paper2Reel"], "series": [{"name": "Time (min)", "values": [8.6, 23.3, 28.5, 16.7, 12.1], "point_colors": ["#1D4ED8", "#1B2430", "#1B2430", "#1B2430", "#1B2430"]}], "plot_area": {"x": 176, "y": 216, "width": 430, "height": 184}, "gap_width": 42, "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.0", "font_size": 12, "font_family": "Arial", "bold": true, "color": "#1B2430"}, "notes": [{"text": "Wall-clock minutes per skill subtotal (sum 89.2)", "x": 176, "y": 197.9, "width": 249, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#6B7684", "align": "l", "bold": false}], "axes": {"category": {"kind": "text", "position": "left", "visible": true, "label_position": "next_to", "font_size": 12, "font_family": "Arial", "color": "#2F3A48", "tick_marks": "none"}, "value": {"kind": "value", "position": "bottom", "visible": false, "label_position": "none", "minimum": 0, "maximum": 32, "major_gridlines": false}}, "style": {"colors": ["#1B2430"], "font_family": "Arial", "font_size": 12, "text_color": "#1B2430", "axis_color": "#C9D0D8", "grid_color": "none", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF"}, "x": 56, "y": 194, "width": 620, "height": 236, "name": "minutes-by-skill"}</metadata>
+  <g id="minutes-by-skill-chartArea">
+    <line id="minutes-by-skill-axis" x1="176" y1="216" x2="176" y2="400" stroke="#C9D0D8" stroke-width="0.75" />
+    
+    <rect x="176" y="221.4" width="115.6" height="26" fill="#1D4ED8" />
+    <rect x="176" y="258.2" width="313.1" height="26" fill="#1B2430" />
+    <rect x="176" y="295.0" width="383.0" height="26" fill="#1B2430" />
+    <rect x="176" y="331.8" width="224.4" height="26" fill="#1B2430" />
+    <rect x="176" y="368.6" width="162.6" height="26" fill="#1B2430" />
+  </g>
+  <text x="299.6" y="238.4" font-size="12" font-weight="bold" fill="#1B2430">8.6</text>
+  <text x="168" y="238.4" font-size="12" fill="#2F3A48" text-anchor="end">Paper2Assets</text>
+  <text x="497.1" y="275.2" font-size="12" font-weight="bold" fill="#1B2430">23.3</text>
+  <text x="168" y="275.2" font-size="12" fill="#2F3A48" text-anchor="end">Paper2Poster</text>
+  <text x="567.0" y="312.0" font-size="12" font-weight="bold" fill="#1B2430">28.5</text>
+  <text x="168" y="312.0" font-size="12" fill="#2F3A48" text-anchor="end">Paper2Video</text>
+  <text x="408.4" y="348.8" font-size="12" font-weight="bold" fill="#1B2430">16.7</text>
+  <text x="168" y="348.8" font-size="12" fill="#2F3A48" text-anchor="end">Paper2Blog</text>
+  <text x="346.6" y="385.6" font-size="12" font-weight="bold" fill="#1B2430">12.1</text>
+  <text x="168" y="385.6" font-size="12" fill="#2F3A48" text-anchor="end">Paper2Reel</text>
+  <text x="176" y="210" font-size="11" fill="#6B7684">Wall-clock minutes per skill subtotal (sum 89.2)</text>
+</g>
+<g id="heaviest-stages" data-pptx-replace-with="table" data-pptx-bounds="716 194 508 200" data-pptx-fallback-sha256="93ce50c488e8b1b8f359970eaefa0c880e76f40cb2728c6cc03a6fdce65d12d3">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "heaviest-stages", "x": 716, "y": 194, "width": 508, "height": 200, "header_rows": 1, "column_widths": [124, 170, 70, 144], "row_heights": [30, 34, 34, 34, 34, 34], "style": {"font_family": "Arial", "font_size": 12, "header_font_size": 11, "band_row": false, "header_fill": "#F3F5F8", "header_text": "#1B2430", "body_text": "#2F3A48", "border_color": "#E6EAEF", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 2, "bottom": 2}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E6EAEF", "width": 0.75}, "bottom": {"style": "solid", "color": "#E6EAEF", "width": 0.75}}}}, "columns": [{"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Skill"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Heaviest stage"}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Minutes"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Token share"}], "rows": [[{"text": "Paper2Assets"}, {"bold": true, "text": "extract &amp; figures"}, {"align": "r", "text": "8.6"}, {"text": "18% of input"}], [{"text": "Paper2Poster"}, {"bold": true, "text": "fill loop"}, {"align": "r", "text": "14.8"}, {"text": "18% of output"}], [{"text": "Paper2Video"}, {"bold": true, "text": "render &amp; mux"}, {"align": "r", "text": "9.2"}, {"text": "6% of output"}], [{"text": "Paper2Blog"}, {"bold": true, "text": "QA gate &amp; revision"}, {"align": "r", "text": "10.0"}, {"text": "17% of output"}], [{"text": "Paper2Reel"}, {"bold": true, "text": "QA gate"}, {"align": "r", "text": "6.2"}, {"text": "8% of output"}]]}</metadata>
+  <rect x="716" y="194" width="508" height="30" fill="#F3F5F8" />
+  <line x1="716" y1="224" x2="1224" y2="224" stroke="#1B2430" stroke-width="1" />
+  <text x="724" y="212.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="start">Skill</text>
+  <text x="848" y="212.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="start">Heaviest stage</text>
+  <text x="1072" y="212.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Minutes</text>
+  <text x="1088" y="212.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="start">Token share</text>
+  <line x1="716" y1="258" x2="1224" y2="258" stroke="#E6EAEF" stroke-width="0.75" />
+  <text x="724" y="245.2" font-size="12" fill="#2F3A48" text-anchor="start">Paper2Assets</text>
+  <text x="848" y="245.2" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">extract &amp; figures</text>
+  <text x="1072" y="245.2" font-size="12" fill="#2F3A48" text-anchor="end">8.6</text>
+  <text x="1088" y="245.2" font-size="12" fill="#2F3A48" text-anchor="start">18% of input</text>
+  <line x1="716" y1="292" x2="1224" y2="292" stroke="#E6EAEF" stroke-width="0.75" />
+  <text x="724" y="279.2" font-size="12" fill="#2F3A48" text-anchor="start">Paper2Poster</text>
+  <text x="848" y="279.2" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">fill loop</text>
+  <text x="1072" y="279.2" font-size="12" fill="#2F3A48" text-anchor="end">14.8</text>
+  <text x="1088" y="279.2" font-size="12" fill="#2F3A48" text-anchor="start">18% of output</text>
+  <line x1="716" y1="326" x2="1224" y2="326" stroke="#E6EAEF" stroke-width="0.75" />
+  <text x="724" y="313.2" font-size="12" fill="#2F3A48" text-anchor="start">Paper2Video</text>
+  <text x="848" y="313.2" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">render &amp; mux</text>
+  <text x="1072" y="313.2" font-size="12" fill="#2F3A48" text-anchor="end">9.2</text>
+  <text x="1088" y="313.2" font-size="12" fill="#2F3A48" text-anchor="start">6% of output</text>
+  <line x1="716" y1="360" x2="1224" y2="360" stroke="#E6EAEF" stroke-width="0.75" />
+  <text x="724" y="347.2" font-size="12" fill="#2F3A48" text-anchor="start">Paper2Blog</text>
+  <text x="848" y="347.2" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">QA gate &amp; revision</text>
+  <text x="1072" y="347.2" font-size="12" fill="#2F3A48" text-anchor="end">10.0</text>
+  <text x="1088" y="347.2" font-size="12" fill="#2F3A48" text-anchor="start">17% of output</text>
+  <line x1="716" y1="394" x2="1224" y2="394" stroke="#E6EAEF" stroke-width="0.75" />
+  <text x="724" y="381.2" font-size="12" fill="#2F3A48" text-anchor="start">Paper2Reel</text>
+  <text x="848" y="381.2" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">QA gate</text>
+  <text x="1072" y="381.2" font-size="12" fill="#2F3A48" text-anchor="end">6.2</text>
+  <text x="1088" y="381.2" font-size="12" fill="#2F3A48" text-anchor="start">8% of output</text>
+</g>
+<g id="table4-reading" data-pptx-bounds="716 406 508 48">
+  <text fill="#6B7684" font-size="11" x="716" y="422">Input = distinct content tokens (fresh plus cache writes); Cache = cached-context re-reads, billed</text><text fill="#6B7684" font-size="11" x="716" y="436">at about 10% of fresh input; Output = prorated generated tokens. Bars in the paper give each</text><text fill="#6B7684" font-size="11" x="716" y="450">stage's share of the pipeline total.</text></g>
+<g id="pipeline-totals" data-pptx-bounds="56 454 1168 80">
+  <text x="56" y="468" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">FULL PIPELINE PER PAPER</text>
+  <line x1="56" y1="476" x2="1224" y2="476" stroke="#1B2430" stroke-width="1" />
+  <text x="56.0" y="510" font-size="26" font-weight="bold" fill="#1D4ED8">89.2</text><text x="56.0" y="528" font-size="11" fill="#6B7684">min summed stage time</text>
+  <text x="289.6" y="510" font-size="26" font-weight="bold" fill="#1B2430">675</text><text x="289.6" y="528" font-size="11" fill="#6B7684">turns</text>
+  <text x="523.2" y="510" font-size="26" font-weight="bold" fill="#1B2430">2,568K</text><text x="523.2" y="528" font-size="11" fill="#6B7684">input tokens</text>
+  <text x="756.8" y="510" font-size="26" font-weight="bold" fill="#1B2430">108,546K</text><text x="756.8" y="528" font-size="11" fill="#6B7684">cached re-reads (~10% of fresh)</text>
+  <text x="990.4" y="510" font-size="26" font-weight="bold" fill="#1B2430">276K</text><text x="990.4" y="528" font-size="11" fill="#6B7684">output tokens</text>
+</g>
+<g id="profile-notes" data-pptx-bounds="56 540 1168 100">
+  <circle cx="60" cy="550.5" r="3" fill="#1D4ED8" />
+  <text fill="#2F3A48" font-size="11" x="72" y="554">Paper2Poster and Paper2Video carry the largest generator subtotals: the measured-fill loop is Paper2Poster's longest stage; Paper2Video spends most of its time across deck construction, rendering and muxing, and QA.</text><text fill="#2F3A48" font-size="11" x="72" y="568">Paper2Blog is driven by its bilingual revision gate; Paper2Reel has the smallest subtotal.</text><circle cx="60" cy="582.5" r="3" fill="#1D4ED8" />
+  <text fill="#2F3A48" font-size="11" x="72" y="586">Running the three generators in parallel reduces elapsed wall-clock time; each skill's one-time context load (reading the paper and its figures) is folded into its first stage. When the LaTeX source is available the pipeline</text><text fill="#2F3A48" font-size="11" x="72" y="600">can read original figure files and captions instead of the PDF path.</text></g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">14</text>
+</g>
+</svg>

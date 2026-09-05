@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">SKILL 3 OF 5 · §2.3 PAPER2VIDEO</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Paper2Video plans duration before rendering, anchors narration to visible<tspan x="56" dy="34">objects, and gates an editable deck plus two MP4s</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Figure 5: assets → pace narration → deck via the full ppt-master workflow → anchored visual cues → render → fit gate</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="video-pipeline-figure" data-pptx-bounds="56 192 600 202">
+  <rect x="56" y="194" width="600" height="200" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/fig5_video_pipeline.png" x="62" y="200" width="588" height="188" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="56" y="194" width="50" height="16" fill="#1B2430"/><text x="60" y="206" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 5</text>
+</g>
+<g id="video-deliverables" data-pptx-bounds="680 192 544 204">
+  <text x="680" y="206" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">ROOT DELIVERABLES AND THE PACKAGE GATE</text>
+  <line x1="680" y1="214" x2="1224" y2="214" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="684" cy="226.2" r="3" fill="#1D4ED8"/>
+  <text x="696" y="230" font-size="12" fill="#2F3A48">video.pptx — the editable deck, produced by the full ppt-master route [22]; not a disposable<tspan x="696" dy="16">intermediate</tspan></text>
+  <circle cx="684" cy="263.2" r="3" fill="#1D4ED8"/>
+  <text x="696" y="267" font-size="12" fill="#2F3A48">video.mp4 with burned-in subtitles and video_no_subtitles.mp4 for the reel's own caption<tspan x="696" dy="16">toggle; same frames, audio, highlight timing</tspan></text>
+  <circle cx="684" cy="300.2" r="3" fill="#1D4ED8"/>
+  <text x="696" y="304" font-size="12" fill="#2F3A48">assets/ keeps narration audio, subtitle sidecars, frames, duration reports, cue plans,<tspan x="696" dy="16">timeline.json, QA reports</tspan></text>
+  <circle cx="684" cy="337.2" r="3" fill="#1D4ED8"/>
+  <text x="696" y="341" font-size="12" fill="#2F3A48">check_video_package.py is the release contract: files exist and play, audio stream present,<tspan x="696" dy="16">duration in tolerance, non-empty sidecar, cues timed inside their audio segment, no</tspan><tspan x="696" dy="16">word-sized highlight boxes, blank frames and text overflow caught, unsafe rate changes</tspan><tspan x="696" dy="16">rejected</tspan></text>
+</g>
+<g id="video-requirements" data-pptx-replace-with="table" data-pptx-bounds="56 410 1168 228" data-pptx-fallback-sha256="12d8a4400f35add29d45f8d88f3f1a577e25f187f918cbfb709e9f0268ed924f">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "video-requirements", "x": 56, "y": 410, "width": 1168, "height": 228, "header_rows": 1, "column_widths": [40, 380, 748], "row_heights": [28, 40, 40, 40, 40, 40], "style": {"font_family": "Arial", "font_size": 11, "header_font_size": 12, "band_row": false, "header_fill": "#F3F5F8", "header_text": "#1B2430", "body_text": "#2F3A48", "border_color": "#E6EAEF", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 2, "bottom": 2}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E6EAEF", "width": 0.75}, "bottom": {"style": "solid", "color": "#E6EAEF", "width": 0.75}}}}, "columns": [{"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "ID"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Requirement"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Solution the paper gives"}], "rows": [[{"color": "#1D4ED8", "bold": true, "text": "B1"}, {"paragraphs": [{"align": "l", "text": "Duration must be planned before rendering — cutting the MP4,"}, {"align": "l", "text": "clipping audio, or a large speed-up is unsafe"}]}, {"paragraphs": [{"align": "l", "text": "The planner estimates the script before TTS and asks for semantic rewrites; a post-render duration report; small residuals repaired by a"}, {"align": "l", "text": "bounded speech-rate plan, large ones return to rewriting"}]}], [{"color": "#1D4ED8", "bold": true, "text": "B2"}, {"paragraphs": [{"align": "l", "text": "The viewer needs attention guidance, not only slide playback"}]}, {"paragraphs": [{"align": "l", "text": "The deck workflow attaches semantic anchors to the objects the narration names; a cue resolver combines script, word timings, geometry,"}, {"align": "l", "text": "and anchors into visual_cues.json; normalized geometry survives resolutions; default style spotlight_laser"}]}], [{"color": "#1D4ED8", "bold": true, "text": "B3"}, {"paragraphs": [{"align": "l", "text": "Captions have two delivery contexts — shareable MP4 vs the"}, {"align": "l", "text": "interactive reel"}]}, {"paragraphs": [{"align": "l", "text": "Burned-in subtitles in video.mp4; a clean video_no_subtitles.mp4 so the reel's caption toggle never doubles subtitles"}]}], [{"color": "#1D4ED8", "bold": true, "text": "B4"}, {"paragraphs": [{"align": "l", "text": "The video has to remain addressable after export"}]}, {"paragraphs": [{"align": "l", "text": "timeline.json maps each section or narration chunk to its audio window, subtitle cues, slide frame, and accepted visual cue; Paper2Reel"}, {"align": "l", "text": "reads it directly"}]}], [{"color": "#1D4ED8", "bold": true, "text": "B5"}, {"paragraphs": [{"align": "l", "text": "Media failures need deterministic checks"}]}, {"paragraphs": [{"align": "l", "text": "One mandatory package gate catches missing audio, empty or doubled subtitles, malformed highlight boxes, timeline drift, blank frames,"}, {"align": "l", "text": "and unsafe duration fixes"}]}]]}</metadata>
+  <rect x="56" y="410" width="1168" height="28" fill="#F3F5F8"/>
+  <line x1="56" y1="438" x2="1224" y2="438" stroke="#1B2430" stroke-width="1"/>
+  <text x="64" y="428.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">ID</text>
+  <text x="104" y="428.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Requirement</text>
+  <text x="484" y="428.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Solution the paper gives</text>
+  <line x1="56" y1="478" x2="1224" y2="478" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="461.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">B1</text>
+  <text x="104" y="454.9" font-size="11" fill="#2F3A48" text-anchor="start">Duration must be planned before rendering — cutting the MP4,<tspan x="104" dy="14">clipping audio, or a large speed-up is unsafe</tspan></text>
+  <text x="484" y="454.9" font-size="11" fill="#2F3A48" text-anchor="start">The planner estimates the script before TTS and asks for semantic rewrites; a post-render duration report; small residuals repaired by a<tspan x="484" dy="14">bounded speech-rate plan, large ones return to rewriting</tspan></text>
+  <line x1="56" y1="518" x2="1224" y2="518" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="501.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">B2</text>
+  <text x="104" y="501.9" font-size="11" fill="#2F3A48" text-anchor="start">The viewer needs attention guidance, not only slide playback</text>
+  <text x="484" y="494.9" font-size="11" fill="#2F3A48" text-anchor="start">The deck workflow attaches semantic anchors to the objects the narration names; a cue resolver combines script, word timings, geometry,<tspan x="484" dy="14">and anchors into visual_cues.json; normalized geometry survives resolutions; default style spotlight_laser</tspan></text>
+  <line x1="56" y1="558" x2="1224" y2="558" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="541.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">B3</text>
+  <text x="104" y="534.9" font-size="11" fill="#2F3A48" text-anchor="start">Captions have two delivery contexts — shareable MP4 vs the<tspan x="104" dy="14">interactive reel</tspan></text>
+  <text x="484" y="541.9" font-size="11" fill="#2F3A48" text-anchor="start">Burned-in subtitles in video.mp4; a clean video_no_subtitles.mp4 so the reel's caption toggle never doubles subtitles</text>
+  <line x1="56" y1="598" x2="1224" y2="598" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="581.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">B4</text>
+  <text x="104" y="581.9" font-size="11" fill="#2F3A48" text-anchor="start">The video has to remain addressable after export</text>
+  <text x="484" y="574.9" font-size="11" fill="#2F3A48" text-anchor="start">timeline.json maps each section or narration chunk to its audio window, subtitle cues, slide frame, and accepted visual cue; Paper2Reel<tspan x="484" dy="14">reads it directly</tspan></text>
+  <line x1="56" y1="638" x2="1224" y2="638" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="621.9" font-size="11" fill="#1D4ED8" text-anchor="start" font-weight="bold">B5</text>
+  <text x="104" y="621.9" font-size="11" fill="#2F3A48" text-anchor="start">Media failures need deterministic checks</text>
+  <text x="484" y="614.9" font-size="11" fill="#2F3A48" text-anchor="start">One mandatory package gate catches missing audio, empty or doubled subtitles, malformed highlight boxes, timeline drift, blank frames,<tspan x="484" dy="14">and unsafe duration fixes</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">8</text>
+</g>
+</svg>

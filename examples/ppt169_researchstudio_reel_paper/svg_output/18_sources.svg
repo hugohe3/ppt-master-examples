@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="ending">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">SOURCES</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 40">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Sources</text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 102 1168 24">
+  <text x="56" y="118" font-size="18" fill="#6B7684">Everything shown is quoted from arXiv:2607.04438 v2; the figures are the paper's own</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="136" x2="1224" y2="136" stroke="#C9D0D8" stroke-width="1"/>
+<g id="source-1" data-pptx-bounds="56 166 1168 62">
+  <text x="56" y="184" font-size="12" font-weight="bold" fill="#1D4ED8" letter-spacing="2">PAPER</text>
+  <text x="56" y="206" font-size="15" fill="#1B2430">ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog — arXiv:2607.04438 v2, 19 July 2026</text>
+  <text x="56" y="224" font-size="13" fill="#6B7684"><a href="https://arxiv.org/abs/2607.04438"><tspan fill="#1D4ED8" text-decoration="underline">https://arxiv.org/abs/2607.04438</tspan></a></text>
+  <line x1="56" y1="234" x2="1224" y2="234" stroke="#E6EAEF" stroke-width="0.75"/>
+</g>
+<g id="source-2" data-pptx-bounds="56 250 1168 62">
+  <text x="56" y="268" font-size="12" font-weight="bold" fill="#1D4ED8" letter-spacing="2">PROJECT</text>
+  <text x="56" y="290" font-size="15" fill="#1B2430">ResearchStudio project page</text>
+  <text x="56" y="308" font-size="13" fill="#6B7684"><a href="https://aka.ms/ResearchStudio"><tspan fill="#1D4ED8" text-decoration="underline">https://aka.ms/ResearchStudio</tspan></a></text>
+  <line x1="56" y1="318" x2="1224" y2="318" stroke="#E6EAEF" stroke-width="0.75"/>
+</g>
+<g id="source-3" data-pptx-bounds="56 334 1168 62">
+  <text x="56" y="352" font-size="12" font-weight="bold" fill="#1D4ED8" letter-spacing="2">CODE</text>
+  <text x="56" y="374" font-size="15" fill="#1B2430">microsoft/ResearchStudio on GitHub — MIT license; each skill's SKILL.md is the source of truth for its workflow</text>
+  <text x="56" y="392" font-size="13" fill="#6B7684"><a href="https://github.com/microsoft/ResearchStudio"><tspan fill="#1D4ED8" text-decoration="underline">https://github.com/microsoft/ResearchStudio</tspan></a></text>
+  <line x1="56" y1="402" x2="1224" y2="402" stroke="#E6EAEF" stroke-width="0.75"/>
+</g>
+<g id="provenance" data-pptx-bounds="56 418 560 222">
+  <text x="56" y="432" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">PROVENANCE OF THIS DECK</text>
+  <line x1="56" y1="440" x2="616" y2="440" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="60" cy="450.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="454" font-size="12" fill="#2F3A48">Figures 1–10 are reproduced from the paper at their extracted resolution; none is redrawn.</text>
+  <circle cx="60" cy="471.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="475" font-size="12" fill="#2F3A48">Table 1 and Table 4 values are quoted as printed; per-judge scores are in Appendix D (Table<tspan x="72" dy="16">5); the three single-shot baselines share one fixed prompt reproduced in Appendix G.</tspan></text>
+  <circle cx="60" cy="508.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="512" font-size="12" fill="#2F3A48">Titles are this deck's readings of the paper's claims; observation, inference, and speculation<tspan x="72" dy="16">keep the paper's wording.</tspan></text>
+</g>
+<g id="licensing" data-pptx-bounds="640 418 584 222">
+  <text x="640" y="432" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">LICENSING NOTES STATED BY THE PAPER</text>
+  <line x1="640" y1="440" x2="1224" y2="440" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="644" cy="450.2" r="3" fill="#1D4ED8"/>
+  <text x="656" y="454" font-size="12" fill="#2F3A48">Extracted paper figures follow the source paper's license; the pipeline itself does not redistribute<tspan x="656" dy="16">paper figures or logos.</tspan></text>
+  <circle cx="644" cy="487.2" r="3" fill="#1D4ED8"/>
+  <text x="656" y="491" font-size="12" fill="#2F3A48">Institution and venue logos fetched by Paper2Assets follow Wikimedia Commons and Wikidata<tspan x="656" dy="16">licenses.</tspan></text>
+  <circle cx="644" cy="524.2" r="3" fill="#1D4ED8"/>
+  <text x="656" y="528" font-size="12" fill="#2F3A48">The edge-tts client accesses Microsoft Edge's online text-to-speech service; deployments should<tspan x="656" dy="16">verify the applicable service terms.</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Deck built with ppt-master, the deck-authoring dependency Paper2Video uses (reference [22] of the paper)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">18</text>
+</g>
+</svg>

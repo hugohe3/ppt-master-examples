@@ -2,11 +2,127 @@
   "version": 1,
   "updated": "2026-09-05",
   "stats": {
-    "examples": 32,
-    "pages": 453,
-    "templates": 32
+    "examples": 33,
+    "pages": 471,
+    "templates": 33
   },
   "projects": [
+    {
+      "id": "ppt169_researchstudio_reel_paper",
+      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+      "description": "论文阅读 deck 18 页(英文)— 以 arXiv:2607.04438 的 PDF 为唯一源(首个 PDF 源示例),挂载 academic-research 方法模板,论文自身顺序:问题、相关工作、贡献、五个 skill 各一页、Table 1 原生表、散点+对照柱图分析、Figure 10 六格、成本、应用、局限、结论;19 张论文原图当证据不重绘,4 原生图 7 原生表 3 超链接,Default 路线源文件驱动生成",
+      "icon": "📄",
+      "color": "#1D4ED8",
+      "style": "academic",
+      "styleName": "Academic Research Reading",
+      "desc": "An eighteen-page English paper-reading deck of ResearchStudio-Reel (arXiv:2607.04438 v2), built from the paper's PDF alone through the PDF conversion path — the first example driven by a PDF source. It follows the bundled academic-research Style in the paper's own constructive order: the research question and its three gaps, prior work by output type, the five-skill contribution with Figure 2, one page per skill (requirement-to-solution native tables for Paper2Poster, Paper2Video, and Paper2Blog, the staged-fill loop as a five-band native bar beside Figure 4, Paper2Reel's interaction figure), Table 1 as a nine-by-eleven native table with the best value per column in bold, an aesthetics-versus-PaperQuiz native scatter beside a controlled-comparison column chart, Figure 10 as a three-by-two grid, Table 4 as a native horizontal bar plus a heaviest-stage table, applications, limitations, conclusion, and sources with live hyperlinks. Nineteen figures are imported from the paper at extracted resolution and never redrawn; color encodes condition (Claude Code, Codex, baselines, author ground truth) identically across every chart and table. Swiss-minimal composition in Arial, a fixed claim line under every title, Fig./Table caption tags, footnotes citing the section; six Morph pairs carry the claim line across the skill pages; speaker notes throughout. Authored by Claude on the Default runtime from the converted PDF; the second export turns the tables and charts into native PowerPoint objects.",
+      "tags": [
+        "Paper Reading",
+        "PDF Source",
+        "English",
+        "Style Template",
+        "Native Tables",
+        "Native Charts"
+      ],
+      "isNew": true,
+      "folder": "ppt169_researchstudio_reel_paper/svg_final",
+      "generatedAt": "2026-09-05",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_researchstudio_reel_paper/exports/ppt169_researchstudio_reel_paper.pptx",
+      "pptxNative": "examples/ppt169_researchstudio_reel_paper/exports/ppt169_researchstudio_reel_paper_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog"
+        },
+        {
+          "file": "02_question.svg",
+          "title": "question",
+          "desc": "The last mile of research is a separate layer, prepared in the days after acceptance, and three gaps remain open"
+        },
+        {
+          "file": "03_prior_work.svg",
+          "title": "prior work",
+          "desc": "Prior work is organized by output type; contracts differ in editability, and VLM scores are mostly used for evaluation, not as release gates"
+        },
+        {
+          "file": "04_contribution.svg",
+          "title": "contribution",
+          "desc": "The answer: a native-editable workspace of five skills — one shared extractor, three editable generators, one convergence layer"
+        },
+        {
+          "file": "05_paper2assets.svg",
+          "title": "paper2assets",
+          "desc": "Paper2Assets reads the PDF once and emits one bundle every generator consumes verbatim; figure cleanup runs once"
+        },
+        {
+          "file": "06_paper2poster.svg",
+          "title": "paper2poster",
+          "desc": "Paper2Poster composes on four orthogonal axes, fills the page with a measured loop, and exports native PowerPoint shapes"
+        },
+        {
+          "file": "07_fill_loop.svg",
+          "title": "fill loop",
+          "desc": "The fill loop is discrete: five verdict bands, one section edited per round, termination as a categorical fixed point"
+        },
+        {
+          "file": "08_paper2video.svg",
+          "title": "paper2video",
+          "desc": "Paper2Video plans duration before rendering, anchors narration to visible objects, and gates an editable deck plus two MP4s"
+        },
+        {
+          "file": "09_paper2blog.svg",
+          "title": "paper2blog",
+          "desc": "Paper2Blog writes the Chinese and English articles separately from one evidence map, then gates the Word files on layout"
+        },
+        {
+          "file": "10_paper2reel.svg",
+          "title": "paper2reel",
+          "desc": "Paper2Reel is a presentation surface, not a fourth summary: one alignment sidecar makes four artifacts views of one section"
+        },
+        {
+          "file": "11_table1.svg",
+          "title": "table1",
+          "desc": "Best automated system on all three aesthetic sub-criteria (3.56 vs the authors' 3.03) and on two of three information sub-criteria"
+        },
+        {
+          "file": "12_analysis.svg",
+          "title": "analysis",
+          "desc": "The PaperQuiz ordering nearly reverses the aesthetic ordering: denser posters answer more; the fill loop packs to a target density"
+        },
+        {
+          "file": "13_qualitative.svg",
+          "title": "qualitative",
+          "desc": "With the skill, prompt, and pipeline fixed, five configurations each produce a full page differing in figure choice, density, and accent"
+        },
+        {
+          "file": "14_operational_profile.svg",
+          "title": "operational profile",
+          "desc": "A full four-artifact bundle takes about 89 minutes of stage time and 2.6M input / 276K output tokens per paper"
+        },
+        {
+          "file": "15_applications.svg",
+          "title": "applications",
+          "desc": "Three contexts span the dissemination spectrum on one pipeline: a camera-ready week, a lab's intake, a course's weekly packs"
+        },
+        {
+          "file": "16_limitations.svg",
+          "title": "limitations",
+          "desc": "Five failure modes recur in end-to-end runs; the system is calibrated on ML / CV / NLP venues only; quantitative evaluation covers the poster"
+        },
+        {
+          "file": "17_conclusion.svg",
+          "title": "conclusion",
+          "desc": "Supported: a native-editable, section-aligned workspace with testable gates. Open: reading-and-recall evaluation and bespoke diagrams"
+        },
+        {
+          "file": "18_sources.svg",
+          "title": "sources",
+          "desc": "Sources"
+        }
+      ]
+    },
     {
       "id": "ppt169_ev_market_priorities",
       "title": "电动车增长的下一站:2026–2028 车企市场优先级与产品组合决策",

@@ -1,0 +1,911 @@
+{
+ "version": 1,
+ "defaults": {
+  "transition": {
+   "effect": "fade",
+   "duration": 0.4
+  },
+  "animation": {
+   "effect": "none",
+   "trigger": "after-previous",
+   "duration": 0.4
+  }
+ },
+ "slides": {
+  "01_cover": {
+   "groups": {
+    "cover-title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.5
+    },
+    "cover-authors": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.4
+    },
+    "cover-hook": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.4
+    },
+    "cover-labels": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.2
+    },
+    "cover-poster": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 5,
+     "duration": 0.5
+    },
+    "cover-video": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 6,
+     "duration": 0.5
+    },
+    "cover-blog": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 7,
+     "duration": 0.5
+    }
+   }
+  },
+  "02_question": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "framing": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.4
+    },
+    "shift": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "gap-1": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "gap-2": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    },
+    "gap-3": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.4
+    }
+   }
+  },
+  "03_prior_work": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "related-systems": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 3,
+     "duration": 0.7
+    },
+    "positioning": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.5
+    }
+   }
+  },
+  "04_contribution": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "03_prior_work",
+    "pairs": {
+     "claim-carry": {
+      "from": "claim-line",
+      "to": "claim-line"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "pipeline-figure": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "skills-list": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "contributions-head": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.2
+    },
+    "contribution-1": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    },
+    "contribution-2": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.4
+    },
+    "contribution-3": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.4
+    },
+    "contribution-4": {
+     "effect": "entrance_fade",
+     "order": 9,
+     "duration": 0.4
+    },
+    "runtime-note": {
+     "effect": "entrance_fade",
+     "order": 10,
+     "duration": 0.3
+    }
+   }
+  },
+  "05_paper2assets": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "step-1": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.35
+    },
+    "step-2": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 4,
+     "duration": 0.35
+    },
+    "step-3": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 5,
+     "duration": 0.35
+    },
+    "step-4": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 6,
+     "duration": 0.35
+    },
+    "step-5": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 7,
+     "duration": 0.35
+    },
+    "step-6": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 8,
+     "duration": 0.35
+    },
+    "cleanup-head": {
+     "effect": "entrance_fade",
+     "order": 9,
+     "duration": 0.2
+    },
+    "cleanup-1": {
+     "effect": "entrance_fade",
+     "order": 10,
+     "duration": 0.3
+    },
+    "cleanup-2": {
+     "effect": "entrance_fade",
+     "order": 11,
+     "duration": 0.3
+    },
+    "cleanup-3": {
+     "effect": "entrance_fade",
+     "order": 12,
+     "duration": 0.3
+    },
+    "cleanup-4": {
+     "effect": "entrance_fade",
+     "order": 13,
+     "duration": 0.3
+    },
+    "bundle-contents": {
+     "effect": "entrance_fade",
+     "order": 14,
+     "duration": 0.4
+    },
+    "single-owner": {
+     "effect": "entrance_fade",
+     "order": 15,
+     "duration": 0.5
+    }
+   }
+  },
+  "06_paper2poster": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "05_paper2assets",
+    "pairs": {
+     "claim-carry": {
+      "from": "claim-line",
+      "to": "claim-line"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "poster-pipeline-figure": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "poster-outputs": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "poster-requirements": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 5,
+     "duration": 0.7
+    }
+   }
+  },
+  "07_fill_loop": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "verdict-bands": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "remedies": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "damping": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "fill-panel-1": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.3
+    },
+    "fill-panel-label-1": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.3
+    },
+    "fill-panel-2": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.3
+    },
+    "fill-panel-label-2": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.3
+    },
+    "fill-panel-3": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.3
+    },
+    "fill-panel-label-3": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.3
+    },
+    "overlay-key": {
+     "effect": "entrance_fade",
+     "order": 9,
+     "duration": 0.3
+    }
+   }
+  },
+  "08_paper2video": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "07_fill_loop",
+    "pairs": {
+     "claim-carry": {
+      "from": "claim-line",
+      "to": "claim-line"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "video-pipeline-figure": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "video-deliverables": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "video-requirements": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 5,
+     "duration": 0.7
+    }
+   }
+  },
+  "09_paper2blog": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "08_paper2video",
+    "pairs": {
+     "claim-carry": {
+      "from": "claim-line",
+      "to": "claim-line"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "blog-pipeline-figure": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "blog-deliverables": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "blog-requirements": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 5,
+     "duration": 0.7
+    },
+    "blog-gate": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.3
+    }
+   }
+  },
+  "10_paper2reel": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "09_paper2blog",
+    "pairs": {
+     "claim-carry": {
+      "from": "claim-line",
+      "to": "claim-line"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "reel-figure": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "reel-interaction": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "reel-alignment": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "reel-gates": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    }
+   }
+  },
+  "11_table1": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "table-groups": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.2
+    },
+    "table1-results": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 4,
+     "duration": 0.9
+    },
+    "result-summary": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.5
+    }
+   }
+  },
+  "12_analysis": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "aesthetics-vs-quiz": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.6
+    },
+    "controlled-bars": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "up"
+     },
+     "order": 4,
+     "duration": 0.7
+    },
+    "reading": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "caution": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.5
+    }
+   }
+  },
+  "13_qualitative": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "poster-cell-1": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.3
+    },
+    "poster-cell-2": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.3
+    },
+    "poster-cell-3": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.3
+    },
+    "poster-cell-4": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.3
+    },
+    "poster-cell-5": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.3
+    },
+    "poster-cell-6": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.3
+    }
+   }
+  },
+  "14_operational_profile": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "minutes-by-skill": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "right"
+     },
+     "order": 3,
+     "duration": 0.8
+    },
+    "heaviest-stages": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 4,
+     "duration": 0.6
+    },
+    "pipeline-totals": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.5
+    },
+    "profile-notes": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.3
+    }
+   }
+  },
+  "15_applications": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "application-1": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.4
+    },
+    "application-2": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "application-3": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "capability-audits": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    },
+    "gap-to-human": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.4
+    }
+   }
+  },
+  "16_limitations": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "failure-modes": {
+     "effect": "entrance_wipe",
+     "effect_options": {
+      "direction": "down"
+     },
+     "order": 3,
+     "duration": 0.7
+    },
+    "domain-scope": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "evaluation-coverage": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "provenance-note": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    }
+   }
+  },
+  "17_conclusion": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "16_limitations",
+    "pairs": {
+     "claim-carry": {
+      "from": "claim-line",
+      "to": "claim-line"
+     }
+    }
+   },
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "established-head": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.2
+    },
+    "established-1": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "established-2": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "established-3": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    },
+    "future-head": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.2
+    },
+    "future-1": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.5
+    },
+    "future-2": {
+     "effect": "entrance_fade",
+     "order": 9,
+     "duration": 0.5
+    }
+   }
+  },
+  "18_sources": {
+   "groups": {
+    "title": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "claim-line": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.3
+    },
+    "source-1": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.4
+    },
+    "source-2": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "source-3": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "provenance": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    },
+    "licensing": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.4
+    }
+   }
+  }
+ }
+}

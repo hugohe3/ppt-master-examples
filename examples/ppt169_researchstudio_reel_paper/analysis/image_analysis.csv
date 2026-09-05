@@ -1,0 +1,18 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,blog_docx_en.jpg,732,1332,0.55,0.55,,native,JPEG,False,1,,bitmap,True,True,233.3,Portrait
+2,fig10a_author_gt.jpg,1920,1280,1.50,1.50,,native,JPEG,False,1,,bitmap,True,True,414.1,Standard landscape
+3,fig10b_claude_max.jpg,1920,1152,1.67,1.67,,native,JPEG,False,1,,bitmap,True,True,387.4,Wide landscape
+4,fig10c_claude_48.jpg,1920,1152,1.67,1.67,,native,JPEG,False,1,,bitmap,True,True,388.4,Wide landscape
+5,fig10d_claude_47.jpg,1920,1152,1.67,1.67,,native,JPEG,False,1,,bitmap,True,True,404.2,Wide landscape
+6,fig10e_claude_46.jpg,1920,1152,1.67,1.67,,native,JPEG,False,1,,bitmap,True,True,386.1,Wide landscape
+7,fig10f_codex.jpg,1920,1152,1.67,1.67,,native,JPEG,False,1,,bitmap,True,True,389.9,Wide landscape
+8,fig2_pipeline.png,1181,259,4.56,4.56,,native,PNG,False,1,,bitmap,True,True,159.6,Ultra-wide
+9,fig3_poster_pipeline.png,1221,379,3.22,3.22,,native,PNG,False,1,,bitmap,True,True,151.0,Ultra-wide
+10,fig4a_fill_initial.png,343,767,0.45,0.45,,native,PNG,False,1,,bitmap,True,True,108.2,Portrait
+11,fig4b_fill_progress.png,387,767,0.50,0.50,,native,PNG,False,1,,bitmap,True,True,147.3,Portrait
+12,fig4c_fill_done.png,409,767,0.53,0.53,,native,PNG,False,1,,bitmap,True,True,128.5,Portrait
+13,fig5_video_pipeline.png,1134,379,2.99,2.99,,native,PNG,False,1,,bitmap,True,True,129.8,Ultra-wide
+14,fig7_blog_pipeline.png,1220,230,5.30,5.30,,native,PNG,False,1,,bitmap,True,True,88.0,Ultra-wide
+15,fig9_reel_interaction.jpg,1920,572,3.36,3.36,,native,JPEG,False,1,,bitmap,True,True,172.5,Ultra-wide
+16,poster_beit.jpg,1920,1152,1.67,1.67,,native,JPEG,False,1,,bitmap,True,True,353.0,Wide landscape
+17,video_frame_citransnet.jpg,1005,567,1.77,1.77,,native,JPEG,False,1,,bitmap,True,True,68.3,Wide landscape

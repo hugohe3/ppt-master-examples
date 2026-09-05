@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">§1 INTRODUCTION</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">The last mile of research is a separate layer, prepared in the days after<tspan x="56" dy="34">acceptance, and three gaps remain open</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Poster, talk video, and blog piece each need figure selection, layout, narration, or audience-appropriate writing (§1)</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="framing" data-pptx-bounds="56 192 1168 100">
+  <text x="56" y="210" font-size="16" fill="#2F3A48">The dissemination layer covers the poster you stand next to at a conference session, the talk video on the venue's virtual track or the lab's channel, and<tspan x="56" dy="22">the blog piece shared through social media. Authors prepare all three in the days right after acceptance, at exactly the moment they have the least time</tspan><tspan x="56" dy="22">to spare; labs, courses, and multilingual organizations reuse the same layer.</tspan></text>
+</g>
+<g id="shift" data-pptx-bounds="56 300 1168 76">
+  <rect x="56" y="300" width="4" height="70" fill="#1D4ED8"/>
+  <text x="72" y="320" font-size="16" fill="#2F3A48">Paper-to-poster, paper-to-video, and paper-to-blog systems, plus the multi-artifact suites PaperX and OmniPresent, shift the question from whether<tspan x="72" dy="22">several formats can be generated to <tspan font-weight="bold" fill="#1B2430">whether the artifacts remain native-editable and navigable</tspan>.</tspan></text>
+</g>
+<g id="gap-1" data-pptx-bounds="56 382 368 144">
+  <rect x="56" y="382" width="368" height="2" fill="#1B2430"/>
+  <text x="56" y="412" font-size="12" font-weight="bold" fill="#1D4ED8" letter-spacing="2">G1</text>
+  <text x="90" y="412" font-size="18" font-weight="bold" fill="#1B2430">Shared grounding</text>
+  <text x="56" y="440" font-size="16" fill="#2F3A48">Combining artifact-specific systems repeats<tspan x="56" dy="22">figure, caption, and metadata extraction, and</tspan><tspan x="56" dy="22">leaves cross-artifact references for the user to</tspan><tspan x="56" dy="22">reconcile.</tspan></text>
+</g>
+<g id="gap-2" data-pptx-bounds="456 382 368 122">
+  <rect x="456" y="382" width="368" height="2" fill="#1B2430"/>
+  <text x="456" y="412" font-size="12" font-weight="bold" fill="#1D4ED8" letter-spacing="2">G2</text>
+  <text x="490" y="412" font-size="18" font-weight="bold" fill="#1B2430">Native editability</text>
+  <text x="456" y="440" font-size="16" fill="#2F3A48">A multi-format suite does not by itself give<tspan x="456" dy="22">native-editable source files for every artifact in</tspan><tspan x="456" dy="22">the author's PowerPoint and Word workflow.</tspan></text>
+</g>
+<g id="gap-3" data-pptx-bounds="856 382 368 144">
+  <rect x="856" y="382" width="368" height="2" fill="#1B2430"/>
+  <text x="856" y="412" font-size="12" font-weight="bold" fill="#1D4ED8" letter-spacing="2">G3</text>
+  <text x="890" y="412" font-size="18" font-weight="bold" fill="#1B2430">Experience-level convergence</text>
+  <text x="856" y="440" font-size="16" fill="#2F3A48">Parallel or consistently rendered outputs do not<tspan x="856" dy="22">bind poster regions, video segments, and blog</tspan><tspan x="856" dy="22">passages into one interactive surface for</tspan><tspan x="856" dy="22">revision and reuse.</tspan></text>
+</g>
+<g id="stakeholders-head" data-pptx-bounds="56 564 1168 24">
+  <text x="56" y="580" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">WHO ELSE THE LAST MILE SERVES (§1)</text>
+  <line x1="56" y1="588" x2="1224" y2="588" stroke="#1B2430" stroke-width="1"/>
+</g>
+<g id="stakeholder-1" data-pptx-bounds="56 598 368 68">
+  <rect x="56" y="598" width="368" height="68" fill="#F3F5F8"/>
+  <text x="68" y="620" font-size="13" font-weight="bold" fill="#1B2430">The accepted-paper author</text>
+  <text x="68" y="640" font-size="12" fill="#2F3A48">the poster, talk video, and blog piece prepared in the days after<tspan x="68" dy="16">acceptance, right after the camera-ready</tspan></text>
+</g>
+<g id="stakeholder-2" data-pptx-bounds="456 598 368 68">
+  <rect x="456" y="598" width="368" height="68" fill="#F3F5F8"/>
+  <text x="468" y="620" font-size="13" font-weight="bold" fill="#1B2430">An industrial research lab</text>
+  <text x="468" y="640" font-size="12" fill="#2F3A48">public-facing communications for every accepted paper,<tspan x="468" dy="16">polished by a communications team</tspan></text>
+</g>
+<g id="stakeholder-3" data-pptx-bounds="856 598 368 68">
+  <rect x="856" y="598" width="368" height="68" fill="#F3F5F8"/>
+  <text x="868" y="620" font-size="13" font-weight="bold" fill="#1B2430">A course or multilingual organization</text>
+  <text x="868" y="640" font-size="12" fill="#2F3A48">a graduate course's paper-of-the-week briefing pack;<tspan x="868" dy="16">cross-region outreach in more than one language</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">2</text>
+</g>
+</svg>

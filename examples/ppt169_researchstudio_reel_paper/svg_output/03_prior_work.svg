@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">§5 RELATED WORKS</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Prior work is organized by output type; contracts differ in editability, and VLM<tspan x="56" dy="34">scores are mostly used for evaluation, not as release gates</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Representative systems per output type, what they emit, and the contract each leaves open (§5.1–5.5)</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="related-systems" data-pptx-replace-with="table" data-pptx-bounds="56 196 1168 296" data-pptx-fallback-sha256="ab10e2d99d29c07e762d076da627e00688b70667c7c4f4ee8de9bc50c47cd67e">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "related-systems", "x": 56, "y": 196, "width": 1168, "height": 296, "header_rows": 1, "column_widths": [150, 520, 230, 268], "row_heights": [30, 74, 74, 59, 59], "style": {"font_family": "Arial", "font_size": 12, "header_font_size": 12, "band_row": false, "header_fill": "#F3F5F8", "header_text": "#1B2430", "body_text": "#2F3A48", "border_color": "#E6EAEF", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 2, "bottom": 2}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E6EAEF", "width": 0.75}, "bottom": {"style": "solid", "color": "#E6EAEF", "width": 0.75}}}}, "columns": [{"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Output type"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Representative systems"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Output contract"}, {"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "What remains open"}], "rows": [[{"bold": true, "text": "Paper-to-poster"}, {"paragraphs": [{"align": "l", "text": "Paper2Poster (PosterAgent, benchmark, PaperQuiz) [1]; PosterGen (specialized"}, {"align": "l", "text": "agents incl. color and typography) [2]; P2P (HTML poster, fine-grained benchmark) [3];"}, {"align": "l", "text": "PosterForest [28]; EfficientPosterGen [29]; APEX (edits PPTX) [30]; SciPostLayout /"}, {"align": "l", "text": "SciPostGen [31, 32]; Any2Poster [33]; PosterHarness [34]"}]}, {"paragraphs": [{"align": "l", "text": "Paper2Poster and PosterGen emit"}, {"align": "l", "text": "PPTX; APEX edits PPTX; P2P"}, {"align": "l", "text": "renders HTML"}]}, {"color": "#1B2430", "paragraphs": [{"align": "l", "text": "VLM scores serve evaluation rather than"}, {"align": "l", "text": "runtime release gates; no shared upstream"}, {"align": "l", "text": "asset bundle across artifacts"}]}], [{"bold": true, "text": "Slides and video"}, {"paragraphs": [{"align": "l", "text": "PPSGen [37] → D2S [38] → DOC2PPT [39] → SlideSpawn [40] → PPTAgent [41],"}, {"align": "l", "text": "SlideGen [42]; PresentAgent [26, 27]; VideoAgent (Manim, duration, style) [5];"}, {"align": "l", "text": "Paper2Video / PaperTalker (101-paper benchmark, cursor grounding, talking head) [4];"}, {"align": "l", "text": "Preacher [6]; AutoLectures [43]"}]}, {"paragraphs": [{"align": "l", "text": "Synchronized frames, narration,"}, {"align": "l", "text": "captions; some editable PPTX;"}, {"align": "l", "text": "LaTeX slides"}]}, {"color": "#1B2430", "paragraphs": [{"align": "l", "text": "A section-addressable timeline retained"}, {"align": "l", "text": "after export for downstream navigation"}]}], [{"bold": true, "text": "Blog and long-form"}, {"paragraphs": [{"align": "l", "text": "HERA [8]; PTSPI [9]; GoSum [10]; LongDPO [44]; ProjectMundo (JATS-preserving"}, {"align": "l", "text": "translation) [45]; lay-summary accessibility studies [46]; Papers-to-Posts (interactive"}, {"align": "l", "text": "reverse source outline) [7]"}]}, {"paragraphs": [{"align": "l", "text": "Summaries, translations, one"}, {"align": "l", "text": "research blog piece from an outline"}]}, {"color": "#1B2430", "paragraphs": [{"align": "l", "text": "Editable Word output with layout-aware"}, {"align": "l", "text": "checks, for a paired Chinese and English"}, {"align": "l", "text": "article"}]}], [{"bold": true, "text": "Multi-artifact suites"}, {"paragraphs": [{"align": "l", "text": "PaperX (Scholar DAG → PPT, poster, public-relations posts) [11]; OmniPresent"}, {"align": "l", "text": "(concurrent: poster, slide, and video suites from one HTML representation with"}, {"align": "l", "text": "cross-modal verify-and-repair) [12], discussed qualitatively"}]}, {"paragraphs": [{"align": "l", "text": "Several formats from one"}, {"align": "l", "text": "representation"}]}, {"color": "#1B2430", "paragraphs": [{"align": "l", "text": "Native-editable source per artifact and"}, {"align": "l", "text": "experience-level convergence into one"}, {"align": "l", "text": "interactive viewer"}]}]]}</metadata>
+  <rect x="56" y="196" width="1168" height="30" fill="#F3F5F8"/>
+  <line x1="56" y1="226" x2="1224" y2="226" stroke="#1B2430" stroke-width="1"/>
+  <text x="64" y="215.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Output type</text>
+  <text x="214" y="215.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Representative systems</text>
+  <text x="734" y="215.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">Output contract</text>
+  <text x="964" y="215.2" font-size="12" font-weight="bold" fill="#1B2430" text-anchor="start">What remains open</text>
+  <line x1="56" y1="300" x2="1224" y2="300" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="267.2" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">Paper-to-poster</text>
+  <text x="214" y="244.7" font-size="12" fill="#2F3A48" text-anchor="start">Paper2Poster (PosterAgent, benchmark, PaperQuiz) [1]; PosterGen (specialized<tspan x="214" dy="15">agents incl. color and typography) [2]; P2P (HTML poster, fine-grained benchmark) [3];</tspan><tspan x="214" dy="15">PosterForest [28]; EfficientPosterGen [29]; APEX (edits PPTX) [30]; SciPostLayout /</tspan><tspan x="214" dy="15">SciPostGen [31, 32]; Any2Poster [33]; PosterHarness [34]</tspan></text>
+  <text x="734" y="252.2" font-size="12" fill="#2F3A48" text-anchor="start">Paper2Poster and PosterGen emit<tspan x="734" dy="15">PPTX; APEX edits PPTX; P2P</tspan><tspan x="734" dy="15">renders HTML</tspan></text>
+  <text x="964" y="252.2" font-size="12" fill="#1B2430" text-anchor="start">VLM scores serve evaluation rather than<tspan x="964" dy="15">runtime release gates; no shared upstream</tspan><tspan x="964" dy="15">asset bundle across artifacts</tspan></text>
+  <line x1="56" y1="374" x2="1224" y2="374" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="341.2" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">Slides and video</text>
+  <text x="214" y="318.7" font-size="12" fill="#2F3A48" text-anchor="start">PPSGen [37] → D2S [38] → DOC2PPT [39] → SlideSpawn [40] → PPTAgent [41],<tspan x="214" dy="15">SlideGen [42]; PresentAgent [26, 27]; VideoAgent (Manim, duration, style) [5];</tspan><tspan x="214" dy="15">Paper2Video / PaperTalker (101-paper benchmark, cursor grounding, talking head) [4];</tspan><tspan x="214" dy="15">Preacher [6]; AutoLectures [43]</tspan></text>
+  <text x="734" y="326.2" font-size="12" fill="#2F3A48" text-anchor="start">Synchronized frames, narration,<tspan x="734" dy="15">captions; some editable PPTX;</tspan><tspan x="734" dy="15">LaTeX slides</tspan></text>
+  <text x="964" y="333.7" font-size="12" fill="#1B2430" text-anchor="start">A section-addressable timeline retained<tspan x="964" dy="15">after export for downstream navigation</tspan></text>
+  <line x1="56" y1="433" x2="1224" y2="433" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="407.7" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">Blog and long-form</text>
+  <text x="214" y="392.7" font-size="12" fill="#2F3A48" text-anchor="start">HERA [8]; PTSPI [9]; GoSum [10]; LongDPO [44]; ProjectMundo (JATS-preserving<tspan x="214" dy="15">translation) [45]; lay-summary accessibility studies [46]; Papers-to-Posts (interactive</tspan><tspan x="214" dy="15">reverse source outline) [7]</tspan></text>
+  <text x="734" y="400.2" font-size="12" fill="#2F3A48" text-anchor="start">Summaries, translations, one<tspan x="734" dy="15">research blog piece from an outline</tspan></text>
+  <text x="964" y="392.7" font-size="12" fill="#1B2430" text-anchor="start">Editable Word output with layout-aware<tspan x="964" dy="15">checks, for a paired Chinese and English</tspan><tspan x="964" dy="15">article</tspan></text>
+  <line x1="56" y1="492" x2="1224" y2="492" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="466.7" font-size="12" fill="#2F3A48" text-anchor="start" font-weight="bold">Multi-artifact suites</text>
+  <text x="214" y="451.7" font-size="12" fill="#2F3A48" text-anchor="start">PaperX (Scholar DAG → PPT, poster, public-relations posts) [11]; OmniPresent<tspan x="214" dy="15">(concurrent: poster, slide, and video suites from one HTML representation with</tspan><tspan x="214" dy="15">cross-modal verify-and-repair) [12], discussed qualitatively</tspan></text>
+  <text x="734" y="459.2" font-size="12" fill="#2F3A48" text-anchor="start">Several formats from one<tspan x="734" dy="15">representation</tspan></text>
+  <text x="964" y="451.7" font-size="12" fill="#1B2430" text-anchor="start">Native-editable source per artifact and<tspan x="964" dy="15">experience-level convergence into one</tspan><tspan x="964" dy="15">interactive viewer</tspan></text>
+</g>
+<g id="positioning" data-pptx-bounds="56 508 1168 76">
+  <rect x="56" y="508" width="4" height="68" fill="#1D4ED8"/>
+  <text x="72" y="530" font-size="16" fill="#2F3A48">"Rather than claiming the first multi-artifact generator, ResearchStudio-Reel focuses on a native-editable, section-aligned dissemination workspace."<tspan x="72" dy="22">(§5.5) The distinction it draws is native editability plus experience-level convergence, backed by release checks.</tspan></text>
+</g>
+<g id="baselines-head" data-pptx-bounds="56 600 1168 24">
+  <text x="56" y="614" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">WHAT THE PAPER IS SCORED AGAINST IN TABLE 1 (§3)</text>
+  <line x1="56" y1="622" x2="1224" y2="622" stroke="#1B2430" stroke-width="1"/>
+</g>
+<g id="baseline-1" data-pptx-bounds="56 634 368 62">
+  <rect x="56" y="634" width="4" height="58" fill="#94A3B8"/>
+  <text x="70" y="652" font-size="13" font-weight="bold" fill="#1B2430">Single-shot frontier LLMs</text>
+  <text x="70" y="672" font-size="12" fill="#2F3A48">Claude-4.8 Opus, GPT-5.5, Gemini-3.1 Pro — one fixed<tspan x="70" dy="16">prompt, one call, a whole A0 poster as HTML (Appendix G)</tspan></text>
+</g>
+<g id="baseline-2" data-pptx-bounds="456 634 368 62">
+  <rect x="456" y="634" width="4" height="58" fill="#C7CDD6"/>
+  <text x="470" y="652" font-size="13" font-weight="bold" fill="#1B2430">Reproduced poster pipelines</text>
+  <text x="470" y="672" font-size="12" fill="#2F3A48">Paper2Poster tool, P2P, PosterGen under their released<tspan x="470" dy="16">configurations, scored by the same pipeline</tspan></text>
+</g>
+<g id="baseline-3" data-pptx-bounds="856 634 368 62">
+  <rect x="856" y="634" width="4" height="58" fill="#1B2430"/>
+  <text x="870" y="652" font-size="13" font-weight="bold" fill="#1B2430">Human reference</text>
+  <text x="870" y="672" font-size="12" fill="#2F3A48">The authors' own posters for the 100 benchmark papers;<tspan x="870" dy="16">OmniPresent is discussed qualitatively, not scored</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">3</text>
+</g>
+</svg>

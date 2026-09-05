@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">§6 FUTURE WORK · §7 CONCLUSION</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Supported: a native-editable, section-aligned workspace with testable gates.<tspan x="56" dy="34">Open: reading-and-recall evaluation and bespoke diagrams</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">From one-way automation to a workflow authors can inspect, navigate, and revise; the paper names the limits of its own proxies</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="established-head" data-pptx-bounds="56 192 620 24">
+  <text x="56" y="206" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">ESTABLISHED BY THE PAPER</text>
+  <line x1="56" y1="214" x2="676" y2="214" stroke="#1B2430" stroke-width="1"/>
+</g>
+<g id="established-1" data-pptx-bounds="56 220 620 89">
+  <circle cx="66" cy="233" r="10" fill="#1D4ED8"/><text x="66" y="237.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text><text x="84" y="238" font-size="15" font-weight="bold" fill="#1B2430">Five composable skills, one bundle, three native-editable artifacts</text>
+  <text x="84" y="262" font-size="13" fill="#2F3A48">One Paper2Assets bundle feeds a native-editable PowerPoint poster and video deck and a<tspan x="84" dy="17">bilingual Word blog; Paper2Reel binds their sections, slides, video times, captions, and</tspan><tspan x="84" dy="17">passages.</tspan></text>
+</g>
+<g id="established-2" data-pptx-bounds="56 321 620 89">
+  <circle cx="66" cy="334" r="10" fill="#1D4ED8"/><text x="66" y="338.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text><text x="84" y="339" font-size="15" font-weight="bold" fill="#1B2430">Posters judged above the authors' own on aesthetics</text>
+  <text x="84" y="363" font-size="13" fill="#2F3A48">Best among automated systems on all three aesthetic sub-criteria and best or tied-best on two<tspan x="84" dy="17">of three information sub-criteria under two VLM judges; 3.56 vs 3.03; overall wins on 74 and 95</tspan><tspan x="84" dy="17">of 100 papers.</tspan></text>
+</g>
+<g id="established-3" data-pptx-bounds="56 422 620 89">
+  <circle cx="66" cy="435" r="10" fill="#1D4ED8"/><text x="66" y="439.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text><text x="84" y="440" font-size="15" font-weight="bold" fill="#1B2430">A pattern that may travel</text>
+  <text x="84" y="464" font-size="13" fill="#2F3A48">The delivery-contract pattern may extend to other targets with native authoring formats,<tspan x="84" dy="17">deterministic renderers, and testable package criteria — with its evaluative, generative, and</tspan><tspan x="84" dy="17">architectural limits still to be studied (§6).</tspan></text>
+</g>
+<g id="future-head" data-pptx-bounds="716 192 508 24">
+  <text x="716" y="206" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">TWO GAPS THAT MATTER MORE THAN COVERAGE</text>
+  <line x1="716" y1="214" x2="1224" y2="214" stroke="#1B2430" stroke-width="1"/>
+</g>
+<g id="future-1" data-pptx-bounds="716 232 508 144">
+  <rect x="716" y="232" width="508" height="144" fill="#F3F5F8"/><rect x="716" y="232" width="4" height="144" fill="#E0A100"/>
+  <text x="732" y="256" font-size="14" font-weight="bold" fill="#1B2430">Evaluation is proxy-bound</text>
+  <text x="732" y="278" font-size="12" fill="#2F3A48">The aesthetic rubric and PaperQuiz pull in opposite directions — a denser poster<tspan x="732" dy="15">wins comprehension while a cleaner one wins aesthetics — and neither</tspan><tspan x="732" dy="15">measures whether a reader absorbs the work. The measured-fill loop optimizes a</tspan><tspan x="732" dy="15">geometric density target, not understanding; the honest next step is to close the</tspan><tspan x="732" dy="15">loop on a controlled human reading-and-recall signal rather than on a proxy a</tspan><tspan x="732" dy="15">denser poster can always game.</tspan></text>
+</g>
+<g id="future-2" data-pptx-bounds="716 392 508 144">
+  <rect x="716" y="392" width="508" height="144" fill="#F3F5F8"/><rect x="716" y="392" width="4" height="144" fill="#E0A100"/>
+  <text x="732" y="416" font-size="14" font-weight="bold" fill="#1B2430">The generative gap</text>
+  <text x="732" y="438" font-size="12" fill="#2F3A48">Because the pipeline reuses only figures that already exist in the paper, it cannot<tspan x="732" dy="15">yet produce the bespoke method or overview diagrams human designers add to</tspan><tspan x="732" dy="15">carry the narrative. Addressing this may require faithful figure synthesis, which</tspan><tspan x="732" dy="15">reintroduces the hallucination risk the categorical gates were built to suppress,</tspan><tspan x="732" dy="15">and would push gate discipline from layout onto the factual content of generated</tspan><tspan x="732" dy="15">visuals.</tspan></text>
+</g>
+<g id="closing-sentence" data-pptx-bounds="56 572 1168 68">
+  <rect x="56" y="572" width="1168" height="68" fill="#F3F5F8"/><rect x="56" y="572" width="4" height="68" fill="#1D4ED8"/>
+  <text x="72" y="592" font-size="10" fill="#6B7684" letter-spacing="1">THE PAPER'S CLOSING SENTENCE, §7</text>
+  <text x="72" y="614" font-size="14" fill="#1B2430">“By keeping generated artifacts editable and connected after generation, ResearchStudio-Reel shifts the last mile from one-way automation toward a workflow authors<tspan x="72" dy="19">can inspect, navigate, and revise.”</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">17</text>
+</g>
+</svg>

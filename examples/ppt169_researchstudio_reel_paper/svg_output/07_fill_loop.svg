@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">SKILL 2 OF 5 · §2.2.2 STAGED-FILL LOOP</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">The fill loop is discrete: five verdict bands, one section edited per round,<tspan x="56" dy="34">termination as a categorical fixed point</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">fullRatio = content height ÷ card height; the verdict alone selects the move; Figure 4 shows one poster converging</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="verdict-bands" data-pptx-replace-with="chart" data-pptx-bounds="56 194 600 150" data-pptx-fallback-sha256="833ef3d67df9178c560ac4611438076a5d4be79b58e26adafc462cc8982c76a7">
+  <metadata type="application/json">{"type": "bar", "grouping": "stacked", "categories": ["fullRatio"], "series": [{"name": "EMPTY", "values": [0.7]}, {"name": "SPARSE", "values": [0.2]}, {"name": "FULL (target)", "values": [0.08]}, {"name": "SPILLAGE", "values": [0.12]}, {"name": "OVERFLOW", "values": [0.1]}], "plot_area": {"x": 126, "y": 240, "width": 510, "height": 40}, "gap_width": 30, "show_legend": true, "legend_position": "bottom", "notes": [{"text": "0.70", "x": 408.5, "y": 219.9, "width": 30, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#1B2430", "align": "ctr", "bold": true}, {"text": "0.90", "x": 493.5, "y": 219.9, "width": 30, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#1B2430", "align": "ctr", "bold": true}, {"text": "0.98", "x": 527.5, "y": 219.9, "width": 30, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#1B2430", "align": "ctr", "bold": true}, {"text": "1.10", "x": 578.5, "y": 219.9, "width": 30, "height": 15, "font_size": 11, "font_family": "Arial", "color": "#1B2430", "align": "ctr", "bold": true}], "axes": {"category": {"kind": "text", "position": "left", "visible": true, "label_position": "next_to", "font_size": 11, "font_family": "Arial", "color": "#2F3A48", "tick_marks": "none"}, "value": {"kind": "value", "position": "bottom", "visible": true, "minimum": 0, "maximum": 1.2, "major_unit": 0.2, "number_format": "0.0", "major_gridlines": true, "font_size": 11, "font_family": "Arial", "color": "#6B7684", "tick_marks": "none"}}, "style": {"colors": ["#C0392B", "#E0A100", "#2E8B57", "#E67E22", "#B03A8C"], "font_family": "Arial", "font_size": 11, "text_color": "#6B7684", "axis_color": "#C9D0D8", "grid_color": "#E6EAEF", "chart_area_fill": "#FFFFFF", "plot_area_fill": "#FFFFFF", "legend_font_size": 11}, "x": 56, "y": 194, "width": 600, "height": 150, "name": "verdict-bands"}</metadata>
+  <g id="verdict-bands-chartArea">
+    <line id="verdict-bands-axis" x1="126" y1="280" x2="636" y2="280" stroke="#C9D0D8" stroke-width="0.75"/>
+    <line id="verdict-bands-grid-0" x1="126.0" y1="240" x2="126.0" y2="280" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="verdict-bands-grid-1" x1="211.0" y1="240" x2="211.0" y2="280" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="verdict-bands-grid-2" x1="296.0" y1="240" x2="296.0" y2="280" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="verdict-bands-grid-3" x1="381.0" y1="240" x2="381.0" y2="280" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="verdict-bands-grid-4" x1="466.0" y1="240" x2="466.0" y2="280" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="verdict-bands-grid-5" x1="551.0" y1="240" x2="551.0" y2="280" stroke="#E6EAEF" stroke-width="0.75"/>
+    <line id="verdict-bands-grid-6" x1="636.0" y1="240" x2="636.0" y2="280" stroke="#E6EAEF" stroke-width="0.75"/>
+    <!-- chart-plot-area: object=verdict-bands | 126,240,636,280 -->
+    <rect x="126.0" y="240" width="297.5" height="40" fill="#C0392B"/>
+    <rect x="423.5" y="240" width="85.0" height="40" fill="#E0A100"/>
+    <rect x="508.5" y="240" width="34.0" height="40" fill="#2E8B57"/>
+    <rect x="542.5" y="240" width="51.0" height="40" fill="#E67E22"/>
+    <rect x="593.5" y="240" width="42.5" height="40" fill="#B03A8C"/>
+  </g>
+  <text x="126.0" y="296" font-size="11" fill="#6B7684" text-anchor="middle">0.0</text>
+  <text x="211.0" y="296" font-size="11" fill="#6B7684" text-anchor="middle">0.2</text>
+  <text x="296.0" y="296" font-size="11" fill="#6B7684" text-anchor="middle">0.4</text>
+  <text x="381.0" y="296" font-size="11" fill="#6B7684" text-anchor="middle">0.6</text>
+  <text x="466.0" y="296" font-size="11" fill="#6B7684" text-anchor="middle">0.8</text>
+  <text x="551.0" y="296" font-size="11" fill="#6B7684" text-anchor="middle">1.0</text>
+  <text x="636.0" y="296" font-size="11" fill="#6B7684" text-anchor="middle">1.2</text>
+  <text x="118" y="264.0" font-size="11" fill="#2F3A48" text-anchor="end">fullRatio</text>
+  <text x="423.5" y="232" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="middle">0.70</text>
+  <text x="508.5" y="232" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="middle">0.90</text>
+  <text x="542.5" y="232" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="middle">0.98</text>
+  <text x="593.5" y="232" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="middle">1.10</text>
+  <rect x="126" y="308" width="10" height="10" fill="#C0392B"/><text x="140" y="317" font-size="11" fill="#2F3A48">EMPTY</text>
+  <rect x="208.18272426666667" y="308" width="10" height="10" fill="#E0A100"/><text x="222.18272426666667" y="317" font-size="11" fill="#2F3A48">SPARSE</text>
+  <rect x="297.8644906666667" y="308" width="10" height="10" fill="#2E8B57"/><text x="311.8644906666667" y="317" font-size="11" fill="#2F3A48">FULL (target)</text>
+  <rect x="408.3396377600001" y="308" width="10" height="10" fill="#E67E22"/><text x="422.3396377600001" y="317" font-size="11" fill="#2F3A48">SPILLAGE</text>
+  <rect x="507.5580697600001" y="308" width="10" height="10" fill="#B03A8C"/><text x="521.5580697600001" y="317" font-size="11" fill="#2F3A48">OVERFLOW</text>
+</g>
+<g id="remedies" data-pptx-bounds="56 348 600 138">
+  <rect x="56" y="351" width="4" height="14" fill="#C0392B"/><text x="68" y="362" font-size="12" font-weight="bold" fill="#1B2430">EMPTY below 0.70</text><text x="214" y="362" font-size="12" fill="#2F3A48">append a reserve paragraph or promote an optional section</text>
+  <rect x="56" y="377" width="4" height="14" fill="#E0A100"/><text x="68" y="388" font-size="12" font-weight="bold" fill="#1B2430">SPARSE 0.70–0.90</text><text x="214" y="388" font-size="12" fill="#2F3A48">polish up: pad prose or enlarge a widget to reach the card floor</text>
+  <rect x="56" y="403" width="4" height="14" fill="#2E8B57"/><text x="68" y="414" font-size="12" font-weight="bold" fill="#1B2430">FULL 0.90–0.98</text><text x="214" y="414" font-size="12" fill="#2F3A48">the target band, left untouched</text>
+  <rect x="56" y="429" width="4" height="14" fill="#E67E22"/><text x="68" y="440" font-size="12" font-weight="bold" fill="#1B2430">SPILLAGE 0.98–1.10</text><text x="214" y="440" font-size="12" fill="#2F3A48">polish down: tighten prose until it re-enters the band</text>
+  <rect x="56" y="455" width="4" height="14" fill="#B03A8C"/><text x="68" y="466" font-size="12" font-weight="bold" fill="#1B2430">OVERFLOW above 1.10</text><text x="214" y="466" font-size="12" fill="#2F3A48">drop a reserve paragraph or an entire optional section</text>
+</g>
+<g id="damping" data-pptx-bounds="56 486 600 164">
+  <text x="56" y="502" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">WHY IT TERMINATES</text>
+  <line x1="56" y1="510" x2="656" y2="510" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="60" cy="522.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="526" font-size="12" fill="#2F3A48">Each move is sized by the signed pixel delta the measurement reports, never guessed</text>
+  <circle cx="60" cy="543.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="547" font-size="12" fill="#2F3A48">The loop refuses to re-apply a move that already overshot the band on a section</text>
+  <circle cx="60" cy="564.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="568" font-size="12" fill="#2F3A48">An on-disk round counter trips a circuit breaker (bounded ≈ 12 rounds) and ships the best-measured<tspan x="72" dy="16">state</tspan></text>
+  <circle cx="60" cy="601.2" r="3" fill="#1D4ED8"/>
+  <text x="72" y="605" font-size="12" fill="#2F3A48">Exit: every section reads FULL and no figure trips the figure-fill gate (≥ 90% of its card on one axis); a<tspan x="72" dy="16">render-time pass then stretches under-filled cards toward 98% by growing row whitespace, figures not</tspan><tspan x="72" dy="16">resized</tspan></text>
+</g>
+<g id="fill-panel-1" data-pptx-bounds="798 192 128 274">
+  <rect x="798" y="194" width="128" height="272" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/fig4a_fill_initial.png" x="804" y="200" width="116" height="260" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="798" y="194" width="57" height="16" fill="#1B2430"/><text x="802" y="206" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 4a</text>
+</g>
+<g id="fill-panel-label-1" data-pptx-bounds="798 470 128 18">
+  <text x="798" y="484" font-size="11" fill="#6B7684">(a) Initial explorations</text>
+</g>
+<g id="fill-panel-2" data-pptx-bounds="946 192 143 274">
+  <rect x="946" y="194" width="143" height="272" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/fig4b_fill_progress.png" x="952" y="200" width="131" height="260" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="946" y="194" width="57" height="16" fill="#1B2430"/><text x="950" y="206" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 4b</text>
+</g>
+<g id="fill-panel-label-2" data-pptx-bounds="946 470 143 18">
+  <text x="946" y="484" font-size="11" fill="#6B7684">(b) Fill loop in progress</text>
+</g>
+<g id="fill-panel-3" data-pptx-bounds="1109 192 151 274">
+  <rect x="1109" y="194" width="151" height="272" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/fig4c_fill_done.png" x="1115" y="200" width="139" height="260" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="1109" y="194" width="57" height="16" fill="#1B2430"/><text x="1113" y="206" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 4c</text>
+</g>
+<g id="fill-panel-label-3" data-pptx-bounds="1109 470 151 18">
+  <text x="1109" y="484" font-size="11" fill="#6B7684">(c) Poster completed</text>
+</g>
+<g id="overlay-key" data-pptx-bounds="798 504 426 52">
+  <text x="798" y="518" font-size="11" fill="#6B7684">Debug overlay: every section boxed and colored by verdict (red / amber for<tspan x="798" dy="14">EMPTY / SPARSE, green for FULL, orange / magenta for SPILLAGE /</tspan><tspan x="798" dy="14">OVERFLOW), annotated with its fill percentage.</tspan></text>
+</g>
+<g id="loop-numbers" data-pptx-bounds="798 564 426 76">
+  <line x1="798" y1="564" x2="1224" y2="564" stroke="#1B2430" stroke-width="1"/>
+  <text x="798.0" y="598" font-size="22" font-weight="bold" fill="#1D4ED8">90%</text><text x="798.0" y="614" font-size="10" fill="#6B7684">section fill gate</text>
+  <text x="904.5" y="598" font-size="22" font-weight="bold" fill="#1B2430">98%</text><text x="904.5" y="614" font-size="10" fill="#6B7684">expand target</text>
+  <text x="1011.0" y="598" font-size="22" font-weight="bold" fill="#1B2430">≈12</text><text x="1011.0" y="614" font-size="10" fill="#6B7684">rounds, then breaker</text>
+  <text x="1117.5" y="598" font-size="22" font-weight="bold" fill="#1B2430">90%</text><text x="1117.5" y="614" font-size="10" fill="#6B7684">figure-fill gate</text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">7</text>
+</g>
+</svg>

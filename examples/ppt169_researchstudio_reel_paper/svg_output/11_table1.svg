@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">§3 EXPERIMENTS · TABLE 1</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">Best automated system on all three aesthetic sub-criteria (3.56 vs the authors'<tspan x="56" dy="34">3.03) and on two of three information sub-criteria</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Table 1: 100-paper Paper2Poster benchmark; cells average two VLM judges (claude-opus-4.8, gpt-5.5); PaperQuiz is exact-match %</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="table-groups" data-pptx-role="chrome" data-pptx-bounds="356 192 868 20">
+  <text x="364" y="206" font-size="11" fill="#6B7684" letter-spacing="1">AESTHETIC (1–5)</text><text x="711.2" y="206" font-size="11" fill="#6B7684" letter-spacing="1">INFORMATION (1–5)</text><text x="1058.4" y="206" font-size="11" fill="#6B7684" letter-spacing="1">PAPERQUIZ (%)</text>
+</g>
+<g id="table1-results" data-pptx-replace-with="table" data-pptx-bounds="56 214 1168.0 308" data-pptx-fallback-sha256="48cac42cf7c082be7e78f1b96cf24ec443a592564f8699bc4c95d43fe94d6b7b">
+  <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "table1-results", "x": 56, "y": 214, "width": 1168.0, "height": 308, "header_rows": 1, "column_widths": [300, 86.8, 86.8, 86.8, 86.8, 86.8, 86.8, 86.8, 86.8, 86.8, 86.8], "row_heights": [38, 30, 30, 30, 30, 30, 30, 30, 30, 30], "style": {"font_family": "Arial", "font_size": 12, "header_font_size": 11, "band_row": false, "header_fill": "#F3F5F8", "header_text": "#1B2430", "body_text": "#2F3A48", "border_color": "#E6EAEF", "border_width": 0.75}, "defaults": {"cell": {"valign": "middle", "padding": {"left": 8, "right": 8, "top": 2, "bottom": 2}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#E6EAEF", "width": 0.75}, "bottom": {"style": "solid", "color": "#E6EAEF", "width": 0.75}}}}, "columns": [{"align": "l", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "System"}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Elem."}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Engag."}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Layout"}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "paragraphs": [{"align": "r", "text": "Aes."}, {"align": "r", "text": "overall"}]}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Low"}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Logic"}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "text": "Cont."}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "paragraphs": [{"align": "r", "text": "Info"}, {"align": "r", "text": "overall"}]}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "paragraphs": [{"align": "r", "text": "Quiz"}, {"align": "r", "text": "detail %"}]}, {"align": "r", "bold": true, "color": "#1B2430", "fill": "#F3F5F8", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#1B2430", "width": 1}}, "paragraphs": [{"align": "r", "text": "Quiz"}, {"align": "r", "text": "underst. %"}]}], "rows": [[{"text": "Claude-4.8 Opus (single-shot)"}, {"align": "r", "text": "3.10"}, {"align": "r", "text": "2.68"}, {"align": "r", "text": "2.97"}, {"align": "r", "text": "2.92"}, {"align": "r", "text": "3.92"}, {"align": "r", "text": "4.01"}, {"align": "r", "text": "3.80"}, {"align": "r", "text": "3.91"}, {"align": "r", "text": "69.86"}, {"align": "r", "text": "93.67"}], [{"text": "GPT-5.5 (single-shot)"}, {"align": "r", "text": "3.12"}, {"align": "r", "text": "2.94"}, {"align": "r", "text": "3.40"}, {"align": "r", "text": "3.15"}, {"align": "r", "bold": true, "text": "3.99"}, {"align": "r", "text": "4.00"}, {"align": "r", "bold": true, "text": "3.91"}, {"align": "r", "bold": true, "text": "3.97"}, {"align": "r", "text": "70.89"}, {"align": "r", "text": "94.25"}], [{"text": "Gemini-3.1 Pro (single-shot)"}, {"align": "r", "text": "3.07"}, {"align": "r", "text": "2.89"}, {"align": "r", "text": "3.27"}, {"align": "r", "text": "3.08"}, {"align": "r", "text": "3.95"}, {"align": "r", "text": "4.00"}, {"align": "r", "text": "3.65"}, {"align": "r", "text": "3.87"}, {"align": "r", "text": "65.36"}, {"align": "r", "text": "93.59"}], [{"text": "Paper2Poster tool [1]"}, {"align": "r", "text": "2.86"}, {"align": "r", "text": "2.30"}, {"align": "r", "text": "3.00"}, {"align": "r", "text": "2.72"}, {"align": "r", "text": "3.46"}, {"align": "r", "text": "3.41"}, {"align": "r", "text": "3.34"}, {"align": "r", "text": "3.40"}, {"align": "r", "text": "69.95"}, {"align": "r", "text": "95.02"}], [{"text": "P2P [3]"}, {"align": "r", "text": "2.68"}, {"align": "r", "text": "2.34"}, {"align": "r", "text": "3.15"}, {"align": "r", "text": "2.72"}, {"align": "r", "text": "3.92"}, {"align": "r", "text": "3.78"}, {"align": "r", "text": "3.70"}, {"align": "r", "text": "3.80"}, {"align": "r", "bold": true, "text": "75.40"}, {"align": "r", "bold": true, "text": "95.60"}], [{"text": "PosterGen [2]"}, {"align": "r", "text": "2.93"}, {"align": "r", "text": "2.23"}, {"align": "r", "text": "2.98"}, {"align": "r", "text": "2.71"}, {"align": "r", "text": "3.80"}, {"align": "r", "text": "3.76"}, {"align": "r", "text": "3.37"}, {"align": "r", "text": "3.64"}, {"align": "r", "text": "57.45"}, {"align": "r", "text": "91.85"}], [{"fill": "#E9F5F2", "color": "#0E9F8A", "text": "ResearchStudio-Reel (Codex, gpt-5.5)"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "3.16"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "3.03"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "3.62"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "3.27"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "3.95"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "3.97"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "3.09"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "3.67"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "55.55"}, {"align": "r", "fill": "#E9F5F2", "color": "#0E9F8A", "text": "92.01"}], [{"fill": "#E8EEFC", "color": "#1D4ED8", "text": "ResearchStudio-Reel (Claude Code, claude-opus-4.8)"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "bold": true, "text": "3.53"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "bold": true, "text": "3.17"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "bold": true, "text": "3.99"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "bold": true, "text": "3.56"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "bold": true, "text": "3.99"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "bold": true, "text": "4.03"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "text": "3.41"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "text": "3.81"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "text": "56.79"}, {"align": "r", "fill": "#E8EEFC", "color": "#1D4ED8", "text": "92.16"}], [{"color": "#1B2430", "text": "Author ground truth (human reference)"}, {"align": "r", "color": "#1B2430", "text": "3.13"}, {"align": "r", "color": "#1B2430", "text": "2.60"}, {"align": "r", "color": "#1B2430", "text": "3.35"}, {"align": "r", "color": "#1B2430", "text": "3.03"}, {"align": "r", "color": "#1B2430", "text": "3.45"}, {"align": "r", "color": "#1B2430", "text": "3.85"}, {"align": "r", "color": "#1B2430", "text": "3.50"}, {"align": "r", "color": "#1B2430", "text": "3.60"}, {"align": "r", "color": "#1B2430", "text": "54.73"}, {"align": "r", "color": "#1B2430", "text": "91.40"}]]}</metadata>
+  <rect x="56" y="214" width="1168.0" height="38" fill="#F3F5F8"/>
+  <line x1="56" y1="252" x2="1224.0" y2="252" stroke="#1B2430" stroke-width="1"/>
+  <rect x="56" y="432" width="1168.0" height="30" fill="#E9F5F2"/>
+  <rect x="56" y="462" width="1168.0" height="30" fill="#E8EEFC"/>
+  <text x="64" y="236.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="start">System</text>
+  <text x="434.8" y="236.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Elem.</text>
+  <text x="521.6" y="236.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Engag.</text>
+  <text x="608.4" y="236.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Layout</text>
+  <text x="695.1999999999999" y="230.3" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Aes.<tspan x="695.1999999999999" dy="13">overall</tspan></text>
+  <text x="781.9999999999999" y="236.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Low</text>
+  <text x="868.7999999999998" y="236.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Logic</text>
+  <text x="955.5999999999998" y="236.8" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Cont.</text>
+  <text x="1042.3999999999999" y="230.3" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Info<tspan x="1042.3999999999999" dy="13">overall</tspan></text>
+  <text x="1129.1999999999998" y="230.3" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Quiz<tspan x="1129.1999999999998" dy="13">detail %</tspan></text>
+  <text x="1215.9999999999998" y="230.3" font-size="11" font-weight="bold" fill="#1B2430" text-anchor="end">Quiz<tspan x="1215.9999999999998" dy="13">underst. %</tspan></text>
+  <line x1="56" y1="282" x2="1224.0" y2="282" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="271.2" font-size="12" fill="#2F3A48" text-anchor="start">Claude-4.8 Opus (single-shot)</text>
+  <text x="434.8" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">3.10</text>
+  <text x="521.6" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">2.68</text>
+  <text x="608.4" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">2.97</text>
+  <text x="695.1999999999999" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">2.92</text>
+  <text x="781.9999999999999" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">3.92</text>
+  <text x="868.7999999999998" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">4.01</text>
+  <text x="955.5999999999998" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">3.80</text>
+  <text x="1042.3999999999999" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">3.91</text>
+  <text x="1129.1999999999998" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">69.86</text>
+  <text x="1215.9999999999998" y="271.2" font-size="12" fill="#2F3A48" text-anchor="end">93.67</text>
+  <line x1="56" y1="312" x2="1224.0" y2="312" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="301.2" font-size="12" fill="#2F3A48" text-anchor="start">GPT-5.5 (single-shot)</text>
+  <text x="434.8" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end">3.12</text>
+  <text x="521.6" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end">2.94</text>
+  <text x="608.4" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end">3.40</text>
+  <text x="695.1999999999999" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end">3.15</text>
+  <text x="781.9999999999999" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end" font-weight="bold">3.99</text>
+  <text x="868.7999999999998" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end">4.00</text>
+  <text x="955.5999999999998" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end" font-weight="bold">3.91</text>
+  <text x="1042.3999999999999" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end" font-weight="bold">3.97</text>
+  <text x="1129.1999999999998" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end">70.89</text>
+  <text x="1215.9999999999998" y="301.2" font-size="12" fill="#2F3A48" text-anchor="end">94.25</text>
+  <line x1="56" y1="342" x2="1224.0" y2="342" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="331.2" font-size="12" fill="#2F3A48" text-anchor="start">Gemini-3.1 Pro (single-shot)</text>
+  <text x="434.8" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">3.07</text>
+  <text x="521.6" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">2.89</text>
+  <text x="608.4" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">3.27</text>
+  <text x="695.1999999999999" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">3.08</text>
+  <text x="781.9999999999999" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">3.95</text>
+  <text x="868.7999999999998" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">4.00</text>
+  <text x="955.5999999999998" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">3.65</text>
+  <text x="1042.3999999999999" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">3.87</text>
+  <text x="1129.1999999999998" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">65.36</text>
+  <text x="1215.9999999999998" y="331.2" font-size="12" fill="#2F3A48" text-anchor="end">93.59</text>
+  <line x1="56" y1="372" x2="1224.0" y2="372" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="361.2" font-size="12" fill="#2F3A48" text-anchor="start">Paper2Poster tool [1]</text>
+  <text x="434.8" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">2.86</text>
+  <text x="521.6" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">2.30</text>
+  <text x="608.4" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">3.00</text>
+  <text x="695.1999999999999" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">2.72</text>
+  <text x="781.9999999999999" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">3.46</text>
+  <text x="868.7999999999998" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">3.41</text>
+  <text x="955.5999999999998" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">3.34</text>
+  <text x="1042.3999999999999" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">3.40</text>
+  <text x="1129.1999999999998" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">69.95</text>
+  <text x="1215.9999999999998" y="361.2" font-size="12" fill="#2F3A48" text-anchor="end">95.02</text>
+  <line x1="56" y1="402" x2="1224.0" y2="402" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="391.2" font-size="12" fill="#2F3A48" text-anchor="start">P2P [3]</text>
+  <text x="434.8" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end">2.68</text>
+  <text x="521.6" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end">2.34</text>
+  <text x="608.4" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end">3.15</text>
+  <text x="695.1999999999999" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end">2.72</text>
+  <text x="781.9999999999999" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end">3.92</text>
+  <text x="868.7999999999998" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end">3.78</text>
+  <text x="955.5999999999998" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end">3.70</text>
+  <text x="1042.3999999999999" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end">3.80</text>
+  <text x="1129.1999999999998" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end" font-weight="bold">75.40</text>
+  <text x="1215.9999999999998" y="391.2" font-size="12" fill="#2F3A48" text-anchor="end" font-weight="bold">95.60</text>
+  <line x1="56" y1="432" x2="1224.0" y2="432" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="421.2" font-size="12" fill="#2F3A48" text-anchor="start">PosterGen [2]</text>
+  <text x="434.8" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">2.93</text>
+  <text x="521.6" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">2.23</text>
+  <text x="608.4" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">2.98</text>
+  <text x="695.1999999999999" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">2.71</text>
+  <text x="781.9999999999999" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">3.80</text>
+  <text x="868.7999999999998" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">3.76</text>
+  <text x="955.5999999999998" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">3.37</text>
+  <text x="1042.3999999999999" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">3.64</text>
+  <text x="1129.1999999999998" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">57.45</text>
+  <text x="1215.9999999999998" y="421.2" font-size="12" fill="#2F3A48" text-anchor="end">91.85</text>
+  <line x1="56" y1="462" x2="1224.0" y2="462" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="start">ResearchStudio-Reel (Codex, gpt-5.5)</text>
+  <text x="434.8" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">3.16</text>
+  <text x="521.6" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">3.03</text>
+  <text x="608.4" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">3.62</text>
+  <text x="695.1999999999999" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">3.27</text>
+  <text x="781.9999999999999" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">3.95</text>
+  <text x="868.7999999999998" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">3.97</text>
+  <text x="955.5999999999998" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">3.09</text>
+  <text x="1042.3999999999999" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">3.67</text>
+  <text x="1129.1999999999998" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">55.55</text>
+  <text x="1215.9999999999998" y="451.2" font-size="12" fill="#0E9F8A" text-anchor="end">92.01</text>
+  <line x1="56" y1="492" x2="1224.0" y2="492" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="start">ResearchStudio-Reel (Claude Code, claude-opus-4.8)</text>
+  <text x="434.8" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end" font-weight="bold">3.53</text>
+  <text x="521.6" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end" font-weight="bold">3.17</text>
+  <text x="608.4" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end" font-weight="bold">3.99</text>
+  <text x="695.1999999999999" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end" font-weight="bold">3.56</text>
+  <text x="781.9999999999999" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end" font-weight="bold">3.99</text>
+  <text x="868.7999999999998" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end" font-weight="bold">4.03</text>
+  <text x="955.5999999999998" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end">3.41</text>
+  <text x="1042.3999999999999" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end">3.81</text>
+  <text x="1129.1999999999998" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end">56.79</text>
+  <text x="1215.9999999999998" y="481.2" font-size="12" fill="#1D4ED8" text-anchor="end">92.16</text>
+  <line x1="56" y1="522" x2="1224.0" y2="522" stroke="#E6EAEF" stroke-width="0.75"/>
+  <text x="64" y="511.2" font-size="12" fill="#1B2430" text-anchor="start">Author ground truth (human reference)</text>
+  <text x="434.8" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">3.13</text>
+  <text x="521.6" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">2.60</text>
+  <text x="608.4" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">3.35</text>
+  <text x="695.1999999999999" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">3.03</text>
+  <text x="781.9999999999999" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">3.45</text>
+  <text x="868.7999999999998" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">3.85</text>
+  <text x="955.5999999999998" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">3.50</text>
+  <text x="1042.3999999999999" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">3.60</text>
+  <text x="1129.1999999999998" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">54.73</text>
+  <text x="1215.9999999999998" y="511.2" font-size="12" fill="#1B2430" text-anchor="end">91.40</text>
+</g>
+<g id="result-summary" data-pptx-bounds="56 536 1168 104">
+  <rect x="56" y="536" width="4" height="98" fill="#1D4ED8"/>
+  <circle cx="76" cy="548.5" r="3" fill="#1D4ED8"/>
+  <text x="88" y="552" font-size="11" fill="#2F3A48">Overall score (mean of the two Overall columns): Claude Code leads at 3.69; single-shot LLMs 3.41–3.56 and Codex 3.47 form a second tier; reproduced pipelines 3.06–3.26. Bold = best per column among the<tspan x="88" dy="14">systems.</tspan></text>
+  <circle cx="76" cy="580.5" r="3" fill="#1D4ED8"/>
+  <text x="88" y="584" font-size="11" fill="#2F3A48">Per paper, Claude Code beats the authors' poster on overall score for 74 of 100 papers under the Claude judge and 95 under the GPT judge (85% and 100% of non-tied papers). On PaperQuiz the ranking inverts (next<tspan x="88" dy="14">page).</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">11</text>
+</g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial" font-size="16" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="signpost" data-pptx-role="chrome" data-pptx-bounds="824 28 400 22">
+  <text x="1224" y="44" font-size="12" fill="#6B7684" text-anchor="end" letter-spacing="1">§1 CONTRIBUTIONS · FIGURE 2</text>
+</g>
+<g id="title" data-pptx-bounds="56 56 1168 74">
+  <text x="56" y="84" font-size="28" font-weight="bold" fill="#1B2430">The answer: a native-editable workspace of five skills — one shared extractor,<tspan x="56" dy="34">three editable generators, one convergence layer</tspan></text>
+</g>
+<g id="claim-line" data-pptx-bounds="56 136 1168 24">
+  <text x="56" y="152" font-size="18" fill="#6B7684">Figure 2: one PDF in, three editor-ready artifacts out, one shared extraction in the middle (§1, §2)</text>
+</g>
+<line id="title-rule" data-pptx-role="decoration" x1="56" y1="170" x2="1224" y2="170" stroke="#C9D0D8" stroke-width="1"/>
+<g id="pipeline-figure" data-pptx-bounds="56 192 760 180">
+  <rect x="56" y="194" width="760" height="178" fill="#FFFFFF" stroke="#C9D0D8" stroke-width="0.75"/>
+  <image href="../images/fig2_pipeline.png" x="62" y="200" width="748" height="166" preserveAspectRatio="xMidYMid meet"/>
+  <rect x="56" y="194" width="50" height="16" fill="#1B2430"/><text x="60" y="206" font-size="10" font-weight="bold" fill="#FFFFFF" letter-spacing="0.5">FIG. 2</text>
+</g>
+<g id="skills-list" data-pptx-bounds="848 192 376 190">
+  <text x="848" y="206" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">FIVE SKILLS, IN PIPELINE ORDER</text>
+  <line x1="848" y1="214" x2="1224" y2="214" stroke="#1B2430" stroke-width="1"/>
+  <circle cx="858" cy="233" r="10" fill="#1D4ED8"/><text x="858" y="237.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text><text x="876" y="238" font-size="16" font-weight="bold" fill="#1B2430">Paper2Assets</text><text x="1010" y="238" font-size="13" fill="#6B7684">shared extractor</text><text x="1224" y="238" font-size="13" font-weight="bold" fill="#1D4ED8" text-anchor="end">answers G1</text>
+  <circle cx="858" cy="263" r="10" fill="#1B2430"/><text x="858" y="267.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text><text x="876" y="268" font-size="16" font-weight="bold" fill="#1B2430">Paper2Poster</text><text x="1010" y="268" font-size="13" fill="#6B7684">editable generator</text><text x="1224" y="268" font-size="13" font-weight="bold" fill="#1D4ED8" text-anchor="end">answers G2</text>
+  <circle cx="858" cy="293" r="10" fill="#1B2430"/><text x="858" y="297.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text><text x="876" y="298" font-size="16" font-weight="bold" fill="#1B2430">Paper2Video</text><text x="1010" y="298" font-size="13" fill="#6B7684">editable generator</text><text x="1224" y="298" font-size="13" font-weight="bold" fill="#1D4ED8" text-anchor="end">answers G2</text>
+  <circle cx="858" cy="323" r="10" fill="#1B2430"/><text x="858" y="327.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text><text x="876" y="328" font-size="16" font-weight="bold" fill="#1B2430">Paper2Blog</text><text x="1010" y="328" font-size="13" fill="#6B7684">editable generator</text><text x="1224" y="328" font-size="13" font-weight="bold" fill="#1D4ED8" text-anchor="end">answers G2</text>
+  <circle cx="858" cy="353" r="10" fill="#1D4ED8"/><text x="858" y="357.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text><text x="876" y="358" font-size="16" font-weight="bold" fill="#1B2430">Paper2Reel</text><text x="1010" y="358" font-size="13" fill="#6B7684">convergence layer</text><text x="1224" y="358" font-size="13" font-weight="bold" fill="#1D4ED8" text-anchor="end">answers G3</text>
+</g>
+<g id="contributions-head" data-pptx-bounds="56 390 1168 24">
+  <text x="56" y="406" font-size="12" font-weight="bold" fill="#1B2430" letter-spacing="2">CONTRIBUTIONS, AS THE AUTHORS STATE THEM</text>
+  <line x1="56" y1="414" x2="1224" y2="414" stroke="#1B2430" stroke-width="1"/>
+</g>
+<g id="contribution-1" data-pptx-bounds="56 426 568 48">
+  <circle cx="66" cy="439" r="10" fill="#1B2430"/><text x="66" y="443.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="84" y="444" font-size="14" fill="#2F3A48">The workspace itself: one paper PDF becomes a print-ready conference poster,<tspan x="84" dy="19">a narrated talk video, and a bilingual blog through composable skills.</tspan></text>
+</g>
+<g id="contribution-2" data-pptx-bounds="656 426 568 67">
+  <circle cx="666" cy="439" r="10" fill="#1B2430"/><text x="666" y="443.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="684" y="444" font-size="14" fill="#2F3A48">Paper2Reel, an experience-level convergence layer whose interactions connect<tspan x="684" dy="19">poster regions, video segments, and blog passages in one navigable HTML</tspan><tspan x="684" dy="19">surface.</tspan></text>
+</g>
+<g id="contribution-3" data-pptx-bounds="56 502 568 67">
+  <circle cx="66" cy="515" r="10" fill="#1B2430"/><text x="66" y="519.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="84" y="520" font-size="14" fill="#2F3A48">A delivery contract: one shared Paper2Assets bundle plus native-editable<tspan x="84" dy="19">sources — PowerPoint for the poster and the video deck, Word for the bilingual</tspan><tspan x="84" dy="19">blog.</tspan></text>
+</g>
+<g id="contribution-4" data-pptx-bounds="656 502 568 124">
+  <circle cx="666" cy="515" r="10" fill="#1B2430"/><text x="666" y="519.0" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="684" y="520" font-size="14" fill="#2F3A48">Posters best among automated systems on all three aesthetic sub-criteria and<tspan x="684" dy="19">best or tied-best on two of three information sub-criteria; about 17.5% above the</tspan><tspan x="684" dy="19">authors' own on aesthetics (3.56 vs 3.03); overall wins on 74 and 95 of 100</tspan><tspan x="684" dy="19">papers under the two judges. The video ships narration-aligned highlights,</tspan><tspan x="684" dy="19">burned-in and sidecar subtitles, and duration control; the blog ships in two</tspan><tspan x="684" dy="19">languages with layout-aware DOCX repair.</tspan></text>
+</g>
+<g id="runtime-note" data-pptx-bounds="56 614 568 56">
+  <text x="56" y="628" font-size="12" fill="#6B7684">Runtimes: Claude Code and Codex skill mechanisms; deterministic primitives — headless<tspan x="56" dy="16">Chromium (HTML→PDF), LibreOffice + ffmpeg (slides→video), python-docx (.docx); Edge TTS</tspan><tspan x="56" dy="16">for narration. The runtime itself is not a contribution.</tspan></text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="56 664 1168 26">
+  <text x="56" y="682" font-size="10" fill="#6B7684">Source: arXiv:2607.04438 v2 (19 Jul 2026)</text>
+  <text x="1224" y="682" font-size="10" fill="#6B7684" text-anchor="end">4</text>
+</g>
+</svg>
