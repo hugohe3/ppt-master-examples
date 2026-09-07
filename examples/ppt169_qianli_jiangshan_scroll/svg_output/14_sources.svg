@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="page-title" data-pptx-bounds="72 70 1136 70">
+<text x="72" y="120" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">出处</text>
+</g>
+<g id="facts-sources" data-pptx-bounds="72 170 620 340">
+<text x="72" y="200" font-size="28" fill="#2B5C8A" font-weight="bold">事实来源</text><text x="72" y="244" font-size="20" fill="#1F2422"><tspan x="72" dy="0">· 故宫博物院藏品页：<a href="https://www.dpm.org.cn/collection/paint/228354.html"><tspan fill="#2B5C8A" text-decoration="underline">王希孟千里江山图卷</tspan></a></tspan><tspan x="72" dy="34">· 国家人文历史《层层迷雾》，2023-08-31</tspan><tspan x="72" dy="34">· 新京报《京华物语：少年英才王希孟》</tspan><tspan x="72" dy="34">· 光明日报《青绿山水等你来》，2017-09-13</tspan><tspan x="72" dy="34">· 新浪收藏《周日撤展》，2017-10-29</tspan><tspan x="72" dy="34">· 新华网《只此青绿在港开演》，2024-01-05：<a href="http://www.news.cn/gangao/20240105/b53d4993afb3495181523db8257acb36/c.html"><tspan fill="#2B5C8A" text-decoration="underline">news.cn</tspan></a></tspan><tspan x="72" dy="34">· 雅昌艺术网《矿物密码》，2024-06-08</tspan><tspan x="72" dy="34">· 维基百科 / Wikipedia：千里江山图</tspan></text>
+</g>
+<g id="image-sources" data-pptx-bounds="720 170 488 240">
+<text x="720" y="200" font-size="28" fill="#2B5C8A" font-weight="bold">图片与引文</text><text x="720" y="244" font-size="20" fill="#1F2422"><tspan x="720" dy="0">· 王希孟《千里江山图》，故宫博物院藏；</tspan><tspan x="720" dy="34">  扫描件来自 <a href="https://commons.wikimedia.org/wiki/Category:A_Thousand_Li_of_Rivers_and_Mountains"><tspan fill="#2B5C8A" text-decoration="underline">Wikimedia Commons</tspan></a>，公有领域</tspan><tspan x="720" dy="34">· 矿物、画具、人物与题字插画为 AI 生成示意图</tspan><tspan x="720" dy="34">· 题跋、题诗引文照录来源转录</tspan></text>
+</g>
+<g id="date-note" data-pptx-bounds="720 420 488 80">
+<text x="720" y="450" font-size="16" fill="#6E675B"><tspan x="720" dy="0">注：蔡京题跋日期"闰四月一日"另有"八日"之说，</tspan><tspan x="720" dy="24">本卷采多数来源。</tspan></text>
+</g>
+<g id="pine-accent" data-pptx-bounds="1000 510 220 180">
+<image href="../images/obj_pine.png" x="1040" y="520" width="160" height="165" preserveAspectRatio="xMidYMid meet"/>
+</g>
+</svg>

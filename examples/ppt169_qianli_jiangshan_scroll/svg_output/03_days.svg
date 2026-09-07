@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<image id="tension-bg" data-pptx-role="background" href="../images/scroll_bridge.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+<rect id="scrim-0" data-pptx-role="decoration" x="0" y="0" width="1280" height="200" fill="#10282C" fill-opacity="0.84"/>
+<rect id="scrim-1" data-pptx-role="decoration" x="0" y="460" width="1280" height="260" fill="#10282C" fill-opacity="0.84"/>
+<rect id="scrim-2" data-pptx-role="decoration" x="0" y="200" width="800" height="260" fill="#10282C" fill-opacity="0.84"/>
+<rect id="scrim-3" data-pptx-role="decoration" x="1208" y="200" width="72" height="260" fill="#10282C" fill-opacity="0.84"/>
+<rect id="case-frame" data-pptx-role="decoration" x="800" y="200" width="408" height="260" fill="none" stroke="#F3ECDA" stroke-opacity="0.7" stroke-width="1.5"/>
+<g id="page-title" data-pptx-bounds="72 80 1136 80">
+<text x="72" y="136" font-family="KaiTi, Times New Roman" font-size="48" fill="#F3ECDA">九百年里，它这样打开过四十六天</text>
+</g>
+<g id="hero-days" data-pptx-bounds="72 230 640 166">
+<text x="72" y="345" font-family="KaiTi, Times New Roman" font-size="120" fill="#F3ECDA">46<tspan font-size="48"> 天</tspan></text><text x="300" y="345" font-size="20" fill="#F3ECDA">2017 年，首次全卷展出</text>
+</g>
+<g id="tension-facts" data-pptx-bounds="72 410 640 160">
+<text x="72" y="448" font-size="28" fill="#F3ECDA"><tspan x="72" dy="0">每天只放 2400 张票</tspan><tspan x="72" dy="48">开门半个多小时，全天的票就发完</tspan><tspan x="72" dy="48">撤展之后，进入约三年的休养期</tspan></text>
+</g>
+<g id="window-caption" data-pptx-bounds="800 470 408 30">
+<text x="800" y="492" font-size="16" fill="#F3ECDA">《千里江山图》局部 · 展柜里通常能看到的宽度</text>
+</g>
+<g id="tension-note" data-pptx-bounds="72 600 1136 70">
+<text x="72" y="624" font-size="20" fill="#D8CDB2">2013 年在武英殿的那次展出，只有一天。</text><text x="72" y="656" font-size="16" fill="#6E675B">来源：新浪收藏 2017-10-29；光明日报 2017-09-13；国家人文历史 2023</text>
+</g>
+</svg>

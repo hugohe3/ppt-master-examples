@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="page-title" data-pptx-bounds="72 70 1136 70">
+<text x="72" y="120" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">青绿不是画上去的，是一层层堆出来的</text>
+</g>
+<g id="pigment-section" data-pptx-bounds="66 170 350 438">
+<text x="72" y="200" font-size="20" fill="#6E675B">五层剖面（示意）</text>
+<rect x="72" y="236" width="330" height="70" fill="#2B5C8A"/>
+<text x="90" y="267" font-size="20" fill="#F3ECDA" font-weight="bold">石青</text>
+<text x="90" y="292" font-size="16" fill="#F3ECDA">第五层 · 蓝铜矿</text>
+<rect x="78" y="306" width="318" height="70" fill="#4E9E7C"/>
+<text x="96" y="337" font-size="20" fill="#F3ECDA" font-weight="bold">石绿（第二遍）</text>
+<text x="96" y="362" font-size="16" fill="#F3ECDA">第四层 · 孔雀石</text>
+<rect x="84" y="376" width="306" height="70" fill="#3F8F6C"/>
+<text x="102" y="407" font-size="20" fill="#F3ECDA" font-weight="bold">石绿（第一遍）</text>
+<text x="102" y="432" font-size="16" fill="#F3ECDA">第三层 · 孔雀石</text>
+<rect x="90" y="446" width="294" height="70" fill="#A8734A"/>
+<text x="108" y="477" font-size="20" fill="#F3ECDA" font-weight="bold">赭石</text>
+<text x="108" y="502" font-size="16" fill="#F3ECDA">第二层 · 铺底</text>
+<rect x="96" y="516" width="282" height="8" fill="#1F2422"/>
+<text x="114" y="546" font-size="16" fill="#1F2422">墨线 · 第一层，勾勒山石</text>
+<rect x="96" y="560" width="282" height="40" fill="#E8DCBD" stroke="#D8CDB2" stroke-width="1"/>
+<text x="114" y="586" font-size="16" fill="#6E675B">绢</text>
+</g>
+<g id="mineral-samples" data-pptx-bounds="456 286 100 204">
+<image href="../images/obj_ochre.png" x="462" y="292" width="88" height="60" preserveAspectRatio="xMidYMid meet"/><image href="../images/obj_malachite.png" x="462" y="360" width="88" height="60" preserveAspectRatio="xMidYMid meet"/><image href="../images/obj_azurite.png" x="462" y="428" width="88" height="60" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="pigment-layers" data-pptx-replace-with="table" data-pptx-bounds="560 180 648 304" data-pptx-fallback-sha256="35968f92511230ad60c1ed8674f44312c1bcdec508b13f2f0795c81b1bb6a160">
+<metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "x": 560, "y": 180, "width": 648, "height": 304, "name": "pigment-layers", "columns": [{"text": "层次", "bold": true, "color": "#FFFFFF", "align": "l"}, {"text": "颜料", "bold": true, "color": "#FFFFFF", "align": "l"}, {"text": "来源", "bold": true, "color": "#FFFFFF", "align": "l"}, {"text": "作用", "bold": true, "color": "#FFFFFF", "align": "l"}], "rows": [[{"text": "第一层", "bold": true, "color": "#2B5C8A"}, "线稿", "墨", "勾勒山石轮廓"], [{"text": "第二层", "bold": true, "color": "#2B5C8A"}, "赭石", "赭石（土质矿物）", "铺底与远山渲染"], [{"text": "第三、四层", "bold": true, "color": "#2B5C8A"}, "石绿", "孔雀石", "大面积上两遍"], [{"text": "第五层", "bold": true, "color": "#2B5C8A"}, "石青", "蓝铜矿", "最上层，最珍贵的青"]], "column_widths": [140, 90, 200, 218], "row_heights": [48, 64, 64, 64, 64], "header_rows": 1, "style": {"font_family": "Microsoft YaHei", "font_size": 20, "header_fill": "#3F8F6C", "header_text": "#FFFFFF", "body_text": "#1F2422", "band_row": false, "valign": "middle"}, "defaults": {"cell": {"align": "l", "padding": {"left": 12, "right": 12, "top": 4, "bottom": 4}, "borders": {"top": {"style": "none"}, "left": {"style": "none"}, "right": {"style": "none"}, "bottom": {"style": "solid", "color": "#D8CDB2", "width": 1}}}}}</metadata>
+<rect x="560" y="180" width="648" height="48" fill="#3F8F6C"/>
+<text x="572" y="211" font-size="20" fill="#FFFFFF" font-weight="bold">层次</text>
+<text x="712" y="211" font-size="20" fill="#FFFFFF" font-weight="bold">颜料</text>
+<text x="802" y="211" font-size="20" fill="#FFFFFF" font-weight="bold">来源</text>
+<text x="1002" y="211" font-size="20" fill="#FFFFFF" font-weight="bold">作用</text>
+<text x="572" y="267" font-size="20" fill="#2B5C8A" font-weight="bold">第一层</text>
+<text x="712" y="267" font-size="20" fill="#1F2422">线稿</text>
+<text x="802" y="267" font-size="20" fill="#1F2422">墨</text>
+<text x="1002" y="267" font-size="20" fill="#1F2422">勾勒山石轮廓</text>
+<line x1="560" y1="292" x2="1208" y2="292" stroke="#D8CDB2" stroke-width="1"/>
+<text x="572" y="331" font-size="20" fill="#2B5C8A" font-weight="bold">第二层</text>
+<text x="712" y="331" font-size="20" fill="#1F2422">赭石</text>
+<text x="802" y="331" font-size="20" fill="#1F2422">赭石（土质矿物）</text>
+<text x="1002" y="331" font-size="20" fill="#1F2422">铺底与远山渲染</text>
+<line x1="560" y1="356" x2="1208" y2="356" stroke="#D8CDB2" stroke-width="1"/>
+<text x="572" y="395" font-size="20" fill="#2B5C8A" font-weight="bold">第三、四层</text>
+<text x="712" y="395" font-size="20" fill="#1F2422">石绿</text>
+<text x="802" y="395" font-size="20" fill="#1F2422">孔雀石</text>
+<text x="1002" y="395" font-size="20" fill="#1F2422">大面积上两遍</text>
+<line x1="560" y1="420" x2="1208" y2="420" stroke="#D8CDB2" stroke-width="1"/>
+<text x="572" y="459" font-size="20" fill="#2B5C8A" font-weight="bold">第五层</text>
+<text x="712" y="459" font-size="20" fill="#1F2422">石青</text>
+<text x="802" y="459" font-size="20" fill="#1F2422">蓝铜矿</text>
+<text x="1002" y="459" font-size="20" fill="#1F2422">最上层，最珍贵的青</text>
+<line x1="560" y1="484" x2="1208" y2="484" stroke="#D8CDB2" stroke-width="1"/>
+</g>
+<g id="layers-quote" data-pptx-bounds="560 520 648 60">
+<text x="560" y="560" font-size="28" fill="#1F2422">九百余年后，它仍"散发出宝石般的光芒"。</text>
+</g>
+<g id="layers-note" data-pptx-bounds="560 590 648 50">
+<text x="560" y="620" font-size="20" fill="#6E675B">工艺记载：线稿、赭石、孔雀石两遍、最后石青，共五层。</text>
+</g>
+<g id="source-line" data-pptx-bounds="560 672 648 32">
+<text x="560" y="694" font-size="16" fill="#6E675B">来源：国家人文历史 2023；雅昌艺术网 2024-06-08；故宫博物院藏品页</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="cover">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="cover-painting" data-pptx-bounds="515 0 765 720">
+<svg id="cover-painting-crop" x="515" y="0" width="765" height="720" viewBox="0 0 0.7237 1" preserveAspectRatio="none" overflow="hidden"><image href="../images/scroll_start.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg><rect x="515" y="0" width="3" height="720" fill="#A8734A"/>
+</g>
+<g id="cover-lettering" data-pptx-bounds="56 150 430 130">
+<image href="../images/word_qianli.png" x="60" y="160" width="400" height="107" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="cover-title" data-pptx-bounds="60 285 440 135">
+<text x="64" y="330" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">《千里江山图》</text><text x="64" y="395" font-family="KaiTi, Times New Roman" font-size="36" fill="#2B5C8A">十八岁的青绿</text>
+</g>
+<g id="cover-hook" data-pptx-bounds="60 440 440 110">
+<text x="64" y="480" font-size="32" fill="#1F2422"><tspan x="64" dy="0">十八岁的少年，半年，</tspan><tspan x="64" dy="46">画了一卷近十二米的江山</tspan></text>
+</g>
+<g id="cover-caption" data-pptx-bounds="60 590 440 80">
+<text x="64" y="618" font-size="20" fill="#6E675B"><tspan x="64" dy="0">北宋 · 王希孟 · 绢本设色</tspan><tspan x="64" dy="30">51.5 × 1191.5 cm · 故宫博物院藏</tspan></text>
+</g>
+</svg>

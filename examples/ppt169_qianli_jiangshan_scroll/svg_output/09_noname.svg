@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="page-title" data-pptx-bounds="100 235 700 90">
+<text x="108" y="300" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">他没有在画上留下名字</text>
+</g>
+<g id="turn-notes" data-pptx-bounds="100 330 700 110">
+<text x="108" y="368" font-size="20" fill="#6E675B"><tspan x="108" dy="0">蔡京的题跋只写了"希孟"二字；</tspan><tspan x="108" dy="34">"王希孟千里江山图"，是清初藏家梁清标装裱时的外签。</tspan></text>
+</g>
+<g id="seal-motif" data-pptx-bounds="580 470 100 175">
+<image href="../images/obj_seal.png" x="590" y="480" width="88" height="162" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="scroll-figure" data-pptx-bounds="900 220 320 440">
+<image href="../images/fig_painter_scroll.png" x="930" y="230" width="265" height="430" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="source-line" data-pptx-bounds="72 672 1136 32">
+<text x="72" y="694" font-size="16" fill="#6E675B">来源：国家人文历史 2023</text>
+</g>
+</svg>

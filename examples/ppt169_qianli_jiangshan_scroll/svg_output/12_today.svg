@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="page-title" data-pptx-bounds="72 70 1136 70">
+<text x="72" y="120" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">它今天还在被看见</text>
+</g>
+<g id="visitor-figure" data-pptx-bounds="80 180 200 470">
+<image href="../images/fig_visitor.png" x="100" y="190" width="158" height="440" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="scroll-object" data-pptx-bounds="290 470 200 130">
+<image href="../images/obj_scroll.png" x="300" y="480" width="170" height="102" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="impact-numbers" data-pptx-bounds="510 190 700 290">
+<text x="520" y="300" font-family="KaiTi, Times New Roman" font-size="120" fill="#2B5C8A"><tspan font-size="48" fill="#1F2422">近 </tspan>400<tspan font-size="48" fill="#1F2422"> 场</tspan></text>
+<text x="520" y="380" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422"><tspan x="520" dy="0">走过 50 座城市</tspan><tspan x="520" dy="70">登上 2022 年央视春晚</tspan></text>
+</g>
+<g id="impact-desc" data-pptx-bounds="510 490 700 116">
+<text x="520" y="520" font-size="20" fill="#1F2422"><tspan x="520" dy="0">舞蹈诗剧《只此青绿——舞绘〈千里江山图〉》，2021 年 8 月在国家大剧</tspan><tspan x="520" dy="32">院首演；到 2024 年 1 月，已走过全国 50 座城市、演出近 400 场。</tspan></text>
+</g>
+<g id="impact-note" data-pptx-bounds="510 606 700 40">
+<text x="520" y="632" font-size="20" fill="#6E675B">总编导：周莉亚、韩真</text>
+</g>
+<g id="source-line" data-pptx-bounds="520 672 688 32">
+<text x="520" y="694" font-size="16" fill="#6E675B">来源：新华网 2024-01-05；中新网 2022-02-02</text>
+</g>
+</svg>

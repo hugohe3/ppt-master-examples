@@ -1,0 +1,24 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,fig_painter_desk.png,961,1130,0.85,0.85,,native,PNG,True,1,,bitmap,True,True,1354.5,Near square
+2,fig_painter_scroll.png,711,1152,0.62,0.62,,native,PNG,True,1,,bitmap,True,True,995.7,Portrait
+3,fig_visitor.png,409,1136,0.36,0.36,,native,PNG,True,1,,bitmap,True,True,461.0,Portrait
+4,obj_azurite.png,524,396,1.32,1.32,,native,PNG,True,1,,bitmap,True,True,398.4,Standard landscape
+5,obj_brush.png,512,567,0.90,0.90,,native,PNG,True,1,,bitmap,True,True,305.6,Near square
+6,obj_dish.png,521,304,1.71,1.71,,native,PNG,True,1,,bitmap,True,True,257.5,Wide landscape
+7,obj_malachite.png,522,368,1.42,1.42,,native,PNG,True,1,,bitmap,True,True,341.1,Standard landscape
+8,obj_ochre.png,499,391,1.28,1.28,,native,PNG,True,1,,bitmap,True,True,319.4,Standard landscape
+9,obj_pine.png,523,551,0.95,0.95,,native,PNG,True,1,,bitmap,True,True,536.2,Near square
+10,obj_scroll.png,589,354,1.66,1.66,,native,PNG,True,1,,bitmap,True,True,352.5,Wide landscape
+11,obj_seal.png,286,529,0.54,0.54,,native,PNG,True,1,,bitmap,True,True,273.9,Portrait
+12,scroll_bridge.jpg,7496,1600,4.68,4.68,,native,JPEG,False,1,,bitmap,True,True,4457.3,Ultra-wide
+13,scroll_complete.jpg,39974,1600,24.98,24.98,,native,JPEG,False,1,,bitmap,True,True,14379.6,Ultra-wide
+14,scroll_end.jpg,7446,1600,4.65,4.65,,native,JPEG,False,1,,bitmap,True,True,4198.0,Ultra-wide
+15,scroll_river1.jpg,7546,1600,4.72,4.72,,native,JPEG,False,1,,bitmap,True,True,4291.1,Ultra-wide
+16,scroll_river1_faded.png,2560,543,4.71,4.71,,native,PNG,False,1,,bitmap,True,True,2193.6,Ultra-wide
+17,scroll_section1.jpg,5354,1600,3.35,3.35,,native,JPEG,False,1,,bitmap,True,True,3107.1,Ultra-wide
+18,scroll_start.jpg,2349,1600,1.47,1.47,,native,JPEG,False,1,,bitmap,True,True,1594.5,Standard landscape
+19,scroll_strip.png,3840,154,24.94,24.94,,native,PNG,False,1,,bitmap,True,True,919.1,Ultra-wide
+20,sheet_figures.png,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,3703.2,Wide landscape
+21,sheet_lettering.png,4128,1024,4.03,4.03,,native,PNG,False,1,,bitmap,True,True,2382.2,Ultra-wide
+22,sheet_objects.png,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4533.8,Wide landscape
+23,word_qianli.png,3584,799,4.49,4.49,,native,PNG,True,1,,bitmap,True,True,1925.8,Ultra-wide

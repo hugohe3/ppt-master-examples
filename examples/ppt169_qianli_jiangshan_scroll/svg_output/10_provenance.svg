@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<defs>
+<marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><polygon points="0,0 10,5 0,10" fill="#2B5C8A"/></marker>
+</defs>
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="page-title" data-pptx-bounds="72 70 1136 70">
+<text x="72" y="120" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">九百年里，它经过了这些手</text>
+</g>
+<image id="river-band" data-pptx-role="decoration" href="../images/scroll_river1_faded.png" x="0" y="400" width="1280" height="271" preserveAspectRatio="xMidYMid meet"/>
+<g id="provenance-timeline" data-pptx-bounds="60 200 1170 200">
+<line x1="72" y1="382" x2="1216" y2="382" stroke="#2B5C8A" stroke-width="2" marker-end="url(#arrowBlue)"/>
+<text x="110.0" y="236" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">1113</text>
+<text x="110.0" y="266" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="110.0" dy="0">徽宗赐</tspan><tspan x="110.0" dy="24">蔡京</tspan></text>
+<line x1="110.0" y1="296" x2="110.0" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="110.0" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+<text x="242.5" y="296" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">1126</text>
+<text x="242.5" y="326" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="242.5" dy="0">蔡京贬黜</tspan><tspan x="242.5" dy="24">被查抄</tspan></text>
+<line x1="242.5" y1="356" x2="242.5" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="242.5" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+<text x="375.0" y="236" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">1127</text>
+<text x="375.0" y="266" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="375.0" dy="0">金兵</tspan><tspan x="375.0" dy="24">掠走</tspan></text>
+<line x1="375.0" y1="296" x2="375.0" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="375.0" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+<text x="507.5" y="296" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">南宋</text>
+<text x="507.5" y="326" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="507.5" dy="0">复归内府</tspan><tspan x="507.5" dy="24">缉熙殿宝印</tspan></text>
+<line x1="507.5" y1="356" x2="507.5" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="507.5" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+<text x="640.0" y="236" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">1303</text>
+<text x="640.0" y="266" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="640.0" dy="0">溥光</tspan><tspan x="640.0" dy="24">收藏</tspan></text>
+<line x1="640.0" y1="296" x2="640.0" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="640.0" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+<text x="772.5" y="296" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">清初</text>
+<text x="772.5" y="326" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="772.5" dy="0">梁清标</tspan><tspan x="772.5" dy="24">题签定名</tspan></text>
+<line x1="772.5" y1="356" x2="772.5" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="772.5" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+<text x="905.0" y="236" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">1786</text>
+<text x="905.0" y="266" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="905.0" dy="0">乾隆题诗</tspan><tspan x="905.0" dy="24">钤印</tspan></text>
+<line x1="905.0" y1="296" x2="905.0" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="905.0" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+<text x="1037.5" y="296" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">1922</text>
+<text x="1037.5" y="326" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="1037.5" dy="0">溥仪</tspan><tspan x="1037.5" dy="24">带出宫</tspan></text>
+<line x1="1037.5" y1="356" x2="1037.5" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="1037.5" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+<text x="1170.0" y="236" font-family="KaiTi, Times New Roman" font-size="32" fill="#2B5C8A" font-weight="bold" text-anchor="middle">1953</text>
+<text x="1170.0" y="266" font-size="18" fill="#1F2422" text-anchor="middle"><tspan x="1170.0" dy="0">拨交</tspan><tspan x="1170.0" dy="24">故宫博物院</tspan></text>
+<line x1="1170.0" y1="296" x2="1170.0" y2="372" stroke="#D8CDB2" stroke-width="1"/>
+<circle cx="1170.0" cy="382" r="8" fill="#F3ECDA" stroke="#2B5C8A" stroke-width="2"/>
+</g>
+<g id="seal-motif" data-pptx-bounds="727.5 404 90 158">
+<image href="../images/obj_seal.png" x="739.5" y="410" width="66" height="122" preserveAspectRatio="xMidYMid meet"/><text x="772.5" y="552" font-size="14" fill="#B5382B" text-anchor="middle">名字从这里来</text>
+</g>
+<g id="timeline-caption" data-pptx-bounds="760 590 448 66">
+<text x="1208" y="620" font-size="20" fill="#1F2422" text-anchor="end">九次易手，从徽宗到故宫</text><text x="1208" y="646" font-size="16" fill="#6E675B" text-anchor="end">来源：国家人文历史 2023；维基百科</text>
+</g>
+</svg>

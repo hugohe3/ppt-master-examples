@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-painting": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 1.2
+        },
+        "cover-lettering": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.9
+        },
+        "cover-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.6
+        },
+        "cover-hook": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.8
+        }
+      }
+    },
+    "02_strip": {
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "page-lead": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "scroll-strip": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 1.6,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "strip-facts": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.6
+        }
+      }
+    },
+    "03_days": {
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "window-caption": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "hero-days": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.8
+        },
+        "tension-facts": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.7
+        },
+        "tension-note": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.5
+        }
+      }
+    },
+    "04_colophon": {
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "colophon-scan": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.8
+        },
+        "colophon-text": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 1.2
+        },
+        "colophon-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5
+        },
+        "seal-motif": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.5
+        }
+      }
+    },
+    "05_steps": {
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "painter-figure": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.9
+        },
+        "career-steps": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 1.6,
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "no-signature-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5
+        }
+      }
+    },
+    "06_layers": {
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "pigment-section": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 1.6,
+          "effect_options": {
+            "direction": "up"
+          }
+        },
+        "pigment-layers": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.8
+        },
+        "mineral-samples": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.6
+        },
+        "layers-quote": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.6
+        }
+      }
+    },
+    "07_bridge": {
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        }
+      }
+    },
+    "08_village": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 1.6
+      },
+      "morph": {
+        "from": "07_bridge",
+        "pairs": {
+          "scroll-window": {
+            "from": "scroll-view-bridge",
+            "to": "scroll-view-village"
+          }
+        }
+      },
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        }
+      }
+    },
+    "09_noname": {
+      "groups": {
+        "scroll-figure": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.9
+        },
+        "seal-motif": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.6
+        },
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.8
+        },
+        "turn-notes": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.6
+        }
+      }
+    },
+    "10_provenance": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 1.2
+      },
+      "morph": {
+        "from": "09_noname",
+        "pairs": {
+          "seal": {
+            "from": "seal-motif",
+            "to": "seal-motif"
+          }
+        }
+      },
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "provenance-timeline": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 2.0,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "timeline-caption": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        }
+      }
+    },
+    "11_voices": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 1.2
+      },
+      "morph": {
+        "from": "10_provenance",
+        "pairs": {
+          "seal": {
+            "from": "seal-motif",
+            "to": "seal-motif"
+          }
+        }
+      },
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "quote-puguang": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.8
+        },
+        "quote-qianlong": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.8
+        },
+        "later-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5
+        }
+      }
+    },
+    "12_today": {
+      "groups": {
+        "page-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "visitor-figure": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.8
+        },
+        "impact-numbers": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.9
+        },
+        "scroll-object": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5
+        },
+        "impact-desc": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.6
+        }
+      }
+    },
+    "13_closing": {
+      "groups": {
+        "closing-charge": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 1.4
+        },
+        "closing-note": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.6
+        }
+      }
+    }
+  }
+}

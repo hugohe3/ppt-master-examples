@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="ending">
+<defs>
+<linearGradient id="closeFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#10282C" stop-opacity="0"/><stop offset="45%" stop-color="#10282C" stop-opacity="0.62"/><stop offset="100%" stop-color="#10282C" stop-opacity="0.82"/></linearGradient>
+</defs>
+<image id="closing-bg" data-pptx-role="background" href="../images/scroll_end.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMaxYMid slice"/>
+<rect id="closing-scrim" data-pptx-role="decoration" x="0" y="300" width="1280" height="420" fill="url(#closeFade)"/>
+<g id="closing-charge" data-pptx-bounds="72 360 1136 180">
+<text x="72" y="420" font-family="KaiTi, Times New Roman" font-size="48" fill="#F3ECDA">下一次它打开的时候，去看它。</text><text x="72" y="496" font-family="KaiTi, Times New Roman" font-size="48" fill="#F3ECDA">慢一点，看完它。</text>
+</g>
+<g id="closing-note" data-pptx-bounds="72 560 1136 44">
+<text x="72" y="590" font-size="20" fill="#D8CDB2">1949 年以后，它只公开亮相过寥寥几次。</text>
+</g>
+<g id="source-line" data-pptx-bounds="72 672 1136 32">
+<text x="72" y="694" font-size="16" fill="#D8CDB2">《千里江山图》卷尾局部 · 故宫博物院藏 · 图片 Wikimedia Commons，公有领域 · 来源：新浪收藏 2017-10-29</text>
+</g>
+</svg>

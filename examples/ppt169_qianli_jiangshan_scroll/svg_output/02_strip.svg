@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="page-title" data-pptx-bounds="72 70 1136 70">
+<text x="72" y="120" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">你见过它，但很可能没有看完过它</text>
+</g>
+<g id="page-lead" data-pptx-bounds="72 150 1136 100">
+<text x="72" y="188" font-size="28" fill="#1F2422"><tspan x="72" dy="0">它有近十二米长，面积是《清明上河图》的两倍多；</tspan><tspan x="72" dy="42">我们看到的，往往只是其中一段。</tspan></text>
+</g>
+<g id="scroll-strip" data-pptx-bounds="50 320 1180 180">
+<image href="../images/obj_scroll.png" x="56" y="338" width="110" height="66" preserveAspectRatio="xMidYMid meet"/>
+<image href="../images/scroll_strip.png" x="168" y="372" width="1040" height="41.7" preserveAspectRatio="xMidYMid meet"/>
+<line x1="168" y1="352" x2="1208" y2="332" stroke="#6E675B" stroke-width="1"/>
+<line x1="168" y1="346" x2="168" y2="358" stroke="#6E675B" stroke-width="1"/>
+<line x1="1208" y1="346" x2="1208" y2="358" stroke="#6E675B" stroke-width="1"/>
+<rect x="628" y="334" width="120" height="24" fill="#F3ECDA"/>
+<text x="688" y="352" font-size="20" fill="#6E675B" text-anchor="middle">1191.5 cm</text>
+<text x="1208" y="437.7" font-size="16" fill="#6E675B" text-anchor="end">51.5 cm（高）</text>
+<g transform="translate(664 425.7) rotate(-90)"><g id="p02-case-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="0 0 22 104" fill="none" stroke="#B5382B" stroke-width="2">
+<path d="M 22 104 A 11 1.83 0 0 1 11 102.17 L 11 53.83 A 11 1.83 0 0 0 0 52 A 11 1.83 0 0 0 11 50.17 L 11 1.83 A 11 1.83 0 0 1 22 0 Z" stroke="none"/>
+<path d="M 22 104 A 11 1.83 0 0 1 11 102.17 L 11 53.83 A 11 1.83 0 0 0 0 52 A 11 1.83 0 0 0 11 50.17 L 11 1.83 A 11 1.83 0 0 1 22 0"/>
+</g></g>
+<line x1="612.0" y1="449.7" x2="612.0" y2="463.7" stroke="#B5382B" stroke-width="1.5"/>
+<text x="612.0" y="485.7" font-size="20" fill="#B5382B" text-anchor="middle">展柜前，你通常只看到这么一段</text>
+</g>
+<g id="strip-facts" data-pptx-bounds="72 520 1136 146">
+<text x="72" y="556" font-size="28" fill="#1F2422">· 面积约为《清明上河图》的两倍多</text><text x="72" y="604" font-size="28" fill="#1F2422">· 直到 2017 年，它才第一次<tspan fill="#2B5C8A" font-weight="bold">全卷打开</tspan>展出</text>
+</g>
+<g id="source-line" data-pptx-bounds="72 672 1136 32">
+<text x="72" y="694" font-size="16" fill="#6E675B">来源：故宫博物院藏品页；国家人文历史 2023；光明日报 2017-09-13</text>
+</g>
+</svg>

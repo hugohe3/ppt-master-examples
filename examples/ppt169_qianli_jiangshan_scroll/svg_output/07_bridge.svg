@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<defs>
+<linearGradient id="bottomFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#10282C" stop-opacity="0"/><stop offset="100%" stop-color="#10282C" stop-opacity="0.78"/></linearGradient>
+</defs>
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#10282C"/>
+<g id="page-title" data-pptx-bounds="0 0 1280 150">
+<rect x="0" y="0" width="1280" height="150" fill="#10282C"/><text x="72" y="64" font-size="20" fill="#D8CDB2">第三章 · 看这幅画</text><text x="72" y="118" font-family="KaiTi, Times New Roman" font-size="48" fill="#F3ECDA">现在，看这座桥</text>
+</g>
+<g id="scroll-view-bridge" data-pptx-bounds="0 150 1280 570">
+<svg id="scroll-view-bridge-crop" x="0" y="150" width="1280" height="570" viewBox="0.2614867388868136 0 0.6710870377288009 1" preserveAspectRatio="none" overflow="hidden"><image href="../images/scroll_section1.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+<rect x="0" y="600" width="1280" height="120" fill="url(#bottomFade)"/>
+<text x="72" y="694" font-size="16" fill="#F3ECDA">跨江长桥段落 · 《千里江山图》局部 · 故宫博物院藏 · 图片 Wikimedia Commons，公有领域</text>
+<circle cx="300" cy="560" r="14" fill="none" stroke="#F3ECDA" stroke-width="2"/><text x="300" y="566" font-size="14" fill="#F3ECDA" text-anchor="middle">桥</text>
+</g>
+</svg>

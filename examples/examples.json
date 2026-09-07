@@ -1,12 +1,107 @@
 {
   "version": 1,
-  "updated": "2026-09-05",
+  "updated": "2026-09-07",
   "stats": {
-    "examples": 33,
-    "pages": 471,
-    "templates": 33
+    "examples": 34,
+    "pages": 485,
+    "templates": 34
   },
   "projects": [
+    {
+      "id": "ppt169_qianli_jiangshan_scroll",
+      "title": "千里江山图·十八岁的青绿",
+      "description": "文化讲述 deck 14 页 — 首个 narrative-keynote 方法模板示例：以故宫藏北宋王希孟《千里江山图》公有领域扫描为主角(维基共享资源 6 张段落扫描,按视窗裁切与 Morph 推移),AI 生成青绿矿物/画具/人物母表切片与瘦金体题字,ink-wash 换成石青石绿赭石朱砂的青绿绢本视觉;蔡京题跋 77 字竖排、整卷真实比例细带、五层设色原生表、九次易手时间线、印章 Morph 承接链;Default 路线主题调研驱动生成",
+      "icon": "🏞️",
+      "color": "#2B5C8A",
+      "style": "creative",
+      "styleName": "Narrative Keynote · 青绿绢本",
+      "desc": "A fourteen-page Chinese narrative keynote on Wang Ximeng's A Thousand Li of Rivers and Mountains (Northern Song, 1113, Palace Museum) — the first example built on the bundled narrative-keynote Style. The painting itself is the protagonist: six public-domain section scans from Wikimedia Commons are cropped at source resolution into a cover with the Qianlong inscription, a true-ratio strip of the whole twelve-metre scroll with a native brace marking the part a display case shows, a darkened tension page with one clear 'case window', Cai Jing's 77-character colophon set vertically beside its crop from the scroll's tail paper, and a two-page camera pan across the long bridge carried by a deterministic Morph pair. Mineral ores, a pigment dish, a brush, a seal, a scroll, a pine and three figures are AI-generated illustration-sheet slices in a blue-green mineral-pigment rendering; the cover lettering is a slender-gold-style calligraphy asset over an editable native title. Five pigment layers become a native record table beside a cross-section; nine changes of hands run along a timeline over a faded band of the painting; a seal continues across three pages as a Morph chain to answer where the painter's name came from. Ink-wash restraint recoloured with azurite, malachite, ochre and cinnabar; KaiTi titles with a YaHei body; speaker notes throughout. Authored by Claude on the Default runtime from a topic-research pair of nineteen sourced facts.",
+      "tags": [
+        "Culture",
+        "Narrative Keynote",
+        "Style Template",
+        "Public Domain Scan",
+        "AI Illustration",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_qianli_jiangshan_scroll/svg_final",
+      "generatedAt": "2026-09-07",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_qianli_jiangshan_scroll/exports/ppt169_qianli_jiangshan_scroll.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "千里江山图"
+        },
+        {
+          "file": "02_strip.svg",
+          "title": "strip",
+          "desc": "你见过它，但很可能没有看完过它"
+        },
+        {
+          "file": "03_days.svg",
+          "title": "days",
+          "desc": "九百年里，它这样打开过四十六天"
+        },
+        {
+          "file": "04_colophon.svg",
+          "title": "colophon",
+          "desc": "关于他，我们只知道七十七个字"
+        },
+        {
+          "file": "05_steps.svg",
+          "title": "steps",
+          "desc": "他先被退回过，然后皇帝亲自教他"
+        },
+        {
+          "file": "06_layers.svg",
+          "title": "layers",
+          "desc": "青绿不是画上去的，是一层层堆出来的"
+        },
+        {
+          "file": "07_bridge.svg",
+          "title": "bridge",
+          "desc": "现在，看这座桥"
+        },
+        {
+          "file": "08_village.svg",
+          "title": "village",
+          "desc": "再往左，是水村、渔舟和更远的山"
+        },
+        {
+          "file": "09_noname.svg",
+          "title": "noname",
+          "desc": "他没有在画上留下名字"
+        },
+        {
+          "file": "10_provenance.svg",
+          "title": "provenance",
+          "desc": "九百年里，它经过了这些手"
+        },
+        {
+          "file": "11_voices.svg",
+          "title": "voices",
+          "desc": "后来看到它的人，这样说"
+        },
+        {
+          "file": "12_today.svg",
+          "title": "today",
+          "desc": "它今天还在被看见"
+        },
+        {
+          "file": "13_closing.svg",
+          "title": "closing",
+          "desc": "下一次它打开的时候"
+        },
+        {
+          "file": "14_sources.svg",
+          "title": "sources",
+          "desc": "出处"
+        }
+      ]
+    },
     {
       "id": "ppt169_researchstudio_reel_paper",
       "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",

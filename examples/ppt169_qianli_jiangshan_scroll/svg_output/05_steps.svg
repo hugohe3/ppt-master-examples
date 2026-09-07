@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<defs>
+<marker id="arrowGreen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><polygon points="0,0 10,5 0,10" fill="#3F8F6C"/></marker>
+</defs>
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="page-title" data-pptx-bounds="72 70 1136 70">
+<text x="72" y="120" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">他先被退回过，然后皇帝亲自教他</text>
+</g>
+<g id="painter-figure" data-pptx-bounds="60 165 420 480">
+<image href="../images/fig_painter_desk.png" x="72" y="170" width="400" height="470" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="career-steps" data-pptx-bounds="530 180 690 410">
+<line x1="560" y1="200" x2="560" y2="550" stroke="#3F8F6C" stroke-width="2" marker-end="url(#arrowGreen)"/>
+<circle cx="560" cy="213" r="13" fill="#F3ECDA" stroke="#3F8F6C" stroke-width="2"/>
+<text x="560" y="219" font-size="16" fill="#3F8F6C" text-anchor="middle">1</text>
+<text x="588" y="222" font-size="28" fill="#2B5C8A" font-weight="bold">画学生徒</text>
+<text x="588" y="252" font-size="20" fill="#6E675B">翰林画学的学生，三年后没有考入画院</text>
+<circle cx="560" cy="291" r="13" fill="#F3ECDA" stroke="#3F8F6C" stroke-width="2"/>
+<text x="560" y="297" font-size="16" fill="#3F8F6C" text-anchor="middle">2</text>
+<text x="588" y="300" font-size="28" fill="#2B5C8A" font-weight="bold">召入禁中文书库</text>
+<text x="588" y="330" font-size="20" fill="#6E675B">据考证，做的是档案登记的工作</text>
+<circle cx="560" cy="369" r="13" fill="#F3ECDA" stroke="#3F8F6C" stroke-width="2"/>
+<text x="560" y="375" font-size="16" fill="#3F8F6C" text-anchor="middle">3</text>
+<text x="588" y="378" font-size="28" fill="#2B5C8A" font-weight="bold">数以画献，未甚工</text>
+<text x="588" y="408" font-size="20" fill="#6E675B">几次献画，都没有画好</text>
+<circle cx="560" cy="447" r="13" fill="#F3ECDA" stroke="#3F8F6C" stroke-width="2"/>
+<text x="560" y="453" font-size="16" fill="#3F8F6C" text-anchor="middle">4</text>
+<text x="588" y="456" font-size="28" fill="#2B5C8A" font-weight="bold">徽宗"知其性可教"，亲授其法</text>
+<text x="588" y="486" font-size="20" fill="#6E675B">皇帝亲自教他画</text>
+<circle cx="560" cy="525" r="13" fill="#F3ECDA" stroke="#3F8F6C" stroke-width="2"/>
+<text x="560" y="531" font-size="16" fill="#3F8F6C" text-anchor="middle">5</text>
+<text x="588" y="534" font-size="28" fill="#2B5C8A" font-weight="bold">不逾半岁，乃以此图进</text>
+<text x="588" y="564" font-size="20" fill="#6E675B">不到半年，献上这一卷</text>
+<image href="../images/obj_dish.png" x="1110" y="392" width="90" height="53" preserveAspectRatio="xMidYMid meet"/>
+<image href="../images/obj_brush.png" x="1130" y="470" width="60" height="66" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="no-signature-note" data-pptx-bounds="540 600 668 50">
+<text x="560" y="628" font-size="20" fill="#1F2422">画上没有作者款印；"王"姓由清初藏家梁清标题签时确立。</text>
+</g>
+<g id="source-line" data-pptx-bounds="540 672 668 32">
+<text x="560" y="694" font-size="16" fill="#6E675B">来源：新京报《京华物语》；国家人文历史 2023</text>
+</g>
+</svg>

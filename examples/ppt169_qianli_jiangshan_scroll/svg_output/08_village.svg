@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<defs>
+<linearGradient id="bottomFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#10282C" stop-opacity="0"/><stop offset="100%" stop-color="#10282C" stop-opacity="0.78"/></linearGradient>
+</defs>
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#10282C"/>
+<g id="page-title" data-pptx-bounds="0 0 1280 150">
+<rect x="0" y="0" width="1280" height="150" fill="#10282C"/><text x="72" y="64" font-size="20" fill="#D8CDB2">第三章 · 看这幅画 · 手卷从右往左展开</text><text x="72" y="118" font-family="KaiTi, Times New Roman" font-size="48" fill="#F3ECDA">再往左，是水村、渔舟和更远的山</text>
+</g>
+<g id="scroll-view-village" data-pptx-bounds="0 150 1280 570">
+<svg id="scroll-view-village-crop" x="0" y="150" width="1280" height="570" viewBox="0 0 0.6710870377288009 1" preserveAspectRatio="none" overflow="hidden"><image href="../images/scroll_section1.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+<rect x="0" y="600" width="1280" height="120" fill="url(#bottomFade)"/>
+<text x="72" y="694" font-size="16" fill="#F3ECDA">同一段落向左推移 · 《千里江山图》局部 · 故宫博物院藏 · 图片 Wikimedia Commons，公有领域</text>
+<circle cx="420" cy="520" r="14" fill="none" stroke="#F3ECDA" stroke-width="2"/><text x="420" y="526" font-size="16" fill="#F3ECDA" text-anchor="middle">1</text><text x="442" y="528" font-size="20" fill="#F3ECDA">水村</text><circle cx="170" cy="640" r="14" fill="none" stroke="#F3ECDA" stroke-width="2"/><text x="170" y="646" font-size="16" fill="#F3ECDA" text-anchor="middle">2</text><text x="192" y="648" font-size="20" fill="#F3ECDA">渔舟</text><circle cx="1020" cy="240" r="14" fill="none" stroke="#F3ECDA" stroke-width="2"/><text x="1020" y="246" font-size="16" fill="#F3ECDA" text-anchor="middle">3</text><text x="1042" y="248" font-size="20" fill="#F3ECDA">远山</text>
+</g>
+</svg>

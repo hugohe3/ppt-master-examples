@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+<rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDA"/>
+<g id="page-title" data-pptx-bounds="72 70 1136 70">
+<text x="72" y="120" font-family="KaiTi, Times New Roman" font-size="48" fill="#1F2422">后来看到它的人，这样说</text>
+</g>
+<g id="quote-puguang" data-pptx-bounds="66 170 530 392">
+<text x="72" y="236" font-family="KaiTi, Times New Roman" font-size="72" fill="#D8CDB2">“</text>
+<text x="96" y="262" font-family="KaiTi, Times New Roman" font-size="34" fill="#1F2422"><tspan x="96" dy="0">在古今丹青小景中，自可独</tspan><tspan x="96" dy="48">步千载，殆众星之孤月耳。</tspan></text>
+<text x="96" y="354" font-size="20" fill="#6E675B">—— 元 · 溥光 题跋</text>
+<svg id="puguang-crop" x="96" y="382" width="143.4" height="170" viewBox="0 0 0.18130539887187752 1" preserveAspectRatio="none" overflow="hidden"><image href="../images/scroll_end.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+<rect x="96" y="382" width="143.4" height="170" fill="none" stroke="#D8CDB2" stroke-width="1"/>
+<text x="255.4" y="412" font-size="16" fill="#6E675B"><tspan x="255.4" dy="0">溥光题跋</tspan><tspan x="255.4" dy="22">真迹局部</tspan></text>
+</g>
+<g id="quote-qianlong" data-pptx-bounds="684 170 524 380">
+<text x="690" y="236" font-family="KaiTi, Times New Roman" font-size="72" fill="#D8CDB2">“</text>
+<text x="714" y="262" font-family="KaiTi, Times New Roman" font-size="34" fill="#1F2422">江山千里望无垠</text>
+<text x="714" y="306" font-size="20" fill="#6E675B">—— 清 · 乾隆 题诗首句，画名由此而来</text>
+<svg id="qianlong-crop" x="714" y="334" width="200" height="200" viewBox="0 0 0.39165602383993187 0.575" preserveAspectRatio="none" overflow="hidden"><image href="../images/scroll_start.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+<rect x="714" y="334" width="200" height="200" fill="none" stroke="#D8CDB2" stroke-width="1"/>
+<text x="930" y="364" font-size="16" fill="#6E675B"><tspan x="930" dy="0">乾隆题诗</tspan><tspan x="930" dy="22">真迹局部（画卷起首）</tspan></text>
+</g>
+<g id="seal-motif" data-pptx-bounds="608 380 64 110">
+<image href="../images/obj_seal.png" x="612" y="384" width="56" height="103" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="later-note" data-pptx-bounds="72 600 1136 44">
+<text x="72" y="630" font-size="20" fill="#6E675B">宋荦《论画绝句》"进得一图身便死"是后世追记，早逝之说由此而来。</text>
+</g>
+<g id="source-line" data-pptx-bounds="72 672 1136 32">
+<text x="72" y="694" font-size="16" fill="#6E675B">来源：国家人文历史 2023；维基百科；新京报《京华物语》</text>
+</g>
+</svg>

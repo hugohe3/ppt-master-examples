@@ -1,0 +1,270 @@
+{
+  "items": [
+    {
+      "filename": "scroll_start.jpg",
+      "slide": "01_cover",
+      "purpose": "封面：卷首段",
+      "search_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "matched_query": "王希孟 千里江山图",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Wang Ximeng - A Thousand Li of River (Start).jpg",
+      "author": "Wang Ximeng (王希孟)",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng_-_A_Thousand_Li_of_River_(Start).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Wang_Ximeng_-_A_Thousand_Li_of_River_%28Start%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2349,
+      "height": 1600,
+      "attribution_text": "scroll_start.jpg — \"Wang Ximeng - A Thousand Li of River (Start).jpg\" by Wang Ximeng (王希孟) via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Wang Ximeng|王希孟|Thousand Li"
+      ],
+      "query_variants": [
+        "王希孟 千里江山图",
+        "Wang Ximeng A Thousand Li of River"
+      ]
+    },
+    {
+      "filename": "scroll_complete.jpg",
+      "slide": "02_strip",
+      "purpose": "全卷扫描母本",
+      "search_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "matched_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg",
+      "author": "Wang Xi",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._%28Complete%2C_51%2C3x1191%2C5_cm%29._1113._Palace_museum%2C_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 39974,
+      "height": 1600,
+      "attribution_text": "scroll_complete.jpg — \"Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg\" by Wang Xi via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Wang Ximeng|王希孟|Thousand Li"
+      ],
+      "query_variants": [
+        "王希孟 千里江山图",
+        "Wang Ximeng A Thousand Li of River"
+      ]
+    },
+    {
+      "filename": "scroll_section1.jpg",
+      "slide": "03_days",
+      "purpose": "张力页画面场",
+      "search_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "matched_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "A Thousand Li of Rivers and Mountains Section 1.jpg",
+      "author": "Wang Ximeng",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:A_Thousand_Li_of_Rivers_and_Mountains_Section_1.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/A_Thousand_Li_of_Rivers_and_Mountains_Section_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 5354,
+      "height": 1600,
+      "attribution_text": "scroll_section1.jpg — \"A Thousand Li of Rivers and Mountains Section 1.jpg\" by Wang Ximeng via Wikimedia Commons — license: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Wang Ximeng|王希孟|Thousand Li"
+      ],
+      "query_variants": [
+        "王希孟 千里江山图",
+        "Wang Ximeng A Thousand Li of River"
+      ]
+    },
+    {
+      "filename": "scroll_bridge.jpg",
+      "slide": "07_bridge",
+      "purpose": "长桥段落",
+      "search_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "matched_query": "王希孟 千里江山图",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Wang Ximeng - A Thousand Li of River (Bridge).jpg",
+      "author": "Wang Ximeng (王希孟)",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng_-_A_Thousand_Li_of_River_(Bridge).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Wang_Ximeng_-_A_Thousand_Li_of_River_%28Bridge%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 7496,
+      "height": 1600,
+      "attribution_text": "scroll_bridge.jpg — \"Wang Ximeng - A Thousand Li of River (Bridge).jpg\" by Wang Ximeng (王希孟) via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Wang Ximeng|王希孟|Thousand Li"
+      ],
+      "query_variants": [
+        "王希孟 千里江山图",
+        "Wang Ximeng A Thousand Li of River"
+      ]
+    },
+    {
+      "filename": "scroll_river1.jpg",
+      "slide": "10_timeline",
+      "purpose": "流转页母本",
+      "search_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "matched_query": "王希孟 千里江山图",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Wang Ximeng - A Thousand Li of River1.jpg",
+      "author": "Wang Xi",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng_-_A_Thousand_Li_of_River1.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wang_Ximeng_-_A_Thousand_Li_of_River1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 7546,
+      "height": 1600,
+      "attribution_text": "scroll_river1.jpg — \"Wang Ximeng - A Thousand Li of River1.jpg\" by Wang Xi via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Wang Ximeng|王希孟|Thousand Li"
+      ],
+      "query_variants": [
+        "王希孟 千里江山图",
+        "Wang Ximeng A Thousand Li of River"
+      ]
+    },
+    {
+      "filename": "scroll_end.jpg",
+      "slide": "13_closing",
+      "purpose": "卷尾段",
+      "search_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "matched_query": "王希孟 千里江山图",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Wang Ximeng - A Thousand Li of River (End).jpg",
+      "author": "Wang Ximeng (王希孟)",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng_-_A_Thousand_Li_of_River_(End).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Wang_Ximeng_-_A_Thousand_Li_of_River_%28End%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 7446,
+      "height": 1600,
+      "attribution_text": "scroll_end.jpg — \"Wang Ximeng - A Thousand Li of River (End).jpg\" by Wang Ximeng (王希孟) via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Wang Ximeng|王希孟|Thousand Li"
+      ],
+      "query_variants": [
+        "王希孟 千里江山图",
+        "Wang Ximeng A Thousand Li of River"
+      ]
+    },
+    {
+      "filename": "scroll_strip.png",
+      "slide": "02_strip",
+      "purpose": "全卷扫描母本",
+      "search_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "matched_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg",
+      "author": "Wang Xi",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._(Complete,_51,3x1191,5_cm)._1113._Palace_museum,_Beijing.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wang_Ximeng._A_Thousand_Li_of_Rivers_and_Mountains._%28Complete%2C_51%2C3x1191%2C5_cm%29._1113._Palace_museum%2C_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 3840,
+      "height": 154,
+      "attribution_text": "scroll_strip.png — \"Wang Ximeng. A Thousand Li of Rivers and Mountains. (Complete, 51,3x1191,5 cm). 1113. Palace museum, Beijing.jpg\" by Wang Xi via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Wang Ximeng|王希孟|Thousand Li"
+      ],
+      "query_variants": [
+        "王希孟 千里江山图",
+        "Wang Ximeng A Thousand Li of River"
+      ],
+      "derived_from": "scroll_complete.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 3840,
+          "height": 154
+        }
+      ]
+    },
+    {
+      "filename": "scroll_river1_faded.png",
+      "slide": "10_timeline",
+      "purpose": "流转页母本",
+      "search_query": "Wang Ximeng A Thousand Li of Rivers and Mountains",
+      "matched_query": "王希孟 千里江山图",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Wang Ximeng - A Thousand Li of River1.jpg",
+      "author": "Wang Xi",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng_-_A_Thousand_Li_of_River1.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wang_Ximeng_-_A_Thousand_Li_of_River1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2560,
+      "height": 543,
+      "attribution_text": "scroll_river1_faded.png — \"Wang Ximeng - A Thousand Li of River1.jpg\" by Wang Xi via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Wang Ximeng|王希孟|Thousand Li"
+      ],
+      "query_variants": [
+        "王希孟 千里江山图",
+        "Wang Ximeng A Thousand Li of River"
+      ],
+      "derived_from": "scroll_river1.jpg",
+      "treatments": [
+        {
+          "operation": "brightness",
+          "factor": 1.18
+        },
+        {
+          "operation": "desaturate",
+          "amount": 0.55
+        },
+        {
+          "operation": "fit",
+          "width": 2560,
+          "height": 543
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-07T07:03:32.079770Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}
