@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <g id="page-title" data-pptx-bounds="72 62 560 60">
+    <text x="72" y="104" font-family="Georgia, serif" font-size="48" fill="#141416">What it takes to make</text>
+  </g>
+  <g id="channel-classes" data-pptx-bounds="756 72 452 36">
+    <use data-icon="tabler-outline/printer" x="756" y="78" width="26" height="26" fill="#4A6B62" stroke-width="2"/>
+    <text x="790" y="98" font-size="18" fill="#141416">Print</text>
+    <use data-icon="tabler-outline/device-mobile" x="865" y="78" width="26" height="26" fill="#4A6B62" stroke-width="2"/>
+    <text x="899" y="98" font-size="18" fill="#141416">Social</text>
+    <use data-icon="tabler-outline/building-store" x="979" y="78" width="26" height="26" fill="#4A6B62" stroke-width="2"/>
+    <text x="1013" y="98" font-size="18" fill="#141416">In-store</text>
+    <use data-icon="tabler-outline/calendar-event" x="1110" y="78" width="26" height="26" fill="#4A6B62" stroke-width="2"/>
+    <text x="1144" y="98" font-size="18" fill="#141416">Events</text>
+  </g>
+  <g id="six-week-run" data-pptx-bounds="72 138 1040 42">
+    <g id="p12-week-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 140 170 36" fill="#7FA69B" stroke="none">
+<path d="M 72 140 L 224 140 L 242 158 L 224 176 L 72 176 L 90 158 Z"/>
+</g>
+    <g id="p12-week-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="222 140 170 36" fill="#7FA69B" stroke="none">
+<path d="M 222 140 L 374 140 L 392 158 L 374 176 L 222 176 L 240 158 Z"/>
+</g>
+    <g id="p12-week-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="372 140 170 36" fill="#7FA69B" stroke="none">
+<path d="M 372 140 L 524 140 L 542 158 L 524 176 L 372 176 L 390 158 Z"/>
+</g>
+    <g id="p12-week-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="522 140 170 36" fill="#7FA69B" stroke="none">
+<path d="M 522 140 L 674 140 L 692 158 L 674 176 L 522 176 L 540 158 Z"/>
+</g>
+    <g id="p12-week-5" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="672 140 170 36" fill="#7FA69B" stroke="none">
+<path d="M 672 140 L 824 140 L 842 158 L 824 176 L 672 176 L 690 158 Z"/>
+</g>
+    <g id="p12-week-6" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="822 140 170 36" fill="#7FA69B" stroke="none">
+<path d="M 822 140 L 974 140 L 992 158 L 974 176 L 822 176 L 840 158 Z"/>
+</g>
+    <text x="157" y="164" font-size="18" fill="#141416" text-anchor="middle">brief</text>
+    <text x="307" y="164" font-size="18" fill="#141416" text-anchor="middle">artwork</text>
+    <text x="457" y="164" font-size="18" fill="#141416" text-anchor="middle">print</text>
+    <text x="607" y="164" font-size="18" fill="#141416" text-anchor="middle">paste-up</text>
+    <text x="757" y="164" font-size="18" fill="#141416" text-anchor="middle">launch</text>
+    <text x="907" y="164" font-size="18" fill="#141416" text-anchor="middle">events</text>
+    <text x="1010" y="164" font-size="18" fill="#4A6B62">six weeks</text>
+  </g>
+  <g id="production-scope" data-pptx-replace-with="table" data-pptx-bounds="72 220 1136 368" data-pptx-fallback-sha256="b6f91c2c1287a431cfe02846c6efdaa3d2bea342128489f6d6efbeaf9af384bb">
+    <metadata type="application/json">
+    {
+          "schema": "ppt-master.semantic-table.v2",
+          "x": 72,
+          "y": 220,
+          "width": 1136,
+          "height": 368,
+          "name": "production-scope",
+          "column_widths": [
+                300,
+                260,
+                150,
+                180,
+                246
+          ],
+          "row_heights": [
+                46,
+                46,
+                46,
+                46,
+                46,
+                46,
+                46,
+                46
+          ],
+          "header_rows": 1,
+          "defaults": {
+                "cell": {
+                      "font_size": 24,
+                      "valign": "middle",
+                      "fill": "#F4F1EA",
+                      "color": "#141416",
+                      "padding": {
+                            "left": 16,
+                            "right": 16,
+                            "top": 6,
+                            "bottom": 6
+                      },
+                      "borders": {
+                            "top": {
+                                  "style": "none"
+                            },
+                            "left": {
+                                  "style": "none"
+                            },
+                            "right": {
+                                  "style": "none"
+                            },
+                            "bottom": {
+                                  "style": "solid",
+                                  "color": "#C2C0BC",
+                                  "width": 1
+                            }
+                      }
+                },
+                "run": {
+                      "font_family": "Arial"
+                }
+          },
+          "columns": [
+                {
+                      "text": "Deliverable",
+                      "fill": "#141416",
+                      "color": "#F4F1EA",
+                      "bold": true,
+                      "align": "l"
+                },
+                {
+                      "text": "Format",
+                      "fill": "#141416",
+                      "color": "#F4F1EA",
+                      "bold": true,
+                      "align": "l"
+                },
+                {
+                      "text": "Quantity",
+                      "fill": "#141416",
+                      "color": "#F4F1EA",
+                      "bold": true,
+                      "align": "r"
+                },
+                {
+                      "text": "Lead time",
+                      "fill": "#141416",
+                      "color": "#F4F1EA",
+                      "bold": true,
+                      "align": "l"
+                },
+                {
+                      "text": "Owner",
+                      "fill": "#141416",
+                      "color": "#F4F1EA",
+                      "bold": true,
+                      "align": "l"
+                }
+          ],
+          "rows": [
+                [
+                      "Street poster",
+                      "2:3, two inks",
+                      {
+                            "text": "120",
+                            "align": "r"
+                      },
+                      "3 weeks",
+                      "Print supplier A"
+                ],
+                [
+                      "Window lightbox panel",
+                      "1180 × 340 mm",
+                      {
+                            "text": "1",
+                            "align": "r"
+                      },
+                      "3 weeks",
+                      "Print supplier A"
+                ],
+                [
+                      "Social film and stills",
+                      "1:1 and 9:16",
+                      {
+                            "text": "9 posts",
+                            "align": "r"
+                      },
+                      "2 weeks",
+                      "Shop team"
+                ],
+                [
+                      "Printed bookmark",
+                      "55 × 180 mm",
+                      {
+                            "text": "3,000",
+                            "align": "r"
+                      },
+                      "2 weeks",
+                      "Print supplier B"
+                ],
+                [
+                      "Shelf talker",
+                      "A6, two inks",
+                      {
+                            "text": "40",
+                            "align": "r"
+                      },
+                      "2 weeks",
+                      "Print supplier B"
+                ],
+                [
+                      "Evening event series",
+                      "90 minutes",
+                      {
+                            "text": "6 evenings",
+                            "align": "r"
+                      },
+                      "6 weeks",
+                      "Shop team"
+                ],
+                [
+                      "Local radio read",
+                      "30 seconds",
+                      {
+                            "text": "4 spots",
+                            "align": "r"
+                      },
+                      "4 weeks",
+                      "Shop team"
+                ]
+          ]
+    }
+    </metadata>
+    <rect x="72" y="220" width="1136" height="46" fill="#141416"/>
+    <text x="88" y="251" font-size="24" font-weight="bold" fill="#F4F1EA">Deliverable</text>
+    <text x="388" y="251" font-size="24" font-weight="bold" fill="#F4F1EA">Format</text>
+    <text x="766" y="251" font-size="24" font-weight="bold" fill="#F4F1EA" text-anchor="end">Quantity</text>
+    <text x="798" y="251" font-size="24" font-weight="bold" fill="#F4F1EA">Lead time</text>
+    <text x="978" y="251" font-size="24" font-weight="bold" fill="#F4F1EA">Owner</text>
+    <line x1="72" y1="312" x2="1208" y2="312" stroke="#C2C0BC" stroke-width="1"/>
+    <text x="88" y="297" font-size="24" fill="#141416">Street poster</text>
+    <text x="388" y="297" font-size="24" fill="#141416">2:3, two inks</text>
+    <text x="766" y="297" font-size="24" fill="#141416" text-anchor="end">120</text>
+    <text x="798" y="297" font-size="24" fill="#141416">3 weeks</text>
+    <text x="978" y="297" font-size="24" fill="#141416">Print supplier A</text>
+    <line x1="72" y1="358" x2="1208" y2="358" stroke="#C2C0BC" stroke-width="1"/>
+    <text x="88" y="343" font-size="24" fill="#141416">Window lightbox panel</text>
+    <text x="388" y="343" font-size="24" fill="#141416">1180 × 340 mm</text>
+    <text x="766" y="343" font-size="24" fill="#141416" text-anchor="end">1</text>
+    <text x="798" y="343" font-size="24" fill="#141416">3 weeks</text>
+    <text x="978" y="343" font-size="24" fill="#141416">Print supplier A</text>
+    <line x1="72" y1="404" x2="1208" y2="404" stroke="#C2C0BC" stroke-width="1"/>
+    <text x="88" y="389" font-size="24" fill="#141416">Social film and stills</text>
+    <text x="388" y="389" font-size="24" fill="#141416">1:1 and 9:16</text>
+    <text x="766" y="389" font-size="24" fill="#141416" text-anchor="end">9 posts</text>
+    <text x="798" y="389" font-size="24" fill="#141416">2 weeks</text>
+    <text x="978" y="389" font-size="24" fill="#141416">Shop team</text>
+    <line x1="72" y1="450" x2="1208" y2="450" stroke="#C2C0BC" stroke-width="1"/>
+    <text x="88" y="435" font-size="24" fill="#141416">Printed bookmark</text>
+    <text x="388" y="435" font-size="24" fill="#141416">55 × 180 mm</text>
+    <text x="766" y="435" font-size="24" fill="#141416" text-anchor="end">3,000</text>
+    <text x="798" y="435" font-size="24" fill="#141416">2 weeks</text>
+    <text x="978" y="435" font-size="24" fill="#141416">Print supplier B</text>
+    <line x1="72" y1="496" x2="1208" y2="496" stroke="#C2C0BC" stroke-width="1"/>
+    <text x="88" y="481" font-size="24" fill="#141416">Shelf talker</text>
+    <text x="388" y="481" font-size="24" fill="#141416">A6, two inks</text>
+    <text x="766" y="481" font-size="24" fill="#141416" text-anchor="end">40</text>
+    <text x="798" y="481" font-size="24" fill="#141416">2 weeks</text>
+    <text x="978" y="481" font-size="24" fill="#141416">Print supplier B</text>
+    <line x1="72" y1="542" x2="1208" y2="542" stroke="#C2C0BC" stroke-width="1"/>
+    <text x="88" y="527" font-size="24" fill="#141416">Evening event series</text>
+    <text x="388" y="527" font-size="24" fill="#141416">90 minutes</text>
+    <text x="766" y="527" font-size="24" fill="#141416" text-anchor="end">6 evenings</text>
+    <text x="798" y="527" font-size="24" fill="#141416">6 weeks</text>
+    <text x="978" y="527" font-size="24" fill="#141416">Shop team</text>
+    <line x1="72" y1="588" x2="1208" y2="588" stroke="#C2C0BC" stroke-width="1"/>
+    <text x="88" y="573" font-size="24" fill="#141416">Local radio read</text>
+    <text x="388" y="573" font-size="24" fill="#141416">30 seconds</text>
+    <text x="766" y="573" font-size="24" fill="#141416" text-anchor="end">4 spots</text>
+    <text x="798" y="573" font-size="24" fill="#141416">4 weeks</text>
+    <text x="978" y="573" font-size="24" fill="#141416">Shop team</text>
+  </g>
+  <g id="illustrative-marker" data-pptx-bounds="72 622 960 30">
+    <text x="72" y="642" font-size="18" fill="#4A6B62">Every quantity, lead time and owner above is illustrative for this fictional client; nothing here is a quotation.</text>
+  </g>
+  <g id="production-element" data-pptx-bounds="1080 594 128 92">
+    <image href="../images/element_book.png" x="1090" y="596" width="110" height="85" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+</svg>

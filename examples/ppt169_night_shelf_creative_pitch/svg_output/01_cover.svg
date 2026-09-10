@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E0E10" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0E0E10" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10"/>
+  <g id="cover-hero" data-pptx-bounds="0 0 396 720">
+    <svg id="cover-hero-crop" x="0" y="0" width="396" height="720" viewBox="0 0.22 0.24 0.78" preserveAspectRatio="none" overflow="hidden">
+      <image href="../images/hero_night_shelf.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+    </svg>
+    <rect x="246" y="0" width="150" height="720" fill="url(#coverFade)"/>
+  </g>
+  <g id="cover-mark" data-pptx-bounds="468 172 132 49">
+    <g id="p01-mark-moon" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="moon" data-pptx-frame="468 172 36 46" fill="#E9C877" stroke="none">
+<path d="M 504 218 A 36 23 0 0 1 504 172 A 45 28.75 0 0 0 504 218 Z"/>
+</g>
+    <rect x="468" y="218" width="132" height="3" fill="#EDEAE3"/>
+  </g>
+  <g id="cover-lockup" data-pptx-bounds="468 246 684 166" font-family="Georgia, serif">
+    <text x="468" y="320" font-size="84" fill="#EDEAE3">The Night Shelf</text>
+    <text x="468" y="396" font-size="38" font-style="italic" fill="#E9C877">Give the night back to reading.</text>
+  </g>
+  <g id="cover-attribution" data-pptx-bounds="468 482 690 128">
+    <text x="468" y="506" font-size="24" fill="#EDEAE3">Fog &amp; Fern Books — late autumn campaign</text>
+    <text x="468" y="574" font-size="18" fill="#A29E97">Example pitch. Fog &amp; Fern Books, its figures, constraints and this campaign are<tspan x="468" dy="26">fictional; every research finding cited is real and sourced.</tspan></text>
+  </g>
+</svg>

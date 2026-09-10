@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10" />
+  <g id="idea-mark" data-pptx-bounds="574 150 132 49">
+    <g id="p06-mark-moon" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="moon" data-pptx-frame="622 150 36 46" fill="#E9C877" stroke="none">
+<path d="M 658 196 A 36 23 0 0 1 658 150 A 45 28.75 0 0 0 658 196 Z" />
+</g>
+    <rect x="574" y="196" width="132" height="3" fill="#EDEAE3" />
+  </g>
+  <g id="idea-line" data-pptx-bounds="319 316 642 172">
+    <text fill="#EDEAE3" font-family="Georgia, serif" text-anchor="middle" font-size="72" x="640" y="380">The last hour</text><text fill="#EDEAE3" font-family="Georgia, serif" text-anchor="middle" font-size="72" x="640" y="460">belongs to a book.</text></g>
+  <g id="idea-gloss" data-pptx-bounds="190 538 900 64">
+    <text fill="#A29E97" text-anchor="middle" font-size="24" x="640" y="560">The Night Shelf — the books chosen for the hour before sleep, and a shop that</text><text fill="#A29E97" text-anchor="middle" font-size="24" x="640" y="592">stays open into it.</text></g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10"/>
+  <g id="page-title" data-pptx-bounds="72 68 600 66">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48" fill="#EDEAE3">What the work has to do</text>
+  </g>
+  <g id="the-task" data-pptx-bounds="72 190 1000 94">
+    <text x="72" y="222" font-size="36" fill="#E9C877">Make Fog &amp; Fern the place a reader thinks of at nine in the<tspan x="72" dy="46">evening.</tspan></text>
+  </g>
+  <g id="task-constraints" data-pptx-bounds="110 328 1002 234">
+    <g id="p04-constraint-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="110 330 1000 230" fill="none" stroke="#7FA69B" stroke-width="2">
+<path d="M 110 368.33 A 38.33 38.33 0 0 1 148.33 330 L 1071.67 330 A 38.33 38.33 0 0 1 1110 368.33 L 1110 521.67 A 38.33 38.33 0 0 1 1071.67 560 L 148.33 560 A 38.33 38.33 0 0 1 110 521.67 Z" stroke="none"/>
+<path d="M 148.33 560 A 38.33 38.33 0 0 1 110 521.67 L 110 368.33 A 38.33 38.33 0 0 1 148.33 330 M 1071.67 330 A 38.33 38.33 0 0 1 1110 368.33 L 1110 521.67 A 38.33 38.33 0 0 1 1071.67 560"/>
+</g>
+    <text x="170" y="386" font-size="30" fill="#EDEAE3">No paid media beyond the shop's own frontage and channels.</text>
+    <text x="170" y="452" font-size="30" fill="#EDEAE3">One season — six weeks from first paste-up to last event.</text>
+    <text x="170" y="518" font-size="30" fill="#EDEAE3">Five people, all of whom already work full shifts.</text>
+  </g>
+  <g id="illustrative-marker" data-pptx-bounds="72 610 740 30">
+    <text x="72" y="630" font-size="18" fill="#A29E97">Shop scale, staffing, budget and timing are illustrative and belong to this fictional client.</text>
+  </g>
+</svg>

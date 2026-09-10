@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EA" />
+  <g id="page-title" data-pptx-bounds="72 62 700 60">
+    <text x="72" y="104" font-family="Georgia, serif" font-size="48" fill="#141416">How you will know it worked</text>
+  </g>
+  <g id="measurement-test" data-pptx-bounds="72 156 1136 96">
+    <text x="72" y="190" font-family="Georgia, serif" font-size="38" fill="#141416">If the shop is busier between eight and ten in the evening in<tspan x="72" dy="46">week six than in week one, the idea worked.</tspan></text>
+  </g>
+  <g id="decision-ask" data-pptx-bounds="72 278 764 46">
+    <text x="72" y="310" font-size="36" font-weight="bold" fill="#4A6B62">Approve The Night Shelf for late autumn.</text>
+  </g>
+  <g id="sources-label" data-pptx-bounds="72 344 200 34">
+    <text x="72" y="366" font-size="24" fill="#4A6B62">Sources</text>
+  </g>
+  <g id="sources-left" data-pptx-bounds="72 382 520 136" fill="#141416" font-size="18">
+    <text x="72" y="400"><a href="https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/"><tspan text-decoration="underline">Pew Research Center — book reading, October 2025</tspan></a></text>
+    <text x="72" y="436"><a href="https://www.bls.gov/charts/american-time-use/activity-leisure.htm"><tspan text-decoration="underline">US Bureau of Labor Statistics — Time Use Survey, 2025</tspan></a></text>
+    <text x="72" y="472"><a href="https://www.arts.gov/impact/research/responses-to-the-2022-SPPA/a-time-of-hope-and-worry"><tspan text-decoration="underline">National Endowment for the Arts — SPPA 2022</tspan></a></text>
+    <text x="72" y="508"><a href="https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/"><tspan text-decoration="underline">National Literacy Trust — reading in 2025</tspan></a></text>
+  </g>
+  <g id="sources-right" data-pptx-bounds="648 382 520 136" fill="#141416" font-size="18">
+    <text x="648" y="400"><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1548273/full"><tspan text-decoration="underline">Frontiers in Psychiatry — screens after bedtime, 2025</tspan></a></text>
+    <text x="648" y="436"><a href="https://aasm.org/americans-are-doomscrolling-at-bedtime-prioritizing-screen-time-over-sleep/"><tspan text-decoration="underline">American Academy of Sleep Medicine — bedtime screens</tspan></a></text>
+    <text x="648" y="472"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740874/"><tspan text-decoration="underline">The People's Trial — Trials 22:873, 2021</tspan></a></text>
+    <text x="648" y="508"><a href="https://www.bookweb.org/press-and-media"><tspan text-decoration="underline">American Booksellers Association — members</tspan></a></text>
+  </g>
+  <g id="fiction-statement" data-pptx-bounds="72 638 1136 50">
+    <text x="72" y="656" font-size="18" fill="#4A6B62">Fog &amp; Fern Books, its figures, its constraints and this campaign are fictional and exist only as an example. Every research finding<tspan x="72" dy="24">cited above is real and linked.</tspan></text>
+  </g>
+</svg>

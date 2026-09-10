@@ -1,0 +1,110 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "The Night Shelf — reading, screen time and the night (evidence base for a fictional independent-bookstore campaign pitch)",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "75% of U.S. adults say they have read all or part of at least one book in the past 12 months (Pew Research Center survey of 8,046 U.S. adults, October 6-16, 2025).",
+      "source_title": "Americans still opt for print books over digital or audio versions; few are in book clubs | Pew Research Center",
+      "source_url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "In the past 12 months 64% of U.S. adults read a print book, 31% read an e-book and 26% listened to an audiobook (Pew Research Center, October 2025).",
+      "source_title": "Americans still opt for print books over digital or audio versions; few are in book clubs | Pew Research Center",
+      "source_url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "25% of U.S. adults read no books in the past year, while 38% read between one and five (Pew Research Center, October 2025).",
+      "source_title": "Americans still opt for print books over digital or audio versions; few are in book clubs | Pew Research Center",
+      "source_url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "Only 7% of U.S. adults say they took part in a book club in the past 12 months, with women twice as likely as men (10% vs 5%) (Pew Research Center, October 2025).",
+      "source_title": "Americans still opt for print books over digital or audio versions; few are in book clubs | Pew Research Center",
+      "source_url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "In 2025 Americans aged 15 and over spent an average of 0.27 hours a day reading for personal interest and 2.61 hours a day watching television (Bureau of Labor Statistics, American Time Use Survey, 2025 annual averages).",
+      "source_title": "Average hours per day spent in selected leisure and sports activities by age, 2025 annual averages | U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/charts/american-time-use/activity-leisure.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "Reading for personal interest averaged 0.16 hours a day among 15- to 24-year-olds and 0.53 hours a day among people 65 and over, while television averaged 1.77 and 4.30 hours a day for the same groups (BLS American Time Use Survey, 2025 annual averages).",
+      "source_title": "Average hours per day spent in selected leisure and sports activities by age, 2025 annual averages | U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/charts/american-time-use/activity-leisure.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "In the 2022 Survey of Public Participation in the Arts only 38 percent of U.S. adults reported reading novels or short stories, and adults engaging with books by reading or listening fell to 52 percent from 55 percent five years earlier (National Endowment for the Arts).",
+      "source_title": "A Time of Hope and Worry: Unpacking the 2022 NEA Survey Results about Reading | National Endowment for the Arts",
+      "source_url": "https://www.arts.gov/impact/research/responses-to-the-2022-SPPA/a-time-of-hope-and-worry",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "Just 1 in 3 (32.7%) children and young people aged 8 to 18 in the UK said they enjoyed reading in their free time in 2025 — the lowest level in the 20 years the question has been asked, a 36% fall since 2005 (National Literacy Trust Annual Literacy Survey, 114,970 responses, early 2025).",
+      "source_title": "Children and young people's reading in 2025 | National Literacy Trust",
+      "source_url": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "Fewer than 1 in 5 (18.7%) UK 8- to 18-year-olds said they read something daily in their free time in 2025, the lowest level the National Literacy Trust has recorded.",
+      "source_title": "Children and young people's reading in 2025 | National Literacy Trust",
+      "source_url": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "A one-hour increase in screen time after going to bed was associated with 59% higher odds of insomnia symptoms (OR 1.59) and 24 minutes less sleep, in 45,202 Norwegian students aged 18-28 (SHOT2022; Frontiers in Psychiatry, 31 March 2025).",
+      "source_title": "How and when screens are used: comparing different screen activities and sleep in Norwegian university students | Frontiers in Psychiatry",
+      "source_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1548273/full",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "One-half of U.S. adults (50%) use a screen in bed every day and another third (33%) most days or several days a week; 26% say they prioritise phone screen time over the recommended amount of sleep (American Academy of Sleep Medicine survey of 2,007 U.S. adults, 5-13 June 2025, margin of error +/-2 points).",
+      "source_title": "Americans are 'doomscrolling' at bedtime, prioritizing screen time over sleep | American Academy of Sleep Medicine",
+      "source_url": "https://aasm.org/americans-are-doomscrolling-at-bedtime-prioritizing-screen-time-over-sleep/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "In The People's Trial, a randomised trial of 991 people, 156/369 (42%) who read a book in bed felt their sleep improved against 112/405 (28%) who did not — a difference of 14 percentage points (95% interval 8 to 22 points) (Trials, volume 22, article 873, 2021).",
+      "source_title": "Does reading a book in bed make a difference to sleep in comparison to not reading a book in bed? The People's Trial - an online, pragmatic, randomised trial | Trials",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8740874/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "The American Booksellers Association says it supports over 3,700 independent bookstores.",
+      "source_title": "Press and Media | the American Booksellers Association",
+      "source_url": "https://www.bookweb.org/press-and-media",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    }
+  ]
+}

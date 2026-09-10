@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="streetScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#08080A" stop-opacity="0.86"/>
+      <stop offset="52%" stop-color="#08080A" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#08080A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10"/>
+  <image id="street-field" data-pptx-role="decoration" href="../images/instore_scene.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="street-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#streetScrim)"/>
+  <g id="window-poster" data-pptx-bounds="930 150 146 224">
+    <image href="../images/poster_artwork.jpg" x="932" y="152" width="142" height="220" preserveAspectRatio="xMidYMid slice"/>
+    <text x="942" y="330" font-size="18" fill="#141416">The last hour</text>
+  </g>
+  <g id="campaign-mark" data-pptx-bounds="100 430 132 49">
+    <g id="p11-mark-moon" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="moon" data-pptx-frame="148 430 36 46" fill="#E9C877" stroke="none">
+<path d="M 184 476 A 36 23 0 0 1 184 430 A 45 28.75 0 0 0 184 476 Z"/>
+</g>
+    <rect x="100" y="476" width="132" height="3" fill="#EDEAE3"/>
+  </g>
+  <g id="environment-caption" data-pptx-bounds="100 506 700 96">
+    <text x="100" y="540" font-family="Georgia, serif" font-size="38" fill="#EDEAE3">At real size, from the far pavement,<tspan x="100" dy="46">the poster still reads.</tspan></text>
+  </g>
+  <g id="honest-scale-note" data-pptx-bounds="100 630 660 30">
+    <text x="100" y="650" font-size="18" fill="#A29E97">Mockup at the window's real dimensions, seen at ordinary standing eye level.</text>
+  </g>
+</svg>

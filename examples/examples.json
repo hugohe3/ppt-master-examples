@@ -2,11 +2,103 @@
   "version": 1,
   "updated": "2026-09-10",
   "stats": {
-    "examples": 40,
-    "pages": 566,
-    "templates": 40
+    "examples": 41,
+    "pages": 579,
+    "templates": 41
   },
   "projects": [
+    {
+      "id": "ppt169_night_shelf_creative_pitch",
+      "title": "The Night Shelf",
+      "description": "英文创意提案 deck 13 页 — 首个 creative-pitch 方法模板示例：为虚构独立书店 Fog & Fern Books 做的秋夜阅读 campaign「The Night Shelf」（客户与 campaign 虚构并在封面/讲稿/附录明示，受众洞察数据引用 Pew、NEA、National Literacy Trust 与睡眠研究并带 URL）；按受众真相→任务→策略→一句话创意→满版主视觉→延展载体→视觉系统→语气工艺→真实尺度环境→制作现实→收尾的顺序展开；AI 生成主视觉/海报/社交图/店内场景，主视觉派生三种底版，海报切角、手机圆角、橱窗灯箱等 4 种裁切 mockup，6 处方向性渐变 scrim，一处辉光文字效果，月亮 campaign 标记原生预设 8 处，原生图 1 表 1 超链接 8，3 对 Morph；全卷标题实色、零文字图片填充",
+      "icon": "🌙",
+      "color": "#0E0E10",
+      "style": "creative",
+      "styleName": "Creative Pitch · The Night Shelf",
+      "desc": "A thirteen-page English creative campaign pitch for Fog & Fern Books, a fictional independent bookstore, proposing a late-autumn campaign called The Night Shelf — the first example built on the bundled creative-pitch Style. The client and campaign are fictional and say so on the cover, in the notes and in the appendix; the audience truth it rests on is real and cited (evening screen time against minutes of reading, from Pew, the NEA survey, the National Literacy Trust and sleep research). The deck follows the Style's arc: audience truth, the task, the strategic thought, the idea on its own restrained page, the hero execution full frame, range across poster, social, in-store and bookmark surfaces, the identity in use, tone and craft, environment mockups at honest scale, production reality with an illustrative scope table, and a close. AI-rendered hero, poster, social and in-store artwork, three hero derivatives, six element slices, four nested-crop mockups of different shape, six directional gradient scrims, one glow effect, a crescent mark as a native preset on eight pages, one native chart, one native table, eight native source hyperlinks and three Morph pairs. Every title is solid-colour type; the deck uses no text picture fill.",
+      "tags": [
+        "Creative",
+        "Creative Pitch",
+        "Style Template",
+        "English",
+        "Campaign",
+        "AI Illustration",
+        "Mockups",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_night_shelf_creative_pitch/svg_final",
+      "generatedAt": "2026-09-10",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_night_shelf_creative_pitch/exports/ppt169_night_shelf_creative_pitch.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "The Night Shelf — give the night back to reading"
+        },
+        {
+          "file": "02_audience_truth.svg",
+          "title": "audience_truth",
+          "desc": "Audience truth: 2 h 37 m of evening screens against sixteen minutes of reading"
+        },
+        {
+          "file": "03_the_last_hour.svg",
+          "title": "the_last_hour",
+          "desc": "The last hour is already taken"
+        },
+        {
+          "file": "04_the_task.svg",
+          "title": "the_task",
+          "desc": "What the work has to do"
+        },
+        {
+          "file": "05_strategic_thought.svg",
+          "title": "strategic_thought",
+          "desc": "Reading is not competing with the day; it is competing with the last hour"
+        },
+        {
+          "file": "06_the_idea.svg",
+          "title": "the_idea",
+          "desc": "The idea: the last hour belongs to a book"
+        },
+        {
+          "file": "07_hero_execution.svg",
+          "title": "hero_execution",
+          "desc": "Hero execution — the finished piece, full frame"
+        },
+        {
+          "file": "08_range_and_extension.svg",
+          "title": "range_and_extension",
+          "desc": "It runs everywhere the hour is spent: poster, social, in-store, bookmark"
+        },
+        {
+          "file": "09_identity_in_use.svg",
+          "title": "identity_in_use",
+          "desc": "The identity, in use"
+        },
+        {
+          "file": "10_tone_and_craft.svg",
+          "title": "tone_and_craft",
+          "desc": "Tone and craft: Unhurried"
+        },
+        {
+          "file": "11_environment.svg",
+          "title": "environment",
+          "desc": "At real size, from the far pavement, the poster still reads"
+        },
+        {
+          "file": "12_production_reality.svg",
+          "title": "production_reality",
+          "desc": "What it takes to make: scope, timeline, budget (illustrative)"
+        },
+        {
+          "file": "13_close.svg",
+          "title": "close",
+          "desc": "How you will know it worked"
+        }
+      ]
+    },
     {
       "id": "a4_four_day_week_decision_memo",
       "title": "Should We Move to a Four-Day Week?",

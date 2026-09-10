@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10"/>
+  <g id="page-title" data-pptx-bounds="72 68 716 66">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48" fill="#EDEAE3">The last hour is already taken</text>
+  </g>
+  <g id="night-mark-element" data-pptx-bounds="1050 60 130 145">
+    <image href="../images/element_moon.png" x="1050" y="60" width="130" height="145" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="evidence-prevalence" data-pptx-bounds="72 182 940 140">
+    <line x1="72" y1="183" x2="1012" y2="183" stroke="#2E2E33" stroke-width="1"/>
+    <text x="72" y="222" font-size="36" font-weight="bold" fill="#E9C877">Half of adults are on a screen in bed every day.</text>
+    <text x="72" y="270" font-size="30" fill="#EDEAE3">Another third are there most days or several days a week; a<tspan x="72" dy="40">quarter choose the phone over sleep.</tspan></text>
+  </g>
+  <g id="evidence-cost" data-pptx-bounds="72 342 940 140">
+    <line x1="72" y1="343" x2="1012" y2="343" stroke="#2E2E33" stroke-width="1"/>
+    <text x="72" y="382" font-size="36" font-weight="bold" fill="#C4553F">Each extra hour of it costs 24 minutes of sleep.</text>
+    <text x="72" y="430" font-size="30" fill="#EDEAE3">One more hour of screen time after getting into bed raised the<tspan x="72" dy="40">odds of insomnia symptoms by 59 percent.</tspan></text>
+  </g>
+  <g id="evidence-alternative" data-pptx-bounds="72 502 940 140">
+    <line x1="72" y1="503" x2="1012" y2="503" stroke="#2E2E33" stroke-width="1"/>
+    <text x="72" y="542" font-size="36" font-weight="bold" fill="#E9C877">A book in bed does the opposite.</text>
+    <text x="72" y="590" font-size="30" fill="#EDEAE3">In a randomised trial, 42 percent of people who read in bed said<tspan x="72" dy="40">their sleep improved, against 28 percent who did not.</tspan></text>
+  </g>
+  <g id="evidence-sources" data-pptx-bounds="72 658 1136 52">
+    <text x="72" y="676" font-size="18" fill="#A29E97">Sources: American Academy of Sleep Medicine, 2,007 US adults, June 2025; SHOT2022 in Frontiers in Psychiatry, 45,202 students,<tspan x="72" dy="24">March 2025; The People's Trial in Trials 22:873, 991 participants, 2021.</tspan></text>
+  </g>
+</svg>

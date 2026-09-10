@@ -1,0 +1,14 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,element_book.png,600,464,1.29,1.29,,native,PNG,True,1,,bitmap,True,True,340.2,Standard landscape
+2,element_bookmark.png,236,634,0.37,0.37,,native,PNG,True,1,,bitmap,True,True,277.3,Portrait
+3,element_fern.png,471,656,0.72,0.72,,native,PNG,True,1,,bitmap,True,True,405.8,Portrait
+4,element_lamp.png,399,627,0.64,0.64,,native,PNG,True,1,,bitmap,True,True,398.4,Portrait
+5,element_moon.png,483,538,0.90,0.90,,native,PNG,True,1,,bitmap,True,True,298.1,Near square
+6,element_mug.png,543,496,1.09,1.09,,native,PNG,True,1,,bitmap,True,True,434.4,Near square
+7,hero_blur.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,55.9,Wide landscape
+8,hero_dim.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,74.7,Wide landscape
+9,hero_grey.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,79.3,Wide landscape
+10,hero_night_shelf.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,128.7,Wide landscape
+11,instore_scene.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,166.8,Wide landscape
+12,poster_artwork.jpg,1288,1920,0.67,0.67,,native,JPEG,False,1,,bitmap,True,True,68.9,Portrait
+13,social_artwork.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,346.5,Near square

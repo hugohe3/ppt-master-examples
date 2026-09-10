@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="thoughtScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#08080A" stop-opacity="0.92"/>
+      <stop offset="55%" stop-color="#08080A" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#08080A" stop-opacity="0.34"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10"/>
+  <image id="thought-field" data-pptx-role="decoration" href="../images/hero_grey.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="thought-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#thoughtScrim)"/>
+  <g id="strategic-statement" data-pptx-bounds="100 256 1050 188">
+    <text x="100" y="300" font-family="Georgia, serif" font-size="48" fill="#EDEAE3">Reading is not competing with the day.<tspan x="100" dy="62">It is competing with the last hour.</tspan><tspan x="100" dy="62" fill="#E9C877">So stop arguing for reading. Own bedtime.</tspan></text>
+  </g>
+  <g id="strategic-consequence" data-pptx-bounds="100 476 1010 68">
+    <text x="100" y="500" font-size="24" fill="#A29E97">Which changes where the work has to appear: the street at seven, the shelf at eight, the<tspan x="100" dy="32">bedside at ten.</tspan></text>
+  </g>
+</svg>

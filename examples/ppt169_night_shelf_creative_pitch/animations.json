@@ -1,0 +1,471 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.4
+    },
+    "animation": {
+      "trigger": "after-previous",
+      "stagger": 0.15
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-mark": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "cover-lockup": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.7
+            }
+          ]
+        },
+        "cover-attribution": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "02_audience_truth": {
+      "groups": {
+        "page-title": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "headline-contrast": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.6
+            }
+          ]
+        },
+        "youngest-band-note": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "03_the_last_hour": {
+      "groups": {
+        "page-title": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "evidence-prevalence": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "evidence-cost": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "evidence-alternative": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.6
+            }
+          ]
+        }
+      }
+    },
+    "04_the_task": {
+      "groups": {
+        "page-title": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "the-task": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.6
+            }
+          ]
+        },
+        "task-constraints": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.6
+            }
+          ]
+        }
+      }
+    },
+    "05_strategic_thought": {
+      "groups": {
+        "strategic-statement": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.8
+            }
+          ]
+        },
+        "strategic-consequence": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "06_the_idea": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 1.0
+      },
+      "morph": {
+        "from": "05_strategic_thought",
+        "pairs": {
+          "the-thought": {
+            "from": "strategic-statement",
+            "to": "idea-line"
+          }
+        }
+      },
+      "groups": {
+        "idea-mark": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "idea-gloss": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "08_range_and_extension": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "07_hero_execution",
+        "pairs": {
+          "hero-artwork": {
+            "from": "hero-artwork",
+            "to": "lightbox-band"
+          }
+        }
+      },
+      "groups": {
+        "page-title": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "carrier-street-poster": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "carrier-phone-post": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "carrier-bookmark": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "mockup-marker": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 5,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "09_identity_in_use": {
+      "groups": {
+        "page-title": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "identity-type-voice": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.5
+            }
+          ]
+        },
+        "identity-palette": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "identity-mark-scales": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        },
+        "identity-rule": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 5,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "10_tone_and_craft": {
+      "groups": {
+        "page-title": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "tone-word": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.8
+            }
+          ]
+        },
+        "tone-lead": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        },
+        "craft-notes": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    },
+    "11_environment": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "10_tone_and_craft",
+        "pairs": {
+          "campaign-mark": {
+            "from": "campaign-mark",
+            "to": "campaign-mark"
+          }
+        }
+      },
+      "groups": {
+        "environment-caption": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.6
+            }
+          ]
+        },
+        "honest-scale-note": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "12_production_reality": {
+      "groups": {
+        "page-title": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "channel-classes": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.4
+            }
+          ]
+        },
+        "six-week-run": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.6
+            }
+          ]
+        },
+        "illustrative-marker": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 4,
+              "duration": 0.4
+            }
+          ]
+        }
+      }
+    },
+    "13_close": {
+      "groups": {
+        "page-title": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        },
+        "measurement-test": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 2,
+              "duration": 0.7
+            }
+          ]
+        },
+        "decision-ask": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "order": 3,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="toneScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#08080A" stop-opacity="0.90" />
+      <stop offset="60%" stop-color="#08080A" stop-opacity="0.74" />
+      <stop offset="100%" stop-color="#08080A" stop-opacity="0.52" />
+    </linearGradient>
+    <filter id="lampGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b" />
+      <feFlood flood-color="#E9C877" flood-opacity="0.45" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10" />
+  <image id="tone-field" data-pptx-role="decoration" href="../images/hero_blur.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
+  <rect id="tone-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#toneScrim)" />
+  <g id="page-title" data-pptx-bounds="72 68 360 66">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48" fill="#EDEAE3">Tone and craft</text>
+  </g>
+  <g id="campaign-mark" data-pptx-bounds="1000 150 132 49">
+    <g id="p10-mark-moon" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="moon" data-pptx-frame="1048 150 36 46" fill="#E9C877" stroke="none">
+<path d="M 1084 196 A 36 23 0 0 1 1084 150 A 45 28.75 0 0 0 1084 196 Z" />
+</g>
+    <rect x="1000" y="196" width="132" height="3" fill="#EDEAE3" />
+  </g>
+  <g id="tone-word" data-pptx-bounds="72 226 460 106">
+    <text x="72" y="300" font-family="Georgia, serif" font-size="84" fill="#EDEAE3" filter="url(#lampGlow)">Unhurried</text>
+  </g>
+  <g id="tone-lead" data-pptx-bounds="72 340 600 48">
+    <text x="72" y="372" font-size="36" fill="#E9C877">Warm, printed, made by the shop.</text>
+  </g>
+  <g id="craft-notes" data-pptx-bounds="72 428 720 138" fill="#EDEAE3" font-size="30">
+    <text x="72" y="456">Uncoated cream stock, two inks, no laminate.</text>
+    <text x="72" y="504">Photographed at night in the shop, not on a set.</text>
+    <text x="72" y="552">Every line written to be read aloud in one breath.</text>
+  </g>
+  <g id="craft-object" data-pptx-bounds="900 390 288 302">
+    <image href="../images/element_mug.png" x="900" y="392" width="260" height="237" preserveAspectRatio="xMidYMid meet" />
+    <text x="900" y="660" font-size="18" fill="#A29E97">Something the shop made, not<tspan x="900" dy="24">something it bought.</tspan></text>
+  </g>
+</svg>

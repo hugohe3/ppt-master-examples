@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <clipPath id="posterTrim">
+      <polygon points="72,230 270,230 292,252 292,560 72,560"/>
+    </clipPath>
+    <clipPath id="phonePost">
+      <rect x="352" y="252" width="176" height="176" rx="8" ry="8"/>
+    </clipPath>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10"/>
+  <g id="page-title" data-pptx-bounds="72 68 866 66">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48" fill="#EDEAE3">It runs everywhere the hour is spent</text>
+  </g>
+  <g id="carrier-street-poster" data-pptx-bounds="72 230 248 400">
+    <image href="../images/poster_artwork.jpg" x="72" y="230" width="220" height="330" preserveAspectRatio="xMidYMid slice" clip-path="url(#posterTrim)"/>
+    <text x="88" y="492" font-size="18" fill="#141416">The last hour<tspan x="88" dy="22">belongs to a book.</tspan></text>
+    <text x="88" y="544" font-size="18" fill="#4A6B62">Fog &amp; Fern Books</text>
+    <text x="72" y="596" font-size="18" fill="#EDEAE3">Street poster<tspan x="72" dy="24" fill="#A29E97">the walk home</tspan></text>
+  </g>
+  <g id="carrier-phone-post" data-pptx-bounds="340 200 228 430">
+    <rect x="340" y="200" width="200" height="360" rx="24" ry="24" fill="#141416" stroke="#2E2E33" stroke-width="2"/>
+    <rect x="352" y="218" width="176" height="324" rx="10" ry="10" fill="#0E0E10"/>
+    <circle cx="366" cy="236" r="8" fill="#7FA69B"/>
+    <text x="384" y="242" font-size="18" fill="#A29E97">Fog &amp; Fern</text>
+    <image href="../images/social_artwork.jpg" x="352" y="252" width="176" height="176" preserveAspectRatio="xMidYMid slice" clip-path="url(#phonePost)"/>
+    <text x="360" y="452" font-size="18" fill="#EDEAE3">The last hour<tspan x="360" dy="22">belongs to a book.</tspan></text>
+    <text x="340" y="596" font-size="18" fill="#EDEAE3">Phone<tspan x="340" dy="24" fill="#A29E97">already in hand</tspan></text>
+  </g>
+  <g id="lightbox-band" data-pptx-bounds="586 445 414 185">
+    <svg id="lightbox-crop" x="588" y="447" width="400" height="113" viewBox="0.05 0.42 0.83 0.42" preserveAspectRatio="none" overflow="hidden">
+      <image href="../images/hero_night_shelf.jpg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/>
+    </svg>
+    <rect x="586" y="445" width="404" height="117" fill="none" stroke="#7FA69B" stroke-width="2"/>
+    <text x="586" y="596" font-size="18" fill="#EDEAE3">Shop window<tspan x="586" dy="24" fill="#A29E97">the lightbox the shop already owns</tspan></text>
+  </g>
+  <g id="carrier-bookmark" data-pptx-bounds="1020 264 140 366">
+    <image href="../images/element_bookmark.png" x="1036" y="264" width="110" height="296" preserveAspectRatio="xMidYMid meet"/>
+    <text x="1020" y="596" font-size="18" fill="#EDEAE3">Bookmark<tspan x="1020" dy="24" fill="#A29E97">goes home</tspan></text>
+  </g>
+  <g id="mockup-marker" data-pptx-bounds="72 672 892 28">
+    <text x="72" y="690" font-size="18" fill="#A29E97">All four are mockups of proposed executions; no placement is shown that the shop does not already own.</text>
+  </g>
+</svg>

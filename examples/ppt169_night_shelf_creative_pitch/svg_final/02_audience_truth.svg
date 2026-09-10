@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E0E10"/>
+  <g id="page-title" data-pptx-bounds="72 68 716 66">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48" fill="#EDEAE3">There are sixteen minutes left</text>
+  </g>
+  <g id="series-key" data-pptx-bounds="852 90 300 30">
+    <rect x="852" y="96" width="20" height="20" fill="#E9C877"/>
+    <text x="884" y="112" font-size="24" fill="#A29E97">Reading</text>
+    <rect x="999" y="96" width="20" height="20" fill="#C4553F"/>
+    <text x="1031" y="112" font-size="24" fill="#A29E97">Television</text>
+  </g>
+  <g id="headline-contrast" data-pptx-bounds="72 140 790 130">
+    <text x="72" y="224" font-size="96" font-weight="bold" fill="#E9C877">16 min</text>
+    <text x="72" y="258" font-size="24" fill="#A29E97">reading, per day</text>
+    <text x="452" y="224" font-size="96" font-weight="bold" fill="#C4553F">2 h 37 m</text>
+    <text x="452" y="258" font-size="24" fill="#A29E97">television, per day</text>
+  </g>
+  <g id="daily-minutes-by-age" data-pptx-replace-with="chart" data-pptx-bounds="156 296 1020 324" data-pptx-fallback-sha256="c8db053de518997df55cff2ca248dab82c480d76a91905ed497054cd5c78aa1c">
+    <metadata type="application/json">
+    {
+          "schema": "ppt-master.native-chart.v1",
+          "x": 156,
+          "y": 296,
+          "width": 1020,
+          "height": 324,
+          "name": "daily-minutes-by-age",
+          "type": "column",
+          "grouping": "clustered",
+          "gap_width": 140,
+          "overlap": 0,
+          "categories": [
+                "15–24",
+                "25–34",
+                "35–44",
+                "45–54",
+                "55–64",
+                "65+"
+          ],
+          "series": [
+                {
+                      "name": "Reading",
+                      "values": [
+                            10,
+                            10,
+                            13,
+                            13,
+                            13,
+                            32
+                      ]
+                },
+                {
+                      "name": "Television",
+                      "values": [
+                            106,
+                            113,
+                            106,
+                            136,
+                            184,
+                            258
+                      ]
+                }
+          ],
+          "data_labels": {
+                "show_value": true,
+                "position": "outside_end",
+                "number_format": "0",
+                "font_size": 18,
+                "font_family": "Arial",
+                "color": "#A29E97"
+          },
+          "axes": {
+                "category": {
+                      "kind": "text",
+                      "tick_marks": "none",
+                      "color": "#A29E97",
+                      "font_family": "Arial",
+                      "font_size": 24
+                },
+                "value": {
+                      "visible": false
+                }
+          },
+          "style": {
+                "colors": [
+                      "#E9C877",
+                      "#C4553F"
+                ],
+                "chart_area_fill": "#0E0E10",
+                "plot_area_fill": "#0E0E10",
+                "text_color": "#A29E97",
+                "axis_color": "#3A3A40",
+                "font_family": "Arial",
+                "axis_font_size": 24
+          }
+    }
+    </metadata>
+    <g id="daily-minutes-by-age-chartArea">
+    <line id="p02-chart-axis-baseline" x1="156" y1="580" x2="1176" y2="580" stroke="#3A3A40" stroke-width="1"/>
+    <!-- chart-plot-area: object=daily-minutes-by-age | 156,320,1176,580 -->
+    <rect x="191" y="570" width="50" height="10" fill="#E9C877"/>
+    <rect x="241" y="474" width="50" height="106" fill="#C4553F"/>
+    <rect x="361" y="570" width="50" height="10" fill="#E9C877"/>
+    <rect x="411" y="467" width="50" height="113" fill="#C4553F"/>
+    <rect x="531" y="567" width="50" height="13" fill="#E9C877"/>
+    <rect x="581" y="474" width="50" height="106" fill="#C4553F"/>
+    <rect x="701" y="567" width="50" height="13" fill="#E9C877"/>
+    <rect x="751" y="444" width="50" height="136" fill="#C4553F"/>
+    <rect x="871" y="567" width="50" height="13" fill="#E9C877"/>
+    <rect x="921" y="396" width="50" height="184" fill="#C4553F"/>
+    <rect x="1041" y="548" width="50" height="32" fill="#E9C877"/>
+    <rect x="1091" y="322" width="50" height="258" fill="#C4553F"/>
+    <text x="216" y="562" font-size="18" fill="#A29E97" text-anchor="middle">10</text>
+    <text x="266" y="466" font-size="18" fill="#A29E97" text-anchor="middle">106</text>
+    <text x="386" y="562" font-size="18" fill="#A29E97" text-anchor="middle">10</text>
+    <text x="436" y="459" font-size="18" fill="#A29E97" text-anchor="middle">113</text>
+    <text x="556" y="559" font-size="18" fill="#A29E97" text-anchor="middle">13</text>
+    <text x="606" y="466" font-size="18" fill="#A29E97" text-anchor="middle">106</text>
+    <text x="726" y="559" font-size="18" fill="#A29E97" text-anchor="middle">13</text>
+    <text x="776" y="436" font-size="18" fill="#A29E97" text-anchor="middle">136</text>
+    <text x="896" y="559" font-size="18" fill="#A29E97" text-anchor="middle">13</text>
+    <text x="946" y="388" font-size="18" fill="#A29E97" text-anchor="middle">184</text>
+    <text x="1066" y="540" font-size="18" fill="#A29E97" text-anchor="middle">32</text>
+    <text x="1116" y="314" font-size="18" fill="#A29E97" text-anchor="middle">258</text>
+    <text x="241" y="612" font-size="24" fill="#A29E97" text-anchor="middle">15–24</text>
+    <text x="411" y="612" font-size="24" fill="#A29E97" text-anchor="middle">25–34</text>
+    <text x="581" y="612" font-size="24" fill="#A29E97" text-anchor="middle">35–44</text>
+    <text x="751" y="612" font-size="24" fill="#A29E97" text-anchor="middle">45–54</text>
+    <text x="921" y="612" font-size="24" fill="#A29E97" text-anchor="middle">55–64</text>
+    <text x="1091" y="612" font-size="24" fill="#A29E97" text-anchor="middle">65+</text>
+    </g>
+  </g>
+  <g id="youngest-band-note" data-pptx-bounds="72 630 1056 36">
+    <text x="72" y="654" font-size="24" fill="#EDEAE3">The youngest band reads for ten minutes a day and watches television for one hour forty-six.</text>
+  </g>
+  <g id="chart-source" data-pptx-bounds="72 672 1046 28">
+    <text x="72" y="690" font-size="18" fill="#A29E97">US Bureau of Labor Statistics, American Time Use Survey, 2025 annual averages. Published hours converted to minutes.</text>
+  </g>
+</svg>
