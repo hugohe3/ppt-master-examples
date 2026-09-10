@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4"/>
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">COMMON MISTAKE · 1 OF 2</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B"/>
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">Mistake 1 — turning up the saturation</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1"/>
+  </g>
+
+  <g id="mistake-as-drawn" data-pptx-bounds="64 186 368 276">
+    <text x="64" y="204" font-size="16" font-weight="bold" letter-spacing="2" fill="#6B6259">AS DRAWN</text>
+    <rect x="64" y="216" width="368" height="120" fill="#FAF8F4" stroke="#D8D0C3" stroke-width="1"/>
+    <text x="248" y="284" font-size="24" text-anchor="middle" fill="#C98E62">Caption text</text>
+    <text x="64" y="366" font-family="Consolas" font-size="22" fill="#6B6259">#C98E62</text>
+    <text x="64" y="434" font-family="Consolas" font-size="64" fill="#C62828">2.63:1</text>
+    <use data-icon="tabler-outline/circle-x" x="314" y="406" width="26" height="26" fill="#C62828" stroke-width="2"/>
+    <text x="350" y="428" font-size="18" font-weight="bold" fill="#C62828">FAIL</text>
+  </g>
+  <g id="mistake-saturated" data-pptx-bounds="456 186 368 276">
+    <text x="456" y="204" font-size="16" font-weight="bold" letter-spacing="2" fill="#C62828">SATURATION PUSHED</text>
+    <rect x="456" y="216" width="368" height="120" fill="#FAF8F4" stroke="#D8D0C3" stroke-width="1"/>
+    <text x="640" y="284" font-size="24" text-anchor="middle" fill="#FF862C">Caption text</text>
+    <text x="456" y="366" font-family="Consolas" font-size="22" fill="#6B6259">#FF862C</text>
+    <text x="456" y="434" font-family="Consolas" font-size="64" fill="#C62828">2.28:1</text>
+    <use data-icon="tabler-outline/circle-x" x="706" y="406" width="26" height="26" fill="#C62828" stroke-width="2"/>
+    <text x="742" y="428" font-size="18" font-weight="bold" fill="#C62828">FAIL</text>
+  </g>
+  <g id="mistake-fixed" data-pptx-bounds="848 186 368 276">
+    <text x="848" y="204" font-size="16" font-weight="bold" letter-spacing="2" fill="#2E7D32">LIGHTNESS LOWERED</text>
+    <rect x="848" y="216" width="368" height="120" fill="#FAF8F4" stroke="#D8D0C3" stroke-width="1"/>
+    <text x="1032" y="284" font-size="24" text-anchor="middle" fill="#A06437">Caption text</text>
+    <text x="848" y="366" font-family="Consolas" font-size="22" fill="#6B6259">#A06437</text>
+    <text x="848" y="434" font-family="Consolas" font-size="64" fill="#2E7D32">4.53:1</text>
+    <use data-icon="tabler-outline/circle-check" x="1098" y="406" width="26" height="26" fill="#2E7D32" stroke-width="2"/>
+    <text x="1134" y="428" font-size="18" font-weight="bold" fill="#2E7D32">PASS</text>
+  </g>
+
+  <g id="luminance-strip" data-pptx-bounds="64 492 1152 80">
+    <text x="64" y="512" font-size="18" fill="#2E2A25">The same three colors, reduced to what the rule actually measures:</text>
+    <rect x="64" y="530" width="100" height="36" fill="#9B9B9B"/>
+    <text x="180" y="556" font-family="Consolas" font-size="22" fill="#6B6259">L 0.33</text>
+    <rect x="456" y="530" width="100" height="36" fill="#A7A7A7"/>
+    <text x="572" y="556" font-family="Consolas" font-size="22" fill="#6B6259">L 0.38</text>
+    <rect x="848" y="530" width="100" height="36" fill="#727272"/>
+    <text x="964" y="556" font-family="Consolas" font-size="22" fill="#6B6259">L 0.17</text>
+  </g>
+
+  <g id="tempting-note" data-pptx-bounds="64 578 552 92">
+    <g id="p11-chip-preference" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 582 148 26" fill="#EDE7DC" stroke="none">
+<path d="M 64 582 L 207.67 582 L 212 586.33 L 212 608 L 64 608 Z"/>
+</g>
+    <text x="76" y="600" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">PREFERENCE</text>
+    <text x="228" y="600" font-size="18" fill="#6B6259">why it is tempting</text>
+    <text x="64" y="636" font-size="18" fill="#2E2A25">On a big bright monitor the louder color really does<tspan x="64" dy="24">look stronger to you.</tspan></text>
+  </g>
+
+  <g id="correction-note" data-pptx-bounds="640 578 576 92">
+    <g id="p11-chip-recommendation" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="640 582 192 26" fill="#EDE7DC" stroke="none">
+<path d="M 640 582 L 827.67 582 L 832 586.33 L 832 608 L 640 608 Z"/>
+</g>
+    <text x="652" y="600" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">RECOMMENDATION</text>
+    <text x="848" y="600" font-size="18" fill="#6B6259">what to do instead</text>
+    <text x="640" y="636" font-size="18" font-weight="bold" fill="#A8452B">Move the lightness, keep the hue, then measure it again.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="64" y="690">Ratios and relative luminances computed from the three swatches on this page, per W3C WCAG 2.1</text>
+    <text x="1216" y="690" text-anchor="end">11 / 14</text>
+  </g>
+</svg>

@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "filename": "great_wave.jpg",
+      "slide": "08_demo_extract",
+      "purpose": "specimen",
+      "search_query": "Great Wave off Kanagawa Hokusai",
+      "matched_query": "Great Wave off Kanagawa Hokusai",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Flickr - …trialsanderrors - Hokusai, Under the great wave off Kanagawa, ca. 1832.jpg",
+      "author": "After Katsushika Hokusai",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_%E2%80%A6trialsanderrors_-_Hokusai,_Under_the_great_wave_off_Kanagawa,_ca._1832.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Flickr_-_%E2%80%A6trialsanderrors_-_Hokusai%2C_Under_the_great_wave_off_Kanagawa%2C_ca._1832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 8354,
+      "height": 5771,
+      "attribution_text": "great_wave.jpg — \"Flickr - …trialsanderrors - Hokusai, Under the great wave off Kanagawa, ca. 1832.jpg\" by After Katsushika Hokusai via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Kanagawa|神奈川",
+        "Hokusai|北斎"
+      ],
+      "query_variants": [
+        "Under the Wave off Kanagawa",
+        "神奈川沖浪裏"
+      ]
+    },
+    {
+      "filename": "great_wave_fit.png",
+      "slide": "08_demo_extract",
+      "purpose": "specimen",
+      "search_query": "Great Wave off Kanagawa Hokusai",
+      "matched_query": "Great Wave off Kanagawa Hokusai",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Flickr - …trialsanderrors - Hokusai, Under the great wave off Kanagawa, ca. 1832.jpg",
+      "author": "After Katsushika Hokusai",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_%E2%80%A6trialsanderrors_-_Hokusai,_Under_the_great_wave_off_Kanagawa,_ca._1832.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Flickr_-_%E2%80%A6trialsanderrors_-_Hokusai%2C_Under_the_great_wave_off_Kanagawa%2C_ca._1832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1400,
+      "height": 967,
+      "attribution_text": "great_wave_fit.png — \"Flickr - …trialsanderrors - Hokusai, Under the great wave off Kanagawa, ca. 1832.jpg\" by After Katsushika Hokusai via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Kanagawa|神奈川",
+        "Hokusai|北斎"
+      ],
+      "query_variants": [
+        "Under the Wave off Kanagawa",
+        "神奈川沖浪裏"
+      ],
+      "derived_from": "great_wave.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1400,
+          "height": 970
+        }
+      ]
+    },
+    {
+      "filename": "great_wave_fit.jpg",
+      "slide": "08_demo_extract",
+      "purpose": "specimen",
+      "search_query": "Great Wave off Kanagawa Hokusai",
+      "matched_query": "Great Wave off Kanagawa Hokusai",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Flickr - …trialsanderrors - Hokusai, Under the great wave off Kanagawa, ca. 1832.jpg",
+      "author": "After Katsushika Hokusai",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_%E2%80%A6trialsanderrors_-_Hokusai,_Under_the_great_wave_off_Kanagawa,_ca._1832.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Flickr_-_%E2%80%A6trialsanderrors_-_Hokusai%2C_Under_the_great_wave_off_Kanagawa%2C_ca._1832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 8354,
+      "height": 5771,
+      "attribution_text": "great_wave.jpg — \"Flickr - …trialsanderrors - Hokusai, Under the great wave off Kanagawa, ca. 1832.jpg\" by After Katsushika Hokusai via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Kanagawa|神奈川",
+        "Hokusai|北斎"
+      ],
+      "query_variants": [
+        "Under the Wave off Kanagawa",
+        "神奈川沖浪裏"
+      ],
+      "derived_from": "great_wave.jpg (original not bundled; --fit 1400x970, JPEG q82)"
+    }
+  ],
+  "generated_at": "2026-09-10T07:21:11.534741Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

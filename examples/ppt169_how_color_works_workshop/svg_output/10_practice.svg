@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#EDE7DC"/>
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">GUIDED PRACTICE</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B"/>
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">Your turn — 12 minutes</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1"/>
+  </g>
+
+  <g id="task" data-pptx-bounds="64 190 576 200">
+    <use data-icon="tabler-outline/pencil" x="64" y="192" width="24" height="24" fill="#A8452B" stroke-width="2"/>
+    <text x="98" y="210" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">TASK</text>
+    <text x="64" y="260" font-size="24" fill="#2E2A25">Open any image you own. Sample five colors in<tspan x="64" dy="34">the order we just used, then measure the</tspan><tspan x="64" dy="34">pair you would actually put together for body</tspan><tspan x="64" dy="34">text on a background.</tspan></text>
+  </g>
+
+  <g id="starting-point" data-pptx-bounds="64 406 576 90">
+    <text x="64" y="428" font-size="16" font-weight="bold" letter-spacing="2" fill="#6B6259">STARTING POINT</text>
+    <text x="64" y="466" font-size="18" fill="#2E2A25">Your own image, and the contrast checker linked on the last<tspan x="64" dy="24">page of this deck.</tspan></text>
+  </g>
+
+  <g id="success-condition" data-pptx-bounds="700 188 516 240">
+    <rect x="700" y="190" width="516" height="236" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/circle-check" x="732" y="212" width="24" height="24" fill="#2E7D32" stroke-width="2"/>
+    <text x="766" y="230" font-size="16" font-weight="bold" letter-spacing="2" fill="#2E7D32">SUCCESS CONDITION</text>
+    <text x="732" y="288" font-size="24" fill="#23201C">Five hex values written down, one<tspan x="732" dy="32">measured ratio, and that ratio at</tspan><tspan x="732" dy="32"><tspan font-family="Consolas" font-weight="bold" fill="#A8452B">4.5:1</tspan> or above.</tspan></text>
+  </g>
+
+  <g id="if-stuck" data-pptx-bounds="700 452 516 100">
+    <use data-icon="tabler-outline/help-circle" x="700" y="454" width="24" height="24" fill="#6B6259" stroke-width="2"/>
+    <text x="734" y="472" font-size="16" font-weight="bold" letter-spacing="2" fill="#6B6259">IF YOU GET STUCK</text>
+    <text x="700" y="510" font-size="18" fill="#2E2A25">Stop sampling for meaning and sample by area instead:<tspan x="700" dy="24">largest first, then darkest, then lightest.</tspan></text>
+  </g>
+
+  <g id="timing" data-pptx-bounds="64 592 1152 70">
+    <line x1="64" y1="596" x2="1216" y2="596" stroke="#D8D0C3" stroke-width="1"/>
+    <use data-icon="tabler-outline/clock" x="64" y="626" width="26" height="26" fill="#A8452B" stroke-width="2"/>
+    <text x="102" y="648" font-size="24" fill="#2E2A25"><tspan font-weight="bold" fill="#23201C">12 minutes</tspan> — then we compare three of them out loud.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="1216" y="690" text-anchor="end">10 / 14</text>
+  </g>
+</svg>

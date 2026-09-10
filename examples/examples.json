@@ -2,11 +2,109 @@
   "version": 1,
   "updated": "2026-09-10",
   "stats": {
-    "examples": 37,
-    "pages": 527,
-    "templates": 37
+    "examples": 38,
+    "pages": 541,
+    "templates": 38
   },
   "projects": [
+    {
+      "id": "ppt169_how_color_works_workshop",
+      "title": "How Color Works",
+      "description": "英文工作坊 deck 14 页 — 首个 workshop-teaching 方法模板示例，第二份英文 Default 路线示例：学习目标→三种锥细胞→加色/减色混合→色相/饱和度/明度三个旋钮→明度对比法则→WCAG 阈值原生表→从葛饰北斋《神奈川冲浪里》取五色的演示→测量与修复→12 分钟练习→两个常见错误（只靠饱和度对比、有序数据用彩虹色阶）→自测→下一步；色轮、色板、明度阶梯、对比对全部是原生可编辑几何与原生渐变，锥细胞峰值与色觉缺陷比例 2 张原生图表，6 条来源超链接；暖纸底严格栅格，页面上唯一饱和色就是被讨论的颜色；色轮跨页 Morph 原地褪色",
+      "icon": "🎨",
+      "color": "#B5451B",
+      "style": "educational",
+      "styleName": "Workshop Teaching · Warm Paper Grid",
+      "desc": "A fourteen-page English hands-on workshop on how color works — the first example built on the bundled workshop-teaching Style. It moves the learner from objective to practice: how three cone types sample the spectrum (native line-to-column chart from tabulated peaks), additive versus subtractive mixing drawn as Boolean-fragmented native regions, hue, saturation and lightness as three dials with native gradient ramps, why lightness contrast does the heavy lifting, the WCAG 4.5:1 and 3:1 thresholds as a native reference table, a worked demonstration that pulls a five-color palette out of Hokusai's Under the Wave off Kanagawa and then measures and repairs the pair that fails, a twelve-minute guided exercise, two common mistakes (saturation-only contrast, a rainbow ramp for ordered data), a comprehension check, and where to go next with native source hyperlinks. Rule, convention, recommendation and preference are labeled on every claim. The visual system sets the Style's sketch-notes preference aside for a quiet warm-paper grid where the only saturated pixels on a page are the colors under examination; two twelve-wedge native hue wheels carry a Morph in which the wheel drains of hue in place. Two AI illustration-sheet slices, one public-domain specimen, speaker notes throughout.",
+      "tags": [
+        "Education",
+        "Workshop Teaching",
+        "Style Template",
+        "English",
+        "Color Theory",
+        "Native Charts",
+        "Native Tables",
+        "Native Gradients",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_how_color_works_workshop/svg_final",
+      "generatedAt": "2026-09-10",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_how_color_works_workshop/exports/ppt169_how_color_works_workshop.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "How Color Works — a 90-minute hands-on workshop"
+        },
+        {
+          "file": "02_objectives.svg",
+          "title": "objectives",
+          "desc": "By the end of this session you will be able to…"
+        },
+        {
+          "file": "03_three_cones.svg",
+          "title": "three_cones",
+          "desc": "Your eye does not measure light — three cones sample it"
+        },
+        {
+          "file": "04_two_mixings.svg",
+          "title": "two_mixings",
+          "desc": "Two ways color mixes, and you ship into both"
+        },
+        {
+          "file": "05_three_dials.svg",
+          "title": "three_dials",
+          "desc": "Three dials — hue, saturation, lightness"
+        },
+        {
+          "file": "06_lightness_rule.svg",
+          "title": "lightness_rule",
+          "desc": "Lightness does the heavy lifting: 9.90:1"
+        },
+        {
+          "file": "07_wcag_thresholds.svg",
+          "title": "wcag_thresholds",
+          "desc": "The numbers you actually have to hit (WCAG)"
+        },
+        {
+          "file": "08_demo_extract.svg",
+          "title": "demo_extract",
+          "desc": "Demo: five colors out of one print"
+        },
+        {
+          "file": "09_demo_measure.svg",
+          "title": "demo_measure",
+          "desc": "Now measure it, then repair the pair that fails"
+        },
+        {
+          "file": "10_practice.svg",
+          "title": "practice",
+          "desc": "Your turn — 12 minutes"
+        },
+        {
+          "file": "11_mistake_saturation.svg",
+          "title": "mistake_saturation",
+          "desc": "Mistake 1 — saturation-only contrast (4.53:1 vs the near miss)"
+        },
+        {
+          "file": "12_mistake_rainbow.svg",
+          "title": "mistake_rainbow",
+          "desc": "Mistake 2 — a rainbow ramp for ordered data"
+        },
+        {
+          "file": "13_check.svg",
+          "title": "check",
+          "desc": "Check yourself — three questions"
+        },
+        {
+          "file": "14_recap_next.svg",
+          "title": "recap_next",
+          "desc": "What you can do now, and where to go next"
+        }
+      ]
+    },
     {
       "id": "ppt169_raft_consensus_deepdive",
       "title": "Raft：为了让人看懂而设计的共识算法",

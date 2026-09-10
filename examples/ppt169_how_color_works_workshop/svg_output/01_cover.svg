@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="cover">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4"/>
+
+  <g id="cover-lockup" data-pptx-bounds="64 78 1152 206">
+    <text x="64" y="96" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">HANDS-ON WORKSHOP</text>
+    <text x="1216" y="96" font-size="18" text-anchor="end" fill="#6B6259">Two exercises · bring a screen</text>
+    <rect x="64" y="108" width="48" height="3" fill="#A8452B"/>
+    <text x="64" y="182" font-family="Trebuchet MS" font-size="72" font-weight="bold" fill="#23201C">How Color Works</text>
+    <text x="64" y="228" font-family="Trebuchet MS" font-size="32" fill="#3E5C6B">A 90-minute hands-on workshop</text>
+    <text x="64" y="272" font-size="30" fill="#2E2A25">One beam goes in. <tspan font-weight="bold" fill="#A8452B">Everything you argue about comes out.</tspan></text>
+  </g>
+
+  <g id="cover-band" data-pptx-bounds="0 298 1280 422">
+    <line x1="0" y1="299" x2="1280" y2="299" stroke="#D8D0C3" stroke-width="1"/>
+    <image href="../images/prism_bench.jpg" x="0" y="300" width="1280" height="420" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+</svg>

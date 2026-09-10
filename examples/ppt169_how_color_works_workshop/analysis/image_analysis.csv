@@ -1,0 +1,5 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,eye_cones.png,1032,444,2.32,2.32,,native,PNG,True,1,,bitmap,True,True,454.1,Ultra-wide
+2,great_wave_fit.jpg,1400,967,1.45,1.45,,native,JPEG,False,1,,bitmap,True,True,345.8,Standard landscape
+3,press_and_screen.png,800,385,2.08,2.08,,native,PNG,True,1,,bitmap,True,True,221.0,Ultra-wide
+4,prism_bench.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,74.7,Wide landscape

@@ -1,0 +1,39 @@
+{
+  "project": "how_color_works_ppt169_20260910",
+  "generated_at": "2026-09-10",
+  "deck_rendering": "custom",
+  "color_scheme": {
+    "background": "#FAF8F4",
+    "secondary_bg": "#EDE7DC",
+    "primary": "#23201C",
+    "accent": "#A8452B",
+    "secondary_accent": "#3E5C6B",
+    "body_text": "#2E2A25"
+  },
+  "items": [
+    {
+      "filename": "prism_bench.png",
+      "purpose": "Cover hook (Slide 01): one beam of light enters, a spectrum comes out",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "prompt": "Explanatory pen-on-paper drawing in a professional hand-drawn visual-note style. All line work is confident medium-weight ink in the deck's body-text tone #2E2A25 with the slight wobble of a thoughtful human hand — considered, exact and unhurried, never cartoonish. Strictly flat: no shadow, no gradient, no glow, no paper grain, no three-dimensional shading. Composition follows editorial discipline — one dominant focal subject, deliberate alignment to invisible columns, generous negative space, simple geometric forms drawn with confidence. The whole canvas is the deck's warm paper background #FAF8F4; line work carries the explanation and shape fills stay empty. The subject: a single upright triangular glass prism standing on a plain flat workbench, both drawn in bare outline, placed in the lower right third of the canvas. One narrow straight beam of light enters the prism's left face from the left edge of the canvas, drawn as a single ink line. From the prism's right face the light leaves as a widening fan that spreads downward and to the right and falls across the bench surface; that fan is a smooth continuous spread of spectral colour running from violet through blue, green and yellow into red, with no visible steps, stripes or separate bands. The spectral fan is the only saturated colour in the image and covers roughly the lower right quarter of the canvas; everything else is ink on bare paper. The entire upper-left half of the canvas stays empty warm paper with nothing drawn in it, kept calm for a text overlay. Composed as a 1280x720px full-bleed hero background for hero_page use. NO text of any kind anywhere in the image — no letters, numbers, words, signs, labels, captions, watermarks, or written symbols. Color values (HEX codes like #2E2A25) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "Ink line drawing of a prism on a workbench splitting one beam of light into a spectrum",
+      "status": "Generated"
+    },
+    {
+      "filename": "teaching_sheet.png",
+      "purpose": "Generation parent for the two explanatory drawings used on Slides 03 and 04",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "4:5",
+      "image_size": "2K",
+      "slice_grid": "2x1",
+      "slice_names": "eye_cones,press_and_screen",
+      "prompt": "A two-cell illustration sheet on a flat uniform chroma key field of exactly #0000FF pure blue. Every single pixel that is not part of a drawing is that exact pure blue key colour: no white card, no paper sheet, no panel, no mat, no frame, no border, no cell divider, no gutter line, no drop shadow, no vignette and no second tint of the key anywhere on the canvas. Both drawings are in the same professional hand-drawn visual-note style: confident medium-weight ink line work in the tone #2E2A25 with the slight wobble of a thoughtful human hand, strictly flat with no shadow, no gradient and no grain, shape fills left empty so the line carries the explanation, and one warm ochre #A8452B used sparingly on under 10% of the drawn area to mark the one part being explained. An invisible logical grid of 2 rows and 1 column divides the canvas into a top cell and a bottom cell; each cell holds one complete drawing centred in about 65% of its cell, with at least 10% key-only margin on every side, and no line, tip, stroke or effect crosses the horizontal midline between the two cells or reaches any outer edge of the canvas. TOP CELL: a human eye drawn in cross-section from the side as a simple outline — the round eyeball, the pupil and lens at the left, the curved back wall of the eye at the right — with a single straight ray of light entering the pupil and travelling to the back wall; connected to that back wall by two thin leader lines is a magnified circular inset showing three tapered cone-shaped receptor cells standing upright side by side, drawn as three plain outlines of visibly different heights, with the ochre accent marking only the receptor tips. BOTTOM CELL: two objects side by side on a shared invisible baseline — on the left a flat printing press sheet lying horizontally with a cylindrical ink roller resting on its surface, drawn in outline with the ochre accent marking only the band of ink under the roller; on the right an upright flat display panel on a small stand, its screen face emitting light drawn as short straight radiating strokes. Composed as a 1024x1280px two-cell source sheet for local use. NO text of any kind anywhere in the image — no letters, numbers, words, signs, labels, captions, watermarks, or written symbols. Color values (HEX codes like #2E2A25) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image. To repeat the most important rule: the background of the entire sheet, including the whole area between and around the two drawings, is one flat unbroken field of exactly #0000FF pure blue with nothing drawn on it.",
+      "alt_text": "Two-cell key sheet: an eye in cross-section with three cone cells, and a press sheet beside a lit screen",
+      "status": "Generated"
+    }
+  ]
+}

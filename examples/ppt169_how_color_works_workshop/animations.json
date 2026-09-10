@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-lockup": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "cover-band": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "delay": 0.15, "duration": 1.0 }
+      }
+    },
+    "02_objectives": {
+      "groups": {
+        "objectives": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "honesty-note": { "effect": "entrance_fade", "order": 2, "duration": 0.4 }
+      }
+    },
+    "03_three_cones": {
+      "groups": {
+        "spectrum-band": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.8 },
+        "cone-peaks": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.7 },
+        "eye-figure": { "effect": "entrance_fade", "order": 3, "duration": 0.5 }
+      }
+    },
+    "04_two_mixings": {
+      "groups": {
+        "additive-panel": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "subtractive-panel": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "mixing-takeaway": { "effect": "entrance_fade", "order": 3, "duration": 0.5 }
+      }
+    },
+    "05_three_dials": {
+      "groups": {
+        "hue-wheel": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "hsl-dials": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "duration": 0.7 },
+        "harmony-provenance": { "effect": "entrance_fade", "order": 3, "duration": 0.5 }
+      }
+    },
+    "06_lightness_rule": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 1.0 },
+      "morph": {
+        "from": "05_three_dials",
+        "pairs": { "hue-wheel": { "from": "hue-wheel", "to": "hue-wheel" } }
+      },
+      "groups": {
+        "rule-statement": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "luminance-formula": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "demo-fail": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "demo-pass": { "effect": "entrance_fade", "order": 4, "duration": 0.5 }
+      }
+    },
+    "08_demo_extract": {
+      "groups": {
+        "demo-artwork": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "palette-column": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 2, "duration": 0.9 },
+        "demo-method": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "unglamorous-note": { "effect": "entrance_fade", "order": 4, "delay": 0.3, "duration": 0.4 }
+      }
+    },
+    "09_demo_measure": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 1.0 },
+      "morph": {
+        "from": "08_demo_extract",
+        "pairs": { "palette-column": { "from": "palette-column", "to": "palette-column" } }
+      },
+      "groups": {
+        "pair-matrix": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "repair": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "honest-note": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "10_practice": {
+      "groups": {
+        "task": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "success-condition": { "effect": "entrance_fade", "order": 2, "duration": 0.5 }
+      }
+    },
+    "11_mistake_saturation": {
+      "groups": {
+        "mistake-as-drawn": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "mistake-saturated": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "mistake-fixed": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "luminance-strip": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 4, "duration": 0.7 },
+        "correction-note": { "effect": "entrance_fade", "order": 5, "duration": 0.4 }
+      }
+    },
+    "12_mistake_rainbow": {
+      "groups": {
+        "ramp-rainbow": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "ramp-monotonic": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "rainbow-defects": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "cvd-types": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 4, "duration": 0.8 }
+      }
+    },
+    "13_check": {
+      "groups": {
+        "question-1": { "effect": "entrance_fade", "order": 1, "trigger": "with-previous", "duration": 0.5 },
+        "question-2": { "effect": "entrance_fade", "order": 2, "trigger": "with-previous", "duration": 0.5 },
+        "question-3": { "effect": "entrance_fade", "order": 3, "trigger": "with-previous", "duration": 0.5 },
+        "answers": { "effect": "entrance_fade", "order": 4, "trigger": "on-click", "duration": 0.5 }
+      }
+    },
+    "14_recap_next": {
+      "groups": {
+        "closing-takeaway": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "recap": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "destinations": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "honest-close": { "effect": "entrance_fade", "order": 4, "duration": 0.4 }
+      }
+    }
+  }
+}

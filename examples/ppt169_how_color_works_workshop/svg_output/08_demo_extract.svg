@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4"/>
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">WORKED DEMONSTRATION · STEP 1 OF 2</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B"/>
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">Five colors out of one print</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1"/>
+  </g>
+
+  <g id="demo-artwork" data-pptx-bounds="64 186 496 400">
+    <image href="../images/great_wave_fit.jpg" x="64" y="188" width="496" height="342" preserveAspectRatio="xMidYMid meet"/>
+    <text x="64" y="554" font-size="18" fill="#6B6259">Katsushika Hokusai, Under the Wave off Kanagawa,<tspan x="64" dy="22">c. 1830–32. Public domain, via Wikimedia Commons.</tspan></text>
+  </g>
+
+  <g id="demo-method" data-pptx-bounds="64 590 496 82">
+    <text x="64" y="610" font-size="18" fill="#2E2A25">Sampled in this order: the largest area first, then<tspan x="64" dy="24">the darkest, then the lightest, then two accents</tspan><tspan x="64" dy="24">chosen for meaning rather than area.</tspan></text>
+  </g>
+
+  <g id="palette-column" data-pptx-bounds="620 190 596 442">
+    <g id="swatch-1">
+      <rect x="620" y="196" width="120" height="64" fill="#E3DBCD" stroke="#D8D0C3" stroke-width="1"/>
+      <text x="760" y="224" font-size="24" fill="#23201C">Sky paper</text>
+      <text x="760" y="252" font-family="Consolas" font-size="22" fill="#6B6259">#E3DBCD</text>
+      <text x="980" y="238" font-size="18" fill="#6B6259">sky and paper ground</text>
+    </g>
+    <g id="swatch-2">
+      <rect x="620" y="288" width="120" height="64" fill="#C5B4A1"/>
+      <text x="760" y="316" font-size="24" fill="#23201C">Aged ground</text>
+      <text x="760" y="344" font-family="Consolas" font-size="22" fill="#6B6259">#C5B4A1</text>
+      <text x="980" y="330" font-size="18" fill="#6B6259">largest single area</text>
+    </g>
+    <g id="swatch-3">
+      <rect x="620" y="380" width="120" height="64" fill="#6B8C8E"/>
+      <text x="760" y="408" font-size="24" fill="#23201C">Sea green</text>
+      <text x="760" y="436" font-family="Consolas" font-size="22" fill="#6B6259">#6B8C8E</text>
+      <text x="980" y="422" font-size="18" fill="#6B6259">the wave body</text>
+    </g>
+    <g id="swatch-4">
+      <rect x="620" y="472" width="120" height="64" fill="#414D59"/>
+      <text x="760" y="500" font-size="24" fill="#23201C">Boat slate</text>
+      <text x="760" y="528" font-family="Consolas" font-size="22" fill="#6B6259">#414D59</text>
+      <text x="980" y="514" font-size="18" fill="#6B6259">boats and Fuji shadow</text>
+    </g>
+    <g id="swatch-5">
+      <rect x="620" y="564" width="120" height="64" fill="#060F2C"/>
+      <text x="760" y="592" font-size="24" fill="#23201C">Deep indigo</text>
+      <text x="760" y="620" font-family="Consolas" font-size="22" fill="#6B6259">#060F2C</text>
+      <text x="980" y="606" font-size="18" fill="#6B6259">the trough shadows</text>
+    </g>
+  </g>
+
+  <g id="unglamorous-note" data-pptx-bounds="620 640 596 34">
+    <text x="620" y="662" font-size="18" font-weight="bold" fill="#A8452B">Five samples. Not a palette — nothing measured.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="64" y="690">Artwork provenance: The Metropolitan Museum of Art (Open Access, CC0) · this impression via Wikimedia Commons</text>
+    <text x="1216" y="690" text-anchor="end">08 / 14</text>
+  </g>
+</svg>

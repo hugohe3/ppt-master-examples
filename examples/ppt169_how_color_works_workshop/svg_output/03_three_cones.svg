@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="spectrumBand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3A0A5E" stop-opacity="0.08"/>
+      <stop offset="5%" stop-color="#4B0082" stop-opacity="1"/>
+      <stop offset="18%" stop-color="#2000E0"/>
+      <stop offset="30%" stop-color="#0080FF"/>
+      <stop offset="40%" stop-color="#00C8C8"/>
+      <stop offset="50%" stop-color="#00CC33"/>
+      <stop offset="62%" stop-color="#BEE000"/>
+      <stop offset="72%" stop-color="#FFD400"/>
+      <stop offset="84%" stop-color="#FF7A00"/>
+      <stop offset="95%" stop-color="#D40000" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#A00000" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4"/>
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">MINIMUM CONCEPT · 1 OF 3</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B"/>
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">Your eye does not measure light</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1"/>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="64 172 1152 76">
+    <text x="64" y="200" font-size="30" fill="#2E2A25">It samples the spectrum three times.<tspan x="64" dy="34">Everything you will ever see is rebuilt from <tspan font-weight="bold" fill="#A8452B">those three numbers</tspan>.</tspan></text>
+  </g>
+
+  <g id="spectrum-band" data-pptx-bounds="64 260 1152 98">
+    <rect x="64" y="262" width="1152" height="30" fill="url(#spectrumBand)"/>
+    <text x="64" y="314" font-size="18" fill="#6B6259">≈380 nm</text>
+    <text x="1216" y="314" font-size="18" text-anchor="end" fill="#6B6259">≈700 nm</text>
+    <g id="p03-chip-convention" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 330 148 26" fill="#EDE7DC" stroke="none">
+<path d="M 64 330 L 207.67 330 L 212 334.33 L 212 356 L 64 356 Z"/>
+</g>
+    <text x="76" y="348" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">CONVENTION</text>
+    <text x="228" y="348" font-size="18" fill="#6B6259">Sensitivity fades out at both ends, and different authorities round the endpoints differently.</text>
+  </g>
+
+  <g id="cone-peaks" data-pptx-replace-with="chart" data-pptx-bounds="64 368 596 280" data-pptx-fallback-sha256="8596bfb729e776340ba8221a1c8dfd64fd1c27233d8eb97d8cb4757f4468050b">
+    <metadata type="application/json">
+      {
+        "x": 64, "y": 376, "width": 596, "height": 268,
+        "name": "cone-peaks",
+        "type": "column",
+        "grouping": "clustered",
+        "categories": ["S cone", "M cone", "L cone"],
+        "series": [
+          {
+            "name": "Peak wavelength",
+            "values": [420, 534, 563],
+            "point_colors": ["#5B2D8E", "#3E9B4F", "#A6B02E"]
+          }
+        ],
+        "plot_area": {"x": 130, "y": 396, "width": 490, "height": 208},
+        "gap_width": 110,
+        "data_labels": {
+          "show_value": true,
+          "position": "inside_end",
+          "font_size": 22,
+          "font_family": "Consolas",
+          "bold": true,
+          "colors": ["#FFFFFF", "#FFFFFF", "#23201C"]
+        },
+        "axes": {
+          "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none", "color": "#6B6259", "font_family": "Segoe UI", "font_size": 18},
+          "value": {"kind": "value", "position": "left", "visible": true, "label_position": "next_to", "minimum": 0, "maximum": 600, "major_unit": 200, "major_gridlines": true, "tick_marks": "none", "color": "#6B6259", "font_family": "Segoe UI", "font_size": 18}
+        },
+        "axis_titles": {"value": "nm"},
+        "show_legend": false,
+        "style": {
+          "font_family": "Segoe UI",
+          "axis_font_size": 18,
+          "axis_title_font_size": 18,
+          "text_color": "#6B6259",
+          "axis_color": "#D8D0C3",
+          "grid_color": "#E8E1D5",
+          "chart_area_fill": "none",
+          "plot_area_fill": "none"
+        }
+      }
+    </metadata>
+    <text id="cone-peaks-axis-title-value" x="130" y="388" font-size="18" fill="#6B6259">nm</text>
+    <g id="cone-peaks-chartArea">
+      <line id="cone-peaks-grid-200" x1="130" y1="534.7" x2="620" y2="534.7" stroke="#E8E1D5" stroke-width="1"/>
+      <line id="cone-peaks-grid-400" x1="130" y1="465.3" x2="620" y2="465.3" stroke="#E8E1D5" stroke-width="1"/>
+      <line id="cone-peaks-grid-600" x1="130" y1="396" x2="620" y2="396" stroke="#E8E1D5" stroke-width="1"/>
+      <line id="cone-peaks-axis-value" x1="130" y1="396" x2="130" y2="604" stroke="#D8D0C3" stroke-width="1"/>
+      <line id="cone-peaks-axis-category" x1="130" y1="604" x2="620" y2="604" stroke="#D8D0C3" stroke-width="1"/>
+      <!-- chart-plot-area: object=cone-peaks | 130,396,620,604 -->
+      <rect x="172.8" y="458.4" width="77.8" height="145.6" fill="#5B2D8E"/>
+      <rect x="336.1" y="418.9" width="77.8" height="185.1" fill="#3E9B4F"/>
+      <rect x="499.4" y="408.8" width="77.8" height="195.2" fill="#A6B02E"/>
+      <text x="211.7" y="486" font-family="Consolas" font-size="22" font-weight="bold" text-anchor="middle" fill="#FFFFFF">420</text>
+      <text x="375" y="447" font-family="Consolas" font-size="22" font-weight="bold" text-anchor="middle" fill="#FFFFFF">534</text>
+      <text x="538.3" y="437" font-family="Consolas" font-size="22" font-weight="bold" text-anchor="middle" fill="#23201C">563</text>
+    </g>
+    <text x="120" y="610" font-size="18" text-anchor="end" fill="#6B6259">0</text>
+    <text x="120" y="540.7" font-size="18" text-anchor="end" fill="#6B6259">200</text>
+    <text x="120" y="471.3" font-size="18" text-anchor="end" fill="#6B6259">400</text>
+    <text x="120" y="402" font-size="18" text-anchor="end" fill="#6B6259">600</text>
+    <text x="211.7" y="630" font-size="18" text-anchor="middle" fill="#6B6259">S cone</text>
+    <text x="375" y="630" font-size="18" text-anchor="middle" fill="#6B6259">M cone</text>
+    <text x="538.3" y="630" font-size="18" text-anchor="middle" fill="#6B6259">L cone</text>
+  </g>
+
+  <g id="eye-figure" data-pptx-bounds="700 380 516 274">
+    <g id="p03-chip-rule" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="700 382 74 26" fill="#EDE7DC" stroke="none">
+<path d="M 700 382 L 769.67 382 L 774 386.33 L 774 408 L 700 408 Z"/>
+</g>
+    <text x="712" y="400" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">RULE</text>
+    <text x="790" y="400" font-size="18" fill="#2E2A25">Human vision is trichromatic: S, M and L.</text>
+    <image href="../images/eye_cones.png" x="700" y="430" width="516" height="222" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="64" y="690">Peaks: Bowmaker &amp; Dartnall 1980 · retina counts: NCBI Bookshelf · full curves: Stockman &amp; Sharpe via cvrl.org</text>
+    <text x="1216" y="690" text-anchor="end">03 / 14</text>
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4" />
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">RECAP AND NEXT STEPS</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B" />
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">What you can do now, and where to go next</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1" />
+  </g>
+
+  <g id="closing-takeaway" data-pptx-bounds="64 186 1152 48">
+    <text x="64" y="216" font-size="30" font-weight="bold" fill="#A8452B">Separate hue from lightness, measure the lightness, then argue.</text>
+  </g>
+
+  <g id="recap" data-pptx-bounds="64 250 496 214">
+    <text x="64" y="272" font-size="16" font-weight="bold" letter-spacing="2" fill="#6B6259">YOU CAN NOW</text>
+    <g id="p14-recap-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="64 296 22 156" fill="none" stroke="#A8452B" stroke-width="2">
+<path d="M 86 452 A 11 1.83 0 0 1 75 450.17 L 75 375.83 A 11 1.83 0 0 0 64 374 A 11 1.83 0 0 0 75 372.17 L 75 297.83 A 11 1.83 0 0 1 86 296 Z" stroke="none" />
+<path d="M 86 452 A 11 1.83 0 0 1 75 450.17 L 75 375.83 A 11 1.83 0 0 0 64 374 A 11 1.83 0 0 0 75 372.17 L 75 297.83 A 11 1.83 0 0 1 86 296" />
+</g>
+    <g id="recap-1"><text x="110" y="320" font-size="18" fill="#2E2A25">Name why a color pair fails to read</text></g>
+    <g id="recap-2"><text x="110" y="356" font-size="18" fill="#2E2A25">Check any pair against a WCAG threshold</text></g>
+    <g id="recap-3"><text x="110" y="392" font-size="18" fill="#2E2A25">Pull and repair a five-color palette</text></g>
+    <g id="recap-4"><text x="110" y="428" font-size="18" fill="#2E2A25">Say why a rainbow ramp is the wrong default</text></g>
+  </g>
+
+  <g id="destinations" data-pptx-bounds="620 250 596 262">
+    <text x="620" y="272" font-size="16" font-weight="bold" letter-spacing="2" fill="#6B6259">WHERE TO GO NEXT</text>
+    
+  <g transform="translate(620, 300) scale(0.916667)" fill="none" stroke="#3E5C6B" stroke-width="2">
+    <path d="M9 15l6 -6" />
+    <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
+    <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />
+  </g>
+    <text x="652" y="318" font-size="18" fill="#2E2A25"><a href="https://webaim.org/resources/contrastchecker/"><tspan fill="#3E5C6B" text-decoration="underline">WebAIM Contrast Checker</tspan></a> — a ratio plus AA/AAA pass-fail</text>
+    
+  <g transform="translate(620, 336) scale(0.916667)" fill="none" stroke="#3E5C6B" stroke-width="2">
+    <path d="M9 15l6 -6" />
+    <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
+    <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />
+  </g>
+    <text x="652" y="354" font-size="18" fill="#2E2A25"><a href="https://www.w3.org/WAI/WCAG22/quickref/"><tspan fill="#3E5C6B" text-decoration="underline">W3C How to Meet WCAG</tspan></a> — every criterion, filterable</text>
+    
+  <g transform="translate(620, 372) scale(0.916667)" fill="none" stroke="#3E5C6B" stroke-width="2">
+    <path d="M9 15l6 -6" />
+    <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
+    <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />
+  </g>
+    <text x="652" y="390" font-size="18" fill="#2E2A25"><a href="https://www.color-blindness.com/coblis-color-blindness-simulator/"><tspan fill="#3E5C6B" text-decoration="underline">Coblis</tspan></a> — any image under each type of deficiency</text>
+    
+  <g transform="translate(620, 408) scale(0.916667)" fill="none" stroke="#3E5C6B" stroke-width="2">
+    <path d="M9 15l6 -6" />
+    <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
+    <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />
+  </g>
+    <text x="652" y="426" font-size="18" fill="#2E2A25"><a href="https://colorbrewer2.org/"><tspan fill="#3E5C6B" text-decoration="underline">ColorBrewer</tspan></a> — sequential, diverging, qualitative</text>
+    
+  <g transform="translate(620, 444) scale(0.916667)" fill="none" stroke="#3E5C6B" stroke-width="2">
+    <path d="M9 15l6 -6" />
+    <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
+    <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />
+  </g>
+    <text x="652" y="462" font-size="18" fill="#2E2A25"><a href="https://color.adobe.com"><tspan fill="#3E5C6B" text-decoration="underline">Adobe Color</tspan></a> — themes and harmony generators</text>
+    
+  <g transform="translate(620, 480) scale(0.916667)" fill="none" stroke="#3E5C6B" stroke-width="2">
+    <path d="M9 15l6 -6" />
+    <path d="M11 6l.463 -.536a5 5 0 0 1 7.071 7.072l-.534 .464" />
+    <path d="M13 18l-.397 .534a5.068 5.068 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" />
+  </g>
+    <text x="652" y="498" font-size="18" fill="#2E2A25"><a href="http://www.cvrl.org/"><tspan fill="#3E5C6B" text-decoration="underline">CVRL, UCL</tspan></a> — the cone-fundamentals data behind page 3</text>
+  </g>
+
+  <g id="honest-close" data-pptx-bounds="64 560 1152 76">
+    <line x1="64" y1="564" x2="1216" y2="564" stroke="#D8D0C3" stroke-width="1" />
+    <text fill="#6B6259" font-size="18" x="64" y="600">What this session simplified: the cone sensitivity curves overlap far more than three columns suggest, and a contrast</text><text fill="#6B6259" font-size="18" x="64" y="624">ratio is a floor, not a measure of quality.</text></g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="64" y="690">Every destination above is linked live in this file; sources for each claim are on the page that makes it.</text>
+    <text x="1216" y="690" text-anchor="end">14 / 14</text>
+  </g>
+</svg>

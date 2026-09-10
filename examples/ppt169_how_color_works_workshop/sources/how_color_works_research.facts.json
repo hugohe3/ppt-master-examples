@@ -1,0 +1,294 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "How Color Works: a 90-minute hands-on workshop",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "NASA Science states the human eye typically detects wavelengths from about 380 to 700 nanometers, with violet at the short end (~380 nm) and red at the long end (~700 nm).",
+      "source_title": "Visible Light - NASA Science",
+      "source_url": "https://science.nasa.gov/ems/09_visiblelight/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "Compiled physics references show the cited visible-spectrum range varies by source (commonly 380-700 nm, but also stated as 380-750 nm, 400-700 nm, or 380-780 nm depending on the textbook), indicating the spectrum's edges are a conventional, gradually-fading boundary rather than a sharp physical cutoff.",
+      "source_title": "Wavelength Range of Visible Light - The Physics Factbook",
+      "source_url": "https://hypertextbook.com/facts/2002/PavelBorodulin.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "Human color vision is trichromatic: the retina has three classes of cone photoreceptor, conventionally labeled S (short-wavelength), M (medium-wavelength), and L (long-wavelength), each named for the region of the visible spectrum where its sensitivity peaks.",
+      "source_title": "Visual pigments of rods and cones in a human retina",
+      "source_url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/jphysiol.1980.sp013097",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "Bowmaker & Dartnall's 1980 microspectrophotometry of human retinal outer segments (Journal of Physiology, vol. 298) measured mean photopigment absorbance peaks at approximately 420 nm for S (\"blue\") cones, 534 nm for M (\"green\") cones, and 563 nm for L (\"red\") cones.",
+      "source_title": "Bowmaker JK & Dartnall HJ (1980), Visual pigments of rods and cones in a human retina, J Physiol 298:501-511",
+      "source_url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/jphysiol.1980.sp013097",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "The human retina contains approximately 6 million cone photoreceptors, compared with roughly 120 million rods; cones make up only about 5% of total photoreceptors but are concentrated in the fovea, where they support fine detail and color vision.",
+      "source_title": "Neuroanatomy, Retina - StatPearls (NCBI Bookshelf)",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK545310/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "The Colour & Vision Research Laboratory (CVRL) database, hosted at the UCL Institute of Ophthalmology, publishes the Stockman & Sharpe (2000) 2-degree cone fundamentals as downloadable tables at 0.1, 1, and 5 nm wavelength steps; these functions have been adopted by the CIE as its physiologically-relevant standard colorimetric functions. Exact numeric (wavelength, S, M, L) rows could not be retrieved through the tools available to this research pass, so a full plotted table is not sourced here -- only the dataset's existence, provenance, and CIE adoption are confirmed.",
+      "source_title": "Colour & Vision Research Laboratory (CVRL) - Stockman and Sharpe (2000) 2-deg cone fundamentals",
+      "source_url": "http://www.cvrl.org/database/text/cones/ss2_10.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "Additive color mixing combines colored light: it starts from black (absence of light) and adds red, green, and blue light, with red+green+blue at full intensity producing white; this is the model behind all screen-based media (monitors, phones, projectors).",
+      "source_title": "Additive and subtractive colour systems - Colour Theory: Understanding and Working with Colour (RMIT)",
+      "source_url": "https://rmit.pressbooks.pub/colourtheory1/chapter/additive-and-subtractive-colour-systems/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "Subtractive color mixing combines physical pigments, inks, or dyes: it starts from white (fully reflected light) and each added cyan, magenta, or yellow pigment absorbs (subtracts) certain wavelengths, so mixing more pigment makes the result darker; this is the model behind all physical print (commercial printing, inkjet, laser).",
+      "source_title": "Additive and subtractive colour systems - Colour Theory: Understanding and Working with Colour (RMIT)",
+      "source_url": "https://rmit.pressbooks.pub/colourtheory1/chapter/additive-and-subtractive-colour-systems/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "The additive primaries (red, green, blue) and the subtractive primaries (cyan, magenta, yellow) are complements of each other: each additive primary is the secondary mixture of the subtractive system, and vice versa.",
+      "source_title": "Additive and subtractive colour systems - Colour Theory: Understanding and Working with Colour (RMIT)",
+      "source_url": "https://rmit.pressbooks.pub/colourtheory1/chapter/additive-and-subtractive-colour-systems/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "The HSL color model, defined in the W3C CSS Color specification, represents a color as hue (an angle on a 0-360 degree color circle, with red at 0/360, green at 120, blue at 240), saturation (a percentage, 100% fully saturated, 0% gray), and lightness (a percentage, 0% black, 100% white, 50% a color's 'normal' tone).",
+      "source_title": "CSS Color Module Level 4 (W3C)",
+      "source_url": "https://www.w3.org/TR/css-color-4/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "WCAG's text contrast requirement (Success Criterion 1.4.3) is defined purely as a function of the two colors' relative luminance -- not their hue or saturation -- so under the W3C's own accessibility model, legibility contrast is fundamentally a lightness/luminance property rather than a hue-difference or saturation-difference property.",
+      "source_title": "Understanding Success Criterion 1.4.3: Contrast (Minimum) - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "WCAG defines relative luminance for the sRGB color space as L = 0.2126*R + 0.7152*G + 0.0722*B, where R, G, and B are gamma-linearized channel values (each channel divided by 12.92 if its sRGB value is <= 0.04045, otherwise raised through the ((value+0.055)/1.055)^2.4 transform).",
+      "source_title": "Web Content Accessibility Guidelines (WCAG) 2.1 - Relative luminance definition",
+      "source_url": "https://www.w3.org/TR/WCAG21/#dfn-relative-luminance",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "WCAG Success Criterion 1.4.3 (Contrast Minimum, Level AA) requires a contrast ratio of at least 4.5:1 between normal text and its background.",
+      "source_title": "Understanding Success Criterion 1.4.3: Contrast (Minimum) - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "WCAG Success Criterion 1.4.3 (Contrast Minimum, Level AA) requires a contrast ratio of at least 3:1 between large-scale text and its background.",
+      "source_title": "Understanding Success Criterion 1.4.3: Contrast (Minimum) - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "WCAG defines 'large text' as at least 18 point, or at least 14 point and bold, or a font size that yields an equivalent visual size for CJK (Chinese/Japanese/Korean) fonts; the specification's own conversion notes 14pt and 18pt as approximately 18.5px and 24px.",
+      "source_title": "Understanding Success Criterion 1.4.3: Contrast (Minimum) - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "WCAG Success Criterion 1.4.6 (Contrast Enhanced, Level AAA) requires a contrast ratio of at least 7:1 between normal text (below 18pt regular / 14pt bold) and its background.",
+      "source_title": "Understanding Success Criterion 1.4.6: Contrast (Enhanced) - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "WCAG Success Criterion 1.4.6 (Contrast Enhanced, Level AAA) requires a contrast ratio of at least 4.5:1 for large text (18pt+ regular or 14pt+ bold).",
+      "source_title": "Understanding Success Criterion 1.4.6: Contrast (Enhanced) - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "WCAG Success Criterion 1.4.11 (Non-text Contrast, Level AA) requires a contrast ratio of at least 3:1, against adjacent colors, for the visual presentation of user interface components and of graphical objects required to understand the content.",
+      "source_title": "Understanding Success Criterion 1.4.11: Non-text Contrast - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "WCAG's contrast ratio is computed as (L1 + 0.05) / (L2 + 0.05), where L1 and L2 are the relative luminances of the lighter and darker of the two colors; the resulting ratio ranges from 1:1 to 21:1 and must not be rounded when checked against a threshold (e.g. a computed 4.499:1 does not meet a 4.5:1 requirement).",
+      "source_title": "Understanding Success Criterion 1.4.3: Contrast (Minimum) - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "The U.S. National Eye Institute states that about 1 in 12 men have a color vision deficiency, and that men have a much higher risk than women.",
+      "source_title": "Color Blindness - National Eye Institute (NIH)",
+      "source_url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "Worldwide, an estimated 8% of men and 0.5% of women have a red-green type of color vision deficiency (roughly 1 in 12 men and 1 in 200 women), with reported rates rising to about 10-11% of men in some Scandinavian/Northern European populations.",
+      "source_title": "Types of Colour Blindness - Colour Blind Awareness",
+      "source_url": "https://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "Within the approximately 8% of men with inherited red-green color vision deficiency, the split by type is roughly: 5% deuteranomalous (the single most common type), 1% deuteranopes, 1% protanomalous, and 1% protanopes.",
+      "source_title": "Types of Colour Blindness - Colour Blind Awareness",
+      "source_url": "https://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "Blue-yellow color vision deficiency (tritanopia/tritanomaly) and total color blindness (achromatopsia) are both much rarer than red-green deficiency, affecting on the order of 1 in 30,000 to 1 in 50,000 people.",
+      "source_title": "Types of Colour Blindness - Colour Blind Awareness",
+      "source_url": "https://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "Johannes Itten's twelve-hue color wheel, published in his 1961 book 'The Art of Color' and rooted in the color course he taught at the Bauhaus school in the 1920s, is the commonly-taught basis for schemes such as complementary, analogous, and triadic color pairing; Itten treated these as one of seven categories of color contrast he catalogued for design teaching, not as a physical law.",
+      "source_title": "Color | Bauhaus - The Getty Research Institute",
+      "source_url": "https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "Albert Munsell's color system, an alternative to Itten's wheel, was built to divide hues into perceptually equal steps; because different color models and color spaces yield different pairs of 'complementary' or 'harmonious' hues, the specific schemes taught in design (complementary, analogous, triadic, split-complementary) are conventions of a chosen model rather than a single physical fact about light or pigment.",
+      "source_title": "Harmony (color) - Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Harmony_(color)",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "Because humans can perceptually distinguish on the order of millions of distinct colors, researchers (Hard & Sivik, 2001, cited via the Wikipedia 'Harmony (color)' overview) have argued that fixed predictive color-harmony formulae are fundamentally unsound as universal rules, since harmony judgments depend on context, perception, and the specific color model chosen.",
+      "source_title": "Harmony (color) - Wikipedia (citing Hard & Sivik, 2001)",
+      "source_url": "https://en.wikipedia.org/wiki/Harmony_(color)",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "Borland & Taylor's 2007 paper 'Rainbow Color Map (Still) Considered Harmful' (IEEE Computer Graphics and Applications, vol. 27, issue 2, pp. 14-17) argues the rainbow color map is rarely the optimal choice for visualizing ordered data because it lacks perceptual ordering (equal-looking steps do not correspond to equal data steps), obscures data through uncontrolled luminance variation across hues, and can actively mislead interpretation through gradients unrelated to the underlying data.",
+      "source_title": "Rainbow Color Map (Still) Considered Harmful",
+      "source_url": "https://www.sci.utah.edu/~kpotter/Library/Papers/borland:2007:RCCH/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "Crameri, Shephard & Heron's 2020 paper 'The misuse of colour in science communication' (Nature Communications, vol. 11, article 5444) documents that rainbow-like and red-green color maps remain common in published science despite visually distorting data through uneven color gradients and being unreadable to people with color-vision deficiency, and it proposes perceptually uniform 'scientific colour maps' as a fix.",
+      "source_title": "The misuse of colour in science communication - Nature Communications",
+      "source_url": "https://www.nature.com/articles/s41467-020-19160-7",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "Katsushika Hokusai's 'Under the Wave off Kanagawa' (also known as 'The Great Wave'), from the series 'Thirty-six Views of Mount Fuji,' is a polychrome woodblock print made circa 1830-32 during Japan's Edo period, and is held in the collection of The Metropolitan Museum of Art.",
+      "source_title": "Katsushika Hokusai - Under the Wave off Kanagawa (The Great Wave) - The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/art/collection/search/45434",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "The Metropolitan Museum of Art's Open Access program, launched February 7, 2017, releases images and data for artworks the Museum believes to be in the public domain -- including 'The Great Wave' -- under a Creative Commons Zero (CC0) designation, for unrestricted commercial and noncommercial reuse without permission or fee.",
+      "source_title": "Open Access - The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "WebAIM's Contrast Checker is a free web tool that computes the WCAG contrast ratio between two colors and reports whether it passes the AA/AAA thresholds for normal and large text.",
+      "source_title": "WebAIM: Contrast Checker",
+      "source_url": "https://webaim.org/resources/contrastchecker/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "The W3C's 'How to Meet WCAG (Quick Reference)' is a filterable reference listing every WCAG success criterion and technique, filterable by conformance level (A/AA/AAA), technology, and topic.",
+      "source_title": "How to Meet WCAG (Quick Reference) - W3C WAI",
+      "source_url": "https://www.w3.org/WAI/WCAG22/quickref/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "Coblis (Color Blindness Simulator) is a free web tool that lets a user upload an image and view a simulated rendering of how it would appear to someone with each major type of color vision deficiency.",
+      "source_title": "Coblis - Color Blindness Simulator (Colblindor)",
+      "source_url": "https://www.color-blindness.com/coblis-color-blindness-simulator/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "ColorBrewer is a free tool for choosing sequential, diverging, and qualitative color schemes intended for maps and other data visualizations.",
+      "source_title": "ColorBrewer: Color Advice for Maps",
+      "source_url": "https://colorbrewer2.org/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "Adobe Color is a free web app for building, exploring, and extracting color themes, including rule-based harmony generators (complementary, analogous, triadic, and others).",
+      "source_title": "Adobe Color",
+      "source_url": "https://color.adobe.com",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "The Colour & Vision Research Laboratory (CVRL) database, maintained at the UCL Institute of Ophthalmology, is a public library of downloadable standard color-and-vision datasets, including the Stockman & Sharpe (2000) cone fundamentals and CIE colorimetric functions.",
+      "source_title": "CVRL - Colour & Vision Research Laboratory",
+      "source_url": "http://www.cvrl.org/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    }
+  ]
+}

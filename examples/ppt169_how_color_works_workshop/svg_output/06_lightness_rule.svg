@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4"/>
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">THE ONE MEASURABLE RULE</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B"/>
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">Lightness is the dial that carries legibility</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1"/>
+  </g>
+
+  <g id="rule-statement" data-pptx-bounds="64 186 636 132">
+<g id="p06-chip-rule" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 190 74 26" fill="#EDE7DC" stroke="none">
+<path d="M 64 190 L 133.67 190 L 138 194.33 L 138 216 L 64 216 Z"/>
+</g>
+    <text x="76" y="208" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">RULE</text>
+    <text x="154" y="208" font-size="18" fill="#6B6259">WCAG SC 1.4.3</text>
+    <text x="64" y="244" font-size="24" fill="#2E2A25">The W3C’s text-contrast rule is defined purely by<tspan x="64" dy="30">relative luminance. There is <tspan font-weight="bold" fill="#A8452B">no hue term</tspan> and no</tspan><tspan x="64" dy="30">saturation term in it.</tspan></text>
+  </g>
+
+  <g id="luminance-formula" data-pptx-bounds="64 328 636 48">
+    <rect x="64" y="330" width="636" height="44" fill="#EDE7DC"/>
+    <text x="84" y="358" font-family="Consolas" font-size="22" font-weight="bold" fill="#23201C">L = 0.2126 R + 0.7152 G + 0.0722 B</text>
+  </g>
+
+  <g id="demo-fail" data-pptx-bounds="64 390 636 128">
+    <use data-icon="tabler-outline/circle-x" x="64" y="392" width="24" height="24" fill="#C62828" stroke-width="2"/>
+    <text x="98" y="410" font-size="18" font-weight="bold" fill="#C62828">FAIL — far apart in hue, almost equal in luminance</text>
+    <rect x="64" y="424" width="380" height="88" fill="#C62828"/>
+    <text x="254" y="480" font-size="32" text-anchor="middle" fill="#2E7D32">Read this</text>
+    <text x="464" y="488" font-family="Consolas" font-size="64" fill="#C62828">1.10:1</text>
+  </g>
+
+  <g id="demo-pass" data-pptx-bounds="64 526 636 128">
+    <use data-icon="tabler-outline/circle-check" x="64" y="528" width="24" height="24" fill="#2E7D32" stroke-width="2"/>
+    <text x="98" y="546" font-size="18" font-weight="bold" fill="#2E7D32">PASS — one hue, far apart in lightness</text>
+    <rect x="64" y="560" width="380" height="88" fill="#17323F"/>
+    <text x="254" y="616" font-size="32" text-anchor="middle" fill="#CFE0E8">Read this</text>
+    <text x="464" y="624" font-family="Consolas" font-size="64" fill="#2E7D32">9.90:1</text>
+  </g>
+
+  <g id="hue-wheel" data-pptx-bounds="744 188 472 400">
+    <text x="760" y="206" font-size="18" fill="#6B6259">The same wheel, with only the part<tspan x="760" dy="22">the rule actually measures left.</tspan></text>
+      <path id="wedge-00" d="M940.0 242.0 A150 150 0 0 1 1015.0 262.1 L986.0 312.33 A92 92 0 0 0 940.0 300.0 Z" fill="#6F6F6F"/>
+      <path id="wedge-01" d="M1015.0 262.1 A150 150 0 0 1 1069.9 317.0 L1019.67 346.0 A92 92 0 0 0 986.0 312.33 Z" fill="#959595"/>
+      <path id="wedge-02" d="M1069.9 317.0 A150 150 0 0 1 1090.0 392.0 L1032.0 392.0 A92 92 0 0 0 1019.67 346.0 Z" fill="#CFCFCF"/>
+      <path id="wedge-03" d="M1090.0 392.0 A150 150 0 0 1 1069.9 467.0 L1019.67 438.0 A92 92 0 0 0 1032.0 392.0 Z" fill="#C0C0C0"/>
+      <path id="wedge-04" d="M1069.9 467.0 A150 150 0 0 1 1015.0 521.9 L986.0 471.67 A92 92 0 0 0 1019.67 438.0 Z" fill="#B9B9B9"/>
+      <path id="wedge-05" d="M1015.0 521.9 A150 150 0 0 1 940.0 542.0 L940.0 484.0 A92 92 0 0 0 986.0 471.67 Z" fill="#BCBCBC"/>
+      <path id="wedge-06" d="M940.0 542.0 A150 150 0 0 1 865.0 521.9 L894.0 471.67 A92 92 0 0 0 940.0 484.0 Z" fill="#C1C1C1"/>
+      <path id="wedge-07" d="M865.0 521.9 A150 150 0 0 1 810.1 467.0 L860.33 438.0 A92 92 0 0 0 894.0 471.67 Z" fill="#7D7D7D"/>
+      <path id="wedge-08" d="M810.1 467.0 A150 150 0 0 1 790.0 392.0 L848.0 392.0 A92 92 0 0 0 860.33 438.0 Z" fill="#4A4A4A"/>
+      <path id="wedge-09" d="M790.0 392.0 A150 150 0 0 1 810.1 317.0 L860.33 346.0 A92 92 0 0 0 848.0 392.0 Z" fill="#5D5D5D"/>
+      <path id="wedge-10" d="M810.1 317.0 A150 150 0 0 1 865.0 262.1 L894.0 312.33 A92 92 0 0 0 860.33 346.0 Z" fill="#7E7E7E"/>
+      <path id="wedge-11" d="M865.0 262.1 A150 150 0 0 1 940.0 242.0 L940.0 300.0 A92 92 0 0 0 894.0 312.33 Z" fill="#747474"/>
+    <line id="complementary-chord" x1="971.3" y1="275.1" x2="908.7" y2="508.9" stroke="#23201C" stroke-width="2"/>
+    <circle cx="971.3" cy="275.1" r="7" fill="#23201C"/>
+    <circle cx="908.7" cy="508.9" r="7" fill="#23201C"/>
+    <text x="940" y="580" font-size="18" text-anchor="middle" fill="#2E2A25">the same two wedges: <tspan font-family="Consolas" font-weight="bold" fill="#C62828">2.78:1</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="64" y="690">Relative luminance and SC 1.4.3: W3C WCAG 2.1 · ratios computed from the swatches on this page</text>
+    <text x="1216" y="690" text-anchor="end">06 / 14</text>
+  </g>
+</svg>

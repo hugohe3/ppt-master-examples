@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4" />
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">COMMON MISTAKE · 2 OF 2</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B" />
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">Mistake 2 — a rainbow ramp for ordered data</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1" />
+  </g>
+
+  <g id="ramp-rainbow" data-pptx-bounds="64 188 576 150">
+    <text x="64" y="204" font-size="16" font-weight="bold" letter-spacing="2" fill="#C62828">RAINBOW RAMP · FIVE ORDERED STEPS</text>
+    <rect x="64" y="216" width="115" height="56" fill="#3B0F70" />
+    <text x="64" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.02</text>
+    <rect x="179" y="216" width="115" height="56" fill="#1F77B4" />
+    <text x="179" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.17</text>
+    <rect x="294" y="216" width="115" height="56" fill="#2CA02C" />
+    <text x="294" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.26</text>
+    <rect x="409" y="216" width="115" height="56" fill="#F2E205" />
+    <text x="409" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.73</text>
+    <rect x="524" y="216" width="115" height="56" fill="#D62728" />
+    <text x="524" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.16</text>
+    <text x="64" y="326" font-size="18" font-weight="bold" fill="#C62828">relative luminance: up, up, up, then down</text>
+  </g>
+
+  <g id="ramp-monotonic" data-pptx-bounds="700 188 516 150">
+    <text x="700" y="204" font-size="16" font-weight="bold" letter-spacing="2" fill="#2E7D32">MONOTONIC RAMP · SAME FIVE STEPS</text>
+    <rect x="700" y="216" width="103" height="56" fill="#F4E7DC" stroke="#D8D0C3" stroke-width="1" />
+    <text x="700" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.82</text>
+    <rect x="803" y="216" width="103" height="56" fill="#DCC0A6" />
+    <text x="803" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.56</text>
+    <rect x="906" y="216" width="103" height="56" fill="#B98F72" />
+    <text x="906" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.31</text>
+    <rect x="1009" y="216" width="103" height="56" fill="#8A5F49" />
+    <text x="1009" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.14</text>
+    <rect x="1112" y="216" width="103" height="56" fill="#4A2E24" />
+    <text x="1112" y="298" font-family="Consolas" font-size="22" fill="#6B6259">0.04</text>
+    <text x="700" y="326" font-size="18" font-weight="bold" fill="#2E7D32">relative luminance: down, every step</text>
+  </g>
+
+  <g id="rainbow-defects" data-pptx-bounds="64 350 576 310">
+    <g id="p12-chip-rule" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 354 74 26" fill="#EDE7DC" stroke="none">
+<path d="M 64 354 L 133.67 354 L 138 358.33 L 138 380 L 64 380 Z" />
+</g>
+    <text x="76" y="372" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">RULE</text>
+    <text x="154" y="372" font-size="18" fill="#6B6259">Borland &amp; Taylor 2007: three documented defects</text>
+    <g id="defect-1">
+      <text x="64" y="418" font-family="Consolas" font-size="22" fill="#A8452B">1</text>
+      <text fill="#2E2A25" font-size="18" x="102" y="418">No perceptual ordering: equal-looking color steps are not</text><text fill="#2E2A25" font-size="18" x="102" y="442">equal data steps.</text></g>
+    <g id="defect-2">
+      <text x="64" y="484" font-family="Consolas" font-size="22" fill="#A8452B">2</text>
+      <text fill="#2E2A25" font-size="18" x="102" y="484">Uncontrolled luminance variation across hues obscures</text><text fill="#2E2A25" font-size="18" x="102" y="508">the data.</text></g>
+    <g id="defect-3">
+      <text x="64" y="550" font-family="Consolas" font-size="22" fill="#A8452B">3</text>
+      <text fill="#2E2A25" font-size="18" x="102" y="550">It can create gradients that are not in the underlying</text><text fill="#2E2A25" font-size="18" x="102" y="574">data at all.</text></g>
+    <g id="p12-chip-recommendation" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 596 192 26" fill="#EDE7DC" stroke="none">
+<path d="M 64 596 L 251.67 596 L 256 600.33 L 256 622 L 64 622 Z" />
+</g>
+    <text x="76" y="614" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">RECOMMENDATION</text>
+    <text x="64" y="652" font-size="18" font-weight="bold" fill="#A8452B">Crameri et al. (2020): use a perceptually uniform map.</text>
+  </g>
+
+  <g id="cvd-types" data-pptx-replace-with="chart" data-pptx-bounds="700 344 516 306" data-pptx-fallback-sha256="cb3efe41190336947a2a7a68dd0e4c9c4056c78688cbb37b7581fe2d4ef808d9">
+    <metadata type="application/json">
+      {
+        "x": 700, "y": 350, "width": 516, "height": 300,
+        "name": "cvd-types",
+        "type": "bar",
+        "grouping": "clustered",
+        "categories": ["Deuteranomaly", "Deuteranopia", "Protanomaly", "Protanopia"],
+        "series": [
+          {
+            "name": "Share of men",
+            "values": [5, 1, 1, 1],
+            "point_colors": ["#A8452B", "#3E5C6B", "#3E5C6B", "#3E5C6B"]
+          }
+        ],
+        "plot_area": {"x": 860, "y": 380, "width": 336, "height": 210},
+        "gap_width": 55,
+        "data_labels": {
+          "show_value": true,
+          "position": "outside_end",
+          "font_size": 22,
+          "font_family": "Consolas",
+          "color": "#23201C"
+        },
+        "axes": {
+          "category": {"kind": "text", "position": "left", "visible": true, "label_position": "next_to", "tick_marks": "none", "color": "#6B6259", "font_family": "Segoe UI", "font_size": 18},
+          "value": {"kind": "value", "position": "bottom", "visible": true, "label_position": "next_to", "minimum": 0, "maximum": 6, "major_unit": 2, "major_gridlines": true, "tick_marks": "none", "color": "#6B6259", "font_family": "Segoe UI", "font_size": 18}
+        },
+        "axis_titles": {"value": "% of men"},
+        "show_legend": false,
+        "style": {
+          "font_family": "Segoe UI",
+          "axis_font_size": 18,
+          "axis_title_font_size": 18,
+          "text_color": "#6B6259",
+          "axis_color": "#D8D0C3",
+          "grid_color": "#E8E1D5",
+          "chart_area_fill": "none",
+          "plot_area_fill": "none"
+        }
+      }
+    </metadata>
+    <g id="cvd-types-chartArea">
+      <line id="cvd-types-grid-2" x1="972" y1="380" x2="972" y2="590" stroke="#E8E1D5" stroke-width="1" />
+      <line id="cvd-types-grid-4" x1="1084" y1="380" x2="1084" y2="590" stroke="#E8E1D5" stroke-width="1" />
+      <line id="cvd-types-grid-6" x1="1196" y1="380" x2="1196" y2="590" stroke="#E8E1D5" stroke-width="1" />
+      <line id="cvd-types-axis-category" x1="860" y1="380" x2="860" y2="590" stroke="#D8D0C3" stroke-width="1" />
+      <line id="cvd-types-axis-value" x1="860" y1="590" x2="1196" y2="590" stroke="#D8D0C3" stroke-width="1" />
+      
+      <rect x="860" y="389.25" width="280" height="34" fill="#A8452B" />
+      <rect x="860" y="441.75" width="56" height="34" fill="#3E5C6B" />
+      <rect x="860" y="494.25" width="56" height="34" fill="#3E5C6B" />
+      <rect x="860" y="546.75" width="56" height="34" fill="#3E5C6B" />
+      <text x="1152" y="413.25" font-family="Consolas" font-size="22" fill="#23201C">5</text>
+      <text x="928" y="465.75" font-family="Consolas" font-size="22" fill="#23201C">1</text>
+      <text x="928" y="518.25" font-family="Consolas" font-size="22" fill="#23201C">1</text>
+      <text x="928" y="570.75" font-family="Consolas" font-size="22" fill="#23201C">1</text>
+    </g>
+    <text x="848" y="412.25" font-size="18" text-anchor="end" fill="#6B6259">Deuteranomaly</text>
+    <text x="848" y="464.75" font-size="18" text-anchor="end" fill="#6B6259">Deuteranopia</text>
+    <text x="848" y="517.25" font-size="18" text-anchor="end" fill="#6B6259">Protanomaly</text>
+    <text x="848" y="569.75" font-size="18" text-anchor="end" fill="#6B6259">Protanopia</text>
+    <text x="860" y="614" font-size="18" text-anchor="middle" fill="#6B6259">0</text>
+    <text x="972" y="614" font-size="18" text-anchor="middle" fill="#6B6259">2</text>
+    <text x="1084" y="614" font-size="18" text-anchor="middle" fill="#6B6259">4</text>
+    <text x="1196" y="614" font-size="18" text-anchor="middle" fill="#6B6259">6</text>
+    <text id="cvd-types-axis-title-value" x="1028" y="640" font-size="18" text-anchor="middle" fill="#6B6259">% of men</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="64" y="690">Rainbow maps: Borland &amp; Taylor 2007; Crameri et al. 2020 · prevalence: NEI, Colour Blind Awareness</text>
+    <text x="1216" y="690" text-anchor="end">12 / 14</text>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#EDE7DC" />
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">UNDERSTANDING CHECK</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B" />
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">Check yourself — three questions</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1" />
+  </g>
+
+  <g id="question-1" data-pptx-bounds="64 188 368 276">
+    <rect x="64" y="190" width="368" height="270" fill="#FFFFFF" />
+    <text x="88" y="228" font-family="Consolas" font-size="22" font-weight="bold" fill="#A8452B">Q1</text>
+    <text fill="#23201C" font-size="24" x="88" y="272">You have two colors</text><text fill="#23201C" font-size="24" x="88" y="304">measured at 3.8:1 and</text><text fill="#23201C" font-size="24" x="88" y="336">you need them for 16 px</text><text fill="#23201C" font-size="24" x="88" y="368">body text. What exactly</text><text fill="#23201C" font-size="24" x="88" y="400">do you change, and why</text><text fill="#23201C" font-size="24" x="88" y="432">that and not the hue?</text></g>
+
+  <g id="question-2" data-pptx-bounds="456 188 368 276">
+    <rect x="456" y="190" width="368" height="270" fill="#FFFFFF" />
+    <text x="480" y="228" font-family="Consolas" font-size="22" font-weight="bold" fill="#A8452B">Q2</text>
+    <text fill="#23201C" font-size="24" x="480" y="272">A colleague says a</text><text fill="#23201C" font-size="24" x="480" y="304">palette is harmonious</text><text fill="#23201C" font-size="24" x="480" y="336">because it is triadic.</text><text fill="#23201C" font-size="24" x="480" y="368">Which part of that is a</text><text fill="#23201C" font-size="24" x="480" y="400">rule and which part is a</text><text fill="#23201C" font-size="24" x="480" y="432">convention?</text></g>
+
+  <g id="question-3" data-pptx-bounds="848 188 368 276">
+    <rect x="848" y="190" width="368" height="270" fill="#FFFFFF" />
+    <text x="872" y="228" font-family="Consolas" font-size="22" font-weight="bold" fill="#A8452B">Q3</text>
+    <text fill="#23201C" font-size="24" x="872" y="272">You have a sequential</text><text fill="#23201C" font-size="24" x="872" y="304">heat map drawn in a</text><text fill="#23201C" font-size="24" x="872" y="336">rainbow ramp. Name two</text><text fill="#23201C" font-size="24" x="872" y="368">things that go wrong</text><text fill="#23201C" font-size="24" x="872" y="400">before anyone’s vision is</text><text fill="#23201C" font-size="24" x="872" y="432">involved.</text></g>
+
+  <g id="answers" data-pptx-bounds="64 484 1152 154">
+    <line x1="64" y1="488" x2="1216" y2="488" stroke="#A8452B" stroke-width="2" />
+    <text x="64" y="516" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">ANSWERS — ALL THREE ARE CHECKABLE AGAINST THIS DECK</text>
+    <g id="answer-1">
+      <text fill="#2E2A25" font-size="18" x="64" y="552">4.5:1 is the AA floor at that size, so</text><text fill="#2E2A25" font-size="18" x="64" y="576">move the lightness until the measured</text><text fill="#2E2A25" font-size="18" x="64" y="600">ratio clears it. The formula has no hue</text><text fill="#2E2A25" font-size="18" x="64" y="624">term in it.</text></g>
+    <g id="answer-2">
+      <text fill="#2E2A25" font-size="18" x="456" y="552">None of it is a rule. Triadic is an</text><text fill="#2E2A25" font-size="18" x="456" y="576">angular convention on the hue dial, and</text><text fill="#2E2A25" font-size="18" x="456" y="600">harmony is not a measurable property.</text></g>
+    <g id="answer-3">
+      <text fill="#2E2A25" font-size="18" x="848" y="552">No perceptual ordering, and</text><text fill="#2E2A25" font-size="18" x="848" y="576">uncontrolled luminance variation</text><text fill="#2E2A25" font-size="18" x="848" y="600">across hues.</text></g>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="1216" y="690" text-anchor="end">13 / 14</text>
+  </g>
+</svg>

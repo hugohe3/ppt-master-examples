@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4" />
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">REFERENCE CARD</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B" />
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">The numbers you actually have to hit</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1" />
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="64 168 1152 40">
+    <text x="64" y="194" font-size="30" fill="#2E2A25">Five numbers. You can check any of them in about ten seconds.</text>
+  </g>
+
+  <g id="wcag-thresholds" data-pptx-replace-with="table" data-pptx-bounds="64 216 1152 288" data-pptx-fallback-sha256="0815f51fb8fc0d8a1cd4b37ea427fd29c346e0e1e1b4f2acf3d16a452efa6f2b">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "x": 64, "y": 220, "width": 1152, "height": 280,
+        "name": "wcag-thresholds",
+        "header_rows": 1,
+        "column_widths": [460, 240, 226, 226],
+        "row_heights": [64, 72, 72, 72],
+        "columns": [
+          {"text": "TEXT OR ELEMENT CLASS", "align": "l", "bold": true},
+          {"text": "CRITERION", "align": "l", "bold": true},
+          {"text": "LEVEL AA", "align": "ctr", "bold": true},
+          {"text": "LEVEL AAA", "align": "ctr", "bold": true}
+        ],
+        "rows": [
+          [
+            {"text": "Normal text", "align": "l"},
+            {"text": "1.4.3 / 1.4.6", "align": "l"},
+            {"text": "4.5:1", "align": "ctr", "bold": true, "color": "#A8452B"},
+            {"text": "7:1", "align": "ctr"}
+          ],
+          [
+            {"text": "Large text", "align": "l"},
+            {"text": "1.4.3 / 1.4.6", "align": "l"},
+            {"text": "3:1", "align": "ctr"},
+            {"text": "4.5:1", "align": "ctr"}
+          ],
+          [
+            {"text": "UI components and graphics", "align": "l"},
+            {"text": "1.4.11", "align": "l"},
+            {"text": "3:1", "align": "ctr"},
+            {"text": "no higher level", "align": "ctr", "font_size": 18}
+          ]
+        ],
+        "defaults": {
+          "cell": {
+            "valign": "middle",
+            "padding": 24,
+            "font_size": 24,
+            "borders": {
+              "top": {"style": "none"},
+              "left": {"style": "none"},
+              "right": {"style": "none"},
+              "bottom": {"style": "solid", "color": "#D8D0C3", "width": 1}
+            }
+          },
+          "run": {"color": "#2E2A25"}
+        },
+        "style": {
+          "font_family": "Segoe UI",
+          "font_size": 24,
+          "header_font_size": 16,
+          "header_fill": "#EDE7DC",
+          "header_text": "#23201C",
+          "body_text": "#2E2A25",
+          "band_row": false,
+          "valign": "middle",
+          "padding": 24
+        }
+      }
+    </metadata>
+    <rect x="64" y="220" width="1152" height="64" fill="#EDE7DC" />
+    <g id="wcag-rules" stroke="#D8D0C3" stroke-width="1">
+      <line x1="64" y1="284" x2="1216" y2="284" />
+      <line x1="64" y1="356" x2="1216" y2="356" />
+      <line x1="64" y1="428" x2="1216" y2="428" />
+      <line x1="64" y1="500" x2="1216" y2="500" />
+    </g>
+    <g id="wcag-head" font-size="16" font-weight="bold" fill="#23201C">
+      <text x="88" y="258">TEXT OR ELEMENT CLASS</text>
+      <text x="548" y="258">CRITERION</text>
+      <text x="877" y="258" text-anchor="middle">LEVEL AA</text>
+      <text x="1103" y="258" text-anchor="middle">LEVEL AAA</text>
+    </g>
+    <g id="wcag-body" font-size="24" fill="#2E2A25">
+      <text x="88" y="328">Normal text</text>
+      <text x="548" y="328">1.4.3 / 1.4.6</text>
+      <text x="877" y="328" text-anchor="middle" font-weight="bold" fill="#A8452B">4.5:1</text>
+      <text x="1103" y="328" text-anchor="middle">7:1</text>
+      <text x="88" y="400">Large text</text>
+      <text x="548" y="400">1.4.3 / 1.4.6</text>
+      <text x="877" y="400" text-anchor="middle">3:1</text>
+      <text x="1103" y="400" text-anchor="middle">4.5:1</text>
+      <text x="88" y="472">UI components and graphics</text>
+      <text x="548" y="472">1.4.11</text>
+      <text x="877" y="472" text-anchor="middle">3:1</text>
+      <text x="1103" y="472" text-anchor="middle" font-size="18">no higher level</text>
+    </g>
+  </g>
+
+  <g id="ratio-aside" data-pptx-bounds="64 522 690 132">
+    <g id="p07-chip-rule" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 526 74 26" fill="#EDE7DC" stroke="none">
+<path d="M 64 526 L 133.67 526 L 138 530.33 L 138 552 L 64 552 Z" />
+</g>
+    <text x="76" y="544" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">RULE</text>
+    <text x="154" y="544" font-size="18" fill="#6B6259">how the number is computed</text>
+    <text fill="#2E2A25" font-size="18" x="64" y="578">Contrast ratio is (L1 + 0.05) / (L2 + 0.05) with the lighter luminance on</text><text fill="#2E2A25" font-size="18" x="64" y="602">top. It runs from 1:1 to 21:1, and must not be rounded before you</text><text fill="#2E2A25" font-size="18" x="64" y="626">compare it with a threshold.</text></g>
+
+  <g id="large-text-aside" data-pptx-bounds="800 522 416 132" font-size="18">
+    <text x="800" y="544" font-weight="bold" fill="#23201C">What counts as large text</text>
+    <text fill="#2E2A25" x="800" y="578">Large text means at least 18 pt, or at</text><text fill="#2E2A25" x="800" y="602">least 14 pt bold — the spec puts that at</text><text fill="#2E2A25" x="800" y="626">roughly 24 px and 18.5 px.</text></g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="64" y="690">W3C WCAG 2.1 Understanding SC 1.4.3, SC 1.4.6 and SC 1.4.11</text>
+    <text x="1216" y="690" text-anchor="end">07 / 14</text>
+  </g>
+</svg>

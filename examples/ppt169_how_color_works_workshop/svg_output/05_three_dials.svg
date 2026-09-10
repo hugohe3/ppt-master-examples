@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="hueRamp" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D62929"/><stop offset="8.33%" stop-color="#D68029"/>
+      <stop offset="16.67%" stop-color="#D6D629"/><stop offset="25%" stop-color="#80D629"/>
+      <stop offset="33.33%" stop-color="#29D629"/><stop offset="41.67%" stop-color="#29D680"/>
+      <stop offset="50%" stop-color="#29D6D6"/><stop offset="58.33%" stop-color="#297FD6"/>
+      <stop offset="66.67%" stop-color="#2929D6"/><stop offset="75%" stop-color="#7F29D6"/>
+      <stop offset="83.33%" stop-color="#D629D6"/><stop offset="91.67%" stop-color="#D62980"/>
+      <stop offset="100%" stop-color="#D62929"/>
+    </linearGradient>
+    <linearGradient id="satRamp" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#808080"/><stop offset="100%" stop-color="#297FD6"/>
+    </linearGradient>
+    <linearGradient id="lightRamp" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000"/><stop offset="50%" stop-color="#297FD6"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4"/>
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">MINIMUM CONCEPT · 3 OF 3</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B"/>
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">Three dials — schemes turn only one of them</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1"/>
+  </g>
+
+  <g id="hsl-dials" data-pptx-bounds="64 188 636 314">
+    <g id="dial-hue">
+      <text x="64" y="210" font-size="24" font-weight="bold" fill="#23201C">HUE — an angle, 0–360°</text>
+      <rect x="64" y="220" width="560" height="30" fill="url(#hueRamp)"/>
+      <text x="64" y="274" font-size="18" fill="#6B6259">red 0 / 360 · green 120 · blue 240</text>
+    </g>
+    <g id="dial-saturation">
+      <text x="64" y="320" font-size="24" font-weight="bold" fill="#23201C">SATURATION — 0% gray to 100%</text>
+      <rect x="64" y="330" width="560" height="30" fill="url(#satRamp)"/>
+      <text x="64" y="384" font-size="18" fill="#6B6259">how much of the hue is left in the color</text>
+    </g>
+    <g id="dial-lightness">
+      <text x="64" y="430" font-size="24" font-weight="bold" fill="#A8452B">LIGHTNESS — 0% black to 100% white</text>
+      <rect x="64" y="440" width="560" height="30" fill="url(#lightRamp)"/>
+      <text x="64" y="494" font-size="18" font-weight="bold" fill="#A8452B">the only dial the contrast rule looks at</text>
+    </g>
+  </g>
+
+  <g id="harmony-provenance" data-pptx-bounds="64 506 636 152">
+    <g id="p05-chip-convention" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 512 148 26" fill="#EDE7DC" stroke="none">
+<path d="M 64 512 L 207.67 512 L 212 516.33 L 212 538 L 64 538 Z"/>
+</g>
+    <text x="76" y="530" font-size="16" font-weight="bold" letter-spacing="1.5" fill="#A8452B">CONVENTION</text>
+    <text x="228" y="530" font-size="18" fill="#6B6259">harmony schemes</text>
+    <text x="64" y="570" font-size="18" fill="#2E2A25">The scheme names come from Johannes Itten’s 1961 Art of Color,<tspan x="64" dy="24">taught at the Bauhaus. Munsell drew a different wheel — so which</tspan><tspan x="64" dy="24">colors count as “complementary” depends on which wheel you</tspan><tspan x="64" dy="24">started from.</tspan></text>
+  </g>
+
+  <g id="hue-wheel" data-pptx-bounds="744 188 472 400">
+    <text x="760" y="206" font-size="18" fill="#6B6259">Itten’s twelve-hue wheel: a teaching<tspan x="760" dy="22">device, not a law of light.</tspan></text>
+      <path id="wedge-00" d="M940.0 242.0 A150 150 0 0 1 1015.0 262.1 L986.0 312.33 A92 92 0 0 0 940.0 300.0 Z" fill="#D62929"/>
+      <path id="wedge-01" d="M1015.0 262.1 A150 150 0 0 1 1069.9 317.0 L1019.67 346.0 A92 92 0 0 0 986.0 312.33 Z" fill="#D68029"/>
+      <path id="wedge-02" d="M1069.9 317.0 A150 150 0 0 1 1090.0 392.0 L1032.0 392.0 A92 92 0 0 0 1019.67 346.0 Z" fill="#D6D629"/>
+      <path id="wedge-03" d="M1090.0 392.0 A150 150 0 0 1 1069.9 467.0 L1019.67 438.0 A92 92 0 0 0 1032.0 392.0 Z" fill="#80D629"/>
+      <path id="wedge-04" d="M1069.9 467.0 A150 150 0 0 1 1015.0 521.9 L986.0 471.67 A92 92 0 0 0 1019.67 438.0 Z" fill="#29D629"/>
+      <path id="wedge-05" d="M1015.0 521.9 A150 150 0 0 1 940.0 542.0 L940.0 484.0 A92 92 0 0 0 986.0 471.67 Z" fill="#29D680"/>
+      <path id="wedge-06" d="M940.0 542.0 A150 150 0 0 1 865.0 521.9 L894.0 471.67 A92 92 0 0 0 940.0 484.0 Z" fill="#29D6D6"/>
+      <path id="wedge-07" d="M865.0 521.9 A150 150 0 0 1 810.1 467.0 L860.33 438.0 A92 92 0 0 0 894.0 471.67 Z" fill="#297FD6"/>
+      <path id="wedge-08" d="M810.1 467.0 A150 150 0 0 1 790.0 392.0 L848.0 392.0 A92 92 0 0 0 860.33 438.0 Z" fill="#2929D6"/>
+      <path id="wedge-09" d="M790.0 392.0 A150 150 0 0 1 810.1 317.0 L860.33 346.0 A92 92 0 0 0 848.0 392.0 Z" fill="#7F29D6"/>
+      <path id="wedge-10" d="M810.1 317.0 A150 150 0 0 1 865.0 262.1 L894.0 312.33 A92 92 0 0 0 860.33 346.0 Z" fill="#D629D6"/>
+      <path id="wedge-11" d="M865.0 262.1 A150 150 0 0 1 940.0 242.0 L940.0 300.0 A92 92 0 0 0 894.0 312.33 Z" fill="#D62980"/>
+    <line id="complementary-chord" x1="971.3" y1="275.1" x2="908.7" y2="508.9" stroke="#23201C" stroke-width="2"/>
+    <circle cx="971.3" cy="275.1" r="7" fill="#23201C"/>
+    <circle cx="908.7" cy="508.9" r="7" fill="#23201C"/>
+    <text x="940" y="580" font-size="18" text-anchor="middle" fill="#2E2A25">complementary = two wedges 180° apart</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="64" y="690">HSL definition: W3C CSS Color 4 · Itten: Getty Bauhaus teaching materials · competing wheels: Munsell</text>
+    <text x="1216" y="690" text-anchor="end">05 / 14</text>
+  </g>
+</svg>

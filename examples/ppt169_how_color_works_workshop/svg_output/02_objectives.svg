@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="toc">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4"/>
+
+  <g id="page-header" data-pptx-bounds="64 56 1152 104">
+    <text x="64" y="72" font-size="16" font-weight="bold" letter-spacing="2" fill="#A8452B">THE CONTRACT</text>
+    <rect x="64" y="84" width="48" height="3" fill="#A8452B"/>
+    <text x="64" y="132" font-family="Trebuchet MS" font-size="42" fill="#23201C">By the end of this session you will be able to</text>
+    <line x1="64" y1="158" x2="1216" y2="158" stroke="#D8D0C3" stroke-width="1"/>
+  </g>
+
+  <g id="objectives" data-pptx-bounds="64 192 700 396">
+    <g id="objective-1">
+      <circle cx="86" cy="212" r="18" fill="none" stroke="#A8452B" stroke-width="2"/>
+      <text x="86" y="220" font-family="Consolas" font-size="22" text-anchor="middle" fill="#A8452B">1</text>
+      <text x="124" y="220" font-size="24" fill="#2E2A25">Name why a specific color pair <tspan font-weight="bold" fill="#23201C">fails to read</tspan></text>
+    </g>
+    <g id="objective-2">
+      <circle cx="86" cy="308" r="18" fill="none" stroke="#A8452B" stroke-width="2"/>
+      <text x="86" y="316" font-family="Consolas" font-size="22" text-anchor="middle" fill="#A8452B">2</text>
+      <text x="124" y="316" font-size="24" fill="#2E2A25">Check any pair against a <tspan font-weight="bold" fill="#23201C">WCAG threshold</tspan><tspan x="124" dy="34">and read the result out loud</tspan></text>
+    </g>
+    <g id="objective-3">
+      <circle cx="86" cy="438" r="18" fill="none" stroke="#A8452B" stroke-width="2"/>
+      <text x="86" y="446" font-family="Consolas" font-size="22" text-anchor="middle" fill="#A8452B">3</text>
+      <text x="124" y="446" font-size="24" fill="#2E2A25">Pull a <tspan font-weight="bold" fill="#23201C">five-color palette</tspan> off a real image,<tspan x="124" dy="34">then repair the pair that fails</tspan></text>
+    </g>
+    <g id="objective-4">
+      <circle cx="86" cy="534" r="18" fill="none" stroke="#A8452B" stroke-width="2"/>
+      <text x="86" y="542" font-family="Consolas" font-size="22" text-anchor="middle" fill="#A8452B">4</text>
+      <text x="124" y="542" font-size="24" fill="#2E2A25">Say why a <tspan font-weight="bold" fill="#23201C">rainbow ramp</tspan> is the wrong<tspan x="124" dy="34">default for ordered data</tspan></text>
+    </g>
+  </g>
+
+  <g id="honesty-note" data-pptx-bounds="64 598 700 40">
+    <text x="64" y="620" font-size="18" fill="#6B6259">This session simplifies in two places, and says so where it does.</text>
+  </g>
+
+  <g id="run-sheet" data-pptx-bounds="820 190 396 452">
+    <rect x="820" y="192" width="396" height="448" fill="#EDE7DC"/>
+    <use data-icon="tabler-outline/clock" x="852" y="214" width="26" height="26" fill="#A8452B" stroke-width="2"/>
+    <text x="890" y="236" font-size="24" font-weight="bold" fill="#23201C">The 90 minutes</text>
+    <line x1="852" y1="258" x2="1184" y2="258" stroke="#D8D0C3" stroke-width="1"/>
+    <g id="run-block-1">
+      <text x="852" y="300" font-family="Consolas" font-size="22" fill="#A8452B">0–10</text>
+      <text x="948" y="300" font-size="18" fill="#2E2A25">Why color is not taste</text>
+    </g>
+    <g id="run-block-2">
+      <text x="852" y="360" font-family="Consolas" font-size="22" fill="#A8452B">10–35</text>
+      <text x="948" y="360" font-size="18" fill="#2E2A25">The minimum model</text>
+    </g>
+    <g id="run-block-3">
+      <text x="852" y="420" font-family="Consolas" font-size="22" fill="#A8452B">35–50</text>
+      <text x="948" y="420" font-size="18" fill="#2E2A25">Worked demonstration</text>
+    </g>
+    <g id="run-block-4">
+      <text x="852" y="480" font-family="Consolas" font-size="22" fill="#3E5C6B">50–62</text>
+      <text x="948" y="480" font-size="18" font-weight="bold" fill="#23201C">Your turn (12 min)</text>
+    </g>
+    <g id="run-block-5">
+      <text x="852" y="540" font-family="Consolas" font-size="22" fill="#A8452B">62–90</text>
+      <text x="948" y="540" font-size="18" fill="#2E2A25">Mistakes, check and close</text>
+    </g>
+    <line x1="852" y1="576" x2="1184" y2="576" stroke="#D8D0C3" stroke-width="1"/>
+    <text x="852" y="608" font-size="16" fill="#6B6259">Bring a screen you can pick colors on.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="64 674 1152 24" font-size="16" fill="#6B6259">
+    <text x="1216" y="690" text-anchor="end">02 / 14</text>
+  </g>
+</svg>
