@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9" />
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE" />
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">咖啡因不给你能量</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32" />
+  </g>
+  <g id="coffee-block" data-pptx-bounds="56 211 384 397" fill="#2A2622">
+    <image href="../images/el_coffee_block.png" x="60" y="215" width="300" height="255" preserveAspectRatio="xMidYMid meet" />
+    <text x="56" y="512" font-size="34" font-weight="bold" fill="#B4553E">它挡的是信号,不是疲劳</text>
+    <text x="56" y="552" font-size="28">拮抗全部 4 种腺苷受体,<tspan x="56" dy="42">其中 A2a 最直接。</tspan></text>
+  </g>
+  <g id="caffeine-decay" data-pptx-replace-with="chart" data-pptx-bounds="462 210 490 386" data-pptx-fallback-sha256="a52521cb75253134c3e68cdb194757d01e723bce18571f01c729d2baab3b5115">
+    <metadata type="application/json">
+      {
+        "x": 462, "y": 210, "width": 490, "height": 386,
+        "name": "caffeine-decay",
+        "type": "line",
+        "categories": ["0", "5", "10", "15", "20"],
+        "series": [{"name": "体内剩余比例", "values": [100, 50, 25, 12.5, 6.25]}],
+        "line_style": "lineMarker",
+        "marker_size": 12,
+        "data_labels": {"show_value": true, "font_size": 20, "color": "#5C554C"},
+        "axes": {"category": {"kind": "text"}, "value": {"minimum": 0, "maximum": 100, "major_unit": 25, "major_gridlines": true, "cross_between": "mid_category"}},
+        "axis_titles": {"category": "摄入后的小时数", "value": "剩余比例 %"},
+        "show_legend": false,
+        "style": {"colors": ["#B4553E"], "axis_color": "#5C554C", "grid_color": "#D9C9AC"},
+        "plot_area": {"x": 520, "y": 250, "width": 420, "height": 270}
+      }
+    </metadata>
+    <text x="466" y="232" font-size="20" fill="#5C554C">剩余比例 %</text>
+    <g id="caffeine-decay-chartArea">
+      <line id="caffeine-decay-grid-100" x1="520" y1="250" x2="940" y2="250" stroke="#D9C9AC" stroke-width="1" />
+      <line id="caffeine-decay-grid-75" x1="520" y1="317.5" x2="940" y2="317.5" stroke="#D9C9AC" stroke-width="1" />
+      <line id="caffeine-decay-grid-50" x1="520" y1="385" x2="940" y2="385" stroke="#D9C9AC" stroke-width="1" />
+      <line id="caffeine-decay-grid-25" x1="520" y1="452.5" x2="940" y2="452.5" stroke="#D9C9AC" stroke-width="1" />
+      <line id="caffeine-decay-axis-y" x1="520" y1="250" x2="520" y2="520" stroke="#5C554C" stroke-width="2" />
+      <line id="caffeine-decay-axis-x" x1="520" y1="520" x2="940" y2="520" stroke="#5C554C" stroke-width="2" />
+      <!-- chart-plot-area: object=caffeine-decay | 520,250,940,520 -->
+      <polyline points="520,250 625,385 730,452.5 835,486.25 940,503.13" fill="none" stroke="#B4553E" stroke-width="4" stroke-linejoin="round" />
+      <circle cx="520" cy="250" r="6" fill="#B4553E" />
+      <circle cx="625" cy="385" r="6" fill="#B4553E" />
+      <circle cx="730" cy="452.5" r="6" fill="#B4553E" />
+      <circle cx="835" cy="486.25" r="6" fill="#B4553E" />
+      <circle cx="940" cy="503.13" r="6" fill="#B4553E" />
+    </g>
+    <text x="520" y="236" font-size="20" fill="#5C554C" text-anchor="middle">100</text>
+    <text x="625" y="371" font-size="20" fill="#5C554C" text-anchor="middle">50</text>
+    <text x="730" y="438" font-size="20" fill="#5C554C" text-anchor="middle">25</text>
+    <text x="835" y="472" font-size="20" fill="#5C554C" text-anchor="middle">12.5</text>
+    <text x="940" y="489" font-size="20" fill="#5C554C" text-anchor="end">6.25</text>
+    <text x="520" y="546" font-size="20" fill="#5C554C" text-anchor="middle">0</text>
+    <text x="625" y="546" font-size="20" fill="#5C554C" text-anchor="middle">5</text>
+    <text x="730" y="546" font-size="20" fill="#5C554C" text-anchor="middle">10</text>
+    <text x="835" y="546" font-size="20" fill="#5C554C" text-anchor="middle">15</text>
+    <text x="940" y="546" font-size="20" fill="#5C554C" text-anchor="middle">20</text>
+    <text x="730" y="584" font-size="20" fill="#5C554C" text-anchor="middle">摄入后的小时数</text>
+  </g>
+  <g id="caffeine-note" data-pptx-bounds="56 614 900 66" fill="#5C554C">
+    <text x="56" y="638" font-size="20">每过约 5 小时减半:下午三点那杯,睡前还剩一小半。半衰期因人而异,吸烟者可缩短约一半。</text>
+    <text x="56" y="670" font-size="18">咖啡因半衰期约 5 小时:StatPearls(NCBI Bookshelf NBK519490)</text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">09</text>
+  </g>
+</svg>

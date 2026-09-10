@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9"/>
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE"/>
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">睡着以后,大脑分成了几种状态</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32"/>
+  </g>
+  <g id="sleep-stage-share" data-pptx-replace-with="chart" data-pptx-bounds="128 230 424 400" data-pptx-fallback-sha256="f85ef47d8293ce0b5e5528d785ec9bd521a7303b56b0a3136eada9f7eb4e265b">
+    <metadata type="application/json">
+      {
+        "x": 128, "y": 230, "width": 424, "height": 400,
+        "name": "sleep-stage-share",
+        "type": "doughnut",
+        "categories": ["N1 5%", "N2 45%", "N3 25%", "REM 25%"],
+        "series": [{"name": "占比", "values": [5, 45, 25, 25]}],
+        "show_legend": false,
+        "style": {"colors": ["#A8BEDC", "#6E8FBF", "#2E4A7D", "#B4553E"]},
+        "note": "比例为平均值,并非每晚实测"
+      }
+    </metadata>
+    <g id="sleep-stage-share-chartArea">
+      <!-- chart-plot-area: object=sleep-stage-share | donut | center: 300,430 | outer-radius: 150 | inner-radius: 85 -->
+      <path d="M300,280 A150,150 0 0 1 346.4,287.3 L326.3,349.2 A85,85 0 0 0 300,345 Z" fill="#A8BEDC"/>
+      <path d="M346.4,287.3 A150,150 0 0 1 300,580 L300,515 A85,85 0 0 0 326.3,349.2 Z" fill="#6E8FBF"/>
+      <path d="M300,580 A150,150 0 0 1 150,430 L215,430 A85,85 0 0 0 300,515 Z" fill="#2E4A7D"/>
+      <path d="M150,430 A150,150 0 0 1 300,280 L300,345 A85,85 0 0 0 215,430 Z" fill="#B4553E"/>
+    </g>
+    <text x="334" y="252" font-size="20" fill="#2A2622">N1 5%</text>
+    <text x="478" y="464" font-size="20" fill="#2A2622">N2 45%</text>
+    <text x="178" y="578" font-size="20" fill="#2A2622" text-anchor="middle">N3 25%</text>
+    <text x="178" y="300" font-size="20" fill="#2A2622" text-anchor="middle">REM 25%</text>
+    <text x="150" y="620" font-size="20" fill="#5C554C">比例为平均值,并非每晚实测</text>
+  </g>
+  <g id="term-nrem" data-pptx-bounds="600 236 368 140">
+    <text x="600" y="270" font-size="34" font-weight="bold" fill="#2E4A7D">NREM 非快速眼动</text>
+    <text x="600" y="316" font-size="28" fill="#2A2622">眼球不动的三档,<tspan x="600" dy="42">越往后睡得越深。</tspan></text>
+  </g>
+  <g id="term-rem" data-pptx-bounds="600 396 368 140">
+    <text x="600" y="430" font-size="34" font-weight="bold" fill="#B4553E">REM 快速眼动</text>
+    <text x="600" y="476" font-size="28" fill="#2A2622">眼球快速转动,<tspan x="600" dy="42">做梦最多的一档。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">04</text>
+  </g>
+</svg>

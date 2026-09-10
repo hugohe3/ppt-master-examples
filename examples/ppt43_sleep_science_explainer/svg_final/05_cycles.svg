@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9"/>
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE"/>
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">一夜要绕四到五圈</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32"/>
+  </g>
+  <g id="one-night-cycles" data-pptx-bounds="85 228 875 412">
+    <g id="one-night-cycles-chartArea">
+      <line id="one-night-cycles-axis-y" x1="140" y1="240" x2="140" y2="570" stroke="#5C554C" stroke-width="2"/>
+      <line id="one-night-cycles-axis-x" x1="140" y1="570" x2="940" y2="570" stroke="#5C554C" stroke-width="2"/>
+      <line id="one-night-cycles-grid-1" x1="140" y1="250" x2="940" y2="250" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="one-night-cycles-grid-2" x1="140" y1="327.5" x2="940" y2="327.5" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="one-night-cycles-grid-3" x1="140" y1="405" x2="940" y2="405" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="one-night-cycles-grid-4" x1="140" y1="482.5" x2="940" y2="482.5" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="one-night-cycles-grid-5" x1="140" y1="560" x2="940" y2="560" stroke="#D9C9AC" stroke-width="1"/>
+      <!-- chart-plot-area: object=one-night-cycles | 140,250,940,560 -->
+      <path d="M140,250 H190 V482.5 H240 V560 H290 H340 V482.5 H390 V327.5 H440 V482.5 H490 V560 H540 H590 V482.5 H640 V327.5 H690 V482.5 H740 H790 V327.5 H840 V405 H890 V327.5 H940 V250" fill="none" stroke="#2E4A7D" stroke-width="4" stroke-linejoin="round"/>
+    </g>
+    <text x="132" y="257" font-size="20" fill="#2A2622" text-anchor="end">清醒</text>
+    <text x="132" y="334.5" font-size="20" fill="#B4553E" text-anchor="end">REM</text>
+    <text x="132" y="412" font-size="20" fill="#6E8FBF" text-anchor="end">N1</text>
+    <text x="132" y="489.5" font-size="20" fill="#6E8FBF" text-anchor="end">N2</text>
+    <text x="132" y="567" font-size="20" fill="#2E4A7D" text-anchor="end">N3</text>
+    <text x="140" y="596" font-size="20" fill="#5C554C" text-anchor="middle">0</text>
+    <text x="240" y="596" font-size="20" fill="#5C554C" text-anchor="middle">1</text>
+    <text x="340" y="596" font-size="20" fill="#5C554C" text-anchor="middle">2</text>
+    <text x="440" y="596" font-size="20" fill="#5C554C" text-anchor="middle">3</text>
+    <text x="540" y="596" font-size="20" fill="#5C554C" text-anchor="middle">4</text>
+    <text x="640" y="596" font-size="20" fill="#5C554C" text-anchor="middle">5</text>
+    <text x="740" y="596" font-size="20" fill="#5C554C" text-anchor="middle">6</text>
+    <text x="840" y="596" font-size="20" fill="#5C554C" text-anchor="middle">7</text>
+    <text x="940" y="596" font-size="20" fill="#5C554C" text-anchor="middle">8</text>
+    <text x="540" y="630" font-size="20" fill="#5C554C" text-anchor="middle">入睡后的小时数</text>
+    <line x1="240" y1="272" x2="390" y2="272" stroke="#5C554C" stroke-width="1.5" stroke-dasharray="4,4"/>
+    <line x1="240" y1="266" x2="240" y2="278" stroke="#5C554C" stroke-width="1.5"/>
+    <line x1="390" y1="266" x2="390" y2="278" stroke="#5C554C" stroke-width="1.5"/>
+    <text x="315" y="258" font-size="20" fill="#5C554C" text-anchor="middle">≈ 90–110 分钟一个周期</text>
+  </g>
+  <g id="reading-note" data-pptx-bounds="56 646 912 64">
+    <text x="56" y="670" font-size="28" fill="#2A2622">深睡集中在<tspan font-weight="bold" fill="#2E4A7D">前半夜</tspan>,做梦集中在<tspan font-weight="bold" fill="#B4553E">后半夜</tspan>。</text>
+    <text x="56" y="700" font-size="18" fill="#5C554C">这张图按周期规律绘制,是示意,不是某一次实测记录。</text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">05</text>
+  </g>
+</svg>

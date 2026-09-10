@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9" />
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE" />
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">两句你大概说过的话</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32" />
+  </g>
+  <g id="myth-lead" data-pptx-bounds="56 206 544 82">
+    <text fill="#2A2622" font-size="28" x="56" y="230">先说结论:这两句都站不住。</text><text fill="#5C554C" font-size="28" x="56" y="272">下面把说法和证据放在一起看。</text></g>
+  <g id="week-strip" data-pptx-bounds="636 186 308 96">
+    <rect x="640" y="210" width="36" height="36" fill="#FFFDF7" />
+    <rect x="684" y="210" width="36" height="36" fill="#FFFDF7" />
+    <rect x="728" y="210" width="36" height="36" fill="#FFFDF7" />
+    <rect x="772" y="210" width="36" height="36" fill="#FFFDF7" />
+    <rect x="816" y="210" width="36" height="36" fill="#FFFDF7" />
+    <rect x="860" y="198" width="36" height="36" fill="#6E8FBF" />
+    <rect x="860" y="204" width="36" height="36" fill="#4A6FA5" />
+    <rect x="860" y="210" width="36" height="36" fill="#2E4A7D" />
+    <rect x="904" y="198" width="36" height="36" fill="#6E8FBF" />
+    <rect x="904" y="204" width="36" height="36" fill="#4A6FA5" />
+    <rect x="904" y="210" width="36" height="36" fill="#2E4A7D" />
+    <text x="640" y="274" font-size="20" fill="#5C554C">工作日欠下的,周末堆成两块</text>
+  </g>
+  <g id="myth-vs-evidence" data-pptx-replace-with="table" data-pptx-bounds="56 300 912 200" data-pptx-fallback-sha256="3f254ea86f0250780967114daaf47287784835fc9580551b08a79c64aa7c4551">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "x": 56, "y": 300, "width": 912, "height": 200,
+        "name": "myth-vs-evidence",
+        "columns": [
+          {"text": "说法", "fill": "#2E4A7D", "color": "#FBF5E9", "bold": true, "align": "l"},
+          {"text": "实际", "fill": "#2E4A7D", "color": "#FBF5E9", "bold": true, "align": "l"},
+          {"text": "依据", "fill": "#2E4A7D", "color": "#FBF5E9", "bold": true, "align": "l"}
+        ],
+        "rows": [
+          ["周末补回来就行", "补觉没能阻止代谢紊乱,补觉组胰岛素敏感性反而更差", "Depner 等,2019Current Biology"],
+          ["我天生只需要五小时", "DEC2 突变者每天睡约 6 小时,但极为罕见,且是天生的", "UCSF(Fu 团队)"]
+        ],
+        "column_widths": [26, 46, 28],
+        "row_heights": [48, 76, 76],
+        "defaults": {"cell": {"font_size": 20, "valign": "middle", "padding": 16}, "run": {"color": "#2A2622"}}
+      }
+    </metadata>
+    <rect x="56" y="300" width="912" height="48" fill="#2E4A7D" />
+    <line x1="56" y1="424" x2="968" y2="424" stroke="#D9C9AC" stroke-width="1" />
+    <line x1="56" y1="500" x2="968" y2="500" stroke="#D9C9AC" stroke-width="1" />
+    <text x="72" y="331" font-size="20" font-weight="bold" fill="#FBF5E9">说法</text>
+    <text x="312" y="331" font-size="20" font-weight="bold" fill="#FBF5E9">实际</text>
+    <text x="732" y="331" font-size="20" font-weight="bold" fill="#FBF5E9">依据</text>
+    <text x="72" y="392" font-size="20" fill="#2A2622">周末补回来就行</text>
+    <text fill="#2A2622" font-size="20" x="312" y="378">补觉没能阻止代谢紊乱,</text><text fill="#2A2622" font-size="20" x="312" y="406">补觉组胰岛素敏感性反而更差</text><text fill="#2A2622" font-size="20" x="732" y="378">Depner 等,2019</text><text fill="#2A2622" font-size="20" x="732" y="406">Current Biology</text><text x="72" y="468" font-size="20" fill="#2A2622">我天生只需要五小时</text>
+    <text fill="#2A2622" font-size="20" x="312" y="454">DEC2 突变者每天睡约 6 小时,</text><text fill="#2A2622" font-size="20" x="312" y="482">但极为罕见,且是天生的</text><text x="732" y="468" font-size="20" fill="#2A2622">UCSF(Fu 团队)</text>
+  </g>
+  <g id="closing-note" data-pptx-bounds="56 536 912 46">
+    <text x="56" y="560" font-size="28" fill="#2A2622">它们听起来都很合理——<tspan font-weight="bold" fill="#B4553E">只是刚好和证据相反。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">12</text>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9" />
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE" />
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">想自己查下去</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32" />
+  </g>
+  <g id="sources-intro" data-pptx-bounds="56 166 912 36">
+    
+  <g transform="translate(56, 166) scale(1.25)" fill="#E08A32">
+    <path d="M21.5 5.134a1 1 0 0 1 .493 .748l.007 .118v13a1 1 0 0 1 -1.5 .866a8 8 0 0 0 -7.5 -.266v-15.174a10 10 0 0 1 8.5 .708m-10.5 -.707l.001 15.174a8 8 0 0 0 -7.234 .117l-.327 .18l-.103 .044l-.049 .016l-.11 .026l-.061 .01l-.117 .006h-.042l-.11 -.012l-.077 -.014l-.108 -.032l-.126 -.056l-.095 -.056l-.089 -.067l-.06 -.056l-.073 -.082l-.064 -.089l-.022 -.036l-.032 -.06l-.044 -.103l-.016 -.049l-.026 -.11l-.01 -.061l-.004 -.049l-.002 -13.068a1 1 0 0 1 .5 -.866a10 10 0 0 1 8.5 -.707" />
+  </g>
+    <text x="98" y="190" font-size="28" fill="#2A2622">这一场里的每个数字都能点开核查,包括还在吵的那一条。</text>
+  </g>
+  <g id="source-1" data-pptx-bounds="56 208 912 34" font-size="20">
+    <text x="56" y="232" font-weight="bold" fill="#2A2622">睡多久</text>
+    <text fill="#2E4A7D" x="220" y="232"><tspan><a href="https://aasm.org/aasm-and-srs-publish-new-sleep-duration-consensus-statement/"><tspan text-decoration="underline">AASM 与 SRS 2015 年共识声明</tspan></a></tspan></text></g>
+  <g id="source-2" data-pptx-bounds="56 260 912 34" font-size="20">
+    <text x="56" y="284" font-weight="bold" fill="#2A2622">分年龄建议</text>
+    <text fill="#2E4A7D" x="220" y="284"><tspan><a href="https://www.nhlbi.nih.gov/health/sleep/how-much-sleep"><tspan text-decoration="underline">NHLBI:How Much Sleep Is Enough?</tspan></a></tspan></text></g>
+  <g id="source-3" data-pptx-bounds="56 312 912 34" font-size="20">
+    <text x="56" y="336" font-weight="bold" fill="#2A2622">阶段与周期</text>
+    <text fill="#2E4A7D" x="220" y="336"><tspan><a href="https://www.ncbi.nlm.nih.gov/books/NBK526132/"><tspan text-decoration="underline">StatPearls:Physiology, Sleep Stages</tspan></a></tspan></text></g>
+  <g id="source-4" data-pptx-bounds="56 364 912 34" font-size="20">
+    <text x="56" y="388" font-weight="bold" fill="#2A2622">咖啡因</text>
+    <text fill="#2E4A7D" x="220" y="388"><tspan><a href="https://www.ncbi.nlm.nih.gov/books/NBK519490/"><tspan text-decoration="underline">StatPearls:Caffeine</tspan></a></tspan></text></g>
+  <g id="source-5" data-pptx-bounds="56 416 912 34" font-size="20">
+    <text x="56" y="440" font-weight="bold" fill="#2A2622">双过程模型</text>
+    <text fill="#2E4A7D" x="220" y="440"><tspan><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jsr.12371"><tspan text-decoration="underline">Borbély 等 2016,J Sleep Res</tspan></a></tspan></text></g>
+  <g id="source-6" data-pptx-bounds="56 468 912 34" font-size="20">
+    <text x="56" y="492" font-weight="bold" fill="#2A2622">争议其一</text>
+    <text fill="#2E4A7D" x="220" y="492"><tspan><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3880190/"><tspan text-decoration="underline">Xie 等 2013,Science</tspan></a></tspan></text></g>
+  <g id="source-7" data-pptx-bounds="56 520 912 34" font-size="20">
+    <text x="56" y="544" font-weight="bold" fill="#2A2622">争议其二</text>
+    <text fill="#2E4A7D" x="220" y="544"><tspan><a href="https://www.nature.com/articles/s41593-024-01638-y"><tspan text-decoration="underline">Miao 等 2024,Nature Neuroscience</tspan></a></tspan></text></g>
+  <g id="source-8" data-pptx-bounds="56 572 912 34" font-size="20">
+    <text x="56" y="596" font-weight="bold" fill="#2A2622">困倦驾驶</text>
+    <text fill="#2E4A7D" x="220" y="596"><tspan><a href="https://www.nhtsa.gov/risky-driving/drowsy-driving"><tspan text-decoration="underline">NHTSA:Drowsy Driving</tspan></a></tspan></text></g>
+  <g id="closing-line" data-pptx-bounds="56 640 912 40">
+    
+  <g transform="translate(56, 644) scale(1.16667)" fill="#2E4A7D">
+    <path d="M15.707 8.293a1 1 0 0 1 0 1.414l-6 6a1 1 0 1 1 -1.414 -1.414l6 -6a1 1 0 0 1 1.414 0" />
+    <path d="M19.242 4.757c2.343 2.344 2.342 6.143 -.052 8.534l-.534 .464a1 1 0 1 1 -1.312 -1.51l.483 -.416a4 4 0 0 0 0 -5.657c-1.562 -1.563 -4.095 -1.563 -5.607 -.054l-.463 .536a1 1 0 1 1 -1.514 -1.308l.513 -.59a6 6 0 0 1 8.486 .001" />
+    <path d="M6.75 10.338a1 1 0 0 1 -.088 1.411l-.483 .425a3.97 3.97 0 0 0 0 5.649a4.064 4.064 0 0 0 5.678 .038l.34 -.458a1 1 0 1 1 1.606 1.194l-.397 .534l-.1 .114a6.07 6.07 0 0 1 -8.533 0a5.97 5.97 0 0 1 -1.773 -4.247c0 -1.595 .638 -3.124 1.814 -4.284l.524 -.463a1 1 0 0 1 1.411 .087" />
+  </g>
+    <text x="96" y="668" font-size="20" fill="#5C554C">点击上面任意一行,可以直接打开原始来源。</text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">15</text>
+  </g>
+</svg>

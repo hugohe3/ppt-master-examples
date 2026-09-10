@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <filter id="softShadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.10" />
+    </filter>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9" />
+  <g id="cover-visual" data-pptx-bounds="0 330 1024 438">
+    <image href="../images/cover_night_third.jpg" x="0" y="330" width="1024" height="438" preserveAspectRatio="xMidYMid slice" />
+  </g>
+  <path id="cover-torn-sheet" data-pptx-role="decoration" d="M0,0 L1024,0 L1024,326 L940,331 L862,325 L764,334 L658,327 L548,336 L430,328 L318,337 L206,329 L96,338 L0,330 Z" fill="#FBF5E9" filter="url(#softShadow)" />
+  <g id="cover-title" data-pptx-bounds="56 100 912 168" font-family="Microsoft YaHei, Trebuchet MS, sans-serif">
+    <text x="56" y="176" font-size="84" font-weight="bold" fill="#2E4A7D">我们为什么要睡觉</text>
+    <text x="56" y="248" font-size="36" fill="#2A2622">把一生的三分之一交给黑夜</text>
+  </g>
+  <g id="cover-note" data-pptx-bounds="56 280 912 26">
+    <text x="56" y="296" font-size="18" fill="#5C554C">成人的建议睡眠时长是每晚 7–9 小时,约占一天的三分之一(按建议时长推算)</text>
+  </g>
+</svg>

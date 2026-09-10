@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#E08A32"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9"/>
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE"/>
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">潮汐由光对时</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32"/>
+  </g>
+  <g id="force-vessel" data-pptx-bounds="756 176 88 105">
+    <image href="../images/el_water_vessel.png" x="760" y="180" width="80" height="97" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="force-tide" data-pptx-bounds="856 186 108 78">
+    <image href="../images/el_tide_arc.png" x="860" y="190" width="100" height="70" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="body-main" data-pptx-bounds="56 206 644 290" fill="#2A2622">
+    <use data-icon="tabler-filled/sun" x="56" y="212" width="32" height="32" fill="#E08A32"/>
+    <text x="100" y="240" font-size="34" font-weight="bold" fill="#E08A32">主时钟在脑内一个具体的位置</text>
+    <text x="56" y="300" font-size="28">视交叉上核(SCN)按眼睛收到的光量<tspan x="56" dy="42">控制褪黑素分泌;傍晚光线一暗,</tspan><tspan x="56" dy="42">分泌增加,人就开始犯困。</tspan></text>
+    <text x="56" y="440" font-size="28" font-weight="bold" fill="#B4553E">夜里的强光不是让你精神,<tspan x="56" dy="42">是让主时钟以为天还没黑。</tspan></text>
+  </g>
+  <g id="light-path" data-pptx-bounds="56 516 720 92">
+    <rect x="56" y="520" width="200" height="76" rx="12" fill="#F0E4CE"/>
+    <rect x="296" y="520" width="200" height="76" rx="12" fill="#E08A32"/>
+    <rect x="536" y="520" width="200" height="76" rx="12" fill="#2E4A7D"/>
+    <line x1="264" y1="558" x2="286" y2="558" stroke="#E08A32" stroke-width="3" marker-end="url(#arrowHead)"/>
+    <line x1="504" y1="558" x2="526" y2="558" stroke="#E08A32" stroke-width="3" marker-end="url(#arrowHead)"/>
+    <text x="156" y="568" font-size="28" fill="#2A2622" text-anchor="middle">光进入眼睛</text>
+    <text x="396" y="568" font-size="28" fill="#2A2622" text-anchor="middle">视交叉上核</text>
+    <text x="636" y="568" font-size="28" fill="#FBF5E9" text-anchor="middle">褪黑素上升</text>
+  </g>
+  <g id="source-note" data-pptx-bounds="56 624 640 30">
+    <text x="56" y="640" font-size="20" fill="#5C554C">昼夜节律与 SCN:美国 NIGMS 科普资料</text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">08</text>
+  </g>
+</svg>

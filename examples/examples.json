@@ -1,12 +1,114 @@
 {
   "version": 1,
-  "updated": "2026-09-07",
+  "updated": "2026-09-10",
   "stats": {
-    "examples": 34,
-    "pages": 485,
-    "templates": 34
+    "examples": 35,
+    "pages": 500,
+    "templates": 35
   },
   "projects": [
+    {
+      "id": "ppt43_sleep_science_explainer",
+      "title": "我们为什么要睡觉",
+      "description": "科普讲解 deck 15 页 — 首个 science-explainer 方法模板示例，也是首个 4:3 画布的 Default 路线示例：从「每个人都熬过一次夜」的熟悉经验起步，按熟悉地面→谜题→积木→类比（并标出类比失效点）→机制→量级→证据→误区→知识边缘→为什么重要→继续探索的顺序把「两股力量」讲透；paper-cut 剪纸视觉，颜色全卷固定承担解释职责，AI 母表切片 7 件；睡眠阶段占比、咖啡因半衰期、分年龄建议时长 3 张原生图表，误区/实际/依据原生对照表，8 条来源原生超链接；夜景与「水位容器 + 潮汐」元素跨页 Morph 累积；共识/争议/猜测在页面上分开说",
+      "icon": "🌙",
+      "color": "#2E4A7D",
+      "style": "science",
+      "styleName": "Science Explainer · 剪纸夜谈",
+      "desc": "A fifteen-page Chinese public-science talk on why we sleep — the first example built on the bundled science-explainer Style, and the first 4:3 (ppt43) deck authored on the Default runtime. It follows the Style's build from familiar ground to the edge of knowledge: a night everyone has pulled, the puzzle of why sleep cannot simply be shortened, sleep stages and the four-to-five cycles of one night, the two separate forces that make you tired (sleep pressure as a vessel filling with water, the body clock as a tide set by light — each analogy marked where it stops being true), adenosine as the physical substance behind the water level, caffeine as a cup blocking a receptor rather than giving energy, recommended hours by age, the countable cost of drowsy driving, two things you have probably said set against the evidence, what is still argued about, and what to do tonight. Paper-cut visual style with paper-cut rendering; one colour job fixed for the whole talk (navy for sleep pressure, orange for light and the clock, rust for REM and risk); seven AI illustration-sheet slices; three native charts (stage share doughnut, caffeine half-life line, hours-by-age stacked bar), one native myth-versus-evidence table, eight native source hyperlinks, and Morph chains that carry the night scene and the vessel-and-tide pair across adjacent pages in a fixed position. Sourced facts from NIH/NHLBI, AASM/SRS, NHTSA, StatPearls, Nature Neuroscience and Science; speaker notes throughout.",
+      "tags": [
+        "Science",
+        "Science Explainer",
+        "Style Template",
+        "4:3",
+        "Paper-cut",
+        "AI Illustration",
+        "Native Charts",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt43_sleep_science_explainer/svg_final",
+      "generatedAt": "2026-09-10",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt43_sleep_science_explainer/exports/ppt43_sleep_science_explainer.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "我们为什么要睡觉"
+        },
+        {
+          "file": "02_familiar.svg",
+          "title": "familiar",
+          "desc": "每个人都熬过一次夜"
+        },
+        {
+          "file": "03_puzzle.svg",
+          "title": "puzzle",
+          "desc": "可它为什么不能少睡一点"
+        },
+        {
+          "file": "04_stages.svg",
+          "title": "stages",
+          "desc": "睡着以后，大脑分成了几种状态"
+        },
+        {
+          "file": "05_cycles.svg",
+          "title": "cycles",
+          "desc": "一夜要绕四到五圈"
+        },
+        {
+          "file": "06_two_forces.svg",
+          "title": "two_forces",
+          "desc": "让你困的，是两件不同的事"
+        },
+        {
+          "file": "07_adenosine.svg",
+          "title": "adenosine",
+          "desc": "水位其实有实物"
+        },
+        {
+          "file": "08_clock.svg",
+          "title": "clock",
+          "desc": "潮汐由光对时"
+        },
+        {
+          "file": "09_caffeine.svg",
+          "title": "caffeine",
+          "desc": "咖啡因不给你能量"
+        },
+        {
+          "file": "10_by_age.svg",
+          "title": "by_age",
+          "desc": "该睡多久，看你多大"
+        },
+        {
+          "file": "11_evidence.svg",
+          "title": "evidence",
+          "desc": "代价是可以数出来的"
+        },
+        {
+          "file": "12_myths.svg",
+          "title": "myths",
+          "desc": "两句你大概说过的话"
+        },
+        {
+          "file": "13_edge.svg",
+          "title": "edge",
+          "desc": "这一块还在吵"
+        },
+        {
+          "file": "14_tonight.svg",
+          "title": "tonight",
+          "desc": "回到熬夜的第二天"
+        },
+        {
+          "file": "15_sources.svg",
+          "title": "sources",
+          "desc": "想自己查下去"
+        }
+      ]
+    },
     {
       "id": "ppt169_qianli_jiangshan_scroll",
       "title": "千里江山图·十八岁的青绿",

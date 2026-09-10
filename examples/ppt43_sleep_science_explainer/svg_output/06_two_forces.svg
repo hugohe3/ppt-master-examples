@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9"/>
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE"/>
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">让你困的,是两件不同的事</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32"/>
+  </g>
+  <g id="force-vessel" data-pptx-bounds="124 196 268 372">
+    <image href="../images/el_water_vessel.png" x="130" y="200" width="223" height="270" preserveAspectRatio="xMidYMid meet"/>
+    <use data-icon="tabler-filled/droplet" x="130" y="478" width="28" height="28" fill="#2E4A7D"/>
+    <text x="130" y="530" font-size="34" font-weight="bold" fill="#2E4A7D">越醒越满的水位</text>
+    <text x="130" y="560" font-size="20" fill="#5C554C">稳态过程 Process S</text>
+  </g>
+  <g id="force-tide" data-pptx-bounds="614 276 340 292">
+    <image href="../images/el_tide_arc.png" x="620" y="280" width="270" height="190" preserveAspectRatio="xMidYMid meet"/>
+    <use data-icon="tabler-filled/sun" x="620" y="478" width="28" height="28" fill="#E08A32"/>
+    <text x="620" y="530" font-size="34" font-weight="bold" fill="#E08A32">每天准点涨落的潮汐</text>
+    <text x="620" y="560" font-size="20" fill="#5C554C">昼夜过程 Process C</text>
+  </g>
+  <g id="analogy-limit" data-pptx-bounds="56 592 912 110">
+    <g id="p06-limit-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="56 592 912 110" fill="#F0E4CE" stroke="none">
+<path d="M 56 610.33 A 18.33 18.33 0 0 0 74.33 592 L 949.67 592 A 18.33 18.33 0 0 0 968 610.33 L 968 683.67 A 18.33 18.33 0 0 0 949.67 702 L 74.33 702 A 18.33 18.33 0 0 0 56 683.67 Z"/>
+</g>
+    <text x="92" y="628" font-size="28" fill="#2A2622"><tspan x="92" dy="0"><tspan font-weight="bold" fill="#B4553E">类比到此为止:</tspan>水位不是可以称重的储量。</tspan><tspan x="92" dy="42">双过程模型描述的是脑电活动的规律,不是分子浓度读数。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">06</text>
+  </g>
+</svg>

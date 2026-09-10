@@ -1,0 +1,134 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "我们为什么要睡觉:睡眠的功能、机制与证据",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "美国睡眠医学会(AASM)与睡眠研究学会(SRS)2015年联合共识声明:18–60岁成年人应每晚常规睡7小时或以上,以促进最佳健康;长期少于7小时与体重增加、肥胖、糖尿病、高血压、心脏病与中风、抑郁及死亡风险上升相关。",
+      "source_title": "AASM and SRS publish new sleep duration consensus statement",
+      "source_url": "https://aasm.org/aasm-and-srs-publish-new-sleep-duration-consensus-statement/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "美国国立心肺血液研究所(NHLBI)按年龄给出的每日睡眠时长建议:4–12个月婴儿12–16小时;1–2岁11–14小时;3–5岁10–13小时;6–12岁9–12小时;13–18岁青少年8–10小时;成年人7–9小时。",
+      "source_title": "How Much Sleep Is Enough? — NHLBI, NIH",
+      "source_url": "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "美国CDC数据:2022年各州成年人睡眠不足比例从佛蒙特州30%到夏威夷州46%不等;男性为37%,45–64岁人群为39%;2013–2022十年间全国比例总体保持稳定。",
+      "source_title": "Adults Sleep Facts and Stats — CDC",
+      "source_url": "https://www.cdc.gov/sleep/data-research/facts-stats/adults-sleep-facts-and-stats.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "成人一夜睡眠中各阶段占总睡眠时间的大致比例:N1约5%,N2约45%,N3(深睡)约25%,REM约25%。",
+      "source_title": "Physiology, Sleep Stages — StatPearls, NCBI Bookshelf",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK526132/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "一个完整睡眠周期约90–110分钟,一夜通常经历4–5个周期,顺序为N1→N2→N3→N2→REM;夜间前段深睡(N3)占比高,越到后段REM段越长、深睡越少。",
+      "source_title": "Physiology, Sleep Stages — StatPearls, NCBI Bookshelf",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK526132/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "咖啡因在普通成年人体内的半衰期约为5小时;它拮抗全部4种腺苷受体亚型(A1、A2a、A2b、A3),其中A2a拮抗与促觉醒作用关系最直接。",
+      "source_title": "Caffeine — StatPearls, NCBI Bookshelf",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK519490/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "细胞外腺苷在清醒期间于基底前脑等区域随神经元能量代谢累积,并在恢复性睡眠中下降,被视为睡眠稳态(睡眠压力)的中介信号。",
+      "source_title": "Adenosine and sleep-wake regulation (Basheer et al., Prog Neurobiol 2004) — PubMed",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/15313333/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "Xie等人2013年发表于《Science》的《Sleep Drives Metabolite Clearance from the Adult Brain》报告:小鼠睡眠(及麻醉)期间皮层细胞间隙体积增加逾60%(自清醒时约14%扩大到23–24%),β-淀粉样蛋白清除速度约为清醒时的两倍。",
+      "source_title": "Sleep Drives Metabolite Clearance from the Adult Brain (Xie et al., Science 2013) — PMC",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3880190/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "Miao等人2024年发表于《Nature Neuroscience》的《Brain clearance is reduced during sleep and anesthesia》报告:在雄性小鼠中,荧光示踪分子的清除在睡眠与麻醉期间显著降低而非升高,作者称其结果挑战了'睡眠的核心功能是清除脑内代谢废物'的观点。",
+      "source_title": "Brain clearance is reduced during sleep and anesthesia (Nature Neuroscience, 2024)",
+      "source_url": "https://www.nature.com/articles/s41593-024-01638-y",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "Rasch与Born 2013年发表于《Physiological Reviews》的综述《About Sleep's Role in Memory》提出:记忆在睡眠中经历'系统固化',其起点是慢波睡眠期间新近编码的神经记忆表征被重新激活,海马表征逐步转移到新皮层长期储存。",
+      "source_title": "About Sleep's Role in Memory (Rasch & Born, Physiol Rev 2013) — PMC",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3768102/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "美国NHTSA数据:2017年,困倦驾驶涉及约91,000起警方报告的交通事故,造成约50,000人受伤、795人死亡;NHTSA同时说明仅基于警方报告的统计会低估困倦驾驶的真实规模。",
+      "source_title": "Drowsy Driving — NHTSA",
+      "source_url": "https://www.nhtsa.gov/risky-driving/drowsy-driving",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "人体的'主时钟'是下丘脑内的视交叉上核(SCN);SCN根据眼睛接收到的光量控制褪黑素分泌,傍晚光线减少时促使大脑分泌更多褪黑素而产生困意;昼夜节律指生物体在约24小时周期内的生理、心理与行为变化。",
+      "source_title": "Circadian Rhythms Fact Sheet — NIGMS, NIH",
+      "source_url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "加州大学旧金山分校Ying-Hui Fu团队发现的DEC2基因点突变(P384R)会解除对促觉醒神经肽orexin的抑制,携带者平均每天睡约6小时而非8小时;此类'天生短睡者'极为罕见。",
+      "source_title": "Scientists Discover How Gene Mutation Reduces the Need for Sleep — UCSF",
+      "source_url": "https://www.ucsf.edu/news/2018/03/410051/scientists-discover-how-gene-mutation-reduces-need-sleep",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "Depner等人2019年发表于《Current Biology》的研究显示:在'工作日睡眠不足+周末自由补觉'的反复模式下,周末补觉未能阻止代谢紊乱;补觉组的肌肉与肝脏胰岛素敏感性反而比持续少睡组更差。",
+      "source_title": "Ad libitum Weekend Recovery Sleep Fails to Prevent Metabolic Dysregulation (Current Biology, 2019)",
+      "source_url": "https://www.cell.com/current-biology/fulltext/S0960-9822(19)30098-3",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "Borbély、Daan、Wirz-Justice与Deboer 2016年在《Journal of Sleep Research》(第25卷,131–143页)对睡眠调节双过程模型的再评估指出:该模型认为稳态过程(Process S)与受昼夜起搏器控制的过程(Process C)相互作用,共同决定睡眠与觉醒的时机。",
+      "source_title": "The two-process model of sleep regulation: a reappraisal (J Sleep Res, 2016)",
+      "source_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jsr.12371",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "CDC指出成年人(18–60岁)每日应睡7小时或以上,睡眠不足与更高的2型糖尿病、心脏病、高血压、中风风险以及更高的机动车事故可能性相关。",
+      "source_title": "About Sleep — CDC",
+      "source_url": "https://www.cdc.gov/sleep/about/index.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    }
+  ]
+}

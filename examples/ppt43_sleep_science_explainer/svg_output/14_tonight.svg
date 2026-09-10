@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9"/>
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE"/>
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">回到熬夜的第二天</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32"/>
+  </g>
+  <g id="recall-line" data-pptx-bounds="56 166 912 36">
+    <text x="56" y="190" font-size="28" fill="#5C554C">那种迟钝现在有名字了:<tspan font-weight="bold" fill="#2E4A7D">水位没降下去,潮汐还没到点。</tspan></text>
+  </g>
+  <g id="action-coffee" data-pptx-bounds="56 218 544 80">
+    <use data-icon="tabler-filled/mug" x="56" y="222" width="36" height="36" fill="#B4553E"/>
+    <text x="110" y="250" font-size="28" font-weight="bold" fill="#2A2622">最后一杯咖啡提前到下午三点前</text>
+    <text x="110" y="284" font-size="20" fill="#5C554C">因为半衰期约 5 小时</text>
+  </g>
+  <g id="action-light" data-pptx-bounds="56 318 544 80">
+    <use data-icon="tabler-filled/sun" x="56" y="322" width="36" height="36" fill="#E08A32"/>
+    <text x="110" y="350" font-size="28" font-weight="bold" fill="#2A2622">睡前把强光调暗</text>
+    <text x="110" y="384" font-size="20" fill="#5C554C">因为主时钟按光对时</text>
+  </g>
+  <g id="action-weekend" data-pptx-bounds="56 418 544 80">
+    <use data-icon="tabler-filled/calendar-week" x="56" y="422" width="36" height="36" fill="#2E4A7D"/>
+    <text x="110" y="450" font-size="28" font-weight="bold" fill="#2A2622">别把账留给周末</text>
+    <text x="110" y="484" font-size="20" fill="#5C554C">因为补觉没能阻止代谢紊乱</text>
+  </g>
+  <g id="pillow-scene" data-pptx-bounds="636 226 328 263">
+    <image href="../images/el_pillow_book.png" x="640" y="230" width="320" height="255" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="closing-statement" data-pptx-bounds="56 498 912 92">
+    <text x="56" y="530" font-size="34" font-weight="bold" fill="#2E4A7D">睡眠是这一天里唯一一段你不参与、<tspan x="56" dy="42">却决定明天的时间。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">14</text>
+  </g>
+</svg>

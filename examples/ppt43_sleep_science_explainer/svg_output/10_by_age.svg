@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9"/>
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE"/>
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">该睡多久,看你多大</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32"/>
+  </g>
+  <g id="sleep-by-age" data-pptx-replace-with="chart" data-pptx-bounds="196 210 756 424" data-pptx-fallback-sha256="e6f684c06a0eceb1af2f71149abdd5a7400e55b0a9ca368271078723065aaf0d">
+    <metadata type="application/json">
+      {
+        "x": 196, "y": 210, "width": 756, "height": 424,
+        "name": "sleep-by-age",
+        "type": "bar",
+        "grouping": "stacked",
+        "gap_width": 67,
+        "categories": ["4–12 个月 12–16 小时", "1–2 岁 11–14 小时", "3–5 岁 10–13 小时", "6–12 岁 9–12 小时", "13–18 岁 8–10 小时", "成人 7–9 小时"],
+        "series": [
+          {"name": "下限之前", "values": [12, 11, 10, 9, 8, 7]},
+          {"name": "建议区间", "values": [4, 3, 3, 3, 2, 2], "point_colors": ["#2E4A7D", "#2E4A7D", "#2E4A7D", "#2E4A7D", "#2E4A7D", "#E08A32"]}
+        ],
+        "axes": {"value": {"minimum": 0, "maximum": 18, "major_unit": 3, "major_gridlines": true}},
+        "axis_titles": {"value": "每日建议睡眠时长(小时)"},
+        "show_legend": false,
+        "style": {"colors": ["#FBF5E9", "#2E4A7D"], "axis_color": "#5C554C", "grid_color": "#D9C9AC"},
+        "plot_area": {"x": 440, "y": 240, "width": 500, "height": 330}
+      }
+    </metadata>
+    <g id="sleep-by-age-chartArea">
+      <line id="sleep-by-age-grid-3" x1="523.3" y1="240" x2="523.3" y2="570" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="sleep-by-age-grid-6" x1="606.7" y1="240" x2="606.7" y2="570" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="sleep-by-age-grid-9" x1="690" y1="240" x2="690" y2="570" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="sleep-by-age-grid-12" x1="773.3" y1="240" x2="773.3" y2="570" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="sleep-by-age-grid-15" x1="856.7" y1="240" x2="856.7" y2="570" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="sleep-by-age-grid-18" x1="940" y1="240" x2="940" y2="570" stroke="#D9C9AC" stroke-width="1"/>
+      <line id="sleep-by-age-axis-category" x1="440" y1="240" x2="440" y2="570" stroke="#5C554C" stroke-width="2"/>
+      <line id="sleep-by-age-axis-value" x1="440" y1="570" x2="940" y2="570" stroke="#5C554C" stroke-width="2"/>
+      <!-- chart-plot-area: object=sleep-by-age | 440,240,940,570 -->
+      <rect x="440" y="250.7" width="333.3" height="32" fill="#FBF5E9"/>
+      <rect x="773.3" y="250.7" width="111.1" height="32" fill="#2E4A7D"/>
+      <rect x="440" y="304" width="305.6" height="32" fill="#FBF5E9"/>
+      <rect x="745.6" y="304" width="83.3" height="32" fill="#2E4A7D"/>
+      <rect x="440" y="357.3" width="277.8" height="32" fill="#FBF5E9"/>
+      <rect x="717.8" y="357.3" width="83.3" height="32" fill="#2E4A7D"/>
+      <rect x="440" y="410.7" width="250" height="32" fill="#FBF5E9"/>
+      <rect x="690" y="410.7" width="83.3" height="32" fill="#2E4A7D"/>
+      <rect x="440" y="464" width="222.2" height="32" fill="#FBF5E9"/>
+      <rect x="662.2" y="464" width="55.6" height="32" fill="#2E4A7D"/>
+      <rect x="440" y="517.3" width="194.4" height="32" fill="#FBF5E9"/>
+      <rect x="634.4" y="517.3" width="55.6" height="32" fill="#E08A32"/>
+    </g>
+    <text x="428" y="273.7" font-size="20" fill="#2A2622" text-anchor="end">4–12 个月 12–16 小时</text>
+    <text x="428" y="327" font-size="20" fill="#2A2622" text-anchor="end">1–2 岁 11–14 小时</text>
+    <text x="428" y="380.3" font-size="20" fill="#2A2622" text-anchor="end">3–5 岁 10–13 小时</text>
+    <text x="428" y="433.7" font-size="20" fill="#2A2622" text-anchor="end">6–12 岁 9–12 小时</text>
+    <text x="428" y="487" font-size="20" fill="#2A2622" text-anchor="end">13–18 岁 8–10 小时</text>
+    <text x="428" y="540.3" font-size="20" fill="#E08A32" text-anchor="end">成人 7–9 小时</text>
+    <text x="440" y="596" font-size="20" fill="#5C554C" text-anchor="middle">0</text>
+    <text x="523.3" y="596" font-size="20" fill="#5C554C" text-anchor="middle">3</text>
+    <text x="606.7" y="596" font-size="20" fill="#5C554C" text-anchor="middle">6</text>
+    <text x="690" y="596" font-size="20" fill="#5C554C" text-anchor="middle">9</text>
+    <text x="773.3" y="596" font-size="20" fill="#5C554C" text-anchor="middle">12</text>
+    <text x="856.7" y="596" font-size="20" fill="#5C554C" text-anchor="middle">15</text>
+    <text x="940" y="596" font-size="20" fill="#5C554C" text-anchor="middle">18</text>
+    <text x="690" y="628" font-size="20" fill="#5C554C" text-anchor="middle">每日建议睡眠时长(小时)</text>
+  </g>
+  <g id="age-note" data-pptx-bounds="56 648 912 60">
+    <text x="56" y="672" font-size="28" fill="#2A2622"><tspan font-weight="bold" fill="#2E4A7D">7 小时是共识下限,不是目标值。</tspan></text>
+    <text x="56" y="700" font-size="18" fill="#5C554C">分年龄建议:美国国立心肺血液研究所(NHLBI)</text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">10</text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9" />
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE" />
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">代价是可以数出来的</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32" />
+  </g>
+  <g id="hero-toll" data-pptx-bounds="56 228 520 208">
+    <text x="56" y="292" font-size="72" font-weight="bold" fill="#B4553E">795</text>
+    <text x="56" y="330" font-size="20" fill="#5C554C">2017 年美国因困倦驾驶死亡的人数</text>
+    <text x="56" y="382" font-size="28" fill="#2A2622">同年:约 91,000 起警方报告事故,<tspan x="56" dy="42">约 50,000 人受伤。</tspan></text>
+  </g>
+  <g id="caveat-callout" data-pptx-bounds="56 439 520 169">
+    <g id="p11-caveat-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="56 478 520 130" data-pptx-av-adj1="val -35000" data-pptx-av-adj2="val -80000" fill="#F0E4CE" stroke="none">
+<path d="M 56 478 L 142.67 478 L 134 439 L 272.67 478 L 576 478 L 576 499.67 L 576 499.67 L 576 532.17 L 576 608 L 272.67 608 L 142.67 608 L 142.67 608 L 56 608 L 56 532.17 L 56 499.67 L 56 499.67 Z" />
+</g>
+    <use data-icon="tabler-filled/alert-triangle" x="84" y="502" width="28" height="28" fill="#B4553E" />
+    <text x="124" y="524" font-size="28" fill="#2A2622">口径:仅基于警方报告的统计。<tspan x="124" dy="42">NHTSA 说明这会低估真实规模。</tspan></text>
+  </g>
+  <g id="wheel-scene" data-pptx-bounds="636 196 268 335">
+    <image href="../images/el_wheel_nod.png" x="640" y="200" width="260" height="327" preserveAspectRatio="xMidYMid meet" />
+  </g>
+  <g id="context-note" data-pptx-bounds="56 634 912 58" fill="#5C554C">
+    <text x="56" y="654" font-size="20">2022 年,美国各州成年人睡眠不足的比例在 30%–46% 之间。</text>
+    <text x="56" y="686" font-size="18">NHTSA 困倦驾驶数据(2017);CDC 各州数据(2022)</text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">11</text>
+  </g>
+</svg>

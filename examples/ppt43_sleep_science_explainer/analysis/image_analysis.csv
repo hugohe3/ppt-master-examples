@@ -1,0 +1,9 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,cover_night_third.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,62.5,Wide landscape
+2,el_coffee_block.png,816,694,1.18,1.18,,native,PNG,True,1,,bitmap,True,True,719.0,Near square
+3,el_night_window.png,781,765,1.02,1.02,,native,PNG,True,1,,bitmap,True,True,764.0,Near square
+4,el_pillow_book.png,770,614,1.25,1.25,,native,PNG,True,1,,bitmap,True,True,528.1,Standard landscape
+5,el_tide_arc.png,866,609,1.42,1.42,,native,PNG,True,1,,bitmap,True,True,670.0,Standard landscape
+6,el_two_papers_question.png,836,546,1.53,1.53,,native,PNG,True,1,,bitmap,True,True,541.0,Wide landscape
+7,el_water_vessel.png,670,811,0.83,0.83,,native,PNG,True,1,,bitmap,True,True,673.6,Near square
+8,el_wheel_nod.png,663,835,0.79,0.79,,native,PNG,True,1,,bitmap,True,True,759.3,Portrait

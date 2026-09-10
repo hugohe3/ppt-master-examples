@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" font-family="Microsoft YaHei, Verdana, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="softShadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FBF5E9"/>
+  <polygon id="paper-band" data-pptx-role="decoration" points="0,706 118,698 236,707 354,699 472,708 590,700 708,709 826,701 944,710 1024,703 1024,768 0,768" fill="#F0E4CE"/>
+  <g id="header" data-pptx-bounds="56 70 912 78">
+    <text x="56" y="120" font-family="Microsoft YaHei, Trebuchet MS, sans-serif" font-size="52" font-weight="bold" fill="#2A2622">可它为什么不能少睡一点</text>
+    <rect x="56" y="140" width="132" height="8" fill="#E08A32"/>
+  </g>
+  <g id="contrast-pair" data-pptx-bounds="56 224 444 220">
+    <path d="M56,228 L498,224 L500,318 L58,322 Z" fill="#F0E4CE"/>
+    <text x="80" y="286" font-size="28" fill="#2A2622">休息,可以少做一点</text>
+    <path d="M58,348 L500,344 L498,438 L56,442 Z" fill="#2E4A7D" filter="url(#softShadow)"/>
+    <text x="80" y="404" font-size="28" font-weight="bold" fill="#FBF5E9">睡觉,不能取消</text>
+  </g>
+  <g id="fact-note" data-pptx-bounds="56 472 444 132">
+    <text x="56" y="500" font-size="28" fill="#2A2622">给出的不是建议,是下限:<tspan x="56" dy="42" font-weight="bold" fill="#2E4A7D">成人每晚 7 小时或以上。</tspan></text>
+    <text x="56" y="592" font-size="18" fill="#5C554C">AASM 与 SRS 2015 年共识声明</text>
+  </g>
+  <g id="scene-night" data-pptx-bounds="560 230 400 392">
+    <image href="../images/el_night_window.png" x="560" y="230" width="400" height="392" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="puzzle-question" data-pptx-bounds="560 624 400 88">
+    <text x="560" y="654" font-size="34" fill="#B4553E">少睡一点,<tspan x="560" dy="42">为什么不行?</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="880 720 88 26">
+    <text x="968" y="736" font-size="18" fill="#5C554C" text-anchor="end">03</text>
+  </g>
+</svg>

@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {"effect": "fade", "duration": 0.4},
+    "animation": {"trigger": "after-previous", "duration": 0.5}
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-visual": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "up"}, "order": 1, "duration": 0.8}]},
+        "cover-title": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.6, "delay": 0.2}]},
+        "cover-note": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.4}]}
+      }
+    },
+    "02_familiar": {
+      "groups": {
+        "header": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.4}]},
+        "scene-night": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.6}]},
+        "experience-list": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "down"}, "order": 3, "duration": 0.8}]},
+        "transition-note": {"effects": [{"effect": "entrance_fade", "order": 4, "duration": 0.5, "delay": 0.3}]}
+      }
+    },
+    "03_puzzle": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.8},
+      "morph": {"from": "02_familiar", "pairs": {"night-scene": {"from": "scene-night", "to": "scene-night"}}},
+      "groups": {
+        "contrast-pair": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "down"}, "order": 1, "duration": 0.7}]},
+        "puzzle-question": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.5}]},
+        "fact-note": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.6, "delay": 0.2}]}
+      }
+    },
+    "04_stages": {
+      "groups": {
+        "sleep-stage-share": {"effects": [{"effect": "entrance_wheel", "order": 1, "duration": 1.0}]},
+        "term-nrem": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.5}]},
+        "term-rem": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.5}]}
+      }
+    },
+    "05_cycles": {
+      "groups": {
+        "one-night-cycles": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 1, "duration": 1.4}]},
+        "reading-note": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.5}]}
+      }
+    },
+    "06_two_forces": {
+      "groups": {
+        "force-vessel": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.6}]},
+        "force-tide": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.6}]},
+        "analogy-limit": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "down"}, "order": 3, "duration": 0.6, "delay": 0.3}]}
+      }
+    },
+    "07_adenosine": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.9},
+      "morph": {"from": "06_two_forces", "pairs": {"vessel": {"from": "force-vessel", "to": "force-vessel"}, "tide": {"from": "force-tide", "to": "force-tide"}}},
+      "groups": {
+        "body-main": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.6}]},
+        "pressure-chain": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 2, "duration": 0.9}]},
+        "source-note": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.4}]}
+      }
+    },
+    "08_clock": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.9},
+      "morph": {"from": "07_adenosine", "pairs": {"vessel": {"from": "force-vessel", "to": "force-vessel"}, "tide": {"from": "force-tide", "to": "force-tide"}}},
+      "groups": {
+        "body-main": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.6}]},
+        "light-path": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 2, "duration": 0.9}]},
+        "source-note": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.4}]}
+      }
+    },
+    "09_caffeine": {
+      "groups": {
+        "coffee-block": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.6}]},
+        "caffeine-decay": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 2, "duration": 1.2}]},
+        "caffeine-note": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.5}]}
+      }
+    },
+    "10_by_age": {
+      "groups": {
+        "sleep-by-age": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 1, "duration": 1.2}]},
+        "age-note": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.5}]}
+      }
+    },
+    "11_evidence": {
+      "groups": {
+        "hero-toll": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.6}]},
+        "caveat-callout": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.6, "delay": 0.4}]},
+        "wheel-scene": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.6}]},
+        "context-note": {"effects": [{"effect": "entrance_fade", "order": 4, "duration": 0.4}]}
+      }
+    },
+    "12_myths": {
+      "groups": {
+        "myth-lead": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.5}]},
+        "week-strip": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.5}]},
+        "myth-vs-evidence": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "down"}, "order": 3, "duration": 1.0}]},
+        "closing-note": {"effects": [{"effect": "entrance_fade", "order": 4, "duration": 0.5, "delay": 0.3}]}
+      }
+    },
+    "13_edge": {
+      "groups": {
+        "claim-2013": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.6, "trigger": "with-previous"}]},
+        "claim-2024": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.6, "trigger": "with-previous"}]},
+        "papers-visual": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.5}]},
+        "settled-knowledge": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "down"}, "order": 4, "duration": 0.7}]}
+      }
+    },
+    "14_tonight": {
+      "groups": {
+        "recall-line": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.5}]},
+        "pillow-scene": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.6}]},
+        "action-coffee": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 3, "duration": 0.5}]},
+        "action-light": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 4, "duration": 0.5}]},
+        "action-weekend": {"effects": [{"effect": "entrance_wipe", "effect_options": {"direction": "right"}, "order": 5, "duration": 0.5}]},
+        "closing-statement": {"effects": [{"effect": "entrance_fade", "order": 6, "duration": 0.8, "delay": 0.4}]}
+      }
+    },
+    "15_sources": {
+      "groups": {
+        "sources-intro": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.5}]},
+        "source-1": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.3}]},
+        "source-2": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.3}]},
+        "source-3": {"effects": [{"effect": "entrance_fade", "order": 4, "duration": 0.3}]},
+        "source-4": {"effects": [{"effect": "entrance_fade", "order": 5, "duration": 0.3}]},
+        "source-5": {"effects": [{"effect": "entrance_fade", "order": 6, "duration": 0.3}]},
+        "source-6": {"effects": [{"effect": "entrance_fade", "order": 7, "duration": 0.3}]},
+        "source-7": {"effects": [{"effect": "entrance_fade", "order": 8, "duration": 0.3}]},
+        "source-8": {"effects": [{"effect": "entrance_fade", "order": 9, "duration": 0.3}]},
+        "closing-line": {"effects": [{"effect": "entrance_fade", "order": 10, "duration": 0.5, "delay": 0.3}]}
+      }
+    }
+  }
+}
