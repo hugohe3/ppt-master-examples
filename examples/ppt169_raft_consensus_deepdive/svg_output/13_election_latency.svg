@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="content">
+  <defs>
+    <pattern id="blueprintGrid" data-pptx-pattern="smGrid" data-pptx-fg="#1C3149" data-pptx-bg="#0F1C2B" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="32" height="32" fill="#0F1C2B" />
+      <path d="M32 0H0V32" fill="none" stroke="#1C3149" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#blueprintGrid)" />
+
+  <g id="page-title" data-pptx-bounds="72 64 1136 96">
+    <text x="72" y="92" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">§9.3 PERFORMANCE · LEADER ELECTION</text>
+    <text x="72" y="140" font-size="40" font-weight="bold" fill="#E6EDF5">一点点随机，就把选举从十秒压到几百毫秒</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="72 164 1136 52">
+    <line x1="72" y1="170" x2="1208" y2="170" stroke="#4A7BA7" stroke-width="1" />
+    <text x="72" y="206" fill="#9FB3C8">下面四个数字来自不同的统计口径（中位数 / 最坏 / 平均 / 单次最长），不能互相比较。</text>
+  </g>
+
+  <g id="chart-caption" data-pptx-bounds="72 220 688 28">
+    <text x="72" y="242" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="2" fill="#7A8FA6">TIME WITHOUT LEADER · MILLISECONDS</text>
+  </g>
+
+  <g id="election-latency-chart" data-pptx-replace-with="chart" data-pptx-bounds="72 250 688 350" data-pptx-fallback-sha256="abbc02332b25bad2f4aee44972972d3489a20c97be94690ab237192ecf743110">
+    <metadata type="application/json">
+      {
+        "name": "election-latency-chart",
+        "x": 72,
+        "y": 250,
+        "width": 688,
+        "height": 350,
+        "type": "bar",
+        "grouping": "clustered",
+        "categories": [
+          "随机 5ms · 停机中位数",
+          "随机 50ms · 最坏（1000 次）",
+          "超时 12–24ms · 平均",
+          "超时 12–24ms · 最长一次"
+        ],
+        "series": [
+          {
+            "name": "耗时 (ms)",
+            "values": [
+              287,
+              513,
+              35,
+              152
+            ],
+            "point_colors": [
+              "#4FC9E8",
+              "#4FC9E8",
+              "#E8A54F",
+              "#E8A54F"
+            ]
+          }
+        ],
+        "gap_width": 69,
+        "data_labels": {
+          "show_value": true,
+          "position": "outside_end",
+          "number_format": "0",
+          "font_size": 18,
+          "color": "#E6EDF5",
+          "bold": true
+        },
+        "axes": {
+          "value": {
+            "minimum": 0,
+            "maximum": 600,
+            "major_unit": 150,
+            "major_gridlines": true,
+            "position": "bottom",
+            "label_position": "next_to",
+            "tick_marks": "none",
+            "number_format": "0"
+          },
+          "category": {
+            "position": "left",
+            "tick_marks": "none",
+            "major_gridlines": false
+          }
+        },
+        "axis_font_size": 16,
+        "style": {
+          "colors": [
+            "#4FC9E8"
+          ],
+          "axis_color": "#4A7BA7",
+          "grid_color": "#2A4361",
+          "text_color": "#9FB3C8",
+          "chart_area_fill": "none",
+          "plot_area_fill": "none"
+        }
+      }
+    </metadata>
+    <g id="election-latency-chart-chartArea">
+      <line id="axis-category" x1="320" y1="290" x2="320" y2="560" stroke="#4A7BA7" stroke-width="1.5" />
+      <line id="axis-value" x1="320" y1="560" x2="730" y2="560" stroke="#4A7BA7" stroke-width="1.5" />
+      <line id="grid-150" x1="422" y1="290" x2="422" y2="560" stroke="#2A4361" stroke-width="1" />
+      <line id="grid-300" x1="525" y1="290" x2="525" y2="560" stroke="#2A4361" stroke-width="1" />
+      <line id="grid-450" x1="628" y1="290" x2="628" y2="560" stroke="#2A4361" stroke-width="1" />
+      <line id="grid-600" x1="730" y1="290" x2="730" y2="560" stroke="#2A4361" stroke-width="1" />
+      <text x="320" y="584" font-size="16" fill="#9FB3C8" text-anchor="middle">0</text>
+      <text x="422" y="584" font-size="16" fill="#9FB3C8" text-anchor="middle">150</text>
+      <text x="525" y="584" font-size="16" fill="#9FB3C8" text-anchor="middle">300</text>
+      <text x="628" y="584" font-size="16" fill="#9FB3C8" text-anchor="middle">450</text>
+      <text x="730" y="584" font-size="16" fill="#9FB3C8" text-anchor="middle">600</text>
+      <!-- chart-plot-area: object=election-latency-chart | 320,290,730,560 -->
+      <rect x="320" y="304" width="196" height="40" fill="#4FC9E8" />
+      <text x="526" y="331" font-size="18" font-weight="bold" fill="#E6EDF5">287</text>
+      <text x="310" y="331" font-size="16" fill="#9FB3C8" text-anchor="end">随机 5ms · 停机中位数</text>
+      <rect x="320" y="371" width="351" height="40" fill="#4FC9E8" />
+      <text x="681" y="398" font-size="18" font-weight="bold" fill="#E6EDF5">513</text>
+      <text x="310" y="398" font-size="16" fill="#9FB3C8" text-anchor="end">随机 50ms · 最坏（1000 次）</text>
+      <rect x="320" y="439" width="24" height="40" fill="#E8A54F" />
+      <text x="354" y="466" font-size="18" font-weight="bold" fill="#E6EDF5">35</text>
+      <text x="310" y="466" font-size="16" fill="#9FB3C8" text-anchor="end">超时 12–24ms · 平均</text>
+      <rect x="320" y="506" width="104" height="40" fill="#E8A54F" />
+      <text x="434" y="533" font-size="18" font-weight="bold" fill="#E6EDF5">152</text>
+      <text x="310" y="533" font-size="16" fill="#9FB3C8" text-anchor="end">超时 12–24ms · 最长一次</text>
+    </g>
+  </g>
+
+  <g id="setup-note" data-pptx-bounds="800 250 408 116">
+    <text x="800" y="272" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="1" fill="#7A8FA6">实验条件</text>
+    <text x="800" y="302" font-size="18" fill="#C7D5E4">五台服务器集群，广播时间约 15ms；<tspan x="800" dy="26">每条曲线代表 1000 次试验。</tspan><tspan x="800" dy="26">领导者在心跳间隔内被均匀随机地崩溃。</tspan></text>
+  </g>
+
+  <g id="latency-findings" data-pptx-bounds="800 386 408 116">
+    <text x="800" y="408" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="1" fill="#4FC9E8">随机化的效果</text>
+    <text x="800" y="438" font-size="18" fill="#C7D5E4">不加随机时选举一直超过 10 秒；<tspan x="800" dy="26">加 5ms 随机，中位停机降到 287ms；</tspan><tspan x="800" dy="26">加 50ms 随机，1000 次里的最坏值 513ms。</tspan></text>
+  </g>
+
+  <g id="recommendation" data-pptx-bounds="800 520 408 100">
+    <g id="p13-recommendation" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="foldedCorner" data-pptx-frame="800 520 408 100" fill="#16283C" stroke="#E8A54F" stroke-width="1.5">
+<path d="M 800 520 L 1208 520 L 1208 603.33 L 1191.33 620 L 800 620 Z" stroke="none" />
+<path d="M 1191.33 620 L 1194.67 606.67 L 1208 603.33 Z" fill="#122131" stroke="none" />
+<path d="M 1191.33 620 L 1194.67 606.67 L 1208 603.33 L 1191.33 620 L 800 620 L 800 520 L 1208 520 L 1208 603.33" fill="none" />
+</g>
+    <text x="822" y="552" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="1" fill="#E8A54F">论文建议</text>
+    <text x="822" y="582" font-size="18" fill="#C7D5E4">保守取 150–300ms：更低会违反时序要求，<tspan x="822" dy="26">带来不必要的领导者更替与可用性下降。</tspan></text>
+  </g>
+
+  <g id="page-footnote" data-pptx-bounds="72 640 888 48">
+    <line x1="72" y1="646" x2="956" y2="646" stroke="#2A4361" stroke-width="1" />
+    <text x="72" y="678" font-size="16" fill="#7A8FA6">来源：论文 §9.3 正文与图 16（“150–150ms”那条为 100 次试验）。数值取自正文，非从图上读取。</text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <text x="1208" y="678" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 13</text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A1420" stop-opacity="0.94"/>
+      <stop offset="52%" stop-color="#0A1420" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#0A1420" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B"/>
+  <image id="cover-photo" data-pptx-role="background" href="../images/cover_iso_fit.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#coverScrim)"/>
+
+  <g id="cover-title" data-pptx-bounds="72 180 640 250">
+    <text x="72" y="208" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">UNDERSTANDABLE CONSENSUS</text>
+    <text x="72" y="300" font-size="64" font-weight="bold" fill="#E6EDF5">Raft：为了让人看懂<tspan x="72" dy="78">而设计的共识算法</tspan></text>
+    <rect x="72" y="418" width="120" height="3" fill="#4FC9E8"/>
+  </g>
+
+  <g id="cover-meta" data-pptx-bounds="72 452 640 120">
+    <text x="72" y="492" font-size="32" fill="#9FB3C8">Diego Ongaro · John Ousterhout</text>
+    <text x="72" y="528" font-size="18" fill="#7A8FA6">In Search of an Understandable Consensus Algorithm<tspan x="72" dy="28">Extended Version · Stanford University · 2014-05-20</tspan></text>
+  </g>
+
+  <g id="cover-marker" data-pptx-bounds="72 596 460 56">
+    <path d="M72 604 L72 646 L84 646" fill="none" stroke="#4A7BA7" stroke-width="1.5"/>
+    <path d="M520 604 L532 604 L532 646" fill="none" stroke="#4A7BA7" stroke-width="1.5"/>
+    <text x="100" y="632" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="1" fill="#9FB3C8">技术深读 · 全文 18 页 · 论文精读</text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <line x1="1000" y1="656" x2="1208" y2="656" stroke="#4A7BA7" stroke-width="1"/>
+    <text x="1208" y="682" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 01</text>
+  </g>
+</svg>

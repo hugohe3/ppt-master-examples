@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="content">
+  <defs>
+    <pattern id="blueprintGrid" data-pptx-pattern="smGrid" data-pptx-fg="#1C3149" data-pptx-bg="#0F1C2B" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="32" height="32" fill="#0F1C2B" />
+      <path d="M32 0H0V32" fill="none" stroke="#1C3149" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#blueprintGrid)" />
+
+  <g id="page-title" data-pptx-bounds="72 64 1136 96">
+    <text x="72" y="92" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">§3 WHAT IS WRONG WITH PAXOS</text>
+    <text x="72" y="140" font-size="40" font-weight="bold" fill="#E6EDF5">Paxos 的两个缺陷：难懂，且不适合当实现的地基</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="72 164 1136 64">
+    <line x1="72" y1="170" x2="1208" y2="170" stroke="#4A7BA7" stroke-width="1" />
+    <text x="72" y="212" font-size="28" fill="#9FB3C8">论文说：Paxos 保证了安全性与活性，也支持成员变更，但它有两个显著缺陷。</text>
+  </g>
+
+  <g id="flaw-understandability" data-pptx-bounds="72 248 558 240">
+    <rect x="72" y="248" width="558" height="240" fill="none" stroke="#2A4361" stroke-width="1.5" />
+    <rect x="72" y="248" width="558" height="4" fill="#4FC9E8" />
+    <text x="96" y="286" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">FLAW 01</text>
+    <text x="96" y="328" font-size="28" font-weight="bold" fill="#E6EDF5">异常难懂</text>
+    <text x="96" y="368" fill="#C7D5E4">完整解释以晦涩著称，读懂的人极少，<tspan x="96" dy="36">而且只有花很大力气才读得懂。</tspan><tspan x="96" dy="36">作者自己读了若干简化解释、又设计出</tspan><tspan x="96" dy="36">一套替代协议，前后花了将近一年。</tspan></text>
+  </g>
+
+  <g id="flaw-foundation" data-pptx-bounds="650 248 558 240">
+    <rect x="650" y="248" width="558" height="240" fill="none" stroke="#2A4361" stroke-width="1.5" />
+    <rect x="650" y="248" width="558" height="4" fill="#E8A54F" />
+    <text x="674" y="286" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#E8A54F">FLAW 02</text>
+    <text x="674" y="328" font-size="28" font-weight="bold" fill="#E6EDF5">不是好的实现地基</text>
+    <text x="674" y="368" fill="#C7D5E4">multi-Paxos 没有公认的算法。<tspan x="674" dy="36">Lamport 主要描述单决议 Paxos，多决议</tspan><tspan x="674" dy="36">只给了思路草图，细节大量缺失。</tspan><tspan x="674" dy="36">各家实现彼此不同，也与草图不同。</tspan></text>
+  </g>
+
+  <g id="chubby-quote" data-pptx-bounds="72 494 1136 132">
+    <g id="p03-chubby-quote" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="72 520 1136 104" data-pptx-av-adj1="val 26000" data-pptx-av-adj2="val -72000" fill="#16283C" stroke="#E8A54F" stroke-width="1.5">
+<path d="M 72 520 L 734.67 520 L 935.36 497.12 L 1018.67 520 L 1208 520 L 1208 537.33 L 1208 537.33 L 1208 563.33 L 1208 624 L 1018.67 624 L 734.67 624 L 734.67 624 L 72 624 L 72 563.33 L 72 537.33 L 72 537.33 Z" />
+</g>
+    <text x="104" y="566" fill="#E6EDF5">「Paxos 算法的描述与真实世界系统的需要之间存在显著的鸿沟……<tspan x="104" dy="34">最终的系统将建立在一个未经证明的协议之上。」</tspan></text>
+    <text x="1176" y="608" font-size="18" fill="#E8A54F" text-anchor="end">—— Chubby 实现者，论文 §3 引述</text>
+  </g>
+
+  <g id="page-footnote" data-pptx-bounds="72 640 888 48">
+    <line x1="72" y1="646" x2="956" y2="646" stroke="#2A4361" stroke-width="1" />
+    <text x="72" y="678" font-size="16" fill="#7A8FA6">来源：论文 §3。“将近一年”与 NSDI 2012 非正式调查同出该节。</text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <text x="1208" y="678" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 03</text>
+  </g>
+</svg>

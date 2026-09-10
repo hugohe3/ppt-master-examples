@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="content">
+  <defs>
+    <pattern id="blueprintGrid" data-pptx-pattern="smGrid" data-pptx-fg="#1C3149" data-pptx-bg="#0F1C2B" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="32" height="32" fill="#0F1C2B"/>
+      <path d="M32 0H0V32" fill="none" stroke="#1C3149" stroke-width="1"/>
+    </pattern>
+    <marker id="arrowCyan" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10" fill="none" stroke="#4FC9E8" stroke-width="1.6"/>
+    </marker>
+    <marker id="arrowSteel" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10" fill="none" stroke="#4A7BA7" stroke-width="1.6"/>
+    </marker>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B"/>
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#blueprintGrid)"/>
+
+  <g id="page-title" data-pptx-bounds="72 64 1136 96">
+    <text x="72" y="92" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">§2 REPLICATED STATE MACHINE</text>
+    <text x="72" y="140" font-size="40" font-weight="bold" fill="#E6EDF5">共识算法的工作对象：一份复制日志</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="72 164 1136 64">
+    <line x1="72" y1="170" x2="1208" y2="170" stroke="#4A7BA7" stroke-width="1"/>
+    <text x="72" y="212" font-size="28" fill="#9FB3C8">每台服务器写同一串命令，状态机按同序执行，集群对外像一台高可靠的状态机。</text>
+  </g>
+
+  <g id="rsm-diagram" data-pptx-bounds="72 246 992 350">
+    <g>
+      <rect x="88" y="381" width="140" height="80" rx="8" fill="#16283C" stroke="#4A7BA7" stroke-width="1.5"/>
+      <text x="158" y="415" font-size="20" fill="#E6EDF5" text-anchor="middle">客户端</text>
+      <text x="158" y="443" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="middle">CLIENT</text>
+      <line x1="228" y1="434" x2="322" y2="434" stroke="#4FC9E8" stroke-width="2" marker-end="url(#arrowCyan)"/>
+      <text x="275" y="424" font-size="18" fill="#4FC9E8" text-anchor="middle">命令</text>
+    </g>
+
+    <g>
+      <rect x="268" y="256" width="792" height="110" fill="none" stroke="#2A4361" stroke-width="1.5"/>
+      <text x="282" y="280" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="1" fill="#7A8FA6">SERVER S1</text>
+      <rect x="330" y="296" width="150" height="56" rx="6" fill="#16283C" stroke="#4A7BA7" stroke-width="1.5"/>
+      <text x="405" y="330" font-size="20" fill="#E6EDF5" text-anchor="middle">共识模块</text>
+      <line x1="484" y1="324" x2="508" y2="324" stroke="#4A7BA7" stroke-width="2" marker-end="url(#arrowSteel)"/>
+      <rect x="512" y="306" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="569" y="306" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="626" y="306" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="683" y="306" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="740" y="306" width="52" height="36" fill="none" stroke="#4A7BA7" stroke-width="1.2" stroke-dasharray="4,4"/>
+      <line x1="798" y1="324" x2="820" y2="324" stroke="#4A7BA7" stroke-width="2" marker-end="url(#arrowSteel)"/>
+      <rect x="824" y="296" width="200" height="56" rx="6" fill="#16283C" stroke="#4A7BA7" stroke-width="1.5"/>
+      <text x="924" y="330" font-size="20" fill="#E6EDF5" text-anchor="middle">状态机</text>
+    </g>
+
+    <g>
+      <rect x="268" y="366" width="792" height="110" fill="none" stroke="#2A4361" stroke-width="1.5"/>
+      <text x="282" y="390" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="1" fill="#7A8FA6">SERVER S2</text>
+      <rect x="330" y="406" width="150" height="56" rx="6" fill="#16283C" stroke="#4A7BA7" stroke-width="1.5"/>
+      <text x="405" y="440" font-size="20" fill="#E6EDF5" text-anchor="middle">共识模块</text>
+      <line x1="484" y1="434" x2="508" y2="434" stroke="#4A7BA7" stroke-width="2" marker-end="url(#arrowSteel)"/>
+      <rect x="512" y="416" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="569" y="416" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="626" y="416" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="683" y="416" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="740" y="416" width="52" height="36" fill="none" stroke="#4A7BA7" stroke-width="1.2" stroke-dasharray="4,4"/>
+      <line x1="798" y1="434" x2="820" y2="434" stroke="#4A7BA7" stroke-width="2" marker-end="url(#arrowSteel)"/>
+      <rect x="824" y="406" width="200" height="56" rx="6" fill="#16283C" stroke="#4A7BA7" stroke-width="1.5"/>
+      <text x="924" y="440" font-size="20" fill="#E6EDF5" text-anchor="middle">状态机</text>
+    </g>
+
+    <g>
+      <rect x="268" y="476" width="792" height="110" fill="none" stroke="#2A4361" stroke-width="1.5"/>
+      <text x="282" y="500" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="1" fill="#7A8FA6">SERVER S3</text>
+      <rect x="330" y="516" width="150" height="56" rx="6" fill="#16283C" stroke="#4A7BA7" stroke-width="1.5"/>
+      <text x="405" y="550" font-size="20" fill="#E6EDF5" text-anchor="middle">共识模块</text>
+      <line x1="484" y1="544" x2="508" y2="544" stroke="#4A7BA7" stroke-width="2" marker-end="url(#arrowSteel)"/>
+      <rect x="512" y="526" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="569" y="526" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="626" y="526" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="683" y="526" width="52" height="36" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2"/>
+      <rect x="740" y="526" width="52" height="36" fill="none" stroke="#4A7BA7" stroke-width="1.2" stroke-dasharray="4,4"/>
+      <line x1="798" y1="544" x2="820" y2="544" stroke="#4A7BA7" stroke-width="2" marker-end="url(#arrowSteel)"/>
+      <rect x="824" y="516" width="200" height="56" rx="6" fill="#16283C" stroke="#4A7BA7" stroke-width="1.5"/>
+      <text x="924" y="550" font-size="20" fill="#E6EDF5" text-anchor="middle">状态机</text>
+    </g>
+
+    <g id="p02-exchange-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upDownArrow" data-pptx-frame="385 352 40 54" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.5">
+<path d="M 385 372 L 405 352 L 425 372 L 415 372 L 415 386 L 425 386 L 405 406 L 385 386 L 395 386 L 395 372 Z"/>
+</g>
+    <g id="p02-exchange-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upDownArrow" data-pptx-frame="385 462 40 54" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.5">
+<path d="M 385 482 L 405 462 L 425 482 L 415 482 L 415 496 L 425 496 L 405 516 L 385 496 L 395 496 L 395 482 Z"/>
+</g>
+    <text x="440" y="386" font-size="18" fill="#4FC9E8">共识模块之间交换命令，保证三份日志内容相同</text>
+  </g>
+
+  <g id="rsm-hardware" data-pptx-bounds="1080 246 148 130">
+    <image href="../images/iso_rack_fit.png" x="1082" y="250" width="140" height="117" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="page-footnote" data-pptx-bounds="72 640 888 48">
+    <line x1="72" y1="646" x2="956" y2="646" stroke="#2A4361" stroke-width="1"/>
+    <text x="72" y="678" font-size="16" fill="#7A8FA6">来源：Ongaro &amp; Ousterhout, In Search of an Understandable Consensus Algorithm (Extended Version), §2 与图 1</text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <text x="1208" y="678" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 02</text>
+  </g>
+</svg>

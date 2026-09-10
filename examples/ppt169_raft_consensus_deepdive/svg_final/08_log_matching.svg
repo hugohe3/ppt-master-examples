@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="content">
+  <defs>
+    <pattern id="blueprintGrid" data-pptx-pattern="smGrid" data-pptx-fg="#1C3149" data-pptx-bg="#0F1C2B" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="32" height="32" fill="#0F1C2B" />
+      <path d="M32 0H0V32" fill="none" stroke="#1C3149" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#blueprintGrid)" />
+
+  <g id="page-title" data-pptx-bounds="72 64 1136 96">
+    <text x="72" y="92" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">§5.3 LOG MATCHING · FIGURE 7</text>
+    <text x="72" y="140" font-size="40" font-weight="bold" fill="#E6EDF5">日志会怎样对不上，以及领导者怎样把它掰回来</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="72 164 1136 52">
+    <line x1="72" y1="170" x2="1208" y2="170" stroke="#4A7BA7" stroke-width="1" />
+    <text x="72" y="206" fill="#9FB3C8">日志匹配性质：索引与任期相同的条目，命令相同，且此前的所有条目也完全相同。</text>
+  </g>
+
+  <g id="log-strip" data-pptx-bounds="72 226 800 70">
+    <text x="72" y="278" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#4FC9E8">S1</text>
+    <text x="112" y="278" font-size="18" font-weight="bold" fill="#4FC9E8">新领导者</text>
+    <text x="276" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">1</text>
+    <rect x="250" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="333" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">2</text>
+    <rect x="307" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="390" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">3</text>
+    <rect x="364" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="447" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">4</text>
+    <rect x="421" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="504" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">5</text>
+    <rect x="478" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="561" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">6</text>
+    <rect x="535" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="618" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">7</text>
+    <rect x="592" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="675" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">8</text>
+    <rect x="649" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="732" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">9</text>
+    <rect x="706" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="789" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">10</text>
+    <rect x="763" y="252" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="846" y="244" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">11</text>
+    <rect x="820" y="252" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+  </g>
+
+  <g id="conflict-rows" data-pptx-bounds="72 306 800 172">
+    <text x="72" y="332" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="1" fill="#E8A54F">a – b</text>
+    <text x="72" y="352" font-size="16" fill="#9FB3C8">缺少领导者有的条目</text>
+    <rect x="250" y="312" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="307" y="312" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="364" y="312" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="421" y="312" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="478" y="312" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="535" y="312" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="592" y="312" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+    <rect x="649" y="312" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+    <rect x="706" y="312" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+    <rect x="763" y="312" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+    <rect x="820" y="312" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+    <text x="72" y="392" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="1" fill="#E8A54F">c – d</text>
+    <text x="72" y="412" font-size="16" fill="#9FB3C8">多出未提交的条目</text>
+    <rect x="250" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="307" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="364" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="421" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="478" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="535" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="592" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="649" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="706" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="763" y="372" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="820" y="372" width="52" height="40" fill="none" stroke="#E8A54F" stroke-width="2" />
+    <text x="72" y="452" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="1" fill="#E8A54F">e – f</text>
+    <text x="72" y="472" font-size="16" fill="#9FB3C8">既有缺失又有冲突</text>
+    <rect x="250" y="432" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="307" y="432" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="364" y="432" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="421" y="432" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="478" y="432" width="52" height="40" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <rect x="535" y="432" width="52" height="40" fill="none" stroke="#E8A54F" stroke-width="2" />
+    <rect x="592" y="432" width="52" height="40" fill="none" stroke="#E8A54F" stroke-width="2" />
+    <rect x="649" y="432" width="52" height="40" fill="none" stroke="#E8A54F" stroke-width="2" />
+    <rect x="706" y="432" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+    <rect x="763" y="432" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+    <rect x="820" y="432" width="52" height="40" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+  </g>
+
+  <g id="nextindex-note" data-pptx-bounds="890 226 318 252">
+    <line x1="890" y1="232" x2="1208" y2="232" stroke="#4A7BA7" stroke-width="1" />
+    <text x="890" y="262" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="1" fill="#4FC9E8">nextIndex</text>
+    <text font-size="18" fill="#C7D5E4" x="890" y="296">领导者上任时，把每个跟随者的</text><text font-size="18" fill="#C7D5E4" x="890" y="322">nextIndex 初始化为「自己最后</text><text font-size="18" fill="#C7D5E4" x="890" y="348">一条日志的索引 + 1」；论文图 7</text><text font-size="18" fill="#C7D5E4" x="890" y="374">中这个值是 11。</text><rect x="890" y="386" width="20" height="14" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1.2" />
+    <text x="920" y="398" font-size="16" fill="#9FB3C8">与领导者匹配</text>
+    <rect x="890" y="414" width="20" height="14" fill="none" stroke="#E8A54F" stroke-width="2" />
+    <text x="920" y="426" font-size="16" fill="#9FB3C8">冲突（任期不同）</text>
+    <rect x="890" y="442" width="20" height="14" fill="none" stroke="#2A4361" stroke-width="1" stroke-dasharray="3,4" />
+    <text x="920" y="454" font-size="16" fill="#9FB3C8">缺失</text>
+  </g>
+
+  <g id="repair-rule" data-pptx-bounds="72 492 1136 82">
+    <text fill="#C7D5E4" x="72" y="522">一致性检查失败后，领导者递减 nextIndex 重试；到达匹配点后 AppendEntries 成功，</text><text fill="#C7D5E4" x="72" y="556">跟随者的冲突条目被删除、领导者的条目被追加。领导者永远不覆盖或删除自己的日志。</text></g>
+
+  <g id="repair-optimization" data-pptx-bounds="72 586 1136 44">
+    <rect x="72" y="586" width="4" height="44" fill="#E8A54F" />
+    <text x="94" y="616" font-size="18" fill="#7A8FA6">可选优化：拒绝时带上冲突条目的任期与该任期的首个索引，每个冲突任期只需一次 RPC；论文认为通常不必要。</text>
+  </g>
+
+  <g id="page-footnote" data-pptx-bounds="72 640 888 48">
+    <line x1="72" y1="646" x2="956" y2="646" stroke="#2A4361" stroke-width="1" />
+    <text x="72" y="678" font-size="16" fill="#7A8FA6">来源：论文 §5.3 与图 7。三行为按图 7 说明整理的示意，论文原图给出 a–f 六种场景。</text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <text x="1208" y="678" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 08</text>
+  </g>
+</svg>

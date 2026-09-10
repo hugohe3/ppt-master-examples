@@ -1,0 +1,6 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,cover_iso_fit.jpg,1600,893,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,108.4,Wide landscape
+2,iso_logstack_fit.png,400,455,0.88,0.88,,native,PNG,True,1,,bitmap,True,True,210.2,Near square
+3,iso_rack_fit.png,520,433,1.20,1.20,,native,PNG,True,1,,bitmap,True,True,192.1,Standard landscape
+4,iso_shield_fit.png,320,470,0.68,0.68,,native,PNG,True,1,,bitmap,True,True,154.6,Portrait
+5,iso_snapshot_fit.png,356,460,0.77,0.77,,native,PNG,True,1,,bitmap,True,True,191.8,Portrait

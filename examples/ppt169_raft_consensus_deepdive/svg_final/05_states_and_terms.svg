@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="content">
+  <defs>
+    <pattern id="blueprintGrid" data-pptx-pattern="smGrid" data-pptx-fg="#1C3149" data-pptx-bg="#0F1C2B" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="32" height="32" fill="#0F1C2B" />
+      <path d="M32 0H0V32" fill="none" stroke="#1C3149" stroke-width="1" />
+    </pattern>
+    <marker id="arrowCyan" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10" fill="none" stroke="#4FC9E8" stroke-width="1.6" />
+    </marker>
+    <marker id="arrowSteelP5" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10" fill="none" stroke="#4A7BA7" stroke-width="1.6" />
+    </marker>
+    <marker id="arrowAmber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10" fill="none" stroke="#E8A54F" stroke-width="1.6" />
+    </marker>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#blueprintGrid)" />
+
+  <g id="page-title" data-pptx-bounds="72 64 1136 96">
+    <text x="72" y="92" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">§5.1 STATES AND TERMS</text>
+    <text x="72" y="140" font-size="40" font-weight="bold" fill="#E6EDF5">三种服务器状态，一条被切成任期的时间轴</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="72 164 1136 64">
+    <line x1="72" y1="170" x2="1208" y2="170" stroke="#4A7BA7" stroke-width="1" />
+    <text x="72" y="212" font-size="28" fill="#9FB3C8">正常运行时恰好一个领导者，其余都是跟随者；任期号则充当整个集群的逻辑时钟。</text>
+  </g>
+
+  <g id="state-triad" data-pptx-bounds="104 244 472 324">
+    <circle cx="160" cy="300" r="52" fill="#16283C" stroke="#4A7BA7" stroke-width="2" />
+    <text x="160" y="294" font-size="20" fill="#E6EDF5" text-anchor="middle">跟随者</text>
+    <text x="160" y="318" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">FOLLOWER</text>
+    <circle cx="520" cy="300" r="52" fill="#16283C" stroke="#4FC9E8" stroke-width="2.5" />
+    <text x="520" y="294" font-size="20" fill="#4FC9E8" text-anchor="middle">领导者</text>
+    <text x="520" y="318" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">LEADER</text>
+    <circle cx="340" cy="460" r="52" fill="#16283C" stroke="#E8A54F" stroke-width="2" />
+    <text x="340" y="454" font-size="20" fill="#E8A54F" text-anchor="middle">候选人</text>
+    <text x="340" y="478" font-family="Consolas, Microsoft YaHei" font-size="14" fill="#7A8FA6" text-anchor="middle">CANDIDATE</text>
+
+    <line x1="191.6" y1="342.7" x2="293.8" y2="433.7" stroke="#E8A54F" stroke-width="2" marker-end="url(#arrowAmber)" />
+    <text x="232" y="402" font-size="16" fill="#E8A54F" text-anchor="end">超时</text>
+    <line x1="308.4" y1="417.3" x2="206.2" y2="326.3" stroke="#4A7BA7" stroke-width="2" marker-end="url(#arrowSteelP5)" />
+    <text x="268" y="362" font-size="16" fill="#9FB3C8">退位</text>
+    <line x1="378.9" y1="425.5" x2="481.1" y2="334.5" stroke="#4FC9E8" stroke-width="2" marker-end="url(#arrowCyan)" />
+    <text x="444" y="386" font-size="16" fill="#4FC9E8">多数票</text>
+    <line x1="468" y1="300" x2="212" y2="300" stroke="#4A7BA7" stroke-width="2" marker-end="url(#arrowSteelP5)" />
+    <text x="340" y="288" font-size="16" fill="#9FB3C8" text-anchor="middle">发现更高任期</text>
+    <g id="p05-recandidate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="circularArrow" data-pptx-frame="316 520 48 44" fill="#E8A54F" stroke="none">
+<path d="M 318.75 542 A 21.25 19.25 0 0 1 360.21 536.05 L 362.75 536.05 L 358.5 542 L 351.75 536.05 L 354.2 536.05 A 15.75 13.75 0 0 0 324.25 542 Z" />
+</g>
+    <text x="376" y="552" font-size="16" fill="#E8A54F">再选</text>
+  </g>
+
+  <g id="term-timeline" data-pptx-bounds="700 248 508 200">
+    <text x="700" y="284" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">TERM TIMELINE</text>
+    <text x="776" y="344" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#9FB3C8" text-anchor="middle">TERM 1</text>
+    <text x="911" y="344" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#9FB3C8" text-anchor="middle">TERM 2</text>
+    <text x="1016" y="344" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#E8A54F" text-anchor="middle">TERM 3</text>
+    <text x="1134" y="344" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#9FB3C8" text-anchor="middle">TERM 4</text>
+    <rect x="716" y="352" width="30" height="48" fill="#E8A54F" />
+    <rect x="746" y="352" width="90" height="48" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1" />
+    <rect x="836" y="352" width="30" height="48" fill="#E8A54F" />
+    <rect x="866" y="352" width="120" height="48" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1" />
+    <rect x="986" y="352" width="60" height="48" fill="#E8A54F" fill-opacity="0.45" stroke="#E8A54F" stroke-width="1" stroke-dasharray="4,4" />
+    <rect x="1046" y="352" width="30" height="48" fill="#E8A54F" />
+    <rect x="1076" y="352" width="116" height="48" fill="#1E4E63" stroke="#4FC9E8" stroke-width="1" />
+    <line x1="716" y1="412" x2="1192" y2="412" stroke="#4A7BA7" stroke-width="1" />
+    <text x="716" y="440" font-size="16" fill="#E8A54F">选举</text>
+    <text x="800" y="440" font-size="16" fill="#4FC9E8">领导者在任</text>
+    <text x="1016" y="440" font-size="16" fill="#E8A54F" text-anchor="middle">选举分裂，无领导者</text>
+  </g>
+
+  <g id="term-explain" data-pptx-bounds="700 470 508 156">
+    <text fill="#C7D5E4" x="700" y="500">任期用连续整数编号，每个任期以一次</text><text fill="#C7D5E4" x="700" y="536">选举开始；成功则该领导者管到任期末，</text><text fill="#C7D5E4" x="700" y="572">选举分裂则该任期结束，没有领导者。</text><text fill="#C7D5E4" x="700" y="608">任期号是逻辑时钟，用来发现过期信息。</text></g>
+
+  <g id="page-footnote" data-pptx-bounds="72 640 888 48">
+    <line x1="72" y1="646" x2="956" y2="646" stroke="#2A4361" stroke-width="1" />
+    <text x="72" y="678" font-size="16" fill="#7A8FA6">来源：论文 §5.1，图 4（服务器状态转换）与图 5（任期）。</text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <text x="1208" y="678" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 05</text>
+  </g>
+</svg>

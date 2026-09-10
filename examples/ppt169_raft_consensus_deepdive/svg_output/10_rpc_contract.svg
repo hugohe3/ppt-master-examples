@@ -1,0 +1,283 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="content">
+  <defs>
+    <pattern id="blueprintGrid" data-pptx-pattern="smGrid" data-pptx-fg="#1C3149" data-pptx-bg="#0F1C2B" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="32" height="32" fill="#0F1C2B" />
+      <path d="M32 0H0V32" fill="none" stroke="#1C3149" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#blueprintGrid)" />
+
+  <g id="page-title" data-pptx-bounds="72 64 1136 96">
+    <text x="72" y="92" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">§5 RPC CONTRACT · FIGURE 2</text>
+    <text x="72" y="140" font-size="40" font-weight="bold" fill="#E6EDF5">整个基本算法只有两种 RPC</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="72 164 1136 52">
+    <line x1="72" y1="170" x2="1208" y2="170" stroke="#4A7BA7" stroke-width="1" />
+    <text x="72" y="206" fill="#9FB3C8">RequestVote 由候选人发起，AppendEntries 由领导者发起；第三种 InstallSnapshot 只用于传快照。</text>
+  </g>
+
+  <g id="table-caption" data-pptx-bounds="72 220 628 28">
+    <text x="72" y="242" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="2" fill="#7A8FA6">TWO RPCS AT A GLANCE</text>
+  </g>
+
+  <g id="rpc-contract-table" data-pptx-replace-with="table" data-pptx-bounds="72 248 628 294" data-pptx-fallback-sha256="248ded56bae9d4b9082f3c2a43bd707fdba6fe96f2098f2ee94cb1c26bf00895">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "name": "rpc-contract-table",
+        "x": 72,
+        "y": 248,
+        "width": 628,
+        "height": 294,
+        "column_widths": [
+          160,
+          234,
+          234
+        ],
+        "row_heights": [
+          44,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "header_rows": 1,
+        "style": {
+          "font_size": 16,
+          "header_font_size": 16,
+          "band_row": false,
+          "header_fill": "#1E3A56",
+          "header_text": "#4FC9E8",
+          "body_fill": "#16283C",
+          "body_text": "#C7D5E4"
+        },
+        "defaults": {
+          "cell": {
+            "align": "l",
+            "valign": "middle",
+            "padding_left": 22,
+            "padding_right": 8,
+            "padding_top": 6,
+            "padding_bottom": 6,
+            "borders": {
+              "top": {
+                "style": "solid",
+                "color": "#2A4361",
+                "width": 1
+              },
+              "bottom": {
+                "style": "none"
+              },
+              "left": {
+                "style": "none"
+              },
+              "right": {
+                "style": "none"
+              }
+            }
+          }
+        },
+        "columns": [
+          {
+            "text": "对照项",
+            "borders": {
+              "top": {
+                "style": "none"
+              },
+              "bottom": {
+                "style": "none"
+              },
+              "left": {
+                "style": "none"
+              },
+              "right": {
+                "style": "none"
+              }
+            },
+            "bold": true,
+            "fill": "#1E3A56",
+            "color": "#4FC9E8"
+          },
+          {
+            "text": "RequestVote",
+            "borders": {
+              "top": {
+                "style": "none"
+              },
+              "bottom": {
+                "style": "none"
+              },
+              "left": {
+                "style": "none"
+              },
+              "right": {
+                "style": "none"
+              }
+            },
+            "bold": true,
+            "fill": "#1E3A56",
+            "color": "#4FC9E8"
+          },
+          {
+            "text": "AppendEntries",
+            "borders": {
+              "top": {
+                "style": "none"
+              },
+              "bottom": {
+                "style": "none"
+              },
+              "left": {
+                "style": "none"
+              },
+              "right": {
+                "style": "none"
+              }
+            },
+            "bold": true,
+            "fill": "#1E3A56",
+            "color": "#4FC9E8"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "text": "发起者",
+              "bold": true,
+              "color": "#9FB3C8",
+              "fill": "#16283C"
+            },
+            {
+              "text": "候选人",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            },
+            {
+              "text": "领导者",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            }
+          ],
+          [
+            {
+              "text": "作用",
+              "bold": true,
+              "color": "#9FB3C8",
+              "fill": "#16283C"
+            },
+            {
+              "text": "拉票",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            },
+            {
+              "text": "复制日志 / 心跳",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            }
+          ],
+          [
+            {
+              "text": "返回",
+              "bold": true,
+              "color": "#9FB3C8",
+              "fill": "#16283C"
+            },
+            {
+              "text": "term, voteGranted",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            },
+            {
+              "text": "term, success",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            }
+          ],
+          [
+            {
+              "text": "拒绝条件",
+              "bold": true,
+              "color": "#9FB3C8",
+              "fill": "#16283C"
+            },
+            {
+              "text": "任期过期或日志不够新",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            },
+            {
+              "text": "任期过期或 prevLog 不符",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            }
+          ],
+          [
+            {
+              "text": "论文小节",
+              "bold": true,
+              "color": "#9FB3C8",
+              "fill": "#16283C"
+            },
+            {
+              "text": "§5.2、§5.4",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            },
+            {
+              "text": "§5.3、§5.2",
+              "fill": "#16283C",
+              "color": "#C7D5E4"
+            }
+          ]
+        ]
+      }
+    </metadata>
+    <rect x="72" y="248" width="628" height="44" fill="#1E3A56" />
+    <rect x="72" y="292" width="628" height="250" fill="#16283C" />
+    <text x="94" y="278" font-size="16" font-weight="bold" fill="#4FC9E8">对照项</text>
+    <text x="254" y="278" font-size="16" font-weight="bold" fill="#4FC9E8">RequestVote</text>
+    <text x="488" y="278" font-size="16" font-weight="bold" fill="#4FC9E8">AppendEntries</text>
+    <line id="rule-0" x1="72" y1="292" x2="700" y2="292" stroke="#2A4361" stroke-width="1" />
+    <text x="94" y="324" font-size="16" font-weight="bold" fill="#9FB3C8">发起者</text>
+    <text x="254" y="324" font-size="16" fill="#C7D5E4">候选人</text>
+    <text x="488" y="324" font-size="16" fill="#C7D5E4">领导者</text>
+    <line id="rule-1" x1="72" y1="342" x2="700" y2="342" stroke="#2A4361" stroke-width="1" />
+    <text x="94" y="374" font-size="16" font-weight="bold" fill="#9FB3C8">作用</text>
+    <text x="254" y="374" font-size="16" fill="#C7D5E4">拉票</text>
+    <text x="488" y="374" font-size="16" fill="#C7D5E4">复制日志 / 心跳</text>
+    <line id="rule-2" x1="72" y1="392" x2="700" y2="392" stroke="#2A4361" stroke-width="1" />
+    <text x="94" y="424" font-size="16" font-weight="bold" fill="#9FB3C8">返回</text>
+    <text x="254" y="424" font-size="16" fill="#C7D5E4">term, voteGranted</text>
+    <text x="488" y="424" font-size="16" fill="#C7D5E4">term, success</text>
+    <line id="rule-3" x1="72" y1="442" x2="700" y2="442" stroke="#2A4361" stroke-width="1" />
+    <text x="94" y="474" font-size="16" font-weight="bold" fill="#9FB3C8">拒绝条件</text>
+    <text x="254" y="474" font-size="16" fill="#C7D5E4">任期过期或日志不够新</text>
+    <text x="488" y="474" font-size="16" fill="#C7D5E4">任期过期或 prevLog 不符</text>
+    <line id="rule-4" x1="72" y1="492" x2="700" y2="492" stroke="#2A4361" stroke-width="1" />
+    <text x="94" y="524" font-size="16" font-weight="bold" fill="#9FB3C8">论文小节</text>
+    <text x="254" y="524" font-size="16" fill="#C7D5E4">§5.2、§5.4</text>
+    <text x="488" y="524" font-size="16" fill="#C7D5E4">§5.3、§5.2</text>
+  </g>
+
+  <g id="append-entries-code" data-pptx-bounds="730 220 478 368">
+    <rect x="730" y="220" width="478" height="368" fill="#16283C" stroke="#2A4361" stroke-width="1.5" />
+    <rect x="730" y="220" width="4" height="368" fill="#4FC9E8" />
+    <text x="754" y="250" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="1" fill="#7A8FA6">APPENDENTRIES · RECEIVER IMPLEMENTATION</text>
+    <text x="754" y="288" font-family="Consolas, Microsoft YaHei" font-size="18" fill="#E6EDF5">1. Reply false if term &lt; currentTerm<tspan x="754" dy="26">2. Reply false if log doesn't contain an</tspan><tspan x="754" dy="26">   entry at prevLogIndex whose term</tspan><tspan x="754" dy="26">   matches prevLogTerm</tspan><tspan x="754" dy="26">3. If an existing entry conflicts with a</tspan><tspan x="754" dy="26">   new one (same index but different</tspan><tspan x="754" dy="26">   terms), delete it and all that follow</tspan><tspan x="754" dy="26">4. Append any new entries not in the log</tspan><tspan x="754" dy="26">5. If leaderCommit &gt; commitIndex, set</tspan><tspan x="754" dy="26">   commitIndex = min(leaderCommit,</tspan><tspan x="754" dy="26">   index of last new entry)</tspan></text>
+  </g>
+
+  <g id="page-footnote" data-pptx-bounds="72 560 628 128">
+    <line x1="72" y1="566" x2="700" y2="566" stroke="#2A4361" stroke-width="1" />
+    <text x="72" y="596" font-size="18" fill="#9FB3C8">服务器并行发出 RPC，超时未收到响应就重试；<tspan x="72" dy="26">Raft 的 RPC 是幂等的，重复收到不会造成损害。</tspan></text>
+    <text x="72" y="678" font-size="16" fill="#7A8FA6">来源：论文图 2、§5.1、§5.5 与 §7。</text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <text x="1208" y="678" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 10</text>
+  </g>
+</svg>

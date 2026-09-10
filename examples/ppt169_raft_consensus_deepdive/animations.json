@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "slides": {
+    "02_replicated_state_machine": {
+      "groups": {
+        "rsm-diagram": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.6, "trigger": "after-previous" } ] }
+      }
+    },
+    "03_why_paxos_is_hard": {
+      "groups": {
+        "chubby-quote": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.6, "trigger": "after-previous", "delay": 0.3 } ] }
+      }
+    },
+    "04_designing_for_understandability": {
+      "groups": {
+        "consensus-decomposition": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.7, "trigger": "after-previous" } ] }
+      }
+    },
+    "05_states_and_terms": {
+      "groups": {
+        "state-triad": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.6, "trigger": "after-previous" } ] },
+        "term-timeline": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "duration": 0.7, "trigger": "after-previous" } ] }
+      }
+    },
+    "06_leader_election": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "05_states_and_terms", "pairs": { "raft-states": { "from": "state-triad", "to": "state-strip" } } },
+      "groups": {
+        "election-steps": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5, "trigger": "after-previous" } ] },
+        "election-outcomes": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5, "trigger": "after-previous" } ] },
+        "randomized-timeout": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5, "trigger": "after-previous" } ] }
+      }
+    },
+    "07_log_replication": {
+      "groups": {
+        "log-index-axis": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4, "trigger": "after-previous" } ] },
+        "log-strip": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "duration": 0.6, "trigger": "after-previous" } ] },
+        "follower-logs": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "duration": 0.8, "trigger": "after-previous" } ] },
+        "commit-rule": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.5, "trigger": "after-previous", "delay": 0.2 } ] }
+      }
+    },
+    "08_log_matching": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "07_log_replication", "pairs": { "leader-log": { "from": "log-strip", "to": "log-strip" } } },
+      "groups": {
+        "conflict-rows": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.7, "trigger": "after-previous" } ] },
+        "repair-rule": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5, "trigger": "after-previous", "delay": 0.2 } ] }
+      }
+    },
+    "10_rpc_contract": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "09_safety", "pairs": { "figure2-panel": { "from": "commit-rule-code", "to": "append-entries-code" } } }
+    },
+    "11_membership_and_snapshots": {
+      "groups": {
+        "config-change": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.8, "trigger": "after-previous" } ] }
+      }
+    },
+    "12_understandability_study": {
+      "groups": {
+        "headline-stat": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.6, "trigger": "after-previous" } ] }
+      }
+    },
+    "13_election_latency": {
+      "groups": {
+        "recommendation": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.6, "trigger": "after-previous", "delay": 0.3 } ] }
+      }
+    },
+    "14_tradeoffs_and_reading": {
+      "groups": {
+        "tradeoff-1": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4, "trigger": "after-previous" } ] },
+        "tradeoff-2": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.4, "trigger": "after-previous" } ] },
+        "tradeoff-3": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4, "trigger": "after-previous" } ] },
+        "tradeoff-4": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4, "trigger": "after-previous" } ] },
+        "further-reading": { "effects": [ { "effect": "entrance_fade", "order": 5, "duration": 0.5, "trigger": "after-previous", "delay": 0.2 } ] }
+      }
+    }
+  }
+}

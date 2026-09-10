@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="ending">
+  <defs>
+    <pattern id="blueprintGrid" data-pptx-pattern="smGrid" data-pptx-fg="#1C3149" data-pptx-bg="#0F1C2B" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="32" height="32" fill="#0F1C2B" />
+      <path d="M32 0H0V32" fill="none" stroke="#1C3149" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#blueprintGrid)" />
+
+  <g id="page-title" data-pptx-bounds="72 64 1136 96">
+    <text x="72" y="92" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">§8 · §9.3 · §10 TRADE-OFFS</text>
+    <text x="72" y="140" font-size="40" font-weight="bold" fill="#E6EDF5">Raft 换来的是什么，又付出了什么</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="72 164 1136 52">
+    <line x1="72" y1="170" x2="1208" y2="170" stroke="#4A7BA7" stroke-width="1" />
+    <text x="72" y="206" fill="#9FB3C8">论文结论：可理解性与正确性、效率同样重要——开发者不理解算法，就保不住它的性质。</text>
+  </g>
+
+  <g id="tradeoff-1" data-pptx-bounds="72 246 568 164">
+    <g id="p14-tradeoff-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="72 246 568 164" fill="none" stroke="#2A4361" stroke-width="1.5">
+<path d="M 72 246 L 612.67 246 L 640 273.33 L 640 410 L 72 410 Z" /></g>
+    <text x="96" y="276" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="2" fill="#4FC9E8">TRADE-OFF 01</text>
+    <text x="96" y="310" font-weight="bold" fill="#E6EDF5">强领导者是简化的来源，也是上限</text>
+    <text x="96" y="346" font-size="18" fill="#C7D5E4">所有客户端请求都经过领导者。EPaxos 那样<tspan x="96" dy="26">的无领导者方案在广域网下延迟更低、负载更</tspan><tspan x="96" dy="26">均衡，代价是给 Paxos 增加显著的复杂性。</tspan></text>
+  </g>
+
+  <g id="tradeoff-2" data-pptx-bounds="668 246 540 164">
+    <g id="p14-tradeoff-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="668 246 540 164" fill="none" stroke="#2A4361" stroke-width="1.5">
+<path d="M 668 246 L 1180.67 246 L 1208 273.33 L 1208 410 L 668 410 Z" /></g>
+    <text x="692" y="276" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="2" fill="#4FC9E8">TRADE-OFF 02</text>
+    <text x="692" y="310" font-weight="bold" fill="#E6EDF5">安全性不依赖时序，可用性依赖</text>
+    <text x="692" y="346" font-size="18" fill="#C7D5E4">必须满足 broadcastTime ≪ electionTimeout<tspan x="692" dy="26">≪ MTBF。领导者崩溃时，系统大约会有一个</tspan><tspan x="692" dy="26">选举超时那么长的时间不可用。</tspan></text>
+  </g>
+
+  <g id="tradeoff-3" data-pptx-bounds="72 426 568 164">
+    <g id="p14-tradeoff-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="72 426 568 164" fill="none" stroke="#2A4361" stroke-width="1.5">
+<path d="M 72 426 L 612.67 426 L 640 453.33 L 640 590 L 72 590 Z" /></g>
+    <text x="96" y="456" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="2" fill="#4FC9E8">TRADE-OFF 03</text>
+    <text x="96" y="490" font-weight="bold" fill="#E6EDF5">线性一致的只读操作不是免费的</text>
+    <text x="96" y="526" font-size="18" fill="#C7D5E4">领导者要在任期开始提交一条空的 no-op 条目，<tspan x="96" dy="26">并在响应只读请求前与多数交换心跳。改用租约</tspan><tspan x="96" dy="26">就把安全性押在了时钟偏移上。</tspan></text>
+  </g>
+
+  <g id="tradeoff-4" data-pptx-bounds="668 426 540 164">
+    <g id="p14-tradeoff-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="668 426 540 164" fill="none" stroke="#2A4361" stroke-width="1.5">
+<path d="M 668 426 L 1180.67 426 L 1208 453.33 L 1208 590 L 668 590 Z" /></g>
+    <text x="692" y="456" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="2" fill="#4FC9E8">TRADE-OFF 04</text>
+    <text x="692" y="490" font-weight="bold" fill="#E6EDF5">客户端必须配合去重</text>
+    <text x="692" y="526" font-size="18" fill="#C7D5E4">命令可能被执行两次：客户端要为每条命令分配<tspan x="692" dy="26">唯一序列号，状态机记住每个客户端最近处理过</tspan><tspan x="692" dy="26">的序列号与响应，重复请求直接返回旧响应。</tspan></text>
+  </g>
+
+  <g id="further-reading" data-pptx-bounds="72 604 888 84">
+    <line x1="72" y1="610" x2="960" y2="610" stroke="#2A4361" stroke-width="1"/>
+    <text x="72" y="640" font-size="20" fill="#C7D5E4"><tspan x="72" dy="0">论文 PDF（扩展版）：<a href="https://raft.github.io/raft.pdf"><tspan fill="#4FC9E8" text-decoration="underline">raft.github.io/raft.pdf</tspan></a></tspan><tspan x="72" dy="30">延伸阅读（非论文来源）：官方站与交互式动画演示 <a href="https://raft.github.io"><tspan fill="#4FC9E8" text-decoration="underline">raft.github.io</tspan></a></tspan></text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <text x="1208" y="678" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 14</text>
+  </g>
+</svg>

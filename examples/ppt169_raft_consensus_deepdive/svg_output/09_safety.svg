@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, Microsoft YaHei" font-size="24" data-pptx-page-role="content">
+  <defs>
+    <pattern id="blueprintGrid" data-pptx-pattern="smGrid" data-pptx-fg="#1C3149" data-pptx-bg="#0F1C2B" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="32" height="32" fill="#0F1C2B" />
+      <path d="M32 0H0V32" fill="none" stroke="#1C3149" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0F1C2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#blueprintGrid)" />
+
+  <g id="page-title" data-pptx-bounds="72 64 1136 96">
+    <text x="72" y="92" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="2" fill="#4FC9E8">§5.4 SAFETY</text>
+    <text x="72" y="140" font-size="40" font-weight="bold" fill="#E6EDF5">安全性靠两条限制：谁能当选，和什么时候算提交</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="72 164 1136 52">
+    <line x1="72" y1="170" x2="1208" y2="170" stroke="#4A7BA7" stroke-width="1" />
+    <text x="72" y="206" fill="#9FB3C8">只有选举和复制还不够：不加限制，新领导者可能覆盖掉已经提交的条目。</text>
+  </g>
+
+  <g id="election-restriction" data-pptx-bounds="72 248 568 176">
+    <text x="72" y="276" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="1" fill="#4FC9E8">§5.4.1　选举限制</text>
+    <text x="72" y="316" font-size="22" fill="#C7D5E4">候选人必须联系多数服务器才能当选，<tspan x="72" dy="32">因此每个已提交条目至少存在于其中一台上。</tspan><tspan x="72" dy="32">RequestVote 带上候选人日志的信息，</tspan><tspan x="72" dy="32">投票者若发现自己的日志更新，就拒绝投票。</tspan></text>
+  </g>
+
+  <g id="up-to-date-def" data-pptx-bounds="72 448 328 164">
+    <rect x="72" y="448" width="328" height="164" fill="#16283C" stroke="#2A4361" stroke-width="1.5" />
+    <text x="94" y="482" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="1" fill="#E8A54F">“更新”的定义</text>
+    <text x="94" y="516" font-size="20" fill="#C7D5E4">比较两个日志最后条目的<tspan x="94" dy="28">索引与任期：任期不同则</tspan><tspan x="94" dy="28">任期大的更新；任期相同</tspan><tspan x="94" dy="28">则更长的更新。</tspan></text>
+  </g>
+
+  <g id="safety-emblem" data-pptx-bounds="430 448 210 164">
+    <image href="../images/iso_shield_fit.png" x="478" y="452" width="102" height="150" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="current-term-commit" data-pptx-bounds="680 248 528 176">
+    <text x="680" y="276" font-family="Consolas, Microsoft YaHei" font-size="18" letter-spacing="1" fill="#4FC9E8">§5.4.2　只提交当前任期的条目</text>
+    <text x="680" y="316" font-size="22" fill="#C7D5E4">领导者只用“计数副本”提交当前任期的条目。<tspan x="680" dy="32">前任任期的条目即使已存到多数，也不算提交</tspan><tspan x="680" dy="32">（论文图 8）；只有当前任期的条目这样提交后，</tspan><tspan x="680" dy="32">此前所有条目才因日志匹配性质被间接提交。</tspan></text>
+  </g>
+
+  <g id="commit-rule-code" data-pptx-bounds="680 440 528 188">
+    <rect x="680" y="440" width="528" height="180" fill="#16283C" stroke="#2A4361" stroke-width="1.5" />
+    <rect x="680" y="440" width="4" height="180" fill="#4FC9E8" />
+    <text x="704" y="470" font-family="Consolas, Microsoft YaHei" font-size="16" letter-spacing="1" fill="#7A8FA6">FIGURE 2 · RULES FOR SERVERS / LEADERS</text>
+    <text x="704" y="504" font-family="Consolas, Microsoft YaHei" font-size="20" fill="#E6EDF5">If there exists an N such that<tspan x="704" dy="28">  N &gt; commitIndex,</tspan><tspan x="704" dy="28">  a majority of matchIndex[i] &gt;= N,</tspan><tspan x="704" dy="28">  and log[N].term == currentTerm:</tspan><tspan x="704" dy="28" fill="#4FC9E8">    set commitIndex = N</tspan></text>
+  </g>
+
+  <g id="page-footnote" data-pptx-bounds="72 640 888 48">
+    <line x1="72" y1="646" x2="956" y2="646" stroke="#2A4361" stroke-width="1" />
+    <text x="72" y="678" font-size="16" fill="#7A8FA6">来源：论文 §5.4.1、§5.4.2 与图 2（Rules for Servers · Leaders）。</text>
+  </g>
+
+  <g id="title-block" data-pptx-role="chrome" data-pptx-bounds="1000 650 208 44">
+    <text x="1208" y="678" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7A8FA6" text-anchor="end">RAFT / 09</text>
+  </g>
+</svg>

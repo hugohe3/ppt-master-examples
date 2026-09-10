@@ -2,11 +2,111 @@
   "version": 1,
   "updated": "2026-09-10",
   "stats": {
-    "examples": 36,
-    "pages": 513,
-    "templates": 36
+    "examples": 37,
+    "pages": 527,
+    "templates": 37
   },
   "projects": [
+    {
+      "id": "ppt169_raft_consensus_deepdive",
+      "title": "Raft：为了让人看懂而设计的共识算法",
+      "description": "技术深读 deck 14 页 — 首个 technical-deepdive 方法模板示例，也是首个在 Quick 路线上安装 Style 模板的 deck：唯一源是 Raft 论文扩展版 PDF（英文 18 页→中文，术语括注英文），复制状态机、三态与任期时间轴、选举、日志复制与提交、Figure 7 日志冲突修复、安全性两条限制、成员变更与快照全部用原生可编辑几何画出（9 种预设 15 个实例，13 条原生箭头线端），两个 RPC 的代码块与原生对照表，可理解性实验与选举耗时 2 张原生图表，blueprint 视觉 + 3d-isometric 等距插画（首次），smGrid 原生图案网格 13 页，3 对 Morph 承接状态机与日志",
+      "icon": "🗳️",
+      "color": "#0B1B2B",
+      "style": "technical",
+      "styleName": "Technical Deep Dive · Blueprint Isometric",
+      "desc": "A fourteen-page Chinese technical deep dive into the Raft consensus algorithm, read from the extended paper by Diego Ongaro and John Ousterhout (Stanford, 2014) — the first example built on the bundled technical-deepdive Style, and the first Quick-runtime deck that installs a Style workspace. Every mechanism is drawn as native editable geometry rather than a picture: the replicated state machine, the three server states on a term-sliced timeline, leader election with heartbeats and randomized timeouts, log replication and the commit rule, the Figure 7 log-mismatch repair, the two safety restrictions, joint-consensus membership change and snapshots. The two RPCs appear as code blocks beside a native comparison table; the understandability study and the election-latency measurements are native charts using only numbers the paper states in prose; a closing page weighs what Raft buys against what it costs and links to the paper. Blueprint visual style with the 3d-isometric rendering for the cover and hardware imagery (four illustration-sheet slices), a native smGrid pattern fill on every board, nine preset shapes in fifteen instances, thirteen arrowed native line ends, and Morph chains carrying the state machine and the leader log between pages. Chinese throughout with English terms on first use.",
+      "tags": [
+        "Technical",
+        "Distributed Systems",
+        "Technical Deep Dive",
+        "Style Template",
+        "PDF Source",
+        "Quick",
+        "Blueprint",
+        "3D Isometric",
+        "Native Charts",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_raft_consensus_deepdive/svg_final",
+      "generatedAt": "2026-09-10",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_raft_consensus_deepdive/exports/ppt169_raft_consensus_deepdive.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "Raft：为了让人看懂而设计的共识算法"
+        },
+        {
+          "file": "02_replicated_state_machine.svg",
+          "title": "replicated_state_machine",
+          "desc": "共识算法的工作对象：一份复制日志"
+        },
+        {
+          "file": "03_why_paxos_is_hard.svg",
+          "title": "why_paxos_is_hard",
+          "desc": "Paxos 的两个缺陷：难懂，且不适合当实现的地基"
+        },
+        {
+          "file": "04_designing_for_understandability.svg",
+          "title": "designing_for_understandability",
+          "desc": "把「可理解性」当成第一设计目标"
+        },
+        {
+          "file": "05_states_and_terms.svg",
+          "title": "states_and_terms",
+          "desc": "三种服务器状态，一条被切成任期的时间轴"
+        },
+        {
+          "file": "06_leader_election.svg",
+          "title": "leader_election",
+          "desc": "选举：心跳、随机超时，和一张先到先得的选票"
+        },
+        {
+          "file": "07_log_replication.svg",
+          "title": "log_replication",
+          "desc": "日志复制：一条命令怎样才算「已提交」"
+        },
+        {
+          "file": "08_log_matching.svg",
+          "title": "log_matching",
+          "desc": "日志会怎样对不上，以及领导者怎样把它掰回来"
+        },
+        {
+          "file": "09_safety.svg",
+          "title": "safety",
+          "desc": "安全性靠两条限制：谁能当选，和什么时候算提交"
+        },
+        {
+          "file": "10_rpc_contract.svg",
+          "title": "rpc_contract",
+          "desc": "整个基本算法只有两种 RPC"
+        },
+        {
+          "file": "11_membership_and_snapshots.svg",
+          "title": "membership_and_snapshots",
+          "desc": "换机器与清日志：两个必须做、又不能出错的运维动作"
+        },
+        {
+          "file": "12_understandability_study.svg",
+          "title": "understandability_study",
+          "desc": "可理解性实验：43 名学生，33 人 Raft 得分更高"
+        },
+        {
+          "file": "13_election_latency.svg",
+          "title": "election_latency",
+          "desc": "一点点随机，就把选举从十秒压到几百毫秒"
+        },
+        {
+          "file": "14_tradeoffs_and_reading.svg",
+          "title": "tradeoffs_and_reading",
+          "desc": "Raft 换来的是什么，又付出了什么"
+        }
+      ]
+    },
     {
       "id": "ppt169_teachers_day_chalkboard",
       "title": "粉笔写下的节日 · 教师节黑板报",
