@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <clipPath id="p06-image-clip">
+      <rect x="800" y="280" width="416" height="316" rx="16"/>
+    </clipPath>
+  </defs>
+  <rect id="p06-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EC"/>
+  <g id="p06-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">WHY STUDENTS MISS SCHOOL</text>
+  </g>
+  <g id="p06-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">Four kinds of reasons, and only one is refusal</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1"/>
+  </g>
+  <g id="p06-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">Researchers group the causes as barriers, aversions, disengagement, and myths.</text>
+  </g>
+  <g id="p06-cause-barriers" data-pptx-bounds="64 280 340 150">
+<g id="p06-card-barriers-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 280 340 150" fill="#FFFFFF" stroke="#DDD8D0" stroke-width="1">
+<path d="M 64 280 L 379 280 L 404 305 L 404 430 L 64 430 Z"/>
+</g>
+    <use data-icon="tabler-outline/stethoscope" x="88" y="302" width="26" height="26" fill="#6A9AA8" stroke-width="2"/>
+    <text x="126" y="325" font-size="24" font-weight="bold" fill="#1F4B57">Barriers</text>
+    <text x="88" y="364" font-size="18" fill="#23282D">Unmanaged asthma, diabetes, mental<tspan x="88" dy="24">health and vision problems; transport</tspan><tspan x="88" dy="24">and housing instability.</tspan></text>
+  </g>
+  <g id="p06-cause-aversions" data-pptx-bounds="420 280 340 150">
+<g id="p06-card-aversions-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="420 280 340 150" fill="#FFFFFF" stroke="#DDD8D0" stroke-width="1">
+<path d="M 420 280 L 735 280 L 760 305 L 760 430 L 420 430 Z"/>
+</g>
+    <use data-icon="tabler-outline/alert-triangle" x="444" y="302" width="26" height="26" fill="#6A9AA8" stroke-width="2"/>
+    <text x="482" y="325" font-size="24" font-weight="bold" fill="#1F4B57">Aversions</text>
+    <text x="444" y="364" font-size="18" fill="#23282D">Bullying, undiagnosed disabilities,<tspan x="444" dy="24">and overly punitive discipline.</tspan></text>
+  </g>
+  <g id="p06-cause-disengagement" data-pptx-bounds="64 446 340 150">
+<g id="p06-card-disengagement-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 446 340 150" fill="#FFFFFF" stroke="#DDD8D0" stroke-width="1">
+<path d="M 64 446 L 379 446 L 404 471 L 404 596 L 64 596 Z"/>
+</g>
+    <use data-icon="tabler-outline/school" x="88" y="468" width="26" height="26" fill="#6A9AA8" stroke-width="2"/>
+    <text x="126" y="491" font-size="24" font-weight="bold" fill="#1F4B57">Disengagement</text>
+    <text x="88" y="530" font-size="18" fill="#23282D">A negative school climate, or no<tspan x="88" dy="24">supportive relationship at school.</tspan></text>
+  </g>
+  <g id="p06-cause-myths" data-pptx-bounds="420 446 340 150">
+<g id="p06-card-myths-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="420 446 340 150" fill="#FFFFFF" stroke="#DDD8D0" stroke-width="1">
+<path d="M 420 446 L 735 446 L 760 471 L 760 596 L 420 596 Z"/>
+</g>
+    <use data-icon="tabler-outline/message-circle" x="444" y="468" width="26" height="26" fill="#6A9AA8" stroke-width="2"/>
+    <text x="482" y="491" font-size="24" font-weight="bold" fill="#1F4B57">Myths</text>
+    <text x="444" y="530" font-size="18" fill="#23282D">Fears such as lice, and the belief that<tspan x="444" dy="24">an excused absence does not count.</tspan></text>
+  </g>
+  <g id="p06-framing" data-pptx-bounds="64 612 696 60">
+    <text x="64" y="634" font-size="18" fill="#23282D"><tspan font-weight="bold" fill="#1F4B57">Three of the four</tspan> are conditions a district can change.<tspan x="64" dy="26">The EPA estimates 10.5 million school days are lost to asthma each year.</tspan></text>
+  </g>
+  <g id="p06-illustration" data-pptx-bounds="800 280 416 316">
+    <image href="../images/morning_threshold.jpg" x="800" y="280" width="416" height="316" preserveAspectRatio="xMidYMid slice" clip-path="url(#p06-image-clip)"/>
+    <rect x="800" y="552" width="416" height="44" fill="#1F4B57" fill-opacity="0.88"/>
+    <text x="820" y="580" font-size="16" fill="#FFFFFF">Illustration, not a photograph of any school</text>
+  </g>
+  <g id="p06-source" data-pptx-bounds="64 684 1152 34">
+    <text x="64" y="704" font-size="16" fill="#5A6368">Source: Framework for Action: Addressing Chronic Absenteeism through ESSA (ERIC ED617466, 2017); EPA asthma figure cited there.</text>
+  </g>
+</svg>

@@ -2,11 +2,110 @@
   "version": 1,
   "updated": "2026-09-10",
   "stats": {
-    "examples": 41,
-    "pages": 579,
-    "templates": 41
+    "examples": 42,
+    "pages": 593,
+    "templates": 42
   },
   "projects": [
+    {
+      "id": "ppt169_every_day_counts_proposal",
+      "title": "Every Day Counts",
+      "description": "英文方案书 deck 14 页 — 首个 solution-proposal 方法模板示例，至此 13 个内置方法模板全部有示例；虚构咨询方 Lantern Education Partners 给虚构学区 Riverbend Unified 的两年期长期缺勤治理方案，报价、人力、排期、预测效果全部标 illustrative；问题证据来自混合真实源：ERIC ED617466 框架报告 PDF、纽约市开放数据两份出勤 CSV（直接读取并按学生数加权聚合，页面注明分组）、英国教育部出勤指南网页；市级趋势/学区分布/年级曲线/预测效果 4 张原生图表（含 ChartEx 瀑布图）+ 范围与报价 2 张原生表，三层干预与两年路线图跨页 Morph，30 个原生预设；soft-rounded 视觉，AI 教室插画 3 张",
+      "icon": "🏫",
+      "color": "#1F4B57",
+      "style": "corporate",
+      "styleName": "Solution Proposal · Soft Rounded",
+      "desc": "A fourteen-page English solution proposal from a fictional consultancy to a fictional mid-size US school district on reducing chronic absenteeism over two school years — the first example built on the bundled solution-proposal Style, which completes the set of bundled method templates. Both parties and every price, headcount, timeline commitment and projected effect are invented and marked illustrative on the page; the problem evidence is real and drawn from mixed sources bundled here: an ERIC framework report (PDF), two NYC Open Data attendance datasets (CSV, aggregated student-weighted with the grouping stated on each page) and the UK attendance guidance page. The deck moves from what chronic absence counts, through the citywide trend, the spread across districts, the grade curve and four kinds of causes, to a three-tier attendance system, a two-year roadmap with a board decision gate, scope, investment, a modeled effect and one next step. Four native charts of four families including a ChartEx waterfall, two native tables, thirty preset shapes, two Morph transitions carrying the tier stack and the roadmap, three AI classroom illustrations on a soft-rounded field, speaker notes throughout.",
+      "tags": [
+        "Business",
+        "Solution Proposal",
+        "Style Template",
+        "English",
+        "Mixed Sources",
+        "CSV Source",
+        "PDF Source",
+        "Native Charts",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_every_day_counts_proposal/svg_final",
+      "generatedAt": "2026-09-10",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_every_day_counts_proposal/exports/ppt169_every_day_counts_proposal.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "Every Day Counts — a two-year plan to reduce chronic absenteeism"
+        },
+        {
+          "file": "02_what_it_counts.svg",
+          "title": "what_it_counts",
+          "desc": "What chronic absence counts: 18 days"
+        },
+        {
+          "file": "03_citywide_trend.svg",
+          "title": "citywide_trend",
+          "desc": "The rate is still ten points above 2018-19 (NYC benchmark)"
+        },
+        {
+          "file": "04_district_spread.svg",
+          "title": "district_spread",
+          "desc": "One city, one year: 16% to 46% across districts"
+        },
+        {
+          "file": "05_grade_curve.svg",
+          "title": "grade_curve",
+          "desc": "Two peaks, and one of them is five-year-olds"
+        },
+        {
+          "file": "06_four_causes.svg",
+          "title": "four_causes",
+          "desc": "Four kinds of reasons, and only one is refusal"
+        },
+        {
+          "file": "07_recommendation.svg",
+          "title": "recommendation",
+          "desc": "Build one attendance system with three tiers"
+        },
+        {
+          "file": "08_tier_detail.svg",
+          "title": "tier_detail",
+          "desc": "Every tier has a trigger, an owner, and a limit"
+        },
+        {
+          "file": "09_year_one.svg",
+          "title": "year_one",
+          "desc": "Year one ends with a system Riverbend runs itself"
+        },
+        {
+          "file": "10_year_two_gate.svg",
+          "title": "year_two_gate",
+          "desc": "In June 2027 the board decides on year two"
+        },
+        {
+          "file": "11_scope.svg",
+          "title": "scope",
+          "desc": "The boundary of what we are proposing"
+        },
+        {
+          "file": "12_investment.svg",
+          "title": "investment",
+          "desc": "Investment: $312,000 (illustrative)"
+        },
+        {
+          "file": "13_projected_effect.svg",
+          "title": "projected_effect",
+          "desc": "A modeled nine-point reduction (illustrative)"
+        },
+        {
+          "file": "14_next_step.svg",
+          "title": "next_step",
+          "desc": "One vote, on 8 October 2026"
+        }
+      ]
+    },
     {
       "id": "ppt169_night_shelf_creative_pitch",
       "title": "The Night Shelf",

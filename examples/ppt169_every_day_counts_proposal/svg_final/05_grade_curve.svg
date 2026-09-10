@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="p05-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="p05-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">THE EVIDENCE — WHERE IT CONCENTRATES</text>
+  </g>
+  <g id="p05-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">Two peaks, and one of them is five-year-olds</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1" />
+  </g>
+  <g id="p05-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">Absence is worst at the <tspan font-weight="bold" fill="#1F4B57">entry</tspan> to school and at the <tspan font-weight="bold" fill="#1F4B57">exit</tspan> from it.</text>
+  </g>
+  <g id="grade-curve" data-pptx-replace-with="chart" data-pptx-bounds="64 262 736 372" data-pptx-fallback-sha256="21775b0e36ac5ca25ecbdc9856f71048b6aa2d546ad02b51cf5cd33c82204690">
+    <metadata type="application/json">
+    {
+      "x": 64,
+      "y": 262,
+      "width": 736,
+      "height": 372,
+      "name": "grade-curve",
+      "type": "area",
+      "grouping": "standard",
+      "plot_area": {
+            "x": 150,
+            "y": 300,
+            "width": 630,
+            "height": 260
+      },
+      "categories": [
+            "K",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+      ],
+      "series": [
+            {
+                  "name": "Chronically absent",
+                  "values": [
+                        45.6,
+                        38.7,
+                        34.7,
+                        31.7,
+                        30.3,
+                        29.1,
+                        29.4,
+                        31.5,
+                        33.5,
+                        34.9,
+                        35.8,
+                        34.4,
+                        45.2
+                  ]
+            }
+      ],
+      "axes": {
+            "category": {
+                  "kind": "text",
+                  "position": "bottom",
+                  "visible": true,
+                  "label_position": "next_to",
+                  "tick_marks": "none",
+                  "major_gridlines": false,
+                  "reverse": false,
+                  "font_size": 18,
+                  "color": "#5A6368"
+            },
+            "value": {
+                  "kind": "value",
+                  "position": "left",
+                  "visible": true,
+                  "label_position": "next_to",
+                  "minimum": 0,
+                  "maximum": 50,
+                  "major_unit": 10,
+                  "number_format": "0\"%\"",
+                  "major_gridlines": true,
+                  "tick_marks": "none",
+                  "cross_between": "mid_category",
+                  "font_size": 18,
+                  "color": "#5A6368"
+            }
+      },
+      "axis_titles": {
+            "category": "Grade",
+            "value": "% of students chronically absent"
+      },
+      "notes": [
+            {
+                  "text": "Kindergarten 45.6%",
+                  "width": 200,
+                  "font_size": 18,
+                  "color": "#1F4B57"
+            },
+            {
+                  "text": "Grade 5 29.1%",
+                  "width": 160,
+                  "font_size": 18,
+                  "color": "#1F4B57"
+            },
+            {
+                  "text": "Grade 12 45.2%",
+                  "width": 170,
+                  "font_size": 18,
+                  "color": "#1F4B57"
+            }
+      ],
+      "style": {
+            "font_family": "Calibri",
+            "axis_color": "#DDD8D0",
+            "grid_color": "#EAE5DD",
+            "text_color": "#5A6368",
+            "chart_area_fill": "none",
+            "plot_area_fill": "none",
+            "axis_font_size": 18,
+            "axis_title_font_size": 18,
+            "colors": [
+                  "#6A9AA8"
+            ]
+      }
+}
+    </metadata>
+    <g id="grade-curve-chartArea">
+      <line id="grade-curve-grid-50" x1="150" y1="300" x2="780" y2="300" stroke="#EAE5DD" stroke-width="1" />
+      <line id="grade-curve-grid-40" x1="150" y1="352" x2="780" y2="352" stroke="#EAE5DD" stroke-width="1" />
+      <line id="grade-curve-grid-30" x1="150" y1="404" x2="780" y2="404" stroke="#EAE5DD" stroke-width="1" />
+      <line id="grade-curve-grid-20" x1="150" y1="456" x2="780" y2="456" stroke="#EAE5DD" stroke-width="1" />
+      <line id="grade-curve-grid-10" x1="150" y1="508" x2="780" y2="508" stroke="#EAE5DD" stroke-width="1" />
+      <line id="grade-curve-axis-x" x1="150" y1="560" x2="780" y2="560" stroke="#DDD8D0" stroke-width="1" />
+      <line id="grade-curve-axis-y" x1="150" y1="300" x2="150" y2="560" stroke="#DDD8D0" stroke-width="1" />
+      
+      <polygon points="150,560 150.0,322.88 202.5,358.76 255.0,379.56 307.5,395.16 360.0,402.44 412.5,408.68 465.0,407.12 517.5,396.2 570.0,385.8 622.5,378.52 675.0,373.84 727.5,381.12 780.0,324.96 780,560" fill="#6A9AA8" />
+    </g>
+    <text x="138" y="566" font-size="18" text-anchor="end" fill="#5A6368">0%</text>
+    <text x="138" y="514" font-size="18" text-anchor="end" fill="#5A6368">10%</text>
+    <text x="138" y="462" font-size="18" text-anchor="end" fill="#5A6368">20%</text>
+    <text x="138" y="410" font-size="18" text-anchor="end" fill="#5A6368">30%</text>
+    <text x="138" y="358" font-size="18" text-anchor="end" fill="#5A6368">40%</text>
+    <text x="138" y="306" font-size="18" text-anchor="end" fill="#5A6368">50%</text>
+    <text x="150.0" y="590" font-size="18" text-anchor="middle" fill="#5A6368">K</text>
+    <text x="202.5" y="590" font-size="18" text-anchor="middle" fill="#5A6368">1</text>
+    <text x="255.0" y="590" font-size="18" text-anchor="middle" fill="#5A6368">2</text>
+    <text x="307.5" y="590" font-size="18" text-anchor="middle" fill="#5A6368">3</text>
+    <text x="360.0" y="590" font-size="18" text-anchor="middle" fill="#5A6368">4</text>
+    <text x="412.5" y="590" font-size="18" text-anchor="middle" fill="#5A6368">5</text>
+    <text x="465.0" y="590" font-size="18" text-anchor="middle" fill="#5A6368">6</text>
+    <text x="517.5" y="590" font-size="18" text-anchor="middle" fill="#5A6368">7</text>
+    <text x="570.0" y="590" font-size="18" text-anchor="middle" fill="#5A6368">8</text>
+    <text x="622.5" y="590" font-size="18" text-anchor="middle" fill="#5A6368">9</text>
+    <text x="675.0" y="590" font-size="18" text-anchor="middle" fill="#5A6368">10</text>
+    <text x="727.5" y="590" font-size="18" text-anchor="middle" fill="#5A6368">11</text>
+    <text x="780.0" y="590" font-size="18" text-anchor="middle" fill="#5A6368">12</text>
+    <text x="150" y="286" font-size="18" fill="#5A6368">% of students chronically absent</text>
+    <text x="465" y="620" font-size="18" text-anchor="middle" fill="#5A6368">Grade</text>
+    <text x="150" y="312" font-size="18" fill="#1F4B57">Kindergarten 45.6%</text>
+    <text x="465" y="398" font-size="18" text-anchor="middle" fill="#1F4B57">Grade 5 29.1%</text>
+    <text x="780" y="312" font-size="18" text-anchor="end" fill="#1F4B57">Grade 12 45.2%</text>
+  </g>
+  <g id="p05-consequence" data-pptx-bounds="840 262 376 372">
+    <text x="840" y="286" font-size="18" letter-spacing="2" fill="#5A6368">WHY BOTH ENDS MATTER</text>
+    <line x1="840" y1="300" x2="1216" y2="300" stroke="#DDD8D0" stroke-width="1" />
+    <text font-size="18" fill="#23282D" x="840" y="332">Students chronically absent in both</text><text font-size="18" fill="#23282D" x="840" y="358">kindergarten and first grade are much</text><text font-size="18" fill="#23282D" x="840" y="384">less likely to read at grade level by third</text><text font-size="18" fill="#23282D" x="840" y="410">grade.</text><text font-size="18" fill="#23282D" x="840" y="446">Students not reading at grade level by</text><text font-size="18" fill="#23282D" x="840" y="472">third grade are four times more likely to</text><text font-size="18" fill="#23282D" x="840" y="498">drop out of high school.</text><text font-size="18" fill="#23282D" x="840" y="534">By sixth grade chronic absenteeism is a</text><text font-size="18" fill="#23282D" x="840" y="560">leading dropout indicator; by high school</text><text font-size="18" fill="#23282D" x="840" y="586">attendance predicts dropout better than</text><text font-size="18" fill="#23282D" x="840" y="612">test scores.</text></g>
+  <g id="p05-source" data-pptx-bounds="64 644 1152 50" fill="#5A6368" font-size="16">
+    <text x="64" y="666">Chart source: NYC Open Data — End-of-Year Attendance and Chronic Absenteeism (sgsi-66kk), 2022-23; student-weighted rate per grade, computed by Lantern.</text>
+    <text x="64" y="688">Consequence evidence: Framework for Action: Addressing Chronic Absenteeism through ESSA Implementation (ERIC ED617466, 2017).</text>
+  </g>
+</svg>

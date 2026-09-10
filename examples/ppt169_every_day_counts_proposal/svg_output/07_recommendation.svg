@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="section">
+  <rect id="p07-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EC"/>
+<g id="p07-lantern-arc" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="1060 36 180 180" fill="none" stroke="#E07A3F" stroke-width="3">
+<path d="M 1150 36 A 90 90 0 0 1 1240 126 L 1150 126 Z" stroke="none"/>
+<path d="M 1150 36 A 90 90 0 0 1 1240 126"/>
+</g>
+  <g id="p07-topbar" data-pptx-bounds="64 76 1000 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">OUR RECOMMENDATION</text>
+  </g>
+  <g id="p07-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">Build one attendance system with three tiers</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1"/>
+  </g>
+  <g id="p07-lead" data-pptx-bounds="64 188 1152 72">
+    <text x="64" y="212" font-size="28" fill="#23282D">Prevention for everyone, early intervention for the students slipping,<tspan x="64" dy="36">and coordinated case support for the students already in crisis.</tspan></text>
+  </g>
+  <g id="p07-escalation" data-pptx-bounds="68 286 44 302">
+<g id="p07-escalation-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upArrow" data-pptx-frame="72 290 36 294" fill="#E07A3F" stroke="none" fill-opacity="0.55">
+<path d="M 72 308 L 90 290 L 108 308 L 99 308 L 99 584 L 81 584 L 81 308 Z"/>
+</g>
+  </g>
+  <g id="tier-3" data-pptx-bounds="240 286 224 98">
+<g id="tier-3-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="244 290 216 90" fill="#1F4B57" stroke="none">
+<path d="M 244 380 L 266.5 290 L 437.5 290 L 460 380 Z"/>
+</g>
+    <text x="352" y="349" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+  </g>
+  <g id="tier-2" data-pptx-bounds="180 388 344 98">
+<g id="tier-2-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="184 392 336 90" fill="#6A9AA8" stroke="none">
+<path d="M 184 482 L 206.5 392 L 497.5 392 L 520 482 Z"/>
+</g>
+    <text x="352" y="451" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#1F4B57">2</text>
+  </g>
+  <g id="tier-1" data-pptx-bounds="120 490 464 98">
+<g id="tier-1-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="124 494 456 90" fill="#A8C4CC" stroke="none">
+<path d="M 124 584 L 146.5 494 L 557.5 494 L 580 584 Z"/>
+</g>
+    <text x="352" y="553" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#1F4B57">1</text>
+  </g>
+  <g id="p07-escalation-label" data-pptx-bounds="64 592 260 28">
+    <text x="64" y="610" font-size="18" fill="#5A6368">Rising intensity, fewer students</text>
+  </g>
+  <g id="p07-tier-labels" data-pptx-bounds="640 286 576 302">
+    <text x="640" y="326" font-size="28" font-weight="bold" fill="#1F4B57">Tier 3 — Intensive support</text>
+    <text x="640" y="360" font-size="24" fill="#23282D">Students already chronically absent</text>
+    <text x="640" y="428" font-size="28" font-weight="bold" fill="#1F4B57">Tier 2 — Early intervention</text>
+    <text x="640" y="462" font-size="24" fill="#23282D">Students approaching the 10% line</text>
+    <text x="640" y="530" font-size="28" font-weight="bold" fill="#1F4B57">Tier 1 — Universal prevention</text>
+    <text x="640" y="564" font-size="24" fill="#23282D">All students, every day</text>
+  </g>
+  <g id="p07-delivery" data-pptx-bounds="64 624 1152 92">
+    <text x="64" y="648" font-size="24" fill="#23282D">Lantern designs the system and trains the site leads; <tspan font-weight="bold" fill="#1F4B57">Riverbend runs it.</tspan></text>
+    <text x="64" y="680" font-size="18" fill="#B0722B">Illustrative staffing: one attendance lead per site, one district coordinator.</text>
+    <text x="64" y="706" font-size="16" fill="#5A6368">The multi-tiered system of supports comes from Framework for Action (ERIC ED617466, 2017).</text>
+  </g>
+</svg>

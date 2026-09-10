@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="p10-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="p10-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">DELIVERY PLAN — YEAR TWO AND THE GATE</text>
+    <rect x="938" y="76" width="278" height="28" rx="14" fill="#B0722B" fill-opacity="0.12" />
+    <text x="1077" y="95" font-size="16" text-anchor="middle" fill="#B0722B">Illustrative dates and scope</text>
+  </g>
+  <g id="p10-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">In June 2027 the board decides on year two</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1" />
+  </g>
+  <g id="p10-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">Year two is district-wide operation and hand-off — and it is <tspan font-weight="bold" fill="#E07A3F">conditional</tspan>.</text>
+  </g>
+  <g id="p10-timeline-labels" data-pptx-bounds="64 268 1152 26" fill="#5A6368" font-size="16" letter-spacing="1">
+    <text x="64" y="288">YEAR ONE — 2026-27</text>
+    <text x="716" y="288">YEAR TWO — 2027-28</text>
+  </g>
+  <g id="phase-1" data-pptx-bounds="64 300 124 88">
+<g id="phase-1-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 300 124 88" fill="#C3D6DC" stroke="none">
+<path d="M 64 300 L 144 300 L 188 344 L 144 388 L 64 388 L 108 344 Z" />
+</g>
+    <text x="126" y="356" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F4B57">1</text>
+  </g>
+  <g id="phase-2" data-pptx-bounds="200 300 124 88">
+<g id="phase-2-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="200 300 124 88" fill="#A8C4CC" stroke="none">
+<path d="M 200 300 L 280 300 L 324 344 L 280 388 L 200 388 L 244 344 Z" />
+</g>
+    <text x="262" y="356" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F4B57">2</text>
+  </g>
+  <g id="phase-3" data-pptx-bounds="336 300 124 88">
+<g id="phase-3-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="336 300 124 88" fill="#6A9AA8" stroke="none">
+<path d="M 336 300 L 416 300 L 460 344 L 416 388 L 336 388 L 380 344 Z" />
+</g>
+    <text x="398" y="356" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F4B57">3</text>
+  </g>
+  <g id="phase-4" data-pptx-bounds="472 300 124 88">
+<g id="phase-4-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="472 300 124 88" fill="#1F4B57" stroke="none">
+<path d="M 472 300 L 552 300 L 596 344 L 552 388 L 472 388 L 516 344 Z" />
+</g>
+    <text x="534" y="356" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">4</text>
+  </g>
+  <g id="roadmap-gate" data-pptx-bounds="608 296 96 120">
+<g id="roadmap-gate-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="diamond" data-pptx-frame="612 300 88 88" fill="#E07A3F" stroke="none">
+<path d="M 612 344 L 656 300 L 700 344 L 656 388 Z" />
+</g>
+    
+  <g transform="translate(644, 332)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 5a5 5 0 0 1 7 0a5 5 0 0 0 7 0v9a5 5 0 0 1 -7 0a5 5 0 0 0 -7 0v-9" />
+    <path d="M5 21v-7" />
+  </g>
+    <text x="656" y="406" font-size="18" text-anchor="middle" fill="#B0722B">June 2027</text>
+  </g>
+  <g id="phase-5" data-pptx-bounds="716 300 156 88">
+<g id="phase-5-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="716 300 156 88" fill="#6A9AA8" stroke="none">
+<path d="M 716 300 L 828 300 L 872 344 L 828 388 L 716 388 L 760 344 Z" />
+</g>
+    <text x="794" y="356" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F4B57">5</text>
+  </g>
+  <g id="phase-6" data-pptx-bounds="888 300 156 88">
+<g id="phase-6-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="888 300 156 88" fill="#3F7686" stroke="none">
+<path d="M 888 300 L 1000 300 L 1044 344 L 1000 388 L 888 388 L 932 344 Z" />
+</g>
+    <text x="966" y="356" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">6</text>
+  </g>
+  <g id="phase-7" data-pptx-bounds="1060 300 156 88">
+<g id="phase-7-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="1060 300 156 88" fill="#1F4B57" stroke="none">
+<path d="M 1060 300 L 1172 300 L 1216 344 L 1172 388 L 1060 388 L 1104 344 Z" />
+</g>
+    <text x="1138" y="356" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">7</text>
+  </g>
+  <g id="p10-gate-detail" data-pptx-bounds="64 420 536 216">
+    <text x="64" y="450" font-size="28" font-weight="bold" fill="#1F4B57">The gate: June 2027</text>
+    <text font-size="24" fill="#23282D" x="64" y="494">The board reviews pilot results against</text><text font-size="24" fill="#23282D" x="64" y="526">the baseline and decides to continue,</text><text font-size="24" fill="#23282D" x="64" y="558">adjust, or stop.</text><text x="64" y="600" font-size="18" fill="#B0722B">Lantern's year-two fee is not committed until that vote.</text>
+    <text x="64" y="626" font-size="18" fill="#5A6368">No ongoing retainer is proposed after hand-off.</text>
+  </g>
+  <g id="p10-year-two-detail" data-pptx-bounds="640 420 576 222">
+    <text x="640" y="454" font-size="24" font-weight="bold" fill="#1F4B57">Phase 5 — District-wide operation</text>
+    <text x="640" y="482" font-size="18" fill="#5A6368">Sep-Dec 2027 · all three tiers live, monthly case review</text>
+    <text x="640" y="530" font-size="24" font-weight="bold" fill="#1F4B57">Phase 6 — Tier 3 depth</text>
+    <text x="640" y="558" font-size="18" fill="#5A6368">Jan-Apr 2028 · partner agreements, home-visit protocol</text>
+    <text x="640" y="606" font-size="24" font-weight="bold" fill="#1F4B57">Phase 7 — Hand-off</text>
+    <text x="640" y="634" font-size="18" fill="#5A6368">May-Jun 2028 · Riverbend runs it, Lantern reviews and leaves</text>
+  </g>
+  <g id="p10-note" data-pptx-bounds="64 660 1152 52" font-size="16">
+    <text x="64" y="682" fill="#B0722B">Every date, phase and hand-off term on this page is illustrative and would be fixed in a statement of work.</text>
+    <text x="64" y="706" fill="#5A6368">Deliverable on hand-off: a signed operating manual and a trained district attendance team.</text>
+  </g>
+</svg>

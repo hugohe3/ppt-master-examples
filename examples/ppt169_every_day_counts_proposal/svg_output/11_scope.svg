@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="p11-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="p11-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">SCOPE AND BOUNDARY</text>
+    <rect x="938" y="76" width="278" height="28" rx="14" fill="#B0722B" fill-opacity="0.12" />
+    <text x="1077" y="95" font-size="16" text-anchor="middle" fill="#B0722B">Illustrative dates and scope</text>
+  </g>
+  <g id="p11-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">The boundary of what we are proposing</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1" />
+  </g>
+  <g id="p11-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">Nine deliverables, each <tspan font-weight="bold" fill="#1F4B57">included</tspan>, optional at extra cost, or out of scope.</text>
+  </g>
+  <g id="scope-matrix" data-pptx-replace-with="table" data-pptx-bounds="64 280 756 324" data-pptx-fallback-sha256="488e19342e098ea8b9ee6b72ce54ff6cc4f84ad0dc898527e044b9c0300fef7e">
+    <metadata type="application/json">
+    {
+      "schema": "ppt-master.semantic-table.v2",
+      "x": 64,
+      "y": 280,
+      "width": 756,
+      "height": 324,
+      "name": "scope-matrix",
+      "column_widths": [
+            420,
+            168,
+            168
+      ],
+      "row_heights": [
+            36,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32
+      ],
+      "header_rows": 1,
+      "columns": [
+            {
+                  "text": "Deliverable",
+                  "bold": true,
+                  "align": "l"
+            },
+            {
+                  "text": "Year one",
+                  "bold": true,
+                  "align": "ctr"
+            },
+            {
+                  "text": "Year two",
+                  "bold": true,
+                  "align": "ctr"
+            }
+      ],
+      "rows": [
+            [
+                  {
+                        "text": "Attendance data audit",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  }
+            ],
+            [
+                  {
+                        "text": "Root-cause barrier survey",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  },
+                  {
+                        "text": "Not included",
+                        "align": "ctr",
+                        "color": "#5A6368"
+                  }
+            ],
+            [
+                  {
+                        "text": "Early-warning threshold design",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  }
+            ],
+            [
+                  {
+                        "text": "Teacher dashboard specification",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  }
+            ],
+            [
+                  {
+                        "text": "Family contact playbook",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  }
+            ],
+            [
+                  {
+                        "text": "Site attendance lead training",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  }
+            ],
+            [
+                  {
+                        "text": "Home-visit protocol",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Optional",
+                        "align": "ctr",
+                        "color": "#B0722B"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  }
+            ],
+            [
+                  {
+                        "text": "Community partner agreements",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Optional",
+                        "align": "ctr",
+                        "color": "#B0722B"
+                  },
+                  {
+                        "text": "Included",
+                        "align": "ctr",
+                        "color": "#2E7D32"
+                  }
+            ],
+            [
+                  {
+                        "text": "Student information system integration build",
+                        "align": "l"
+                  },
+                  {
+                        "text": "Not included",
+                        "align": "ctr",
+                        "color": "#5A6368"
+                  },
+                  {
+                        "text": "Not included",
+                        "align": "ctr",
+                        "color": "#5A6368"
+                  }
+            ]
+      ],
+      "defaults": {
+            "cell": {
+                  "font_size": 18,
+                  "valign": "middle",
+                  "padding": 6,
+                  "borders": {
+                        "top": {
+                              "style": "none"
+                        },
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "solid",
+                              "color": "#EAE5DD",
+                              "width": 1
+                        }
+                  }
+            },
+            "run": {
+                  "color": "#23282D"
+            }
+      },
+      "style": {
+            "font_family": "Calibri",
+            "font_size": 18,
+            "header_fill": "#1F4B57",
+            "header_text": "#FFFFFF",
+            "body_text": "#23282D",
+            "band_row": false
+      }
+}
+    </metadata>
+      <rect x="64" y="280" width="756" height="36" fill="#1F4B57" />
+      <text x="76" y="304" font-size="18" font-weight="bold" fill="#FFFFFF">Deliverable</text>
+      <text x="568" y="304" font-size="18" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Year one</text>
+      <text x="736" y="304" font-size="18" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Year two</text>
+      <text x="76" y="337" font-size="18" fill="#23282D">Attendance data audit</text>
+      <text x="568" y="337" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <text x="736" y="337" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <line x1="64" y1="348" x2="820" y2="348" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="369" font-size="18" fill="#23282D">Root-cause barrier survey</text>
+      <text x="568" y="369" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <text x="736" y="369" font-size="18" text-anchor="middle" fill="#5A6368">Not included</text>
+      <line x1="64" y1="380" x2="820" y2="380" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="401" font-size="18" fill="#23282D">Early-warning threshold design</text>
+      <text x="568" y="401" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <text x="736" y="401" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <line x1="64" y1="412" x2="820" y2="412" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="433" font-size="18" fill="#23282D">Teacher dashboard specification</text>
+      <text x="568" y="433" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <text x="736" y="433" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <line x1="64" y1="444" x2="820" y2="444" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="465" font-size="18" fill="#23282D">Family contact playbook</text>
+      <text x="568" y="465" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <text x="736" y="465" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <line x1="64" y1="476" x2="820" y2="476" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="497" font-size="18" fill="#23282D">Site attendance lead training</text>
+      <text x="568" y="497" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <text x="736" y="497" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <line x1="64" y1="508" x2="820" y2="508" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="529" font-size="18" fill="#23282D">Home-visit protocol</text>
+      <text x="568" y="529" font-size="18" text-anchor="middle" fill="#B0722B">Optional</text>
+      <text x="736" y="529" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <line x1="64" y1="540" x2="820" y2="540" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="561" font-size="18" fill="#23282D">Community partner agreements</text>
+      <text x="568" y="561" font-size="18" text-anchor="middle" fill="#B0722B">Optional</text>
+      <text x="736" y="561" font-size="18" text-anchor="middle" fill="#2E7D32">Included</text>
+      <line x1="64" y1="572" x2="820" y2="572" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="593" font-size="18" fill="#23282D">Student information system integration build</text>
+      <text x="568" y="593" font-size="18" text-anchor="middle" fill="#5A6368">Not included</text>
+      <text x="736" y="593" font-size="18" text-anchor="middle" fill="#5A6368">Not included</text>
+      <line x1="64" y1="604" x2="820" y2="604" stroke="#EAE5DD" stroke-width="1" />
+  </g>
+  <g id="p11-legend" data-pptx-bounds="64 616 756 44">
+    <circle cx="74" cy="634" r="7" fill="#2E7D32" />
+    <text x="90" y="640" font-size="18" fill="#23282D">Included</text>
+    <circle cx="240" cy="634" r="7" fill="#B0722B" />
+    <text x="256" y="640" font-size="18" fill="#23282D">Optional at additional cost</text>
+    <circle cx="530" cy="634" r="7" fill="#5A6368" />
+    <text x="546" y="640" font-size="18" fill="#23282D">Not included</text>
+  </g>
+  <g id="p11-dependencies" data-pptx-bounds="856 268 360 244">
+    <text x="860" y="286" font-size="16" letter-spacing="1" fill="#5A6368">WHAT ONLY RIVERBEND CAN SUPPLY</text>
+<g id="p11-dependency-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="860 296 356 204" fill="none" stroke="#6A9AA8" stroke-width="2">
+<path d="M 860 330 A 34 34 0 0 1 894 296 L 1182 296 A 34 34 0 0 1 1216 330 L 1216 466 A 34 34 0 0 1 1182 500 L 894 500 A 34 34 0 0 1 860 466 Z" stroke="none" />
+<path d="M 894 500 A 34 34 0 0 1 860 466 L 860 330 A 34 34 0 0 1 894 296 M 1182 296 A 34 34 0 0 1 1216 330 L 1216 466 A 34 34 0 0 1 1182 500" />
+</g>
+    <use data-icon="tabler-outline/checks" x="886" y="322" width="20" height="20" fill="#6A9AA8" stroke-width="2" />
+    <text x="916" y="338" font-size="18" fill="#23282D">Data access within two weeks</text>
+    <use data-icon="tabler-outline/user-check" x="886" y="366" width="20" height="20" fill="#6A9AA8" stroke-width="2" />
+    <text x="916" y="382" font-size="18" fill="#23282D">A named executive sponsor</text>
+    <use data-icon="tabler-outline/clock" x="886" y="410" width="20" height="20" fill="#6A9AA8" stroke-width="2" />
+    <text x="916" y="426" font-size="18" fill="#23282D">Released time for site leads</text>
+    <use data-icon="tabler-outline/report" x="886" y="454" width="20" height="20" fill="#6A9AA8" stroke-width="2" />
+    <text x="916" y="470" font-size="18" fill="#23282D">Family-contact consent policy</text>
+  </g>
+  <g id="p11-exclusion" data-pptx-bounds="856 520 360 128" font-size="18">
+    <text x="860" y="546" fill="#23282D">Not included: the student<tspan x="860" dy="24">information system integration</tspan><tspan x="860" dy="24">build is a district IT procurement.</tspan></text>
+    <text x="860" y="630" fill="#B0722B">Scope shown is illustrative.</text>
+  </g>
+</svg>

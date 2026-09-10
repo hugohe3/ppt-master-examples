@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="ending">
+  <defs>
+    <filter id="softShadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.10"/>
+    </filter>
+    <clipPath id="p14-image-clip">
+      <rect x="740" y="280" width="476" height="276" rx="16"/>
+    </clipPath>
+  </defs>
+  <rect id="p14-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EC"/>
+<g id="p14-lantern-arc" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="1060 36 180 180" fill="none" stroke="#E07A3F" stroke-width="3">
+<path d="M 1150 36 A 90 90 0 0 1 1240 126 L 1150 126 Z" stroke="none"/>
+<path d="M 1150 36 A 90 90 0 0 1 1240 126"/>
+</g>
+  <g id="p14-topbar" data-pptx-bounds="64 76 1000 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">THE NEXT STEP</text>
+  </g>
+  <g id="p14-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">One vote, on 8 October 2026</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1"/>
+  </g>
+  <g id="p14-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">Approve <tspan font-weight="bold" fill="#1F4B57">Phase 1</tspan> and name the executive sponsor at the October meeting.</text>
+  </g>
+  <g id="p14-action" data-pptx-bounds="64 280 636 190">
+<g id="p14-action-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="64 336 76 56" fill="#E07A3F" stroke="none">
+<path d="M 64 350 L 112 350 L 112 336 L 140 364 L 112 392 L 112 378 L 64 378 Z"/>
+</g>
+    <rect x="160" y="280" width="540" height="190" rx="16" fill="#FFFFFF" filter="url(#softShadow)"/>
+    <text x="184" y="312" font-size="16" letter-spacing="1" fill="#5A6368">THE ASK</text>
+    <text x="184" y="352" font-size="28" font-weight="bold" fill="#1F4B57">The board approves Phase 1 funding<tspan x="184" dy="36">and names the executive sponsor.</tspan></text>
+    <text x="184" y="426" font-size="18" fill="#23282D">Regular meeting, 8 October 2026.</text>
+    <text x="184" y="452" font-size="18" fill="#23282D">The superintendent brings the item; the board votes.</text>
+  </g>
+  <g id="p14-next" data-pptx-bounds="64 490 636 116">
+    <use data-icon="tabler-outline/arrow-narrow-right" x="64" y="498" width="22" height="22" fill="#6A9AA8" stroke-width="2"/>
+    <text x="96" y="514" font-size="18" fill="#23282D">Within two weeks of the vote, the data access request is issued.</text>
+    <use data-icon="tabler-outline/arrow-narrow-right" x="64" y="530" width="22" height="22" fill="#6A9AA8" stroke-width="2"/>
+    <text x="96" y="546" font-size="18" fill="#23282D">In November, the baseline report is delivered.</text>
+    <use data-icon="tabler-outline/arrow-narrow-right" x="64" y="562" width="22" height="22" fill="#6A9AA8" stroke-width="2"/>
+    <text x="96" y="578" font-size="18" fill="#23282D">Before then, we need one named data contact from the district.</text>
+  </g>
+  <g id="p14-disclosure" data-pptx-bounds="64 626 636 80">
+    <text x="64" y="648" font-size="16" fill="#5A6368">Lantern Education Partners and Riverbend Unified are fictional; the<tspan x="64" dy="22">client, prices, dates and projections in this deck are illustrative.</tspan><tspan x="64" dy="22">The problem evidence is real and sourced where it appears.</tspan></text>
+  </g>
+  <g id="p14-image" data-pptx-bounds="740 280 476 276">
+    <image href="../images/open_entrance.jpg" x="740" y="280" width="476" height="276" preserveAspectRatio="xMidYMid slice" clip-path="url(#p14-image-clip)"/>
+  </g>
+  <g id="p14-sources" data-pptx-bounds="740 568 476 136">
+    <text x="740" y="586" font-size="16" letter-spacing="1" fill="#5A6368">SOURCES USED IN THIS DECK</text>
+    <text x="740" y="614" font-size="18" fill="#1F4B57"><a href="https://eric.ed.gov/?id=ED617466"><tspan text-decoration="underline">ERIC ED617466 — Framework for Action</tspan></a></text>
+    <text x="740" y="640" font-size="18" fill="#1F4B57"><a href="https://data.cityofnewyork.us/d/sgsi-66kk"><tspan text-decoration="underline">NYC Open Data — attendance (sgsi-66kk)</tspan></a></text>
+    <text x="740" y="666" font-size="18" fill="#1F4B57"><a href="https://data.cityofnewyork.us/d/hags-jh3e"><tspan text-decoration="underline">NYC Open Data — by district (hags-jh3e)</tspan></a></text>
+    <text x="740" y="692" font-size="18" fill="#1F4B57"><a href="https://www.gov.uk/government/publications/working-together-to-improve-school-attendance"><tspan text-decoration="underline">DfE — Working together to improve attendance</tspan></a></text>
+  </g>
+</svg>

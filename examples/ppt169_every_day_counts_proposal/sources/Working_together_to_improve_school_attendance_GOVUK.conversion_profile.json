@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "https://www.gov.uk/government/publications/working-together-to-improve-school-attendance",
+    "name": "https://www.gov.uk/government/publications/working-together-to-improve-school-attendance",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "Working_together_to_improve_school_attendance_GOVUK.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 108,
+    "char_count": 4473,
+    "heading_count": 10,
+    "table_count": 0,
+    "image_ref_count": 0,
+    "link_count": 7
+  },
+  "warnings": []
+}

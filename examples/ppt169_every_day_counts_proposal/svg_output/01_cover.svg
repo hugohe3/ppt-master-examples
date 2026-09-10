@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <clipPath id="p01-image-clip">
+      <rect x="660" y="396" width="556" height="268" rx="16"/>
+    </clipPath>
+  </defs>
+  <rect id="p01-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4F1EC"/>
+<g id="p01-lantern-arc" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="1000 24 240 240" fill="none" stroke="#E07A3F" stroke-width="3">
+<path d="M 1120 24 A 120 120 0 0 1 1240 144 L 1120 144 Z" stroke="none"/>
+<path d="M 1120 24 A 120 120 0 0 1 1240 144"/>
+</g>
+  <g id="p01-title" data-pptx-bounds="64 100 860 264">
+    <text x="64" y="118" font-size="18" letter-spacing="2" fill="#5A6368">LANTERN EDUCATION PARTNERS — SOLUTION PROPOSAL</text>
+    <text x="64" y="226" font-family="Trebuchet MS, sans-serif" font-size="88" font-weight="bold" fill="#1F4B57">Every Day Counts</text>
+    <rect x="64" y="254" width="132" height="5" fill="#E07A3F"/>
+    <text x="64" y="306" font-family="Trebuchet MS, sans-serif" font-size="32" fill="#23282D">A two-year plan to reduce chronic absenteeism<tspan x="64" dy="44">at Riverbend Unified, 2026-27 and 2027-28</tspan></text>
+  </g>
+  <g id="p01-provenance" data-pptx-bounds="64 402 560 40">
+    <text x="64" y="426" font-size="18" fill="#5A6368">Prepared for the Board of Education, September 2026</text>
+  </g>
+  <g id="p01-disclaimer" data-pptx-bounds="64 450 560 92">
+    <rect x="64" y="454" width="3" height="82" fill="#E07A3F"/>
+    <text x="82" y="476" font-size="18" fill="#5A6368">Illustrative example. Lantern Education Partners and<tspan x="82" dy="26">Riverbend Unified are fictional; every price, headcount,</tspan><tspan x="82" dy="26">date and projected effect here is illustrative.</tspan></text>
+  </g>
+  <g id="p01-evidence-note" data-pptx-bounds="64 550 560 44">
+    <text x="82" y="574" font-size="18" font-weight="bold" fill="#1F4B57">The problem evidence is real and sourced on the page.</text>
+  </g>
+  <g id="p01-cover-image" data-pptx-bounds="660 396 556 268">
+    <image href="../images/cover_classroom_first_light.jpg" x="660" y="396" width="556" height="268" preserveAspectRatio="xMidYMid slice" clip-path="url(#p01-image-clip)"/>
+  </g>
+</svg>

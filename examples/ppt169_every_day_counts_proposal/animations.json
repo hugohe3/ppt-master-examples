@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "defaults": {
+    "animation": { "trigger": "after-previous", "duration": 0.5 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "p01-title": { "effect": "entrance_fade", "order": 1, "duration": 0.7 },
+        "p01-disclaimer": { "effect": "entrance_fade", "order": 2, "delay": 0.3, "duration": 0.5 },
+        "p01-evidence-note": { "effect": "entrance_fade", "order": 3, "duration": 0.5 }
+      }
+    },
+    "02_what_it_counts": {
+      "groups": {
+        "p02-hero": { "effect": "entrance_zoom", "order": 1, "duration": 0.6 },
+        "p02-definition": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "p02-absence-types": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.6 },
+        "p02-baseline": { "effect": "entrance_fade", "order": 4, "delay": 0.2, "duration": 0.5 }
+      }
+    },
+    "03_citywide_trend": {
+      "groups": {
+        "p03-method": { "effect": "entrance_fade", "order": 1, "delay": 0.4, "duration": 0.5 }
+      }
+    },
+    "05_grade_curve": {
+      "groups": {
+        "p05-consequence": { "effect": "entrance_fade", "order": 1, "delay": 0.4, "duration": 0.5 }
+      }
+    },
+    "06_four_causes": {
+      "groups": {
+        "p06-cause-barriers": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "p06-cause-aversions": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "p06-cause-disengagement": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "p06-cause-myths": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "p06-framing": { "effect": "entrance_fade", "order": 5, "delay": 0.3, "duration": 0.5 }
+      }
+    },
+    "07_recommendation": {
+      "groups": {
+        "tier-1": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 1, "duration": 0.5 },
+        "tier-2": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 2, "duration": 0.5 },
+        "tier-3": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 3, "duration": 0.5 },
+        "p07-escalation": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "p07-tier-labels": { "effect": "entrance_fade", "order": 5, "duration": 0.5 },
+        "p07-delivery": { "effect": "entrance_fade", "order": 6, "delay": 0.3, "duration": 0.5 }
+      }
+    },
+    "08_tier_detail": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "07_recommendation",
+        "pairs": {
+          "tier-one": { "from": "tier-1", "to": "tier-1" },
+          "tier-two": { "from": "tier-2", "to": "tier-2" },
+          "tier-three": { "from": "tier-3", "to": "tier-3" }
+        }
+      },
+      "groups": {
+        "p08-tier1-detail": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "p08-tier2-detail": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "p08-tier3-detail": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "p08-boundary": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 4, "delay": 0.4, "duration": 0.6 }
+      }
+    },
+    "09_year_one": {
+      "groups": {
+        "phase-1": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.4 },
+        "phase-2": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.4 },
+        "phase-3": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.4 },
+        "phase-4": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.4 },
+        "p09-detail-1": { "effect": "entrance_fade", "order": 5, "duration": 0.35 },
+        "p09-detail-2": { "effect": "entrance_fade", "order": 6, "duration": 0.35 },
+        "p09-detail-3": { "effect": "entrance_fade", "order": 7, "duration": 0.35 },
+        "p09-detail-4": { "effect": "entrance_fade", "order": 8, "duration": 0.35 },
+        "p09-dependencies": { "effect": "entrance_fade", "order": 9, "delay": 0.3, "duration": 0.5 }
+      }
+    },
+    "10_year_two_gate": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "09_year_one",
+        "pairs": {
+          "roadmap-phase-1": { "from": "phase-1", "to": "phase-1" },
+          "roadmap-phase-2": { "from": "phase-2", "to": "phase-2" },
+          "roadmap-phase-3": { "from": "phase-3", "to": "phase-3" },
+          "roadmap-phase-4": { "from": "phase-4", "to": "phase-4" }
+        }
+      },
+      "groups": {
+        "roadmap-gate": { "effect": "entrance_zoom", "order": 1, "duration": 0.6 },
+        "phase-5": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.4 },
+        "phase-6": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.4 },
+        "phase-7": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.4 },
+        "p10-gate-detail": { "effect": "entrance_fade", "order": 5, "delay": 0.3, "duration": 0.5 },
+        "p10-year-two-detail": { "effect": "entrance_fade", "order": 6, "duration": 0.5 }
+      }
+    },
+    "11_scope": {
+      "groups": {
+        "p11-dependencies": { "effect": "entrance_fade", "order": 1, "delay": 0.4, "duration": 0.5 },
+        "p11-exclusion": { "effect": "entrance_fade", "order": 2, "duration": 0.5 }
+      }
+    },
+    "12_investment": {
+      "groups": {
+        "p12-total": { "effect": "entrance_zoom", "order": 1, "duration": 0.6 },
+        "p12-terms": { "effect": "entrance_fade", "order": 2, "duration": 0.5 }
+      }
+    },
+    "13_projected_effect": {
+      "groups": {
+        "p13-assumptions": { "effect": "entrance_fade", "order": 1, "delay": 0.4, "duration": 0.5 },
+        "p13-risks": { "effect": "entrance_fade", "order": 2, "duration": 0.5 }
+      }
+    },
+    "14_next_step": {
+      "groups": {
+        "p14-action": { "effect": "entrance_zoom", "order": 1, "duration": 0.7 },
+        "p14-next": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "p14-sources": { "effect": "entrance_fade", "order": 3, "duration": 0.5 }
+      }
+    }
+  }
+}

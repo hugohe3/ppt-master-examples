@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="p03-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="p03-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">THE EVIDENCE — PUBLISHED BENCHMARK</text>
+  </g>
+  <g id="p03-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">The rate is still ten points above 2018-19</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1" />
+  </g>
+  <g id="p03-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">It rose by <tspan font-weight="bold" fill="#1F4B57">half</tspan> in the pandemic years and has recovered <tspan font-weight="bold" fill="#1F4B57">less than half</tspan> of that.</text>
+  </g>
+  <g id="citywide-trend" data-pptx-replace-with="chart" data-pptx-bounds="64 262 756 372" data-pptx-fallback-sha256="f9a16a323d164219e0c4a18ceab9edeb19704c3b9ebd2679a298ad0545cccad8">
+    <metadata type="application/json">
+    {
+      "x": 64, "y": 262, "width": 756, "height": 372,
+      "name": "citywide-trend",
+      "type": "line",
+      "grouping": "standard",
+      "line_style": "lineMarker",
+      "marker_size": 12,
+      "plot_area": {"x": 170, "y": 300, "width": 630, "height": 260},
+      "categories": ["2018-19", "2019-20", "2020-21", "2021-22", "2022-23"],
+      "series": [
+        {
+          "name": "Chronically absent",
+          "values": [26.4, 24.9, 29.2, 40.2, 36.3],
+          "point_colors": ["#1F4B57", "#1F4B57", "#1F4B57", "#E07A3F", "#1F4B57"]
+        }
+      ],
+      "data_labels": {"show_value": true, "position": "above", "number_format": "0.0\"%\"", "font_size": 20, "color": "#1F4B57"},
+      "axes": {
+        "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none", "major_gridlines": false, "font_size": 18, "color": "#5A6368"},
+        "value": {"kind": "value", "position": "left", "visible": true, "label_position": "next_to", "minimum": 20, "maximum": 45, "major_unit": 5, "number_format": "0\"%\"", "major_gridlines": true, "tick_marks": "none", "cross_between": "between", "font_size": 18, "color": "#5A6368"}
+      },
+      "axis_titles": {"category": "School year", "value": "% of students chronically absent"},
+      "style": {"font_family": "Calibri", "axis_color": "#DDD8D0", "grid_color": "#EAE5DD", "text_color": "#5A6368", "chart_area_fill": "none", "plot_area_fill": "none", "axis_font_size": 18, "axis_title_font_size": 18, "colors": ["#1F4B57"]}
+    }
+    </metadata>
+    <g id="citywide-trend-chartArea">
+      <line id="citywide-trend-grid-45" x1="170" y1="300" x2="800" y2="300" stroke="#EAE5DD" stroke-width="1" />
+      <line id="citywide-trend-grid-40" x1="170" y1="352" x2="800" y2="352" stroke="#EAE5DD" stroke-width="1" />
+      <line id="citywide-trend-grid-35" x1="170" y1="404" x2="800" y2="404" stroke="#EAE5DD" stroke-width="1" />
+      <line id="citywide-trend-grid-30" x1="170" y1="456" x2="800" y2="456" stroke="#EAE5DD" stroke-width="1" />
+      <line id="citywide-trend-grid-25" x1="170" y1="508" x2="800" y2="508" stroke="#EAE5DD" stroke-width="1" />
+      <line id="citywide-trend-axis-x" x1="170" y1="560" x2="800" y2="560" stroke="#DDD8D0" stroke-width="1" />
+      <line id="citywide-trend-axis-y" x1="170" y1="300" x2="170" y2="560" stroke="#DDD8D0" stroke-width="1" />
+      
+      <polyline points="233,493.4 359,509 485,464.3 611,349.9 737,390.5" fill="none" stroke="#1F4B57" stroke-width="3" />
+      <circle cx="233" cy="493.4" r="6" fill="#1F4B57" />
+      <circle cx="359" cy="509" r="6" fill="#1F4B57" />
+      <circle cx="485" cy="464.3" r="6" fill="#1F4B57" />
+      <circle cx="611" cy="349.9" r="6" fill="#E07A3F" />
+      <circle cx="737" cy="390.5" r="6" fill="#1F4B57" />
+    </g>
+    <text x="158" y="566" font-size="18" text-anchor="end" fill="#5A6368">20%</text>
+    <text x="158" y="514" font-size="18" text-anchor="end" fill="#5A6368">25%</text>
+    <text x="158" y="462" font-size="18" text-anchor="end" fill="#5A6368">30%</text>
+    <text x="158" y="410" font-size="18" text-anchor="end" fill="#5A6368">35%</text>
+    <text x="158" y="358" font-size="18" text-anchor="end" fill="#5A6368">40%</text>
+    <text x="158" y="306" font-size="18" text-anchor="end" fill="#5A6368">45%</text>
+    <text x="233" y="590" font-size="18" text-anchor="middle" fill="#5A6368">2018-19</text>
+    <text x="359" y="590" font-size="18" text-anchor="middle" fill="#5A6368">2019-20</text>
+    <text x="485" y="590" font-size="18" text-anchor="middle" fill="#5A6368">2020-21</text>
+    <text x="611" y="590" font-size="18" text-anchor="middle" fill="#5A6368">2021-22</text>
+    <text x="737" y="590" font-size="18" text-anchor="middle" fill="#5A6368">2022-23</text>
+    <text x="233" y="477.4" font-size="20" text-anchor="middle" fill="#1F4B57">26.4%</text>
+    <text x="359" y="493" font-size="20" text-anchor="middle" fill="#1F4B57">24.9%</text>
+    <text x="485" y="448.3" font-size="20" text-anchor="middle" fill="#1F4B57">29.2%</text>
+    <text x="611" y="333.9" font-size="20" text-anchor="middle" fill="#1F4B57">40.2%</text>
+    <text x="737" y="374.5" font-size="20" text-anchor="middle" fill="#1F4B57">36.3%</text>
+    <text x="170" y="286" font-size="18" fill="#5A6368">% of students chronically absent</text>
+    <text x="485" y="620" font-size="18" text-anchor="middle" fill="#5A6368">School year</text>
+  </g>
+  <g id="p03-method" data-pptx-bounds="856 262 360 372">
+    <text x="856" y="286" font-size="18" letter-spacing="2" fill="#5A6368">HOW THIS WAS COMPUTED</text>
+    <line x1="856" y1="300" x2="1216" y2="300" stroke="#DDD8D0" stroke-width="1" />
+    <text font-size="18" fill="#23282D" x="856" y="330">A student-weighted city-wide rate:</text><text font-size="18" fill="#23282D" x="856" y="356">chronically absent students divided</text><text font-size="18" fill="#23282D" x="856" y="382">by students contributing 10 or more</text><text font-size="18" fill="#23282D" x="856" y="408">total days, summed across every</text><text font-size="18" fill="#23282D" x="856" y="434">All Grades school row in that year.</text><rect x="856" y="482" width="360" height="112" rx="12" fill="#F4F1EC" />
+    
+  <g transform="translate(876, 500)" fill="none" stroke="#B0722B" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+    <text font-size="18" fill="#23282D" x="876" y="552">New York City is a published</text><text font-size="18" fill="#23282D" x="876" y="578">benchmark, not Riverbend's figures.</text></g>
+  <g id="p03-source" data-pptx-bounds="64 646 1152 40">
+    <text x="64" y="672" font-size="16" fill="#5A6368">Source: NYC Open Data — End-of-Year Attendance and Chronic Absenteeism (dataset sgsi-66kk), school years 2018-19 to 2022-23; computed by Lantern.</text>
+  </g>
+</svg>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="p13-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="p13-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">PROJECTED EFFECT</text>
+    <rect x="938" y="76" width="278" height="28" rx="14" fill="#B0722B" fill-opacity="0.12" />
+    <text x="1077" y="95" font-size="16" text-anchor="middle" fill="#B0722B">Modeled, not measured</text>
+  </g>
+  <g id="p13-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">A modeled nine-point reduction</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1" />
+  </g>
+  <g id="p13-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">The projection is a <tspan font-weight="bold" fill="#E07A3F">model, not a measurement</tspan> — and it fails first at staffing.</text>
+  </g>
+  <g id="projected-effect" data-pptx-replace-with="chart" data-pptx-bounds="64 272 636 336" data-pptx-fallback-sha256="4cdcc408d9aae044469d7afdeec1653721f65f207679c3b58985d91ccb97a4f1">
+    <metadata type="application/json">
+    {
+      "x": 64, "y": 272, "width": 636, "height": 336,
+      "name": "projected-effect",
+      "type": "waterfall",
+      "categories": ["2025-26", "Tier 1", "Tier 2", "Tier 3", "June 2028"],
+      "values": [31.0, -2.5, -4.0, -2.5, 22.0],
+      "subtotal_indices": [0, 4],
+      "notes": [
+        {"text": "Baseline 31.0%", "width": 140, "font_size": 18, "color": "#1F4B57"},
+        {"text": "Tier 1 −2.5", "width": 110, "font_size": 18, "color": "#B0722B"},
+        {"text": "Tier 2 −4.0", "width": 110, "font_size": 18, "color": "#B0722B"},
+        {"text": "Tier 3 −2.5", "width": 110, "font_size": 18, "color": "#B0722B"},
+        {"text": "Projected 22.0%", "width": 150, "font_size": 18, "color": "#1F4B57"}
+      ],
+      "style": {"font_family": "Calibri", "text_color": "#5A6368", "chart_area_fill": "none", "colors": ["#6A9AA8", "#E07A3F", "#1F4B57"]}
+    }
+    </metadata>
+    <g id="projected-effect-chartArea">
+      <line id="projected-effect-base-rule" x1="100" y1="560" x2="660" y2="560" stroke="#DDD8D0" stroke-width="1" />
+      
+      <rect x="120" y="329.7" width="72" height="230.3" fill="#6A9AA8" />
+      <rect x="232" y="329.7" width="72" height="18.6" fill="#E07A3F" />
+      <rect x="344" y="348.2" width="72" height="29.7" fill="#E07A3F" />
+      <rect x="456" y="377.9" width="72" height="18.6" fill="#E07A3F" />
+      <rect x="568" y="396.5" width="72" height="163.5" fill="#1F4B57" />
+      <line x1="192" y1="329.7" x2="232" y2="329.7" stroke="#B0B6BA" stroke-width="1" stroke-dasharray="4,4" />
+      <line x1="304" y1="348.2" x2="344" y2="348.2" stroke="#B0B6BA" stroke-width="1" stroke-dasharray="4,4" />
+      <line x1="416" y1="377.9" x2="456" y2="377.9" stroke="#B0B6BA" stroke-width="1" stroke-dasharray="4,4" />
+      <line x1="528" y1="396.5" x2="568" y2="396.5" stroke="#B0B6BA" stroke-width="1" stroke-dasharray="4,4" />
+    </g>
+    <text x="156" y="590" font-size="18" text-anchor="middle" fill="#5A6368">2025-26</text>
+    <text x="268" y="590" font-size="18" text-anchor="middle" fill="#5A6368">Tier 1</text>
+    <text x="380" y="590" font-size="18" text-anchor="middle" fill="#5A6368">Tier 2</text>
+    <text x="492" y="590" font-size="18" text-anchor="middle" fill="#5A6368">Tier 3</text>
+    <text x="604" y="590" font-size="18" text-anchor="middle" fill="#5A6368">June 2028</text>
+    <text x="156" y="320" font-size="18" text-anchor="middle" fill="#1F4B57">Baseline 31.0%</text>
+    <text x="268" y="320" font-size="18" text-anchor="middle" fill="#B0722B">Tier 1 −2.5</text>
+    <text x="380" y="340" font-size="18" text-anchor="middle" fill="#B0722B">Tier 2 −4.0</text>
+    <text x="492" y="370" font-size="18" text-anchor="middle" fill="#B0722B">Tier 3 −2.5</text>
+    <text x="604" y="388" font-size="18" text-anchor="middle" fill="#1F4B57">Projected 22.0%</text>
+  </g>
+  <g id="p13-assumptions" data-pptx-bounds="740 272 476 176">
+    <text x="740" y="290" font-size="16" letter-spacing="1" fill="#5A6368">ASSUMPTIONS THIS MODEL RESTS ON</text>
+    <line x1="740" y1="302" x2="1216" y2="302" stroke="#DDD8D0" stroke-width="1" />
+    
+  <g transform="translate(740, 316) scale(0.833333)" fill="none" stroke="#6A9AA8" stroke-width="2">
+    <path d="M7 12l5 5l10 -10" />
+    <path d="M2 12l5 5m5 -5l5 -5" />
+  </g>
+    <text x="772" y="332" font-size="18" fill="#23282D">Attendance data access from month one</text>
+    
+  <g transform="translate(740, 348) scale(0.833333)" fill="none" stroke="#6A9AA8" stroke-width="2">
+    <path d="M7 12l5 5l10 -10" />
+    <path d="M2 12l5 5m5 -5l5 -5" />
+  </g>
+    <text x="772" y="364" font-size="18" fill="#23282D">One trained attendance lead at every site</text>
+    
+  <g transform="translate(740, 380) scale(0.833333)" fill="none" stroke="#6A9AA8" stroke-width="2">
+    <path d="M7 12l5 5l10 -10" />
+    <path d="M2 12l5 5m5 -5l5 -5" />
+  </g>
+    <text x="772" y="396" font-size="18" fill="#23282D">Family contact in the same week of a Tier 2 trigger</text>
+    
+  <g transform="translate(740, 412) scale(0.833333)" fill="none" stroke="#6A9AA8" stroke-width="2">
+    <path d="M7 12l5 5l10 -10" />
+    <path d="M2 12l5 5m5 -5l5 -5" />
+  </g>
+    <text x="772" y="428" font-size="18" fill="#23282D">No change to the school calendar or bell schedule</text>
+  </g>
+  <g id="p13-risks" data-pptx-bounds="740 460 476 196">
+    <text x="740" y="478" font-size="16" letter-spacing="1" fill="#5A6368">WHERE IT FAILS FIRST</text>
+    <line x1="740" y1="490" x2="1216" y2="490" stroke="#DDD8D0" stroke-width="1" />
+    
+  <g transform="translate(740, 500) scale(0.833333)" fill="none" stroke="#B0722B" stroke-width="2">
+    <path d="M11.46 20.846a12 12 0 0 1 -7.96 -14.846a12 12 0 0 0 8.5 -3a12 12 0 0 0 8.5 3a12 12 0 0 1 -.09 7.06" />
+    <path d="M15 19l2 2l4 -4" />
+  </g>
+    <text font-size="18" fill="#23282D" x="772" y="516">Site staff time is not released — the gate holds</text><text font-size="18" fill="#23282D" x="772" y="538">rollout until leads are named · executive sponsor</text><g transform="translate(740, 552) scale(0.833333)" fill="none" stroke="#B0722B" stroke-width="2">
+    <path d="M11.46 20.846a12 12 0 0 1 -7.96 -14.846a12 12 0 0 0 8.5 -3a12 12 0 0 0 8.5 3a12 12 0 0 1 -.09 7.06" />
+    <path d="M15 19l2 2l4 -4" />
+  </g>
+    <text font-size="18" fill="#23282D" x="772" y="568">Data access slips past month one — the baseline</text><text font-size="18" fill="#23282D" x="772" y="590">narrows to the four largest sites · data lead</text><g transform="translate(740, 604) scale(0.833333)" fill="none" stroke="#B0722B" stroke-width="2">
+    <path d="M11.46 20.846a12 12 0 0 1 -7.96 -14.846a12 12 0 0 0 8.5 -3a12 12 0 0 0 8.5 3a12 12 0 0 1 -.09 7.06" />
+    <path d="M15 19l2 2l4 -4" />
+  </g>
+    <text font-size="18" fill="#23282D" x="772" y="620">Tier 3 partner capacity is short — agreements move</text><text font-size="18" fill="#23282D" x="772" y="642">to Phase 2, Tier 3 stays at pilot sites · Lantern</text></g>
+  <g id="p13-note" data-pptx-bounds="64 664 660 54">
+    <text font-size="16" fill="#B0722B" x="64" y="686">Modeled and illustrative, not measured. These values are not</text><text font-size="16" fill="#B0722B" x="64" y="708">derived from the NYC benchmark series shown earlier.</text></g>
+</svg>

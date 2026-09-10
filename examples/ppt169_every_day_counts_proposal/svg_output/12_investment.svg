@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="softShadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.10" />
+    </filter>
+  </defs>
+  <rect id="p12-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="p12-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">COMMERCIAL TERMS</text>
+    <rect x="938" y="76" width="278" height="28" rx="14" fill="#B0722B" fill-opacity="0.12" />
+    <text x="1077" y="95" font-size="16" text-anchor="middle" fill="#B0722B">All amounts are illustrative</text>
+  </g>
+  <g id="p12-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">$312,000 over two years, year two conditional</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1" />
+  </g>
+  <g id="p12-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">Fixed fee by phase, payable on <tspan font-weight="bold" fill="#1F4B57">deliverable acceptance</tspan>.</text>
+  </g>
+  <g id="investment-schedule" data-pptx-replace-with="table" data-pptx-bounds="64 272 696 368" data-pptx-fallback-sha256="b7bc72c6d492e142185036f0c3c90c3cbd572c5b31e2477edfc7ea0f2407cd02">
+    <metadata type="application/json">
+    {
+      "schema": "ppt-master.semantic-table.v2",
+      "x": 64,
+      "y": 272,
+      "width": 696,
+      "height": 368,
+      "name": "investment-schedule",
+      "column_widths": [
+            476,
+            220
+      ],
+      "row_heights": [
+            32,
+            28,
+            28,
+            28,
+            28,
+            28,
+            28,
+            28,
+            28,
+            28,
+            28,
+            28,
+            28
+      ],
+      "header_rows": 1,
+      "columns": [
+            {
+                  "text": "Line item",
+                  "bold": true,
+                  "align": "l"
+            },
+            {
+                  "text": "Amount (USD)",
+                  "bold": true,
+                  "align": "r"
+            }
+      ],
+      "rows": [
+            [
+                  {
+                        "text": "Year one \u2014 2026-27",
+                        "align": "l",
+                        "color": "#1F4B57",
+                        "bold": true
+                  },
+                  {
+                        "text": "",
+                        "align": "r",
+                        "color": "#1F4B57",
+                        "bold": true
+                  }
+            ],
+            [
+                  {
+                        "text": "Phase 1 \u00b7 Baseline and root cause",
+                        "align": "l",
+                        "color": "#23282D"
+                  },
+                  {
+                        "text": "$42,000",
+                        "align": "r",
+                        "color": "#23282D"
+                  }
+            ],
+            [
+                  {
+                        "text": "Phase 2 \u00b7 Design and build",
+                        "align": "l",
+                        "color": "#23282D"
+                  },
+                  {
+                        "text": "$68,000",
+                        "align": "r",
+                        "color": "#23282D"
+                  }
+            ],
+            [
+                  {
+                        "text": "Phase 3 \u00b7 Pilot at three schools",
+                        "align": "l",
+                        "color": "#23282D"
+                  },
+                  {
+                        "text": "$54,000",
+                        "align": "r",
+                        "color": "#23282D"
+                  }
+            ],
+            [
+                  {
+                        "text": "Phase 4 \u00b7 Rollout preparation",
+                        "align": "l",
+                        "color": "#23282D"
+                  },
+                  {
+                        "text": "$38,000",
+                        "align": "r",
+                        "color": "#23282D"
+                  }
+            ],
+            [
+                  {
+                        "text": "Year one subtotal",
+                        "align": "l",
+                        "color": "#1F4B57",
+                        "bold": true
+                  },
+                  {
+                        "text": "$202,000",
+                        "align": "r",
+                        "color": "#1F4B57",
+                        "bold": true
+                  }
+            ],
+            [
+                  {
+                        "text": "Year two \u2014 2027-28, conditional on the gate",
+                        "align": "l",
+                        "color": "#1F4B57",
+                        "bold": true
+                  },
+                  {
+                        "text": "",
+                        "align": "r",
+                        "color": "#1F4B57",
+                        "bold": true
+                  }
+            ],
+            [
+                  {
+                        "text": "Phase 5 \u00b7 District-wide operation",
+                        "align": "l",
+                        "color": "#23282D"
+                  },
+                  {
+                        "text": "$52,000",
+                        "align": "r",
+                        "color": "#23282D"
+                  }
+            ],
+            [
+                  {
+                        "text": "Phase 6 \u00b7 Tier 3 depth",
+                        "align": "l",
+                        "color": "#23282D"
+                  },
+                  {
+                        "text": "$34,000",
+                        "align": "r",
+                        "color": "#23282D"
+                  }
+            ],
+            [
+                  {
+                        "text": "Phase 7 \u00b7 Hand-off",
+                        "align": "l",
+                        "color": "#23282D"
+                  },
+                  {
+                        "text": "$24,000",
+                        "align": "r",
+                        "color": "#23282D"
+                  }
+            ],
+            [
+                  {
+                        "text": "Year two subtotal",
+                        "align": "l",
+                        "color": "#1F4B57",
+                        "bold": true
+                  },
+                  {
+                        "text": "$110,000",
+                        "align": "r",
+                        "color": "#1F4B57",
+                        "bold": true
+                  }
+            ],
+            [
+                  {
+                        "text": "Total, two school years",
+                        "align": "l",
+                        "color": "#E07A3F",
+                        "bold": true
+                  },
+                  {
+                        "text": "$312,000",
+                        "align": "r",
+                        "color": "#E07A3F",
+                        "bold": true
+                  }
+            ]
+      ],
+      "defaults": {
+            "cell": {
+                  "font_size": 18,
+                  "valign": "middle",
+                  "padding": 5,
+                  "borders": {
+                        "top": {
+                              "style": "none"
+                        },
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "solid",
+                              "color": "#EAE5DD",
+                              "width": 1
+                        }
+                  }
+            },
+            "run": {
+                  "color": "#23282D"
+            }
+      },
+      "style": {
+            "font_family": "Calibri",
+            "font_size": 18,
+            "header_fill": "#1F4B57",
+            "header_text": "#FFFFFF",
+            "body_text": "#23282D",
+            "band_row": false
+      }
+}
+    </metadata>
+      <rect x="64" y="272" width="696" height="32" fill="#1F4B57" />
+      <text x="76" y="294" font-size="18" font-weight="bold" fill="#FFFFFF">Line item</text>
+      <text x="748" y="294" font-size="18" font-weight="bold" text-anchor="end" fill="#FFFFFF">Amount (USD)</text>
+      <text x="76" y="324" font-size="18" font-weight="bold" fill="#1F4B57">Year one — 2026-27</text>
+      <line x1="64" y1="332" x2="760" y2="332" stroke="#EAE5DD" stroke-width="1" />
+      <text x="96" y="352" font-size="18" fill="#23282D">Phase 1 · Baseline and root cause</text>
+      <text x="748" y="352" font-size="18" text-anchor="end" fill="#23282D">$42,000</text>
+      <line x1="64" y1="360" x2="760" y2="360" stroke="#EAE5DD" stroke-width="1" />
+      <text x="96" y="380" font-size="18" fill="#23282D">Phase 2 · Design and build</text>
+      <text x="748" y="380" font-size="18" text-anchor="end" fill="#23282D">$68,000</text>
+      <line x1="64" y1="388" x2="760" y2="388" stroke="#EAE5DD" stroke-width="1" />
+      <text x="96" y="408" font-size="18" fill="#23282D">Phase 3 · Pilot at three schools</text>
+      <text x="748" y="408" font-size="18" text-anchor="end" fill="#23282D">$54,000</text>
+      <line x1="64" y1="416" x2="760" y2="416" stroke="#EAE5DD" stroke-width="1" />
+      <text x="96" y="436" font-size="18" fill="#23282D">Phase 4 · Rollout preparation</text>
+      <text x="748" y="436" font-size="18" text-anchor="end" fill="#23282D">$38,000</text>
+      <line x1="64" y1="444" x2="760" y2="444" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="464" font-size="18" font-weight="bold" fill="#1F4B57">Year one subtotal</text>
+      <text x="748" y="464" font-size="18" font-weight="bold" text-anchor="end" fill="#1F4B57">$202,000</text>
+      <line x1="64" y1="472" x2="760" y2="472" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="492" font-size="18" font-weight="bold" fill="#1F4B57">Year two — 2027-28, conditional on the gate</text>
+      <line x1="64" y1="500" x2="760" y2="500" stroke="#EAE5DD" stroke-width="1" />
+      <text x="96" y="520" font-size="18" fill="#23282D">Phase 5 · District-wide operation</text>
+      <text x="748" y="520" font-size="18" text-anchor="end" fill="#23282D">$52,000</text>
+      <line x1="64" y1="528" x2="760" y2="528" stroke="#EAE5DD" stroke-width="1" />
+      <text x="96" y="548" font-size="18" fill="#23282D">Phase 6 · Tier 3 depth</text>
+      <text x="748" y="548" font-size="18" text-anchor="end" fill="#23282D">$34,000</text>
+      <line x1="64" y1="556" x2="760" y2="556" stroke="#EAE5DD" stroke-width="1" />
+      <text x="96" y="576" font-size="18" fill="#23282D">Phase 7 · Hand-off</text>
+      <text x="748" y="576" font-size="18" text-anchor="end" fill="#23282D">$24,000</text>
+      <line x1="64" y1="584" x2="760" y2="584" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="604" font-size="18" font-weight="bold" fill="#1F4B57">Year two subtotal</text>
+      <text x="748" y="604" font-size="18" font-weight="bold" text-anchor="end" fill="#1F4B57">$110,000</text>
+      <line x1="64" y1="612" x2="760" y2="612" stroke="#EAE5DD" stroke-width="1" />
+      <text x="76" y="632" font-size="18" font-weight="bold" fill="#E07A3F">Total, two school years</text>
+      <text x="748" y="632" font-size="18" font-weight="bold" text-anchor="end" fill="#E07A3F">$312,000</text>
+      <line x1="64" y1="640" x2="760" y2="640" stroke="#EAE5DD" stroke-width="1" />
+  </g>
+  <g id="p12-total" data-pptx-bounds="796 276 420 168">
+<g id="p12-total-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="800 280 412 160" fill="#1F4B57" stroke="none" filter="url(#softShadow)">
+<path d="M 800 306.67 A 26.67 26.67 0 0 0 826.67 280 L 1185.33 280 A 26.67 26.67 0 0 0 1212 306.67 L 1212 413.33 A 26.67 26.67 0 0 0 1185.33 440 L 826.67 440 A 26.67 26.67 0 0 0 800 413.33 Z" />
+</g>
+    <text x="1006" y="372" font-family="Trebuchet MS, sans-serif" font-size="72" font-weight="bold" text-anchor="middle" fill="#FFFFFF">$312,000</text>
+    <text x="1006" y="410" font-size="20" text-anchor="middle" fill="#A8C4CC">total across two school years</text>
+  </g>
+  <g id="p12-terms" data-pptx-bounds="796 460 420 184">
+    <text x="800" y="478" font-size="16" letter-spacing="1" fill="#5A6368">PRICE BASIS AND TERMS</text>
+    <line x1="800" y1="490" x2="1216" y2="490" stroke="#DDD8D0" stroke-width="1" />
+    <text x="800" y="516" font-size="18" fill="#23282D">Fixed fee per phase, inclusive of travel<tspan x="800" dy="24">and exclusive of software licences.</tspan></text>
+    <text x="800" y="576" font-size="18" fill="#23282D">Payable on written acceptance of each<tspan x="800" dy="24">phase deliverable.</tspan></text>
+    <text x="800" y="636" font-size="18" fill="#B0722B">Quotation valid for 90 days.</text>
+  </g>
+  <g id="p12-note" data-pptx-bounds="64 656 1152 52" font-size="16">
+    <text x="64" y="678" fill="#B0722B">Every amount, subtotal, total and payment term on this page is illustrative and would be fixed in a signed statement of work.</text>
+    <text x="64" y="702" fill="#5A6368">The year-two subtotal of $110,000 is released only by the June 2027 board vote; no ongoing retainer is proposed.</text>
+  </g>
+</svg>

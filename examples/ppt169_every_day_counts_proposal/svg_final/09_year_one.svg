@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="p09-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="p09-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">DELIVERY PLAN — YEAR ONE</text>
+    <rect x="938" y="76" width="278" height="28" rx="14" fill="#B0722B" fill-opacity="0.12" />
+    <text x="1077" y="95" font-size="16" text-anchor="middle" fill="#B0722B">Illustrative dates and scope</text>
+  </g>
+  <g id="p09-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">Year one ends with a system Riverbend runs itself</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1" />
+  </g>
+  <g id="p09-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">Four phases in ten months, each ending in something the board can inspect.</text>
+  </g>
+  <g id="phase-1" data-pptx-bounds="64 300 270 88">
+<g id="phase-1-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 300 270 88" fill="#C3D6DC" stroke="none">
+<path d="M 64 300 L 290 300 L 334 344 L 290 388 L 64 388 L 108 344 Z" />
+</g>
+    <text x="122" y="340" font-size="24" font-weight="bold" fill="#1F4B57">Phase 1</text>
+    <text x="122" y="366" font-size="18" fill="#1F4B57">Sep-Nov 2026</text>
+  </g>
+  <g id="phase-2" data-pptx-bounds="358 300 270 88">
+<g id="phase-2-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="358 300 270 88" fill="#A8C4CC" stroke="none">
+<path d="M 358 300 L 584 300 L 628 344 L 584 388 L 358 388 L 402 344 Z" />
+</g>
+    <text x="416" y="340" font-size="24" font-weight="bold" fill="#1F4B57">Phase 2</text>
+    <text x="416" y="366" font-size="18" fill="#1F4B57">Dec 2026-Feb 2027</text>
+  </g>
+  <g id="phase-3" data-pptx-bounds="652 300 270 88">
+<g id="phase-3-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="652 300 270 88" fill="#6A9AA8" stroke="none">
+<path d="M 652 300 L 878 300 L 922 344 L 878 388 L 652 388 L 696 344 Z" />
+</g>
+    <text x="710" y="340" font-size="24" font-weight="bold" fill="#1F4B57">Phase 3</text>
+    <text x="710" y="366" font-size="18" fill="#1F4B57">Mar-May 2027</text>
+  </g>
+  <g id="phase-4" data-pptx-bounds="946 300 270 88">
+<g id="phase-4-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="946 300 270 88" fill="#1F4B57" stroke="none">
+<path d="M 946 300 L 1172 300 L 1216 344 L 1172 388 L 946 388 L 990 344 Z" />
+</g>
+    <text x="1004" y="340" font-size="24" font-weight="bold" fill="#FFFFFF">Phase 4</text>
+    <text x="1004" y="366" font-size="18" fill="#FFFFFF">Jun-Aug 2027</text>
+  </g>
+  <g id="p09-detail-1" data-pptx-bounds="64 404 270 194">
+    <text x="64" y="430" font-size="24" font-weight="bold" fill="#1F4B57">Baseline and root cause</text>
+    <text font-size="18" fill="#23282D" x="64" y="458">Attendance data audit, barrier</text><text font-size="18" fill="#23282D" x="64" y="480">survey, site interviews.</text><text x="64" y="520" font-size="16" letter-spacing="1" fill="#5A6368">DELIVERABLE</text>
+    <text font-size="18" fill="#23282D" x="64" y="546">Baseline report with a root-</text><text font-size="18" fill="#23282D" x="64" y="568">cause profile for each site.</text></g>
+  <g id="p09-detail-2" data-pptx-bounds="358 404 270 194">
+    <text x="358" y="430" font-size="24" font-weight="bold" fill="#1F4B57">Design and build</text>
+    <text font-size="18" fill="#23282D" x="358" y="458">Early-warning thresholds, the</text><text font-size="18" fill="#23282D" x="358" y="480">teacher dashboard spec, the</text><text font-size="18" fill="#23282D" x="358" y="502">family contact playbook.</text><text x="358" y="520" font-size="16" letter-spacing="1" fill="#5A6368">DELIVERABLE</text>
+    <text font-size="18" fill="#23282D" x="358" y="546">The attendance operating</text><text font-size="18" fill="#23282D" x="358" y="568">manual.</text></g>
+  <g id="p09-detail-3" data-pptx-bounds="652 404 270 194">
+    <text x="652" y="430" font-size="24" font-weight="bold" fill="#1F4B57">Pilot at three schools</text>
+    <text font-size="18" fill="#23282D" x="652" y="458">Tier 1 and Tier 2 live, with</text><text font-size="18" fill="#23282D" x="652" y="480">weekly case review.</text><text x="652" y="520" font-size="16" letter-spacing="1" fill="#5A6368">DELIVERABLE</text>
+    <text font-size="18" fill="#23282D" x="652" y="546">Pilot results measured</text><text font-size="18" fill="#23282D" x="652" y="568">against the baseline.</text></g>
+  <g id="p09-detail-4" data-pptx-bounds="946 404 270 194">
+    <text x="946" y="430" font-size="24" font-weight="bold" fill="#1F4B57">Rollout preparation</text>
+    <text font-size="18" fill="#23282D" x="946" y="458">Training for every site</text><text font-size="18" fill="#23282D" x="946" y="480">attendance lead.</text><text x="946" y="520" font-size="16" letter-spacing="1" fill="#5A6368">DELIVERABLE</text>
+    <text font-size="18" fill="#23282D" x="946" y="546">Trained attendance leads at</text><text font-size="18" fill="#23282D" x="946" y="568">every site.</text></g>
+  <g id="p09-dependencies" data-pptx-bounds="64 612 1152 100">
+    <rect x="64" y="612" width="1152" height="72" rx="12" fill="#F4F1EC" />
+    
+  <g transform="translate(88, 626) scale(1.08333)" fill="none" stroke="#1F4B57" stroke-width="2">
+    <path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2" />
+    <path d="M9 5a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2" />
+    <path d="M9 14l2 2l4 -4" />
+  </g>
+    <text font-size="18" fill="#23282D" x="126" y="648"><tspan font-weight="bold" fill="#1F4B57">What Riverbend supplies</tspan> — data access within two weeks of start, a named executive sponsor, released</text><text font-size="18" fill="#23282D" x="126" y="672">time for the site attendance leads, and family-contact consent under district policy.</text><text x="64" y="706" font-size="16" fill="#B0722B">Every phase, date and deliverable on this page is illustrative and would be fixed in a statement of work.</text>
+  </g>
+</svg>

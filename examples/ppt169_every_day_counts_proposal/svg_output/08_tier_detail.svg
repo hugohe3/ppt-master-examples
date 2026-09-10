@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="p08-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="p08-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">HOW THE SYSTEM WORKS</text>
+    <rect x="938" y="76" width="278" height="28" rx="14" fill="#B0722B" fill-opacity="0.12"/>
+    <text x="1077" y="95" font-size="16" text-anchor="middle" fill="#B0722B">Contains illustrative figures</text>
+  </g>
+  <g id="p08-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">Every tier has a trigger, an owner, and a limit</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1"/>
+  </g>
+  <g id="p08-lead" data-pptx-bounds="64 194 1152 44">
+    <text x="64" y="220" font-size="28" fill="#23282D">The system escalates on <tspan font-weight="bold" fill="#1F4B57">data</tspan>, not on frustration.</text>
+  </g>
+  <g id="tier-3" data-pptx-bounds="172 296 176 88">
+<g id="tier-3-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="176 300 168 80" fill="#1F4B57" stroke="none">
+<path d="M 176 380 L 196 300 L 324 300 L 344 380 Z"/>
+</g>
+    <text x="260" y="352" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#FFFFFF">3</text>
+  </g>
+  <g id="tier-2" data-pptx-bounds="136 384 248 88">
+<g id="tier-2-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="140 388 240 80" fill="#6A9AA8" stroke="none">
+<path d="M 140 468 L 160 388 L 360 388 L 380 468 Z"/>
+</g>
+    <text x="260" y="440" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#1F4B57">2</text>
+  </g>
+  <g id="tier-1" data-pptx-bounds="100 472 320 88">
+<g id="tier-1-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="104 476 312 80" fill="#A8C4CC" stroke="none">
+<path d="M 104 556 L 124 476 L 396 476 L 416 556 Z"/>
+</g>
+    <text x="260" y="528" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#1F4B57">1</text>
+  </g>
+  <g id="p08-tier3-detail" data-pptx-bounds="460 296 756 88">
+    <text x="460" y="318" font-size="18" fill="#23282D"><tspan font-weight="bold" fill="#1F4B57">Trigger</tspan> — already chronically absent, or referred by the attendance team<tspan x="460" dy="26"><tspan font-weight="bold" fill="#1F4B57">Action</tspan> — case review, home visit, community partner referral, family attendance plan</tspan><tspan x="460" dy="26"><tspan font-weight="bold" fill="#1F4B57">Owner</tspan> — district attendance coordinator</tspan></text>
+  </g>
+  <g id="p08-tier2-detail" data-pptx-bounds="460 384 756 88">
+    <text x="460" y="406" font-size="18" fill="#23282D"><tspan font-weight="bold" fill="#1F4B57">Trigger</tspan> — passes the early-warning threshold in a rolling window<tspan x="460" dy="26"><tspan font-weight="bold" fill="#1F4B57">Action</tspan> — same-week family contact, a named adult, a barrier check on health/transport</tspan><tspan x="460" dy="26"><tspan font-weight="bold" fill="#1F4B57">Owner</tspan> — site attendance lead</tspan></text>
+  </g>
+  <g id="p08-tier1-detail" data-pptx-bounds="460 472 756 88">
+    <text x="460" y="494" font-size="18" fill="#23282D"><tspan font-weight="bold" fill="#1F4B57">Trigger</tspan> — enrolled<tspan x="460" dy="26"><tspan font-weight="bold" fill="#1F4B57">Action</tspan> — attendance expectations, positive messaging, daily data for every teacher</tspan><tspan x="460" dy="26"><tspan font-weight="bold" fill="#1F4B57">Owner</tspan> — site principal</tspan></text>
+  </g>
+  <g id="p08-boundary" data-pptx-bounds="64 584 1152 100">
+    <rect x="64" y="584" width="1152" height="100" rx="12" fill="#F4F1EC"/>
+    <rect x="64" y="584" width="4" height="100" fill="#B0722B"/>
+    <use data-icon="tabler-outline/alert-triangle" x="92" y="596" width="26" height="26" fill="#B0722B" stroke-width="2"/>
+    <text x="130" y="618" font-size="24" fill="#23282D">The boundary: legal action is used only as a <tspan font-weight="bold" fill="#B0722B">very last resort</tspan>.</text>
+    <text x="130" y="650" font-size="18" fill="#5A6368">England's statutory guidance takes the same shape: schools and local authorities support first, and legal<tspan x="130" dy="24">interventions apply only where attendance support does not work, is not engaged with, or is not appropriate.</tspan></text>
+  </g>
+  <g id="p08-source" data-pptx-bounds="64 690 1152 30">
+    <text x="64" y="708" font-size="16" fill="#5A6368">Sources: Framework for Action (ERIC ED617466, 2017); Department for Education, Working together to improve school attendance, first published 6 May 2022.</text>
+  </g>
+</svg>

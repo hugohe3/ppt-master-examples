@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "pdf_to_md.py",
+  "conversion_type": "pdf",
+  "source": {
+    "path": "ERIC_ED617466_chronic_absenteeism_essa.pdf",
+    "name": "ERIC_ED617466_chronic_absenteeism_essa.pdf",
+    "suffix": ".pdf",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 230649
+  },
+  "outputs": {
+    "markdown": "ERIC_ED617466_chronic_absenteeism_essa.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 273,
+    "char_count": 34232,
+    "heading_count": 34,
+    "table_count": 3,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}

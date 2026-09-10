@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="p02-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="p02-topbar" data-pptx-bounds="64 76 1152 30">
+    <text x="64" y="94" font-size="18" letter-spacing="2" fill="#5A6368">THE SITUATION</text>
+    <rect x="938" y="76" width="278" height="28" rx="14" fill="#B0722B" fill-opacity="0.12" />
+    <text x="1077" y="95" font-size="16" text-anchor="middle" fill="#B0722B">Contains illustrative figures</text>
+  </g>
+  <g id="p02-title" data-pptx-bounds="64 116 1152 64">
+    <text x="64" y="150" font-family="Trebuchet MS, sans-serif" font-size="40" font-weight="bold" fill="#1F4B57">Chronically absent without ever being truant</text>
+    <line x1="64" y1="176" x2="1216" y2="176" stroke="#DDD8D0" stroke-width="1" />
+  </g>
+  <g id="p02-lead" data-pptx-bounds="64 194 1152 78">
+    <text font-size="28" fill="#23282D" x="64" y="220">Chronic absenteeism is a count of missed days for any reason —</text><text font-size="28" fill="#23282D" x="64" y="258">which is why it can be managed like any other operating metric.</text></g>
+  <g id="p02-hero" data-pptx-bounds="64 280 356 180">
+    <rect x="64" y="280" width="356" height="180" rx="16" fill="#FAF8F5" stroke="#DDD8D0" stroke-width="1" />
+    <text x="100" y="360" font-family="Trebuchet MS, sans-serif" font-size="72" font-weight="bold" fill="#E07A3F">18</text>
+    <text x="204" y="360" font-family="Trebuchet MS, sans-serif" font-size="32" fill="#1F4B57">days</text>
+    <text x="100" y="404" font-size="24" fill="#23282D">10% of a 180-day school year</text>
+    <text x="100" y="436" font-size="20" fill="#5A6368">0.10 × 180 = 18</text>
+  </g>
+  <g id="p02-definition" data-pptx-bounds="456 280 760 176">
+    <text x="456" y="302" font-size="18" letter-spacing="2" fill="#5A6368">HOW IT IS COUNTED</text>
+    <text font-size="24" fill="#23282D" x="456" y="340">Missing <tspan font-weight="bold" fill="#1F4B57">10 percent or more</tspan> of school days for any reason —</text><text font-size="24" fill="#23282D" x="456" y="374">excused, unexcused, or suspension.</text><text x="456" y="410" font-size="16" fill="#5A6368">Framework for Action: Addressing Chronic Absenteeism through ESSA (ERIC ED617466, 2017)</text>
+    <text x="456" y="442" font-size="18" fill="#5A6368">The federal report-card measure counts 15 days or more; ESSA requires the rate on report cards.</text>
+  </g>
+  <g id="p02-absence-types" data-pptx-bounds="64 476 440 172">
+    <rect x="64" y="480" width="440" height="48" rx="24" fill="#F4F1EC" />
+    
+  <g transform="translate(84, 492)" fill="none" stroke="#6A9AA8" stroke-width="2">
+    <path d="M6 4h-1a2 2 0 0 0 -2 2v3.5a5.5 5.5 0 0 0 11 0v-3.5a2 2 0 0 0 -2 -2h-1" />
+    <path d="M8 15a6 6 0 1 0 12 0v-3" />
+    <path d="M11 3v2" />
+    <path d="M6 3v2" />
+    <path d="M18 10a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  </g>
+    <text x="120" y="512" font-size="24" fill="#23282D">Excused — illness, appointments</text>
+    <rect x="64" y="540" width="440" height="48" rx="24" fill="#F4F1EC" />
+    
+  <g transform="translate(84, 552)" fill="none" stroke="#6A9AA8" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+    <text x="120" y="572" font-size="24" fill="#23282D">Unexcused — no accepted reason</text>
+    <rect x="64" y="600" width="440" height="48" rx="24" fill="#F4F1EC" />
+    
+  <g transform="translate(84, 612)" fill="none" stroke="#6A9AA8" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+    <text x="120" y="632" font-size="24" fill="#23282D">Days out on suspension</text>
+  </g>
+<g id="p02-count-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightBrace" data-pptx-frame="516 480 32 168" fill="none" stroke="#6A9AA8" stroke-width="2.5">
+<path d="M 516 480 A 16 2.67 0 0 1 532 482.67 L 532 561.33 A 16 2.67 0 0 0 548 564 A 16 2.67 0 0 0 532 566.67 L 532 645.33 A 16 2.67 0 0 1 516 648 Z" stroke="none" />
+<path d="M 516 480 A 16 2.67 0 0 1 532 482.67 L 532 561.33 A 16 2.67 0 0 0 548 564 A 16 2.67 0 0 0 532 566.67 L 532 645.33 A 16 2.67 0 0 1 516 648" />
+</g>
+  <g id="p02-baseline" data-pptx-bounds="624 476 592 164">
+    <text x="624" y="512" font-size="28" font-weight="bold" fill="#1F4B57">All three count the same way</text>
+    <text font-size="24" fill="#23282D" x="624" y="556">Riverbend's own baseline for 2025-26 is <tspan font-weight="bold" fill="#1F4B57">31%</tspan> —</text><text font-size="24" fill="#23282D" x="624" y="590">about 3,100 of 10,000 students. That is the</text><text font-size="24" fill="#23282D" x="624" y="624">number this proposal moves.</text><text x="624" y="632" font-size="18" fill="#B0722B">Illustrative district figures</text>
+  </g>
+</svg>
