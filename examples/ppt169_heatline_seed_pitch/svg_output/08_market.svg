@@ -1,0 +1,569 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1"/>
+  <g id="page-header" data-pptx-bounds="64 66 1152 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">5,500 reachable seats. £11.9M of ARR.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="1216" y2="132" stroke="#16233A" stroke-width="2"/>
+  </g>
+  <g id="market-derivation" data-pptx-replace-with="table" data-pptx-bounds="64 164 1152 280" data-pptx-fallback-sha256="8506e319d40dd01d9438996cf824b62858059a003e49a0e928155269d0aa6e05">
+    <metadata type="application/json">
+{
+      "schema": "ppt-master.semantic-table.v2",
+      "x": 64,
+      "y": 164,
+      "width": 1152,
+      "height": 280,
+      "name": "market-derivation",
+      "columns": [
+            {
+                  "align": "l",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "bold": true,
+                  "text": "Stage"
+            },
+            {
+                  "align": "r",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "bold": true,
+                  "text": "Seats"
+            },
+            {
+                  "align": "l",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "bold": true,
+                  "text": "How it is derived"
+            },
+            {
+                  "align": "ctr",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "bold": true,
+                  "text": "Basis"
+            }
+      ],
+      "rows": [
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "European installer seats",
+                              "at full build-out"
+                        ]
+                  },
+                  {
+                        "align": "r",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              {
+                                    "align": "r",
+                                    "runs": [
+                                          {
+                                                "text": "824,000",
+                                                "font_family": "Consolas",
+                                                "color": "#1F2733"
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "74,000 today (117,000 less 37% in",
+                              "manufacturing) plus 750,000 more needed"
+                        ]
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#2E6F5E",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Real"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "Four launch markets:",
+                              "UK, IE, DE, NL"
+                        ]
+                  },
+                  {
+                        "align": "r",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              {
+                                    "align": "r",
+                                    "runs": [
+                                          {
+                                                "text": "118,000",
+                                                "font_family": "Consolas",
+                                                "color": "#1F2733"
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Share of European installation volume"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#D65A1E",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Illustrative"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "Firms with six or more",
+                              "engineers"
+                        ]
+                  },
+                  {
+                        "align": "r",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              {
+                                    "align": "r",
+                                    "runs": [
+                                          {
+                                                "text": "46,000",
+                                                "font_family": "Consolas",
+                                                "color": "#1F2733"
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "The segment reporting staffing as its binding constraint"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#D65A1E",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Illustrative"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Target penetration by 2031"
+                  },
+                  {
+                        "align": "r",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              {
+                                    "align": "r",
+                                    "runs": [
+                                          {
+                                                "text": "5,500",
+                                                "font_family": "Consolas",
+                                                "color": "#1F2733"
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "12% of the reachable base"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#D65A1E",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Illustrative"
+                  }
+            ]
+      ],
+      "column_widths": [
+            320,
+            140,
+            560,
+            132
+      ],
+      "row_heights": [
+            40,
+            60,
+            60,
+            60,
+            60
+      ],
+      "header_rows": 1,
+      "style": {
+            "font_family": "Calibri",
+            "font_size": 18,
+            "header_font_size": 18,
+            "header_fill": "#16233A",
+            "header_text": "#FBF7F1",
+            "body_text": "#1F2733",
+            "band_row": false,
+            "valign": "middle",
+            "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+            }
+      }
+}
+    </metadata>
+    <rect x="64" y="164" width="1152" height="40" fill="#16233A"/>
+    <text x="80" y="190" font-size="18" font-weight="bold" fill="#FBF7F1">Stage</text>
+    <text x="508" y="190" font-size="18" font-weight="bold" fill="#FBF7F1" text-anchor="end">Seats</text>
+    <text x="540" y="190" font-size="18" font-weight="bold" fill="#FBF7F1">How it is derived</text>
+    <text x="1150" y="190" font-size="18" font-weight="bold" fill="#FBF7F1" text-anchor="middle">Basis</text>
+    <text x="80" y="230" font-size="18" fill="#1F2733">European installer seats<tspan x="80" dy="24">at full build-out</tspan></text>
+    <text x="508" y="240" font-family="Consolas, monospace" font-size="18" fill="#1F2733" text-anchor="end">824,000</text>
+    <text x="540" y="230" font-size="18" fill="#1F2733">74,000 today (117,000 less 37% in<tspan x="540" dy="24">manufacturing) plus 750,000 more needed</tspan></text>
+    <text x="1150" y="240" font-size="18" fill="#2E6F5E" text-anchor="middle">Real</text>
+    <line x1="64" y1="264" x2="1216" y2="264" stroke="#C9BCA8" stroke-width="1"/>
+    <text x="80" y="290" font-size="18" fill="#1F2733">Four launch markets:<tspan x="80" dy="24">UK, IE, DE, NL</tspan></text>
+    <text x="508" y="300" font-family="Consolas, monospace" font-size="18" fill="#1F2733" text-anchor="end">118,000</text>
+    <text x="540" y="300" font-size="18" fill="#1F2733">Share of European installation volume</text>
+    <text x="1150" y="300" font-size="18" fill="#D65A1E" text-anchor="middle">Illustrative</text>
+    <line x1="64" y1="324" x2="1216" y2="324" stroke="#C9BCA8" stroke-width="1"/>
+    <text x="80" y="350" font-size="18" fill="#1F2733">Firms with six or more<tspan x="80" dy="24">engineers</tspan></text>
+    <text x="508" y="360" font-family="Consolas, monospace" font-size="18" fill="#1F2733" text-anchor="end">46,000</text>
+    <text x="540" y="360" font-size="18" fill="#1F2733">The segment reporting staffing as its binding constraint</text>
+    <text x="1150" y="360" font-size="18" fill="#D65A1E" text-anchor="middle">Illustrative</text>
+    <line x1="64" y1="384" x2="1216" y2="384" stroke="#C9BCA8" stroke-width="1"/>
+    <text x="80" y="420" font-size="18" fill="#1F2733">Target penetration by 2031</text>
+    <text x="508" y="420" font-family="Consolas, monospace" font-size="18" fill="#1F2733" text-anchor="end">5,500</text>
+    <text x="540" y="420" font-size="18" fill="#1F2733">12% of the reachable base</text>
+    <text x="1150" y="420" font-size="18" fill="#D65A1E" text-anchor="middle">Illustrative</text>
+    <line x1="64" y1="444" x2="1216" y2="444" stroke="#C9BCA8" stroke-width="1"/>
+  </g>
+  <g id="market-revenue" data-pptx-bounds="64 486 1152 134">
+    <text x="64" y="580" font-family="Arial Black, sans-serif" font-size="108" fill="#D65A1E">£11.9M</text>
+    <text x="560" y="545" font-size="30" fill="#16233A">5,500 seats × £180 × 12 = £11.9M ARR<tspan x="560" dy="42">at target penetration in 2031</tspan></text>
+  </g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">Stage 1 derives from European Commission and EHPA figures; stages 2–4 and the revenue are illustrative.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1"/>
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

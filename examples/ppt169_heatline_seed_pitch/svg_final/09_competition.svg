@@ -1,0 +1,714 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1" />
+  <g id="page-header" data-pptx-bounds="64 66 1152 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">Nobody else plans capacity months out.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="1216" y2="132" stroke="#16233A" stroke-width="2" />
+  </g>
+  <g id="competition-matrix" data-pptx-replace-with="table" data-pptx-bounds="64 164 1152 404" data-pptx-fallback-sha256="d047e98fff947ed9f79d9eae9f1a5d173a4f7d9a6758ed458acd5fb9c2d7620c">
+    <metadata type="application/json">
+{
+      "schema": "ppt-master.semantic-table.v2",
+      "x": 64,
+      "y": 164,
+      "width": 1152,
+      "height": 404,
+      "name": "competition-matrix",
+      "columns": [
+            {
+                  "align": "l",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "bold": true,
+                  "paragraphs": [
+                        "What decides the purchase"
+                  ]
+            },
+            {
+                  "align": "ctr",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "bold": true,
+                  "paragraphs": [
+                        "Spreadsheets and",
+                        "shared calendars"
+                  ]
+            },
+            {
+                  "align": "ctr",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "bold": true,
+                  "paragraphs": [
+                        "Generic field-service",
+                        "software"
+                  ]
+            },
+            {
+                  "align": "ctr",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "bold": true,
+                  "paragraphs": [
+                        "Heatline"
+                  ]
+            }
+      ],
+      "rows": [
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Plans crew capacity months ahead"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#6B6154",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "No"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#6B6154",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "No"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#2E6F5E",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Yes"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Models engineer accreditation and training"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#6B6154",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "No"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#6B6154",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Partly"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#2E6F5E",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Yes"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "Sequences survey → install → commission",
+                              "against part lead times"
+                        ]
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#6B6154",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Manual"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#6B6154",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Partly"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#2E6F5E",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Yes"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "Holds grant and compliance paperwork",
+                              "on the job record"
+                        ]
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#6B6154",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Manual"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#6B6154",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "No"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#2E6F5E",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Yes"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Published price per engineer per month"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "£0"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "$49–$499 per month per plan"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "£180"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Where it genuinely wins"
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "Free, instantly flexible,",
+                              "no implementation"
+                        ]
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "Mature dispatch, invoicing",
+                              "and integrations"
+                        ]
+                  },
+                  {
+                        "align": "ctr",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "paragraphs": [
+                              "Capacity horizon and",
+                              "accreditation state"
+                        ]
+                  }
+            ]
+      ],
+      "column_widths": [
+            380,
+            250,
+            290,
+            232
+      ],
+      "row_heights": [
+            68,
+            44,
+            44,
+            68,
+            68,
+            44,
+            68
+      ],
+      "header_rows": 1,
+      "style": {
+            "font_family": "Calibri",
+            "font_size": 18,
+            "header_font_size": 18,
+            "header_fill": "#16233A",
+            "header_text": "#FBF7F1",
+            "body_text": "#1F2733",
+            "band_row": false,
+            "valign": "middle",
+            "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+            }
+      }
+}
+    </metadata>
+    <rect x="64" y="164" width="1152" height="68" fill="#16233A" />
+    <text x="80" y="202" font-size="18" font-weight="bold" fill="#FBF7F1">What decides the purchase</text>
+    <text text-anchor="middle" font-weight="bold" font-size="18" fill="#FBF7F1" x="569" y="190">Spreadsheets and</text><text text-anchor="middle" font-weight="bold" font-size="18" fill="#FBF7F1" x="569" y="214">shared calendars</text><text text-anchor="middle" font-weight="bold" font-size="18" fill="#FBF7F1" x="839" y="190">Generic field-service</text><text text-anchor="middle" font-weight="bold" font-size="18" fill="#FBF7F1" x="839" y="214">software</text><text x="1100" y="202" font-size="18" font-weight="bold" fill="#FBF7F1" text-anchor="middle">Heatline</text>
+    <text x="80" y="260" font-size="18" fill="#1F2733">Plans crew capacity months ahead</text>
+    <text x="569" y="260" font-size="18" fill="#6B6154" text-anchor="middle">No</text>
+    <text x="839" y="260" font-size="18" fill="#6B6154" text-anchor="middle">No</text>
+    <text x="1100" y="260" font-size="18" fill="#2E6F5E" text-anchor="middle">Yes</text>
+    <line x1="64" y1="276" x2="1216" y2="276" stroke="#C9BCA8" stroke-width="1" />
+    <text x="80" y="304" font-size="18" fill="#1F2733">Models engineer accreditation and training</text>
+    <text x="569" y="304" font-size="18" fill="#6B6154" text-anchor="middle">No</text>
+    <text x="839" y="304" font-size="18" fill="#6B6154" text-anchor="middle">Partly</text>
+    <text x="1100" y="304" font-size="18" fill="#2E6F5E" text-anchor="middle">Yes</text>
+    <line x1="64" y1="320" x2="1216" y2="320" stroke="#C9BCA8" stroke-width="1" />
+    <text font-size="18" fill="#1F2733" x="80" y="346">Sequences survey → install → commission</text><text font-size="18" fill="#1F2733" x="80" y="370">against part lead times</text><text x="569" y="348" font-size="18" fill="#6B6154" text-anchor="middle">Manual</text>
+    <text x="839" y="348" font-size="18" fill="#6B6154" text-anchor="middle">Partly</text>
+    <text x="1100" y="348" font-size="18" fill="#2E6F5E" text-anchor="middle">Yes</text>
+    <line x1="64" y1="388" x2="1216" y2="388" stroke="#C9BCA8" stroke-width="1" />
+    <text font-size="18" fill="#1F2733" x="80" y="414">Holds grant and compliance paperwork</text><text font-size="18" fill="#1F2733" x="80" y="438">on the job record</text><text x="569" y="416" font-size="18" fill="#6B6154" text-anchor="middle">Manual</text>
+    <text x="839" y="416" font-size="18" fill="#6B6154" text-anchor="middle">No</text>
+    <text x="1100" y="416" font-size="18" fill="#2E6F5E" text-anchor="middle">Yes</text>
+    <line x1="64" y1="456" x2="1216" y2="456" stroke="#C9BCA8" stroke-width="1" />
+    <text x="80" y="484" font-size="18" fill="#1F2733">Published price per engineer per month</text>
+    <text x="569" y="484" font-size="18" fill="#1F2733" text-anchor="middle">£0</text>
+    <text x="839" y="484" font-size="18" fill="#1F2733" text-anchor="middle">$49–$499 per month per plan</text>
+    <text x="1100" y="484" font-size="18" fill="#1F2733" text-anchor="middle">£180</text>
+    <line x1="64" y1="500" x2="1216" y2="500" stroke="#C9BCA8" stroke-width="1" />
+    <text x="80" y="528" font-size="18" fill="#1F2733">Where it genuinely wins</text>
+    <text text-anchor="middle" font-size="18" fill="#1F2733" x="569" y="526">Free, instantly flexible,</text><text text-anchor="middle" font-size="18" fill="#1F2733" x="569" y="550">no implementation</text><text text-anchor="middle" font-size="18" fill="#1F2733" x="839" y="526">Mature dispatch, invoicing</text><text text-anchor="middle" font-size="18" fill="#1F2733" x="839" y="550">and integrations</text><text text-anchor="middle" font-size="18" fill="#1F2733" x="1100" y="526">Capacity horizon and</text><text text-anchor="middle" font-size="18" fill="#1F2733" x="1100" y="550">accreditation state</text><line x1="64" y1="568" x2="1216" y2="568" stroke="#C9BCA8" stroke-width="1" />
+  </g>
+  <g id="competition-closing" data-pptx-bounds="64 583 1152 26">
+    <text x="64" y="600" font-size="18" fill="#1F2733">We are not claiming these tools are bad. None of them answers the question an installer asks in January about August.</text>
+  </g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">Heatline capability and price are illustrative; no vendor is named. Comparator: Jobber published pricing, 2026-09-10.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1" />
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

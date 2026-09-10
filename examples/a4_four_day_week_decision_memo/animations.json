@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.5 },
+    "animation": { "effect": "none", "duration": 0.4, "trigger": "after-previous" }
+  },
+  "slides": {
+    "01_executive_synthesis": {
+      "groups": {
+        "the-answer": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "hero-evidence": { "effect": "entrance_fade", "order": 2, "delay": 0.2 },
+        "support-wellbeing": { "effect": "entrance_fade", "order": 3 },
+        "support-business": { "effect": "entrance_fade", "order": 4 },
+        "support-sector": { "effect": "entrance_fade", "order": 5 },
+        "evidence-gap": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 6, "delay": 0.3, "duration": 0.6 }
+      }
+    },
+    "02_situation_complication": {
+      "groups": {
+        "situation-column": { "effect": "entrance_fade", "order": 1 },
+        "complication-column": { "effect": "entrance_fade", "order": 2 },
+        "nominal-vs-actual-hours": { "effect": "entrance_fade", "order": 3, "duration": 0.6 },
+        "governing-question": { "effect": "entrance_fade", "order": 4, "delay": 0.3 }
+      }
+    },
+    "03_driver_decomposition": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "02_situation_complication",
+        "pairs": { "governing-question": { "from": "governing-question", "to": "governing-question" } }
+      },
+      "groups": {
+        "control-boundary": { "effect": "entrance_fade", "order": 1, "delay": 0.3 },
+        "p03-control-brace": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.6 },
+        "driver-recoverable-hours": { "effect": "entrance_fade", "order": 3 },
+        "driver-redesign-effort": { "effect": "entrance_fade", "order": 4 },
+        "driver-retention-economics": { "effect": "entrance_fade", "order": 5 },
+        "driver-client-tolerance": { "effect": "entrance_fade", "order": 6, "delay": 0.3 }
+      }
+    },
+    "04_evidence_diagnosis": {
+      "groups": {
+        "established-column": { "effect": "entrance_fade", "order": 1 },
+        "not-established-column": { "effect": "entrance_fade", "order": 2, "delay": 0.2 },
+        "uk-2022-measured-changes": { "effect": "entrance_fade", "order": 3, "duration": 0.6 },
+        "method-pattern": { "effect": "entrance_fade", "order": 4, "delay": 0.2 }
+      }
+    },
+    "05_cohort_persistence": {
+      "groups": {
+        "cohort-persistence": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "qualification-entitlement": { "effect": "entrance_fade", "order": 2, "delay": 0.2 },
+        "qualification-base": { "effect": "entrance_fade", "order": 3 }
+      }
+    },
+    "06_study_comparability": {
+      "groups": {
+        "study-comparability": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "conflict-iceland": { "effect": "entrance_fade", "order": 2, "delay": 0.2 },
+        "conflict-south-cambs": { "effect": "entrance_fade", "order": 3 }
+      }
+    },
+    "07_recommendation": {
+      "groups": {
+        "the-action": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "pilot-band": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.7 },
+        "choice-redesign-first": { "effect": "entrance_fade", "order": 3 },
+        "choice-universal-day": { "effect": "entrance_fade", "order": 4 },
+        "choice-measure-first": { "effect": "entrance_fade", "order": 5 },
+        "choice-no-entitlement": { "effect": "entrance_fade", "order": 6 },
+        "kill-criteria": { "effect": "entrance_fade", "order": 7, "delay": 0.3 },
+        "not-recommended": { "effect": "entrance_fade", "order": 8, "delay": 0.2 }
+      }
+    },
+    "08_roadmap": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "07_recommendation",
+        "pairs": { "pilot-band": { "from": "pilot-band", "to": "pilot-band" } }
+      },
+      "groups": {
+        "phase-redesign-margin": { "effect": "entrance_fade", "order": 1, "delay": 0.3 },
+        "phase-redesign": { "effect": "entrance_fade", "order": 2, "trigger": "with-previous" },
+        "phase-operate-margin": { "effect": "entrance_fade", "order": 3 },
+        "phase-operate": { "effect": "entrance_fade", "order": 4, "trigger": "with-previous" },
+        "gate-a-margin": { "effect": "entrance_fade", "order": 5 },
+        "gate-a": { "effect": "entrance_fade", "order": 6, "trigger": "with-previous" },
+        "phase-evaluate-margin": { "effect": "entrance_fade", "order": 7 },
+        "phase-evaluate": { "effect": "entrance_fade", "order": 8, "trigger": "with-previous" },
+        "gate-b-margin": { "effect": "entrance_fade", "order": 9 },
+        "gate-b": { "effect": "entrance_fade", "order": 10, "trigger": "with-previous" }
+      }
+    },
+    "09_risk_mitigation": {
+      "groups": {
+        "risk-matrix": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "binding-risk-note": { "effect": "entrance_fade", "order": 2, "delay": 0.3 },
+        "risk-register": { "effect": "entrance_fade", "order": 3, "duration": 0.6 }
+      }
+    },
+    "10_appendix_evidence": {
+      "groups": {
+        "standing-limitations": { "effect": "entrance_fade", "order": 1 },
+        "source-ledger-left": { "effect": "entrance_fade", "order": 2 },
+        "source-ledger-right": { "effect": "entrance_fade", "order": 3, "trigger": "with-previous" }
+      }
+    }
+  }
+}

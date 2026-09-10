@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <line id="evidence-rule" data-pptx-role="decoration" x1="430" y1="396" x2="430" y2="890" stroke="#D6D2C9" stroke-width="1"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">4 · Current-state diagnosis</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1"/>
+  </g>
+
+  <g id="page-title" data-pptx-bounds="80 160 1020 112">
+    <text x="80" y="200" font-size="44" font-weight="bold" fill="#16232E"><tspan x="80" dy="0">The wellbeing result is established; the</tspan><tspan x="80" dy="54">business result is unproven</tspan></text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="80 290 1020 80">
+    <text x="80" y="316" font-size="30" fill="#4A6B7C"><tspan x="80" dy="0">Nothing in the public record establishes that revenue or retention</tspan><tspan x="80" dy="42">improves.</tspan></text>
+  </g>
+
+  <g id="established-margin" data-pptx-bounds="80 422 330 120">
+    <text x="80" y="436" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#16232E">ESTABLISHED</text>
+    <text x="80" y="470" font-size="20" fill="#5C6871"><tspan x="80" dy="0">Controlled, replicated,</tspan><tspan x="80" dy="26">peer-reviewed.</tspan></text>
+    <text x="80" y="536" font-size="16" fill="#6E777E">F050 · F062</text>
+  </g>
+
+  <g id="established-column" data-pptx-bounds="460 412 700 226">
+    <text x="460" y="436" font-size="26" fill="#16232E"><tspan x="460" dy="0">A controlled study of nearly 2,900 workers across 141</tspan><tspan x="460" dy="38">organisations in six countries found gains in burnout,</tspan><tspan x="460" dy="38">job satisfaction and mental and physical health that</tspan><tspan x="460" dy="38">were absent in its controls. Germany’s instrumented</tspan><tspan x="460" dy="38">pilot found the same falls in stress and burnout against</tspan><tspan x="460" dy="38">its own control groups.</tspan></text>
+  </g>
+
+  <g id="not-established-margin" data-pptx-bounds="80 676 330 120">
+    <text x="80" y="690" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#6E777E">NOT ESTABLISHED</text>
+    <text x="80" y="724" font-size="20" fill="#5C6871"><tspan x="80" dy="0">Stated by the reporting</tspan><tspan x="80" dy="26">authors themselves.</tspan></text>
+    <text x="80" y="790" font-size="16" fill="#6E777E">F010 · F051 · F052</text>
+  </g>
+
+  <g id="not-established-column" data-pptx-bounds="460 666 700 226">
+    <text x="460" y="690" font-size="26" fill="#16232E"><tspan x="460" dy="0">The UK 2022 report states that its resignation, new-hire</tspan><tspan x="460" dy="38">and absence trends cannot be called statistically</tspan><tspan x="460" dy="38">significant, given small sample numbers and</tspan><tspan x="460" dy="38">labour-market contingencies. Germany found sick</tspan><tspan x="460" dy="38">days, turnover and profit changed only slightly and not</tspan><tspan x="460" dy="38">significantly.</tspan></text>
+  </g>
+
+  <g id="uk-2022-measured-changes" data-pptx-replace-with="chart" data-pptx-bounds="80 920 1080 400" data-pptx-fallback-sha256="8cf12d3db8bfcecf54381e45b780b784130054be780ff99ec274aff1ca1388ae">
+    <metadata type="application/json">
+{
+  "x": 80, "y": 920, "width": 1080, "height": 400,
+  "name": "uk-2022-measured-changes",
+  "type": "bar",
+  "grouping": "clustered",
+  "gap_width": 60,
+  "plot_area": {"x": 430, "y": 950, "width": 670, "height": 230},
+  "categories": ["Revenue vs a year earlier", "Revenue, start to end", "Headcount", "Resignations per 100", "Sick and personal days"],
+  "series": [
+    {
+      "name": "Change during the six-month trial",
+      "values": [0.345, 0.014, -0.013, -0.57, -0.65],
+      "point_colors": ["#16232E", "#16232E", "#16232E", "#6E777E", "#6E777E"]
+    }
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "left", "label_position": "low", "major_gridlines": false, "tick_marks": "none", "font_size": 20, "color": "#16232E"},
+    "value": {"kind": "value", "position": "bottom", "minimum": -0.8, "maximum": 0.4, "major_unit": 0.2, "major_gridlines": true, "tick_marks": "none", "number_format": "0%", "font_size": 20, "color": "#5C6871"}
+  },
+  "axis_titles": {"value": {"text": "Change during the six-month trial", "font_size": 20, "color": "#5C6871"}},
+  "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.0%", "font_size": 20, "color": "#16232E"},
+  "show_legend": false,
+  "notes": [
+    {"text": "Dark bars: self-reported company metrics.", "font_size": 16, "color": "#16232E"},
+    {"text": "Grey bars: the report states these trends are not statistically significant.", "font_size": 16, "color": "#6E777E"}
+  ],
+  "style": {
+    "font_family": "Arial",
+    "colors": ["#16232E"],
+    "axis_color": "#D6D2C9",
+    "grid_color": "#E7E3DB",
+    "text_color": "#16232E",
+    "chart_area_fill": "none",
+    "plot_area_fill": "none"
+  }
+}
+    </metadata>
+    <g id="uk-2022-measured-changes-chartArea">
+      <line id="uk-2022-measured-changes-gridline-n80" x1="430" y1="950" x2="430" y2="1180" stroke="#E7E3DB" stroke-width="1"/>
+      <line id="uk-2022-measured-changes-gridline-n60" x1="541.67" y1="950" x2="541.67" y2="1180" stroke="#E7E3DB" stroke-width="1"/>
+      <line id="uk-2022-measured-changes-gridline-n40" x1="653.33" y1="950" x2="653.33" y2="1180" stroke="#E7E3DB" stroke-width="1"/>
+      <line id="uk-2022-measured-changes-gridline-n20" x1="765" y1="950" x2="765" y2="1180" stroke="#E7E3DB" stroke-width="1"/>
+      <line id="uk-2022-measured-changes-gridline-p20" x1="988.33" y1="950" x2="988.33" y2="1180" stroke="#E7E3DB" stroke-width="1"/>
+      <line id="uk-2022-measured-changes-gridline-p40" x1="1100" y1="950" x2="1100" y2="1180" stroke="#E7E3DB" stroke-width="1"/>
+      <line id="uk-2022-measured-changes-category-axis" x1="876.67" y1="950" x2="876.67" y2="1180" stroke="#D6D2C9" stroke-width="1"/>
+      <line id="uk-2022-measured-changes-value-axis" x1="430" y1="1180" x2="1100" y2="1180" stroke="#D6D2C9" stroke-width="1"/>
+      <!-- chart-plot-area: object=uk-2022-measured-changes | 430,950,1100,1180 -->
+      <rect x="876.67" y="958.63" width="192.63" height="28.75" fill="#16232E"/>
+      <rect x="876.67" y="1004.63" width="7.82" height="28.75" fill="#16232E"/>
+      <rect x="869.41" y="1050.63" width="7.26" height="28.75" fill="#16232E"/>
+      <rect x="558.42" y="1096.63" width="318.25" height="28.75" fill="#6E777E"/>
+      <rect x="513.75" y="1142.63" width="362.92" height="28.75" fill="#6E777E"/>
+      <text x="1077.30" y="980" font-size="20" fill="#16232E">34.5%</text>
+      <text x="892.49" y="1026" font-size="20" fill="#16232E">1.4%</text>
+      <text x="861.41" y="1072" font-size="20" text-anchor="end" fill="#16232E">-1.3%</text>
+      <text x="550.42" y="1118" font-size="20" text-anchor="end" fill="#16232E">-57.0%</text>
+      <text x="505.75" y="1164" font-size="20" text-anchor="end" fill="#16232E">-65.0%</text>
+    </g>
+    <text x="418" y="980" font-size="20" text-anchor="end" fill="#16232E">Revenue vs a year earlier</text>
+    <text x="418" y="1026" font-size="20" text-anchor="end" fill="#16232E">Revenue, start to end</text>
+    <text x="418" y="1072" font-size="20" text-anchor="end" fill="#16232E">Headcount</text>
+    <text x="418" y="1118" font-size="20" text-anchor="end" fill="#16232E">Resignations per 100</text>
+    <text x="418" y="1164" font-size="20" text-anchor="end" fill="#16232E">Sick and personal days</text>
+    <text x="430" y="1206" font-size="20" text-anchor="middle" fill="#5C6871">-80%</text>
+    <text x="541.67" y="1206" font-size="20" text-anchor="middle" fill="#5C6871">-60%</text>
+    <text x="653.33" y="1206" font-size="20" text-anchor="middle" fill="#5C6871">-40%</text>
+    <text x="765" y="1206" font-size="20" text-anchor="middle" fill="#5C6871">-20%</text>
+    <text x="876.67" y="1206" font-size="20" text-anchor="middle" fill="#5C6871">0%</text>
+    <text x="988.33" y="1206" font-size="20" text-anchor="middle" fill="#5C6871">20%</text>
+    <text x="1100" y="1206" font-size="20" text-anchor="middle" fill="#5C6871">40%</text>
+    <text x="765" y="1240" font-size="20" text-anchor="middle" fill="#5C6871">Change during the six-month trial</text>
+    <text x="430" y="1274" font-size="16" fill="#16232E">Dark bars: self-reported company metrics.</text>
+    <text x="430" y="1298" font-size="16" fill="#6E777E">Grey bars: the report states these trends are not statistically significant.</text>
+  </g>
+
+  <g id="method-pattern" data-pptx-bounds="80 1364 1032 238">
+    <rect x="80" y="1366" width="5" height="234" fill="#4A6B7C"/>
+    <text x="112" y="1390" font-size="26" fill="#16232E"><tspan x="112" dy="0">Every revenue figure here is self-reported by the participating firm — an</tspan><tspan x="112" dy="38">assumption, not a finding. The standing pattern is documented in the primary</tspan><tspan x="112" dy="38">reports rather than asserted by critics: participation is self-selected by</tspan><tspan x="112" dy="38">management; control arms are absent, small or non-random; and follow-up</tspan><tspan x="112" dy="38">samples shrink, with 28 of 61 organisations at twelve months.</tspan></text>
+    <text x="112" y="1590" font-size="26" font-weight="bold" fill="#B4471C">This evidence can justify a controlled trial. It cannot justify a commitment.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1"/>
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Autonomy UK pilot report (2023) · Fan et al., Nature Human Behaviour 9 (2025) · Germany pilot (2024)</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 4 of 10</text>
+  </g>
+</svg>

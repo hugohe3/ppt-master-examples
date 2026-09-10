@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1"/>
+  <g id="page-header" data-pptx-bounds="64 66 1152 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">This rota ran by hand for nine years.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="1216" y2="132" stroke="#16233A" stroke-width="2"/>
+  </g>
+  <g id="founder-1" data-pptx-bounds="64 180 357 363">
+    <g id="p11-portrait-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="172 180 140 140" fill="#EFE7DA" stroke="#16233A" stroke-width="1.5">
+    <path d="M 172 250 L 207 180 L 277 180 L 312 250 L 277 320 L 207 320 Z"/>
+    </g>
+    <text x="242" y="264" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A" text-anchor="middle">MO</text>
+    <text x="242" y="364" font-family="Arial Black, sans-serif" font-size="32" fill="#16233A" text-anchor="middle">Maya Oduya</text>
+    <text x="242" y="394" font-family="Consolas, monospace" font-size="20" letter-spacing="1.5" fill="#D65A1E" text-anchor="middle">CEO</text>
+    <text x="64" y="440" font-size="18" fill="#1F2733">Nine years operating a 40-engineer<tspan x="64" dy="24">heating contractor. Built and ran by</tspan><tspan x="64" dy="24">hand the rota that became Heatline&apos;s</tspan><tspan x="64" dy="24">first prototype. Owns the customer</tspan><tspan x="64" dy="24">definition of capacity.</tspan></text>
+  </g>
+  <g id="founder-2" data-pptx-bounds="461 180 357 363">
+    <g id="p11-portrait-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="570 180 140 140" fill="#EFE7DA" stroke="#16233A" stroke-width="1.5">
+    <path d="M 570 250 L 605 180 L 675 180 L 710 250 L 675 320 L 605 320 Z"/>
+    </g>
+    <text x="640" y="264" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A" text-anchor="middle">TB</text>
+    <text x="640" y="364" font-family="Arial Black, sans-serif" font-size="32" fill="#16233A" text-anchor="middle">Tom Brenner</text>
+    <text x="640" y="394" font-family="Consolas, monospace" font-size="20" letter-spacing="1.5" fill="#D65A1E" text-anchor="middle">CTO</text>
+    <text x="461" y="440" font-size="18" fill="#1F2733">Eleven years building constraint-<tspan x="461" dy="24">solver scheduling for logistics</tspan><tspan x="461" dy="24">fleets. Owns the planner and the</tspan><tspan x="461" dy="24">solver.</tspan></text>
+  </g>
+  <g id="founder-3" data-pptx-bounds="858 180 358 363">
+    <g id="p11-portrait-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="hexagon" data-pptx-frame="967 180 140 140" fill="#EFE7DA" stroke="#16233A" stroke-width="1.5">
+    <path d="M 967 250 L 1002 180 L 1072 180 L 1107 250 L 1072 320 L 1002 320 Z"/>
+    </g>
+    <text x="1037" y="264" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A" text-anchor="middle">PR</text>
+    <text x="1037" y="364" font-family="Arial Black, sans-serif" font-size="32" fill="#16233A" text-anchor="middle">Priya Raman</text>
+    <text x="1037" y="394" font-family="Consolas, monospace" font-size="20" letter-spacing="1.5" fill="#D65A1E" text-anchor="middle">HEAD OF CUSTOMER</text>
+    <text x="858" y="440" font-size="18" fill="#1F2733">Trained more than 400 engineers on<tspan x="858" dy="24">heat-pump commissioning at a</tspan><tspan x="858" dy="24">national training provider. Owns</tspan><tspan x="858" dy="24">accreditation modelling and</tspan><tspan x="858" dy="24">onboarding.</tspan></text>
+  </g>
+  <g id="team-advisor" data-pptx-bounds="64 570 1152 46">
+    <line x1="64" y1="576" x2="1216" y2="576" stroke="#C9BCA8" stroke-width="1"/>
+    <text x="64" y="606" font-size="18" fill="#6B6154">Advisor: a former operations director of a national installer network, unnamed here pending permission.</text>
+  </g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">Heatline&apos;s team is fictional; no real person is depicted or named. Portraits are native shapes, not photographs.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1"/>
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

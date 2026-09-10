@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF" />
+  <line id="evidence-rule" data-pptx-role="decoration" x1="430" y1="360" x2="430" y2="1600" stroke="#D6D2C9" stroke-width="1" />
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">2 · Situation, complication, resolution</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="80 160 1020 112">
+    <text x="80" y="200" font-size="44" font-weight="bold" fill="#16232E"><tspan x="80" dy="0">Every pilot promised eight hours back and</tspan><tspan x="80" dy="54">delivered four to five</tspan></text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="80 290 1020 38">
+    <text x="80" y="316" font-size="30" fill="#4A6B7C">The decision is about recoverable hours, not about a day of the week.</text>
+  </g>
+
+  <g id="situation-margin" data-pptx-bounds="80 386 330 148">
+    <text x="80" y="400" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#B4471C">SITUATION</text>
+    <text x="80" y="434" font-size="20" fill="#5C6871"><tspan x="80" dy="0">100-80-100, defined by 4 Day</tspan><tspan x="80" dy="26">Week Global in 2018. UK hours</tspan><tspan x="80" dy="26">and productivity: ONS.</tspan></text>
+    <text x="80" y="526" font-size="16" fill="#6E777E">F064 · F068 · F069</text>
+  </g>
+
+  <g id="situation-column" data-pptx-bounds="460 378 700 432" fill="#16232E" font-size="26">
+    <text x="460" y="400"><tspan x="460" dy="0">100-80-100 means 100% pay for 80% of the time while</tspan><tspan x="460" dy="38">maintaining 100% output. It was created in 2018 by</tspan><tspan x="460" dy="38">Andrew Barnes and Charlotte Lockhart at Perpetual</tspan><tspan x="460" dy="38">Guardian, and 4 Day Week Global defines it as a</tspan><tspan x="460" dy="38">32-hour week rather than compressed hours.</tspan></text>
+    <text x="460" y="610"><tspan x="460" dy="0">Against the UK norm the cut is smaller than it sounds.</tspan><tspan x="460" dy="38">Average actual weekly hours for UK full-time workers</tspan><tspan x="460" dy="38">were 36.7 in April–June 2026, so a 32-hour week is</tspan><tspan x="460" dy="38">about a 13% reduction, not 20% — while UK output per</tspan><tspan x="460" dy="38">hour, at £46.92 in 2021, was already 10% below the</tspan><tspan x="460" dy="38">average of the other G7 nations excluding Japan.</tspan></text>
+  </g>
+
+  <g id="complication-margin" data-pptx-bounds="80 856 330 162">
+    <text x="80" y="870" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#B4471C">COMPLICATION</text>
+    <text x="80" y="904" font-size="20" fill="#5C6871"><tspan x="80" dy="0">Nominal target against hours</tspan><tspan x="80" dy="26">actually worked, by study.</tspan></text>
+    <text x="80" y="1012" font-size="16" fill="#6E777E">F011 · F040 · F054 · F063</text>
+  </g>
+
+  <g id="complication-column" data-pptx-bounds="460 848 700 146">
+    <text x="460" y="870" font-size="26" fill="#16232E"><tspan x="460" dy="0">In every measured pilot the realised reduction was</tspan><tspan x="460" dy="38">smaller than the nominal one. Across the UK cohort,</tspan><tspan x="460" dy="38">71% of employees reported fewer hours — and 15%</tspan><tspan x="460" dy="38">reported working more.</tspan></text>
+  </g>
+
+  <g id="nominal-vs-actual-hours" data-pptx-replace-with="chart" data-pptx-bounds="80 1020 1080 360" data-pptx-fallback-sha256="297092135c6de2279d3786d57446cc7a296a624d5267ba1fa58d173b44245dcc">
+    <metadata type="application/json">
+{
+  "x": 80, "y": 1020, "width": 1080, "height": 360,
+  "name": "nominal-vs-actual-hours",
+  "type": "bar",
+  "grouping": "clustered",
+  "gap_width": 100,
+  "overlap": 0,
+  "plot_area": {"x": 350, "y": 1050, "width": 790, "height": 210},
+  "categories": ["UK 2022 pilot", "Portugal 2023–24", "South Cambridgeshire DC"],
+  "series": [
+    {"name": "Weekly hours before", "values": [38.0, 41.0, 37.0]},
+    {"name": "Weekly hours after", "values": [34.0, 36.5, 32.0]}
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "left", "major_gridlines": false, "tick_marks": "none", "font_size": 20, "color": "#16232E"},
+    "value": {"kind": "value", "position": "bottom", "minimum": 0, "maximum": 45, "major_unit": 15, "major_gridlines": true, "tick_marks": "none", "number_format": "0", "font_size": 20, "color": "#5C6871"}
+  },
+  "axis_titles": {"value": {"text": "Weekly hours", "font_size": 20, "color": "#5C6871"}},
+  "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.0", "font_size": 20, "color": "#16232E"},
+  "show_legend": true,
+  "legend_position": "bottom",
+  "style": {
+    "font_family": "Arial",
+    "colors": ["#16232E", "#4A6B7C"],
+    "axis_color": "#D6D2C9",
+    "grid_color": "#E7E3DB",
+    "text_color": "#16232E",
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "legend_font_size": 20
+  }
+}
+    </metadata>
+    <g id="nominal-vs-actual-hours-chartArea">
+      <line id="nominal-vs-actual-hours-gridline-15" x1="613.33" y1="1050" x2="613.33" y2="1260" stroke="#E7E3DB" stroke-width="1" />
+      <line id="nominal-vs-actual-hours-gridline-30" x1="876.67" y1="1050" x2="876.67" y2="1260" stroke="#E7E3DB" stroke-width="1" />
+      <line id="nominal-vs-actual-hours-gridline-45" x1="1140" y1="1050" x2="1140" y2="1260" stroke="#E7E3DB" stroke-width="1" />
+      <line id="nominal-vs-actual-hours-category-axis" x1="350" y1="1050" x2="350" y2="1260" stroke="#D6D2C9" stroke-width="1" />
+      <line id="nominal-vs-actual-hours-value-axis" x1="350" y1="1260" x2="1140" y2="1260" stroke="#D6D2C9" stroke-width="1" />
+      <!-- chart-plot-area: object=nominal-vs-actual-hours | 350,1050,1140,1260 -->
+      <rect x="350" y="1061.67" width="667.11" height="23.33" fill="#16232E" />
+      <rect x="350" y="1085" width="596.89" height="23.33" fill="#4A6B7C" />
+      <rect x="350" y="1131.67" width="719.78" height="23.33" fill="#16232E" />
+      <rect x="350" y="1155" width="640.79" height="23.33" fill="#4A6B7C" />
+      <rect x="350" y="1201.67" width="649.57" height="23.33" fill="#16232E" />
+      <rect x="350" y="1225" width="561.78" height="23.33" fill="#4A6B7C" />
+      <text x="1025.11" y="1080.3" font-size="20" fill="#16232E">38.0</text>
+      <text x="954.89" y="1103.7" font-size="20" fill="#16232E">34.0</text>
+      <text x="1077.78" y="1150.3" font-size="20" fill="#16232E">41.0</text>
+      <text x="998.79" y="1173.7" font-size="20" fill="#16232E">36.5</text>
+      <text x="1007.57" y="1220.3" font-size="20" fill="#16232E">37.0</text>
+      <text x="919.78" y="1243.7" font-size="20" fill="#16232E">32.0</text>
+    </g>
+    <text x="338" y="1092" font-size="20" text-anchor="end" fill="#16232E">UK 2022 pilot</text>
+    <text x="338" y="1162" font-size="20" text-anchor="end" fill="#16232E">Portugal 2023–24</text>
+    <text x="338" y="1232" font-size="20" text-anchor="end" fill="#16232E">South Cambridgeshire DC</text>
+    <text x="350" y="1286" font-size="20" text-anchor="middle" fill="#5C6871">0</text>
+    <text x="613.33" y="1286" font-size="20" text-anchor="middle" fill="#5C6871">15</text>
+    <text x="876.67" y="1286" font-size="20" text-anchor="middle" fill="#5C6871">30</text>
+    <text x="1140" y="1286" font-size="20" text-anchor="middle" fill="#5C6871">45</text>
+    <text x="745" y="1316" font-size="20" text-anchor="middle" fill="#5C6871">Weekly hours</text>
+    <rect x="521" y="1338" width="18" height="18" fill="#16232E" />
+    <text x="547" y="1352" font-size="20" fill="#16232E">Weekly hours before</text>
+    <rect x="766" y="1338" width="18" height="18" fill="#4A6B7C" />
+    <text x="792" y="1352" font-size="20" fill="#16232E">Weekly hours after</text>
+  </g>
+
+  <g id="resolution-margin" data-pptx-bounds="80 1426 330 82">
+    <text x="80" y="1440" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#B4471C">RESOLUTION</text>
+    <text x="80" y="1474" font-size="20" fill="#5C6871"><tspan x="80" dy="0">The question this memo</tspan><tspan x="80" dy="26">answers.</tspan></text>
+  </g>
+
+  <g id="governing-question" data-pptx-bounds="460 1418 700 170">
+    <rect x="460" y="1420" width="700" height="166" fill="#F2F0EB" />
+    <text x="480" y="1452" font-size="26" fill="#16232E"><tspan x="480" dy="0">So the question is not “should we adopt a four-day</tspan><tspan x="480" dy="38">week”. It is: how many hours can this firm recover</tspan><tspan x="480" dy="38">through redesign, and what does removing the rest</tspan><tspan x="480" dy="38">cost in client service?</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1" />
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Autonomy (2023) · ONS · Portugal final report (2024) · South Cambridgeshire DC</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 2 of 10</text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="photoFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FBF7F1" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FBF7F1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1"/>
+  <g id="solution-photo" data-pptx-bounds="940 164 340 255">
+    <image href="../images/solution_survey_handover.jpg" x="940" y="164" width="340" height="255" preserveAspectRatio="xMidYMid meet"/>
+    <rect x="940" y="164" width="90" height="255" fill="url(#photoFade)"/>
+  </g>
+  <g id="page-header" data-pptx-bounds="64 66 832 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">Raise throughput, not headcount.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="896" y2="132" stroke="#16233A" stroke-width="2"/>
+  </g>
+  <g id="mechanism-chain" data-pptx-bounds="64 176 832 146">
+    <g id="p04-stage-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 176 288 74" fill="#16233A" stroke="none">
+<path d="M 64 176 L 315 176 L 352 213 L 315 250 L 64 250 L 101 213 Z"/>
+</g>
+    <g id="p04-stage-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="336 176 288 74" fill="#2E4266" stroke="none">
+<path d="M 336 176 L 587 176 L 624 213 L 587 250 L 336 250 L 373 213 Z"/>
+</g>
+    <g id="p04-stage-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="608 176 288 74" fill="#D65A1E" stroke="none">
+<path d="M 608 176 L 859 176 L 896 213 L 859 250 L 608 250 L 645 213 Z"/>
+</g>
+    <text x="208" y="221" font-size="24" fill="#FBF7F1" text-anchor="middle">Forecast capacity</text>
+    <text x="480" y="221" font-size="24" fill="#FBF7F1" text-anchor="middle">Sequence the chain</text>
+    <text x="752" y="221" font-size="24" fill="#FBF7F1" text-anchor="middle">Hold the paperwork</text>
+    <text x="101" y="290" font-size="18" fill="#1F2733">by crew and accreditation,<tspan x="101" dy="24">months ahead</tspan></text>
+    <text x="373" y="290" font-size="18" fill="#1F2733">survey → install → commission,<tspan x="373" dy="24">against part lead times</tspan></text>
+    <text x="645" y="290" font-size="18" fill="#1F2733">grant and compliance kept<tspan x="645" dy="24">on the same job record</tspan></text>
+  </g>
+  <g id="capacity-gap" data-pptx-bounds="64 360 856 200">
+    <path id="capacity-gap-area" d="M 100 500 C 320 486 520 436 900 388 L 900 396 C 560 480 320 508 100 512 Z" fill="#D65A1E" fill-opacity="0.14"/>
+    <path id="capacity-gap-demand" d="M 100 500 C 320 486 520 436 900 388" fill="none" stroke="#16233A" stroke-width="3" stroke-linecap="round"/>
+    <path id="capacity-gap-supply" d="M 100 512 C 320 508 560 480 900 396" fill="none" stroke="#2E6F5E" stroke-width="3" stroke-linecap="round"/>
+    <line x1="100" y1="530" x2="900" y2="530" stroke="#C9BCA8" stroke-width="1"/>
+    <text x="900" y="380" font-size="18" fill="#16233A" text-anchor="end">Required installation capacity</text>
+    <text x="640" y="510" font-size="18" fill="#2E6F5E" text-anchor="end">Installer headcount, with Heatline</text>
+    <text x="640" y="452" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#D65A1E" text-anchor="middle">THROUGHPUT</text>
+    <text x="100" y="392" font-size="18" fill="#6B6154">Same schematic. The lever is jobs completed per engineer, not new hires.</text>
+    <text x="100" y="552" font-size="18" fill="#6B6154">2022</text>
+    <text x="900" y="552" font-size="18" fill="#6B6154" text-anchor="end">2030</text>
+  </g>
+  <g id="solution-boundary" data-pptx-bounds="64 583 996 26">
+    <text x="64" y="600" font-size="18" fill="#6B6154">Heatline does not train engineers and does not sell equipment. It plans the capacity a business has.</text>
+  </g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">Product capability described on this page is illustrative.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1"/>
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

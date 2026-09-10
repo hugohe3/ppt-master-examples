@@ -2,11 +2,191 @@
   "version": 1,
   "updated": "2026-09-10",
   "stats": {
-    "examples": 38,
-    "pages": 541,
-    "templates": 38
+    "examples": 40,
+    "pages": 566,
+    "templates": 40
   },
   "projects": [
+    {
+      "id": "a4_four_day_week_decision_memo",
+      "title": "Should We Move to a Four-Day Week?",
+      "description": "英文 A4 决策备忘录 10 页 — 首个 consulting-decision 方法模板示例，第二份 A4、首份英文 A4：为一家泛化的 200 人英国专业服务公司回答「是否转四天工作制」，证据全部来自英国 2022 试点及 2024 跟踪、冰岛 2015–2019 试验、比利时 2022 立法（压缩而非减时）、葡萄牙 2023–24 试点与批评来源，主张与反证同等分量；金字塔模式断言标题，事实/假设/含义/建议分开标注，3 张原生图表 + 2 张原生表（研究可比性、风险登记册）+ 27 条来源超链接的证据台账，驱动树与路线图预设，2 对 Morph；无图片的纯排版打印文档，正文 26px",
+      "icon": "📄",
+      "color": "#16232E",
+      "style": "consulting",
+      "styleName": "Consulting Decision · A4 Memo",
+      "desc": "A ten-page English decision memo on A4 (1240×1754 portrait, print) answering whether a generic 200-person professional-services firm should move to a four-day week at full pay — the first example built on the bundled consulting-decision Style, the second A4 deck and the first in English. Pyramid mode with assertion titles: executive synthesis, situation and complication, driver decomposition, evidence and diagnosis, cohort persistence, study comparability, recommendation, roadmap, risk and mitigation, and an appendix that is a working evidence ledger of twenty-seven native hyperlinks. Every figure comes from the UK 2022 pilot report and its 2024 follow-up, the Iceland trials, Belgium's law, Portugal's pilot and critical sources, with non-significant results shown at the same weight as the headline. Three native charts, two native tables, five preset shapes, two Morph pairs, a running masthead and footer that make the pages read as a document, and no images at all. Speaker notes throughout.",
+      "tags": [
+        "Business",
+        "Consulting Decision",
+        "Style Template",
+        "English",
+        "A4",
+        "Print",
+        "Native Charts",
+        "Native Tables",
+        "Evidence Ledger"
+      ],
+      "isNew": true,
+      "folder": "a4_four_day_week_decision_memo/svg_final",
+      "generatedAt": "2026-09-10",
+      "cover": "01_executive_synthesis.svg",
+      "pptx": "examples/a4_four_day_week_decision_memo/exports/a4_four_day_week_decision_memo.pptx",
+      "slides": [
+        {
+          "file": "01_executive_synthesis.svg",
+          "title": "executive_synthesis",
+          "desc": "Executive synthesis — 89% of pilot firms kept the four-day week"
+        },
+        {
+          "file": "02_situation_complication.svg",
+          "title": "situation_complication",
+          "desc": "Every pilot promised eight hours back and delivered four to five"
+        },
+        {
+          "file": "03_driver_decomposition.svg",
+          "title": "driver_decomposition",
+          "desc": "Three of the four drivers are ours; the one that stopped a consultancy is not"
+        },
+        {
+          "file": "04_evidence_diagnosis.svg",
+          "title": "evidence_diagnosis",
+          "desc": "The wellbeing result is established; the business result is unproven"
+        },
+        {
+          "file": "05_cohort_persistence.svg",
+          "title": "cohort_persistence",
+          "desc": "Persistence is high everywhere, and highest where the base is smallest"
+        },
+        {
+          "file": "06_study_comparability.svg",
+          "title": "study_comparability",
+          "desc": "Only two of these seven studies are evidence about a firm like ours"
+        },
+        {
+          "file": "07_recommendation.svg",
+          "title": "recommendation",
+          "desc": "Pilot 100-80-100 in two practice groups, after ten weeks of redesign"
+        },
+        {
+          "file": "08_roadmap.svg",
+          "title": "roadmap",
+          "desc": "Two gates, and the firm can stop at either one"
+        },
+        {
+          "file": "09_risk_mitigation.svg",
+          "title": "risk_mitigation",
+          "desc": "The risk that stopped the only comparable firm is the one we cannot mitigate away"
+        },
+        {
+          "file": "10_appendix_evidence.svg",
+          "title": "appendix_evidence",
+          "desc": "Every figure above is one link from its primary source"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_heatline_seed_pitch",
+      "title": "Heatline — Seed Round",
+      "description": "英文种子轮路演 deck 15 页 — 首个 investor-pitch 方法模板示例：虚构的热泵安装商排程软件公司 Heatline（公司、产品、团队、traction 与财务数字全部标注 illustrative，12 页带固定位置的溯源提示片），而 why-now、安装工短缺、市场规模输入、竞争类别全部引用 IEA、英国 BUS、美国 IRA 等真实公开来源；5 张原生图表（含 ChartEx 瀑布图）+ 4 张原生表 + 13 条来源超链接，产品界面用原生可编辑形状画的 mockup，traction 曲线与 the ask 跨页 Morph；迄今原生数据最重的一份",
+      "icon": "🔥",
+      "color": "#0F2A44",
+      "style": "corporate",
+      "styleName": "Investor Pitch · Seed Deck",
+      "desc": "A fifteen-page English seed-round investor pitch for Heatline, a fictional company selling capacity-planning and scheduling software to residential heat-pump installers — the first example built on the bundled investor-pitch Style. The company, product, team and every traction, revenue, pipeline and financial figure are invented and marked illustrative on the page; the external evidence — heat-pump sales trends, the UK Boiler Upgrade Scheme, the US IRA 25C credit, installer-shortage data and market-sizing inputs — is real and cited. It follows the Style's build from why-now through problem, solution, an illustrative product mockup drawn as editable native geometry, traction, unit economics, a bottom-up market derivation, honest competition, go-to-market, team, financial drivers, the ask, use of funds and a diligence appendix. Five native charts across four types including a ChartEx waterfall, four native tables, thirteen native source hyperlinks, eleven preset shapes, two Morph pairs carrying the capacity gap and the ask into the next page, three AI atmosphere images, speaker notes throughout.",
+      "tags": [
+        "Business",
+        "Investor Pitch",
+        "Style Template",
+        "English",
+        "Illustrative Data",
+        "Native Charts",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_heatline_seed_pitch/svg_final",
+      "generatedAt": "2026-09-10",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_heatline_seed_pitch/exports/ppt169_heatline_seed_pitch.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "Heatline — Europe has legislated the demand. Nobody has staffed the supply."
+        },
+        {
+          "file": "02_why_now.svg",
+          "title": "why_now",
+          "desc": "Why now: heat-pump sales and policy (+11%)"
+        },
+        {
+          "file": "03_problem.svg",
+          "title": "problem",
+          "desc": "The problem: 750,000 installers short"
+        },
+        {
+          "file": "04_solution.svg",
+          "title": "solution",
+          "desc": "Raise throughput, not headcount"
+        },
+        {
+          "file": "05_product_evidence.svg",
+          "title": "product_evidence",
+          "desc": "Twelve weeks of capacity, one screen (illustrative mockup)"
+        },
+        {
+          "file": "06_traction.svg",
+          "title": "traction",
+          "desc": "430 seats live across 41 businesses (illustrative)"
+        },
+        {
+          "file": "07_business_model.svg",
+          "title": "business_model",
+          "desc": "Unit economics: 5.2× LTV/CAC waterfall (illustrative)"
+        },
+        {
+          "file": "08_market.svg",
+          "title": "market",
+          "desc": "Bottom-up market: £11.9M reachable"
+        },
+        {
+          "file": "09_competition.svg",
+          "title": "competition",
+          "desc": "Nobody else plans capacity months out"
+        },
+        {
+          "file": "10_go_to_market.svg",
+          "title": "go_to_market",
+          "desc": "The manufacturer channel is repeatable"
+        },
+        {
+          "file": "11_team.svg",
+          "title": "team",
+          "desc": "This rota ran by hand for nine years"
+        },
+        {
+          "file": "12_financials.svg",
+          "title": "financials",
+          "desc": "Expansion seats carry the plan (illustrative)"
+        },
+        {
+          "file": "13_the_ask.svg",
+          "title": "the_ask",
+          "desc": "The ask: £4.2M"
+        },
+        {
+          "file": "14_use_of_funds.svg",
+          "title": "use_of_funds",
+          "desc": "44p in every pound goes to the planner"
+        },
+        {
+          "file": "15_appendix.svg",
+          "title": "appendix",
+          "desc": "Definitions and every external source"
+        }
+      ]
+    },
     {
       "id": "ppt169_how_color_works_workshop",
       "title": "How Color Works",

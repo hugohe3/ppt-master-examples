@@ -1,0 +1,582 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "Four-day week (100% pay, 80% time, 100% output) decision evidence for a mid-size UK professional-services firm",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "The UK four-day week pilot ran from June to December 2022 and comprised 61 companies and around 2,900 workers, described by its authors as the world's largest four-day week trial to date.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "The UK 2022 pilot gave participating companies two months of preparation before the trial began, including workshops, coaching, mentoring and peer support.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "Companies in the UK 2022 pilot were not required to adopt one prescribed model, provided pay was maintained at 100% and employees received a 'meaningful' reduction in work time.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "UK 2022 pilot companies used a range of structures: classic 'Friday off', staggered, decentralised, annualised and conditional four-day week models.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "At the end of the six-month UK 2022 trial, 56 of the 61 participating companies (92%) were continuing with the four-day week, and 18 had confirmed the policy as a permanent change.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "Revenue across the 23 UK 2022 pilot companies supplying sufficient data rose 1.4% on average, weighted by company size, from the start to the end of the six-month trial; against a comparable prior six-month period (in most cases June to December 2021), revenue rose by a size-weighted average of 34.5% across the 24 companies that supplied that data, rounded to 35% in the report's summary.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "Employee headcount across the 34 UK 2022 pilot companies supplying the data fell by a weighted average of 1.3% between the start and end of the trial.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "Resignations in UK 2022 pilot companies fell from 2.0 to 0.8 per 100 employees between the comparison period and the trial, a decline of 57%, while new hiring also fell from 3.4 to 2.4 per 100 employees, a decline of 37%.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "Absenteeism in UK 2022 pilot companies, measured as sick and personal days per employee per month, fell from 2.0 in the comparison period to 0.7 during the trial, a 65% reduction.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "The UK 2022 pilot report states that, because of small sample numbers and labour-market contingencies, the researchers are unable to say that the resignation, new-hire and absenteeism trends are statistically significant.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "Average employee working time in the UK 2022 pilot fell from 38 hours per week to 34, not to the 32-hour standard, because some companies cut less than eight hours and some staff still worked on the fifth day; 71% of employees reported a decline in hours, 15% reported working more and 13% no change, and average days worked fell from 4.86 to 4.52.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "Burnout in the UK 2022 pilot fell from an average composite score of 2.8 to 2.34 on a 1-5 scale, with 71% of employees reporting lower burnout and 22% reporting higher burnout at the end of the trial.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "Reported work stress in the UK 2022 pilot fell from 3.07 to 2.74 on a 1-5 frequency scale, with 39% less stressed, 48% unchanged and 13% more stressed, while job satisfaction rose from 7.12 to 7.69 on a 0-10 scale and 48% of employees were more satisfied than at the start.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "Average self-rated mental health in the UK 2022 pilot rose from 2.95 to 3.32 on a 1-5 scale (43% up, 16% down) and anxiety fell from 2.26 to 1.96 on a 1-4 scale; 37% reported better physical health against 18% reporting worse, and fatigue fell from 2.56 to 2.12 with 46% improving and 14% worsening.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "Sleep difficulties in the UK 2022 pilot fell for 40% of employees, were unchanged for 45% and increased for 15% between the baseline and endpoint surveys.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "In the UK 2022 pilot, 60% of employees found it easier to combine paid work with care responsibilities, 62% found it easier to combine work with social life, and 54% were less likely to feel too tired for household jobs.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "Asked what pay rise would induce them to return to a five-day schedule, 46% of UK 2022 pilot employees said 0-25%, 29% said 26-50%, 8% said more than 50% and 15% said no amount of money would induce them.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "The largest sector group in the UK 2022 pilot was marketing/advertising with eight firms, described in the report as 18%, followed by professional services with seven firms at 16% and charities and non-profits at 11%; the cohort was dominated by very small employers, with 37% of companies having 1-10 employees, 29% having 11-25 and only 10% more than 100.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "Only between 44 and 51 of the 61 UK 2022 pilot organisations provided survey data for the report's performance analysis, and company metrics were self-reported monthly administrative data; employee survey response rates were 77% at baseline (1,967 of 2,548), 67% at midpoint and 58% at endpoint, with findings resting on the 70% of baseline respondents who also completed the endpoint survey.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "The UK 2022 pilot research was carried out by Autonomy with quantitative analysis led by Prof. Juliet Schor and Prof. Wen Fan of Boston College and Prof. Orla Kelly of University College Dublin, and qualitative research by the University of Cambridge and University of Salford.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "Productivity-improvement methods reported by UK 2022 pilot companies included shorter and less frequent meetings with clearer agendas, reformed email etiquette, protected 'focus' periods, automation, consolidated project-management software and 'efficiency charters' committing staff to higher productivity.",
+      "source_title": "The results are in: the UK's four-day week pilot (Autonomy, February 2023)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "One year after the UK 2022 pilot, at least 54 of the 61 original organisations (89%) were still operating a four-day week; five (8%) had discontinued it and two did not respond.",
+      "source_title": "Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy, February 2024)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2024/02/making-it-stick_-1.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "One year on from the UK 2022 pilot, at least 31 of the 61 original companies (51%) had confirmed the four-day week as permanent, up from 18 at the end of the trial.",
+      "source_title": "Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy, February 2024)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2024/02/making-it-stick_-1.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "The 2024 follow-up study drew on 28 of the 61 original organisations (almost half the cohort) that agreed to take part in follow-up research engagements.",
+      "source_title": "Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy, February 2024)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2024/02/making-it-stick_-1.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "Among the 28 organisations in the 2024 follow-up, 39% had adopted the policy permanently with updated terms and conditions, 39% permanently without changing terms (an opt-in or 'gift' policy), 18% had extended the trial and 4% had discontinued it.",
+      "source_title": "Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy, February 2024)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2024/02/making-it-stick_-1.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "One year on, 100% of the project managers and CEOs consulted said the four-day week had a positive impact on their organisation, 55% describing it as 'very positive'; 82% of surveyed companies reported positive impacts on staff well-being, 50% on staff turnover and 32% on recruitment, and the cohort had rated the original 2022 pilot 8.3 out of 10.",
+      "source_title": "Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy, February 2024)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2024/02/making-it-stick_-1.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "A follow-up staff survey covering 47 of the original UK pilot organisations found improvements in physical and mental health, work-life balance, life satisfaction and burnout were maintained one year on, with work intensity lower and job satisfaction higher than before the 2022 pilot.",
+      "source_title": "Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy, February 2024)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2024/02/making-it-stick_-1.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "The only organisation among the 28 follow-up participants that discontinued the four-day week was a small consultancy of more than 10 employees using a universal day-off model; it reported morale, wellbeing and efficiency benefits but struggled with client and stakeholder expectations in an industry that had not adopted working-time reduction, and with applying the policy equitably across a small team.",
+      "source_title": "Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy, February 2024)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2024/02/making-it-stick_-1.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "In the 2024 follow-up cohort, universal or staggered day-off models had the highest success rate, with 95% of companies using them making the policy permanent, against 60% for more flexible models; the authors note these results are not statistically significant given the cohort size.",
+      "source_title": "Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy, February 2024)",
+      "source_url": "https://autonomy.work/wp-content/uploads/2024/02/making-it-stick_-1.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "Iceland ran two large-scale shorter-working-week trials from 2015 to 2019, initiated by Reykjavik City Council and the national government after union campaigning; the Reykjavik trial grew to over 2,500 staff and the government trial covered around 440, together more than 1% of the country's working population, with many workers moving from a 40-hour to a 35- or 36-hour week without any reduction in pay.",
+      "source_title": "Going Public: Iceland's Journey to a Shorter Working Week (Autonomy and Alda, June 2021)",
+      "source_url": "https://en.alda.is/wp-content/uploads/2021/07/ICELAND_4DW.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "The Iceland report concludes that productivity and service provision remained the same or improved across the majority of trial workplaces, and that the trials were revenue neutral for both the city council and the government.",
+      "source_title": "Going Public: Iceland's Journey to a Shorter Working Week (Autonomy and Alda, June 2021)",
+      "source_url": "https://en.alda.is/wp-content/uploads/2021/07/ICELAND_4DW.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "By June 2021, roughly 86% of Iceland's entire working population had either moved to shorter hours or gained the right to shorten their hours, through union contracts negotiated between 2019 and 2021.",
+      "source_title": "Going Public: Iceland's Journey to a Shorter Working Week (Autonomy and Alda, June 2021)",
+      "source_url": "https://en.alda.is/wp-content/uploads/2021/07/ICELAND_4DW.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "Anthony Veal, Adjunct Professor at the University of Technology Sydney, argues the Iceland trials were not four-day week experiments: they covered 66 workplaces and about 2,500 workers moving from a 40-hour to a 35- or 36-hour week, in 61 of the 66 workplaces the reduction was only one to three hours, and the national agreements that followed formalised just 35 minutes a week in the private sector and 65 minutes in the public sector.",
+      "source_title": "The success of Iceland's 'four-day week' trial has been greatly overstated (The Conversation, 13 July 2021)",
+      "source_url": "https://theconversation.com/the-success-of-icelands-four-day-week-trial-has-been-greatly-overstated-164083",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "Veal raises the Hawthorne effect as a confound in the Iceland trials, notes participants were volunteers motivated to make the change work, and argues a control sample of similar workplaces should ideally have been monitored.",
+      "source_title": "The success of Iceland's 'four-day week' trial has been greatly overstated (The Conversation, 13 July 2021)",
+      "source_url": "https://theconversation.com/the-success-of-icelands-four-day-week-trial-has-been-greatly-overstated-164083",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "Belgium's 2022 Labour Deal four-day week is a compression, not an hours reduction: a full-time week of in principle 38 hours is performed in four days instead of five, with daily hours rising to 9.5 (or 10 for a 40-hour week, requiring a collective bargaining agreement); the employee must request it in writing, the request lasts six months and is renewable, and an employer refusing must give written justification within one month.",
+      "source_title": "Belgium: Labour Deal 2022 - 4 Day Work Week and Alternating Work Week (L&E Global, 27 November 2022)",
+      "source_url": "https://leglobal.law/2022/11/27/belgium-labour-deal-2022-4-day-work-week-and-alternating-work-week/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "Belgium's four-day and alternating work week provisions took effect on 20 November 2022, and employees may request them even where no work rules or collective agreement implement them.",
+      "source_title": "Four-day and alternating work week: not a mere discretionary possibility of the employer (KPMG Law Belgium, 2 February 2023)",
+      "source_url": "https://www.kpmglaw.be/en/news/four-day-alternating-work-week-not-a-mere-discretionary-possibility-of-the-employer/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "A Belgian Federal Planning Bureau and Ghent University study of reduced working time, funded by the Belgian Science Policy Office, found that only one company fully participated in its pilot project, citing lack of awareness, legal uncertainty around wage legislation, and concerns about reputation, teamwork and sectoral expectations as barriers.",
+      "source_title": "Belgium-based companies reluctant to adopt four-day work week (The Brussels Times, 18 June 2025)",
+      "source_url": "https://www.brusselstimes.com/1630532/belgium-based-companies-reluctant-to-adopt-four-day-work-week",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "Portugal's four-day week pilot originated as a political initiative of the Ministry of Labour, Solidarity and Social Security of the XXIII Portuguese Government, and was coordinated by Pedro Gomes of Birkbeck, University of London and Rita Fontinha of Henley Business School with technical support from 4 Day Week Global; the final report is dated July 2024.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "Portugal's project covered 41 companies and more than 1,000 workers, with 21 companies coordinating the start of a six-month test in June 2023 alongside 20 that had adopted a four-day week earlier, some since 2020; its three defining principles were no salary cuts, a genuine reduction in weekly hours and voluntary participation, and most participants cut a typical 40-hour week to 36, 34 or 32 hours, with companies offering only a free Friday afternoon excluded.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "The Portuguese trial's methodological innovation over other international pilots was a control group of workers from companies that were interested in the project but decided not to reduce working time; actual weekly hours in the pilot group fell 12% from over 41 hours to 36.5, and the share working 40 or more hours fell from 79% to 20%, with no reduction in the control group.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "In the Portuguese trial the share of workers rating their mental health 'very good' or 'excellent' doubled from 15% to 30% and physical health rose from 20% to 27%, with average sleep time up 11 minutes per night; 93% of workers gave a positive appraisal and wanted the trial to continue past six months.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "Three months into Portugal's trial, anxiety had fallen by 21%, fatigue by 23% and sleep problems or insomnia by 19%; the share of workers struggling to balance work and family fell from 46% to 8% and 65% spent more time with their families.",
+      "source_title": "Four-day week trial results show drop in anxiety and fatigue (Birkbeck, University of London, 14 December 2023)",
+      "source_url": "https://www.bbk.ac.uk/news/four-day-week-trial-results-show-drop-in-anxiety-and-fatigue-and-improved-work-life-balance-for-participants",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "The Portuguese report states most indicators experienced a slight setback between three and six months into the project, which the authors attribute possibly to seasonal effects but cannot rule out other causes.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "After six months in Portugal, most companies chose to extend the test, four pilot participants returned to the five-day week and five scaled the four-day week down; half the companies that had started before June already treated the format as permanent.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "In Portugal, only 8% of companies that made two or more organisational changes reverted to the five-day week, compared with 38% of those that made none or only one change; 75% implemented at least one organisational change, most commonly shorter meetings, and 87% reported active worker participation in redesigning processes.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "The Portuguese report states that by choosing not to offer financial incentives it ensured genuine adherence but limited generalisation, because participating companies are not representative of typical Portuguese companies, and the study therefore serves only as a 'Proof of Concept'.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "In Portugal, half of participating companies found it difficult to define productivity metrics and more than a third reported difficulty changing the internal culture around time management; the project had minimal cost for most, only one nursery needed a 4.5% workforce increase, about 40% of managers identified savings and almost 80% rated the project financially neutral.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "Portuguese participants prepared through eight structured sessions over three months, from March to May 2023, covering the choice of four-day week format, communication with workers and clients, evaluation metrics and process change.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "Portuguese workers valued the four-day week at about 28% of their salary, with most saying they would only move to a five-day job for more than 20% higher pay.",
+      "source_title": "Four-Day Week: Results from Portuguese Trial - Final Report (Gomes and Fontinha, July 2024)",
+      "source_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693ed47b8cf82c7d427ac771/1765725307551/Portugal+4+Day+Week+Pilot+Results+-+4+Day+Week+Global.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F050",
+      "claim": "Germany's four-day week pilot involved 45 organisations across consulting, services, manufacturing, care, IT and media, ran six months from 1 February 2024 under Prof. Julia Backmann and Dr Felix Hoch at the University of Munster with the consultancy Intraprenor, and used within-organisation control groups, smartwatches and cortisol hair samples; participants slept 38 minutes longer per week than controls, were more physically active, and showed significant falls in stress and burnout symptoms and substantially improved life satisfaction.",
+      "source_title": "Wellbeing increases when working hours are reduced (University of Munster, 2024)",
+      "source_url": "https://www.uni-muenster.de/news/view.php?cmdid=14338",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F051",
+      "claim": "In the German pilot, monthly sick days showed only a slight reduction that was not statistically significant, and financial metrics such as turnover and profit showed slight increases that were not significantly different from the previous year; no measurable environmental benefit was found and domestic travel increased.",
+      "source_title": "Wellbeing increases when working hours are reduced (University of Munster, 2024)",
+      "source_url": "https://www.uni-muenster.de/news/view.php?cmdid=14338",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F052",
+      "claim": "The German pilot found no strong evidence of a positive change in overall job satisfaction, and many participating organisations reduced required working hours across five days rather than moving to a genuine four-day schedule.",
+      "source_title": "What are the results of Germany's four-day work week trial? (The Local Germany, 6 November 2024)",
+      "source_url": "https://www.thelocal.de/20241106/what-are-the-results-of-germanys-four-day-work-week-trial",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F053",
+      "claim": "After the German pilot, 34% of organisations extended their pilot, 39% ended the trial but kept reduced working hours and 20% returned to a five-day, 40-hour week; two large organisations dropped out early citing economic reasons.",
+      "source_title": "What are the results of Germany's four-day work week trial? (The Local Germany, 6 November 2024)",
+      "source_url": "https://www.thelocal.de/20241106/what-are-the-results-of-germanys-four-day-work-week-trial",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F054",
+      "claim": "South Cambridgeshire District Council's four-day week trial began on 1 January 2023 for most desk-based services and on 19 September 2023 for the Shared Waste Service; from 1 April 2024 hours for all four-day week colleagues were harmonised at 32 hours per week, 86.5% of contracted hours, with pay maintained.",
+      "source_title": "Update on South Cambridgeshire District Council Four Day Week Trial, Strategy and Resources Scrutiny Committee, 25 March 2024",
+      "source_url": "https://democracy.cambridge.gov.uk/documents/s65522/Report%20on%20the%20Four%20Day%20Week%20to%20SR%20Scrutiny%20Committee%2025%20March%202024.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F055",
+      "claim": "The independent statistical evaluation of South Cambridgeshire District Council's four-day week trial was carried out by Dr Joshua Pink and Prof. Daiga Kamerade of the University of Salford and Prof. Brendan Burchell of the University of Cambridge, and published in 2024.",
+      "source_title": "Four-Day Week Trial: South Cambridgeshire Council's Key Performance Indicator Evaluation (Pink, Kamerade and Burchell, 2024)",
+      "source_url": "https://www.scambs.gov.uk/media/ncanup4n/report-final.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F056",
+      "claim": "Adjusting for the COVID-19 period, the Salford and Cambridge evaluation found 11 South Cambridgeshire outcomes significantly better during the trial, including calls handled, complaints answered in time, invoices paid within 30 days, benefit change processing, staff turnover, emergency housing repairs within 24 hours and five planning measures, and two outcomes significantly worse: the percentage of housing rent collected (FS102) and the average days to re-let all housing stock (AH211).",
+      "source_title": "Four-Day Week Trial: South Cambridgeshire Council's Key Performance Indicator Evaluation (Pink, Kamerade and Burchell, 2024)",
+      "source_url": "https://www.scambs.gov.uk/media/ncanup4n/report-final.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F057",
+      "claim": "The Salford and Cambridge evaluation states that for all other South Cambridgeshire outcomes no statistically significant difference could be found, that this does not mean there was no change, and that the analysis alone cannot prove the trial caused any of the changes identified.",
+      "source_title": "Four-Day Week Trial: South Cambridgeshire Council's Key Performance Indicator Evaluation (Pink, Kamerade and Burchell, 2024)",
+      "source_url": "https://www.scambs.gov.uk/media/ncanup4n/report-final.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F058",
+      "claim": "South Cambridgeshire District Council reported in July 2025 that 21 of 24 services had improved or stayed the same since the four-day week was introduced in 2023, that the number of workers leaving fell by more than 40%, that job applications rose by more than 120% and that the change delivered a yearly saving of nearly GBP 400,000.",
+      "source_title": "Four-day week trial success, says council (LocalGov, 4 July 2025)",
+      "source_url": "https://www.localgov.co.uk/Four-day-week-trial-success-says-council/62636",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F059",
+      "claim": "MHCLG issued South Cambridgeshire District Council a Best Value Notice in November 2023 and reissued it on 8 May 2024, requiring data on the four-day week trial's impacts; the notice expired on 8 November 2024 and was not reissued, and the letter stated that it is not government policy to support a general move to a four-day working week for five days' worth of pay, while recognising local authorities as independent employers.",
+      "source_title": "Letter from MHCLG to South Cambridgeshire District Council, 8 November 2024",
+      "source_url": "https://www.scambs.gov.uk/media/3ienchoh/8-november-2024-letter-from-mhclg-to-scdc.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F060",
+      "claim": "Economists David Eiser and Mark Mitchell of the Fraser of Allander Institute argue that reducing working hours without commensurate productivity increases, and without loss of pay, is likely to mean reduced profits or increased public funding, and that in health, social care, education, personal services and the arts the opportunity for productivity improvement is likely to be limited; they note the cross-country link between shorter hours and higher productivity is correlational, not causal.",
+      "source_title": "What might be the effects of a four-day working week? (Economics Observatory, 8 November 2021)",
+      "source_url": "https://www.economicsobservatory.com/what-might-be-the-effects-of-a-four-day-working-week",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F061",
+      "claim": "The Fraser of Allander analysis cites the EU Working Time Directive as a case where reduced hours could not be fully offset by productivity: the UK government had to recruit more doctors through increased training and overseas hiring, at non-negligible fiscal cost.",
+      "source_title": "What might be the effects of a four-day working week? (Economics Observatory, 8 November 2021)",
+      "source_url": "https://www.economicsobservatory.com/what-might-be-the-effects-of-a-four-day-working-week",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F062",
+      "claim": "The largest peer-reviewed study to date, Fan, Schor, Kelly and Gu, 'Work time reduction via a 4-day workweek finds improvements in workers' well-being', Nature Human Behaviour vol. 9 issue 10, pages 2153-2168 (2025), analysed pre- and post-trial data from nearly 2,900 workers across 141 organisations in six countries and found improvements in burnout, job satisfaction, mental health and physical health that were absent in control organisations.",
+      "source_title": "Work time reduction via a 4-day workweek finds improvements in workers' well-being (Nature Human Behaviour, 2025) - RePEc record",
+      "source_url": "https://ideas.repec.org/a/nat/nathum/v9y2025i10d10.1038_s41562-025-02259-6.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F063",
+      "claim": "Nature's news coverage of the Fan and Schor study reports that the six-country analysis used only 12 control companies and that workers on a four-day week had on average five fewer hours of work per week, less than the nominal eight-hour reduction, after roughly eight weeks of pre-trial reorganisation.",
+      "source_title": "Biggest trial of four-day work week finds workers are happier and feel just as productive (Nature news, July 2025)",
+      "source_url": "https://www.nature.com/articles/d41586-025-02295-2",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F064",
+      "claim": "The 100:80:100 model means 100% pay for 80% of the time while maintaining 100% output; it was created in 2018 by Andrew Barnes and Charlotte Lockhart during a trial at Perpetual Guardian in New Zealand and is trademarked by 4 Day Week Global, which defines a four-day week as a 32-hour week rather than compressed hours.",
+      "source_title": "What is the 100:80:100 rule for the 4 day week? (4 Day Week Global)",
+      "source_url": "https://www.4dayweek.com/news-posts/100-80-100-rule-mwmb7",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F065",
+      "claim": "Awin, an affiliate marketing network with more than 1,300 employees across 17 offices, ran an 18-month four-day 'Flexi-Week' trial from January 2021 and made it permanent on 23 February 2023, with staff choosing one full day off or two half-days at full salary; it reported regrettable turnover down 33%, sick leave down 21%, 85% of staff saying it significantly influenced their decision to stay, group gross profit growth averaging 13% a year from 2019 to 2022 and NPS up 20.7 points.",
+      "source_title": "Awin Permanently Implements Flexi-Week Amid Trial Success (Awin, 23 February 2023)",
+      "source_url": "https://www.awin.com/gb/news-and-events/awin-news/awin-flexible-work-week",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F066",
+      "claim": "Atom Bank moved to a 34-hour, four-day week with no loss of pay in November 2021; ten months in it reported job applications up 49% in January 2022 against January 2021, 91% of staff completing everything needed within four days, 92% encouraged to find efficiencies, and its Trustpilot score rising from 4.54 to 4.82.",
+      "source_title": "10 months on: Has our four-day week been a success? (Atom bank, 11 October 2022)",
+      "source_url": "https://www.atombank.co.uk/blog/four-day-week-10-months-on/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F067",
+      "claim": "Two North American law firms operating a four-day week on 80% of the work and 100% of the pay are YLaw in Vancouver, founded by Leena Yousefi with 14 lawyers, and The Ross Firm, founded by Quinn Ross with 18 lawyers, which reported productivity up over 10%; reported obstacles include email volume after days off, heavier HR administration, and job applicants misreading the model as working less.",
+      "source_title": "How law firms have implemented a four-day workweek without losing productivity (Canadian Lawyer, 11 April 2023)",
+      "source_url": "https://www.canadianlawyermag.com/resources/practice-management/how-law-firms-have-implemented-a-four-day-workweek-without-losing-productivity/375063",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F068",
+      "claim": "ONS Labour Force Survey data show UK average actual weekly hours of work for full-time workers, seasonally adjusted, were 36.7 hours in April to June 2026, released on 18 August 2026.",
+      "source_title": "YBUY: Average actual weekly hours of work for full-time workers (seasonally adjusted), Office for National Statistics",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/ybuy/lms",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F069",
+      "claim": "ONS international comparisons show UK output per hour worked in current prices was GBP 46.92 in 2021, 10% lower than the average of the other G7 nations excluding Japan, and UK output per worker was 16% below the same G7 average.",
+      "source_title": "International comparisons of UK productivity (ICP), final estimates: 2021, Office for National Statistics",
+      "source_url": "https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/bulletins/internationalcomparisonsofproductivityfinalestimates/2021/previous/v1",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F070",
+      "claim": "Research by Oxford Economics for Unum, reported in February 2014, put the average cost of replacing a UK employee at GBP 30,614, comprising GBP 25,181 of lost output while a new hire reaches optimum productivity over an average of 28 weeks and GBP 5,433 of logistical recruitment costs.",
+      "source_title": "It costs over GBP 30k to replace a staff member (HRreview, 25 February 2014)",
+      "source_url": "https://hrreview.co.uk/hr-news/recruitment/it-costs-over-30k-to-replace-a-staff-member/50677",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F071",
+      "claim": "A later UK pilot run by the 4 Day Week Foundation with Boston College involved 17 companies and nearly 1,000 workers over six months, and ended with all 17 companies continuing a shorter working week: 12 on a full four-day week and five on a nine-day fortnight.",
+      "source_title": "The future of work: 100% success in latest UK four-day week pilot (4 Day Week Foundation, July 2025)",
+      "source_url": "https://www.4dayweek.co.uk/projects/the-future-of-work:-100%25-success-in-latest-uk-four-day-week-pilot",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F072",
+      "claim": "In the 2024-25 UK pilot reported in July 2025, 62% of workers recorded a reduction in how often they experienced burnout, 41% reported improved mental health and 45% reported increased life satisfaction.",
+      "source_title": "Is a four-day working week inevitable? Latest UK pilot sees 100% success rate (The Big Issue, 3 July 2025)",
+      "source_url": "https://www.bigissue.com/news/employment/four-day-working-week-trial-success/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    }
+  ]
+}

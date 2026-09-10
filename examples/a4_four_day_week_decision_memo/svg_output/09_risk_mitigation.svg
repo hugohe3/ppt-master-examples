@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF" />
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">9 · Risk and mitigation</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="80 160 1020 112">
+    <text x="80" y="200" font-size="44" font-weight="bold" fill="#16232E"><tspan x="80" dy="0">The risk that stopped the only comparable</tspan><tspan x="80" dy="54">firm is the one we cannot mitigate away</tspan></text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="80 290 1020 80">
+    <text x="80" y="316" font-size="30" fill="#4A6B7C"><tspan x="80" dy="0">Client expectation is the binding risk; everything else is a preparation</tspan><tspan x="80" dy="42">problem.</tspan></text>
+  </g>
+
+  <g id="risk-matrix" data-pptx-bounds="80 372 540 356">
+    <text x="80" y="386" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#5C6871">LIKELIHOOD</text>
+    <rect x="200" y="400" width="420" height="270" fill="#F7F6F3" />
+    <line x1="340" y1="400" x2="340" y2="670" stroke="#E7E3DB" stroke-width="1" />
+    <line x1="480" y1="400" x2="480" y2="670" stroke="#E7E3DB" stroke-width="1" />
+    <line x1="200" y1="490" x2="620" y2="490" stroke="#E7E3DB" stroke-width="1" />
+    <line x1="200" y1="580" x2="620" y2="580" stroke="#E7E3DB" stroke-width="1" />
+    <g id="p09-binding-risk-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="480 400 140 90" data-pptx-av-adj1="val 4000" fill="none" stroke="#B4471C" stroke-width="3">
+<path d="M 480 400 L 620 400 L 620 490 L 480 490 Z M 483.6 403.6 L 483.6 486.4 L 616.4 486.4 L 616.4 403.6 Z" />
+</g>
+    <text x="190" y="452" font-size="20" text-anchor="end" fill="#5C6871">High</text>
+    <text x="190" y="542" font-size="20" text-anchor="end" fill="#5C6871">Medium</text>
+    <text x="190" y="632" font-size="20" text-anchor="end" fill="#5C6871">Low</text>
+    <text x="270" y="696" font-size="20" text-anchor="middle" fill="#5C6871">Low</text>
+    <text x="410" y="696" font-size="20" text-anchor="middle" fill="#5C6871">Medium</text>
+    <text x="550" y="696" font-size="20" text-anchor="middle" fill="#5C6871">High</text>
+    <text x="620" y="722" font-size="16" font-weight="bold" letter-spacing="1.6" text-anchor="end" fill="#5C6871">IMPACT</text>
+    <text x="550" y="455" font-size="30" font-weight="bold" text-anchor="middle" fill="#B4471C">1</text>
+    <text x="410" y="455" font-size="30" font-weight="bold" text-anchor="middle" fill="#16232E">2</text>
+    <text x="550" y="545" font-size="30" font-weight="bold" text-anchor="middle" fill="#16232E">3</text>
+    <text x="410" y="545" font-size="30" font-weight="bold" text-anchor="middle" fill="#16232E">4  5  6</text>
+  </g>
+
+  <g id="binding-risk-note" data-pptx-bounds="660 396 500 226">
+    <text x="660" y="420" font-size="26" fill="#16232E"><tspan x="660" dy="0">Risk 1 sits alone in the top-right cell. It</tspan><tspan x="660" dy="38">is the only risk here that preparation</tspan><tspan x="660" dy="38">cannot remove, because it depends on</tspan><tspan x="660" dy="38">how clients react — and it is what</tspan><tspan x="660" dy="38">stopped the one comparable firm.</tspan></text>
+  </g>
+
+  <g id="risk-register" data-pptx-replace-with="table" data-pptx-bounds="80 760 1080 680" data-pptx-fallback-sha256="423e8239b55ae8804db6bbd37aaf573b62b524e86a911df2f14bdb982750bf3c">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 80, "y": 760, "width": 1080, "height": 680,
+  "name": "risk-register",
+  "header_rows": 1,
+  "column_widths": [60, 260, 130, 110, 380, 140],
+  "row_heights": [50, 110, 140, 80, 80, 110, 110],
+  "defaults": {
+    "cell": {
+      "valign": "top",
+      "align": "l",
+      "padding": {"left": 8, "right": 8, "top": 10, "bottom": 10},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#E7E3DB", "width": 1}
+      }
+    },
+    "run": {"color": "#16232E"}
+  },
+  "columns": [
+    {"text": "#", "bold": true, "font_size": 20, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}},
+    {"text": "Risk", "bold": true, "font_size": 20, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}},
+    {"text": "Likelihood", "bold": true, "font_size": 20, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}},
+    {"text": "Impact", "bold": true, "font_size": 20, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}},
+    {"text": "Mitigation", "bold": true, "font_size": 20, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}},
+    {"text": "Owner", "bold": true, "font_size": 20, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}}
+  ],
+  "rows": [
+    ["1", "Client and stakeholder expectations (F028 · F037)", {"text": "High", "color": "#B4471C"}, {"text": "High", "color": "#B4471C"}, "Client communication agreed in Phase 0; stated response times unchanged", "Practice heads"],
+    ["2", "Hours creep: a nominal 32-hour week worked as 34–36 (F011 · F040)", {"text": "High", "color": "#B4471C"}, {"text": "Medium", "color": "#4A6B7C"}, "Measure actual hours, not the policy; treat creep as a kill-criterion input", "COO"],
+    ["3", "No agreed definition of productivity (F047)", {"text": "Medium", "color": "#4A6B7C"}, {"text": "High", "color": "#B4471C"}, "Metrics fixed in Phase 0 and published before the pilot starts", "Finance director"],
+    ["4", "Benefit fade after month 3 (F043)", {"text": "Medium", "color": "#4A6B7C"}, {"text": "Medium", "color": "#4A6B7C"}, "Gate A is the high-water mark; the six-month read decides", "HR director"],
+    ["5", "Entitlement dispute on withdrawal (F025)", {"text": "Medium", "color": "#4A6B7C"}, {"text": "Medium", "color": "#4A6B7C"}, "Non-contractual status stated in writing and acknowledged by each participant", "HR director"],
+    ["6", "Inequitable application across a small team (F028)", {"text": "Medium", "color": "#4A6B7C"}, {"text": "Medium", "color": "#4A6B7C"}, "Whole-practice-group scope rather than individual opt-in", "Practice heads"]
+  ],
+  "style": {
+    "font_family": "Arial",
+    "font_size": 22,
+    "header_font_size": 20,
+    "header_fill": "#F2F0EB",
+    "header_text": "#16232E",
+    "body_text": "#16232E",
+    "band_row": false
+  }
+}
+    </metadata>
+    <rect x="80" y="760" width="1080" height="50" fill="#F2F0EB" />
+    <line x1="80" y1="810" x2="1160" y2="810" stroke="#16232E" stroke-width="2" />
+    <line x1="80" y1="920" x2="1160" y2="920" stroke="#E7E3DB" stroke-width="1" />
+    <line x1="80" y1="1060" x2="1160" y2="1060" stroke="#E7E3DB" stroke-width="1" />
+    <line x1="80" y1="1140" x2="1160" y2="1140" stroke="#E7E3DB" stroke-width="1" />
+    <line x1="80" y1="1220" x2="1160" y2="1220" stroke="#E7E3DB" stroke-width="1" />
+    <line x1="80" y1="1330" x2="1160" y2="1330" stroke="#E7E3DB" stroke-width="1" />
+    <line x1="80" y1="1440" x2="1160" y2="1440" stroke="#E7E3DB" stroke-width="1" />
+
+    <text x="88" y="790" font-size="20" font-weight="bold" fill="#16232E">#</text>
+    <text x="148" y="790" font-size="20" font-weight="bold" fill="#16232E">Risk</text>
+    <text x="408" y="790" font-size="20" font-weight="bold" fill="#16232E">Likelihood</text>
+    <text x="538" y="790" font-size="20" font-weight="bold" fill="#16232E">Impact</text>
+    <text x="648" y="790" font-size="20" font-weight="bold" fill="#16232E">Mitigation</text>
+    <text x="1008" y="790" font-size="20" font-weight="bold" fill="#16232E">Owner</text>
+
+    <text x="88" y="840" font-size="22" fill="#16232E">1</text>
+    <text x="148" y="840" font-size="22" fill="#16232E"><tspan x="148" dy="0">Client and stakeholder </tspan><tspan x="148" dy="30">expectations (F028 · </tspan><tspan x="148" dy="30">F037)</tspan></text>
+    <text x="408" y="840" font-size="22" fill="#B4471C">High</text>
+    <text x="538" y="840" font-size="22" fill="#B4471C">High</text>
+    <text x="648" y="840" font-size="22" fill="#16232E"><tspan x="648" dy="0">Client communication agreed in </tspan><tspan x="648" dy="30">Phase 0; stated response times </tspan><tspan x="648" dy="30">unchanged</tspan></text>
+    <text x="1008" y="840" font-size="22" fill="#16232E"><tspan x="1008" dy="0">Practice </tspan><tspan x="1008" dy="30">heads</tspan></text>
+
+    <text x="88" y="950" font-size="22" fill="#16232E">2</text>
+    <text x="148" y="950" font-size="22" fill="#16232E"><tspan x="148" dy="0">Hours creep: a nominal </tspan><tspan x="148" dy="30">32-hour week worked </tspan><tspan x="148" dy="30">as 34–36 (F011 · </tspan><tspan x="148" dy="30">F040)</tspan></text>
+    <text x="408" y="950" font-size="22" fill="#B4471C">High</text>
+    <text x="538" y="950" font-size="22" fill="#4A6B7C">Medium</text>
+    <text x="648" y="950" font-size="22" fill="#16232E"><tspan x="648" dy="0">Measure actual hours, not the </tspan><tspan x="648" dy="30">policy; treat creep as a </tspan><tspan x="648" dy="30">kill-criterion input</tspan></text>
+    <text x="1008" y="950" font-size="22" fill="#16232E">COO</text>
+
+    <text x="88" y="1090" font-size="22" fill="#16232E">3</text>
+    <text x="148" y="1090" font-size="22" fill="#16232E"><tspan x="148" dy="0">No agreed definition of </tspan><tspan x="148" dy="30">productivity (F047)</tspan></text>
+    <text x="408" y="1090" font-size="22" fill="#4A6B7C">Medium</text>
+    <text x="538" y="1090" font-size="22" fill="#B4471C">High</text>
+    <text x="648" y="1090" font-size="22" fill="#16232E"><tspan x="648" dy="0">Metrics fixed in Phase 0 and </tspan><tspan x="648" dy="30">published before the pilot starts</tspan></text>
+    <text x="1008" y="1090" font-size="22" fill="#16232E"><tspan x="1008" dy="0">Finance </tspan><tspan x="1008" dy="30">director</tspan></text>
+
+    <text x="88" y="1170" font-size="22" fill="#16232E">4</text>
+    <text x="148" y="1170" font-size="22" fill="#16232E"><tspan x="148" dy="0">Benefit fade after </tspan><tspan x="148" dy="30">month 3 (F043)</tspan></text>
+    <text x="408" y="1170" font-size="22" fill="#4A6B7C">Medium</text>
+    <text x="538" y="1170" font-size="22" fill="#4A6B7C">Medium</text>
+    <text x="648" y="1170" font-size="22" fill="#16232E"><tspan x="648" dy="0">Gate A is the high-water mark; </tspan><tspan x="648" dy="30">the six-month read decides</tspan></text>
+    <text x="1008" y="1170" font-size="22" fill="#16232E">HR director</text>
+
+    <text x="88" y="1250" font-size="22" fill="#16232E">5</text>
+    <text x="148" y="1250" font-size="22" fill="#16232E"><tspan x="148" dy="0">Entitlement dispute on </tspan><tspan x="148" dy="30">withdrawal (F025)</tspan></text>
+    <text x="408" y="1250" font-size="22" fill="#4A6B7C">Medium</text>
+    <text x="538" y="1250" font-size="22" fill="#4A6B7C">Medium</text>
+    <text x="648" y="1250" font-size="22" fill="#16232E"><tspan x="648" dy="0">Non-contractual status stated in </tspan><tspan x="648" dy="30">writing and acknowledged by </tspan><tspan x="648" dy="30">each participant</tspan></text>
+    <text x="1008" y="1250" font-size="22" fill="#16232E">HR director</text>
+
+    <text x="88" y="1360" font-size="22" fill="#16232E">6</text>
+    <text x="148" y="1360" font-size="22" fill="#16232E"><tspan x="148" dy="0">Inequitable application </tspan><tspan x="148" dy="30">across a small team </tspan><tspan x="148" dy="30">(F028)</tspan></text>
+    <text x="408" y="1360" font-size="22" fill="#4A6B7C">Medium</text>
+    <text x="538" y="1360" font-size="22" fill="#4A6B7C">Medium</text>
+    <text x="648" y="1360" font-size="22" fill="#16232E"><tspan x="648" dy="0">Whole-practice-group scope </tspan><tspan x="648" dy="30">rather than individual opt-in</tspan></text>
+    <text x="1008" y="1360" font-size="22" fill="#16232E"><tspan x="1008" dy="0">Practice </tspan><tspan x="1008" dy="30">heads</tspan></text>
+  </g>
+
+  <g id="risk-notes" data-pptx-bounds="80 1470 1020 134" font-size="16">
+    <text x="80" y="1484" fill="#6E777E"><tspan x="80" dy="0">Likelihood and impact ratings are the firm’s judgement, not findings — scenario data. The risks themselves are sourced; the ratings are</tspan><tspan x="80" dy="24">not. Accent marks a High rating, slate a Medium one.</tspan></text>
+    <text x="80" y="1544" fill="#5C6871"><tspan x="80" dy="0">External note: a Best Value Notice was issued to South Cambridgeshire District Council in November 2023, reissued in May 2024 and</tspan><tspan x="80" dy="24">allowed to expire in November 2024, alongside a statement that it is not government policy to support a general move to a four-day</tspan><tspan x="80" dy="24">week for five days’ pay. Relevant to a private firm only as a signal about external legitimacy.</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1" />
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Autonomy (2023) · 4 Day Week Foundation follow-up (2024) · Portugal final report (2024) · MHCLG</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 9 of 10</text>
+  </g>
+</svg>

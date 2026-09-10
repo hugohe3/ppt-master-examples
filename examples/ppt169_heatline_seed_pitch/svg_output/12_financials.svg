@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1"/>
+  <g id="page-header" data-pptx-bounds="64 66 1152 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">Expansion seats carry the plan.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="1216" y2="132" stroke="#16233A" stroke-width="2"/>
+  </g>
+  <g id="revenue-by-driver" data-pptx-replace-with="chart" data-pptx-bounds="64 164 696 440" data-pptx-fallback-sha256="035075c74190e8074fefd2f32ac426b7b117514b6df3552624ea81622d716a95">
+    <metadata type="application/json">
+{
+      "x": 64,
+      "y": 164,
+      "width": 696,
+      "height": 440,
+      "name": "revenue-by-driver",
+      "type": "column",
+      "grouping": "stacked",
+      "plot_area": {
+            "x": 160,
+            "y": 200,
+            "width": 560,
+            "height": 300
+      },
+      "categories": [
+            "FY2026 A",
+            "FY2027 P",
+            "FY2028 P",
+            "FY2029 P"
+      ],
+      "series": [
+            {
+                  "name": "New seats",
+                  "values": [
+                        0.62,
+                        1.45,
+                        2.9,
+                        4.8
+                  ]
+            },
+            {
+                  "name": "Expansion seats",
+                  "values": [
+                        0.31,
+                        0.72,
+                        1.74,
+                        3.6
+                  ]
+            },
+            {
+                  "name": "Manufacturer channel",
+                  "values": [
+                        0.0,
+                        0.18,
+                        0.66,
+                        1.7
+                  ]
+            }
+      ],
+      "gap_width": 100,
+      "show_legend": true,
+      "legend_position": "bottom",
+      "axes": {
+            "category": {
+                  "kind": "text",
+                  "position": "bottom",
+                  "visible": true,
+                  "label_position": "next_to",
+                  "major_gridlines": false,
+                  "tick_marks": "none"
+            },
+            "value": {
+                  "kind": "value",
+                  "position": "left",
+                  "visible": true,
+                  "label_position": "next_to",
+                  "minimum": 0,
+                  "maximum": 11,
+                  "major_unit": 2,
+                  "number_format": "0",
+                  "major_gridlines": true,
+                  "tick_marks": "none"
+            }
+      },
+      "axis_titles": {
+            "category": {
+                  "text": "Financial year",
+                  "font_size": 18,
+                  "color": "#6B6154"
+            },
+            "value": {
+                  "text": "Revenue (£m)",
+                  "font_size": 18,
+                  "color": "#6B6154"
+            }
+      },
+      "notes": [
+            {
+                  "text": "0.93",
+                  "font_size": 18,
+                  "color": "#16233A"
+            },
+            {
+                  "text": "2.35",
+                  "font_size": 18,
+                  "color": "#16233A"
+            },
+            {
+                  "text": "5.30",
+                  "font_size": 18,
+                  "color": "#16233A"
+            },
+            {
+                  "text": "10.10",
+                  "font_size": 18,
+                  "color": "#16233A"
+            },
+            {
+                  "text": "ACTUAL",
+                  "font_size": 20,
+                  "color": "#6B6154"
+            },
+            {
+                  "text": "PROJECTED",
+                  "font_size": 20,
+                  "color": "#6B6154"
+            }
+      ],
+      "style": {
+            "font_family": "Calibri",
+            "font_size": 18,
+            "axis_font_size": 18,
+            "axis_title_font_size": 18,
+            "legend_font_size": 18,
+            "note_font_size": 18,
+            "text_color": "#6B6154",
+            "axis_color": "#16233A",
+            "grid_color": "#C9BCA8",
+            "chart_area_fill": "none",
+            "plot_area_fill": "none",
+            "colors": [
+                  "#16233A",
+                  "#D65A1E",
+                  "#2E6F5E"
+            ]
+      }
+}
+    </metadata>
+    <g id="revenue-by-driver-chartArea">
+      <line id="revenue-by-driver-grid-10" x1="160" y1="227.27" x2="720" y2="227.27" stroke="#C9BCA8" stroke-width="1"/>
+      <line id="revenue-by-driver-grid-8" x1="160" y1="281.82" x2="720" y2="281.82" stroke="#C9BCA8" stroke-width="1"/>
+      <line id="revenue-by-driver-grid-6" x1="160" y1="336.36" x2="720" y2="336.36" stroke="#C9BCA8" stroke-width="1"/>
+      <line id="revenue-by-driver-grid-4" x1="160" y1="390.91" x2="720" y2="390.91" stroke="#C9BCA8" stroke-width="1"/>
+      <line id="revenue-by-driver-grid-2" x1="160" y1="445.45" x2="720" y2="445.45" stroke="#C9BCA8" stroke-width="1"/>
+      <line id="revenue-by-driver-axis-y" x1="160" y1="200" x2="160" y2="500" stroke="#16233A" stroke-width="2"/>
+      <line id="revenue-by-driver-axis-x" x1="160" y1="500" x2="720" y2="500" stroke="#16233A" stroke-width="2"/>
+      <!-- chart-plot-area: object=revenue-by-driver | 160,200,720,500 -->
+      <rect x="195" y="483.09" width="70" height="16.91" fill="#16233A"/>
+      <rect x="195" y="474.64" width="70" height="8.45" fill="#D65A1E"/>
+      <rect x="335" y="460.45" width="70" height="39.55" fill="#16233A"/>
+      <rect x="335" y="440.82" width="70" height="19.63" fill="#D65A1E"/>
+      <rect x="335" y="435.91" width="70" height="4.91" fill="#2E6F5E"/>
+      <rect x="475" y="420.91" width="70" height="79.09" fill="#16233A"/>
+      <rect x="475" y="373.45" width="70" height="47.46" fill="#D65A1E"/>
+      <rect x="475" y="355.45" width="70" height="18.0" fill="#2E6F5E"/>
+      <rect x="615" y="369.09" width="70" height="130.91" fill="#16233A"/>
+      <rect x="615" y="270.91" width="70" height="98.18" fill="#D65A1E"/>
+      <rect x="615" y="224.55" width="70" height="46.36" fill="#2E6F5E"/>
+      <line id="revenue-by-driver-divider" x1="300" y1="200" x2="300" y2="540" stroke="#6B6154" stroke-width="1.5" stroke-dasharray="8,4"/>
+    </g>
+    <text x="230" y="466.64" font-size="18" fill="#16233A" text-anchor="middle">0.93</text>
+    <text x="370" y="427.91" font-size="18" fill="#16233A" text-anchor="middle">2.35</text>
+    <text x="510" y="347.45" font-size="18" fill="#16233A" text-anchor="middle">5.30</text>
+    <text x="650" y="216.55" font-size="18" fill="#16233A" text-anchor="middle">10.10</text>
+    <text x="150" y="506.0" font-size="18" fill="#6B6154" text-anchor="end">0</text>
+    <text x="150" y="451.45" font-size="18" fill="#6B6154" text-anchor="end">2</text>
+    <text x="150" y="396.91" font-size="18" fill="#6B6154" text-anchor="end">4</text>
+    <text x="150" y="342.36" font-size="18" fill="#6B6154" text-anchor="end">6</text>
+    <text x="150" y="287.82" font-size="18" fill="#6B6154" text-anchor="end">8</text>
+    <text x="150" y="233.27" font-size="18" fill="#6B6154" text-anchor="end">10</text>
+    <text x="230" y="526" font-size="16" fill="#6B6154" text-anchor="middle">FY2026 A</text>
+    <text x="370" y="526" font-size="16" fill="#6B6154" text-anchor="middle">FY2027 P</text>
+    <text x="510" y="526" font-size="16" fill="#6B6154" text-anchor="middle">FY2028 P</text>
+    <text x="650" y="526" font-size="16" fill="#6B6154" text-anchor="middle">FY2029 P</text>
+    <text x="230" y="548" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#6B6154" text-anchor="middle">ACTUAL</text>
+    <text x="510" y="548" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#6B6154" text-anchor="middle">PROJECTED</text>
+    <rect x="160" y="560" width="16" height="16" fill="#16233A"/>
+    <text x="182" y="573" font-size="18" fill="#1F2733">New seats</text>
+    <rect x="320" y="560" width="16" height="16" fill="#D65A1E"/>
+    <text x="342" y="573" font-size="18" fill="#1F2733">Expansion seats</text>
+    <rect x="520" y="560" width="16" height="16" fill="#2E6F5E"/>
+    <text x="542" y="573" font-size="18" fill="#1F2733">Manufacturer channel</text>
+    <text x="440" y="596" font-size="18" fill="#6B6154" text-anchor="middle">Financial year</text>
+    <text x="106" y="350" font-size="18" fill="#6B6154" text-anchor="middle" transform="rotate(-90 106 350)">Revenue (£m)</text>
+  </g>
+  <g id="plan-drivers" data-pptx-bounds="800 172 416 366">
+    <text x="800" y="200" font-family="Arial Black, sans-serif" font-size="32" fill="#16233A">Driver arithmetic</text>
+    <text x="800" y="240" font-family="Consolas, monospace" font-size="20" fill="#1F2733">new seats × £180 × 12<tspan x="800" dy="28">expansion at 118% NRR</tspan><tspan x="800" dy="28">held flat</tspan><tspan x="800" dy="28">channel seats at £2,900 CAC</tspan></text>
+    <text x="800" y="390" font-family="Arial Black, sans-serif" font-size="32" fill="#16233A">Exposure</text>
+    <text x="800" y="430" font-size="18" fill="#1F2733">The plan assumes retention holds at 118%<tspan x="800" dy="24">and that the manufacturer channel scales</tspan><tspan x="800" dy="24">past one partner. Neither is proven.</tspan><tspan x="800" dy="24">If retention falls to 105%, FY2029</tspan><tspan x="800" dy="24">revenue falls by roughly a quarter.</tspan></text>
+  </g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">All revenue, driver and retention figures are illustrative. FY2026 is labelled actual; FY2027–FY2029 are projected.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1"/>
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

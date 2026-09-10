@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1" />
+  <g id="page-header" data-pptx-bounds="64 66 1152 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">£180 a seat pays back in 5.2 months.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="1216" y2="132" stroke="#16233A" stroke-width="2" />
+  </g>
+  <g id="unit-economics-waterfall" data-pptx-replace-with="chart" data-pptx-bounds="64 164 896 420" data-pptx-fallback-sha256="b14587e106bfc8911a1a57d3a7b66a541be9092b5ded07d9bbc9cbd6288c818f">
+    <metadata type="application/json">{"x": 64, "y": 164, "width": 896, "height": 420, "name": "unit-economics-waterfall", "type": "waterfall", "categories": ["Gross ACV", "Launch discount", "Hosting and support", "Partner fees", "Gross contribution"], "values": [21.6, -3.24, -2.57, -0.92, 14.87], "subtotal_indices": [4], "axis_titles": {"category": {"text": "Per representative ten-seat customer, one year", "font_size": 18, "color": "#6B6154"}, "value": {"text": "£ thousand per customer per year", "font_size": 18, "color": "#6B6154"}}, "notes": [{"text": "£21,600", "font_size": 18, "color": "#16233A"}, {"text": "−£3,240", "font_size": 18, "color": "#16233A"}, {"text": "−£2,570", "font_size": 18, "color": "#16233A"}, {"text": "−£920", "font_size": 18, "color": "#16233A"}, {"text": "£14,870", "font_size": 18, "color": "#16233A"}], "show_legend": false, "style": {"font_family": "Calibri", "font_size": 18, "axis_font_size": 18, "axis_title_font_size": 18, "note_font_size": 18, "text_color": "#6B6154", "axis_color": "#16233A", "chart_area_fill": "none", "plot_area_fill": "none", "colors": ["#16233A", "#D65A1E", "#2E6F5E"]}}</metadata>
+    <g id="unit-economics-waterfall-chartArea">
+      <line id="unit-economics-waterfall-axis-y" x1="200" y1="200" x2="200" y2="500" stroke="#16233A" stroke-width="2" />
+      <line id="unit-economics-waterfall-axis-x" x1="200" y1="500" x2="900" y2="500" stroke="#16233A" stroke-width="2" />
+      
+      <rect x="228" y="230.0" width="84" height="270.0" fill="#16233A" />
+      <rect x="368" y="230.0" width="84" height="40.5" fill="#D65A1E" />
+      <rect x="508" y="270.5" width="84" height="32.125" fill="#D65A1E" />
+      <rect x="648" y="302.625" width="84" height="11.5" fill="#D65A1E" />
+      <rect x="788" y="314.125" width="84" height="185.875" fill="#2E6F5E" />
+      <line id="unit-economics-waterfall-connector-1" x1="312" y1="230.0" x2="368" y2="230.0" stroke="#C9BCA8" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="unit-economics-waterfall-connector-2" x1="452" y1="270.5" x2="508" y2="270.5" stroke="#C9BCA8" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="unit-economics-waterfall-connector-3" x1="592" y1="302.625" x2="648" y2="302.625" stroke="#C9BCA8" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="unit-economics-waterfall-connector-4" x1="732" y1="314.125" x2="788" y2="314.125" stroke="#C9BCA8" stroke-width="1" stroke-dasharray="4,4" />
+    </g>
+    <text x="270" y="222.0" font-size="18" fill="#16233A" text-anchor="middle">£21,600</text>
+    <text x="410" y="222.0" font-size="18" fill="#16233A" text-anchor="middle">−£3,240</text>
+    <text x="550" y="262.5" font-size="18" fill="#16233A" text-anchor="middle">−£2,570</text>
+    <text x="690" y="294.62" font-size="18" fill="#16233A" text-anchor="middle">−£920</text>
+    <text x="830" y="306.12" font-size="18" fill="#16233A" text-anchor="middle">£14,870</text>
+    <text x="270" y="526" font-size="16" fill="#6B6154" text-anchor="middle">Gross ACV</text>
+    <text x="410" y="526" font-size="16" fill="#6B6154" text-anchor="middle">Launch discount</text>
+    <text x="550" y="526" font-size="16" fill="#6B6154" text-anchor="middle">Hosting and support</text>
+    <text x="690" y="526" font-size="16" fill="#6B6154" text-anchor="middle">Partner fees</text>
+    <text x="830" y="526" font-size="16" fill="#6B6154" text-anchor="middle">Gross contribution</text>
+    <text x="550" y="566" font-size="18" fill="#6B6154" text-anchor="middle">Per representative ten-seat customer, one year</text>
+    <text x="140" y="350" font-size="18" fill="#6B6154" text-anchor="middle" transform="rotate(-90 140 350)">£ thousand per customer per year</text>
+  </g>
+  <g id="payback-panel" data-pptx-bounds="1000 200 216 304">
+    <line x1="1000" y1="200" x2="1000" y2="504" stroke="#C9BCA8" stroke-width="1" />
+    <text font-size="18" fill="#1F2733" x="1016" y="216">£180 per engineer</text><text font-size="18" fill="#1F2733" x="1016" y="240">per month, annual term,</text><text font-size="18" fill="#1F2733" x="1016" y="264">minimum five seats</text><text x="1000" y="380" font-family="Arial Black, sans-serif" font-size="108" fill="#D65A1E">5.2</text>
+    <text x="1016" y="410" font-size="18" fill="#16233A">months to pay back</text>
+    <text font-size="18" fill="#6B6154" x="1016" y="446">£6,400 blended CAC</text><text font-size="18" fill="#6B6154" x="1016" y="470">£1,239 monthly gross</text><text font-size="18" fill="#6B6154" x="1016" y="494">contribution</text></g>
+  <g id="basis-and-comparator" data-pptx-bounds="64 594 1152 50">
+    <rect x="64" y="594" width="3" height="50" fill="#D65A1E" />
+    <text font-size="18" fill="#1F2733" x="80" y="610">Basis: one representative ten-seat customer, twelve months, GBP, unaudited.</text><text font-size="18" fill="#1F2733" x="80" y="634">Comparator: published small-trade field-service list pricing runs $49/month for one user to $499/month for five.</text></g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">Heatline pricing, costs and CAC are illustrative. Comparator: Jobber published pricing · retrieved 2026-09-10.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1" />
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

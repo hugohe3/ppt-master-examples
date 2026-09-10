@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1" />
+  <g id="ask-headline" data-pptx-bounds="64 182 1152 243">
+    <text x="64" y="200" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#6B6154">SEED ROUND · SEPTEMBER 2026</text>
+    <text x="64" y="360" font-family="Arial Black, sans-serif" font-size="180" fill="#16233A">£4.2M</text>
+  </g>
+  <g id="ask-figure-segments" data-pptx-bounds="64 440 1152 66">
+    <rect x="64" y="440" width="507" height="40" fill="#16233A" />
+    <rect x="571" y="440" width="357" height="40" fill="#2E4266" />
+    <rect x="928" y="440" width="150" height="40" fill="#D65A1E" />
+    <rect x="1078" y="440" width="81" height="40" fill="#2E6F5E" />
+    <rect x="1159" y="440" width="57" height="40" fill="#C9BCA8" />
+    <text x="64" y="500" font-size="18" fill="#6B6154">Split five ways on the next page.</text>
+  </g>
+  <g id="ask-terms" data-pptx-bounds="64 512 1152 98">
+    <text x="64" y="540" font-size="30" fill="#16233A">24 months of runway to Q3 2028</text>
+    <text font-size="18" fill="#1F2733" x="64" y="578">Milestones: £5.3M ARR, two additional markets live,</text><text font-size="18" fill="#1F2733" x="64" y="602">and the manufacturer API in production with three partners.</text></g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">The round size, runway and milestones on this page are illustrative.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1" />
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

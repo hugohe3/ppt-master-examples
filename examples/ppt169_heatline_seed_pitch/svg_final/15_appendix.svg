@@ -1,0 +1,473 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1" />
+  <g id="page-header" data-pptx-bounds="64 66 1152 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">Definitions and every external source.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="1216" y2="132" stroke="#16233A" stroke-width="2" />
+  </g>
+  <g id="metric-definitions" data-pptx-replace-with="table" data-pptx-bounds="64 164 1152 264" data-pptx-fallback-sha256="4ea8ae0c66c7edfae3f1607940bdec0a58691fd5c225ba63784e00e8309601a9">
+    <metadata type="application/json">
+{
+      "schema": "ppt-master.semantic-table.v2",
+      "x": 64,
+      "y": 164,
+      "width": 1152,
+      "height": 264,
+      "name": "metric-definitions",
+      "columns": [
+            {
+                  "align": "l",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "text": "Metric",
+                  "bold": true
+            },
+            {
+                  "align": "l",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "text": "Definition",
+                  "bold": true
+            },
+            {
+                  "align": "l",
+                  "color": "#FBF7F1",
+                  "borders": {
+                        "left": {
+                              "style": "none"
+                        },
+                        "right": {
+                              "style": "none"
+                        },
+                        "top": {
+                              "style": "none"
+                        },
+                        "bottom": {
+                              "style": "none"
+                        }
+                  },
+                  "text": "Period and system of record",
+                  "bold": true
+            }
+      ],
+      "rows": [
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Live engineer seat"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "One engineer with an active licence on the last day of the month"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Monthly since 2025 · billing system"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "ARR"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Live seats × list price × 12, net of discount"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "At month end · billing system"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Net revenue retention"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Trailing twelve months, existing customers only, excludes new logos"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Monthly · billing system"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Customer acquisition cost"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Blended sales and marketing spend ÷ new customers, same quarter"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Quarterly · finance ledger"
+                  }
+            ],
+            [
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Payback"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Acquisition cost ÷ monthly gross contribution"
+                  },
+                  {
+                        "align": "l",
+                        "color": "#1F2733",
+                        "borders": {
+                              "left": {
+                                    "style": "none"
+                              },
+                              "right": {
+                                    "style": "none"
+                              },
+                              "top": {
+                                    "style": "none"
+                              },
+                              "bottom": {
+                                    "style": "solid",
+                                    "color": "#C9BCA8",
+                                    "width": 1
+                              }
+                        },
+                        "text": "Per cohort · finance ledger"
+                  }
+            ]
+      ],
+      "column_widths": [
+            260,
+            560,
+            332
+      ],
+      "row_heights": [
+            44,
+            44,
+            44,
+            44,
+            44,
+            44
+      ],
+      "header_rows": 1,
+      "style": {
+            "font_family": "Calibri",
+            "font_size": 18,
+            "header_font_size": 18,
+            "header_fill": "#16233A",
+            "header_text": "#FBF7F1",
+            "body_text": "#1F2733",
+            "band_row": false,
+            "valign": "middle",
+            "padding": {
+                  "left": 16,
+                  "right": 16,
+                  "top": 8,
+                  "bottom": 8
+            }
+      }
+}
+    </metadata>
+    <rect x="64" y="164" width="1152" height="44" fill="#16233A" />
+    <text x="80" y="192" font-size="18" font-weight="bold" fill="#FBF7F1">Metric</text>
+    <text x="340" y="192" font-size="18" font-weight="bold" fill="#FBF7F1">Definition</text>
+    <text x="900" y="192" font-size="18" font-weight="bold" fill="#FBF7F1">Period and system of record</text>
+    <text x="80" y="236" font-size="18" fill="#1F2733">Live engineer seat</text>
+    <text x="340" y="236" font-size="18" fill="#1F2733">One engineer with an active licence on the last day of the month</text>
+    <text x="900" y="236" font-size="18" fill="#1F2733">Monthly since 2025 · billing system</text>
+    <line x1="64" y1="252" x2="1216" y2="252" stroke="#C9BCA8" stroke-width="1" />
+    <text x="80" y="280" font-size="18" fill="#1F2733">ARR</text>
+    <text x="340" y="280" font-size="18" fill="#1F2733">Live seats × list price × 12, net of discount</text>
+    <text x="900" y="280" font-size="18" fill="#1F2733">At month end · billing system</text>
+    <line x1="64" y1="296" x2="1216" y2="296" stroke="#C9BCA8" stroke-width="1" />
+    <text x="80" y="324" font-size="18" fill="#1F2733">Net revenue retention</text>
+    <text x="340" y="324" font-size="18" fill="#1F2733">Trailing twelve months, existing customers only, excludes new logos</text>
+    <text x="900" y="324" font-size="18" fill="#1F2733">Monthly · billing system</text>
+    <line x1="64" y1="340" x2="1216" y2="340" stroke="#C9BCA8" stroke-width="1" />
+    <text x="80" y="368" font-size="18" fill="#1F2733">Customer acquisition cost</text>
+    <text x="340" y="368" font-size="18" fill="#1F2733">Blended sales and marketing spend ÷ new customers, same quarter</text>
+    <text x="900" y="368" font-size="18" fill="#1F2733">Quarterly · finance ledger</text>
+    <line x1="64" y1="384" x2="1216" y2="384" stroke="#C9BCA8" stroke-width="1" />
+    <text x="80" y="412" font-size="18" fill="#1F2733">Payback</text>
+    <text x="340" y="412" font-size="18" fill="#1F2733">Acquisition cost ÷ monthly gross contribution</text>
+    <text x="900" y="412" font-size="18" fill="#1F2733">Per cohort · finance ledger</text>
+    <line x1="64" y1="428" x2="1216" y2="428" stroke="#C9BCA8" stroke-width="1" />
+  </g>
+  <g id="policy-reference" data-pptx-bounds="64 432 1152 74">
+    <text font-size="18" fill="#1F2733" x="64" y="448">To 31 July 2026 the UK Boiler Upgrade Scheme had received 151,136 applications, issued 101,029 vouchers, redeemed 93,364</text><text font-size="18" fill="#1F2733" x="64" y="472">and paid £661,303,000. The grant is £7,500 per heat pump, plus £1,500 off gas grid until March 2027.</text><text font-size="18" fill="#1F2733" x="64" y="496">The US section 25C credit is not allowed for property placed in service after 31 December 2025.</text></g>
+  <g id="source-links" data-pptx-bounds="64 516 1152 126" fill="#16233A" font-size="18">
+    <text x="64" y="532"><tspan><a href="https://www.iea.org/reports/global-energy-review-2026/technology-heat-pumps"><tspan text-decoration="underline">IEA — Global Energy Review 2026</tspan></a></tspan></text><text x="64" y="558"><tspan><a href="https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/"><tspan text-decoration="underline">IEA — Heat Pump Monitor 2026</tspan></a></tspan></text><text x="64" y="584"><tspan><a href="https://heatpumpingtechnologies.org/iea-global-energy-review-2025-main-takeaways-for-heat-pumps/"><tspan text-decoration="underline">IEA — Global Energy Review 2025</tspan></a></tspan></text><text x="64" y="610"><tspan><a href="https://energy.ec.europa.eu/topics/energy-efficiency/heat-pumps_en"><tspan text-decoration="underline">EC — Heat pumps</tspan></a></tspan></text><text x="64" y="636"><tspan><a href="https://energy.ec.europa.eu/news/commission-issues-guidance-phasing-out-financing-stand-alone-fossil-fuel-boilers-2025-2024-10-17_en"><tspan text-decoration="underline">EC — fossil-boiler financing</tspan></a></tspan></text><text x="448" y="532"><tspan><a href="https://energy.ec.europa.eu/topics/energy-efficiency/energy-performance-buildings/energy-performance-buildings-directive_en"><tspan text-decoration="underline">EC — EPBD</tspan></a></tspan></text><text x="448" y="558"><tspan><a href="https://ehpa.org/news-and-resources/news/wanted-half-a-million-heat-pump-installers/"><tspan text-decoration="underline">EHPA — heat pump workforce</tspan></a></tspan></text><text x="448" y="584"><tspan><a href="https://www.nesta.org.uk/blog/the-heat-pump-installer-gap/"><tspan text-decoration="underline">Nesta — installer gap</tspan></a></tspan></text><text x="448" y="610"><tspan><a href="https://www.nesta.org.uk/press-release/heat-pump-engineers-held-back-on-installations-by-staff-shortages/"><tspan text-decoration="underline">Nesta — staff shortages survey</tspan></a></tspan></text><text x="448" y="636"><tspan><a href="https://www.ofgem.gov.uk/data/bus-monthly-scheme-update"><tspan text-decoration="underline">Ofgem — Boiler Upgrade Scheme</tspan></a></tspan></text><text x="832" y="532"><tspan><a href="https://www.gov.uk/apply-boiler-upgrade-scheme/what-you-can-get"><tspan text-decoration="underline">GOV.UK — BUS grant amounts</tspan></a></tspan></text><text x="832" y="558"><tspan><a href="https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-obbb"><tspan text-decoration="underline">IRS — section 25C after OBBB</tspan></a></tspan></text><text x="832" y="584"><tspan><a href="https://getjobber.com/pricing/"><tspan text-decoration="underline">Jobber — published pricing</tspan></a></tspan></text></g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">Heatline is fictional. Every company, product, customer, traction and financial figure in this deck is illustrative.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1" />
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

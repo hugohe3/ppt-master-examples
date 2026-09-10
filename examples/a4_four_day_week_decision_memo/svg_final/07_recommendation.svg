@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF" />
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">7 · Recommendation</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="80 160 1020 112">
+    <text font-weight="bold" fill="#16232E" font-size="44" x="80" y="200">Pilot 100-80-100 in two practice groups, after</text><text font-weight="bold" fill="#16232E" font-size="44" x="80" y="254">ten weeks of redesign</text></g>
+
+  <g id="the-action" data-pptx-bounds="80 298 1080 184">
+    <g id="p07-action-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="80 300 1080 180" data-pptx-av-adj="val 12000" fill="#F2F0EB" stroke="none">
+<path d="M 80 300 L 1138.4 300 L 1160 321.6 L 1160 480 L 80 480 Z" />
+</g>
+    <text fill="#16232E" font-size="26" x="120" y="342">Two whole practice groups, about 60 people (illustrative scope), on 100% pay</text><text fill="#16232E" font-size="26" x="120" y="380">and a universal day off with a target 32-hour week. Ten weeks of redesign first,</text><text fill="#16232E" font-size="26" x="120" y="418">six months of operation, one interim gate, and no change to contracts for the</text><text fill="#16232E" font-size="26" x="120" y="456">duration.</text></g>
+
+  <g id="pilot-band" data-pptx-bounds="80 508 1080 124">
+    <rect x="80" y="540" width="300" height="56" fill="#4A6B7C" />
+    <rect x="380" y="540" width="780" height="56" fill="#16232E" />
+    <text x="100" y="576" font-size="22" fill="#FFFFFF">Weeks 1–10 · Redesign</text>
+    <text x="400" y="576" font-size="22" fill="#FFFFFF">Months 1–6 · Operate at 100-80-100</text>
+    <text x="80" y="624" font-size="16" fill="#5C6871">The pilot is bounded in time and reversible at its interim gate.</text>
+  </g>
+
+  <g id="choice-redesign-first" data-pptx-bounds="80 676 1064 110">
+    <text fill="#16232E" font-size="26" x="80" y="700"><tspan><tspan font-weight="bold">Redesign before, not during.</tspan></tspan></text><text fill="#16232E" font-size="26" x="80" y="738">8% of Portuguese companies reverted after two or more organisational changes,</text><text fill="#16232E" font-size="26" x="80" y="776">against 38% after none or one. Two to three months of preparation is the norm.</text></g>
+
+  <g id="choice-universal-day" data-pptx-bounds="80 804 1064 110">
+    <text fill="#16232E" font-size="26" x="80" y="828"><tspan><tspan font-weight="bold">A universal day off, not a flexible model.</tspan></tspan></text><text fill="#16232E" font-size="26" x="80" y="866">Universal or staggered models converted to permanence in 95% of cases against</text><text fill="#16232E" font-size="26" x="80" y="904">60% for flexible ones, on a sample the authors call too small for significance.</text></g>
+
+  <g id="choice-measure-first" data-pptx-bounds="80 932 1064 110">
+    <text fill="#16232E" font-size="26" x="80" y="956"><tspan><tspan font-weight="bold">Measure before you promise.</tspan></tspan></text><text fill="#16232E" font-size="26" x="80" y="994">Half the Portuguese companies could not define productivity metrics at all, so the</text><text fill="#16232E" font-size="26" x="80" y="1032">metric set is agreed in redesign and published before the pilot starts.</text></g>
+
+  <g id="choice-no-entitlement" data-pptx-bounds="80 1060 1064 110">
+    <text fill="#16232E" font-size="26" x="80" y="1084"><tspan><tspan font-weight="bold">No entitlement.</tspan></tspan></text><text fill="#16232E" font-size="26" x="80" y="1122">Nearly half the permanent cases in the UK follow-up never changed contracts.</text><text fill="#16232E" font-size="26" x="80" y="1160">This pilot is stated as non-contractual in writing.</text></g>
+
+  <g id="kill-criteria" data-pptx-bounds="80 1208 1064 116">
+    
+  <g transform="translate(80, 1210) scale(1.75)" fill="#B4471C">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 4C5.79086 4 4 5.79086 4 8C4 10.2091 5.79086 12 8 12C10.2091 12 12 10.2091 12 8C12 5.79086 10.2091 4 8 4ZM6 8C6 6.89543 6.89543 6 8 6C9.10457 6 10 6.89543 10 8C10 9.10457 9.10457 10 8 10C6.89543 10 6 9.10457 6 8Z" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0ZM2 8C2 4.68629 4.68629 2 8 2C11.3137 2 14 4.68629 14 8C14 11.3137 11.3137 14 8 14C4.68629 14 2 11.3137 2 8Z" />
+  </g>
+    <text fill="#16232E" font-size="26" x="124" y="1232">Kill criteria, agreed before the start and reviewed at the interim gate: client</text><text fill="#16232E" font-size="26" x="124" y="1270">satisfaction, on-time delivery, realisation, utilisation, voluntary attrition.</text><text x="124" y="1314" font-size="16" fill="#6E777E">Scenario data — thresholds are the firm’s to set and are illustrative here.</text>
+  </g>
+
+  <g id="not-recommended" data-pptx-bounds="80 1354 1032 154">
+    <rect x="80" y="1356" width="5" height="150" fill="#4A6B7C" />
+    <text fill="#16232E" font-size="26" x="112" y="1380"><tspan><tspan font-weight="bold">Not recommended, and why:</tspan></tspan></text><text fill="#16232E" font-size="26" x="112" y="1418">a firm-wide permanent commitment, which has no evidence at this scale or</text><text fill="#16232E" font-size="26" x="112" y="1456">sector; a compressed four-day week, which keeps total hours; and an hours cut</text><text fill="#16232E" font-size="26" x="112" y="1494">spread across five days, which drifts from the intervention tested.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1" />
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Portugal final report (2024) · 4 Day Week Foundation follow-up (2024) · Belgian Labour Deal · Germany pilot (2024)</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 7 of 10</text>
+  </g>
+</svg>

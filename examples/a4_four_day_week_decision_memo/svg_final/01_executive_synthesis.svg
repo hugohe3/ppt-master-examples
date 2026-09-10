@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="cover">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF" />
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">1 · Executive synthesis</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1" />
+  </g>
+
+  <g id="question-frame" data-pptx-bounds="80 198 1020 62">
+    <text fill="#5C6871" font-size="20" x="80" y="220">The governing question: should this firm move to a four-day week — 100% pay, 80% of the time, 100% of</text><text fill="#5C6871" font-size="20" x="80" y="248">the output?</text></g>
+
+  <g id="the-answer" data-pptx-bounds="80 288 1080 148">
+    <text font-weight="bold" fill="#16232E" font-size="44" x="80" y="330">Yes — as a bounded pilot in two practice</text><text font-weight="bold" fill="#16232E" font-size="44" x="80" y="384">groups, not as a firm-wide commitment</text><rect x="80" y="428" width="240" height="4" fill="#B4471C" />
+  </g>
+
+  <g id="hero-evidence" data-pptx-bounds="80 488 1080 198">
+    <line x1="80" y1="490" x2="1160" y2="490" stroke="#D6D2C9" stroke-width="1" />
+    <g id="hero-persistence">
+      <text x="80" y="580" font-size="84" font-family="Arial Black" fill="#16232E">89%</text>
+      <text fill="#5C6871" font-size="20" x="80" y="624">of the 61 UK pilot companies</text><text fill="#5C6871" font-size="20" x="80" y="650">were still on reduced hours after</text><text fill="#5C6871" font-size="20" x="80" y="676">twelve months</text></g>
+    <g id="hero-significance">
+      <text x="447" y="580" font-size="84" font-family="Arial Black" fill="#B4471C">0</text>
+      <text fill="#5C6871" font-size="20" x="447" y="624">business metrics reached</text><text fill="#5C6871" font-size="20" x="447" y="650">statistical significance, on the</text><text fill="#5C6871" font-size="20" x="447" y="676">pilot’s own account</text></g>
+    <g id="hero-sector">
+      <text x="814" y="580" font-size="84" font-family="Arial Black" fill="#16232E">1 of 1</text>
+      <text fill="#5C6871" font-size="20" x="814" y="624">professional-services firms in the</text><text fill="#5C6871" font-size="20" x="814" y="650">follow-up stopped — over client</text><text fill="#5C6871" font-size="20" x="814" y="676">expectations</text></g>
+  </g>
+
+  <g id="support-wellbeing" data-pptx-bounds="80 736 1064 148" fill="#16232E">
+    
+  <g transform="translate(80, 738) scale(1.75)" fill="#000000">
+    <path d="M15.4141 4.91424L5.99991 14.3285L0.585693 8.91424L3.41412 6.08582L5.99991 8.6716L12.5857 2.08582L15.4141 4.91424Z" />
+  </g>
+    <text font-size="26" x="124" y="760"><tspan><tspan font-weight="bold">The wellbeing effect is large, controlled and replicated.</tspan></tspan></text><text font-size="26" x="124" y="798">Burnout fell from 2.8 to 2.34 and stress from 3.07 to 2.74 across the UK cohort,</text><text font-size="26" x="124" y="836">and a controlled six-country study of nearly 2,900 workers in 141 organisations</text><text font-size="26" x="124" y="874">found the same gains absent in its controls.</text></g>
+
+  <g id="support-business" data-pptx-bounds="80 906 1064 148">
+    
+  <g transform="translate(80, 908) scale(1.75)" fill="#6E777E">
+    <path d="M1 10L1 6L15 6V10L1 10Z" />
+  </g>
+    <text fill="#16232E" font-size="26" x="124" y="930"><tspan><tspan font-weight="bold">The business case is unproven, not disproven.</tspan></tspan></text><text fill="#16232E" font-size="26" x="124" y="968">Revenue rose 1.4% from trial start to end and resignations fell from 2.0 to 0.8 per</text><text fill="#16232E" font-size="26" x="124" y="1006">100 employees — but the pilot’s own report states that these trends cannot be</text><text fill="#16232E" font-size="26" x="124" y="1044">called statistically significant.</text></g>
+
+  <g id="support-sector" data-pptx-bounds="80 1076 1064 148">
+    
+  <g transform="translate(80, 1078) scale(1.75)" fill="#B4471C">
+    <path d="M6.22 8L1.10889 0H4.66889L8 5.21391L11.3311 0H14.8911L9.78 8L14.8911 16H11.3311L8 10.7861L4.66889 16H1.10889L6.22 8Z" />
+  </g>
+    <text fill="#16232E" font-size="26" x="124" y="1100"><tspan><tspan font-weight="bold">Professional services is the observed failure mode.</tspan></tspan></text><text fill="#16232E" font-size="26" x="124" y="1138">The single organisation of 28 that discontinued at twelve months was a</text><text fill="#16232E" font-size="26" x="124" y="1176">consultancy, and it stopped over client and stakeholder expectations despite</text><text fill="#16232E" font-size="26" x="124" y="1214">reporting morale, wellbeing and efficiency benefits.</text></g>
+
+  <g id="evidence-gap" data-pptx-bounds="80 1252 1052 158">
+    <rect x="80" y="1254" width="5" height="154" fill="#B4471C" />
+    <text fill="#16232E" font-size="26" x="112" y="1276"><tspan><tspan font-weight="bold">The gap that stops this being stronger:</tspan></tspan></text><text fill="#16232E" font-size="26" x="112" y="1314">the UK cohort was overwhelmingly tiny employers — 37% had 1–10 staff and</text><text fill="#16232E" font-size="26" x="112" y="1352">only 10% were above 100 people — and no large UK professional-services firm</text><text fill="#16232E" font-size="26" x="112" y="1390">with published results was found.</text></g>
+
+  <g id="scope-note" data-pptx-bounds="80 1486 1020 44">
+    <text fill="#5C6871" font-size="16" x="80" y="1500">Client scope: a 200-person UK professional-services firm, illustrative and unnamed. Every firm-specific figure in this memo is labelled</text><text fill="#5C6871" font-size="16" x="80" y="1524">illustrative; every external figure carries its source, period and basis.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1" />
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Autonomy (2023) · 4 Day Week Foundation (2024) · Nature Human Behaviour 9 (2025)</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 1 of 10</text>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1" />
+  <g id="page-header" data-pptx-bounds="64 66 1152 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">The market turned. The exit became law.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="1216" y2="132" stroke="#16233A" stroke-width="2" />
+  </g>
+  <g id="why-now-figure" data-pptx-bounds="64 164 436 434">
+    <text x="64" y="262" font-family="Arial Black, sans-serif" font-size="108" fill="#D65A1E">+11%</text>
+    <text font-size="30" fill="#16233A" x="64" y="312">European sales rose 11%</text><text font-size="30" fill="#16233A" x="64" y="354">in 2025 — the first growth</text><text font-size="30" fill="#16233A" x="64" y="396">since 2022</text><text font-size="24" fill="#1F2733" x="64" y="446">2024 brought Europe's largest</text><text font-size="24" fill="#1F2733" x="64" y="480">decline ever recorded: −21%,</text><text font-size="24" fill="#1F2733" x="64" y="514">Germany almost −50%. Then in 2025</text><text font-size="24" fill="#1F2733" x="64" y="548">heat pumps outsold gas boilers in</text><text font-size="24" fill="#1F2733" x="64" y="582">Europe for the first time.</text></g>
+  <g id="eu-annual-installations" data-pptx-replace-with="chart" data-pptx-bounds="540 164 676 426" data-pptx-fallback-sha256="3aa96138fe6f02c7f59848103ed2bf1c69eeb3ed8b0fcd46d5a46ac0b8a85698">
+    <metadata type="application/json">
+      {
+        "x": 540, "y": 164, "width": 676, "height": 426,
+        "name": "eu-annual-installations",
+        "type": "column",
+        "grouping": "clustered",
+        "plot_area": {"x": 604, "y": 196, "width": 600, "height": 304},
+        "categories": ["2022", "2023", "2024", "2025"],
+        "series": [
+          {"name": "EU installations", "values": [2.80, 2.70, 2.11, 2.34],
+           "point_colors": ["#16233A", "#16233A", "#16233A", "#D65A1E"]}
+        ],
+        "gap_width": 150,
+        "show_legend": false,
+        "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.00", "font_size": 18, "font_family": "Calibri", "color": "#16233A"},
+        "axes": {
+          "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "major_gridlines": false, "tick_marks": "none"},
+          "value": {"kind": "value", "position": "left", "visible": true, "label_position": "next_to", "minimum": 0, "maximum": 3, "major_unit": 1, "number_format": "0", "major_gridlines": true, "tick_marks": "none"}
+        },
+        "axis_titles": {
+          "category": {"text": "Year", "font_size": 18, "color": "#6B6154"},
+          "value": {"text": "EU installations (million units)", "font_size": 18, "color": "#6B6154"}
+        },
+        "style": {
+          "font_family": "Calibri", "font_size": 18, "axis_font_size": 18, "axis_title_font_size": 18,
+          "text_color": "#6B6154", "axis_color": "#16233A", "grid_color": "#C9BCA8",
+          "chart_area_fill": "none", "plot_area_fill": "none", "colors": ["#16233A"]
+        }
+      }
+    </metadata>
+    <g id="eu-annual-installations-chartArea">
+      <line id="eu-annual-installations-grid-3" x1="604" y1="196" x2="1204" y2="196" stroke="#C9BCA8" stroke-width="1" />
+      <line id="eu-annual-installations-grid-2" x1="604" y1="297.33" x2="1204" y2="297.33" stroke="#C9BCA8" stroke-width="1" />
+      <line id="eu-annual-installations-grid-1" x1="604" y1="398.67" x2="1204" y2="398.67" stroke="#C9BCA8" stroke-width="1" />
+      <line id="eu-annual-installations-axis-y" x1="604" y1="196" x2="604" y2="500" stroke="#16233A" stroke-width="2" />
+      <line id="eu-annual-installations-axis-x" x1="604" y1="500" x2="1204" y2="500" stroke="#16233A" stroke-width="2" />
+      
+      <rect x="649" y="216.27" width="60" height="283.73" fill="#16233A" />
+      <rect x="799" y="226.40" width="60" height="273.60" fill="#16233A" />
+      <rect x="949" y="286.19" width="60" height="213.81" fill="#16233A" />
+      <rect x="1099" y="262.88" width="60" height="237.12" fill="#D65A1E" />
+    </g>
+    <text x="679" y="208.27" font-size="18" fill="#16233A" text-anchor="middle">2.80</text>
+    <text x="829" y="218.40" font-size="18" fill="#16233A" text-anchor="middle">2.70</text>
+    <text x="979" y="278.19" font-size="18" fill="#16233A" text-anchor="middle">2.11</text>
+    <text x="1129" y="254.88" font-size="18" fill="#16233A" text-anchor="middle">2.34</text>
+    <text x="594" y="506" font-size="18" fill="#6B6154" text-anchor="end">0</text>
+    <text x="594" y="404.67" font-size="18" fill="#6B6154" text-anchor="end">1</text>
+    <text x="594" y="303.33" font-size="18" fill="#6B6154" text-anchor="end">2</text>
+    <text x="594" y="202" font-size="18" fill="#6B6154" text-anchor="end">3</text>
+    <text x="679" y="526" font-size="18" fill="#6B6154" text-anchor="middle">2022</text>
+    <text x="829" y="526" font-size="18" fill="#6B6154" text-anchor="middle">2023</text>
+    <text x="979" y="526" font-size="18" fill="#6B6154" text-anchor="middle">2024</text>
+    <text x="1129" y="526" font-size="18" fill="#6B6154" text-anchor="middle">2025</text>
+    <text x="904" y="556" font-size="18" fill="#6B6154" text-anchor="middle">Year</text>
+    <text x="566" y="348" font-size="18" fill="#6B6154" text-anchor="middle" transform="rotate(-90 566 348)">EU installations (million units)</text>
+  </g>
+  <g id="policy-floor" data-pptx-bounds="64 598 1152 34">
+    <rect x="64" y="598" width="1152" height="34" fill="#EFE7DA" />
+    <text x="80" y="622" font-size="18" fill="#1F2733">EPBD Article 17(15) ended incentives for new stand-alone fossil boilers in 2025; plans must reach full phase-out by 2040.</text>
+  </g>
+  <g id="page-sources" data-pptx-bounds="64 652 1152 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">Sources: IEA Global Energy Review 2025 and 2026 · European Commission, Energy · retrieved 2026-09-10</text>
+  </g>
+</svg>

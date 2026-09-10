@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF" />
+  <line id="evidence-rule" data-pptx-role="decoration" x1="430" y1="540" x2="430" y2="1400" stroke="#D6D2C9" stroke-width="1" />
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">8 · Roadmap</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="80 160 1020 58">
+    <text x="80" y="200" font-size="44" font-weight="bold" fill="#16232E">Two gates, and the firm can stop at either one</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="80 234 1020 80">
+    <text fill="#4A6B7C" font-size="30" x="80" y="260">The pilot is reversible by design, and the points of reversal are fixed</text><text fill="#4A6B7C" font-size="30" x="80" y="302">before it starts.</text></g>
+
+  <g id="pilot-band" data-pptx-bounds="80 388 1080 120">
+    <text x="646" y="406" font-size="20" text-anchor="middle" fill="#B4471C">Gate A</text>
+    <text x="1160" y="406" font-size="20" text-anchor="end" fill="#B4471C">Gate B</text>
+    <rect x="80" y="420" width="257" height="56" fill="#4A6B7C" />
+    <rect x="337" y="420" width="617" height="56" fill="#16232E" />
+    <rect x="954" y="420" width="206" height="56" fill="#4A6B7C" />
+    <g id="p08-gate-a" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="flowChartDecision" data-pptx-frame="626 428 40 40" fill="#B4471C" stroke="#FFFFFF" stroke-width="2">
+<path d="M 626 448 L 646 428 L 666 448 L 646 468 Z" />
+</g>
+    <g id="p08-gate-b" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="flowChartDecision" data-pptx-frame="1120 428 40 40" fill="#B4471C" stroke="#FFFFFF" stroke-width="2">
+<path d="M 1120 448 L 1140 428 L 1160 448 L 1140 468 Z" />
+</g>
+    <text x="80" y="500" font-size="20" fill="#5C6871">Weeks 1–10 · Redesign</text>
+    <text x="337" y="500" font-size="20" fill="#5C6871">Months 1–6 · Operate</text>
+    <text x="954" y="500" font-size="20" fill="#5C6871">Months 7–8 · Decide</text>
+  </g>
+
+  <g id="phase-redesign-margin" data-pptx-bounds="80 564 330 104">
+    <text font-weight="bold" fill="#16232E" font-size="30" x="80" y="590">Phase 0</text><text font-weight="bold" fill="#16232E" font-size="30" x="80" y="626">Redesign</text><text x="80" y="660" font-size="20" fill="#5C6871">Weeks 1–10 · COO</text>
+  </g>
+
+  <g id="phase-redesign" data-pptx-bounds="460 566 700 112">
+    <text fill="#16232E" font-size="26" x="460" y="590">Cut meeting length and frequency and reform email</text><text fill="#16232E" font-size="26" x="460" y="628">etiquette — the pilots’ most common changes. Agree</text><text fill="#16232E" font-size="26" x="460" y="666">the metric set and the client communication plan.</text></g>
+
+  <g id="phase-operate-margin" data-pptx-bounds="80 724 330 104">
+    <text font-weight="bold" fill="#16232E" font-size="30" x="80" y="750">Phase 1</text><text font-weight="bold" fill="#16232E" font-size="30" x="80" y="786">Operate</text><text x="80" y="820" font-size="20" fill="#5C6871">Months 1–6 · Practice heads</text>
+  </g>
+
+  <g id="phase-operate" data-pptx-bounds="460 726 700 74">
+    <text fill="#16232E" font-size="26" x="460" y="750">Two practice groups, a universal day off, contractual</text><text fill="#16232E" font-size="26" x="460" y="788">position unchanged.</text></g>
+
+  <g id="gate-a-margin" data-pptx-bounds="80 884 330 104">
+    <text font-weight="bold" fill="#B4471C" font-size="30" x="80" y="910">Gate A</text><text font-weight="bold" fill="#B4471C" font-size="30" x="80" y="946">Interim read</text><text x="80" y="980" font-size="20" fill="#5C6871">Month 3 · Executive committee</text>
+  </g>
+
+  <g id="gate-a" data-pptx-bounds="460 886 700 148">
+    <text fill="#16232E" font-size="26" x="460" y="910">Are the kill criteria holding? Most Portuguese indicators</text><text fill="#16232E" font-size="26" x="460" y="948">slipped between three and six months for reasons the</text><text fill="#16232E" font-size="26" x="460" y="986">authors could not fully explain, so month 3 is the</text><text fill="#16232E" font-size="26" x="460" y="1024">high-water mark, not the trend.</text></g>
+
+  <g id="phase-evaluate-margin" data-pptx-bounds="80 1084 330 104">
+    <text font-weight="bold" fill="#16232E" font-size="30" x="80" y="1110">Phase 2</text><text font-weight="bold" fill="#16232E" font-size="30" x="80" y="1146">Evaluate</text><text x="80" y="1180" font-size="20" fill="#5C6871">Month 7 · Finance director</text>
+  </g>
+
+  <g id="phase-evaluate" data-pptx-bounds="460 1086 700 112">
+    <text fill="#16232E" font-size="26" x="460" y="1110">Compare against the non-participating practice groups</text><text fill="#16232E" font-size="26" x="460" y="1148">as a control — the design Portugal used and the UK</text><text fill="#16232E" font-size="26" x="460" y="1186">2022 pilot lacked.</text></g>
+
+  <g id="gate-b-margin" data-pptx-bounds="80 1244 330 104">
+    <text font-weight="bold" fill="#B4471C" font-size="30" x="80" y="1270">Gate B</text><text font-weight="bold" fill="#B4471C" font-size="30" x="80" y="1306">Decide</text><text x="80" y="1340" font-size="20" fill="#5C6871">Month 8 · Executive committee</text>
+  </g>
+
+  <g id="gate-b" data-pptx-bounds="460 1246 700 74">
+    <text fill="#16232E" font-size="26" x="460" y="1270">Extend, adjust, or stop. A decision to extend is a</text><text fill="#16232E" font-size="26" x="460" y="1308">decision to reopen contracts.</text></g>
+
+  <g id="roadmap-scenario-note" data-pptx-bounds="80 1400 1020 30">
+    <text x="80" y="1414" font-size="16" fill="#6E777E">Scenario data — owners, dates and phase lengths are illustrative and are the firm’s to set.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1" />
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Autonomy (2023) · Portugal final report (2024) · Germany pilot (2024)</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 8 of 10</text>
+  </g>
+</svg>

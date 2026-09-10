@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7F1"/>
+  <g id="page-header" data-pptx-bounds="64 66 1152 69">
+    <text id="page-claim" x="64" y="104" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">Twelve weeks of capacity, one screen.</text>
+    <line id="claim-rule" data-pptx-role="decoration" x1="64" y1="132" x2="1216" y2="132" stroke="#16233A" stroke-width="2"/>
+  </g>
+  <g id="capacity-planner" data-pptx-bounds="64 164 856 436">
+    <rect x="64" y="164" width="856" height="436" fill="#FFFFFF" stroke="#16233A" stroke-width="1.5"/>
+    <rect x="64" y="164" width="856" height="36" fill="#16233A"/>
+    <text x="80" y="188" font-family="Consolas, monospace" font-size="20" fill="#FBF7F1">Capacity planner — Northfield Heating Ltd</text>
+    <text x="904" y="188" font-family="Consolas, monospace" font-size="20" fill="#C9BCA8" text-anchor="end">Weeks 36–47 · 2026</text>
+    <line x1="344" y1="200" x2="344" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="392" y1="200" x2="392" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="440" y1="200" x2="440" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="488" y1="200" x2="488" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="536" y1="200" x2="536" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="584" y1="200" x2="584" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="632" y1="200" x2="632" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="680" y1="200" x2="680" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="728" y1="200" x2="728" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="776" y1="200" x2="776" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="824" y1="200" x2="824" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="872" y1="200" x2="872" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="920" y1="200" x2="920" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="64" y1="236" x2="920" y2="236" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="64" y1="292" x2="920" y2="292" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="64" y1="348" x2="920" y2="348" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="64" y1="404" x2="920" y2="404" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="64" y1="460" x2="920" y2="460" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="64" y1="516" x2="920" y2="516" stroke="#EFE7DA" stroke-width="1"/>
+    <line x1="280" y1="200" x2="280" y2="516" stroke="#C9BCA8" stroke-width="1"/>
+    <line x1="344" y1="200" x2="344" y2="516" stroke="#C9BCA8" stroke-width="1"/>
+    <text x="80" y="224" font-size="18" fill="#6B6154">CREW</text>
+    <text x="290" y="224" font-size="18" fill="#6B6154">ACCR</text>
+    <text x="368" y="224" font-size="16" fill="#6B6154" text-anchor="middle">36</text>
+    <text x="416" y="224" font-size="16" fill="#6B6154" text-anchor="middle">37</text>
+    <text x="464" y="224" font-size="16" fill="#6B6154" text-anchor="middle">38</text>
+    <text x="512" y="224" font-size="16" fill="#6B6154" text-anchor="middle">39</text>
+    <text x="560" y="224" font-size="16" fill="#6B6154" text-anchor="middle">40</text>
+    <text x="608" y="224" font-size="16" fill="#6B6154" text-anchor="middle">41</text>
+    <text x="656" y="224" font-size="16" fill="#6B6154" text-anchor="middle">42</text>
+    <text x="704" y="224" font-size="16" fill="#6B6154" text-anchor="middle">43</text>
+    <text x="752" y="224" font-size="16" fill="#6B6154" text-anchor="middle">44</text>
+    <text x="800" y="224" font-size="16" fill="#6B6154" text-anchor="middle">45</text>
+    <text x="848" y="224" font-size="16" fill="#6B6154" text-anchor="middle">46</text>
+    <text x="896" y="224" font-size="16" fill="#6B6154" text-anchor="middle">47</text>
+    <text x="80" y="262" font-size="24" fill="#1F2733">Ashworth</text>
+    <text x="80" y="282" font-size="18" fill="#6B6154">4 engineers</text>
+    <text x="312" y="266" font-family="Consolas, monospace" font-size="20" fill="#2E6F5E" text-anchor="middle">A</text>
+    <rect x="776" y="256" width="144" height="16" fill="#16233A" fill-opacity="0.15"/>
+    <rect x="344" y="256" width="432" height="16" fill="#16233A"/>
+    <text x="80" y="318" font-size="24" fill="#1F2733">Deakin</text>
+    <text x="80" y="338" font-size="18" fill="#6B6154">3 engineers</text>
+    <text x="312" y="322" font-family="Consolas, monospace" font-size="20" fill="#2E6F5E" text-anchor="middle">A</text>
+    <rect x="632" y="312" width="288" height="16" fill="#16233A" fill-opacity="0.15"/>
+    <rect x="344" y="312" width="288" height="16" fill="#16233A"/>
+    <text x="80" y="374" font-size="24" fill="#1F2733">Fenwick</text>
+    <text x="80" y="394" font-size="18" fill="#6B6154">5 engineers</text>
+    <text x="312" y="378" font-family="Consolas, monospace" font-size="20" fill="#2E6F5E" text-anchor="middle">A+</text>
+    <rect x="344" y="368" width="576" height="16" fill="#16233A"/>
+    <text x="80" y="430" font-size="24" fill="#1F2733">Gilroy</text>
+    <text x="80" y="450" font-size="18" fill="#6B6154">2 engineers</text>
+    <text x="312" y="434" font-family="Consolas, monospace" font-size="20" fill="#2E6F5E" text-anchor="middle">B</text>
+    <rect x="536" y="424" width="384" height="16" fill="#16233A" fill-opacity="0.15"/>
+    <rect x="344" y="424" width="192" height="16" fill="#16233A"/>
+    <text x="80" y="486" font-size="24" fill="#1F2733">Halstead</text>
+    <text x="80" y="506" font-size="18" fill="#6B6154">3 engineers</text>
+    <text x="312" y="490" font-family="Consolas, monospace" font-size="20" fill="#2E6F5E" text-anchor="middle">B</text>
+    <rect x="440" y="480" width="480" height="16" fill="#16233A" fill-opacity="0.15"/>
+    <rect x="344" y="480" width="96" height="16" fill="#16233A"/>
+    <rect x="536" y="424" width="48" height="16" fill="#D65A1E" fill-opacity="0.30"/>
+    <use data-icon="tabler-outline/alert-triangle" x="548" y="420" width="24" height="24" fill="#D65A1E" stroke-width="2"/>
+    <rect x="80" y="540" width="16" height="16" fill="#16233A"/>
+    <text x="104" y="554" font-size="18" fill="#1F2733">Committed</text>
+    <rect x="240" y="540" width="16" height="16" fill="#16233A" fill-opacity="0.15"/>
+    <text x="264" y="554" font-size="18" fill="#1F2733">Available</text>
+    <rect x="400" y="540" width="16" height="16" fill="#D65A1E" fill-opacity="0.30"/>
+    <text x="424" y="554" font-size="18" fill="#1F2733">Part lead-time conflict</text>
+    <text x="80" y="584" font-size="18" fill="#6B6154">Illustrative mockup drawn from the product specification; crews, bookings and dates are invented.</text>
+  </g>
+  <g id="planner-callouts" data-pptx-bounds="921 252 295 216">
+    <line x1="921" y1="264" x2="944" y2="264" stroke="#D65A1E" stroke-width="1.5"/>
+    <circle cx="956" cy="264" r="12" fill="#D65A1E"/>
+    <text x="956" y="269" font-family="Consolas, monospace" font-size="14" fill="#FBF7F1" text-anchor="middle">1</text>
+    <text x="980" y="269" font-size="18" fill="#1F2733">Committed and available<tspan x="980" dy="24">capacity on one bar</tspan></text>
+    <line x1="921" y1="320" x2="944" y2="320" stroke="#D65A1E" stroke-width="1.5"/>
+    <circle cx="956" cy="320" r="12" fill="#D65A1E"/>
+    <text x="956" y="325" font-family="Consolas, monospace" font-size="14" fill="#FBF7F1" text-anchor="middle">2</text>
+    <text x="980" y="325" font-size="18" fill="#1F2733">Accreditation limits who<tspan x="980" dy="24">can close a job</tspan></text>
+    <line x1="921" y1="432" x2="944" y2="432" stroke="#D65A1E" stroke-width="1.5"/>
+    <circle cx="956" cy="432" r="12" fill="#D65A1E"/>
+    <text x="956" y="437" font-family="Consolas, monospace" font-size="14" fill="#FBF7F1" text-anchor="middle">3</text>
+    <text x="980" y="437" font-size="18" fill="#1F2733">Lead-time conflicts show<tspan x="980" dy="24">before booking</tspan></text>
+  </g>
+  <g id="page-sources" data-pptx-bounds="64 652 996 28">
+    <text x="64" y="668" font-size="16" fill="#6B6154">Product surface, crew names, bookings and accreditation states on this page are illustrative.</text>
+  </g>
+  <g id="illustrative-tag" data-pptx-bounds="1084 654 132 24">
+    <rect x="1084" y="655" width="132" height="22" fill="none" stroke="#D65A1E" stroke-width="1"/>
+    <text x="1150" y="670" font-family="Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#D65A1E" text-anchor="middle">ILLUSTRATIVE</text>
+  </g>
+</svg>

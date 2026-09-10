@@ -1,0 +1,294 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "Residential heat-pump installer capacity: market shift, policy, workforce bottleneck and software price anchors",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "Global heat pump sales declined by 1% in 2024, after a 10% year-on-year drop in the first half of the year.",
+      "source_title": "IEA Global Energy Review 2025: Main Takeaways for Heat Pumps",
+      "source_url": "https://heatpumpingtechnologies.org/iea-global-energy-review-2025-main-takeaways-for-heat-pumps/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "Europe, the third-largest heat pump market, saw sales fall 21% in 2024 — the largest decline ever recorded.",
+      "source_title": "IEA Global Energy Review 2025: Main Takeaways for Heat Pumps",
+      "source_url": "https://heatpumpingtechnologies.org/iea-global-energy-review-2025-main-takeaways-for-heat-pumps/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "In 2024 German heat pump sales fell by almost 50% and French sales declined by 25%.",
+      "source_title": "IEA Global Energy Review 2025: Main Takeaways for Heat Pumps",
+      "source_url": "https://heatpumpingtechnologies.org/iea-global-energy-review-2025-main-takeaways-for-heat-pumps/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "United States heat pump sales rose 15% in 2024 and heat pumps outsold natural gas furnaces by 30%, a record high.",
+      "source_title": "IEA Global Energy Review 2025: Main Takeaways for Heat Pumps",
+      "source_url": "https://heatpumpingtechnologies.org/iea-global-energy-review-2025-main-takeaways-for-heat-pumps/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "Global heat pump sales fell by about 2% in 2025.",
+      "source_title": "Technology: Heat pumps - Global Energy Review 2026, IEA",
+      "source_url": "https://www.iea.org/reports/global-energy-review-2026/technology-heat-pumps",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "European heat pump sales rose 11% in 2025, the first year of growth since 2022.",
+      "source_title": "Technology: Heat pumps - Global Energy Review 2026, IEA",
+      "source_url": "https://www.iea.org/reports/global-energy-review-2026/technology-heat-pumps",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "German heat pump sales rose 55% in the first half of 2025, driving Europe's return to growth.",
+      "source_title": "Technology: Heat pumps - Global Energy Review 2026, IEA",
+      "source_url": "https://www.iea.org/reports/global-energy-review-2026/technology-heat-pumps",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "2025 was the first year in which heat pumps outsold gas boilers in Europe.",
+      "source_title": "Technology: Heat pumps - Global Energy Review 2026, IEA",
+      "source_url": "https://www.iea.org/reports/global-energy-review-2026/technology-heat-pumps",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "Heat pumps still meet less than 15% of heating demand in buildings worldwide.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "Europe accounts for more than 20% of global heat pump sales by capacity.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "European heat pump stock is projected to nearly double by 2035 in the IEA Current Policies Scenario.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "More than 20% of United States households use a heat pump as their primary heating system.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "Under EPBD Article 17(15), Member States must discontinue any financial incentive for the installation of new stand-alone fossil-fuel boilers from 1 January 2025 at the latest.",
+      "source_title": "Commission issues guidance on phasing out financing for stand-alone fossil fuel boilers from 2025",
+      "source_url": "https://energy.ec.europa.eu/news/commission-issues-guidance-phasing-out-financing-stand-alone-fossil-fuel-boilers-2025-2024-10-17_en",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "The recast Energy Performance of Buildings Directive requires national building renovation plans to include policies aiming at a complete phase-out of fossil-fuel boilers by 2040.",
+      "source_title": "Energy Performance of Buildings Directive - European Commission",
+      "source_url": "https://energy.ec.europa.eu/topics/energy-efficiency/energy-performance-buildings/energy-performance-buildings-directive_en",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "The UK Boiler Upgrade Scheme pays £7,500 towards an air source heat pump, £7,500 towards a ground source heat pump, and £5,000 towards a biomass boiler.",
+      "source_title": "Apply for the Boiler Upgrade Scheme: What you can get - GOV.UK",
+      "source_url": "https://www.gov.uk/apply-boiler-upgrade-scheme/what-you-can-get",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "An additional £1,500 is available under the Boiler Upgrade Scheme until March 2027 for off-gas-grid properties heated by oil or LPG.",
+      "source_title": "Apply for the Boiler Upgrade Scheme: What you can get - GOV.UK",
+      "source_url": "https://www.gov.uk/apply-boiler-upgrade-scheme/what-you-can-get",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "To 31 July 2026 the Boiler Upgrade Scheme had received 151,136 voucher applications, issued 101,029 vouchers, redeemed 93,364 vouchers, and paid £661,303,000 in grants.",
+      "source_title": "BUS monthly scheme update - Ofgem",
+      "source_url": "https://www.ofgem.gov.uk/data/bus-monthly-scheme-update",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "The US section 25C energy efficient home improvement credit is not allowed for any property placed in service after 31 December 2025.",
+      "source_title": "FAQs for modification of sections 25C, 25D, 25E, 30C, 30D, 45L, 45W and 179D under Public Law 119-21 (OBBB) - IRS",
+      "source_url": "https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-obbb",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "Gas demand in buildings fell 12% between 2019 and 2024.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "The European Commission estimates that 750,000 more installers are needed and at least 50% of existing installers will have to be reskilled to work with heat pumps.",
+      "source_title": "Heat pumps - European Commission, Energy",
+      "source_url": "https://energy.ec.europa.eu/topics/energy-efficiency/heat-pumps_en",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "EU heat pump installations were 2.8 million units in 2022, 2.7 million in 2023, 2.11 million in 2024 and 2.34 million in 2025 (preliminary data from 13 Member States).",
+      "source_title": "Heat pumps - European Commission, Energy",
+      "source_url": "https://energy.ec.europa.eu/topics/energy-efficiency/heat-pumps_en",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "EHPA states Europe needs a minimum of 500,000 skilled full-time-equivalent employees in the heat pump sector by 2030.",
+      "source_title": "Wanted: half a million heat pump workers - European Heat Pump Association",
+      "source_url": "https://ehpa.org/news-and-resources/news/wanted-half-a-million-heat-pump-installers/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "Around 117,000 people were employed in the European heat pump industry, roughly 37% of them in manufacturing, across more than 170 manufacturing sites with €14.5 billion annual turnover (EHPA, January 2023).",
+      "source_title": "Wanted: half a million heat pump workers - European Heat Pump Association",
+      "source_url": "https://ehpa.org/news-and-resources/news/wanted-half-a-million-heat-pump-installers/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "EHPA states that 7 million more heat pumps must be installed annually by 2030, up from approximately 2 million in 2021.",
+      "source_title": "Wanted: half a million heat pump workers - European Heat Pump Association",
+      "source_url": "https://ehpa.org/news-and-resources/news/wanted-half-a-million-heat-pump-installers/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "Nearly 800,000 people work principally on heat pumps globally.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "The global heat pump workforce is projected to grow 30% by 2035 in the Current Policies Scenario, 60% in the Stated Policies Scenario and up to 140% in the Net Zero Emissions Scenario.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "The number of UK heat pump engineers was estimated at around 3,000 (Nesta, July 2022).",
+      "source_title": "The heat pump installer gap - Nesta",
+      "source_url": "https://www.nesta.org.uk/blog/the-heat-pump-installer-gap/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "Nesta estimates the UK will need at least 27,000 qualified heat pump engineers by 2028, rising to about 62,000 by 2035.",
+      "source_title": "The heat pump installer gap - Nesta",
+      "source_url": "https://www.nesta.org.uk/blog/the-heat-pump-installer-gap/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "Meeting UK targets requires training roughly 5,000 to 7,000 heat pump installers per year from 2025 to 2035.",
+      "source_title": "The heat pump installer gap - Nesta",
+      "source_url": "https://www.nesta.org.uk/blog/the-heat-pump-installer-gap/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "In a survey of 345 UK heat pump installers (fieldwork October-November 2023), 30% named finding suitable additional staff as the biggest barrier to doing more installations, rising to 41% among firms with six or more staff; lack of customer demand was cited by 41% overall.",
+      "source_title": "Heat pump engineers held back on installations by staff shortages - Nesta",
+      "source_url": "https://www.nesta.org.uk/press-release/heat-pump-engineers-held-back-on-installations-by-staff-shortages/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "81% of surveyed UK installer firms with six or more staff said they were likely or very likely to employ new staff in the next 12 months.",
+      "source_title": "Heat pump engineers held back on installations by staff shortages - Nesta",
+      "source_url": "https://www.nesta.org.uk/press-release/heat-pump-engineers-held-back-on-installations-by-staff-shortages/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "A shortage of skilled installers, planners and technicians remains one of the main bottlenecks to scaling heat pump deployment in Europe.",
+      "source_title": "Heat pumps need people: closing the skills gap - European Heat Pump Association",
+      "source_url": "https://ehpa.org/news-and-resources/projects/heat-pumps-need-people-closing-the-skills-gap/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "Jobber publishes list pricing for field-service software at $49/month (Core, 1 user), $139/month (Connect, 1 user), $199/month (Grow, 5 users) and $499/month (Plus, 5 users), with additional users at $29/month.",
+      "source_title": "Pricing - Jobber",
+      "source_url": "https://getjobber.com/pricing/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "The UK passed 250,000 MCS-certified heat pump installations in February 2026; 2025 was the strongest year on record at 34% above 2024, and the Boiler Upgrade Scheme funded 43% of 2025 installations.",
+      "source_title": "UK reaches 250,000 certified heat pump installations - MCS",
+      "source_url": "https://mcscertified.com/uk-reaches-250000-certified-heat-pump-installations/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "Germany alone has around 900 MW of district-heating heat pump capacity under construction or in planning.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "China holds about 35% of global heat pump manufacturing capacity and held roughly one-third of all heat pump patents in 2022.",
+      "source_title": "Heat Pumps Step Up: What the IEA's Heat Pump Monitor 2026 Means for Heating, Industry and Energy Security",
+      "source_url": "https://heatpumpingtechnologies.org/articles/heat-pumps-step-up-what-the-ieas-heat-pump-monitor-2026-means-for-heating-industry-and-energy-security/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    }
+  ]
+}

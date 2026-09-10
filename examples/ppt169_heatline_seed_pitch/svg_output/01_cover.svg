@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="cover">
+  <image id="cover-photo" data-pptx-role="background" href="../images/cover_installation_dawn.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="452" width="1280" height="268" fill="#FBF7F1" fill-opacity="0.95"/>
+  <rect id="cover-rule" data-pptx-role="decoration" x="0" y="452" width="1280" height="4" fill="#D65A1E"/>
+  <g id="cover-lockup" data-pptx-bounds="64 470 1152 238">
+    <text x="64" y="490" font-family="Consolas, monospace" font-size="20" letter-spacing="2" fill="#6B6154">SEED ROUND · £4.2M · SEPTEMBER 2026</text>
+    <text x="64" y="546" font-family="Arial Black, sans-serif" font-size="42" fill="#16233A">Europe has legislated the demand.<tspan x="64" dy="52">Nobody has staffed the supply.</tspan></text>
+    <text x="64" y="646" font-size="24" fill="#1F2733">Heatline · capacity planning and job scheduling for residential heat-pump installers</text>
+    <text x="64" y="682" font-size="16" fill="#6B6154">Heatline is a fictional company. All company, product, customer, traction and financial figures<tspan x="64" dy="20">in this deck are illustrative. External figures are sourced and cited on the page where they appear.</tspan></text>
+  </g>
+</svg>

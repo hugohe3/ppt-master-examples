@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF" />
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">3 · Driver decomposition</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="80 160 1020 112">
+    <text font-weight="bold" fill="#16232E" font-size="44" x="80" y="200">Three of the four drivers are ours; the one</text><text font-weight="bold" fill="#16232E" font-size="44" x="80" y="254">that stopped a consultancy is not</text></g>
+
+  <g id="page-lead" data-pptx-bounds="80 290 1020 78">
+    <text fill="#4A6B7C" font-size="30" x="80" y="316">Whether 100-80-100 holds here is decided by four conditions, and only</text><text fill="#4A6B7C" font-size="30" x="80" y="358">one of them sits outside our control.</text></g>
+
+  <g id="governing-question" data-pptx-bounds="80 368 1080 132">
+    <rect x="80" y="370" width="1080" height="130" fill="#F2F0EB" />
+    <text fill="#16232E" font-size="26" x="104" y="418">Governing question: how many hours can this firm recover through redesign, and</text><text fill="#16232E" font-size="26" x="104" y="456">what does removing the rest cost in client service?</text></g>
+
+  <g id="control-boundary" data-pptx-bounds="200 502 400 24">
+    <text x="200" y="518" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#5C6871">WITHIN OUR CONTROL</text>
+  </g>
+
+  <g id="p03-control-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="120 530 40 668" fill="none" stroke="#5C6871" stroke-width="2">
+<path d="M 160 1198 A 20 3.33 0 0 1 140 1194.67 L 140 867.33 A 20 3.33 0 0 0 120 864 A 20 3.33 0 0 0 140 860.67 L 140 533.33 A 20 3.33 0 0 1 160 530 Z" stroke="none" />
+<path d="M 160 1198 A 20 3.33 0 0 1 140 1194.67 L 140 867.33 A 20 3.33 0 0 0 120 864 A 20 3.33 0 0 0 140 860.67 L 140 533.33 A 20 3.33 0 0 1 160 530" />
+</g>
+
+  <g id="driver-recoverable-hours" data-pptx-bounds="200 530 960 208">
+    <text x="200" y="564" font-size="34" font-weight="bold" fill="#16232E">1 Recoverable hours</text>
+    <text x="1160" y="564" font-size="16" text-anchor="end" fill="#6E777E">F021 · F050</text>
+    <text fill="#16232E" font-size="26" x="200" y="610">The pilots’ main levers were shorter and fewer meetings with clearer</text><text fill="#16232E" font-size="26" x="200" y="648">agendas, email-etiquette reform, protected focus periods and automated</text><text fill="#16232E" font-size="26" x="200" y="686">reporting. Germany’s participants named meeting culture and reduced</text><text fill="#16232E" font-size="26" x="200" y="724">distraction as their main efficiency levers.</text></g>
+
+  <g id="driver-redesign-effort" data-pptx-bounds="200 760 960 208">
+    <text x="200" y="794" font-size="34" font-weight="bold" fill="#16232E">2 Redesign effort</text>
+    <text x="1160" y="794" font-size="16" text-anchor="end" fill="#6E777E">F045</text>
+    <text fill="#16232E" font-size="26" x="200" y="840">Only 8% of Portuguese companies that made two or more organisational</text><text fill="#16232E" font-size="26" x="200" y="878">changes reverted to five days, against 38% of those that made none or</text><text fill="#16232E" font-size="26" x="200" y="916">one. Three-quarters made at least one change, and 87% reported active</text><text fill="#16232E" font-size="26" x="200" y="954">worker participation in redesigning processes.</text></g>
+
+  <g id="driver-retention-economics" data-pptx-bounds="200 990 960 208">
+    <text x="200" y="1024" font-size="34" font-weight="bold" fill="#16232E">3 Retention economics</text>
+    <text x="1160" y="1024" font-size="16" text-anchor="end" fill="#6E777E">F008 · F065 · F070</text>
+    <text fill="#16232E" font-size="26" x="200" y="1070">Resignations fell from 2.0 to 0.8 per 100 employees in the UK pilot, and</text><text fill="#16232E" font-size="26" x="200" y="1108">Awin reports regrettable turnover down 33%. The most-cited UK</text><text fill="#16232E" font-size="26" x="200" y="1146">replacement cost, £30,614, is a 2014 figure and is not inflation-adjusted,</text><text fill="#16232E" font-size="26" x="200" y="1184">so any saving from it is illustrative arithmetic.</text></g>
+
+  <g id="driver-client-tolerance" data-pptx-bounds="200 1228 960 322">
+    <line x1="200" y1="1230" x2="1160" y2="1230" stroke="#D6D2C9" stroke-width="1" />
+    <text x="200" y="1294" font-size="34" font-weight="bold" fill="#16232E">4 Client tolerance</text>
+    
+  <g transform="translate(530, 1270) scale(1.75)" fill="#B4471C">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16 15H0V12L7 0H9L16 12V15ZM7 4H9V9H7V4ZM7 11H9V13H7V11Z" />
+  </g>
+    <text x="572" y="1294" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#B4471C">EXTERNAL — NOT OURS TO DECIDE</text>
+    <text x="1160" y="1294" font-size="16" text-anchor="end" fill="#6E777E">F028 · F037</text>
+    <text fill="#16232E" font-size="26" x="200" y="1340">The cohort’s only twelve-month discontinuation was a small consultancy</text><text fill="#16232E" font-size="26" x="200" y="1378">that stopped over client and stakeholder expectations. Belgium’s</text><text fill="#16232E" font-size="26" x="200" y="1416">reduced-hours pilot drew one fully participating company, citing sectoral</text><text fill="#16232E" font-size="26" x="200" y="1454">expectation.</text><text fill="#B4471C" font-size="26" x="200" y="1500">Three drivers respond to preparation; this one responds only to client</text><text fill="#B4471C" font-size="26" x="200" y="1538">evidence.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1" />
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Autonomy (2023) · Portugal final report (2024) · Germany pilot (2024) · Awin · Oxford Economics (2014)</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 3 of 10</text>
+  </g>
+</svg>

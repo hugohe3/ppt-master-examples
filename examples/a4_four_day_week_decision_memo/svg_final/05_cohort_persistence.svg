@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF" />
+  <line id="evidence-rule" data-pptx-role="decoration" x1="430" y1="950" x2="430" y2="1470" stroke="#D6D2C9" stroke-width="1" />
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">5 · Benchmark: persistence</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1" />
+  </g>
+
+  <g id="page-title" data-pptx-bounds="80 160 1020 112">
+    <text font-weight="bold" fill="#16232E" font-size="44" x="80" y="200">Persistence is high everywhere — and</text><text font-weight="bold" fill="#16232E" font-size="44" x="80" y="254">highest where the base is smallest</text></g>
+
+  <g id="page-lead" data-pptx-bounds="80 290 1020 80">
+    <text fill="#4A6B7C" font-size="30" x="80" y="316">The continuation rates are real, but they measure self-selected cohorts</text><text fill="#4A6B7C" font-size="30" x="80" y="358">and they are not entitlements.</text></g>
+
+  <g id="cohort-persistence" data-pptx-replace-with="chart" data-pptx-bounds="80 400 1080 480" data-pptx-fallback-sha256="35b1077f8aa1010fbacc504012d2f3c25444e1dc942ff9d88867d472e58d41d2">
+    <metadata type="application/json">
+{
+  "x": 80, "y": 400, "width": 1080, "height": 480,
+  "name": "cohort-persistence",
+  "type": "column",
+  "grouping": "clustered",
+  "gap_width": 100,
+  "plot_area": {"x": 210, "y": 440, "width": 940, "height": 320},
+  "categories": ["UK 2022 · end (n=61)", "UK 2022 · 12 mo (n=61)", "Germany 2024 (n=45)", "UK 2024–25 (n=17)"],
+  "series": [
+    {
+      "name": "Still on reduced hours",
+      "values": [0.92, 0.89, 0.73, 1.0],
+      "point_colors": ["#16232E", "#B4471C", "#16232E", "#6E777E"]
+    }
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "major_gridlines": false, "tick_marks": "none", "font_size": 16, "color": "#16232E"},
+    "value": {"kind": "value", "position": "left", "minimum": 0, "maximum": 1, "major_unit": 0.25, "major_gridlines": true, "tick_marks": "none", "number_format": "0%", "font_size": 16, "color": "#5C6871"}
+  },
+  "axis_titles": {
+    "value": {"text": "Share still on reduced hours", "font_size": 16, "color": "#5C6871"},
+    "category": {"text": "Cohort and reporting point", "font_size": 16, "color": "#5C6871"}
+  },
+  "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0%", "font_size": 20, "color": "#16232E"},
+  "show_legend": false,
+  "notes": [
+    {"text": "Accent: the figure this memo relies on — twelve months, largest base.", "font_size": 16, "color": "#B4471C"},
+    {"text": "Grey: 100% on 17 self-selected companies, a weaker signal than 89% on 61.", "font_size": 16, "color": "#6E777E"}
+  ],
+  "style": {
+    "font_family": "Arial",
+    "colors": ["#16232E"],
+    "axis_color": "#D6D2C9",
+    "grid_color": "#E7E3DB",
+    "text_color": "#16232E",
+    "chart_area_fill": "none",
+    "plot_area_fill": "none"
+  }
+}
+    </metadata>
+    <g id="cohort-persistence-chartArea">
+      <line id="cohort-persistence-gridline-100" x1="210" y1="440" x2="1150" y2="440" stroke="#E7E3DB" stroke-width="1" />
+      <line id="cohort-persistence-gridline-75" x1="210" y1="520" x2="1150" y2="520" stroke="#E7E3DB" stroke-width="1" />
+      <line id="cohort-persistence-gridline-50" x1="210" y1="600" x2="1150" y2="600" stroke="#E7E3DB" stroke-width="1" />
+      <line id="cohort-persistence-gridline-25" x1="210" y1="680" x2="1150" y2="680" stroke="#E7E3DB" stroke-width="1" />
+      <line id="cohort-persistence-value-axis" x1="210" y1="440" x2="210" y2="760" stroke="#D6D2C9" stroke-width="1" />
+      <line id="cohort-persistence-category-axis" x1="210" y1="760" x2="1150" y2="760" stroke="#D6D2C9" stroke-width="1" />
+      
+      <rect x="268.75" y="465.6" width="117.5" height="294.4" fill="#16232E" />
+      <rect x="503.75" y="475.2" width="117.5" height="284.8" fill="#B4471C" />
+      <rect x="738.75" y="526.4" width="117.5" height="233.6" fill="#16232E" />
+      <rect x="973.75" y="440" width="117.5" height="320" fill="#6E777E" />
+      <text x="327.5" y="455.6" font-size="20" text-anchor="middle" fill="#16232E">92%</text>
+      <text x="562.5" y="465.2" font-size="20" text-anchor="middle" fill="#16232E">89%</text>
+      <text x="797.5" y="516.4" font-size="20" text-anchor="middle" fill="#16232E">73%</text>
+      <text x="1032.5" y="430" font-size="20" text-anchor="middle" fill="#16232E">100%</text>
+    </g>
+    <text x="198" y="766" font-size="16" text-anchor="end" fill="#5C6871">0%</text>
+    <text x="198" y="686" font-size="16" text-anchor="end" fill="#5C6871">25%</text>
+    <text x="198" y="606" font-size="16" text-anchor="end" fill="#5C6871">50%</text>
+    <text x="198" y="526" font-size="16" text-anchor="end" fill="#5C6871">75%</text>
+    <text x="198" y="446" font-size="16" text-anchor="end" fill="#5C6871">100%</text>
+    <text x="130" y="600" font-size="16" text-anchor="middle" fill="#5C6871" transform="rotate(-90 130 600)">Share still on reduced hours</text>
+    <text x="327.5" y="786" font-size="16" text-anchor="middle" fill="#16232E">UK 2022 · end (n=61)</text>
+    <text x="562.5" y="786" font-size="16" text-anchor="middle" fill="#16232E">UK 2022 · 12 mo (n=61)</text>
+    <text x="797.5" y="786" font-size="16" text-anchor="middle" fill="#16232E">Germany 2024 (n=45)</text>
+    <text x="1032.5" y="786" font-size="16" text-anchor="middle" fill="#16232E">UK 2024–25 (n=17)</text>
+    <text x="680" y="816" font-size="16" text-anchor="middle" fill="#5C6871">Cohort and reporting point</text>
+    <text x="210" y="846" font-size="16" fill="#B4471C">Accent: the figure this memo relies on — twelve months, largest base.</text>
+    <text x="210" y="870" font-size="16" fill="#6E777E">Grey: 100% on 17 self-selected companies, a weaker signal than 89% on 61.</text>
+  </g>
+
+  <g id="qualification-entitlement-margin" data-pptx-bounds="80 976 330 120">
+    <text x="80" y="990" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#B4471C">NOT AN ENTITLEMENT</text>
+    <text fill="#5C6871" font-size="20" x="80" y="1024">UK twelve-month follow-up,</text><text fill="#5C6871" font-size="20" x="80" y="1050">28 organisations.</text><text x="80" y="1090" font-size="16" fill="#6E777E">F025</text>
+  </g>
+
+  <g id="qualification-entitlement" data-pptx-bounds="460 968 700 184">
+    <text fill="#16232E" font-size="26" x="460" y="990">Of the 28 organisations in the twelve-month follow-up,</text><text fill="#16232E" font-size="26" x="460" y="1028">39% were permanent with updated terms and</text><text fill="#16232E" font-size="26" x="460" y="1066">conditions and 39% were permanent without changing</text><text fill="#16232E" font-size="26" x="460" y="1104">contracts — an opt-in policy the employer can withdraw</text><text fill="#16232E" font-size="26" x="460" y="1142">at will.</text></g>
+
+  <g id="qualification-base-margin" data-pptx-bounds="80 1246 330 120">
+    <text x="80" y="1260" font-size="16" font-weight="bold" letter-spacing="1.6" fill="#6E777E">BASE SIZE</text>
+    <text fill="#5C6871" font-size="20" x="80" y="1294">Continuation rates against</text><text fill="#5C6871" font-size="20" x="80" y="1320">their cohort size.</text><text x="80" y="1360" font-size="16" fill="#6E777E">F029 · F071</text>
+  </g>
+
+  <g id="qualification-base" data-pptx-bounds="460 1228 700 222">
+    <text fill="#16232E" font-size="26" x="460" y="1250">A 100% continuation rate on 17 self-selected</text><text fill="#16232E" font-size="26" x="460" y="1288">companies is a weaker signal than 89% on 61, and this</text><text fill="#16232E" font-size="26" x="460" y="1326">memo does not lead with it. Universal or staggered</text><text fill="#16232E" font-size="26" x="460" y="1364">day-off models converted to permanence in 95% of</text><text fill="#16232E" font-size="26" x="460" y="1402">cases against 60% for flexible ones — on a sample the</text><text fill="#16232E" font-size="26" x="460" y="1440">authors call too small for significance.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1" />
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Autonomy (2023) · 4 Day Week Foundation follow-up (2024) and 2024–25 pilot · Germany pilot (2024)</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 5 of 10</text>
+  </g>
+</svg>

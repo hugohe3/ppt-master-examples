@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" data-pptx-page-role="content">
+  <rect id="page-field" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 96 1080 41">
+    <text x="80" y="112" font-size="16" letter-spacing="1.6" fill="#5C6871">FOUR-DAY WEEK — DECISION MEMO</text>
+    <text x="1160" y="112" font-size="16" text-anchor="end" fill="#5C6871">6 · Benchmark: comparability</text>
+    <line x1="80" y1="132" x2="1160" y2="132" stroke="#D6D2C9" stroke-width="1"/>
+  </g>
+
+  <g id="page-title" data-pptx-bounds="80 160 1020 112">
+    <text x="80" y="200" font-size="44" font-weight="bold" fill="#16232E"><tspan x="80" dy="0">Only two of these seven studies are evidence</tspan><tspan x="80" dy="54">about a firm like ours</tspan></text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="80 290 1020 80">
+    <text x="80" y="316" font-size="30" fill="#4A6B7C"><tspan x="80" dy="0">On a common basis, most of the precedents we are quoted are about a</tspan><tspan x="80" dy="42">different intervention or a different sector.</tspan></text>
+  </g>
+
+  <g id="study-comparability" data-pptx-replace-with="table" data-pptx-bounds="80 400 1080 820" data-pptx-fallback-sha256="e460ef5504536a4d0b0e11cc503dd7ff7a877b576eab3dca325d3c5a08bba266">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 80, "y": 400, "width": 1080, "height": 820,
+  "name": "study-comparability",
+  "header_rows": 1,
+  "column_widths": [190, 400, 250, 240],
+  "row_heights": [80, 110, 110, 110, 80, 110, 110, 110],
+  "defaults": {
+    "cell": {
+      "valign": "top",
+      "align": "l",
+      "padding": {"left": 8, "right": 8, "top": 10, "bottom": 10},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#E7E3DB", "width": 1}
+      }
+    },
+    "run": {"color": "#16232E"}
+  },
+  "columns": [
+    {"text": "Study", "bold": true, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}},
+    {"text": "What changed, and what it found", "bold": true, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}},
+    {"text": "Scale, period, control", "bold": true, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}},
+    {"text": "Evidence about a firm like ours?", "bold": true, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#16232E", "width": 2}}}
+  ],
+  "rows": [
+    ["UK 2022 pilot", "Real hours cut at full pay; 92% still running it at the end", "61 companies · Jun–Dec 2022 · no control", {"text": "Yes, with a scale caveat", "color": "#16232E"}],
+    ["UK follow-up 2024", "89% still on reduced hours a year on; the one firm that stopped was a consultancy", "28 of 61 · 2024 · no control", {"text": "Yes — the closest case we have", "color": "#16232E"}],
+    ["Iceland 2015–19", "40 hours to 35–36 and service levels held. Veal: 61 of 66 sites cut only one to three hours", "~2,940 workers · 2015–2019 · no control", {"text": "No — public sector, a 1–3 hour cut", "color": "#6E777E"}],
+    ["Belgium 2022", "A right to compress 38 hours into four days; hours and pay unchanged", "National law · from Nov 2022", {"text": "No — not an hours reduction", "color": "#6E777E"}],
+    ["Portugal 2023–24", "Actual hours down 12%, 41+ to 36.5; the authors call it a proof of concept", "41 companies · from Jun 2023 · non-adopter control", {"text": "Partly — best design, other sectors", "color": "#4A6B7C"}],
+    ["Germany 2024", "Stress and burnout down significantly; sick days, turnover and profit not", "45 orgs · 6 months from Feb 2024 · in-house control", {"text": "Partly — best method, mixed model", "color": "#4A6B7C"}],
+    ["South Cambridgeshire", "32 hours at full pay; 11 outcomes better, 2 worse, the rest indistinguishable", "One council · from Jan 2023 · COVID-adjusted", {"text": "No — statutory public services", "color": "#6E777E"}]
+  ],
+  "style": {
+    "font_family": "Arial",
+    "font_size": 22,
+    "header_font_size": 22,
+    "header_fill": "#F2F0EB",
+    "header_text": "#16232E",
+    "body_text": "#16232E",
+    "band_row": false
+  }
+}
+    </metadata>
+    <rect x="80" y="400" width="1080" height="80" fill="#F2F0EB"/>
+    <line x1="80" y1="480" x2="1160" y2="480" stroke="#16232E" stroke-width="2"/>
+    <line x1="80" y1="590" x2="1160" y2="590" stroke="#E7E3DB" stroke-width="1"/>
+    <line x1="80" y1="700" x2="1160" y2="700" stroke="#E7E3DB" stroke-width="1"/>
+    <line x1="80" y1="810" x2="1160" y2="810" stroke="#E7E3DB" stroke-width="1"/>
+    <line x1="80" y1="890" x2="1160" y2="890" stroke="#E7E3DB" stroke-width="1"/>
+    <line x1="80" y1="1000" x2="1160" y2="1000" stroke="#E7E3DB" stroke-width="1"/>
+    <line x1="80" y1="1110" x2="1160" y2="1110" stroke="#E7E3DB" stroke-width="1"/>
+    <line x1="80" y1="1220" x2="1160" y2="1220" stroke="#E7E3DB" stroke-width="1"/>
+
+    <text x="88" y="430" font-size="22" font-weight="bold" fill="#16232E">Study</text>
+    <text x="278" y="430" font-size="22" font-weight="bold" fill="#16232E">What changed, and what it found</text>
+    <text x="678" y="430" font-size="22" font-weight="bold" fill="#16232E"><tspan x="678" dy="0">Scale, period, </tspan><tspan x="678" dy="30">control</tspan></text>
+    <text x="928" y="430" font-size="22" font-weight="bold" fill="#16232E"><tspan x="928" dy="0">Evidence about a </tspan><tspan x="928" dy="30">firm like ours?</tspan></text>
+
+    <text x="88" y="510" font-size="22" fill="#16232E">UK 2022 pilot</text>
+    <text x="278" y="510" font-size="22" fill="#16232E"><tspan x="278" dy="0">Real hours cut at full pay; 92% still </tspan><tspan x="278" dy="30">running it at the end</tspan></text>
+    <text x="678" y="510" font-size="22" fill="#16232E"><tspan x="678" dy="0">61 companies · </tspan><tspan x="678" dy="30">Jun–Dec 2022 · </tspan><tspan x="678" dy="30">no control</tspan></text>
+    <text x="928" y="510" font-size="22" fill="#16232E"><tspan x="928" dy="0">Yes, with a scale </tspan><tspan x="928" dy="30">caveat</tspan></text>
+
+    <text x="88" y="620" font-size="22" fill="#16232E"><tspan x="88" dy="0">UK follow-up </tspan><tspan x="88" dy="30">2024</tspan></text>
+    <text x="278" y="620" font-size="22" fill="#16232E"><tspan x="278" dy="0">89% still on reduced hours a year </tspan><tspan x="278" dy="30">on; the one firm that stopped was a </tspan><tspan x="278" dy="30">consultancy</tspan></text>
+    <text x="678" y="620" font-size="22" fill="#16232E"><tspan x="678" dy="0">28 of 61 · 2024 · </tspan><tspan x="678" dy="30">no control</tspan></text>
+    <text x="928" y="620" font-size="22" fill="#16232E"><tspan x="928" dy="0">Yes — the closest </tspan><tspan x="928" dy="30">case we have</tspan></text>
+
+    <text x="88" y="730" font-size="22" fill="#16232E">Iceland 2015–19</text>
+    <text x="278" y="730" font-size="22" fill="#16232E"><tspan x="278" dy="0">40 hours to 35–36 and service levels </tspan><tspan x="278" dy="30">held. Veal: 61 of 66 sites cut only </tspan><tspan x="278" dy="30">one to three hours</tspan></text>
+    <text x="678" y="730" font-size="22" fill="#16232E"><tspan x="678" dy="0">~2,940 workers · </tspan><tspan x="678" dy="30">2015–2019 · </tspan><tspan x="678" dy="30">no control</tspan></text>
+    <text x="928" y="730" font-size="22" fill="#6E777E"><tspan x="928" dy="0">No — public sector, a </tspan><tspan x="928" dy="30">1–3 hour cut</tspan></text>
+
+    <text x="88" y="840" font-size="22" fill="#16232E">Belgium 2022</text>
+    <text x="278" y="840" font-size="22" fill="#16232E"><tspan x="278" dy="0">A right to compress 38 hours into </tspan><tspan x="278" dy="30">four days; hours and pay unchanged</tspan></text>
+    <text x="678" y="840" font-size="22" fill="#16232E"><tspan x="678" dy="0">National law · </tspan><tspan x="678" dy="30">from Nov 2022</tspan></text>
+    <text x="928" y="840" font-size="22" fill="#6E777E"><tspan x="928" dy="0">No — not an hours </tspan><tspan x="928" dy="30">reduction</tspan></text>
+
+    <text x="88" y="920" font-size="22" fill="#16232E"><tspan x="88" dy="0">Portugal 2023–</tspan><tspan x="88" dy="30">24</tspan></text>
+    <text x="278" y="920" font-size="22" fill="#16232E"><tspan x="278" dy="0">Actual hours down 12%, 41+ to 36.5; </tspan><tspan x="278" dy="30">the authors call it a proof of concept</tspan></text>
+    <text x="678" y="920" font-size="22" fill="#16232E"><tspan x="678" dy="0">41 companies · </tspan><tspan x="678" dy="30">from Jun 2023 · </tspan><tspan x="678" dy="30">non-adopter control</tspan></text>
+    <text x="928" y="920" font-size="22" fill="#4A6B7C"><tspan x="928" dy="0">Partly — best design, </tspan><tspan x="928" dy="30">other sectors</tspan></text>
+
+    <text x="88" y="1030" font-size="22" fill="#16232E">Germany 2024</text>
+    <text x="278" y="1030" font-size="22" fill="#16232E"><tspan x="278" dy="0">Stress and burnout down </tspan><tspan x="278" dy="30">significantly; sick days, turnover and </tspan><tspan x="278" dy="30">profit not</tspan></text>
+    <text x="678" y="1030" font-size="22" fill="#16232E"><tspan x="678" dy="0">45 orgs · 6 months </tspan><tspan x="678" dy="30">from Feb 2024 · </tspan><tspan x="678" dy="30">in-house control</tspan></text>
+    <text x="928" y="1030" font-size="22" fill="#4A6B7C"><tspan x="928" dy="0">Partly — best </tspan><tspan x="928" dy="30">method, mixed model</tspan></text>
+
+    <text x="88" y="1140" font-size="22" fill="#16232E"><tspan x="88" dy="0">South </tspan><tspan x="88" dy="30">Cambridgeshire</tspan></text>
+    <text x="278" y="1140" font-size="22" fill="#16232E"><tspan x="278" dy="0">32 hours at full pay; 11 outcomes </tspan><tspan x="278" dy="30">better, 2 worse, the rest </tspan><tspan x="278" dy="30">indistinguishable</tspan></text>
+    <text x="678" y="1140" font-size="22" fill="#16232E"><tspan x="678" dy="0">One council · </tspan><tspan x="678" dy="30">from Jan 2023 · </tspan><tspan x="678" dy="30">COVID-adjusted</tspan></text>
+    <text x="928" y="1140" font-size="22" fill="#6E777E"><tspan x="928" dy="0">No — statutory public </tspan><tspan x="928" dy="30">services</tspan></text>
+  </g>
+
+  <g id="comparability-key" data-pptx-bounds="80 1242 1020 26">
+    <text x="80" y="1256" font-size="16" fill="#5C6871">Dark: evidence about a firm like ours. Slate: partly relevant. Grey: a different intervention or a different sector.</text>
+  </g>
+
+  <g id="conflict-iceland" data-pptx-bounds="80 1288 1032 116">
+    <rect x="80" y="1290" width="5" height="112" fill="#4A6B7C"/>
+    <text x="112" y="1312" font-size="26" fill="#16232E"><tspan x="112" dy="0"><tspan font-weight="bold">Recorded conflict — Iceland.</tspan></tspan><tspan x="112" dy="38">The same trials are read as a transformative national success and as a</tspan><tspan x="112" dy="38">one-to-three-hour cut whose national legacy is 35 minutes a week.</tspan></text>
+  </g>
+
+  <g id="conflict-south-cambs" data-pptx-bounds="80 1426 1032 156">
+    <rect x="80" y="1428" width="5" height="152" fill="#4A6B7C"/>
+    <text x="112" y="1450" font-size="26" fill="#16232E"><tspan x="112" dy="0"><tspan font-weight="bold">Recorded conflict — South Cambridgeshire.</tspan></tspan><tspan x="112" dy="38">The council reports 21 of 24 services improved or stayed the same and a saving</tspan><tspan x="112" dy="38">of nearly £400,000 a year; the independent evaluation reports 11 outcomes</tspan><tspan x="112" dy="38">better, 2 worse and the rest indistinguishable, and cannot prove causation.</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1632 1080 42">
+    <line x1="80" y1="1636" x2="1160" y2="1636" stroke="#D6D2C9" stroke-width="1"/>
+    <text x="80" y="1668" font-size="16" fill="#5C6871">Sources: Autonomy · Alda/Autonomy Iceland · Veal (UTS) · Belgian Labour Deal · Portugal (2024) · Germany (2024)</text>
+    <text x="1160" y="1668" font-size="16" text-anchor="end" fill="#5C6871">10 September 2026 · Page 6 of 10</text>
+  </g>
+</svg>
