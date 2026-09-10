@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <pattern id="chalkDust" data-pptx-pattern="pct5" data-pptx-fg="#55635B" data-pptx-bg="#1E2B27" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#1E2B27"/>
+      <circle cx="4" cy="5" r="0.9" fill="#55635B"/>
+      <circle cx="13" cy="12" r="0.7" fill="#55635B"/>
+    </pattern>
+  </defs>
+
+  <rect id="board-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#chalkDust)"/>
+  <g id="board-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="0 0 1280 720" data-pptx-av-adj1="val 3400" fill="#3A3129" stroke="none">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z M 24.48 24.48 L 24.48 695.52 L 1255.52 695.52 L 1255.52 24.48 Z"/>
+</g>
+  <rect id="chalk-ledge" data-pptx-role="decoration" x="24.48" y="676" width="1231.04" height="19.52" fill="#33291F"/>
+
+  <g id="masthead" data-pptx-bounds="56 40 700 72">
+    <image href="../images/head_p08.png" x="60" y="44" width="290" height="54" preserveAspectRatio="xMidYMid meet"/>
+    <path d="M62 106 Q206 100 348 107" fill="none" stroke="#F3C969" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g id="page-mark" data-pptx-bounds="1000 44 224 60" text-anchor="end" fill="#B4AE9E">
+    <text x="1224" y="72" font-size="18">第 08 版</text>
+    <text x="1224" y="96" font-size="16">教师队伍 · 规模</text>
+  </g>
+
+  <g id="total-hero" data-pptx-bounds="56 130 540 136">
+    <use data-icon="tabler-outline/users-group" x="516" y="150" width="44" height="44" fill="#9FD0C0" stroke-width="2"/>
+    <text x="56" y="160" font-size="18" fill="#9FD0C0">2025 年全国专任教师</text>
+    <text x="56" y="234" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="64" fill="#F3C969">1870.10 <tspan font-size="28" fill="#E8E4D8">万人</tspan></text>
+  </g>
+
+  <g id="total-context" data-pptx-bounds="640 130 584 136" fill="#E8E4D8">
+    <text x="640" y="162" font-size="18">同年各级各类学校 44.07 万所</text>
+    <text x="640" y="196" font-size="18">各级各类学历教育在校生 28040.43 万人</text>
+    <text x="640" y="230" font-size="18">其中义务教育阶段专任教师 1069.76 万人</text>
+    <text x="640" y="258" font-size="16" fill="#B4AE9E">分学段合计 1869.42 万人,差额为公报另计的其他学校教师</text>
+  </g>
+
+  <g id="teacher-count-by-stage" data-pptx-replace-with="chart" data-pptx-bounds="100 286 1124 354" data-pptx-fallback-sha256="68e8f71bba774b7f27c734e34bdce8d5ac7be5e79b7187afa02f901c544b78f2">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-chart.v1",
+  "name": "teacher-count-by-stage",
+  "type": "column",
+  "x": 100, "y": 286, "width": 1124, "height": 354,
+  "plot_area": { "x": 140, "y": 300, "width": 1050, "height": 276 },
+  "categories": ["学前教育", "小学", "初中", "普通高中", "中职", "特殊教育", "高等教育"],
+  "series": [
+    {
+      "name": "专任教师",
+      "values": [261.26, 645.82, 423.95, 237.20, 70.32, 8.51, 222.36],
+      "point_colors": ["#9FD0C0", "#F3C969", "#F3C969", "#9FD0C0", "#9FD0C0", "#E8A0A8", "#9FD0C0"]
+    }
+  ],
+  "axes": {
+    "category": { "kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none", "color": "#B4AE9E", "font_size": 16 },
+    "value": { "kind": "value", "position": "left", "visible": true, "label_position": "next_to", "number_format": "0", "minimum": 0, "maximum": 700, "major_unit": 200, "major_gridlines": true, "tick_marks": "none", "color": "#B4AE9E", "font_size": 16 }
+  },
+  "data_labels": { "show_value": true, "position": "outside_end", "number_format": "0.00", "font_size": 18, "color": "#E8E4D8" },
+  "show_legend": false,
+  "note": { "text": "单位:万人", "x": 140, "y": 285, "width": 160, "height": 22, "font_size": 16, "color": "#B4AE9E" },
+  "style": {
+    "colors": ["#9FD0C0"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#B4AE9E",
+    "axis_color": "#46564F",
+    "grid_color": "#38473F",
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 16
+  }
+}
+    </metadata>
+    <text id="p08-chart-note" x="140" y="301" font-size="16" fill="#B4AE9E">单位:万人</text>
+    <g id="teacher-count-by-stage-chartArea">
+      <line id="p08-grid-600" x1="140" y1="339.43" x2="1190" y2="339.43" stroke="#38473F" stroke-width="1"/>
+      <line id="p08-grid-400" x1="140" y1="418.29" x2="1190" y2="418.29" stroke="#38473F" stroke-width="1"/>
+      <line id="p08-grid-200" x1="140" y1="497.14" x2="1190" y2="497.14" stroke="#38473F" stroke-width="1"/>
+      <line id="p08-axis-value" x1="140" y1="300" x2="140" y2="576" stroke="#46564F" stroke-width="2"/>
+      <line id="p08-axis-category" x1="140" y1="576" x2="1190" y2="576" stroke="#46564F" stroke-width="2"/>
+      <!-- chart-plot-area: object=teacher-count-by-stage | 140,300,1190,576 -->
+      <rect x="169" y="472.99" width="92" height="103.01" fill="#9FD0C0"/>
+      <rect x="319" y="321.37" width="92" height="254.63" fill="#F3C969"/>
+      <rect x="469" y="408.84" width="92" height="167.16" fill="#F3C969"/>
+      <rect x="619" y="482.48" width="92" height="93.52" fill="#9FD0C0"/>
+      <rect x="769" y="548.27" width="92" height="27.73" fill="#9FD0C0"/>
+      <rect x="919" y="572.64" width="92" height="3.36" fill="#E8A0A8"/>
+      <rect x="1069" y="488.32" width="92" height="87.68" fill="#9FD0C0"/>
+    </g>
+    <g id="p08-value-labels" text-anchor="end" fill="#B4AE9E" font-size="16">
+      <text x="130" y="581">0</text>
+      <text x="130" y="502.14">200</text>
+      <text x="130" y="423.29">400</text>
+      <text x="130" y="344.43">600</text>
+    </g>
+    <g id="p08-data-labels" text-anchor="middle" fill="#E8E4D8" font-size="18">
+      <text x="215" y="462.99">261.26</text>
+      <text x="365" y="311.37">645.82</text>
+      <text x="515" y="398.84">423.95</text>
+      <text x="665" y="472.48">237.20</text>
+      <text x="815" y="538.27">70.32</text>
+      <text x="965" y="562.64">8.51</text>
+      <text x="1115" y="478.32">222.36</text>
+    </g>
+    <g id="p08-category-labels" text-anchor="middle" fill="#B4AE9E" font-size="16">
+      <text x="215" y="602">学前教育</text>
+      <text x="365" y="602">小学</text>
+      <text x="515" y="602">初中</text>
+      <text x="665" y="602">普通高中</text>
+      <text x="815" y="602">中职</text>
+      <text x="965" y="602">特殊教育</text>
+      <text x="1115" y="602">高等教育</text>
+    </g>
+  </g>
+
+  <g id="source-note" data-pptx-bounds="56 646 1168 30">
+    <text x="56" y="666" font-size="16" fill="#B4AE9E">资料来源:教育部《2025 年全国教育事业发展统计公报》(2026 年 7 月发布)</text>
+  </g>
+</svg>

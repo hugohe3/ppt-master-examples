@@ -1,0 +1,20 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,art_book_brush.png,792,519,1.53,1.53,,native,PNG,True,1,,bitmap,True,True,547.7,Wide landscape
+2,art_chalk_stub.png,694,483,1.44,1.44,,native,PNG,True,1,,bitmap,True,True,543.8,Standard landscape
+3,art_flower_card.png,771,469,1.64,1.64,,native,PNG,True,1,,bitmap,True,True,528.7,Wide landscape
+4,art_globe_caps.png,800,511,1.57,1.57,,native,PNG,True,1,,bitmap,True,True,267.2,Wide landscape
+5,art_podium.png,765,593,1.29,1.29,,native,PNG,True,1,,bitmap,True,True,502.1,Standard landscape
+6,art_snow_gate.png,800,604,1.32,1.32,,native,PNG,True,1,,bitmap,True,True,768.9,Standard landscape
+7,cover_lettering.png,1760,627,2.81,2.81,,native,PNG,True,1,,bitmap,True,True,682.2,Ultra-wide
+8,head_p02.png,800,158,5.06,5.06,,native,PNG,True,1,,bitmap,True,True,122.4,Ultra-wide
+9,head_p03.png,800,124,6.45,6.45,,native,PNG,True,1,,bitmap,True,True,110.8,Ultra-wide
+10,head_p04.png,800,139,5.76,5.76,,native,PNG,True,1,,bitmap,True,True,98.3,Ultra-wide
+11,head_p05.png,800,170,4.71,4.71,,native,PNG,True,1,,bitmap,True,True,101.8,Ultra-wide
+12,head_p06.png,800,174,4.60,4.60,,native,PNG,True,1,,bitmap,True,True,132.7,Ultra-wide
+13,head_p07.png,1400,255,5.49,5.49,,native,PNG,True,1,,bitmap,True,True,296.2,Ultra-wide
+14,head_p08.png,800,148,5.41,5.41,,native,PNG,True,1,,bitmap,True,True,114.4,Ultra-wide
+15,head_p09.png,800,143,5.59,5.59,,native,PNG,True,1,,bitmap,True,True,103.7,Ultra-wide
+16,head_p10.png,800,201,3.98,3.98,,native,PNG,True,1,,bitmap,True,True,145.3,Ultra-wide
+17,head_p11.png,800,234,3.42,3.42,,native,PNG,True,1,,bitmap,True,True,162.9,Ultra-wide
+18,head_p12.png,800,251,3.19,3.19,,native,PNG,True,1,,bitmap,True,True,197.2,Ultra-wide
+19,head_p13.png,800,201,3.98,3.98,,native,PNG,True,1,,bitmap,True,True,139.9,Ultra-wide

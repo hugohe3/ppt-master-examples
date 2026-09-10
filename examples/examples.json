@@ -2,11 +2,103 @@
   "version": 1,
   "updated": "2026-09-10",
   "stats": {
-    "examples": 35,
-    "pages": 500,
-    "templates": 35
+    "examples": 36,
+    "pages": 513,
+    "templates": 36
   },
   "projects": [
+    {
+      "id": "ppt169_teachers_day_chalkboard",
+      "title": "粉笔写下的节日 · 教师节黑板报",
+      "description": "教师节黑板报 deck 13 页 — chalkboard 风格首次成卷:每页是一块教室后墙的板报版面,AI 生成的粉笔手写报头字 13 幅 + 粉笔刊头画 6 幅切片,整页粉笔灰用原生 pct5 图案填充导出为 DrawingML 背景;讲教师节被提四次改四次的来历(1931/1939/1951/1985,含 1985 年 1 月 21 日六届全国人大常委会决议)、教育部专任教师人数与学段结构 2 张原生图表、各国教师节日期原生表(深底显式底色)、程门立雪与《师说》引文、名言谜语画法小栏目、5 条来源原生超链接;报头与粉笔头跨页 Morph 承接,30 个原生预设轮廓;Default 路线主题调研驱动生成",
+      "icon": "🧑‍🏫",
+      "color": "#1E2B27",
+      "style": "creative",
+      "styleName": "Chalkboard Wall Newspaper",
+      "desc": "A thirteen-page Chinese classroom wall newspaper for Teachers' Day (10 September) — the first full deck in the bundled chalkboard visual style. Every page is one blackboard: a chalk-lettered masthead, a lead column, side columns and hand-drawn chalk borders. Thirteen AI-generated chalk headlines and six chalk drawings are illustration-sheet slices keyed on the measured ground colour; the chalk dust across every board is a native pct5 pattern fill that exports as a DrawingML slide background rather than a bitmap. The story is how the date was proposed four times and changed four times (1931, 1939, 1951 and the 1985 decision of the Standing Committee of the Sixth National People's Congress), followed by two native charts of China's 18.7 million full-time teachers by school stage, a native table of Teachers' Day dates around the world with explicit cell fills on the dark ground, the Cheng Yi snow-at-the-gate story with the Shishuo quotation, a three-corner column of sayings, a riddle and a how-to-draw tip, and a closing board with five native source hyperlinks. Thirty native preset outlines (frame, plaque, chevron chain, bracket pair, snipped boxes, folded corner, stars, ribbon, callout), Morph chains carrying the masthead and a chalk stub between pages, speaker notes throughout. Authored by Claude on the Default runtime from thirty-six sourced facts.",
+      "tags": [
+        "Culture",
+        "Chalkboard",
+        "AI Lettering",
+        "AI Illustration",
+        "Native Charts",
+        "Native Tables",
+        "Pattern Fill",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_teachers_day_chalkboard/svg_final",
+      "generatedAt": "2026-09-10",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_teachers_day_chalkboard/exports/ppt169_teachers_day_chalkboard.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "粉笔写下的节日 · 教师节黑板报"
+        },
+        {
+          "file": "02_why_910.svg",
+          "title": "why_910",
+          "desc": "为什么是 9 月 10 日"
+        },
+        {
+          "file": "03_four_dates_a.svg",
+          "title": "four_dates_a",
+          "desc": "改了四次的日子(上):1931 与 1939"
+        },
+        {
+          "file": "04_four_dates_b.svg",
+          "title": "four_dates_b",
+          "desc": "改了四次的日子(下):1951 与 1985"
+        },
+        {
+          "file": "05_one_morning.svg",
+          "title": "one_morning",
+          "desc": "从一个人的念头到全国性的节日,只隔四步"
+        },
+        {
+          "file": "06_first_teachers_day.svg",
+          "title": "first_teachers_day",
+          "desc": "1985 年 9 月 10 日,第一个教师节"
+        },
+        {
+          "file": "07_wipe_the_board.svg",
+          "title": "wipe_the_board",
+          "desc": "擦一擦板:讲台后面站着多少人"
+        },
+        {
+          "file": "08_how_many_teachers.svg",
+          "title": "how_many_teachers",
+          "desc": "1870 万专任教师"
+        },
+        {
+          "file": "09_who_they_are.svg",
+          "title": "who_they_are",
+          "desc": "他们是谁:师生比与学段结构"
+        },
+        {
+          "file": "10_world_teacher_days.svg",
+          "title": "world_teacher_days",
+          "desc": "各国的教师节各挂在一个人或一份文件上"
+        },
+        {
+          "file": "11_snow_at_the_gate.svg",
+          "title": "snow_at_the_gate",
+          "desc": "程门立雪:尊师在古人那里"
+        },
+        {
+          "file": "12_board_corners.svg",
+          "title": "board_corners",
+          "desc": "名言、谜语、画法:黑板报的三个小栏目"
+        },
+        {
+          "file": "13_say_it_to_them.svg",
+          "title": "say_it_to_them",
+          "desc": "教师节快乐"
+        }
+      ]
+    },
     {
       "id": "ppt43_sleep_science_explainer",
       "title": "我们为什么要睡觉",

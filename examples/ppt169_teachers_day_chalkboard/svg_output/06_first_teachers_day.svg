@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <pattern id="chalkDust" data-pptx-pattern="pct5" data-pptx-fg="#55635B" data-pptx-bg="#1E2B27" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#1E2B27"/>
+      <circle cx="4" cy="5" r="0.9" fill="#55635B"/>
+      <circle cx="13" cy="12" r="0.7" fill="#55635B"/>
+    </pattern>
+  </defs>
+
+  <rect id="board-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#chalkDust)"/>
+  <g id="board-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="0 0 1280 720" data-pptx-av-adj1="val 3400" fill="#3A3129" stroke="none">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z M 24.48 24.48 L 24.48 695.52 L 1255.52 695.52 L 1255.52 24.48 Z"/>
+</g>
+  <rect id="chalk-ledge" data-pptx-role="decoration" x="24.48" y="676" width="1231.04" height="19.52" fill="#33291F"/>
+
+  <g id="masthead" data-pptx-bounds="56 44 700 76">
+    <image href="../images/head_p06.png" x="60" y="48" width="290" height="63" preserveAspectRatio="xMidYMid meet"/>
+    <path d="M62 118 Q206 112 348 119" fill="none" stroke="#F3C969" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g id="page-mark" data-pptx-bounds="1000 48 224 60" text-anchor="end" fill="#B4AE9E">
+    <text x="1224" y="76" font-size="18">第 06 版</text>
+    <text x="1224" y="100" font-size="16">1985 · 节日当天</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="56 138 1168 56">
+    <text x="56" y="176" font-family="KaiTi, &quot;Trebuchet MS&quot;, serif" font-size="32" fill="#F4F1E8">1985 年 9 月 10 日,是中国恢复建立的第一个教师节。</text>
+  </g>
+
+  <g id="date-stamp" data-pptx-bounds="76 236 420 220" text-anchor="middle">
+    <g id="p06-stamp-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="80 240 412 212" data-pptx-av-adj1="val 16000" data-pptx-av-adj2="val 0" fill="#26352F" stroke="#F3C969" stroke-width="4">
+<path d="M 113.92 240 L 492 240 L 492 240 L 492 418.08 L 458.08 452 L 80 452 L 80 452 L 80 273.92 Z"/>
+</g>
+    <text x="286" y="292" font-size="18" fill="#9FD0C0">第一个教师节</text>
+    <text x="286" y="382" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="64" fill="#F3C969">1985.09.10</text>
+    <text x="286" y="424" font-size="18" fill="#B4AE9E">恢复建立</text>
+  </g>
+
+  <g id="p06-mark-a" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star5" data-pptx-frame="512 262 34 34" fill="#9FD0C0" stroke="none">
+<path d="M 512 274.99 L 524.99 274.99 L 529 262 L 533.01 274.99 L 546 274.99 L 535.49 283.01 L 539.51 296 L 529 287.97 L 518.49 296 L 522.51 283.01 Z"/>
+</g>
+  <g id="p06-mark-b" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star5" data-pptx-frame="506 392 24 24" fill="#E8A0A8" stroke="none">
+<path d="M 506 401.17 L 515.17 401.17 L 518 392 L 520.83 401.17 L 530 401.17 L 522.58 406.83 L 525.42 416 L 518 410.33 L 510.58 416 L 513.42 406.83 Z"/>
+</g>
+
+  <g id="three-events" data-pptx-bounds="560 254 664 216">
+    <use data-icon="tabler-outline/award" x="1180" y="258" width="36" height="36" fill="#F3C969" stroke-width="2"/>
+    <text x="560" y="282" font-size="28" fill="#F3C969">节日当天</text>
+    <path d="M560 296 Q700 291 840 297" fill="none" stroke="#46564F" stroke-width="2" stroke-linecap="round"/>
+    <text x="560" y="330" font-size="24" fill="#E8E4D8">· 国家主席李先念向全国教师发出慰问信</text>
+    <text x="560" y="372" font-size="24" fill="#E8E4D8">· 首都召开万人庆祝大会</text>
+    <text x="560" y="414" font-size="24" fill="#E8E4D8">· 教师节期间 20 个省市共表彰 11871 个<tspan x="560" dy="42">省级优秀教师集体和个人</tspan></text>
+  </g>
+
+  <g id="number-corner" data-pptx-bounds="76 496 420 132">
+    <text x="96" y="520" font-size="18" fill="#9FD0C0">数字角</text>
+    <text x="96" y="586" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="64" fill="#F4F1E8">11871</text>
+    <text x="96" y="618" font-size="16" fill="#B4AE9E">个省级优秀教师集体和个人受到表彰</text>
+  </g>
+
+  <g id="fact-corner" data-pptx-bounds="560 492 664 132">
+    <g id="p06-fact-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="foldedCorner" data-pptx-frame="560 492 664 132" data-pptx-av-adj="val 14000" fill="none" stroke="#46564F" stroke-width="2">
+<path d="M 560 492 L 1224 492 L 1224 605.52 L 1205.52 624 L 560 624 Z" stroke="none"/>
+<path d="M 1205.52 624 L 1209.22 609.22 L 1224 605.52 Z" stroke="none"/>
+<path d="M 1205.52 624 L 1209.22 609.22 L 1224 605.52 L 1205.52 624 L 560 624 L 560 492 L 1224 492 L 1224 605.52"/>
+</g>
+    <use data-icon="tabler-outline/bulb" x="1160" y="504" width="32" height="32" fill="#9FD0C0" stroke-width="2"/>
+    <text x="584" y="522" font-size="18" fill="#9FD0C0">小知识角</text>
+    <text x="584" y="556" font-size="16" fill="#E8E4D8">教师节是我国仅有的三个行业性节日之一,另两个是护士节、记者节。</text>
+    <text x="584" y="584" font-size="16" fill="#E8E4D8">按《全国年节及纪念日放假办法》第五条,教师节不放假。</text>
+  </g>
+
+  <g id="source-note" data-pptx-bounds="56 638 1168 34">
+    <text x="56" y="662" font-size="16" fill="#B4AE9E">资料来源:教育部《我国教师节简介》</text>
+  </g>
+</svg>

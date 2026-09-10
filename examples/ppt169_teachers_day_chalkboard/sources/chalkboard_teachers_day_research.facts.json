@@ -1,0 +1,294 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "教师节黑板报:由来、日期变迁、教师队伍数据与尊师传统",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "2026年9月10日是我国第42个教师节,教育部办公厅印发通知确定今年教师节主题为“大力弘扬教育家精神,共筑尊师重教风尚”。",
+      "source_title": "教育部办公厅关于做好庆祝第42个教师节有关工作的通知",
+      "source_url": "http://www.moe.gov.cn/srcsite/A10/s7002/202608/t20260821_1447456.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "1931年,教育界知名教授邰爽秋、程其保等发起联络京、沪教育界人士,拟定每年6月6日为教师节,并发表《教师节宣言》,提出改善教师待遇、保障教师工作、增进教师修养三项目标。",
+      "source_title": "我国教师节简介 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "“六·六”教师节是教师自发组织设立的,当时的国民党政府没有承认,但在全国各地产生了一定影响。",
+      "source_title": "我国教师节简介 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "1939年决定另立孔子诞辰日8月27日为教师节,并颁发了《教师节纪念暂行办法》,当时未能在全国推行。",
+      "source_title": "我国教师节简介 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "1951年4月19日,教育部长和中国教育工会全国委员会主席发表书面谈话,宣布“五一国际劳动节”同时为教师节;但由于这一天缺少教师的特点,执行的结果并不理想。",
+      "source_title": "教师节的由来 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38105.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "教师节最早的创意人是中科院院士王梓坤教授,1984年12月9日他把想法告诉《北京晚报》,次日该报刊出《王梓坤校长建议开展尊师重教月活动》;12月15日,北师大钟敬文、启功、王梓坤、陶大镛、朱智贤、黄济、赵擎寰联名正式提议设立教师节。",
+      "source_title": "我国教师节简介 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "国务院于1985年1月11日向全国人民代表大会常务委员会提出关于确定每年9月10日为教师节的议案。",
+      "source_title": "教师节的由来 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38105.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "1985年1月21日,第六届全国人民代表大会常务委员会第九次会议作出决议,将每年的9月10日定为我国的教师节。",
+      "source_title": "我国教师节简介 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "确定9月10日为教师节,是因为新生入学伊始即开始尊师重教活动,可以给教师教好、学生学好创造良好的气氛;同时9月份全国性节日少,便于各方面集中时间组织活动和突出宣传报道。",
+      "source_title": "教师节的由来 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38105.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "在第一个教师节,当时的国家主席李先念向全国教师发出慰问信祝贺节日,首都召开万人庆祝大会,教师节期间20个省市共表彰11871个省级优秀教师集体和个人。",
+      "source_title": "我国教师节简介 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "《全国年节及纪念日放假办法》第五条规定,教师节等其他节日、纪念日均不放假。",
+      "source_title": "我国教师节简介 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "教师节是我国仅有的包括护士节、记者节在内的三个行业性节日之一;自1931年以来,我国在不同历史时期共有过4种不同日期和性质的教师节。",
+      "source_title": "我国教师节简介 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "2025年,全国共有各级各类学校44.07万所,各级各类学历教育在校生28040.43万人,专任教师1870.10万人。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "2025年学前教育专任教师261.26万人。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "2025年小学专任教师645.82万人,生师比15.76:1。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "2025年初中阶段教育专任教师423.95万人,生师比13.00:1。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "2025年普通高中专任教师237.20万人,生师比12.81:1。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "2025年中等职业教育专任教师70.32万人。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "2025年特殊教育专任教师8.51万人。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "2025年高等教育专任教师222.36万人。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "2025年义务教育阶段专任教师1069.76万人,义务教育阶段在校生15687.63万人。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "2025年小学专任教师中本科及以上学历比例85.30%。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "2025年初中专任教师中本科及以上学历比例95.51%。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "世界教师日为每年10月5日,1994年设立,纪念1966年国际劳工组织/联合国教科文组织《关于教师地位的建议》通过。",
+      "source_title": "World Teachers' Day | UNESCO",
+      "source_url": "https://www.unesco.org/en/days/teachers",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "印度教师节为9月5日,自1962年起以印度第二任总统、学者拉达克里希南(1888年9月5日生)的生日作为教师节。",
+      "source_title": "Press Information Bureau, Government of India - Teachers' Day",
+      "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/sep/doc202495388601.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "美国全国教师日(National Teacher Day)定在5月第一个整周的星期二,自1985年起由全国教育协会(NEA)确定。",
+      "source_title": "NEA celebrates national Teacher Appreciation Week | NEA",
+      "source_url": "https://www.nea.org/about-nea/media-center/press-releases/nea-celebrates-national-teacher-appreciation-week-1",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "泰国教师节为1月16日,源于1945年1月16日《教师法》在泰国政府公报公布,首个官方教师节于1957年1月16日举办。",
+      "source_title": "Thai Teachers' Day - Thailand NOW",
+      "source_url": "https://www.thailandnow.in.th/event/thai-teachers-day/",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "韩国教师节为5月15日,1965年起由5月26日改定于世宗大王诞辰日5月15日。",
+      "source_title": "Remembering King Sejong's contributions on Teachers' Day | Korea.net",
+      "source_url": "https://www.korea.net/NewsFocus/HonoraryReporters/view?articleId=198324",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "《论语·述而》第二十二章:“子曰:三人行,必有我师焉。择其善者而从之,其不善者而改之。”",
+      "source_title": "論語 : 述而 - 中國哲學書電子化計劃",
+      "source_url": "https://ctext.org/analects/shu-er/zhs",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "《论语·为政》第十一章:“子曰:温故而知新,可以为师矣。”",
+      "source_title": "論語 : 為政 - 中國哲學書電子化計劃",
+      "source_url": "https://ctext.org/analects/wei-zheng/zhs",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "韩愈《师说》开篇:“古之学者必有师。师者,所以传道、受业、解惑也。”",
+      "source_title": "香港教育局 指定文言經典學習材料:師說(韓愈)",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/KS4_12.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "韩愈《师说》:“是故无贵无贱,无长无少,道之所存,师之所存也。”",
+      "source_title": "香港教育局 指定文言經典學習材料:師說(韓愈)",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/KS4_12.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "程门立雪出自《宋史·杨时传》:“(杨时)又见程颐于洛,时盖年四十矣。一日见颐,颐偶瞑坐,时与游酢侍立不去。颐既觉,则门外雪深一尺矣。”",
+      "source_title": "香港教育局《郁文華章》(小學篇)選篇分析:程門立雪",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/culture/03_005.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "2025年普通高中专任教师中本科及以上学历比例99.47%。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "2025年中等职业教育专任教师中本科及以上学历比例97.59%,“双师型”专任教师占专业(技能)课程专任教师比例57.49%。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "2025年学前教育专任教师中专科及以上学历比例96.05%。",
+      "source_title": "2025年全国教育事业发展统计公报 - 中华人民共和国教育部",
+      "source_url": "http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-10"
+    }
+  ]
+}

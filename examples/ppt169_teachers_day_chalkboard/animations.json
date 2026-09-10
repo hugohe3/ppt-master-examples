@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-headline": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.9 },
+        "cover-title-native": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "cover-hook": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.6 },
+        "cover-theme": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "cover-podium": { "effect": "entrance_fade", "order": 5, "duration": 0.5 }
+      }
+    },
+    "02_why_910": {
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "p02-date-plate": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.5 },
+        "decision-date": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "reason-one": { "effect": "entrance_fade", "order": 5, "duration": 0.4 },
+        "reason-two": { "effect": "entrance_fade", "order": 6, "duration": 0.4 },
+        "number-corner": { "effect": "entrance_fade", "order": 7, "duration": 0.4 }
+      }
+    },
+    "03_four_dates_a": {
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "chalk-timeline": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 1.0 },
+        "era-1931": { "effect": "entrance_fade", "order": 4, "duration": 0.45 },
+        "era-1939": { "effect": "entrance_fade", "order": 5, "duration": 0.45 },
+        "fact-corner": { "effect": "entrance_fade", "order": 6, "duration": 0.4 }
+      }
+    },
+    "04_four_dates_b": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "03_four_dates_a", "pairs": { "chalk-timeline": { "from": "chalk-timeline", "to": "chalk-timeline" } } },
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "era-1951": { "effect": "entrance_fade", "order": 3, "duration": 0.45 },
+        "era-1985": { "effect": "entrance_fade", "order": 4, "duration": 0.45 },
+        "p04-focus-arrow": { "effect": "entrance_fade", "order": 5, "duration": 0.3 },
+        "number-corner": { "effect": "entrance_fade", "order": 6, "duration": 0.4 }
+      }
+    },
+    "05_one_morning": {
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "step-1": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.45 },
+        "step-2": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.45 },
+        "step-3": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.45 },
+        "date-stamp": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.45 },
+        "founder-quote": { "effect": "entrance_fade", "order": 7, "duration": 0.5 }
+      }
+    },
+    "06_first_teachers_day": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "05_one_morning", "pairs": { "date-stamp": { "from": "date-stamp", "to": "date-stamp" } } },
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "three-events": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "number-corner": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "fact-corner": { "effect": "entrance_fade", "order": 5, "duration": 0.4 }
+      }
+    },
+    "07_wipe_the_board": {
+      "transition": { "effect": "wipe", "effect_options": { "direction": "right" }, "duration": 0.7 },
+      "groups": {
+        "eraser-sweep": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 1.0 },
+        "transition-question": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "section-note": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "08_how_many_teachers": {
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "total-hero": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "total-context": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "09_who_they_are": {
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "ratio-column": { "effect": "entrance_fade", "order": 3, "duration": 0.5 }
+      }
+    },
+    "10_world_teacher_days": {
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "globe-illustration": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "unesco-note": { "effect": "entrance_fade", "order": 4, "duration": 0.4 }
+      }
+    },
+    "11_snow_at_the_gate": {
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "gushi-column": { "effect": "entrance_fade", "order": 3, "duration": 0.55 },
+        "shishuo-column": { "effect": "entrance_fade", "order": 4, "duration": 0.55 }
+      }
+    },
+    "12_board_corners": {
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "lead-claim": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "quote-corner": { "effect": "entrance_fade", "order": 3, "duration": 0.45 },
+        "riddle-corner": { "effect": "entrance_fade", "order": 4, "duration": 0.45 },
+        "technique-corner": { "effect": "entrance_fade", "order": 5, "duration": 0.45 }
+      }
+    },
+    "13_say_it_to_them": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "12_board_corners", "pairs": { "chalk-stub": { "from": "chalk-stub", "to": "chalk-stub" } } },
+      "groups": {
+        "masthead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 },
+        "greeting-banner": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "closing-takeaway": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.7 },
+        "phrase-tips": { "effect": "entrance_fade", "order": 4, "duration": 0.5 },
+        "sources-column": { "effect": "entrance_fade", "order": 5, "duration": 0.5 },
+        "flower-illustration": { "effect": "entrance_fade", "order": 6, "duration": 0.5 }
+      }
+    }
+  }
+}

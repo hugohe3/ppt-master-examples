@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <pattern id="chalkDust" data-pptx-pattern="pct5" data-pptx-fg="#55635B" data-pptx-bg="#1E2B27" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#1E2B27" />
+      <circle cx="4" cy="5" r="0.9" fill="#55635B" />
+      <circle cx="13" cy="12" r="0.7" fill="#55635B" />
+    </pattern>
+  </defs>
+
+  <rect id="board-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#chalkDust)" />
+  <g id="board-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="0 0 1280 720" data-pptx-av-adj1="val 3400" fill="#3A3129" stroke="none">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z M 24.48 24.48 L 24.48 695.52 L 1255.52 695.52 L 1255.52 24.48 Z" />
+</g>
+  <rect id="chalk-ledge" data-pptx-role="decoration" x="24.48" y="676" width="1231.04" height="19.52" fill="#33291F" />
+
+  <g id="masthead" data-pptx-bounds="56 40 700 72">
+    <image href="../images/head_p10.png" x="60" y="44" width="270" height="68" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="page-mark" data-pptx-bounds="1000 44 224 60" text-anchor="end" fill="#B4AE9E">
+    <text x="1224" y="72" font-size="18">第 10 版</text>
+    <text x="1224" y="96" font-size="16">各国教师节</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="56 136 1168 56">
+    <text x="56" y="174" font-family="KaiTi, &quot;Trebuchet MS&quot;, serif" font-size="32" fill="#F4F1E8">每个国家的教师节,都挂在一个具体的人或一份具体的文件上。</text>
+  </g>
+
+  <g id="world-teacher-days" data-pptx-replace-with="table" data-pptx-bounds="80 240 930 376" data-pptx-fallback-sha256="f109e27dd0a04d315adaf40637bfd70dbe57b44a79c54701cdc235e1d05b636b">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "world-teacher-days",
+  "x": 80, "y": 240, "width": 930, "height": 376,
+  "column_widths": [170, 260, 500],
+  "row_heights": [52, 54, 54, 54, 54, 54, 54],
+  "defaults": {
+    "cell": {
+      "fill": "#1E2B27",
+      "color": "#E8E4D8",
+      "align": "l",
+      "valign": "middle",
+      "font_size": 18,
+      "padding": 12,
+      "borders": {
+        "top": { "style": "solid", "color": "#46564F", "width": 1 },
+        "bottom": { "style": "solid", "color": "#46564F", "width": 1 },
+        "left": { "style": "none" },
+        "right": { "style": "none" }
+      }
+    }
+  },
+  "columns": [
+    { "text": "国家/地区", "fill": "#2B3A34", "color": "#F3C969", "bold": true },
+    { "text": "日期", "fill": "#2B3A34", "color": "#F3C969", "bold": true },
+    { "text": "由来", "fill": "#2B3A34", "color": "#F3C969", "bold": true }
+  ],
+  "rows": [
+    [ { "text": "中国" }, { "text": "9 月 10 日" }, { "text": "1985 年全国人大常委会决议确定" } ],
+    [ { "text": "世界教师日", "fill": "#26352F" }, { "text": "10 月 5 日", "fill": "#26352F" }, { "text": "纪念 1966 年《关于教师地位的建议》通过", "fill": "#26352F" } ],
+    [ { "text": "印度" }, { "text": "9 月 5 日" }, { "text": "纪念第二任总统拉达克里希南生日" } ],
+    [ { "text": "美国", "fill": "#26352F" }, { "text": "5 月第一个整周的星期二", "fill": "#26352F" }, { "text": "1985 年起由全国教育协会确定", "fill": "#26352F" } ],
+    [ { "text": "泰国" }, { "text": "1 月 16 日" }, { "text": "源于 1945 年《教师法》公布" } ],
+    [ { "text": "韩国", "fill": "#26352F" }, { "text": "5 月 15 日", "fill": "#26352F" }, { "text": "1965 年起定于世宗大王诞辰", "fill": "#26352F" } ]
+  ]
+}
+    </metadata>
+    <rect x="80" y="240" width="930" height="52" fill="#2B3A34" />
+    <rect x="80" y="292" width="930" height="54" fill="#1E2B27" />
+    <rect x="80" y="346" width="930" height="54" fill="#26352F" />
+    <rect x="80" y="400" width="930" height="54" fill="#1E2B27" />
+    <rect x="80" y="454" width="930" height="54" fill="#26352F" />
+    <rect x="80" y="508" width="930" height="54" fill="#1E2B27" />
+    <rect x="80" y="562" width="930" height="54" fill="#26352F" />
+    <path d="M80 240H1010 M80 292H1010 M80 346H1010 M80 400H1010 M80 454H1010 M80 508H1010 M80 562H1010 M80 616H1010" fill="none" stroke="#46564F" stroke-width="1" />
+    <g id="p10-head-row" font-size="18" font-weight="bold" fill="#F3C969">
+      <text x="92" y="274">国家/地区</text>
+      <text x="262" y="274">日期</text>
+      <text x="522" y="274">由来</text>
+    </g>
+    <g id="p10-body-rows" font-size="18" fill="#E8E4D8">
+      <text x="92" y="326">中国</text><text x="262" y="326">9 月 10 日</text><text x="522" y="326">1985 年全国人大常委会决议确定</text>
+      <text x="92" y="380">世界教师日</text><text x="262" y="380">10 月 5 日</text><text x="522" y="380">纪念 1966 年《关于教师地位的建议》通过</text>
+      <text x="92" y="434">印度</text><text x="262" y="434">9 月 5 日</text><text x="522" y="434">纪念第二任总统拉达克里希南生日</text>
+      <text x="92" y="488">美国</text><text x="262" y="488">5 月第一个整周的星期二</text><text x="522" y="488">1985 年起由全国教育协会确定</text>
+      <text x="92" y="542">泰国</text><text x="262" y="542">1 月 16 日</text><text x="522" y="542">源于 1945 年《教师法》公布</text>
+      <text x="92" y="596">韩国</text><text x="262" y="596">5 月 15 日</text><text x="522" y="596">1965 年起定于世宗大王诞辰</text>
+    </g>
+  </g>
+
+  <g id="globe-illustration" data-pptx-bounds="1040 292 190 130">
+    <image href="../images/art_globe_caps.png" x="1040" y="296" width="184" height="118" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="unesco-note" data-pptx-bounds="1040 436 190 96" fill="#B4AE9E" font-size="16">
+    <use data-icon="tabler-outline/world" x="1186" y="440" width="32" height="32" fill="#9FD0C0" stroke-width="2"/>
+    <text x="1040" y="458">联合国教科文组织<tspan x="1040" dy="26">把 10 月 5 日定为</tspan><tspan x="1040" dy="26">世界教师日。</tspan></text>
+  </g>
+
+  <g id="source-note" data-pptx-bounds="56 620 1168 54" fill="#B4AE9E" font-size="16">
+    <text x="56" y="646">资料来源:教育部《我国教师节简介》;UNESCO 世界教师日;印度新闻信息局;美国全国教育协会;泰国官方教师节说明;韩国 Korea.net。</text>
+    <text x="56" y="668">美国的日期随年份变动,不是固定公历日。</text>
+  </g>
+</svg>

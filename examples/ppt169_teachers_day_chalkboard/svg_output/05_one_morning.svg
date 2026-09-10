@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <pattern id="chalkDust" data-pptx-pattern="pct5" data-pptx-fg="#55635B" data-pptx-bg="#1E2B27" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#1E2B27"/>
+      <circle cx="4" cy="5" r="0.9" fill="#55635B"/>
+      <circle cx="13" cy="12" r="0.7" fill="#55635B"/>
+    </pattern>
+  </defs>
+
+  <rect id="board-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#chalkDust)"/>
+  <g id="board-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="0 0 1280 720" data-pptx-av-adj1="val 3400" fill="#3A3129" stroke="none">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z M 24.48 24.48 L 24.48 695.52 L 1255.52 695.52 L 1255.52 24.48 Z"/>
+</g>
+  <rect id="chalk-ledge" data-pptx-role="decoration" x="24.48" y="676" width="1231.04" height="19.52" fill="#33291F"/>
+
+  <g id="masthead" data-pptx-bounds="56 44 700 76">
+    <image href="../images/head_p05.png" x="60" y="48" width="290" height="61" preserveAspectRatio="xMidYMid meet"/>
+    <path d="M62 116 Q206 110 348 117" fill="none" stroke="#F3C969" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g id="page-mark" data-pptx-bounds="1000 48 224 60" text-anchor="end" fill="#B4AE9E">
+    <text x="1224" y="76" font-size="18">第 05 版</text>
+    <text x="1224" y="100" font-size="16">设节动议</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="56 138 1168 56">
+    <text x="56" y="176" font-family="KaiTi, &quot;Trebuchet MS&quot;, serif" font-size="32" fill="#F4F1E8">从一个人的念头到全国性的节日,中间只隔了四步。</text>
+  </g>
+
+  <g id="step-1" data-pptx-bounds="60 246 288 218">
+    <g id="p05-step-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="60 250 288 72" fill="#26352F" stroke="#9FD0C0" stroke-width="3">
+<path d="M 60 250 L 312 250 L 348 286 L 312 322 L 60 322 L 96 286 Z"/>
+</g>
+    <text x="204" y="298" text-anchor="middle" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="24" fill="#9FD0C0">1984.12.09</text>
+    <text x="204" y="366" text-anchor="middle" font-size="18" fill="#E8E4D8">王梓坤教授当天把<tspan x="204" dy="28">这个想法告诉了</tspan><tspan x="204" dy="28">《北京晚报》</tspan></text>
+  </g>
+
+  <g id="step-2" data-pptx-bounds="356 246 288 218">
+    <g id="p05-step-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="356 250 288 72" fill="#26352F" stroke="#9FD0C0" stroke-width="3">
+<path d="M 356 250 L 608 250 L 644 286 L 608 322 L 356 322 L 392 286 Z"/>
+</g>
+    <text x="500" y="298" text-anchor="middle" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="24" fill="#9FD0C0">次日</text>
+    <text x="500" y="366" text-anchor="middle" font-size="18" fill="#E8E4D8">该报刊出《王梓坤<tspan x="500" dy="28">校长建议开展尊师</tspan><tspan x="500" dy="28">重教月活动》</tspan></text>
+  </g>
+
+  <g id="step-3" data-pptx-bounds="652 246 288 218">
+    <g id="p05-step-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="652 250 288 72" fill="#26352F" stroke="#9FD0C0" stroke-width="3">
+<path d="M 652 250 L 904 250 L 940 286 L 904 322 L 652 322 L 688 286 Z"/>
+</g>
+    <text x="796" y="298" text-anchor="middle" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="24" fill="#9FD0C0">1984.12.15</text>
+    <text x="796" y="366" text-anchor="middle" font-size="18" fill="#E8E4D8">北师大钟敬文、启功<tspan x="796" dy="28">等七人联名正式提议</tspan><tspan x="796" dy="28">设立教师节</tspan></text>
+  </g>
+
+  <g id="date-stamp" data-pptx-bounds="948 246 288 218">
+    <g id="p05-step-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="948 250 288 72" fill="#3A3B2A" stroke="#F3C969" stroke-width="4">
+<path d="M 948 250 L 1200 250 L 1236 286 L 1200 322 L 948 322 L 984 286 Z"/>
+</g>
+    <text x="1092" y="298" text-anchor="middle" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="24" fill="#F3C969">1985.01.21</text>
+    <text x="1092" y="366" text-anchor="middle" font-size="18" fill="#E8E4D8">国务院 1 月 11 日提出<tspan x="1092" dy="28">议案,同月 21 日会议</tspan><tspan x="1092" dy="28">作出决议</tspan></text>
+  </g>
+
+  <g id="founder-quote" data-pptx-bounds="56 494 1168 128">
+    <text x="76" y="540" font-family="KaiTi, &quot;Times New Roman&quot;, serif" font-size="30" fill="#F4F1E8">「我也不知道为什么,那天早上一起床<tspan x="76" dy="44">就忽然想到老师应该有自己的节日。」</tspan></text>
+    <text x="1204" y="600" text-anchor="end" font-size="18" fill="#9FD0C0">—— 教师节最早创意人、中科院院士 王梓坤</text>
+  </g>
+
+  <g id="source-note" data-pptx-bounds="56 636 1168 36">
+    <text x="56" y="660" font-size="16" fill="#B4AE9E">数字角:1984 年 12 月 9 日到 1985 年 1 月 21 日,43 天(依前述日期推算)。 资料来源:教育部《我国教师节简介》《教师节的由来》</text>
+  </g>
+</svg>

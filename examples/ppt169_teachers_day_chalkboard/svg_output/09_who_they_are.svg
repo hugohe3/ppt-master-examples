@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <pattern id="chalkDust" data-pptx-pattern="pct5" data-pptx-fg="#55635B" data-pptx-bg="#1E2B27" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#1E2B27" />
+      <circle cx="4" cy="5" r="0.9" fill="#55635B" />
+      <circle cx="13" cy="12" r="0.7" fill="#55635B" />
+    </pattern>
+  </defs>
+
+  <rect id="board-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#chalkDust)" />
+  <g id="board-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="0 0 1280 720" data-pptx-av-adj1="val 3400" fill="#3A3129" stroke="none">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z M 24.48 24.48 L 24.48 695.52 L 1255.52 695.52 L 1255.52 24.48 Z" />
+</g>
+  <rect id="chalk-ledge" data-pptx-role="decoration" x="24.48" y="676" width="1231.04" height="19.52" fill="#33291F" />
+
+  <g id="masthead" data-pptx-bounds="56 40 700 72">
+    <image href="../images/head_p09.png" x="60" y="44" width="290" height="52" preserveAspectRatio="xMidYMid meet" />
+    <path d="M62 104 Q206 98 348 105" fill="none" stroke="#F3C969" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <g id="page-mark" data-pptx-bounds="1000 44 224 60" text-anchor="end" fill="#B4AE9E">
+    <text x="1224" y="72" font-size="18">第 09 版</text>
+    <text x="1224" y="96" font-size="16">教师队伍 · 结构</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="56 130 1168 96">
+    <text x="56" y="168" font-family="KaiTi, &quot;Trebuchet MS&quot;, serif" font-size="32" fill="#F4F1E8">学段越高,专任教师中本科及以上学历的比例越高;<tspan x="56" dy="44">而生师比在初中、普通高中最低。</tspan></text>
+  </g>
+
+  <g id="teacher-degree-share" data-pptx-replace-with="chart" data-pptx-bounds="100 250 720 360" data-pptx-fallback-sha256="965c7ec50f28e48395f3105a320f2d5bbbd1ffbb240b51dbbcde13cb60cd56d1">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-chart.v1",
+  "name": "teacher-degree-share",
+  "type": "bar",
+  "x": 100, "y": 250, "width": 720, "height": 360,
+  "plot_area": { "x": 250, "y": 270, "width": 490, "height": 300 },
+  "categories": ["小学", "初中", "中职", "普通高中"],
+  "series": [
+    {
+      "name": "本科及以上学历比例",
+      "values": [85.30, 95.51, 97.59, 99.47],
+      "point_colors": ["#F3C969", "#9FD0C0", "#9FD0C0", "#9FD0C0"]
+    }
+  ],
+  "axes": {
+    "category": { "kind": "text", "position": "left", "visible": true, "label_position": "next_to", "tick_marks": "none", "color": "#B4AE9E", "font_size": 16 },
+    "value": { "kind": "value", "position": "bottom", "visible": true, "label_position": "next_to", "number_format": "0", "minimum": 0, "maximum": 100, "major_unit": 25, "major_gridlines": true, "tick_marks": "none", "color": "#B4AE9E", "font_size": 16 }
+  },
+  "data_labels": { "show_value": true, "position": "outside_end", "number_format": "0.00", "font_size": 18, "color": "#E8E4D8" },
+  "show_legend": false,
+  "note": { "text": "单位:%", "x": 250, "y": 250, "width": 140, "height": 22, "font_size": 16, "color": "#B4AE9E" },
+  "style": {
+    "colors": ["#9FD0C0"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#B4AE9E",
+    "axis_color": "#46564F",
+    "grid_color": "#38473F",
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 16
+  }
+}
+    </metadata>
+    <text id="p09-chart-note" x="250" y="266" font-size="16" fill="#B4AE9E">单位:%</text>
+    <g id="teacher-degree-share-chartArea">
+      <line id="p09-grid-25" x1="372.5" y1="270" x2="372.5" y2="570" stroke="#38473F" stroke-width="1" />
+      <line id="p09-grid-50" x1="495" y1="270" x2="495" y2="570" stroke="#38473F" stroke-width="1" />
+      <line id="p09-grid-75" x1="617.5" y1="270" x2="617.5" y2="570" stroke="#38473F" stroke-width="1" />
+      <line id="p09-grid-100" x1="740" y1="270" x2="740" y2="570" stroke="#38473F" stroke-width="1" />
+      <line id="p09-axis-category" x1="250" y1="270" x2="250" y2="570" stroke="#46564F" stroke-width="2" />
+      <line id="p09-axis-value" x1="250" y1="570" x2="740" y2="570" stroke="#46564F" stroke-width="2" />
+      <!-- chart-plot-area: object=teacher-degree-share | 250,270,740,570 -->
+      <rect x="250" y="284.5" width="417.97" height="46" fill="#F3C969" />
+      <rect x="250" y="359.5" width="468" height="46" fill="#9FD0C0" />
+      <rect x="250" y="434.5" width="478.19" height="46" fill="#9FD0C0" />
+      <rect x="250" y="509.5" width="487.4" height="46" fill="#9FD0C0" />
+    </g>
+    <g id="p09-category-labels" text-anchor="end" fill="#B4AE9E" font-size="16">
+      <text x="240" y="313.5">小学</text>
+      <text x="240" y="388.5">初中</text>
+      <text x="240" y="463.5">中职</text>
+      <text x="240" y="538.5">普通高中</text>
+    </g>
+    <g id="p09-data-labels" fill="#E8E4D8" font-size="18">
+      <text x="676" y="313.5">85.30</text>
+      <text x="726" y="388.5">95.51</text>
+      <text x="736" y="463.5">97.59</text>
+      <text x="745" y="538.5">99.47</text>
+    </g>
+    <g id="p09-value-labels" text-anchor="middle" fill="#B4AE9E" font-size="16">
+      <text x="250" y="594">0</text>
+      <text x="372.5" y="594">25</text>
+      <text x="495" y="594">50</text>
+      <text x="617.5" y="594">75</text>
+      <text x="740" y="594">100</text>
+    </g>
+  </g>
+
+  <g id="ratio-column" data-pptx-bounds="862 250 360 360">
+    <g id="p09-ratio-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="862 254 360 352" data-pptx-av-adj="val 8000" fill="none" stroke="#9FD0C0" stroke-width="3">
+<path d="M 862 282.16 A 28.16 28.16 0 0 1 890.16 254 L 1193.84 254 A 28.16 28.16 0 0 1 1222 282.16 L 1222 577.84 A 28.16 28.16 0 0 1 1193.84 606 L 890.16 606 A 28.16 28.16 0 0 1 862 577.84 Z" stroke="none" />
+<path d="M 890.16 606 A 28.16 28.16 0 0 1 862 577.84 L 862 282.16 A 28.16 28.16 0 0 1 890.16 254 M 1193.84 254 A 28.16 28.16 0 0 1 1222 282.16 L 1222 577.84 A 28.16 28.16 0 0 1 1193.84 606" />
+</g>
+    <use data-icon="tabler-outline/ruler-2" x="1160" y="272" width="34" height="34" fill="#F3C969" stroke-width="2"/>
+    <text x="902" y="300" font-size="28" fill="#F3C969">生师比</text>
+    <path d="M902 316 Q1010 311 1120 317" fill="none" stroke="#46564F" stroke-width="2" stroke-linecap="round" />
+    <text x="902" y="356" font-size="18" fill="#B4AE9E">小学</text>
+    <text x="902" y="404" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="40" fill="#E8E4D8">15.76 : 1</text>
+    <text x="902" y="448" font-size="18" fill="#B4AE9E">初中</text>
+    <text x="902" y="496" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="40" fill="#E8E4D8">13.00 : 1</text>
+    <text x="902" y="536" font-size="18" fill="#B4AE9E">普通高中</text>
+    <text x="902" y="580" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="40" fill="#E8E4D8">12.81 : 1</text>
+  </g>
+
+  <g id="caliber-note" data-pptx-bounds="56 620 1168 52" fill="#B4AE9E" font-size="16">
+    <text x="56" y="642">口径注:学前教育为「专科及以上学历」96.05%,与上列四行的「本科及以上」口径不同,不与其并列比较。</text>
+    <text x="56" y="666">资料来源:教育部《2025 年全国教育事业发展统计公报》</text>
+  </g>
+</svg>

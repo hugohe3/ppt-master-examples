@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="ending">
+  <defs>
+    <pattern id="chalkDust" data-pptx-pattern="pct5" data-pptx-fg="#55635B" data-pptx-bg="#1E2B27" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#1E2B27"/>
+      <circle cx="4" cy="5" r="0.9" fill="#55635B"/>
+      <circle cx="13" cy="12" r="0.7" fill="#55635B"/>
+    </pattern>
+  </defs>
+
+  <rect id="board-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#chalkDust)"/>
+  <g id="board-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="0 0 1280 720" data-pptx-av-adj1="val 3400" fill="#3A3129" stroke="none">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z M 24.48 24.48 L 24.48 695.52 L 1255.52 695.52 L 1255.52 24.48 Z"/>
+</g>
+  <rect id="chalk-ledge" data-pptx-role="decoration" x="24.48" y="676" width="1231.04" height="19.52" fill="#33291F"/>
+
+  <g id="masthead" data-pptx-bounds="56 40 700 76">
+    <image href="../images/head_p13.png" x="60" y="44" width="250" height="63" preserveAspectRatio="xMidYMid meet"/>
+    <path d="M62 114 Q186 108 308 115" fill="none" stroke="#F3C969" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g id="page-mark" data-pptx-bounds="1000 40 224 56" text-anchor="end" fill="#B4AE9E">
+    <text x="1224" y="66" font-size="18">第 13 版</text>
+    <text x="1224" y="90" font-size="16">收尾</text>
+  </g>
+
+  <g id="greeting-banner" data-pptx-bounds="800 128 424 74">
+    <g id="p13-greeting-ribbon" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="ribbon2" data-pptx-frame="800 130 424 70" data-pptx-av-adj1="val 16667" data-pptx-av-adj2="val 50000" fill="#3A3B2A" stroke="#F3C969" stroke-width="2">
+<path d="M 800 200 L 945.75 200 A 13.25 2.92 0 0 0 945.75 194.17 L 919.25 194.17 A 13.25 2.92 0 0 1 919.25 188.33 L 1104.75 188.33 A 13.25 2.92 0 0 1 1104.75 194.17 L 1078.25 194.17 A 13.25 2.92 0 0 0 1078.25 200 L 1224 200 L 1171 170.83 L 1224 141.67 L 1118 141.67 L 1118 132.92 A 13.25 2.92 0 0 0 1104.75 130 L 919.25 130 A 13.25 2.92 0 0 0 906 132.92 L 906 141.67 L 800 141.67 L 853 170.83 Z" stroke="none"/>
+<path d="M 959 197.08 A 13.25 2.92 0 0 0 945.75 194.17 L 919.25 194.17 A 13.25 2.92 0 0 1 919.25 188.33 L 959 188.33 Z M 1065 197.08 A 13.25 2.92 0 0 1 1078.25 194.17 L 1104.75 194.17 A 13.25 2.92 0 0 0 1104.75 188.33 L 1065 188.33 Z" fill="#303022" stroke="none"/>
+<path d="M 800 200 L 853 170.83 L 800 141.67 L 906 141.67 L 906 132.92 A 13.25 2.92 0 0 1 919.25 130 L 1104.75 130 A 13.25 2.92 0 0 1 1118 132.92 L 1118 141.67 L 1118 141.67 L 1224 141.67 L 1171 170.83 L 1224 200 L 1078.25 200 A 13.25 2.92 0 0 1 1078.25 194.17 L 1104.75 194.17 A 13.25 2.92 0 0 0 1104.75 188.33 L 919.25 188.33 A 13.25 2.92 0 0 0 919.25 194.17 L 945.75 194.17 A 13.25 2.92 0 0 1 945.75 200 Z M 959 188.33 L 959 197.08 M 1065 197.08 L 1065 188.33 M 906 191.25 L 906 141.67 M 1118 141.67 L 1118 191.25" fill="none"/>
+</g>
+    <text x="1012" y="172" text-anchor="middle" font-family="KaiTi, &quot;Trebuchet MS&quot;, serif" font-size="32" fill="#F3C969">教师节快乐</text>
+  </g>
+
+  <g id="closing-takeaway" data-pptx-bounds="56 208 700 146">
+    <text x="56" y="240" font-family="KaiTi, &quot;Trebuchet MS&quot;, serif" font-size="32" fill="#F4F1E8">与其说「老师辛苦了」,不如说出一件具体<tspan x="56" dy="46">的事:哪一节课、哪一句话、哪一次你被拉</tspan><tspan x="56" dy="46">了一把。</tspan></text>
+  </g>
+
+  <g id="phrase-tips" data-pptx-bounds="56 384 700 172">
+    <use data-icon="tabler-outline/mail-heart" x="712" y="386" width="34" height="34" fill="#9FD0C0" stroke-width="2"/>
+    <text x="56" y="412" font-size="28" fill="#9FD0C0">三个可以照着说的句式</text>
+    <path d="M56 426 Q220 421 380 427" fill="none" stroke="#46564F" stroke-width="2" stroke-linecap="round"/>
+    <text x="56" y="464" font-size="24" fill="#E8E4D8">「老师,您上次讲的那道题,我到现在还会做。」</text>
+    <text x="56" y="506" font-size="24" fill="#E8E4D8">「老师,那天您多留了十分钟,我记住了。」</text>
+    <text x="56" y="548" font-size="24" fill="#E8E4D8">「老师,我以后想做和您一样的事。」</text>
+  </g>
+
+  <g id="sources-column" data-pptx-bounds="800 216 424 300">
+    <use data-icon="tabler-outline/link" x="1186" y="222" width="34" height="34" fill="#F3C969" stroke-width="2"/>
+    <text x="800" y="248" font-size="28" fill="#F3C969">想自己查</text>
+    <path d="M800 262 Q900 257 998 263" fill="none" stroke="#46564F" stroke-width="2" stroke-linecap="round"/>
+    <text x="800" y="296" font-size="18" fill="#9FD0C0"><a href="http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38734.html"><tspan text-decoration="underline">教育部《我国教师节简介》</tspan></a></text>
+    <text x="800" y="334" font-size="18" fill="#9FD0C0"><a href="http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/s3580/moe_2390/moe_2391/tnull_38105.html"><tspan text-decoration="underline">教育部《教师节的由来》</tspan></a></text>
+    <text x="800" y="372" font-size="18" fill="#9FD0C0"><a href="http://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html"><tspan text-decoration="underline">《2025 年全国教育事业发展统计公报》</tspan></a></text>
+    <text x="800" y="410" font-size="18" fill="#9FD0C0"><a href="http://www.moe.gov.cn/srcsite/A10/s7002/202608/t20260821_1447456.html"><tspan text-decoration="underline">教育部第 42 个教师节工作通知</tspan></a></text>
+    <text x="800" y="448" font-size="18" fill="#9FD0C0"><a href="https://www.unesco.org/en/days/teachers"><tspan text-decoration="underline">UNESCO 世界教师日</tspan></a></text>
+    <text x="800" y="490" font-size="16" fill="#B4AE9E">点击可打开原页(需联网)。</text>
+  </g>
+
+  <g id="flower-illustration" data-pptx-bounds="996 524 218 136">
+    <image href="../images/art_flower_card.png" x="1000" y="528" width="210" height="128" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="chalk-stub" data-pptx-bounds="56 590 106 74">
+    <image href="../images/art_chalk_stub.png" x="60" y="592" width="98" height="68" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="signature" data-pptx-bounds="180 600 600 60" fill="#B4AE9E">
+    <text x="180" y="624" font-size="18">班级板报组 编 · 资料截至 2026 年 9 月 10 日</text>
+    <text x="180" y="650" font-size="16">今年主题:大力弘扬教育家精神,共筑尊师重教风尚</text>
+  </g>
+</svg>

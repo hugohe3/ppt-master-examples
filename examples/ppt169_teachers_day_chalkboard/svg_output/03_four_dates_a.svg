@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <pattern id="chalkDust" data-pptx-pattern="pct5" data-pptx-fg="#55635B" data-pptx-bg="#1E2B27" patternUnits="userSpaceOnUse" width="18" height="18">
+      <rect x="0" y="0" width="18" height="18" fill="#1E2B27"/>
+      <circle cx="4" cy="5" r="0.9" fill="#55635B"/>
+      <circle cx="13" cy="12" r="0.7" fill="#55635B"/>
+    </pattern>
+  </defs>
+
+  <rect id="board-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#chalkDust)"/>
+  <g id="board-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="0 0 1280 720" data-pptx-av-adj1="val 3400" fill="#3A3129" stroke="none">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z M 24.48 24.48 L 24.48 695.52 L 1255.52 695.52 L 1255.52 24.48 Z"/>
+</g>
+  <rect id="chalk-ledge" data-pptx-role="decoration" x="24.48" y="676" width="1231.04" height="19.52" fill="#33291F"/>
+
+  <g id="masthead" data-pptx-bounds="56 44 700 76">
+    <image href="../images/head_p03.png" x="60" y="48" width="290" height="45" preserveAspectRatio="xMidYMid meet"/>
+    <path d="M62 106 Q206 100 348 107" fill="none" stroke="#F3C969" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g id="page-mark" data-pptx-bounds="1000 48 224 60" text-anchor="end" fill="#B4AE9E">
+    <text x="1224" y="76" font-size="18">第 03 版</text>
+    <text x="1224" y="100" font-size="16">四次改期 · 上</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="56 134 1168 56">
+    <text x="56" y="172" font-family="KaiTi, &quot;Trebuchet MS&quot;, serif" font-size="32" fill="#F4F1E8">头两个教师节,一个不被承认,一个推不下去。</text>
+  </g>
+
+  <g id="chalk-timeline" data-pptx-bounds="56 194 1168 130">
+    <path d="M72 292 C300 244 640 240 902 262 C1010 271 1120 280 1204 288" fill="none" stroke="#F4F1E8" stroke-width="5" stroke-linecap="round"/>
+    <path d="M76 299 C302 252 640 248 900 270 C1008 279 1118 288 1200 296" fill="none" stroke="#F4F1E8" stroke-width="2" stroke-linecap="round" stroke-opacity="0.32"/>
+    <circle cx="304" cy="261" r="11" fill="#F3C969"/>
+    <circle cx="708" cy="253" r="11" fill="#9FD0C0"/>
+    <text x="304" y="232" text-anchor="middle" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" fill="#F3C969">1931</text>
+    <text x="708" y="224" text-anchor="middle" font-family="&quot;Trebuchet MS&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" fill="#9FD0C0">1939</text>
+    <text x="1204" y="316" text-anchor="end" font-size="16" fill="#B4AE9E">未完待续 →</text>
+  </g>
+
+  <g id="p03-era-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="40 336 1200 268" data-pptx-av-adj="val 6000" fill="none" stroke="#46564F" stroke-width="3">
+<path d="M 40 352.08 A 16.08 16.08 0 0 1 56.08 336 L 1223.92 336 A 16.08 16.08 0 0 1 1240 352.08 L 1240 587.92 A 16.08 16.08 0 0 1 1223.92 604 L 56.08 604 A 16.08 16.08 0 0 1 40 587.92 Z" stroke="none"/>
+<path d="M 56.08 604 A 16.08 16.08 0 0 1 40 587.92 L 40 352.08 A 16.08 16.08 0 0 1 56.08 336 M 1223.92 336 A 16.08 16.08 0 0 1 1240 352.08 L 1240 587.92 A 16.08 16.08 0 0 1 1223.92 604"/>
+</g>
+
+  <g id="era-1931" data-pptx-bounds="72 344 544 252">
+    <text x="72" y="374" font-size="28" fill="#F3C969">1931 · 「六·六」教师节</text>
+    <path d="M72 390 Q220 384 366 391" fill="none" stroke="#46564F" stroke-width="2" stroke-linecap="round"/>
+    <text x="72" y="424" font-size="24" fill="#E8E4D8">教育界知名教授邰爽秋、程其保等发起,<tspan x="72" dy="38">拟定每年 6 月 6 日为教师节,并发表</tspan><tspan x="72" dy="38">《教师节宣言》,提出改善教师待遇、</tspan><tspan x="72" dy="38">保障教师工作、增进教师修养三项目标。</tspan></text>
+    <text x="72" y="578" font-size="18" fill="#B4AE9E">教师自发设立,当时的国民党政府没有承认。</text>
+  </g>
+
+  <g id="era-1939" data-pptx-bounds="680 344 544 252">
+    <text x="680" y="374" font-size="28" fill="#9FD0C0">1939 · 「八·二七」教师节</text>
+    <path d="M680 390 Q828 384 974 391" fill="none" stroke="#46564F" stroke-width="2" stroke-linecap="round"/>
+    <text x="680" y="424" font-size="24" fill="#E8E4D8">鉴于「六·六」教师节是教师自发组织<tspan x="680" dy="38">设立、政府没有承认,1939 年决定另立</tspan><tspan x="680" dy="38">孔子诞辰日 8 月 27 日为教师节,并颁</tspan><tspan x="680" dy="38">发《教师节纪念暂行办法》。</tspan></text>
+    <text x="680" y="578" font-size="18" fill="#B4AE9E">当时未能在全国推行。</text>
+  </g>
+
+  <g id="fact-corner" data-pptx-bounds="56 616 1168 56">
+    <text x="56" y="638" font-size="18" fill="#9FD0C0">小知识</text>
+    <text x="56" y="664" font-size="16" fill="#B4AE9E">自 1931 年以来,我国在不同历史时期共有过 4 种不同日期和性质的教师节。 资料来源:教育部《我国教师节简介》</text>
+  </g>
+</svg>
