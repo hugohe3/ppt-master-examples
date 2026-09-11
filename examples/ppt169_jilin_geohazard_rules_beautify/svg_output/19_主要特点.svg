@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="header" data-pptx-bounds="48 20 1184 84">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">五、主要特点</text>
+<line x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5"/>
+<g id="p19-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z"/>
+</g>
+<g id="p19-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z"/>
+</g>
+<g id="p19-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z"/>
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+</g>
+<g id="feature-precise" data-pptx-bounds="56 128 373 476">
+<rect x="56" y="128" width="373" height="476" rx="6" fill="#EEF4FB"/>
+<rect x="56" y="128" width="373" height="6" fill="#E07A1F"/>
+<circle cx="108" cy="186" r="30" fill="#E07A1F"/>
+<use data-icon="tabler-filled/flag" x="92" y="170" width="32" height="32" fill="#FFFFFF"/>
+<text x="152" y="196" font-size="28" font-weight="bold" fill="#C45F14">项目选择精准化</text>
+<text x="72" y="264" font-size="24" fill="#1F2328"><tspan x="72" dy="0">《办法》明确了项目支持的范</tspan><tspan x="72" dy="36">围、入库流程、专家评审论证</tspan><tspan x="72" dy="36">和动态调整等内容。将有利于</tspan><tspan x="72" dy="36">夯实项目实施基础，加快资金</tspan><tspan x="72" dy="36">分配，避免“资金等项目”的情</tspan><tspan x="72" dy="36">况，提升资金使用效益。</tspan></text>
+</g>
+<g id="feature-standard" data-pptx-bounds="453 128 373 476">
+<rect x="453" y="128" width="373" height="476" rx="6" fill="#EEF4FB"/>
+<rect x="453" y="128" width="373" height="6" fill="#0070C0"/>
+<circle cx="505" cy="186" r="30" fill="#0070C0"/>
+<use data-icon="tabler-filled/list-check" x="489" y="170" width="32" height="32" fill="#FFFFFF"/>
+<text x="549" y="196" font-size="28" font-weight="bold" fill="#0070C0">项目运行规范化</text>
+<text x="469" y="264" font-size="24" fill="#1F2328"><tspan x="469" dy="0">建立完善了项目入库流程、项</tspan><tspan x="469" dy="36">目实施单位职责、项目验收阶</tspan><tspan x="469" dy="36">段划分、工程后期运维管护和</tspan><tspan x="469" dy="36">全过程监督检查的整套运行规</tspan><tspan x="469" dy="36">程。规范化的运行有助于各级</tspan><tspan x="469" dy="36">主管部门和参建单位明确项目</tspan><tspan x="469" dy="36">步骤、自身职责、时间期限和</tspan><tspan x="469" dy="36">质量标准，有效提高工作效率</tspan><tspan x="469" dy="36">和项目质量。</tspan></text>
+</g>
+<g id="feature-routine" data-pptx-bounds="850 128 374 476">
+<rect x="850" y="128" width="374" height="476" rx="6" fill="#EEF4FB"/>
+<rect x="850" y="128" width="374" height="6" fill="#E07A1F"/>
+<circle cx="902" cy="186" r="30" fill="#E07A1F"/>
+<use data-icon="tabler-filled/eye" x="886" y="170" width="32" height="32" fill="#FFFFFF"/>
+<text x="946" y="196" font-size="28" font-weight="bold" fill="#C45F14">监督检查常态化</text>
+<text x="866" y="264" font-size="24" fill="#1F2328"><tspan x="866" dy="0">按照“双随机、一公开”规定了</tspan><tspan x="866" dy="36">监督检查要求，建立了报告、</tspan><tspan x="866" dy="36">通报、激励、惩戒、责任追究</tspan><tspan x="866" dy="36">等制度，加强了项目事前、事</tspan><tspan x="866" dy="36">中、事后全过程监督管理，有</tspan><tspan x="866" dy="36">利于及时发现项目问题，及时</tspan><tspan x="866" dy="36">整改，确保项目顺利完成。</tspan></text>
+</g>
+</svg>

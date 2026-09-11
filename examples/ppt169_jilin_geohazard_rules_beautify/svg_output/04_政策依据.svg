@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="content">
+<defs>
+<filter id="softShadow" x="-15%" y="-20%" width="130%" height="150%">
+<feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.08"/>
+</filter>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="header" data-pptx-bounds="48 20 1184 84">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">二、政策依据</text>
+<line x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5"/>
+<g id="p04-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z"/>
+</g>
+<g id="p04-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z"/>
+</g>
+<g id="p04-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z"/>
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+</g>
+<g id="basis-list" data-pptx-bounds="56 118 752 560" font-size="22" fill="#1F2328">
+<rect x="56" y="158" width="740" height="32" fill="#EEF4FB"/>
+<rect x="56" y="260" width="740" height="62" fill="#EEF4FB"/>
+<rect x="56" y="392" width="740" height="32" fill="#EEF4FB"/>
+<rect x="56" y="464" width="740" height="32" fill="#EEF4FB"/>
+<rect x="56" y="566" width="740" height="32" fill="#EEF4FB"/>
+<rect x="56" y="124" width="4" height="540" fill="#0070C0"/>
+<text x="76" y="146"><tspan fill="#0070C0" font-weight="bold">1.</tspan>《地质灾害防治条例》（国务院令第394号）</text>
+<text x="76" y="182"><tspan fill="#0070C0" font-weight="bold">2.</tspan>《政府投资条例》（国务院令第712号）</text>
+<text x="76" y="218"><tspan x="76" dy="0"><tspan fill="#0070C0" font-weight="bold">3.</tspan>《国务院关于加强地质灾害防治工作的决定》</tspan><tspan x="76" dy="30">（国发〔2011〕20号）</tspan></text>
+<text x="76" y="284"><tspan x="76" dy="0"><tspan fill="#0070C0" font-weight="bold">4.</tspan>《国务院办公厅关于印发自然资源领域中央与地方财政事权和支出</tspan><tspan x="76" dy="30">责任划分改革方案的通知》（国办发〔2020〕19号）</tspan></text>
+<text x="76" y="350"><tspan x="76" dy="0"><tspan fill="#0070C0" font-weight="bold">5.</tspan>《吉林省人民政府办公厅关于印发吉林省自然资源领域财政事权和</tspan><tspan x="76" dy="30">支出责任划分改革方案的通知》（吉政办发〔2020〕36号）</tspan></text>
+<text x="76" y="416"><tspan fill="#0070C0" font-weight="bold">6.</tspan>《地质灾害防治单位资质管理办法》（自然资源部令第8号）</text>
+<text x="76" y="452"><tspan fill="#0070C0" font-weight="bold">7.</tspan>《吉林省地质灾害防治条例》（2015年修正）</text>
+<text x="76" y="488"><tspan fill="#0070C0" font-weight="bold">8.</tspan>《中华人民共和国招标投标法》（2017年修正）</text>
+<text x="76" y="524"><tspan x="76" dy="0"><tspan fill="#0070C0" font-weight="bold">9.</tspan>《必须招标的工程项目规定》</tspan><tspan x="76" dy="30">（中华人民共和国国家发展和改革委员会令第16号）</tspan></text>
+<text x="76" y="590"><tspan fill="#0070C0" font-weight="bold">10.</tspan>《政府采购法》（2014年修正）</text>
+<text x="76" y="626"><tspan x="76" dy="0"><tspan fill="#0070C0" font-weight="bold">11.</tspan>《吉林省矿产资源和生态修复治理专项资金管理办法》</tspan><tspan x="76" dy="30">（吉财资环〔2020〕337号）</tspan></text>
+</g>
+<g id="evidence-gov" data-pptx-bounds="822 132 410 160">
+<rect x="828" y="140" width="396" height="144" rx="6" fill="#FFFFFF" stroke="#C9D6E5" stroke-width="1.5" filter="url(#softShadow)"/>
+<image href="../images/3.png" x="836" y="148" width="380" height="128" preserveAspectRatio="xMidYMin slice"/>
+</g>
+<g id="evidence-mnr" data-pptx-bounds="822 296 410 169">
+<rect x="828" y="304" width="396" height="153" rx="6" fill="#FFFFFF" stroke="#C9D6E5" stroke-width="1.5" filter="url(#softShadow)"/>
+<image href="../images/4.png" x="836" y="312" width="380" height="137" preserveAspectRatio="xMidYMid meet"/>
+</g>
+<g id="evidence-flk" data-pptx-bounds="822 469 410 154">
+<rect x="828" y="477" width="396" height="138" rx="6" fill="#FFFFFF" stroke="#C9D6E5" stroke-width="1.5" filter="url(#softShadow)"/>
+<image href="../images/5.png" x="836" y="485" width="380" height="122" preserveAspectRatio="xMidYMid meet"/>
+</g>
+</svg>

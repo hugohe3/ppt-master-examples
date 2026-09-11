@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26" /></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="header" data-pptx-bounds="48 30 245 54">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">四、规范内容</text>
+</g>
+<g id="chapter-tag" data-pptx-bounds="301 39 344 42">
+<rect x="305" y="43" width="336" height="34" rx="17" fill="#0070C0" />
+<text x="473" y="67" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">第四章 项目验收（第二十一条）</text>
+</g>
+<line id="header-rule" data-pptx-role="decoration" x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5" />
+<g id="header-logo" data-pptx-bounds="1042 22 186 82">
+<g id="p16-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z" />
+</g>
+<g id="p16-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z" />
+</g>
+<g id="p16-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z" />
+</g>
+<image href="data:image/jpeg;base64,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" x="1172" y="26" width="52" height="52" clip-path="url(#logoClip)" />
+</g>
+<g id="checklist-title" data-pptx-bounds="56 108 1168 64">
+<g id="p16-article-band" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 112 1168 56" data-pptx-av-adj="val 40000" fill="#0070C0" stroke="none">
+<path d="M 56 112 L 1201.6 112 L 1224 134.4 L 1224 168 L 56 168 Z" />
+</g>
+
+  <g transform="translate(76, 124) scale(1.33333)" fill="#FFFFFF">
+    <path d="M8.207 3.793a1 1 0 0 1 0 1.414l-2.5 2.5a1 1 0 0 1 -1.414 0l-1.5 -1.5a1 1 0 0 1 1.414 -1.414l.793 .793l1.793 -1.793a1 1 0 0 1 1.414 0" />
+    <path d="M8.207 9.793a1 1 0 0 1 0 1.414l-2.5 2.5a1 1 0 0 1 -1.414 0l-1.5 -1.5a1 1 0 0 1 1.414 -1.414l.793 .793l1.793 -1.793a1 1 0 0 1 1.414 0" />
+    <path d="M8.207 15.793a1 1 0 0 1 0 1.414l-2.5 2.5a1 1 0 0 1 -1.414 0l-1.5 -1.5a1 1 0 0 1 1.414 -1.414l.793 .793l1.793 -1.793a1 1 0 0 1 1.414 0" />
+    <path d="M21 6a1 1 0 0 1 -1 1h-9a1 1 0 0 1 0 -2h9a1 1 0 0 1 1 1" />
+    <path d="M21 12a1 1 0 0 1 -1 1h-9a1 1 0 0 1 0 -2h9a1 1 0 0 1 1 1" />
+    <path d="M21 18a1 1 0 0 1 -1 1h-9a1 1 0 0 1 0 -2h9a1 1 0 0 1 1 1" />
+  </g>
+<text x="120" y="149" font-size="24" font-weight="bold" fill="#FFFFFF">项目验收参建单位提交资料清单</text>
+</g>
+<g id="checklist-left" data-pptx-bounds="56 196 572 370" font-size="24" fill="#1F2328">
+
+  <g transform="translate(56, 206) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="96" y="228"><tspan fill="#0070C0" font-weight="bold">1.</tspan>项目立项批准文件及任务书；</text>
+<line x1="56" y1="252" x2="628" y2="252" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(56, 262) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="96" y="284"><tspan fill="#0070C0" font-weight="bold">2.</tspan>经审查批准的项目设计书；</text>
+<line x1="56" y1="308" x2="628" y2="308" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(56, 318) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="96" y="340"><tspan><tspan fill="#0070C0" font-weight="bold">3.</tspan>确定项目参建单位的文件、</tspan></text><text x="96" y="374">中标通知书及合同；</text><line x1="56" y1="398" x2="628" y2="398" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(56, 408) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="96" y="430"><tspan fill="#0070C0" font-weight="bold">4.</tspan>参建单位相应资质复印件；</text>
+<line x1="56" y1="454" x2="628" y2="454" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(56, 464) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="96" y="486"><tspan><tspan fill="#0070C0" font-weight="bold">5.</tspan>开工报告、施工日志、监理日志、实验检测</tspan></text><text x="96" y="520">报告、关键工序检查记录、</text><text x="96" y="554">重点工程的原始施工记录、工程竣工图；</text>
+</g>
+<g id="checklist-right" data-pptx-bounds="652 196 572 392" font-size="24" fill="#1F2328">
+
+  <g transform="translate(652, 206) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="692" y="228"><tspan fill="#0070C0" font-weight="bold">6.</tspan>工程施工质量评定报告及验收评定表；</text>
+<line x1="652" y1="252" x2="1224" y2="252" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(652, 262) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="692" y="284"><tspan fill="#0070C0" font-weight="bold">7.</tspan>重点质量事故处理资料；</text>
+<line x1="652" y1="308" x2="1224" y2="308" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(652, 318) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="692" y="340"><tspan><tspan fill="#0070C0" font-weight="bold">8.</tspan>工程进度款支付和费用调整依据，</tspan></text><text x="692" y="374">工程结算总结材料；</text><line x1="652" y1="398" x2="1224" y2="398" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(652, 408) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="692" y="430"><tspan><tspan fill="#0070C0" font-weight="bold">9.</tspan>竣工报告、施工总结报告、监理总结报告、</tspan></text><text x="692" y="464">第三方工程复核报告；</text><line x1="652" y1="488" x2="1224" y2="488" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(652, 498) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="692" y="520"><tspan fill="#0070C0" font-weight="bold">10.</tspan>与工程有关的影像、图片等多媒体资料；</text>
+<line x1="652" y1="544" x2="1224" y2="544" stroke="#C9D6E5" stroke-width="1" />
+
+  <g transform="translate(652, 554) scale(1.08333)" fill="#0070C0">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-1.293 5.953a1 1 0 0 0 -1.32 -.083l-.094 .083l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.403 1.403l.083 .094l2 2l.094 .083a1 1 0 0 0 1.226 0l.094 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text x="692" y="576"><tspan fill="#0070C0" font-weight="bold">11.</tspan>其他必要的有关材料。</text>
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="cover">
+<defs>
+<linearGradient id="bandField" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0070C0"/><stop offset="100%" stop-color="#0B4F8F"/>
+</linearGradient>
+<clipPath id="logoClip"><circle cx="92" cy="80" r="36"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="org-header" data-pptx-bounds="48 36 620 84">
+<image href="../images/1.jpeg" x="56" y="44" width="72" height="72" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+<text x="144" y="74" font-size="28" font-weight="bold" fill="#0B2A5B">吉林省自然资源厅</text>
+<text x="144" y="104" font-size="18" fill="#5A6472">Department of Natural Resources of Jilin Province</text>
+</g>
+<g id="cover-title" data-pptx-bounds="0 190 1280 290">
+<rect x="0" y="190" width="1280" height="290" fill="url(#bandField)"/>
+<g id="p01-peak-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="860 360 250 120" fill="#FFFFFF" stroke="none" fill-opacity="0.08">
+<path d="M 860 480 L 985 360 L 1110 480 Z"/>
+</g>
+<g id="p01-peak-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1000 250 280 230" fill="#FFFFFF" stroke="none" fill-opacity="0.12">
+<path d="M 1000 480 L 1140 250 L 1280 480 Z"/>
+</g>
+<g id="p01-peak-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1150 350 130 130" fill="#FFFFFF" stroke="none" fill-opacity="0.08">
+<path d="M 1150 480 L 1215 350 L 1280 480 Z"/>
+</g>
+<text x="96" y="318" font-size="56" font-weight="bold" fill="#FFFFFF">吉林省地质灾害治理工程项目管理办法</text>
+<rect x="96" y="352" width="72" height="6" fill="#FFC000"/>
+<text x="96" y="418" font-size="36" font-weight="bold" fill="#FFFFFF">政策解读</text>
+</g>
+<g id="cover-signature" data-pptx-bounds="88 522 500 96">
+<rect x="96" y="534" width="4" height="72" fill="#0070C0"/>
+<text x="116" y="562" font-size="28" font-weight="bold" fill="#0B2A5B">吉林省自然资源厅</text>
+<text x="116" y="598" font-size="24" fill="#5A6472">2024年3月</text>
+</g>
+</svg>

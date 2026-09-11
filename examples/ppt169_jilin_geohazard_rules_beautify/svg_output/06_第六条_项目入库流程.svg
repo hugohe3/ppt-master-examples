@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="header" data-pptx-bounds="48 30 245 54">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">四、规范内容</text>
+</g>
+<g id="chapter-tag" data-pptx-bounds="301 39 195 42">
+<rect x="305" y="43" width="187" height="34" rx="17" fill="#0070C0"/>
+<text x="398.5" y="67" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">第三章 项目实施</text>
+</g>
+<line id="header-rule" data-pptx-role="decoration" x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5"/>
+<g id="header-logo" data-pptx-bounds="1042 22 186 82">
+<g id="p06-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z"/>
+</g>
+<g id="p06-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z"/>
+</g>
+<g id="p06-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z"/>
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+</g>
+<g id="article-6" data-pptx-bounds="56 108 1168 86">
+<g id="p06-article-band" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 112 1168 80" data-pptx-av-adj="val 30000" fill="#0070C0" stroke="none">
+<path d="M 56 112 L 1200 112 L 1224 136 L 1224 192 L 56 192 Z"/>
+</g>
+<text x="80" y="144" font-size="24" font-weight="bold" fill="#FFFFFF"><tspan x="80" dy="0">第六条 省自然资源厅负责组织建立省级<tspan fill="#FFC000">地质灾害治理工程项目库</tspan>（以下简称项目库），</tspan><tspan x="80" dy="34">除灾情险情特别严重的突发情形外，未入库项目不予立项。具体入库流程如下：</tspan></text>
+</g>
+<line id="entry-steps-rail" data-pptx-role="decoration" x1="92" y1="238" x2="92" y2="558" stroke="#5B9BD5" stroke-width="2" stroke-dasharray="8,4"/>
+<g id="step-1-preliminary" data-pptx-bounds="56 196 1168 162">
+<g id="p06-step-1-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="56 198 84 40" fill="#0070C0" stroke="none">
+<path d="M 56 198 L 120 198 L 140 218 L 120 238 L 56 238 Z"/>
+</g>
+<text x="90" y="229" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">01</text>
+<text x="164" y="226" font-size="22" fill="#1F2328"><tspan x="164" dy="0"><tspan fill="#D7141A" font-weight="bold">初选申报</tspan>：由市、县级自然资源主管部门主要根据本级地质灾害防治规划及突发灾情险情，</tspan><tspan x="164" dy="30">在<tspan fill="#D7141A" font-weight="bold">重点区域</tspan>内确定<tspan fill="#0070C0" font-weight="bold">初选项目</tspan>，组织编制项目<tspan fill="#0070C0" font-weight="bold">可行性研究报告</tspan>，会同<tspan fill="#0070C0" font-weight="bold">同级财政部门制定资金筹措方案</tspan>经同</tspan><tspan x="164" dy="30">级人民政府批准后，<tspan fill="#0070C0" font-weight="bold">填报项目绩效目标表</tspan>，报上一级自然资源<tspan fill="#0070C0" font-weight="bold">主管部门核查</tspan>。</tspan><tspan x="164" dy="30"><tspan fill="#D7141A" font-weight="bold">※</tspan>对于<tspan fill="#D7141A" font-weight="bold">跨行政区</tspan>的地质灾害治理工程项目，由共同的上一级自然资源主管部门，</tspan><tspan x="164" dy="30">明确其中一个市、县级自然资源主管部门组织申报。</tspan></text>
+</g>
+<g id="step-2-onsite" data-pptx-bounds="56 358 1168 128">
+<g id="p06-step-2-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="56 358 84 40" fill="#0070C0" stroke="none">
+<path d="M 56 358 L 120 358 L 140 378 L 120 398 L 56 398 Z"/>
+</g>
+<text x="90" y="389" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">02</text>
+<text x="164" y="386" font-size="22" fill="#1F2328"><tspan x="164" dy="0"><tspan fill="#D7141A" font-weight="bold">现场核查。</tspan>对市、县级自然资源主管部门确定的初选项目，<tspan fill="#D7141A" font-weight="bold">上一级</tspan>自然资源主管部门要组织专家现场核</tspan><tspan x="164" dy="30">查，<tspan fill="#0070C0" font-weight="bold">形成核查意见</tspan>后，由市（州）级自然资源主管部门向省自然资源厅和省财政厅统一申报。</tspan><tspan x="164" dy="30">对拟申请中央财政资金支持的，按照<tspan fill="#0070C0" font-weight="bold">《中央财政自然资源领域转移支付资金项目储备库入库指南》</tspan>相关</tspan><tspan x="164" dy="30">要求申报。</tspan></text>
+</g>
+<g id="step-3-review" data-pptx-bounds="56 486 1168 70">
+<g id="p06-step-3-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="56 488 84 40" fill="#0070C0" stroke="none">
+<path d="M 56 488 L 120 488 L 140 508 L 120 528 L 56 528 Z"/>
+</g>
+<text x="90" y="519" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">03</text>
+<text x="164" y="516" font-size="22" fill="#1F2328"><tspan x="164" dy="0"><tspan fill="#D7141A" font-weight="bold">评估审核。</tspan>市（州）级自然资源主管部门申报的治理工程项目，省自然资源厅会同省财政厅<tspan fill="#0070C0" font-weight="bold">每年至少组</tspan></tspan><tspan x="164" dy="30"><tspan fill="#0070C0" font-weight="bold">织专家评审一次</tspan>，通过评审，具备入库条件的，经排序入项目库。</tspan></text>
+</g>
+<g id="step-4-adjust" data-pptx-bounds="56 556 1168 134">
+<g id="p06-step-4-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="56 558 84 40" fill="#0070C0" stroke="none">
+<path d="M 56 558 L 120 558 L 140 578 L 120 598 L 56 598 Z"/>
+</g>
+<text x="90" y="589" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">04</text>
+<text x="164" y="586" font-size="22" fill="#1F2328"><tspan x="164" dy="0"><tspan fill="#D7141A" font-weight="bold">动态调整。</tspan>项目库实行动态调整机制，对已纳入项目库的项目，根据年度资金预算情况择优安排。</tspan><tspan x="164" dy="30">因治理责任主体发生改变、属地政府已利用自筹资金治理完成以及其他原因<tspan fill="#0070C0" font-weight="bold">不能立项的</tspan>，</tspan><tspan x="164" dy="30">市（州）级自然资源主管部门应将调整理由以正式文件报省自然资源厅和省财政厅备案，</tspan><tspan x="164" dy="30"><tspan fill="#0070C0" font-weight="bold">项目调整出库</tspan>。</tspan></text>
+</g>
+</svg>

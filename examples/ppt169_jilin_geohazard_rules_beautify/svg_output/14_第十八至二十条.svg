@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="header" data-pptx-bounds="48 30 245 54">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">四、规范内容</text>
+</g>
+<g id="chapter-tag" data-pptx-bounds="301 39 195 42">
+<rect x="305" y="43" width="187" height="34" rx="17" fill="#0070C0"/>
+<text x="398.5" y="67" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">第三章 项目实施</text>
+</g>
+<line id="header-rule" data-pptx-role="decoration" x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5"/>
+<g id="header-logo" data-pptx-bounds="1042 22 186 82">
+<g id="p14-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z"/>
+</g>
+<g id="p14-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z"/>
+</g>
+<g id="p14-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z"/>
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+</g>
+<g id="article-18" data-pptx-bounds="56 124 373 488">
+<g id="p14-tab-18" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="56 128 373 50" fill="#0070C0" stroke="none">
+<path d="M 64.33 128 L 420.67 128 A 8.33 8.33 0 0 1 429 136.33 L 429 178 L 56 178 L 56 136.33 A 8.33 8.33 0 0 1 64.33 128 Z"/>
+</g>
+<text x="242.5" y="163" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFFFFF">第十八条</text>
+<rect x="56" y="178" width="373" height="430" fill="#EEF4FB"/>
+<use data-icon="tabler-filled/file-text" x="76" y="196" width="36" height="36" fill="#0070C0"/>
+<text x="76" y="270" font-size="22" fill="#1F2328"><tspan x="76" dy="0">项目的勘查、设计成果以及施工</tspan><tspan x="76" dy="32">组织方案、监理规划等技术文</tspan><tspan x="76" dy="32">件，应当符合相关法律、法规、</tspan><tspan x="76" dy="32">规章规定，工程建设强制性标</tspan><tspan x="76" dy="32">准、规范规程以及合同约定。</tspan></text>
+<line x1="76" y1="424" x2="409" y2="424" stroke="#C9D6E5" stroke-width="1.5"/>
+<text x="76" y="462" font-size="22" fill="#1F2328"><tspan x="76" dy="0">任何单位和个人<tspan fill="#0070C0" font-weight="bold">不得</tspan>擅自压缩工</tspan><tspan x="76" dy="32">程勘查、设计周期和施工工期；</tspan><tspan x="76" dy="32"><tspan fill="#0070C0" font-weight="bold">不得</tspan>提供虚假的工程资料；</tspan><tspan x="76" dy="32"><tspan fill="#0070C0" font-weight="bold">不得</tspan>代签有关工程资料。</tspan></text>
+</g>
+<g id="article-19" data-pptx-bounds="453 124 373 488">
+<g id="p14-tab-19" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="453 128 373 50" fill="#0070C0" stroke="none">
+<path d="M 461.33 128 L 817.67 128 A 8.33 8.33 0 0 1 826 136.33 L 826 178 L 453 178 L 453 136.33 A 8.33 8.33 0 0 1 461.33 128 Z"/>
+</g>
+<text x="639.5" y="163" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFFFFF">第十九条</text>
+<rect x="453" y="178" width="373" height="430" fill="#EEF4FB"/>
+<use data-icon="tabler-filled/archive" x="473" y="196" width="36" height="36" fill="#0070C0"/>
+<text x="473" y="270" font-size="22" fill="#1F2328"><tspan x="473" dy="0">项目相关单位应当按照档案管理</tspan><tspan x="473" dy="32">有关法律、法规、规章规定，</tspan><tspan x="473" dy="32">及时、真实、完整记录工程建设</tspan><tspan x="473" dy="32">过程中的信息资料，</tspan><tspan x="473" dy="32"><tspan fill="#0070C0" font-weight="bold">建立工程项目档案</tspan>，并及时向</tspan><tspan x="473" dy="32">建设单位移交。</tspan></text>
+</g>
+<g id="article-20" data-pptx-bounds="850 124 374 488">
+<g id="p14-tab-20" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="850 128 374 50" fill="#0070C0" stroke="none">
+<path d="M 858.33 128 L 1215.67 128 A 8.33 8.33 0 0 1 1224 136.33 L 1224 178 L 850 178 L 850 136.33 A 8.33 8.33 0 0 1 858.33 128 Z"/>
+</g>
+<text x="1037" y="163" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFFFFF">第二十条</text>
+<rect x="850" y="178" width="374" height="430" fill="#EEF4FB"/>
+<use data-icon="tabler-filled/calendar" x="870" y="196" width="36" height="36" fill="#0070C0"/>
+<text x="870" y="270" font-size="22" fill="#1F2328"><tspan x="870" dy="0">项目实施期限原则上应</tspan><tspan x="870" dy="32"><tspan fill="#0070C0" font-weight="bold">自预算下达之日起</tspan><tspan fill="#D7141A" font-weight="bold">2年内</tspan></tspan><tspan x="870" dy="32">完成竣工验收及财务决算；</tspan></text>
+<line x1="870" y1="360" x2="1204" y2="360" stroke="#C9D6E5" stroke-width="1.5"/>
+<text x="870" y="398" font-size="22" fill="#1F2328"><tspan x="870" dy="0">因施工条件等不可抗力客观因素</tspan><tspan x="870" dy="32">确需延期的，市、县级自然资源</tspan><tspan x="870" dy="32">主管部门须向省自然资源厅和省</tspan><tspan x="870" dy="32">财政厅<tspan fill="#0070C0" font-weight="bold">书面说明</tspan>情况，经同意后</tspan><tspan x="870" dy="32">可<tspan fill="#D7141A" font-weight="bold">延期1年</tspan>。</tspan></text>
+</g>
+</svg>

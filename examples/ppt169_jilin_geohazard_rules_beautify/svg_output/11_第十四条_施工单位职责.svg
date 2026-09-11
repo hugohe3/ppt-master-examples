@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="header" data-pptx-bounds="48 30 245 54">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">四、规范内容</text>
+</g>
+<g id="chapter-tag" data-pptx-bounds="301 39 195 42">
+<rect x="305" y="43" width="187" height="34" rx="17" fill="#0070C0"/>
+<text x="398.5" y="67" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">第三章 项目实施</text>
+</g>
+<line id="header-rule" data-pptx-role="decoration" x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5"/>
+<g id="header-logo" data-pptx-bounds="1042 22 186 82">
+<g id="p11-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z"/>
+</g>
+<g id="p11-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z"/>
+</g>
+<g id="p11-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z"/>
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+</g>
+<g id="article-14" data-pptx-bounds="56 108 1168 64">
+<g id="p11-article-band" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 112 1168 56" data-pptx-av-adj="val 40000" fill="#0070C0" stroke="none">
+<path d="M 56 112 L 1201.6 112 L 1224 134.4 L 1224 168 L 56 168 Z"/>
+</g>
+<text x="80" y="149" font-size="24" font-weight="bold" fill="#FFFFFF">第十四条：<tspan fill="#FFC000">施工</tspan>单位在项目实施过程中职责</text>
+</g>
+<g id="build-duty-1" data-pptx-bounds="56 186 572 108">
+<rect x="56" y="186" width="572" height="108" rx="6" fill="#EEF4FB"/>
+<circle cx="94" cy="222" r="22" fill="#0070C0"/>
+<text x="94" y="232" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">01</text>
+<text x="130" y="228" font-size="22" fill="#1F2328"><tspan x="130" dy="0">配备<tspan fill="#0070C0" font-weight="bold">项目负责人</tspan>和相关专业技术人员，调整</tspan><tspan x="130" dy="32">主要管理人员时，应书面征得建设单位同意。</tspan></text>
+</g>
+<g id="build-duty-2" data-pptx-bounds="56 310 572 140">
+<rect x="56" y="310" width="572" height="140" rx="6" fill="#EEF4FB"/>
+<circle cx="94" cy="346" r="22" fill="#0070C0"/>
+<text x="94" y="356" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">02</text>
+<text x="130" y="352" font-size="22" fill="#1F2328"><tspan x="130" dy="0">编制<tspan fill="#0070C0" font-weight="bold">施工组织方案</tspan>，明确安全生产的具体措施，</tspan><tspan x="130" dy="32">保障工程施工安全生产条件。</tspan></text>
+</g>
+<g id="build-duty-3" data-pptx-bounds="56 466 572 172">
+<rect x="56" y="466" width="572" height="172" rx="6" fill="#EEF4FB"/>
+<circle cx="94" cy="502" r="22" fill="#0070C0"/>
+<text x="94" y="512" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">03</text>
+<text x="130" y="508" font-size="22" fill="#1F2328"><tspan x="130" dy="0"><tspan fill="#0070C0" font-weight="bold">质量和安全生产隐患排查治理</tspan>、风险管控、</tspan><tspan x="130" dy="32">质量检验制度，及时处置工程质量问题和安全</tspan><tspan x="130" dy="32">生产隐患，负责对存在质量问题的工程进行</tspan><tspan x="130" dy="32">整改维护。</tspan></text>
+</g>
+<g id="build-duty-4" data-pptx-bounds="652 186 572 108">
+<rect x="652" y="186" width="572" height="108" rx="6" fill="#EEF4FB"/>
+<circle cx="690" cy="222" r="22" fill="#0070C0"/>
+<text x="690" y="232" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">04</text>
+<text x="726" y="228" font-size="22" fill="#1F2328"><tspan x="726" dy="0">施工中发现实际与勘查成果<tspan fill="#D7141A" font-weight="bold">出入较大</tspan>时，</tspan><tspan x="726" dy="32">应及时通知<tspan fill="#0070C0" font-weight="bold">建设单位和监理单位</tspan>。</tspan></text>
+</g>
+<g id="build-duty-5" data-pptx-bounds="652 310 572 140">
+<rect x="652" y="310" width="572" height="140" rx="6" fill="#EEF4FB"/>
+<circle cx="690" cy="346" r="22" fill="#0070C0"/>
+<text x="690" y="356" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">05</text>
+<text x="726" y="352" font-size="22" fill="#1F2328"><tspan x="726" dy="0">开展<tspan fill="#0070C0" font-weight="bold">施工安全专项风险评估</tspan>，对危险性较大的</tspan><tspan x="726" dy="32">土方开挖、模板及支撑体系、人工挖孔桩等</tspan><tspan x="726" dy="32">分部分项工程，应当编制安全<tspan fill="#D7141A" font-weight="bold">专项施工方案</tspan>。</tspan></text>
+</g>
+<g id="build-duty-6" data-pptx-bounds="652 466 572 172">
+<rect x="652" y="466" width="572" height="172" rx="6" fill="#EEF4FB"/>
+<circle cx="690" cy="502" r="22" fill="#0070C0"/>
+<text x="690" y="512" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">06</text>
+<text x="726" y="508" font-size="22" fill="#1F2328"><tspan x="726" dy="0">采取必要的<tspan fill="#0070C0" font-weight="bold">安全措施</tspan>防范安全生产事故，</tspan><tspan x="726" dy="32">施工现场的办公、生活区不得设置在</tspan><tspan x="726" dy="32">地质灾害危险区内。</tspan></text>
+<use data-icon="tabler-filled/alert-triangle" x="1172" y="598" width="32" height="32" fill="#5B9BD5"/>
+</g>
+</svg>

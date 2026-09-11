@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26" /></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="header" data-pptx-bounds="48 30 245 54">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">四、规范内容</text>
+</g>
+<g id="chapter-tag" data-pptx-bounds="301 39 195 42">
+<rect x="305" y="43" width="187" height="34" rx="17" fill="#0070C0" />
+<text x="398.5" y="67" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">第三章 项目实施</text>
+</g>
+<line id="header-rule" data-pptx-role="decoration" x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5" />
+<g id="header-logo" data-pptx-bounds="1042 22 186 82">
+<g id="p09-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z" />
+</g>
+<g id="p09-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z" />
+</g>
+<g id="p09-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z" />
+</g>
+<image href="data:image/jpeg;base64,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" x="1172" y="26" width="52" height="52" clip-path="url(#logoClip)" />
+</g>
+<g id="article-10" data-pptx-bounds="56 108 1168 64">
+<g id="p09-article-band" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 112 1168 56" data-pptx-av-adj="val 40000" fill="#0070C0" stroke="none">
+<path d="M 56 112 L 1201.6 112 L 1224 134.4 L 1224 168 L 56 168 Z" />
+</g>
+<text x="80" y="149" font-size="24" font-weight="bold" fill="#FFFFFF">第十条：<tspan fill="#FFC000">设计</tspan>单位在项目实施过程中职责</text>
+</g>
+<g id="design-duty-1" data-pptx-bounds="56 186 1168 140">
+<rect x="56" y="186" width="1168" height="140" rx="6" fill="#EEF4FB" />
+<circle cx="96" cy="224" r="24" fill="#0070C0" />
+<text x="96" y="234" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">01</text>
+<text font-size="22" fill="#1F2328" x="140" y="230"><tspan>按照勘查成果和有关规范规程开展设计工作，<tspan fill="#D7141A" font-weight="bold">明确工程的设计使用年限</tspan>。</tspan></text><text font-size="22" fill="#1F2328" x="140" y="264"><tspan>建设单位对建设工程的设计使用年限有<tspan fill="#0070C0" font-weight="bold">特殊要求</tspan>的，须由建设单位与设计单位签订合同时予以明确，</tspan></text><text font-size="22" fill="#1F2328" x="140" y="298"><tspan>并由设计单位<tspan fill="#0070C0" font-weight="bold">在设计文件中注明</tspan>。</tspan></text></g>
+<g id="design-duty-2" data-pptx-bounds="56 346 572 120">
+<rect x="56" y="346" width="572" height="120" rx="6" fill="#EEF4FB" />
+<circle cx="96" cy="384" r="24" fill="#0070C0" />
+<text x="96" y="394" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">02</text>
+<text font-size="22" fill="#1F2328" x="136" y="390">对工程施工可能存在的安全风险进行分析，</text><text font-size="22" fill="#1F2328" x="136" y="424"><tspan>并提出相应<tspan fill="#D7141A" font-weight="bold">风险防控措施</tspan>。</tspan></text><g transform="translate(580, 414) scale(1.33333)" fill="#5B9BD5">
+    <path d="M12 1.67c.955 0 1.845 .467 2.39 1.247l.105 .16l8.114 13.548a2.914 2.914 0 0 1 -2.307 4.363l-.195 .008h-16.225a2.914 2.914 0 0 1 -2.582 -4.2l.099 -.185l8.11 -13.538a2.914 2.914 0 0 1 2.491 -1.403zm.01 13.33l-.127 .007a1 1 0 0 0 0 1.986l.117 .007l.127 -.007a1 1 0 0 0 0 -1.986l-.117 -.007zm-.01 -7a1 1 0 0 0 -.993 .883l-.007 .117v4l.007 .117a1 1 0 0 0 1.986 0l.007 -.117v-4l-.007 -.117a1 1 0 0 0 -.993 -.883z" />
+  </g>
+</g>
+<g id="design-duty-3" data-pptx-bounds="652 346 572 120">
+<rect x="652" y="346" width="572" height="120" rx="6" fill="#EEF4FB" />
+<circle cx="692" cy="384" r="24" fill="#0070C0" />
+<text x="692" y="394" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">03</text>
+<text font-size="22" fill="#1F2328" x="732" y="390">施工期间进行设计变更时，</text><text font-size="22" fill="#1F2328" x="732" y="424"><tspan>按有关要求编制设计<tspan fill="#D7141A" font-weight="bold">变更报告</tspan></tspan></text><g transform="translate(1176, 414) scale(1.33333)" fill="#5B9BD5">
+    <path d="M12 2l.117 .007a1 1 0 0 1 .876 .876l.007 .117v4l.005 .15a2 2 0 0 0 1.838 1.844l.157 .006h4l.117 .007a1 1 0 0 1 .876 .876l.007 .117v9a3 3 0 0 1 -2.824 2.995l-.176 .005h-10a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-14a3 3 0 0 1 2.824 -2.995l.176 -.005zm3 14h-6a1 1 0 0 0 0 2h6a1 1 0 0 0 0 -2m0 -4h-6a1 1 0 0 0 0 2h6a1 1 0 0 0 0 -2m-5 -4h-1a1 1 0 1 0 0 2h1a1 1 0 0 0 0 -2" />
+    <path d="M19 7h-4l-.001 -4.001z" />
+  </g>
+</g>
+<g id="design-duty-4" data-pptx-bounds="56 486 572 154">
+<rect x="56" y="486" width="572" height="154" rx="6" fill="#EEF4FB" />
+<circle cx="96" cy="524" r="24" fill="#0070C0" />
+<text x="96" y="534" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">04</text>
+<text font-size="22" fill="#1F2328" x="136" y="530">负责项目实施期间设计服务，参加技术交底、</text><text font-size="22" fill="#1F2328" x="136" y="564">现场验槽、单元工程阶段性验收，质量事故</text><text font-size="22" fill="#1F2328" x="136" y="598">分析以及工程初步验收与竣工验收等工作</text></g>
+<g id="design-duty-5" data-pptx-bounds="652 486 572 154">
+<rect x="652" y="486" width="572" height="154" rx="6" fill="#EEF4FB" />
+<circle cx="692" cy="524" r="24" fill="#0070C0" />
+<text x="692" y="534" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="30" font-weight="bold" fill="#FFFFFF">05</text>
+<text font-size="22" fill="#1F2328" x="732" y="530"><tspan>在设计中采用<tspan fill="#0070C0" font-weight="bold">新技术、新工艺、新材料、</tspan></tspan></text><text font-size="22" fill="#1F2328" x="732" y="564"><tspan><tspan fill="#0070C0" font-weight="bold">新设备</tspan>的，应当说明其技术性能和使用注意</tspan></text><text font-size="22" fill="#1F2328" x="732" y="598">事项，并提出质量保障措施。</text></g>
+</svg>

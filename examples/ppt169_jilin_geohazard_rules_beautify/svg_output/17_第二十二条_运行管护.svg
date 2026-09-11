@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="header" data-pptx-bounds="48 30 245 54">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">四、规范内容</text>
+</g>
+<g id="chapter-tag" data-pptx-bounds="301 39 386 42">
+<rect x="305" y="43" width="378" height="34" rx="17" fill="#0070C0"/>
+<text x="494" y="67" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">第五章 工程运行管护（第二十二条）</text>
+</g>
+<line id="header-rule" data-pptx-role="decoration" x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5"/>
+<g id="header-logo" data-pptx-bounds="1042 22 186 82">
+<g id="p17-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z"/>
+</g>
+<g id="p17-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z"/>
+</g>
+<g id="p17-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z"/>
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+</g>
+<g id="warranty" data-pptx-bounds="56 112 1168 124">
+<rect x="56" y="112" width="1168" height="124" rx="6" fill="#EEF4FB"/>
+<rect x="56" y="112" width="6" height="124" fill="#0070C0"/>
+<text x="88" y="150" font-size="22" fill="#1F2328"><tspan x="88" dy="0">施工单位在向建设单位提交工程竣工验收报告时，应当出具<tspan fill="#0070C0" font-weight="bold">工程质量保修书</tspan>。质量保修书中应当明确地质灾</tspan><tspan x="88" dy="32">害治理工程的<tspan fill="#D7141A" font-weight="bold">保修范围</tspan>、<tspan fill="#D7141A" font-weight="bold">保修期限</tspan>和<tspan fill="#D7141A" font-weight="bold">保修责任</tspan>等，保修期限以施工合同约定为准，</tspan><tspan x="88" dy="32">自竣工验收通过之日起计算。国家对保修期限有明确规定的，施工合同约定的保修期限不得低于国家规定。</tspan></text>
+</g>
+<g id="maintenance-duty" data-pptx-bounds="56 252 1168 108">
+<rect x="56" y="252" width="264" height="108" rx="6" fill="#EEF4FB"/>
+<use data-icon="tabler-filled/writing-sign" x="72" y="266" width="32" height="32" fill="#0070C0"/>
+<text x="114" y="290" font-size="24" font-weight="bold" fill="#0B2A5B">明确管护责任</text>
+<text x="340" y="288" font-size="22" fill="#1F2328"><tspan x="340" dy="0">市、县级自然资源主管部门应在项目竣工验收合格并投入运行的<tspan fill="#D7141A" font-weight="bold">15个工作日内</tspan>，</tspan><tspan x="340" dy="32">与指定的管护单位进行交接，签订《<tspan fill="#0070C0" font-weight="bold">工程移交接管协议书</tspan>》，明确管护单位管理维护</tspan><tspan x="340" dy="32">制度，做好项目后续管理和维护。</tspan></text>
+</g>
+<g id="maintenance-strengthen" data-pptx-bounds="56 376 1168 190">
+<line x1="340" y1="376" x2="1224" y2="376" stroke="#C9D6E5" stroke-width="1"/>
+<rect x="56" y="388" width="264" height="176" rx="6" fill="#EEF4FB"/>
+<use data-icon="tabler-filled/map-pin" x="72" y="402" width="32" height="32" fill="#0070C0"/>
+<text x="114" y="426" font-size="24" font-weight="bold" fill="#0B2A5B">加强后续管护</text>
+<text x="340" y="424" font-size="22" fill="#1F2328"><tspan x="340" dy="0">市、县级自然资源主管部门应在项目治理区内<tspan fill="#0070C0" font-weight="bold">设置标牌</tspan>，载明项目勘查、设计、施</tspan><tspan x="340" dy="32">工、监理、管护等<tspan fill="#0070C0" font-weight="bold">单位相关信息</tspan>，加强项目运行管护监督，督促管护单位履行好工程</tspan><tspan x="340" dy="32">运行管护责任。在<tspan fill="#E07A1F" font-weight="bold">保修期限内</tspan>发生质量问题的项目，由项目<tspan fill="#E07A1F" font-weight="bold">施工单位</tspan>进行维修，</tspan><tspan x="340" dy="32">所需维修费用由相关责任方按照国家和省有关规定承担；<tspan fill="#0070C0" font-weight="bold">超出保修期限</tspan>后，</tspan><tspan x="340" dy="32">项目管护费用由<tspan fill="#0070C0" font-weight="bold">管护单位</tspan>承担。</tspan></text>
+</g>
+<g id="maintenance-writeoff" data-pptx-bounds="56 578 1168 112">
+<line x1="340" y1="580" x2="1224" y2="580" stroke="#C9D6E5" stroke-width="1"/>
+<rect x="56" y="592" width="264" height="96" rx="6" fill="#EEF4FB"/>
+<use data-icon="tabler-filled/circle-check" x="72" y="606" width="32" height="32" fill="#0070C0"/>
+<text x="114" y="630" font-size="24" font-weight="bold" fill="#0B2A5B">履行认定核销程序</text>
+<text x="340" y="628" font-size="22" fill="#1F2328"><tspan x="340" dy="0">经<tspan fill="#0070C0" font-weight="bold">工程治理后的隐患点</tspan>，由市、县级自然资源主管部门根据专家组竣工验收意见，</tspan><tspan x="340" dy="32">向省自然资源厅申请地质灾害隐患点<tspan fill="#D7141A" font-weight="bold">核销或降级</tspan>。</tspan></text>
+</g>
+</svg>

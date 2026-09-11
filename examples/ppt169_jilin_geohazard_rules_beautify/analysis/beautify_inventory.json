@@ -1,0 +1,5588 @@
+{
+  "schema": "beautify_inventory.v1",
+  "source": "/root/ppt-master/projects/jilin_geohazard_rules_beautify_ppt169_20260911/sources/jilin_geohazard_project_rules_policy.pptx",
+  "slide_count": 20,
+  "canvas_px": {
+    "width": 1280,
+    "height": 720
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "page_type": "cover_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s01_sh59",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 192,
+            "width": 1280,
+            "height": 183
+          }
+        },
+        {
+          "slot_id": "s01_sh60",
+          "role": "label_candidate",
+          "text": "吉林省地质灾害治理工程项目管理办法\n政策解读",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 59,
+            "y": 205,
+            "width": 1172,
+            "height": 162
+          }
+        },
+        {
+          "slot_id": "s01_sh61",
+          "role": "body_candidate",
+          "text": "吉林省自然资源厅\n2024年3月",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 0,
+            "y": 485,
+            "width": 1280,
+            "height": 111
+          }
+        },
+        {
+          "slot_id": "s01_sh63",
+          "role": "title_candidate",
+          "text": "吉林省自然资源厅",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 136,
+            "y": 28,
+            "width": 336,
+            "height": 61
+          }
+        },
+        {
+          "slot_id": "s01_sh64",
+          "role": "title_candidate",
+          "text": "Department of Natural Resources of Jilin Province",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 110,
+            "y": 61,
+            "width": 655,
+            "height": 61
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [
+        {
+          "filename": "1.jpeg",
+          "shape_name": "图片",
+          "pixel_width": 550,
+          "pixel_height": 550,
+          "display_ratio": 0.999999,
+          "display_left_emu": 421800,
+          "display_top_emu": 198495,
+          "display_width_emu": 1036056,
+          "display_height_emu": 1036057,
+          "usage_count": 3
+        }
+      ],
+      "ignored": [
+        {
+          "item": "源稿页面转场（legacy spd / 无 p14:dur / advance_on_click=false）",
+          "reason": "非可见内容；pptx_to_svg 报告无法精确重建",
+          "resolution": "导出使用默认 fade 转场，不复刻源转场参数"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 2,
+      "page_type": "chapter_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s02_sh97",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 42,
+            "y": 119,
+            "width": 191,
+            "height": 585
+          }
+        },
+        {
+          "slot_id": "s02_sh98",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 211,
+            "y": 118,
+            "width": 11,
+            "height": 588
+          }
+        },
+        {
+          "slot_id": "s02_sh99",
+          "role": "label_candidate",
+          "text": "目\n录",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 12,
+            "y": 267,
+            "width": 233,
+            "height": 247
+          }
+        },
+        {
+          "slot_id": "s02_sh100",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 83,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s02_sh101",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -2,
+            "y": 71,
+            "width": 76,
+            "height": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh102",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 71,
+            "width": 1116,
+            "height": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh103",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 427,
+            "y": 373,
+            "width": 59,
+            "height": 62
+          }
+        },
+        {
+          "slot_id": "s02_sh104",
+          "role": "label_candidate",
+          "text": "3",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 434,
+            "y": 370,
+            "width": 49,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s02_sh105",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 431,
+            "y": 374,
+            "width": 65,
+            "height": 64
+          }
+        },
+        {
+          "slot_id": "s02_sh106",
+          "role": "label_candidate",
+          "text": "主体框架",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 541,
+            "y": 373,
+            "width": 688,
+            "height": 61
+          }
+        },
+        {
+          "slot_id": "s02_sh107",
+          "role": "label_candidate",
+          "text": "1",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 426,
+            "y": 167,
+            "width": 59,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s02_sh108",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 430,
+            "y": 174,
+            "width": 64,
+            "height": 64
+          }
+        },
+        {
+          "slot_id": "s02_sh109",
+          "role": "label_candidate",
+          "text": "出台背景",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 546,
+            "y": 171,
+            "width": 520,
+            "height": 61
+          }
+        },
+        {
+          "slot_id": "s02_sh110",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 83,
+            "width": 74,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s02_sh111",
+          "role": "title_candidate",
+          "text": "吉林省自然资源厅",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 173,
+            "y": 33,
+            "width": 233,
+            "height": 40
+          }
+        },
+        {
+          "slot_id": "s02_sh112",
+          "role": "title_candidate",
+          "text": "Department of Natural Resources of Jilin Province",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 393,
+            "y": 36,
+            "width": 542,
+            "height": 29
+          }
+        },
+        {
+          "slot_id": "s02_sh114",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 424,
+            "y": 272,
+            "width": 59,
+            "height": 62
+          }
+        },
+        {
+          "slot_id": "s02_sh115",
+          "role": "label_candidate",
+          "text": "2",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 431,
+            "y": 266,
+            "width": 49,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s02_sh116",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 429,
+            "y": 272,
+            "width": 65,
+            "height": 64
+          }
+        },
+        {
+          "slot_id": "s02_sh117",
+          "role": "label_candidate",
+          "text": "政策依据",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 541,
+            "y": 272,
+            "width": 609,
+            "height": 61
+          }
+        },
+        {
+          "slot_id": "s02_sh118",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 427,
+            "y": 474,
+            "width": 59,
+            "height": 62
+          }
+        },
+        {
+          "slot_id": "s02_sh119",
+          "role": "label_candidate",
+          "text": "4",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 434,
+            "y": 471,
+            "width": 49,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s02_sh120",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 431,
+            "y": 475,
+            "width": 65,
+            "height": 64
+          }
+        },
+        {
+          "slot_id": "s02_sh121",
+          "role": "label_candidate",
+          "text": "规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 541,
+            "y": 475,
+            "width": 413,
+            "height": 61
+          }
+        },
+        {
+          "slot_id": "s02_sh123",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 426,
+            "y": 573,
+            "width": 59,
+            "height": 62
+          }
+        },
+        {
+          "slot_id": "s02_sh124",
+          "role": "label_candidate",
+          "text": "5",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 434,
+            "y": 570,
+            "width": 49,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s02_sh125",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 430,
+            "y": 573,
+            "width": 65,
+            "height": 64
+          }
+        },
+        {
+          "slot_id": "s02_sh126",
+          "role": "label_candidate",
+          "text": "主要特点",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 541,
+            "y": 573,
+            "width": 413,
+            "height": 61
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [
+        {
+          "filename": "1.jpeg",
+          "shape_name": "图片",
+          "pixel_width": 550,
+          "pixel_height": 550,
+          "display_ratio": 1.0,
+          "display_left_emu": 747395,
+          "display_top_emu": 340995,
+          "display_width_emu": 763904,
+          "display_height_emu": 763904,
+          "usage_count": 3
+        }
+      ],
+      "ignored": [
+        {
+          "item": "源稿页面转场（legacy spd / 无 p14:dur / advance_on_click=false）",
+          "reason": "非可见内容；pptx_to_svg 报告无法精确重建",
+          "resolution": "导出使用默认 fade 转场，不复刻源转场参数"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 3,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s03_sh129",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s03_sh130",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s03_sh131",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s03_sh132",
+          "role": "label_candidate",
+          "text": "背景介绍",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 34,
+            "y": 313,
+            "width": 113,
+            "height": 128
+          }
+        },
+        {
+          "slot_id": "s03_sh133",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 640,
+            "y": 168,
+            "width": 0,
+            "height": 439
+          }
+        },
+        {
+          "slot_id": "s03_sh134",
+          "role": "body_candidate",
+          "text": "为规范省级以上（含省级）地质灾害治理工程项目管理，2023年7月下旬，省厅印发了《吉林省自然资源厅关于加强吉林省地质灾害工程治理项目管理的通知》（吉自然资办发〔2023〕137号），该通知主要在地质灾害治理工程项目管理流程上提出了具体要求，进一步规范了全省地质灾害治理工程项目管理。\n2023年9月以来，在已下发项目管理通知的基础上，我厅通过电话沟通、调研，并学习借鉴四川、云南、贵州、浙江、辽宁、甘肃等省外项目管理先进经验与做法的基础上，针对我省地质灾害治理工程项目管理中存在的突出问题和薄弱环节，对原项目管理通知进行了修改补充完善，形成了本《办法》。",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 159,
+            "y": 159,
+            "width": 443,
+            "height": 486
+          }
+        },
+        {
+          "slot_id": "s03_sh135",
+          "role": "title_candidate",
+          "text": "一、出台背景",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 592,
+            "height": 57
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [
+        {
+          "filename": "2.png",
+          "shape_name": "图片",
+          "pixel_width": 886,
+          "pixel_height": 763,
+          "display_ratio": 1.161191,
+          "display_left_emu": 6468110,
+          "display_top_emu": 1495108,
+          "display_width_emu": 5274310,
+          "display_height_emu": 4542154,
+          "usage_count": 1
+        }
+      ],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 4,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s04_sh140",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s04_sh141",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh142",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s04_sh143",
+          "role": "title_candidate",
+          "text": "二、政策依据",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 592,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s04_sh144",
+          "role": "body_candidate",
+          "text": "1.《地质灾害防治条例》（国务院令第394号）\n2.《政府投资条例》（国务院令第712号）\n3.《国务院关于加强地质灾害防治工作的决定》（国发〔2011〕20号）\n4.《国务院办公厅关于印发自然资源领域中央与地方财政事权和支出责任划分改革方案的通知》（国办发〔2020〕19号）\n5.《吉林省人民政府办公厅关于印发吉林省自然资源领域财政事权和支出责任划分改革方案的通知》（吉政办发〔2020〕36号）\n6.《地质灾害防治单位资质管理办法》（自然资源部令第8号）\n7.《吉林省地质灾害防治条例》（2015年修正）\n8.《中华人民共和国招标投标法》（2017年修正）\n9.《必须招标的工程项目规定》（中华人民共和国国家发展和改革委员会令第16号）\n10.《政府采购法》（2014年修正）\n11.《吉林省矿产资源和生态修复治理专项资金管理办法》（吉财资环〔2020〕337号）",
+          "paragraph_count": 11,
+          "geometry": {
+            "x": 36,
+            "y": 131,
+            "width": 724,
+            "height": 538
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [
+        {
+          "filename": "3.png",
+          "shape_name": "图片",
+          "pixel_width": 774,
+          "pixel_height": 874,
+          "display_ratio": 3.562885,
+          "display_left_emu": 7151370,
+          "display_top_emu": 1135380,
+          "display_width_emu": 4766944,
+          "display_height_emu": 1337945,
+          "usage_count": 1
+        },
+        {
+          "filename": "4.png",
+          "shape_name": "图片",
+          "pixel_width": 1206,
+          "pixel_height": 435,
+          "display_ratio": 2.771832,
+          "display_left_emu": 7181850,
+          "display_top_emu": 2578099,
+          "display_width_emu": 4736465,
+          "display_height_emu": 1708785,
+          "usage_count": 1
+        },
+        {
+          "filename": "5.png",
+          "shape_name": "图片",
+          "pixel_width": 795,
+          "pixel_height": 255,
+          "display_ratio": 3.117816,
+          "display_left_emu": 7237730,
+          "display_top_emu": 4391660,
+          "display_width_emu": 4822825,
+          "display_height_emu": 1546860,
+          "usage_count": 1
+        }
+      ],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        },
+        {
+          "item": "3.png 源裁切（显示比 3.56，仅露顶部横条）",
+          "reason": "image crop 属 ignored 类",
+          "resolution": "按 adaptive 重新取顶部网站头+条例标题区域（xMidYMin slice）"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 5,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s05_sh151",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s05_sh152",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh153",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s05_sh154",
+          "role": "title_candidate",
+          "text": "三、主体框架",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 592,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s05_sh155",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 267,
+            "y": 201,
+            "width": 67,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s05_sh156",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 281,
+            "y": 215,
+            "width": 39,
+            "height": 39
+          }
+        },
+        {
+          "slot_id": "s05_sh157",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 301,
+            "y": 268,
+            "width": 0,
+            "height": 92
+          }
+        },
+        {
+          "slot_id": "s05_sh158",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 267,
+            "y": 382,
+            "width": 67,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s05_sh159",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 281,
+            "y": 396,
+            "width": 39,
+            "height": 39
+          }
+        },
+        {
+          "slot_id": "s05_sh160",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 301,
+            "y": 449,
+            "width": 0,
+            "height": 92
+          }
+        },
+        {
+          "slot_id": "s05_sh161",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 267,
+            "y": 562,
+            "width": 67,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s05_sh162",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 281,
+            "y": 576,
+            "width": 39,
+            "height": 39
+          }
+        },
+        {
+          "slot_id": "s05_sh164",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 994,
+            "y": 382,
+            "width": 67,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s05_sh165",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1008,
+            "y": 396,
+            "width": 39,
+            "height": 39
+          }
+        },
+        {
+          "slot_id": "s05_sh166",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 948,
+            "y": 369,
+            "width": 0,
+            "height": 92
+          }
+        },
+        {
+          "slot_id": "s05_sh167",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 814,
+            "y": 382,
+            "width": 67,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s05_sh168",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 828,
+            "y": 396,
+            "width": 39,
+            "height": 39
+          }
+        },
+        {
+          "slot_id": "s05_sh169",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 768,
+            "y": 369,
+            "width": 0,
+            "height": 92
+          }
+        },
+        {
+          "slot_id": "s05_sh170",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 633,
+            "y": 382,
+            "width": 67,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s05_sh171",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 647,
+            "y": 396,
+            "width": 39,
+            "height": 39
+          }
+        },
+        {
+          "slot_id": "s05_sh172",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 587,
+            "y": 369,
+            "width": 0,
+            "height": 92
+          }
+        },
+        {
+          "slot_id": "s05_sh173",
+          "role": "label_candidate",
+          "text": "总则\n总体要求",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 44,
+            "y": 469,
+            "width": 144,
+            "height": 110
+          }
+        },
+        {
+          "slot_id": "s05_sh174",
+          "role": "label_candidate",
+          "text": "项目库建设项目入库流程",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 213,
+            "y": 468,
+            "width": 168,
+            "height": 152
+          }
+        },
+        {
+          "slot_id": "s05_sh175",
+          "role": "label_candidate",
+          "text": "项目实施\n勘查、设计、施工、监理单位职责",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 404,
+            "y": 469,
+            "width": 144,
+            "height": 194
+          }
+        },
+        {
+          "slot_id": "s05_sh176",
+          "role": "label_candidate",
+          "text": "项目验收\n明确项目验收分为自验、初步验收和竣工验收",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 585,
+            "y": 469,
+            "width": 144,
+            "height": 236
+          }
+        },
+        {
+          "slot_id": "s05_sh177",
+          "role": "label_candidate",
+          "text": "工程运行管护后期管护责任与要求",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 756,
+            "y": 469,
+            "width": 183,
+            "height": 152
+          }
+        },
+        {
+          "slot_id": "s05_sh178",
+          "role": "label_candidate",
+          "text": "监督检查\n全过程监督管理",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 945,
+            "y": 469,
+            "width": 144,
+            "height": 152
+          }
+        },
+        {
+          "slot_id": "s05_sh179",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1166,
+            "y": 382,
+            "width": 67,
+            "height": 67
+          }
+        },
+        {
+          "slot_id": "s05_sh180",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1181,
+            "y": 396,
+            "width": 39,
+            "height": 39
+          }
+        },
+        {
+          "slot_id": "s05_sh181",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1121,
+            "y": 369,
+            "width": 0,
+            "height": 92
+          }
+        },
+        {
+          "slot_id": "s05_sh182",
+          "role": "label_candidate",
+          "text": "附则\n其它说明",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 1117,
+            "y": 469,
+            "width": 144,
+            "height": 110
+          }
+        },
+        {
+          "slot_id": "s05_sh183",
+          "role": "body_candidate",
+          "text": "《办法》共七章28条，分别为总则、项目库建设、项目实施、项目验收、工程运行管护、监督检查和附则。\n内容要点为：1.严格项目入库流程；2.明确各级任务职责；3.规范项目验收程序；4.细化工程运行管护；5.加强项目监督检查。",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 85,
+            "y": 133,
+            "width": 1143,
+            "height": 197
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": [
+        {
+          "item": "\"主体框架\"七章结构图：含 rot=90° 组合形状的圆形图标与连接线 + 7 个章名/说明文本框",
+          "reason": "非 SmartArt，inventory diagrams 为空；--with-geometry 给出的子形状坐标未叠加组旋转",
+          "resolution": "委托确认：以 7 个 chevron 预设按章序重画（order 关系保留），章名与说明写入同一文本框换行，文字逐字不变"
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s06_sh186",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s06_sh187",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh188",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s06_sh189",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s06_sh190",
+          "role": "title_candidate",
+          "text": "第六条  省自然资源厅负责组织建立省级地质灾害治理工程项目库（以下简称项目库），除灾情险情特别严重的突发情形外，未入库项目不予立项。具体入库流程如下：",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 32,
+            "y": 135,
+            "width": 1159,
+            "height": 136
+          }
+        },
+        {
+          "slot_id": "s06_sh191",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 295,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh192",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 78,
+            "y": 346,
+            "width": 46,
+            "height": 46
+          }
+        },
+        {
+          "slot_id": "s06_sh193",
+          "role": "label_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 81,
+            "y": 362,
+            "width": 41,
+            "height": 26
+          }
+        },
+        {
+          "slot_id": "s06_sh195",
+          "role": "body_candidate",
+          "text": "初选申报：由市、县级自然资源主管部门主要根据本级地质灾害防治规划及突发灾情险情，在重点区域内确定初选项目，组织编制项目可行性研究报告，会同同级财政部门制定资金筹措方案经同级人民政府批准后，填报项目绩效目标表，报上一级自然资源主管部门核查。  ※对于跨行政区的地质灾害治理工程项目，由共同的上一级自然资源主管部门，明确其中一个市、县级自然资源主管部门组织申报。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 137,
+            "y": 298,
+            "width": 1102,
+            "height": 127
+          }
+        },
+        {
+          "slot_id": "s06_sh196",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 78,
+            "y": 456,
+            "width": 46,
+            "height": 46
+          }
+        },
+        {
+          "slot_id": "s06_sh197",
+          "role": "label_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 79,
+            "y": 471,
+            "width": 44,
+            "height": 26
+          }
+        },
+        {
+          "slot_id": "s06_sh199",
+          "role": "body_candidate",
+          "text": "现场核查。对市、县级自然资源主管部门确定的初选项目，上一级自然资源主管部门要组织专家现场核查，形成核查意见后，由市（州）级自然资源主管部门向省自然资源厅和省财政厅统一申报。对拟申请中央财政资金支持的，按照《中央财政自然资源领域转移支付资金项目储备库入库指南》相关要求申报。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 134,
+            "y": 424,
+            "width": 1097,
+            "height": 105
+          }
+        },
+        {
+          "slot_id": "s06_sh200",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 78,
+            "y": 542,
+            "width": 46,
+            "height": 46
+          }
+        },
+        {
+          "slot_id": "s06_sh201",
+          "role": "label_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 81,
+            "y": 557,
+            "width": 41,
+            "height": 26
+          }
+        },
+        {
+          "slot_id": "s06_sh203",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 78,
+            "y": 634,
+            "width": 46,
+            "height": 46
+          }
+        },
+        {
+          "slot_id": "s06_sh204",
+          "role": "label_candidate",
+          "text": "04",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 79,
+            "y": 650,
+            "width": 44,
+            "height": 26
+          }
+        },
+        {
+          "slot_id": "s06_sh206",
+          "role": "body_candidate",
+          "text": "动态调整。项目库实行动态调整机制，对已纳入项目库的项目，根据年度资金预算情况择优安排。因治理责任主体发生改变、属地政府已利用自筹资金治理完成以及其他原因不能立项的，市（州）级自然资源主管部门应将调整理由以正式文件报省自然资源厅和省财政厅备案，项目调整出库。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 134,
+            "y": 604,
+            "width": 1109,
+            "height": 98
+          }
+        },
+        {
+          "slot_id": "s06_sh207",
+          "role": "body_candidate",
+          "text": "评估审核。市（州）级自然资源主管部门申报的治理工程项目，省自然资源厅会同省财政厅每年至少组织专家评审一次，通过评审，具备入库条件的，经排序入项目库。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 134,
+            "y": 526,
+            "width": 1097,
+            "height": 77
+          }
+        },
+        {
+          "slot_id": "s06_sh208",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s06_sh209",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s06_sh210",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s06_sh212",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": [
+        {
+          "item": "密度离群页（过满）",
+          "reason": "约620字，四步入库流程+第六条总述",
+          "resolution": "委托确认：v1 不拆页、不删字；页内以 22px 正文（body 24 的 ±2 带内）、编号轨道/分栏重排改善；如需减负请人工拆页"
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s07_sh215",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s07_sh216",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh217",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s07_sh218",
+          "role": "label_candidate",
+          "text": "项目管理原则",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 57,
+            "y": 385,
+            "width": 685,
+            "height": 89
+          }
+        },
+        {
+          "slot_id": "s07_sh219",
+          "role": "body_candidate",
+          "text": "第八条  原则上市、县级自然资源主管部门应为项目建设单位，项目涉及的勘查、设计、施工、监理等单位，应依法依规通过政府采购方式确定并签订相应合同。由市级自然资源主管部门作为建设单位的项目，参照中央财政出资的项目进行管理。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 57,
+            "y": 448,
+            "width": 715,
+            "height": 176
+          }
+        },
+        {
+          "slot_id": "s07_sh220",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 60,
+            "y": 619,
+            "width": 74,
+            "height": 13
+          }
+        },
+        {
+          "slot_id": "s07_sh221",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 55,
+            "y": 619,
+            "width": 13,
+            "height": 13
+          }
+        },
+        {
+          "slot_id": "s07_sh222",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 127,
+            "y": 619,
+            "width": 13,
+            "height": 13
+          }
+        },
+        {
+          "slot_id": "s07_sh223",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 134,
+            "y": 626,
+            "width": 649,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh225",
+          "role": "title_candidate",
+          "text": "各级自然资源主管部门主要职责",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 54,
+            "y": 108,
+            "width": 707,
+            "height": 89
+          }
+        },
+        {
+          "slot_id": "s07_sh226",
+          "role": "label_candidate",
+          "text": "第七条  各级自然资源主管部门应在当地政府的领导下，切实加强本行政区域内项目的组织、协调、指导和监督工作，组织开展项目勘查、设计的评审和工程验收，监督后期管护工作。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 54,
+            "y": 173,
+            "width": 707,
+            "height": 138
+          }
+        },
+        {
+          "slot_id": "s07_sh227",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 60,
+            "y": 316,
+            "width": 74,
+            "height": 13
+          }
+        },
+        {
+          "slot_id": "s07_sh228",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 55,
+            "y": 316,
+            "width": 13,
+            "height": 13
+          }
+        },
+        {
+          "slot_id": "s07_sh229",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 127,
+            "y": 316,
+            "width": 13,
+            "height": 13
+          }
+        },
+        {
+          "slot_id": "s07_sh230",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 134,
+            "y": 324,
+            "width": 649,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh234",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s07_sh235",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s07_sh236",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s07_sh237",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s07_sh239",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [
+        {
+          "filename": "7.jpeg",
+          "shape_name": "图片",
+          "pixel_width": 375,
+          "pixel_height": 279,
+          "display_ratio": 1.344086,
+          "display_left_emu": 8417379,
+          "display_top_emu": 1100344,
+          "display_width_emu": 2908119,
+          "display_height_emu": 2163640,
+          "usage_count": 1
+        },
+        {
+          "filename": "6.jpeg",
+          "shape_name": "图片",
+          "pixel_width": 500,
+          "pixel_height": 375,
+          "display_ratio": 1.144223,
+          "display_left_emu": 8417379,
+          "display_top_emu": 3721390,
+          "display_width_emu": 3017958,
+          "display_height_emu": 2637561,
+          "usage_count": 1
+        }
+      ],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        },
+        {
+          "item": "6.jpeg 源裁切（显示比 1.14）",
+          "reason": "image crop 属 ignored 类",
+          "resolution": "no-crop 完整显示（图内含文字）"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 8,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s08_sh243",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 98,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s08_sh244",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 91,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh245",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 98,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s08_sh246",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 222,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh247",
+          "role": "label_candidate",
+          "text": "1",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 54,
+            "y": 236,
+            "width": 149,
+            "height": 102
+          }
+        },
+        {
+          "slot_id": "s08_sh248",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 95,
+            "y": 263,
+            "width": 0,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s08_sh249",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 71,
+            "y": 263,
+            "width": 0,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s08_sh251",
+          "role": "label_candidate",
+          "text": "2",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 55,
+            "y": 359,
+            "width": 149,
+            "height": 102
+          }
+        },
+        {
+          "slot_id": "s08_sh252",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 97,
+            "y": 386,
+            "width": 0,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s08_sh253",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 386,
+            "width": 0,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s08_sh255",
+          "role": "label_candidate",
+          "text": "3",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 53,
+            "y": 470,
+            "width": 149,
+            "height": 102
+          }
+        },
+        {
+          "slot_id": "s08_sh256",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 95,
+            "y": 496,
+            "width": 0,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s08_sh257",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 71,
+            "y": 496,
+            "width": 0,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s08_sh259",
+          "role": "label_candidate",
+          "text": "4",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 53,
+            "y": 581,
+            "width": 149,
+            "height": 102
+          }
+        },
+        {
+          "slot_id": "s08_sh260",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 95,
+            "y": 608,
+            "width": 0,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s08_sh261",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 71,
+            "y": 608,
+            "width": 0,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s08_sh263",
+          "role": "label_candidate",
+          "text": "针对地质环境条件、致灾地质体特征和危害程度，制定相应的工程勘查设计书或者勘查方案。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 209,
+            "y": 240,
+            "width": 878,
+            "height": 102
+          }
+        },
+        {
+          "slot_id": "s08_sh264",
+          "role": "body_candidate",
+          "text": "勘查工作应当满足国家规定的规范规程、委托书、勘查合同以及相应勘查阶段要求，工作成果应当进行野外验收。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 209,
+            "y": 355,
+            "width": 877,
+            "height": 102
+          }
+        },
+        {
+          "slot_id": "s08_sh265",
+          "role": "label_candidate",
+          "text": "参加设计交底、现场验槽、设计变更、单元工程阶段性验收、质量事故分析以及工程初步验收与竣工验收等工作。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 209,
+            "y": 470,
+            "width": 878,
+            "height": 102
+          }
+        },
+        {
+          "slot_id": "s08_sh266",
+          "role": "label_candidate",
+          "text": "施工期间发现实际与勘查成果出入较大时，应进行补充勘查。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 208,
+            "y": 606,
+            "width": 878,
+            "height": 56
+          }
+        },
+        {
+          "slot_id": "s08_sh267",
+          "role": "title_candidate",
+          "text": "第九条：勘查单位在项目实施过程中职责",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 32,
+            "y": 135,
+            "width": 672,
+            "height": 72
+          }
+        },
+        {
+          "slot_id": "s08_sh268",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s08_sh269",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s08_sh270",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s08_sh271",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s08_sh273",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        },
+        {
+          "item": "Wingdings 项目符号\"Ø\"",
+          "reason": "列表符号字形，非冻结文字（sources md 已剥离）",
+          "resolution": "以编号牌/色条替代"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 9,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s09_sh277",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s09_sh278",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh279",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s09_sh280",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 219,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh281",
+          "role": "label_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 40,
+            "y": 253,
+            "width": 457,
+            "height": 73
+          }
+        },
+        {
+          "slot_id": "s09_sh282",
+          "role": "body_candidate",
+          "text": "按照勘查成果和有关规范规程开展设计工作，明确工程的设计使用年限。建设单位对建设工程的设计使用年限有特殊要求的，须由建设单位与设计单位签订合同时予以明确，并由设计单位在设计文件中注明。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 40,
+            "y": 291,
+            "width": 471,
+            "height": 213
+          }
+        },
+        {
+          "slot_id": "s09_sh284",
+          "role": "label_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 40,
+            "y": 501,
+            "width": 457,
+            "height": 73
+          }
+        },
+        {
+          "slot_id": "s09_sh285",
+          "role": "label_candidate",
+          "text": "对工程施工可能存在的安全风险进行分析，并提出相应风险防控措施。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 40,
+            "y": 541,
+            "width": 471,
+            "height": 101
+          }
+        },
+        {
+          "slot_id": "s09_sh287",
+          "role": "label_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 227,
+            "width": 463,
+            "height": 73
+          }
+        },
+        {
+          "slot_id": "s09_sh288",
+          "role": "label_candidate",
+          "text": "施工期间进行设计变更时，按有关要求编制设计变更报告",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 268,
+            "width": 471,
+            "height": 101
+          }
+        },
+        {
+          "slot_id": "s09_sh290",
+          "role": "label_candidate",
+          "text": "04",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 344,
+            "width": 472,
+            "height": 73
+          }
+        },
+        {
+          "slot_id": "s09_sh291",
+          "role": "label_candidate",
+          "text": "负责项目实施期间设计服务，参加技术交底、现场验槽、单元工程阶段性验收，质量事故分析以及工程初步验收与竣工验收等工作",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 382,
+            "width": 471,
+            "height": 138
+          }
+        },
+        {
+          "slot_id": "s09_sh293",
+          "role": "label_candidate",
+          "text": "05",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 497,
+            "width": 472,
+            "height": 73
+          }
+        },
+        {
+          "slot_id": "s09_sh294",
+          "role": "label_candidate",
+          "text": "在设计中采用新技术、新工艺、新材料、新设备的，应当说明其技术性能和使用注意事项，并提出质量保障措施。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 538,
+            "width": 471,
+            "height": 138
+          }
+        },
+        {
+          "slot_id": "s09_sh296",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 524,
+            "y": 348,
+            "width": 208,
+            "height": 208
+          }
+        },
+        {
+          "slot_id": "s09_sh297",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 572,
+            "y": 395,
+            "width": 113,
+            "height": 113
+          }
+        },
+        {
+          "slot_id": "s09_sh299",
+          "role": "title_candidate",
+          "text": "第十条：设计单位在项目实施过程中职责",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 32,
+            "y": 135,
+            "width": 622,
+            "height": 72
+          }
+        },
+        {
+          "slot_id": "s09_sh300",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s09_sh301",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s09_sh302",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s09_sh303",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s09_sh305",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": [
+        {
+          "item": "密度偏高页（任务书点名）",
+          "reason": "约330字，五项职责",
+          "resolution": "委托确认：页内重排即可，不拆页"
+        }
+      ]
+    },
+    {
+      "slide_index": 10,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s10_sh309",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s10_sh310",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh311",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s10_sh312",
+          "role": "title_candidate",
+          "text": "第11-13条  对项目设计的其它要求",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 32,
+            "y": 135,
+            "width": 544,
+            "height": 72
+          }
+        },
+        {
+          "slot_id": "s10_sh313",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 219,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh314",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 56,
+            "y": 241,
+            "width": 71,
+            "height": 66
+          }
+        },
+        {
+          "slot_id": "s10_sh315",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 66,
+            "y": 250,
+            "width": 49,
+            "height": 46
+          }
+        },
+        {
+          "slot_id": "s10_sh316",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 88,
+            "y": 661,
+            "width": 38,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s10_sh317",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 88,
+            "y": 299,
+            "width": 1,
+            "height": 397
+          }
+        },
+        {
+          "slot_id": "s10_sh318",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 88,
+            "y": 695,
+            "width": 318,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh319",
+          "role": "body_candidate",
+          "text": "第十一条  由市、县级自然资源主管部门负责提交项目设计方案。\n☆ 中央财政出资的项目设计，由省自然资源厅审核；\n☆ 省级财政出资的项目设计，由市（州）级自然资源主管部门审核。\n☆ 审核部门应组织专家到项目现场进行实地核查，由专家组出具书面审核意见并对审核结果负责。",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 108,
+            "y": 270,
+            "width": 304,
+            "height": 395
+          }
+        },
+        {
+          "slot_id": "s10_sh321",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 429,
+            "y": 241,
+            "width": 71,
+            "height": 65
+          }
+        },
+        {
+          "slot_id": "s10_sh322",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 440,
+            "y": 250,
+            "width": 49,
+            "height": 45
+          }
+        },
+        {
+          "slot_id": "s10_sh323",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 462,
+            "y": 659,
+            "width": 38,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s10_sh324",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 462,
+            "y": 298,
+            "width": 1,
+            "height": 395
+          }
+        },
+        {
+          "slot_id": "s10_sh325",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 462,
+            "y": 693,
+            "width": 318,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh326",
+          "role": "body_candidate",
+          "text": "第十二条  市、县级自然资源主管部门应监管施工单位严格按审定的设计方案施工，因客观原因需变更设计方案，由原设计单位编制设计变更方案，报经原审批单位组织评审并经批准后实施；\n重大设计变更方案需经市（州）级自然资源主管部门审核后，报省自然资源厅和省财政厅审批。",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 489,
+            "y": 276,
+            "width": 304,
+            "height": 378
+          }
+        },
+        {
+          "slot_id": "s10_sh328",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 822,
+            "y": 241,
+            "width": 71,
+            "height": 65
+          }
+        },
+        {
+          "slot_id": "s10_sh329",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 832,
+            "y": 250,
+            "width": 49,
+            "height": 45
+          }
+        },
+        {
+          "slot_id": "s10_sh330",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 854,
+            "y": 659,
+            "width": 38,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s10_sh331",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 854,
+            "y": 298,
+            "width": 1,
+            "height": 395
+          }
+        },
+        {
+          "slot_id": "s10_sh332",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 854,
+            "y": 693,
+            "width": 318,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh333",
+          "role": "body_candidate",
+          "text": "第十三条  施工中发现地质环境等客观条件变化或实际与勘查成果出入较大，原设计的地质灾害治理主体工程类型、结构、数量以及位置和范围需要调整，对工程的安全性需要重新进行复核论证的，属于重大设计变更。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 881,
+            "y": 280,
+            "width": 300,
+            "height": 278
+          }
+        },
+        {
+          "slot_id": "s10_sh335",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 675,
+            "y": 498,
+            "width": 195,
+            "height": 27
+          }
+        },
+        {
+          "slot_id": "s10_sh336",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s10_sh337",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s10_sh338",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s10_sh339",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s10_sh341",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": [
+        {
+          "item": "密度偏高页（任务书点名）",
+          "reason": "约400字，三条+四个子项",
+          "resolution": "委托确认：页内重排即可，不拆页"
+        }
+      ]
+    },
+    {
+      "slide_index": 11,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s11_sh345",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s11_sh346",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh347",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s11_sh348",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 204,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh349",
+          "role": "label_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 87,
+            "y": 231,
+            "width": 56,
+            "height": 56
+          }
+        },
+        {
+          "slot_id": "s11_sh350",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 221,
+            "width": 73,
+            "height": 75
+          }
+        },
+        {
+          "slot_id": "s11_sh351",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 221,
+            "width": 52,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s11_sh354",
+          "role": "label_candidate",
+          "text": "配备项目负责人和相关专业技术人员，调整主要管理人员时，应书面征得建设单位同意。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 165,
+            "y": 235,
+            "width": 1053,
+            "height": 51
+          }
+        },
+        {
+          "slot_id": "s11_sh355",
+          "role": "label_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 86,
+            "y": 315,
+            "width": 56,
+            "height": 56
+          }
+        },
+        {
+          "slot_id": "s11_sh356",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 76,
+            "y": 305,
+            "width": 73,
+            "height": 75
+          }
+        },
+        {
+          "slot_id": "s11_sh357",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 76,
+            "y": 305,
+            "width": 52,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s11_sh360",
+          "role": "label_candidate",
+          "text": "编制施工组织方案，明确安全生产的具体措施，保障工程施工安全生产条件。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 163,
+            "y": 306,
+            "width": 1055,
+            "height": 51
+          }
+        },
+        {
+          "slot_id": "s11_sh361",
+          "role": "label_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 87,
+            "y": 402,
+            "width": 56,
+            "height": 56
+          }
+        },
+        {
+          "slot_id": "s11_sh362",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 392,
+            "width": 73,
+            "height": 75
+          }
+        },
+        {
+          "slot_id": "s11_sh363",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 392,
+            "width": 52,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s11_sh366",
+          "role": "label_candidate",
+          "text": "质量和安全生产隐患排查治理、风险管控、质量检验制度，及时处置工程质量问题和安全生产隐患，负责对存在质量问题的工程进行整改维护。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 163,
+            "y": 379,
+            "width": 1055,
+            "height": 91
+          }
+        },
+        {
+          "slot_id": "s11_sh367",
+          "role": "label_candidate",
+          "text": "04",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 87,
+            "y": 490,
+            "width": 56,
+            "height": 56
+          }
+        },
+        {
+          "slot_id": "s11_sh368",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 481,
+            "width": 73,
+            "height": 75
+          }
+        },
+        {
+          "slot_id": "s11_sh369",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 481,
+            "width": 52,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s11_sh372",
+          "role": "body_candidate",
+          "text": "施工中发现实际与勘查成果出入较大时，应及时通知建设单位和监理单位。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 163,
+            "y": 492,
+            "width": 1055,
+            "height": 42
+          }
+        },
+        {
+          "slot_id": "s11_sh373",
+          "role": "body_candidate",
+          "text": "开展施工安全专项风险评估，对危险性较大的土方开挖、模板及支撑体系、人工挖孔桩等分部分项工程，应当编制安全专项施工方案。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 164,
+            "y": 561,
+            "width": 1055,
+            "height": 73
+          }
+        },
+        {
+          "slot_id": "s11_sh374",
+          "role": "label_candidate",
+          "text": "05",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 87,
+            "y": 576,
+            "width": 56,
+            "height": 56
+          }
+        },
+        {
+          "slot_id": "s11_sh375",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 567,
+            "width": 73,
+            "height": 75
+          }
+        },
+        {
+          "slot_id": "s11_sh376",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 567,
+            "width": 52,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s11_sh379",
+          "role": "label_candidate",
+          "text": "采取必要的安全措施防范安全生产事故，施工现场的办公、生活区不得设置在地质灾害危险区内。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 163,
+            "y": 644,
+            "width": 1055,
+            "height": 73
+          }
+        },
+        {
+          "slot_id": "s11_sh380",
+          "role": "label_candidate",
+          "text": "06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 87,
+            "y": 664,
+            "width": 56,
+            "height": 56
+          }
+        },
+        {
+          "slot_id": "s11_sh381",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 654,
+            "width": 73,
+            "height": 75
+          }
+        },
+        {
+          "slot_id": "s11_sh382",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 77,
+            "y": 654,
+            "width": 52,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s11_sh385",
+          "role": "title_candidate",
+          "text": "第十四条：施工单位在项目实施过程中职责",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 31,
+            "y": 119,
+            "width": 724,
+            "height": 72
+          }
+        },
+        {
+          "slot_id": "s11_sh386",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s11_sh387",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s11_sh388",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s11_sh389",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s11_sh391",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 12,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s12_sh395",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s12_sh396",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh397",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s12_sh398",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 219,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh399",
+          "role": "body_candidate",
+          "text": "第十五条  地质灾害治理工程实行施工总承包制，施工单位不得将其承接的工程进行转包或者违法分包。\n第十六条　施工单位应当根据设计要求，做好地质灾害治理工程监测工作并形成监测记录，监测周期包含施工期间以及竣工验收后不少于一个水文年。\n设计文件要求委托第三方进行监测的，由建设单位另行委托。",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 57,
+            "y": 263,
+            "width": 629,
+            "height": 395
+          }
+        },
+        {
+          "slot_id": "s12_sh401",
+          "role": "title_candidate",
+          "text": "对项目施工单位的其它要求",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 52,
+            "y": 127,
+            "width": 446,
+            "height": 72
+          }
+        },
+        {
+          "slot_id": "s12_sh402",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s12_sh403",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s12_sh404",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s12_sh405",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s12_sh407",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [
+        {
+          "filename": "8.jpeg",
+          "shape_name": "图片",
+          "pixel_width": 430,
+          "pixel_height": 242,
+          "display_ratio": 1.115113,
+          "display_left_emu": 7443605,
+          "display_top_emu": 2416650,
+          "display_width_emu": 3855766,
+          "display_height_emu": 3457736,
+          "usage_count": 1
+        }
+      ],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        },
+        {
+          "item": "8.jpeg 源裁切（显示比 1.12）",
+          "reason": "image crop 属 ignored 类",
+          "resolution": "no-crop 完整显示（图内含\"转包/分包/挂靠\"字样）"
+        },
+        {
+          "item": "Wingdings 项目符号\"Ø\"",
+          "reason": "列表符号字形，非冻结文字（sources md 已剥离）",
+          "resolution": "以编号牌/色条替代"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 13,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s13_sh411",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s13_sh412",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh413",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s13_sh414",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 219,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh415",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 54,
+            "y": 239,
+            "width": 55,
+            "height": 49
+          }
+        },
+        {
+          "slot_id": "s13_sh416",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 62,
+            "y": 246,
+            "width": 39,
+            "height": 34
+          }
+        },
+        {
+          "slot_id": "s13_sh417",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 80,
+            "y": 269,
+            "width": 0,
+            "height": 430
+          }
+        },
+        {
+          "slot_id": "s13_sh418",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 109,
+            "y": 656,
+            "width": 24,
+            "height": 22
+          }
+        },
+        {
+          "slot_id": "s13_sh419",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 109,
+            "y": 677,
+            "width": 24,
+            "height": 22
+          }
+        },
+        {
+          "slot_id": "s13_sh420",
+          "role": "label_candidate",
+          "text": "编制监理规划和监理实施细则，建立与项目规模、专业相适应的监理机构，确定总监理工程师和监理人员。监理工程师不得擅自调整，确需调整的应符合监理合同约定要求并征得建设单位同意。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 94,
+            "y": 271,
+            "width": 239,
+            "height": 364
+          }
+        },
+        {
+          "slot_id": "s13_sh422",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 339,
+            "y": 239,
+            "width": 54,
+            "height": 48
+          }
+        },
+        {
+          "slot_id": "s13_sh423",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 346,
+            "y": 246,
+            "width": 38,
+            "height": 34
+          }
+        },
+        {
+          "slot_id": "s13_sh424",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 364,
+            "y": 269,
+            "width": 0,
+            "height": 424
+          }
+        },
+        {
+          "slot_id": "s13_sh425",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 392,
+            "y": 650,
+            "width": 24,
+            "height": 21
+          }
+        },
+        {
+          "slot_id": "s13_sh426",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 392,
+            "y": 671,
+            "width": 24,
+            "height": 21
+          }
+        },
+        {
+          "slot_id": "s13_sh427",
+          "role": "body_candidate",
+          "text": "按建设单位要求，组织或参加设计交底、施工组织方案审查、开工报告审查、存在较大危险性隐患的分部分项工程专项施工方案审查、现场验槽、单元工程阶段性验收、质量事故分析以及工程初步验收与竣工验收等工作。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 372,
+            "y": 269,
+            "width": 257,
+            "height": 364
+          }
+        },
+        {
+          "slot_id": "s13_sh429",
+          "role": "title_candidate",
+          "text": "第十七条：监理单位在项目实施过程中职责",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 31,
+            "y": 119,
+            "width": 682,
+            "height": 72
+          }
+        },
+        {
+          "slot_id": "s13_sh430",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 624,
+            "y": 239,
+            "width": 59,
+            "height": 48
+          }
+        },
+        {
+          "slot_id": "s13_sh431",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 632,
+            "y": 246,
+            "width": 41,
+            "height": 34
+          }
+        },
+        {
+          "slot_id": "s13_sh432",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 651,
+            "y": 269,
+            "width": 0,
+            "height": 424
+          }
+        },
+        {
+          "slot_id": "s13_sh433",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 684,
+            "y": 665,
+            "width": 21,
+            "height": 26
+          }
+        },
+        {
+          "slot_id": "s13_sh434",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 684,
+            "y": 686,
+            "width": 21,
+            "height": 26
+          }
+        },
+        {
+          "slot_id": "s13_sh435",
+          "role": "body_candidate",
+          "text": "检查施工单位的质量和安全生产制度及措施落实情况；核查主要管理人员和关键设备到位情况、相关从业人员依法应当取得的执业资格证书或者考核合格证书情况、设备合格证书和施工技术档案情况；督促施工单位及时整改工程质量问题，消除安全生产隐患。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 663,
+            "y": 268,
+            "width": 280,
+            "height": 401
+          }
+        },
+        {
+          "slot_id": "s13_sh437",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 954,
+            "y": 239,
+            "width": 50,
+            "height": 48
+          }
+        },
+        {
+          "slot_id": "s13_sh438",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 961,
+            "y": 246,
+            "width": 35,
+            "height": 34
+          }
+        },
+        {
+          "slot_id": "s13_sh439",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 978,
+            "y": 269,
+            "width": 0,
+            "height": 424
+          }
+        },
+        {
+          "slot_id": "s13_sh440",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1003,
+            "y": 650,
+            "width": 22,
+            "height": 21
+          }
+        },
+        {
+          "slot_id": "s13_sh441",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1003,
+            "y": 671,
+            "width": 22,
+            "height": 21
+          }
+        },
+        {
+          "slot_id": "s13_sh442",
+          "role": "body_candidate",
+          "text": "监理工程师应当按照工程监理规范的要求，采取旁站、巡视和平行检验等形式对工程实施监理，并及时、真实、完整地做好监理记录。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 989,
+            "y": 268,
+            "width": 216,
+            "height": 288
+          }
+        },
+        {
+          "slot_id": "s13_sh444",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 721,
+            "y": 148,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s13_sh445",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 735,
+            "y": 148,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s13_sh446",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 749,
+            "y": 148,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s13_sh448",
+          "role": "title_candidate",
+          "text": "全过程监理",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 772,
+            "y": 121,
+            "width": 196,
+            "height": 70
+          }
+        },
+        {
+          "slot_id": "s13_sh449",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s13_sh450",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s13_sh451",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s13_sh452",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s13_sh454",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": [
+        {
+          "item": "密度离群页（过满）",
+          "reason": "约430字，四段职责并列",
+          "resolution": "委托确认：v1 不拆页、不删字；页内以 22px 正文（body 24 的 ±2 带内）、编号轨道/分栏重排改善；如需减负请人工拆页"
+        }
+      ]
+    },
+    {
+      "slide_index": 14,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s14_sh458",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s14_sh459",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s14_sh460",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s14_sh461",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 44,
+            "y": 160,
+            "width": 1193,
+            "height": 3
+          }
+        },
+        {
+          "slot_id": "s14_sh462",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 210,
+            "y": 126,
+            "width": 76,
+            "height": 76
+          }
+        },
+        {
+          "slot_id": "s14_sh463",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 221,
+            "y": 138,
+            "width": 53,
+            "height": 53
+          }
+        },
+        {
+          "slot_id": "s14_sh464",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 588,
+            "y": 126,
+            "width": 76,
+            "height": 76
+          }
+        },
+        {
+          "slot_id": "s14_sh465",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 599,
+            "y": 138,
+            "width": 53,
+            "height": 53
+          }
+        },
+        {
+          "slot_id": "s14_sh466",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 972,
+            "y": 126,
+            "width": 76,
+            "height": 76
+          }
+        },
+        {
+          "slot_id": "s14_sh467",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 983,
+            "y": 138,
+            "width": 53,
+            "height": 53
+          }
+        },
+        {
+          "slot_id": "s14_sh468",
+          "role": "label_candidate",
+          "text": "第十八条",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 82,
+            "y": 197,
+            "width": 314,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s14_sh469",
+          "role": "body_candidate",
+          "text": "项目的勘查、设计成果以及施工组织方案、监理规划等技术文件，应当符合相关法律、法规、规章规定，工程建设强制性标准、规范规程以及合同约定。\n任何单位和个人不得擅自压缩工程勘查、设计周期和施工工期；不得提供虚假的工程资料；不得代签有关工程资料。",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 63,
+            "y": 254,
+            "width": 370,
+            "height": 404
+          }
+        },
+        {
+          "slot_id": "s14_sh470",
+          "role": "label_candidate",
+          "text": "第十九条",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 465,
+            "y": 202,
+            "width": 314,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s14_sh471",
+          "role": "label_candidate",
+          "text": "第二十条",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 847,
+            "y": 202,
+            "width": 314,
+            "height": 69
+          }
+        },
+        {
+          "slot_id": "s14_sh472",
+          "role": "label_candidate",
+          "text": "项目相关单位应当按照档案管理有关法律、法规、规章规定，及时、真实、完整记录工程建设过程中的信息资料，建立工程项目档案，并及时向建设单位移交。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 452,
+            "y": 254,
+            "width": 370,
+            "height": 236
+          }
+        },
+        {
+          "slot_id": "s14_sh473",
+          "role": "body_candidate",
+          "text": "项目实施期限原则上应自预算下达之日起2年内完成竣工验收及财务决算；\n因施工条件等不可抗力客观因素确需延期的，市、县级自然资源主管部门须向省自然资源厅和省财政厅书面说明情况，经同意后可延期1年。",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 842,
+            "y": 254,
+            "width": 370,
+            "height": 362
+          }
+        },
+        {
+          "slot_id": "s14_sh474",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s14_sh475",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s14_sh476",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s14_sh477",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s14_sh479",
+          "role": "title_candidate",
+          "text": "第三章 项目实施",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 283,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 15,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s15_sh483",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s15_sh484",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh485",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s15_sh486",
+          "role": "title_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 50,
+            "y": 141,
+            "width": 236,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s15_sh487",
+          "role": "body_candidate",
+          "text": "工程竣工后，市、县级自然资源主管部门应组织勘查、设计、施工、监理等参建单位自验，主要核对施工设计和合同约定的各项工程内容是否已完成、监理单位对工程质量的评定是否合格、施工及监理单位工作总结等竣工资料准备是否齐全等，为初步验收做好准备。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 88,
+            "y": 145,
+            "width": 1085,
+            "height": 97
+          }
+        },
+        {
+          "slot_id": "s15_sh488",
+          "role": "label_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 54,
+            "y": 434,
+            "width": 236,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s15_sh489",
+          "role": "body_candidate",
+          "text": "项目通过初步验收后，中央财政出资的项目，市（州）级自然资源主管部门应向省自然资源厅提出申请，由省自然资源厅会同省财政厅组织专家进行验收。省级财政出资的项目，县级自然资源主管部门应向市（州）级自然资源主管部门提出申请，由市（州）级自然资源主管部门会同同级财政部门组织专家进行验收。专家组（不少于5人，含1名财审专家）对项目工程质量、建设情况及预算执行情况进行全面检查，对项目工程质量进行综合评分、评定等级，形成验收意见，并提出该处地质灾害隐患点的核销或降级意见。验收结果为不合格的，经整改后重新组织竣工验收。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 92,
+            "y": 439,
+            "width": 1080,
+            "height": 176
+          }
+        },
+        {
+          "slot_id": "s15_sh490",
+          "role": "label_candidate",
+          "text": "04",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 973,
+            "y": 647,
+            "width": 236,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s15_sh491",
+          "role": "label_candidate",
+          "text": "市、县级自然资源主管部门应做好项目全周期资料的整理归档工作，备查备检；项目完成财务结算后，将项目全过程资料按要求报送省自然资源厅。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 92,
+            "y": 653,
+            "width": 1081,
+            "height": 62
+          }
+        },
+        {
+          "slot_id": "s15_sh492",
+          "role": "label_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 975,
+            "y": 289,
+            "width": 236,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s15_sh493",
+          "role": "body_candidate",
+          "text": "中央财政出资的项目，由市（州）级自然资源主管部门会同同级财政部门组织专家进行审查验收；省级财政出资的项目，由县级自然资源主管部门会同同级财政部门组织专家进行审查验收，专家组（不少于5人，含1名财审专家）提出初步验收结论。对于质量评定为不合格的，经整改后，重新组织初验。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 88,
+            "y": 293,
+            "width": 1086,
+            "height": 97
+          }
+        },
+        {
+          "slot_id": "s15_sh494",
+          "role": "label_candidate",
+          "text": "竣工验收",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 88,
+            "y": 392,
+            "width": 129,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s15_sh495",
+          "role": "label_candidate",
+          "text": "初步验收",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1034,
+            "y": 245,
+            "width": 129,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s15_sh496",
+          "role": "label_candidate",
+          "text": "资料归档",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1041,
+            "y": 605,
+            "width": 129,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s15_sh497",
+          "role": "title_candidate",
+          "text": "自行检验",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 92,
+            "y": 98,
+            "width": 129,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s15_sh498",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 223,
+            "y": 117,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh499",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 237,
+            "y": 117,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh500",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 250,
+            "y": 117,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh502",
+          "role": "title_candidate",
+          "text": "项目完工之日起1个月内",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 268,
+            "y": 96,
+            "width": 360,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s15_sh503",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 992,
+            "y": 266,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh504",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1005,
+            "y": 266,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh505",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1019,
+            "y": 266,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh507",
+          "role": "label_candidate",
+          "text": "项目完工之日起3个月内",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 666,
+            "y": 245,
+            "width": 313,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s15_sh508",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 217,
+            "y": 410,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh509",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 231,
+            "y": 410,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh510",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 244,
+            "y": 410,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh512",
+          "role": "label_candidate",
+          "text": "初步验收通过后3个月内",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 262,
+            "y": 390,
+            "width": 348,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s15_sh513",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s15_sh514",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh515",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh516",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s15_sh518",
+          "role": "title_candidate",
+          "text": "第四章 项目验收（第二十一条）",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 455,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": [
+        {
+          "item": "密度离群页（过满）",
+          "reason": "约620字，四阶段验收+三个时限",
+          "resolution": "委托确认：v1 不拆页、不删字；页内以 22px 正文（body 24 的 ±2 带内）、编号轨道/分栏重排改善；如需减负请人工拆页"
+        }
+      ]
+    },
+    {
+      "slide_index": 16,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s16_sh586",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s16_sh587",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh588",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s16_sh616",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s16_sh617",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 327,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s16_sh618",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s16_sh619",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 354,
+            "y": 50,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s16_sh621",
+          "role": "title_candidate",
+          "text": "第四章 项目验收（第二十一条）",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 385,
+            "y": 32,
+            "width": 455,
+            "height": 47
+          }
+        },
+        {
+          "slot_id": "s16_sh625",
+          "role": "body_candidate",
+          "text": "1.项目立项批准文件及任务书；\n2.经审查批准的项目设计书；\n3.确定项目参建单位的文件、中标通知书及合同；\n4.参建单位相应资质复印件；\n5.开工报告、施工日志、监理日志、实验检测报告、关键工序检查记录、\n重点工程的原始施工记录、工程竣工图；\n6.工程施工质量评定报告及验收评定表；\n7.重点质量事故处理资料；\n8.工程进度款支付和费用调整依据，工程结算总结材料；\n9.竣工报告、施工总结报告、监理总结报告、第三方工程复核报告；\n10.与工程有关的影像、图片等多媒体资料；\n11.其他必要的有关材料。",
+          "paragraph_count": 12,
+          "geometry": {
+            "x": 64,
+            "y": 227,
+            "width": 931,
+            "height": 490
+          }
+        },
+        {
+          "slot_id": "s16_sh627",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 219,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh628",
+          "role": "title_candidate",
+          "text": "项目验收参建单位提交资料清单",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 58,
+            "y": 129,
+            "width": 546,
+            "height": 72
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": [
+        {
+          "item": "密度偏高页（任务书点名）",
+          "reason": "11项清单，含第5项被源作者拆成两段",
+          "resolution": "委托确认：页内重排即可，不拆页"
+        }
+      ]
+    },
+    {
+      "slide_index": 17,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s17_sh522",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s17_sh523",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s17_sh524",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s17_sh525",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 219,
+            "width": 1172,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s17_sh526",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 147,
+            "y": 255,
+            "width": 82,
+            "height": 77
+          }
+        },
+        {
+          "slot_id": "s17_sh527",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 131,
+            "y": 241,
+            "width": 113,
+            "height": 106
+          }
+        },
+        {
+          "slot_id": "s17_sh528",
+          "role": "label_candidate",
+          "text": "明确管护责任",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 266,
+            "y": 220,
+            "width": 656,
+            "height": 52
+          }
+        },
+        {
+          "slot_id": "s17_sh529",
+          "role": "body_candidate",
+          "text": "市、县级自然资源主管部门应在项目竣工验收合格并投入运行的15个工作日内，与指定的管护单位进行交接，签订《工程移交接管协议书》，明确管护单位管理维护制度，做好项目后续管理和维护。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 266,
+            "y": 278,
+            "width": 945,
+            "height": 93
+          }
+        },
+        {
+          "slot_id": "s17_sh530",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 164,
+            "y": 273,
+            "width": 46,
+            "height": 42
+          }
+        },
+        {
+          "slot_id": "s17_sh532",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 123,
+            "y": 591,
+            "width": 83,
+            "height": 77
+          }
+        },
+        {
+          "slot_id": "s17_sh533",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 107,
+            "y": 576,
+            "width": 115,
+            "height": 106
+          }
+        },
+        {
+          "slot_id": "s17_sh534",
+          "role": "label_candidate",
+          "text": "履行认定核销程序",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 243,
+            "y": 556,
+            "width": 665,
+            "height": 52
+          }
+        },
+        {
+          "slot_id": "s17_sh535",
+          "role": "body_candidate",
+          "text": "经工程治理后的隐患点，由市、县级自然资源主管部门根据专家组竣工验收意见，向省自然资源厅申请地质灾害隐患点核销或降级。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 242,
+            "y": 614,
+            "width": 944,
+            "height": 93
+          }
+        },
+        {
+          "slot_id": "s17_sh536",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 142,
+            "y": 609,
+            "width": 47,
+            "height": 41
+          }
+        },
+        {
+          "slot_id": "s17_sh538",
+          "role": "body_candidate",
+          "text": "施工单位在向建设单位提交工程竣工验收报告时，应当出具工程质量保修书。质量保修书中应当明确地质灾害治理工程的保修范围、保修期限和保修责任等，保修期限以施工合同约定为准，自竣工验收通过之日起计算。国家对保修期限有明确规定的，施工合同约定的保修期限不得低于国家规定。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 12,
+            "y": 120,
+            "width": 1255,
+            "height": 85
+          }
+        },
+        {
+          "slot_id": "s17_sh539",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 123,
+            "y": 406,
+            "width": 85,
+            "height": 74
+          }
+        },
+        {
+          "slot_id": "s17_sh540",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 107,
+            "y": 392,
+            "width": 117,
+            "height": 102
+          }
+        },
+        {
+          "slot_id": "s17_sh541",
+          "role": "label_candidate",
+          "text": "加强后续管护",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 246,
+            "y": 372,
+            "width": 681,
+            "height": 50
+          }
+        },
+        {
+          "slot_id": "s17_sh542",
+          "role": "body_candidate",
+          "text": "市、县级自然资源主管部门应在项目治理区内设置标牌，载明项目勘查、设计、施工、监理、管护等单位相关信息，加强项目运行管护监督，督促管护单位履行好工程运行管护责任。在保修期限内发生质量问题的项目，由项目施工单位进行维修，所需维修费用由相关责任方按照国家和省有关规定承担；超出保修期限后，项目管护费用由管护单位承担。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 246,
+            "y": 428,
+            "width": 983,
+            "height": 89
+          }
+        },
+        {
+          "slot_id": "s17_sh543",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 141,
+            "y": 422,
+            "width": 48,
+            "height": 40
+          }
+        },
+        {
+          "slot_id": "s17_sh545",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s17_sh546",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 314,
+            "y": 49,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s17_sh547",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 328,
+            "y": 49,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s17_sh548",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 49,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s17_sh550",
+          "role": "title_candidate",
+          "text": "第五章 工程运行管护（第二十二条）",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 362,
+            "y": 32,
+            "width": 499,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": [
+        {
+          "item": "密度离群页（过满）",
+          "reason": "约480字，保修书总述+三项管护",
+          "resolution": "委托确认：v1 不拆页、不删字；页内以 22px 正文（body 24 的 ±2 带内）、编号轨道/分栏重排改善；如需减负请人工拆页"
+        }
+      ]
+    },
+    {
+      "slide_index": 18,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s18_sh554",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s18_sh555",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s18_sh556",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s18_sh558",
+          "role": "label_candidate",
+          "text": "本办法由省自然资源厅负责解释。市、县级自然资源主管部门可以参照本办法，结合当地实际，制定本地区地质灾害防治项目管理制度，报上一级自然资源主管部门备案。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 65,
+            "y": 242,
+            "width": 1149,
+            "height": 141
+          }
+        },
+        {
+          "slot_id": "s18_sh559",
+          "role": "label_candidate",
+          "text": "第二十七条",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 65,
+            "y": 173,
+            "width": 575,
+            "height": 84
+          }
+        },
+        {
+          "slot_id": "s18_sh561",
+          "role": "label_candidate",
+          "text": "本办法自印发之日起施行,有效期5年。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 65,
+            "y": 482,
+            "width": 1092,
+            "height": 84
+          }
+        },
+        {
+          "slot_id": "s18_sh562",
+          "role": "label_candidate",
+          "text": "第二十八条",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 65,
+            "y": 416,
+            "width": 538,
+            "height": 84
+          }
+        },
+        {
+          "slot_id": "s18_sh631",
+          "role": "title_candidate",
+          "text": "四、规范内容",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s18_sh632",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 314,
+            "y": 49,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s18_sh633",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 328,
+            "y": 49,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s18_sh634",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 341,
+            "y": 49,
+            "width": 15,
+            "height": 15
+          }
+        },
+        {
+          "slot_id": "s18_sh636",
+          "role": "title_candidate",
+          "text": "第七章 附则",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 362,
+            "y": 32,
+            "width": 218,
+            "height": 47
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 19,
+      "page_type": "content_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s19_sh637",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 165,
+            "y": 96,
+            "width": 1115,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s19_sh638",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 89,
+            "width": 1281,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh639",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 96,
+            "width": 165,
+            "height": 12
+          }
+        },
+        {
+          "slot_id": "s19_sh646",
+          "role": "title_candidate",
+          "text": "五、主要特点",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 21,
+            "y": 28,
+            "width": 328,
+            "height": 57
+          }
+        },
+        {
+          "slot_id": "s19_sh655",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 56,
+            "y": 241,
+            "width": 71,
+            "height": 66
+          }
+        },
+        {
+          "slot_id": "s19_sh656",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 66,
+            "y": 250,
+            "width": 49,
+            "height": 46
+          }
+        },
+        {
+          "slot_id": "s19_sh657",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 88,
+            "y": 661,
+            "width": 38,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s19_sh658",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 88,
+            "y": 299,
+            "width": 1,
+            "height": 397
+          }
+        },
+        {
+          "slot_id": "s19_sh659",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 88,
+            "y": 695,
+            "width": 318,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh660",
+          "role": "label_candidate",
+          "text": "《办法》明确了项目支持的范围、入库流程、专家评审论证和动态调整等内容。将有利于夯实项目实施基础，加快资金分配，避免“资金等项目”的情况，提升资金使用效益。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 108,
+            "y": 270,
+            "width": 304,
+            "height": 395
+          }
+        },
+        {
+          "slot_id": "s19_sh662",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 419,
+            "y": 241,
+            "width": 76,
+            "height": 65
+          }
+        },
+        {
+          "slot_id": "s19_sh663",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 430,
+            "y": 250,
+            "width": 53,
+            "height": 45
+          }
+        },
+        {
+          "slot_id": "s19_sh664",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 454,
+            "y": 659,
+            "width": 41,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s19_sh665",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 454,
+            "y": 298,
+            "width": 1,
+            "height": 395
+          }
+        },
+        {
+          "slot_id": "s19_sh666",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 454,
+            "y": 693,
+            "width": 343,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh667",
+          "role": "body_candidate",
+          "text": "建立完善了项目入库流程、项目实施单位职责、项目验收阶段划分、工程后期运维管护和全过程监督检查的整套运行规程。规范化的运行有助于各级主管部门和参建单位明确项目步骤、自身职责、时间期限和质量标准，有效提高工作效率和项目质量。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 483,
+            "y": 276,
+            "width": 328,
+            "height": 411
+          }
+        },
+        {
+          "slot_id": "s19_sh669",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 822,
+            "y": 241,
+            "width": 71,
+            "height": 65
+          }
+        },
+        {
+          "slot_id": "s19_sh670",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 832,
+            "y": 250,
+            "width": 49,
+            "height": 45
+          }
+        },
+        {
+          "slot_id": "s19_sh671",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 854,
+            "y": 659,
+            "width": 38,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s19_sh672",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 854,
+            "y": 298,
+            "width": 1,
+            "height": 395
+          }
+        },
+        {
+          "slot_id": "s19_sh673",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 854,
+            "y": 693,
+            "width": 318,
+            "height": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh674",
+          "role": "body_candidate",
+          "text": "按照“双随机、一公开”规定了监督检查要求，建立了报告、通报、激励、惩戒、责任追究等制度，加强了项目事前、事中、事后全过程监督管理，有利于及时发现项目问题，及时整改，确保项目顺利完成。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 881,
+            "y": 280,
+            "width": 300,
+            "height": 376
+          }
+        },
+        {
+          "slot_id": "s19_sh676",
+          "role": "label_candidate",
+          "text": "项目选择精准化",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 111,
+            "y": 190,
+            "width": 269,
+            "height": 48
+          }
+        },
+        {
+          "slot_id": "s19_sh677",
+          "role": "label_candidate",
+          "text": "项目运行规范化",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 498,
+            "y": 194,
+            "width": 269,
+            "height": 48
+          }
+        },
+        {
+          "slot_id": "s19_sh678",
+          "role": "label_candidate",
+          "text": "监督检查常态化",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 901,
+            "y": 193,
+            "width": 269,
+            "height": 48
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [],
+      "ignored": [
+        {
+          "item": "版式（layout）页眉文字\"吉林省自然资源厅 / Department of Natural Resources of Jilin Province\"",
+          "reason": "master/layout-only text，不在 sources md 冻结内容中",
+          "resolution": "不在内容页重复该文字；机构身份由页眉右上角圆形厅徽（1.jpeg，源版式同款圆形裁切）承载"
+        },
+        {
+          "item": "源稿页眉装饰形状（蓝色条、细线、空文本框）",
+          "reason": "纯装饰/空形状，无文字",
+          "resolution": "以本 deck 统一页眉（标题+章节标签+山形母题分隔线）重画"
+        }
+      ],
+      "needs_confirmation": []
+    },
+    {
+      "slide_index": 20,
+      "page_type": "ending_candidate",
+      "text_blocks": [
+        {
+          "slot_id": "s20_sh567",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 292,
+            "y": 29,
+            "width": 683,
+            "height": 683
+          }
+        },
+        {
+          "slot_id": "s20_sh568",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 52,
+            "y": 0,
+            "width": 1163,
+            "height": 720
+          }
+        },
+        {
+          "slot_id": "s20_sh571",
+          "role": "label_candidate",
+          "text": "吉林省自然资源厅",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 740,
+            "y": 303,
+            "width": 522,
+            "height": 48
+          }
+        },
+        {
+          "slot_id": "s20_sh572",
+          "role": "label_candidate",
+          "text": "Department of Natural Resources of Jilin Province",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 742,
+            "y": 351,
+            "width": 537,
+            "height": 60
+          }
+        },
+        {
+          "slot_id": "s20_sh573",
+          "role": "label_candidate",
+          "text": "地址：吉林省长春市长春大街518号",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 639,
+            "y": 413,
+            "width": 505,
+            "height": 35
+          }
+        },
+        {
+          "slot_id": "s20_sh574",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 611,
+            "y": 201,
+            "width": 669,
+            "height": 71
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [],
+      "diagrams": [],
+      "images": [
+        {
+          "filename": "1.jpeg",
+          "shape_name": "图片",
+          "pixel_width": 550,
+          "pixel_height": 550,
+          "display_ratio": 1.0,
+          "display_left_emu": 6012975,
+          "display_top_emu": 2744845,
+          "display_width_emu": 1036057,
+          "display_height_emu": 1036057,
+          "usage_count": 3
+        }
+      ],
+      "ignored": [
+        {
+          "item": "源稿页面转场（legacy spd / 无 p14:dur / advance_on_click=false）",
+          "reason": "非可见内容；pptx_to_svg 报告无法精确重建",
+          "resolution": "导出使用默认 fade 转场，不复刻源转场参数"
+        }
+      ],
+      "needs_confirmation": []
+    }
+  ]
+}

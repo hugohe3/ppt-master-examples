@@ -583,6 +583,9 @@
             if (collection.pptxNarrated) {
                 links.push(downloadLink(collection.pptxNarrated, 'Narrated PPTX (embedded audio, auto-advance)'));
             }
+            if (collection.pptxSource) {
+                links.push(downloadLink(collection.pptxSource, 'Original PPTX (before beautify)'));
+            }
             container.innerHTML = links.join('');
             container.classList.toggle('hidden', links.length === 0);
         }

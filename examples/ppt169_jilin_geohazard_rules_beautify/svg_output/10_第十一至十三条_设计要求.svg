@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="header" data-pptx-bounds="48 30 245 54">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">四、规范内容</text>
+</g>
+<g id="chapter-tag" data-pptx-bounds="301 39 195 42">
+<rect x="305" y="43" width="187" height="34" rx="17" fill="#0070C0"/>
+<text x="398.5" y="67" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">第三章 项目实施</text>
+</g>
+<line id="header-rule" data-pptx-role="decoration" x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5"/>
+<g id="header-logo" data-pptx-bounds="1042 22 186 82">
+<g id="p10-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z"/>
+</g>
+<g id="p10-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z"/>
+</g>
+<g id="p10-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z"/>
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+</g>
+<g id="articles-11-13" data-pptx-bounds="56 108 1168 64">
+<g id="p10-article-band" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 112 1168 56" data-pptx-av-adj="val 40000" fill="#0070C0" stroke="none">
+<path d="M 56 112 L 1201.6 112 L 1224 134.4 L 1224 168 L 56 168 Z"/>
+</g>
+<text x="80" y="149" font-size="24" font-weight="bold" fill="#FFFFFF">第11-13条 对项目设计的其它要求</text>
+</g>
+<g id="article-11" data-pptx-bounds="56 186 1168 166" font-size="22" fill="#1F2328">
+<rect x="56" y="186" width="1168" height="166" rx="6" fill="#EEF4FB"/>
+<rect x="56" y="186" width="5" height="166" fill="#0070C0"/>
+<text x="88" y="224"><tspan fill="#0070C0" font-weight="bold">第十一条</tspan> 由市、县级自然资源主管部门负责<tspan fill="#0070C0" font-weight="bold">提交项目设计方案</tspan>。</text>
+<line x1="108" y1="242" x2="108" y2="330" stroke="#5B9BD5" stroke-width="2"/>
+<text x="124" y="258">☆ 中央财政出资的项目设计，由<tspan fill="#0070C0" font-weight="bold">省自然资源厅</tspan>审核；</text>
+<text x="124" y="292">☆ 省级财政出资的项目设计，由<tspan fill="#0070C0" font-weight="bold">市（州）级</tspan>自然资源主管部门审核。</text>
+<text x="124" y="326">☆ 审核部门应组织专家到项目现场进行<tspan fill="#D7141A" font-weight="bold">实地核查</tspan>，由专家组出具<tspan fill="#0070C0" font-weight="bold">书面审核意见</tspan>并对审核结果负责。</text>
+</g>
+<g id="article-12" data-pptx-bounds="56 368 1168 132" font-size="22" fill="#1F2328">
+<rect x="56" y="368" width="1168" height="132" rx="6" fill="#EEF4FB"/>
+<rect x="56" y="368" width="5" height="132" fill="#0070C0"/>
+<text x="88" y="406"><tspan x="88" dy="0"><tspan fill="#0070C0" font-weight="bold">第十二条</tspan> 市、县级自然资源主管部门应监管施工单位严格按审定的设计方案施工，</tspan><tspan x="88" dy="34">因客观原因需<tspan fill="#0070C0" font-weight="bold">变更设计方案</tspan>，由原设计单位编制设计变更方案，报经原审批单位组织<tspan fill="#0070C0" font-weight="bold">评审并经批准后实施</tspan>；</tspan></text>
+<line x1="108" y1="456" x2="108" y2="482" stroke="#5B9BD5" stroke-width="2"/>
+<text x="124" y="474"><tspan fill="#D7141A" font-weight="bold">重大设计变更方案</tspan>需经市（州）级自然资源主管部门审核后，报<tspan fill="#0070C0" font-weight="bold">省自然资源厅和省财政厅</tspan>审批。</text>
+</g>
+<g id="article-13" data-pptx-bounds="56 516 1168 132" font-size="22" fill="#1F2328">
+<rect x="56" y="516" width="1168" height="132" rx="6" fill="#EEF4FB"/>
+<rect x="56" y="516" width="5" height="132" fill="#0070C0"/>
+<text x="88" y="554"><tspan x="88" dy="0"><tspan fill="#0070C0" font-weight="bold">第十三条</tspan> 施工中发现地质环境等客观条件变化或实际与勘查成果出入较大，原设计的地质灾害治理主体工程</tspan><tspan x="88" dy="34"><tspan fill="#0070C0" font-weight="bold">类型、结构、数量以及位置和范围</tspan>需要调整，对工程的安全性需要重新进行复核论证的，</tspan><tspan x="88" dy="34">属于<tspan fill="#D7141A" font-weight="bold">重大设计变更</tspan>。</tspan></text>
+</g>
+</svg>

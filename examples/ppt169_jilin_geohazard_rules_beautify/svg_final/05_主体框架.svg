@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26" /></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="header" data-pptx-bounds="48 20 1184 84">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">三、主体框架</text>
+<line x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5" />
+<g id="p05-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z" />
+</g>
+<g id="p05-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z" />
+</g>
+<g id="p05-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z" />
+</g>
+<image href="data:image/jpeg;base64,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" x="1172" y="26" width="52" height="52" clip-path="url(#logoClip)" />
+</g>
+<g id="framework-summary" data-pptx-bounds="56 118 1168 184" font-size="24" fill="#1F2328">
+<rect x="56" y="118" width="1168" height="180" rx="6" fill="#EEF4FB" />
+<rect x="56" y="118" width="6" height="180" fill="#0070C0" />
+<text x="96" y="166"><tspan>《办法》共<tspan fill="#0070C0" font-weight="bold">七章</tspan>28条，分别为总则、项目库建设、项目实施、项目验收、工程运行管护、监督检查</tspan></text><text x="96" y="201">和附则。</text><text x="96" y="250">内容要点为：1.严格项目入库流程；2.明确各级任务职责；3.规范项目验收程序；</text><text x="96" y="285">4.细化工程运行管护；5.加强项目监督检查。</text></g>
+<g id="chapter-1" data-pptx-bounds="56 356 164 250">
+<g id="p05-stage-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="56 360 164 64" fill="#5B9BD5" stroke="none">
+<path d="M 56 360 L 188 360 L 220 392 L 188 424 L 56 424 L 88 392 Z" />
+</g>
+
+  <g transform="translate(128, 376) scale(1.33333)" fill="#FFFFFF">
+    <path d="M21.5 5.134a1 1 0 0 1 .493 .748l.007 .118v13a1 1 0 0 1 -1.5 .866a8 8 0 0 0 -7.5 -.266v-15.174a10 10 0 0 1 8.5 .708m-10.5 -.707l.001 15.174a8 8 0 0 0 -7.234 .117l-.327 .18l-.103 .044l-.049 .016l-.11 .026l-.061 .01l-.117 .006h-.042l-.11 -.012l-.077 -.014l-.108 -.032l-.126 -.056l-.095 -.056l-.089 -.067l-.06 -.056l-.073 -.082l-.064 -.089l-.022 -.036l-.032 -.06l-.044 -.103l-.016 -.049l-.026 -.11l-.01 -.061l-.004 -.049l-.002 -13.068a1 1 0 0 1 .5 -.866a10 10 0 0 1 8.5 -.707" />
+  </g>
+<text font-size="22" fill="#5A6472" text-anchor="middle" x="144" y="472"><tspan><tspan fill="#0B2A5B" font-weight="bold">总则</tspan></tspan></text><text font-size="22" fill="#5A6472" text-anchor="middle" x="144" y="502">总体要求</text></g>
+<g id="chapter-2" data-pptx-bounds="223 356 164 250">
+<g id="p05-stage-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="223 360 164 64" fill="#3F8BCF" stroke="none">
+<path d="M 223 360 L 355 360 L 387 392 L 355 424 L 223 424 L 255 392 Z" />
+</g>
+
+  <g transform="translate(295, 376) scale(1.33333)" fill="#FFFFFF">
+    <path d="M3 15.731c1.968 1.507 5.234 2.269 9 2.269c3.76 0 7.025 -.76 9 -2.252v2.252c0 2.425 -3.895 3.936 -8.693 3.998l-.307 .002c-4.938 0 -9 -1.523 -9 -4z" />
+    <path d="M3 9.731c1.968 1.507 5.234 2.269 9 2.269c3.76 0 7.025 -.76 9 -2.252v2.252c0 2.477 -4.062 4 -9 4c-4.798 0 -8.77 -1.438 -8.979 -3.795l-.016 -.101l-.005 -.104z" />
+    <path d="M12 2c1.041 0 2.044 .068 2.977 .198l.469 .071q .84 .14 1.586 .348l.44 .131l.075 .024a11 11 0 0 1 .805 .3l.199 .086q .535 .242 .967 .53q .165 .11 .313 .225a3.8 3.8 0 0 1 .669 .668l.091 .128q .07 .105 .129 .211l.07 .139q .163 .35 .2 .73l.01 .211c0 2.477 -4.062 4 -9 4c-4.798 0 -8.77 -1.438 -8.979 -3.795a1 1 0 0 1 -.021 -.205l.005 -.104l.016 -.1c.205 -2.306 4.01 -3.733 8.667 -3.794z" />
+  </g>
+<text font-size="22" fill="#5A6472" text-anchor="middle" x="311" y="472"><tspan><tspan fill="#0B2A5B" font-weight="bold">项目库建设</tspan></tspan></text><text font-size="22" fill="#5A6472" text-anchor="middle" x="311" y="502">项目入库流程</text></g>
+<g id="chapter-3" data-pptx-bounds="390 356 164 250">
+<g id="p05-stage-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="390 360 164 64" fill="#2380C8" stroke="none">
+<path d="M 390 360 L 522 360 L 554 392 L 522 424 L 390 424 L 422 392 Z" />
+</g>
+
+  <g transform="translate(462, 376) scale(1.33333)" fill="#FFFFFF">
+    <path d="M18 6a3 3 0 0 1 3 3v9a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2v-2a3 3 0 0 0 -6 0v2a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2v-9a3 3 0 0 1 3 -3z" />
+  </g>
+<text font-size="22" fill="#5A6472" text-anchor="middle" x="478" y="472"><tspan><tspan fill="#0B2A5B" font-weight="bold">项目实施</tspan></tspan></text><text font-size="22" fill="#5A6472" text-anchor="middle" x="478" y="502">勘查、设计、</text><text font-size="22" fill="#5A6472" text-anchor="middle" x="478" y="532">施工、监理</text><text font-size="22" fill="#5A6472" text-anchor="middle" x="478" y="562">单位职责</text></g>
+<g id="chapter-4" data-pptx-bounds="557 356 164 250">
+<g id="p05-stage-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="557 360 164 64" fill="#0070C0" stroke="none">
+<path d="M 557 360 L 689 360 L 721 392 L 689 424 L 557 424 L 589 392 Z" />
+</g>
+
+  <g transform="translate(629, 376) scale(1.33333)" fill="#FFFFFF">
+    <path d="M17.997 4.17a3 3 0 0 1 2.003 2.83v12a3 3 0 0 1 -3 3h-10a3 3 0 0 1 -3 -3v-12a3 3 0 0 1 2.003 -2.83a4 4 0 0 0 3.997 3.83h4a4 4 0 0 0 3.98 -3.597zm-3.704 7.123l-3.293 3.292l-1.293 -1.292a1 1 0 1 0 -1.414 1.414l2 2a1 1 0 0 0 1.414 0l4 -4a1 1 0 0 0 -1.414 -1.414m-.293 -9.293a2 2 0 1 1 0 4h-4a2 2 0 1 1 0 -4z" />
+  </g>
+<text font-size="22" fill="#5A6472" text-anchor="middle" x="645" y="472"><tspan><tspan fill="#0B2A5B" font-weight="bold">项目验收</tspan></tspan></text><text font-size="22" fill="#5A6472" text-anchor="middle" x="645" y="502">明确项目验收</text><text font-size="22" fill="#5A6472" text-anchor="middle" x="645" y="532">分为自验、</text><text font-size="22" fill="#5A6472" text-anchor="middle" x="645" y="562">初步验收和</text><text font-size="22" fill="#5A6472" text-anchor="middle" x="645" y="592">竣工验收</text></g>
+<g id="chapter-5" data-pptx-bounds="724 356 164 250">
+<g id="p05-stage-5" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="724 360 164 64" fill="#0A5DA3" stroke="none">
+<path d="M 724 360 L 856 360 L 888 392 L 856 424 L 724 424 L 756 392 Z" />
+</g>
+
+  <g transform="translate(796, 376) scale(1.33333)" fill="#FFFFFF">
+    <path d="M11.998 2l.118 .007l.059 .008l.061 .013l.111 .034a.993 .993 0 0 1 .217 .112l.104 .082l.255 .218a11 11 0 0 0 7.189 2.537l.342 -.01a1 1 0 0 1 1.005 .717a13 13 0 0 1 -9.208 16.25a1 1 0 0 1 -.502 0a13 13 0 0 1 -9.209 -16.25a1 1 0 0 1 1.005 -.717a11 11 0 0 0 7.531 -2.527l.263 -.225l.096 -.075a.993 .993 0 0 1 .217 -.112l.112 -.034a.97 .97 0 0 1 .119 -.021l.115 -.007zm3.71 7.293a1 1 0 0 0 -1.415 0l-3.293 3.292l-1.293 -1.292l-.094 -.083a1 1 0 0 0 -1.32 1.497l2 2l.094 .083a1 1 0 0 0 1.32 -.083l4 -4l.083 -.094a1 1 0 0 0 -.083 -1.32z" />
+  </g>
+<text font-size="22" fill="#5A6472" text-anchor="middle" x="812" y="472"><tspan><tspan fill="#0B2A5B" font-weight="bold">工程运行管护</tspan></tspan></text><text font-size="22" fill="#5A6472" text-anchor="middle" x="812" y="502">后期管护</text><text font-size="22" fill="#5A6472" text-anchor="middle" x="812" y="532">责任与要求</text></g>
+<g id="chapter-6" data-pptx-bounds="891 356 164 250">
+<g id="p05-stage-6" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="891 360 164 64" fill="#0B4485" stroke="none">
+<path d="M 891 360 L 1023 360 L 1055 392 L 1023 424 L 891 424 L 923 392 Z" />
+</g>
+
+  <g transform="translate(963, 376) scale(1.33333)" fill="#FFFFFF">
+    <path d="M12 4c4.29 0 7.863 2.429 10.665 7.154l.22 .379l.045 .1l.03 .083l.014 .055l.014 .082l.011 .1v.11l-.014 .111a.992 .992 0 0 1 -.026 .11l-.039 .108l-.036 .075l-.016 .03c-2.764 4.836 -6.3 7.38 -10.555 7.499l-.313 .004c-4.396 0 -8.037 -2.549 -10.868 -7.504a1 1 0 0 1 0 -.992c2.831 -4.955 6.472 -7.504 10.868 -7.504zm0 5a3 3 0 1 0 0 6a3 3 0 0 0 0 -6" />
+  </g>
+<text font-size="22" fill="#5A6472" text-anchor="middle" x="979" y="472"><tspan><tspan fill="#0B2A5B" font-weight="bold">监督检查</tspan></tspan></text><text font-size="22" fill="#5A6472" text-anchor="middle" x="979" y="502">全过程</text><text font-size="22" fill="#5A6472" text-anchor="middle" x="979" y="532">监督管理</text></g>
+<g id="chapter-7" data-pptx-bounds="1058 356 164 250">
+<g id="p05-stage-7" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="1058 360 164 64" fill="#0B2A5B" stroke="none">
+<path d="M 1058 360 L 1190 360 L 1222 392 L 1190 424 L 1058 424 L 1090 392 Z" />
+</g>
+
+  <g transform="translate(1130, 376) scale(1.33333)" fill="#FFFFFF">
+    <path d="M12 2l.117 .007a1 1 0 0 1 .876 .876l.007 .117v4l.005 .15a2 2 0 0 0 1.838 1.844l.157 .006h4l.117 .007a1 1 0 0 1 .876 .876l.007 .117v9a3 3 0 0 1 -2.824 2.995l-.176 .005h-10a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-14a3 3 0 0 1 2.824 -2.995l.176 -.005zm3 14h-6a1 1 0 0 0 0 2h6a1 1 0 0 0 0 -2m0 -4h-6a1 1 0 0 0 0 2h6a1 1 0 0 0 0 -2m-5 -4h-1a1 1 0 1 0 0 2h1a1 1 0 0 0 0 -2" />
+    <path d="M19 7h-4l-.001 -4.001z" />
+  </g>
+<text font-size="22" fill="#5A6472" text-anchor="middle" x="1146" y="472"><tspan><tspan fill="#0B2A5B" font-weight="bold">附则</tspan></tspan></text><text font-size="22" fill="#5A6472" text-anchor="middle" x="1146" y="502">其它说明</text></g>
+</svg>

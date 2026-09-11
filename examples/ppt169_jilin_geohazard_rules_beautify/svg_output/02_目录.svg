@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="toc">
+<defs>
+<clipPath id="logoClip"><circle cx="200" cy="100" r="44"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="toc-panel" data-pptx-bounds="0 0 400 720">
+<rect x="0" y="0" width="400" height="720" fill="#0B2A5B"/>
+<g id="p02-peak-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="20 610 200 110" fill="#FFFFFF" stroke="none" fill-opacity="0.08">
+<path d="M 20 720 L 120 610 L 220 720 Z"/>
+</g>
+<g id="p02-peak-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="120 530 220 190" fill="#FFFFFF" stroke="none" fill-opacity="0.12">
+<path d="M 120 720 L 230 530 L 340 720 Z"/>
+</g>
+<g id="p02-peak-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="280 620 120 100" fill="#FFFFFF" stroke="none" fill-opacity="0.08">
+<path d="M 280 720 L 340 620 L 400 720 Z"/>
+</g>
+<image href="../images/1.jpeg" x="156" y="56" width="88" height="88" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+<text x="200" y="190" text-anchor="middle" font-size="24" font-weight="bold" fill="#FFFFFF">吉林省自然资源厅</text>
+<text x="200" y="216" text-anchor="middle" font-size="14" fill="#C9D6E5">Department of Natural Resources of Jilin Province</text>
+<text x="200" y="352" text-anchor="middle" font-size="56" font-weight="bold" fill="#FFFFFF">目</text>
+<text x="200" y="432" text-anchor="middle" font-size="56" font-weight="bold" fill="#FFFFFF">录</text>
+<rect x="176" y="458" width="48" height="5" fill="#FFC000"/>
+</g>
+<line id="toc-spine" data-pptx-role="decoration" x1="500" y1="170" x2="500" y2="570" stroke="#C9D6E5" stroke-width="2"/>
+<g id="toc-item-1" data-pptx-bounds="466 132 726 76">
+<rect x="548" y="136" width="640" height="68" rx="6" fill="#EEF4FB"/>
+<circle cx="500" cy="170" r="30" fill="#0070C0"/>
+<text x="500" y="181" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">1</text>
+<text x="580" y="181" font-size="30" font-weight="bold" fill="#0B2A5B">出台背景</text>
+<use data-icon="tabler-filled/flag" x="1132" y="154" width="32" height="32" fill="#5B9BD5"/>
+</g>
+<g id="toc-item-2" data-pptx-bounds="466 232 726 76">
+<rect x="548" y="236" width="640" height="68" rx="6" fill="#EEF4FB"/>
+<circle cx="500" cy="270" r="30" fill="#0070C0"/>
+<text x="500" y="281" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">2</text>
+<text x="580" y="281" font-size="30" font-weight="bold" fill="#0B2A5B">政策依据</text>
+<use data-icon="tabler-filled/scale" x="1132" y="254" width="32" height="32" fill="#5B9BD5"/>
+</g>
+<g id="toc-item-3" data-pptx-bounds="466 332 726 76">
+<rect x="548" y="336" width="640" height="68" rx="6" fill="#EEF4FB"/>
+<circle cx="500" cy="370" r="30" fill="#0070C0"/>
+<text x="500" y="381" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">3</text>
+<text x="580" y="381" font-size="30" font-weight="bold" fill="#0B2A5B">主体框架</text>
+<use data-icon="tabler-filled/book" x="1132" y="354" width="32" height="32" fill="#5B9BD5"/>
+</g>
+<g id="toc-item-4" data-pptx-bounds="466 432 726 76">
+<rect x="548" y="436" width="640" height="68" rx="6" fill="#EEF4FB"/>
+<circle cx="500" cy="470" r="30" fill="#0070C0"/>
+<text x="500" y="481" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">4</text>
+<text x="580" y="481" font-size="30" font-weight="bold" fill="#0B2A5B">规范内容</text>
+<use data-icon="tabler-filled/list-check" x="1132" y="454" width="32" height="32" fill="#5B9BD5"/>
+</g>
+<g id="toc-item-5" data-pptx-bounds="466 532 726 76">
+<rect x="548" y="536" width="640" height="68" rx="6" fill="#EEF4FB"/>
+<circle cx="500" cy="570" r="30" fill="#0070C0"/>
+<text x="500" y="581" text-anchor="middle" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">5</text>
+<text x="580" y="581" font-size="30" font-weight="bold" fill="#0B2A5B">主要特点</text>
+<use data-icon="tabler-filled/rosette" x="1132" y="554" width="32" height="32" fill="#5B9BD5"/>
+</g>
+</svg>

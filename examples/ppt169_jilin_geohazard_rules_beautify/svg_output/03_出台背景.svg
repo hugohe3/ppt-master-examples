@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="&quot;Microsoft YaHei&quot;, Arial, sans-serif" data-pptx-page-role="content">
+<defs>
+<filter id="softShadow" x="-15%" y="-20%" width="130%" height="150%">
+<feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.08" />
+</filter>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26" /></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+<g id="header" data-pptx-bounds="48 20 1184 84">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">一、出台背景</text>
+<line x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5" />
+<g id="p03-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z" />
+</g>
+<g id="p03-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z" />
+</g>
+<g id="p03-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z" />
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)" />
+</g>
+<g id="context-kicker" data-pptx-bounds="100 126 120 30" fill="#0070C0">
+<rect x="104" y="130" width="4" height="22" />
+<text x="118" y="148" font-size="20" font-weight="bold">背景介绍</text>
+</g>
+<line id="context-rail" data-pptx-role="decoration" x1="72" y1="186" x2="72" y2="640" stroke="#C9D6E5" stroke-width="2" />
+<g id="context-2023-07" data-pptx-bounds="56 172 620 244">
+<circle cx="72" cy="186" r="9" fill="#0070C0" />
+<text font-size="24" fill="#1F2328" x="104" y="194"><tspan x="104" dy="0">为规范省级以上（含省级）地质灾害治理工程项目</tspan><tspan x="104" dy="35">管理，2023年7月下旬，省厅印发了《<tspan fill="#0070C0" font-weight="bold">吉林省自然</tspan></tspan><tspan x="104" dy="35"><tspan fill="#0070C0" font-weight="bold">资源厅关于加强吉林省地质灾害工程治理项目管理</tspan></tspan><tspan x="104" dy="35"><tspan fill="#0070C0" font-weight="bold">的通知</tspan>》（吉自然资办发〔2023〕137号），</tspan><tspan x="104" dy="35">该通知主要在地质灾害治理工程项目管理流程上提</tspan><tspan x="104" dy="35">出了具体要求，进一步规范了全省地质灾害治理工</tspan><tspan x="104" dy="35">程项目管理。</tspan></text>
+</g>
+<g id="context-2023-09" data-pptx-bounds="56 432 620 246">
+<circle cx="72" cy="446" r="9" fill="#FFFFFF" stroke="#0070C0" stroke-width="3" />
+<text font-size="24" fill="#1F2328" x="104" y="454"><tspan x="104" dy="0">2023年9月以来，在已下发项目管理通知的基础</tspan><tspan x="104" dy="35">上，我厅通过电话沟通、调研，并学习借鉴四川、</tspan><tspan x="104" dy="35">云南、贵州、浙江、辽宁、甘肃等省外项目管理先</tspan><tspan x="104" dy="35">进经验与做法的基础上，针对我省地质灾害治理工</tspan><tspan x="104" dy="35">程项目管理中存在的突出问题和薄弱环节，</tspan><tspan x="104" dy="35">对原项目管理通知进行了修改补充完善，</tspan><tspan x="104" dy="35">形成了本《办法》。</tspan></text>
+</g>
+<g id="notice-screenshot" data-pptx-bounds="708 176 524 460">
+<rect x="716" y="184" width="508" height="442" rx="6" fill="#FFFFFF" stroke="#C9D6E5" stroke-width="1.5" filter="url(#softShadow)" />
+<image href="../images/2.png" x="724" y="192" width="492" height="426" preserveAspectRatio="xMidYMid meet" />
+</g>
+</svg>

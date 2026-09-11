@@ -2,11 +2,137 @@
   "version": 1,
   "updated": "2026-09-11",
   "stats": {
-    "examples": 47,
-    "pages": 668,
-    "templates": 47
+    "examples": 48,
+    "pages": 688,
+    "templates": 48
   },
   "projects": [
+    {
+      "id": "ppt169_jilin_geohazard_rules_beautify",
+      "title": "吉林省地质灾害治理工程项目管理办法 · 政策解读(美化)",
+      "description": "美化前后对照 20 页 — 仓库首个 Beautify 1:1 美化示例;原稿是吉林省自然资源厅公开的政策解读 PPTX(随示例附在 sources/,可直接下载原稿对照),页数页序 1:1、文字逐字不改(导出后双通道回读 0 缺 0 多),源稿 151 处红/蓝行内强调保留为本 deck 的主蓝与强调红;七章「主体框架」重画为 7 个可编辑 chevron,入库四步与验收四阶段做成编号轨道,8 张源图(厅徽、政府网站截图、剪贴画)全部复用并重新排版,91 个原生预设形状;69 条主角进场动画与章节标签跨页 4 组 Morph",
+      "icon": "🏔️",
+      "color": "#0B5CAD",
+      "style": "corporate",
+      "styleName": "Beautify · 政务蓝",
+      "desc": "A twenty-page before-and-after example — the first deck made with the Beautify 1:1 profile. The source is a public policy-briefing PPTX from the Jilin Department of Natural Resources (shipped under sources/ and offered as a download for comparison). Page count and order stay 1:1 and every word is kept (a two-channel read-back of the export finds nothing missing or added); the 151 red and blue run-level emphases carry over in the deck's own blue and accent red, the seven-chapter framework is redrawn as editable chevrons, the four intake steps and four acceptance stages become numbered tracks, all eight source pictures (emblem, government-site screenshots, clip art) are reused and re-laid-out, and 91 native preset shapes carry the structure. Hero entrances (69) and a chapter-tag Morph across four page pairs.",
+      "tags": [
+        "Government",
+        "Beautify",
+        "Before/After",
+        "Policy Briefing",
+        "Morph",
+        "Presets"
+      ],
+      "isNew": true,
+      "folder": "ppt169_jilin_geohazard_rules_beautify/svg_final",
+      "generatedAt": "2026-09-11",
+      "cover": "01_封面.svg",
+      "pptx": "examples/ppt169_jilin_geohazard_rules_beautify/exports/ppt169_jilin_geohazard_rules_beautify.pptx",
+      "slides": [
+        {
+          "file": "01_封面.svg",
+          "title": "封面",
+          "desc": "封面"
+        },
+        {
+          "file": "02_目录.svg",
+          "title": "目录",
+          "desc": "目录"
+        },
+        {
+          "file": "03_出台背景.svg",
+          "title": "一、出台背景",
+          "desc": "一、出台背景"
+        },
+        {
+          "file": "04_政策依据.svg",
+          "title": "二、政策依据",
+          "desc": "二、政策依据"
+        },
+        {
+          "file": "05_主体框架.svg",
+          "title": "三、主体框架",
+          "desc": "三、主体框架"
+        },
+        {
+          "file": "06_第六条_项目入库流程.svg",
+          "title": "第六条 项目入库流程",
+          "desc": "第六条 项目入库流程"
+        },
+        {
+          "file": "07_第七八条_职责与原则.svg",
+          "title": "第七条、第八条 主管部门职责与管理原则",
+          "desc": "第七条、第八条 主管部门职责与管理原则"
+        },
+        {
+          "file": "08_第九条_勘查单位职责.svg",
+          "title": "第九条 勘查单位职责",
+          "desc": "第九条 勘查单位职责"
+        },
+        {
+          "file": "09_第十条_设计单位职责.svg",
+          "title": "第十条 设计单位职责",
+          "desc": "第十条 设计单位职责"
+        },
+        {
+          "file": "10_第十一至十三条_设计要求.svg",
+          "title": "第11-13条 对项目设计的其它要求",
+          "desc": "第11-13条 对项目设计的其它要求"
+        },
+        {
+          "file": "11_第十四条_施工单位职责.svg",
+          "title": "第十四条 施工单位职责",
+          "desc": "第十四条 施工单位职责"
+        },
+        {
+          "file": "12_第十五十六条_施工其它要求.svg",
+          "title": "第十五、十六条 对施工单位的其它要求",
+          "desc": "第十五、十六条 对施工单位的其它要求"
+        },
+        {
+          "file": "13_第十七条_监理单位职责.svg",
+          "title": "第十七条 监理单位职责",
+          "desc": "第十七条 监理单位职责"
+        },
+        {
+          "file": "14_第十八至二十条.svg",
+          "title": "第十八至二十条 技术文件、档案与实施期限",
+          "desc": "第十八至二十条 技术文件、档案与实施期限"
+        },
+        {
+          "file": "15_第二十一条_验收四阶段.svg",
+          "title": "第四章 项目验收（第二十一条）四阶段",
+          "desc": "第四章 项目验收（第二十一条）四阶段"
+        },
+        {
+          "file": "16_验收资料清单.svg",
+          "title": "项目验收参建单位提交资料清单",
+          "desc": "项目验收参建单位提交资料清单"
+        },
+        {
+          "file": "17_第二十二条_运行管护.svg",
+          "title": "第五章 工程运行管护（第二十二条）",
+          "desc": "第五章 工程运行管护（第二十二条）"
+        },
+        {
+          "file": "18_第七章_附则.svg",
+          "title": "第七章 附则",
+          "desc": "第七章 附则"
+        },
+        {
+          "file": "19_主要特点.svg",
+          "title": "五、主要特点",
+          "desc": "五、主要特点"
+        },
+        {
+          "file": "20_封底.svg",
+          "title": "封底",
+          "desc": "封底"
+        }
+      ],
+      "pptxSource": "examples/ppt169_jilin_geohazard_rules_beautify/sources/jilin_geohazard_project_rules_policy.pptx"
+    },
     {
       "id": "ppt169_jeju_haenyeo_ko",
       "title": "제주 해녀",

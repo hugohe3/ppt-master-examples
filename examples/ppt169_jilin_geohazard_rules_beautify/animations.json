@@ -1,0 +1,550 @@
+{
+  "version": 1,
+  "slides": {
+    "01_封面": {
+      "groups": {
+        "cover-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.7
+        }
+      }
+    },
+    "02_目录": {
+      "groups": {
+        "toc-item-1": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "toc-item-2": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "toc-item-3": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "toc-item-4": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "toc-item-5": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      }
+    },
+    "03_出台背景": {
+      "groups": {
+        "context-2023-07": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "notice-screenshot": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "context-2023-09": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        }
+      }
+    },
+    "04_政策依据": {
+      "groups": {
+        "basis-list": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.45
+        },
+        "evidence-gov": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.45
+        },
+        "evidence-mnr": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.45
+        },
+        "evidence-flk": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.45
+        }
+      }
+    },
+    "05_主体框架": {
+      "groups": {
+        "chapter-1": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "chapter-2": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "chapter-3": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "chapter-4": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "chapter-5": {
+          "effect": "entrance_wipe",
+          "order": 5,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "chapter-6": {
+          "effect": "entrance_wipe",
+          "order": 6,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "chapter-7": {
+          "effect": "entrance_wipe",
+          "order": 7,
+          "duration": 0.35,
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      }
+    },
+    "06_第六条_项目入库流程": {
+      "groups": {
+        "step-1-preliminary": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.45,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "step-2-onsite": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.45,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "step-3-review": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.45,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "step-4-adjust": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.45,
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "05_主体框架",
+        "pairs": {
+          "chapter-tag": {
+            "from": "chapter-3",
+            "to": "chapter-tag"
+          }
+        }
+      }
+    },
+    "07_第七八条_职责与原则": {
+      "groups": {
+        "article-7-duties": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "article-8-principle": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        }
+      }
+    },
+    "08_第九条_勘查单位职责": {
+      "groups": {
+        "survey-duty-1": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "survey-duty-2": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4
+        },
+        "survey-duty-3": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "survey-duty-4": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        }
+      }
+    },
+    "09_第十条_设计单位职责": {
+      "groups": {
+        "design-duty-1": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "design-duty-2": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4
+        },
+        "design-duty-3": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "design-duty-4": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "design-duty-5": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    },
+    "10_第十一至十三条_设计要求": {
+      "groups": {
+        "article-11": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.45
+        },
+        "article-12": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.45
+        },
+        "article-13": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.45
+        }
+      }
+    },
+    "11_第十四条_施工单位职责": {
+      "groups": {
+        "build-duty-1": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.35
+        },
+        "build-duty-2": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.35
+        },
+        "build-duty-3": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.35
+        },
+        "build-duty-4": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.35
+        },
+        "build-duty-5": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.35
+        },
+        "build-duty-6": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.35
+        }
+      }
+    },
+    "12_第十五十六条_施工其它要求": {
+      "groups": {
+        "article-15": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.45
+        },
+        "subcontract-figure": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.45
+        },
+        "article-16": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.45
+        }
+      }
+    },
+    "13_第十七条_监理单位职责": {
+      "groups": {
+        "supervise-plan": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "supervise-review": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4
+        },
+        "supervise-inspect": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "supervise-onsite": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        }
+      }
+    },
+    "14_第十八至二十条": {
+      "groups": {
+        "article-18": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.45
+        },
+        "article-19": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.45
+        },
+        "article-20": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.45
+        }
+      }
+    },
+    "15_第二十一条_验收四阶段": {
+      "groups": {
+        "stage-1-self-check": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.45,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "stage-2-preliminary": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.45,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "stage-3-completion": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.45,
+          "effect_options": {
+            "direction": "left"
+          }
+        },
+        "stage-4-archive": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.45,
+          "effect_options": {
+            "direction": "left"
+          }
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "14_第十八至二十条",
+        "pairs": {
+          "chapter-tag": {
+            "from": "chapter-tag",
+            "to": "chapter-tag"
+          }
+        }
+      }
+    },
+    "16_验收资料清单": {
+      "groups": {
+        "checklist-left": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "checklist-right": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        }
+      }
+    },
+    "17_第二十二条_运行管护": {
+      "groups": {
+        "warranty": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "maintenance-duty": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4
+        },
+        "maintenance-strengthen": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "maintenance-writeoff": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "16_验收资料清单",
+        "pairs": {
+          "chapter-tag": {
+            "from": "chapter-tag",
+            "to": "chapter-tag"
+          }
+        }
+      }
+    },
+    "18_第七章_附则": {
+      "groups": {
+        "article-27": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "article-28": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        }
+      },
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "17_第二十二条_运行管护",
+        "pairs": {
+          "chapter-tag": {
+            "from": "chapter-tag",
+            "to": "chapter-tag"
+          }
+        }
+      }
+    },
+    "19_主要特点": {
+      "groups": {
+        "feature-precise": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.45
+        },
+        "feature-standard": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.45
+        },
+        "feature-routine": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.45
+        }
+      }
+    }
+  }
+}

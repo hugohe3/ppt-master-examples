@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "ppt_to_md.py",
+  "conversion_type": "pptx",
+  "source": {
+    "path": "jilin_geohazard_project_rules_policy.pptx",
+    "name": "jilin_geohazard_project_rules_policy.pptx",
+    "suffix": ".pptx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 677627
+  },
+  "outputs": {
+    "markdown": "jilin_geohazard_project_rules_policy.md",
+    "asset_dir": "jilin_geohazard_project_rules_policy_files",
+    "image_manifest": "jilin_geohazard_project_rules_policy_files/image_manifest.json",
+    "image_count": 8
+  },
+  "markdown": {
+    "line_count": 421,
+    "char_count": 7527,
+    "heading_count": 21,
+    "table_count": 0,
+    "image_ref_count": 10,
+    "link_count": 0
+  },
+  "warnings": []
+}

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="ending">
+<defs>
+<linearGradient id="bandField" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0070C0"/><stop offset="100%" stop-color="#0B4F8F"/>
+</linearGradient>
+<clipPath id="logoClip"><circle cx="206" cy="335" r="86"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="closing-band" data-pptx-bounds="0 190 1280 290">
+<rect x="0" y="190" width="1280" height="290" fill="url(#bandField)"/>
+<g id="p20-peak-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="860 360 250 120" fill="#FFFFFF" stroke="none" fill-opacity="0.08">
+<path d="M 860 480 L 985 360 L 1110 480 Z"/>
+</g>
+<g id="p20-peak-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1000 250 280 230" fill="#FFFFFF" stroke="none" fill-opacity="0.12">
+<path d="M 1000 480 L 1140 250 L 1280 480 Z"/>
+</g>
+<g id="p20-peak-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1150 350 130 130" fill="#FFFFFF" stroke="none" fill-opacity="0.08">
+<path d="M 1150 480 L 1215 350 L 1280 480 Z"/>
+</g>
+<circle cx="206" cy="335" r="94" fill="#FFFFFF"/>
+<image href="../images/1.jpeg" x="120" y="249" width="172" height="172" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+<text x="340" y="336" font-size="56" font-weight="bold" fill="#FFFFFF">吉林省自然资源厅</text>
+<rect x="342" y="360" width="72" height="5" fill="#FFC000"/>
+<text x="342" y="402" font-size="20" fill="#FFFFFF">Department of Natural Resources of Jilin Province</text>
+</g>
+<g id="closing-address" data-pptx-bounds="330 520 480 60">
+<use data-icon="tabler-filled/map-pin" x="340" y="532" width="32" height="32" fill="#0070C0"/>
+<text x="382" y="557" font-size="24" fill="#1F2328">地址：吉林省长春市长春大街518号</text>
+</g>
+</svg>

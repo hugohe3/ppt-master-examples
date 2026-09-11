@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family='"Microsoft YaHei", Arial, sans-serif' data-pptx-page-role="content">
+<defs>
+<clipPath id="logoClip"><circle cx="1198" cy="52" r="26"/></clipPath>
+</defs>
+<rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="header" data-pptx-bounds="48 30 245 54">
+<text x="56" y="70" font-size="36" font-weight="bold" fill="#0B2A5B">四、规范内容</text>
+</g>
+<g id="chapter-tag" data-pptx-bounds="301 39 195 42">
+<rect x="305" y="43" width="187" height="34" rx="17" fill="#0070C0"/>
+<text x="398.5" y="67" text-anchor="middle" font-size="20" font-weight="bold" fill="#FFFFFF">第三章 项目实施</text>
+</g>
+<line id="header-rule" data-pptx-role="decoration" x1="56" y1="100" x2="1224" y2="100" stroke="#C9D6E5" stroke-width="1.5"/>
+<g id="header-logo" data-pptx-bounds="1042 22 186 82">
+<g id="p07-ridge-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1046 86 40 14" fill="#5B9BD5" stroke="none">
+<path d="M 1046 100 L 1066 86 L 1086 100 Z"/>
+</g>
+<g id="p07-ridge-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1068 76 48 24" fill="#0070C0" stroke="none">
+<path d="M 1068 100 L 1092 76 L 1116 100 Z"/>
+</g>
+<g id="p07-ridge-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="1100 88 34 12" fill="#5B9BD5" stroke="none">
+<path d="M 1100 100 L 1117 88 L 1134 100 Z"/>
+</g>
+<image href="../images/1.jpeg" x="1172" y="26" width="52" height="52" preserveAspectRatio="xMidYMid slice" clip-path="url(#logoClip)"/>
+</g>
+<g id="article-7-duties" data-pptx-bounds="56 114 568 500">
+<rect x="56" y="118" width="560" height="286" rx="6" fill="#EEF4FB"/>
+<image href="../images/7.jpeg" x="155" y="126" width="363" height="270" preserveAspectRatio="xMidYMid meet"/>
+<use data-icon="tabler-filled/briefcase" x="56" y="424" width="32" height="32" fill="#0070C0"/>
+<text x="98" y="450" font-size="28" font-weight="bold" fill="#0070C0">各级自然资源主管部门主要职责</text>
+<text x="56" y="500" font-size="24" fill="#1F2328"><tspan x="56" dy="0"><tspan fill="#0070C0" font-weight="bold">第七条</tspan> 各级自然资源主管部门应在当地政府的领</tspan><tspan x="56" dy="35">导下，切实加强本行政区域内项目的组织、协</tspan><tspan x="56" dy="35">调、指导和监督工作，组织开展项目勘查、设计</tspan><tspan x="56" dy="35">的评审和工程验收，监督后期管护工作。</tspan></text>
+</g>
+<g id="article-8-principle" data-pptx-bounds="640 114 592 540">
+<rect x="648" y="118" width="576" height="286" rx="6" fill="#EEF4FB"/>
+<image href="../images/6.jpeg" x="756" y="126" width="360" height="270" preserveAspectRatio="xMidYMid meet"/>
+<use data-icon="tabler-filled/scale" x="648" y="424" width="32" height="32" fill="#0070C0"/>
+<text x="690" y="450" font-size="28" font-weight="bold" fill="#0070C0">项目管理原则</text>
+<text x="648" y="500" font-size="24" fill="#1F2328"><tspan x="648" dy="0"><tspan fill="#0070C0" font-weight="bold">第八条</tspan> 原则上市、县级自然资源主管部门应为项目</tspan><tspan x="648" dy="35">建设单位，项目涉及的勘查、设计、施工、监理等</tspan><tspan x="648" dy="35">单位，应依法依规通过<tspan fill="#D7141A" font-weight="bold">政府采购</tspan>方式确定并签订相</tspan><tspan x="648" dy="35">应合同。由市级自然资源主管部门作为建设单位的</tspan><tspan x="648" dy="35">项目，参照中央财政出资的项目进行管理。</tspan></text>
+</g>
+</svg>
