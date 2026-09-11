@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="208" width="12" height="144" fill="#D8F04A" />
+    <rect x="48" y="360" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="512" width="12" height="144" fill="#2A3F5C" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第一节 · 机制页</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">七类设备把状态汇进一块屏,这块屏才是你的工作面</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">任何一类设备离线,你的工作面就少一块。</text>
+  </g>
+  <g id="device-roster" data-pptx-bounds="96 252 500 360">
+    <text x="96" y="272" font-size="18" fill="#8FA3BC">GB 25506-2010 第 3.1 条 · 室内应设置的消防设备</text>
+    <g id="device-rows" font-size="24">
+      <text x="96" y="308" fill="#DCE6F0">火灾报警控制器</text>
+      <text x="96" y="356" fill="#DCE6F0">消防联动控制器</text>
+      <text x="96" y="404" fill="#D8F04A">消防控制室图形显示装置</text>
+      <text x="96" y="452" fill="#DCE6F0">消防电话总机</text>
+      <text x="96" y="500" fill="#DCE6F0">消防应急广播控制装置</text>
+      <text x="96" y="548" fill="#DCE6F0">消防应急照明和疏散指示系统控制装置</text>
+      <text x="96" y="596" fill="#DCE6F0">消防电源监控器</text>
+    </g>
+  </g>
+  <g id="p05-device-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightBracket" data-pptx-frame="596 278 28 330" fill="none" stroke="#4A9FD8" stroke-width="2">
+<path d="M 596 278 A 28 2.33 0 0 1 624 280.33 L 624 605.67 A 28 2.33 0 0 1 596 608 Z" stroke="none" />
+<path d="M 596 278 A 28 2.33 0 0 1 624 280.33 L 624 605.67 A 28 2.33 0 0 1 596 608" />
+</g>
+  <g id="p05-transmit-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="650 408 110 60" fill="#4A9FD8" stroke="none">
+<path d="M 650 423 L 730 423 L 730 408 L 760 438 L 730 468 L 730 453 L 650 453 Z" />
+</g>
+  <g id="monitor-node" data-pptx-bounds="790 318 426 230">
+    <g id="p05-monitor-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="790 320 426 224" fill="none" stroke="#4A9FD8" stroke-width="2">
+<path d="M 790 320 L 1178.67 320 L 1216 357.33 L 1216 544 L 1216 544 L 827.33 544 L 790 506.67 L 790 320 Z" />
+</g>
+    <text x="822" y="372" font-size="28" fill="#DCE6F0">城市消防远程监控中心</text>
+    <text fill="#8FA3BC" font-size="18" x="822" y="420">第 3.2 条:室内设备应能监控并显示建筑</text><text fill="#8FA3BC" font-size="18" x="822" y="450">消防设施运行状态信息,并应具有向监控</text><text fill="#8FA3BC" font-size="18" x="822" y="480">中心传输这些信息的功能。</text></g>
+  <g id="records-note" data-pptx-bounds="790 566 426 76">
+    <rect x="790" y="566" width="5" height="76" fill="#D8F04A" />
+    <text fill="#DCE6F0" font-size="18" x="820" y="596">第 3.3 条:室内还应保存第 4.1 条规定的资料</text><text fill="#DCE6F0" font-size="18" x="820" y="626">与附录 B 的消防安全管理信息。</text></g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:GB 25506-2010《消防控制室通用技术要求》第 3 章</text>
+    <text x="1216" y="688" text-anchor="end">05</text>
+  </g>
+</svg>

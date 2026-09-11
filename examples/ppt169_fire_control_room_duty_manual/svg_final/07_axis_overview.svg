@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="axisArrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#4A9FD8" />
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="208" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="360" width="12" height="144" fill="#D8F04A" />
+    <rect x="48" y="512" width="12" height="144" fill="#2A3F5C" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第三节 · 判断轴总览</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">四级判断轴:你在哪一级,决定你下一步做什么</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">分级为本手册整理;条文只区分接到警报、确认、确认为火灾后三个状态。</text>
+  </g>
+  <g id="axis-rail" data-pptx-bounds="96 262 528 382">
+    <line x1="140" y1="276" x2="140" y2="606" stroke="#4A9FD8" stroke-width="3" marker-end="url(#axisArrow)" />
+    <circle id="axis-current-mark" cx="140" cy="270" r="8" fill="#D8F04A" />
+    <g id="axis-level-0">
+      <circle cx="140" cy="300" r="14" fill="#0E1B2E" stroke="#4A9FD8" stroke-width="3" />
+      <text x="180" y="310" font-size="30" font-weight="bold" fill="#4A9FD8">L0</text>
+      <text x="256" y="304" font-size="24" font-weight="bold" fill="#DCE6F0">待确认</text>
+      <text x="256" y="332" font-size="18" fill="#8FA3BC">信号已到,性质未定;时间开始计时</text>
+    </g>
+    <g id="axis-level-1">
+      <circle cx="140" cy="386" r="14" fill="#0E1B2E" stroke="#4A9FD8" stroke-width="3" />
+      <text x="180" y="396" font-size="30" font-weight="bold" fill="#4A9FD8">L1</text>
+      <text x="256" y="390" font-size="24" font-weight="bold" fill="#DCE6F0">非火警</text>
+      <text x="256" y="418" font-size="18" fill="#8FA3BC">核实为误报;时间压力解除,记录不解除</text>
+    </g>
+    <g id="axis-level-2">
+      <circle cx="140" cy="472" r="14" fill="#0E1B2E" stroke="#E85D2B" stroke-width="3" />
+      <text x="180" y="482" font-size="30" font-weight="bold" fill="#E85D2B">L2</text>
+      <text x="256" y="476" font-size="24" font-weight="bold" fill="#DCE6F0">确认火警</text>
+      <text x="256" y="504" font-size="18" fill="#8FA3BC">三项动作同时启动,动作不可撤销</text>
+    </g>
+    <g id="axis-level-3">
+      <circle cx="140" cy="558" r="14" fill="#0E1B2E" stroke="#4A9FD8" stroke-width="3" />
+      <text x="180" y="568" font-size="30" font-weight="bold" fill="#4A9FD8">L3</text>
+      <text x="256" y="562" font-size="24" font-weight="bold" fill="#DCE6F0">移交与记录</text>
+      <text x="256" y="590" font-size="18" fill="#8FA3BC">指挥权移交到场力量,记录与归档收尾</text>
+    </g>
+  </g>
+  <g id="rising-costs" data-pptx-bounds="680 262 536 198">
+    <line x1="680" y1="268" x2="1216" y2="268" stroke="#4A9FD8" stroke-width="3" />
+    <text x="680" y="310" font-size="28" fill="#DCE6F0">随级别上升的两项代价</text>
+    <g id="cost-time">
+      <!-- icon: tabler-outline/clock -->
+  <g transform="translate(680, 336) scale(1.08333)" fill="none" stroke="#D8F04A" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M12 7v5l3 3" />
+  </g>
+      <text x="720" y="356" font-size="24" fill="#DCE6F0">可用时间收紧</text>
+      <text x="720" y="382" font-size="18" fill="#8FA3BC">L0 起开始计时,越往下每一步越影响到场时间</text>
+    </g>
+    <g id="cost-irreversible">
+      <!-- icon: tabler-outline/ban -->
+  <g transform="translate(680, 400) scale(1.08333)" fill="none" stroke="#E85D2B" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M5.7 5.7l12.6 12.6" />
+  </g>
+      <text x="720" y="420" font-size="24" fill="#DCE6F0">动作的不可撤销性上升</text>
+      <text x="720" y="446" font-size="18" fill="#8FA3BC">L1 可以复位,L2 之后的联动与疏散不能撤回</text>
+    </g>
+  </g>
+  <g id="clause-map" data-pptx-bounds="680 470 536 190">
+    <text x="680" y="492" font-size="18" letter-spacing="2" fill="#4A9FD8">每一级对应的条文</text>
+    <g id="clause-rows">
+      <text x="680" y="536" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#D8F04A">L0</text>
+      <text x="728" y="536" font-size="24" fill="#DCE6F0">立即以最快方式确认</text>
+      <text x="1216" y="536" font-size="18" fill="#8FA3BC" text-anchor="end">第 4.2.2 条 a)</text>
+      <text x="680" y="572" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#D8F04A">L1</text>
+      <text x="728" y="572" font-size="24" fill="#DCE6F0">记录、归档、复盘</text>
+      <text x="1216" y="572" font-size="18" fill="#8FA3BC" text-anchor="end">第 4.1 条 e)、h)</text>
+      <text x="680" y="608" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#D8F04A">L2</text>
+      <text x="728" y="608" font-size="24" fill="#DCE6F0">三项动作同时启动</text>
+      <text x="1216" y="608" font-size="18" fill="#8FA3BC" text-anchor="end">第 4.2.2 条 b)、c)</text>
+      <text x="680" y="644" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#D8F04A">L3</text>
+      <text x="728" y="644" font-size="24" fill="#DCE6F0">移交、记录、交接</text>
+      <text x="1216" y="644" font-size="18" fill="#8FA3BC" text-anchor="end">整理</text>
+    </g>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">条文来源:GB 25506-2010 第 4.1、4.2.2 条 · 四级分级为本手册整理</text>
+    <text x="1216" y="688" text-anchor="end">07</text>
+  </g>
+</svg>

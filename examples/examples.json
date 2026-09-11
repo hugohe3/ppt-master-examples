@@ -1,12 +1,121 @@
 {
   "version": 1,
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "stats": {
-    "examples": 42,
-    "pages": 593,
-    "templates": 42
+    "examples": 43,
+    "pages": 609,
+    "templates": 43
   },
   "projects": [
+    {
+      "id": "ppt169_fire_control_room_duty_manual",
+      "title": "消防控制室值班手册",
+      "description": "内部培训 deck 16 页 — 首个 duty-manual 方法模板示例,至此 13 个内置方法模板全部有示例;面向新上岗的消防控制室值班员,把散落在 GB 25506-2010、GB 50116-2013、《消防法》和国家职业标准里的值班规则收拢到一条四级判断轴上(L0 待确认→L1 非火警→L2 确认火警→报警五要素),自建分级标「整理」;输入只有题目,事实经 topic-research 取自国家消防救援局 2024 年火灾统计与公开标准,其中职业标准以 PDF 直链经 source_to_md 转换;深底细线网格、判断句标题、左缘章节指示条(反例页整条变警示色);夜间火灾起数/亡人对比 1 张原生图表,交接班检查表与人员配置表 2 张原生表格(深底显式单元格填充),9 个原生预设形状与 8 条箭头连接线,判断轴跨 5 页 Morph 链式推进,AI 全出血场景 3 张 + 白线技术线图 1 张 + 反例主视觉 1 张,4 条来源原生超链接,全卷讲者备注",
+      "icon": "🚨",
+      "color": "#0E1B2E",
+      "style": "technical",
+      "styleName": "Duty Manual · 深底手册",
+      "desc": "A sixteen-page Chinese internal training deck for newly posted fire-control-room duty operators — the first example built on the bundled duty-manual Style, which completes the set of bundled method templates. It gathers duty rules scattered across GB 25506-2010, GB 50116-2013, the Fire Protection Law and the national occupational standard onto one four-level judgment axis (signal pending → non-fire → confirmed fire → the five-item emergency call), marked as compiled on the page. The only input was the topic: facts came through topic research from the National Fire and Rescue Administration's 2024 statistics and public standards, with the occupational standard fetched as a PDF URL and converted by source_to_md. Dark-field hairline grid, judgment-sentence titles, a left-edge section indicator that turns to the warning colour on the counterexample page; one native chart (night-hours fire count versus deaths), two native tables (handover checklist and shift staffing, with explicit dark cell fills), nine preset shapes and eight arrow connectors, a Morph chain that advances the axis across five pages, three full-bleed AI scenes under directional scrims, one white technical line diagram and one square counterexample visual, four native source hyperlinks, speaker notes throughout.",
+      "tags": [
+        "Technical",
+        "Duty Manual",
+        "Style Template",
+        "Training",
+        "Safety",
+        "Native Charts",
+        "Native Tables",
+        "Morph",
+        "AI Illustration"
+      ],
+      "isNew": true,
+      "folder": "ppt169_fire_control_room_duty_manual/svg_final",
+      "generatedAt": "2026-09-11",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_fire_control_room_duty_manual/exports/ppt169_fire_control_room_duty_manual.pptx",
+      "pptxNative": "examples/ppt169_fire_control_room_duty_manual/exports/ppt169_fire_control_room_duty_manual_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "接到信号那一刻,你已经在某一级上"
+        },
+        {
+          "file": "02_scale.svg",
+          "title": "scale",
+          "desc": "一年 90.8 万起火灾,最危险的六小时在夜里"
+        },
+        {
+          "file": "03_night_split.svg",
+          "title": "night_split",
+          "desc": "夜里六小时,起数最少、死亡最多"
+        },
+        {
+          "file": "04_section_one.svg",
+          "title": "section_one",
+          "desc": "先弄清信号从哪里来,再谈接到信号怎么办"
+        },
+        {
+          "file": "05_room_devices.svg",
+          "title": "room_devices",
+          "desc": "七类设备把状态汇进一块屏,这块屏才是你的工作面"
+        },
+        {
+          "file": "06_time_limits.svg",
+          "title": "time_limits",
+          "desc": "火警信号只有 10 秒额度,其他信号是 100 秒"
+        },
+        {
+          "file": "07_axis_overview.svg",
+          "title": "axis_overview",
+          "desc": "四级判断轴:你在哪一级,决定你下一步做什么"
+        },
+        {
+          "file": "08_level_l0.svg",
+          "title": "level_l0",
+          "desc": "L0 待确认:标准只给了一个动作——立刻去核实"
+        },
+        {
+          "file": "09_level_l1.svg",
+          "title": "level_l1",
+          "desc": "L1 非火警:可以复位,不可以不留痕"
+        },
+        {
+          "file": "10_level_l2.svg",
+          "title": "level_l2",
+          "desc": "L2 确认火警:三个动作同时开始,没有先后可挑"
+        },
+        {
+          "file": "11_call_119.svg",
+          "title": "call_119",
+          "desc": "报警时说满五件事,少一件就要再问一轮"
+        },
+        {
+          "file": "12_section_two.svg",
+          "title": "section_two",
+          "desc": "判断轴要落到两张能签字的表上"
+        },
+        {
+          "file": "13_handover_checklist.svg",
+          "title": "handover_checklist",
+          "desc": "交接班清单:每一项都挡住一个已知的失败"
+        },
+        {
+          "file": "14_shift_staffing.svg",
+          "title": "shift_staffing",
+          "desc": "每班两人是标准写死的下限,且两人不做同一件事"
+        },
+        {
+          "file": "15_counterexample.svg",
+          "title": "counterexample",
+          "desc": "把该自动的设成手动,等于把整套联动关掉"
+        },
+        {
+          "file": "16_traceback.svg",
+          "title": "traceback",
+          "desc": "每一条规则,都能走回它依赖的那一页"
+        }
+      ]
+    },
     {
       "id": "ppt169_every_day_counts_proposal",
       "title": "Every Day Counts",

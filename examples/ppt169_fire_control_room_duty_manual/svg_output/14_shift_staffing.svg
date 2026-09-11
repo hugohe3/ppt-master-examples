@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="208" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="360" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="512" width="12" height="144" fill="#D8F04A" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第四节 · 人员配置表页</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">每班两人是标准写死的下限,且两人不做同一件事</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">2 人不是冗余,是把留守工作面与外出核实拆成两个不能合并的岗位。</text>
+  </g>
+  <g id="shift-staffing" data-pptx-replace-with="table" data-pptx-bounds="96 268 1120 212" data-pptx-fallback-sha256="e79fa22078253fc5e813ef2128429eef1c25e10a9a3173df3c0a21ffc0d31edb">
+    <metadata type="application/json">
+{
+ "schema": "ppt-master.semantic-table.v2",
+ "x": 96,
+ "y": 268,
+ "width": 1120,
+ "height": 212,
+ "name": "shift-staffing",
+ "column_widths": [
+  200,
+  120,
+  260,
+  340,
+  200
+ ],
+ "row_heights": [
+  44,
+  56,
+  56,
+  56
+ ],
+ "defaults": {
+  "cell": {
+   "fill": "#0E1B2E",
+   "color": "#DCE6F0",
+   "font_size": 18,
+   "align": "l",
+   "valign": "middle",
+   "padding": 8,
+   "borders": {
+    "top": {
+     "style": "none"
+    },
+    "left": {
+     "style": "none"
+    },
+    "right": {
+     "style": "none"
+    },
+    "bottom": {
+     "style": "solid",
+     "color": "#2A3F5C",
+     "width": 1
+    }
+   }
+  }
+ },
+ "columns": [
+  {
+   "text": "岗位",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "l"
+  },
+  {
+   "text": "每班人数",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "r"
+  },
+  {
+   "text": "资格要求",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "l"
+  },
+  {
+   "text": "主要职责",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "l"
+  },
+  {
+   "text": "依据",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "l"
+  }
+ ],
+ "rows": [
+  [
+   {
+    "text": "值班长(留守)",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "1 人",
+    "fill": "#0E1B2E",
+    "align": "r",
+    "font_size": 22,
+    "bold": true,
+    "color": "#D8F04A"
+   },
+   {
+    "text": "持消防控制室操作资格证书",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "守住工作面、对外报警与报告",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "第 4.2.1 条 a)",
+    "fill": "#0E1B2E"
+   }
+  ],
+  [
+   {
+    "text": "值班员(核实)",
+    "fill": "#16273D"
+   },
+   {
+    "text": "1 人",
+    "fill": "#16273D",
+    "align": "r",
+    "font_size": 22,
+    "bold": true,
+    "color": "#D8F04A"
+   },
+   {
+    "text": "同一证书、同一等级要求",
+    "fill": "#16273D"
+   },
+   {
+    "text": "到现场核实并回传结果",
+    "fill": "#16273D"
+   },
+   {
+    "text": "第 4.2.2 条 a)",
+    "fill": "#16273D"
+   }
+  ],
+  [
+   {
+    "text": "合计(下限)",
+    "fill": "#0E1B2E",
+    "color": "#DCE6F0",
+    "bold": true
+   },
+   {
+    "text": "2 人",
+    "fill": "#0E1B2E",
+    "align": "r",
+    "font_size": 22,
+    "bold": true,
+    "color": "#D8F04A"
+   },
+   {
+    "text": "两人均须持证",
+    "fill": "#0E1B2E",
+    "color": "#DCE6F0",
+    "bold": true
+   },
+   {
+    "text": "每班不应少于 2 人",
+    "fill": "#0E1B2E",
+    "color": "#DCE6F0",
+    "bold": true
+   },
+   {
+    "text": "第 4.2.1 条 a)",
+    "fill": "#0E1B2E",
+    "color": "#DCE6F0",
+    "bold": true
+   }
+  ]
+ ]
+}
+    </metadata>
+    <rect id="staffing-header-band" x="96" y="268" width="1120" height="44" fill="#1A2C46" />
+    <rect x="96" y="368" width="1120" height="56" fill="#16273D" />
+    <text x="108" y="297" font-size="18" font-weight="bold" fill="#8FA3BC">岗位</text>
+    <text x="404" y="297" font-size="18" font-weight="bold" fill="#8FA3BC" text-anchor="end">每班人数</text>
+    <text x="428" y="297" font-size="18" font-weight="bold" fill="#8FA3BC">资格要求</text>
+    <text x="688" y="297" font-size="18" font-weight="bold" fill="#8FA3BC">主要职责</text>
+    <text x="1028" y="297" font-size="18" font-weight="bold" fill="#8FA3BC">依据</text>
+    <line x1="96" y1="312" x2="1216" y2="312" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="347" font-size="18" fill="#DCE6F0">值班长(留守)</text>
+    <text x="404" y="347" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#D8F04A" font-weight="bold" text-anchor="end">1 人</text>
+    <text x="428" y="347" font-size="18" fill="#DCE6F0">持消防控制室操作资格证书</text>
+    <text x="688" y="347" font-size="18" fill="#DCE6F0">守住工作面、对外报警与报告</text>
+    <text x="1028" y="347" font-size="18" fill="#DCE6F0">第 4.2.1 条 a)</text>
+    <line x1="96" y1="368" x2="1216" y2="368" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="403" font-size="18" fill="#DCE6F0">值班员(核实)</text>
+    <text x="404" y="403" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#D8F04A" font-weight="bold" text-anchor="end">1 人</text>
+    <text x="428" y="403" font-size="18" fill="#DCE6F0">同一证书、同一等级要求</text>
+    <text x="688" y="403" font-size="18" fill="#DCE6F0">到现场核实并回传结果</text>
+    <text x="1028" y="403" font-size="18" fill="#DCE6F0">第 4.2.2 条 a)</text>
+    <line x1="96" y1="424" x2="1216" y2="424" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="459" font-size="18" fill="#DCE6F0" font-weight="bold">合计(下限)</text>
+    <text x="404" y="459" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#D8F04A" font-weight="bold" text-anchor="end">2 人</text>
+    <text x="428" y="459" font-size="18" fill="#DCE6F0" font-weight="bold">两人均须持证</text>
+    <text x="688" y="459" font-size="18" fill="#DCE6F0" font-weight="bold">每班不应少于 2 人</text>
+    <text x="1028" y="459" font-size="18" fill="#DCE6F0" font-weight="bold">第 4.2.1 条 a)</text>
+    <line x1="96" y1="480" x2="1216" y2="480" stroke="#2A3F5C" stroke-width="1" />
+  </g>
+  <g id="why-two" data-pptx-bounds="96 504 544 150">
+    <use data-icon="tabler-outline/users" x="96" y="506" width="26" height="26" fill="#D8F04A" stroke-width="2" />
+    <text x="136" y="526" font-size="24" fill="#DCE6F0">为什么必须是两个人</text>
+    <text x="96" y="572" font-size="18" fill="#8FA3BC">L0 要求立即到现场核实,而工作面不能空;<tspan x="96" dy="26">一人外出、一人留守,是这条要求的唯一解(整理)。</tspan><tspan x="96" dy="26">岗位名称与分工为本手册整理,标准只规定人数与资格。</tspan></text>
+  </g>
+  <g id="certificate-note" data-pptx-bounds="696 504 520 150">
+    <use data-icon="tabler-outline/certificate" x="696" y="506" width="26" height="26" fill="#4A9FD8" stroke-width="2" />
+    <text x="736" y="526" font-size="24" fill="#DCE6F0">证书从哪里来</text>
+    <text x="696" y="572" font-size="18" fill="#8FA3BC">国家职业标准《消防设施操作员》,职业编码<tspan x="696" dy="26">4-07-05-03,设五级/初级工至一级/高级技师;</tspan><tspan x="696" dy="26">"按值班应急程序处置火警信息"是 1.1.12 核心技能。</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:GB 25506-2010 第 4.2.1、4.2.2 条 · 国家职业标准《消防设施操作员》(2026 年版)</text>
+    <text x="1216" y="688" text-anchor="end">14</text>
+  </g>
+</svg>

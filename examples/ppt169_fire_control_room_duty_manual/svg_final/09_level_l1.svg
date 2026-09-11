@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="axisArrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#4A9FD8" />
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="208" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="360" width="12" height="144" fill="#D8F04A" />
+    <rect x="48" y="512" width="12" height="144" fill="#2A3F5C" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第三节 · 层级页 L1</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">L1 非火警:可以复位,不可以不留痕</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">降级只解除时间压力,不解除记录义务;误报的价值全在记录里。</text>
+  </g>
+  <g id="axis-rail" data-pptx-bounds="96 262 200 382">
+    <line x1="140" y1="276" x2="140" y2="606" stroke="#4A9FD8" stroke-width="3" marker-end="url(#axisArrow)" />
+    <circle id="axis-current-mark" cx="140" cy="386" r="22" fill="none" stroke="#D8F04A" stroke-width="3" />
+    <g id="axis-level-0">
+      <circle cx="140" cy="300" r="14" fill="#0E1B2E" stroke="#2A3F5C" stroke-width="3" />
+      <text x="180" y="310" font-size="30" font-weight="bold" fill="#2A3F5C">L0</text>
+    </g>
+    <g id="axis-level-1" fill="#D8F04A">
+      <circle cx="140" cy="386" r="14" stroke="#D8F04A" stroke-width="3" />
+      <text x="180" y="396" font-size="30" font-weight="bold">L1</text>
+    </g>
+    <g id="axis-level-2">
+      <circle cx="140" cy="472" r="14" fill="#0E1B2E" stroke="#2A3F5C" stroke-width="3" />
+      <text x="180" y="482" font-size="30" font-weight="bold" fill="#2A3F5C">L2</text>
+    </g>
+    <g id="axis-level-3">
+      <circle cx="140" cy="558" r="14" fill="#0E1B2E" stroke="#2A3F5C" stroke-width="3" />
+      <text x="180" y="568" font-size="30" font-weight="bold" fill="#2A3F5C">L3</text>
+    </g>
+  </g>
+  <g id="verdict-node" data-pptx-bounds="360 354 262 84">
+    <g id="p09-source-node" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="360 356 260 80" fill="none" stroke="#4A9FD8" stroke-width="2">
+<path d="M 360 356 L 606.67 356 L 620 369.33 L 620 436 L 360 436 Z" />
+</g>
+    <text x="384" y="392" font-size="18" fill="#8FA3BC">核实结果</text>
+    <text x="384" y="424" font-size="28" font-weight="bold" fill="#4A9FD8">非火警</text>
+  </g>
+  <g id="obligation-edges" data-pptx-bounds="624 320 132 194" stroke="#4A9FD8" stroke-width="2">
+    <line x1="628" y1="390" x2="748" y2="330" marker-end="url(#axisArrow)" />
+    <line x1="628" y1="396" x2="748" y2="418" marker-end="url(#axisArrow)" />
+    <line x1="628" y1="402" x2="748" y2="506" marker-end="url(#axisArrow)" />
+  </g>
+  <g id="obligation-records" data-pptx-bounds="760 296 456 68">
+    <rect x="760" y="296" width="456" height="68" fill="none" stroke="#2A3F5C" stroke-width="1" />
+    <!-- icon: tabler-outline/file-text -->
+  <g transform="translate(784, 317) scale(1.08333)" fill="none" stroke="#4A9FD8" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="828" y="326" font-size="24" fill="#DCE6F0">值班情况与检查巡查记录</text>
+    <text x="828" y="352" font-size="18" fill="#8FA3BC">GB 25506-2010 第 4.1 条 e)</text>
+  </g>
+  <g id="obligation-archive" data-pptx-bounds="760 384 456 68">
+    <rect x="760" y="384" width="456" height="68" fill="none" stroke="#2A3F5C" stroke-width="1" />
+    <!-- icon: tabler-outline/clipboard-check -->
+  <g transform="translate(784, 405) scale(1.08333)" fill="none" stroke="#4A9FD8" stroke-width="2">
+    <path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2" />
+    <path d="M9 5a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2" />
+    <path d="M9 14l2 2l4 -4" />
+  </g>
+    <text x="828" y="414" font-size="24" fill="#DCE6F0">接报警记录与火灾处理情况</text>
+    <text x="828" y="440" font-size="18" fill="#8FA3BC">GB 25506-2010 第 4.1 条 h)·定期归档</text>
+  </g>
+  <g id="obligation-logbook" data-pptx-bounds="760 472 456 68">
+    <rect x="760" y="472" width="456" height="68" fill="none" stroke="#2A3F5C" stroke-width="1" />
+    <!-- icon: tabler-outline/certificate -->
+  <g transform="translate(784, 493) scale(1.08333)" fill="none" stroke="#4A9FD8" stroke-width="2">
+    <path d="M12 15a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+    <path d="M13 17.5v4.5l2 -1.5l2 1.5v-4.5" />
+    <path d="M10 19h-5a2 2 0 0 1 -2 -2v-10c0 -1.1 .9 -2 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -1 1.73" />
+    <path d="M6 9l12 0" />
+    <path d="M6 12l3 0" />
+    <path d="M6 15l2 0" />
+  </g>
+    <text x="828" y="502" font-size="24" fill="#DCE6F0">填写消防控制室值班记录表</text>
+    <text x="828" y="528" font-size="18" fill="#8FA3BC">国家职业标准 五级/初级工 1.1.14</text>
+  </g>
+  <g id="repeat-alarm-note" data-pptx-bounds="360 568 856 96">
+    <rect x="360" y="568" width="5" height="88" fill="#D8F04A" />
+    <rect x="388" y="570" width="88" height="30" fill="none" stroke="#D8F04A" stroke-width="1" />
+    <text x="432" y="591" font-size="18" fill="#D8F04A" text-anchor="middle">整理</text>
+    <text x="388" y="628" font-size="24" fill="#DCE6F0">同一点位重复误报,应转为检修申报,而不是继续复位;</text>
+    <text x="388" y="654" font-size="18" fill="#8FA3BC">消防安全重点单位还须每日防火巡查并建立巡查记录(《消防法》第十七条)。</text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:GB 25506-2010 第 4.1 条 · 《中华人民共和国消防法》第十七条 · 国家职业标准《消防设施操作员》</text>
+    <text x="1216" y="688" text-anchor="end">09</text>
+  </g>
+</svg>

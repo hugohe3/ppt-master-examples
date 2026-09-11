@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#D8F04A" />
+    <rect x="48" y="208" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="360" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="512" width="12" height="144" fill="#2A3F5C" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第一节 · 为什么这本手册值得重讲</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">一年 90.8 万起火灾,最危险的六小时在夜里</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">总量说明它值得重讲,时段结构说明夜班值班员的判断代价最高。</text>
+  </g>
+  <g id="kpi-total-fires" data-pptx-bounds="96 300 336 184">
+    <line x1="96" y1="300" x2="432" y2="300" stroke="#4A9FD8" stroke-width="3" />
+    <text x="96" y="410" font-size="96" font-weight="bold" fill="#D8F04A">90.8<tspan font-size="30" font-weight="normal" fill="#DCE6F0"> 万起</tspan></text>
+    <text x="96" y="452" font-size="18" fill="#8FA3BC">全年接报火灾总量<tspan x="96" dy="26">消防救援队伍接报口径</tspan></text>
+  </g>
+  <g id="kpi-deaths" data-pptx-bounds="472 300 336 184">
+    <line x1="472" y1="300" x2="808" y2="300" stroke="#4A9FD8" stroke-width="3" />
+    <text x="472" y="410" font-size="96" font-weight="bold" fill="#D8F04A">2001<tspan font-size="30" font-weight="normal" fill="#DCE6F0"> 人</tspan></text>
+    <text x="472" y="452" font-size="18" fill="#8FA3BC">全年火灾亡人<tspan x="472" dy="26">另有 2665 人受伤</tspan></text>
+  </g>
+  <g id="kpi-loss" data-pptx-bounds="848 300 336 184">
+    <line x1="848" y1="300" x2="1184" y2="300" stroke="#4A9FD8" stroke-width="3" />
+    <text x="848" y="410" font-size="96" font-weight="bold" fill="#D8F04A">77.4<tspan font-size="30" font-weight="normal" fill="#DCE6F0"> 亿元</tspan></text>
+    <text x="848" y="452" font-size="18" fill="#8FA3BC">直接财产损失<tspan x="848" dy="26">较大火灾 70 起、重大 3 起</tspan></text>
+  </g>
+  <g id="night-turn" data-pptx-bounds="96 516 1120 108">
+    <rect x="96" y="516" width="1120" height="108" fill="none" stroke="#2A3F5C" stroke-width="1" />
+    <rect x="96" y="516" width="5" height="108" fill="#D8F04A" />
+    <text x="128" y="558" font-size="24" fill="#DCE6F0">0 时至 6 时的火灾只占全年起数的 <tspan font-weight="bold" fill="#D8F04A">10.3%</tspan>,亡人数却占 <tspan font-weight="bold" fill="#E85D2B">31.3%</tspan>。</text>
+    <text x="128" y="596" font-size="24" fill="#DCE6F0">夜班的一次确认,不等于白班的一次确认。</text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:国家消防救援局 2024 年全国火灾情况(2025 年 1 月发布)</text>
+    <text x="1216" y="688" text-anchor="end">02</text>
+  </g>
+</svg>

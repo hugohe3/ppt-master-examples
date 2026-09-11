@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="axisArrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#4A9FD8" />
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="208" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="360" width="12" height="144" fill="#D8F04A" />
+    <rect x="48" y="512" width="12" height="144" fill="#2A3F5C" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第三节 · 流程顺序页 L2</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">L2 确认火警:三个动作同时开始,没有先后可挑</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">三项动作在条文里并列启动;排到后面的那一项,丢掉的是不可逆的时间。</text>
+  </g>
+  <g id="axis-rail" data-pptx-bounds="96 262 200 382">
+    <line x1="140" y1="276" x2="140" y2="606" stroke="#4A9FD8" stroke-width="3" marker-end="url(#axisArrow)" />
+    <circle id="axis-current-mark" cx="140" cy="472" r="22" fill="none" stroke="#E85D2B" stroke-width="3" />
+    <g id="axis-level-0">
+      <circle cx="140" cy="300" r="14" fill="#0E1B2E" stroke="#2A3F5C" stroke-width="3" />
+      <text x="180" y="310" font-size="30" font-weight="bold" fill="#2A3F5C">L0</text>
+    </g>
+    <g id="axis-level-1">
+      <circle cx="140" cy="386" r="14" fill="#0E1B2E" stroke="#2A3F5C" stroke-width="3" />
+      <text x="180" y="396" font-size="30" font-weight="bold" fill="#2A3F5C">L1</text>
+    </g>
+    <g id="axis-level-2" fill="#E85D2B">
+      <circle cx="140" cy="472" r="14" stroke="#E85D2B" stroke-width="3" />
+      <text x="180" y="482" font-size="30" font-weight="bold">L2</text>
+    </g>
+    <g id="axis-level-3">
+      <circle cx="140" cy="558" r="14" fill="#0E1B2E" stroke="#2A3F5C" stroke-width="3" />
+      <text x="180" y="568" font-size="30" font-weight="bold" fill="#2A3F5C">L3</text>
+    </g>
+  </g>
+  <g id="trigger-moment" data-pptx-bounds="390 258 140 340">
+    <text x="396" y="276" font-size="18" letter-spacing="2" fill="#E85D2B">火灾确认时刻</text>
+    <line x1="392" y1="290" x2="392" y2="590" stroke="#E85D2B" stroke-width="3" />
+  </g>
+  <g id="p10-arrow-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="400 308 120 44" fill="#E85D2B" stroke="none">
+<path d="M 400 319 L 498 319 L 498 308 L 520 330 L 498 352 L 498 341 L 400 341 Z" />
+</g>
+  <g id="p10-arrow-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="400 418 120 44" fill="#E85D2B" stroke="none">
+<path d="M 400 429 L 498 429 L 498 418 L 520 440 L 498 462 L 498 451 L 400 451 Z" />
+</g>
+  <g id="p10-arrow-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="400 528 120 44" fill="#E85D2B" stroke="none">
+<path d="M 400 539 L 498 539 L 498 528 L 520 550 L 498 572 L 498 561 L 400 561 Z" />
+</g>
+  <g id="step-switch-auto" data-pptx-bounds="540 296 676 72">
+    <rect x="540" y="296" width="676" height="72" fill="none" stroke="#2A3F5C" stroke-width="1" />
+    <text x="564" y="334" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" font-weight="bold" fill="#D8F04A">01</text>
+    <text x="604" y="326" font-size="24" fill="#DCE6F0">确认火灾报警联动控制开关处于自动状态</text>
+    <text x="604" y="352" font-size="18" fill="#8FA3BC">晚一步,联动就要靠人手一台一台补回来</text>
+  </g>
+  <g id="step-call-119" data-pptx-bounds="540 406 676 72">
+    <rect x="540" y="406" width="676" height="72" fill="none" stroke="#D8F04A" stroke-width="2" />
+    <text x="564" y="444" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" font-weight="bold" fill="#D8F04A">02</text>
+    <text x="604" y="436" font-size="24" fill="#DCE6F0">同时拨打"119"报警,并说满五个要素</text>
+    <text x="604" y="462" font-size="18" fill="#8FA3BC">晚一步,消防车到场时间整体后移</text>
+  </g>
+  <g id="step-evacuate" data-pptx-bounds="540 516 676 72">
+    <rect x="540" y="516" width="676" height="72" fill="none" stroke="#2A3F5C" stroke-width="1" />
+    <text x="564" y="554" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" font-weight="bold" fill="#D8F04A">03</text>
+    <text x="604" y="546" font-size="24" fill="#DCE6F0">启动应急疏散和灭火预案,并报告单位负责人</text>
+    <text x="604" y="572" font-size="18" fill="#8FA3BC">晚一步,疏散就错过最有利的那段时间</text>
+  </g>
+  <g id="clause-trace" data-pptx-bounds="540 610 676 62">
+    <line x1="540" y1="612" x2="1216" y2="612" stroke="#2A3F5C" stroke-width="1" />
+    <text x="540" y="636" font-size="18" fill="#8FA3BC">条文出处:GB 25506-2010 第 4.2.2 条 b)、c)<tspan x="540" dy="26">本页依赖的机制页:第 06 页(优先级与时限)</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:GB 25506-2010《消防控制室通用技术要求》第 4.2.2 条</text>
+    <text x="1216" y="688" text-anchor="end">10</text>
+  </g>
+</svg>

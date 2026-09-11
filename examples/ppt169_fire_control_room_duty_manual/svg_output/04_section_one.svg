@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="section">
+  <defs>
+    <linearGradient id="sectionScrimLeft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A1422" stop-opacity="0.94" />
+      <stop offset="55%" stop-color="#0A1422" stop-opacity="0.60" />
+      <stop offset="100%" stop-color="#0A1422" stop-opacity="0.18" />
+    </linearGradient>
+  </defs>
+  <image id="section-photo" data-pptx-role="background" href="../images/divider_alarm_panel_fit.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
+  <rect id="section-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#sectionScrimLeft)" />
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="208" width="12" height="144" fill="#D8F04A" />
+    <rect x="48" y="360" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="512" width="12" height="144" fill="#2A3F5C" />
+  </g>
+  <g id="section-number" data-pptx-bounds="96 130 220 138">
+    <text x="96" y="228" font-size="96" font-weight="bold" font-family="'Arial Black', 'Microsoft YaHei', sans-serif" fill="#D8F04A">01</text>
+  </g>
+  <g id="section-title" data-pptx-bounds="96 278 540 126">
+    <text x="96" y="320" font-size="40" font-weight="bold" fill="#DCE6F0">先弄清信号从哪里来,<tspan x="96" dy="52">再谈接到信号怎么办</tspan></text>
+  </g>
+  <g id="section-items" data-pptx-bounds="96 434 540 130">
+    <line x1="96" y1="440" x2="616" y2="440" stroke="#4A9FD8" stroke-width="2" />
+    <text x="96" y="492" font-size="24" fill="#DCE6F0">消防控制室里有哪七类设备</text>
+    <text x="96" y="542" font-size="24" fill="#DCE6F0">信息在 10 秒与 100 秒之间怎么走</text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">第一节 · 信号从哪里来,走多快</text>
+    <text x="1216" y="688" text-anchor="end">04</text>
+  </g>
+</svg>

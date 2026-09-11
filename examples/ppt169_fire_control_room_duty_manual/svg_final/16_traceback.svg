@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600" fill="#D8F04A">
+    <rect x="48" y="56" width="12" height="144" />
+    <rect x="48" y="208" width="12" height="144" />
+    <rect x="48" y="360" width="12" height="144" />
+    <rect x="48" y="512" width="12" height="144" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第四节 · 收束标准页</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">每一条规则,都能走回它依赖的那一页</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">手册可以合上,轴不能丢:任何一条规则都能在两步内走回机制页。</text>
+  </g>
+  <g id="rule-traceback" data-pptx-bounds="96 262 664 324">
+    <text x="96" y="284" font-size="18" letter-spacing="2" fill="#4A9FD8">规则 → 它依赖的机制页</text>
+    <g id="traceback-rows">
+      <text x="96" y="332" font-size="24" fill="#DCE6F0">每班 2 人持证上岗</text>
+      <text x="760" y="332" font-size="18" fill="#D8F04A" text-anchor="end">第 14 页</text>
+      <text x="96" y="380" font-size="24" fill="#DCE6F0">接警后立即到现场核实</text>
+      <text x="760" y="380" font-size="18" fill="#D8F04A" text-anchor="end">第 08 页 · 第 06 页</text>
+      <text x="96" y="428" font-size="24" fill="#DCE6F0">误报也必须留痕归档</text>
+      <text x="760" y="428" font-size="18" fill="#D8F04A" text-anchor="end">第 09 页 · 第 05 页</text>
+      <text x="96" y="476" font-size="24" fill="#DCE6F0">确认火警三动作同时开始</text>
+      <text x="760" y="476" font-size="18" fill="#D8F04A" text-anchor="end">第 10 页</text>
+      <text x="96" y="524" font-size="24" fill="#DCE6F0">报警必须说满五个要素</text>
+      <text x="760" y="524" font-size="18" fill="#D8F04A" text-anchor="end">第 11 页</text>
+      <text x="96" y="572" font-size="24" fill="#DCE6F0">禁止把该自动的设成手动</text>
+      <text x="760" y="572" font-size="18" fill="#E85D2B" text-anchor="end">第 15 页 · 第 06 页</text>
+    </g>
+  </g>
+  <g id="source-links" data-pptx-bounds="800 262 416 300">
+    <text x="800" y="284" font-size="18" letter-spacing="2" fill="#4A9FD8">四个可核验的出处</text>
+    <a href="https://js.119.gov.cn/group1/M00/00/86/rBPe7WOQFC-ADUCxACEPrA_OX9w654.pdf"><g id="link-gb25506">
+      <rect x="800" y="300" width="416" height="58" fill="#16273D" />
+      <text x="820" y="326" font-size="18" fill="#DCE6F0">GB 25506-2010 标准全文</text>
+      <text x="820" y="350" font-size="16" fill="#8FA3BC">js.119.gov.cn · 江苏省消防救援总队</text>
+    </g></a>
+    <a href="https://www.119.gov.cn/images/zfxxgk/fdzdgknr/zcfg/2026/05/10/1778399688277005154.pdf"><g id="link-occupation-standard">
+      <rect x="800" y="366" width="416" height="58" fill="#16273D" />
+      <text x="820" y="392" font-size="18" fill="#DCE6F0">国家职业标准《消防设施操作员》</text>
+      <text x="820" y="416" font-size="16" fill="#8FA3BC">www.119.gov.cn · 国家消防救援局</text>
+    </g></a>
+    <a href="http://www.npc.gov.cn/npc/c2/c183/c198/201905/t20190522_73607.html"><g id="link-fire-law">
+      <rect x="800" y="432" width="416" height="58" fill="#16273D" />
+      <text x="820" y="458" font-size="18" fill="#DCE6F0">《中华人民共和国消防法》</text>
+      <text x="820" y="482" font-size="16" fill="#8FA3BC">www.npc.gov.cn · 中国人大网</text>
+    </g></a>
+    <a href="https://news.cctv.com/2025/01/24/ARTIzxLWxFYy5ewOGCrrZPKV250124.shtml"><g id="link-fire-statistics">
+      <rect x="800" y="498" width="416" height="58" fill="#16273D" />
+      <text x="820" y="524" font-size="18" fill="#DCE6F0">2024 年全国火灾情况</text>
+      <text x="820" y="548" font-size="16" fill="#8FA3BC">news.cctv.com · 2025 年 1 月发布</text>
+    </g></a>
+  </g>
+  <g id="closing-takeaway" data-pptx-bounds="96 600 1120 70">
+    <line x1="96" y1="602" x2="1216" y2="602" stroke="#4A9FD8" stroke-width="3" />
+    <text x="96" y="628" font-size="18" fill="#8FA3BC">被反复回溯的两页:第 06 页(时限额度)与第 05 页(工作面构成)</text>
+    <text x="1216" y="658" font-size="28" font-weight="bold" fill="#D8F04A" text-anchor="end">接到信号那一刻,先定级,再动作。</text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 678 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="692">内部培训材料 · 2026 · 分级与整理项已在各页标注</text>
+    <text x="1216" y="692" text-anchor="end">16</text>
+  </g>
+</svg>

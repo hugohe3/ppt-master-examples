@@ -1,0 +1,443 @@
+{
+  "version": 1,
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-kicker": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "cover-title": {
+          "effect": "entrance_rise_up",
+          "order": 2,
+          "duration": 0.7
+        },
+        "cover-subtitle": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        }
+      }
+    },
+    "02_scale": {
+      "groups": {
+        "kpi-total-fires": {
+          "effect": "entrance_rise_up",
+          "order": 1,
+          "duration": 0.45
+        },
+        "kpi-deaths": {
+          "effect": "entrance_rise_up",
+          "order": 2,
+          "duration": 0.45
+        },
+        "kpi-loss": {
+          "effect": "entrance_rise_up",
+          "order": 3,
+          "duration": 0.45
+        },
+        "night-turn": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5,
+          "delay": 0.25
+        }
+      }
+    },
+    "03_night_split": {
+      "groups": {
+        "reading-column": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "delay": 0.3
+        }
+      }
+    },
+    "04_section_one": {
+      "groups": {
+        "section-number": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "section-title": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.6,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "section-items": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        }
+      }
+    },
+    "05_room_devices": {
+      "groups": {
+        "device-roster": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "p05-device-bracket": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.5,
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "p05-transmit-arrow": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.4,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "monitor-node": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5
+        },
+        "records-note": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    },
+    "06_time_limits": {
+      "groups": {
+        "signal-chain-figure": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        },
+        "time-budget": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.7,
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "record-capacity-note": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        }
+      }
+    },
+    "07_axis_overview": {
+      "groups": {
+        "axis-rail": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.8,
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "rising-costs": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "clause-map": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        }
+      }
+    },
+    "08_level_l0": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "07_axis_overview",
+        "pairs": {
+          "judgment-axis": {
+            "from": "axis-rail",
+            "to": "axis-rail"
+          }
+        }
+      },
+      "groups": {
+        "p08-clause-bracket": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "clause-quote": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "do-column": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.5,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "dont-column": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.5,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "trace-back": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    },
+    "09_level_l1": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "08_level_l0",
+        "pairs": {
+          "judgment-axis": {
+            "from": "axis-rail",
+            "to": "axis-rail"
+          }
+        }
+      },
+      "groups": {
+        "verdict-node": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "obligation-edges": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.5,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "obligation-records": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "obligation-archive": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "obligation-logbook": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        },
+        "repeat-alarm-note": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.4,
+          "delay": 0.2
+        }
+      }
+    },
+    "10_level_l2": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "09_level_l1",
+        "pairs": {
+          "judgment-axis": {
+            "from": "axis-rail",
+            "to": "axis-rail"
+          }
+        }
+      },
+      "groups": {
+        "trigger-moment": {
+          "effect": "entrance_wipe",
+          "order": 1,
+          "duration": 0.6,
+          "effect_options": {
+            "direction": "down"
+          }
+        },
+        "p10-arrow-1": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.4,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "step-switch-auto": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "with-previous"
+        },
+        "p10-arrow-2": {
+          "effect": "entrance_wipe",
+          "order": 4,
+          "duration": 0.4,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "step-call-119": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4,
+          "trigger": "with-previous"
+        },
+        "p10-arrow-3": {
+          "effect": "entrance_wipe",
+          "order": 6,
+          "duration": 0.4,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "step-evacuate": {
+          "effect": "entrance_fade",
+          "order": 7,
+          "duration": 0.4,
+          "trigger": "with-previous"
+        },
+        "clause-trace": {
+          "effect": "entrance_fade",
+          "order": 8,
+          "duration": 0.4
+        }
+      }
+    },
+    "11_call_119": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "10_level_l2",
+        "pairs": {
+          "judgment-axis": {
+            "from": "axis-rail",
+            "to": "axis-rail"
+          },
+          "call-step": {
+            "from": "step-call-119",
+            "to": "step-call-119"
+          }
+        }
+      },
+      "groups": {
+        "missing-fifth-note": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4,
+          "delay": 0.3
+        }
+      }
+    },
+    "12_section_two": {
+      "groups": {
+        "section-number": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "section-title": {
+          "effect": "entrance_wipe",
+          "order": 2,
+          "duration": 0.6,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "section-items": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        }
+      }
+    },
+    "15_counterexample": {
+      "groups": {
+        "wrong-practice": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "broken-mechanisms": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "legal-consequence": {
+          "effect": "entrance_wipe",
+          "order": 3,
+          "duration": 0.5,
+          "effect_options": {
+            "direction": "right"
+          }
+        },
+        "p15-prohibition": {
+          "effect": "entrance_zoom",
+          "order": 4,
+          "duration": 0.5
+        },
+        "replacement-practice": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    },
+    "16_traceback": {
+      "groups": {
+        "rule-traceback": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "source-links": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "closing-takeaway": {
+          "effect": "entrance_rise_up",
+          "order": 3,
+          "duration": 0.6
+        }
+      }
+    }
+  }
+}

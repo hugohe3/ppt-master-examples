@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#D8F04A" />
+    <rect x="48" y="208" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="360" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="512" width="12" height="144" fill="#2A3F5C" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第一节 · 机制页</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">夜里六小时,起数最少、死亡最多</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">同一口径下两条占比背离,失败不在有没有报警,而在报警之后多久被处理。</text>
+  </g>
+  <g id="night-vs-day-share" data-pptx-replace-with="chart" data-pptx-bounds="96 258 544 390" data-pptx-fallback-sha256="0d50a0c12370db2fcffb393db440376a70e2c31a9dd54abb8878ef718ae66407">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-chart.v2",
+  "x": 96, "y": 258, "width": 544, "height": 390,
+  "name": "night-vs-day-share",
+  "type": "column",
+  "grouping": "clustered",
+  "gap_width": 114,
+  "overlap": -14,
+  "plot_area": {"x": 168, "y": 290, "width": 460, "height": 290},
+  "categories": ["0—6 时", "10—20 时"],
+  "series": [
+    {"name": "火灾起数占比", "values": [10.3, 61.4]},
+    {"name": "亡人数占比", "values": [31.3, 37.4]}
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "tick_marks": "none"},
+    "value": {"kind": "value", "position": "left", "visible": true, "minimum": 0, "maximum": 70, "major_unit": 20, "major_gridlines": true, "tick_marks": "none", "cross_between": "between"}
+  },
+  "axis_titles": {"value": {"text": "占全年总量的百分比", "font_size": 18, "color": "#8FA3BC"}},
+  "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.0\"%\"", "font_size": 22, "font_family": "Arial", "color": "#DCE6F0"},
+  "show_legend": true,
+  "legend_position": "top",
+  "style": {
+    "colors": ["#4A9FD8", "#E85D2B"],
+    "font_family": "Arial",
+    "axis_color": "#2A3F5C",
+    "grid_color": "#1C2E49",
+    "text_color": "#8FA3BC",
+    "chart_area_fill": "none",
+    "plot_area_fill": "none"
+  },
+  "axis_font_size": 18,
+  "axis_title_font_size": 18,
+  "legend_font_size": 18
+}
+    </metadata>
+    <text id="chart-axis-title-value" x="96" y="278" font-size="18" fill="#8FA3BC">占全年总量的百分比</text>
+    <rect x="300" y="265" width="14" height="14" fill="#4A9FD8" />
+    <text x="322" y="278" font-size="18" fill="#8FA3BC">火灾起数占比</text>
+    <rect x="455" y="265" width="14" height="14" fill="#E85D2B" />
+    <text x="477" y="278" font-size="18" fill="#8FA3BC">亡人数占比</text>
+    <g id="night-vs-day-share-chartArea">
+      <line id="chart-gridline-20" x1="168" y1="497.14" x2="628" y2="497.14" stroke="#1C2E49" stroke-width="1" />
+      <line id="chart-gridline-40" x1="168" y1="414.29" x2="628" y2="414.29" stroke="#1C2E49" stroke-width="1" />
+      <line id="chart-gridline-60" x1="168" y1="331.43" x2="628" y2="331.43" stroke="#1C2E49" stroke-width="1" />
+      <line id="chart-axis-value" x1="168" y1="290" x2="168" y2="580" stroke="#2A3F5C" stroke-width="1" />
+      <line id="chart-axis-category" x1="168" y1="580" x2="628" y2="580" stroke="#2A3F5C" stroke-width="1" />
+      
+      <rect x="208" y="537.33" width="70" height="42.67" fill="#4A9FD8" />
+      <rect x="288" y="450.33" width="70" height="129.67" fill="#E85D2B" />
+      <rect x="438" y="325.63" width="70" height="254.37" fill="#4A9FD8" />
+      <rect x="518" y="425.06" width="70" height="154.94" fill="#E85D2B" />
+      <text x="243" y="529" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#DCE6F0" text-anchor="middle">10.3%</text>
+      <text x="323" y="442" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#DCE6F0" text-anchor="middle">31.3%</text>
+      <text x="473" y="317" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#DCE6F0" text-anchor="middle">61.4%</text>
+      <text x="553" y="417" font-size="22" font-family="Arial, 'Microsoft YaHei', sans-serif" fill="#DCE6F0" text-anchor="middle">37.4%</text>
+      <text x="158" y="586" font-size="18" fill="#8FA3BC" text-anchor="end">0</text>
+      <text x="158" y="503" font-size="18" fill="#8FA3BC" text-anchor="end">20</text>
+      <text x="158" y="420" font-size="18" fill="#8FA3BC" text-anchor="end">40</text>
+      <text x="158" y="337" font-size="18" fill="#8FA3BC" text-anchor="end">60</text>
+      <text x="283" y="608" font-size="18" fill="#8FA3BC" text-anchor="middle">0—6 时</text>
+      <text x="513" y="608" font-size="18" fill="#8FA3BC" text-anchor="middle">10—20 时</text>
+    </g>
+  </g>
+  <g id="reading-column" data-pptx-bounds="696 258 520 390">
+    <g id="reading-heading">
+      <line x1="696" y1="268" x2="1216" y2="268" stroke="#4A9FD8" stroke-width="3" />
+      <text x="696" y="316" font-size="28" fill="#DCE6F0">背离的不是探测,是处置</text>
+    </g>
+    <g id="reading-fact">
+      <text fill="#DCE6F0" font-size="24" x="696" y="372">同一年度、同一口径下,起数占比</text><text fill="#DCE6F0" font-size="24" x="696" y="410">与亡人占比出现明显背离。</text></g>
+    <g id="reading-inference">
+      <rect x="696" y="446" width="88" height="30" fill="none" stroke="#D8F04A" stroke-width="1" />
+      <text x="740" y="467" font-size="18" fill="#D8F04A" text-anchor="middle">整理</text>
+      <text fill="#DCE6F0" font-size="24" x="696" y="518">这指向报警到处置之间的时间差,</text><text fill="#DCE6F0" font-size="24" x="696" y="556">而不是夜里探测器更容易失灵。</text><text fill="#DCE6F0" font-size="24" x="696" y="594">人手最少的时段,正是这段时间</text><text fill="#DCE6F0" font-size="24" x="696" y="632">差最容易被拉长的时段。</text></g>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:国家消防救援局 2024 年全国火灾情况(2025 年 1 月发布)· 分级与推论为本手册整理</text>
+    <text x="1216" y="688" text-anchor="end">03</text>
+  </g>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="208" width="12" height="144" fill="#D8F04A" />
+    <rect x="48" y="360" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="512" width="12" height="144" fill="#2A3F5C" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第一节 · 技术页</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">火警信号只有 10 秒额度,其他信号是 100 秒</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">设备侧的几十秒是标准给出来的,人为侧的几分钟是自己丢的。</text>
+  </g>
+  <g id="time-budget" data-pptx-bounds="96 258 544 366">
+    <g id="budget-row-display-alarm">
+      <use data-icon="tabler-outline/bell" x="104" y="278" width="26" height="26" fill="#4A9FD8" stroke-width="2" />
+      <text x="150" y="298" font-size="30" font-weight="bold" fill="#D8F04A">10 s</text>
+      <text x="256" y="298" font-size="24" fill="#DCE6F0">显示:火灾报警信号与反馈信号</text>
+      <text x="256" y="324" font-size="18" fill="#8FA3BC">GB 25506-2010 第 5.1 条 e)</text>
+      <line x1="96" y1="332" x2="640" y2="332" stroke="#2A3F5C" stroke-width="1" />
+    </g>
+    <g id="budget-row-display-other">
+      <use data-icon="tabler-outline/eye" x="104" y="350" width="26" height="26" fill="#4A9FD8" stroke-width="2" />
+      <text x="150" y="370" font-size="30" font-weight="bold" fill="#4A9FD8">100 s</text>
+      <text x="256" y="370" font-size="24" fill="#DCE6F0">显示:其他输入信号</text>
+      <text x="256" y="396" font-size="18" fill="#8FA3BC">GB 25506-2010 第 5.1 条 e)</text>
+      <line x1="96" y1="404" x2="640" y2="404" stroke="#2A3F5C" stroke-width="1" />
+    </g>
+    <g id="budget-row-transmit-alarm">
+      <use data-icon="tabler-outline/link" x="104" y="422" width="26" height="26" fill="#4A9FD8" stroke-width="2" />
+      <text x="150" y="442" font-size="30" font-weight="bold" fill="#D8F04A">10 s</text>
+      <text x="256" y="442" font-size="24" fill="#DCE6F0">传输:报警与联动信号上传</text>
+      <text x="256" y="468" font-size="18" fill="#8FA3BC">GB 25506-2010 第 7.1 条</text>
+      <line x1="96" y1="476" x2="640" y2="476" stroke="#2A3F5C" stroke-width="1" />
+    </g>
+    <g id="budget-row-transmit-status">
+      <use data-icon="tabler-outline/device-desktop" x="104" y="494" width="26" height="26" fill="#4A9FD8" stroke-width="2" />
+      <text x="150" y="514" font-size="30" font-weight="bold" fill="#4A9FD8">100 s</text>
+      <text x="256" y="514" font-size="24" fill="#DCE6F0">传输:运行状态信息上传</text>
+      <text x="256" y="540" font-size="18" fill="#8FA3BC">GB 25506-2010 第 7.2 条</text>
+      <line x1="96" y1="548" x2="640" y2="548" stroke="#2A3F5C" stroke-width="1" />
+    </g>
+    <g id="budget-row-priority">
+      <use data-icon="tabler-outline/flame" x="104" y="566" width="26" height="26" fill="#E85D2B" stroke-width="2" />
+      <text x="150" y="586" font-size="30" font-weight="bold" fill="#E85D2B">优先</text>
+      <text x="256" y="586" font-size="24" fill="#DCE6F0">火灾报警信息优先于其他信息</text>
+      <text x="256" y="612" font-size="18" fill="#8FA3BC">GB 25506-2010 第 7.6 条</text>
+    </g>
+  </g>
+  <g id="signal-chain-figure" data-pptx-bounds="700 252 516 350">
+    <image href="../images/diagram_signal_chain_fit.png" x="700" y="252" width="516" height="346" preserveAspectRatio="xMidYMid meet" />
+  </g>
+  <g id="record-capacity-note" data-pptx-bounds="700 610 516 54">
+    <rect x="700" y="610" width="5" height="54" fill="#4A9FD8" />
+    <text x="728" y="632" font-size="18" fill="#DCE6F0">第 6.1—6.3 条:三类记录容量均不应少于<tspan x="728" dy="26">10 000 条,记录备份后方可被覆盖。</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:GB 25506-2010《消防控制室通用技术要求》第 5—7 章</text>
+    <text x="1216" y="688" text-anchor="end">06</text>
+  </g>
+</svg>

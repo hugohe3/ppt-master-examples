@@ -1,0 +1,70 @@
+{
+  "project": "fire_control_room_duty_manual_20260911",
+  "generated_at": "2026-09-11",
+  "deck_rendering": "custom",
+  "color_scheme": {
+    "background": "#0E1B2E",
+    "secondary_bg": "#1A2C46",
+    "primary": "#4A9FD8",
+    "accent": "#D8F04A",
+    "secondary_accent": "#E85D2B",
+    "body_text": "#DCE6F0"
+  },
+  "items": [
+    {
+      "filename": "cover_control_room_night.png",
+      "purpose": "Cover full-bleed scene (Slide 01)",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "prompt": "Cold-light photographic scene rendered with engineering restraint: crisp even illumination, no gradients painted as decoration, no bokeh artistry, no lens flare, flat honest surfaces. Deep navy #0E1B2E fills the room and dominates the field; panel bodies and desk surfaces sit one step lighter at #1A2C46; the cool structural light across screen bezels and cable runs reads as #4A9FD8; a very small number of indicator lamps glow #D8F04A, and one single lamp glows #E85D2B — the accents together occupy under three percent of the canvas. Atmospheric backdrop composition with no dominant subject: an empty night-shift fire control room seen from behind and slightly above the duty desk. Along the right wall stands a row of fire alarm control cabinets with rectangular indicator-lamp arrays and button rows; above the desk a wide graphic display screen glows low and even. The right half of the frame carries this equipment and most of the light; the lower-left third is deliberately quiet, dark and almost empty — only the near edge of the duty desk and one closed logbook — so an SVG title can be laid over it. The room is unoccupied; no people, no faces, no hands. Composed as a 1280x720px full-bleed image for hero_page use, with the lower-left overlay region kept calm and uncluttered. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #0E1B2E) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "无人的夜间消防控制室:右侧成排火灾报警控制器与低亮图形显示屏,左下为安静的值班台一角",
+      "status": "Generated"
+    },
+    {
+      "filename": "divider_alarm_panel.png",
+      "purpose": "Section 01 divider background (Slide 04)",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "prompt": "Cold-light photographic close-up rendered with engineering restraint: crisp even illumination, flat honest surfaces, no gradient decoration, no lens flare, no shallow-focus artistry beyond what the close distance gives. Deep navy #0E1B2E is the surrounding darkness; the cabinet face is one step lighter at #1A2C46; the cool structural light along bezels, screw lines and label plates reads as #4A9FD8; a scattering of indicator lamps glows #D8F04A and exactly two lamps glow #E85D2B, all accents together under four percent of the canvas. Single dominant subject: the front face of a fire alarm control cabinet, framed diagonally so the rows of small round indicator lamps and the horizontal bank of square buttons run from the lower-left toward the upper-right. The panel occupies the right two thirds of the frame at an angle; the left third falls away into unlit darkness and stays deliberately empty so an oversized SVG section number and a title line can be laid over it. Hardware only — no people, no hands, no printed words legible on the panel. Composed as a 1280x720px full-bleed image for hero_page use, with the left third kept as a calm overlay region. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #0E1B2E) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "火灾报警控制器面板斜向特写,指示灯阵列与按键行,左侧留黑",
+      "status": "Generated"
+    },
+    {
+      "filename": "divider_duty_log.png",
+      "purpose": "Section 02 divider background (Slide 12)",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "prompt": "Cold-light photographic overhead scene rendered with engineering restraint: crisp even illumination, flat honest surfaces, no gradient decoration, no warm film grading, no artistic blur. Deep navy #0E1B2E is the surrounding shadow; the desk surface sits one step lighter at #1A2C46; the cool light raking in from the left across paper, metal and rubber reads as #4A9FD8; one small charge lamp on the radio glows #D8F04A, under two percent of the canvas; no other accent appears. Single dominant subject seen straight down from above: a duty desk with an open ruled logbook whose pages carry only faint blank ruling with no legible writing, a compact metal flashlight lying at a slight angle beside it, and a handheld radio resting above them. The three objects cluster in the left half of the frame; the right half of the desk is empty and evenly lit so an oversized SVG section number and a title line can be laid over it. No people, no hands, no readable text on the page. Composed as a 1280x720px full-bleed image for hero_page use, with the right half kept as a calm overlay region. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #0E1B2E) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "俯视值班台:摊开的空白值班记录本、手电与对讲机聚在左半幅,右半幅留空",
+      "status": "Generated"
+    },
+    {
+      "filename": "diagram_signal_chain.png",
+      "purpose": "Signal-chain technical line drawing (Slide 06)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "3:2",
+      "image_size": "2K",
+      "prompt": "Technical blueprint schematic drawn as uniform-weight white line work on a solid dark field. Every form is an outline only — no fills, no shading, no texture, no depth of field, no drop shadow, no glow. Lines are crisp and perfectly even in weight throughout, corners are right angles, connectors route orthogonally, and every junction and terminal is marked with a small solid dot. The field is deep navy #0E1B2E, covered edge to edge by a faint square grid in #1C2E49 at very low opacity. All line work is white #DCE6F0 except the following: the main signal path from the detectors through the controllers is drawn in #4A9FD8, one branch arrow is #D8F04A, and one single upward branch is #E85D2B. Custom composition, five stations laid out left to right on one horizontal spine. Far left, stacked vertically, three small outlined devices: a round ceiling smoke detector seen from below, a square heat detector, and a rectangular manual call point with a small square button. Their three lines converge orthogonally into station two, a tall outlined cabinet with a narrow screen rectangle and two rows of small circles — the fire alarm control panel. From it one horizontal line runs to station three, an identical-width outlined cabinet with a column of small toggles — the linkage controller. From station three, four short lines fan right to station four: four small outlined devices in a vertical column — a pump body with an impeller circle, a duct fan with three blades, a rolling shutter drawn as a slatted rectangle, and a loudspeaker cone. Separately, one line rises from station two up and to the right toward station five in the upper-right corner: a small outlined building with an antenna mast, the remote monitoring centre. Arrowheads sit on every connector showing direction of flow. A wide margin of empty grid surrounds the drawing on all four sides. Composed as a 720x480px image for local use; it is an opaque diagram block and reserves no interior space for overlays. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #0E1B2E) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "白色等线宽技术线图:探测器与手动报警按钮汇入报警控制器,再到联动控制器与受控设备,另有一条支路通向远程监控中心",
+      "status": "Generated"
+    },
+    {
+      "filename": "counter_auto_manual_switch.png",
+      "purpose": "Counterexample page hero visual (Slide 15)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "1:1",
+      "image_size": "2K",
+      "prompt": "Cold-light photographic macro rendered with engineering restraint: crisp even illumination, flat honest metal and plastic surfaces, no gradient decoration, no warm grading, no artistic blur beyond the shallow depth the macro distance naturally gives. Deep navy #0E1B2E fills the out-of-focus panel behind; the panel face itself sits one step lighter at #1A2C46; the cool light along the knob's knurled metal rim and the moulded pointer reads as #4A9FD8; one small round state lamp beside the knob glows #E85D2B, and a second, dimmer lamp glows #D8F04A — the two lamps together under three percent of the canvas. Single dominant subject filling most of the square frame: a rotary mode-selector knob on a control panel, seen from slightly above and to the right. The knob is a knurled cylinder with a flat top carrying a moulded triangular pointer; the pointer is turned clearly away from the upright twelve-o'clock position, rotated to the lower-right. Around its base sit two small unlabelled position marks moulded into the panel, and to the right of the knob the two round state lamps. No screen, no people, no hands, no legible markings, no printed words on the panel. Composed as a 720x720px image for local use; it is an opaque object block and reserves no interior space for overlays. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #0E1B2E) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "联动控制器面板上的旋转状态选择旋钮特写,指针偏离正上方位置,旁边两枚状态指示灯",
+      "status": "Generated"
+    }
+  ]
+}

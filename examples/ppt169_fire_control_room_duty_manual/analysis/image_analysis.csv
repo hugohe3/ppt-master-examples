@@ -1,0 +1,11 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,counter_auto_manual_switch.png,2048,2048,1.00,1.00,,native,PNG,False,1,,bitmap,True,True,4433.1,Near square
+2,counter_auto_manual_switch_fit.jpg,720,720,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,50.7,Near square
+3,cover_control_room_night.png,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4110.4,Wide landscape
+4,cover_control_room_night_fit.jpg,1280,714,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,81.8,Wide landscape
+5,diagram_signal_chain.png,2528,1696,1.49,1.49,,native,PNG,False,1,,bitmap,True,True,3649.3,Standard landscape
+6,diagram_signal_chain_fit.png,715,480,1.49,1.49,,native,PNG,False,1,,bitmap,True,True,335.7,Standard landscape
+7,divider_alarm_panel.png,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4865.0,Wide landscape
+8,divider_alarm_panel_fit.jpg,1280,714,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,117.7,Wide landscape
+9,divider_duty_log.png,2752,1536,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4620.3,Wide landscape
+10,divider_duty_log_fit.jpg,1280,714,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,81.8,Wide landscape

@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "pdf_to_md.py",
+  "conversion_type": "pdf",
+  "source": {
+    "path": "1778399688277005154.pdf",
+    "name": "1778399688277005154.pdf",
+    "suffix": ".pdf",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 1226370
+  },
+  "outputs": {
+    "markdown": "1778399688277005154.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 531,
+    "char_count": 32340,
+    "heading_count": 6,
+    "table_count": 6,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}

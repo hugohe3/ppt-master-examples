@@ -1,0 +1,298 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="896" y1="56" x2="896" y2="664" stroke="#1C2E49" />
+    <line x1="1056" y1="56" x2="1056" y2="664" stroke="#1C2E49" />
+    <line x1="1216" y1="56" x2="1216" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#2A3F5C" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600">
+    <rect x="48" y="56" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="208" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="360" width="12" height="144" fill="#2A3F5C" />
+    <rect x="48" y="512" width="12" height="144" fill="#D8F04A" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#4A9FD8">第四节 · 检查表页</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">交接班清单:每一项都挡住一个已知的失败</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">清单不是留痕,每一行都对应一条会在夜里付出代价的条款。</text>
+  </g>
+  <g id="handover-checklist" data-pptx-replace-with="table" data-pptx-bounds="96 268 1120 366" data-pptx-fallback-sha256="18b52f0fe79324b66a8558fe215f300789fd0d191986eb1f887ae5a0c839b50b">
+    <metadata type="application/json">
+{
+ "schema": "ppt-master.semantic-table.v2",
+ "x": 96,
+ "y": 268,
+ "width": 1120,
+ "height": 366,
+ "name": "handover-checklist",
+ "column_widths": [
+  220,
+  400,
+  200,
+  300
+ ],
+ "row_heights": [
+  44,
+  46,
+  46,
+  46,
+  46,
+  46,
+  46,
+  46
+ ],
+ "defaults": {
+  "cell": {
+   "fill": "#0E1B2E",
+   "color": "#DCE6F0",
+   "font_size": 18,
+   "align": "l",
+   "valign": "middle",
+   "padding": 8,
+   "borders": {
+    "top": {
+     "style": "none"
+    },
+    "left": {
+     "style": "none"
+    },
+    "right": {
+     "style": "none"
+    },
+    "bottom": {
+     "style": "solid",
+     "color": "#2A3F5C",
+     "width": 1
+    }
+   }
+  }
+ },
+ "columns": [
+  {
+   "text": "检查项",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "l"
+  },
+  {
+   "text": "合格判据",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "l"
+  },
+  {
+   "text": "依据条款",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "r"
+  },
+  {
+   "text": "挡住的风险",
+   "fill": "#1A2C46",
+   "color": "#8FA3BC",
+   "bold": true,
+   "align": "l"
+  }
+ ],
+ "rows": [
+  [
+   {
+    "text": "值班人数与证件",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "在岗 2 人,均持消防控制室操作资格证书",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "第 4.2.1 条 a)",
+    "fill": "#0E1B2E",
+    "align": "r"
+   },
+   {
+    "text": "无人可外出核实",
+    "fill": "#0E1B2E"
+   }
+  ],
+  [
+   {
+    "text": "联动控制开关",
+    "fill": "#16273D",
+    "color": "#D8F04A",
+    "bold": true
+   },
+   {
+    "text": "应处于自动状态的设备无一被置于手动",
+    "fill": "#16273D"
+   },
+   {
+    "text": "第 4.2.1 条 c)",
+    "fill": "#16273D",
+    "align": "r"
+   },
+   {
+    "text": "联动整体失效",
+    "fill": "#16273D"
+   }
+  ],
+  [
+   {
+    "text": "消防储水设施",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "高位水箱、水池、气压水罐水量充足",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "第 4.2.1 条 d)",
+    "fill": "#0E1B2E",
+    "align": "r"
+   },
+   {
+    "text": "出水量不足",
+    "fill": "#0E1B2E"
+   }
+  ],
+  [
+   {
+    "text": "管道阀门",
+    "fill": "#16273D"
+   },
+   {
+    "text": "消防泵出水管、自动喷水系统管道阀门常开",
+    "fill": "#16273D"
+   },
+   {
+    "text": "第 4.2.1 条 d)",
+    "fill": "#16273D",
+    "align": "r"
+   },
+   {
+    "text": "水送不到着火层",
+    "fill": "#16273D"
+   }
+  ],
+  [
+   {
+    "text": "配电柜启动开关",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "水泵、防排烟风机、防火卷帘开关在自动位置",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "第 4.2.1 条 d)",
+    "fill": "#0E1B2E",
+    "align": "r"
+   },
+   {
+    "text": "设备启动不了",
+    "fill": "#0E1B2E"
+   }
+  ],
+  [
+   {
+    "text": "图形显示装置",
+    "fill": "#16273D"
+   },
+   {
+    "text": "中文界面正常,三类记录容量与备份可用",
+    "fill": "#16273D"
+   },
+   {
+    "text": "第 5.1 条 f)、第 6 章",
+    "fill": "#16273D",
+    "align": "r"
+   },
+   {
+    "text": "信息看不到、查不回",
+    "fill": "#16273D"
+   }
+  ],
+  [
+   {
+    "text": "上一班未闭环事项",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "重复报警点位、检修申报、未归档记录",
+    "fill": "#0E1B2E"
+   },
+   {
+    "text": "第 4.1 条 h)",
+    "fill": "#0E1B2E",
+    "align": "r"
+   },
+   {
+    "text": "问题跨班消失",
+    "fill": "#0E1B2E"
+   }
+  ]
+ ]
+}
+    </metadata>
+    <rect id="checklist-header-band" x="96" y="268" width="1120" height="44" fill="#1A2C46" />
+    <rect x="96" y="358" width="1120" height="46" fill="#16273D" />
+    <rect x="96" y="450" width="1120" height="46" fill="#16273D" />
+    <rect x="96" y="542" width="1120" height="46" fill="#16273D" />
+    <text x="108" y="297" font-size="18" font-weight="bold" fill="#8FA3BC">检查项</text>
+    <text x="328" y="297" font-size="18" font-weight="bold" fill="#8FA3BC">合格判据</text>
+    <text x="904" y="297" font-size="18" font-weight="bold" fill="#8FA3BC" text-anchor="end">依据条款</text>
+    <text x="928" y="297" font-size="18" font-weight="bold" fill="#8FA3BC">挡住的风险</text>
+    <line x1="96" y1="312" x2="1216" y2="312" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="342" font-size="18" fill="#DCE6F0">值班人数与证件</text>
+    <text x="328" y="342" font-size="18" fill="#DCE6F0">在岗 2 人,均持消防控制室操作资格证书</text>
+    <text x="904" y="342" font-size="18" fill="#DCE6F0" text-anchor="end">第 4.2.1 条 a)</text>
+    <text x="928" y="342" font-size="18" fill="#DCE6F0">无人可外出核实</text>
+    <line x1="96" y1="358" x2="1216" y2="358" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="388" font-size="18" fill="#D8F04A" font-weight="bold">联动控制开关</text>
+    <text x="328" y="388" font-size="18" fill="#DCE6F0">应处于自动状态的设备无一被置于手动</text>
+    <text x="904" y="388" font-size="18" fill="#DCE6F0" text-anchor="end">第 4.2.1 条 c)</text>
+    <text x="928" y="388" font-size="18" fill="#DCE6F0">联动整体失效</text>
+    <line x1="96" y1="404" x2="1216" y2="404" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="434" font-size="18" fill="#DCE6F0">消防储水设施</text>
+    <text x="328" y="434" font-size="18" fill="#DCE6F0">高位水箱、水池、气压水罐水量充足</text>
+    <text x="904" y="434" font-size="18" fill="#DCE6F0" text-anchor="end">第 4.2.1 条 d)</text>
+    <text x="928" y="434" font-size="18" fill="#DCE6F0">出水量不足</text>
+    <line x1="96" y1="450" x2="1216" y2="450" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="480" font-size="18" fill="#DCE6F0">管道阀门</text>
+    <text x="328" y="480" font-size="18" fill="#DCE6F0">消防泵出水管、自动喷水系统管道阀门常开</text>
+    <text x="904" y="480" font-size="18" fill="#DCE6F0" text-anchor="end">第 4.2.1 条 d)</text>
+    <text x="928" y="480" font-size="18" fill="#DCE6F0">水送不到着火层</text>
+    <line x1="96" y1="496" x2="1216" y2="496" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="526" font-size="18" fill="#DCE6F0">配电柜启动开关</text>
+    <text x="328" y="526" font-size="18" fill="#DCE6F0">水泵、防排烟风机、防火卷帘开关在自动位置</text>
+    <text x="904" y="526" font-size="18" fill="#DCE6F0" text-anchor="end">第 4.2.1 条 d)</text>
+    <text x="928" y="526" font-size="18" fill="#DCE6F0">设备启动不了</text>
+    <line x1="96" y1="542" x2="1216" y2="542" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="572" font-size="18" fill="#DCE6F0">图形显示装置</text>
+    <text x="328" y="572" font-size="18" fill="#DCE6F0">中文界面正常,三类记录容量与备份可用</text>
+    <text x="904" y="572" font-size="18" fill="#DCE6F0" text-anchor="end">第 5.1 条 f)、第 6 章</text>
+    <text x="928" y="572" font-size="18" fill="#DCE6F0">信息看不到、查不回</text>
+    <line x1="96" y1="588" x2="1216" y2="588" stroke="#2A3F5C" stroke-width="1" />
+    <text x="108" y="618" font-size="18" fill="#DCE6F0">上一班未闭环事项</text>
+    <text x="328" y="618" font-size="18" fill="#DCE6F0">重复报警点位、检修申报、未归档记录</text>
+    <text x="904" y="618" font-size="18" fill="#DCE6F0" text-anchor="end">第 4.1 条 h)</text>
+    <text x="928" y="618" font-size="18" fill="#DCE6F0">问题跨班消失</text>
+    <line x1="96" y1="634" x2="1216" y2="634" stroke="#2A3F5C" stroke-width="1" />
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:GB 25506-2010《消防控制室通用技术要求》第 4.1、4.2.1、5.1、6 章 · "挡住的风险"一列为本手册整理</text>
+    <text x="1216" y="688" text-anchor="end">13</text>
+  </g>
+</svg>

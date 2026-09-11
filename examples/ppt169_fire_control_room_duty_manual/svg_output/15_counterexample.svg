@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="'Microsoft YaHei', Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1B2E" />
+  <g id="page-chrome" data-pptx-role="decoration" data-pptx-bounds="0 0 1280 720" stroke-width="1">
+    <line x1="96" y1="56" x2="96" y2="664" stroke="#1C2E49" />
+    <line x1="256" y1="56" x2="256" y2="664" stroke="#1C2E49" />
+    <line x1="416" y1="56" x2="416" y2="664" stroke="#1C2E49" />
+    <line x1="576" y1="56" x2="576" y2="664" stroke="#1C2E49" />
+    <line x1="736" y1="56" x2="736" y2="664" stroke="#1C2E49" />
+    <line x1="96" y1="232" x2="1216" y2="232" stroke="#E85D2B" />
+  </g>
+  <g id="progress-rail" data-pptx-role="chrome" data-pptx-bounds="48 56 12 600" fill="#E85D2B">
+    <rect x="48" y="56" width="12" height="144" />
+    <rect x="48" y="208" width="12" height="144" />
+    <rect x="48" y="360" width="12" height="144" />
+    <rect x="48" y="512" width="12" height="144" />
+  </g>
+  <g id="page-kicker" data-pptx-bounds="96 78 520 28">
+    <text x="96" y="98" font-size="18" letter-spacing="3" fill="#E85D2B">第四节 · 反例页 · 离轴内容</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="96 114 1120 56">
+    <text x="96" y="152" font-size="40" font-weight="bold" fill="#DCE6F0">把该自动的设成手动,等于把整套联动关掉</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="96 174 1120 42">
+    <text x="96" y="200" font-size="28" fill="#8FA3BC">为了少一次误动作而关掉自动,换来的是最需要联动的那一刻没有联动。</text>
+  </g>
+  <g id="wrong-practice" data-pptx-bounds="96 260 664 116">
+    <use data-icon="tabler-outline/ban" x="96" y="262" width="28" height="28" fill="#E85D2B" stroke-width="2" />
+    <text x="140" y="284" font-size="28" fill="#E85D2B">常见做法</text>
+    <text x="96" y="326" font-size="24" fill="#DCE6F0">为避免误喷、误动作,把应处于自动状态的联动控制<tspan x="96" dy="32">设备长期置于手动。</tspan></text>
+    <line x1="96" y1="372" x2="760" y2="372" stroke="#2A3F5C" stroke-width="1" />
+  </g>
+  <g id="broken-mechanisms" data-pptx-bounds="96 386 664 138">
+    <text x="96" y="404" font-size="18" letter-spacing="2" fill="#4A9FD8">它同时废掉两条机制</text>
+    <text x="96" y="440" font-size="24" fill="#DCE6F0">机制一(第 06 页):10 s / 100 s 只覆盖信号侧,<tspan x="96" dy="30">手动状态下启动完全落在人身上。</tspan></text>
+    <text x="96" y="504" font-size="24" fill="#DCE6F0">机制二(第 02 页):0—6 时亡人占比 31.3%,而人手最少。</text>
+    <line x1="96" y1="518" x2="760" y2="518" stroke="#2A3F5C" stroke-width="1" />
+  </g>
+  <g id="legal-consequence" data-pptx-bounds="96 532 664 128">
+    <rect x="96" y="532" width="5" height="128" fill="#E85D2B" />
+    <text x="124" y="554" font-size="18" letter-spacing="2" fill="#E85D2B">条文禁止与法律后果</text>
+    <text x="124" y="588" font-size="18" fill="#DCE6F0">第 4.2.1 条 c):不得将应处于自动状态的设备设在手动状态。</text>
+    <text x="124" y="618" font-size="18" fill="#DCE6F0">《消防法》第六十条:未保持完好有效或擅自停用的,<tspan x="124" dy="30">责令改正,<tspan font-weight="bold" fill="#E85D2B">处五千元以上五万元以下罚款</tspan>。</tspan></text>
+  </g>
+  <g id="switch-photo" data-pptx-bounds="820 252 396 308">
+    <image href="../images/counter_auto_manual_switch_fit.jpg" x="820" y="252" width="396" height="308" preserveAspectRatio="xMidYMid slice" />
+  </g>
+  <g id="p15-prohibition" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="noSmoking" data-pptx-frame="932 320 172 172" fill="#E85D2B" stroke="none" fill-opacity="0.85">
+<path d="M 932 406 A 86 86 0 0 1 1018 320 A 86 86 0 0 1 1104 406 A 86 86 0 0 1 1018 492 A 86 86 0 0 1 932 406 Z M 1065.33 431.48 A 53.75 53.75 0 0 0 992.52 358.67 Z M 970.67 380.52 A 53.75 53.75 0 0 0 1043.48 453.33 Z" />
+</g>
+  <g id="replacement-practice" data-pptx-bounds="820 578 396 82" font-size="18">
+    <text x="820" y="596" fill="#D8F04A">替代做法(整理)</text>
+    <text x="820" y="626" fill="#8FA3BC">临时转手动须记录原因与恢复人,<tspan x="820" dy="26">并在本班内恢复自动位。</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="96 674 1120 24" fill="#8FA3BC" font-size="16">
+    <text x="96" y="688">来源:GB 25506-2010 第 4.2.1 条 c) · 《中华人民共和国消防法》第六十条 · 国家消防救援局 2024 年火灾统计</text>
+    <text x="1216" y="688" text-anchor="end">15</text>
+  </g>
+</svg>
