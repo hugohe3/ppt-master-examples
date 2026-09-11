@@ -398,10 +398,7 @@
             letter-spacing: -0.005em;
         }
 
-        .tag.style-consulting,
-        .tag.style-general,
-        .tag.style-creative,
-        .tag.style-editorial {
+        .tag.category-tag {
             background: rgba(91, 141, 239, 0.08);
             color: var(--primary-light);
             border-color: rgba(91, 141, 239, 0.22);
@@ -536,10 +533,13 @@
     <nav class="nav">
         <div class="nav-content">
             <button class="nav-btn active" data-filter="all">All</button>
-            <button class="nav-btn" data-filter="consulting">Consulting</button>
-            <button class="nav-btn" data-filter="general">General</button>
-            <button class="nav-btn" data-filter="creative">Creative</button>
-            <button class="nav-btn" data-filter="editorial">Editorial</button>
+            <button class="nav-btn" data-filter="business">Business</button>
+            <button class="nav-btn" data-filter="technology">Technology</button>
+            <button class="nav-btn" data-filter="education">Science &amp; Education</button>
+            <button class="nav-btn" data-filter="data">Data</button>
+            <button class="nav-btn" data-filter="culture">Culture</button>
+            <button class="nav-btn" data-filter="design">Art &amp; Design</button>
+            <button class="nav-btn" data-filter="formats">Social &amp; Print Formats</button>
         </div>
     </nav>
 
@@ -569,6 +569,7 @@
                 const data = await loadExamplesData();
                 projects = data.projects || [];
                 updateStats(data.stats);
+                updateFilterCounts();
                 renderProjects(activeFilter);
             } catch (error) {
                 showLoadError(error);
@@ -595,21 +596,42 @@
             grid.innerHTML = '<div class="project-card"><div class="card-content"><h3 class="card-title">Unable to load examples</h3><p class="card-desc">Start a local web server or check examples/examples.json.</p></div></div>';
         }
 
+        // Example ids start with their canvas (ppt169_, a4_, story_, ...); every
+        // canvas other than a 16:9 or 4:3 slide is a social or print format.
+        const SLIDE_CANVASES = new Set(['ppt169', 'ppt43']);
+
+        function isSocialOrPrintFormat(project) {
+            return !SLIDE_CANVASES.has(project.id.split('_')[0]);
+        }
+
+        // Each example has one purpose category in `style`; the format filter
+        // cuts across categories by canvas.
+        function matchesFilter(project, filter) {
+            if (filter === 'all') return true;
+            if (filter === 'formats') return isSocialOrPrintFormat(project);
+            return project.style === filter;
+        }
+
+        function updateFilterCounts() {
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                if (!btn.dataset.label) btn.dataset.label = btn.textContent;
+                const count = projects.filter(p => matchesFilter(p, btn.dataset.filter)).length;
+                btn.textContent = `${btn.dataset.label} ${count}`;
+            });
+        }
+
         // Render projects
         function renderProjects(filter = 'all') {
             const grid = document.getElementById('projects-grid');
             grid.innerHTML = '';
 
-            const filtered = filter === 'all'
-                ? projects
-                : projects.filter(p => p.style === filter);
+            const filtered = projects.filter(p => matchesFilter(p, filter));
 
             filtered.forEach(project => {
                 const card = document.createElement('a');
                 card.className = 'project-card';
                 card.href = `viewer.html?project=${encodeURIComponent(project.id)}`;
 
-                const styleClass = `style-${project.style || 'general'}`;
                 const tags = project.tags || [];
                 const pages = project.slides?.length || 0;
                 const cover = project.cover || project.slides?.[0]?.file || '';
@@ -643,7 +665,7 @@
                         </div>
                         <p class="card-desc">${project.desc}</p>
                         <div class="card-tags">
-                            <span class="tag ${styleClass}">${project.styleName}</span>
+                            <span class="tag category-tag">${project.styleName}</span>
                             ${tags.map(t => `<span class="tag">${t}</span>`).join('')}
                         </div>
                     </div>

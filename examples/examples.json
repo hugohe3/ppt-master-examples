@@ -13,7 +13,7 @@
       "description": "公开讲座 deck 15 页 — 仓库首个韩文示例;输入只有题目,事实经 topic-research 取自济州海女博物馆、济州特别自治道海女统计、韩国国家遗产厅与 UNESCO / FAO 公开页面(6 个韩文网页与 1 份议会 PDF 经 source_to_md 转换),每个数字标出处与年份,自建框架标「정리」;「수심의 기록」方向:水面线贯穿全卷,同一批次丝网版画风 AI 插画 5 张(人物均为背影/剪影)+ 双色与降亮两种派生,圆形裁切与方向性 wash;海女人数、年龄构成、流入与减少 3 张原生图表与遗产指定年表 1 张原生表格,Batang / Malgun Gothic 韩文字体,主角进场动画与 2 组 Morph,11 条原生超链接,全卷韩文讲者备注,语言标签 ko-KR",
       "icon": "🌊",
       "color": "#12414F",
-      "style": "editorial",
+      "style": "culture",
       "styleName": "Depth Record · 수심의 기록",
       "desc": "A fifteen-page Korean public-lecture deck on the haenyeo, the free-diving women of Jeju — the first Korean example in the collection. The only input was the topic: facts came through topic research from the Jeju Haenyeo Museum, Jeju Special Self-Governing Province statistics, the Korea Heritage Service, and UNESCO and FAO pages (six Korean web pages and one council PDF converted by source_to_md), with every figure carrying its source and year and compiled framings marked 정리. A waterline runs through every page; five screen-print AI illustrations from one batch (figures seen from behind or in silhouette) with duotone and dimmed derivatives, a circular crop and directional washes; three native charts (diver numbers, age mix, entrants versus departures) and one native heritage-designation table, Batang and Malgun Gothic, hero entrances with two Morph pairs, eleven native hyperlinks, Korean speaker notes, and ko-KR language tags.",
       "tags": [
@@ -115,7 +115,7 @@
       "description": "美化前后对照 20 页 — 仓库首个 Beautify 1:1 美化示例;原稿是吉林省自然资源厅公开的政策解读 PPTX(随示例附在 sources/,可直接下载原稿对照),页数页序 1:1、文字逐字不改(导出后双通道回读 0 缺 0 多),源稿 151 处红/蓝行内强调保留为本 deck 的主蓝与强调红;七章「主体框架」重画为 7 个可编辑 chevron,入库四步与验收四阶段做成编号轨道,8 张源图(厅徽、政府网站截图、剪贴画)全部复用并重新排版,91 个原生预设形状;69 条主角进场动画与章节标签跨页 4 组 Morph",
       "icon": "🏔️",
       "color": "#0B5CAD",
-      "style": "corporate",
+      "style": "business",
       "styleName": "Beautify · 政务蓝",
       "desc": "A twenty-page before-and-after example — the first deck made with the Beautify 1:1 profile. The source is a public policy-briefing PPTX from the Jilin Department of Natural Resources (shipped under sources/ and offered as a download for comparison). Page count and order stay 1:1 and every word is kept (a two-channel read-back of the export finds nothing missing or added); the 151 red and blue run-level emphases carry over in the deck's own blue and accent red, the seven-chapter framework is redrawn as editable chevrons, the four intake steps and four acceptance stages become numbered tracks, all eight source pictures (emblem, government-site screenshots, clip art) are reused and re-laid-out, and 91 native preset shapes carry the structure. Hero entrances (69) and a chapter-tag Morph across four page pairs.",
       "tags": [
@@ -241,7 +241,7 @@
       "description": "英文议会简报 13 页 — 仓库首个 Word(DOCX)源示例,Quick 运行时一次生成;源是 Telford & Wrekin 市议会公开的客户反馈年报 docx(随示例附在 sources/,转换后的 Markdown 含文档里 12 个内嵌 Word 图表的缓存数据),数字全部取自该报告,两处源内矛盾在页面注明;每页标题都是结论句,纸色底细线版式与剪角母题;投诉趋势、各局分布、主题、结果、时效 5 张原生图表与议员来函、You said/We did 2 张原生表格,封面 EMF 徽标原样透传;29 条进场动画(图表按读图方向擦除、升级流程逐级揭示)与封面到概览页的 Morph",
       "icon": "📋",
       "color": "#1F4E79",
-      "style": "corporate",
+      "style": "business",
       "styleName": "Scrutiny Briefing · Quick",
       "desc": "A thirteen-page English council briefing — the first example built from a Word document, generated in one pass on the Quick runtime. The source is Telford & Wrekin Council's public Corporate Feedback Report 2023/24 (shipped under sources/; its Markdown conversion carries the cached data of the twelve Word charts embedded in the document). Every figure comes from the report, with two internal inconsistencies flagged on the page and a conclusion for every title. Paper-toned hairline layout with a snipped-corner motif; five native charts (volume trend, directorates, themes, outcomes, timeliness) and two native tables (member enquiries, You said/We did), the cover's EMF logo passed through as vector, 29 entrances (charts wipe in reading direction, the escalation flow reveals step by step) and a Morph from the cover to the overview.",
       "tags": [
@@ -437,7 +437,7 @@
       "description": "一般向け講演 deck 15 页 — 仓库首个日文示例;输入只有题目,事实经 topic-research 取自 JR 东海 2026 年版事实手册、2012/2017/2024 年新闻稿、N700S 车辆介绍与日本机械学会志 2017 年论文(多份以 PDF 直链经 source_to_md 转换),每个数字标出处与参考年份,「速さ・本数・正確さ・安全」四条主线为本 deck 整理;昭和纪念海报风自由设计,Yu Mincho / Yu Gothic 日文字体;东京—大阪所要时间横条图与输送人公里柱状图 2 张原生图表,车型演进 1 张原生表格,21 个原生预设形状,2 组 Morph 与主角入场动画,同一批次 AI 插画 4 张(拱形封面、圆角 1964 窗、双色派生背景、圆形裁切),9 条来源原生超链接,全卷日文讲者备注",
       "icon": "🚄",
       "color": "#1F3A6B",
-      "style": "editorial",
+      "style": "culture",
       "styleName": "Showa Poster · 昭和纪念海报",
       "desc": "A fifteen-page Japanese public-lecture deck on the sixtieth anniversary of the Tokaido Shinkansen — the first Japanese example in the collection. The only input was the topic: facts came through topic research from JR Central's 2026 fact sheets, news releases from 2012, 2017 and 2024, the N700S vehicle page and a 2017 Japan Society of Mechanical Engineers article, several fetched as PDF URLs and converted by source_to_md, with every figure carrying its source and reference year and the speed / frequency / punctuality / safety framing marked as compiled. Free design in a Showa commemorative-poster look set in Yu Mincho and Yu Gothic; two native charts (Tokyo–Osaka travel time, passenger-km by fiscal year), one native rolling-stock table, twenty-one preset shapes, two Morph pairs with hero entrances, four AI illustrations from one batch (arched cover, rounded 1964 window, a duotone derivative behind the safety chapter, a circular crop on the next-sixty-years page), nine native source hyperlinks, and Japanese speaker notes throughout.",
       "tags": [
@@ -540,7 +540,7 @@
       "description": "录播/自动播放科普讲解片 14 页 — 首个为无人值守播放而做的示例:Stage 1 把交付目的定为录播,触发 video-design 分镜规则,逐字旁白先写进 notes/total.md 再画页;MiniMax speech-2.8-hd 播音男声逐页配音 6.97 分钟,词级 SRT 14 份,32 个动画组全部锚定到「正在讲这件事」的旁白 cue、零回退,带旁白版 PPTX 内嵌音频并自动换页;输入只有题目,事实经 topic-research 取自北斗官网、2022 年白皮书与新华社报道并标年份;深空底、轨道与星座全部原生几何,三种轨道/星座构成 2 张原生图表 + 三代对比原生表格 + 定位原理原生公式,4 条来源超链接,Morph 3 组,AI 场景图 3 张",
       "icon": "🛰️",
       "color": "#0B1730",
-      "style": "science",
+      "style": "education",
       "styleName": "Narrated Explainer · 深空",
       "desc": "A fourteen-page Chinese public-science explainer on the BeiDou Navigation Satellite System, from the first experimental satellite in 2000 to the completed global constellation in 2020 — the first example produced for recorded, self-running playback. The delivery purpose was fixed at Stage 1, which loaded the video-design reference: the per-scene narration was written verbatim to notes/total.md before any page was drawn and then read by MiniMax speech-2.8-hd (presenter_male) into fourteen page audio files with word-timed subtitles, 6.97 minutes in all; every one of the 32 animated groups is anchored to the subtitle cue that speaks about it, so the narrated PPTX plays click-free with auto-advance. The only input was the topic; facts came through topic research from the BeiDou system office, the 2022 white paper and Xinhua reports, each dated on the page. Deep-space field with orbits and the mixed GEO/IGSO/MEO constellation drawn as native geometry; two native charts, one native comparison table and one native formula for the four-range positioning principle; four native source hyperlinks; three Morph transitions; three derived AI scenes. Three exports: silent, native charts and tables, and narrated with embedded audio.",
       "tags": [
@@ -640,7 +640,7 @@
       "description": "内部培训 deck 16 页 — 首个 duty-manual 方法模板示例,至此 13 个内置方法模板全部有示例;面向新上岗的消防控制室值班员,把散落在 GB 25506-2010、GB 50116-2013、《消防法》和国家职业标准里的值班规则收拢到一条四级判断轴上(L0 待确认→L1 非火警→L2 确认火警→报警五要素),自建分级标「整理」;输入只有题目,事实经 topic-research 取自国家消防救援局 2024 年火灾统计与公开标准,其中职业标准以 PDF 直链经 source_to_md 转换;深底细线网格、判断句标题、左缘章节指示条(反例页整条变警示色);夜间火灾起数/亡人对比 1 张原生图表,交接班检查表与人员配置表 2 张原生表格(深底显式单元格填充),9 个原生预设形状与 8 条箭头连接线,判断轴跨 5 页 Morph 链式推进,AI 全出血场景 3 张 + 白线技术线图 1 张 + 反例主视觉 1 张,4 条来源原生超链接,全卷讲者备注",
       "icon": "🚨",
       "color": "#0E1B2E",
-      "style": "technical",
+      "style": "technology",
       "styleName": "Duty Manual · 深底手册",
       "desc": "A sixteen-page Chinese internal training deck for newly posted fire-control-room duty operators — the first example built on the bundled duty-manual Style, which completes the set of bundled method templates. It gathers duty rules scattered across GB 25506-2010, GB 50116-2013, the Fire Protection Law and the national occupational standard onto one four-level judgment axis (signal pending → non-fire → confirmed fire → the five-item emergency call), marked as compiled on the page. The only input was the topic: facts came through topic research from the National Fire and Rescue Administration's 2024 statistics and public standards, with the occupational standard fetched as a PDF URL and converted by source_to_md. Dark-field hairline grid, judgment-sentence titles, a left-edge section indicator that turns to the warning colour on the counterexample page; one native chart (night-hours fire count versus deaths), two native tables (handover checklist and shift staffing, with explicit dark cell fills), nine preset shapes and eight arrow connectors, a Morph chain that advances the axis across five pages, three full-bleed AI scenes under directional scrims, one white technical line diagram and one square counterexample visual, four native source hyperlinks, speaker notes throughout.",
       "tags": [
@@ -749,7 +749,7 @@
       "description": "英文方案书 deck 14 页 — 首个 solution-proposal 方法模板示例，至此 13 个内置方法模板全部有示例；虚构咨询方 Lantern Education Partners 给虚构学区 Riverbend Unified 的两年期长期缺勤治理方案，报价、人力、排期、预测效果全部标 illustrative；问题证据来自混合真实源：ERIC ED617466 框架报告 PDF、纽约市开放数据两份出勤 CSV（直接读取并按学生数加权聚合，页面注明分组）、英国教育部出勤指南网页；市级趋势/学区分布/年级曲线/预测效果 4 张原生图表（含 ChartEx 瀑布图）+ 范围与报价 2 张原生表，三层干预与两年路线图跨页 Morph，30 个原生预设；soft-rounded 视觉，AI 教室插画 3 张",
       "icon": "🏫",
       "color": "#1F4B57",
-      "style": "corporate",
+      "style": "business",
       "styleName": "Solution Proposal · Soft Rounded",
       "desc": "A fourteen-page English solution proposal from a fictional consultancy to a fictional mid-size US school district on reducing chronic absenteeism over two school years — the first example built on the bundled solution-proposal Style, which completes the set of bundled method templates. Both parties and every price, headcount, timeline commitment and projected effect are invented and marked illustrative on the page; the problem evidence is real and drawn from mixed sources bundled here: an ERIC framework report (PDF), two NYC Open Data attendance datasets (CSV, aggregated student-weighted with the grouping stated on each page) and the UK attendance guidance page. The deck moves from what chronic absence counts, through the citywide trend, the spread across districts, the grade curve and four kinds of causes, to a three-tier attendance system, a two-year roadmap with a board decision gate, scope, investment, a modeled effect and one next step. Four native charts of four families including a ChartEx waterfall, two native tables, thirty preset shapes, two Morph transitions carrying the tier stack and the roadmap, three AI classroom illustrations on a soft-rounded field, speaker notes throughout.",
       "tags": [
@@ -848,7 +848,7 @@
       "description": "英文创意提案 deck 13 页 — 首个 creative-pitch 方法模板示例：为虚构独立书店 Fog & Fern Books 做的秋夜阅读 campaign「The Night Shelf」（客户与 campaign 虚构并在封面/讲稿/附录明示，受众洞察数据引用 Pew、NEA、National Literacy Trust 与睡眠研究并带 URL）；按受众真相→任务→策略→一句话创意→满版主视觉→延展载体→视觉系统→语气工艺→真实尺度环境→制作现实→收尾的顺序展开；AI 生成主视觉/海报/社交图/店内场景，主视觉派生三种底版，海报切角、手机圆角、橱窗灯箱等 4 种裁切 mockup，6 处方向性渐变 scrim，一处辉光文字效果，月亮 campaign 标记原生预设 8 处，原生图 1 表 1 超链接 8，3 对 Morph；全卷标题实色、零文字图片填充",
       "icon": "🌙",
       "color": "#0E0E10",
-      "style": "creative",
+      "style": "business",
       "styleName": "Creative Pitch · The Night Shelf",
       "desc": "A thirteen-page English creative campaign pitch for Fog & Fern Books, a fictional independent bookstore, proposing a late-autumn campaign called The Night Shelf — the first example built on the bundled creative-pitch Style. The client and campaign are fictional and say so on the cover, in the notes and in the appendix; the audience truth it rests on is real and cited (evening screen time against minutes of reading, from Pew, the NEA survey, the National Literacy Trust and sleep research). The deck follows the Style's arc: audience truth, the task, the strategic thought, the idea on its own restrained page, the hero execution full frame, range across poster, social, in-store and bookmark surfaces, the identity in use, tone and craft, environment mockups at honest scale, production reality with an illustrative scope table, and a close. AI-rendered hero, poster, social and in-store artwork, three hero derivatives, six element slices, four nested-crop mockups of different shape, six directional gradient scrims, one glow effect, a crescent mark as a native preset on eight pages, one native chart, one native table, eight native source hyperlinks and three Morph pairs. Every title is solid-colour type; the deck uses no text picture fill.",
       "tags": [
@@ -940,7 +940,7 @@
       "description": "英文 A4 决策备忘录 10 页 — 首个 consulting-decision 方法模板示例，第二份 A4、首份英文 A4：为一家泛化的 200 人英国专业服务公司回答「是否转四天工作制」，证据全部来自英国 2022 试点及 2024 跟踪、冰岛 2015–2019 试验、比利时 2022 立法（压缩而非减时）、葡萄牙 2023–24 试点与批评来源，主张与反证同等分量；金字塔模式断言标题，事实/假设/含义/建议分开标注，3 张原生图表 + 2 张原生表（研究可比性、风险登记册）+ 27 条来源超链接的证据台账，驱动树与路线图预设，2 对 Morph；无图片的纯排版打印文档，正文 26px",
       "icon": "📄",
       "color": "#16232E",
-      "style": "consulting",
+      "style": "business",
       "styleName": "Consulting Decision · A4 Memo",
       "desc": "A ten-page English decision memo on A4 (1240×1754 portrait, print) answering whether a generic 200-person professional-services firm should move to a four-day week at full pay — the first example built on the bundled consulting-decision Style, the second A4 deck and the first in English. Pyramid mode with assertion titles: executive synthesis, situation and complication, driver decomposition, evidence and diagnosis, cohort persistence, study comparability, recommendation, roadmap, risk and mitigation, and an appendix that is a working evidence ledger of twenty-seven native hyperlinks. Every figure comes from the UK 2022 pilot report and its 2024 follow-up, the Iceland trials, Belgium's law, Portugal's pilot and critical sources, with non-significant results shown at the same weight as the headline. Three native charts, two native tables, five preset shapes, two Morph pairs, a running masthead and footer that make the pages read as a document, and no images at all. Speaker notes throughout.",
       "tags": [
@@ -1018,7 +1018,7 @@
       "description": "英文种子轮路演 deck 15 页 — 首个 investor-pitch 方法模板示例：虚构的热泵安装商排程软件公司 Heatline（公司、产品、团队、traction 与财务数字全部标注 illustrative，12 页带固定位置的溯源提示片），而 why-now、安装工短缺、市场规模输入、竞争类别全部引用 IEA、英国 BUS、美国 IRA 等真实公开来源；5 张原生图表（含 ChartEx 瀑布图）+ 4 张原生表 + 13 条来源超链接，产品界面用原生可编辑形状画的 mockup，traction 曲线与 the ask 跨页 Morph；迄今原生数据最重的一份",
       "icon": "🔥",
       "color": "#0F2A44",
-      "style": "corporate",
+      "style": "business",
       "styleName": "Investor Pitch · Seed Deck",
       "desc": "A fifteen-page English seed-round investor pitch for Heatline, a fictional company selling capacity-planning and scheduling software to residential heat-pump installers — the first example built on the bundled investor-pitch Style. The company, product, team and every traction, revenue, pipeline and financial figure are invented and marked illustrative on the page; the external evidence — heat-pump sales trends, the UK Boiler Upgrade Scheme, the US IRA 25C credit, installer-shortage data and market-sizing inputs — is real and cited. It follows the Style's build from why-now through problem, solution, an illustrative product mockup drawn as editable native geometry, traction, unit economics, a bottom-up market derivation, honest competition, go-to-market, team, financial drivers, the ask, use of funds and a diligence appendix. Five native charts across four types including a ChartEx waterfall, four native tables, thirteen native source hyperlinks, eleven preset shapes, two Morph pairs carrying the capacity gap and the ask into the next page, three AI atmosphere images, speaker notes throughout.",
       "tags": [
@@ -1120,7 +1120,7 @@
       "description": "英文工作坊 deck 14 页 — 首个 workshop-teaching 方法模板示例，第二份英文 Default 路线示例：学习目标→三种锥细胞→加色/减色混合→色相/饱和度/明度三个旋钮→明度对比法则→WCAG 阈值原生表→从葛饰北斋《神奈川冲浪里》取五色的演示→测量与修复→12 分钟练习→两个常见错误（只靠饱和度对比、有序数据用彩虹色阶）→自测→下一步；色轮、色板、明度阶梯、对比对全部是原生可编辑几何与原生渐变，锥细胞峰值与色觉缺陷比例 2 张原生图表，6 条来源超链接；暖纸底严格栅格，页面上唯一饱和色就是被讨论的颜色；色轮跨页 Morph 原地褪色",
       "icon": "🎨",
       "color": "#B5451B",
-      "style": "educational",
+      "style": "education",
       "styleName": "Workshop Teaching · Warm Paper Grid",
       "desc": "A fourteen-page English hands-on workshop on how color works — the first example built on the bundled workshop-teaching Style. It moves the learner from objective to practice: how three cone types sample the spectrum (native line-to-column chart from tabulated peaks), additive versus subtractive mixing drawn as Boolean-fragmented native regions, hue, saturation and lightness as three dials with native gradient ramps, why lightness contrast does the heavy lifting, the WCAG 4.5:1 and 3:1 thresholds as a native reference table, a worked demonstration that pulls a five-color palette out of Hokusai's Under the Wave off Kanagawa and then measures and repairs the pair that fails, a twelve-minute guided exercise, two common mistakes (saturation-only contrast, a rainbow ramp for ordered data), a comprehension check, and where to go next with native source hyperlinks. Rule, convention, recommendation and preference are labeled on every claim. The visual system sets the Style's sketch-notes preference aside for a quiet warm-paper grid where the only saturated pixels on a page are the colors under examination; two twelve-wedge native hue wheels carry a Morph in which the wheel drains of hue in place. Two AI illustration-sheet slices, one public-domain specimen, speaker notes throughout.",
       "tags": [
@@ -1218,7 +1218,7 @@
       "description": "技术深读 deck 14 页 — 首个 technical-deepdive 方法模板示例，也是首个在 Quick 路线上安装 Style 模板的 deck：唯一源是 Raft 论文扩展版 PDF（英文 18 页→中文，术语括注英文），复制状态机、三态与任期时间轴、选举、日志复制与提交、Figure 7 日志冲突修复、安全性两条限制、成员变更与快照全部用原生可编辑几何画出（9 种预设 15 个实例，13 条原生箭头线端），两个 RPC 的代码块与原生对照表，可理解性实验与选举耗时 2 张原生图表，blueprint 视觉 + 3d-isometric 等距插画（首次），smGrid 原生图案网格 13 页，3 对 Morph 承接状态机与日志",
       "icon": "🗳️",
       "color": "#0B1B2B",
-      "style": "technical",
+      "style": "technology",
       "styleName": "Technical Deep Dive · Blueprint Isometric",
       "desc": "A fourteen-page Chinese technical deep dive into the Raft consensus algorithm, read from the extended paper by Diego Ongaro and John Ousterhout (Stanford, 2014) — the first example built on the bundled technical-deepdive Style, and the first Quick-runtime deck that installs a Style workspace. Every mechanism is drawn as native editable geometry rather than a picture: the replicated state machine, the three server states on a term-sliced timeline, leader election with heartbeats and randomized timeouts, log replication and the commit rule, the Figure 7 log-mismatch repair, the two safety restrictions, joint-consensus membership change and snapshots. The two RPCs appear as code blocks beside a native comparison table; the understandability study and the election-latency measurements are native charts using only numbers the paper states in prose; a closing page weighs what Raft buys against what it costs and links to the paper. Blueprint visual style with the 3d-isometric rendering for the cover and hardware imagery (four illustration-sheet slices), a native smGrid pattern fill on every board, nine preset shapes in fifteen instances, thirteen arrowed native line ends, and Morph chains carrying the state machine and the leader log between pages. Chinese throughout with English terms on first use.",
       "tags": [
@@ -1318,7 +1318,7 @@
       "description": "教师节黑板报 deck 13 页 — chalkboard 风格首次成卷:每页是一块教室后墙的板报版面,AI 生成的粉笔手写报头字 13 幅 + 粉笔刊头画 6 幅切片,整页粉笔灰用原生 pct5 图案填充导出为 DrawingML 背景;讲教师节被提四次改四次的来历(1931/1939/1951/1985,含 1985 年 1 月 21 日六届全国人大常委会决议)、教育部专任教师人数与学段结构 2 张原生图表、各国教师节日期原生表(深底显式底色)、程门立雪与《师说》引文、名言谜语画法小栏目、5 条来源原生超链接;报头与粉笔头跨页 Morph 承接,30 个原生预设轮廓;Default 路线主题调研驱动生成",
       "icon": "🧑‍🏫",
       "color": "#1E2B27",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Chalkboard Wall Newspaper",
       "desc": "A thirteen-page Chinese classroom wall newspaper for Teachers' Day (10 September) — the first full deck in the bundled chalkboard visual style. Every page is one blackboard: a chalk-lettered masthead, a lead column, side columns and hand-drawn chalk borders. Thirteen AI-generated chalk headlines and six chalk drawings are illustration-sheet slices keyed on the measured ground colour; the chalk dust across every board is a native pct5 pattern fill that exports as a DrawingML slide background rather than a bitmap. The story is how the date was proposed four times and changed four times (1931, 1939, 1951 and the 1985 decision of the Standing Committee of the Sixth National People's Congress), followed by two native charts of China's 18.7 million full-time teachers by school stage, a native table of Teachers' Day dates around the world with explicit cell fills on the dark ground, the Cheng Yi snow-at-the-gate story with the Shishuo quotation, a three-corner column of sayings, a riddle and a how-to-draw tip, and a closing board with five native source hyperlinks. Thirty native preset outlines (frame, plaque, chevron chain, bracket pair, snipped boxes, folded corner, stars, ribbon, callout), Morph chains carrying the masthead and a chalk stub between pages, speaker notes throughout. Authored by Claude on the Default runtime from thirty-six sourced facts.",
       "tags": [
@@ -1410,7 +1410,7 @@
       "description": "科普讲解 deck 15 页 — 首个 science-explainer 方法模板示例，也是首个 4:3 画布的 Default 路线示例：从「每个人都熬过一次夜」的熟悉经验起步，按熟悉地面→谜题→积木→类比（并标出类比失效点）→机制→量级→证据→误区→知识边缘→为什么重要→继续探索的顺序把「两股力量」讲透；paper-cut 剪纸视觉，颜色全卷固定承担解释职责，AI 母表切片 7 件；睡眠阶段占比、咖啡因半衰期、分年龄建议时长 3 张原生图表，误区/实际/依据原生对照表，8 条来源原生超链接；夜景与「水位容器 + 潮汐」元素跨页 Morph 累积；共识/争议/猜测在页面上分开说",
       "icon": "🌙",
       "color": "#2E4A7D",
-      "style": "science",
+      "style": "education",
       "styleName": "Science Explainer · 剪纸夜谈",
       "desc": "A fifteen-page Chinese public-science talk on why we sleep — the first example built on the bundled science-explainer Style, and the first 4:3 (ppt43) deck authored on the Default runtime. It follows the Style's build from familiar ground to the edge of knowledge: a night everyone has pulled, the puzzle of why sleep cannot simply be shortened, sleep stages and the four-to-five cycles of one night, the two separate forces that make you tired (sleep pressure as a vessel filling with water, the body clock as a tide set by light — each analogy marked where it stops being true), adenosine as the physical substance behind the water level, caffeine as a cup blocking a receptor rather than giving energy, recommended hours by age, the countable cost of drowsy driving, two things you have probably said set against the evidence, what is still argued about, and what to do tonight. Paper-cut visual style with paper-cut rendering; one colour job fixed for the whole talk (navy for sleep pressure, orange for light and the clock, rust for REM and risk); seven AI illustration-sheet slices; three native charts (stage share doughnut, caffeine half-life line, hours-by-age stacked bar), one native myth-versus-evidence table, eight native source hyperlinks, and Morph chains that carry the night scene and the vessel-and-tide pair across adjacent pages in a fixed position. Sourced facts from NIH/NHLBI, AASM/SRS, NHTSA, StatPearls, Nature Neuroscience and Science; speaker notes throughout.",
       "tags": [
@@ -1512,7 +1512,7 @@
       "description": "文化讲述 deck 14 页 — 首个 narrative-keynote 方法模板示例：以故宫藏北宋王希孟《千里江山图》公有领域扫描为主角(维基共享资源 6 张段落扫描,按视窗裁切与 Morph 推移),AI 生成青绿矿物/画具/人物母表切片与瘦金体题字,ink-wash 换成石青石绿赭石朱砂的青绿绢本视觉;蔡京题跋 77 字竖排、整卷真实比例细带、五层设色原生表、九次易手时间线、印章 Morph 承接链;Default 路线主题调研驱动生成",
       "icon": "🏞️",
       "color": "#2B5C8A",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Narrative Keynote · 青绿绢本",
       "desc": "A fourteen-page Chinese narrative keynote on Wang Ximeng's A Thousand Li of Rivers and Mountains (Northern Song, 1113, Palace Museum) — the first example built on the bundled narrative-keynote Style. The painting itself is the protagonist: six public-domain section scans from Wikimedia Commons are cropped at source resolution into a cover with the Qianlong inscription, a true-ratio strip of the whole twelve-metre scroll with a native brace marking the part a display case shows, a darkened tension page with one clear 'case window', Cai Jing's 77-character colophon set vertically beside its crop from the scroll's tail paper, and a two-page camera pan across the long bridge carried by a deterministic Morph pair. Mineral ores, a pigment dish, a brush, a seal, a scroll, a pine and three figures are AI-generated illustration-sheet slices in a blue-green mineral-pigment rendering; the cover lettering is a slender-gold-style calligraphy asset over an editable native title. Five pigment layers become a native record table beside a cross-section; nine changes of hands run along a timeline over a faded band of the painting; a seal continues across three pages as a Morph chain to answer where the painter's name came from. Ink-wash restraint recoloured with azurite, malachite, ochre and cinnabar; KaiTi titles with a YaHei body; speaker notes throughout. Authored by Claude on the Default runtime from a topic-research pair of nineteen sourced facts.",
       "tags": [
@@ -1607,7 +1607,7 @@
       "description": "论文阅读 deck 18 页(英文)— 以 arXiv:2607.04438 的 PDF 为唯一源(首个 PDF 源示例),挂载 academic-research 方法模板,论文自身顺序:问题、相关工作、贡献、五个 skill 各一页、Table 1 原生表、散点+对照柱图分析、Figure 10 六格、成本、应用、局限、结论;19 张论文原图当证据不重绘,4 原生图 7 原生表 3 超链接,Default 路线源文件驱动生成",
       "icon": "📄",
       "color": "#1D4ED8",
-      "style": "academic",
+      "style": "technology",
       "styleName": "Academic Research Reading",
       "desc": "An eighteen-page English paper-reading deck of ResearchStudio-Reel (arXiv:2607.04438 v2), built from the paper's PDF alone through the PDF conversion path — the first example driven by a PDF source. It follows the bundled academic-research Style in the paper's own constructive order: the research question and its three gaps, prior work by output type, the five-skill contribution with Figure 2, one page per skill (requirement-to-solution native tables for Paper2Poster, Paper2Video, and Paper2Blog, the staged-fill loop as a five-band native bar beside Figure 4, Paper2Reel's interaction figure), Table 1 as a nine-by-eleven native table with the best value per column in bold, an aesthetics-versus-PaperQuiz native scatter beside a controlled-comparison column chart, Figure 10 as a three-by-two grid, Table 4 as a native horizontal bar plus a heaviest-stage table, applications, limitations, conclusion, and sources with live hyperlinks. Nineteen figures are imported from the paper at extracted resolution and never redrawn; color encodes condition (Claude Code, Codex, baselines, author ground truth) identically across every chart and table. Swiss-minimal composition in Arial, a fixed claim line under every title, Fig./Table caption tags, footnotes citing the section; six Morph pairs carry the claim line across the skill pages; speaker notes throughout. Authored by Claude on the Default runtime from the converted PDF; the second export turns the tables and charts into native PowerPoint objects.",
       "tags": [
@@ -1723,7 +1723,7 @@
       "description": "咨询决策文档 14 页 — 以 IEA Global EV Outlook 2025 数据浏览器整理的 XLSX 为唯一源,显式挂载 mbb-consulting 方法模板,pyramid × 文档密度自定义视觉(swiss-minimal 基底):每页 5–7 个模块、编号 exhibit、关键信息栏与「对决策的含义」、编号脚注与来源行,14 张原生图表 + 9 张原生表,Default 路线源文件驱动生成",
       "icon": "🔋",
       "color": "#2251FF",
-      "style": "consulting",
+      "style": "business",
       "styleName": "Consulting Document",
       "desc": "A fourteen-page Chinese strategy document on where electric-car growth goes next, built from a single workbook assembled from the IEA Global EV Data Explorer (sales, penetration, powertrain split, and the 2035 Stated Policies scenario). It follows the bundled mbb-consulting Style (the consulting-decision method at MBB document density) in pyramid mode with a custom visual on a swiss-minimal base: every content page carries a two-line action title, a unit line, a section tracker, five to seven modules — two or three lettered exhibits, a compact comparison table or KPI strip beneath them, a numbered key-message column ending in an implication panel — and numbered footnotes with a source line. Fourteen native-ready charts (column, stacked column, bar, line, stacked area, waterfall) and nine native-ready tables become real PowerPoint objects in the second export; chevron presets carry the three-year roadmap; five Morph pairs carry the key-message column across the diagnosis pages and the implication panel into the decision page; one hundred entrance animations and speaker notes throughout. Authored by Claude on the Default runtime from the source workbook.",
       "tags": [
@@ -1818,7 +1818,7 @@
       "description": "经营复盘 14 页 — 以从 Apple 四份季度财报整理的 XLSX + CSV 为唯一源(首个表格数据源示例),挂载 operating-review 方法模板,账页式数据复盘风格,9 张原生图表 + 2 张原生表,每个比率在备注里写明公式,Default 路线源文件驱动生成",
       "icon": "🍎",
       "color": "#2B6CB0",
-      "style": "corporate",
+      "style": "business",
       "styleName": "Operating Review",
       "desc": "A fourteen-page Chinese operating review of Apple's fiscal 2025, built from one workbook and one CSV compiled from the four quarterly condensed consolidated statements (quarterly P&L, geographic segments, annual summary, product categories) — the first example driven by spreadsheet sources. It follows the bundled operating-review Style: a nine-metric scorecard, the revenue bridge that credits services with 51.7% of the increment, quarterly rhythm, the services engine as three panels (eight-quarter columns with year-over-year labels, services-versus-products gross-margin lines, and services' share of the revenue and gross-profit increments), category and region mix, Greater China's three-quarter decline, margin quality, the one-off tax base effect that turns +19.5% net income into +7.72% like-for-like, opex discipline, three open questions, the verdict, and sources with hyperlinks. Ledger-page composition: paper-white field, hairline grid, Consolas figures, state colours only for state. Nine native-ready charts and two native-ready tables become real PowerPoint objects in the second export; four Morph pairs and fifty-seven entrance animations; every ratio is derived in the speaker notes with its formula. Generated on the Default runtime from the source files.",
       "tags": [
@@ -1913,7 +1913,7 @@
       "description": "开源产品发布 deck 14 页 — 以 uv 官方文档、CHANGELOG、Astral 发布博文为源,显式挂载 product-launch 方法模板,showcase × dark-tech,终端窗口当主角、前后对照原生表、Astral 冷/热缓存倍数原生柱图、已发布/preview 分栏,Default 路线源文件驱动生成",
       "icon": "⚡",
       "color": "#4CC9F0",
-      "style": "technical",
+      "style": "technology",
       "styleName": "Dark-Tech Launch",
       "desc": "A fourteen-page Chinese launch deck for uv, Astral's Python package and project manager, built from the official docs, the CHANGELOG (0.12.10, 4 September 2026) and the Astral launch post — nothing was installed or measured locally. It follows the bundled product-launch Style: the tension of six separate tools, the positioning claim in Astral's own words, four capability reveals (project flow, a full-page demonstration quoting the docs' session line by line, scripts and tools, Python versions), a before-and-after command table, the proof point as a native column chart of Astral's cold- and warm-cache speedups with their macOS basis and date, a capability landscape, a shipped-versus-preview matrix with the version each feature first appeared in, three-platform availability, a sources page with live hyperlinks, and one next step. Dark-tech composition: near-black blue canvas, terminal windows in Consolas as the lead carrier, a single cyan and orange accent pair, chevrons for the four-step flow. Two native-ready tables and one native chart, five Morph pairs on two carried objects (six tool badges converging into the uv block; a terminal window growing across four pages), thirty-one entrance animations, speaker notes throughout. Generated on the Default runtime from source pages with the new apply_template installer and --no-images conversion; the second export turns the tables and chart into native PowerPoint objects.",
       "tags": [
@@ -2007,7 +2007,7 @@
       "description": "英文事故复盘 15 页 — 以 Cloudflare 官方博客复盘为唯一事实源,显式挂载 incident-postmortem 方法模板,briefing × swiss-minimal,严重度四色时间条贯穿全卷,4 张原生表 + 1 张示意折线图 + 原生超链接,Default 路线源文件驱动生成,首份方法模板示例",
       "icon": "🟠",
       "color": "#B4342C",
-      "style": "corporate",
+      "style": "business",
       "styleName": "Blameless Postmortem",
       "desc": "A fifteen-page English incident review of the 18 November 2025 Cloudflare outage, built solely from Cloudflare's published account (with the July 2019 postmortem as a comparison record): the summary that can be forwarded alone, the impact table by product surface, the two proxy generations, the five-minute oscillation of the error rate, two timeline tables with a UTC clock, the three-minute detection against the two-hour-fifty-three diagnosis, the query-to-panic mechanism, four contributing factors, the systemic condition shared with 2019, what went well, four corrective actions with owner, date and verification recorded as NO DATA, five open questions, and a sources page with live hyperlinks. The first example to install a bundled Style workspace: the incident-postmortem method (blameless, observed versus inferred versus unconfirmed, roles not people) seeded briefing mode, swiss-minimal composition, Arial with Consolas for timestamps and code, and a fixed severity palette (normal, degraded, critical, recovered) that runs as a segmented strip across the deck. Four native-ready tables, one schematic chart labelled as a reconstruction, three Morph pairs (a time cursor walking the severity strip across three pages, a factor band becoming the next page's headline), forty-four entrance animations, speaker notes throughout. Generated on the Default runtime from the source pages; the second export turns the tables and chart into native PowerPoint objects.",
       "tags": [
@@ -2205,7 +2205,7 @@
       "description": "照片专辑 13 页 — 十张 NASA 公有领域照片,每页一张主图、满版出血、只用一种处理层,一页一个被误读的细节,Default 路线纯题目 + 主题研究生成",
       "icon": "🌕",
       "color": "#0B0D12",
-      "style": "editorial",
+      "style": "design",
       "styleName": "Photo Editorial",
       "desc": "A thirteen-page photo essay on the four years in which people left Earth, 1968 to 1972: Earthrise, the ten-orbit broadcast, the six hours between landing and stepping down, the photographer in the visor, the bootprint that was a soil-mechanics test, the past-perfect wording of Apollo 13's problem, the loop around the Moon on the way home, the first rover, the geologist on the last flight, a ledger of the four years, Blue Marble and a rights page. Ten NASA public-domain photographs carry the deck at one hero image per page, most of them full-bleed, each with exactly one treatment layer — a crop, a tone, a mono conversion or a mask — chosen so the picture stays the argument; the text beside each photo names one detail the picture is usually misread on, with its date, time or count quoted from the mission record. Five Morph groups carry the mission numbers between pages, and the flight ledger is a native-ready table. Generated on the Default runtime from a bare topic with topic research, with image sources recorded per photograph.",
       "tags": [
@@ -2293,7 +2293,7 @@
       "description": "全年手账 31 页 — 封面、年轮总览、四季分隔页与二十四个节气各一页,圆角卡片手账风,9 张 AI 元素表切成 51 张切片 + 23 处题字,四季色盘与年轮跨页 Morph,Default 路线纯题目生成,首份 30 页以上长卷",
       "icon": "🗓️",
       "color": "#2F6B5E",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Soft-rounded Journal",
       "desc": "A thirty-one-page journal of the twenty-four solar terms for 2026: a cover, a year-ring overview, four season dividers and one page per term with its exact date and time, the three 候 lines from 《月令七十二候集解》, a custom or seasonal food, and one thing to do that day, closing with a sources page of live hyperlinks. Nine AI sheets were generated in-pipeline and sliced into fifty-one pieces — twenty-four term motifs, twenty-three brush-lettered term names beside native titles (惊蛰 kept native after the model misdrew the character), four ornaments — inside a soft-rounded card system with one semantic colour per season, a native sun-elevation line chart and one hundred twenty-one preset shapes. Five Morph groups carry the season disc and the year ring from each divider into its first term, and one hundred forty-nine entrance animations across seven families finish the deck. Generated on the Default runtime from a bare topic with topic research; the first deck over thirty pages, with per-page timing recorded in notes/longform.md.",
       "tags": [
@@ -2471,7 +2471,7 @@
       "description": "英文 deck 16 页 — 以英文维基百科 Brutalist architecture 页为源,粗暴主义报纸版式:满版小字、粗规则线、反白格、旋转印章框,4 张 Commons 照片经双色调与裁形处理,Morph 与原生表,Default 路线源文件驱动生成,首份全英文示例",
       "icon": "🏢",
       "color": "#14110F",
-      "style": "editorial",
+      "style": "design",
       "styleName": "Brutalist Newspaper",
       "desc": "A sixteen-page English field guide built from the Wikipedia article on Brutalist architecture: what the word means and where it came from, the postwar conditions that produced it, béton brut and the ethic of exposed structure, streets in the sky, the builders and the campuses, the backlash and demolitions, and the revival — closing with a scored sheet and a CC BY-SA sources page. Set as a brutalist newspaper: wall-to-wall small type in Arial Black, Cambria and Consolas, heavy rule lines, one inverted ink cell per spread, a rotated stamp box, masthead numerals set so large they cross the column rules. Four Wikimedia and Pexels photographs pass through a processing layer — contrast, duotone into the deck ink and paper, hard ruled crops — with inline credits; two native-ready tables; two Morph pairs carry the masthead numeral and the section rule; fifty-eight entrance animations across eight families. Generated on the Default runtime from the source page with speaker notes; the first English-language example.",
       "tags": [
@@ -2574,7 +2574,7 @@
       "description": "公众号头图一组 7 张(900×383)— 总览加绿白黄青红黑六类各一张,墨线手绘 + 每类一个汤色语义色,复用茶手页的切片作用户素材,发酵度轴与盖碗跨页 Morph,Quick 路线生成",
       "icon": "🍵",
       "color": "#4F7A43",
-      "style": "editorial",
+      "style": "culture",
       "styleName": "Ink-notes Header Set",
       "desc": "A set of seven WeChat article headers (900×383) for the six classes of Chinese tea: an overview that seats all six on a fermentation axis, then one header per class — green, white, yellow, oolong, black and dark — with the class name in brush lettering beside a native title, its core process, a liquor-colour dot, and one buying tip. Built on the Quick runtime from the tea handout's own slices supplied as user material (no new AI generation), in the ink-notes style with black line work and one semantic colour per class; the fermentation axis and the gaiwan carry through the set as twelve Morph pairs, with thirty-four entrance animations. The two classes without a verifiable liquor colour show NO DATA in a callout.",
       "tags": [
@@ -2632,7 +2632,7 @@
       "description": "横版 banner 一组 7 张(1920×1080)— 总览加六个秋季节气各一张,手账抖线与粉彩色块,复用节气手账的切片作用户素材,路线条与秋印跨页 Morph,Quick 路线生成",
       "icon": "🍂",
       "color": "#C6512E",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Sketch-notes Banner Set",
       "desc": "A set of seven landscape banners (1920×1080) for the six autumn solar terms: an overview that lines the six terms along a hand-drawn route, then one banner per term with its brush-lettered name beside a native title, the 2026 date, one 候 line and one thing to do, and the term's doodle. Built on the Quick runtime from the autumn journal's own slices supplied as user material, in the sketch-notes style with wobbly path outlines, pastel blocks and a native paper-grain pattern; the route line and the autumn seal travel through the set as twelve Morph pairs, with forty-four entrance animations.",
       "tags": [
@@ -2690,7 +2690,7 @@
       "description": "扁长条网页横幅一组 7 张(自定义画布 1920×600)— 总览加六个秋季节气各一张,横向展开的手账排法,复用节气手账的切片作用户素材,路线与秋印跨页 Morph,Quick 路线生成,首份自定义画布示例",
       "icon": "🍁",
       "color": "#D08A2E",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Sketch-notes Web Banner Set",
       "desc": "A set of seven wide web banners on a custom 1920×600 canvas — the first example outside the registered formats: an overview with the six autumn terms on a hand-drawn route, then one banner per term laid out horizontally with lettering, date, one 候 line, one thing to do and the term's doodle. Built on the Quick runtime from the autumn journal's slices as user material, in the sketch-notes style; the route spine and the autumn seal carry through as twelve Morph pairs, with fifty-six entrance animations. Typography was scaled from the short edge (body 52), and the exported PPTX page is 1920×600.",
       "tags": [
@@ -2748,7 +2748,7 @@
       "description": "朋友圈九宫格 11 页 — 回力到红灯九件 1935–1972 年的老国货,中世纪海报风平涂,4 张 AI 元素表切成 23 张切片 + 十处复古题字,原生半调纸纹,太阳盘与编号徽章链式 Morph,Default 路线纯题目生成",
       "icon": "📻",
       "color": "#B3402F",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Vintage Poster Grid",
       "desc": "An eleven-page square series (1080×1080) made to post as a Moments grid: nine Chinese heritage products from Huili shoes (1935) to the Red Lantern radio (1972) — Forever bicycles, Bright ice bricks, Shanghai watches, White Rabbit candy, Hero pens, Seagull cameras, Butterfly sewing machines — each with its birth year and origin, why it swept the country, and where to meet it today, plus a cover and a sources page with live hyperlinks. Four AI poster sheets were generated in-pipeline and sliced into twenty-three pieces of reduced graphic illustration, decoration and poster lettering; ten brush-cut marks sit beside native editable titles; sun discs, ray wedges, off-axis blocks and badge seals in flat limited colour, native halftone and paper-grain pattern fills, and twenty-two preset shapes carry the mid-century print look with no gradients or filters. Forty-nine entrance animations and nine Morph pairs — the sun disc carries from the cover to the first poster and the numbered badge chains through all nine — finish the choreography. Generated on the Default runtime from a bare topic with topic research and speaker notes; the exported PPTX page is square.",
       "tags": [
@@ -2826,7 +2826,7 @@
       "description": "技术入门简报 12 页 — 以 MDN WebGPU API 概览页为源,暗色科技风,7 段原生可编辑 Consolas 代码块,32 个预设形状与 3 对 Morph,Quick 路线源文件驱动生成 (2026-09-04 生成;2026-09-05 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "🖥️",
       "color": "#0B1220",
-      "style": "technical",
+      "style": "technology",
       "styleName": "Dark-tech Primer",
       "desc": "A twelve-page primer for front-end engineers built on the Quick runtime from the MDN WebGPU API overview page: why WebGPU exists, the browser-to-GPU stack, getting an adapter and a device, core versus compatibility mode, render and compute pipelines, vertex and fragment stages with WGSL, the five steps of an app, a render pass read line by line, moving compute results back to JavaScript, error scopes, and support status. Seven code blocks are editable Consolas text; thirty-two preset shapes, nineteen icons, gradients and a few filters carry the dark-tech surface; the source page's only bitmap is redrawn as native SVG and doubles as a Morph endpoint. Everything is quoted from the one page, and the fields its script-rendered compatibility table would have supplied show NO DATA. Thirty-six entrance animations and three Morph pairs finish the deck; no images, notes, or sound.",
       "tags": [
@@ -2909,7 +2909,7 @@
       "description": "A4 打印手页 9 页 — 绿白黄青红黑六大类各一页,黑墨线手绘 + 每类一个汤色语义色,2 张 AI 元素表切成 15 张切片 + 六个类名题字,发酵度轴贯穿全卷的 Morph,Default 路线纯题目生成",
       "icon": "🍵",
       "color": "#2F4F3A",
-      "style": "editorial",
+      "style": "culture",
       "styleName": "Ink-notes Handout",
       "desc": "A nine-page A4 handout (1240×1754) on the six classes of Chinese tea, one sheet per class so each can be printed and kept: a fermentation axis seats green, white, yellow, oolong, black and dark tea in order, and every class page gives its core process, representative teas, liquor colour, water temperature and steeping time, and one buying tip; a sources page carries live hyperlinks and lists the three unverifiable fields as NO DATA. Two AI ink sheets were generated in-pipeline and sliced into fifteen transparent leaf, teaware and lettering pieces; six brush-lettered class names sit beside native editable titles; near-monochrome ink line work with one semantic colour per class, fourteen preset shapes and thirty-one icons carry the whiteboard look with no gradients, filters or paper grain. Fifty entrance animations and seven Morph pairs — the fermentation axis travels from the overview through every class page — finish the choreography. Generated on the Default runtime from a bare topic with topic research and speaker notes; the exported PPTX page size is A4.",
       "tags": [
@@ -3086,7 +3086,7 @@
       "description": "竖版 story 手账 14 页 — 立秋到霜降六个节气,手绘手账风,6 张 AI 元素表切成 30 张切片 + 八处手绘题字,雁与霜叶两条路径动画、Morph 与原生一览表、来源页原生超链接,Default 路线纯题目生成",
       "icon": "🍂",
       "color": "#C6512E",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Sketch-notes Journal",
       "desc": "A fourteen-page vertical story deck (1080×1920) that walks through the six autumn solar terms from Liqiu to Shuangjiang: each station gives the exact 2026 date from the Hong Kong Observatory almanac, the three 候 lines quoted from 《月令七十二候集解》, one custom or seasonal food, and one plain thing to do that day; two breathing pages cover autumn colours and what to eat, an overview table gathers all six dates, and a sources page carries live hyperlinks (the single unverifiable field shows NO DATA). Six AI sketch sheets were generated in-pipeline and sliced into thirty transparent pieces; eight brush-lettered marks sit beside native editable titles; wobbly path outlines, pastel blocks, a native paper-grain pattern and fifteen preset shapes carry the hand-drawn look with no gradients or filters. Twenty-two entrance animations, two Morph transitions and two motion paths — the wild goose crossing the Bailu page and the frosted leaf drifting into its card on Shuangjiang — finish the choreography. Generated on the Default runtime from a bare topic with topic research and speaker notes.",
       "tags": [
@@ -3179,7 +3179,7 @@
       "description": "中国早餐图鉴 16 页 — 像素游戏风,8 张 AI 像素元素表切成 41 个 sprite + 三幅像素题字,HUD 属性条与原生对照表,Morph 与三处 8-bit 音效,Default 路线纯题目生成",
       "icon": "🍜",
       "color": "#1B1D3A",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Pixel-art Atlas",
       "desc": "A sixteen-page Pokédex-style atlas of Chinese breakfasts — eleven numbered entry cards from Beijing douzhi to Xinjiang samsa, each with a large pixel food sprite and HUD attribute bars whose values cite their source year (unverifiable fields show NO DATA), a sweet-versus-savory dispute page, and a native comparison table. Eight AI pixel-art sheets were generated in-pipeline and sliced into forty-one transparent sprites (dishes, props, HUD icons, scene pieces, a player character in six poses); three pixel lettering marks sit beside their native titles; tile floors, progress bars and snip-corner HUD panels are native geometry, with no gradients or filters by style discipline. Entrances are appear/wipe only, the HUD frame and the player's progress carry two Morph transitions, and three short 8-bit sound cues come from the bundled Kenney library. Generated on the Default runtime from a bare topic with topic research and speaker notes.",
       "tags": [
@@ -3283,7 +3283,7 @@
       "description": "中秋节文化叙事 16 页 — 剪纸夜色风,AI 剪纸插画切层 + 四幅题字 + 月相跨页 Morph,原生表格与备注动画,Default 路线纯题目生成",
       "icon": "🌕",
       "color": "#131A33",
-      "style": "creative",
+      "style": "culture",
       "styleName": "Paper-cut Night",
       "desc": "A sixteen-page cultural narrative on the Mid-Autumn Festival in three acts — how a Zhou ritual became a Song festival, how the mooncake got its name and its five regional crusts, and where the three moon legends actually come from — told as layered cut paper on a deep-indigo night. Six AI illustration sheets were generated in-pipeline and sliced into thirty-three transparent paper layers (moon phases, clouds, osmanthus, the legends' figures, lanterns, the fire dragon, five mooncakes and a wooden mould), three derivatives were tone-matched to the palette, and four brush-cut lettering marks sit beside their native titles. The moon changes phase and position across the deck and is carried by three Morph transitions; the mooncake comparison is a native table. Generated on the Default runtime from a bare topic with topic research, speaker notes and restrained entrance choreography.",
       "tags": [
@@ -3387,7 +3387,7 @@
       "description": "Transformer 原论文深读 — 蓝图图纸风,结构图 + 公式 + 表格,带备注与动画,Quick 路线生成 (2026-08 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "🧠",
       "color": "#1A365D",
-      "style": "technical",
+      "style": "technology",
       "styleName": "Academic Blueprint",
       "desc": "Paper-reading deck for Vaswani et al. 2017, Attention Is All You Need, drawn as a fifteen-sheet blueprint set: the pre-2017 bottleneck, the encoder–decoder architecture, scaled dot-product and multi-head attention, positional encoding, the complexity table, training recipe, WMT14 results, ablations and the model's legacy. Generated on the Quick runtime with per-slide speaker notes and object-level animations.",
       "tags": [
@@ -3484,7 +3484,7 @@
       "description": "小红书竖版图文 9 页 — 《大观茶论》七汤点茶法图解,新中式水墨 + AI 水彩插画与「七汤」题字,Quick 路线纯题目生成",
       "icon": "🍵",
       "color": "#B3352B",
-      "style": "editorial",
+      "style": "culture",
       "styleName": "Ink-wash × Watercolor",
       "desc": "Nine vertical Xiaohongshu cards (1242×1660) explaining the seven-pour whisking method from Emperor Huizong's Daguan Chalun: what diancha is, the three tools and their standards, the three preparations, each of the seven pours with the original text and a plain reading, and the color standard. Generated on the Quick runtime from a bare topic: topic-research gathered the facts, AI watercolor produced two hero images, eleven transparent illustration slices and a brush-lettered mark, and the pages were composed in a New-Chinese ink-wash system with speaker notes and entrance choreography.",
       "tags": [
@@ -3551,7 +3551,7 @@
       "description": "高中物理讲解课件 — 黑板粉笔风,4:3 画布,水波示意图 + 原生公式 + 实拍照片,带备注与点击揭示动画,Quick 路线生成",
       "icon": "🌊",
       "color": "#1F3D33",
-      "style": "chalkboard",
+      "style": "education",
       "styleName": "Classroom Chalkboard",
       "desc": "A twenty-slide high-school physics lesson on wave interference and diffraction, drawn as chalk on a dark green board on the 4:3 canvas: superposition in three stages, the ripple-tank experiment, the two-source interference pattern, the path-difference conditions as editable OMML formulas, coherence, slit width versus wavelength, Huygens' principle, then the same ideas carried to light through Young's double slit, the Poisson spot and thin-film colours. Real photographs are pinned to the board with recorded provenance; the summary table is native-ready and the practice page reveals answers on click.",
       "tags": [
@@ -3675,7 +3675,7 @@
       "description": "套用内置「中国电信」Deck 模板的 14 页业绩汇报 — Quick 路线、结构化 Master/Layout 导出,含原生图表版",
       "icon": "📡",
       "color": "#C00000",
-      "style": "corporate",
+      "style": "business",
       "styleName": "Brand Deck Template",
       "desc": "Fourteen-page reading of China Telecom's 2025 full-year results built on the bundled 中国电信 Deck template: two brand Masters and five Layouts are declared on every page and exported as a structured PPTX. Pyramid argument, Swiss-minimal restraint inside the template's red-and-grey system, tabler icons, four native chevron presets, speaker notes, section push transitions and per-object entrance choreography. A second export renders the emerging-business bar chart as a native PowerPoint chart.",
       "tags": [
@@ -3768,7 +3768,7 @@
       "description": "2026 普利兹克大师季 — 8 座新作深读,实景摄影全用 + 每座建筑专属几何语言,Quick 路线生成",
       "icon": "🏛️",
       "color": "#594A3C",
-      "style": "editorial",
+      "style": "design",
       "styleName": "Architecture Editorial",
       "desc": "Long-read on the eight Pritzker-laureate buildings opening in 2026, from Ando's Suzhou museum to Kéré's Goethe-Institut in Dakar. Photography-forward editorial layout built entirely from the source article's real photographs, with a bespoke geometric motif per building. Generated on the Quick runtime with speaker notes and transition animations.",
       "tags": [
@@ -3855,7 +3855,7 @@
       "description": "Kubernetes 集群架构 13 页拆解 — 深海军蓝等距技术图风,纯手绘 SVG 几何,Quick 路线生成",
       "icon": "📐",
       "color": "#3FB4D9",
-      "style": "general",
+      "style": "technology",
       "styleName": "Engineering Blueprint",
       "desc": "Thirteen-page walkthrough of Kubernetes cluster architecture in an isometric engineering-drawing style — blueprint cyan and violet on deep navy paper, hand-authored SVG geometry only. Covers the two planes, control-plane components, scheduling, the reconcile loop, worker nodes, Pod lifecycle, Services, storage, HA topology, self-healing and the API spine. Generated on the Quick runtime from the kubernetes.io docs, with speaker notes and object animations.",
       "tags": [
@@ -3942,7 +3942,7 @@
       "description": "“PPT 到底是什么”17 页系统讲解 — 蓝图×编辑杂志混合风,AI 线稿插图 + 备注 + 动画,Default 路线生成 (2026-07 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "📽️",
       "color": "#1A2B4A",
-      "style": "editorial",
+      "style": "education",
       "styleName": "Blueprint × Editorial",
       "desc": "Seventeen-page explainer on what a presentation actually is: the five things people mean by \"PPT\", why people present, when PowerPoint is the wrong medium, the native .pptx object model, what makes a deck good, and eight questions to ask before opening the app. Editorial magazine grid with blueprint-style AI line illustrations, ink-blue on warm paper with a single red accent. Generated on the Default runtime (Strategist → Image_Generator → Executor) with speaker notes and object animations; the narrated-audio variant is not included.",
       "tags": [
@@ -4049,7 +4049,7 @@
       "description": "LoRA 论文解读 15 页 — 冷静技术蓝图风,结构图 + 公式 + KPI 卡片 + 逐页旁白与自定义动画 (2026-05 生成;2026-09 从历史中恢复并按当前规范适配表达、重新打包,幻灯片内容未重生成)",
       "icon": "🧠",
       "color": "#1B3A5C",
-      "style": "technical",
+      "style": "technology",
       "styleName": "Blueprint Technical",
       "desc": "Technical reading deck for Hu et al. 2021, LoRA: Low-Rank Adaptation of Large Language Models: why full fine-tuning stops scaling at 175B (the GPU-rack cost figure), the limits of adapters and prefix tuning, the low intrinsic-rank hypothesis, the frozen-W0-plus-BA reparameterization, the alpha/r scaling and merge-at-deployment details, where it attaches inside the Transformer, the four advantages, zero inference latency, the GLUE and GPT-3 results, and the rank/subspace analysis. Blueprint-style AI diagrams, rendered formulas, KPI cards, tabler icons, per-slide speaker notes, and object-level entrance animations. Generated in May 2026 and dropped from the gallery in the August clean-up; restored from git history in September 2026 at readers' request and adapted to the current authoring rules (spec metadata, shipped icons, gradient rails, compressed images, re-export) without regenerating the slides.",
       "tags": [
@@ -4146,7 +4146,7 @@
       "description": "2026 普利兹克建筑奖深度阅读 — 建筑摄影主导 + 编辑设计 (2026-05 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "🏛️",
       "color": "#594A3C",
-      "style": "editorial",
+      "style": "design",
       "styleName": "Architecture Editorial",
       "desc": "Long-read on the 2026 Pritzker laureate. Photography-forward editorial layout designed for reading clubs, architecture courses, and long-form social posts. Generated in May 2026; in September 2026 the package was adapted to the current authoring rules (spec metadata, shipped icons, compressed images, re-export) without regenerating the slides.",
       "tags": [
@@ -4223,7 +4223,7 @@
       "description": "全球 AI 资本流向年度观察 — Bloomberg / Economist 信息图风 (2026-05 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "💰",
       "color": "#1F3A5F",
-      "style": "consulting",
+      "style": "data",
       "styleName": "Bloomberg Editorial",
       "desc": "Year-in-review on global AI capital flows in the dense data-journalism style of Bloomberg and The Economist — multi-column layouts, micro-charts, editorial sidebars. Generated in May 2026; in September 2026 the package was adapted to the current authoring rules (spec metadata, shipped icons, compressed images, re-export) without regenerating the slides.",
       "tags": [
@@ -4345,7 +4345,7 @@
       "description": "瑞士国际主义设计史 lecture — Müller-Brockmann 致敬 (2026-05 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "🅢",
       "color": "#C8102E",
-      "style": "creative",
+      "style": "design",
       "styleName": "Swiss Typographic",
       "desc": "Design-history lecture on Swiss International Typographic Style — strict grid, Helvetica, asymmetric balance, two-color print sensibility; an homage to Müller-Brockmann. Generated in May 2026; in September 2026 the package was adapted to the current authoring rules (spec metadata, shipped icons, compressed images, re-export) without regenerating the slides.",
       "tags": [
@@ -4437,7 +4437,7 @@
       "description": "AI 产品发布 — 毛玻璃质感的现代 SaaS 视觉语言 (2026-05 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "💎",
       "color": "#6366F1",
-      "style": "general",
+      "style": "business",
       "styleName": "Glassmorphism SaaS",
       "desc": "AI product launch deck with frosted-glass surfaces, soft gradients, and depth layering — modern SaaS visual language. Generated in May 2026; in September 2026 the package was adapted to the current authoring rules (spec metadata, shipped icons, compressed images, re-export) without regenerating the slides.",
       "tags": [
@@ -4519,7 +4519,7 @@
       "description": "虚构音乐节年度手册 — Memphis 设计运动 + 流行流派 mash-up (2026-05 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "🎵",
       "color": "#FF4488",
-      "style": "creative",
+      "style": "design",
       "styleName": "Memphis / Pop",
       "desc": "Fictional music festival annual book in the Memphis design movement's flat-graphic, hi-saturation style — geometric shapes, terrazzo, 80s typography. Generated in May 2026; in September 2026 the package was adapted to the current authoring rules (spec metadata, shipped icons, compressed images, re-export) without regenerating the slides.",
       "tags": [
@@ -4611,7 +4611,7 @@
       "description": "独立书店 zine 入门指南 — Risograph 印刷工艺 + DIY 海报美学 (2026-05 生成;2026-09 按当前规范适配表达并重新打包,幻灯片内容未重生成)",
       "icon": "📖",
       "color": "#E85D75",
-      "style": "creative",
+      "style": "design",
       "styleName": "Risograph Zine",
       "desc": "DIY zine-making guide pitched at indie-bookstore audiences, using risograph color separations, halftone textures, and hand-cut poster typography. Generated in May 2026; in September 2026 the package was adapted to the current authoring rules (spec metadata, shipped icons, compressed images, re-export) without regenerating the slides.",
       "tags": [
