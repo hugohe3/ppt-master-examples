@@ -1,0 +1,518 @@
+{
+  "version": 1,
+  "slides": {
+    "02_what_20_percent_means": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "actual-count": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        }
+      }
+    },
+    "03_three_thresholds": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "gate-1993": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "gate-2018": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "gate-2025": {
+          "effect": "entrance_zoom",
+          "order": 3,
+          "duration": 0.6
+        },
+        "interval-25": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 4,
+          "duration": 0.7
+        },
+        "interval-7": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 5,
+          "duration": 0.5
+        },
+        "takeaway": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.5
+        }
+      }
+    },
+    "04_next_thresholds": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 1.0
+      },
+      "morph": {
+        "from": "03_three_thresholds",
+        "pairs": {
+          "gate-1993": {
+            "from": "gate-1993",
+            "to": "gate-1993"
+          },
+          "gate-2018": {
+            "from": "gate-2018",
+            "to": "gate-2018"
+          },
+          "gate-2025": {
+            "from": "gate-2025",
+            "to": "gate-2025"
+          },
+          "gate-2037": {
+            "from": "gate-2037",
+            "to": "gate-2037"
+          },
+          "gate-2049": {
+            "from": "gate-2049",
+            "to": "gate-2049"
+          },
+          "gate-2065": {
+            "from": "gate-2065",
+            "to": "gate-2065"
+          },
+          "interval-25": {
+            "from": "interval-25",
+            "to": "interval-25"
+          },
+          "interval-7": {
+            "from": "interval-7",
+            "to": "interval-7"
+          },
+          "ruler-axis": {
+            "from": "ruler-axis",
+            "to": "ruler-axis"
+          }
+        }
+      },
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "interval-12": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 1,
+          "duration": 0.6
+        },
+        "takeaway": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        }
+      }
+    },
+    "06_two_forces": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "force-births": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "p06-arrow-births": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "force-longevity": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "p06-arrow-longevity": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "cause-line": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.5
+        }
+      }
+    },
+    "07_births_deaths_cross": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "births-deaths-line": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 1,
+          "duration": 1.2
+        },
+        "reading-cross": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        }
+      }
+    },
+    "09_pyramid_2075": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 1.4
+      },
+      "morph": {
+        "from": "08_pyramid_2026",
+        "pairs": {
+          "bar-m-00": {
+            "from": "bar-m-00",
+            "to": "bar-m-00"
+          },
+          "bar-m-01": {
+            "from": "bar-m-01",
+            "to": "bar-m-01"
+          },
+          "bar-m-02": {
+            "from": "bar-m-02",
+            "to": "bar-m-02"
+          },
+          "bar-m-03": {
+            "from": "bar-m-03",
+            "to": "bar-m-03"
+          },
+          "bar-m-04": {
+            "from": "bar-m-04",
+            "to": "bar-m-04"
+          },
+          "bar-m-05": {
+            "from": "bar-m-05",
+            "to": "bar-m-05"
+          },
+          "bar-m-06": {
+            "from": "bar-m-06",
+            "to": "bar-m-06"
+          },
+          "bar-m-07": {
+            "from": "bar-m-07",
+            "to": "bar-m-07"
+          },
+          "bar-m-08": {
+            "from": "bar-m-08",
+            "to": "bar-m-08"
+          },
+          "bar-m-09": {
+            "from": "bar-m-09",
+            "to": "bar-m-09"
+          },
+          "bar-m-10": {
+            "from": "bar-m-10",
+            "to": "bar-m-10"
+          },
+          "bar-m-11": {
+            "from": "bar-m-11",
+            "to": "bar-m-11"
+          },
+          "bar-m-12": {
+            "from": "bar-m-12",
+            "to": "bar-m-12"
+          },
+          "bar-m-13": {
+            "from": "bar-m-13",
+            "to": "bar-m-13"
+          },
+          "bar-m-14": {
+            "from": "bar-m-14",
+            "to": "bar-m-14"
+          },
+          "bar-m-15": {
+            "from": "bar-m-15",
+            "to": "bar-m-15"
+          },
+          "bar-m-16": {
+            "from": "bar-m-16",
+            "to": "bar-m-16"
+          },
+          "bar-m-17": {
+            "from": "bar-m-17",
+            "to": "bar-m-17"
+          },
+          "bar-m-18": {
+            "from": "bar-m-18",
+            "to": "bar-m-18"
+          },
+          "bar-m-19": {
+            "from": "bar-m-19",
+            "to": "bar-m-19"
+          },
+          "bar-m-20": {
+            "from": "bar-m-20",
+            "to": "bar-m-20"
+          },
+          "bar-f-00": {
+            "from": "bar-f-00",
+            "to": "bar-f-00"
+          },
+          "bar-f-01": {
+            "from": "bar-f-01",
+            "to": "bar-f-01"
+          },
+          "bar-f-02": {
+            "from": "bar-f-02",
+            "to": "bar-f-02"
+          },
+          "bar-f-03": {
+            "from": "bar-f-03",
+            "to": "bar-f-03"
+          },
+          "bar-f-04": {
+            "from": "bar-f-04",
+            "to": "bar-f-04"
+          },
+          "bar-f-05": {
+            "from": "bar-f-05",
+            "to": "bar-f-05"
+          },
+          "bar-f-06": {
+            "from": "bar-f-06",
+            "to": "bar-f-06"
+          },
+          "bar-f-07": {
+            "from": "bar-f-07",
+            "to": "bar-f-07"
+          },
+          "bar-f-08": {
+            "from": "bar-f-08",
+            "to": "bar-f-08"
+          },
+          "bar-f-09": {
+            "from": "bar-f-09",
+            "to": "bar-f-09"
+          },
+          "bar-f-10": {
+            "from": "bar-f-10",
+            "to": "bar-f-10"
+          },
+          "bar-f-11": {
+            "from": "bar-f-11",
+            "to": "bar-f-11"
+          },
+          "bar-f-12": {
+            "from": "bar-f-12",
+            "to": "bar-f-12"
+          },
+          "bar-f-13": {
+            "from": "bar-f-13",
+            "to": "bar-f-13"
+          },
+          "bar-f-14": {
+            "from": "bar-f-14",
+            "to": "bar-f-14"
+          },
+          "bar-f-15": {
+            "from": "bar-f-15",
+            "to": "bar-f-15"
+          },
+          "bar-f-16": {
+            "from": "bar-f-16",
+            "to": "bar-f-16"
+          },
+          "bar-f-17": {
+            "from": "bar-f-17",
+            "to": "bar-f-17"
+          },
+          "bar-f-18": {
+            "from": "bar-f-18",
+            "to": "bar-f-18"
+          },
+          "bar-f-19": {
+            "from": "bar-f-19",
+            "to": "bar-f-19"
+          },
+          "bar-f-20": {
+            "from": "bar-f-20",
+            "to": "bar-f-20"
+          },
+          "pyramid-frame": {
+            "from": "pyramid-2026",
+            "to": "pyramid-2075"
+          },
+          "reading-shares": {
+            "from": "reading-shares",
+            "to": "reading-shares"
+          }
+        }
+      }
+    },
+    "10_dependency_ratio": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "support-ratio": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        }
+      }
+    },
+    "11_working_age": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "stage-2015": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 1,
+          "duration": 0.4
+        },
+        "stage-2026": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "stage-2040": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "stage-2075": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "working-age-mix": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.6
+        }
+      }
+    },
+    "12_care_demand": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "hero-85plus": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        },
+        "care-milestones": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 2,
+          "duration": 0.8
+        },
+        "report-note": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        }
+      }
+    },
+    "13_policy_framework": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "chapter-family": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        },
+        "chapter-silver": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "chapter-talent": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "with-previous"
+        },
+        "chapter-global": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5,
+          "trigger": "with-previous"
+        }
+      }
+    },
+    "14_everyday_scenes": {
+      "animation": {
+        "trigger": "on-click"
+      },
+      "groups": {
+        "scene-family": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "scene-work": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "scene-school": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "scene-public": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5
+        }
+      }
+    }
+  }
+}

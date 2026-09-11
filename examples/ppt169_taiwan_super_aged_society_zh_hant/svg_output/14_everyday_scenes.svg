@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="page-title" data-pptx-bounds="64 60 1040 100">
+    <text x="64" y="106" font-size="40" font-weight="bold" fill="#1F3A5F">推估落到生活裡的四個場景</text>
+    <text x="64" y="146" font-size="24" fill="#1E232B">把前面的數字對應到家庭、職場、學校與公共服務</text>
+  </g>
+  <g id="synthesis-tag" data-pptx-bounds="1120 70 96 44">
+    <rect x="1120" y="72" width="96" height="40" rx="4" fill="none" stroke="#B5462F" stroke-width="2" />
+    <text x="1168" y="99" font-size="18" font-weight="bold" fill="#B5462F" text-anchor="middle">整理</text>
+  </g>
+  <g id="scene-family" data-pptx-bounds="64 188 264 356">
+    <rect x="64" y="192" width="264" height="4" fill="#B5462F" />
+    <use data-icon="tabler-filled/home" x="80" y="214" width="44" height="44" fill="#B5462F" />
+    <text x="140" y="248" font-size="28" font-weight="bold" fill="#1F3A5F">家庭</text>
+    <text x="80" y="324" font-size="40" font-weight="bold" fill="#B5462F">32.3%</text>
+    <text x="80" y="360" font-size="18" fill="#5A6270">2075 年長者中 85 歲以上<tspan x="80" dy="26">的比率（中推估）</tspan></text>
+    <line x1="80" y1="440" x2="312" y2="440" stroke="#D5CCBC" stroke-width="1" />
+    <text x="80" y="474" font-size="18" font-weight="bold" fill="#1F3A5F">報告中的課題</text>
+    <text x="80" y="504" font-size="18" fill="#1E232B">隨老年人口持續老化，<tspan x="80" dy="26">「老老照顧」漸成常態</tspan></text>
+  </g>
+  <g id="scene-work" data-pptx-bounds="352 188 264 356">
+    <rect x="352" y="192" width="264" height="4" fill="#1F3A5F" />
+    <use data-icon="tabler-filled/briefcase" x="368" y="214" width="44" height="44" fill="#1F3A5F" />
+    <text x="428" y="248" font-size="28" font-weight="bold" fill="#1F3A5F">職場</text>
+    <text x="368" y="324" font-size="40" font-weight="bold" fill="#1F3A5F">60.8%</text>
+    <text x="368" y="360" font-size="18" fill="#5A6270">2075 年 15–64 歲人口中<tspan x="368" dy="26">45–64 歲的比率</tspan></text>
+    <line x1="368" y1="440" x2="600" y2="440" stroke="#D5CCBC" stroke-width="1" />
+    <text x="368" y="474" font-size="18" font-weight="bold" fill="#1F3A5F">報告中的課題</text>
+    <text x="368" y="504" font-size="18" fill="#1E232B">中高齡技能再造、職務<tspan x="368" dy="26">再設計更形重要</tspan></text>
+  </g>
+  <g id="scene-school" data-pptx-bounds="640 188 264 356">
+    <rect x="640" y="192" width="264" height="4" fill="#5E8C6A" />
+    <use data-icon="tabler-filled/school" x="656" y="214" width="44" height="44" fill="#5E8C6A" />
+    <text x="716" y="248" font-size="28" font-weight="bold" fill="#1F3A5F">學校</text>
+    <text x="656" y="324" font-size="40" font-weight="bold" fill="#5E8C6A">7–8 萬人</text>
+    <text x="656" y="360" font-size="18" fill="#5A6270">2040 學年度 6 歲入學<tspan x="656" dy="26">年齡人口；2026 學年度</tspan><tspan x="656" dy="26">為 17 萬人</tspan></text>
+    <line x1="656" y1="440" x2="888" y2="440" stroke="#D5CCBC" stroke-width="1" />
+    <text x="656" y="474" font-size="18" font-weight="bold" fill="#1F3A5F">報告中的課題</text>
+    <text x="656" y="504" font-size="18" fill="#1E232B">各級學校面臨減班、併校<tspan x="656" dy="26">與退場壓力</tspan></text>
+  </g>
+  <g id="scene-public" data-pptx-bounds="928 188 264 356">
+    <rect x="928" y="192" width="264" height="4" fill="#1F3A5F" />
+    <use data-icon="tabler-filled/medical-cross" x="944" y="214" width="44" height="44" fill="#1F3A5F" />
+    <text x="1004" y="248" font-size="28" font-weight="bold" fill="#1F3A5F">公共服務</text>
+    <text x="944" y="324" font-size="40" font-weight="bold" fill="#1F3A5F">2057 年</text>
+    <text x="944" y="360" font-size="18" fill="#5A6270">扶養比超過 100<tspan x="944" dy="26">（中推估）</tspan></text>
+    <line x1="944" y1="440" x2="1176" y2="440" stroke="#D5CCBC" stroke-width="1" />
+    <text x="944" y="474" font-size="18" font-weight="bold" fill="#1F3A5F">報告中的課題</text>
+    <text x="944" y="504" font-size="18" fill="#1E232B">公共與家庭照護資源<tspan x="944" dy="26">逐步向高齡傾斜</tspan></text>
+  </g>  <g id="scene-separators" data-pptx-role="decoration" data-pptx-bounds="338 188 604 356">
+    <g stroke="#D5CCBC" stroke-width="1">
+      <line x1="340" y1="192" x2="340" y2="544" />
+      <line x1="628" y1="192" x2="628" y2="544" />
+      <line x1="916" y1="192" x2="916" y2="544" />
+    </g>
+  </g>
+  <g id="synthesis-note" data-pptx-bounds="64 566 1152 60">
+    <text x="64" y="600" font-size="18" fill="#5A6270">整理自國發會報告各章「相關課題」；四個場景的分法是本簡報的讀法，不是個人建議。數字均為中推估。</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 650 1152 50" fill="#5A6270" font-size="14">
+    <text x="64" y="676">資料：國發會《中華民國人口推估（2026 年至 2075 年）》表 8、表 10、第參章五至八</text>
+    <text x="1216" y="676" text-anchor="end">14 / 15</text>
+  </g>
+</svg>

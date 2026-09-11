@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="closing-takeaway" data-pptx-bounds="64 120 640 280">
+    <text fill="#1F3A5F" font-weight="bold" font-size="72" x="64" y="206">20% 不是終點，</text><text fill="#B5462F" font-weight="bold" font-size="72" x="64" y="296">是結構改變的起點</text><text fill="#1E232B" font-size="24" x="64" y="346">臺灣從 14% 到 20% 只用了 7 年；</text><text fill="#1E232B" font-size="24" x="64" y="382">接下來改變的是出生、工作與照顧的整體結構。</text></g>
+  <g id="closing-ruler" data-pptx-bounds="64 430 640 130">
+    <line x1="64" y1="480" x2="264" y2="480" stroke="#1F3A5F" stroke-width="3" />
+    <line x1="264" y1="480" x2="664" y2="480" stroke="#1F3A5F" stroke-width="3" stroke-dasharray="8,4" />
+    <circle cx="134" cy="480" r="7" fill="#1F3A5F" />
+    <circle cx="204" cy="480" r="7" fill="#1F3A5F" />
+    <circle cx="264" cy="480" r="11" fill="#B5462F" />
+    <g fill="#F6F3EC" stroke="#B5462F" stroke-width="2">
+      <circle cx="364" cy="480" r="7" />
+      <circle cx="464" cy="480" r="7" />
+      <circle cx="564" cy="480" r="7" />
+    </g>
+    <g font-size="18" font-weight="bold" fill="#1F3A5F" text-anchor="middle">
+      <text x="134" y="460">7%</text>
+      <text x="204" y="460">14%</text>
+    </g>
+    <text x="264" y="460" font-size="18" font-weight="bold" fill="#B5462F" text-anchor="middle">20%</text>
+    <g font-size="18" font-weight="bold" fill="#B5462F" text-anchor="middle">
+      <text x="364" y="460">30%</text>
+      <text x="464" y="460">40%</text>
+      <text x="564" y="460">50%</text>
+    </g>
+    <g font-size="14" fill="#5A6270" text-anchor="middle">
+      <text x="134" y="506">1993</text>
+      <text x="204" y="506">2018</text>
+      <text x="364" y="506">2037</text>
+      <text x="464" y="506">2049</text>
+      <text x="564" y="506">2065</text>
+    </g>
+    <text x="264" y="506" font-size="14" font-weight="bold" fill="#B5462F" text-anchor="middle">2025 現在</text>
+    <text x="64" y="544" font-size="14" fill="#5A6270">65 歲以上人口占比；2026 年以後為中推估</text>
+  </g>
+  <g id="source-links" data-pptx-bounds="744 120 472 430">
+    <line x1="744" y1="124" x2="744" y2="546" stroke="#D5CCBC" stroke-width="1" />
+    <text x="768" y="152" font-size="18" font-weight="bold" fill="#B5462F">資料來源（點選開啟）</text>
+    
+  <g transform="translate(768, 180)" fill="#1F3A5F">
+    <path d="M12 5a1 1 0 0 1 0 2h-6a1 1 0 0 0 -1 1v10a1 1 0 0 0 1 1h10a1 1 0 0 0 1 -1v-6a1 1 0 0 1 2 0v6a3 3 0 0 1 -3 3h-10a3 3 0 0 1 -3 -3v-10a3 3 0 0 1 3 -3zm3 -2h5l.075 .003l.126 .017l.111 .03l.111 .044l.098 .052l.096 .067l.09 .08q .054 .053 .097 .112l.071 .11l.054 .114l.035 .105l.03 .148l.006 .118v5a1 1 0 0 1 -2 0v-2.586l-7.293 7.293a1 1 0 0 1 -1.414 -1.414l7.291 -7.293h-2.584a1 1 0 0 1 0 -2" />
+  </g>
+    <text x="802" y="200" font-size="24" font-weight="bold" fill="#1F3A5F"><a href="https://pop-proj.ndc.gov.tw/"><tspan>國發會人口推估查詢系統</tspan></a></text>
+    <text x="802" y="228" font-size="18" fill="#5A6270">pop-proj.ndc.gov.tw</text>
+    
+  <g transform="translate(768, 276)" fill="#1F3A5F">
+    <path d="M12 5a1 1 0 0 1 0 2h-6a1 1 0 0 0 -1 1v10a1 1 0 0 0 1 1h10a1 1 0 0 0 1 -1v-6a1 1 0 0 1 2 0v6a3 3 0 0 1 -3 3h-10a3 3 0 0 1 -3 -3v-10a3 3 0 0 1 3 -3zm3 -2h5l.075 .003l.126 .017l.111 .03l.111 .044l.098 .052l.096 .067l.09 .08q .054 .053 .097 .112l.071 .11l.054 .114l.035 .105l.03 .148l.006 .118v5a1 1 0 0 1 -2 0v-2.586l-7.293 7.293a1 1 0 0 1 -1.414 -1.414l7.291 -7.293h-2.584a1 1 0 0 1 0 -2" />
+  </g>
+    <text x="802" y="296" font-size="24" font-weight="bold" fill="#1F3A5F"><a href="https://ppws.ndc.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDY0L3JlbGZpbGUvMTAzNDcvMTY4L2VjN2NmNjg1LWJlZjYtNGQwNS05YmVkLWQzNWFlMDA2ZThjZi5wZGY%3d&amp;n=5Lit6I%2bv5rCR5ZyL5Lq65Y%2bj5o6o5LywKDIwMjblubToh7MyMDc15bm0KeWgseWRii5wZGY%3d&amp;icon=.pdf"><tspan>《中華民國人口推估》報告 PDF</tspan></a></text>
+    <text x="802" y="324" font-size="18" fill="#5A6270">2026 年至 2075 年版，國發會 2026 年 8 月</text>
+    
+  <g transform="translate(768, 372)" fill="#1F3A5F">
+    <path d="M12 5a1 1 0 0 1 0 2h-6a1 1 0 0 0 -1 1v10a1 1 0 0 0 1 1h10a1 1 0 0 0 1 -1v-6a1 1 0 0 1 2 0v6a3 3 0 0 1 -3 3h-10a3 3 0 0 1 -3 -3v-10a3 3 0 0 1 3 -3zm3 -2h5l.075 .003l.126 .017l.111 .03l.111 .044l.098 .052l.096 .067l.09 .08q .054 .053 .097 .112l.071 .11l.054 .114l.035 .105l.03 .148l.006 .118v5a1 1 0 0 1 -2 0v-2.586l-7.293 7.293a1 1 0 0 1 -1.414 -1.414l7.291 -7.293h-2.584a1 1 0 0 1 0 -2" />
+  </g>
+    <text x="802" y="392" font-size="24" font-weight="bold" fill="#1F3A5F"><a href="https://ppws.ndc.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDY0L3JlbGZpbGUvMTAzNDcvMTcwLzBiYTliOTJlLTViM2UtNDE1OC1iZDZiLWQ3NTE4NWJmZGMxZi5wZGY%3d&amp;n=5Lit6I%2bv5rCR5ZyL5Lq65Y%2bj5o6o5LywKDIwMjblubToh7MyMDc15bm0KeaWsOiBnueovy5wZGY%3d&amp;icon=.pdf"><tspan>國發會新聞稿 PDF</tspan></a></text>
+    <text x="802" y="420" font-size="18" fill="#5A6270">2026 年 8 月 28 日發布</text>
+    
+  <g transform="translate(768, 468)" fill="#1F3A5F">
+    <path d="M12 5a1 1 0 0 1 0 2h-6a1 1 0 0 0 -1 1v10a1 1 0 0 0 1 1h10a1 1 0 0 0 1 -1v-6a1 1 0 0 1 2 0v6a3 3 0 0 1 -3 3h-10a3 3 0 0 1 -3 -3v-10a3 3 0 0 1 3 -3zm3 -2h5l.075 .003l.126 .017l.111 .03l.111 .044l.098 .052l.096 .067l.09 .08q .054 .053 .097 .112l.071 .11l.054 .114l.035 .105l.03 .148l.006 .118v5a1 1 0 0 1 -2 0v-2.586l-7.293 7.293a1 1 0 0 1 -1.414 -1.414l7.291 -7.293h-2.584a1 1 0 0 1 0 -2" />
+  </g>
+    <text x="802" y="488" font-size="24" font-weight="bold" fill="#1F3A5F"><a href="https://www.cna.com.tw/news/ahel/202601090067.aspx"><tspan>中央社：2025 年底戶籍統計</tspan></a></text>
+    <text x="802" y="516" font-size="18" fill="#5A6270">報導內政部 2026 年 1 月 9 日公布數字</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 650 1152 50" fill="#5A6270" font-size="14">
+    <text x="64" y="676">本簡報數字取自國發會《中華民國人口推估（2026 年至 2075 年）》與內政部戶籍統計；推估值依中推估情境</text>
+    <text x="1216" y="676" text-anchor="end">15 / 15</text>
+  </g>
+</svg>

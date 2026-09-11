@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="section" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <defs>
+    <clipPath id="hands-circle">
+      <circle cx="640" cy="400" r="180" />
+    </clipPath>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="page-title" data-pptx-bounds="64 60 1152 108" font-weight="bold">
+    <text x="64" y="84" font-size="18" fill="#B5462F">為什麼這麼快</text>
+    <text x="64" y="134" font-size="40" fill="#1F3A5F">兩股力量同時作用：出生變少、壽命變長</text>
+  </g>
+  <g id="hands-image" data-pptx-bounds="452 212 376 376">
+    <image href="../images/hands_generations.jpg" x="460" y="220" width="360" height="360" preserveAspectRatio="xMidYMid slice" clip-path="url(#hands-circle)" />
+    <circle cx="640" cy="400" r="186" fill="none" stroke="#D5CCBC" stroke-width="2" />
+  </g>
+  <g id="force-births" data-pptx-bounds="64 270 330 210">
+    <text x="64" y="300" font-size="24" font-weight="bold" fill="#5E8C6A">出生變少</text>
+    <text x="64" y="392" font-size="88" font-weight="bold" fill="#5E8C6A">0.695<tspan font-size="28"> 人</tspan></text>
+    <text x="64" y="432" font-size="18" fill="#1E232B">2025 年總生育率，歷史最低</text>
+    <text x="64" y="458" font-size="18" fill="#5A6270">2024 年為 0.885 人</text>
+  </g>
+  <g id="p06-arrow-births" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="400 404 40 32" fill="#5E8C6A" stroke="none">
+    <path d="M 400 412 L 424 412 L 424 404 L 440 420 L 424 436 L 424 428 L 400 428 Z" />
+  </g>
+  <g id="force-longevity" data-pptx-bounds="896 270 320 210">
+    <text x="896" y="300" font-size="24" font-weight="bold" fill="#1F3A5F">壽命變長</text>
+    <text x="896" y="392" font-size="88" font-weight="bold" fill="#1F3A5F">87.7<tspan font-size="28"> 歲</tspan></text>
+    <text x="896" y="432" font-size="18" fill="#1E232B">2075 年零歲平均餘命（中推估）</text>
+    <text x="896" y="458" font-size="18" fill="#5A6270">2025 年為 81.3 歲</text>
+  </g>
+  <g id="p06-arrow-longevity" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftArrow" data-pptx-frame="840 404 40 32" fill="#1F3A5F" stroke="none">
+    <path d="M 840 420 L 856 404 L 856 412 L 880 412 L 880 428 L 856 428 L 856 436 Z" />
+  </g>
+  <g id="cause-line" data-pptx-bounds="64 596 1152 50">
+    <text x="640" y="628" font-size="24" fill="#1E232B" text-anchor="middle">再加上戰後嬰兒潮世代陸續邁入老年，65 歲以上人口的占比與年齡中位數持續上升。</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 656 1152 44" fill="#5A6270" font-size="14">
+    <text x="64" y="676">資料：國發會《中華民國人口推估（2026 年至 2075 年）》百年人口重要指標、表 1；總生育率為內政部統計</text>
+    <text x="1216" y="676" text-anchor="end">06 / 15</text>
+  </g>
+</svg>

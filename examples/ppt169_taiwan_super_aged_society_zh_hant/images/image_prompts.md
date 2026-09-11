@@ -1,0 +1,71 @@
+# Image Generation Prompts
+
+> Auto-generated from `image_prompts.json` by `image_gen.py --render-md`.
+> Do not hand-edit — re-run the command to refresh.
+
+> Project: taiwan_super_aged_society_zh_hant_20260911
+> Generated: 2026-09-11
+> Color scheme: Background #F6F3EC | Secondary_bg #ECE6DA | Primary #1F3A5F | Accent #B5462F | Secondary_accent #5E8C6A | Body_text #1E232B
+> Deck Rendering: custom
+
+---
+
+### Image 1: cover_street.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Cover source image (Slide 01), only feeds the duotone derivative |
+| Page role | hero_page |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Bold silkscreen poster art with a limited flat palette and characteristic print texture: confident solid color blocks with no gradients inside shapes, stencil-cut silhouettes with slightly hand-made edges and no fine facial detail, halftone dot patterns that grow denser and sparser only in the transition zones, a very slight one-to-two-pixel color misregistration, and a subtle paper grain at about 12% opacity across the canvas. Warm paper white #F6F3EC is the breathing field, deep ink navy #1F3A5F carries the main architectural forms and silhouettes, a muted brick red #B5462F appears only on one small focal element, and a touch of sage green #5E8C6A may appear on a potted plant. The scene is a quiet early-morning Taiwanese arcade street (a covered sidewalk under a row of shophouses with square columns creating a vertical rhythm). On the right third, an elderly person with a walking cane sits on a simple bench under the arcade; further right a schoolchild with a backpack walks past, the two figures separated by open space. The left 40% of the canvas stays calm and nearly empty — a plain wall and pale sky area — reserved for an overlaid title. Composed as a 1600x900 full-bleed hero image for hero_page use, with the calm field on the left. NO text of any kind anywhere in the image — no letters, numbers, shop signs, banners, street signs, watermarks, labels, or written symbols. Color values (HEX codes like #1F3A5F) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> 清晨的騎樓街景，一位拄杖長者坐在長椅上，一個背書包的孩子走過
+
+---
+
+### Image 2: hands_generations.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Section turn illustration (Slide 06): fewer births and longer lives |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 1:1 |
+| Image size | 1K |
+| Status | Generated |
+
+**Prompt**:
+
+Bold silkscreen poster art with a limited flat palette and characteristic print texture: confident solid color blocks with no gradients inside shapes, stencil-cut silhouettes with slightly hand-made edges, halftone dot patterns only in transition zones, a very slight color misregistration, and a subtle paper grain at about 12% opacity. Warm paper white #F6F3EC fills the background as a large quiet field, deep ink navy #1F3A5F carries the larger hand, sage green #5E8C6A tints the small hand, and brick red #B5462F appears only as a thin cuff line on the sleeve. One single dominant subject in close-up: a wrinkled elderly hand gently holding the tiny hand of a baby, both hands meeting slightly below the center of the square canvas, simplified into flat stencil shapes with a few halftone creases suggesting age. Generous empty margins surround the hands on all sides so the image can later be cropped into a circle without cutting the subject. Composed as a 1024x1024 local image. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #1F3A5F) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> 長者的手輕握嬰兒的小手
+
+---
+
+### Image 3: care_home.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Care demand illustration (Slide 12) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 3:4 |
+| Image size | 1K |
+| Status | Generated |
+
+**Prompt**:
+
+Bold silkscreen poster art with a limited flat palette and characteristic print texture: confident solid color blocks with no gradients inside shapes, stencil-cut silhouettes with slightly hand-made edges and no fine facial detail, halftone dot patterns only in transition zones, a very slight color misregistration, and a subtle paper grain at about 12% opacity. Warm paper white #F6F3EC and secondary beige #ECE6DA form the room, deep ink navy #1F3A5F carries the two figures and the wheelchair, brick red #B5462F appears only on the folded blanket, and sage green #5E8C6A on one small houseplant. The scene is a calm home interior: a caregiver kneels beside a very old person sitting in a wheelchair and gently adjusts a blanket over the knees; soft window light enters from the left as a pale geometric block. The two figures sit in the center of the tall frame, with open space above and on both sides so the image can later be cropped into an arch shape without cutting the subject. Composed as a 900x1200 local image. NO text of any kind anywhere in the image — no letters, numbers, signs, calendars with numbers, watermarks, labels, or written symbols. Color values (HEX codes like #1F3A5F) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> 照顧者在家中為坐輪椅的長者整理毯子
+
+---

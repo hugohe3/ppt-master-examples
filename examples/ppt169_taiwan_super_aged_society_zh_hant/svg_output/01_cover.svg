@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="cover-image" data-pptx-bounds="620 0 660 720">
+    <image href="../images/cover_street_duotone.jpg" x="620" y="0" width="660" height="720" preserveAspectRatio="xMaxYMid slice" />
+    <rect x="620" y="0" width="6" height="720" fill="#B5462F" />
+  </g>
+  <g id="cover-title" data-pptx-bounds="64 96 530 230" font-weight="bold">
+    <text x="64" y="128" font-size="18" fill="#B5462F">公開講座　·　國發會人口推估</text>
+    <text x="64" y="214" font-size="72" fill="#1F3A5F">臺灣進入<tspan x="64" dy="86">超高齡社會</tspan></text>
+  </g>
+  <g id="cover-subtitle" data-pptx-bounds="64 330 530 50">
+    <text x="64" y="362" font-size="28" fill="#1E232B">20% 之後，人口結構正在重新排列</text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="64 400 530 150">
+    <text x="64" y="484" font-size="88" font-weight="bold" fill="#B5462F">20.06%</text>
+    <text x="64" y="528" font-size="24" fill="#1E232B">每 5 個人，就有 1 位 65 歲以上</text>
+  </g>
+  <g id="cover-ruler" data-pptx-bounds="64 560 530 64">
+    <line x1="64" y1="592" x2="544" y2="592" stroke="#1F3A5F" stroke-width="2" />
+    <line x1="120" y1="584" x2="120" y2="600" stroke="#1F3A5F" stroke-width="2" />
+    <line x1="176" y1="584" x2="176" y2="600" stroke="#1F3A5F" stroke-width="2" />
+    <line x1="224" y1="578" x2="224" y2="606" stroke="#B5462F" stroke-width="3" />
+    <circle cx="224" cy="592" r="7" fill="#B5462F" />
+    <g font-size="14" fill="#5A6270" text-anchor="middle">
+      <text x="120" y="620">7%</text>
+      <text x="176" y="620">14%</text>
+      <text x="304" y="620">30%</text>
+      <text x="384" y="620">40%</text>
+      <text x="464" y="620">50%</text>
+    </g>
+    <text x="224" y="620" font-size="14" font-weight="bold" fill="#B5462F" text-anchor="middle">20%</text>
+    <g stroke="#D5CCBC" stroke-width="2">
+      <line x1="304" y1="586" x2="304" y2="598" />
+      <line x1="384" y1="586" x2="384" y2="598" />
+      <line x1="464" y1="586" x2="464" y2="598" />
+    </g>
+    <text x="236" y="574" font-size="14" fill="#B5462F">2025 年底</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 640 530 60">
+    <text x="64" y="660" font-size="14" fill="#5A6270">資料：內政部 2025 年 12 月底戶籍統計（中央社 2026-01-09 報導）<tspan x="64" dy="20">國發會《中華民國人口推估（2026 年至 2075 年）》2026-08-28</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,care_home.jpg,896,1200,0.75,0.75,,native,JPEG,False,1,,bitmap,True,True,107.4,Portrait
+2,cover_street_duotone.jpg,1600,893,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,173.1,Wide landscape
+3,hands_generations.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,60.0,Near square

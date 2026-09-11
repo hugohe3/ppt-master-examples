@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="page-title" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="106" font-size="40" font-weight="bold" fill="#1F3A5F">已推出家庭支持篇，另有三篇規劃中</text>
+    <text x="64" y="146" font-size="24" fill="#1E232B">政府已公布的對策架構（依國發會 2026 年 8 月 28 日新聞稿）</text>
+  </g>
+  <g id="strategy-band" data-pptx-bounds="64 176 1144 56">
+    <rect x="64" y="176" width="1144" height="56" fill="#1F3A5F" />
+    <text x="88" y="213" font-size="24" font-weight="bold" fill="#FFFFFF">「台灣人口對策新戰略」<tspan font-weight="normal">　行政院跨部會「人口對策新戰略執行小組」推動</tspan></text>
+  </g>
+  <g id="chapter-family" data-pptx-bounds="64 232 448 376">
+    <line x1="288" y1="232" x2="288" y2="276" stroke="#1F3A5F" stroke-width="2" />
+    <g id="p13-family-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 276 448 332" fill="#ECE6DA" stroke="#1F3A5F" stroke-width="2">
+      <path d="M 64 276 L 456.67 276 L 512 331.33 L 512 608 L 64 608 Z" />
+    </g>
+    <text x="88" y="322" font-size="28" font-weight="bold" fill="#1F3A5F">家庭支持篇</text>
+    <text x="88" y="352" font-size="18" fill="#5A6270">2026 年 5 月推出 · 共 18 項措施</text>
+    <use data-icon="tabler-filled/baby-carriage" x="88" y="374" width="28" height="28" fill="#5E8C6A" />
+    <use data-icon="tabler-filled/heart" x="88" y="416" width="28" height="28" fill="#5E8C6A" />
+    <use data-icon="tabler-filled/school" x="88" y="458" width="28" height="28" fill="#5E8C6A" />
+    <use data-icon="tabler-filled/briefcase" x="88" y="500" width="28" height="28" fill="#5E8C6A" />
+    <use data-icon="tabler-filled/home" x="88" y="542" width="28" height="28" fill="#5E8C6A" />
+    <g font-size="24" fill="#1E232B">
+      <text x="130" y="397">安心生養</text>
+      <text x="130" y="439">強化托育</text>
+      <text x="130" y="481">教育加碼</text>
+      <text x="130" y="523">友善職場</text>
+      <text x="130" y="565">居住減壓</text>
+    </g>
+  </g>
+  <g id="chapter-silver" data-pptx-bounds="536 232 208 376">
+    <line x1="640" y1="232" x2="640" y2="276" stroke="#5A6270" stroke-width="2" stroke-dasharray="4,4" />
+    <rect x="536" y="276" width="208" height="332" rx="4" fill="none" stroke="#5A6270" stroke-width="2" stroke-dasharray="8,4" />
+    <text x="560" y="322" font-size="24" font-weight="bold" fill="#1F3A5F">銀髮世代篇</text>
+    <text x="560" y="352" font-size="18" fill="#5A6270">規劃中</text>
+    <use data-icon="tabler-filled/user" x="560" y="532" width="48" height="48" fill="#D5CCBC" />
+  </g>
+  <g id="chapter-talent" data-pptx-bounds="768 232 208 376">
+    <line x1="872" y1="232" x2="872" y2="276" stroke="#5A6270" stroke-width="2" stroke-dasharray="4,4" />
+    <rect x="768" y="276" width="208" height="332" rx="4" fill="none" stroke="#5A6270" stroke-width="2" stroke-dasharray="8,4" />
+    <text x="792" y="322" font-size="24" font-weight="bold" fill="#1F3A5F">全齡育才篇</text>
+    <text x="792" y="352" font-size="18" fill="#5A6270">規劃中</text>
+    <use data-icon="tabler-filled/school" x="792" y="532" width="48" height="48" fill="#D5CCBC" />
+  </g>
+  <g id="chapter-global" data-pptx-bounds="1000 232 208 376">
+    <line x1="1104" y1="232" x2="1104" y2="276" stroke="#5A6270" stroke-width="2" stroke-dasharray="4,4" />
+    <rect x="1000" y="276" width="208" height="332" rx="4" fill="none" stroke="#5A6270" stroke-width="2" stroke-dasharray="8,4" />
+    <text x="1024" y="322" font-size="24" font-weight="bold" fill="#1F3A5F">全球攬才篇</text>
+    <text x="1024" y="352" font-size="18" fill="#5A6270">規劃中</text>
+    <use data-icon="tabler-filled/flag" x="1024" y="532" width="48" height="48" fill="#D5CCBC" />
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 650 1152 50" fill="#5A6270" font-size="14">
+    <text x="64" y="676">資料：國發會新聞稿〈國發會發布「中華民國人口推估（2026 年至 2075 年）」〉，2026 年 8 月 28 日；政策名稱依原文用字</text>
+    <text x="1216" y="676" text-anchor="end">13 / 15</text>
+  </g>
+</svg>

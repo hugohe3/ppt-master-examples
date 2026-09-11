@@ -2,11 +2,115 @@
   "version": 1,
   "updated": "2026-09-11",
   "stats": {
-    "examples": 45,
-    "pages": 638,
-    "templates": 45
+    "examples": 46,
+    "pages": 653,
+    "templates": 46
   },
   "projects": [
+    {
+      "id": "ppt169_taiwan_super_aged_society_zh_hant",
+      "title": "臺灣進入超高齡社會",
+      "description": "公开讲座 deck 15 页 — 仓库首个繁体中文(台湾)示例;主来源为国发会 2026-08-28 发布的《中華民國人口推估(2026年至2075年)》,报告与新闻稿以 PDF 直链经 source_to_md 转换(profile 记录来源 URL),另用国发会五岁组分性别开放数据与主题调研补充;每个数字标出处与年份,推估标中推估,民国年统一换算为西元,自建框架标「整理」;暖白纸面深蓝数据新闻版式,时间刻度尺为跨页母题,砖红只标门槛与老年人口;出生/死亡交叉折线、扶养比堆叠、工作年龄结构 3 张原生图表与各国门槛年份 1 张原生表格,时间刻度尺与 2026→2075 人口金字塔两段 Morph(金字塔 42 根柱逐一变形),同一批次 AI 插画 3 张(双色封面、圆形与拱形裁切),微軟正黑體,全卷繁中讲者备注,导出语言标签 zh-TW",
+      "icon": "👵",
+      "color": "#1E3A5F",
+      "style": "data",
+      "styleName": "Scale & Evidence · 刻度與證據",
+      "desc": "A fifteen-page Traditional Chinese (Taiwan) public-lecture deck on Taiwan becoming a super-aged society — the first Traditional Chinese example in the collection. The main source is the National Development Council's 2026–2075 population projection released on 2026-08-28: the report and press release were fetched as PDF URLs and converted by source_to_md (profiles keep the source URLs), with the council's five-year age-by-sex open data and topic research filling in. Every figure carries its source and year, projections name the medium variant, Minguo years are converted to the Western calendar, and compiled framings are marked 整理. A navy data-journalism layout on warm white paper with a time-scale ruler as the cross-page motif; three native charts (births versus deaths, dependency ratio, working-age mix) and one native international comparison table, a Morph along the ruler and a 2026→2075 population-pyramid Morph that moves each of 42 bars, three AI illustrations from one batch, Microsoft JhengHei, Traditional Chinese speaker notes, and zh-TW language tags in the exported package.",
+      "tags": [
+        "Society",
+        "Traditional Chinese",
+        "Demographics",
+        "Data",
+        "Native Charts",
+        "Native Tables",
+        "Morph",
+        "PDF Source",
+        "AI Illustration"
+      ],
+      "isNew": true,
+      "folder": "ppt169_taiwan_super_aged_society_zh_hant/svg_final",
+      "generatedAt": "2026-09-11",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_taiwan_super_aged_society_zh_hant/exports/ppt169_taiwan_super_aged_society_zh_hant.pptx",
+      "pptxNative": "examples/ppt169_taiwan_super_aged_society_zh_hant/exports/ppt169_taiwan_super_aged_society_zh_hant_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "臺灣進入超高齡社會 — 20% 之後，人口結構正在重新排列"
+        },
+        {
+          "file": "02_what_20_percent_means.svg",
+          "title": "what 20 percent means",
+          "desc": "每 5 個人，就有 1 位 65 歲以上"
+        },
+        {
+          "file": "03_three_thresholds.svg",
+          "title": "three thresholds",
+          "desc": "從 14% 到 20%，臺灣只用了 7 年"
+        },
+        {
+          "file": "04_next_thresholds.svg",
+          "title": "next thresholds",
+          "desc": "下一站：2037 年超過 30%"
+        },
+        {
+          "file": "05_international_speed.svg",
+          "title": "international speed",
+          "desc": "從高齡到超高齡，臺灣與韓國都只用 7 年"
+        },
+        {
+          "file": "06_two_forces.svg",
+          "title": "two forces",
+          "desc": "為什麼這麼快：出生變少、壽命變長"
+        },
+        {
+          "file": "07_births_deaths_cross.svg",
+          "title": "births and deaths cross",
+          "desc": "2020 年起，死亡數超過出生數"
+        },
+        {
+          "file": "08_pyramid_2026.svg",
+          "title": "pyramid 2026",
+          "desc": "2026 年：中間寬、兩端窄的「燈籠型」"
+        },
+        {
+          "file": "09_pyramid_2075.svg",
+          "title": "pyramid 2075",
+          "desc": "2075 年：翻轉成以高齡為主的「倒金鐘型」"
+        },
+        {
+          "file": "10_dependency_ratio.svg",
+          "title": "dependency ratio",
+          "desc": "從 3.2 位青壯年扶持 1 位長者，到 0.8 位"
+        },
+        {
+          "file": "11_working_age.svg",
+          "title": "working age",
+          "desc": "工作年齡人口不只變少，也在變老"
+        },
+        {
+          "file": "12_care_demand.svg",
+          "title": "care demand",
+          "desc": "長者不只變多，也更高齡"
+        },
+        {
+          "file": "13_policy_framework.svg",
+          "title": "policy framework",
+          "desc": "已推出家庭支持篇，另有三篇規劃中"
+        },
+        {
+          "file": "14_everyday_scenes.svg",
+          "title": "everyday scenes",
+          "desc": "推估落到生活裡的四個場景"
+        },
+        {
+          "file": "15_closing.svg",
+          "title": "closing",
+          "desc": "來源與收束"
+        }
+      ]
+    },
     {
       "id": "ppt169_tokaido_shinkansen_60_ja",
       "title": "東海道新幹線 60年",

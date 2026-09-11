@@ -1,0 +1,29 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "pdf_to_md.py",
+  "conversion_type": "pdf",
+  "source": {
+    "path": "ndc_popproj_2026_2075_report.pdf",
+    "name": "ndc_popproj_2026_2075_report.pdf",
+    "suffix": ".pdf",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 7715416,
+    "url": "https://ppws.ndc.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDY0L3JlbGZpbGUvMTAzNDcvMTY4L2VjN2NmNjg1LWJlZjYtNGQwNS05YmVkLWQzNWFlMDA2ZThjZi5wZGY%3d&n=5Lit6I%2bv5rCR5ZyL5Lq65Y%2bj5o6o5LywKDIwMjblubToh7MyMDc15bm0KeWgseWRii5wZGY%3d&icon=.pdf"
+  },
+  "outputs": {
+    "markdown": "ndc_popproj_2026_2075_report.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 1845,
+    "char_count": 216414,
+    "heading_count": 17,
+    "table_count": 58,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="page-title" data-pptx-bounds="64 60 1152 64">
+    <text x="64" y="106" font-size="40" font-weight="bold" fill="#1F3A5F">每 5 個人，就有 1 位 65 歲以上</text>
+  </g>
+  <g id="people-row" data-pptx-bounds="64 176 660 250">
+    
+  <g transform="translate(64, 196) scale(4.66667)" fill="#1F3A5F">
+    <path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z" />
+    <path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z" />
+  </g>
+    
+  <g transform="translate(196, 196) scale(4.66667)" fill="#1F3A5F">
+    <path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z" />
+    <path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z" />
+  </g>
+    
+  <g transform="translate(328, 196) scale(4.66667)" fill="#1F3A5F">
+    <path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z" />
+    <path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z" />
+  </g>
+    
+  <g transform="translate(460, 196) scale(4.66667)" fill="#1F3A5F">
+    <path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z" />
+    <path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z" />
+  </g>
+    
+  <g transform="translate(592, 196) scale(4.66667)" fill="#B5462F">
+    <path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z" />
+    <path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z" />
+  </g>
+    <line x1="72" y1="340" x2="564" y2="340" stroke="#1F3A5F" stroke-width="3" />
+    <line x1="600" y1="340" x2="696" y2="340" stroke="#B5462F" stroke-width="3" />
+    <text x="318" y="378" font-size="24" fill="#1F3A5F" text-anchor="middle">4 位未滿 65 歲</text>
+    <text x="648" y="378" font-size="24" font-weight="bold" fill="#B5462F" text-anchor="middle">65 歲以上</text>
+  </g>
+  <g id="actual-count" data-pptx-bounds="760 170 456 290">
+    <text x="760" y="200" font-size="18" fill="#5A6270">2025 年 12 月底實際值（內政部戶籍統計）</text>
+    <text x="760" y="292" font-size="88" font-weight="bold" fill="#B5462F">467 萬人</text>
+    <text fill="#1E232B" font-size="24" x="760" y="344">2025 年 12 月底，65 歲以上人口</text><text fill="#1E232B" font-size="24" x="760" y="380"><tspan><tspan font-weight="bold" fill="#1F3A5F">467 萬 3,155 人</tspan>，占總人口</tspan></text><text fill="#1E232B" font-size="24" x="760" y="416"><tspan>2,329 萬 9,132 人的 <tspan font-weight="bold" fill="#B5462F">20.06%</tspan></tspan></text></g>
+  <g id="threshold-definition" data-pptx-bounds="64 470 1152 170">
+    <text x="64" y="498" font-size="18" fill="#5A6270">定義：65 歲以上人口占總人口的比率</text>
+    <line x1="64" y1="566" x2="1216" y2="566" stroke="#1F3A5F" stroke-width="2" />
+    <g stroke="#1F3A5F" stroke-width="2">
+      <line x1="386.6" y1="556" x2="386.6" y2="576" />
+      <line x1="709.1" y1="556" x2="709.1" y2="576" />
+    </g>
+    <line x1="985.6" y1="548" x2="985.6" y2="584" stroke="#B5462F" stroke-width="4" />
+    <g font-size="30" font-weight="bold" fill="#1F3A5F" text-anchor="middle">
+      <text x="386.6" y="540">7%</text>
+      <text x="709.1" y="540">14%</text>
+    </g>
+    <text x="985.6" y="540" font-size="30" font-weight="bold" fill="#B5462F" text-anchor="middle">20%</text>
+    <g font-size="24" fill="#1E232B" text-anchor="middle">
+      <text x="386.6" y="612">高齡化社會</text>
+      <text x="709.1" y="612">高齡社會</text>
+    </g>
+    <text x="985.6" y="612" font-size="24" font-weight="bold" fill="#B5462F" text-anchor="middle">超高齡社會</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 650 1152 50" fill="#5A6270" font-size="14">
+    <text x="64" y="676">資料：內政部 2025 年 12 月底戶籍統計（中央社 2026-01-09 報導）；國發會《中華民國人口推估（2026 年至 2075 年）》表 21</text>
+    <text x="1216" y="676" text-anchor="end">02 / 15</text>
+  </g>
+</svg>

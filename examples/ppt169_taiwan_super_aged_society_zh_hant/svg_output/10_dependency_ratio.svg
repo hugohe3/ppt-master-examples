@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="page-title" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="106" font-size="40" font-weight="bold" fill="#1F3A5F">從 3.2 位青壯年扶持 1 位長者，到 0.8 位</text>
+    <text x="64" y="146" font-size="24" fill="#1E232B">扶養比由 2026 年 47.2 升到 2075 年 136.6，上升主要來自扶老比（中推估）</text>
+  </g>
+  <g id="dependency-stacked" data-pptx-replace-with="chart" data-pptx-bounds="64 170 712 450" data-pptx-fallback-sha256="fbf17d6224140fd351b2ba21d095e3db8a530d4de4a2fa9fe17c2d9951aaf9ed">
+    <metadata type="application/json">{"x": 64, "y": 170, "width": 712, "height": 450, "name": "dependency-stacked", "type": "column", "grouping": "stacked", "categories": ["2026", "2035", "2045", "2055", "2065", "2075"], "series": [{"name": "扶幼比（0–14 歲）", "values": [16.4, 10.7, 8.9, 10.3, 11.6, 11.4]}, {"name": "扶老比（65 歲以上）", "values": [30.8, 44.5, 63.9, 86.1, 113.3, 125.2]}], "plot_area": {"x": 104, "y": 200, "width": 656, "height": 360}, "axes": {"category": {"position": "bottom"}, "value": {"position": "left", "minimum": 0, "maximum": 140, "major_unit": 20, "major_gridlines": true, "number_format": "0"}}, "data_labels": {"show_value": true, "position": "center", "number_format": "0.0", "font_size": 16, "bold": true, "color": "#FFFFFF"}, "show_legend": true, "notes": [{"text": "47.2"}, {"text": "55.2"}, {"text": "72.8"}, {"text": "96.4"}, {"text": "125.0"}, {"text": "136.6"}, {"text": "2057 年超過 100"}], "style": {"font_family": "Microsoft JhengHei", "axis_font_size": 16, "note_font_size": 18, "text_color": "#1E232B", "axis_color": "#1F3A5F", "grid_color": "#E3DCCF", "chart_area_fill": "none", "plot_area_fill": "none", "colors": ["#5E8C6A", "#B5462F"], "legend_font_size": 18}, "legend_position": "top"}</metadata>
+    <g id="dependency-stacked-chartArea">
+      <g id="value-gridlines" stroke="#E3DCCF" stroke-width="1">
+        <line x1="104" y1="508.57" x2="760" y2="508.57" />
+        <line x1="104" y1="457.14" x2="760" y2="457.14" />
+        <line x1="104" y1="405.71" x2="760" y2="405.71" />
+        <line x1="104" y1="354.29" x2="760" y2="354.29" />
+        <line x1="104" y1="302.86" x2="760" y2="302.86" />
+        <line x1="104" y1="251.43" x2="760" y2="251.43" />
+        <line x1="104" y1="200.0" x2="760" y2="200.0" />
+      </g>
+      <line id="category-axis" x1="104" y1="560" x2="760" y2="560" stroke="#1F3A5F" stroke-width="2" />
+      <!-- chart-plot-area: object=dependency-stacked | 104,200,760,560 -->
+      <rect x="126.67" y="517.83" width="64" height="42.17" fill="#5E8C6A" />
+      <rect x="126.67" y="438.63" width="64" height="79.2" fill="#B5462F" />
+      <rect x="236.0" y="532.49" width="64" height="27.51" fill="#5E8C6A" />
+      <rect x="236.0" y="418.06" width="64" height="114.43" fill="#B5462F" />
+      <rect x="345.33" y="537.11" width="64" height="22.89" fill="#5E8C6A" />
+      <rect x="345.33" y="372.8" width="64" height="164.31" fill="#B5462F" />
+      <rect x="454.67" y="533.51" width="64" height="26.49" fill="#5E8C6A" />
+      <rect x="454.67" y="312.11" width="64" height="221.4" fill="#B5462F" />
+      <rect x="564.0" y="530.17" width="64" height="29.83" fill="#5E8C6A" />
+      <rect x="564.0" y="238.83" width="64" height="291.34" fill="#B5462F" />
+      <rect x="673.33" y="530.69" width="64" height="29.31" fill="#5E8C6A" />
+      <rect x="673.33" y="208.75" width="64" height="321.94" fill="#B5462F" />
+    </g>
+    <g font-size="16" fill="#1E232B" text-anchor="end">
+      <text x="94" y="566.0">0</text>
+      <text x="94" y="514.57">20</text>
+      <text x="94" y="463.14">40</text>
+      <text x="94" y="411.71">60</text>
+      <text x="94" y="360.29">80</text>
+      <text x="94" y="308.86">100</text>
+      <text x="94" y="257.43">120</text>
+      <text x="94" y="206.0">140</text>
+    </g>
+    <g font-size="16" fill="#1E232B" text-anchor="middle">
+      <text x="158.67" y="584">2026</text>
+      <text x="268.0" y="584">2035</text>
+      <text x="377.33" y="584">2045</text>
+      <text x="486.67" y="584">2055</text>
+      <text x="596.0" y="584">2065</text>
+      <text x="705.33" y="584">2075</text>
+    </g>
+    <g font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+      <text x="158.67" y="544.92">16.4</text>
+      <text x="158.67" y="484.23">30.8</text>
+      <text x="268.0" y="552.25">10.7</text>
+      <text x="268.0" y="481.27">44.5</text>
+      <text x="377.33" y="554.56">8.9</text>
+      <text x="377.33" y="460.96">63.9</text>
+      <text x="486.67" y="552.75">10.3</text>
+      <text x="486.67" y="428.81">86.1</text>
+      <text x="596.0" y="551.08">11.6</text>
+      <text x="596.0" y="390.5">113.3</text>
+      <text x="705.33" y="551.35">11.4</text>
+      <text x="705.33" y="375.72">125.2</text>
+    </g>
+    <g font-size="18" font-weight="bold" fill="#1F3A5F" text-anchor="middle">
+      <text x="158.67" y="428.63">47.2</text>
+      <text x="268.0" y="408.06">55.2</text>
+      <text x="377.33" y="362.8">72.8</text>
+      <text x="486.67" y="302.11">96.4</text>
+      <text x="596.0" y="228.83">125.0</text>
+      <text x="705.33" y="198.75">136.6</text>
+    </g>
+    <g font-size="18">
+      <text x="112" y="294.86" fill="#B5462F" font-weight="bold">2057 年超過 100</text>
+      <rect x="112" y="212" width="14" height="14" fill="#B5462F" />
+      <text x="134" y="225" fill="#1E232B">扶老比（65 歲以上）</text>
+      <rect x="112" y="238" width="14" height="14" fill="#5E8C6A" />
+      <text x="134" y="251" fill="#1E232B">扶幼比（0–14 歲）</text>
+    </g>
+  </g>
+  <g id="support-ratio" data-pptx-bounds="808 180 408 230">
+    <line x1="808" y1="180" x2="808" y2="620" stroke="#D5CCBC" stroke-width="1" />
+    <text x="832" y="206" font-size="18" font-weight="bold" fill="#B5462F">潛在支持比</text>
+    <text x="832" y="236" font-size="18" fill="#1E232B">幾位 15–64 歲人口<tspan x="832" dy="24">對應 1 位 65 歲以上</tspan></text>
+    <text x="832" y="350" font-size="72" font-weight="bold" fill="#1F3A5F">3.2</text>
+    <text x="1048" y="350" font-size="72" font-weight="bold" fill="#B5462F">0.8</text>
+    <text x="832" y="386" font-size="18" fill="#5A6270">2026 年</text>
+    <text x="1048" y="386" font-size="18" fill="#5A6270">2075 年</text>
+    <g id="p10-support-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="980 318 48 36" fill="#5A6270" stroke="none">
+      <path d="M 980 327 L 1010 327 L 1010 318 L 1028 336 L 1010 354 L 1010 345 L 980 345 Z" />
+    </g>
+  </g>
+  <g id="definition" data-pptx-bounds="808 420 408 200">
+    <line x1="832" y1="424" x2="1216" y2="424" stroke="#D5CCBC" stroke-width="1" />
+    <text x="832" y="460" font-size="18" font-weight="bold" fill="#1F3A5F">扶養比怎麼算</text>
+    <text x="832" y="492" font-size="18" fill="#1E232B">每 100 位 15–64 歲人口，<tspan x="832" dy="26">對應的 0–14 歲與 65 歲以上人口數；</tspan><tspan x="832" dy="26">只反映年齡結構，</tspan><tspan x="832" dy="26">不代表實際的經濟扶養。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 650 1152 50" fill="#5A6270" font-size="14">
+    <text x="64" y="676">資料：國發會《中華民國人口推估（2026 年至 2075 年）》表 7、概念及定義；中推估；四捨五入致合計可能相差 0.1</text>
+    <text x="1216" y="676" text-anchor="end">10 / 15</text>
+  </g>
+</svg>

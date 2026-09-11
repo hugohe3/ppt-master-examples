@@ -1,0 +1,38 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "臺灣進入超高齡社會",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "國發會人口推估查詢系統列出「中華民國人口推估（2026年至2075年）」為最新版本，最新推估結果於2026年8月28日發布，預計下次發布日期為2028年8月。",
+      "source_title": "文件下載 - 國發會人口推估查詢系統",
+      "source_url": "https://pop-proj.ndc.gov.tw/News.aspx?n=3&sms=10347",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "內政部公布2025年12月底全國人口2,329萬9,132人，65歲以上人口467萬3,155人、占20.06%，臺灣正式邁入超高齡社會。",
+      "source_title": "中央社：2025年台灣正式邁入超高齡社會 新生兒數再創新低（2026-01-09，內政部公布）",
+      "source_url": "https://www.cna.com.tw/news/ahel/202601090067.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "內政部公布2025年全年新生兒數為10萬7,812人。",
+      "source_title": "中央社：2025年台灣正式邁入超高齡社會 新生兒數再創新低（2026-01-09，內政部公布）",
+      "source_url": "https://www.cna.com.tw/news/ahel/202601090067.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "國發會人口推估查詢系統開放資料API「五齡人口數」提供1980年實際值及2026、2075年中推估之分性別五歲組人口數。",
+      "source_title": "國發會人口推估查詢系統 開放資料API：五齡人口數",
+      "source_url": "https://pop-proj.ndc.gov.tw/Common/Custom/Custom_GetOpenDataExport.ashx/464/ApiClick/A874D2D771BD2D9A",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    }
+  ]
+}

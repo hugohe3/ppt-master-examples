@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="page-title" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="106" font-size="40" font-weight="bold" fill="#1F3A5F">2020 年起，死亡數超過出生數</text>
+    <text x="64" y="148" font-size="24" fill="#1E232B">出生與死亡人數，1990–2075 年（每 5 年一點）</text>
+  </g>
+  <g id="births-deaths-line" data-pptx-replace-with="chart" data-pptx-bounds="64 160 860 450" data-pptx-fallback-sha256="49faba43dabebed909d5623e1f2061f276d3af839e5e69dfe24a98a8c1cddb31">
+    <metadata type="application/json">{"x": 64, "y": 160, "width": 860, "height": 450, "name": "births-deaths-line", "type": "line", "categories": ["1990", "1995", "2000", "2005", "2010", "2015", "2020", "2025", "2030", "2035", "2040", "2045", "2050", "2055", "2060", "2065", "2070", "2075"], "series": [{"name": "出生數", "values": [33.6, 33.0, 30.5, 20.6, 16.7, 21.4, 16.5, 10.8, 7.9, 6.8, 6.0, 5.7, 5.6, 5.0, 4.1, 3.3, 2.9, 2.7], "line_width": 3, "data_labels": {"points": [{"idx": 7}, {"idx": 17}], "position": "above", "number_format": "0.0\"萬人\"", "font_size": 18, "bold": true, "color": "#5E8C6A"}}, {"name": "死亡數", "values": [10.6, 11.9, 12.6, 13.9, 14.6, 16.4, 17.3, 20.0, 21.4, 23.7, 26.3, 28.8, 30.6, 31.5, 31.8, 31.7, 31.4, 30.5], "line_width": 3, "data_labels": {"points": [{"idx": 6}, {"idx": 17}], "position": "above", "number_format": "0.0\"萬人\"", "font_size": 18, "bold": true, "color": "#1F3A5F"}}], "plot_area": {"x": 96, "y": 190, "width": 784, "height": 370}, "axes": {"category": {"position": "bottom", "tick_marks": "none"}, "value": {"position": "left", "minimum": 0, "maximum": 35, "major_unit": 5, "major_gridlines": true, "number_format": "0", "cross_between": "mid_category"}}, "axis_titles": {"value": "萬人"}, "show_legend": false, "notes": [{"text": "死亡數"}, {"text": "出生數"}, {"text": "2026 年起為中推估"}, {"text": "2020 年起死亡數超過出生數"}], "style": {"font_family": "Microsoft JhengHei", "axis_font_size": 16, "axis_title_font_size": 16, "note_font_size": 18, "text_color": "#1E232B", "axis_color": "#1F3A5F", "grid_color": "#E3DCCF", "chart_area_fill": "none", "plot_area_fill": "none", "colors": ["#5E8C6A", "#1F3A5F"]}}</metadata>
+    <g id="births-deaths-line-chartArea">
+      <g id="value-gridlines" stroke="#E3DCCF" stroke-width="1">
+        <line x1="96" y1="507.14" x2="880" y2="507.14" />
+        <line x1="96" y1="454.29" x2="880" y2="454.29" />
+        <line x1="96" y1="401.43" x2="880" y2="401.43" />
+        <line x1="96" y1="348.57" x2="880" y2="348.57" />
+        <line x1="96" y1="295.71" x2="880" y2="295.71" />
+        <line x1="96" y1="242.86" x2="880" y2="242.86" />
+        <line x1="96" y1="190.0" x2="880" y2="190.0" />
+      </g>
+      <line id="category-axis" x1="96" y1="560" x2="880" y2="560" stroke="#1F3A5F" stroke-width="2" />
+      
+      <polyline points="96.0,204.8 142.12,211.14 188.24,237.57 234.35,342.23 280.47,383.46 326.59,333.77 372.71,385.57 418.82,445.83 464.94,476.49 511.06,488.11 557.18,496.57 603.29,499.74 649.41,500.8 695.53,507.14 741.65,516.66 787.76,525.11 833.88,529.34 880.0,531.46" fill="none" stroke="#5E8C6A" stroke-width="3" />
+      <polyline points="96.0,447.94 142.12,434.2 188.24,426.8 234.35,413.06 280.47,405.66 326.59,386.63 372.71,377.11 418.82,348.57 464.94,333.77 511.06,309.46 557.18,281.97 603.29,255.54 649.41,236.51 695.53,227.0 741.65,223.83 787.76,224.89 833.88,228.06 880.0,237.57" fill="none" stroke="#1F3A5F" stroke-width="3" />
+    </g>
+    <g font-size="16" fill="#1E232B" text-anchor="end">
+      <text x="86" y="566.0">0</text>
+      <text x="86" y="513.14">5</text>
+      <text x="86" y="460.29">10</text>
+      <text x="86" y="407.43">15</text>
+      <text x="86" y="354.57">20</text>
+      <text x="86" y="301.71">25</text>
+      <text x="86" y="248.86">30</text>
+      <text x="86" y="196.0">35</text>
+    </g>
+    <g font-size="16" fill="#1E232B" text-anchor="middle">
+      <text x="96.0" y="584">1990</text>
+      <text x="142.12" y="584">1995</text>
+      <text x="188.24" y="584">2000</text>
+      <text x="234.35" y="584">2005</text>
+      <text x="280.47" y="584">2010</text>
+      <text x="326.59" y="584">2015</text>
+      <text x="372.71" y="584">2020</text>
+      <text x="418.82" y="584">2025</text>
+      <text x="464.94" y="584">2030</text>
+      <text x="511.06" y="584">2035</text>
+      <text x="557.18" y="584">2040</text>
+      <text x="603.29" y="584">2045</text>
+      <text x="649.41" y="584">2050</text>
+      <text x="695.53" y="584">2055</text>
+      <text x="741.65" y="584">2060</text>
+      <text x="787.76" y="584">2065</text>
+      <text x="833.88" y="584">2070</text>
+      <text x="880.0" y="584">2075</text>
+    </g>
+    <text x="96" y="180" font-size="16" fill="#1E232B">萬人</text>
+    <g font-size="18" font-weight="bold" text-anchor="middle">
+      <text x="418.82" y="433.83" fill="#5E8C6A">10.8萬人</text>
+      <text x="880.0" y="519.46" fill="#5E8C6A">2.7萬人</text>
+      <text x="372.71" y="365.11" fill="#1F3A5F">17.3萬人</text>
+      <text x="880.0" y="225.57" fill="#1F3A5F">30.5萬人</text>
+    </g>
+    <g font-size="18">
+      <text x="700" y="210" fill="#1F3A5F" font-weight="bold">死亡數</text>
+      <text x="700" y="548" fill="#5E8C6A" font-weight="bold">出生數</text>
+      <text x="440" y="206" fill="#5A6270">2026 年起為中推估</text>
+      <text x="120" y="530" fill="#B5462F" font-weight="bold">2020 年起死亡數超過出生數</text>
+    </g>
+  </g>  <g id="reading-cross" data-pptx-bounds="944 176 272 460">
+    <line x1="944" y1="180" x2="944" y2="610" stroke="#D5CCBC" stroke-width="1" />
+    <text x="968" y="210" font-size="18" font-weight="bold" fill="#B5462F">交叉點</text>
+    <text x="968" y="254" font-size="28" font-weight="bold" fill="#1F3A5F">2020 年</text>
+    <text fill="#1E232B" font-size="24" x="968" y="294">死亡 17.3 萬人</text><text fill="#1E232B" font-size="24" x="968" y="328">出生 16.5 萬人</text><text fill="#1E232B" font-size="24" x="968" y="362">人口自然增加</text><text fill="#1E232B" font-size="24" x="968" y="396">由正轉負</text><line x1="968" y1="400" x2="1216" y2="400" stroke="#D5CCBC" stroke-width="1" />
+    <text x="968" y="436" font-size="18" font-weight="bold" fill="#5A6270">中推估 2075 年</text>
+    <text fill="#1E232B" font-size="24" x="968" y="474">出生 <tspan font-weight="bold" fill="#5E8C6A">2.7 萬人</tspan></text><text fill="#1E232B" font-size="24" x="968" y="508"><tspan>死亡 <tspan font-weight="bold" fill="#1F3A5F">30.5 萬人</tspan></tspan></text><text fill="#5A6270" font-size="18" x="968" y="568">死亡數 2061 年達高峰</text><text fill="#5A6270" font-size="18" x="968" y="594">31.8 萬人</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 650 1152 50" fill="#5A6270" font-size="14">
+    <text x="64" y="676">資料：國發會《中華民國人口推估（2026 年至 2075 年）》表 19-2、表 21-2；2025 年以前為內政部實際值，2026 年以後為中推估</text>
+    <text x="1216" y="676" text-anchor="end">07 / 15</text>
+  </g>
+</svg>

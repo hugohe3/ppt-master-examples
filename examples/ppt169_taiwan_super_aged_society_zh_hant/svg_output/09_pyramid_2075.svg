@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Microsoft JhengHei', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F3EC" />
+  <g id="page-title" data-pptx-bounds="64 60 1152 100">
+    <text x="64" y="106" font-size="40" font-weight="bold" fill="#1F3A5F">2075 年：翻轉成以高齡為主的「倒金鐘型」</text>
+    <text x="64" y="146" font-size="24" fill="#1E232B">同一把尺，50 年後的人口金字塔（中推估，總人口 1,215 萬人）</text>
+  </g>
+  <g id="pyramid-2075" data-pptx-role="chrome" data-pptx-bounds="64 164 820 494">
+    <g id="pyramid-2075-chartArea">
+      <g id="scale-grid" stroke="#E3DCCF" stroke-width="1">
+        <line x1="86" y1="190" x2="86" y2="612" />
+        <line x1="256" y1="190" x2="256" y2="612" />
+        <line x1="684" y1="190" x2="684" y2="612" />
+        <line x1="854" y1="190" x2="854" y2="612" />
+      </g>
+      <g id="center-axis" stroke="#1F3A5F" stroke-width="1.5">
+        <line x1="426" y1="190" x2="426" y2="612" />
+        <line x1="514" y1="190" x2="514" y2="612" />
+      </g>
+      <!-- chart-plot-area: object=pyramid-2075 | 86,190,854,610 -->
+    </g>
+    <line x1="80" y1="350" x2="860" y2="350" stroke="#B5462F" stroke-width="1.5" stroke-dasharray="8,4" />
+    <text x="80" y="344" font-size="14" font-weight="bold" fill="#B5462F">65 歲</text>
+    <g font-size="14" fill="#5A6270" text-anchor="middle">
+      <text x="470" y="605">0–4</text>
+      <text x="470" y="585">5–9</text>
+      <text x="470" y="565">10–14</text>
+      <text x="470" y="545">15–19</text>
+      <text x="470" y="525">20–24</text>
+      <text x="470" y="505">25–29</text>
+      <text x="470" y="485">30–34</text>
+      <text x="470" y="465">35–39</text>
+      <text x="470" y="445">40–44</text>
+      <text x="470" y="425">45–49</text>
+      <text x="470" y="405">50–54</text>
+      <text x="470" y="385">55–59</text>
+      <text x="470" y="365">60–64</text>
+      <text x="470" y="345">65–69</text>
+      <text x="470" y="325">70–74</text>
+      <text x="470" y="305">75–79</text>
+      <text x="470" y="285">80–84</text>
+      <text x="470" y="265">85–89</text>
+      <text x="470" y="245">90–94</text>
+      <text x="470" y="225">95–99</text>
+      <text x="470" y="205">100+</text>
+    </g>
+    <g font-size="14" fill="#5A6270" text-anchor="middle">
+      <text x="86" y="632">100</text>
+      <text x="256" y="632">50</text>
+      <text x="426" y="632">0</text>
+      <text x="514" y="632">0</text>
+      <text x="684" y="632">50</text>
+      <text x="854" y="632">100</text>
+    </g>
+    <text x="470" y="652" font-size="14" fill="#5A6270" text-anchor="middle">萬人</text>
+    <text x="416" y="182" font-size="18" font-weight="bold" fill="#1F3A5F" text-anchor="end">男</text>
+    <text x="524" y="182" font-size="18" font-weight="bold" fill="#1F3A5F">女</text>
+    <text x="470" y="182" font-size="14" fill="#5A6270" text-anchor="middle">歲</text>
+  </g>  <g id="bar-m-00" data-pptx-bounds="394.28 592 31.72 16">
+    <rect x="394.28" y="592" width="31.72" height="16" fill="#5E8C6A" />
+  </g>
+  <g id="bar-m-01" data-pptx-bounds="389.62 572 36.38 16">
+    <rect x="389.62" y="572" width="36.38" height="16" fill="#5E8C6A" />
+  </g>
+  <g id="bar-m-02" data-pptx-bounds="384.2 552 41.8 16">
+    <rect x="384.2" y="552" width="41.8" height="16" fill="#5E8C6A" />
+  </g>
+  <g id="bar-m-03" data-pptx-bounds="376.6 532 49.4 16">
+    <rect x="376.6" y="532" width="49.4" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-04" data-pptx-bounds="370.07 512 55.93 16">
+    <rect x="370.07" y="512" width="55.93" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-05" data-pptx-bounds="367.49 492 58.51 16">
+    <rect x="367.49" y="492" width="58.51" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-06" data-pptx-bounds="367.32 472 58.68 16">
+    <rect x="367.32" y="472" width="58.68" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-07" data-pptx-bounds="364.11 452 61.89 16">
+    <rect x="364.11" y="452" width="61.89" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-08" data-pptx-bounds="355.79 432 70.21 16">
+    <rect x="355.79" y="432" width="70.21" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-09" data-pptx-bounds="345.95 412 80.05 16">
+    <rect x="345.95" y="412" width="80.05" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-10" data-pptx-bounds="306.17 392 119.83 16">
+    <rect x="306.17" y="392" width="119.83" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-11" data-pptx-bounds="270.46 372 155.54 16">
+    <rect x="270.46" y="372" width="155.54" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-12" data-pptx-bounds="255.43 352 170.57 16">
+    <rect x="255.43" y="352" width="170.57" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-m-13" data-pptx-bounds="275.39 332 150.61 16">
+    <rect x="275.39" y="332" width="150.61" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-m-14" data-pptx-bounds="258.84 312 167.16 16">
+    <rect x="258.84" y="312" width="167.16" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-m-15" data-pptx-bounds="231.44 292 194.56 16">
+    <rect x="231.44" y="292" width="194.56" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-m-16" data-pptx-bounds="251.28 272 174.72 16">
+    <rect x="251.28" y="272" width="174.72" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-m-17" data-pptx-bounds="301.11 252 124.89 16">
+    <rect x="301.11" y="252" width="124.89" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-m-18" data-pptx-bounds="346.93 232 79.07 16">
+    <rect x="346.93" y="232" width="79.07" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-m-19" data-pptx-bounds="394.63 212 31.37 16">
+    <rect x="394.63" y="212" width="31.37" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-m-20" data-pptx-bounds="418.44 192 7.56 16">
+    <rect x="418.44" y="192" width="7.56" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-f-00" data-pptx-bounds="514 592 25.84 16">
+    <rect x="514" y="592" width="25.84" height="16" fill="#5E8C6A" />
+  </g>
+  <g id="bar-f-01" data-pptx-bounds="514 572 29.12 16">
+    <rect x="514" y="572" width="29.12" height="16" fill="#5E8C6A" />
+  </g>
+  <g id="bar-f-02" data-pptx-bounds="514 552 34 16">
+    <rect x="514" y="552" width="34" height="16" fill="#5E8C6A" />
+  </g>
+  <g id="bar-f-03" data-pptx-bounds="514 532 41.34 16">
+    <rect x="514" y="532" width="41.34" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-04" data-pptx-bounds="514 512 48.1 16">
+    <rect x="514" y="512" width="48.1" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-05" data-pptx-bounds="514 492 52.2 16">
+    <rect x="514" y="492" width="52.2" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-06" data-pptx-bounds="514 472 55.5 16">
+    <rect x="514" y="472" width="55.5" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-07" data-pptx-bounds="514 452 61.57 16">
+    <rect x="514" y="452" width="61.57" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-08" data-pptx-bounds="514 432 71.17 16">
+    <rect x="514" y="432" width="71.17" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-09" data-pptx-bounds="514 412 81.07 16">
+    <rect x="514" y="412" width="81.07" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-10" data-pptx-bounds="514 392 120.64 16">
+    <rect x="514" y="392" width="120.64" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-11" data-pptx-bounds="514 372 157.24 16">
+    <rect x="514" y="372" width="157.24" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-12" data-pptx-bounds="514 352 176.18 16">
+    <rect x="514" y="352" width="176.18" height="16" fill="#1F3A5F" />
+  </g>
+  <g id="bar-f-13" data-pptx-bounds="514 332 159.5 16">
+    <rect x="514" y="332" width="159.5" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-f-14" data-pptx-bounds="514 312 183.28 16">
+    <rect x="514" y="312" width="183.28" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-f-15" data-pptx-bounds="514 292 226.64 16">
+    <rect x="514" y="292" width="226.64" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-f-16" data-pptx-bounds="514 272 223.92 16">
+    <rect x="514" y="272" width="223.92" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-f-17" data-pptx-bounds="514 252 189.22 16">
+    <rect x="514" y="252" width="189.22" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-f-18" data-pptx-bounds="514 232 160.68 16">
+    <rect x="514" y="232" width="160.68" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-f-19" data-pptx-bounds="514 212 84.96 16">
+    <rect x="514" y="212" width="84.96" height="16" fill="#B5462F" />
+  </g>
+  <g id="bar-f-20" data-pptx-bounds="514 192 28.06 16">
+    <rect x="514" y="192" width="28.06" height="16" fill="#B5462F" />
+  </g>  <g id="reading-shares" data-pptx-bounds="900 176 316 470">
+    <text x="900" y="206" font-size="18" fill="#5A6270">三個年齡段占總人口</text>
+    <rect x="900" y="232" width="16" height="44" fill="#B5462F" />
+    <text x="932" y="252" font-size="18" fill="#1E232B">65 歲以上</text>
+    <text x="932" y="286" font-size="40" font-weight="bold" fill="#B5462F">52.9%</text>
+    <rect x="900" y="316" width="16" height="44" fill="#1F3A5F" />
+    <text x="932" y="336" font-size="18" fill="#1E232B">15–64 歲</text>
+    <text x="932" y="370" font-size="40" font-weight="bold" fill="#1F3A5F">42.3%</text>
+    <rect x="900" y="400" width="16" height="44" fill="#5E8C6A" />
+    <text x="932" y="420" font-size="18" fill="#1E232B">0–14 歲</text>
+    <text x="932" y="454" font-size="40" font-weight="bold" fill="#5E8C6A">4.8%</text>
+    <line x1="900" y1="488" x2="1216" y2="488" stroke="#D5CCBC" stroke-width="1" />
+    <text x="900" y="528" font-size="24" fill="#1E232B">人數最多的年齡組：<tspan x="900" dy="36" font-weight="bold" fill="#B5462F">75–79 歲</tspan><tspan x="900" dy="36">50 歲以上的人</tspan><tspan x="900" dy="36">今天都已出生</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 660 1152 40" fill="#5A6270" font-size="14">
+    <text x="64" y="684">資料：國發會人口推估查詢系統開放資料「五齡人口數」（中推估）；國發會報告表 6、第參章四</text>
+    <text x="1216" y="684" text-anchor="end">09 / 15</text>
+  </g>
+</svg>
