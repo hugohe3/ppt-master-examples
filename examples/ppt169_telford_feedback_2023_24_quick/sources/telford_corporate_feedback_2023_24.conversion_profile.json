@@ -1,0 +1,37 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "doc_to_md.py",
+  "conversion_type": "docx",
+  "source": {
+    "path": "telford_corporate_feedback_2023_24.docx",
+    "name": "telford_corporate_feedback_2023_24.docx",
+    "suffix": ".docx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 528899
+  },
+  "outputs": {
+    "markdown": "telford_corporate_feedback_2023_24.md",
+    "asset_dir": "telford_corporate_feedback_2023_24_files",
+    "image_manifest": "telford_corporate_feedback_2023_24_files/image_manifest.json",
+    "image_count": 12
+  },
+  "markdown": {
+    "line_count": 721,
+    "char_count": 62973,
+    "heading_count": 24,
+    "table_count": 19,
+    "image_ref_count": 12,
+    "link_count": 7
+  },
+  "warnings": [
+    "Image of type image/x-emf is unlikely to display in web browsers",
+    "An unrecognised element was ignored: v:stroke",
+    "Unrecognised paragraph style: Document date (Style ID: Documentdate)",
+    "Unrecognised paragraph style: List Paragraph (Style ID: ListParagraph)",
+    "Unrecognised paragraph style: Default (Style ID: Default)",
+    "Unrecognised run style: Emphasis (Style ID: Emphasis)",
+    "Unrecognised run style: ui-provider (Style ID: ui-provider)",
+    "Unrecognised paragraph style: x_msonormal (Style ID: xmsonormal)"
+  ]
+}

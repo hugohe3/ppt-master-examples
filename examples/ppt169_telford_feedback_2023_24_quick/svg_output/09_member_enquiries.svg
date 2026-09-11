@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF"/>
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z"/>
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">3 · VOICES</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1"/>
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">Elected-member enquiries rose 33% to 1,507</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">Up from 1,132 in 2022/23; Leader and Cabinet enquiries, 1,071 of them, averaged 3 days.</text>
+  </g>
+  <g id="p09-member-enquiries" data-pptx-replace-with="table" data-pptx-bounds="56 196 744 324" data-pptx-fallback-sha256="1d0ba576ce8680b4c35ee1ebe842a52937697121a3c4803f7192c57a6e77c679">
+    <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "p09-member-enquiries", "x": 56, "y": 196, "width": 744, "height": 324, "column_widths": [250, 120, 180, 194], "row_heights": [44, 56, 56, 56, 56, 56], "columns": [{"text": "Source", "align": "l", "bold": true}, {"text": "Received", "align": "r", "bold": true}, {"text": "Average time", "align": "l", "bold": true}, {"text": "Aim", "align": "l", "bold": true}], "rows": [["MP enquiries", {"text": "159", "align": "r"}, "8 working days", "10 working days"], ["Leader of the Council", {"text": "525", "align": "r"}, "3 days", "—"], ["Cabinet Members", {"text": "546", "align": "r"}, "3 days", "—"], ["Ward Members", {"text": "277", "align": "r"}, "5 days", "—"], [{"text": "Total", "bold": true, "fill": "#E3E9F0"}, {"text": "1,507", "align": "r", "bold": true, "fill": "#E3E9F0"}, {"text": "—", "fill": "#E3E9F0"}, {"text": "—", "fill": "#E3E9F0"}]], "defaults": {"cell": {"valign": "middle", "padding": {"left": 14, "right": 14, "top": 4, "bottom": 4}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#CFC8BB", "width": 1}}}}, "style": {"font_family": "Segoe UI", "font_size": 18, "header_font_size": 16, "header_fill": "#1F4E79", "header_text": "#FFFFFF", "body_text": "#1B2A3A", "band_row": false}}</metadata>
+    <rect x="56" y="196" width="744" height="44" fill="#1F4E79"/>
+    <rect x="56" y="464" width="744" height="56" fill="#E3E9F0"/>
+    <g stroke="#CFC8BB" stroke-width="1">
+      <line x1="56" y1="296" x2="800" y2="296"/>
+      <line x1="56" y1="352" x2="800" y2="352"/>
+      <line x1="56" y1="408" x2="800" y2="408"/>
+      <line x1="56" y1="464" x2="800" y2="464"/>
+      <line x1="56" y1="520" x2="800" y2="520"/>
+    </g>
+    <g font-size="16" font-weight="bold" fill="#FFFFFF">
+      <text x="70" y="224">Source</text>
+      <text x="412" y="224" text-anchor="end">Received</text>
+      <text x="440" y="224">Average time</text>
+      <text x="620" y="224">Aim</text>
+    </g>
+    <g font-size="18" fill="#1B2A3A">
+      <text x="70" y="275">MP enquiries</text>
+      <text x="412" y="275" text-anchor="end">159</text>
+      <text x="440" y="275">8 working days</text>
+      <text x="620" y="275">10 working days</text>
+      <text x="70" y="331">Leader of the Council</text>
+      <text x="412" y="331" text-anchor="end">525</text>
+      <text x="440" y="331">3 days</text>
+      <text x="620" y="331">—</text>
+      <text x="70" y="387">Cabinet Members</text>
+      <text x="412" y="387" text-anchor="end">546</text>
+      <text x="440" y="387">3 days</text>
+      <text x="620" y="387">—</text>
+      <text x="70" y="443">Ward Members</text>
+      <text x="412" y="443" text-anchor="end">277</text>
+      <text x="440" y="443">5 days</text>
+      <text x="620" y="443">—</text>
+      <text x="70" y="499" font-weight="bold">Total</text>
+      <text x="412" y="499" text-anchor="end" font-weight="bold">1,507</text>
+      <text x="440" y="499">—</text>
+      <text x="620" y="499">—</text>
+    </g>
+  </g>
+  <g id="table-note" data-pptx-bounds="56 532 744 110">
+    <text x="56" y="560" font-size="16" fill="#3A4654">MP enquiries have a 10-working-day aim; the report states no aim for the<tspan x="56" dy="24">other routes. Leader enquiries come from constituents via the Leader of</tspan><tspan x="56" dy="24">the Council, Cllr Shaun Davies.</tspan></text>
+  </g>
+  <g id="direct-contact" data-pptx-bounds="840 176 384 466">
+    <text x="840" y="196" font-size="16" font-weight="bold" fill="#5E6873">DIRECT CONTACT WITH THE TEAM</text>
+    <line x1="840" y1="210" x2="1224" y2="210" stroke="#CFC8BB" stroke-width="1"/>
+    <text x="840" y="258" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">1,499</text>
+    <text x="840" y="286" font-size="16" fill="#3A4654">emails and web forms — <tspan font-weight="bold" fill="#1B2A3A">up 17%</tspan> on 1,281</text>
+    <text x="840" y="348" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">1,372</text>
+    <text x="840" y="376" font-size="16" fill="#3A4654">telephone calls — <tspan font-weight="bold" fill="#1B2A3A">down 18%</tspan> on 1,683</text>
+    <text x="840" y="438" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">3,049</text>
+    <text x="840" y="466" font-size="16" fill="#3A4654">direct customer contacts in all<tspan x="840" dy="24">(3,110 in 2022/23)</tspan></text>
+    <line x1="840" y1="524" x2="1224" y2="524" stroke="#CFC8BB" stroke-width="1"/>
+    <text x="840" y="552" font-size="16" fill="#5E6873">The Institute of Customer Service reports<tspan x="840" dy="24">that nationally, voice contact has risen</tspan><tspan x="840" dy="24">since the pandemic for difficult topics.</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — MP/Leader/Cabinet and Member Enquiries; Background; Chart 2 (Summary of other feedback)</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">9</text>
+  </g>
+</svg>

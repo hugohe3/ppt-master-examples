@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF"/>
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z"/>
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">2 · HANDLING</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1"/>
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">87% answered in 15 days; five directorates hit 90%</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">Children's Safeguarding (53%) and Education &amp; Skills (60%) lag furthest behind.</text>
+  </g>
+  <g id="p07-timeliness-bar" data-pptx-replace-with="chart" data-pptx-bounds="56 176 1040 468" data-pptx-fallback-sha256="d7a5e451953f9865fef9a87d3a5af33a586ab21f36df0389d003f5e6eaddb59c">
+    <metadata type="application/json">{"name": "p07-timeliness-bar", "type": "bar", "grouping": "clustered", "x": 56, "y": 176, "width": 1034, "height": 468, "plot_area": {"x": 410, "y": 196, "width": 600, "height": 420}, "categories": ["Health &amp; Wellbeing", "Finance &amp; Human Resources", "Communities, Customer &amp; Commercial Services", "Neighbourhood &amp; Enforcement Services", "Housing, Employment &amp; Infrastructure", "Cross Portfolio", "Prosperity &amp; Investment", "Adult Social Care", "Policy &amp; Governance", "Corporate Communications", "Education &amp; Skills", "Children's Safeguarding &amp; Family Support"], "series": [{"name": "Responded to within 15 working days", "values": [100, 95, 94, 94, 91, 87, 87, 78, 78, 67, 60, 53], "point_colors": ["#1F4E79", "#1F4E79", "#1F4E79", "#1F4E79", "#1F4E79", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0"]}], "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0\"%\"", "font_size": 14, "bold": true, "color": "#1B2A3A"}, "axes": {"category": {"font_size": 14}, "value": {"minimum": 0, "maximum": 100, "major_unit": 90, "major_gridlines": true, "number_format": "0\"%\"", "font_size": 14}}, "notes": [{"text": "(2022/23: 57%)", "font_size": 14, "color": "#5E6873"}, {"text": "(2022/23: 67%)", "font_size": 14, "color": "#5E6873"}, {"text": "(2022/23: 100%)", "font_size": 14, "color": "#5E6873"}, {"text": "(2022/23: 81%)", "font_size": 14, "color": "#5E6873"}, {"text": "(2022/23: 39%)", "font_size": 14, "color": "#5E6873"}], "style": {"font_family": "Segoe UI", "axis_font_size": 14, "colors": ["#1F4E79"], "grid_color": "#B83B26", "axis_color": "#8A8F96", "text_color": "#3A4654"}}</metadata>
+    <g id="p07-timeliness-bar-chartArea">
+      <line id="p07-target-grid" x1="950" y1="196" x2="950" y2="616" stroke="#B83B26" stroke-width="1.5"/>
+      <line id="p07-category-axis" x1="410" y1="196" x2="410" y2="616" stroke="#8A8F96" stroke-width="1.5"/>
+      <line id="p07-value-axis" x1="410" y1="616" x2="1010" y2="616" stroke="#8A8F96" stroke-width="1.5"/>
+      <!-- chart-plot-area: object=p07-timeliness-bar | 410,196,1010,616 -->
+      <rect x="410" y="202.5" width="600" height="22" fill="#1F4E79"/>
+      <rect x="410" y="237.5" width="570" height="22" fill="#1F4E79"/>
+      <rect x="410" y="272.5" width="564" height="22" fill="#1F4E79"/>
+      <rect x="410" y="307.5" width="564" height="22" fill="#1F4E79"/>
+      <rect x="410" y="342.5" width="546" height="22" fill="#1F4E79"/>
+      <rect x="410" y="377.5" width="522" height="22" fill="#A9BCD0"/>
+      <rect x="410" y="412.5" width="522" height="22" fill="#A9BCD0"/>
+      <rect x="410" y="447.5" width="468" height="22" fill="#A9BCD0"/>
+      <rect x="410" y="482.5" width="468" height="22" fill="#A9BCD0"/>
+      <rect x="410" y="517.5" width="402" height="22" fill="#A9BCD0"/>
+      <rect x="410" y="552.5" width="360" height="22" fill="#A9BCD0"/>
+      <rect x="410" y="587.5" width="318" height="22" fill="#A9BCD0"/>
+      <g font-size="14" fill="#3A4654" text-anchor="end">
+        <text x="400" y="218.5">Health &amp; Wellbeing</text>
+        <text x="400" y="253.5">Finance &amp; Human Resources</text>
+        <text x="400" y="288.5">Communities, Customer &amp; Commercial Services</text>
+        <text x="400" y="323.5">Neighbourhood &amp; Enforcement Services</text>
+        <text x="400" y="358.5">Housing, Employment &amp; Infrastructure</text>
+        <text x="400" y="393.5">Cross Portfolio</text>
+        <text x="400" y="428.5">Prosperity &amp; Investment</text>
+        <text x="400" y="463.5">Adult Social Care</text>
+        <text x="400" y="498.5">Policy &amp; Governance</text>
+        <text x="400" y="533.5">Corporate Communications</text>
+        <text x="400" y="568.5">Education &amp; Skills</text>
+        <text x="400" y="603.5">Children's Safeguarding &amp; Family Support</text>
+      </g>
+      <g font-size="14" font-weight="bold" fill="#1B2A3A">
+        <text x="1018" y="218.5">100%</text>
+        <text x="988" y="253.5">95%</text>
+        <text x="982" y="288.5">94%</text>
+        <text x="982" y="323.5">94%</text>
+        <text x="964" y="358.5">91%</text>
+        <text x="940" y="393.5">87%</text>
+        <text x="940" y="428.5">87%</text>
+        <text x="886" y="463.5">78%</text>
+        <text x="886" y="498.5">78%</text>
+        <text x="820" y="533.5">67%</text>
+        <text x="778" y="568.5">60%</text>
+        <text x="736" y="603.5">53%</text>
+      </g>
+      <g font-size="14" fill="#5E6873">
+        <text x="978" y="428.5">(2022/23: 57%)</text>
+        <text x="924" y="463.5">(2022/23: 67%)</text>
+        <text x="858" y="533.5">(2022/23: 100%)</text>
+        <text x="816" y="568.5">(2022/23: 81%)</text>
+        <text x="774" y="603.5">(2022/23: 39%)</text>
+      </g>
+      <g font-size="14" fill="#3A4654" text-anchor="middle">
+        <text x="410" y="636">0%</text>
+        <text x="950" y="636">90%</text>
+      </g>
+    </g>
+  </g>
+  <g id="avg-days" data-pptx-bounds="1100 176 124 440">
+    <line x1="1104" y1="196" x2="1104" y2="616" stroke="#CFC8BB" stroke-width="1"/>
+    <text x="1216" y="188" font-size="14" font-weight="bold" fill="#5E6873" text-anchor="end">AVG DAYS</text>
+    <g font-size="16" font-weight="bold" fill="#1B2A3A" text-anchor="end">
+      <text x="1200" y="219">9</text>
+      <text x="1200" y="254">10</text>
+      <text x="1200" y="289">8</text>
+      <text x="1200" y="324">9</text>
+      <text x="1200" y="359">10</text>
+      <text x="1200" y="394">11</text>
+      <text x="1200" y="429">13</text>
+      <text x="1200" y="464">11</text>
+      <text x="1200" y="499">11</text>
+      <text x="1200" y="534">14</text>
+      <text x="1200" y="569">14</text>
+      <text x="1200" y="604" fill="#B83B26">19</text>
+    </g>
+  </g>
+  <g id="chart-key" data-pptx-bounds="56 646 1168 26">
+    <text x="56" y="664" font-size="14" fill="#5E6873">Red line: 90% local target. Navy bars met it. Brackets give the 2022/23 figure where the report states one. Avg days = working days.</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — Chart 9 (Response Timescales) and Timescales for responses at Stage One</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">7</text>
+  </g>
+</svg>

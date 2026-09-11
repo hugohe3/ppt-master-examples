@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF"/>
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z"/>
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">1 · VOLUME</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1"/>
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">Upheld themes shrank — delay fell from 24% to 9%</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">Share of the 434 upheld issues by theme — all four main themes fell.</text>
+  </g>
+  <g id="raised-themes" data-pptx-bounds="56 176 364 470">
+    <text x="56" y="196" font-size="16" font-weight="bold" fill="#5E6873">WHAT PEOPLE RAISED</text>
+    <text x="56" y="220" font-size="16" fill="#5E6873">Top themes before investigation;<tspan x="56" dy="22">one complaint can carry several</tspan></text>
+    <g stroke="#CFC8BB" stroke-width="1">
+      <line x1="56" y1="262" x2="400" y2="262"/>
+      <line x1="56" y1="316" x2="400" y2="316"/>
+      <line x1="56" y1="370" x2="400" y2="370"/>
+      <line x1="56" y1="424" x2="400" y2="424"/>
+      <line x1="56" y1="478" x2="400" y2="478"/>
+      <line x1="56" y1="532" x2="400" y2="532"/>
+    </g>
+    <g font-size="16" fill="#1B2A3A">
+      <text x="56" y="295">Communication</text>
+      <text x="56" y="349">Lack of action</text>
+      <text x="56" y="403">Complaints involving staff</text>
+      <text x="56" y="457">Disagree with council decision</text>
+      <text x="56" y="511">Request for information/service</text>
+    </g>
+    <g font-size="22" font-weight="bold" fill="#1F4E79" text-anchor="end">
+      <text x="400" y="297">205</text>
+      <text x="400" y="351">126</text>
+      <text x="400" y="405">112</text>
+      <text x="400" y="459">85</text>
+      <text x="400" y="513">68</text>
+    </g>
+    <text x="56" y="566" font-size="16" fill="#3A4654">The report puts communication and<tspan x="56" dy="24">lack of action at <tspan font-weight="bold" fill="#1B2A3A">30%</tspan> of all issues raised.</tspan></text>
+  </g>
+  <g id="p05-upheld-themes" data-pptx-replace-with="chart" data-pptx-bounds="440 176 784 444" data-pptx-fallback-sha256="f36e184317710ccebbebf4b5fd5228fc90f369acff7899d9629ca517b6e35f47">
+    <metadata type="application/json">{"name": "p05-upheld-themes", "type": "bar", "grouping": "clustered", "x": 440, "y": 176, "width": 784, "height": 444, "plot_area": {"x": 710, "y": 220, "width": 470, "height": 380}, "categories": ["Communication", "Lack of action", "Complaints involving staff", "Delay (processing &amp; response)"], "series": [{"name": "2022/23", "values": [38, 20, 14, 24]}, {"name": "2023/24", "values": [23, 12, 11, 9]}], "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0\"%\"", "font_size": 16, "bold": true, "color": "#1B2A3A"}, "axes": {"category": {"font_size": 16}, "value": {"minimum": 0, "maximum": 40, "visible": false, "major_gridlines": false}}, "show_legend": true, "legend_position": "top", "style": {"font_family": "Segoe UI", "axis_font_size": 16, "legend_font_size": 16, "colors": ["#A9BCD0", "#1F4E79"], "axis_color": "#8A8F96", "text_color": "#1B2A3A"}}</metadata>
+    <g id="p05-legend" font-size="16" fill="#3A4654">
+      <rect x="710" y="186" width="16" height="16" fill="#A9BCD0"/>
+      <text x="734" y="200">2022/23</text>
+      <rect x="820" y="186" width="16" height="16" fill="#1F4E79"/>
+      <text x="844" y="200">2023/24</text>
+    </g>
+    <g id="p05-upheld-themes-chartArea">
+      <line id="p05-axis" x1="710" y1="220" x2="710" y2="600" stroke="#8A8F96" stroke-width="1.5"/>
+      <!-- chart-plot-area: object=p05-upheld-themes | 710,220,1180,600 -->
+      <rect x="710" y="236.5" width="446.5" height="28" fill="#A9BCD0"/>
+      <rect x="710" y="270.5" width="270.25" height="28" fill="#1F4E79"/>
+      <rect x="710" y="331.5" width="235" height="28" fill="#A9BCD0"/>
+      <rect x="710" y="365.5" width="141" height="28" fill="#1F4E79"/>
+      <rect x="710" y="426.5" width="164.5" height="28" fill="#A9BCD0"/>
+      <rect x="710" y="460.5" width="129.25" height="28" fill="#1F4E79"/>
+      <rect x="710" y="521.5" width="282" height="28" fill="#A9BCD0"/>
+      <rect x="710" y="555.5" width="105.75" height="28" fill="#1F4E79"/>
+      <g font-size="16" fill="#1B2A3A" text-anchor="end">
+        <text x="700" y="272.5">Communication</text>
+        <text x="700" y="367.5">Lack of action</text>
+        <text x="700" y="462.5">Complaints involving staff</text>
+        <text x="700" y="557.5">Delay (processing &amp; response)</text>
+      </g>
+      <g font-size="16" font-weight="bold" fill="#1B2A3A">
+        <text x="1164.5" y="256.5">38%</text>
+        <text x="988.25" y="290.5">23%</text>
+        <text x="953" y="351.5">20%</text>
+        <text x="859" y="385.5">12%</text>
+        <text x="882.5" y="446.5">14%</text>
+        <text x="847.25" y="480.5">11%</text>
+        <text x="1000" y="541.5">24%</text>
+        <text x="823.75" y="575.5">9%</text>
+      </g>
+    </g>
+  </g>
+  <g id="admin-note" data-pptx-bounds="440 620 784 40">
+    <text x="440" y="646" font-size="16" fill="#5E6873">Fifth theme: processing/administrative error, 4% of upheld issues in 2023/24.</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — Chart 5 (Complaint Themes prior to investigation); Chart 8 and text on the top five upheld themes</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">5</text>
+  </g>
+</svg>

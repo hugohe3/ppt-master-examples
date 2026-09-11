@@ -2,11 +2,103 @@
   "version": 1,
   "updated": "2026-09-11",
   "stats": {
-    "examples": 48,
-    "pages": 688,
-    "templates": 48
+    "examples": 49,
+    "pages": 701,
+    "templates": 49
   },
   "projects": [
+    {
+      "id": "ppt169_telford_feedback_2023_24_quick",
+      "title": "Corporate Feedback Report 2023/24",
+      "description": "英文议会简报 13 页 — 仓库首个 Word(DOCX)源示例,Quick 运行时一次生成;源是 Telford & Wrekin 市议会公开的客户反馈年报 docx(随示例附在 sources/,转换后的 Markdown 含文档里 12 个内嵌 Word 图表的缓存数据),数字全部取自该报告,两处源内矛盾在页面注明;每页标题都是结论句,纸色底细线版式与剪角母题;投诉趋势、各局分布、主题、结果、时效 5 张原生图表与议员来函、You said/We did 2 张原生表格,封面 EMF 徽标原样透传;29 条进场动画(图表按读图方向擦除、升级流程逐级揭示)与封面到概览页的 Morph",
+      "icon": "📋",
+      "color": "#1F4E79",
+      "style": "corporate",
+      "styleName": "Scrutiny Briefing · Quick",
+      "desc": "A thirteen-page English council briefing — the first example built from a Word document, generated in one pass on the Quick runtime. The source is Telford & Wrekin Council's public Corporate Feedback Report 2023/24 (shipped under sources/; its Markdown conversion carries the cached data of the twelve Word charts embedded in the document). Every figure comes from the report, with two internal inconsistencies flagged on the page and a conclusion for every title. Paper-toned hairline layout with a snipped-corner motif; five native charts (volume trend, directorates, themes, outcomes, timeliness) and two native tables (member enquiries, You said/We did), the cover's EMF logo passed through as vector, 29 entrances (charts wipe in reading direction, the escalation flow reveals step by step) and a Morph from the cover to the overview.",
+      "tags": [
+        "Government",
+        "English",
+        "DOCX Source",
+        "Quick",
+        "Native Charts",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_telford_feedback_2023_24_quick/svg_final",
+      "generatedAt": "2026-09-11",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_telford_feedback_2023_24_quick/exports/ppt169_telford_feedback_2023_24_quick.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "Corporate Feedback Report 2023/24 — more complaints, faster answers"
+        },
+        {
+          "file": "02_year_in_brief.svg",
+          "title": "year in brief",
+          "desc": "More complaints, answered faster"
+        },
+        {
+          "file": "03_volume_trend.svg",
+          "title": "volume trend",
+          "desc": "659 complaints: the second-highest in five years"
+        },
+        {
+          "file": "04_directorates.svg",
+          "title": "directorates",
+          "desc": "Two directorates received 372 of the 659 complaints"
+        },
+        {
+          "file": "05_themes.svg",
+          "title": "themes",
+          "desc": "Upheld themes shrank — delay fell from 24% to 9%"
+        },
+        {
+          "file": "06_outcomes.svg",
+          "title": "outcomes",
+          "desc": "42% upheld — the same rate as 2022/23"
+        },
+        {
+          "file": "07_timeliness.svg",
+          "title": "timeliness",
+          "desc": "87% answered in 15 days; five directorates hit 90%"
+        },
+        {
+          "file": "08_stage_two.svg",
+          "title": "stage two",
+          "desc": "Stage Two is where the pressure moved"
+        },
+        {
+          "file": "09_member_enquiries.svg",
+          "title": "member enquiries",
+          "desc": "Elected-member enquiries rose 33% to 1,507"
+        },
+        {
+          "file": "10_compliments.svg",
+          "title": "compliments",
+          "desc": "Compliments have more than doubled in five years"
+        },
+        {
+          "file": "11_you_said_we_did.svg",
+          "title": "you said we did",
+          "desc": "Complaints are turning into specific fixes"
+        },
+        {
+          "file": "12_external_checks.svg",
+          "title": "external checks",
+          "desc": "Ombudsman rate down to 1.74 per 10,000 people"
+        },
+        {
+          "file": "13_next_year.svg",
+          "title": "next year",
+          "desc": "From May 2024, the complaints clock runs shorter"
+        }
+      ],
+      "pptxNative": "examples/ppt169_telford_feedback_2023_24_quick/exports/ppt169_telford_feedback_2023_24_quick_native_charts_tables.pptx"
+    },
     {
       "id": "ppt169_jilin_geohazard_rules_beautify",
       "title": "吉林省地质灾害治理工程项目管理办法 · 政策解读(美化)",

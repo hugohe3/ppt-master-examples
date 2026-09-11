@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF" />
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z" />
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">1 · VOLUME</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1" />
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">Two directorates received 372 of the 659 complaints</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">Neighbourhood &amp; Enforcement, home to waste and highways, received 241 on its own.</text>
+  </g>
+  <g id="p04-directorate-bar" data-pptx-replace-with="chart" data-pptx-bounds="56 176 844 460" data-pptx-fallback-sha256="d8b93b639d8218e4cfe0ed3740b62ddf6a9190e99e7746157756a3421aab85a8">
+    <metadata type="application/json">{"name": "p04-directorate-bar", "type": "bar", "grouping": "clustered", "x": 56, "y": 176, "width": 844, "height": 460, "plot_area": {"x": 410, "y": 186, "width": 470, "height": 440}, "categories": ["Neighbourhood &amp; Enforcement Services", "Communities, Customer &amp; Commercial Services", "Education &amp; Skills", "Children's Safeguarding &amp; Family Support", "Cross Portfolio", "Finance &amp; Human Resources", "Prosperity &amp; Investment", "Housing, Employment &amp; Infrastructure", "Adult Social Care", "Policy &amp; Governance", "Health &amp; Wellbeing", "Corporate Communication"], "series": [{"name": "Corporate complaints received 2023/24", "values": [241, 131, 56, 46, 46, 39, 38, 36, 10, 8, 5, 3], "point_colors": ["#1F4E79", "#1F4E79", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0"]}], "data_labels": {"show_value": true, "position": "outside_end", "font_size": 14, "bold": true, "color": "#1B2A3A"}, "axes": {"category": {"font_size": 14}, "value": {"minimum": 0, "maximum": 250, "visible": false, "major_gridlines": false}}, "style": {"font_family": "Segoe UI", "axis_font_size": 14, "colors": ["#1F4E79"], "axis_color": "#8A8F96", "text_color": "#3A4654"}}</metadata>
+    <g id="p04-directorate-bar-chartArea">
+      <line id="p04-axis" x1="410" y1="186" x2="410" y2="626" stroke="#8A8F96" stroke-width="1.5" />
+      
+      <rect x="410" y="193.33" width="453.08" height="22" fill="#1F4E79" />
+      <rect x="410" y="230" width="246.28" height="22" fill="#1F4E79" />
+      <rect x="410" y="266.67" width="105.28" height="22" fill="#A9BCD0" />
+      <rect x="410" y="303.33" width="86.48" height="22" fill="#A9BCD0" />
+      <rect x="410" y="340" width="86.48" height="22" fill="#A9BCD0" />
+      <rect x="410" y="376.67" width="73.32" height="22" fill="#A9BCD0" />
+      <rect x="410" y="413.33" width="71.44" height="22" fill="#A9BCD0" />
+      <rect x="410" y="450" width="67.68" height="22" fill="#A9BCD0" />
+      <rect x="410" y="486.67" width="18.8" height="22" fill="#A9BCD0" />
+      <rect x="410" y="523.33" width="15.04" height="22" fill="#A9BCD0" />
+      <rect x="410" y="560" width="9.4" height="22" fill="#A9BCD0" />
+      <rect x="410" y="596.67" width="5.64" height="22" fill="#A9BCD0" />
+      <g font-size="14" fill="#3A4654" text-anchor="end">
+        <text x="400" y="209.33">Neighbourhood &amp; Enforcement Services</text>
+        <text x="400" y="246">Communities, Customer &amp; Commercial Services</text>
+        <text x="400" y="282.67">Education &amp; Skills</text>
+        <text x="400" y="319.33">Children's Safeguarding &amp; Family Support</text>
+        <text x="400" y="356">Cross Portfolio</text>
+        <text x="400" y="392.67">Finance &amp; Human Resources</text>
+        <text x="400" y="429.33">Prosperity &amp; Investment</text>
+        <text x="400" y="466">Housing, Employment &amp; Infrastructure</text>
+        <text x="400" y="502.67">Adult Social Care</text>
+        <text x="400" y="539.33">Policy &amp; Governance</text>
+        <text x="400" y="576">Health &amp; Wellbeing</text>
+        <text x="400" y="612.67">Corporate Communication</text>
+      </g>
+      <g font-size="14" font-weight="bold" fill="#1B2A3A">
+        <text x="871.08" y="209.33">241</text>
+        <text x="664.28" y="246">131</text>
+        <text x="523.28" y="282.67">56</text>
+        <text x="504.48" y="319.33">46</text>
+        <text x="504.48" y="356">46</text>
+        <text x="491.32" y="392.67">39</text>
+        <text x="489.44" y="429.33">38</text>
+        <text x="485.68" y="466">36</text>
+        <text x="436.8" y="502.67">10</text>
+        <text x="433.04" y="539.33">8</text>
+        <text x="427.4" y="576">5</text>
+        <text x="423.64" y="612.67">3</text>
+      </g>
+    </g>
+  </g>
+  <g id="p04-data-note-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="930 176 294 138" data-pptx-av-adj1="val -58844" data-pptx-av-adj2="val -26812" fill="#FBF8F2" stroke="#B83B26" stroke-width="1.5">
+<path d="M 930 176 L 979 176 L 979 176 L 1052.5 176 L 1224 176 L 1224 199 L 1224 199 L 1224 233.5 L 1224 314 L 1052.5 314 L 979 314 L 979 314 L 930 314 L 930 233.5 L 904 208 L 930 199 Z" />
+</g>
+  <g id="data-note" data-pptx-bounds="930 176 294 138">
+    <text x="946" y="204" font-size="14" font-weight="bold" fill="#B83B26">DATA NOTE</text>
+    <text font-size="16" fill="#1B2A3A" x="946" y="232">Report text gives 214 (+22% on</text><text font-size="16" fill="#1B2A3A" x="946" y="256"><tspan>176). Chart 6 gives <tspan font-weight="bold">241</tspan> —</tspan></text><text font-size="16" fill="#1B2A3A" x="946" y="280">the value that sums to 659.</text></g>
+  <g id="directorate-notes" data-pptx-bounds="924 336 300 300">
+    <text font-size="16" fill="#1B2A3A" x="930" y="360" font-weight="bold">Communities, Customer &amp;</text><text font-size="16" fill="#1B2A3A" x="930" y="382" font-weight="bold">Commercial Services</text><text font-size="16" fill="#3A4654" x="930" y="406">131 — up 30% on 101</text><text font-size="16" fill="#1B2A3A" x="930" y="454" font-weight="bold">Education &amp; Skills</text><text font-size="16" fill="#3A4654" x="930" y="478">56 — up 70% on 33; Special</text><text font-size="16" fill="#3A4654" x="930" y="502">Educational Needs: 31 (19 before)</text><text font-size="16" fill="#1B2A3A" x="930" y="546" font-weight="bold">Fewer than in 2022/23</text><text font-size="16" fill="#3A4654" x="930" y="570">Children's Safeguarding &amp; Family</text><text font-size="16" fill="#3A4654" x="930" y="594">Support, Prosperity &amp; Investment,</text><text font-size="16" fill="#3A4654" x="930" y="618">Finance &amp; Human Resources</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — Chart 6 (Corporate Complaints received by Directorate) and accompanying text</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">4</text>
+  </g>
+</svg>

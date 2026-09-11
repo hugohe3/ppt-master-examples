@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF"/>
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z"/>
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">1 · VOLUME</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1"/>
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">659 complaints: the second-highest in five years</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">Up from 601 in 2022/23 and below the 2021/22 peak of 702.</text>
+  </g>
+  <g id="chart-caption" data-pptx-bounds="56 170 744 26">
+    <text x="56" y="190" font-size="16" font-weight="bold" fill="#5E6873">CORPORATE STAGE ONE COMPLAINTS BY YEAR</text>
+  </g>
+  <g id="p03-stage1-trend" data-pptx-replace-with="chart" data-pptx-bounds="56 200 744 446" data-pptx-fallback-sha256="b1366f62194ae65dbc1ceca0650e406bcd3c1e045419f983524894fd120975f2">
+    <metadata type="application/json">{"name": "p03-stage1-trend", "type": "column", "x": 56, "y": 200, "width": 744, "height": 446, "plot_area": {"x": 110, "y": 220, "width": 670, "height": 380}, "categories": ["2019/20", "2020/21", "2021/22", "2022/23", "2023/24"], "series": [{"name": "Corporate Stage One complaints", "values": [477, 424, 702, 601, 659], "point_colors": ["#A9BCD0", "#A9BCD0", "#A9BCD0", "#A9BCD0", "#1F4E79"]}], "data_labels": {"show_value": true, "position": "outside_end", "font_size": 16, "bold": true, "color": "#1B2A3A"}, "axes": {"value": {"minimum": 0, "maximum": 800, "major_unit": 200, "major_gridlines": true}}, "style": {"font_family": "Segoe UI", "axis_font_size": 16, "colors": ["#1F4E79"], "grid_color": "#E3DED4", "axis_color": "#8A8F96", "text_color": "#5E6873"}}</metadata>
+    <g id="p03-stage1-trend-chartArea">
+      <g id="p03-grid" stroke="#E3DED4" stroke-width="1">
+        <line x1="110" y1="220" x2="780" y2="220"/>
+        <line x1="110" y1="315" x2="780" y2="315"/>
+        <line x1="110" y1="410" x2="780" y2="410"/>
+        <line x1="110" y1="505" x2="780" y2="505"/>
+      </g>
+      <g font-size="16" fill="#5E6873" text-anchor="end">
+        <text x="100" y="606">0</text>
+        <text x="100" y="511">200</text>
+        <text x="100" y="416">400</text>
+        <text x="100" y="321">600</text>
+        <text x="100" y="226">800</text>
+      </g>
+      <line id="p03-axis" x1="110" y1="600" x2="780" y2="600" stroke="#8A8F96" stroke-width="1.5"/>
+      <!-- chart-plot-area: object=p03-stage1-trend | 110,220,780,600 -->
+      <rect x="141" y="373.43" width="72" height="226.57" fill="#A9BCD0"/>
+      <rect x="275" y="398.6" width="72" height="201.4" fill="#A9BCD0"/>
+      <rect x="409" y="266.55" width="72" height="333.45" fill="#A9BCD0"/>
+      <rect x="543" y="314.53" width="72" height="285.47" fill="#A9BCD0"/>
+      <rect x="677" y="286.98" width="72" height="313.02" fill="#1F4E79"/>
+      <g font-size="16" font-weight="bold" fill="#1B2A3A" text-anchor="middle">
+        <text x="177" y="364">477</text>
+        <text x="311" y="389">424</text>
+        <text x="445" y="257">702</text>
+        <text x="579" y="305">601</text>
+        <text x="713" y="277">659</text>
+      </g>
+      <g font-size="16" fill="#5E6873" text-anchor="middle">
+        <text x="177" y="628">2019/20</text>
+        <text x="311" y="628">2020/21</text>
+        <text x="445" y="628">2021/22</text>
+        <text x="579" y="628">2022/23</text>
+        <text x="713" y="628">2023/24</text>
+      </g>
+    </g>
+  </g>
+  <g id="context-scale" data-pptx-bounds="840 170 384 356">
+    <text x="840" y="190" font-size="16" font-weight="bold" fill="#5E6873">IN CONTEXT: COUNCIL ACTIVITY 2023/24</text>
+    <line x1="840" y1="204" x2="1224" y2="204" stroke="#CFC8BB" stroke-width="1"/>
+    <text x="840" y="250" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">10.7 million</text>
+    <text x="840" y="276" font-size="16" fill="#3A4654">bins emptied</text>
+    <text x="840" y="330" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">212,074</text>
+    <text x="840" y="356" font-size="16" fill="#3A4654">calls to the Corporate Contact Centre</text>
+    <text x="840" y="410" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">c.160,000</text>
+    <text x="840" y="436" font-size="16" fill="#3A4654">council tax bills issued</text>
+    <text x="840" y="490" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">c.3.2 million</text>
+    <text x="840" y="516" font-size="16" fill="#3A4654">visitors welcomed to Telford</text>
+  </g>
+  <g id="context-note" data-pptx-bounds="840 546 384 108">
+    <rect x="840" y="552" width="3" height="96" fill="#B83B26"/>
+    <text x="858" y="572" font-size="16" fill="#1B2A3A">Complaints stay <tspan font-weight="bold">under 1%</tspan> of all<tspan x="858" dy="24">transactions. The Ombudsman says</tspan><tspan x="858" dy="24">complaints need not be a negative: they</tspan><tspan x="858" dy="24">can signal an accessible procedure.</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — Chart 4 (Total Corporate Stage 1 by Year); Report summary</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">3</text>
+  </g>
+</svg>

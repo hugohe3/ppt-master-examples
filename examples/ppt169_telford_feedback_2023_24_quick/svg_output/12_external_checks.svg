@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF"/>
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z"/>
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">4 · ASSURANCE</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1"/>
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">Ombudsman rate down to 1.74 per 10,000 people</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">One of three detailed Ombudsman investigations upheld; all recommendations completed.</text>
+  </g>
+  <g id="oflog-metric" data-pptx-bounds="56 180 368 460">
+    <rect x="56" y="184" width="368" height="3" fill="#1F4E79"/>
+    <text x="56" y="214" font-size="16" font-weight="bold" fill="#5E6873">OFFICE FOR LOCAL GOVERNMENT</text>
+    <text x="56" y="290" font-family="Cambria" font-size="60" font-weight="bold" fill="#1F4E79">1.74</text>
+    <text x="56" y="326" font-size="18" fill="#1B2A3A">Ombudsman complaints per<tspan x="56" dy="26">10,000 population, 2023/24</tspan></text>
+    <g font-size="14" fill="#5E6873">
+      <text x="56" y="406">2022/23</text>
+      <text x="56" y="452">2023/24</text>
+    </g>
+    <rect x="56" y="414" width="279.6" height="14" fill="#A9BCD0"/>
+    <rect x="56" y="460" width="208.8" height="14" fill="#1F4E79"/>
+    <g font-size="16" font-weight="bold" fill="#1B2A3A">
+      <text x="344" y="427">2.33</text>
+      <text x="273" y="473">1.74</text>
+    </g>
+    <text x="56" y="524" font-size="16" fill="#3A4654">Based on a population of 188,871.<tspan x="56" dy="24">OFLOG uses Ombudsman complaint data</tspan><tspan x="56" dy="24">and ONS population figures.</tspan></text>
+  </g>
+  <g id="lgsco" data-pptx-bounds="456 180 368 460">
+    <rect x="456" y="184" width="368" height="3" fill="#1F4E79"/>
+    <text x="456" y="214" font-size="16" font-weight="bold" fill="#5E6873">LOCAL GOVERNMENT OMBUDSMAN</text>
+    <text x="456" y="290" font-family="Cambria" font-size="60" font-weight="bold" fill="#1F4E79">17</text>
+    <text x="456" y="326" font-size="18" fill="#1B2A3A">enquiries forwarded to the LGSCO:<tspan x="456" dy="26">12 corporate, 5 statutory</tspan></text>
+    <line x1="456" y1="384" x2="824" y2="384" stroke="#CFC8BB" stroke-width="1"/>
+    <text x="456" y="420" font-size="16" fill="#3A4654">Detailed investigations completed,<tspan x="456" dy="24">corporate and statutory:</tspan></text>
+    <text x="456" y="490" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">3</text>
+    <text x="500" y="490" font-size="16" fill="#3A4654">— 1 upheld, 2 not upheld (33% upheld)</text>
+    <text x="456" y="548" font-family="Cambria" font-size="36" font-weight="bold" fill="#2F7D4F">100%</text>
+    <text x="456" y="576" font-size="16" fill="#3A4654">of LGSCO recommendations completed</text>
+  </g>
+  <g id="tenants" data-pptx-bounds="856 180 368 460">
+    <rect x="856" y="184" width="368" height="3" fill="#1F4E79"/>
+    <text x="856" y="214" font-size="16" font-weight="bold" fill="#5E6873">COUNCIL TENANTS</text>
+    <text x="856" y="290" font-family="Cambria" font-size="60" font-weight="bold" fill="#1F4E79">0</text>
+    <text x="856" y="326" font-size="18" fill="#1B2A3A">complaints from council tenants<tspan x="856" dy="26">in 2023/24</tspan></text>
+    <line x1="856" y1="384" x2="1224" y2="384" stroke="#CFC8BB" stroke-width="1"/>
+    <text x="856" y="420" font-size="16" fill="#3A4654">The council became a registered<tspan x="856" dy="24">provider of social housing in</tspan><tspan x="856" dy="24">September 2020 and has 23 properties.</tspan></text>
+    <text x="856" y="516" font-size="16" fill="#3A4654">No case went to the Housing<tspan x="856" dy="24">Ombudsman Service, and there were</tspan><tspan x="856" dy="24">no findings of non-compliance with</tspan><tspan x="856" dy="24">its Complaint Handling Code.</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — LGSCO enquiries; OFLOG Metrics; Complaints from Telford and Wrekin Tenants</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">12</text>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF" />
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z" />
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">OVERVIEW</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1" />
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">More complaints, answered faster</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">Volume and speed both rose at Stage One; escalations to Stage Two rose faster still.</text>
+  </g>
+  <g id="kpi-volume" data-pptx-bounds="56 180 268 250">
+    <rect x="56" y="184" width="268" height="3" fill="#1F4E79" />
+    <text x="56" y="216" font-size="16" font-weight="bold" fill="#5E6873">STAGE ONE COMPLAINTS</text>
+    <text x="56" y="292" font-family="Cambria" font-size="60" font-weight="bold" fill="#1F4E79">659</text>
+    <text x="56" y="334" font-size="22" fill="#3A4654">2022/23: 601</text>
+    <text font-size="16" fill="#5E6873" x="56" y="372">From 619 complainants; still</text><text font-size="16" fill="#5E6873" x="56" y="396">under 1% of all transactions</text></g>
+  <g id="kpi-timeliness" data-pptx-bounds="356 180 268 250">
+    <rect x="356" y="184" width="268" height="3" fill="#1F4E79" />
+    <text x="356" y="216" font-size="16" font-weight="bold" fill="#5E6873">ANSWERED WITHIN 15 DAYS</text>
+    <text x="356" y="292" font-family="Cambria" font-size="60" font-weight="bold" fill="#1F4E79">87%</text>
+    <text x="356" y="334" font-size="22" fill="#3A4654">2022/23: 80%</text>
+    <text font-size="16" fill="#5E6873" x="356" y="372">Local target is <tspan font-weight="bold" fill="#1B2A3A">90%</tspan>; five</text><text font-size="16" fill="#5E6873" x="356" y="396">directorates met it</text></g>
+  <g id="kpi-speed" data-pptx-bounds="656 180 268 250">
+    <rect x="656" y="184" width="268" height="3" fill="#1F4E79" />
+    <text x="656" y="216" font-size="16" font-weight="bold" fill="#5E6873">AVERAGE RESPONSE TIME</text>
+    <text x="656" y="292" font-family="Cambria" font-size="60" font-weight="bold" fill="#1F4E79">10 days</text>
+    <text x="656" y="334" font-size="22" fill="#3A4654">2022/23: 11 days</text>
+    <text font-size="16" fill="#5E6873" x="656" y="372">Working days at Stage One;</text><text font-size="16" fill="#5E6873" x="656" y="396"><tspan><tspan font-weight="bold" fill="#1B2A3A">26</tspan> went past the 20-day limit</tspan></text></g>
+  <g id="kpi-escalation" data-pptx-bounds="956 180 268 250">
+    <rect x="956" y="184" width="268" height="3" fill="#B83B26" />
+    <text x="956" y="216" font-size="16" font-weight="bold" fill="#5E6873">ESCALATED TO STAGE TWO</text>
+    <text x="956" y="292" font-family="Cambria" font-size="60" font-weight="bold" fill="#B83B26">70</text>
+    <text x="956" y="334" font-size="22" fill="#3A4654">2022/23: 41</text>
+    <text font-size="16" fill="#5E6873" x="956" y="372">Full investigations averaged</text><text font-size="16" fill="#5E6873" x="956" y="396"><tspan><tspan font-weight="bold" fill="#B83B26">43</tspan> working days (28 before)</tspan></text></g>
+  <line id="band-rule" data-pptx-role="decoration" x1="56" y1="478" x2="1224" y2="478" stroke="#CFC8BB" stroke-width="1" />
+  <g id="stat-upheld" data-pptx-bounds="56 500 376 140">
+    <text x="56" y="542" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">42%</text>
+    <text font-size="22" fill="#1B2A3A" x="56" y="580">upheld at Stage One —</text><text font-size="22" fill="#1B2A3A" x="56" y="610">unchanged from 2022/23</text></g>
+  <g id="stat-compliments" data-pptx-bounds="452 500 376 140">
+    <text x="452" y="542" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">639</text>
+    <text font-size="22" fill="#1B2A3A" x="452" y="580">compliments received —</text><text font-size="22" fill="#1B2A3A" x="452" y="610">up 13% on 566 in 2022/23</text></g>
+  <g id="stat-ombudsman" data-pptx-bounds="848 500 376 140">
+    <text x="848" y="542" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">100%</text>
+    <text font-size="22" fill="#1B2A3A" x="848" y="580">of Ombudsman</text><text font-size="22" fill="#1B2A3A" x="848" y="610">recommendations completed</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Telford &amp; Wrekin Council, Corporate Feedback Report 2023/24 — Report summary; Highlights 2023/24</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">2</text>
+  </g>
+</svg>

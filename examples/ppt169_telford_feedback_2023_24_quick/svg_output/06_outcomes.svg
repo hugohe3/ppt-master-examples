@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF"/>
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z"/>
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">2 · HANDLING</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1"/>
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">42% upheld — the same rate as 2022/23</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">The largest directorates have the most upheld complaints because they answer the most.</text>
+  </g>
+  <g id="overall-outcome" data-pptx-bounds="56 176 344 260">
+    <text x="56" y="196" font-size="16" font-weight="bold" fill="#5E6873">ALL STAGE ONE RESPONSES</text>
+    <text x="56" y="266" font-family="Cambria" font-size="60" font-weight="bold" fill="#1F4E79">42%</text>
+    <text x="178" y="266" font-size="22" fill="#1B2A3A">upheld</text>
+    <text x="56" y="306" font-size="22" fill="#3A4654">271 of the 647 complaints<tspan x="56" dy="30">answered in the year</tspan></text>
+    <rect x="56" y="360" width="144.08" height="18" fill="#1F4E79"/>
+    <rect x="200.08" y="360" width="176.52" height="18" fill="#A9BCD0"/>
+    <rect x="376.6" y="360" width="23.4" height="18" fill="#D9D4CA"/>
+    <g font-size="16" fill="#3A4654">
+      <text x="56" y="402">Upheld 42%</text>
+      <text x="206" y="402">Not upheld 51%</text>
+      <text x="400" y="402" text-anchor="end">Other 7%</text>
+    </g>
+  </g>
+  <g id="directorate-callouts" data-pptx-bounds="56 450 344 190">
+    <line x1="56" y1="454" x2="400" y2="454" stroke="#CFC8BB" stroke-width="1"/>
+    <text font-size="16" fill="#3A4654"><tspan x="56" y="482" font-weight="bold" fill="#1B2A3A">Most upheld</tspan><tspan x="56" dy="24">Neighbourhood &amp; Enforcement: 97 (41%)</tspan><tspan x="56" dy="24">Communities, Customer &amp;</tspan><tspan x="56" dy="24">Commercial: 64 (50%)</tspan></text>
+    <text font-size="16" fill="#3A4654"><tspan x="56" y="590" font-weight="bold" fill="#1B2A3A">Highest upheld rate</tspan><tspan x="56" dy="24">Policy &amp; Governance: 63% (5 complaints)</tspan></text>
+  </g>
+  <g id="p06-outcomes-directorate" data-pptx-replace-with="chart" data-pptx-bounds="430 176 794 460" data-pptx-fallback-sha256="dbf39d22b7c1c9b32c49a7a086991caed3dd3a574f6f69316906d8c3e7ed05c2">
+    <metadata type="application/json">{"name": "p06-outcomes-directorate", "type": "bar", "grouping": "stacked", "x": 430, "y": 176, "width": 794, "height": 460, "plot_area": {"x": 780, "y": 214, "width": 420, "height": 416}, "categories": ["Neighbourhood &amp; Enforcement Services", "Communities, Customer &amp; Commercial Services", "Education &amp; Skills", "Children's Safeguarding &amp; Family Support", "Cross Portfolio", "Finance &amp; Human Resources", "Prosperity &amp; Investment", "Housing, Employment &amp; Infrastructure", "Adult Social Care", "Policy &amp; Governance", "Health &amp; Wellbeing", "Corporate Communications"], "series": [{"name": "Upheld", "values": [97, 64, 22, 19, 26, 14, 12, 6, 5, 5, 1, null], "data_labels": {"show_value": true, "position": "center", "font_size": 14, "bold": true, "color": "#FFFFFF", "points": [{"idx": 7, "delete": true}, {"idx": 8, "delete": true}, {"idx": 9, "delete": true}, {"idx": 10, "delete": true}, {"idx": 11, "delete": true}]}}, {"name": "Not upheld", "values": [119, 55, 29, 25, 16, 23, 26, 27, 4, 3, 3, 2]}, {"name": "Other", "values": [21, 8, 2, 3, 3, 2, 1, 2, null, null, 1, 1]}], "axes": {"category": {"font_size": 14}, "value": {"minimum": 0, "maximum": 250, "visible": false, "major_gridlines": false}}, "show_legend": true, "legend_position": "top", "style": {"font_family": "Segoe UI", "axis_font_size": 14, "legend_font_size": 14, "colors": ["#1F4E79", "#A9BCD0", "#D9D4CA"], "axis_color": "#8A8F96", "text_color": "#3A4654"}}</metadata>
+    <g id="p06-legend" font-size="14" fill="#3A4654">
+      <rect x="780" y="184" width="14" height="14" fill="#1F4E79"/>
+      <text x="800" y="196">Upheld</text>
+      <rect x="870" y="184" width="14" height="14" fill="#A9BCD0"/>
+      <text x="890" y="196">Not upheld</text>
+      <rect x="984" y="184" width="14" height="14" fill="#D9D4CA"/>
+      <text x="1004" y="196">Other</text>
+    </g>
+    <g id="p06-outcomes-directorate-chartArea">
+      <line id="p06-axis" x1="780" y1="214" x2="780" y2="630" stroke="#8A8F96" stroke-width="1.5"/>
+      <!-- chart-plot-area: object=p06-outcomes-directorate | 780,214,1200,630 -->
+      <g id="p06-upheld" fill="#1F4E79">
+        <rect x="780" y="220.33" width="162.96" height="22"/>
+        <rect x="780" y="255" width="107.52" height="22"/>
+        <rect x="780" y="289.67" width="36.96" height="22"/>
+        <rect x="780" y="324.33" width="31.92" height="22"/>
+        <rect x="780" y="359" width="43.68" height="22"/>
+        <rect x="780" y="393.67" width="23.52" height="22"/>
+        <rect x="780" y="428.33" width="20.16" height="22"/>
+        <rect x="780" y="463" width="10.08" height="22"/>
+        <rect x="780" y="497.67" width="8.4" height="22"/>
+        <rect x="780" y="532.33" width="8.4" height="22"/>
+        <rect x="780" y="567" width="1.68" height="22"/>
+      </g>
+      <g id="p06-not-upheld" fill="#A9BCD0">
+        <rect x="942.96" y="220.33" width="199.92" height="22"/>
+        <rect x="887.52" y="255" width="92.4" height="22"/>
+        <rect x="816.96" y="289.67" width="48.72" height="22"/>
+        <rect x="811.92" y="324.33" width="42" height="22"/>
+        <rect x="823.68" y="359" width="26.88" height="22"/>
+        <rect x="803.52" y="393.67" width="38.64" height="22"/>
+        <rect x="800.16" y="428.33" width="43.68" height="22"/>
+        <rect x="790.08" y="463" width="45.36" height="22"/>
+        <rect x="788.4" y="497.67" width="6.72" height="22"/>
+        <rect x="788.4" y="532.33" width="5.04" height="22"/>
+        <rect x="781.68" y="567" width="5.04" height="22"/>
+        <rect x="780" y="601.67" width="3.36" height="22"/>
+      </g>
+      <g id="p06-other" fill="#D9D4CA">
+        <rect x="1142.88" y="220.33" width="35.28" height="22"/>
+        <rect x="979.92" y="255" width="13.44" height="22"/>
+        <rect x="865.68" y="289.67" width="3.36" height="22"/>
+        <rect x="853.92" y="324.33" width="5.04" height="22"/>
+        <rect x="850.56" y="359" width="5.04" height="22"/>
+        <rect x="842.16" y="393.67" width="3.36" height="22"/>
+        <rect x="843.84" y="428.33" width="1.68" height="22"/>
+        <rect x="835.44" y="463" width="3.36" height="22"/>
+        <rect x="786.72" y="567" width="1.68" height="22"/>
+        <rect x="783.36" y="601.67" width="1.68" height="22"/>
+      </g>
+      <g font-size="14" fill="#3A4654" text-anchor="end">
+        <text x="770" y="236.33">Neighbourhood &amp; Enforcement Services</text>
+        <text x="770" y="271">Communities, Customer &amp; Commercial Services</text>
+        <text x="770" y="305.67">Education &amp; Skills</text>
+        <text x="770" y="340.33">Children's Safeguarding &amp; Family Support</text>
+        <text x="770" y="375">Cross Portfolio</text>
+        <text x="770" y="409.67">Finance &amp; Human Resources</text>
+        <text x="770" y="444.33">Prosperity &amp; Investment</text>
+        <text x="770" y="479">Housing, Employment &amp; Infrastructure</text>
+        <text x="770" y="513.67">Adult Social Care</text>
+        <text x="770" y="548.33">Policy &amp; Governance</text>
+        <text x="770" y="583">Health &amp; Wellbeing</text>
+        <text x="770" y="617.67">Corporate Communications</text>
+      </g>
+      <g font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+        <text x="861.48" y="236.33">97</text>
+        <text x="833.76" y="271">64</text>
+        <text x="798.48" y="305.67">22</text>
+        <text x="795.96" y="340.33">19</text>
+        <text x="801.84" y="375">26</text>
+        <text x="791.76" y="409.67">14</text>
+        <text x="790.08" y="444.33">12</text>
+      </g>
+    </g>
+  </g>
+  <g id="other-definition" data-pptx-bounds="430 640 794 26">
+    <text x="430" y="658" font-size="14" fill="#5E6873">Other = service resolved, dealt with through courts, out of jurisdiction or withdrawn.</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — Chart 7 (Corporate Complaints Outcomes 2023/24); Stage One Complaint outcomes</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">6</text>
+  </g>
+</svg>

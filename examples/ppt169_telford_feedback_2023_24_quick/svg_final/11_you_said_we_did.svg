@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF" />
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z" />
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">3 · VOICES</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1" />
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">Complaints are turning into specific fixes</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">Four of the 13 “You said, We did” changes the report lists for 2023/24.</text>
+  </g>
+  <g id="p11-you-said-we-did" data-pptx-replace-with="table" data-pptx-bounds="56 186 804 320" data-pptx-fallback-sha256="8f7aaa40dc8260a0e42fecf1c729f35d340e4068a1c92e1b67392f98bc669e6d">
+    <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "p11-you-said-we-did", "x": 56, "y": 186, "width": 804, "height": 320, "column_widths": [404, 400], "row_heights": [40, 70, 70, 70, 70], "columns": [{"text": "YOU SAID", "align": "l", "bold": true}, {"text": "WE DID", "align": "l", "bold": true}], "rows": [[{"text": "Some customers reported a delay in receiving death certificates by post."}, {"text": "Death certificates are now sent by First Class post."}], [{"text": "Healthy Lifestyle customers asked for appointments after 5pm."}, {"text": "Extended evening clinic hours are now available throughout the week."}], [{"text": "Leisure customers receiving Personal Independence Payment asked for concessions."}, {"text": "The Concessionary Policy now includes customers receiving that payment."}], [{"text": "Bowring Park parking information missed the newer car park by the tennis courts."}, {"text": "The website has been updated to reflect this information."}]], "defaults": {"cell": {"valign": "middle", "padding": {"left": 16, "right": 16, "top": 6, "bottom": 6}, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#CFC8BB", "width": 1}}}}, "style": {"font_family": "Segoe UI", "font_size": 16, "header_font_size": 14, "header_fill": "#1F4E79", "header_text": "#FFFFFF", "body_text": "#1B2A3A", "band_row": false}}</metadata>
+    <rect x="56" y="186" width="804" height="40" fill="#1F4E79" />
+    <g stroke="#CFC8BB" stroke-width="1">
+      <line x1="56" y1="296" x2="860" y2="296" />
+      <line x1="56" y1="366" x2="860" y2="366" />
+      <line x1="56" y1="436" x2="860" y2="436" />
+      <line x1="56" y1="506" x2="860" y2="506" />
+    </g>
+    <g font-size="14" font-weight="bold" fill="#FFFFFF">
+      <text x="72" y="211">YOU SAID</text>
+      <text x="476" y="211">WE DID</text>
+    </g>
+    <g font-size="16" fill="#1B2A3A">
+      <text x="72" y="256">Some customers reported a delay in </text><text x="72" y="278">receiving death certificates by post.</text><text x="476" y="256">Death certificates are now sent by </text><text x="476" y="278">First Class post.</text><text x="72" y="326">Healthy Lifestyle customers asked for </text><text x="72" y="348">appointments after 5pm.</text><text x="476" y="326">Extended evening clinic hours are now </text><text x="476" y="348">available throughout the week.</text><text x="72" y="396">Leisure customers receiving Personal </text><text x="72" y="418">Independence Payment asked for concessions.</text><text x="476" y="396">The Concessionary Policy now includes </text><text x="476" y="418">customers receiving that payment.</text><text x="72" y="466">Bowring Park parking information missed </text><text x="72" y="488">the newer car park by the tennis courts.</text><text x="476" y="466">The website has been updated to reflect </text><text x="476" y="488">this information.</text></g>
+  </g>
+  <g id="more-examples" data-pptx-bounds="56 522 804 120">
+    <text font-size="16" fill="#3A4654" x="56" y="550">Learning from complaints also brought a lowered accessible desk and automatic doors</text><text font-size="16" fill="#3A4654" x="56" y="574">at Darby House Reception, twice-daily checks on postal-vote requests, and conflict</text><text font-size="16" fill="#3A4654" x="56" y="598">resolution training for the Neighbourhood Enforcement Team.</text><text x="56" y="628" font-size="16" fill="#3A4654">More examples: <a href="http://www.telford.gov.uk/yousaidwedid"><tspan font-weight="bold" fill="#1F4E79">www.telford.gov.uk/yousaidwedid</tspan></a></text>
+  </g>
+  <g id="remedies" data-pptx-bounds="900 186 324 456">
+    <text x="900" y="204" font-size="16" font-weight="bold" fill="#5E6873">HOW COMPLAINTS WERE PUT RIGHT</text>
+    <text x="900" y="228" font-size="14" fill="#5E6873">Share of remedies recorded, 2023/24</text>
+    <line x1="900" y1="242" x2="1224" y2="242" stroke="#CFC8BB" stroke-width="1" />
+    <g font-size="16" fill="#1B2A3A">
+      <text x="900" y="276">Explanation, no remedy required</text>
+      <text x="900" y="346">Explanation and apology</text>
+      <text x="900" y="416">Information provided</text>
+      <text x="900" y="486">Apology and service provided</text>
+    </g>
+    <g fill="#1F4E79">
+      <rect x="900" y="288" width="246" height="12" />
+      <rect x="900" y="358" width="144" height="12" />
+      <rect x="900" y="428" width="78" height="12" />
+      <rect x="900" y="498" width="48" height="12" />
+    </g>
+    <g font-size="16" font-weight="bold" fill="#1B2A3A">
+      <text x="1156" y="300">41%</text>
+      <text x="1054" y="370">24%</text>
+      <text x="988" y="440">13%</text>
+      <text x="958" y="510">8%</text>
+    </g>
+    <line x1="900" y1="540" x2="1224" y2="540" stroke="#CFC8BB" stroke-width="1" />
+    <text font-size="16" fill="#3A4654" x="900" y="568">All <tspan font-weight="bold" fill="#1B2A3A">271</tspan> complaints where fault</text><text font-size="16" fill="#3A4654" x="900" y="592">was found were reviewed by the</text><text font-size="16" fill="#3A4654" x="900" y="616">Customer Relationship team.</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — You said, We did; Learning and outcomes; Chart 11 (Complaint Remedies 2023/24)</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">11</text>
+  </g>
+</svg>

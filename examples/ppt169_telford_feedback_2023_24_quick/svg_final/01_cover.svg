@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="cover">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF" />
+  <g id="cover-field" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="760 0 520 720" data-pptx-av-adj="val 17308" fill="#1F4E79" stroke="none">
+<path d="M 760 0 L 1190 0 L 1280 90 L 1280 720 L 760 720 Z" />
+</g>
+  <g id="council-logo" data-pptx-bounds="56 56 231 40">
+    <image href="../images/image_001.emf" x="56" y="56" width="231" height="40" preserveAspectRatio="xMinYMid meet" />
+  </g>
+  <g id="title-block" data-pptx-bounds="56 226 700 290">
+    <text x="56" y="252" font-size="14" font-weight="bold" fill="#B83B26">BRIEFING FOR THE SCRUTINY COMMITTEE</text>
+    <text font-weight="bold" font-size="60" font-family="Cambria" fill="#1B2A3A" x="56" y="330">Corporate Feedback</text><text font-weight="bold" font-size="60" font-family="Cambria" fill="#1B2A3A" x="56" y="400">Report 2023/24</text><text font-size="24" fill="#3A4654" x="56" y="458">More complaints, faster answers —</text><text font-size="24" fill="#3A4654" x="56" y="494">and a tighter 10-day clock from May 2024</text></g>
+  <g id="cover-period" data-pptx-bounds="56 612 700 72">
+    <line x1="56" y1="620" x2="700" y2="620" stroke="#CFC8BB" stroke-width="1" />
+    <text font-size="16" fill="#5E6873" x="56" y="648">Telford &amp; Wrekin Council · Customer Relationship team</text><text font-size="16" fill="#5E6873" x="56" y="670">Reporting year 1 April 2023 – 31 March 2024</text></g>
+  <g id="hero-complaints" data-pptx-bounds="808 150 420 196" fill="#FFFFFF">
+    <text x="808" y="252" font-family="Cambria" font-size="88" font-weight="bold">659</text>
+    <text font-size="22" x="808" y="296">corporate Stage One complaints</text><text font-size="22" x="808" y="328" fill="#C9D6E3">up from 601 in 2022/23</text></g>
+  <line id="hero-divider" data-pptx-role="decoration" x1="808" y1="372" x2="1224" y2="372" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1" />
+  <g id="hero-timeliness" data-pptx-bounds="808 396 420 196" fill="#FFFFFF">
+    <text x="808" y="498" font-family="Cambria" font-size="88" font-weight="bold">87%</text>
+    <text font-size="22" x="808" y="542">answered within 15 working days</text><text font-size="22" x="808" y="574" fill="#C9D6E3">up from 80% in 2022/23</text></g>
+  <g id="cover-source" data-pptx-bounds="808 650 420 36">
+    <text x="808" y="676" font-size="14" fill="#C9D6E3">Source: Corporate Feedback Report 2023/24</text>
+  </g>
+</svg>

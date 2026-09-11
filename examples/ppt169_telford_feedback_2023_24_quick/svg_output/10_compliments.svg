@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <defs>
+    <marker id="chainArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#8A8F96"/>
+    </marker>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF"/>
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z"/>
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">3 · VOICES</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1"/>
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">Compliments have more than doubled in five years</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">639 compliments in 2023/24 — 13% more than the 566 received in 2022/23.</text>
+  </g>
+  <g id="compliments-hero" data-pptx-bounds="56 186 564 250">
+    <text x="56" y="300" font-family="Cambria" font-size="120" font-weight="bold" fill="#1F4E79">639</text>
+    <text x="56" y="340" font-size="22" fill="#1B2A3A">compliments received in 2023/24</text>
+    <g stroke="#8A8F96" stroke-width="1.5">
+      <line x1="146" y1="384" x2="220" y2="384" marker-end="url(#chainArrow)"/>
+      <line x1="326" y1="384" x2="400" y2="384" marker-end="url(#chainArrow)"/>
+    </g>
+    <g font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">
+      <text x="56" y="397">290</text>
+      <text x="236" y="397">566</text>
+      <text x="416" y="397" fill="#1F4E79">639</text>
+    </g>
+    <g font-size="16" fill="#5E6873">
+      <text x="56" y="424">2019/20</text>
+      <text x="236" y="424">2022/23</text>
+      <text x="416" y="424">2023/24</text>
+    </g>
+  </g>
+  <g id="most-complimented" data-pptx-bounds="56 452 564 190">
+    <line x1="56" y1="456" x2="600" y2="456" stroke="#CFC8BB" stroke-width="1"/>
+    <text x="56" y="486" font-size="16" font-weight="bold" fill="#5E6873">MOST COMPLIMENTED DIRECTORATES</text>
+    <g font-size="18" fill="#1B2A3A">
+      <text x="56" y="522">Neighbourhood &amp; Enforcement Services</text>
+      <text x="56" y="558">Health &amp; Wellbeing</text>
+      <text x="56" y="594">Adult Social Care <tspan font-size="16" fill="#5E6873">(34 in 2022/23)</tspan></text>
+    </g>
+    <g font-size="18" font-weight="bold" fill="#1F4E79" text-anchor="end">
+      <text x="600" y="522">176</text>
+      <text x="600" y="558">133</text>
+      <text x="600" y="594">103</text>
+    </g>
+  </g>
+  <g id="pull-quote" data-pptx-bounds="660 166 564 270">
+    <text x="660" y="276" font-family="Cambria" font-size="120" font-weight="bold" fill="#B83B26">“</text>
+    <text x="730" y="236" font-family="Cambria" font-size="22" font-style="italic" fill="#1B2A3A">You were friendly, approachable and<tspan x="730" dy="32">very professional, always transparent</tspan><tspan x="730" dy="32">when giving us the facts.</tspan></text>
+    <text x="730" y="338" font-size="16" fill="#5E6873">— compliment to Adult Social Care, 2023/24</text>
+  </g>
+  <g id="customer-insight" data-pptx-bounds="660 452 564 190">
+    <line x1="660" y1="456" x2="1224" y2="456" stroke="#CFC8BB" stroke-width="1"/>
+    <text x="660" y="486" font-size="16" font-weight="bold" fill="#5E6873">CUSTOMER INSIGHT PROGRAMME</text>
+    <g font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">
+      <text x="660" y="540">214</text>
+      <text x="806" y="540">72</text>
+      <text x="952" y="540">87%</text>
+      <text x="1098" y="540">71.2</text>
+    </g>
+    <g font-size="14" fill="#3A4654">
+      <text x="660" y="566">Mystery Customer<tspan x="660" dy="20">volunteers (+15%)</tspan></text>
+      <text x="806" y="566">assignments<tspan x="806" dy="20">since April 2023</tspan></text>
+      <text x="952" y="566">satisfaction<tspan x="952" dy="20">across them</tspan></text>
+      <text x="1098" y="566">UKCSI score<tspan x="1098" dy="20">(councils: 64.4)</tspan></text>
+    </g>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1100 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — Compliments; Chart 3 (compliments by directorate); Customer Insight Programme; Highlights 2023/24</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">10</text>
+  </g>
+</svg>

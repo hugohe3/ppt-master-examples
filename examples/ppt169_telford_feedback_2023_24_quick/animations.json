@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "defaults": {
+    "animation": { "trigger": "after-previous", "duration": 0.5 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "hero-complaints": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "hero-timeliness": { "effect": "entrance_fade", "order": 2, "duration": 0.6 }
+      }
+    },
+    "02_year_in_brief": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "01_cover",
+        "pairs": {
+          "stage-one-volume": { "from": "hero-complaints", "to": "kpi-volume" },
+          "on-time-share": { "from": "hero-timeliness", "to": "kpi-timeliness" }
+        }
+      },
+      "groups": {
+        "kpi-speed": { "effect": "entrance_fade", "order": 1 },
+        "kpi-escalation": { "effect": "entrance_fade", "order": 2 }
+      }
+    },
+    "03_volume_trend": {
+      "groups": {
+        "p03-stage1-trend": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 1, "duration": 0.8 }
+      }
+    },
+    "04_directorates": {
+      "groups": {
+        "p04-directorate-bar": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.8 }
+      }
+    },
+    "05_themes": {
+      "groups": {
+        "p05-upheld-themes": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.8 }
+      }
+    },
+    "06_outcomes": {
+      "groups": {
+        "overall-outcome": { "effect": "entrance_fade", "order": 1 },
+        "p06-outcomes-directorate": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "duration": 0.8 }
+      }
+    },
+    "07_timeliness": {
+      "groups": {
+        "p07-timeliness-bar": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.8 }
+      }
+    },
+    "08_stage_two": {
+      "groups": {
+        "p08-escalated-node": { "effect": "entrance_fade", "order": 1 },
+        "escalated-text": { "effect": "entrance_fade", "order": 2, "trigger": "with-previous" },
+        "edges-split-1": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "duration": 0.4 },
+        "open-node": { "effect": "entrance_fade", "order": 4 },
+        "p08-completed-node": { "effect": "entrance_fade", "order": 5, "trigger": "with-previous" },
+        "completed-text": { "effect": "entrance_fade", "order": 6, "trigger": "with-previous" },
+        "edges-split-2": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 7, "duration": 0.4 },
+        "p08-closed-node": { "effect": "entrance_fade", "order": 8 },
+        "closed-text": { "effect": "entrance_fade", "order": 9, "trigger": "with-previous" },
+        "p08-full-node": { "effect": "entrance_fade", "order": 10, "trigger": "with-previous" },
+        "full-text": { "effect": "entrance_fade", "order": 11, "trigger": "with-previous" }
+      }
+    },
+    "09_member_enquiries": {
+      "groups": {
+        "p09-member-enquiries": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "10_compliments": {
+      "groups": {
+        "compliments-hero": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "11_you_said_we_did": {
+      "groups": {
+        "p11-you-said-we-did": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "12_external_checks": {
+      "groups": {
+        "oflog-metric": { "effect": "entrance_fade", "order": 1 },
+        "lgsco": { "effect": "entrance_fade", "order": 2 },
+        "tenants": { "effect": "entrance_fade", "order": 3 }
+      }
+    },
+    "13_next_year": {
+      "groups": {
+        "test-numbers": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "timeline": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "duration": 0.8 }
+      }
+    }
+  }
+}

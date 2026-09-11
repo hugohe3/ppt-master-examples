@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F4EF" />
+  <g id="chrome-tab" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="56 26 150 28" data-pptx-av-adj="val 35714" fill="#1F4E79" stroke="none">
+<path d="M 56 26 L 196 26 L 206 36 L 206 54 L 56 54 Z" />
+</g>
+  <g id="chrome" data-pptx-role="chrome" data-pptx-bounds="56 24 1168 34">
+    <text x="70" y="45" font-size="14" font-weight="bold" fill="#FFFFFF">2 · HANDLING</text>
+    <line x1="218" y1="40" x2="1224" y2="40" stroke="#CFC8BB" stroke-width="1" />
+  </g>
+  <g id="title" data-pptx-bounds="56 70 1168 88">
+    <text x="56" y="110" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">Stage Two is where the pressure moved</text>
+    <text x="56" y="148" font-size="24" fill="#3A4654">Escalations rose 71%; full investigations more than doubled and took longer.</text>
+  </g>
+  <g id="p08-escalated-node" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="56 290 250 190" data-pptx-av-adj="val 25000" fill="#1F4E79" stroke="none">
+<path d="M 56 290 L 258.5 290 L 306 385 L 258.5 480 L 56 480 Z" />
+</g>
+  <g id="escalated-text" data-pptx-bounds="56 290 244 190" fill="#FFFFFF">
+    <text x="80" y="358" font-family="Cambria" font-size="60" font-weight="bold">70</text>
+    <text font-size="22" x="80" y="396">escalated to</text><text font-size="22" x="80" y="424">Stage Two</text><text x="80" y="458" font-size="16" fill="#C9D6E3">41 in 2022/23 (+71%)</text>
+  </g>
+  <g id="edges-split-1" data-pptx-bounds="306 246 52 230" stroke="#8A8F96" stroke-width="2">
+    <line x1="306" y1="385" x2="334" y2="385" />
+    <line x1="334" y1="251" x2="334" y2="466" />
+    <line x1="334" y1="251" x2="358" y2="251" />
+    <line x1="334" y1="466" x2="358" y2="466" />
+  </g>
+  <g id="open-node" data-pptx-bounds="360 196 262 112">
+    <rect x="360" y="196" width="260" height="110" fill="none" stroke="#8A8F96" stroke-width="1.5" stroke-dasharray="6,4" />
+    <text x="380" y="240" font-family="Cambria" font-size="36" font-weight="bold" fill="#1B2A3A">13</text>
+    <text font-size="16" fill="#3A4654" x="380" y="268">still under investigation</text><text font-size="16" fill="#3A4654" x="380" y="290">at 31 March 2024</text></g>
+  <g id="p08-completed-node" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="360 416 260 100" data-pptx-av-adj="val 14000" fill="#E3E9F0" stroke="none">
+<path d="M 360 416 L 606 416 L 620 430 L 620 516 L 360 516 Z" />
+</g>
+  <g id="completed-text" data-pptx-bounds="360 416 260 100">
+    <text x="380" y="462" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">57</text>
+    <text x="380" y="492" font-size="16" fill="#3A4654">investigations completed</text>
+  </g>
+  <g id="edges-split-2" data-pptx-bounds="620 395 58 180" stroke="#8A8F96" stroke-width="2">
+    <line x1="620" y1="466" x2="650" y2="466" />
+    <line x1="650" y1="397" x2="650" y2="564" />
+    <line x1="650" y1="397" x2="678" y2="397" />
+    <line x1="650" y1="564" x2="678" y2="564" />
+  </g>
+  <g id="rise-sources" data-pptx-bounds="680 196 544 116">
+    <text x="680" y="214" font-size="16" font-weight="bold" fill="#5E6873">WHERE THE RISE CAME FROM (2022/23 IN BRACKETS)</text>
+    <line x1="680" y1="226" x2="1224" y2="226" stroke="#CFC8BB" stroke-width="1" />
+    <g font-size="16" fill="#3A4654">
+      <text x="680" y="252">Neighbourhood &amp; Enforcement: <tspan font-weight="bold" fill="#1B2A3A">15</tspan> (4)</text>
+      <text x="680" y="276">Education &amp; Skills: <tspan font-weight="bold" fill="#1B2A3A">11</tspan> (3), all Special Educational Needs</text>
+      <text x="680" y="300">Health &amp; Wellbeing: no case escalated to Stage Two</text>
+    </g>
+  </g>
+  <g id="p08-closed-node" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="680 344 544 106" data-pptx-av-adj="val 14000" fill="#E3E9F0" stroke="none">
+<path d="M 680 344 L 1209.16 344 L 1224 358.84 L 1224 450 L 680 450 Z" />
+</g>
+  <g id="closed-text" data-pptx-bounds="680 344 544 106">
+    <text x="700" y="410" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">15</text>
+    <text font-size="16" fill="#3A4654" x="770" y="378">closed without a full investigation — already</text><text font-size="16" fill="#3A4654" x="770" y="400">addressed at Stage One, or no added value;</text><text font-size="16" fill="#3A4654" x="770" y="422"><tspan>answered in <tspan font-weight="bold" fill="#1B2A3A">8</tspan> working days on average (aim: 10)</tspan></text></g>
+  <g id="p08-full-node" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="680 486 544 156" data-pptx-av-adj="val 10000" fill="#E3E9F0" stroke="none">
+<path d="M 680 486 L 1208.4 486 L 1224 501.6 L 1224 642 L 680 642 Z" />
+</g>
+  <g id="full-text" data-pptx-bounds="680 486 544 156">
+    <text x="700" y="532" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">42</text>
+    <text x="770" y="530" font-size="22" fill="#1B2A3A">full investigations (19 in 2022/23)</text>
+    <line x1="700" y1="552" x2="1204" y2="552" stroke="#CFC8BB" stroke-width="1" />
+    <text x="700" y="596" font-family="Cambria" font-size="36" font-weight="bold" fill="#1F4E79">50%</text>
+    <text x="700" y="622" font-size="16" fill="#3A4654">upheld</text>
+    <text x="850" y="596" font-family="Cambria" font-size="36" font-weight="bold" fill="#B83B26">43 days</text>
+    <text x="850" y="622" font-size="16" fill="#3A4654">average; 28 in 2022/23</text>
+    <text x="1040" y="596" font-family="Cambria" font-size="36" font-weight="bold" fill="#B83B26">4</text>
+    <text x="1040" y="622" font-size="16" fill="#3A4654">over the 65-day limit</text>
+  </g>
+  <g id="baseline-note" data-pptx-bounds="56 646 1168 26">
+    <text x="56" y="664" font-size="14" fill="#5E6873">Data note: the report gives the 2022/23 Stage Two figure as 41 (Stage Two section, used here) and as 44 (Stage One section).</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 676 1060 26">
+    <text x="56" y="696" font-size="14" fill="#5E6873">Source: Corporate Feedback Report 2023/24 — Corporate Stage Two complaints; Chart 10 (Stage Two complaints by directorate)</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="1164 676 60 26">
+    <text x="1224" y="696" font-size="14" fill="#5E6873" text-anchor="end">8</text>
+  </g>
+</svg>
