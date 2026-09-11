@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <defs>
+    <clipPath id="bulteokClip">
+      <circle cx="360" cy="410" r="200"/>
+    </clipPath>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <g id="header" data-pptx-bounds="56 66 1160 100">
+    <text x="64" y="92" font-size="18" fill="#3F8C8A">1 · 물질은 어떻게 조직되는가</text>
+    <text x="64" y="148" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A">불턱은 탈의실이자 학교이자 회의장이었다</text>
+  </g>
+  <g id="surface-line" data-pptx-bounds="0 176 1280 10">
+    <line x1="0" y1="181" x2="1280" y2="181" stroke="#3F8C8A" stroke-width="1.5"/>
+  </g>
+  <g id="bulteok-image" data-pptx-bounds="146 196 502 428">
+    <image href="../images/bulteok_ring_duo.jpg" x="160" y="210" width="400" height="400" preserveAspectRatio="xMidYMid slice" clip-path="url(#bulteokClip)"/>
+    <circle cx="360" cy="410" r="212" fill="none" stroke="#3F8C8A" stroke-width="1.5"/>
+    <line x1="510" y1="260" x2="644" y2="260" stroke="#3F8C8A" stroke-width="1.5"/>
+    <line x1="562" y1="346" x2="644" y2="346" stroke="#3F8C8A" stroke-width="1.5"/>
+    <line x1="571" y1="432" x2="644" y2="432" stroke="#3F8C8A" stroke-width="1.5"/>
+  </g>
+  <g id="role-dressing" data-pptx-bounds="652 232 564 68">
+    <use data-icon="tabler-outline/flame" x="656" y="244" width="32" height="32" fill="#E0662B" stroke-width="2"/>
+    <text x="700" y="268" font-size="28" font-weight="bold" fill="#123B4A">탈의실</text>
+    <text x="700" y="294" font-size="18" fill="#1E2A30">옷을 갈아입고 가운데 불을 피워 몸을 덥히던 곳</text>
+  </g>
+  <g id="role-school" data-pptx-bounds="652 318 564 68">
+    <use data-icon="tabler-outline/book" x="656" y="330" width="32" height="32" fill="#3F8C8A" stroke-width="2"/>
+    <text x="700" y="354" font-size="28" font-weight="bold" fill="#123B4A">학교</text>
+    <text x="700" y="380" font-size="18" fill="#1E2A30">물질 지식·요령·바다밭 위치를 전수하고 익히던 곳</text>
+  </g>
+  <g id="role-council" data-pptx-bounds="652 404 564 68">
+    <use data-icon="tabler-outline/users-group" x="656" y="416" width="32" height="32" fill="#3F8C8A" stroke-width="2"/>
+    <text x="700" y="440" font-size="28" font-weight="bold" fill="#123B4A">회의장</text>
+    <text x="700" y="466" font-size="18" fill="#1E2A30">서로 돕기를 다지고 의사결정을 하던 곳</text>
+  </g>
+  <g id="remaining" data-pptx-bounds="650 500 566 152">
+    <text x="656" y="522" font-size="18" fill="#5B6970">현재 남아 있는 불턱</text>
+    <text x="650" y="606" font-size="96" font-weight="bold" fill="#123B4A">70여 개</text>
+    <text x="656" y="640" font-size="18" fill="#5B6970">1985년 전후 현대식 탈의장이 불턱의 역할을 대신하게 됨</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">출처: 제주해녀박물관 「해녀소개」 · 이미지: AI 생성 판화(듀오톤 처리)</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">06 / 15</text>
+  </g>
+</svg>

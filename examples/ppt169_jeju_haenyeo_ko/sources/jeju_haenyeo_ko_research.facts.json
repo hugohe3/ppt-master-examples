@@ -1,0 +1,254 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "제주 해녀",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "UNESCO가 2016년 「제주해녀문화」를 인류무형문화유산 대표목록에 등재했다(결정문 11.COM 10.b.24).",
+      "source_title": "Culture of Jeju Haenyeo (women divers) — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "일부는 80대인 제주 해녀들은 산소마스크 없이 수심 10m까지 잠수하며, 하루 최대 7시간·연 90일 작업하고 한 번 잠수에 약 1분 숨을 참으며, 물 위로 올라올 때 독특한 소리를 낸다.",
+      "source_title": "Culture of Jeju Haenyeo (women divers) — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "해녀는 경험 수준에 따라 하군·중군·상군 세 집단으로 나뉘며, 상군이 다른 해녀들을 지도한다.",
+      "source_title": "Culture of Jeju Haenyeo (women divers) — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "물질 전 잠수굿으로 바다의 여신에게 안전과 풍어를 기원한다.",
+      "source_title": "Culture of Jeju Haenyeo (women divers) — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "해녀 지식은 가족, 학교, 어업권을 가진 지역 어촌계, 해녀회, 해녀학교, 해녀박물관을 통해 전승된다.",
+      "source_title": "Culture of Jeju Haenyeo (women divers) — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "제주해녀문화는 공동체 내 여성의 지위 향상에 기여했고, 친환경 방법과 공동체의 어업 관리 참여로 환경 지속가능성을 증진했다.",
+      "source_title": "Culture of Jeju Haenyeo (women divers) — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "'해녀'는 2017.05.01 국가무형유산으로 지정되었으며, 특정 보유자·보유단체를 인정하지 않는 공동체 종목이다.",
+      "source_title": "국가무형유산 해녀(海女) — 국가유산청 국가유산포털",
+      "source_url": "https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=127ZZ01320000",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "해녀 기록은 17세기 제주 관련 기록에 보이며, 물질은 다른 곳에서 찾아보기 어려운 전통 어로법이고 생태 민속지식과 동료 간 배려·협업이 축적되어 있다.",
+      "source_title": "국가무형유산 해녀(海女) 해설문 — 국가유산청 국가유산포털",
+      "source_url": "https://www.heritage.go.kr/DATA1/heritage/hub_img/html/cul_127ZZ01320000.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "해녀는 기계 장치 없이 맨몸과 호흡 조절만으로 바다에 들어가 해산물을 채취하는 것을 직업으로 하는 여성이며, 그 일을 '물질'이라 부른다. 해녀들은 바다밭을 단순 채취의 대상으로 보지 않고 끊임없이 가꾸어 공존하는 방식을 택했다.",
+      "source_title": "해녀소개 — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/haenyeo.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "숨비소리는 약 1~2분 잠수 후 물 위에서 숨을 고를 때 내는 '호오이' 소리다.",
+      "source_title": "해녀소개 — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/haenyeo.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "불턱은 옷을 갈아입고 쉬며 물질 지식을 전수하고 의사결정을 하는 돌담 공간으로 현재 70여 개가 남아 있고, 1985년 전후 현대식 탈의장이 그 역할을 대신하게 되었다.",
+      "source_title": "해녀소개 — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/haenyeo.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "지정 이력: 해녀노래 도 무형문화재 제1호(1971.8.26), 물옷과 물질도구 도 민속문화재 제10호(2008.12.4), 해녀 국가무형문화재 제132호(2017.5.1), 제주해녀어업 국가중요어업유산 제1호(2015.12.16), 제주해녀문화 유네스코 인류무형문화유산(2016.11.30).",
+      "source_title": "해녀소개 — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/haenyeo.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "출향해녀는 19세기 말부터 국내외로 나갔으며 1937년 기준 한반도 출가 2,801명, 일본 출가 1,601명이다.",
+      "source_title": "해녀소개 — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/haenyeo.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "1629년 이건의 「제주풍토기」에 해녀의 전복 채취가 기록되어 있고, 1702년 「탐라순력도」 〈병담병주〉에 물질하는 해녀가 그려져 있다.",
+      "source_title": "해녀소개 — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/haenyeo.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "해녀는 기량에 따라 상군·중군·하군(특출한 상군은 대상군)으로 나뉘며, 하군에서 출발해 상군이 되었다가 다시 하군으로 돌아오고, 중군에서 상군이 되지 못한 채 하군으로 돌아오는 경우도 있다. 상군은 다른 해녀가 들어가지 못하는 깊은 바다까지 물질한다.",
+      "source_title": "물질하는 여성 — 제주특별자치도 문화/역사",
+      "source_url": "https://www.jeju.go.kr/culture/folklore/samda/women/diverWomen.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "해녀는 수심 10m 이내 연안 어장에서 빗창 등의 도구로 소라·전복·성게·해조류 등을 채취하고, 가슴을 얹고 헤엄치거나 물 위에서 숨을 고를 때 쓰는 테왁과 채취물을 담는 그물주머니 망시리를 쓰며, 보통 15명 정도가 무리지어 조업하고 잠수 시간은 보통 1분 내외(2분 남짓도 있음)다.",
+      "source_title": "물질하는 여성 — 제주특별자치도 문화/역사",
+      "source_url": "https://www.jeju.go.kr/culture/folklore/samda/women/diverWomen.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "1970년 해녀 14,143명 중 60세 이상은 4.6%였고, 2006년 말 5,406명 중 60세 이상은 65.8%(3,557명)였다.",
+      "source_title": "물질하는 여성 — 제주특별자치도 문화/역사",
+      "source_url": "https://www.jeju.go.kr/culture/folklore/samda/women/diverWomen.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "연도별 해녀 수: 1970년 14,143명, 1980년 7,804명, 1990년 6,827명, 2000년 5,789명, 2010년 4,995명, 2013년 4,507명, 2015년 4,377명, 2016년 4,005명, 2017년 3,985명, 2018년 3,898명, 2019년 3,820명, 2020년 3,613명, 2021년 3,437명, 2022년 3,226명.",
+      "source_title": "2023년도 공유재산관리계획안(해녀의전당 건립사업) 심사보고서 — 제주특별자치도의회(2023.11.30 제출, 참고자료 제주특별자치도)",
+      "source_url": "https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A042087.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "2022년 말 현직 해녀 3,226명의 연령 구성: 30세 미만 4명, 30대 24명, 40대 63명, 50대 175명, 60대 870명, 70대 1,328명, 80세 이상 762명(70세 이상 64.8%, 2,090명).",
+      "source_title": "2023년도 공유재산관리계획안(해녀의전당 건립사업) 심사보고서 — 제주특별자치도의회(2023.11.30 제출, 참고자료 제주특별자치도)",
+      "source_url": "https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A042087.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "신규 해녀 어촌계 가입: 2015년 17명, 2016년 24명, 2017년 17명, 2018년 29명, 2019년 49명, 2020년 36명, 2021년 38명, 2022년 28명(합계 238명). 자연 감소 연 100여 명 대비 신규 가입 연 30여 명.",
+      "source_title": "2023년도 공유재산관리계획안(해녀의전당 건립사업) 심사보고서 — 제주특별자치도의회(2023.11.30 제출, 참고자료 제주특별자치도)",
+      "source_url": "https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A042087.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "사업부서는 신규 유입이 없다고 가정하면 2050년 해녀 수가 169명 수준(2020년 대비 5.2%)으로 줄 것으로 전망한다.",
+      "source_title": "2023년도 공유재산관리계획안(해녀의전당 건립사업) 심사보고서 — 제주특별자치도의회(2023.11.30 제출, 참고자료 제주특별자치도)",
+      "source_url": "https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A042087.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "2016~2023년 어촌계 가입 인원 217명 중 해녀학교 졸업생은 95명(44%)이다.",
+      "source_title": "2023년도 공유재산관리계획안(해녀의전당 건립사업) 심사보고서 — 제주특별자치도의회(2023.11.30 제출, 참고자료 제주특별자치도)",
+      "source_url": "https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A042087.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "신규 해녀에게 어촌계 가입비 1인 100만 원을 지원하고, 초기 정착지원금 월 50만 원을 3년간 지원한다(2022.12.30 조례 개정).",
+      "source_title": "2023년도 공유재산관리계획안(해녀의전당 건립사업) 심사보고서 — 제주특별자치도의회(2023.11.30 제출, 참고자료 제주특별자치도)",
+      "source_url": "https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A042087.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "현직 해녀 수: 2024년 말 2,623명, 2025년 말 2,371명(제주시 1,380명, 서귀포시 991명). 2025년 말 전직 해녀 5,111명.",
+      "source_title": "제주해녀 현황(2025년말 기준) — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/statistics.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "2025년 말 현직 해녀 연령별: 30세 미만 5명, 30~39세 25명, 40~49세 76명, 50~59세 129명, 60~69세 634명, 70~79세 1,075명, 80세 이상 427명.",
+      "source_title": "제주해녀 현황(2025년말 기준) — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/statistics.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "2023년 FAO가 「제주 해녀어업시스템」을 세계중요농업유산(GIAHS)으로 지정했다.",
+      "source_title": "HAENYEO – WOMEN OF THE SEA — FAO Digital Media Hub",
+      "source_url": "https://digital-media.fao.org/archive/HAENYEO---WOMEN-OF-THE-SEA-2A6XC5LG8V9J.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "FAO: 1970년대 14,000명이던 해녀는 현재 2,700여 명이며, 10명이 떠날 때 1명만 새로 들어온다.",
+      "source_title": "HAENYEO – WOMEN OF THE SEA — FAO Digital Media Hub",
+      "source_url": "https://digital-media.fao.org/archive/HAENYEO---WOMEN-OF-THE-SEA-2A6XC5LG8V9J.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "FAO 영상 속 해녀 증언: 수온 상승과 외래종으로 수확량이 예전의 절반 아래로 줄었다.",
+      "source_title": "FAO / HAENYEO WOMEN OF THE SEA — UNifeed, UN Media (2025-10-30)",
+      "source_url": "https://media.un.org/unifeed/en/asset/d348/d3486310",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "1970년대 1만 4천 명이던 해녀는 2019년 말 3,820명으로 줄었고 이 중 2,235명(58.5%)이 70세 이상이다.",
+      "source_title": "2023년도 공유재산관리계획안(해녀의전당 건립사업) 심사보고서 — 제주특별자치도의회(2023.11.30 제출, 참고자료 제주특별자치도)",
+      "source_url": "https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A042087.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "1970년 잠수어업인 14,143명의 연령 구성: 30세 미만 4,425명(31.3%), 30~49세 7,760명(54.9%), 50~59세 1,310명(9.2%), 60세 이상 648명(4.6%).",
+      "source_title": "물질하는 여성 — 제주특별자치도 문화/역사",
+      "source_url": "https://www.jeju.go.kr/culture/folklore/samda/women/diverWomen.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "빗창은 전복을 떼어내는 데 쓰이는 철제 도구이며, 1970년대 초부터 고무옷(잠수복)이 보급되었다.",
+      "source_title": "해녀소개 — 제주해녀박물관(제주특별자치도)",
+      "source_url": "https://www.jeju.go.kr/haenyeo/haenyeo/haenyeo.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    }
+  ]
+}

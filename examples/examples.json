@@ -2,11 +2,113 @@
   "version": 1,
   "updated": "2026-09-11",
   "stats": {
-    "examples": 46,
-    "pages": 653,
-    "templates": 46
+    "examples": 47,
+    "pages": 668,
+    "templates": 47
   },
   "projects": [
+    {
+      "id": "ppt169_jeju_haenyeo_ko",
+      "title": "제주 해녀",
+      "description": "公开讲座 deck 15 页 — 仓库首个韩文示例;输入只有题目,事实经 topic-research 取自济州海女博物馆、济州特别自治道海女统计、韩国国家遗产厅与 UNESCO / FAO 公开页面(6 个韩文网页与 1 份议会 PDF 经 source_to_md 转换),每个数字标出处与年份,自建框架标「정리」;「수심의 기록」方向:水面线贯穿全卷,同一批次丝网版画风 AI 插画 5 张(人物均为背影/剪影)+ 双色与降亮两种派生,圆形裁切与方向性 wash;海女人数、年龄构成、流入与减少 3 张原生图表与遗产指定年表 1 张原生表格,Batang / Malgun Gothic 韩文字体,主角进场动画与 2 组 Morph,11 条原生超链接,全卷韩文讲者备注,语言标签 ko-KR",
+      "icon": "🌊",
+      "color": "#12414F",
+      "style": "editorial",
+      "styleName": "Depth Record · 수심의 기록",
+      "desc": "A fifteen-page Korean public-lecture deck on the haenyeo, the free-diving women of Jeju — the first Korean example in the collection. The only input was the topic: facts came through topic research from the Jeju Haenyeo Museum, Jeju Special Self-Governing Province statistics, the Korea Heritage Service, and UNESCO and FAO pages (six Korean web pages and one council PDF converted by source_to_md), with every figure carrying its source and year and compiled framings marked 정리. A waterline runs through every page; five screen-print AI illustrations from one batch (figures seen from behind or in silhouette) with duotone and dimmed derivatives, a circular crop and directional washes; three native charts (diver numbers, age mix, entrants versus departures) and one native heritage-designation table, Batang and Malgun Gothic, hero entrances with two Morph pairs, eleven native hyperlinks, Korean speaker notes, and ko-KR language tags.",
+      "tags": [
+        "Culture",
+        "Korean",
+        "Heritage",
+        "Native Charts",
+        "Native Tables",
+        "Morph",
+        "AI Illustration"
+      ],
+      "isNew": true,
+      "folder": "ppt169_jeju_haenyeo_ko/svg_final",
+      "generatedAt": "2026-09-11",
+      "cover": "01_표지.svg",
+      "pptx": "examples/ppt169_jeju_haenyeo_ko/exports/ppt169_jeju_haenyeo_ko.pptx",
+      "pptxNative": "examples/ppt169_jeju_haenyeo_ko/exports/ppt169_jeju_haenyeo_ko_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_표지.svg",
+          "title": "표지",
+          "desc": "제주 해녀"
+        },
+        {
+          "file": "02_세_가지_질문.svg",
+          "title": "세 가지 질문",
+          "desc": "오늘은 세 가지 질문을 따라갑니다"
+        },
+        {
+          "file": "03_물질의_정의.svg",
+          "title": "물질의 정의",
+          "desc": "물질은 장비 없이 맨몸과 숨만으로 하는 일이다"
+        },
+        {
+          "file": "04_하루의_물질.svg",
+          "title": "하루의 물질",
+          "desc": "하루 최대 7시간, 한 해 90일 — 물질은 무리 지어 한다"
+        },
+        {
+          "file": "05_상군_중군_하군.svg",
+          "title": "상군·중군·하군",
+          "desc": "기량은 하군에서 상군으로, 다시 하군으로 돈다"
+        },
+        {
+          "file": "06_불턱.svg",
+          "title": "불턱",
+          "desc": "불턱은 탈의실이자 학교이자 회의장이었다"
+        },
+        {
+          "file": "07_바다밭.svg",
+          "title": "바다밭",
+          "desc": "바다밭은 함께 가꾸는 공유지다"
+        },
+        {
+          "file": "08_여섯_번의_지정.svg",
+          "title": "여섯 번의 지정",
+          "desc": "노래에서 어업 체계까지, 반세기 동안 여섯 번 지정되었다"
+        },
+        {
+          "file": "09_지정의_이유.svg",
+          "title": "지정의 이유",
+          "desc": "유네스코와 FAO가 본 것은 기술보다 공동체다"
+        },
+        {
+          "file": "10_해녀_수.svg",
+          "title": "해녀 수",
+          "desc": "55년 사이, 여섯 명 중 한 명만 바다에 남았다"
+        },
+        {
+          "file": "11_연령_구성.svg",
+          "title": "연령 구성",
+          "desc": "1970년 4.6%였던 60세 이상이 2025년에는 90.1%다"
+        },
+        {
+          "file": "12_유입과_감소.svg",
+          "title": "들어오는 사람과 떠나는 사람",
+          "desc": "들어오는 사람은 한 해 30여 명, 떠나는 사람은 100여 명이다"
+        },
+        {
+          "file": "13_전승_장치.svg",
+          "title": "전승 장치",
+          "desc": "해녀학교가 새 해녀의 절반 가까이를 길러 냈다"
+        },
+        {
+          "file": "14_정리.svg",
+          "title": "정리",
+          "desc": "해녀를 잇는다는 것은 숨의 기술과 바다의 규칙을 함께 잇는 일이다"
+        },
+        {
+          "file": "15_출처와_더_읽을거리.svg",
+          "title": "출처와 더 읽을거리",
+          "desc": "더 알고 싶다면, 원자료로"
+        }
+      ]
+    },
     {
       "id": "ppt169_taiwan_super_aged_society_zh_hant",
       "title": "臺灣進入超高齡社會",

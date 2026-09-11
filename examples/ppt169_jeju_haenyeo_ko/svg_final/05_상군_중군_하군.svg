@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <defs>
+    <marker id="careerHead" orient="auto" markerWidth="10" markerHeight="10" refX="8" refY="5">
+      <polygon points="0,0 10,5 0,10" fill="#123B4A" />
+    </marker>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA" />
+  <g id="header" data-pptx-bounds="56 66 1160 100">
+    <text x="64" y="92" font-size="18" fill="#3F8C8A">1 · 물질은 어떻게 조직되는가</text>
+    <text x="64" y="148" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A">기량은 하군에서 상군으로, 다시 하군으로 돈다</text>
+  </g>
+  <g id="surface-line" data-pptx-bounds="0 180 1280 26">
+    <line x1="0" y1="200" x2="1280" y2="200" stroke="#3F8C8A" stroke-width="1.5" />
+    <text x="64" y="192" font-size="14" fill="#3F8C8A">수면</text>
+  </g>
+  <g id="career-diagram" data-pptx-bounds="56 236 1160 420">
+    <path d="M190 310 C360 310 360 440 450 440 C560 440 590 570 700 570 C860 570 930 310 1028 310" fill="none" stroke="#123B4A" stroke-width="3" stroke-linecap="round" marker-end="url(#careerHead)" />
+    <path d="M462 432 C640 360 860 330 1022 316" fill="none" stroke="#3F8C8A" stroke-width="2" stroke-dasharray="8,4" />
+    <g id="node-hagun">
+      <circle cx="190" cy="310" r="12" fill="#F4F1EA" stroke="#123B4A" stroke-width="3" />
+      <text x="190" y="262" font-size="28" font-weight="bold" fill="#123B4A" text-anchor="middle">하군</text>
+      <text x="190" y="288" font-size="18" fill="#5B6970" text-anchor="middle">기량이 떨어지는 해녀 · 출발점</text>
+    </g>
+    <g id="node-junggun">
+      <circle cx="450" cy="440" r="12" fill="#3F8C8A" />
+      <text x="436" y="484" font-size="28" font-weight="bold" fill="#123B4A" text-anchor="end">중군</text>
+      <text x="436" y="510" font-size="18" fill="#5B6970" text-anchor="end">보통 기량의 해녀</text>
+    </g>
+    <g id="node-sanggun">
+      <circle cx="700" cy="570" r="14" fill="#E0662B" />
+      <text x="732" y="566" font-size="28" font-weight="bold" fill="#123B4A">상군</text>
+      <text font-size="18" fill="#1E2A30" x="732" y="594">작업 기량이 뛰어나 깊은 바다까지 들어감</text><text font-size="18" fill="#1E2A30" x="732" y="620"><tspan>특출한 상군은 <tspan font-weight="bold" fill="#123B4A">대상군</tspan></tspan></text><text font-size="18" fill="#1E2A30" x="732" y="646">다른 해녀들을 지도한다(유네스코)</text></g>
+    <g id="node-return">
+      <circle cx="1040" cy="310" r="12" fill="#F4F1EA" stroke="#123B4A" stroke-width="3" />
+      <text x="1040" y="262" font-size="28" font-weight="bold" fill="#123B4A" text-anchor="middle">다시 하군</text>
+      <text x="1040" y="288" font-size="18" fill="#5B6970" text-anchor="middle">상군에서 다시 하군으로</text>
+    </g>
+    <text x="572" y="412" font-size="18" fill="#3F8C8A">상군이 되지 못하고 돌아오기도 한다</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">정리: 기량의 순환 도식(깊이는 도달하는 바다의 깊이를 뜻하며 수치가 아님) · 출처: 제주특별자치도 「물질하는 여성」, 유네스코(2016)</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">05 / 15</text>
+  </g>
+</svg>

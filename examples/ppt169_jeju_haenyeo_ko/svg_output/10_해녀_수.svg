@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#123B4A"/>
+  <g id="header" data-pptx-bounds="56 66 1160 100">
+    <text x="64" y="92" font-size="18" fill="#9CC9C5">3 · 누가 이 바다를 잇는가</text>
+    <text x="64" y="146" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#F4F1EA">55년 사이, 여섯 명 중 한 명만 바다에 남았다</text>
+  </g>
+  <g id="surface-line" data-pptx-bounds="0 176 1280 10">
+    <line x1="0" y1="181" x2="1280" y2="181" stroke="#3F8C8A" stroke-width="1.5"/>
+  </g>
+  <g id="haenyeo-count" data-pptx-bounds="44 204 724 430" data-pptx-replace-with="chart" data-pptx-fallback-sha256="f822ac70349bfebfbe8c4c913b8ea3f02440d755cb1c11a83a6a33d4440c17dd">
+    <metadata type="application/json">{
+ "name": "haenyeo-count",
+ "type": "column",
+ "grouping": "clustered",
+ "x": 44, "y": 204, "width": 724, "height": 430,
+ "plot_area": {"x": 124, "y": 250, "width": 620, "height": 340},
+ "categories": ["1970", "1980", "1990", "2000", "2010", "2020", "2025"],
+ "series": [{"name": "현직 해녀 수", "values": [14143, 7804, 6827, 5789, 4995, 3613, 2371], "point_colors": ["#E3ECEB", "#E3ECEB", "#E3ECEB", "#E3ECEB", "#E3ECEB", "#E3ECEB", "#E0662B"]}],
+ "gap_width": 60,
+ "data_labels": {"show_value": true, "position": "outside_end", "number_format": "#,##0", "font_size": 18, "bold": true, "color": "#F4F1EA"},
+ "axes": {"value": {"minimum": 0, "maximum": 15000, "major_unit": 5000, "number_format": "#,##0", "major_gridlines": true}},
+ "axis_titles": {"value": "명"},
+ "style": {"colors": ["#E3ECEB"], "text_color": "#E3ECEB", "axis_color": "#E3ECEB", "grid_color": "#3F8C8A", "chart_area_fill": "none", "plot_area_fill": "none", "axis_font_size": 18, "axis_title_font_size": 18}
+}</metadata>
+    <g id="haenyeo-count-chartArea">
+      <g id="haenyeo-count-grid" stroke="#3F8C8A" stroke-width="1">
+        <line x1="124" y1="476.67" x2="744" y2="476.67"/>
+        <line x1="124" y1="363.33" x2="744" y2="363.33"/>
+        <line x1="124" y1="250" x2="744" y2="250"/>
+      </g>
+      <line id="haenyeo-count-axis" x1="124" y1="590" x2="744" y2="590" stroke="#E3ECEB" stroke-width="1.5"/>
+      <g font-size="18" fill="#E3ECEB" text-anchor="end">
+        <text x="114" y="596">0</text>
+        <text x="114" y="482.67">5,000</text>
+        <text x="114" y="369.33">10,000</text>
+        <text x="114" y="256">15,000</text>
+      </g>
+      <text x="114" y="226" font-size="18" fill="#E3ECEB" text-anchor="end">명</text>
+      <!-- chart-plot-area: object=haenyeo-count | 124,250,744,590 -->
+      <g id="haenyeo-count-bars">
+        <rect x="140.61" y="269.42" width="55.36" height="320.58" fill="#E3ECEB"/>
+        <rect x="229.18" y="413.11" width="55.36" height="176.89" fill="#E3ECEB"/>
+        <rect x="317.75" y="435.25" width="55.36" height="154.75" fill="#E3ECEB"/>
+        <rect x="406.32" y="458.78" width="55.36" height="131.22" fill="#E3ECEB"/>
+        <rect x="494.89" y="476.78" width="55.36" height="113.22" fill="#E3ECEB"/>
+        <rect x="583.46" y="508.1" width="55.36" height="81.9" fill="#E3ECEB"/>
+        <rect x="672.04" y="536.26" width="55.36" height="53.74" fill="#E0662B"/>
+      </g>
+      <g font-size="18" font-weight="bold" fill="#F4F1EA" text-anchor="middle">
+        <text x="168.29" y="259.42">14,143</text>
+        <text x="256.86" y="403.11">7,804</text>
+        <text x="345.43" y="425.25">6,827</text>
+        <text x="434" y="448.78">5,789</text>
+        <text x="522.57" y="466.78">4,995</text>
+        <text x="611.14" y="498.1">3,613</text>
+        <text x="699.71" y="526.26">2,371</text>
+      </g>
+      <g font-size="18" fill="#E3ECEB" text-anchor="middle">
+        <text x="168.29" y="618">1970</text>
+        <text x="256.86" y="618">1980</text>
+        <text x="345.43" y="618">1990</text>
+        <text x="434" y="618">2000</text>
+        <text x="522.57" y="618">2010</text>
+        <text x="611.14" y="618">2020</text>
+        <text x="699.71" y="618">2025</text>
+      </g>
+    </g>
+  </g>
+  <g id="remaining-badge" data-pptx-bounds="800 272 416 180">
+    <text x="812" y="300" font-size="22" fill="#E3ECEB">2025년 말 현직 해녀</text>
+    <text x="806" y="392" font-size="96" font-weight="bold" fill="#E0662B">2,371명</text>
+    <text x="812" y="436" font-size="22" fill="#E3ECEB">1970년 14,143명의 <tspan font-weight="bold" fill="#F4F1EA">16.8%</tspan>(계산)</text>
+  </g>
+  <g id="chart-note" data-pptx-bounds="56 640 712 22">
+    <text x="64" y="656" font-size="14" fill="#9CC9C5">주: 1970~2020년은 10년 간격, 마지막 막대(2025년)는 그 5년 뒤</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#9CC9C5">출처: 제주특별자치도의회 「해녀의전당 건립사업 심사보고서」 참고자료(2023, 1970~2020년), 제주해녀박물관 「제주해녀 현황」(2025년 말)</text>
+    <text x="1216" y="684" font-size="14" fill="#9CC9C5" text-anchor="end">10 / 15</text>
+  </g>
+</svg>

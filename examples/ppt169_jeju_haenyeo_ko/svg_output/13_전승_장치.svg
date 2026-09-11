@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <g id="transmission-image" data-pptx-bounds="0 0 600 720">
+    <image href="../images/two_divers.jpg" x="0" y="0" width="600" height="720" preserveAspectRatio="xMinYMid slice"/>
+  </g>
+  <g id="header" data-pptx-bounds="652 66 564 150">
+    <text x="660" y="92" font-size="18" fill="#3F8C8A">3 · 누가 이 바다를 잇는가</text>
+    <text font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A"><tspan x="660" y="146">해녀학교가 새 해녀의</tspan><tspan x="660" dy="50">절반 가까이를 길러 냈다</tspan></text>
+  </g>
+  <g id="school-share" data-pptx-bounds="652 228 564 170">
+    <text x="654" y="318" font-size="96" font-weight="bold" fill="#E0662B">44%</text>
+    <text font-size="22" fill="#1E2A30"><tspan x="660" y="356">2016~2023년 어촌계에 가입한 217명 중</tspan><tspan x="660" dy="30"><tspan font-weight="bold" fill="#123B4A">해녀학교 졸업생 95명</tspan></tspan></text>
+  </g>
+  <g id="support-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="664 420 16 192" data-pptx-av-adj="val 60000" fill="none" stroke="#3F8C8A" stroke-width="2">
+<path d="M 680 612 A 16 9.6 0 0 1 664 602.4 L 664 429.6 A 16 9.6 0 0 1 680 420 Z" stroke="none"/>
+<path d="M 680 612 A 16 9.6 0 0 1 664 602.4 L 664 429.6 A 16 9.6 0 0 1 680 420"/>
+</g>
+  <g id="support-fee" data-pptx-bounds="692 424 524 44">
+    <use data-icon="tabler-outline/currency-won" x="700" y="432" width="28" height="28" fill="#3F8C8A" stroke-width="2"/>
+    <text x="740" y="454" font-size="22" fill="#1E2A30">어촌계 가입비 <tspan font-weight="bold" fill="#123B4A">1인 100만 원</tspan> 지원</text>
+  </g>
+  <g id="support-settle" data-pptx-bounds="692 482 524 64">
+    <use data-icon="tabler-outline/calendar" x="700" y="490" width="28" height="28" fill="#3F8C8A" stroke-width="2"/>
+    <text x="740" y="512" font-size="22" fill="#1E2A30">초기 정착지원금 <tspan font-weight="bold" fill="#123B4A">월 50만 원, 3년간</tspan></text>
+    <text x="740" y="538" font-size="18" fill="#5B6970">2022.12.30 조례 개정</text>
+  </g>
+  <g id="support-paths" data-pptx-bounds="692 556 524 62">
+    <use data-icon="tabler-outline/users-group" x="700" y="560" width="28" height="28" fill="#3F8C8A" stroke-width="2"/>
+    <text x="740" y="582" font-size="22" font-weight="bold" fill="#123B4A">전승 경로(유네스코)</text>
+    <text x="740" y="608" font-size="18" fill="#1E2A30">가족 · 학교 · 어촌계 · 해녀회 · 해녀학교 · 해녀박물관</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="652 668 564 24">
+    <text x="660" y="684" font-size="14" fill="#5B6970">출처: 제주특별자치도의회 심사보고서 참고자료(2023), 유네스코(2016)</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">13 / 15</text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="toc" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <defs>
+    <linearGradient id="depthField" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E3ECEB"/>
+      <stop offset="1" stop-color="#C5DAD8"/>
+    </linearGradient>
+    <marker id="descentHead" orient="auto" markerWidth="10" markerHeight="10" refX="8" refY="5">
+      <polygon points="0,0 10,5 0,10" fill="#123B4A"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <rect id="depth-field" data-pptx-role="decoration" x="0" y="196" width="1280" height="524" fill="url(#depthField)"/>
+  <g id="header" data-pptx-bounds="64 70 1152 96">
+    <text x="64" y="96" font-size="18" fill="#3F8C8A">들어가며</text>
+    <text x="64" y="150" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A">오늘은 세 가지 질문을 따라갑니다</text>
+  </g>
+  <g id="surface-line" data-pptx-bounds="0 172 1280 30">
+    <line x1="0" y1="196" x2="1280" y2="196" stroke="#3F8C8A" stroke-width="1.5"/>
+    <text x="1216" y="188" font-size="14" fill="#3F8C8A" text-anchor="end">수면</text>
+  </g>
+  <g id="descent-diagram" data-pptx-bounds="140 203 1076 464">
+    <line x1="158" y1="204" x2="626" y2="656" stroke="#123B4A" stroke-width="2" marker-end="url(#descentHead)"/>
+    <g id="question-1">
+    <circle cx="255" cy="297" r="12" fill="#E0662B"/>
+    <text x="292" y="306" font-family="'Cambria', 'Batang', serif" font-size="30" fill="#123B4A"><a href="#slide-3"><tspan>물질은 어떻게 조직되는가</tspan></a></text>
+    <text x="292" y="330" font-size="18" fill="#5B6970">3~7쪽 · 물질의 방식, 무리, 기량의 위계, 불턱, 바다밭</text>
+  </g>
+    <g id="question-2">
+    <circle cx="388" cy="427" r="12" fill="#123B4A"/>
+    <text x="424" y="436" font-family="'Cambria', 'Batang', serif" font-size="30" fill="#123B4A"><a href="#slide-8"><tspan>왜 인류의 유산이 되었나</tspan></a></text>
+    <text x="424" y="460" font-size="18" fill="#5B6970">8~9쪽 · 여섯 번의 지정과 그 이유</text>
+  </g>
+    <g id="question-3">
+    <circle cx="524" cy="557" r="12" fill="#123B4A"/>
+    <text x="560" y="566" font-family="'Cambria', 'Batang', serif" font-size="30" fill="#123B4A"><a href="#slide-10"><tspan>누가 이 바다를 잇는가</tspan></a></text>
+    <text x="560" y="590" font-size="18" fill="#5B6970">10~13쪽 · 해녀 수, 연령 구성, 유입과 감소, 전승 장치</text>
+    </g>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">정리: 강연 구성(조사 자료를 바탕으로 한 발표자의 틀)</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">02 / 15</text>
+  </g>
+</svg>

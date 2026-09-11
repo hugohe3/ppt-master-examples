@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <g id="header" data-pptx-bounds="56 66 1160 100">
+    <text x="64" y="92" font-size="18" fill="#3F8C8A">2 · 왜 인류의 유산인가</text>
+    <text x="64" y="146" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A">유네스코와 FAO가 본 것은 기술보다 공동체다</text>
+  </g>
+  <g id="unesco-label" data-pptx-bounds="440 176 400 26">
+    <text x="640" y="196" font-size="18" fill="#3F8C8A" text-anchor="middle">유네스코가 평가한 세 가지(2016)</text>
+  </g>
+  <g id="unesco-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="628 -358 24 1152" fill="none" stroke="#3F8C8A" stroke-width="1.5" transform="rotate(90 640 218)">
+<path d="M 652 794 A 12 2 0 0 1 640 792 L 640 220 A 12 2 0 0 0 628 218 A 12 2 0 0 0 640 216 L 640 -356 A 12 2 0 0 1 652 -358 Z" stroke="none"/>
+<path d="M 652 794 A 12 2 0 0 1 640 792 L 640 220 A 12 2 0 0 0 628 218 A 12 2 0 0 0 640 216 L 640 -356 A 12 2 0 0 1 652 -358"/>
+</g>
+  <g id="reason-women" data-pptx-bounds="56 244 380 152">
+    <use data-icon="tabler-outline/heart-handshake" x="64" y="252" width="32" height="32" fill="#E0662B" stroke-width="2"/>
+    <text x="64" y="320" font-size="28" font-weight="bold" fill="#123B4A">여성의 지위</text>
+    <text font-size="22" fill="#1E2A30"><tspan x="64" y="354">공동체 안에서 여성의 지위를</tspan><tspan x="64" dy="30">높이는 데 기여했다</tspan></text>
+  </g>
+  <g id="reason-sustain" data-pptx-bounds="442 244 380 152">
+    <use data-icon="tabler-outline/plant" x="450" y="252" width="32" height="32" fill="#3F8C8A" stroke-width="2"/>
+    <text x="450" y="320" font-size="28" font-weight="bold" fill="#123B4A">지속가능성</text>
+    <text font-size="22" fill="#1E2A30"><tspan x="450" y="354">친환경 방법과 공동체의 어업</tspan><tspan x="450" dy="30">관리로 지속가능성을 높였다</tspan></text>
+  </g>
+  <g id="reason-transmit" data-pptx-bounds="828 244 388 152">
+    <use data-icon="tabler-outline/school" x="836" y="252" width="32" height="32" fill="#3F8C8A" stroke-width="2"/>
+    <text x="836" y="320" font-size="28" font-weight="bold" fill="#123B4A">세대 간 전승</text>
+    <text font-size="22" fill="#1E2A30"><tspan x="836" y="354">가족·학교·어촌계·해녀회·</tspan><tspan x="836" dy="30">해녀학교·해녀박물관으로 이어진다</tspan></text>
+  </g>
+  <g id="divider" data-pptx-bounds="56 420 1160 8">
+    <line x1="64" y1="424" x2="1216" y2="424" stroke="#C9CFCC" stroke-width="1"/>
+  </g>
+  <g id="community-quote" data-pptx-bounds="56 450 800 170">
+    <rect x="64" y="462" width="4" height="120" fill="#123B4A"/>
+    <text font-family="'Cambria', 'Batang', serif" font-size="30" fill="#123B4A"><tspan x="88" y="500">“특정 보유자나 보유단체를 인정하지 않는</tspan><tspan x="88" dy="42">공동체 종목”</tspan></text>
+    <text x="88" y="580" font-size="18" fill="#5B6970">국가유산청 · 국가무형유산 「해녀」(2017)</text>
+  </g>
+  <g id="fao-designation" data-pptx-bounds="896 450 320 170">
+    <rect x="904" y="462" width="4" height="120" fill="#E0662B"/>
+    <text x="928" y="496" font-size="28" font-weight="bold" fill="#123B4A">FAO</text>
+    <text font-size="22" fill="#1E2A30"><tspan x="928" y="534">2023년 세계중요농업유산</tspan><tspan x="928" dy="32">「제주 해녀어업시스템」</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">출처: 유네스코 「Culture of Jeju Haenyeo」(2016), 국가유산청 국가유산포털 「해녀」, FAO 「HAENYEO – WOMEN OF THE SEA」</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">09 / 15</text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "slides": {
+    "04_하루의_물질": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "03_물질의_정의", "pairs": { "dive-scene": { "from": "dive-scene", "to": "dive-scene" } } },
+      "groups": {
+        "kpi": { "effect": "entrance_fade", "trigger": "after-previous", "delay": 0.2, "duration": 0.6 }
+      }
+    },
+    "05_상군_중군_하군": {
+      "groups": {
+        "career-diagram": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "trigger": "after-previous", "delay": 0.2, "duration": 1.2 }
+      }
+    },
+    "10_해녀_수": {
+      "groups": {
+        "haenyeo-count": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "trigger": "after-previous", "order": 1, "delay": 0.2, "duration": 1.0 },
+        "remaining-badge": { "effect": "entrance_fade", "trigger": "after-previous", "order": 2, "duration": 0.6 }
+      }
+    },
+    "11_연령_구성": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "10_해녀_수", "pairs": { "remaining-badge": { "from": "remaining-badge", "to": "remaining-badge" } } },
+      "groups": {
+        "age-shift": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "trigger": "after-previous", "delay": 0.2, "duration": 1.0 }
+      }
+    },
+    "12_유입과_감소": {
+      "groups": {
+        "flow-out-arrow": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "trigger": "after-previous", "order": 1, "delay": 0.2, "duration": 0.9 },
+        "flow-in-arrow": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "trigger": "after-previous", "order": 2, "duration": 0.5 }
+      }
+    },
+    "14_정리": {
+      "groups": {
+        "step-organize": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "trigger": "after-previous", "order": 1, "delay": 0.2, "duration": 0.5 },
+        "step-evaluate": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "trigger": "after-previous", "order": 2, "duration": 0.5 },
+        "step-task": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "trigger": "after-previous", "order": 3, "duration": 0.5 }
+      }
+    }
+  }
+}

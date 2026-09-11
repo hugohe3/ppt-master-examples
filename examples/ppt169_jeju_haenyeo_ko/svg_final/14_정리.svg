@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA" />
+  <g id="header" data-pptx-bounds="56 86 1160 160">
+    <text x="64" y="112" font-size="18" fill="#3F8C8A">정리</text>
+    <text font-size="40" font-family="'Cambria', 'Batang', serif" fill="#123B4A" x="64" y="176">해녀를 잇는다는 것은</text><text font-size="40" font-family="'Cambria', 'Batang', serif" fill="#123B4A" x="64" y="230"><tspan>숨의 기술과 <tspan fill="#E0662B">바다의 규칙</tspan>을 함께 잇는 일이다</tspan></text></g>
+  <g id="step-organize" data-pptx-bounds="56 284 384 200">
+    <g id="step-organize-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 292 368 72" fill="#123B4A" stroke="none">
+<path d="M 64 292 L 396 292 L 432 328 L 396 364 L 64 364 L 100 328 Z" />
+</g>
+    <text x="124" y="338" font-size="28" font-weight="bold" fill="#F4F1EA">1 조직</text>
+    <text font-size="22" fill="#1E2A30" x="64" y="408">물질은 개인의 숨을</text><text font-size="22" fill="#1E2A30" x="64" y="440">공동체의 규칙이 묶는 체계</text></g>
+  <g id="step-evaluate" data-pptx-bounds="448 284 384 200">
+    <g id="step-evaluate-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="456 292 368 72" fill="#3F8C8A" stroke="none">
+<path d="M 456 292 L 788 292 L 824 328 L 788 364 L 456 364 L 492 328 Z" />
+</g>
+    <text x="516" y="338" font-size="28" font-weight="bold" fill="#F4F1EA">2 평가</text>
+    <text font-size="22" fill="#1E2A30" x="456" y="408">여섯 번의 지정은</text><text font-size="22" fill="#1E2A30" x="456" y="440">그 공동체 방식에 대한 평가</text></g>
+  <g id="step-task" data-pptx-bounds="840 284 376 200">
+    <g id="step-task-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="848 292 368 72" fill="#E0662B" stroke="none">
+<path d="M 848 292 L 1180 292 L 1216 328 L 1180 364 L 848 364 L 884 328 Z" />
+</g>
+    <text x="908" y="338" font-size="28" font-weight="bold" fill="#123B4A">3 과제</text>
+    <text font-size="22" fill="#1E2A30" x="848" y="408"><tspan>2025년 <tspan font-weight="bold" fill="#123B4A">2,371명</tspan>,</tspan></text><text font-size="22" fill="#1E2A30" x="848" y="440"><tspan>70세 이상 <tspan font-weight="bold" fill="#123B4A">63.3%</tspan> —</tspan></text><text font-size="22" fill="#1E2A30" x="848" y="472">다음 세대의 합류가 관건</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">정리: 발표자의 요약 · 수치: 제주해녀박물관 「제주해녀 현황」(2025년 말), 70세 이상 비율은 인원으로 계산</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">14 / 15</text>
+  </g>
+</svg>

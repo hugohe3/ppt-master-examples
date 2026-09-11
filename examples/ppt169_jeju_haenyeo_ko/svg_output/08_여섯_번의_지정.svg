@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <g id="header" data-pptx-bounds="56 66 1160 144">
+    <text x="64" y="92" font-size="18" fill="#3F8C8A">2 · 왜 인류의 유산인가</text>
+    <text x="64" y="146" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A">노래에서 어업 체계까지, 반세기 동안 여섯 번 지정됐다</text>
+    <text x="64" y="192" font-size="24" fill="#1E2A30">지정 대상은 노래와 도구에서 <tspan font-weight="bold" fill="#123B4A">문화, 그리고 어업 체계 전체</tspan>로 넓어졌습니다</text>
+  </g>
+  <g id="heritage-timeline" data-pptx-bounds="64 224 1152 384" data-pptx-replace-with="table" data-pptx-fallback-sha256="773d256faa5806507f402d7644c878eaeb2da8beddce936804c005fdd377eef4">
+    <metadata type="application/json">{
+ "schema": "ppt-master.semantic-table.v2",
+ "name": "heritage-timeline",
+ "x": 64, "y": 226, "width": 1152, "height": 380,
+ "strict_grid": true,
+ "column_widths": [104, 352, 544, 152],
+ "row_heights": [44, 56, 56, 56, 56, 56, 56],
+ "style": {"font_family": "Malgun Gothic", "font_size": 22, "header_font_size": 18, "header_text": "#123B4A", "body_text": "#1E2A30", "band_row": false, "padding": {"left": 12, "right": 12, "top": 4, "bottom": 4}, "valign": "middle"},
+ "defaults": {"cell": {"borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#C9CFCC", "width": 1}}}},
+ "cell_styles": {
+  "head": {"bold": true, "align": "l", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "solid", "color": "#123B4A", "width": 2}, "bottom": {"style": "solid", "color": "#123B4A", "width": 1.5}}},
+  "year": {"bold": true, "color": "#123B4A"},
+  "scope-province": {"color": "#5B6970"},
+  "scope-nation": {"color": "#123B4A", "bold": true},
+  "scope-world": {"color": "#E0662B", "bold": true}
+ },
+ "columns": [{"text": "연도", "cell_style": "head"}, {"text": "대상", "cell_style": "head"}, {"text": "지정", "cell_style": "head"}, {"text": "범위", "cell_style": "head"}],
+ "rows": [
+  [{"text": "1971", "cell_style": "year"}, "해녀노래", "제주특별자치도 무형문화재 제1호", {"text": "도", "cell_style": "scope-province"}],
+  [{"text": "2008", "cell_style": "year"}, "제주해녀의 물옷과 물질도구", "제주특별자치도 민속문화재 제10호", {"text": "도", "cell_style": "scope-province"}],
+  [{"text": "2015", "cell_style": "year"}, "제주해녀어업", "국가중요어업유산 제1호", {"text": "국가", "cell_style": "scope-nation"}],
+  [{"text": "2016", "cell_style": "year"}, "제주해녀문화", "유네스코 인류무형문화유산", {"text": "세계", "cell_style": "scope-world"}],
+  [{"text": "2017", "cell_style": "year"}, "해녀", "국가무형유산(당시 국가무형문화재 제132호)", {"text": "국가", "cell_style": "scope-nation"}],
+  [{"text": "2023", "cell_style": "year"}, "제주 해녀어업시스템", "FAO 세계중요농업유산(GIAHS)", {"text": "세계", "cell_style": "scope-world"}]
+ ]
+}</metadata>
+    <line id="table-top-rule" x1="64" y1="226" x2="1216" y2="226" stroke="#123B4A" stroke-width="2"/>
+    <line id="table-header-rule" x1="64" y1="270" x2="1216" y2="270" stroke="#123B4A" stroke-width="1.5"/>
+    <g stroke="#C9CFCC" stroke-width="1">
+      <line x1="64" y1="326" x2="1216" y2="326"/>
+      <line x1="64" y1="382" x2="1216" y2="382"/>
+      <line x1="64" y1="438" x2="1216" y2="438"/>
+      <line x1="64" y1="494" x2="1216" y2="494"/>
+      <line x1="64" y1="550" x2="1216" y2="550"/>
+      <line x1="64" y1="606" x2="1216" y2="606"/>
+    </g>
+    <g font-size="18" font-weight="bold" fill="#123B4A">
+      <text x="76" y="254">연도</text>
+      <text x="180" y="254">대상</text>
+      <text x="532" y="254">지정</text>
+      <text x="1076" y="254">범위</text>
+    </g>
+    <g font-size="22" fill="#1E2A30">
+      <g>
+        <text x="76" y="306" font-weight="bold" fill="#123B4A">1971</text>
+        <text x="180" y="306">해녀노래</text>
+        <text x="532" y="306">제주특별자치도 무형문화재 제1호</text>
+        <text x="1076" y="306" fill="#5B6970">도</text>
+      </g>
+      <g>
+        <text x="76" y="362" font-weight="bold" fill="#123B4A">2008</text>
+        <text x="180" y="362">제주해녀의 물옷과 물질도구</text>
+        <text x="532" y="362">제주특별자치도 민속문화재 제10호</text>
+        <text x="1076" y="362" fill="#5B6970">도</text>
+      </g>
+      <g>
+        <text x="76" y="418" font-weight="bold" fill="#123B4A">2015</text>
+        <text x="180" y="418">제주해녀어업</text>
+        <text x="532" y="418">국가중요어업유산 제1호</text>
+        <text x="1076" y="418" fill="#123B4A" font-weight="bold">국가</text>
+      </g>
+      <g>
+        <text x="76" y="474" font-weight="bold" fill="#123B4A">2016</text>
+        <text x="180" y="474">제주해녀문화</text>
+        <text x="532" y="474">유네스코 인류무형문화유산</text>
+        <text x="1076" y="474" fill="#E0662B" font-weight="bold">세계</text>
+      </g>
+      <g>
+        <text x="76" y="530" font-weight="bold" fill="#123B4A">2017</text>
+        <text x="180" y="530">해녀</text>
+        <text x="532" y="530">국가무형유산(당시 국가무형문화재 제132호)</text>
+        <text x="1076" y="530" fill="#123B4A" font-weight="bold">국가</text>
+      </g>
+      <g>
+        <text x="76" y="586" font-weight="bold" fill="#123B4A">2023</text>
+        <text x="180" y="586">제주 해녀어업시스템</text>
+        <text x="532" y="586">FAO 세계중요농업유산(GIAHS)</text>
+        <text x="1076" y="586" fill="#E0662B" font-weight="bold">세계</text>
+      </g>
+    </g>
+  </g>
+  <g id="scope-legend" data-pptx-bounds="56 620 1160 30">
+    <text x="64" y="640" font-size="18" fill="#5B6970">범위 — 도: 제주특별자치도 지정 · 국가: 대한민국 지정 · <tspan fill="#E0662B" font-weight="bold">세계</tspan>: 국제기구 지정</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">출처: 제주해녀박물관 「해녀소개 · 문화재 지정 현황」, 국가유산청 국가유산포털 「해녀」, 유네스코(2016), FAO(2023)</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">08 / 15</text>
+  </g>
+</svg>

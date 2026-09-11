@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <defs>
+    <linearGradient id="topWash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4F1EA" stop-opacity="0.92"/>
+      <stop offset="0.7" stop-color="#F4F1EA" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#F4F1EA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#E3ECEB"/>
+  <image id="sea-field-image" data-pptx-role="background" href="../images/sea_field.jpg" x="-12" y="-6" width="1304" height="732" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="top-wash" data-pptx-role="decoration" x="0" y="0" width="1280" height="370" fill="url(#topWash)"/>
+  <g id="header" data-pptx-bounds="56 66 1160 144">
+    <text x="64" y="92" font-size="18" fill="#3F8C8A">1 · 물질은 어떻게 조직되는가</text>
+    <text x="64" y="148" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A">바다밭은 함께 가꾸는 공유지다</text>
+    <text x="64" y="196" font-size="24" fill="#1E2A30">해녀는 바다밭을 단순한 채취 대상이 아니라 <tspan font-weight="bold" fill="#123B4A">끊임없이 가꾸어 공존하는 곳</tspan>으로 여겼습니다</text>
+  </g>
+  <g id="commons-coop" data-pptx-bounds="56 230 380 94">
+    <use data-icon="tabler-outline/users-group" x="64" y="240" width="28" height="28" fill="#123B4A" stroke-width="2"/>
+    <text x="102" y="262" font-size="24" font-weight="bold" fill="#123B4A">어촌계와 해녀회</text>
+    <text font-size="18" fill="#1E2A30"><tspan x="102" y="292">어업권을 가진 지역 어촌계와</tspan><tspan x="102" dy="24">해녀회가 함께 바다를 관리</tspan></text>
+  </g>
+  <g id="commons-ritual" data-pptx-bounds="456 230 380 94">
+    <use data-icon="tabler-outline/ripple" x="464" y="240" width="28" height="28" fill="#123B4A" stroke-width="2"/>
+    <text x="502" y="262" font-size="24" font-weight="bold" fill="#123B4A">잠수굿</text>
+    <text font-size="18" fill="#1E2A30"><tspan x="502" y="292">물질 전 바다의 여신에게</tspan><tspan x="502" dy="24">안전과 풍어를 빈다</tspan></text>
+  </g>
+  <g id="commons-wisdom" data-pptx-bounds="856 230 360 94">
+    <use data-icon="tabler-outline/plant" x="864" y="240" width="28" height="28" fill="#123B4A" stroke-width="2"/>
+    <text x="902" y="262" font-size="24" font-weight="bold" fill="#123B4A">공유지의 지혜</text>
+    <text font-size="18" fill="#1E2A30"><tspan x="902" y="292">공유지를 오래 쓰고 나누는</tspan><tspan x="902" dy="24">지혜가 쌓여 있다</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#F4F1EA">출처: 제주해녀박물관 「해녀소개」, 유네스코(2016), 국가유산청 「해녀」 · 이미지: AI 생성 판화</text>
+    <text x="1216" y="684" font-size="14" fill="#F4F1EA" text-anchor="end">07 / 15</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <defs>
+    <linearGradient id="waterWash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#123B4A" stop-opacity="0.72"/>
+      <stop offset="0.6" stop-color="#123B4A" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#123B4A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="cover-bg" x="0" y="0" width="1280" height="720" fill="#123B4A"/>
+  <image id="cover-image" data-pptx-role="background" href="../images/cover_surface.jpg" x="-20" y="-12" width="1320" height="744" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-water-wash" data-pptx-role="decoration" x="0" y="368" width="820" height="352" fill="url(#waterWash)"/>
+  <g id="cover-title" data-pptx-bounds="88 168 700 172">
+    <text x="96" y="198" font-size="18" fill="#123B4A" letter-spacing="0.3">일반 시민 공개 강연 · 2026</text>
+    <text x="92" y="300" font-family="'Cambria', 'Batang', serif" font-size="96" fill="#123B4A">제주 해녀</text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="88 404 700 118">
+    <text x="96" y="440" font-family="'Cambria', 'Batang', serif" font-size="30" fill="#F4F1EA">숨 하나로 바다를 가꾸어 온 공동체</text>
+    <rect x="96" y="480" width="4" height="30" fill="#E0662B"/>
+    <text x="116" y="504" font-size="28" font-weight="bold" fill="#F4F1EA">산소통 없이, 숨 한 번에 <tspan fill="#E0662B">1~2분</tspan></text>
+  </g>
+  <g id="cover-source" data-pptx-bounds="88 668 700 22">
+    <text x="96" y="684" font-size="14" fill="#E3ECEB">출처: 제주해녀박물관 「해녀소개」 · 일러스트: AI 생성 판화 이미지</text>
+  </g>
+</svg>

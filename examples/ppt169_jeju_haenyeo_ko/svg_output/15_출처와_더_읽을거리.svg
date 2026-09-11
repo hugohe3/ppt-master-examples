@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#123B4A"/>
+  <g id="closing-strip" data-pptx-bounds="880 0 400 720">
+    <image href="../images/cover_surface_dim.jpg" x="880" y="0" width="400" height="720" preserveAspectRatio="xMaxYMid slice"/>
+    <line x1="880" y1="0" x2="880" y2="720" stroke="#E0662B" stroke-width="3"/>
+  </g>
+  <g id="closing-takeaway" data-pptx-bounds="56 66 800 136">
+    <text x="64" y="92" font-size="18" fill="#9CC9C5">마치며</text>
+    <text x="64" y="160" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#F4F1EA">바다밭은 사람이 있어야 밭이 됩니다</text>
+    <text x="64" y="194" font-size="14" fill="#9CC9C5">정리: 발표자의 맺음말</text>
+  </g>
+  <g id="surface-line" data-pptx-bounds="0 220 870 12">
+    <line x1="0" y1="226" x2="860" y2="226" stroke="#3F8C8A" stroke-width="1.5"/>
+  </g>
+  <g id="source-links" data-pptx-bounds="56 244 800 324">
+    <use data-icon="tabler-outline/external-link" x="64" y="254" width="24" height="24" fill="#E0662B" stroke-width="2"/>
+    <text x="98" y="274" font-size="22" font-weight="bold" fill="#F4F1EA">더 알고 싶다면, 원자료로</text>
+    <g font-size="18" fill="#F4F1EA">
+      <text x="64" y="318"><a href="https://ich.unesco.org/en/RL/culture-of-jeju-haenyeo-women-divers-01068"><tspan text-decoration="underline">유네스코 「Culture of Jeju Haenyeo (women divers)」</tspan></a><tspan fill="#9CC9C5"> · ich.unesco.org</tspan></text>
+      <text x="64" y="352"><a href="https://digital-media.fao.org/archive/HAENYEO---WOMEN-OF-THE-SEA-2A6XC5LG8V9J.html"><tspan text-decoration="underline">FAO 「HAENYEO – WOMEN OF THE SEA」</tspan></a><tspan fill="#9CC9C5"> · digital-media.fao.org</tspan></text>
+      <text x="64" y="386"><a href="https://www.heritage.go.kr/heri/cul/culSelectDetail.do?ccbaCpno=127ZZ01320000"><tspan text-decoration="underline">국가유산청 국가유산포털 「해녀」</tspan></a><tspan fill="#9CC9C5"> · heritage.go.kr</tspan></text>
+      <text x="64" y="420"><a href="https://www.jeju.go.kr/haenyeo/haenyeo/statistics.htm"><tspan text-decoration="underline">제주해녀박물관 「제주해녀 현황」</tspan></a><tspan fill="#9CC9C5"> · jeju.go.kr</tspan></text>
+      <text x="64" y="454"><a href="https://www.jeju.go.kr/haenyeo/haenyeo/haenyeo.htm"><tspan text-decoration="underline">제주해녀박물관 「해녀소개」</tspan></a><tspan fill="#9CC9C5"> · jeju.go.kr</tspan></text>
+      <text x="64" y="488"><a href="https://www.jeju.go.kr/culture/folklore/samda/women/diverWomen.htm"><tspan text-decoration="underline">제주특별자치도 「물질하는 여성」</tspan></a><tspan fill="#9CC9C5"> · jeju.go.kr</tspan></text>
+      <text x="64" y="522"><a href="https://record.council.jeju.kr/CLRecords/Files/FileAppendix/a12/A042087.pdf"><tspan text-decoration="underline">제주특별자치도의회 「해녀의전당 건립사업 심사보고서」</tspan></a><tspan fill="#9CC9C5"> · council.jeju.kr</tspan></text>
+      <text x="64" y="556"><a href="https://media.un.org/unifeed/en/asset/d348/d3486310"><tspan text-decoration="underline">유엔 UNifeed 「FAO / HAENYEO WOMEN OF THE SEA」</tspan></a><tspan fill="#9CC9C5"> · media.un.org</tspan></text>
+    </g>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 800 24">
+    <text x="64" y="684" font-size="14" fill="#9CC9C5">모든 수치는 위 공식 자료에서 가져왔습니다 · 조회일 2026-09-11 · 이미지: AI 생성 판화</text>
+    <text x="856" y="684" font-size="14" fill="#9CC9C5" text-anchor="end">15 / 15</text>
+  </g>
+</svg>

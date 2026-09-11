@@ -1,0 +1,70 @@
+{
+  "project": "jeju_haenyeo_ko_20260911",
+  "generated_at": "2026-09-11",
+  "deck_rendering": "custom",
+  "color_scheme": {
+    "background": "#F4F1EA",
+    "secondary_bg": "#E3ECEB",
+    "primary": "#123B4A",
+    "accent": "#E0662B",
+    "secondary_accent": "#3F8C8A",
+    "body_text": "#1E2A30"
+  },
+  "items": [
+    {
+      "filename": "cover_surface.png",
+      "purpose": "Cover hook (Slide 01)",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "prompt": "Bold silkscreen poster art with a limited flat color palette and characteristic print textures. The image uses four flat ink colors — no gradients inside shapes, only confident solid color blocks. Halftone dot patterns add texture where the water changes tone, dot density shifting from dense to sparse. A slight 1–2 pixel misregistration between color layers gives an authentic silkscreen feel, and a subtle paper grain at 15% opacity covers the canvas. Figures are bold stencil-cut silhouettes with no facial features or fine anatomy. The mood is calm and sturdy, like a 1960s cultural exhibition poster for a maritime museum. Salt-paper cream #F4F1EA and pale sea mist #E3ECEB provide the light fields; deep sea navy-teal #123B4A carries the main forms and the deepest water; jade water #3F8C8A carries mid-tones and the halftone transitions; a single tangerine orange #E0662B float is the only warm accent and stays under 5% of the canvas. Composition: a wide seascape seen from just above the water surface at eye level with the waves, a low horizon at about 62% of the height. In the right third, one haenyeo has just surfaced and rests her chest on a round tangerine orange float, her back and hooded head toward the viewer, a small net bag trailing below the float in halftone water. The left 60% of the canvas stays calm: flat sea mist sky and quiet navy water with only sparse halftone ripples, reserved for a title overlay. Every diver is a generic, fictional Jeju haenyeo woman, not any real person, wearing a black rubber wetsuit with a hood and a round diving mask, shown from behind or as a silhouette so no face is visible. Composed as a 1920x1080 full-bleed cover image for hero_page use with the left side left calm for SVG text. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #123B4A) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "수면 위로 떠올라 주황 테왁에 기댄 해녀의 뒷모습",
+      "status": "Generated"
+    },
+    {
+      "filename": "dive_column.png",
+      "purpose": "Vertical diving cross-section (Slides 03-04)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "3:4",
+      "image_size": "2K",
+      "prompt": "Bold silkscreen poster art with a limited flat color palette and characteristic print textures. The image uses four flat ink colors — no gradients inside shapes, only confident solid color blocks. Halftone dot patterns add texture where the water changes tone, dot density shifting from dense to sparse. A slight 1–2 pixel misregistration between color layers gives an authentic silkscreen feel, and a subtle paper grain at 15% opacity covers the canvas. Figures are bold stencil-cut silhouettes with no facial features or fine anatomy. The mood is calm and sturdy, like a 1960s cultural exhibition poster for a maritime museum. Salt-paper cream #F4F1EA and pale sea mist #E3ECEB provide the light fields; deep sea navy-teal #123B4A carries the main forms and the deepest water; jade water #3F8C8A carries mid-tones and the halftone transitions; a single tangerine orange #E0662B float is the only warm accent and stays under 5% of the canvas. Composition: a single vertical underwater cross-section from the sea surface to the seabed in one frame. The top 12% is the bright surface band with a small tangerine orange float bobbing on it and a thin rope dropping down; the middle is water that deepens from jade to navy with halftone light shafts slanting down from above; the bottom 15% is dark basalt rock with abalone, turban shells and ribbons of sea mustard. One haenyeo dives head-first down the middle of the frame, arms reaching toward the rocks, a slim iron prying tool in one hand. Every diver is a generic, fictional Jeju haenyeo woman, not any real person, wearing a black rubber wetsuit with a hood and a round diving mask, shown from behind or as a silhouette so no face is visible. The left edge stays quiet water so a depth scale can sit beside it. Composed as a 1152x1536 portrait image for local use inside an arched window. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #123B4A) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "수면에서 현무암 바닥까지 머리를 아래로 두고 내려가는 해녀의 수중 단면",
+      "status": "Generated"
+    },
+    {
+      "filename": "bulteok_ring.png",
+      "purpose": "Bulteok stone circle source (Slide 06 derivative)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "1:1",
+      "image_size": "2K",
+      "prompt": "Bold silkscreen poster art with a limited flat color palette and characteristic print textures. The image uses four flat ink colors — no gradients inside shapes, only confident solid color blocks. Halftone dot patterns add texture where the water changes tone, dot density shifting from dense to sparse. A slight 1–2 pixel misregistration between color layers gives an authentic silkscreen feel, and a subtle paper grain at 15% opacity covers the canvas. Figures are bold stencil-cut silhouettes with no facial features or fine anatomy. The mood is calm and sturdy, like a 1960s cultural exhibition poster for a maritime museum. Salt-paper cream #F4F1EA and pale sea mist #E3ECEB provide the light fields; deep sea navy-teal #123B4A carries the main forms and the deepest water; jade water #3F8C8A carries mid-tones and the halftone transitions; a single tangerine orange #E0662B float is the only warm accent and stays under 5% of the canvas. Composition: a top-down view straight onto a round dry-stone wall of black basalt on a rocky shore, the circle filling the center of a square frame. Inside the ring, a small wood fire glows with a flat orange flame at the exact center; four or five haenyeo sit around it wrapped in cloth, seen only as the tops of hooded heads and shoulders, no faces. Outside the wall, dark lava rocks and a strip of navy sea with halftone foam along the edges of the frame. Every diver is a generic, fictional Jeju haenyeo woman, not any real person, wearing a black rubber wetsuit with a hood and a round diving mask, shown from behind or as a silhouette so no face is visible. The composition is concentric and still, so it can be cropped into a circle. Composed as a 1536x1536 square image for local use. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #123B4A) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "위에서 내려다본 둥근 현무암 돌담 불턱과 가운데 모닥불",
+      "status": "Generated"
+    },
+    {
+      "filename": "sea_field.png",
+      "purpose": "Sea field commons (Slide 07)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "prompt": "Bold silkscreen poster art with a limited flat color palette and characteristic print textures. The image uses four flat ink colors — no gradients inside shapes, only confident solid color blocks. Halftone dot patterns add texture where the water changes tone, dot density shifting from dense to sparse. A slight 1–2 pixel misregistration between color layers gives an authentic silkscreen feel, and a subtle paper grain at 15% opacity covers the canvas. Figures are bold stencil-cut silhouettes with no facial features or fine anatomy. The mood is calm and sturdy, like a 1960s cultural exhibition poster for a maritime museum. Salt-paper cream #F4F1EA and pale sea mist #E3ECEB provide the light fields; deep sea navy-teal #123B4A carries the main forms and the deepest water; jade water #3F8C8A carries mid-tones and the halftone transitions; a single tangerine orange #E0662B float is the only warm accent and stays under 5% of the canvas. Composition: a wide shallow seabed scene with no people. The lower 60% holds the sea field: black basalt boulders, a forest of sea mustard and kelp swaying in flat jade and navy shapes, abalone and turban shells and a few spiny sea urchins resting on the rocks, all as bold stencil silhouettes. The upper 40% is quiet open water in sea mist and pale jade with sparse halftone light, calm enough for text above it. Composed as a 1920x1080 wide band for local use, its upper area left calm for SVG text. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #123B4A) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "사람 없는 얕은 해저 바다밭 — 현무암, 미역·감태, 전복·소라·성게",
+      "status": "Generated"
+    },
+    {
+      "filename": "two_divers.png",
+      "purpose": "Transmission between generations (Slide 13)",
+      "page_role": "local",
+      "text_policy": "none",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "prompt": "Bold silkscreen poster art with a limited flat color palette and characteristic print textures. The image uses four flat ink colors — no gradients inside shapes, only confident solid color blocks. Halftone dot patterns add texture where the water changes tone, dot density shifting from dense to sparse. A slight 1–2 pixel misregistration between color layers gives an authentic silkscreen feel, and a subtle paper grain at 15% opacity covers the canvas. Figures are bold stencil-cut silhouettes with no facial features or fine anatomy. The mood is calm and sturdy, like a 1960s cultural exhibition poster for a maritime museum. Salt-paper cream #F4F1EA and pale sea mist #E3ECEB provide the light fields; deep sea navy-teal #123B4A carries the main forms and the deepest water; jade water #3F8C8A carries mid-tones and the halftone transitions; a single tangerine orange #E0662B float is the only warm accent and stays under 5% of the canvas. Composition: two haenyeo walk side by side from a black basalt shore into the sea, both seen from behind, each carrying a round tangerine orange float. The one on the left is an elderly diver with a slightly bent back and slow step; the one on the right is a young diver standing straight, half a step ahead and turning her shoulder toward the elder. The sea ahead is layered navy and jade with halftone bands; the horizon sits high at about 30% of the height. The two figures occupy the left and center; the right 35% of the frame is open sea. Every diver is a generic, fictional Jeju haenyeo woman, not any real person, wearing a black rubber wetsuit with a hood and a round diving mask, shown from behind or as a silhouette so no face is visible. Composed as a 1920x1080 image for local use, cropped editorially on the page. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #123B4A) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.",
+      "alt_text": "현무암 해안에서 바다로 걸어 들어가는 나이 든 해녀와 젊은 해녀의 뒷모습",
+      "status": "Generated"
+    }
+  ]
+}

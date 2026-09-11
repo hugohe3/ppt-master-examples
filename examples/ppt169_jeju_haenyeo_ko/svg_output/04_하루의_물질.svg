@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <g id="dive-scene" data-pptx-bounds="56 48 457 612">
+    <image href="../images/dive_column.jpg" x="56" y="48" width="457" height="612" preserveAspectRatio="xMidYMid meet"/>
+    <text x="252" y="124" font-size="18" font-weight="bold" fill="#123B4A">테왁 · 망시리</text>
+    <text x="340" y="552" font-size="18" font-weight="bold" fill="#F4F1EA">빗창</text>
+  </g>
+  <g id="header" data-pptx-bounds="572 66 644 150">
+    <text x="580" y="92" font-size="18" fill="#3F8C8A">1 · 물질은 어떻게 조직되는가</text>
+    <text font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A"><tspan x="580" y="146">하루 최대 7시간, 한 해 90일</tspan><tspan x="580" dy="50">물질은 무리 지어 한다</tspan></text>
+  </g>
+  <g id="surface-line" data-pptx-bounds="548 220 732 12">
+    <line x1="560" y1="226" x2="1280" y2="226" stroke="#3F8C8A" stroke-width="1.5"/>
+  </g>
+  <g id="kpi" data-pptx-bounds="572 250 644 156">
+    <g id="kpi-hours">
+      <text x="580" y="272" font-size="18" fill="#5B6970">하루 최대</text>
+      <text x="576" y="368" font-size="96" font-weight="bold" fill="#123B4A">7시간</text>
+    </g>
+    <g id="kpi-days">
+      <text x="900" y="272" font-size="18" fill="#5B6970">한 해</text>
+      <text x="896" y="368" font-size="96" font-weight="bold" fill="#123B4A">90일</text>
+    </g>
+    <text x="580" y="398" font-size="14" fill="#5B6970">유네스코 인류무형문화유산 등재 설명 기준</text>
+  </g>
+  <g id="crew" data-pptx-bounds="572 428 644 78">
+    <use data-icon="tabler-outline/users-group" x="580" y="440" width="32" height="32" fill="#3F8C8A" stroke-width="2"/>
+    <text x="628" y="466" font-size="24" fill="#1E2A30">보통 <tspan font-weight="bold" fill="#123B4A">15명</tspan> 정도가 무리 지어 조업</text>
+    <text x="628" y="496" font-size="18" fill="#5B6970">채취물: 소라 · 전복 · 성게 · 해조류</text>
+  </g>
+  <g id="tools" data-pptx-bounds="572 514 644 134">
+    <text x="580" y="536" font-size="18" fill="#3F8C8A">도구</text>
+    <text font-size="24" fill="#1E2A30"><tspan x="580" y="570"><tspan font-weight="bold" fill="#123B4A">빗창</tspan> — 전복을 떼어내는 철제 도구</tspan></text>
+    <text font-size="24" fill="#1E2A30"><tspan x="580" y="604"><tspan font-weight="bold" fill="#123B4A">테왁</tspan> — 헤엄치거나 숨을 고를 때 몸을 싣는 부력 도구</tspan></text>
+    <text font-size="24" fill="#1E2A30"><tspan x="580" y="638"><tspan font-weight="bold" fill="#123B4A">망시리</tspan> — 테왁에 달린 채취물 그물주머니</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">출처: 유네스코 「Culture of Jeju Haenyeo」(2016), 제주특별자치도 「물질하는 여성」, 제주해녀박물관 「해녀소개」</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">04 / 15</text>
+  </g>
+</svg>

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <g id="header" data-pptx-bounds="56 66 1160 100">
+    <text x="64" y="92" font-size="18" fill="#3F8C8A">3 · 누가 이 바다를 잇는가</text>
+    <text x="64" y="146" font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A">1970년 4.6%였던 60세 이상이 2025년에는 90.1%다</text>
+  </g>
+  <g id="age-shift" data-pptx-bounds="64 200 1152 344" data-pptx-replace-with="chart" data-pptx-fallback-sha256="16b1a6353e093de405a8396f96d171fdb5d2083fc131b3aa72242c159ea5c9e3">
+    <metadata type="application/json">{
+ "name": "age-shift",
+ "type": "bar",
+ "grouping": "stacked",
+ "x": 64, "y": 200, "width": 1152, "height": 344,
+ "plot_area": {"x": 190, "y": 260, "width": 960, "height": 220},
+ "categories": ["1970년", "2025년"],
+ "series": [
+  {"name": "30세 미만", "values": [31.3, 0.2], "data_labels": {"show_value": true, "position": "center", "number_format": "0.0\"%\"", "font_size": 16, "bold": true, "color": "#123B4A", "points": [{"idx": 1, "delete": true}]}},
+  {"name": "30~49세", "values": [54.9, 4.3], "data_labels": {"show_value": true, "position": "center", "number_format": "0.0\"%\"", "font_size": 16, "bold": true, "color": "#F4F1EA", "points": [{"idx": 1, "delete": true}]}},
+  {"name": "50~59세", "values": [9.2, 5.4], "data_labels": {"show_value": true, "position": "center", "number_format": "0.0\"%\"", "font_size": 16, "bold": true, "color": "#F4F1EA"}},
+  {"name": "60세 이상", "values": [4.6, 90.1], "data_labels": {"show_value": true, "position": "center", "number_format": "0.0\"%\"", "font_size": 16, "bold": true, "color": "#123B4A", "points": [{"idx": 0, "delete": true}]}}
+ ],
+ "gap_width": 60,
+ "axes": {"value": {"minimum": 0, "maximum": 100, "major_unit": 25, "number_format": "0\"%\"", "major_gridlines": true, "position": "bottom"}, "category": {"position": "left"}},
+ "axis_titles": {"value": "비율(%)"},
+ "show_legend": true,
+ "legend_position": "top",
+ "notes": [{"text": "60세 이상 4.6%", "width": 160}],
+ "style": {"colors": ["#9CC9C5", "#3F8C8A", "#123B4A", "#E0662B"], "text_color": "#1E2A30", "axis_color": "#5B6970", "grid_color": "#C9CFCC", "chart_area_fill": "none", "plot_area_fill": "none", "axis_font_size": 18, "axis_title_font_size": 18, "legend_font_size": 18}
+}</metadata>
+    <g id="age-shift-legend" font-size="18" fill="#1E2A30">
+      <rect x="190" y="214" width="14" height="14" fill="#9CC9C5"/>
+      <text x="212" y="227">30세 미만</text>
+      <rect x="330" y="214" width="14" height="14" fill="#3F8C8A"/>
+      <text x="352" y="227">30~49세</text>
+      <rect x="460" y="214" width="14" height="14" fill="#123B4A"/>
+      <text x="482" y="227">50~59세</text>
+      <rect x="590" y="214" width="14" height="14" fill="#E0662B"/>
+      <text x="612" y="227">60세 이상</text>
+    </g>
+    <g id="age-shift-chartArea">
+      <g id="age-shift-grid" stroke="#C9CFCC" stroke-width="1">
+        <line x1="430" y1="260" x2="430" y2="480"/>
+        <line x1="670" y1="260" x2="670" y2="480"/>
+        <line x1="910" y1="260" x2="910" y2="480"/>
+        <line x1="1150" y1="260" x2="1150" y2="480"/>
+      </g>
+      <line id="age-shift-axis" x1="190" y1="260" x2="190" y2="480" stroke="#5B6970" stroke-width="1.5"/>
+      <g font-size="18" fill="#1E2A30" text-anchor="end">
+        <text x="176" y="321">1970년</text>
+        <text x="176" y="431">2025년</text>
+      </g>
+      <g font-size="18" fill="#1E2A30" text-anchor="middle">
+        <text x="190" y="504">0%</text>
+        <text x="430" y="504">25%</text>
+        <text x="670" y="504">50%</text>
+        <text x="910" y="504">75%</text>
+        <text x="1150" y="504">100%</text>
+      </g>
+      <text x="670" y="534" font-size="18" fill="#1E2A30" text-anchor="middle">비율(%)</text>
+      <!-- chart-plot-area: object=age-shift | 190,260,1150,480 -->
+      <g id="age-shift-bars">
+        <rect x="190" y="280.63" width="300.48" height="68.75" fill="#9CC9C5"/>
+        <rect x="490.48" y="280.63" width="527.04" height="68.75" fill="#3F8C8A"/>
+        <rect x="1017.52" y="280.63" width="88.32" height="68.75" fill="#123B4A"/>
+        <rect x="1105.84" y="280.63" width="44.16" height="68.75" fill="#E0662B"/>
+        <rect x="190" y="390.63" width="1.92" height="68.75" fill="#9CC9C5"/>
+        <rect x="191.92" y="390.63" width="41.28" height="68.75" fill="#3F8C8A"/>
+        <rect x="233.2" y="390.63" width="51.84" height="68.75" fill="#123B4A"/>
+        <rect x="285.04" y="390.63" width="864.96" height="68.75" fill="#E0662B"/>
+      </g>
+      <g font-size="16" font-weight="bold" text-anchor="middle">
+        <text x="340.24" y="320.6" fill="#123B4A">31.3%</text>
+        <text x="754" y="320.6" fill="#F4F1EA">54.9%</text>
+        <text x="1061.68" y="320.6" fill="#F4F1EA">9.2%</text>
+        <text x="259.12" y="430.6" fill="#F4F1EA">5.4%</text>
+        <text x="717.52" y="430.6" fill="#123B4A">90.1%</text>
+      </g>
+      <text x="1150" y="272" font-size="16" font-weight="bold" fill="#E0662B" text-anchor="end">60세 이상 4.6%</text>
+    </g>
+  </g>
+  <g id="insight-elder" data-pptx-bounds="56 560 320 94">
+    <text x="64" y="582" font-size="18" fill="#5B6970">70세 이상(63.3%, 계산)</text>
+    <text x="64" y="632" font-size="40" font-weight="bold" fill="#E0662B">1,502명</text>
+  </g>
+  <g id="insight-young" data-pptx-bounds="392 560 320 94">
+    <text x="400" y="582" font-size="18" fill="#5B6970">40세 미만(1.3%, 계산)</text>
+    <text x="400" y="632" font-size="40" font-weight="bold" fill="#123B4A">30명</text>
+  </g>
+  <g id="remaining-badge" data-pptx-bounds="856 560 360 94">
+    <text x="864" y="582" font-size="18" fill="#5B6970">기준: 2025년 말 현직 해녀</text>
+    <text x="864" y="632" font-size="40" font-weight="bold" fill="#123B4A">2,371명</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">출처: 제주특별자치도 「물질하는 여성」(1970년), 제주해녀박물관 「제주해녀 현황」(2025년 말) · 2025년 비율은 인원으로 계산</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">11 / 15</text>
+  </g>
+</svg>

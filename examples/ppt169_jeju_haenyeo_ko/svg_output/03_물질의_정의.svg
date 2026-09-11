@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Malgun Gothic', sans-serif">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F4F1EA"/>
+  <g id="header" data-pptx-bounds="56 66 660 150">
+    <text x="64" y="92" font-size="18" fill="#3F8C8A">1 · 물질은 어떻게 조직되는가</text>
+    <text font-family="'Cambria', 'Batang', serif" font-size="40" fill="#123B4A"><tspan x="64" y="146">물질은 장비 없이</tspan><tspan x="64" dy="50">맨몸과 숨만으로 하는 일이다</tspan></text>
+  </g>
+  <g id="surface-line" data-pptx-bounds="0 220 716 12">
+    <line x1="0" y1="226" x2="700" y2="226" stroke="#3F8C8A" stroke-width="1.5"/>
+  </g>
+  <g id="definition" data-pptx-bounds="56 244 620 114">
+    <text font-size="24" fill="#1E2A30"><tspan x="64" y="270">해녀는 기계 장치 없이 맨몸과 호흡 조절만으로</tspan><tspan x="64" dy="36">바다에 들어가 해산물을 채취하는 것을 직업으로</tspan><tspan x="64" dy="36">하는 여성이며, 이 일을 ‘<tspan fill="#123B4A" font-weight="bold">물질</tspan>’이라 부릅니다.</tspan></text>
+  </g>
+  <g id="facts" data-pptx-bounds="56 380 620 230">
+    <g id="fact-depth">
+      <use data-icon="tabler-outline/ruler-measure" x="64" y="388" width="32" height="32" fill="#3F8C8A" stroke-width="2"/>
+      <text x="116" y="414" font-size="28" font-weight="bold" fill="#123B4A">수심 10m 이내</text>
+      <text x="116" y="442" font-size="18" fill="#5B6970">연안 어장에서 작업</text>
+    </g>
+    <g id="fact-breath">
+      <use data-icon="tabler-outline/hourglass" x="64" y="466" width="32" height="32" fill="#3F8C8A" stroke-width="2"/>
+      <text x="116" y="492" font-size="28" font-weight="bold" fill="#123B4A">한 번 잠수 약 <tspan fill="#E0662B">1~2분</tspan></text>
+      <text x="116" y="520" font-size="18" fill="#5B6970">폐활량에 따라 다르며, 2분 남짓 잠수하는 해녀도 있음</text>
+    </g>
+    <g id="fact-sumbi">
+      <use data-icon="tabler-outline/lungs" x="64" y="544" width="32" height="32" fill="#3F8C8A" stroke-width="2"/>
+      <text x="116" y="570" font-size="28" font-weight="bold" fill="#123B4A">숨비소리 ‘호오이’</text>
+      <text x="116" y="598" font-size="18" fill="#5B6970">떠올라 몸속 이산화탄소를 내뿜고 산소를 들이마시는 소리</text>
+    </g>
+  </g>
+  <g id="dive-scene" data-pptx-bounds="760 48 457 612">
+    <image href="../images/dive_column.jpg" x="760" y="48" width="457" height="612" preserveAspectRatio="xMidYMid meet"/>
+    <line x1="1162" y1="140" x2="1162" y2="495" stroke="#F4F1EA" stroke-width="1.5" stroke-dasharray="8,4,2,4"/>
+    <line x1="1152" y1="140" x2="1172" y2="140" stroke="#F4F1EA" stroke-width="1.5"/>
+    <line x1="1152" y1="495" x2="1172" y2="495" stroke="#F4F1EA" stroke-width="1.5"/>
+    <text x="1150" y="324" font-size="18" font-weight="bold" fill="#F4F1EA" text-anchor="end">10m 이내</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="56 668 1160 24">
+    <text x="64" y="684" font-size="14" fill="#5B6970">출처: 제주해녀박물관 「해녀소개」, 제주특별자치도 「물질하는 여성」</text>
+    <text x="1216" y="684" font-size="14" fill="#5B6970" text-anchor="end">03 / 15</text>
+  </g>
+</svg>
