@@ -2,11 +2,111 @@
   "version": 1,
   "updated": "2026-09-11",
   "stats": {
-    "examples": 43,
-    "pages": 609,
-    "templates": 43
+    "examples": 44,
+    "pages": 623,
+    "templates": 44
   },
   "projects": [
+    {
+      "id": "ppt169_beidou_navigation_narrated",
+      "title": "北斗:从一颗星到全球组网",
+      "description": "录播/自动播放科普讲解片 14 页 — 首个为无人值守播放而做的示例:Stage 1 把交付目的定为录播,触发 video-design 分镜规则,逐字旁白先写进 notes/total.md 再画页;MiniMax speech-2.8-hd 播音男声逐页配音 6.97 分钟,词级 SRT 14 份,32 个动画组全部锚定到「正在讲这件事」的旁白 cue、零回退,带旁白版 PPTX 内嵌音频并自动换页;输入只有题目,事实经 topic-research 取自北斗官网、2022 年白皮书与新华社报道并标年份;深空底、轨道与星座全部原生几何,三种轨道/星座构成 2 张原生图表 + 三代对比原生表格 + 定位原理原生公式,4 条来源超链接,Morph 3 组,AI 场景图 3 张",
+      "icon": "🛰️",
+      "color": "#0B1730",
+      "style": "science",
+      "styleName": "Narrated Explainer · 深空",
+      "desc": "A fourteen-page Chinese public-science explainer on the BeiDou Navigation Satellite System, from the first experimental satellite in 2000 to the completed global constellation in 2020 — the first example produced for recorded, self-running playback. The delivery purpose was fixed at Stage 1, which loaded the video-design reference: the per-scene narration was written verbatim to notes/total.md before any page was drawn and then read by MiniMax speech-2.8-hd (presenter_male) into fourteen page audio files with word-timed subtitles, 6.97 minutes in all; every one of the 32 animated groups is anchored to the subtitle cue that speaks about it, so the narrated PPTX plays click-free with auto-advance. The only input was the topic; facts came through topic research from the BeiDou system office, the 2022 white paper and Xinhua reports, each dated on the page. Deep-space field with orbits and the mixed GEO/IGSO/MEO constellation drawn as native geometry; two native charts, one native comparison table and one native formula for the four-range positioning principle; four native source hyperlinks; three Morph transitions; three derived AI scenes. Three exports: silent, native charts and tables, and narrated with embedded audio.",
+      "tags": [
+        "Science",
+        "Narrated",
+        "Video Delivery",
+        "Audio",
+        "Native Charts",
+        "Native Tables",
+        "Native Formula",
+        "Morph",
+        "AI Illustration"
+      ],
+      "isNew": true,
+      "folder": "ppt169_beidou_navigation_narrated/svg_final",
+      "generatedAt": "2026-09-11",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_beidou_navigation_narrated/exports/ppt169_beidou_navigation_narrated.pptx",
+      "pptxNative": "examples/ppt169_beidou_navigation_narrated/exports/ppt169_beidou_navigation_narrated_native_charts_tables.pptx",
+      "pptxNarrated": "examples/ppt169_beidou_navigation_narrated/exports/ppt169_beidou_navigation_narrated_narrated.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "北斗卫星导航系统:从一颗星到全球组网"
+        },
+        {
+          "file": "02_why_own_system.svg",
+          "title": "why_own_system",
+          "desc": "导航是基础设施,基础设施要自己能开"
+        },
+        {
+          "file": "03_three_steps_route.svg",
+          "title": "three_steps_route",
+          "desc": "一条路线,三十年,分三步走"
+        },
+        {
+          "file": "04_three_steps_turns.svg",
+          "title": "three_steps_turns",
+          "desc": "从有源到无源,再到全球组网"
+        },
+        {
+          "file": "05_three_generations.svg",
+          "title": "three_generations",
+          "desc": "三代北斗,差别不在多了几颗星"
+        },
+        {
+          "file": "06_three_orbits.svg",
+          "title": "three_orbits",
+          "desc": "三种轨道,一个星座"
+        },
+        {
+          "file": "07_orbit_duties.svg",
+          "title": "orbit_duties",
+          "desc": "每一层轨道都在替你做一件事"
+        },
+        {
+          "file": "08_constellation_split.svg",
+          "title": "constellation_split",
+          "desc": "30 颗星,24 颗在中圆轨道"
+        },
+        {
+          "file": "09_positioning_principle.svg",
+          "title": "positioning_principle",
+          "desc": "量四个距离,解四个未知数"
+        },
+        {
+          "file": "10_accuracy.svg",
+          "title": "accuracy",
+          "desc": "水平 9 米,授时 20 纳秒"
+        },
+        {
+          "file": "11_short_message.svg",
+          "title": "short_message",
+          "desc": "没有信号的地方,它还能替你发出一句话"
+        },
+        {
+          "file": "12_message_capacity.svg",
+          "title": "message_capacity",
+          "desc": "区域 1000 个汉字,全球 40 个"
+        },
+        {
+          "file": "13_already_around_you.svg",
+          "title": "already_around_you",
+          "desc": "98% 的国产手机里,已经有北斗"
+        },
+        {
+          "file": "14_next_2035.svg",
+          "title": "next_2035",
+          "desc": "下一步,到 2035 年"
+        }
+      ]
+    },
     {
       "id": "ppt169_fire_control_room_duty_manual",
       "title": "消防控制室值班手册",

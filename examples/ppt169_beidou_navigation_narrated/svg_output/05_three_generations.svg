@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 800 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">三代北斗,差别不在多了几颗星</text>
+  </g>
+
+  <g id="table-lead" data-pptx-bounds="64 164 960 56">
+    <text x="72" y="200" font-size="36" fill="#8FA0C0">同一组判据横向读:真正的分水岭在定位体制这一行。</text>
+  </g>
+
+  <g id="three-generation-comparison" data-pptx-replace-with="table" data-pptx-bounds="64 292 1152 358" data-pptx-fallback-sha256="a19e6061e5389a68074d537ee93fd07933c1d59728d8bc8472bb2cfc588e60d1">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "three-generation-comparison",
+  "x": 72, "y": 300, "width": 1136, "height": 344,
+  "column_widths": [260, 250, 313, 313],
+  "row_heights": [56, 72, 72, 72, 72],
+  "header_rows": 1,
+  "style": {
+    "font_size": 22,
+    "header_font_size": 30,
+    "header_fill": "#111C38",
+    "header_text": "#D8E0F0",
+    "body_fill": "#0E1730",
+    "body_text": "#D8E0F0",
+    "font_family": "Microsoft YaHei",
+    "border_color": "#1E2B4A",
+    "border_width": 1,
+    "valign": "middle",
+    "padding": 12
+  },
+  "defaults": { "cell": { "align": "ctr" } },
+  "columns": [
+    { "text": "判据", "align": "l", "bold": true, "borders": { "bottom": { "style": "solid", "color": "#4EA8FF", "width": 2 } } },
+    { "text": "北斗一号", "bold": true, "borders": { "bottom": { "style": "solid", "color": "#4EA8FF", "width": 2 } } },
+    { "text": "北斗二号", "bold": true, "borders": { "bottom": { "style": "solid", "color": "#4EA8FF", "width": 2 } } },
+    { "text": "北斗三号", "bold": true, "borders": { "bottom": { "style": "solid", "color": "#4EA8FF", "width": 2 } } }
+  ],
+  "rows": [
+    [ { "text": "建成时间", "align": "l" }, "2000年年底", "2012年年底", "2020年" ],
+    [ { "text": "服务范围", "align": "l" }, "中国", "亚太地区", "全球" ],
+    [ { "text": "定位体制", "align": "l", "color": "#FFC24B", "bold": true, "borders": { "left": { "style": "solid", "color": "#FFC24B", "width": 4 } } },
+      { "text": "有源定位", "color": "#FFC24B", "bold": true },
+      { "text": "兼容有源,增加无源", "color": "#FFC24B", "bold": true },
+      { "text": "继承两种,加星间链路", "color": "#FFC24B", "bold": true } ],
+    [ { "text": "星座构成", "align": "l" }, "3颗 GEO", "14颗:5GEO+5IGSO+4MEO", "30颗:3GEO+3IGSO+24MEO" ]
+  ]
+}
+    </metadata>
+    <rect x="72" y="300" width="1136" height="56" fill="#111C38"/>
+    <rect x="72" y="356" width="1136" height="288" fill="#0E1730"/>
+    <rect x="72" y="500" width="1136" height="72" fill="#0E1730"/>
+    <rect x="72" y="500" width="4" height="72" fill="#FFC24B"/>
+    <g id="tgc-grid" stroke="#1E2B4A" stroke-width="1" fill="none">
+      <path d="M72 300V644 M332 300V644 M582 300V644 M895 300V644 M1208 300V644 M72 300H1208 M72 428H1208 M72 500H1208 M72 572H1208 M72 644H1208"/>
+    </g>
+    <line x1="72" y1="356" x2="1208" y2="356" stroke="#4EA8FF" stroke-width="2"/>
+    <g id="tgc-header" font-size="30" font-weight="bold" fill="#D8E0F0">
+      <text x="84" y="338">判据</text>
+      <text x="457" y="338" text-anchor="middle">北斗一号</text>
+      <text x="738" y="338" text-anchor="middle">北斗二号</text>
+      <text x="1052" y="338" text-anchor="middle">北斗三号</text>
+    </g>
+    <g id="tgc-body" font-size="22" fill="#D8E0F0">
+      <text x="84" y="400">建成时间</text>
+      <text x="457" y="400" text-anchor="middle">2000年年底</text>
+      <text x="738" y="400" text-anchor="middle">2012年年底</text>
+      <text x="1052" y="400" text-anchor="middle">2020年</text>
+      <text x="84" y="472">服务范围</text>
+      <text x="457" y="472" text-anchor="middle">中国</text>
+      <text x="738" y="472" text-anchor="middle">亚太地区</text>
+      <text x="1052" y="472" text-anchor="middle">全球</text>
+      <text x="84" y="616">星座构成</text>
+      <text x="457" y="616" text-anchor="middle">3颗 GEO</text>
+      <text x="738" y="616" text-anchor="middle">14颗:5GEO+5IGSO+4MEO</text>
+      <text x="1052" y="616" text-anchor="middle">30颗:3GEO+3IGSO+24MEO</text>
+    </g>
+    <g id="tgc-pivot-row" font-size="22" font-weight="bold" fill="#FFC24B">
+      <text x="84" y="544">定位体制</text>
+      <text x="457" y="544" text-anchor="middle">有源定位</text>
+      <text x="738" y="544" text-anchor="middle">兼容有源,增加无源</text>
+      <text x="1052" y="544" text-anchor="middle">继承两种,加星间链路</text>
+    </g>
+  </g>
+
+  <g id="page-source" data-pptx-bounds="64 656 760 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:北斗卫星导航系统官网《系统介绍》《公开服务性能规范(3.0版)》2021</text>
+  </g>
+</svg>

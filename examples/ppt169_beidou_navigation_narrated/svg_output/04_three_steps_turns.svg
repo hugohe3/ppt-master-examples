@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 760 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">从有源到无源,再到全球组网</text>
+  </g>
+
+  <g id="network-record" data-pptx-bounds="792 186 416 162">
+    <text x="800" y="210" font-size="22" fill="#8FA0C0">全球星座部署</text>
+    <text x="800" y="300" font-family="Consolas" font-size="88" fill="#FFC24B">18箭30星</text>
+    <text x="800" y="336" font-family="Consolas" font-size="18" fill="#8FA0C0">两年半完成,创世界导航卫星组网新纪录</text>
+  </g>
+
+  <g id="timeline-axis" data-pptx-bounds="84 376 1116 192">
+    <line x1="140" y1="470" x2="1020" y2="470" stroke="#1E2B4A" stroke-width="2"/>
+    <line x1="1020" y1="470" x2="1140" y2="470" stroke="#1E2B4A" stroke-width="2" stroke-dasharray="8,4"/>
+    <g id="coverage-progress">
+      <line x1="140" y1="470" x2="1020" y2="470" stroke="#4EA8FF" stroke-width="4"/>
+      <circle cx="1020" cy="470" r="9" fill="#FFC24B"/>
+    </g>
+    <g id="step-one">
+      <text x="260" y="420" font-family="Consolas" font-size="40" fill="#4EA8FF" text-anchor="middle">2000</text>
+      <circle cx="260" cy="470" r="9" fill="#060B1A" stroke="#4EA8FF" stroke-width="3"/>
+      <text x="260" y="524" font-size="22" fill="#35D0A5" text-anchor="middle">有源定位:用户得先发信号</text>
+      <text x="260" y="556" font-family="Consolas" font-size="18" fill="#8FA0C0" text-anchor="middle">2000-10-31 首星 · 2003-05-25 建成</text>
+    </g>
+    <g id="step-two">
+      <text x="640" y="420" font-family="Consolas" font-size="40" fill="#4EA8FF" text-anchor="middle">2012</text>
+      <circle cx="640" cy="470" r="9" fill="#060B1A" stroke="#4EA8FF" stroke-width="3"/>
+      <text x="640" y="524" font-size="22" fill="#35D0A5" text-anchor="middle">增加无源定位:只靠接收</text>
+      <text x="640" y="556" font-family="Consolas" font-size="18" fill="#8FA0C0" text-anchor="middle">2012-12-27 区域服务 · 14星</text>
+    </g>
+    <g id="step-three">
+      <text x="1020" y="420" font-family="Consolas" font-size="40" fill="#FFC24B" text-anchor="middle">2020</text>
+      <circle cx="1020" cy="470" r="16" fill="none" stroke="#FFC24B" stroke-width="2"/>
+      <text x="1020" y="524" font-size="22" fill="#35D0A5" text-anchor="middle">两种体制 + 星间链路</text>
+      <text x="1020" y="556" font-family="Consolas" font-size="18" fill="#8FA0C0" text-anchor="middle">2020-06-23 收官星 · 2020-07-31 开通</text>
+    </g>
+  </g>
+
+  <g id="page-source" data-pptx-bounds="64 656 760 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:北斗卫星导航系统官网 · 新华网 2020-06-23 · 中国政府网 2020-07-31</text>
+  </g>
+</svg>

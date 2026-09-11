@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+  <line id="instrument-beam" data-pptx-role="decoration" x1="72" y1="470" x2="1208" y2="470" stroke="#1E2B4A" stroke-width="1"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 960 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">导航是基础设施,基础设施要自己能开</text>
+  </g>
+
+  <g id="definition-quote" data-pptx-bounds="64 208 800 172">
+    <g id="p02-quote-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="72 214 26 120" fill="none" stroke="#4EA8FF" stroke-width="2">
+      <path d="M 98 334 A 26 2.17 0 0 1 72 331.83 L 72 216.17 A 26 2.17 0 0 1 98 214 Z" stroke="none"/>
+      <path d="M 98 334 A 26 2.17 0 0 1 72 331.83 L 72 216.17 A 26 2.17 0 0 1 98 214"/>
+    </g>
+    <text x="120" y="252" font-size="36" fill="#D8E0F0">中国着眼于国家安全和经济社会发展需要,<tspan x="120" dy="58">自主建设运行的全球卫星导航系统。</tspan></text>
+    <text x="120" y="364" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:中国卫星导航系统管理办公室官网《系统介绍》</text>
+  </g>
+
+  <g id="services-triad" data-pptx-bounds="64 428 578 192">
+    <text x="72" y="452" font-size="22" fill="#8FA0C0">它提供的三件事</text>
+    <g id="service-positioning">
+      <line x1="150" y1="470" x2="150" y2="502" stroke="#1E2B4A" stroke-width="1"/>
+      <use data-icon="tabler-outline/map-pin" x="128" y="518" width="44" height="44" fill="#4EA8FF" stroke-width="3"/>
+      <text x="150" y="604" font-size="22" fill="#D8E0F0" text-anchor="middle">定位</text>
+    </g>
+    <g id="service-navigation">
+      <line x1="380" y1="470" x2="380" y2="502" stroke="#1E2B4A" stroke-width="1"/>
+      <use data-icon="tabler-outline/route" x="358" y="518" width="44" height="44" fill="#4EA8FF" stroke-width="3"/>
+      <text x="380" y="604" font-size="22" fill="#D8E0F0" text-anchor="middle">导航</text>
+    </g>
+    <g id="service-timing">
+      <line x1="610" y1="470" x2="610" y2="502" stroke="#1E2B4A" stroke-width="1"/>
+      <use data-icon="tabler-outline/clock" x="588" y="518" width="44" height="44" fill="#4EA8FF" stroke-width="3"/>
+      <text x="610" y="604" font-size="22" fill="#D8E0F0" text-anchor="middle">授时</text>
+    </g>
+  </g>
+
+  <g id="build-principles" data-pptx-bounds="856 416 352 230">
+    <line x1="868" y1="424" x2="868" y2="636" stroke="#1E2B4A" stroke-width="1"/>
+    <text x="890" y="440" font-size="22" fill="#8FA0C0">建设原则</text>
+    <text x="890" y="496" font-family="SimHei" font-size="40" fill="#FFC24B">自主</text>
+    <text x="890" y="540" font-family="SimHei" font-size="40" fill="#8FA0C0">开放</text>
+    <text x="890" y="584" font-family="SimHei" font-size="40" fill="#8FA0C0">兼容</text>
+    <text x="890" y="628" font-family="SimHei" font-size="40" fill="#8FA0C0">渐进</text>
+  </g>
+</svg>

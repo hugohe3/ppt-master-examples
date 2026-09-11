@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#060B1A" stop-opacity="0.90"/>
+      <stop offset="55%" stop-color="#060B1A" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#060B1A" stop-opacity="0"/>
+    </linearGradient>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#4EA8FF"/>
+    </marker>
+  </defs>
+
+  <image id="cover-field" data-pptx-role="background" href="../images/cover_orbit_earth_fit.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#coverScrim)"/>
+
+  <g id="cover-title" data-pptx-bounds="64 126 936 206" font-family="SimHei">
+    <text x="72" y="168" font-size="40" fill="#8FA0C0">北斗卫星导航系统</text>
+    <text x="72" y="290" font-size="96" fill="#D8E0F0">从一颗星到全球组网</text>
+  </g>
+
+  <g id="cover-state-first" data-pptx-bounds="64 478 180 130">
+    <text x="72" y="560" font-family="Consolas" font-size="88" fill="#FFC24B">1</text>
+    <text x="140" y="560" font-size="22" fill="#D8E0F0">颗试验星</text>
+    <text x="72" y="594" font-family="Consolas" font-size="18" fill="#8FA0C0">2000-10-31</text>
+  </g>
+
+  <g id="cover-state-now" data-pptx-bounds="292 478 588 130">
+    <line x1="300" y1="548" x2="560" y2="548" stroke="#4EA8FF" stroke-width="2" stroke-dasharray="8,4" marker-end="url(#arrowBlue)"/>
+    <text x="608" y="560" font-family="Consolas" font-size="88" fill="#FFC24B">30</text>
+    <text x="728" y="560" font-size="22" fill="#D8E0F0">颗全球组网星</text>
+    <text x="608" y="594" font-family="Consolas" font-size="18" fill="#8FA0C0">2020-07-31</text>
+  </g>
+
+  <g id="cover-source" data-pptx-bounds="64 656 520 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:北斗卫星导航系统官网 · 中国政府网 2020</text>
+  </g>
+</svg>

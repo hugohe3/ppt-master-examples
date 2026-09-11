@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 760 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">30 颗星,24 颗在中圆轨道</text>
+  </g>
+
+  <g id="split-lead" data-pptx-bounds="64 164 760 56">
+    <text x="72" y="200" font-size="36" fill="#8FA0C0">干全球定位这份活的主力,是那 24 颗。</text>
+  </g>
+
+  <g id="constellation-composition" data-pptx-replace-with="chart" data-pptx-bounds="240 252 800 358" data-pptx-fallback-sha256="d5cbd7e97fe84fcb4abe96d6afe21b736f245774efd3a8502edf10c9ca144e9f">
+    <metadata type="application/json">
+{
+  "name": "constellation-composition",
+  "x": 250, "y": 260, "width": 780, "height": 340,
+  "type": "doughnut",
+  "hole_size": 62,
+  "categories": ["MEO 中圆地球轨道 24 颗", "GEO 地球静止轨道 3 颗", "IGSO 倾斜地球同步轨道 3 颗"],
+  "series": [
+    { "name": "北斗三号标称空间星座", "values": [24, 3, 3], "point_colors": ["#35D0A5", "#FFC24B", "#8FA0C0"] }
+  ],
+  "show_legend": true,
+  "legend_position": "right",
+  "style": {
+    "font_family": "Microsoft YaHei",
+    "font_size": 22,
+    "legend_font_size": 22,
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#D8E0F0"
+  },
+  "notes": [
+    { "text": "30", "x": 340, "y": 368, "width": 160, "height": 96, "font_size": 88, "color": "#D8E0F0", "align": "ctr" },
+    { "text": "颗在轨组网星", "x": 320, "y": 456, "width": 200, "height": 32, "font_size": 22, "color": "#8FA0C0", "align": "ctr" }
+  ]
+}
+    </metadata>
+    <g id="constellation-composition-chartArea">
+      <!-- chart-plot-area: object=constellation-composition | donut | center: 420,430 | outer-radius: 170 | inner-radius: 105 -->
+      <path d="M 420 260 A 170 170 0 1 1 258.32 377.47 L 320.13 397.55 A 105 105 0 1 0 420 325 Z" fill="#35D0A5"/>
+      <path d="M 258.32 377.47 A 170 170 0 0 1 320.07 292.47 L 358.28 345.05 A 105 105 0 0 0 320.13 397.55 Z" fill="#FFC24B"/>
+      <path d="M 320.07 292.47 A 170 170 0 0 1 420 260 L 420 325 A 105 105 0 0 0 358.28 345.05 Z" fill="#8FA0C0"/>
+    </g>
+    <text x="420" y="440" font-family="Consolas" font-size="88" fill="#D8E0F0" text-anchor="middle">30</text>
+    <text x="420" y="480" font-size="22" fill="#8FA0C0" text-anchor="middle">颗在轨组网星</text>
+    <g id="constellation-legend" font-size="22" fill="#D8E0F0">
+      <rect x="700" y="326" width="16" height="16" fill="#35D0A5"/>
+      <text x="728" y="340">MEO 中圆地球轨道 24 颗</text>
+      <rect x="700" y="416" width="16" height="16" fill="#FFC24B"/>
+      <text x="728" y="430">GEO 地球静止轨道 3 颗</text>
+      <rect x="700" y="506" width="16" height="16" fill="#8FA0C0"/>
+      <text x="728" y="520">IGSO 倾斜地球同步轨道 3 颗</text>
+    </g>
+  </g>
+
+  <g id="page-source" data-pptx-bounds="64 656 760 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:《北斗卫星导航系统公开服务性能规范(3.0版)》2021 §4.1</text>
+  </g>
+</svg>

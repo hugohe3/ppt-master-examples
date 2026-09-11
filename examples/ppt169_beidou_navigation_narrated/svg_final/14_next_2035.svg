@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A" />
+
+  <g id="page-title" data-pptx-bounds="64 84 540 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">下一步,到 2035 年</text>
+  </g>
+
+  <g id="closing-takeaway" data-pptx-bounds="64 194 1040 108">
+    <text fill="#D8E0F0" font-size="36" x="72" y="230">从一颗试验星到三十颗组网星,用了二十年;</text><text fill="#D8E0F0" font-size="36" x="72" y="284">下一个二十年,北斗要从一个导航系统变成一整套时空体系。</text></g>
+
+  <g id="timeline-2035" data-pptx-bounds="132 390 1076 186">
+    <line x1="140" y1="470" x2="1020" y2="470" stroke="#4EA8FF" stroke-width="4" />
+    <line x1="1020" y1="470" x2="1240" y2="470" stroke="#1E2B4A" stroke-width="2" stroke-dasharray="8,4" />
+    <g id="milestone-2020">
+      <text x="1020" y="430" font-family="Consolas" font-size="40" fill="#8FA0C0" text-anchor="middle">2020</text>
+      <circle cx="1020" cy="470" r="9" fill="#4EA8FF" />
+      <text x="1020" y="510" font-family="Consolas" font-size="18" fill="#8FA0C0" text-anchor="middle">全球开通</text>
+    </g>
+    <g id="milestone-2035">
+      <text x="1140" y="430" font-family="Consolas" font-size="40" fill="#FFC24B" text-anchor="middle">2035</text>
+      <circle cx="1140" cy="470" r="12" fill="none" stroke="#FFC24B" stroke-width="2" stroke-dasharray="4,3" />
+      <text x="1140" y="510" font-family="Consolas" font-size="18" fill="#FFC24B" text-anchor="middle">综合时空体系</text>
+    </g>
+    <g id="target-qualities">
+      <text x="140" y="520" font-family="Consolas" font-size="18" fill="#8FA0C0">国家综合时空体系</text>
+      <text x="140" y="560" font-size="22" fill="#D8E0F0">更加泛在 · 更加融合 · 更加智能</text>
+    </g>
+  </g>
+
+  <g id="source-links" data-pptx-bounds="64 588 960 96">
+    <text x="72" y="610" font-size="22" fill="#8FA0C0">本片事实来源(可点击)</text>
+    <text x="72" y="640" font-family="Consolas" font-size="18" fill="#4EA8FF"><a href="http://www.beidou.gov.cn/xt/xtjs/"><tspan text-decoration="underline">中国卫星导航系统管理办公室官网</tspan></a></text>
+    <text x="640" y="640" font-family="Consolas" font-size="18" fill="#4EA8FF"><a href="http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf"><tspan text-decoration="underline">《公开服务性能规范(3.0版)》2021</tspan></a></text>
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#4EA8FF"><a href="https://www.gov.cn/zhengce/2022-11/04/content_5724523.htm"><tspan text-decoration="underline">《新时代的中国北斗》白皮书 2022</tspan></a></text>
+    <text x="640" y="676" font-family="Consolas" font-size="18" fill="#4EA8FF"><a href="http://www.news.cn/politics/20250518/c81eaecabddd4ca79ffcfb1cb1ade4a7/c.html"><tspan text-decoration="underline">2024 年产业产值(新华网)</tspan></a></text>
+  </g>
+</svg>

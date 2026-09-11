@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="section">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 760 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">一条路线,三十年,分三步走</text>
+  </g>
+
+  <g id="route-lead" data-pptx-bounds="64 164 960 56">
+    <text x="72" y="200" font-size="36" fill="#8FA0C0">1994年,三步走的发展战略与北斗一号建设同时定下。</text>
+  </g>
+
+  <g id="timeline-axis" data-pptx-bounds="132 380 1016 186">
+    <line x1="140" y1="470" x2="1020" y2="470" stroke="#1E2B4A" stroke-width="2"/>
+    <line x1="1020" y1="470" x2="1140" y2="470" stroke="#1E2B4A" stroke-width="2" stroke-dasharray="8,4"/>
+    <g id="coverage-progress">
+      <line x1="140" y1="470" x2="260" y2="470" stroke="#4EA8FF" stroke-width="4"/>
+      <circle cx="260" cy="470" r="9" fill="#FFC24B"/>
+    </g>
+    <g id="step-one">
+      <text x="260" y="420" font-family="Consolas" font-size="40" fill="#FFC24B" text-anchor="middle">2000</text>
+      <circle cx="260" cy="470" r="16" fill="none" stroke="#FFC24B" stroke-width="2"/>
+      <text x="260" y="524" font-size="22" fill="#D8E0F0" text-anchor="middle">北斗一号</text>
+      <text x="260" y="556" font-family="Consolas" font-size="18" fill="#8FA0C0" text-anchor="middle">服务中国</text>
+    </g>
+    <g id="step-two">
+      <text x="640" y="420" font-family="Consolas" font-size="40" fill="#4EA8FF" text-anchor="middle">2012</text>
+      <circle cx="640" cy="470" r="9" fill="#060B1A" stroke="#4EA8FF" stroke-width="3"/>
+      <text x="640" y="524" font-size="22" fill="#D8E0F0" text-anchor="middle">北斗二号</text>
+      <text x="640" y="556" font-family="Consolas" font-size="18" fill="#8FA0C0" text-anchor="middle">服务亚太</text>
+    </g>
+    <g id="step-three">
+      <text x="1020" y="420" font-family="Consolas" font-size="40" fill="#4EA8FF" text-anchor="middle">2020</text>
+      <circle cx="1020" cy="470" r="9" fill="#060B1A" stroke="#4EA8FF" stroke-width="3"/>
+      <text x="1020" y="524" font-size="22" fill="#D8E0F0" text-anchor="middle">北斗三号</text>
+      <text x="1020" y="556" font-family="Consolas" font-size="18" fill="#8FA0C0" text-anchor="middle">服务全球</text>
+    </g>
+  </g>
+
+  <g id="page-source" data-pptx-bounds="64 656 720 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:北斗卫星导航系统官网《系统介绍》与北斗建设三步走专题 2020</text>
+  </g>
+</svg>

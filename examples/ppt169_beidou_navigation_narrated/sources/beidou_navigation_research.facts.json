@@ -1,0 +1,302 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "北斗卫星导航系统:从一颗星到全球组网",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "北斗卫星导航系统是中国着眼于国家安全和经济社会发展需要,自主建设运行的全球卫星导航系统,为全球用户提供全天候、全天时、高精度的定位、导航和授时服务。",
+      "source_title": "北斗卫星导航系统官网 — 系统介绍",
+      "source_url": "http://www.beidou.gov.cn/xt/xtjs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "北斗采取三步走发展战略:2000年年底建成北斗一号系统向中国提供服务;2012年年底建成北斗二号系统向亚太地区提供服务;2020年建成北斗三号系统向全球提供服务。",
+      "source_title": "北斗卫星导航系统官网 — 系统介绍(发展历程)",
+      "source_url": "http://www.beidou.gov.cn/xt/xtjs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "2000年10月31日,中国在西昌卫星发射中心成功发射第一颗北斗导航试验卫星。",
+      "source_title": "共产党员网 — 百年瞬间:北斗导航试验卫星发射成功",
+      "source_url": "https://www.12371.cn/2021/11/01/VIDE1635753841604677.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "2003年5月25日第三颗北斗导航试验卫星发射,北斗一号系统建成,中国成为继美国、俄罗斯之后第三个建立卫星导航系统的国家。",
+      "source_title": "国家国防科技工业局 — 从中国的北斗到世界的北斗",
+      "source_url": "https://www.sastind.gov.cn/n10086200/n10086344/c10158774/content.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "2012年12月27日,北斗卫星导航系统正式提供区域服务,向亚太大部分地区提供连续无源定位、导航、授时服务。",
+      "source_title": "北斗卫星导航系统官网 — 北斗卫星导航系统正式提供区域服务",
+      "source_url": "http://m.beidou.gov.cn/yw/xwzx/lsxw/xwzx2012/201710/t20171010_501.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "2020年6月23日9时43分,西昌卫星发射中心用长征三号乙运载火箭成功发射北斗系统第55颗导航卫星,即北斗三号最后一颗全球组网卫星,星座部署比原计划提前半年全面完成。",
+      "source_title": "新华网 — 我国提前半年完成北斗全球系统星座部署",
+      "source_url": "http://www.xinhuanet.com/politics/2020-06/23/c_1126149640.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "2020年7月31日,北斗三号全球卫星导航系统建成暨开通仪式在北京举行,系统正式开通。",
+      "source_title": "中国政府网 — 习近平出席建成暨开通仪式并宣布北斗三号全球卫星导航系统正式开通",
+      "source_url": "https://www.gov.cn/xinwen/2020-07/31/content_5531676.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "北斗三号标称空间星座由3颗地球静止轨道(GEO)卫星、3颗倾斜地球同步轨道(IGSO)卫星和24颗中圆地球轨道(MEO)卫星共30颗组成。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) §4.1",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "GEO卫星轨道高度35786千米,分别定点于东经80度、110.5度和140度;IGSO卫星轨道高度35786千米、轨道倾角55度;MEO卫星轨道高度21528千米、轨道倾角55度,分布于Walker24/3/1星座。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) §4.1",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "北斗三号定位精度指标(95%):全球平均水平方向优于9米、垂直方向优于10米;最差位置水平优于15米、垂直优于22米。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) 表5-13",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "北斗三号测速精度指标(95%):全球平均优于0.2米/秒。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) 表5-14",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "北斗三号授时精度指标(95%):全球平均优于20纳秒。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) 表5-15",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "北斗三号定位服务可用性指标:全球平均不低于99%,最差位置不低于90%。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) 表5-17",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "区域短报文通信服务(RSMC)性能指标:服务成功率不低于95%,服务时延平均优于2秒,服务频度平均1次/30秒,单次报文最大长度不超过14000比特。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) 表7-1",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "全球短报文通信最大单次报文长度560比特(40个汉字),区域短报文通信最大单次报文长度14000比特(1000个汉字)。",
+      "source_title": "国务院新闻办公室白皮书《新时代的中国北斗》",
+      "source_url": "https://www.gov.cn/zhengce/2022-11/04/content_5724523.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "精密单点定位(PPP)服务由北斗三号3颗GEO卫星的PPP-B2b信号提供;定位精度(95%)BDS水平优于0.3米、垂直优于0.6米,BDS+GPS水平优于0.2米、垂直优于0.4米;收敛时间优于30分钟。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) §6 与白皮书《新时代的中国北斗》",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "精密单点定位服务与区域短报文通信服务的服务区为中国及周边地区,即东经75度到135度、北纬10度到55度的区域。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) §6.2、§7.2",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "国际搜救服务由均匀分布在3个轨道面的6颗搭载搜救载荷的MEO卫星提供,返向链路由24颗MEO卫星和3颗IGSO卫星经星间链路提供;搜救定位精度不低于5千米。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) §8",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "北斗以两年半时间18箭30星的中国速度完成全球星座部署,创造世界导航卫星组网新纪录。",
+      "source_title": "国务院新闻办公室白皮书《新时代的中国北斗》",
+      "source_url": "https://www.gov.cn/zhengce/2022-11/04/content_5724523.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "北斗空间段采用三种轨道卫星组成的混合星座,与其他卫星导航系统相比高轨卫星更多,抗遮挡能力强,尤其低纬度地区性能优势更为明显;北斗创新融合了导航与通信能力。",
+      "source_title": "北斗卫星导航系统官网 — 系统介绍(发展特色)",
+      "source_url": "http://www.beidou.gov.cn/xt/xtjs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "北斗系统已在交通运输、农林渔业、水文监测、气象测报、通信授时、电力调度、救灾减灾、公共安全等领域得到广泛应用。",
+      "source_title": "北斗卫星导航系统官网 — 系统介绍(概述)",
+      "source_url": "http://www.beidou.gov.cn/xt/xtjs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "2024年中国卫星导航与位置服务产业总体产值达5758亿元,同比增长7.39%;其中核心产值1699亿元占比29.51%,关联产值4059亿元占比70.49%。",
+      "source_title": "新华网 — 2024年中国卫星导航与位置服务产业总产值达5758亿元",
+      "source_url": "http://www.news.cn/politics/20250518/c81eaecabddd4ca79ffcfb1cb1ade4a7/c.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "2024年国内约2.88亿部智能手机支持北斗定位功能,占比达98%;国内卫星导航定位终端产品总销量超过4.1亿台/套。",
+      "source_title": "《2025中国卫星导航与位置服务产业发展白皮书》(中国卫星导航定位协会)",
+      "source_url": "https://www.csgpc.org/detail/25204.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "2035年前中国还将建设完善更加泛在、更加融合、更加智能的综合时空体系。",
+      "source_title": "北斗卫星导航系统官网 — 系统介绍(远景目标)",
+      "source_url": "http://www.beidou.gov.cn/xt/xtjs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "北斗空间信号精度(SISRE)指标:所有在轨运行卫星公开服务健康空间信号统计值(95%)优于2米。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) 表5-5",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "中国坚持自主、开放、兼容、渐进的原则建设和发展北斗系统;其中自主是指坚持自主建设、发展和运行北斗系统,具备向全球用户独立提供卫星导航服务的能力。",
+      "source_title": "北斗卫星导航系统官网 — 系统介绍(建设原则)",
+      "source_url": "http://www.beidou.gov.cn/xt/xtjs/",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "2012年正式提供区域服务时,北斗系统拥有14颗卫星和32个地面站。",
+      "source_title": "中国气象局转新华网 — 北斗卫星导航系统正式提供区域服务",
+      "source_url": "https://www.cma.gov.cn/2011xwzx/2011xmtjj/201212/t20121227_199641.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "北斗三号的定位导航授时(RNSS)服务通过B1C、B2a、B2b、B1I、B3I信号提供,用户通过该服务可确定自己的位置、速度和时间。",
+      "source_title": "北斗卫星导航系统公开服务性能规范(3.0版) §5.1",
+      "source_url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "北斗提供的无源定位、导航、授时服务是免费的;短报文通信服务需通过北斗运营商注册申请。",
+      "source_title": "北斗卫星导航系统官网 — 常见问题",
+      "source_url": "http://www.beidou.gov.cn/bz/cjwt/",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "白皮书结束语提出以下一代北斗系统为核心,建设更加泛在、更加融合、更加智能的综合时空体系。",
+      "source_title": "国务院新闻办公室白皮书《新时代的中国北斗》",
+      "source_url": "https://www.gov.cn/zhengce/2022-11/04/content_5724523.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "1994年北斗一号系统建设正式启动;2000年发射2颗地球静止轨道(GEO)卫星,北斗一号系统建成并投入使用;2003年又发射第3颗GEO卫星,进一步增强系统性能。",
+      "source_title": "北斗卫星导航系统官网 — \"数\"说北斗丨从起步到全球组网 北斗建设的\"三步走\"",
+      "source_url": "http://www.beidou.gov.cn/yw/xwzx/202006/t20200615_20649.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "北斗一号采用有源定位体制:用户需要发射信号,系统才能对其定位;这个过程要依赖卫星转发器,所以有时间延迟,且容量有限,满足不了高动态的需求。",
+      "source_title": "北斗卫星导航系统官网 — \"数\"说北斗丨从起步到全球组网 北斗建设的\"三步走\"",
+      "source_url": "http://www.beidou.gov.cn/yw/xwzx/202006/t20200615_20649.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "北斗一号巧妙设计了双向短报文通信功能,这种通信与导航一体化的设计是北斗的独创。",
+      "source_title": "北斗卫星导航系统官网 — \"数\"说北斗丨从起步到全球组网 北斗建设的\"三步走\"",
+      "source_url": "http://www.beidou.gov.cn/yw/xwzx/202006/t20200615_20649.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "2004年北斗二号系统建设启动,到2012年完成14颗卫星发射组网,其中5颗GEO、5颗IGSO、4颗MEO;北斗二号在兼容北斗一号有源定位体制的基础上增加了无源定位体制,用户不用自己发射信号,仅靠接收信号就能定位,解决了用户容量限制并满足高动态需求。",
+      "source_title": "北斗卫星导航系统官网 — \"数\"说北斗丨从起步到全球组网 北斗建设的\"三步走\"",
+      "source_url": "http://www.beidou.gov.cn/yw/xwzx/202006/t20200615_20649.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "2009年北斗三号系统建设启动,到2020年完成30颗卫星发射组网;北斗三号继承了有源定位和无源定位两种技术体制,通过星间链路解决了全球组网需要全球布站的问题。",
+      "source_title": "北斗卫星导航系统官网 — \"数\"说北斗丨从起步到全球组网 北斗建设的\"三步走\"",
+      "source_url": "http://www.beidou.gov.cn/yw/xwzx/202006/t20200615_20649.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "北斗三号为全球用户提供定位导航授时、全球短报文通信和国际搜救等服务,同时在中国及周边地区提供星基增强、地基增强、精密单点定位和区域短报文通信服务。",
+      "source_title": "北斗卫星导航系统官网 — \"数\"说北斗丨从起步到全球组网 北斗建设的\"三步走\"",
+      "source_url": "http://www.beidou.gov.cn/yw/xwzx/202006/t20200615_20649.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "下一步的计划是到2035年,建设完善更加泛在、更加融合、更加智能的国家综合时空体系。",
+      "source_title": "北斗卫星导航系统官网 — \"数\"说北斗丨从起步到全球组网 北斗建设的\"三步走\"",
+      "source_url": "http://www.beidou.gov.cn/yw/xwzx/202006/t20200615_20649.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    }
+  ]
+}

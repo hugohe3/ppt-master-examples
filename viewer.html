@@ -580,6 +580,9 @@
             if (collection.pptxNative) {
                 links.push(downloadLink(collection.pptxNative, 'PPTX with native charts & tables'));
             }
+            if (collection.pptxNarrated) {
+                links.push(downloadLink(collection.pptxNarrated, 'Narrated PPTX (embedded audio, auto-advance)'));
+            }
             container.innerHTML = links.join('');
             container.classList.toggle('hidden', links.length === 0);
         }

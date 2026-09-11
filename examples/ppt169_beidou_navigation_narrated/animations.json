@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "trigger": "after-previous", "duration": 0.6 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "cover-state-first": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "cover-state-now": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.8 }
+      }
+    },
+    "02_why_own_system": {
+      "groups": {
+        "definition-quote": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "services-triad": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "build-principles": { "effect": "entrance_fade", "order": 3, "duration": 0.6 }
+      }
+    },
+    "03_three_steps_route": {
+      "groups": {
+        "route-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "timeline-axis": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.0 }
+      }
+    },
+    "04_three_steps_turns": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "03_three_steps_route",
+        "pairs": { "three-step-timeline": { "from": "timeline-axis", "to": "timeline-axis" } }
+      },
+      "groups": {
+        "network-record": { "effect": "entrance_fade", "order": 1, "duration": 0.8 }
+      }
+    },
+    "05_three_generations": {
+      "groups": {
+        "table-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "06_three_orbits": {
+      "groups": {
+        "orbit-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "orbit-system": { "effect": "entrance_fade", "order": 2, "duration": 1.0 },
+        "orbit-spec": { "effect": "entrance_fade", "order": 3, "duration": 0.8 }
+      }
+    },
+    "07_orbit_duties": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "06_three_orbits",
+        "pairs": { "orbit-system": { "from": "orbit-system", "to": "orbit-system" } }
+      },
+      "groups": {
+        "duty-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "orbit-duty": { "effect": "entrance_fade", "order": 2, "duration": 0.8 }
+      }
+    },
+    "08_constellation_split": {
+      "groups": {
+        "split-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "09_positioning_principle": {
+      "groups": {
+        "principle-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "ranging-geometry": { "effect": "entrance_fade", "order": 2, "duration": 0.8 },
+        "ranging-step-1": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "ranging-step-2": { "effect": "entrance_fade", "order": 4, "duration": 0.5 },
+        "ranging-step-3": { "effect": "entrance_fade", "order": 5, "duration": 0.5 },
+        "ranging-equation": { "effect": "entrance_fade", "order": 6, "duration": 0.6 }
+      }
+    },
+    "10_accuracy": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "09_positioning_principle",
+        "pairs": { "ranging-geometry": { "from": "ranging-geometry", "to": "ranging-geometry" } }
+      },
+      "groups": {
+        "accuracy-readout": { "effect": "entrance_fade", "order": 1, "duration": 0.8 }
+      }
+    },
+    "11_short_message": {
+      "groups": {
+        "invention-quote": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "message-metrics": { "effect": "entrance_fade", "order": 2, "duration": 0.6 }
+      }
+    },
+    "12_message_capacity": {
+      "groups": {
+        "capacity-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "13_already_around_you": {
+      "groups": {
+        "application-fields": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "phone-share": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "industry-value": { "effect": "entrance_fade", "order": 3, "duration": 0.6 }
+      }
+    },
+    "14_next_2035": {
+      "groups": {
+        "closing-takeaway": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "timeline-2035": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.8 },
+        "source-links": { "effect": "entrance_fade", "order": 3, "duration": 0.6 }
+      }
+    }
+  }
+}

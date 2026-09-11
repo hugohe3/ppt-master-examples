@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "srt_sha256": "18487afa67f7875144a3c4534f1cd27f4af57b6f2d34fa8798f945fa8870ba01",
+  "narration_padding": 0.5,
+  "narration_start_floor": 0.8,
+  "slides": {
+    "01_cover": {
+      "groups": [
+        {
+          "id": "cover-title",
+          "cue": 1
+        },
+        {
+          "id": "cover-state-first",
+          "cue": 1
+        },
+        {
+          "id": "cover-state-now",
+          "cue": 4
+        }
+      ]
+    },
+    "02_why_own_system": {
+      "groups": [
+        {
+          "id": "definition-quote",
+          "cue": 2
+        },
+        {
+          "id": "services-triad",
+          "cue": 5
+        },
+        {
+          "id": "build-principles",
+          "cue": 8
+        }
+      ]
+    },
+    "03_three_steps_route": {
+      "groups": [
+        {
+          "id": "route-lead",
+          "cue": 2
+        },
+        {
+          "id": "timeline-axis",
+          "cue": 4
+        }
+      ]
+    },
+    "04_three_steps_turns": {
+      "groups": [
+        {
+          "id": "network-record",
+          "cue": 18
+        }
+      ]
+    },
+    "05_three_generations": {
+      "groups": [
+        {
+          "id": "table-lead",
+          "cue": 1
+        }
+      ]
+    },
+    "06_three_orbits": {
+      "groups": [
+        {
+          "id": "orbit-lead",
+          "cue": 1
+        },
+        {
+          "id": "orbit-system",
+          "cue": 2
+        },
+        {
+          "id": "orbit-spec",
+          "cue": 3
+        }
+      ]
+    },
+    "07_orbit_duties": {
+      "groups": [
+        {
+          "id": "duty-lead",
+          "cue": 1
+        },
+        {
+          "id": "orbit-duty",
+          "cue": 2
+        }
+      ]
+    },
+    "08_constellation_split": {
+      "groups": [
+        {
+          "id": "split-lead",
+          "cue": 4
+        }
+      ]
+    },
+    "09_positioning_principle": {
+      "groups": [
+        {
+          "id": "principle-lead",
+          "cue": 1
+        },
+        {
+          "id": "ranging-geometry",
+          "cue": 2
+        },
+        {
+          "id": "ranging-step-1",
+          "cue": 3
+        },
+        {
+          "id": "ranging-step-2",
+          "cue": 4
+        },
+        {
+          "id": "ranging-step-3",
+          "cue": 7
+        },
+        {
+          "id": "ranging-equation",
+          "cue": 9
+        }
+      ]
+    },
+    "10_accuracy": {
+      "groups": [
+        {
+          "id": "accuracy-readout",
+          "cue": 5
+        }
+      ]
+    },
+    "11_short_message": {
+      "groups": [
+        {
+          "id": "invention-quote",
+          "cue": 8
+        },
+        {
+          "id": "message-metrics",
+          "cue": 10
+        }
+      ]
+    },
+    "12_message_capacity": {
+      "groups": [
+        {
+          "id": "capacity-lead",
+          "cue": 9
+        }
+      ]
+    },
+    "13_already_around_you": {
+      "groups": [
+        {
+          "id": "application-fields",
+          "cue": 2
+        },
+        {
+          "id": "phone-share",
+          "cue": 7
+        },
+        {
+          "id": "industry-value",
+          "cue": 10
+        }
+      ]
+    },
+    "14_next_2035": {
+      "groups": [
+        {
+          "id": "closing-takeaway",
+          "cue": 1
+        },
+        {
+          "id": "timeline-2035",
+          "cue": 2
+        },
+        {
+          "id": "source-links",
+          "cue": 7
+        }
+      ]
+    }
+  }
+}

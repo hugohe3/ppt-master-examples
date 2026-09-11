@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 800 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">每一层轨道都在替你做一件事</text>
+  </g>
+
+  <g id="duty-lead" data-pptx-bounds="64 164 620 56">
+    <text x="72" y="200" font-size="36" fill="#8FA0C0">同一张图,这次看的是分工。</text>
+  </g>
+
+  <g id="orbit-system" data-pptx-bounds="100 262 644 380">
+    <ellipse cx="420" cy="450" rx="310" ry="108" fill="none" stroke="#FFC24B" stroke-width="3"/>
+    <g id="orbit-igso-ring" transform="rotate(35 420 450)">
+      <ellipse cx="420" cy="450" rx="280" ry="98" fill="none" stroke="#8FA0C0" stroke-width="2"/>
+    </g>
+    <g id="orbit-meo-ring" transform="rotate(-35 420 450)">
+      <ellipse cx="420" cy="450" rx="200" ry="70" fill="none" stroke="#35D0A5" stroke-width="2"/>
+    </g>
+    <circle cx="420" cy="450" r="62" fill="#0E1730" stroke="#4EA8FF" stroke-width="2"/>
+    <g id="orbit-sats-geo" fill="#FFC24B">
+      <circle cx="711.3" cy="486.9" r="8"/>
+      <circle cx="151.5" cy="504" r="8"/>
+      <circle cx="393" cy="342.4" r="8"/>
+    </g>
+    <g id="orbit-sats-igso" transform="rotate(35 420 450)" fill="#8FA0C0">
+      <circle cx="634.5" cy="513" r="6"/>
+      <circle cx="156.9" cy="483.5" r="6"/>
+      <circle cx="468.6" cy="353.5" r="6"/>
+    </g>
+    <g id="orbit-sats-meo" transform="rotate(-35 420 450)" fill="#35D0A5">
+      <circle cx="620" cy="450" r="6"/>
+      <circle cx="520" cy="510.6" r="6"/>
+      <circle cx="320" cy="510.6" r="6"/>
+      <circle cx="220" cy="450" r="6"/>
+      <circle cx="320" cy="389.4" r="6"/>
+      <circle cx="520" cy="389.4" r="6"/>
+    </g>
+  </g>
+
+  <g id="orbit-duty" data-pptx-bounds="788 266 420 340">
+    <g id="duty-geo">
+      <rect x="792" y="278" width="14" height="14" fill="#FFC24B"/>
+      <text x="818" y="290" font-size="22" fill="#D8E0F0">GEO · 3 颗</text>
+      <text x="818" y="322" font-family="Consolas" font-size="22" fill="#8FA0C0">星基增强 · 精密单点定位</text>
+      <text x="818" y="350" font-family="Consolas" font-size="22" fill="#8FA0C0">区域短报文(中国及周边)</text>
+    </g>
+    <g id="duty-igso">
+      <rect x="792" y="398" width="14" height="14" fill="#8FA0C0"/>
+      <text x="818" y="410" font-size="22" fill="#D8E0F0">IGSO · 3 颗</text>
+      <text x="818" y="442" font-family="Consolas" font-size="22" fill="#8FA0C0">与 MEO 共同承载</text>
+      <text x="818" y="470" font-family="Consolas" font-size="22" fill="#8FA0C0">搜救返向链路(星间链路)</text>
+    </g>
+    <g id="duty-meo">
+      <rect x="792" y="518" width="14" height="14" fill="#35D0A5"/>
+      <text x="818" y="530" font-size="22" fill="#D8E0F0">MEO · 24 颗</text>
+      <text x="818" y="562" font-family="Consolas" font-size="22" fill="#8FA0C0">全球定位导航授时</text>
+      <text x="818" y="590" font-family="Consolas" font-size="22" fill="#8FA0C0">其中 6 颗带搜救载荷</text>
+    </g>
+  </g>
+
+  <g id="page-source" data-pptx-bounds="64 656 760 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:《北斗卫星导航系统公开服务性能规范(3.0版)》2021 §6 §7 §8</text>
+  </g>
+</svg>

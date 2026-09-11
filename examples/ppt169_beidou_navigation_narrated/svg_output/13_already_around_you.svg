@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="appBandFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#060B1A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#060B1A" stop-opacity="0.32"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+  <image id="app-scene" data-pptx-role="background" href="../images/app_scene_muted.jpg" x="0" y="440" width="1280" height="280" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="app-band-fade" data-pptx-role="decoration" x="0" y="440" width="1280" height="280" fill="url(#appBandFade)"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 900 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">98% 的国产手机里,已经有北斗</text>
+  </g>
+
+  <g id="phone-share" data-pptx-bounds="64 196 480 178">
+    <text x="72" y="220" font-size="22" fill="#8FA0C0">2024 年国内支持北斗定位的智能手机</text>
+    <text x="72" y="320" font-family="Consolas" font-size="88" fill="#FFC24B">2.88 亿部</text>
+    <text x="72" y="360" font-family="Consolas" font-size="22" fill="#D8E0F0">占比 98%</text>
+  </g>
+
+  <g id="industry-value" data-pptx-bounds="672 196 480 178">
+    <text x="680" y="220" font-size="22" fill="#8FA0C0">2024 年卫星导航与位置服务产业总产值</text>
+    <text x="680" y="320" font-family="Consolas" font-size="88" fill="#4EA8FF">5758 亿元</text>
+    <text x="680" y="360" font-family="Consolas" font-size="22" fill="#D8E0F0">同比增长 7.39%</text>
+  </g>
+
+  <g id="application-fields" data-pptx-bounds="176 460 880 188">
+    <g id="app-transport">
+      <use data-icon="tabler-outline/route" x="212" y="468" width="40" height="40" fill="#4EA8FF" stroke-width="3"/>
+      <text x="232" y="538" font-size="22" fill="#D8E0F0" text-anchor="middle">交通运输</text>
+    </g>
+    <g id="app-agriculture">
+      <use data-icon="tabler-outline/tractor" x="468" y="468" width="40" height="40" fill="#4EA8FF" stroke-width="3"/>
+      <text x="488" y="538" font-size="22" fill="#D8E0F0" text-anchor="middle">农林渔业</text>
+    </g>
+    <g id="app-hydrology">
+      <use data-icon="tabler-outline/map" x="724" y="468" width="40" height="40" fill="#4EA8FF" stroke-width="3"/>
+      <text x="744" y="538" font-size="22" fill="#D8E0F0" text-anchor="middle">水文监测</text>
+    </g>
+    <g id="app-meteorology">
+      <use data-icon="tabler-outline/radar" x="980" y="468" width="40" height="40" fill="#4EA8FF" stroke-width="3"/>
+      <text x="1000" y="538" font-size="22" fill="#D8E0F0" text-anchor="middle">气象测报</text>
+    </g>
+    <g id="app-timing">
+      <use data-icon="tabler-outline/clock" x="212" y="566" width="40" height="40" fill="#4EA8FF" stroke-width="3"/>
+      <text x="232" y="636" font-size="22" fill="#D8E0F0" text-anchor="middle">通信授时</text>
+    </g>
+    <g id="app-power">
+      <use data-icon="tabler-outline/bolt" x="468" y="566" width="40" height="40" fill="#4EA8FF" stroke-width="3"/>
+      <text x="488" y="636" font-size="22" fill="#D8E0F0" text-anchor="middle">电力调度</text>
+    </g>
+    <g id="app-relief">
+      <use data-icon="tabler-outline/lifebuoy" x="724" y="566" width="40" height="40" fill="#4EA8FF" stroke-width="3"/>
+      <text x="744" y="636" font-size="22" fill="#D8E0F0" text-anchor="middle">救灾减灾</text>
+    </g>
+    <g id="app-safety">
+      <use data-icon="tabler-outline/antenna" x="980" y="566" width="40" height="40" fill="#4EA8FF" stroke-width="3"/>
+      <text x="1000" y="636" font-size="22" fill="#D8E0F0" text-anchor="middle">公共安全</text>
+    </g>
+  </g>
+
+  <g id="page-source" data-pptx-bounds="64 656 900 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:北斗卫星导航系统官网 ·《2025中国卫星导航与位置服务产业发展白皮书》(经新华网)</text>
+  </g>
+</svg>

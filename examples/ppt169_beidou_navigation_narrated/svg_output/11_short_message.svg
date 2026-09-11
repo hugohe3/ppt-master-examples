@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="bandTopFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#060B1A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#060B1A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bandLeftScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#060B1A" stop-opacity="0.92"/>
+      <stop offset="60%" stop-color="#060B1A" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#060B1A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+  <image id="sea-scene" data-pptx-role="background" href="../images/scene_night_sea_fit.jpg" x="0" y="260" width="1280" height="460" preserveAspectRatio="xMidYMax slice"/>
+  <rect id="sea-top-fade" data-pptx-role="decoration" x="0" y="260" width="1280" height="92" fill="url(#bandTopFade)"/>
+  <rect id="sea-left-scrim" data-pptx-role="decoration" x="0" y="260" width="880" height="460" fill="url(#bandLeftScrim)"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 980 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">没有信号的地方,它还能替你发出一句话</text>
+  </g>
+
+  <g id="message-lead" data-pptx-bounds="64 164 1000 56">
+    <text x="72" y="200" font-size="36" fill="#8FA0C0">别的系统只告诉你在哪儿;北斗还能让你把这句话发出去。</text>
+  </g>
+
+  <g id="invention-quote" data-pptx-bounds="80 402 560 142">
+    <rect x="88" y="410" width="4" height="130" fill="#FFC24B"/>
+    <text x="112" y="440" font-size="36" fill="#D8E0F0">通信与导航一体化的设计,<tspan x="112" dy="54">是北斗的独创。</tspan></text>
+    <text x="112" y="530" font-family="Consolas" font-size="18" fill="#8FA0C0">——北斗卫星导航系统官网,2020</text>
+  </g>
+
+  <g id="message-metrics" data-pptx-bounds="92 596 716 40">
+    <text x="100" y="620" font-family="Consolas" font-size="22" fill="#D8E0F0">成功率 ≥95% · 时延平均优于 2 秒 · 频度平均 1 次/30 秒</text>
+  </g>
+
+  <g id="page-source" data-pptx-bounds="64 656 760 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:北斗卫星导航系统官网 ·《公开服务性能规范(3.0版)》2021 §7</text>
+  </g>
+</svg>

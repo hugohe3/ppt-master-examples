@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#060B1A"/>
+
+  <g id="page-title" data-pptx-bounds="64 84 620 72">
+    <text x="72" y="132" font-family="SimHei" font-size="52" fill="#D8E0F0">三种轨道,一个星座</text>
+  </g>
+
+  <g id="orbit-lead" data-pptx-bounds="64 164 1010 56">
+    <text x="72" y="200" font-size="36" fill="#8FA0C0">三十颗星不在同一个高度上——高轨卫星比别的系统多。</text>
+  </g>
+
+  <g id="orbit-system" data-pptx-bounds="100 262 644 380">
+    <ellipse cx="420" cy="450" rx="310" ry="108" fill="none" stroke="#4EA8FF" stroke-width="2"/>
+    <g id="orbit-igso-ring" transform="rotate(35 420 450)">
+      <ellipse cx="420" cy="450" rx="280" ry="98" fill="none" stroke="#8FA0C0" stroke-width="2"/>
+    </g>
+    <g id="orbit-meo-ring" transform="rotate(-35 420 450)">
+      <ellipse cx="420" cy="450" rx="200" ry="70" fill="none" stroke="#35D0A5" stroke-width="2"/>
+    </g>
+    <circle cx="420" cy="450" r="62" fill="#0E1730" stroke="#4EA8FF" stroke-width="2"/>
+    <g id="orbit-sats-geo" fill="#4EA8FF">
+      <circle cx="711.3" cy="486.9" r="6"/>
+      <circle cx="151.5" cy="504" r="6"/>
+      <circle cx="393" cy="342.4" r="6"/>
+    </g>
+    <g id="orbit-sats-igso" transform="rotate(35 420 450)" fill="#8FA0C0">
+      <circle cx="634.5" cy="513" r="6"/>
+      <circle cx="156.9" cy="483.5" r="6"/>
+      <circle cx="468.6" cy="353.5" r="6"/>
+    </g>
+    <g id="orbit-sats-meo" transform="rotate(-35 420 450)" fill="#35D0A5">
+      <circle cx="620" cy="450" r="6"/>
+      <circle cx="520" cy="510.6" r="6"/>
+      <circle cx="320" cy="510.6" r="6"/>
+      <circle cx="220" cy="450" r="6"/>
+      <circle cx="320" cy="389.4" r="6"/>
+      <circle cx="520" cy="389.4" r="6"/>
+    </g>
+  </g>
+
+  <g id="orbit-spec" data-pptx-bounds="792 276 416 334">
+    <g id="spec-geo">
+      <line x1="800" y1="292" x2="840" y2="292" stroke="#4EA8FF" stroke-width="4"/>
+      <text x="856" y="300" font-size="22" fill="#D8E0F0">GEO 地球静止轨道 · 3颗</text>
+      <text x="856" y="332" font-family="Consolas" font-size="22" fill="#8FA0C0">35786 km · 倾角 0°</text>
+      <text x="856" y="358" font-family="Consolas" font-size="18" fill="#8FA0C0">定点东经 80° / 110.5° / 140°</text>
+    </g>
+    <g id="spec-igso">
+      <line x1="800" y1="412" x2="840" y2="412" stroke="#8FA0C0" stroke-width="4"/>
+      <text x="856" y="420" font-size="22" fill="#D8E0F0">IGSO 倾斜地球同步轨道 · 3颗</text>
+      <text x="856" y="452" font-family="Consolas" font-size="22" fill="#8FA0C0">35786 km · 倾角 55°</text>
+      <text x="856" y="478" font-family="Consolas" font-size="18" fill="#8FA0C0">与赤道面成 55 度夹角</text>
+    </g>
+    <g id="spec-meo">
+      <line x1="800" y1="532" x2="840" y2="532" stroke="#35D0A5" stroke-width="4"/>
+      <text x="856" y="540" font-size="22" fill="#D8E0F0">MEO 中圆地球轨道 · 24颗</text>
+      <text x="856" y="572" font-family="Consolas" font-size="22" fill="#8FA0C0">21528 km · 倾角 55°</text>
+      <text x="856" y="598" font-family="Consolas" font-size="18" fill="#8FA0C0">Walker 24/3/1 星座</text>
+    </g>
+  </g>
+
+  <g id="page-source" data-pptx-bounds="64 656 760 32">
+    <text x="72" y="676" font-family="Consolas" font-size="18" fill="#8FA0C0">来源:《北斗卫星导航系统公开服务性能规范(3.0版)》2021 §4.1</text>
+  </g>
+</svg>
