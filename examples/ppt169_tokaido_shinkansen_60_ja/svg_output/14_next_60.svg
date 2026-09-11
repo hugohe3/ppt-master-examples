@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <defs>
+    <clipPath id="guidewayDiscClip">
+      <circle cx="1020" cy="372" r="172"/>
+    </clipPath>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <g id="page-title" data-pptx-bounds="64 48 1152 126">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">次の60年は、大動脈を二重にする</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">目的は、経年劣化と巨大地震に備えた大動脈の二重系化</text>
+  </g>
+  <circle id="sun-halo" data-pptx-role="decoration" cx="1020" cy="372" r="186" fill="#C8442C"/>
+  <g id="guideway-disc" data-pptx-bounds="848 200 344 344">
+    <image href="../images/guideway_dawn.jpg" x="848" y="200" width="344" height="344" preserveAspectRatio="xMidYMid slice" clip-path="url(#guidewayDiscClip)"/>
+  </g>
+  <g id="time-compare" data-pptx-bounds="64 196 696 212">
+    <text x="64" y="246" font-size="22" font-weight="bold" fill="#22262E">品川〜名古屋</text>
+    <text x="220" y="250" font-size="32" fill="#5E5A52">86分</text>
+<g id="arrow-nagoya" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="322 222 52 32" fill="#D9A33A" stroke="none">
+<path d="M 322 230 L 358 230 L 358 222 L 374 238 L 358 254 L 358 246 L 322 246 Z"/>
+</g>
+    <text x="392" y="262" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="64" font-weight="bold" fill="#C8442C">40分</text>
+    <text x="64" y="326" font-size="22" font-weight="bold" fill="#22262E">品川〜大阪</text>
+    <text x="220" y="330" font-size="32" fill="#5E5A52">134分</text>
+<g id="arrow-osaka" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="322 302 52 32" fill="#D9A33A" stroke="none">
+<path d="M 322 310 L 358 310 L 358 302 L 374 318 L 358 334 L 358 326 L 322 326 Z"/>
+</g>
+    <text x="392" y="342" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="64" font-weight="bold" fill="#C8442C">67分</text>
+    <text x="580" y="262" font-size="22" fill="#5E5A52">最速・計画</text>
+    <text x="64" y="396" font-size="22" font-weight="bold" fill="#1F3F74">超電導リニアの営業速度 500km/h</text>
+  </g>
+  <g id="decided" data-pptx-bounds="64 416 696 132">
+    <rect x="64" y="418" width="696" height="128" rx="16" ry="16" fill="none" stroke="#1F3F74" stroke-width="2"/>
+    <text x="88" y="448" font-size="22" font-weight="bold" fill="#1F3F74">決まっていること</text>
+    <text x="88" y="480" font-size="22" fill="#22262E">・技術開発は「完了」と評価(国交省の評価委員会)<tspan x="88" dy="28">・工事契約82件(品川〜名古屋 約286kmの約9割)</tspan><tspan x="88" dy="28">・用地取得 約85%(2026年3月末)</tspan></text>
+  </g>
+  <g id="undecided" data-pptx-bounds="64 558 1152 80">
+    <rect x="64" y="560" width="1152" height="76" rx="16" ry="16" fill="#E6DCC6" stroke="#C8442C" stroke-width="2" stroke-dasharray="8,4"/>
+    <text x="88" y="604" font-size="22" font-weight="bold" fill="#C8442C">まだ見通せないこと</text>
+    <text x="330" y="590" font-size="22" fill="#22262E">開業時期:静岡工区の掘削着手の見込みが立たず、新たな開業時期は見通せない<tspan x="330" dy="30">総工事費:7.04兆円から11.0兆円となる見通し(2025年10月発表)</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text x="64" y="664" font-size="16" fill="#5E5A52">右の図はAI生成のイメージ。品川〜名古屋間の工事完了予定は2023年12月認可で「2027年以降」。所要時間は最速、東海道新幹線との比較。<tspan x="64" dy="22">出典:JR東海 ファクトシート2026「超電導リニアによる中央新幹線計画」(2026年3月末時点)</tspan></text>
+    <text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">14</text>
+  </g>
+</svg>

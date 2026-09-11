@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <g id="page-title" data-pptx-bounds="64 48 1152 130">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">6時間の旅が、4時間になった</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">開業の日に約3分の2、翌年には約半分まで縮まった</text>
+  </g>
+  <g id="travel-time-bars" data-pptx-replace-with="chart" data-pptx-bounds="72 196 1152 446" data-pptx-fallback-sha256="2ebe6bf1b24c70694df42064912562d26c80e3eb24592175562b6652e594047c">
+    <metadata type="application/json">{"x": 72, "y": 196, "width": 1152, "height": 446, "name": "travel-time-bars", "type": "bar", "categories": ["在来線 約6時間", "1964年 4時間", "1965年 3時間10分", "2026年 2時間21分"], "series": [{"name": "所要時間(分)", "values": [360, 240, 190, 141], "point_colors": ["#A69A80", "#1F3F74", "#1F3F74", "#C8442C"]}], "plot_area": {"x": 330, "y": 206, "width": 770, "height": 360}, "axes": {"category": {"position": "left"}, "value": {"position": "bottom", "minimum": 0, "maximum": 400, "major_unit": 100, "major_gridlines": true}}, "axis_titles": {"value": "所要時間(分)"}, "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0", "font_size": 22, "bold": true, "color": "#22262E"}, "show_legend": false, "style": {"font_family": "Yu Gothic", "axis_font_size": 22, "axis_title_font_size": 22, "text_color": "#22262E", "axis_color": "#1F3F74", "grid_color": "#C7B99D", "chart_area_fill": "none", "plot_area_fill": "none"}}</metadata>
+    <g id="travel-time-bars-chartArea">
+      <g id="value-gridlines" stroke="#C7B99D" stroke-width="1">
+        <line x1="522.5" y1="206" x2="522.5" y2="566"/>
+        <line x1="715" y1="206" x2="715" y2="566"/>
+        <line x1="907.5" y1="206" x2="907.5" y2="566"/>
+        <line x1="1100" y1="206" x2="1100" y2="566"/>
+      </g>
+      <line id="category-axis" x1="330" y1="206" x2="330" y2="566" stroke="#1F3F74" stroke-width="2"/>
+      <!-- chart-plot-area: object=travel-time-bars | 330,206,1100,566 -->
+      <rect x="330" y="224" width="693" height="54" fill="#A69A80"/>
+      <rect x="330" y="314" width="462" height="54" fill="#1F3F74"/>
+      <rect x="330" y="404" width="365.75" height="54" fill="#1F3F74"/>
+      <rect x="330" y="494" width="271.43" height="54" fill="#C8442C"/>
+    </g>
+    <g font-size="22" fill="#22262E" text-anchor="end">
+      <text x="314" y="259">在来線 約6時間</text>
+      <text x="314" y="349">1964年 4時間</text>
+      <text x="314" y="439">1965年 3時間10分</text>
+      <text x="314" y="529" fill="#C8442C" font-weight="bold">2026年 2時間21分</text>
+    </g>
+    <g font-size="22" font-weight="bold" fill="#22262E">
+      <text x="1035" y="259">360</text>
+      <text x="804" y="349">240</text>
+      <text x="708" y="439">190</text>
+      <text x="614" y="529">141</text>
+    </g>
+    <g font-size="22" fill="#5E5A52" text-anchor="middle">
+      <text x="330" y="596">0</text>
+      <text x="522.5" y="596">100</text>
+      <text x="715" y="596">200</text>
+      <text x="907.5" y="596">300</text>
+      <text x="1100" y="596">400</text>
+    </g>
+    <text x="715" y="630" font-size="22" fill="#22262E" text-anchor="middle">所要時間(分)</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text x="64" y="664" font-size="16" fill="#5E5A52">在来線は「約6時間」を360分として表示。3分の2・約半分は当資料による計算。<tspan x="64" dy="22">出典:上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌(2017)/JR東海 ファクトシート2026(2026年3月時点)</tspan></text>
+    <text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">03</text>
+  </g>
+</svg>

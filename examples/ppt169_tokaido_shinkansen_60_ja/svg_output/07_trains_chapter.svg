@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="section" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <circle id="sun-disc" data-pptx-role="decoration" cx="880" cy="390" r="250" fill="#D9A33A"/>
+  <g id="chapter-kicker" data-pptx-bounds="64 40 620 30">
+    <text x="64" y="62" font-size="22" font-weight="bold" fill="#C8442C">② 本数を積み上げる</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 70 620 64">
+    <text x="64" y="118" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">次の主役は、本数だった</text>
+  </g>
+  <g id="trains-60" data-pptx-bounds="64 290 268 136">
+    <text x="64" y="370" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="64" font-weight="bold" fill="#1F3F74">60<tspan font-size="32">本/日</tspan></text>
+    <text x="64" y="412" font-size="22" fill="#5E5A52">開業時の1日平均</text>
+  </g>
+<g id="arrow-growth" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="336 318 236 56" fill="#1F3F74" stroke="none">
+<path d="M 336 332 L 544 332 L 544 318 L 572 346 L 544 374 L 544 360 L 336 360 Z"/>
+</g>
+  <g id="ratio-seal" data-pptx-bounds="360 386 176 176">
+<g id="seal-ratio" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star24" data-pptx-frame="360 386 176 176" fill="#C8442C" stroke="none">
+<path d="M 360 474 L 382.56 465.39 L 363 451.22 L 387.02 448.74 L 371.79 430 L 395.64 433.82 L 385.77 411.77 L 407.82 421.64 L 404 397.79 L 422.74 413.02 L 425.22 389 L 439.39 408.56 L 448 386 L 456.61 408.56 L 470.78 389 L 473.26 413.02 L 492 397.79 L 488.18 421.64 L 510.23 411.77 L 500.36 433.82 L 524.21 430 L 508.98 448.74 L 533 451.22 L 513.44 465.39 L 536 474 L 513.44 482.61 L 533 496.78 L 508.98 499.26 L 524.21 518 L 500.36 514.18 L 510.23 536.23 L 488.18 526.36 L 492 550.21 L 473.26 534.98 L 470.78 559 L 456.61 539.44 L 448 562 L 439.39 539.44 L 425.22 559 L 422.74 534.98 L 404 550.21 L 407.82 526.36 L 385.77 536.23 L 395.64 514.18 L 371.79 518 L 387.02 499.26 L 363 496.78 L 382.56 482.61 Z"/>
+</g>
+    <text x="448" y="485" font-size="30" font-weight="bold" fill="#F3ECDD" text-anchor="middle">約6.6倍</text>
+  </g>
+  <g id="trains-395" data-pptx-bounds="668 300 424 172">
+    <text x="880" y="420" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="132" font-weight="bold" fill="#1F3F74" text-anchor="middle">395<tspan font-size="48">本/日</tspan></text>
+  </g>
+  <g id="trains-395-label" data-pptx-bounds="668 478 424 34">
+    <text x="880" y="500" font-size="22" fill="#1F3F74" text-anchor="middle">2025年度・臨時列車を含む</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 642 1152 30">
+    <text x="64" y="662" font-size="16" fill="#5E5A52">倍率は当資料による計算(395÷60)。出典:JR東海 採用サイト「新幹線鉄道事業」(開業時)/JR東海 ファクトシート2026(2025年度)</text>
+    <text x="1216" y="662" font-size="16" fill="#5E5A52" text-anchor="end">07</text>
+  </g>
+  <g id="rail-band" data-pptx-role="decoration" data-pptx-bounds="0 680 1280 28">
+    <rect x="0" y="684" width="1280" height="12" fill="#1F3F74"/>
+    <line x1="0" y1="704" x2="1280" y2="704" stroke="#1F3F74" stroke-width="2"/>
+  </g>
+</svg>

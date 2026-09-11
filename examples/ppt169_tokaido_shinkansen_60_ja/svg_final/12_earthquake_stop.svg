@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD" />
+  <g id="page-title" data-pptx-bounds="64 48 1152 126">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">大きな揺れが来る前に、列車を止める</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">P波を捉えて送電を止め、列車を自動的に緊急停止させる</text>
+  </g>
+  <g id="step-quake" data-pptx-bounds="64 236 210 200">
+    <rect x="64" y="236" width="210" height="200" rx="16" ry="16" fill="#1F3F74" />
+    
+  <g transform="translate(145, 256) scale(3)" fill="#D9A33A">
+    <path d="M5 1V15H7V1H5Z" />
+    <path d="M9 6V10H11V6H9Z" />
+    <path d="M13 12V4H15V12H13Z" />
+    <path d="M1 3V13H3V3H1Z" />
+  </g>
+    <text x="169" y="344" font-size="28" font-weight="bold" fill="#F3ECDD" text-anchor="middle">地震発生</text>
+    <text text-anchor="middle" fill="#F3ECDD" font-size="22" x="169" y="382">P波(初期微動)</text><text text-anchor="middle" fill="#F3ECDD" font-size="22" x="169" y="412">を検知</text></g>
+<g id="flow-arrow-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="282 310 48 52" fill="#D9A33A" stroke="none">
+<path d="M 282 323 L 306 323 L 306 310 L 330 336 L 306 362 L 306 349 L 282 349 Z" />
+</g>
+  <g id="step-sensors" data-pptx-bounds="338 236 324 200">
+    <rect x="338" y="236" width="324" height="200" rx="16" ry="16" fill="#E6DCC6" stroke="#1F3F74" stroke-width="3" />
+    <text x="358" y="274" font-size="22" font-weight="bold" fill="#1F3F74">地震計で捉える</text>
+    <g font-size="22" fill="#22262E">
+      <text x="358" y="322">遠方地震計</text>
+      <text x="358" y="370">沿線地震計</text>
+      <text x="358" y="418">緊急地震速報</text>
+    </g>
+    <g font-size="28" font-weight="bold" fill="#1F3F74" text-anchor="end">
+      <text x="644" y="322">21箇所</text>
+      <text x="644" y="370">50箇所</text>
+      <text x="644" y="418">約1,000</text>
+    </g>
+  </g>
+<g id="flow-arrow-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="670 310 48 52" fill="#D9A33A" stroke="none">
+<path d="M 670 323 L 694 323 L 694 310 L 718 336 L 694 362 L 694 349 L 670 349 Z" />
+</g>
+  <g id="step-substation" data-pptx-bounds="726 236 200 200">
+    <rect x="726" y="236" width="200" height="200" rx="16" ry="16" fill="#1F3F74" />
+    
+  <g transform="translate(802, 256) scale(3)" fill="#D9A33A">
+    <path d="M9 7L10 0H8L2 7V9H7L6 16H8L14 9L14 7H9Z" />
+  </g>
+    <text x="826" y="344" font-size="28" font-weight="bold" fill="#F3ECDD" text-anchor="middle">変電所</text>
+    <text x="826" y="382" font-size="22" fill="#F3ECDD" text-anchor="middle">送電を停止</text>
+  </g>
+<g id="flow-arrow-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="934 310 48 52" fill="#D9A33A" stroke="none">
+<path d="M 934 323 L 958 323 L 958 310 L 982 336 L 958 362 L 958 349 L 934 349 Z" />
+</g>
+  <g id="step-train" data-pptx-bounds="990 236 226 200">
+    <rect x="990" y="236" width="226" height="200" rx="16" ry="16" fill="#C8442C" />
+    
+  <g transform="translate(1079, 256) scale(3)" fill="#F3ECDD">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 3C2 1.34315 3.34315 0 5 0H11C12.6569 0 14 1.34315 14 3V11C14 12.2084 13.2855 13.25 12.2559 13.7253L13.2308 16H11.0549L10.1977 14H5.80224L4.9451 16H2.76917L3.74406 13.7252C2.71449 13.25 2 12.2084 2 11V3ZM4 3H7V7H4V3ZM12 3H9V7H12V3ZM9 10C9 10.5523 8.55228 11 8 11C7.44772 11 7 10.5523 7 10C7 9.44771 7.44772 9 8 9C8.55228 9 9 9.44771 9 10Z" />
+  </g>
+    <text x="1103" y="344" font-size="28" font-weight="bold" fill="#F3ECDD" text-anchor="middle">列車</text>
+    <text text-anchor="middle" fill="#F3ECDD" font-size="22" x="1103" y="382">非常ブレーキで</text><text text-anchor="middle" fill="#F3ECDD" font-size="22" x="1103" y="412">自動的に停止</text></g>
+  <g id="improvements" data-pptx-bounds="64 462 1152 168">
+    <rect x="64" y="464" width="1152" height="164" rx="16" ry="16" fill="#E6DCC6" />
+    <text x="88" y="496" font-size="22" font-weight="bold" fill="#1F3F74">より早く気づくための改良</text>
+    <g stroke="#C7B99D" stroke-width="2">
+      <line x1="464" y1="516" x2="464" y2="616" />
+      <line x1="856" y1="516" x2="856" y2="616" />
+    </g>
+    <text x="88" y="548" font-size="32" font-weight="bold" fill="#C8442C">2秒→1秒</text>
+    <text fill="#22262E" font-size="22" x="88" y="584">規模・震央の推定に必要なデータ</text><text fill="#5E5A52" font-size="22" x="88" y="612">(2017年発表の改良)</text><text x="480" y="548" font-size="32" font-weight="bold" fill="#C8442C">最大約15秒/約30秒</text>
+    <text fill="#22262E" font-size="22" x="480" y="584">海底地震観測網で早く検知</text><text fill="#5E5A52" font-size="22" x="480" y="612">(南海トラフ/日本海溝)</text><text x="872" y="548" font-size="32" font-weight="bold" fill="#C8442C">テラス</text>
+    <text fill="#22262E" font-size="22" x="872" y="584">早期地震警報システムの通称</text><text fill="#5E5A52" font-size="22" x="872" y="612">2008年から緊急地震速報と併用</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text fill="#5E5A52" font-size="16" x="64" y="664">流れ図はJR東海資料をもとに当資料で整理。地震計の箇所数は2017年10月発表時点(緊急地震速報は気象庁の地震計約1,000)。</text><text fill="#5E5A52" font-size="16" x="64" y="686">出典:JR東海 ニュースリリース(2017年10月30日「地震検知の早期化」/2012年4月23日「地震防災システムの機能強化」)</text><text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">12</text>
+  </g>
+</svg>

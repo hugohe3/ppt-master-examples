@@ -1,0 +1,318 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "東海道新幹線 60年",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "東海道新幹線は1964年10月1日に開業した。",
+      "source_title": "JR東海 ニュースリリース「東海道新幹線 開業６０周年にあたって」(2024年2月15日)",
+      "source_url": "https://jr-central.co.jp/news/release/_pdf/000043174.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "開業以来の60年間で約68億人が利用した(2024年2月発表時点)。",
+      "source_title": "JR東海 ニュースリリース「東海道新幹線 開業６０周年にあたって」(2024年2月15日)",
+      "source_url": "https://jr-central.co.jp/news/release/_pdf/000043174.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "1964年の開業以来、約72億人が利用している(採用サイトの2026年時点の記述)。",
+      "source_title": "JR東海 採用サイト「新幹線鉄道事業」",
+      "source_url": "https://saiyo.jr-central.co.jp/company/business/shinkansen.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "列車の運転本数は開業時の1日平均60本から、2024年度には1日平均383本になった。",
+      "source_title": "JR東海 採用サイト「新幹線鉄道事業」",
+      "source_url": "https://saiyo.jr-central.co.jp/company/business/shinkansen.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "2025年度の列車本数は1日395本(臨時列車を含む)。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "2025年度の輸送人員は1日50.4万人、年間1億8,400万人。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "2025年度の平均遅延時分は運行1列車あたり1.0分(自然災害等による遅延を含む)。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "開業以来、乗車中のお客様が死傷される列車事故はゼロ。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "最高速度285km/h、東京〜新大阪は最速2時間21分(2026年3月ダイヤ改正時点)。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "最速列車の東京〜新大阪所要時間:1964年度4:00、1965年度3:10、1984年度3:08、1986年度2:52、1987年度2:49、1991年度2:30、2007年度2:25、2014年度2:22、2020年度2:21。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」最速列車の所要時間の変遷",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "在来線で約6時間を要した東京〜(新)大阪を、開業時は4時間で結び、翌年には210km/h運転で3時間10分を実現した。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "東海道区間の最高速度:0系210km/h(1986年に220km/h)、100系220、300系270、700系270、N700系270(改造後285)、N700A 285、N700S 285km/h。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "100系は1985年10月に営業運転を開始し、新幹線初の2階建て車両を導入した。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "300系は1992年3月に営業運転を開始、最高速度270km/hで東京〜新大阪2時間30分。アルミ合金車体と誘導電動機で0系比約30%軽量化。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "700系は1999年3月に営業運転を開始した。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "N700系は2007年7月に営業運転を開始し、日本の新幹線で初めて車体傾斜システムを実用化した。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "N700Aは2013年2月に投入開始、2015年3月に最高速度285km/hでの営業運転を開始した。",
+      "source_title": "JR東海 採用サイト「新幹線鉄道事業」",
+      "source_url": "https://saiyo.jr-central.co.jp/company/business/shinkansen.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "N700Sは2020年7月に営業運転を開始した。駆動システムにSiC(炭化ケイ素)素子を高速鉄道として世界で初めて採用。",
+      "source_title": "JR東海「N700S 車両のご案内」/上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌(2017)",
+      "source_url": "https://railway.jr-central.co.jp/train/shinkansen/n700s/",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "2003年の品川駅開業とともに、全列車の270km/h走行を実現した。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "輸送人キロ(億人キロ):1987年度321、1988年度363、1989年度374、1990年度413、1991年度418、1992年度407、1993年度405、2002年度396、2003年度403、2004年度416、2005年度438、2006年度445、2007年度465、2008年度460、2009年度427、2010年度437、2011年度443、2012年度469、2013年度489、2014年度501、2015年度522、2016年度529、2017年度548、2018年度563、2019年度540、2020年度182、2021年度252、2022年度424、2023年度528、2024年度552、2025年度609。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線の輸送人キロとGDP」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "「のぞみ」の1時間あたり片道最大本数は1992年度1本、2003年度7本、2019年度12本。2026年3月ダイヤ改正で13本に増える。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」/JR東海 採用サイト「新幹線鉄道事業」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "東京圏〜大阪圏の1日当たり輸送力は新幹線約38万席、航空約3万席(2025年4月現在)。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "東京圏〜大阪圏の対航空シェアは鉄道86%・航空14%(令和6(2024)年度旅客地域流動調査(国土交通省)をベースにJR東海が算出)。",
+      "source_title": "JR東海 ファクトシート2026「マーケットシェア(対航空)」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "東京〜大阪を移動する際の1座席当たりエネルギー消費量はN700系「のぞみ」が航空機(B777-200)の約8分の1、CO₂排出量は約12分の1。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "地震防災システムは遠方地震計(21箇所)・沿線地震計(50箇所)・緊急地震速報(地震計約1,000)で地震を検知し、必要に応じ送電を停止して列車を自動的に緊急停止させる。",
+      "source_title": "JR東海 ニュースリリース「東海道新幹線における地震検知の早期化について」(2017年10月30日)",
+      "source_url": "https://jr-central.co.jp/news/release/_pdf/000035513.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "遠方地震計の推定に必要なデータを2秒から1秒に短縮し、海底地震観測網の活用で南海トラフは最大約15秒、日本海溝は最大約30秒の検知早期化が見込まれる。",
+      "source_title": "JR東海 ニュースリリース「東海道新幹線における地震検知の早期化について」(2017年10月30日)",
+      "source_url": "https://jr-central.co.jp/news/release/_pdf/000035513.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "遠方地震計でP波を検知して送電を止める仕組みは「東海道新幹線早期地震警報システム(通称:テラス)」で、2008年から気象庁の緊急地震速報と併用している。",
+      "source_title": "JR東海 ニュースリリース「東海道新幹線 地震防災システムの機能強化について」(2012年4月23日)",
+      "source_url": "https://jr-central.co.jp/news/release/_pdf/000014824.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "脱線防止ガードは2025年度末時点で約937kmが完了し、2028年度までに全線完了見込み。逸脱防止ストッパは全車両に設置済み。",
+      "source_title": "JR東海 ファクトシート2026「地震対策」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-03.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "東海道新幹線の構造物耐震補強は高架橋柱約19,600本・橋脚約900基・盛土約9.4kmで完了(2025年度末)。",
+      "source_title": "JR東海 ファクトシート2026「地震対策」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-03.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "超電導リニアによる中央新幹線は営業速度500km/h。所要時間は品川〜名古屋が最速86分→40分、品川〜大阪が最速134分→67分。",
+      "source_title": "JR東海 ファクトシート2026「超電導リニアによる中央新幹線計画」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-07.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "品川・名古屋間は2023年12月の認可で工事完了予定を「2027年以降」とし、南アルプストンネル静岡工区の掘削着手の見込みが立たないため新たな開業時期は見通せない。",
+      "source_title": "JR東海 ファクトシート2026「超電導リニアによる中央新幹線計画」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-07.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "品川・名古屋間の総工事費は7.04兆円から11.0兆円となる見通し(2025年10月発表)。",
+      "source_title": "JR東海 ファクトシート2026「超電導リニアによる中央新幹線計画」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-07.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "2026年3月末時点で工事契約82件(品川・名古屋間約286kmの約9割)、用地取得約85%。",
+      "source_title": "JR東海 ファクトシート2026「超電導リニアによる中央新幹線計画」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-07.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "超電導リニア技術は国土交通省の超電導磁気浮上式鉄道実用技術評価委員会から「営業線に必要な技術開発は完了」と評価されている。",
+      "source_title": "JR東海 ファクトシート2026「超電導リニアによる中央新幹線計画」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-07.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "経年劣化に備える東海道新幹線の大規模改修工事は2013年度に着手した。",
+      "source_title": "JR東海 ファクトシート2026「東海道新幹線大規模改修工事の概要」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "中央新幹線は東京・名古屋・大阪の大動脈輸送を二重系化し、開業から60年以上経つ東海道新幹線の経年劣化と巨大地震などの大規模災害に備える。",
+      "source_title": "JR東海 ファクトシート2026「超電導リニアによる中央新幹線計画」",
+      "source_url": "https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-07.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "0系はオール電動車(M車)の利点を活かした車両で、1986年11月に最高速度220km/hを実現した。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "700系は1999年3月に営業運転を開始し、「エアロストリーム形」の先頭形状で空力特性を改善した。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "N700Aは中央締結ブレーキディスクの採用と新ATCの停電検知・ブレーキ制御の組み合わせで、地震時に動作する「地震ブレーキ」を開発した。",
+      "source_title": "上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻1179号(2017)",
+      "source_url": "https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    }
+  ]
+}

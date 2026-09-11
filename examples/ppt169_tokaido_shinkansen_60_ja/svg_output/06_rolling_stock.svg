@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <g id="page-title" data-pptx-bounds="64 48 1152 128">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">速さは、軽さと賢さの積み重ねだった</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">軽く、速く曲がり、確実に止まる。型式ごとの改良が積み重なった</text>
+  </g>
+  <g id="rolling-stock-table" data-pptx-replace-with="table" data-pptx-bounds="64 190 1152 442" data-pptx-fallback-sha256="67b36a113cab65201c71a066a70f6492ff10d4a09fd788c198c58653d32d0edb">
+    <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "x": 64, "y": 190, "width": 1152, "height": 442, "name": "rolling-stock-table", "column_widths": [160, 190, 230, 572], "row_heights": [50, 56, 56, 56, 56, 56, 56, 56], "style": {"font_family": "Yu Gothic", "font_size": 22, "band_row": false, "header_fill": "#1F3F74", "header_text": "#F3ECDD", "body_text": "#22262E", "valign": "middle", "padding": 16, "lang": "ja-JP"}, "defaults": {"cell": {"align": "l", "borders": {"top": {"style": "none"}, "left": {"style": "none"}, "right": {"style": "none"}, "bottom": {"style": "solid", "color": "#C7B99D", "width": 1}}}}, "columns": [{"text": "型式", "bold": true, "align": "l"}, {"text": "営業開始", "bold": true, "align": "l"}, {"text": "最高速度(東海道区間)", "bold": true, "align": "l"}, {"text": "技術の要点", "bold": true, "align": "l"}], "rows": [[{"text": "0系", "bold": true, "color": "#1F3F74"}, "1964年10月", "210→220km/h", "オール電動車で開業、1986年に220km/h化"], [{"text": "100系", "bold": true, "color": "#1F3F74"}, "1985年10月", "220km/h", "新幹線初の2階建て車両を導入"], [{"text": "300系", "bold": true, "color": "#1F3F74"}, "1992年3月", "270km/h", "アルミ合金車体と誘導電動機で0系比約30%軽量化"], [{"text": "700系", "bold": true, "color": "#1F3F74"}, "1999年3月", "270km/h", "空力を改善した先頭形状(エアロストリーム形)"], [{"text": "N700系", "bold": true, "color": "#1F3F74"}, "2007年7月", "270→285km/h", "新幹線初の車体傾斜システムで曲線を速く"], [{"text": "N700A", "bold": true, "color": "#1F3F74"}, "2013年2月", "285km/h", "中央締結ブレーキディスクと地震ブレーキ"], [{"text": "N700S", "bold": true, "color": "#C8442C", "fill": "#E6DCC6"}, {"text": "2020年7月", "fill": "#E6DCC6"}, {"text": "285km/h", "fill": "#E6DCC6"}, {"text": "高速鉄道で世界初のSiC素子を駆動システムに採用", "fill": "#E6DCC6"}]]}</metadata>
+    <rect x="64" y="190" width="1152" height="50" fill="#1F3F74"/>
+    <rect x="64" y="576" width="1152" height="56" fill="#E6DCC6"/>
+    <g font-size="22" font-weight="bold" fill="#F3ECDD">
+      <text x="80" y="223">型式</text>
+      <text x="240" y="223">営業開始</text>
+      <text x="430" y="223">最高速度(東海道区間)</text>
+      <text x="660" y="223">技術の要点</text>
+    </g>
+    <g stroke="#C7B99D" stroke-width="1">
+      <line x1="64" y1="296" x2="1216" y2="296"/>
+      <line x1="64" y1="352" x2="1216" y2="352"/>
+      <line x1="64" y1="408" x2="1216" y2="408"/>
+      <line x1="64" y1="464" x2="1216" y2="464"/>
+      <line x1="64" y1="520" x2="1216" y2="520"/>
+      <line x1="64" y1="576" x2="1216" y2="576"/>
+      <line x1="64" y1="632" x2="1216" y2="632"/>
+    </g>
+    <g font-size="22" font-weight="bold" fill="#1F3F74">
+      <text x="80" y="276">0系</text>
+      <text x="80" y="332">100系</text>
+      <text x="80" y="388">300系</text>
+      <text x="80" y="444">700系</text>
+      <text x="80" y="500">N700系</text>
+      <text x="80" y="556">N700A</text>
+      <text x="80" y="612" fill="#C8442C">N700S</text>
+    </g>
+    <g font-size="22" fill="#22262E">
+      <text x="240" y="276">1964年10月</text>
+      <text x="430" y="276">210→220km/h</text>
+      <text x="660" y="276">オール電動車で開業、1986年に220km/h化</text>
+      <text x="240" y="332">1985年10月</text>
+      <text x="430" y="332">220km/h</text>
+      <text x="660" y="332">新幹線初の2階建て車両を導入</text>
+      <text x="240" y="388">1992年3月</text>
+      <text x="430" y="388">270km/h</text>
+      <text x="660" y="388">アルミ合金車体と誘導電動機で0系比約30%軽量化</text>
+      <text x="240" y="444">1999年3月</text>
+      <text x="430" y="444">270km/h</text>
+      <text x="660" y="444">空力を改善した先頭形状(エアロストリーム形)</text>
+      <text x="240" y="500">2007年7月</text>
+      <text x="430" y="500">270→285km/h</text>
+      <text x="660" y="500">新幹線初の車体傾斜システムで曲線を速く</text>
+      <text x="240" y="556">2013年2月</text>
+      <text x="430" y="556">285km/h</text>
+      <text x="660" y="556">中央締結ブレーキディスクと地震ブレーキ</text>
+      <text x="240" y="612">2020年7月</text>
+      <text x="430" y="612">285km/h</text>
+      <text x="660" y="612">高速鉄道で世界初のSiC素子を駆動システムに採用</text>
+    </g>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text x="64" y="664" font-size="16" fill="#5E5A52">「→」は途中での速度向上(0系は1986年、N700系は改造後)。<tspan x="64" dy="22">出典:上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌(2017)/JR東海 ファクトシート2026/JR東海 採用サイト(2026年時点)</tspan></text>
+    <text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">06</text>
+  </g>
+</svg>

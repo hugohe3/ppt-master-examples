@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD" />
+  <g id="page-title" data-pptx-bounds="64 48 1152 128">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">7世代で、4時間は2時間21分に</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">型式が代わるたびに最高速度が上がり、最速所要は99分短くなった</text>
+  </g>
+  <g id="timeline-years" data-pptx-bounds="64 212 1152 34" font-size="22" font-weight="bold" fill="#5E5A52" text-anchor="middle">
+    <text x="159" y="238">1964</text>
+    <text x="319" y="238">1985</text>
+    <text x="479" y="238">1992</text>
+    <text x="639" y="238">1999</text>
+    <text x="799" y="238">2007</text>
+    <text x="959" y="238">2013</text>
+    <text x="1119" y="238">2020</text>
+  </g>
+  <g id="type-chevrons" data-pptx-bounds="64 252 1152 80">
+<g id="chev-0kei" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 256 190 72" fill="#1F3F74" stroke="none">
+<path d="M 64 256 L 218 256 L 254 292 L 218 328 L 64 328 L 100 292 Z" />
+</g>
+<g id="chev-100kei" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="224 256 190 72" fill="#1F3F74" stroke="none">
+<path d="M 224 256 L 378 256 L 414 292 L 378 328 L 224 328 L 260 292 Z" />
+</g>
+<g id="chev-300kei" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="384 256 190 72" fill="#1F3F74" stroke="none">
+<path d="M 384 256 L 538 256 L 574 292 L 538 328 L 384 328 L 420 292 Z" />
+</g>
+<g id="chev-700kei" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="544 256 190 72" fill="#1F3F74" stroke="none">
+<path d="M 544 256 L 698 256 L 734 292 L 698 328 L 544 328 L 580 292 Z" />
+</g>
+<g id="chev-n700" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="704 256 190 72" fill="#1F3F74" stroke="none">
+<path d="M 704 256 L 858 256 L 894 292 L 858 328 L 704 328 L 740 292 Z" />
+</g>
+<g id="chev-n700a" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="864 256 190 72" fill="#1F3F74" stroke="none">
+<path d="M 864 256 L 1018 256 L 1054 292 L 1018 328 L 864 328 L 900 292 Z" />
+</g>
+<g id="chev-n700s" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="1024 256 190 72" fill="#C8442C" stroke="none">
+<path d="M 1024 256 L 1178 256 L 1214 292 L 1178 328 L 1024 328 L 1060 292 Z" />
+</g>
+    <g font-size="28" font-weight="bold" fill="#F3ECDD" text-anchor="middle">
+      <text x="159" y="302">0系</text>
+      <text x="319" y="302">100系</text>
+      <text x="479" y="302">300系</text>
+      <text x="639" y="302">700系</text>
+      <text x="799" y="302">N700系</text>
+      <text x="959" y="302">N700A</text>
+      <text x="1119" y="302">N700S</text>
+    </g>
+  </g>
+  <g id="timeline-speeds" data-pptx-bounds="64 354 1152 70" text-anchor="middle">
+    <g font-size="28" font-weight="bold" fill="#1F3F74">
+      <text x="159" y="384">210km/h</text>
+      <text x="319" y="384">220km/h</text>
+      <text x="479" y="384">270km/h</text>
+      <text x="639" y="384">270km/h</text>
+      <text x="799" y="384">270km/h</text>
+      <text x="959" y="384">285km/h</text>
+      <text x="1119" y="384" fill="#C8442C">285km/h</text>
+    </g>
+    <g font-size="22" fill="#5E5A52">
+      <text x="159" y="414">(1986年に220)</text>
+      <text x="799" y="414">(改造後285)</text>
+    </g>
+  </g>
+  <g id="timeline-track" data-pptx-bounds="40 440 1200 38">
+    <rect x="40" y="452" width="1200" height="14" fill="#1F3F74" />
+    <line x1="40" y1="474" x2="1240" y2="474" stroke="#1F3F74" stroke-width="2" />
+    <g fill="#F3ECDD" stroke="#1F3F74" stroke-width="4">
+      <circle cx="159" cy="459" r="10" />
+      <circle cx="319" cy="459" r="10" />
+      <circle cx="479" cy="459" r="10" />
+      <circle cx="639" cy="459" r="10" />
+      <circle cx="799" cy="459" r="10" />
+      <circle cx="959" cy="459" r="10" />
+      <circle cx="1119" cy="459" r="10" stroke="#C8442C" />
+    </g>
+  </g>
+  <g id="time-0kei" data-pptx-bounds="64 482 174 90">
+    <text x="155" y="544" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="62" font-weight="bold" fill="#1F3F74" text-anchor="middle">4:00</text>
+  </g>
+  <g id="times-later" data-pptx-bounds="240 482 976 90" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="62" font-weight="bold" fill="#1F3F74" text-anchor="middle">
+    <text x="321" y="544">2:52</text>
+    <text x="479" y="544">2:30</text>
+    <text x="639" y="544" fill="#A69A80">2:30</text>
+    <text x="799" y="544">2:25</text>
+    <text x="959" y="544">2:22</text>
+    <text x="1119" y="544" fill="#C8442C">2:21</text>
+  </g>
+  <g id="timeline-legend" data-pptx-bounds="64 580 1152 40">
+    <text x="64" y="606" font-size="22" fill="#5E5A52">上から 営業開始年/型式/東海道区間の最高速度/当時の東京〜新大阪 最速所要(時:分)</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text fill="#5E5A52" font-size="16" x="64" y="664">年表と「99分」は当資料による整理・計算。700系登場時は最速所要の更新なし。100系の所要は1986年度改正時点。</text><text fill="#5E5A52" font-size="16" x="64" y="686">出典:JR東海 ファクトシート2026「最速列車の所要時間の変遷」/上野雅之(2017)日本機械学会誌/JR東海 採用サイト(2026年時点)</text><text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">05</text>
+  </g>
+</svg>

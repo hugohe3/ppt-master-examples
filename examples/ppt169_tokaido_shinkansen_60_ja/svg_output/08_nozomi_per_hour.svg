@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <g id="page-title" data-pptx-bounds="64 48 1152 128">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">1時間に「のぞみ」13本の時代へ</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">品川駅開業と全列車270km/h化が、本数の天井を押し上げた</text>
+  </g>
+  <g id="trains-395" data-pptx-bounds="64 216 324 100">
+    <text x="64" y="290" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="64" font-weight="bold" fill="#1F3F74">395<tspan font-size="32">本/日</tspan></text>
+  </g>
+  <g id="trains-395-label" data-pptx-bounds="64 322 324 100" font-size="22" fill="#5E5A52">
+    <text x="64" y="346">2025年度の1日の列車本数<tspan x="64" dy="30">(臨時列車を含む)</tspan></text>
+    <text x="64" y="412" fill="#22262E">2024年度の1日平均:<tspan font-weight="bold" fill="#1F3F74">383本</tspan></text>
+  </g>
+  <g id="rail-divider" data-pptx-role="decoration" data-pptx-bounds="400 216 26 364">
+    <rect x="404" y="216" width="10" height="360" fill="#1F3F74"/>
+    <line x1="422" y1="216" x2="422" y2="576" stroke="#1F3F74" stroke-width="2"/>
+  </g>
+  <g id="nozomi-header" data-pptx-bounds="440 176 776 36">
+    <text x="440" y="202" font-size="22" font-weight="bold" fill="#1F3F74">「のぞみ」の1時間あたり片道最大本数(アイコン1つ=1本)</text>
+  </g>
+  <g id="nozomi-1992" data-pptx-bounds="440 216 776 90">
+    <text x="440" y="242" font-size="22" font-weight="bold" fill="#5E5A52">1992年度</text>
+    <text x="440" y="278" font-size="32" font-weight="bold" fill="#1F3F74">1本</text>
+    <use data-icon="chunk-filled/train" x="600" y="230" width="40" height="40" fill="#1F3F74"/>
+  </g>
+  <g id="nozomi-2003" data-pptx-bounds="440 306 776 90">
+    <text x="440" y="332" font-size="22" font-weight="bold" fill="#5E5A52">2003年度</text>
+    <text x="440" y="368" font-size="32" font-weight="bold" fill="#1F3F74">7本</text>
+    <use data-icon="chunk-filled/train" x="600" y="320" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="646" y="320" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="692" y="320" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="738" y="320" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="784" y="320" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="830" y="320" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="876" y="320" width="40" height="40" fill="#1F3F74"/>
+    <line x1="934" y1="320" x2="934" y2="376" stroke="#C8442C" stroke-width="3"/>
+    <text x="950" y="340" font-size="22" font-weight="bold" fill="#C8442C">2003年10月 品川駅開業<tspan x="950" dy="30" font-weight="normal" fill="#22262E">全列車270km/h化</tspan></text>
+  </g>
+  <g id="nozomi-2019" data-pptx-bounds="440 396 776 90">
+    <text x="440" y="422" font-size="22" font-weight="bold" fill="#5E5A52">2019年度</text>
+    <text x="440" y="458" font-size="32" font-weight="bold" fill="#1F3F74">12本</text>
+    <use data-icon="chunk-filled/train" x="600" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="646" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="692" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="738" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="784" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="830" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="876" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="922" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="968" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="1014" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="1060" y="410" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="1106" y="410" width="40" height="40" fill="#1F3F74"/>
+  </g>
+  <g id="nozomi-2026" data-pptx-bounds="440 486 776 90">
+    <text x="440" y="512" font-size="22" font-weight="bold" fill="#C8442C">2026年3月〜</text>
+    <text x="440" y="548" font-size="32" font-weight="bold" fill="#C8442C">13本</text>
+    <use data-icon="chunk-filled/train" x="600" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="646" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="692" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="738" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="784" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="830" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="876" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="922" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="968" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="1014" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="1060" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="1106" y="500" width="40" height="40" fill="#1F3F74"/><use data-icon="chunk-filled/train" x="1152" y="500" width="40" height="40" fill="#C8442C"/>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text x="64" y="664" font-size="16" fill="#5E5A52">「のぞみ」本数はダイヤ上の1時間あたり片道最大本数。<tspan x="64" dy="22">出典:JR東海 ファクトシート2026/JR東海 採用サイト「新幹線鉄道事業」(2026年時点)/上野雅之(2017)日本機械学会誌</tspan></text>
+    <text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">08</text>
+  </g>
+</svg>

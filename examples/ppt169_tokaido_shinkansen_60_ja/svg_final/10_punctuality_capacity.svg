@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD" />
+  <g id="page-title" data-pptx-bounds="64 48 1152 126">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">たくさん走らせて、遅れは平均1.0分</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">1日395本を走らせながら、正確さと輸送力を両立している</text>
+  </g>
+  <g id="punctuality-panel" data-pptx-bounds="0 196 500 444">
+    <rect x="0" y="196" width="500" height="444" fill="#1F3F74" />
+    <text x="64" y="252" font-size="22" font-weight="bold" fill="#D9A33A">③ 正確さ</text>
+    <text x="64" y="386" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="132" font-weight="bold" fill="#F3ECDD">1.0<tspan font-size="48">分</tspan></text>
+    <text fill="#F3ECDD" font-size="22" x="64" y="440">運行1列車あたりの平均遅延</text><text fill="#F3ECDD" font-size="22" x="64" y="472">(2025年度)</text><text x="64" y="540" font-size="22" fill="#D9A33A">自然災害などによる遅れも含む</text>
+  </g>
+  <g id="capacity-compare" data-pptx-bounds="548 208 668 204">
+    <text x="560" y="234" font-size="22" font-weight="bold" fill="#5E5A52">東京圏〜大阪圏の1日あたり輸送力(2025年4月)</text>
+    <text x="560" y="276" font-size="22" font-weight="bold" fill="#1F3F74">新幹線</text>
+    <text x="560" y="344" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="64" font-weight="bold" fill="#1F3F74">約38万席</text>
+    <text x="900" y="276" font-size="22" font-weight="bold" fill="#5E5A52">航空</text>
+    <text x="900" y="344" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="64" font-weight="bold" fill="#5E5A52">約3万席</text>
+    <rect x="560" y="364" width="276" height="42" rx="21" fill="#C8442C" />
+    <text x="698" y="393" font-size="22" font-weight="bold" fill="#F3ECDD" text-anchor="middle">新幹線は航空の約13倍</text>
+  </g>
+  <g id="share-bar" data-pptx-bounds="548 432 668 136">
+    <text x="560" y="458" font-size="22" font-weight="bold" fill="#5E5A52">対航空シェア(東京圏〜大阪圏、2024年度)</text>
+    <rect x="560" y="474" width="564.16" height="56" fill="#1F3F74" />
+    <rect x="1124.16" y="474" width="91.84" height="56" fill="#E6DCC6" />
+    <text x="580" y="512" font-size="28" font-weight="bold" fill="#F3ECDD">鉄道 86%</text>
+    <text x="1170" y="510" font-size="22" font-weight="bold" fill="#1F3F74" text-anchor="middle">14%</text>
+    <text x="1216" y="558" font-size="22" fill="#5E5A52" text-anchor="end">航空 14%</text>
+  </g>
+  <g id="energy-note" data-pptx-bounds="548 572 668 62">
+    
+  <g transform="translate(560, 580) scale(2)" fill="#1F3F74">
+    <path d="M12 1C6.47715 1 2 5.02944 2 10V16H4L4 10.5858L8.29289 6.29288L9.70711 7.70709L6 11.4142V13.9556C11.0533 13.504 15 9.66681 15 5L15 1H12Z" />
+  </g>
+    <text fill="#22262E" font-size="22" x="604" y="596">東京〜大阪の1座席あたり、航空機と比べて</text><text fill="#1F3F74" font-size="22" x="604" y="626" font-weight="bold">エネルギー約8分の1・CO₂約12分の1</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text fill="#5E5A52" font-size="16" x="64" y="664">13倍は当資料による計算。シェアは国交省の旅客地域流動調査をもとにJR東海が算出。</text><text fill="#5E5A52" font-size="16" x="64" y="686">出典:JR東海 ファクトシート2026「東海道新幹線の特性」「マーケットシェア」</text><text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">10</text>
+  </g>
+</svg>

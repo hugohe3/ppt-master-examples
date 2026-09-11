@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD" />
+  <g id="page-title" data-pptx-bounds="64 48 1152 126">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">落ち込んでも、以前を上回った</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">輸送人キロは2020年度の182から、2025年度は609へ(億人キロ)</text>
+  </g>
+  <g id="pkm-columns" data-pptx-replace-with="chart" data-pptx-bounds="64 178 832 456" data-pptx-fallback-sha256="1b7bc8a35eaad1777d04e82242f836b25a8406966061bc7cdff87bc1c70904e3">
+    <metadata type="application/json">{"x": 64, "y": 178, "width": 832, "height": 456, "name": "pkm-columns", "type": "column", "categories": ["02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25"], "series": [{"name": "輸送人キロ(億人キロ)", "values": [396, 403, 416, 438, 445, 465, 460, 427, 437, 443, 469, 489, 501, 522, 529, 548, 563, 540, 182, 252, 424, 528, 552, 609], "point_colors": ["#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#1F3F74", "#D9A33A", "#D9A33A", "#1F3F74", "#1F3F74", "#1F3F74", "#C8442C"]}], "plot_area": {"x": 120, "y": 210, "width": 760, "height": 350}, "axes": {"category": {"position": "bottom", "font_size": 20}, "value": {"position": "left", "minimum": 0, "maximum": 700, "major_unit": 100, "major_gridlines": true}}, "axis_titles": {"category": {"text": "年度(2002〜2025年度の下2桁)", "color": "#22262E"}, "value": {"text": "輸送人キロ(億人キロ)", "color": "#22262E"}}, "data_labels": {"position": "outside_end", "number_format": "0", "font_size": 20, "bold": true, "color": "#22262E", "points": [{"idx": 17}, {"idx": 18}, {"idx": 23}]}, "show_legend": false, "style": {"font_family": "Yu Gothic", "axis_font_size": 20, "axis_title_font_size": 22, "text_color": "#5E5A52", "axis_color": "#1F3F74", "grid_color": "#C7B99D", "chart_area_fill": "none", "plot_area_fill": "none"}}</metadata>
+    <g id="pkm-columns-chartArea">
+      <g id="value-gridlines" stroke="#C7B99D" stroke-width="1">
+        <line x1="120" y1="210" x2="880" y2="210" />
+        <line x1="120" y1="260" x2="880" y2="260" />
+        <line x1="120" y1="310" x2="880" y2="310" />
+        <line x1="120" y1="360" x2="880" y2="360" />
+        <line x1="120" y1="410" x2="880" y2="410" />
+        <line x1="120" y1="460" x2="880" y2="460" />
+        <line x1="120" y1="510" x2="880" y2="510" />
+      </g>
+      <line id="category-axis" x1="120" y1="560" x2="880" y2="560" stroke="#1F3F74" stroke-width="2" />
+      
+      <rect x="125.83" y="362" width="20" height="198" fill="#1F3F74" /><rect x="157.5" y="358.5" width="20" height="201.5" fill="#1F3F74" /><rect x="189.17" y="352" width="20" height="208" fill="#1F3F74" /><rect x="220.83" y="341" width="20" height="219" fill="#1F3F74" /><rect x="252.5" y="337.5" width="20" height="222.5" fill="#1F3F74" /><rect x="284.17" y="327.5" width="20" height="232.5" fill="#1F3F74" /><rect x="315.83" y="330" width="20" height="230" fill="#1F3F74" /><rect x="347.5" y="346.5" width="20" height="213.5" fill="#1F3F74" /><rect x="379.17" y="341.5" width="20" height="218.5" fill="#1F3F74" /><rect x="410.83" y="338.5" width="20" height="221.5" fill="#1F3F74" /><rect x="442.5" y="325.5" width="20" height="234.5" fill="#1F3F74" /><rect x="474.17" y="315.5" width="20" height="244.5" fill="#1F3F74" /><rect x="505.83" y="309.5" width="20" height="250.5" fill="#1F3F74" /><rect x="537.5" y="299" width="20" height="261" fill="#1F3F74" /><rect x="569.17" y="295.5" width="20" height="264.5" fill="#1F3F74" /><rect x="600.83" y="286" width="20" height="274" fill="#1F3F74" /><rect x="632.5" y="278.5" width="20" height="281.5" fill="#1F3F74" /><rect x="664.17" y="290" width="20" height="270" fill="#1F3F74" /><rect x="695.83" y="469" width="20" height="91" fill="#D9A33A" /><rect x="727.5" y="434" width="20" height="126" fill="#D9A33A" /><rect x="759.17" y="348" width="20" height="212" fill="#1F3F74" /><rect x="790.83" y="296" width="20" height="264" fill="#1F3F74" /><rect x="822.5" y="284" width="20" height="276" fill="#1F3F74" /><rect x="854.17" y="255.5" width="20" height="304.5" fill="#C8442C" />
+    </g>
+    <g font-size="20" font-weight="bold" fill="#22262E" text-anchor="middle">
+      <text x="674.17" y="280">540</text>
+      <text x="705.83" y="459">182</text>
+      <text x="864.17" y="245.5">609</text>
+    </g>
+    <g font-size="20" fill="#5E5A52" text-anchor="end">
+      <text x="110" y="567">0</text>
+      <text x="110" y="517">100</text>
+      <text x="110" y="467">200</text>
+      <text x="110" y="417">300</text>
+      <text x="110" y="367">400</text>
+      <text x="110" y="317">500</text>
+      <text x="110" y="267">600</text>
+      <text x="110" y="217">700</text>
+    </g>
+    <g font-size="20" fill="#5E5A52" text-anchor="middle">
+      <text x="135.83" y="586">02</text><text x="167.5" y="586">03</text><text x="199.17" y="586">04</text><text x="230.83" y="586">05</text><text x="262.5" y="586">06</text><text x="294.17" y="586">07</text><text x="325.83" y="586">08</text><text x="357.5" y="586">09</text><text x="389.17" y="586">10</text><text x="420.83" y="586">11</text><text x="452.5" y="586">12</text><text x="484.17" y="586">13</text><text x="515.83" y="586">14</text><text x="547.5" y="586">15</text><text x="579.17" y="586">16</text><text x="610.83" y="586">17</text><text x="642.5" y="586">18</text><text x="674.17" y="586">19</text><text x="705.83" y="586">20</text><text x="737.5" y="586">21</text><text x="769.17" y="586">22</text><text x="800.83" y="586">23</text><text x="832.5" y="586">24</text><text x="864.17" y="586">25</text>
+    </g>
+    <text x="500" y="620" font-size="22" fill="#22262E" text-anchor="middle">年度(2002〜2025年度の下2桁)</text>
+    <text x="120" y="200" font-size="22" fill="#22262E">輸送人キロ(億人キロ)</text>
+  </g>
+  <g id="pkm-longrun" data-pptx-bounds="920 196 296 300">
+    <text x="920" y="226" font-size="22" font-weight="bold" fill="#5E5A52">1987年度</text>
+    <text x="920" y="290" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="64" font-weight="bold" fill="#1F3F74">321<tspan font-family="'Segoe UI', 'Yu Gothic', sans-serif" font-size="22">億人キロ</tspan></text>
+    <text x="920" y="356" font-size="22" font-weight="bold" fill="#5E5A52">2025年度</text>
+    <text x="920" y="420" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="64" font-weight="bold" fill="#C8442C">609<tspan font-family="'Segoe UI', 'Yu Gothic', sans-serif" font-size="22">億人キロ</tspan></text>
+    <rect x="920" y="444" width="176" height="44" rx="22" fill="#C8442C" />
+    <text x="1008" y="474" font-size="22" font-weight="bold" fill="#F3ECDD" text-anchor="middle">約1.9倍</text>
+  </g>
+  <g id="pkm-ridership" data-pptx-bounds="920 508 296 104">
+    <text x="920" y="534" font-size="22" fill="#22262E">2025年度の輸送人員</text>
+    <text x="920" y="572" font-size="28" font-weight="bold" fill="#1F3F74">1日50.4万人</text>
+    <text x="920" y="600" font-size="22" fill="#22262E">年間1億8,400万人</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text fill="#5E5A52" font-size="16" x="64" y="664">1994〜2001年度は資料に掲載がないため省略。2020〜21年度はコロナ禍の影響。倍率は当資料による計算。</text><text fill="#5E5A52" font-size="16" x="64" y="686">出典:JR東海 ファクトシート2026「東海道新幹線の輸送人キロとGDP」「東海道新幹線の特性」(2025年度)</text><text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">09</text>
+  </g>
+</svg>

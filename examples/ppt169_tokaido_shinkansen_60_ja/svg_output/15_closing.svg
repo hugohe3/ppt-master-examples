@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <g id="closing-kicker" data-pptx-bounds="64 40 600 32">
+    <text x="64" y="64" font-size="22" font-weight="bold" fill="#C8442C">まとめ</text>
+  </g>
+  <g id="closing-title" data-pptx-bounds="64 78 1152 126">
+    <text x="64" y="124" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">速さ・本数・正確さ・安全を、<tspan x="64" dy="62">同時に積み上げた60年。</tspan></text>
+  </g>
+  <g id="closing-next" data-pptx-bounds="64 212 1152 50">
+    <text x="64" y="248" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="34" font-weight="bold" fill="#C8442C">次の60年は、大動脈を二重にして守る。</text>
+  </g>
+  <g id="recap-rail" data-pptx-bounds="40 276 1200 124">
+    <rect x="40" y="290" width="1200" height="12" fill="#1F3F74"/>
+    <line x1="40" y1="310" x2="1240" y2="310" stroke="#1F3F74" stroke-width="2"/>
+    <g fill="#F3ECDD" stroke="#1F3F74" stroke-width="4">
+      <circle cx="200" cy="296" r="14"/>
+      <circle cx="480" cy="296" r="14"/>
+      <circle cx="760" cy="296" r="14"/>
+      <circle cx="1040" cy="296" r="14" stroke="#C8442C"/>
+    </g>
+    <g font-size="32" font-weight="bold" fill="#1F3F74" text-anchor="middle">
+      <text x="200" y="356">2時間21分</text>
+      <text x="480" y="356">395本/日</text>
+      <text x="760" y="356">1.0分</text>
+      <text x="1040" y="356" fill="#C8442C">ゼロ</text>
+    </g>
+    <g font-size="22" fill="#5E5A52" text-anchor="middle">
+      <text x="200" y="388">速さ(東京〜新大阪)</text>
+      <text x="480" y="388">本数(2025年度)</text>
+      <text x="760" y="388">平均遅延(2025年度)</text>
+      <text x="1040" y="388">乗車中の死傷事故</text>
+    </g>
+  </g>
+  <g id="sources" data-pptx-bounds="64 416 1152 190" font-size="16" fill="#22262E">
+    <text x="64" y="440" font-size="22" font-weight="bold" fill="#1F3F74">主要出典(クリックで開きます)</text>
+    <text x="64" y="474"><a href="https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-02-01.pdf"><tspan fill="#1F3F74" text-decoration="underline">JR東海 ファクトシート2026「東海道新幹線」</tspan></a></text>
+    <text x="64" y="502"><a href="https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-03.pdf"><tspan fill="#1F3F74" text-decoration="underline">JR東海 ファクトシート2026「地震対策」</tspan></a></text>
+    <text x="64" y="530"><a href="https://company.jr-central.co.jp/ir/factsheets/_pdf/factsheets2026-07.pdf"><tspan fill="#1F3F74" text-decoration="underline">JR東海 ファクトシート2026「超電導リニアによる中央新幹線計画」</tspan></a></text>
+    <text x="64" y="558"><a href="https://saiyo.jr-central.co.jp/company/business/shinkansen.html"><tspan fill="#1F3F74" text-decoration="underline">JR東海 採用サイト「新幹線鉄道事業」</tspan></a></text>
+    <text x="64" y="586"><a href="https://railway.jr-central.co.jp/train/shinkansen/n700s/"><tspan fill="#1F3F74" text-decoration="underline">JR東海「N700S 車両のご案内」</tspan></a></text>
+    <text x="628" y="474"><a href="https://jr-central.co.jp/news/release/_pdf/000043174.pdf"><tspan fill="#1F3F74" text-decoration="underline">JR東海 ニュースリリース「開業60周年にあたって」(2024年)</tspan></a></text>
+    <text x="628" y="502"><a href="https://jr-central.co.jp/news/release/_pdf/000035513.pdf"><tspan fill="#1F3F74" text-decoration="underline">JR東海 ニュースリリース「地震検知の早期化について」(2017年)</tspan></a></text>
+    <text x="628" y="530"><a href="https://jr-central.co.jp/news/release/_pdf/000014824.pdf"><tspan fill="#1F3F74" text-decoration="underline">JR東海 ニュースリリース「地震防災システムの機能強化」(2012年)</tspan></a></text>
+    <text x="628" y="558"><a href="https://www.jstage.jst.go.jp/article/jsmemag/120/1179/120_10/_pdf/-char/ja"><tspan fill="#1F3F74" text-decoration="underline">上野雅之「東海道新幹線車両技術の変遷」日本機械学会誌 120巻(2017年)</tspan></a></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 620 1152 50">
+    <text x="64" y="640" font-size="16" fill="#5E5A52">結論とまとめの四つの切り口は当資料による整理。数値は各出典の記載年度・時点のもの。<tspan x="64" dy="22">AI生成の図はすべてイメージで、特定の車両・場所を再現したものではありません。</tspan></text>
+    <text x="1216" y="662" font-size="16" fill="#5E5A52" text-anchor="end">15</text>
+  </g>
+  <g id="rail-band" data-pptx-role="decoration" data-pptx-bounds="0 680 1280 28">
+    <rect x="0" y="684" width="1280" height="12" fill="#1F3F74"/>
+    <line x1="0" y1="704" x2="1280" y2="704" stroke="#1F3F74" stroke-width="2"/>
+  </g>
+</svg>

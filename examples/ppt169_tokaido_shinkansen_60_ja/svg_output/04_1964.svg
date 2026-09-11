@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <defs>
+    <clipPath id="eraWindowClip">
+      <rect x="800" y="64" width="416" height="592" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <circle id="sun-disc" data-pptx-role="decoration" cx="800" cy="112" r="84" fill="#C8442C"/>
+  <g id="era-image" data-pptx-bounds="800 64 416 592">
+    <image href="../images/era_1964.jpg" x="800" y="64" width="416" height="592" preserveAspectRatio="xMidYMid slice" clip-path="url(#eraWindowClip)"/>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 56 700 72">
+    <text x="64" y="108" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">1964年、4時間で走り出した</text>
+  </g>
+  <g id="opening-kicker" data-pptx-bounds="64 170 700 36">
+    <text x="64" y="196" font-size="22" font-weight="bold" fill="#C8442C">1964年10月1日 開業の日</text>
+  </g>
+  <g id="hero-time" data-pptx-bounds="64 206 700 176">
+    <text x="64" y="330" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="132" font-weight="bold" fill="#1F3F74">4:00</text>
+  </g>
+  <g id="hero-caption" data-pptx-bounds="64 388 700 46">
+    <text x="64" y="422" font-size="32" fill="#22262E">開業時の東京〜新大阪の所要時間</text>
+  </g>
+  <g id="fact-type" data-pptx-bounds="64 462 212 104">
+<g id="ticket-type" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="64 462 212 104" fill="#E6DCC6" stroke="none">
+<path d="M 64 479.33 A 17.33 17.33 0 0 0 81.33 462 L 258.67 462 A 17.33 17.33 0 0 0 276 479.33 L 276 548.67 A 17.33 17.33 0 0 0 258.67 566 L 81.33 566 A 17.33 17.33 0 0 0 64 548.67 Z"/>
+</g>
+    <text x="170" y="508" font-size="32" font-weight="bold" fill="#1F3F74" text-anchor="middle">0系</text>
+    <text x="170" y="546" font-size="22" fill="#5E5A52" text-anchor="middle">開業時の車両</text>
+  </g>
+  <g id="fact-speed" data-pptx-bounds="292 462 212 104">
+<g id="ticket-speed" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="292 462 212 104" fill="#E6DCC6" stroke="none">
+<path d="M 292 479.33 A 17.33 17.33 0 0 0 309.33 462 L 486.67 462 A 17.33 17.33 0 0 0 504 479.33 L 504 548.67 A 17.33 17.33 0 0 0 486.67 566 L 309.33 566 A 17.33 17.33 0 0 0 292 548.67 Z"/>
+</g>
+    <text x="398" y="508" font-size="32" font-weight="bold" fill="#1F3F74" text-anchor="middle">210km/h</text>
+    <text x="398" y="546" font-size="22" fill="#5E5A52" text-anchor="middle">最高速度</text>
+  </g>
+  <g id="fact-trains" data-pptx-bounds="520 462 212 104">
+<g id="ticket-trains" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="520 462 212 104" fill="#E6DCC6" stroke="none">
+<path d="M 520 479.33 A 17.33 17.33 0 0 0 537.33 462 L 714.67 462 A 17.33 17.33 0 0 0 732 479.33 L 732 548.67 A 17.33 17.33 0 0 0 714.67 566 L 537.33 566 A 17.33 17.33 0 0 0 520 548.67 Z"/>
+</g>
+    <text x="626" y="508" font-size="32" font-weight="bold" fill="#1F3F74" text-anchor="middle">60本/日</text>
+    <text x="626" y="546" font-size="22" fill="#5E5A52" text-anchor="middle">開業時の1日平均</text>
+  </g>
+  <g id="rail-band" data-pptx-role="decoration" data-pptx-bounds="0 590 800 24">
+    <rect x="0" y="592" width="800" height="12" fill="#1F3F74"/>
+    <line x1="0" y1="612" x2="800" y2="612" stroke="#1F3F74" stroke-width="2"/>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text x="64" y="664" font-size="16" fill="#5E5A52">右の図はAI生成のイメージで、特定の車両を再現したものではありません。<tspan x="64" dy="22">出典:JR東海 ニュースリリース(2024年2月)/上野雅之(2017)日本機械学会誌/JR東海 採用サイト(2026年時点)</tspan></text>
+    <text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">04</text>
+  </g>
+</svg>

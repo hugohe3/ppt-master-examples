@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="section" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <image id="rails-duotone" data-pptx-role="background" href="../images/rails_dusk_duotone.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+<g id="safety-panel-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="parallelogram" data-pptx-frame="-120 0 720 720" data-pptx-av-adj="val 16667" fill="#1F3F74" stroke="none">
+<path d="M -120 720 L 0 0 L 600 0 L 480 720 Z"/>
+</g>
+  <g id="chapter-kicker" data-pptx-bounds="64 64 460 32">
+    <text x="64" y="88" font-size="22" font-weight="bold" fill="#D9A33A">④ 安全を積み上げる</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 110 460 130">
+    <text x="64" y="162" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#F3ECDD">60年間、乗車中の<tspan x="64" dy="62">死傷事故はゼロ</tspan></text>
+  </g>
+  <g id="zero-hero" data-pptx-bounds="56 262 380 370">
+    <text x="64" y="530" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="280" font-weight="bold" fill="#D9A33A">0</text>
+    <text x="64" y="578" font-size="22" fill="#F3ECDD">開業以来、乗車中のお客様が<tspan x="64" dy="32">死傷される列車事故はゼロ</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 656 400 30">
+    <text x="64" y="676" font-size="16" fill="#F3ECDD">出典:JR東海 ファクトシート2026</text>
+  </g>
+</svg>

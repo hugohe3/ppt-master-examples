@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD" />
+  <g id="page-title" data-pptx-bounds="64 48 1152 126">
+    <text x="64" y="104" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="48" font-weight="bold" fill="#1F3F74">止めたあとも、脱線させない</text>
+    <text x="64" y="160" font-size="32" fill="#22262E">脱線を防ぐガード、壊れにくい構造物、長く使うための改修</text>
+  </g>
+  <g id="guard-hero" data-pptx-bounds="64 196 604 280">
+    <text x="64" y="226" font-size="22" font-weight="bold" fill="#1F3F74">脱線防止ガード</text>
+    <text x="64" y="356" font-family="'Arial Black', 'Yu Gothic', sans-serif" font-size="132" font-weight="bold" fill="#C8442C">約937km</text>
+    <text x="64" y="404" font-size="22" fill="#5E5A52">敷設が完了した延長(2025年度末)</text>
+    
+  <g transform="translate(64, 424) scale(2.25)" fill="#1F3F74">
+    <path d="M1 1V16H3V10H7L9 12H15V3H9L7 1H1Z" />
+  </g>
+    <text x="110" y="454" font-size="28" font-weight="bold" fill="#1F3F74">2028年度までに全線完了の見込み</text>
+  </g>
+  <g id="stopper" data-pptx-bounds="64 496 580 132">
+    
+  <g transform="translate(64, 512) scale(2.5)" fill="#1F3F74">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16L4.35009 13.3929C2.24773 11.8912 1 9.46667 1 6.88306V3L8 0L15 3V6.88306C15 9.46667 13.7523 11.8912 11.6499 13.3929L8 16ZM12.2071 5.70711L10.7929 4.29289L7 8.08579L5.20711 6.29289L3.79289 7.70711L7 10.9142L12.2071 5.70711Z" />
+  </g>
+    <text x="116" y="544" font-size="28" font-weight="bold" fill="#1F3F74">逸脱防止ストッパ</text>
+    <text fill="#22262E" font-size="22" x="116" y="582">万一脱線しても大きく逸脱しないよう、</text><text fill="#22262E" font-size="22" x="116" y="612">全車両に設置済み</text></g>
+  <g id="rail-divider" data-pptx-role="decoration" data-pptx-bounds="660 204 28 420">
+    <rect x="664" y="206" width="10" height="416" fill="#1F3F74" />
+    <line x1="682" y1="206" x2="682" y2="622" stroke="#1F3F74" stroke-width="2" />
+  </g>
+  <g id="seismic-retrofit" data-pptx-bounds="708 200 508 258">
+<g id="bracket-retrofit" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="712 208 22 244" fill="none" stroke="#1F3F74" stroke-width="3">
+<path d="M 734 452 A 22 1.83 0 0 1 712 450.17 L 712 209.83 A 22 1.83 0 0 1 734 208 Z" stroke="none" />
+<path d="M 734 452 A 22 1.83 0 0 1 712 450.17 L 712 209.83 A 22 1.83 0 0 1 734 208" />
+</g>
+    <text x="752" y="240" font-size="28" font-weight="bold" fill="#1F3F74">構造物の耐震補強</text>
+    <text x="752" y="272" font-size="22" fill="#5E5A52">東海道新幹線で完了(2025年度末)</text>
+    <g font-size="22" fill="#22262E">
+      <text x="752" y="330">高架橋柱</text>
+      <text x="752" y="380">橋脚</text>
+      <text x="752" y="430">盛土</text>
+    </g>
+    <g font-size="32" font-weight="bold" fill="#1F3F74" text-anchor="end">
+      <text x="1216" y="330">約19,600本</text>
+      <text x="1216" y="380">約900基</text>
+      <text x="1216" y="430">約9.4km</text>
+    </g>
+  </g>
+  <g id="renewal" data-pptx-bounds="708 488 508 128">
+<g id="bracket-renewal" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="712 494 22 116" fill="none" stroke="#1F3F74" stroke-width="3">
+<path d="M 734 610 A 22 1.83 0 0 1 712 608.17 L 712 495.83 A 22 1.83 0 0 1 734 494 Z" stroke="none" />
+<path d="M 734 610 A 22 1.83 0 0 1 712 608.17 L 712 495.83 A 22 1.83 0 0 1 734 494" />
+</g>
+    
+  <g transform="translate(752, 508) scale(2.25)" fill="#1F3F74">
+    <path d="M10 3.5L13.0581 0.441881C12.4304 0.15802 11.7337 0 11 0C8.23858 0 6 2.23858 6 5C6 5.45802 6.06158 5.90165 6.17692 6.32308L0 12.5L3.5 16L9.67692 9.82308C10.0983 9.93842 10.542 10 11 10C13.7614 10 16 7.76142 16 5C16 4.26633 15.842 3.56956 15.5581 2.94188L12.5 6H10V3.5Z" />
+  </g>
+    <text x="800" y="538" font-size="28" font-weight="bold" fill="#1F3F74">大規模改修工事</text>
+    <text x="752" y="590" font-size="22" fill="#22262E">経年劣化に備え、<tspan font-weight="bold" fill="#C8442C">2013年度</tspan>に着手</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 644 1152 52">
+    <text fill="#5E5A52" font-size="16" x="64" y="664">脱線防止・耐震補強の数値は東海道新幹線の2025年度末時点。</text><text fill="#5E5A52" font-size="16" x="64" y="686">出典:JR東海 ファクトシート2026「地震対策」「東海道新幹線大規模改修工事の概要」</text><text x="1216" y="686" font-size="16" fill="#5E5A52" text-anchor="end">13</text>
+  </g>
+</svg>

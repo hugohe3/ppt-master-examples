@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="'Segoe UI', 'Yu Gothic', sans-serif">
+  <defs>
+    <clipPath id="coverArchClip">
+      <path d="M712 656 L712 316 A252 252 0 0 1 1216 316 L1216 656 Z"/>
+    </clipPath>
+  </defs>
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F3ECDD"/>
+  <g id="halftone-corner" data-pptx-role="decoration" data-pptx-bounds="0 0 214 126" fill="#D9A33A" fill-opacity="0.55">
+    <circle cx="8" cy="8" r="5.3"/><circle cx="8" cy="30" r="4.9"/><circle cx="8" cy="52" r="4.4"/><circle cx="8" cy="74" r="4.0"/><circle cx="8" cy="96" r="3.5"/><circle cx="8" cy="118" r="3.1"/>
+    <circle cx="30" cy="8" r="4.9"/><circle cx="30" cy="30" r="4.6"/><circle cx="30" cy="52" r="4.3"/><circle cx="30" cy="74" r="3.9"/><circle cx="30" cy="96" r="3.5"/><circle cx="30" cy="118" r="3.0"/>
+    <circle cx="52" cy="8" r="4.4"/><circle cx="52" cy="30" r="4.3"/><circle cx="52" cy="52" r="4.0"/><circle cx="52" cy="74" r="3.7"/><circle cx="52" cy="96" r="3.3"/><circle cx="52" cy="118" r="2.9"/>
+    <circle cx="74" cy="8" r="4.0"/><circle cx="74" cy="30" r="3.9"/><circle cx="74" cy="52" r="3.7"/><circle cx="74" cy="74" r="3.4"/><circle cx="74" cy="96" r="3.0"/><circle cx="74" cy="118" r="2.7"/>
+    <circle cx="96" cy="8" r="3.5"/><circle cx="96" cy="30" r="3.5"/><circle cx="96" cy="52" r="3.3"/><circle cx="96" cy="74" r="3.0"/><circle cx="96" cy="96" r="2.7"/><circle cx="96" cy="118" r="2.4"/>
+    <circle cx="118" cy="8" r="3.1"/><circle cx="118" cy="30" r="3.0"/><circle cx="118" cy="52" r="2.9"/><circle cx="118" cy="74" r="2.7"/><circle cx="118" cy="96" r="2.4"/><circle cx="118" cy="118" r="2.1"/>
+    <circle cx="140" cy="8" r="2.6"/><circle cx="140" cy="30" r="2.6"/><circle cx="140" cy="52" r="2.5"/><circle cx="140" cy="74" r="2.3"/><circle cx="140" cy="96" r="2.0"/><circle cx="140" cy="118" r="1.8"/>
+    <circle cx="162" cy="8" r="2.2"/><circle cx="162" cy="30" r="2.1"/><circle cx="162" cy="52" r="2.0"/><circle cx="162" cy="74" r="1.9"/><circle cx="162" cy="96" r="1.7"/>
+    <circle cx="184" cy="8" r="1.7"/><circle cx="184" cy="30" r="1.7"/><circle cx="184" cy="52" r="1.6"/><circle cx="184" cy="74" r="1.5"/>
+    <circle cx="206" cy="8" r="1.3"/><circle cx="206" cy="30" r="1.3"/>
+  </g>
+  <g id="cover-art" data-pptx-bounds="708 60 512 600">
+    <image href="../images/cover_poster.jpg" x="111" y="43" width="1136" height="634" preserveAspectRatio="xMidYMid meet" clip-path="url(#coverArchClip)"/>
+  </g>
+  <g id="cover-arch-echo" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="698 50 532 620" data-pptx-av-adj1="val 50000" data-pptx-av-adj2="val 0" fill="none" stroke="#1F3F74" stroke-width="3">
+<path d="M 964 50 L 964 50 A 266 266 0 0 1 1230 316 L 1230 670 L 698 670 L 698 316 A 266 266 0 0 1 964 50 Z"/>
+</g>
+  <g id="date-badge" data-pptx-bounds="64 128 326 54">
+    <rect x="64" y="132" width="318" height="46" rx="23" fill="#D9A33A"/>
+    <text x="223" y="163" font-size="22" font-weight="bold" fill="#1F3F74" text-anchor="middle">1964.10.1 — 2024.10.1</text>
+  </g>
+  <g id="cover-title" data-pptx-bounds="64 200 626 246">
+    <text x="64" y="290" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="96" font-weight="bold" fill="#1F3F74">東海道<tspan x="64" dy="112">新幹線 60年</tspan></text>
+  </g>
+  <g id="cover-subtitle" data-pptx-bounds="64 466 626 98">
+    <text x="64" y="504" font-family="'Times New Roman', 'Yu Mincho', serif" font-size="34" fill="#22262E">速さ・本数・安全を積み上げた<tspan x="64" dy="48">大動脈の60年</tspan></text>
+  </g>
+  <g id="cover-source" data-pptx-bounds="64 632 626 26">
+    <text x="64" y="650" font-size="16" fill="#5E5A52">出典:JR東海 ニュースリリース(2024年2月15日)</text>
+  </g>
+  <g id="rail-band" data-pptx-role="decoration" data-pptx-bounds="0 680 1280 28">
+    <rect x="0" y="684" width="1280" height="12" fill="#1F3F74"/>
+    <line x1="0" y1="704" x2="1280" y2="704" stroke="#1F3F74" stroke-width="2"/>
+  </g>
+</svg>

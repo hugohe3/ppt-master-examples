@@ -2,11 +2,114 @@
   "version": 1,
   "updated": "2026-09-11",
   "stats": {
-    "examples": 44,
-    "pages": 623,
-    "templates": 44
+    "examples": 45,
+    "pages": 638,
+    "templates": 45
   },
   "projects": [
+    {
+      "id": "ppt169_tokaido_shinkansen_60_ja",
+      "title": "東海道新幹線 60年",
+      "description": "一般向け講演 deck 15 页 — 仓库首个日文示例;输入只有题目,事实经 topic-research 取自 JR 东海 2026 年版事实手册、2012/2017/2024 年新闻稿、N700S 车辆介绍与日本机械学会志 2017 年论文(多份以 PDF 直链经 source_to_md 转换),每个数字标出处与参考年份,「速さ・本数・正確さ・安全」四条主线为本 deck 整理;昭和纪念海报风自由设计,Yu Mincho / Yu Gothic 日文字体;东京—大阪所要时间横条图与输送人公里柱状图 2 张原生图表,车型演进 1 张原生表格,21 个原生预设形状,2 组 Morph 与主角入场动画,同一批次 AI 插画 4 张(拱形封面、圆角 1964 窗、双色派生背景、圆形裁切),9 条来源原生超链接,全卷日文讲者备注",
+      "icon": "🚄",
+      "color": "#1F3A6B",
+      "style": "editorial",
+      "styleName": "Showa Poster · 昭和纪念海报",
+      "desc": "A fifteen-page Japanese public-lecture deck on the sixtieth anniversary of the Tokaido Shinkansen — the first Japanese example in the collection. The only input was the topic: facts came through topic research from JR Central's 2026 fact sheets, news releases from 2012, 2017 and 2024, the N700S vehicle page and a 2017 Japan Society of Mechanical Engineers article, several fetched as PDF URLs and converted by source_to_md, with every figure carrying its source and reference year and the speed / frequency / punctuality / safety framing marked as compiled. Free design in a Showa commemorative-poster look set in Yu Mincho and Yu Gothic; two native charts (Tokyo–Osaka travel time, passenger-km by fiscal year), one native rolling-stock table, twenty-one preset shapes, two Morph pairs with hero entrances, four AI illustrations from one batch (arched cover, rounded 1964 window, a duotone derivative behind the safety chapter, a circular crop on the next-sixty-years page), nine native source hyperlinks, and Japanese speaker notes throughout.",
+      "tags": [
+        "Transport",
+        "Japanese",
+        "Anniversary",
+        "Vintage Poster",
+        "Native Charts",
+        "Native Tables",
+        "Morph",
+        "AI Illustration"
+      ],
+      "isNew": true,
+      "folder": "ppt169_tokaido_shinkansen_60_ja/svg_final",
+      "generatedAt": "2026-09-11",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_tokaido_shinkansen_60_ja/exports/ppt169_tokaido_shinkansen_60_ja.pptx",
+      "pptxNative": "examples/ppt169_tokaido_shinkansen_60_ja/exports/ppt169_tokaido_shinkansen_60_ja_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "東海道新幹線 60年 — 速さ・本数・安全を積み上げた大動脈の60年"
+        },
+        {
+          "file": "02_four_numbers.svg",
+          "title": "four numbers",
+          "desc": "60年は、四つの数字で語れる"
+        },
+        {
+          "file": "03_why_shinkansen.svg",
+          "title": "why shinkansen",
+          "desc": "6時間の旅が、4時間になった"
+        },
+        {
+          "file": "04_1964.svg",
+          "title": "1964",
+          "desc": "1964年、4時間で走り出した"
+        },
+        {
+          "file": "05_time_staircase.svg",
+          "title": "time staircase",
+          "desc": "7世代で、4時間は2時間21分に"
+        },
+        {
+          "file": "06_rolling_stock.svg",
+          "title": "rolling stock",
+          "desc": "速さは、軽さと賢さの積み重ねだった"
+        },
+        {
+          "file": "07_trains_chapter.svg",
+          "title": "trains chapter",
+          "desc": "次の主役は、本数だった"
+        },
+        {
+          "file": "08_nozomi_per_hour.svg",
+          "title": "nozomi per hour",
+          "desc": "1時間に「のぞみ」13本の時代へ"
+        },
+        {
+          "file": "09_passenger_km.svg",
+          "title": "passenger km",
+          "desc": "落ち込んでも、以前を上回った"
+        },
+        {
+          "file": "10_punctuality_capacity.svg",
+          "title": "punctuality and capacity",
+          "desc": "たくさん走らせて、遅れは平均1.0分"
+        },
+        {
+          "file": "11_zero_accidents.svg",
+          "title": "zero accidents",
+          "desc": "60年間、乗車中の死傷事故はゼロ"
+        },
+        {
+          "file": "12_earthquake_stop.svg",
+          "title": "earthquake stop",
+          "desc": "大きな揺れが来る前に、列車を止める"
+        },
+        {
+          "file": "13_derailment_structures.svg",
+          "title": "derailment and structures",
+          "desc": "止めたあとも、脱線させない"
+        },
+        {
+          "file": "14_next_60.svg",
+          "title": "next 60",
+          "desc": "次の60年は、大動脈を二重にする"
+        },
+        {
+          "file": "15_closing.svg",
+          "title": "closing",
+          "desc": "速さ・本数・正確さ・安全を、同時に積み上げた60年"
+        }
+      ]
+    },
     {
       "id": "ppt169_beidou_navigation_narrated",
       "title": "北斗:从一颗星到全球组网",

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "cover-art": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 2, "duration": 0.8 }
+      }
+    },
+    "02_four_numbers": {
+      "groups": {
+        "num-speed": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "num-trains": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "num-punctuality": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "num-safety": { "effect": "entrance_fade", "order": 4, "duration": 0.4 }
+      }
+    },
+    "03_why_shinkansen": {
+      "groups": {
+        "travel-time-bars": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.8 }
+      }
+    },
+    "04_1964": {
+      "groups": {
+        "hero-time": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "05_time_staircase": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "04_1964", "pairs": { "origin-time": { "from": "hero-time", "to": "time-0kei" } } },
+      "groups": {
+        "times-later": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 1.0 }
+      }
+    },
+    "07_trains_chapter": {
+      "groups": {
+        "trains-395": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "ratio-seal": { "effect": "entrance_fade", "order": 2, "duration": 0.4 }
+      }
+    },
+    "08_nozomi_per_hour": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "07_trains_chapter", "pairs": { "trains-395": { "from": "trains-395", "to": "trains-395" }, "trains-395-label": { "from": "trains-395-label", "to": "trains-395-label" } } },
+      "groups": {
+        "nozomi-1992": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.5 },
+        "nozomi-2003": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "duration": 0.5 },
+        "nozomi-2019": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "duration": 0.5 },
+        "nozomi-2026": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 4, "duration": 0.5 }
+      }
+    },
+    "09_passenger_km": {
+      "groups": {
+        "pkm-columns": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 1, "duration": 0.8 },
+        "pkm-longrun": { "effect": "entrance_fade", "order": 2, "duration": 0.4 }
+      }
+    },
+    "10_punctuality_capacity": {
+      "groups": {
+        "punctuality-panel": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "11_zero_accidents": {
+      "groups": {
+        "zero-hero": { "effect": "entrance_fade", "order": 1, "duration": 0.8 }
+      }
+    },
+    "12_earthquake_stop": {
+      "groups": {
+        "step-quake": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 1, "duration": 0.4 },
+        "step-sensors": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 2, "duration": 0.4 },
+        "step-substation": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 3, "duration": 0.4 },
+        "step-train": { "effect": "entrance_wipe", "effect_options": { "direction": "left" }, "order": 4, "duration": 0.4 }
+      }
+    },
+    "13_derailment_structures": {
+      "groups": {
+        "guard-hero": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "14_next_60": {
+      "groups": {
+        "time-compare": { "effect": "entrance_fade", "order": 1, "duration": 0.6 }
+      }
+    },
+    "15_closing": {
+      "groups": {
+        "closing-title": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "closing-next": { "effect": "entrance_fade", "order": 2, "duration": 0.6 }
+      }
+    }
+  }
+}
