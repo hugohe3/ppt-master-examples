@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.6 } ] },
+        "cover-hero-delta": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5, "delay": 0.2 } ] },
+        "cover-anchors": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "02_source": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "01_cover", "pairs": { "hero-figure": { "from": "cover-hero-delta", "to": "source-hero-delta" } } },
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "source-indicators": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.8 } ] },
+        "method-note": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "03_population": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "population-curve": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.2 } ] },
+        "period-marker": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] },
+        "pop-minimum-note": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] }
+      }
+    },
+    "04_recovery": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "03_population", "pairs": { "period-marker": { "from": "period-marker", "to": "period-marker" } } },
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "population-recent": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.0 } ] },
+        "recovery-figures": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5 } ] }
+      }
+    },
+    "05_births_deaths": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "births-deaths": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.2 } ] },
+        "cross-marker": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] },
+        "cross-note": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] }
+      }
+    },
+    "06_natural_change": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "05_births_deaths", "pairs": { "cross-marker": { "from": "cross-marker", "to": "cross-marker" } } },
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "natural-change": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.2 } ] },
+        "natural-change-note": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "07_fertility": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "tfr-hero": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "tfr-curve": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 1.2 } ] },
+        "fertility-note": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] }
+      }
+    },
+    "08_life_expectancy": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "le-sex": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.2 } ] },
+        "le-gap-formula": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] },
+        "le-covid-note": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] }
+      }
+    },
+    "09_gap": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "gap-hero": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.6 } ] },
+        "gap-series": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.9 } ] },
+        "gap-note": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] }
+      }
+    },
+    "10_aging": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "aging-share": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 2, "duration": 1.0 } ] },
+        "aging-summary": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5 } ] }
+      }
+    },
+    "11_urbanisation": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "urban-panel": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.6 } ] },
+        "urban-note": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5 } ] }
+      }
+    },
+    "12_migration": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "net-migration": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.2 } ] },
+        "migration-note": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "13_countries": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "country-metrics": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.9 } ] },
+        "country-note": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "14_le_compare": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "le-compare": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 2, "duration": 1.0 } ] },
+        "le-compare-note": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] }
+      }
+    },
+    "15_conclusions": {
+      "groups": {
+        "page-header": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "conclusion-1": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.4 } ] },
+        "conclusion-2": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] },
+        "conclusion-3": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] },
+        "conclusion-4": { "effects": [ { "effect": "entrance_fade", "order": 5, "duration": 0.4 } ] },
+        "closing-takeaway": { "effects": [ { "effect": "entrance_fade", "order": 6, "duration": 0.6, "delay": 0.2 } ] },
+        "closing-band": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 7, "duration": 0.7 } ] }
+      }
+    }
+  }
+}

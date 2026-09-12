@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+
+  <g id="header" data-pptx-bounds="72 58 860 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">总量 709.8 万辆,增量全部来自新能源</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">All the Growth Came from NEVs</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">一 规模与口径</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 1 · Scale &amp; Calibres</text>
+  </g>
+
+  <g id="export-mix-donut" data-pptx-replace-with="chart" data-pptx-bounds="72 236 596 410" data-pptx-fallback-sha256="57bdb8d925e2b2f76d20c1d98e2ae7a8f6d8752aca63dd73b22f8398b01a78db">
+    <metadata type="application/json">
+{
+  "x": 72, "y": 236, "width": 596, "height": 410,
+  "name": "export-mix-donut",
+  "type": "doughnut",
+  "categories": ["新能源 NEV", "传统燃料 ICE"],
+  "series": [{"name": "2025 出口构成", "values": [261.5, 448.3]}],
+  "show_legend": false,
+  "style": {"colors": ["#D4541E", "#C3CFDA"], "chart_area_fill": "none", "text_color": "#5C6673"},
+  "notes": [
+    {"text": "709.8", "font_size": 64, "color": "#0E3A66", "align": "ctr"},
+    {"text": "万辆 · 10k units", "font_size": 14, "color": "#5C6673", "align": "ctr"},
+    {"text": "新能源 NEV 261.5 万辆 · 36.8%", "font_size": 22, "color": "#D4541E"},
+    {"text": "传统燃料 ICE 448.3 万辆 · 63.2%", "font_size": 22, "color": "#5C6673"}
+  ]
+}
+    </metadata>
+    <g id="export-mix-donut-chartArea">
+      <!-- chart-plot-area: object=export-mix-donut | donut | center: 340,420 | outer-radius: 140 | inner-radius: 84 -->
+      <path d="M 340 280 A 140 140 0 0 1 443.01 514.81 L 401.80 476.89 A 84 84 0 0 0 340 336 Z" fill="#D4541E"/>
+      <path d="M 443.01 514.81 A 140 140 0 1 1 340 280 L 340 336 A 84 84 0 1 0 401.80 476.89 Z" fill="#C3CFDA"/>
+    </g>
+    <text x="340" y="430" font-family="Cambria" font-size="64" fill="#0E3A66" text-anchor="middle">709.8</text>
+    <text x="340" y="458" font-size="14" fill="#5C6673" text-anchor="middle">万辆 · 10k units</text>
+    <text x="72" y="604" font-size="22" fill="#D4541E">新能源 NEV 261.5 万辆 · 36.8%</text>
+    <text x="72" y="636" font-size="22" fill="#5C6673">传统燃料 ICE 448.3 万辆 · 63.2%</text>
+  </g>
+
+  <g id="claim-total" data-pptx-bounds="700 250 508 74">
+    <text x="700" y="286" font-size="22" fill="#1B2430">汽车出口 709.8 万辆,同比 <tspan font-weight="bold" fill="#2E7D32">+21.1%</tspan></text>
+    <text x="700" y="316" font-family="Cambria" font-size="18" fill="#5C6673">Total vehicle exports 7.098m units, +21.1% YoY</text>
+  </g>
+
+  <g id="claim-nev" data-pptx-bounds="700 344 508 74">
+    <text x="700" y="380" font-size="22" fill="#1B2430">新能源汽车 261.5 万辆,同比 <tspan font-weight="bold" fill="#D4541E">+103.7%</tspan></text>
+    <text x="700" y="410" font-family="Cambria" font-size="18" fill="#5C6673">NEVs 2.615m units, +103.7% YoY</text>
+  </g>
+
+  <g id="claim-ice" data-pptx-bounds="700 438 508 74">
+    <text x="700" y="474" font-size="22" fill="#1B2430">传统燃料汽车 448.3 万辆,同比 <tspan font-weight="bold" fill="#C62828">−2%</tspan></text>
+    <text x="700" y="504" font-family="Cambria" font-size="18" fill="#5C6673">ICE vehicles 4.483m units, −2% YoY</text>
+  </g>
+
+  <g id="claim-share" data-pptx-bounds="700 532 508 92">
+    <line x1="700" y1="536" x2="700" y2="620" stroke="#D4541E" stroke-width="3"/>
+    <text x="722" y="572" font-size="22" fill="#1B2430">新能源占出口总量约 36.8%(由前两项计算)</text>
+    <text x="722" y="602" font-family="Cambria" font-size="18" fill="#5C6673">≈36.8% of all vehicle exports (calculated)</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 656 1136 32">
+    <line x1="72" y1="660" x2="1208" y2="660" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="682" font-size="14" fill="#5C6673">来源:中国汽车工业协会,2026 年 1 月发布 / Source: CAAM, released January 2026</text>
+    <text x="1208" y="682" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">04 / 15</text>
+  </g>
+</svg>

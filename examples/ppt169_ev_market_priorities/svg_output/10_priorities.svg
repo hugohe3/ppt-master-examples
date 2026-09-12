@@ -137,7 +137,7 @@
   <text x="421.3" y="580" font-family="Arial" font-size="22" font-weight="bold" fill="#7F7F7F">205<tspan font-family="Microsoft YaHei" font-size="11" font-weight="normal" fill="#7F7F7F"> </tspan></text>
   <text x="421.3" y="596" font-size="11" fill="#7F7F7F">三级 3 市场,增量 −2</text>
 </g>
-<g id="tier-note" data-pptx-bounds="640 534 592 96">
+<g id="tier-note" data-pptx-bounds="640 534 592 112">
   <text x="640" y="548" font-size="11" fill="#051C2C" font-weight="bold" letter-spacing="2">分级含义</text>
   <line x1="640" y1="556" x2="1232" y2="556" stroke="#051C2C" stroke-width="0.75"/>
   <text x="640" y="576" fill="#333333"><tspan fill="#2251FF" font-weight="bold">一级</tspan> 2026–28 增量投入主战场:中国守存量、东南亚抢窗口、<tspan x="640" dy="18">英德是欧洲仅有的确定增量;</tspan><tspan x="640" dy="18"><tspan fill="#051C2C" font-weight="bold">二级</tspan> 以 PHEV 试点验证后择机放量,试点规模受控;</tspan><tspan x="640" dy="18"><tspan fill="#7F7F7F" font-weight="bold">三级</tspan> 停滞或饱和市场维持布局、不新增投入,2028 年复盘美国。</tspan></text>

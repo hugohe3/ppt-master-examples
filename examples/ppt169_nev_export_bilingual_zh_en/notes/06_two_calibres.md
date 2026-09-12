@@ -1,0 +1,3 @@
+这一页把两个口径放在一起。中汽协 261.5 万辆,统计的是新能源整车出口;乘联分会 343 万辆,范围更宽,增速口径也不同,是同比增长 70%。两者不是矛盾,是范围不同,所以引用时一定要带机构名。还有一个值得注意的方向性事实:同期整车出口均价从 2024 年的 1.8 万美元降到 1.6 万美元,量在增、单价在降,这对海外经销商的定价和库存策略是直接相关的。
+
+This page puts the two calibres side by side. CAAM counts 2.615 million NEVs; CPCA counts 3.43 million on a wider definition, with growth of 70 percent on its own basis. They do not contradict each other, they measure different things, so always cite the institution. One more directional fact matters: the average export price fell from eighteen thousand US dollars in 2024 to sixteen thousand in 2025. More units at a lower unit price bears directly on pricing and inventory decisions overseas.

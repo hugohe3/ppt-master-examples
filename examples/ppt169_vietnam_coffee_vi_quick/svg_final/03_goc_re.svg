@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="vi-VN" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 1 · GỐC RỄ</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Từ 1857 đến một cường quốc Robusta</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="64" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="era-1-mark" data-pptx-bounds="64 212 376 84">
+    <text x="64" y="250" font-family="Cambria" font-size="44" font-weight="bold" fill="#221C15">1857</text>
+    <text x="64" y="286" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">DU NHẬP</text>
+  </g>
+
+  <g id="era-2-mark" data-pptx-bounds="460 212 376 84">
+    <text x="460" y="250" font-family="Cambria" font-size="44" font-weight="bold" fill="#221C15">1914</text>
+    <text x="460" y="286" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHỌN VÙNG LÕI</text>
+  </g>
+
+  <g id="era-3-mark" data-pptx-bounds="856 212 360 84">
+    <text x="856" y="250" font-family="Cambria" font-size="44" font-weight="bold" fill="#221C15">Hôm nay</text>
+    <text x="856" y="286" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">QUY MÔ HIỆN NAY</text>
+  </g>
+
+  <g id="timeline-spine" data-pptx-bounds="64 326 1152 54">
+    <line x1="96" y1="356" x2="1120" y2="356" stroke="#D9CDBA" stroke-width="3" />
+    <g id="p03-today-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="1120 340 96 32" fill="#D9CDBA" stroke="none">
+<path d="M 1120 348 L 1200 348 L 1200 340 L 1216 356 L 1200 372 L 1200 364 L 1120 364 Z" />
+</g>
+    <circle cx="96" cy="356" r="13" fill="#9C2B1B" stroke="#F7F3EC" stroke-width="4" />
+    <circle cx="492" cy="356" r="13" fill="#9C2B1B" stroke="#F7F3EC" stroke-width="4" />
+    <circle cx="888" cy="356" r="13" fill="#9C2B1B" stroke="#F7F3EC" stroke-width="4" />
+  </g>
+
+  <g id="era-1-note" data-pptx-bounds="64 396 376 144">
+    <text font-size="24" fill="#3A3128" x="64" y="420">Người Pháp đưa cây cà phê</text><text font-size="24" fill="#3A3128" x="64" y="456">du nhập vào Việt Nam, mở</text><text font-size="24" fill="#3A3128" x="64" y="492">đầu hơn một thế kỷ rưỡi gắn</text><text font-size="24" fill="#3A3128" x="64" y="528">bó với đất Việt.</text></g>
+
+  <g id="era-2-note" data-pptx-bounds="460 396 376 144">
+    <text font-size="24" fill="#3A3128" x="460" y="420">Người Pháp chọn Buôn Ma</text><text font-size="24" fill="#3A3128" x="460" y="456">Thuột làm nơi chuyên canh</text><text font-size="24" fill="#3A3128" x="460" y="492">Robusta sau khi nghiên cứu</text><text font-size="24" fill="#3A3128" x="460" y="528">thổ nhưỡng, khí hậu, độ cao.</text></g>
+
+  <g id="era-3-note" data-pptx-bounds="856 396 360 144">
+    <text font-size="24" fill="#3A3128" x="856" y="420">Khoảng 730.000 ha cà phê</text><text font-size="24" fill="#3A3128" x="856" y="456">trên cả nước; niên vụ</text><text font-size="24" fill="#3A3128" x="856" y="492">2025/26 đạt 31,7 triệu bao,</text><text font-size="24" fill="#3A3128" x="856" y="528">đứng thứ hai thế giới.</text></g>
+
+  <g id="yersin-note" data-pptx-bounds="64 562 1152 94">
+    <rect x="64" y="566" width="6" height="84" fill="#9C2B1B" />
+    <text font-size="28" fill="#221C15" x="96" y="588">Bác sĩ Yersin nhận định nơi đây có loại đất tốt nhất</text><text font-size="28" fill="#221C15" x="96" y="620">thế giới, rất thích hợp mở đồn điền cây công nghiệp.</text><text x="96" y="648" font-size="18" fill="#6B5B4A">Dẫn theo Báo Thanh Niên, 30/11/2022 — đất đỏ bazan, độ cao khoảng 500–600 m.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: Báo Thanh Niên (30/11/2022); USDA FAS, Coffee Annual Vietnam VM2026-0016 (20/5/2026).</text>
+    <text x="1216" y="692" text-anchor="end">03</text>
+  </g>
+</svg>

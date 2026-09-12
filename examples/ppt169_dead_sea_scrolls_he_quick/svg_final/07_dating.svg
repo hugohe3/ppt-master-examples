@@ -1,0 +1,74 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <defs>
+    <marker id="p07-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#9A5B2B"/>
+    </marker>
+  </defs>
+  <rect id="p07-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <g id="dating-kicker" data-pptx-bounds="975 74 241 27">
+    <text x="1216" y="92" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק שישי · תיארוך</text>
+  </g>
+  <g id="dating-title" data-pptx-bounds="740 104 476 76">
+    <text x="1216" y="142" font-family="David" font-size="40" fill="#1F1B16">שתי שיטות, תאריך אחד</text>
+    <line x1="740" y1="176" x2="1216" y2="176" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="method-paleography" data-pptx-bounds="698 208 520 146">
+<g id="p07-card-paleography" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="700 210 516 140" fill="#FBF7EF" stroke="#CDC2AE" stroke-width="1">
+<path d="M 700 210 L 1192.67 210 L 1216 233.33 L 1216 350 L 700 350 Z"/>
+</g>
+    <!-- icon: tabler-outline/ruler-measure -->
+  <g transform="translate(1116, 232) scale(1.66667)" fill="none" stroke="#9A5B2B" stroke-width="1.5">
+    <path d="M19.875 12c.621 0 1.125 .512 1.125 1.143v5.714c0 .631 -.504 1.143 -1.125 1.143h-15.875a1 1 0 0 1 -1 -1v-5.857c0 -.631 .504 -1.143 1.125 -1.143h15.75" />
+    <path d="M9 12v2" />
+    <path d="M6 12v3" />
+    <path d="M12 12v3" />
+    <path d="M18 12v3" />
+    <path d="M15 12v2" />
+    <path d="M3 3v4" />
+    <path d="M3 5h18" />
+    <path d="M21 3v4" />
+  </g>
+    <text x="1156" y="300" font-family="David" font-size="30" fill="#1F1B16">פלאוגרפיה</text>
+    <text x="1156" y="332" font-size="18" fill="#6B6156">השוואת צורת האותיות לכתבי יד מתוארכים</text>
+  </g>
+  <g id="method-carbon" data-pptx-bounds="138 208 520 146">
+<g id="p07-card-carbon" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="140 210 516 140" fill="#FBF7EF" stroke="#CDC2AE" stroke-width="1">
+<path d="M 140 210 L 632.67 210 L 656 233.33 L 656 350 L 140 350 Z"/>
+</g>
+    <!-- icon: tabler-outline/atom -->
+  <g transform="translate(556, 232) scale(1.66667)" fill="none" stroke="#9A5B2B" stroke-width="1.5">
+    <path d="M12 12v.01" />
+    <path d="M19.071 4.929c-1.562 -1.562 -6 .337 -9.9 4.243c-3.905 3.905 -5.804 8.337 -4.242 9.9c1.562 1.561 6 -.338 9.9 -4.244c3.905 -3.905 5.804 -8.337 4.242 -9.9" />
+    <path d="M4.929 4.929c-1.562 1.562 .337 6 4.243 9.9c3.905 3.905 8.337 5.804 9.9 4.242c1.561 -1.562 -.338 -6 -4.244 -9.9c-3.905 -3.905 -8.337 -5.804 -9.9 -4.242" />
+  </g>
+    <text x="596" y="300" font-family="David" font-size="30" fill="#1F1B16">פחמן-14</text>
+    <text x="596" y="332" font-size="18" fill="#6B6156">מדידת הפחמן הרדיואקטיבי שנותר בקלף</text>
+  </g>
+  <g id="dating-links" data-pptx-bounds="394 356 568 74" stroke="#9A5B2B" stroke-width="2">
+    <line x1="958" y1="358" x2="800" y2="426" marker-end="url(#p07-arrow)"/>
+    <line x1="398" y1="358" x2="730" y2="426" marker-end="url(#p07-arrow)"/>
+  </g>
+  <g id="date-marker" data-pptx-bounds="660 430 210 58">
+    <text x="870" y="448" font-size="18" fill="#1F1B16">קהלת: 175–125 לפנה"ס</text>
+    <rect x="702.5" y="458" width="125" height="28" fill="#9A5B2B" fill-opacity="0.85"/>
+  </g>
+  <g id="date-axis" data-pptx-bounds="120 492 1045 58">
+    <line x1="140" y1="500" x2="1140" y2="500" stroke="#8C8172" stroke-width="2"/>
+    <line x1="1140" y1="494" x2="1140" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <line x1="890" y1="494" x2="890" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <line x1="640" y1="494" x2="640" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <line x1="390" y1="494" x2="390" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <line x1="140" y1="494" x2="140" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <text x="1140" y="540" text-anchor="middle" font-size="18" fill="#6B6156">300</text>
+    <text x="890" y="540" text-anchor="middle" font-size="18" fill="#6B6156">200</text>
+    <text x="640" y="540" text-anchor="middle" font-size="18" fill="#6B6156">100</text>
+    <text x="390" y="540" text-anchor="middle" font-size="18" fill="#6B6156">תחילת הספירה</text>
+    <text x="140" y="540" text-anchor="middle" font-size="18" fill="#6B6156">100</text>
+  </g>
+  <g id="dating-note" data-pptx-bounds="508 572 708 28">
+    <text x="1216" y="590" font-size="18" fill="#332E27">השנים שלפני הספירה מימין, ולאחריה משמאל; הרצועה מסמנת את טווח התיארוך</text>
+  </g>
+  <g id="dating-source" data-pptx-bounds="712 632 504 28">
+    <text x="1216" y="650" font-size="18" fill="#6B6156">מקור: מחקר תיארוך שפורסם ב-2025 · כתב העת פלוס ואן</text>
+  </g>
+</svg>

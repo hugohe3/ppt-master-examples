@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 60 820 130">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Источник и метод</text>
+    <text x="72" y="140" font-size="28" fill="#232A31">Все значения — из CSV-пакетов World<tspan x="72" dy="34">Development Indicators; страна — RUS</tspan></text>
+  </g>
+
+  <g id="source-hero-delta" data-pptx-bounds="900 60 308 146">
+    <text x="1208" y="96" text-anchor="end" font-family="Times New Roman, serif" font-size="32" font-weight="bold" fill="#B3121B">−4,72 млн</text>
+    <text x="1208" y="126" text-anchor="end" font-size="18" fill="#5B6670">SP.POP.TOTL, 1991 → 2024</text>
+    <text x="1208" y="154" text-anchor="end" font-size="18" fill="#5B6670">набор обновлён 13.07.2026</text>
+    <use data-icon="tabler-outline/database" x="1168" y="164" width="40" height="40" fill="#2E6F8E" stroke-width="2" />
+  </g>
+
+  <g id="source-indicators" data-pptx-replace-with="table" data-pptx-bounds="72 210 1136 396" data-pptx-fallback-sha256="4bb085ac0edcceb63bc3428ed1a35925eee5e730cbf7d20f077c161ce8ee4116">
+    <metadata type="application/json"><![CDATA[
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "source-indicators",
+  "x": 72, "y": 210, "width": 1136, "height": 396,
+  "column_widths": [248, 580, 196, 112],
+  "defaults": {
+    "cell": {
+      "valign": "middle",
+      "font_size": 18,
+      "padding": {"left": 12, "right": 12, "top": 6, "bottom": 6},
+      "borders": {
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D5CFC4", "width": 1},
+        "left": {"style": "none"},
+        "right": {"style": "none"}
+      }
+    }
+  },
+  "columns": [
+    {"text": "КОД", "bold": true, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "l"},
+    {"text": "ИНДИКАТОР", "bold": true, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "l"},
+    {"text": "ЕДИНИЦА", "bold": true, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "l"},
+    {"text": "ОХВАТ", "bold": true, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "r"}
+  ],
+  "rows": [
+    [{"text": "SP.POP.TOTL", "color": "#1B2B3A", "font_size": 20}, {"text": "Численность населения", "color": "#232A31"}, {"text": "человек", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SP.DYN.CBRT.IN", "color": "#1B2B3A", "font_size": 20}, {"text": "Общий коэффициент рождаемости", "color": "#232A31"}, {"text": "на 1000 человек", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SP.DYN.CDRT.IN", "color": "#1B2B3A", "font_size": 20}, {"text": "Общий коэффициент смертности", "color": "#232A31"}, {"text": "на 1000 человек", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SP.DYN.TFRT.IN", "color": "#1B2B3A", "font_size": 20}, {"text": "Суммарный коэффициент рождаемости", "color": "#232A31"}, {"text": "рожд./женщину", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SP.DYN.LE00.IN", "color": "#1B2B3A", "font_size": 20}, {"text": "Ожидаемая продолжительность жизни", "color": "#232A31"}, {"text": "лет", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SP.DYN.LE00.MA.IN", "color": "#1B2B3A", "font_size": 20}, {"text": "То же, мужчины", "color": "#232A31"}, {"text": "лет", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SP.DYN.LE00.FE.IN", "color": "#1B2B3A", "font_size": 20}, {"text": "То же, женщины", "color": "#232A31"}, {"text": "лет", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SP.URB.TOTL.IN.ZS", "color": "#1B2B3A", "font_size": 20}, {"text": "Городское население", "color": "#232A31"}, {"text": "% населения", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SP.POP.65UP.TO.ZS", "color": "#1B2B3A", "font_size": 20}, {"text": "Население 65 лет и старше", "color": "#232A31"}, {"text": "% населения", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}],
+    [{"text": "SM.POP.NETM", "color": "#1B2B3A", "font_size": 20}, {"text": "Сальдо международной миграции", "color": "#232A31"}, {"text": "человек", "color": "#5B6670"}, {"text": "1991–2024", "color": "#5B6670", "align": "r"}]
+  ]
+}
+    ]]></metadata>
+
+    <rect x="72" y="210" width="1136" height="36" fill="#F0EDE6" />
+    <g stroke="#D5CFC4" stroke-width="1">
+      <line x1="72" y1="246" x2="1208" y2="246" />
+      <line x1="72" y1="282" x2="1208" y2="282" />
+      <line x1="72" y1="318" x2="1208" y2="318" />
+      <line x1="72" y1="354" x2="1208" y2="354" />
+      <line x1="72" y1="390" x2="1208" y2="390" />
+      <line x1="72" y1="426" x2="1208" y2="426" />
+      <line x1="72" y1="462" x2="1208" y2="462" />
+      <line x1="72" y1="498" x2="1208" y2="498" />
+      <line x1="72" y1="534" x2="1208" y2="534" />
+      <line x1="72" y1="570" x2="1208" y2="570" />
+      <line x1="72" y1="606" x2="1208" y2="606" />
+    </g>
+    <g font-size="18" font-weight="bold" fill="#1B2B3A">
+      <text x="84" y="234">КОД</text>
+      <text x="332" y="234">ИНДИКАТОР</text>
+      <text x="912" y="234">ЕДИНИЦА</text>
+      <text x="1196" y="235" text-anchor="end">ОХВАТ</text>
+    </g>
+    <g font-family="Consolas, monospace" font-size="20" fill="#1B2B3A">
+      <text x="84" y="270">SP.POP.TOTL</text>
+      <text x="84" y="306">SP.DYN.CBRT.IN</text>
+      <text x="84" y="342">SP.DYN.CDRT.IN</text>
+      <text x="84" y="378">SP.DYN.TFRT.IN</text>
+      <text x="84" y="414">SP.DYN.LE00.IN</text>
+      <text x="84" y="450">SP.DYN.LE00.MA.IN</text>
+      <text x="84" y="486">SP.DYN.LE00.FE.IN</text>
+      <text x="84" y="522">SP.URB.TOTL.IN.ZS</text>
+      <text x="84" y="558">SP.POP.65UP.TO.ZS</text>
+      <text x="84" y="594">SM.POP.NETM</text>
+    </g>
+    <g font-size="18" fill="#232A31">
+      <text x="332" y="270">Численность населения</text>
+      <text x="332" y="306">Общий коэффициент рождаемости</text>
+      <text x="332" y="342">Общий коэффициент смертности</text>
+      <text x="332" y="378">Суммарный коэффициент рождаемости</text>
+      <text x="332" y="414">Ожидаемая продолжительность жизни</text>
+      <text x="332" y="450">То же, мужчины</text>
+      <text x="332" y="486">То же, женщины</text>
+      <text x="332" y="522">Городское население</text>
+      <text x="332" y="558">Население 65 лет и старше</text>
+      <text x="332" y="594">Сальдо международной миграции</text>
+    </g>
+    <g font-size="18" fill="#5B6670">
+      <text x="912" y="270">человек</text>
+      <text x="912" y="306">на 1000 человек</text>
+      <text x="912" y="342">на 1000 человек</text>
+      <text x="912" y="378">рожд./женщину</text>
+      <text x="912" y="414">лет</text>
+      <text x="912" y="450">лет</text>
+      <text x="912" y="486">лет</text>
+      <text x="912" y="522">% населения</text>
+      <text x="912" y="558">% населения</text>
+      <text x="912" y="594">человек</text>
+    </g>
+    <g font-size="18" fill="#5B6670" text-anchor="end">
+      <text x="1196" y="270">1991–2024</text>
+      <text x="1196" y="306">1991–2024</text>
+      <text x="1196" y="342">1991–2024</text>
+      <text x="1196" y="378">1991–2024</text>
+      <text x="1196" y="414">1991–2024</text>
+      <text x="1196" y="450">1991–2024</text>
+      <text x="1196" y="486">1991–2024</text>
+      <text x="1196" y="522">1991–2024</text>
+      <text x="1196" y="558">1991–2024</text>
+      <text x="1196" y="594">1991–2024</text>
+    </g>
+  </g>
+
+  <g id="method-note" data-pptx-bounds="72 614 1136 56">
+    <text x="72" y="634" font-size="18" fill="#5B6670">Производные величины (естественный прирост, разрыв, изменение за период) помечены словом «расчёт».<tspan x="72" dy="26">Страны сопоставления: Германия, Япония, Китай, США.</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, World Development Indicators, 1991–2024</text>
+    <text x="1208" y="690" text-anchor="end">02</text>
+  </g>
+</svg>

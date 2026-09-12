@@ -1,0 +1,30 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="ending">
+  <rect id="p13-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#232019"/>
+<g id="p13-closing-arc" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="-380 120 800 800" data-pptx-av-adj1="val 18900000" data-pptx-av-adj2="val 8100000" fill="none" stroke="#C98A46" stroke-width="2" stroke-opacity="0.45">
+<path d="M 302.84 237.16 A 400 400 0 0 1 -262.84 802.84 L 20 520 Z" stroke="none"/>
+<path d="M 302.84 237.16 A 400 400 0 0 1 -262.84 802.84"/>
+</g>
+  <g id="ending-kicker" data-pptx-bounds="892 74 324 27">
+    <text x="1216" y="92" font-size="18" letter-spacing="2" fill="#E2C79A">פרק שנים עשר · תגליות חדשות</text>
+  </g>
+  <g id="ending-title" data-pptx-bounds="663 104 553 76">
+    <text x="1216" y="142" font-family="David" font-size="40" fill="#FAF6EC">המדבר עדיין לא סיים לדבר</text>
+    <line x1="663" y1="176" x2="1216" y2="176" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="ending-year" data-pptx-bounds="1005 216 211 122">
+    <text x="1216" y="290" font-family="David" font-size="84" fill="#E2C79A">2021</text>
+    <text x="1216" y="330" font-size="18" fill="#C4B6A0">מערת האימים, נחל חבר</text>
+  </g>
+  <g id="ending-body" data-pptx-bounds="547 376 669 72">
+    <text x="1216" y="400" font-size="24" fill="#EFE6D4">קטעי תרגום יווני של תרי-עשר נחשפו בחפירה<tspan x="1216" dy="37">המגילות הראשונות שנמצאו כך מזה למעלה משישים שנה</tspan></text>
+  </g>
+  <g id="ending-refs" data-pptx-bounds="666 472 550 106">
+    <text x="1216" y="490" font-size="18" fill="#C4B6A0">זכריה ח:16–17 ונחום א:5–6, מתוך תרי-עשר ביוונית<tspan x="1216" dy="40">מאז אוקטובר 2017 נסקרו שמונים קילומטרים של מצוקי מדבר</tspan><tspan x="1216" dy="40">באותו מבצע נמצא גם סל שלם בן כ-10,500 שנה</tspan></text>
+  </g>
+  <g id="ending-cta" data-pptx-bounds="533 594 683 38">
+    <text x="1216" y="620" font-size="28" fill="#FAF6EC">הספרייה המקוונת של המגילות פתוחה לכול ברשת</text>
+  </g>
+  <g id="ending-source" data-pptx-bounds="795 654 421 28">
+    <text x="1216" y="672" font-size="18" fill="#C4B6A0">מקור: רשות העתיקות, 2026 · מבצע מדבר יהודה</text>
+  </g>
+</svg>

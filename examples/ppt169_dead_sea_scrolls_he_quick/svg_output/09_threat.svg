@@ -1,0 +1,34 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <rect id="p09-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <g id="threat-kicker" data-pptx-bounds="1005 74 211 27">
+    <text x="1216" y="92" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק שמיני · הסכנה</text>
+  </g>
+  <g id="threat-title" data-pptx-bounds="686 104 530 76">
+    <text x="1216" y="142" font-family="David" font-size="40" fill="#1F1B16">הגילוי הוא גם רגע הסכנה</text>
+    <line x1="686" y1="176" x2="1216" y2="176" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="plate" data-pptx-bounds="138 208 364 434">
+    <rect id="p09-plate-glass" x="140" y="210" width="360" height="400" fill="#FFFFFF" fill-opacity="0.55" stroke="#CDC2AE" stroke-width="1"/>
+    <image id="p09-fragment" href="../images/scroll_fragment.jpg" x="168" y="220" width="304" height="380" preserveAspectRatio="xMidYMid meet"/>
+    <text x="500" y="634" font-size="16" fill="#8C8172">קטע מגילה ממערה 4, סימני בלאי ניכרים</text>
+  </g>
+  <g id="threat-lead" data-pptx-bounds="680 214 536 76">
+    <text x="1216" y="240" font-size="28" fill="#332E27">אלפיים שנה שמרו המערות על המגילות<tspan x="1216" dy="38">והגילוי הוא שהפר את שיווי המשקל</tspan></text>
+  </g>
+  <g id="altitude-contrast" data-pptx-bounds="790 298 426 176">
+    <line x1="1180" y1="305" x2="1180" y2="465" stroke="#8C8172" stroke-width="2"/>
+    <line x1="800" y1="410" x2="1190" y2="410" stroke="#CDC2AE" stroke-width="1" stroke-dasharray="4,4"/>
+    <circle cx="1180" cy="310" r="6" fill="#9A5B2B"/>
+    <circle cx="1180" cy="460" r="6" fill="#9A5B2B"/>
+    <text x="1160" y="316" font-size="18" fill="#332E27">ירושלים, 800 מ' מעל פני הים</text>
+    <text x="1160" y="404" font-size="18" fill="#8C8172">פני הים</text>
+    <text x="1160" y="466" font-size="18" fill="#332E27">אזור ים המלח, כ-400 מ' מתחת לפני הים</text>
+  </g>
+  <g id="threat-plates" data-pptx-bounds="740 488 476 106">
+    <text x="1216" y="510" font-size="24" fill="#332E27">בשנות החמישים והשישים הונחו הקטעים<tspan x="1216" dy="37">בלמעלה מ-<tspan font-weight="bold" fill="#9A5B2B">1,200 לוחות זכוכית</tspan></tspan></text>
+    <text x="1216" y="585" font-size="18" fill="#6B6156">נייר הדבק ולחץ הזגוגיות השחירו את הקלף</text>
+  </g>
+  <g id="threat-source" data-pptx-bounds="815 632 401 28">
+    <text x="1216" y="650" font-size="18" fill="#6B6156">מקור: רשות העתיקות, 2026 · שימור המגילות</text>
+  </g>
+</svg>

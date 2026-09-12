@@ -1,0 +1,3 @@
+2025 年中国汽车出口总量 709.8 万辆,同比增长 21.1%。拆开看,新能源汽车 261.5 万辆,同比增长 103.7%,几乎正好翻了一倍;传统燃料汽车 448.3 万辆,同比下降 2%。也就是说,这一年的增量全部来自新能源,燃油车已经在收缩。按这两个数计算,新能源约占出口总量的 36.8%,这个百分比是我们自己算的,不是来源里的原始数字。
+
+Total vehicle exports reached 7.098 million units in 2025, up 21.1 percent. Within that, NEVs were 2.615 million, up 103.7 percent — almost exactly double — while conventional vehicles fell 2 percent to 4.483 million. All of the growth came from NEVs; the combustion side is already shrinking. From those two figures NEVs are about 36.8 percent of exports, and that share is our calculation rather than a number taken from the source.

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+
+  <g id="header" data-pptx-bounds="72 58 860 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">第一目的国换成了墨西哥</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">Mexico Took the Top Spot</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">二 市场与企业</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 2 · Markets &amp; Players</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 176 1136 68">
+    <text x="72" y="208" font-size="26" fill="#1B2430">2025 年墨西哥以 <tspan font-weight="bold" fill="#D4541E">62.52 万辆</tspan> 首次超过俄罗斯。</text>
+    <text x="72" y="238" font-family="Cambria" font-size="18" fill="#5C6673">Mexico passed Russia for the first time in 2025.</text>
+  </g>
+
+  <g id="destination-top3" data-pptx-replace-with="chart" data-pptx-bounds="72 250 828 310" data-pptx-fallback-sha256="54ac9ba0b6c404da309a5fe95f52417b020a61f373f742065b5f0223c63051cb">
+    <metadata type="application/json">
+{
+  "x": 72, "y": 250, "width": 828, "height": 310,
+  "name": "destination-top3",
+  "type": "bar",
+  "categories": ["墨西哥 Mexico", "俄罗斯 Russia", "阿联酋 UAE"],
+  "series": [{"name": "2025 出口量", "values": [62.52, 58.27, 57.2],
+              "point_colors": ["#D4541E", "#C3CFDA", "#C3CFDA"]}],
+  "gap_width": 60,
+  "data_labels": {"show_value": true, "position": "outside_end",
+                  "font_size": 18, "font_family": "Cambria", "color": "#1B2430"},
+  "show_legend": false,
+  "show_value_axis_labels": false,
+  "plot_area": {"x": 72, "y": 290, "width": 748, "height": 234},
+  "style": {"colors": ["#C3CFDA"], "axis_color": "#5C6673", "chart_area_fill": "none", "text_color": "#1B2430", "axis_font_size": 18},
+  "notes": [
+    {"text": "单位:万辆 · Unit: 10k units", "font_size": 14, "color": "#5C6673"}
+  ]
+}
+    </metadata>
+    <text x="72" y="296" font-size="18" fill="#1B2430">墨西哥 Mexico</text>
+    <text x="72" y="374" font-size="18" fill="#1B2430">俄罗斯 Russia</text>
+    <text x="72" y="452" font-size="18" fill="#1B2430">阿联酋 UAE</text>
+    <g id="destination-top3-chartArea">
+      <line id="destination-top3-axis-category" x1="72" y1="290" x2="72" y2="524" stroke="#5C6673" stroke-width="1"/>
+      <!-- chart-plot-area: object=destination-top3 | 72,290,820,524 -->
+      <rect x="72" y="304.6" width="668.1" height="48.7" fill="#D4541E"/>
+      <rect x="72" y="382.6" width="622.7" height="48.7" fill="#C3CFDA"/>
+      <rect x="72" y="460.6" width="611.2" height="48.7" fill="#C3CFDA"/>
+    </g>
+    <text x="752" y="335" font-family="Cambria" font-size="18" fill="#1B2430">62.52</text>
+    <text x="707" y="413" font-family="Cambria" font-size="18" fill="#1B2430">58.27</text>
+    <text x="695" y="491" font-family="Cambria" font-size="18" fill="#1B2430">57.2</text>
+    <text x="72" y="550" font-size="14" fill="#5C6673">单位:万辆 · Unit: 10k units</text>
+  </g>
+
+  <g id="region-tags" data-pptx-bounds="940 270 268 250">
+    <text x="940" y="335" font-size="18" fill="#5C6673">北美 N. America</text>
+    <text x="940" y="413" font-size="18" fill="#5C6673">独联体 CIS</text>
+    <text x="940" y="491" font-size="18" fill="#5C6673">中东 Middle East</text>
+  </g>
+
+  <g id="tail-note" data-pptx-bounds="72 576 1136 72">
+    <text x="72" y="604" font-size="22" fill="#1B2430">前三名差距不到 6 万辆;第四至第六位为英国、巴西、沙特,本简报无确切数值,不作图。</text>
+    <text x="72" y="636" font-family="Cambria" font-size="18" fill="#5C6673">Top three within 60k units; 4th–6th are the UK, Brazil and Saudi Arabia (not charted).</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 656 1136 32">
+    <line x1="72" y1="660" x2="1208" y2="660" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="682" font-size="14" fill="#5C6673">来源:乘联分会崔东树,2026 年 1 月;本页为整车出口统计,含燃油车 / Source: Cui Dongshu, CPCA, Jan 2026 — all vehicles, ICE included</text>
+    <text x="1208" y="682" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">07 / 15</text>
+  </g>
+</svg>

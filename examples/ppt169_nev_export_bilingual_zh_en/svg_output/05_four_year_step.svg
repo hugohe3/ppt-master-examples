@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+
+  <g id="header" data-pptx-bounds="72 58 860 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">不是匀速,是两级台阶</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">Not Steady Growth, but Two Steps</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">一 规模与口径</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 1 · Scale &amp; Calibres</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 168 1136 44">
+    <text x="72" y="196" font-size="22" fill="#1B2430">中汽协口径新能源汽车出口:2022–2025 年四个年度值 / CAAM calibre, NEV exports by year, 2022–2025</text>
+  </g>
+
+  <g id="nev-export-series" data-pptx-replace-with="chart" data-pptx-bounds="72 214 728 390" data-pptx-fallback-sha256="ae18b126e1e26da8152a6d80673f2f7e9dce4df4530606fbc310f810f1186ec5">
+    <metadata type="application/json">
+{
+  "x": 72, "y": 214, "width": 728, "height": 390,
+  "name": "nev-export-series",
+  "type": "column",
+  "categories": ["2022", "2023", "2024", "2025"],
+  "series": [{"name": "新能源汽车出口", "values": [67.9, 120.3, 128.4, 261.5],
+              "point_colors": ["#C3CFDA", "#C3CFDA", "#C3CFDA", "#D4541E"]}],
+  "gap_width": 72,
+  "axes": {"value": {"minimum": 0, "maximum": 300, "major_unit": 100}},
+  "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.0",
+                  "font_size": 18, "font_family": "Cambria", "color": "#1B2430"},
+  "show_legend": false,
+  "plot_area": {"x": 140, "y": 260, "width": 620, "height": 300},
+  "style": {"colors": ["#C3CFDA"], "axis_color": "#5C6673", "grid_color": "#E8ECF1",
+            "chart_area_fill": "none", "text_color": "#1B2430", "axis_font_size": 18},
+  "notes": [
+    {"text": "单位:万辆 · Unit: 10k units", "font_size": 14, "color": "#5C6673"}
+  ]
+}
+    </metadata>
+    <text x="140" y="236" font-size="14" fill="#5C6673">单位:万辆 · Unit: 10k units</text>
+    <g id="nev-export-series-chartArea">
+      <line id="nev-export-series-grid-300" x1="140" y1="260" x2="760" y2="260" stroke="#E8ECF1" stroke-width="1"/>
+      <line id="nev-export-series-grid-200" x1="140" y1="360" x2="760" y2="360" stroke="#E8ECF1" stroke-width="1"/>
+      <line id="nev-export-series-grid-100" x1="140" y1="460" x2="760" y2="460" stroke="#E8ECF1" stroke-width="1"/>
+      <line id="nev-export-series-axis-y" x1="140" y1="260" x2="140" y2="560" stroke="#5C6673" stroke-width="1"/>
+      <line id="nev-export-series-axis-x" x1="140" y1="560" x2="760" y2="560" stroke="#5C6673" stroke-width="1"/>
+      <!-- chart-plot-area: object=nev-export-series | 140,260,760,560 -->
+      <rect x="172" y="492.1" width="90" height="67.9" fill="#C3CFDA"/>
+      <rect x="328" y="439.7" width="90" height="120.3" fill="#C3CFDA"/>
+      <rect x="483" y="431.6" width="90" height="128.4" fill="#C3CFDA"/>
+      <rect x="638" y="298.5" width="90" height="261.5" fill="#D4541E"/>
+    </g>
+    <text x="128" y="566" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="end">0</text>
+    <text x="128" y="466" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="end">100</text>
+    <text x="128" y="366" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="end">200</text>
+    <text x="128" y="266" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="end">300</text>
+    <text x="217" y="484" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="middle">67.9</text>
+    <text x="373" y="432" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="middle">120.3</text>
+    <text x="528" y="424" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="middle">128.4</text>
+    <text x="683" y="290" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="middle">261.5</text>
+    <text x="217" y="590" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="middle">2022</text>
+    <text x="373" y="590" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="middle">2023</text>
+    <text x="528" y="590" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="middle">2024</text>
+    <text x="683" y="590" font-family="Cambria" font-size="18" fill="#1B2430" text-anchor="middle">2025</text>
+  </g>
+
+  <g id="step-annotation" data-pptx-bounds="804 296 404 158">
+    <g id="p05-step-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="848 300 360 150" data-pptx-av-adj1="val -62000" data-pptx-av-adj2="val 0" fill="#F2F4F7" stroke="none">
+<path d="M 848 300 L 908 300 L 908 300 L 998 300 L 1208 300 L 1208 325 L 1208 325 L 1208 362.5 L 1208 450 L 998 450 L 908 450 L 908 450 L 848 450 L 848 362.5 L 804.8 375 L 848 325 Z"/>
+</g>
+    <text x="876" y="344" font-size="22" fill="#1B2430">2023→2024 仅约 +6.7%,<tspan x="876" dy="30">2024→2025 直接翻倍</tspan></text>
+    <text x="876" y="412" font-family="Cambria" font-size="18" fill="#5C6673">Almost flat in 2024, then<tspan x="876" dy="24">doubled in 2025</tspan></text>
+  </g>
+
+  <g id="p05-nev-2025-figure" data-pptx-bounds="848 478 360 132">
+    <text x="848" y="502" font-family="Cambria" font-size="18" fill="#2E7D8F">2025 · CAAM</text>
+    <text x="848" y="566" font-family="Cambria" font-size="64" fill="#D4541E">261.5</text>
+    <text x="848" y="598" font-size="17" fill="#5C6673">万辆,同比 +103.7% / 10k units, +103.7%</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 656 1136 32">
+    <line x1="72" y1="660" x2="1208" y2="660" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="682" font-size="14" fill="#5C6673">来源:中国汽车工业协会(2023–2026);2022 年数值见国家发改委引述中汽协统计 / Sources: CAAM 2023–2026; NDRC citing CAAM for 2022</text>
+    <text x="1208" y="682" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">05 / 15</text>
+  </g>
+</svg>

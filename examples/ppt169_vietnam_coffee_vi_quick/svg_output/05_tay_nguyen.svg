@@ -1,0 +1,70 @@
+<svg lang="vi-VN" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <defs>
+    <linearGradient id="plantationFade" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#1C1610" stop-opacity="0.72" />
+      <stop offset="42%" stop-color="#1C1610" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#1C1610" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 2 · VÙNG TRỒNG</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Tây Nguyên: vùng lõi của cà phê Việt Nam</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="294" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="region-photo" data-pptx-bounds="64 176 496 352">
+    <image href="../images/highland_coffee_plantation.jpg" x="64" y="176" width="496" height="324" preserveAspectRatio="xMidYMid slice" />
+    <rect x="64" y="380" width="496" height="120" fill="url(#plantationFade)" />
+    <text x="88" y="480" font-size="20" fill="#F7F3EC">Vườn cà phê trên cao nguyên lúc rạng sáng</text>
+    <text x="64" y="520" font-size="18" fill="#6B5B4A">Ảnh minh hoạ: Young_n qua Pixabay.</text>
+  </g>
+
+  <g id="region-note" data-pptx-bounds="64 532 496 108">
+    <text x="64" y="554" font-size="24" fill="#3A3128">Tây Nguyên là vùng trồng chính. Lượng<tspan x="64" dy="36">mưa tháng 1–3/2026 tại năm tỉnh này</tspan><tspan x="64" dy="36">thấp hơn mức bình thường.</tspan></text>
+  </g>
+
+  <g id="region-members" data-pptx-bounds="600 168 616 162">
+    <text x="600" y="186" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">NĂM TỈNH TRỒNG CÀ PHÊ CHÍNH</text>
+    <g id="p05-region-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="600 206 28 120" fill="none" stroke="#9C2B1B" stroke-width="2">
+<path d="M 628 326 A 14 2.33 0 0 1 614 323.67 L 614 268.33 A 14 2.33 0 0 0 600 266 A 14 2.33 0 0 0 614 263.67 L 614 208.33 A 14 2.33 0 0 1 628 206 Z" stroke="none" />
+<path d="M 628 326 A 14 2.33 0 0 1 614 323.67 L 614 268.33 A 14 2.33 0 0 0 600 266 A 14 2.33 0 0 0 614 263.67 L 614 208.33 A 14 2.33 0 0 1 628 206" />
+</g>
+    <g id="region-chips" fill="#EFE7DA" stroke="#D9CDBA" stroke-width="1.5">
+      <rect x="648" y="210" width="176" height="48" rx="8" />
+      <rect x="840" y="210" width="176" height="48" rx="8" />
+      <rect x="1032" y="210" width="176" height="48" rx="8" />
+      <rect x="648" y="274" width="176" height="48" rx="8" />
+      <rect x="840" y="274" width="176" height="48" rx="8" />
+    </g>
+    <g id="region-chip-labels" font-size="20" fill="#221C15" text-anchor="middle">
+      <text x="736" y="241">Đắk Lắk</text>
+      <text x="928" y="241">Gia Lai</text>
+      <text x="1120" y="241">Kon Tum</text>
+      <text x="736" y="305">Đắk Nông</text>
+      <text x="928" y="305">Lâm Đồng</text>
+    </g>
+  </g>
+
+  <g id="region-scale" data-pptx-bounds="600 360 616 200">
+    <text x="900" y="400" font-family="Cambria" font-size="44" font-weight="bold" fill="#7A3B22" text-anchor="end">730.000 ha</text>
+    <text x="920" y="400" font-size="18" fill="#6B5B4A">tổng diện tích cà phê cả nước</text>
+    <line x1="600" y1="426" x2="1216" y2="426" stroke="#E4DACB" stroke-width="1" />
+    <text x="900" y="470" font-family="Cambria" font-size="44" font-weight="bold" fill="#7A3B22" text-anchor="end">644.000 ha</text>
+    <text x="920" y="470" font-size="18" fill="#6B5B4A">Robusta cho thu hoạch 2026/27</text>
+    <line x1="600" y1="496" x2="1216" y2="496" stroke="#E4DACB" stroke-width="1" />
+    <text x="900" y="540" font-family="Cambria" font-size="44" font-weight="bold" fill="#7A3B22" text-anchor="end">500–600 m</text>
+    <text x="920" y="540" font-size="18" fill="#6B5B4A">độ cao vùng Buôn Ma Thuột</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: USDA FAS VM2026-0016 (20/5/2026), dẫn Bộ Nông nghiệp và Môi trường; Báo Thanh Niên (30/11/2022).</text>
+    <text x="1216" y="692" text-anchor="end">05</text>
+  </g>
+</svg>

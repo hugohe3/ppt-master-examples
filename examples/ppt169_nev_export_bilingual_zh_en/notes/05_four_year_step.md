@@ -1,0 +1,3 @@
+把四年放在一起看,增长不是匀速的,而是两级台阶。2022 年 67.9 万辆,2023 年 120.3 万辆,到 2024 年只有 128.4 万辆,几乎走平,增幅大约 6.7%;2025 年直接跳到 261.5 万辆。所以用平均增速去推 2026 年是危险的,这条曲线的形状本身就说明它受政策和产能节奏影响很大。
+
+Seen across four years the growth is not steady, it comes in two steps. From 679,000 units in 2022 to 1.203 million in 2023, then almost flat at 1.284 million in 2024, a rise of only about 7 percent, and then a jump to 2.615 million in 2025. Extrapolating from an average growth rate would be misleading; the shape of this line shows how strongly policy and capacity timing drive it.

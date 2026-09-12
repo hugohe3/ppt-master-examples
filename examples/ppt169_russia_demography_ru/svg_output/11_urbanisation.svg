@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="urbanRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1B2B3A" />
+      <stop offset="100%" stop-color="#2E6F8E" />
+    </linearGradient>
+  </defs>
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 58 1136 92">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Городское население: +1,4 п. п. за 33 года</text>
+    <text x="72" y="136" font-size="28" fill="#232A31">Структура расселения за период почти не изменилась</text>
+  </g>
+
+  <g id="urban-note" data-pptx-bounds="72 196 520 400">
+    <use data-icon="tabler-outline/building-skyscraper" x="72" y="200" width="56" height="56" fill="#2E6F8E" stroke-width="2" />
+    <text x="72" y="300" font-size="18" letter-spacing="2" fill="#5B6670">ИЗМЕНЕНИЕ ЗА ПЕРИОД</text>
+    <text x="72" y="356" font-family="Times New Roman, serif" font-size="64" font-weight="bold" fill="#2E6F8E">+1,4 п. п.</text>
+    <text x="72" y="390" font-size="18" fill="#232A31">из них +2,2 п. п. после 1995 года (расчёт)</text>
+    <rect x="72" y="414" width="240" height="4" fill="url(#urbanRule)" />
+    <text x="72" y="452" font-size="18" fill="#5B6670">При сокращении общей численности доля<tspan x="72" dy="26">города росла, а абсолютное число и</tspan><tspan x="72" dy="26">городских, и сельских жителей</tspan><tspan x="72" dy="26">снижалось (расчёт).</tspan></text>
+  </g>
+
+  <g id="urban-panel" data-pptx-bounds="660 196 548 400">
+    <g id="urban-panel-field" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="660 196 548 400" data-pptx-av-adj1="val 9000" data-pptx-av-adj2="val 0" fill="#F0EDE6" stroke="none">
+<path d="M 696 196 L 1208 196 L 1208 196 L 1208 560 L 1172 596 L 660 596 L 660 596 L 660 232 Z"/>
+    </g>
+    <text x="700" y="246" font-size="18" letter-spacing="2" fill="#5B6670">2024 ГОД</text>
+    <text x="700" y="330" font-family="Times New Roman, serif" font-size="64" font-weight="bold" fill="#1B2B3A">75,1 %</text>
+    <text x="700" y="364" font-size="18" fill="#232A31">городского населения</text>
+    <line x1="700" y1="392" x2="1168" y2="392" stroke="#D5CFC4" stroke-width="1" />
+    <g font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">
+      <text x="700" y="436">1991</text>
+      <text x="1168" y="436" text-anchor="end">73,7 %</text>
+      <text x="700" y="480">1995 (минимум)</text>
+      <text x="1168" y="480" text-anchor="end">72,9 %</text>
+      <text x="700" y="524">2024</text>
+      <text x="1168" y="524" text-anchor="end">75,1 %</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SP.URB.TOTL.IN.ZS и SP.POP.TOTL, 1991–2024 · производные величины — расчёт</text>
+    <text x="1208" y="690" text-anchor="end">11</text>
+  </g>
+</svg>

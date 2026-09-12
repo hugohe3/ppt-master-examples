@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+
+  <g id="header" data-pptx-bounds="72 58 900 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">框架已达成,生效日还没有</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">Framework Agreed, Date Unset</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">四 壁垒与展望</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 4 · Barriers &amp; Outlook</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 172 1136 72">
+    <text x="72" y="204" font-size="22" fill="#1B2430">2026 年 1 月,欧盟发布《关于提交价格承诺申请的指导文件》,中国商务部同日通报。</text>
+    <text x="72" y="234" font-family="Cambria" font-size="18" fill="#5C6673">In January 2026 the EU issued its guidance on price-undertaking applications; MOFCOM notified the same day.</text>
+  </g>
+
+  <g id="p13-mip-bar" data-pptx-bounds="72 282 1136 100">
+    <rect x="72" y="296" width="1136" height="28" fill="#F57C00"/>
+    <text x="72" y="356" font-size="26" fill="#1B2430">最低进口价格机制(MIP)可替代 17%–35.3% 的反补贴税</text>
+    <text x="1208" y="356" font-family="Cambria" font-size="18" fill="#5C6673" text-anchor="end">Minimum import price may replace the duties</text>
+  </g>
+
+  <g id="mip-replaces" data-pptx-bounds="72 400 368 210">
+    <text x="72" y="428" font-size="22" font-weight="bold" fill="#0E3A66">替代对象</text>
+    <text x="72" y="454" font-family="Cambria" font-size="18" fill="#2E7D8F">What it replaces</text>
+    <text x="72" y="500" font-size="22" fill="#1B2430">17%–35.3% 反补贴税,<tspan x="72" dy="30">原综合税负最高 45.3%</tspan></text>
+    <text x="72" y="562" font-family="Cambria" font-size="18" fill="#5C6673">The 7.8%–35.3% duties, a burden<tspan x="72" dy="24">of up to 45.3% with import duty</tspan></text>
+  </g>
+
+  <g id="mip-pricing" data-pptx-bounds="460 400 368 210">
+    <text x="460" y="428" font-size="22" font-weight="bold" fill="#0E3A66">定价依据</text>
+    <text x="460" y="454" font-family="Cambria" font-size="18" fill="#2E7D8F">How the price is set</text>
+    <text x="460" y="500" font-size="22" fill="#1B2430">调查期到岸价加反补贴<tspan x="460" dy="30">税额,并对标欧盟同类</tspan><tspan x="460" dy="30">非补贴纯电车售价</tspan></text>
+    <text x="460" y="570" font-family="Cambria" font-size="18" fill="#5C6673">CIF price plus the duty,<tspan x="460" dy="24">benchmarked against EU cars</tspan></text>
+  </g>
+
+  <g id="mip-condition" data-pptx-bounds="848 400 360 210">
+    <text x="848" y="428" font-size="22" font-weight="bold" fill="#0E3A66">附加条件</text>
+    <text x="848" y="454" font-family="Cambria" font-size="18" fill="#2E7D8F">The condition attached</text>
+    <text x="848" y="500" font-size="22" fill="#1B2430">企业需承诺在欧建厂的<tspan x="848" dy="30">投资规模与时间表</tspan></text>
+    <text x="848" y="562" font-family="Cambria" font-size="18" fill="#5C6673">A committed European plant<tspan x="848" dy="24">investment and timetable</tspan></text>
+  </g>
+
+  <g id="status-note" data-pptx-bounds="72 618 1136 38">
+    <use data-icon="chunk-filled/circle-exclamation" x="72" y="620" width="24" height="24" fill="#F57C00"/>
+    <text x="108" y="640" font-size="20" fill="#1B2430">状态:框架已达成、进入“软着陆”阶段,未明确生效日期——本页按未生效处理 / Status: agreed but not yet in force</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 660 1136 28">
+    <line x1="72" y1="662" x2="1208" y2="662" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="684" font-size="14" fill="#5C6673">来源:新浪财经报道中欧电动汽车价格承诺框架,2026 年 1 月 / Source: Sina Finance on the China–EU price-undertaking framework, Jan 2026</text>
+    <text x="1208" y="684" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">13 / 15</text>
+  </g>
+</svg>

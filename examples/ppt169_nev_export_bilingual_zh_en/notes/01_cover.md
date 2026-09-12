@@ -1,0 +1,3 @@
+这份简报只讲一件事:2025 年中国新能源汽车出口翻了一倍,但真正值得两边同事一起讨论的,是增长方式已经变了。全部数据来自公开发布来源,以中国汽车工业协会口径为主,乘联分会口径在同一页并列标注,每页底部都写明机构与年份,方便会后各自引用核对。今天大约三十分钟,四个部分。
+
+This briefing makes one point: China's NEV exports doubled in 2025, but what matters for both sides is that the growth model itself has changed. Every figure comes from public sources, CAAM first, with CPCA shown alongside on the same page, and each page footer names the institution and the year so you can cite it afterwards. About thirty minutes, four parts.

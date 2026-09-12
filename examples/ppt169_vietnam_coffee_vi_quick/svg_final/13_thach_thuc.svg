@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="vi-VN" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 5 · THÁCH THỨC</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Bốn áp lực lên chuỗi cung ứng</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="984" y="131" width="232" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="pressure-climate" data-pptx-bounds="64 184 576 208">
+    <line x1="64" y1="184" x2="640" y2="184" stroke="#D9CDBA" stroke-width="1.5" />
+    <line x1="640" y1="200" x2="640" y2="376" stroke="#E4DACB" stroke-width="1" />
+    
+  <g transform="translate(96, 212) scale(1.66667)" fill="none" stroke="#9C2B1B" stroke-width="2">
+    <path d="M7.502 19.423c2.602 2.105 6.395 2.105 8.996 0c2.602 -2.105 3.262 -5.708 1.566 -8.546l-4.89 -7.26c-.42 -.625 -1.287 -.803 -1.936 -.397a1.376 1.376 0 0 0 -.41 .397l-4.893 7.26c-1.695 2.838 -1.035 6.441 1.567 8.546" />
+  </g>
+    <text x="152" y="248" font-size="28" font-weight="600" fill="#221C15">Khí hậu và nước</text>
+    <text font-size="24" fill="#3A3128" x="96" y="296">Lượng mưa tháng 1–3/2026 thấp hơn mức</text><text font-size="24" fill="#3A3128" x="96" y="332"><tspan>bình thường; NOAA dự báo <tspan font-weight="bold" fill="#9C2B1B">62%</tspan> khả năng</tspan></text><text font-size="24" fill="#3A3128" x="96" y="368">El Niño xuất hiện trong 6–8/2026.</text></g>
+
+  <g id="pressure-replant" data-pptx-bounds="640 184 576 208">
+    <line x1="640" y1="184" x2="1216" y2="184" stroke="#D9CDBA" stroke-width="1.5" />
+    
+  <g transform="translate(672, 212) scale(1.66667)" fill="none" stroke="#9C2B1B" stroke-width="2">
+    <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12" />
+    <path d="M16 3v4" />
+    <path d="M8 3v4" />
+    <path d="M4 11h16" />
+    <path d="M11 15h1" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="728" y="248" font-size="28" font-weight="600" fill="#221C15">Vườn cây già</text>
+    <text font-size="24" fill="#3A3128" x="672" y="296">Khoảng <tspan font-weight="bold" fill="#9C2B1B">30%</tspan> diện tích cà phê đã 20 năm</text><text font-size="24" fill="#3A3128" x="672" y="332">tuổi trở lên và cần tái canh hoặc cải</text><text font-size="24" fill="#3A3128" x="672" y="368">tạo, theo WASI.</text></g>
+
+  <g id="pressure-cost" data-pptx-bounds="64 392 576 208">
+    <line x1="64" y1="392" x2="640" y2="392" stroke="#D9CDBA" stroke-width="1.5" />
+    <line x1="640" y1="408" x2="640" y2="584" stroke="#E4DACB" stroke-width="1" />
+    <line x1="64" y1="599" x2="640" y2="599" stroke="#D9CDBA" stroke-width="1.5" />
+    
+  <g transform="translate(96, 420) scale(1.66667)" fill="none" stroke="#9C2B1B" stroke-width="2">
+    <path d="M9 14c0 1.657 2.686 3 6 3s6 -1.343 6 -3s-2.686 -3 -6 -3s-6 1.343 -6 3" />
+    <path d="M9 14v4c0 1.656 2.686 3 6 3s6 -1.344 6 -3v-4" />
+    <path d="M3 6c0 1.072 1.144 2.062 3 2.598s4.144 .536 6 0c1.856 -.536 3 -1.526 3 -2.598c0 -1.072 -1.144 -2.062 -3 -2.598s-4.144 -.536 -6 0c-1.856 .536 -3 1.526 -3 2.598" />
+    <path d="M3 6v10c0 .888 .772 1.45 2 2" />
+    <path d="M3 11c0 .888 .772 1.45 2 2" />
+  </g>
+    <text x="152" y="456" font-size="28" font-weight="600" fill="#221C15">Chi phí sản xuất</text>
+    <text font-size="24" fill="#3A3128" x="96" y="504">Phân bón và nhiên liệu tăng khoảng <tspan font-weight="bold" fill="#9C2B1B">30%</tspan>,</text><text font-size="24" fill="#3A3128" x="96" y="540"><tspan>chi phí lao động tăng <tspan font-weight="bold" fill="#9C2B1B">33%</tspan> so với năm</tspan></text><text font-size="24" fill="#3A3128" x="96" y="576">trước.</text></g>
+
+  <g id="pressure-eudr" data-pptx-bounds="640 392 576 208">
+    <line x1="640" y1="392" x2="1216" y2="392" stroke="#D9CDBA" stroke-width="1.5" />
+    <line x1="640" y1="599" x2="1216" y2="599" stroke="#D9CDBA" stroke-width="1.5" />
+    
+  <g transform="translate(672, 420) scale(1.66667)" fill="none" stroke="#9C2B1B" stroke-width="2">
+    <path d="M16 5l3 3l-2 1l4 4l-3 1l4 4h-9" />
+    <path d="M15 21l0 -3" />
+    <path d="M8 13l-2 -2" />
+    <path d="M8 12l2 -2" />
+    <path d="M8 21v-13" />
+    <path d="M5.824 16a3 3 0 0 1 -2.743 -3.69a3 3 0 0 1 .304 -4.833a3 3 0 0 1 4.615 -3.707a3 3 0 0 1 4.614 3.707a3 3 0 0 1 .305 4.833a3 3 0 0 1 -2.919 3.695h-4l-.176 -.005" />
+  </g>
+    <text x="728" y="456" font-size="28" font-weight="600" fill="#221C15">Quy định EUDR</text>
+    <text font-size="24" fill="#3A3128" x="672" y="504">Quy định chống mất rừng của EU có hiệu</text><text font-size="24" fill="#3A3128" x="672" y="540"><tspan>lực từ <tspan font-weight="bold" fill="#9C2B1B">tháng 12/2026</tspan>; khoảng <tspan font-weight="bold" fill="#9C2B1B">40%</tspan> diện</tspan></text><text font-size="24" fill="#3A3128" x="672" y="576">tích đã có chứng nhận bền vững.</text></g>
+
+  <g id="challenge-note" data-pptx-bounds="64 624 1152 30">
+    <text x="64" y="642" font-size="18" fill="#6B5B4A">Hơn 600.000 hộ nông dân nhỏ tham gia sản xuất; nhiều hộ từng chuyển một phần diện tích sang sầu riêng khi giá cà phê thấp.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: USDA FAS, Coffee Annual Vietnam VM2026-0016 (20/5/2026), dẫn WASI, NOAA và GADAS.</text>
+    <text x="1216" y="692" text-anchor="end">13</text>
+  </g>
+</svg>

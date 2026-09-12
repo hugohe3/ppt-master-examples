@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="vi-VN" viewBox="0 0 1280 720" data-pptx-page-role="ending" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 5 · TRIỂN VỌNG</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Triển vọng: niên vụ lớn nhất, câu hỏi cũ</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="984" y="131" width="232" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="outlook-lead" data-pptx-bounds="64 184 1152 76">
+    <text font-size="28" fill="#3A3128" x="64" y="208">Niên vụ 2026/27 được dự báo là niên vụ lớn nhất từ trước tới nay của cà phê</text><text font-size="28" fill="#3A3128" x="64" y="244">Việt Nam — nhưng phần giá trị giữ lại vẫn là câu hỏi mở.</text></g>
+
+  <g id="outlook-stat-1" data-pptx-bounds="64 304 368 82">
+    <text x="64" y="346" font-family="Cambria" font-size="44" font-weight="bold" fill="#7A3B22">32,5</text>
+    <text x="64" y="376" font-size="18" fill="#6B5B4A">triệu bao sản lượng dự báo 2026/27</text>
+  </g>
+
+  <g id="outlook-stat-2" data-pptx-bounds="456 304 368 82">
+    <text x="456" y="346" font-family="Cambria" font-size="44" font-weight="bold" fill="#7A3B22">28,95</text>
+    <text x="456" y="376" font-size="18" fill="#6B5B4A">triệu bao xuất khẩu dự báo 2026/27</text>
+  </g>
+
+  <g id="outlook-stat-3" data-pptx-bounds="848 304 368 82">
+    <text x="848" y="346" font-family="Cambria" font-size="44" font-weight="bold" fill="#7A3B22">5,0</text>
+    <text x="848" y="376" font-size="18" fill="#6B5B4A">triệu bao tiêu thụ trong nước</text>
+  </g>
+
+  <g id="outlook-world" data-pptx-bounds="64 422 1152 52">
+    <text font-size="18" fill="#6B5B4A" x="64" y="440">Sản lượng cà phê thế giới niên vụ 2026/27 được dự báo đạt kỷ lục 189,7 triệu bao;</text><text font-size="18" fill="#6B5B4A" x="64" y="466">Việt Nam đứng thứ hai sau Brazil (71,9 triệu bao).</text></g>
+
+  <g id="outlook-takeaway" data-pptx-bounds="64 494 1152 136">
+    <g id="p14-closing-band" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="64 494 1152 136" fill="#7A3B22" stroke="none">
+<path d="M 64 494 L 1193.33 494 L 1216 516.67 L 1216 630 L 1216 630 L 86.67 630 L 64 607.33 L 64 494 Z" />
+</g>
+    <text x="96" y="530" font-size="18" font-weight="600" fill="#E7D5BF" letter-spacing="2">KẾT LUẬN</text>
+    <text font-size="28" fill="#F7F3EC" x="96" y="576">Sản lượng đã ở đỉnh. Phần việc còn lại là giữ nhiều hơn giá trị</text><text font-size="28" fill="#F7F3EC" x="96" y="612">ở trong nước: chế biến sâu, chất lượng và thương hiệu.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: USDA FAS (VM2026-0016; World Markets and Trade 7/2026); VICOFA; UBND tỉnh Đắk Lắk; Báo Thanh Niên.</text>
+    <text x="1216" y="692" text-anchor="end">14</text>
+  </g>
+</svg>

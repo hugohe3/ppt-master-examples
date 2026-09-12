@@ -1,0 +1,44 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <rect id="p12-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <g id="digital-kicker" data-pptx-bounds="945 74 271 27">
+    <text x="1216" y="92" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק אחד עשר · דיגיטציה</text>
+  </g>
+  <g id="digital-title" data-pptx-bounds="620 104 596 76">
+    <text x="1216" y="142" font-family="David" font-size="40" fill="#1F1B16">שניים עשר אורכי גל לכל קטע</text>
+    <line x1="620" y1="176" x2="1216" y2="176" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="spectrum-bars" data-pptx-bounds="138 238 1080 212">
+    <rect x="1154" y="240" width="62" height="140" fill="#C8A67D"/>
+    <rect x="1062" y="240" width="62" height="140" fill="#C8A67D"/>
+    <rect x="970" y="240" width="62" height="140" fill="#C8A67D"/>
+    <rect x="878" y="240" width="62" height="140" fill="#C8A67D"/>
+    <rect x="786" y="240" width="62" height="140" fill="#C8A67D"/>
+    <rect x="694" y="240" width="62" height="140" fill="#C8A67D"/>
+    <rect x="602" y="240" width="62" height="140" fill="#C8A67D"/>
+    <rect x="510" y="240" width="62" height="140" fill="#4A3B2E"/>
+    <rect x="418" y="240" width="62" height="140" fill="#4A3B2E"/>
+    <rect x="326" y="240" width="62" height="140" fill="#4A3B2E"/>
+    <rect x="234" y="240" width="62" height="140" fill="#4A3B2E"/>
+    <rect x="142" y="240" width="62" height="140" fill="#4A3B2E"/>
+<g id="p12-brace-visible" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="899 95 20 614" fill="none" stroke="#9A5B2B" stroke-width="2" transform="rotate(90 909 402)">
+<path d="M 919 709 A 10 1.67 0 0 1 909 707.33 L 909 403.67 A 10 1.67 0 0 0 899 402 A 10 1.67 0 0 0 909 400.33 L 909 96.67 A 10 1.67 0 0 1 919 95 Z" stroke="none"/>
+<path d="M 919 709 A 10 1.67 0 0 1 909 707.33 L 909 403.67 A 10 1.67 0 0 0 899 402 A 10 1.67 0 0 0 909 400.33 L 909 96.67 A 10 1.67 0 0 1 919 95"/>
+</g>
+<g id="p12-brace-infrared" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="347 187 20 430" fill="none" stroke="#9A5B2B" stroke-width="2" transform="rotate(90 357 402)">
+<path d="M 367 617 A 10 1.67 0 0 1 357 615.33 L 357 403.67 A 10 1.67 0 0 0 347 402 A 10 1.67 0 0 0 357 400.33 L 357 188.67 A 10 1.67 0 0 1 367 187 Z" stroke="none"/>
+<path d="M 367 617 A 10 1.67 0 0 1 357 615.33 L 357 403.67 A 10 1.67 0 0 0 347 402 A 10 1.67 0 0 0 357 400.33 L 357 188.67 A 10 1.67 0 0 1 367 187"/>
+</g>
+    <text x="909" y="442" text-anchor="middle" font-size="18" fill="#332E27">שבעה בתחום הנראה</text>
+    <text x="357" y="442" text-anchor="middle" font-size="18" fill="#332E27">חמישה באינפרא-אדום הקרוב</text>
+  </g>
+  <g id="digital-body" data-pptx-bounds="575 476 641 110">
+    <text x="1216" y="500" font-size="24" fill="#332E27">רשות העתיקות ומרכז המחקר והפיתוח של גוגל ישראל<tspan x="1216" dy="37">הקימו את הספרייה המקוונת ע"ש ליאון לוי</tspan></text>
+    <text x="1216" y="575" font-size="18" fill="#6B6156">בתרומת קרן ליאון לוי, קרן ארקדיה וקרן יד הנדיב</text>
+  </g>
+  <g id="digital-ir-note" data-pptx-bounds="131 482 429 28">
+    <text x="560" y="500" font-size="18" fill="#332E27">האינפרא-אדום משחזר כתב שדהה כמעט לבלי הכר</text>
+  </g>
+  <g id="digital-source" data-pptx-bounds="732 632 484 28">
+    <text x="1216" y="650" font-size="18" fill="#6B6156">מקור: רשות העתיקות, 2026 · על הספרייה הדיגיטלית</text>
+  </g>
+</svg>

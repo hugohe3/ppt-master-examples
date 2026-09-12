@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 58 760 126">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Рождаемость: 1,73 → 1,42</text>
+    <text font-size="28" fill="#232A31" x="72" y="136">Ни в одном году периода суммарный</text><text font-size="28" fill="#232A31" x="72" y="170">коэффициент не достиг уровня 2,1</text></g>
+
+  <g id="tfr-hero" data-pptx-bounds="840 58 368 152">
+    <text x="840" y="80" font-size="18" letter-spacing="2" fill="#5B6670">2024 ГОД</text>
+    <text x="840" y="146" font-family="Times New Roman, serif" font-size="64" font-weight="bold" fill="#2E6F8E">1,42</text>
+    <text x="840" y="176" font-size="18" fill="#232A31">рождения на женщину</text>
+    <text x="840" y="202" font-size="18" fill="#5B6670">минимум 1,16 в 1999 году</text>
+  </g>
+
+  <g id="tfr-curve" data-pptx-replace-with="chart" data-pptx-bounds="72 230 1136 366" data-pptx-fallback-sha256="16d5ec6b15611321eff4002e46217689bcba19db1512da9f87414839eed21978">
+    <metadata type="application/json">
+{
+  "name": "tfr-curve",
+  "x": 72, "y": 230, "width": 1136, "height": 366,
+  "plot_area": {"x": 150, "y": 254, "width": 1030, "height": 306},
+  "type": "line",
+  "grouping": "standard",
+  "line_style": "line",
+  "marker_size": 10,
+  "categories": ["1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"],
+  "series": [
+    {
+      "name": "Суммарный коэффициент рождаемости",
+      "values": [1.73,1.55,1.39,1.40,1.34,1.27,1.22,1.23,1.16,1.20,1.22,1.29,1.32,1.34,1.29,1.31,1.42,1.50,1.54,1.57,1.58,1.69,1.71,1.75,1.78,1.76,1.62,1.58,1.50,1.51,1.51,1.42,1.41,1.42],
+      "line_width": 3,
+      "point_colors": ["#1B2B3A",null,null,null,null,null,null,null,"#B3121B",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"#2E6F8E",null,null,null,null,null,null,null,null,"#1B2B3A"]
+    },
+    {
+      "name": "Уровень простого воспроизводства",
+      "values": [2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1],
+      "line_width": 1.5
+    }
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none"},
+    "value": {"kind": "value", "position": "left", "visible": true, "label_position": "none", "minimum": 1.1, "maximum": 2.2, "major_unit": 0.2, "major_gridlines": true, "tick_marks": "none", "cross_between": "mid_category"}
+  },
+  "show_value_axis_labels": false,
+  "style": {
+    "colors": ["#2E6F8E", "#5B6670"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#5B6670",
+    "axis_color": "#5B6670",
+    "grid_color": "#E6E1D7",
+    "font_family": "Arial",
+    "axis_font_size": 18
+  },
+  "notes": [
+    {"text": "рождений на женщину", "width": 210, "font_size": 18, "color": "#5B6670", "align": "l"},
+    {"text": "1,2", "width": 50, "font_size": 18, "color": "#5B6670", "align": "r"},
+    {"text": "1,4", "width": 50, "font_size": 18, "color": "#5B6670", "align": "r"},
+    {"text": "1,6", "width": 50, "font_size": 18, "color": "#5B6670", "align": "r"},
+    {"text": "1,8", "width": 50, "font_size": 18, "color": "#5B6670", "align": "r"},
+    {"text": "2,0", "width": 50, "font_size": 18, "color": "#5B6670", "align": "r"},
+    {"text": "2,2", "width": 50, "font_size": 18, "color": "#5B6670", "align": "r"},
+    {"text": "уровень простого воспроизводства — 2,1", "width": 400, "font_size": 18, "color": "#5B6670", "align": "l"},
+    {"text": "1,73", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "l"},
+    {"text": "1,16", "width": 70, "font_size": 20, "color": "#B3121B", "bold": true, "align": "ctr"},
+    {"text": "1,78", "width": 70, "font_size": 20, "color": "#2E6F8E", "bold": true, "align": "ctr"},
+    {"text": "1,42", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "r"}
+  ]
+}
+    </metadata>
+
+    <g id="tfr-curve-chartArea">
+      <g id="tfr-curve-grid" stroke="#E6E1D7" stroke-width="1">
+        <line x1="150" y1="532.2" x2="1180" y2="532.2" />
+        <line x1="150" y1="476.5" x2="1180" y2="476.5" />
+        <line x1="150" y1="420.9" x2="1180" y2="420.9" />
+        <line x1="150" y1="365.2" x2="1180" y2="365.2" />
+        <line x1="150" y1="309.6" x2="1180" y2="309.6" />
+        <line x1="150" y1="254" x2="1180" y2="254" />
+      </g>
+      <g id="tfr-curve-axis" stroke="#5B6670" stroke-width="1.5">
+        <line x1="150" y1="254" x2="150" y2="560" />
+        <line x1="150" y1="560" x2="1180" y2="560" />
+      </g>
+      <g id="tfr-curve-value-notes" font-size="18" fill="#5B6670" text-anchor="end">
+        <text x="138" y="538.2">1,2</text>
+        <text x="138" y="482.5">1,4</text>
+        <text x="138" y="426.9">1,6</text>
+        <text x="138" y="371.2">1,8</text>
+        <text x="138" y="315.6">2,0</text>
+        <text x="138" y="260">2,2</text>
+      </g>
+      <g id="tfr-curve-category-labels" font-size="18" fill="#5B6670" text-anchor="middle">
+        <text x="150" y="586">1991</text>
+        <text x="274.8" y="586">1995</text>
+        <text x="399.7" y="586">1999</text>
+        <text x="524.5" y="586">2003</text>
+        <text x="649.4" y="586">2007</text>
+        <text x="774.2" y="586">2011</text>
+        <text x="899.1" y="586">2015</text>
+        <text x="1023.9" y="586">2019</text>
+        <text x="1148.8" y="586">2023</text>
+      </g>
+      
+      <g id="tfr-curve-replacement-series">
+        <polyline points="150,281.8 1180,281.8" fill="none" stroke="#5B6670" stroke-width="1.5" stroke-dasharray="8,4" />
+      </g>
+      <g id="tfr-curve-series">
+        <polyline points="150,384.7 181.2,434.8 212.4,479.3 243.6,476.5 274.8,493.2 306.1,512.7 337.3,526.6 368.5,523.8 399.7,543.3 430.9,532.2 462.1,526.6 493.3,507.1 524.5,498.8 555.8,493.2 587,507.1 618.2,501.6 649.4,471 680.6,448.7 711.8,437.6 743,429.3 774.2,426.5 805.5,395.9 836.7,390.3 867.9,379.2 899.1,370.8 930.3,376.4 961.5,415.3 992.7,426.5 1023.9,448.7 1055.2,445.9 1086.4,445.9 1117.6,471 1148.8,473.8 1180,471" fill="none" stroke="#2E6F8E" stroke-width="3" stroke-linejoin="round" />
+        <circle cx="150" cy="384.7" r="5" fill="#1B2B3A" />
+        <circle cx="399.7" cy="543.3" r="5" fill="#B3121B" />
+        <circle cx="899.1" cy="370.8" r="5" fill="#2E6F8E" />
+        <circle cx="1180" cy="471" r="5" fill="#1B2B3A" />
+      </g>
+      <g id="tfr-curve-point-notes" font-size="20" font-weight="bold">
+        <text x="162" y="376" fill="#1B2B3A">1,73</text>
+        <text x="399.7" y="569" text-anchor="middle" fill="#B3121B">1,16</text>
+        <text x="899.1" y="358" text-anchor="middle" fill="#2E6F8E">1,78</text>
+        <text x="1168" y="462" text-anchor="end" fill="#1B2B3A">1,42</text>
+      </g>
+      <text x="596" y="274" font-size="18" fill="#5B6670">уровень простого воспроизводства — 2,1</text>
+      <text x="150" y="246" font-size="18" fill="#5B6670">рождений на женщину</text>
+    </g>
+  </g>
+
+  <g id="fertility-note" data-pptx-bounds="72 604 1136 60">
+    <text font-size="18" fill="#5B6670" x="72" y="626">Показатель — сколько рождений приходится на одну женщину</text><text font-size="18" fill="#5B6670" x="72" y="652">при текущих возрастных коэффициентах. До уровня 2,1 в 2024 году — 0,68 (расчёт).</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SP.DYN.TFRT.IN, 1991–2024</text>
+    <text x="1208" y="690" text-anchor="end">07</text>
+  </g>
+</svg>

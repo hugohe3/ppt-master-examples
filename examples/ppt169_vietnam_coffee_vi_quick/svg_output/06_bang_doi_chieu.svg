@@ -1,0 +1,101 @@
+<svg lang="vi-VN" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 2 · ĐỐI CHIẾU SỐ LIỆU</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Cả nước và Đắk Lắk: hai lát cắt số liệu</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="294" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="region-table" data-pptx-bounds="64 200 1152 320" data-pptx-replace-with="table" data-pptx-fallback-sha256="715ac0472a4f8b9e368256f9153ba8641b0b0bb397757cf39d080f692da0d94d">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "x": 64,
+        "y": 200,
+        "width": 1152,
+        "height": 320,
+        "name": "region-table",
+        "column_widths": [360, 400, 392],
+        "row_heights": [60, 52, 52, 52, 52, 52],
+        "defaults": {"cell": {"valign": "middle", "align": "l", "padding": {"left": 20, "right": 20}}},
+        "style": {
+          "font_family": "Segoe UI",
+          "font_size": 20,
+          "header_font_size": 20,
+          "band_row": false,
+          "border_color": "#D9CDBA",
+          "border_width": 1.5,
+          "header_fill": "#EFE7DA",
+          "header_text": "#221C15",
+          "body_text": "#3A3128",
+          "lang": "vi-VN"
+        },
+        "columns": [
+          {"text": "Tiêu chí", "bold": true},
+          {"text": "Cả nước — niên vụ 2026/27", "bold": true},
+          {"text": "Đắk Lắk — niên vụ 2023/24", "bold": true}
+        ],
+        "rows": [
+          [{"text": "Diện tích cà phê", "bold": true, "color": "#221C15"}, {"text": "730.000 ha"}, {"text": "212.106 ha"}],
+          [{"text": "Diện tích thu hoạch", "bold": true, "color": "#221C15"}, {"text": "644.000 ha (Robusta)"}, {"text": "200.441 ha"}],
+          [{"text": "Năng suất bình quân", "bold": true, "color": "#221C15"}, {"text": "2,93 tấn/ha (Robusta)"}, {"text": "26,72 tạ/ha"}],
+          [{"text": "Sản lượng", "bold": true, "color": "#221C15"}, {"text": "32,5 triệu bao 60 kg"}, {"text": "535.672 tấn"}],
+          [{"text": "Xuất khẩu", "bold": true, "color": "#221C15"}, {"text": "28,95 triệu bao 60 kg"}, {"text": "264.404 tấn"}]
+        ]
+      }
+    </metadata>
+    <rect x="64" y="200" width="1152" height="60" fill="#EFE7DA" />
+    <g id="region-table-grid" stroke="#D9CDBA" stroke-width="1.5">
+      <line x1="64" y1="200" x2="1216" y2="200" />
+      <line x1="64" y1="260" x2="1216" y2="260" />
+      <line x1="64" y1="312" x2="1216" y2="312" />
+      <line x1="64" y1="364" x2="1216" y2="364" />
+      <line x1="64" y1="416" x2="1216" y2="416" />
+      <line x1="64" y1="468" x2="1216" y2="468" />
+      <line x1="64" y1="520" x2="1216" y2="520" />
+      <line x1="64" y1="200" x2="64" y2="520" />
+      <line x1="424" y1="200" x2="424" y2="520" />
+      <line x1="824" y1="200" x2="824" y2="520" />
+      <line x1="1216" y1="200" x2="1216" y2="520" />
+    </g>
+    <g id="region-table-header" font-size="20" font-weight="bold" fill="#221C15">
+      <text x="84" y="237">Tiêu chí</text>
+      <text x="444" y="237">Cả nước — niên vụ 2026/27</text>
+      <text x="844" y="237">Đắk Lắk — niên vụ 2023/24</text>
+    </g>
+    <g id="region-table-criteria" font-size="20" font-weight="bold" fill="#221C15">
+      <text x="84" y="293">Diện tích cà phê</text>
+      <text x="84" y="345">Diện tích thu hoạch</text>
+      <text x="84" y="397">Năng suất bình quân</text>
+      <text x="84" y="449">Sản lượng</text>
+      <text x="84" y="501">Xuất khẩu</text>
+    </g>
+    <g id="region-table-values" font-size="20" fill="#3A3128">
+      <text x="444" y="293">730.000 ha</text>
+      <text x="844" y="293">212.106 ha</text>
+      <text x="444" y="345">644.000 ha (Robusta)</text>
+      <text x="844" y="345">200.441 ha</text>
+      <text x="444" y="397">2,93 tấn/ha (Robusta)</text>
+      <text x="844" y="397">26,72 tạ/ha</text>
+      <text x="444" y="449">32,5 triệu bao 60 kg</text>
+      <text x="844" y="449">535.672 tấn</text>
+      <text x="444" y="501">28,95 triệu bao 60 kg</text>
+      <text x="844" y="501">264.404 tấn</text>
+    </g>
+  </g>
+
+  <g id="table-caveat" data-pptx-bounds="64 546 1152 100">
+    <text x="64" y="570" font-size="24" fill="#3A3128">Hai cột dùng kỳ số liệu và đơn vị khác nhau: cả nước là dự báo USDA cho niên vụ<tspan x="64" dy="36">2026/27; Đắk Lắk là số quyết toán niên vụ 2023/24 của UBND tỉnh. Không cộng gộp.</tspan></text>
+    <text x="64" y="638" font-size="18" fill="#6B5B4A">26,72 tạ/ha tương đương khoảng 2,67 tấn/ha (quy đổi của bài giảng, tổng hợp).</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: USDA FAS VM2026-0016 (20/5/2026); Cổng thông tin điện tử tỉnh Đắk Lắk (28/11/2024).</text>
+    <text x="1216" y="692" text-anchor="end">06</text>
+  </g>
+</svg>

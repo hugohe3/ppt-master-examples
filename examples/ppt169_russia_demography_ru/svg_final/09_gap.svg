@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="gapRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1B2B3A" />
+      <stop offset="100%" stop-color="#B3121B" />
+    </linearGradient>
+  </defs>
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 58 1136 126">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Сверхсмертность мужчин: 14,2 года разрыва</text>
+    <text font-size="28" fill="#232A31" x="72" y="136">Максимум разрыва — 1994 год;</text><text font-size="28" fill="#232A31" x="72" y="170">к 2024 году он сократился до 10,6 года</text></g>
+
+  <g id="gap-hero" data-pptx-bounds="72 220 520 220">
+    <text x="72" y="250" font-size="18" letter-spacing="2" fill="#5B6670">МАКСИМУМ РАЗРЫВА, 1994 ГОД</text>
+    
+  <g transform="translate(452, 240) scale(2)" fill="none" stroke="#2E6F8E" stroke-width="2">
+    <path d="M10 16v5" />
+    <path d="M14 16v5" />
+    <path d="M8 16h8l-2 -7h-4l-2 7" />
+    <path d="M5 11c1.667 -1.333 3.333 -2 5 -2" />
+    <path d="M19 11c-1.667 -1.333 -3.333 -2 -5 -2" />
+    <path d="M10 4a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  </g>
+    
+  <g transform="translate(512, 240) scale(2)" fill="none" stroke="#1B2B3A" stroke-width="2">
+    <path d="M10 16v5" />
+    <path d="M14 16v5" />
+    <path d="M9 9h6l-1 7h-4l-1 -7" />
+    <path d="M5 11c1.333 -1.333 2.667 -2 4 -2" />
+    <path d="M19 11c-1.333 -1.333 -2.667 -2 -4 -2" />
+    <path d="M10 4a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+  </g>
+    <text x="72" y="326" font-family="Times New Roman, serif" font-size="64" font-weight="bold" fill="#B3121B">14,2 года</text>
+    <rect x="72" y="346" width="260" height="4" fill="url(#gapRule)" />
+    <text font-size="18" fill="#232A31" x="72" y="400">разница между женской (71,73)</text><text font-size="18" fill="#232A31" x="72" y="426">и мужской (57,55) продолжительностью</text></g>
+
+  <g id="gap-series" data-pptx-bounds="660 216 548 240">
+    <text x="660" y="234" font-size="18" letter-spacing="2" fill="#5B6670">ГОД</text>
+    <text x="1208" y="234" text-anchor="end" font-size="18" letter-spacing="2" fill="#5B6670">РАЗРЫВ</text>
+    <line x1="660" y1="246" x2="1208" y2="246" stroke="#D5CFC4" stroke-width="1" />
+    <g id="gap-row-1991">
+      <text x="660" y="284" font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">1991</text>
+      <rect x="740" y="273" width="188.6" height="14" fill="#2E6F8E" />
+      <text x="1208" y="284" text-anchor="end" font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">10,3</text>
+    </g>
+    <g id="gap-row-1994">
+      <text x="660" y="336" font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">1994</text>
+      <rect x="740" y="325" width="260" height="14" fill="#B3121B" />
+      <text x="1208" y="336" text-anchor="end" font-family="Consolas, monospace" font-size="22" font-weight="bold" fill="#B3121B">14,2</text>
+    </g>
+    <g id="gap-row-2005">
+      <text x="660" y="388" font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">2005</text>
+      <rect x="740" y="377" width="247.2" height="14" fill="#2E6F8E" />
+      <text x="1208" y="388" text-anchor="end" font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">13,5</text>
+    </g>
+    <g id="gap-row-2024">
+      <text x="660" y="440" font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">2024</text>
+      <rect x="740" y="429" width="194.1" height="14" fill="#2E6F8E" />
+      <text x="1208" y="440" text-anchor="end" font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">10,6</text>
+    </g>
+  </g>
+
+  <g id="gap-note" data-pptx-bounds="72 494 1136 82">
+    <text font-size="18" fill="#5B6670" x="72" y="512">Разрыв расширялся в годы падения мужской продолжительности жизни (1992–1994)</text><text font-size="18" fill="#5B6670" x="72" y="538">и сужался в годы её роста (2006–2019). Минимум периода — 9,0 года в 2021 году,</text><text font-size="18" fill="#5B6670" x="72" y="564">когда женская продолжительность жизни упала сильнее мужской.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SP.DYN.LE00.FE.IN и SP.DYN.LE00.MA.IN, 1991–2024 · разрыв — расчёт</text>
+    <text x="1208" y="690" text-anchor="end">09</text>
+  </g>
+</svg>

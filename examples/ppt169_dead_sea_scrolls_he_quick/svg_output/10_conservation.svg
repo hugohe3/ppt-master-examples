@@ -1,0 +1,49 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <rect id="p10-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <g id="lab-kicker" data-pptx-bounds="1005 74 211 27">
+    <text x="1216" y="92" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק תשיעי · שימור</text>
+  </g>
+  <g id="lab-title" data-pptx-bounds="689 104 527 76">
+    <text x="1216" y="142" font-family="David" font-size="40" fill="#1F1B16">שימור הפיך, צעד אחר צעד</text>
+    <line x1="689" y1="176" x2="1216" y2="176" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="conservation-timeline" data-pptx-bounds="150 248 1068 84">
+<g id="p10-stage-1991" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="944 250 272 80" fill="#9A5B2B" stroke="#9A5B2B" stroke-width="1" transform="rotate(180 1080 290)">
+<path d="M 944 250 L 1176 250 L 1216 290 L 1176 330 L 944 330 L 984 290 Z"/>
+</g>
+<g id="p10-stage-2007" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="680 250 272 80" fill="#EDE3D2" stroke="#9A5B2B" stroke-width="1" transform="rotate(180 816 290)">
+<path d="M 680 250 L 912 250 L 952 290 L 912 330 L 680 330 L 720 290 Z"/>
+</g>
+<g id="p10-stage-2008" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="416 250 272 80" fill="#EDE3D2" stroke="#9A5B2B" stroke-width="1" transform="rotate(180 552 290)">
+<path d="M 416 250 L 648 250 L 688 290 L 648 330 L 416 330 L 456 290 Z"/>
+</g>
+<g id="p10-stage-2012" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="152 250 272 80" fill="#EDE3D2" stroke="#9A5B2B" stroke-width="1" transform="rotate(180 288 290)">
+<path d="M 152 250 L 384 250 L 424 290 L 384 330 L 152 330 L 192 290 Z"/>
+</g>
+    <text x="1090" y="292" text-anchor="middle" font-family="David" font-size="30" fill="#FAF6EC">1991</text>
+    <text x="1090" y="318" text-anchor="middle" font-size="16" fill="#EFE0CB">מעבדת שימור</text>
+    <text x="826" y="292" text-anchor="middle" font-family="David" font-size="30" fill="#1F1B16">2007</text>
+    <text x="826" y="318" text-anchor="middle" font-size="16" fill="#6B6156">ועדת דימות</text>
+    <text x="562" y="292" text-anchor="middle" font-family="David" font-size="30" fill="#1F1B16">2008</text>
+    <text x="562" y="318" text-anchor="middle" font-size="16" fill="#6B6156">סטודיו צילום</text>
+    <text x="298" y="292" text-anchor="middle" font-family="David" font-size="30" fill="#1F1B16">2012</text>
+    <text x="298" y="318" text-anchor="middle" font-size="16" fill="#6B6156">בחינה מחודשת</text>
+  </g>
+  <g id="plate" data-pptx-bounds="138 398 264 226">
+    <rect id="p10-plate-glass" x="140" y="400" width="260" height="200" fill="#FFFFFF" fill-opacity="0.55" stroke="#CDC2AE" stroke-width="1"/>
+    <image id="p10-fragment" href="../images/scroll_fragment.jpg" x="199.6" y="412" width="140.8" height="176" preserveAspectRatio="xMidYMid meet"/>
+    <text x="400" y="618" font-size="16" fill="#8C8172">בתנאי אקלים יציבים</text>
+  </g>
+  <g id="lab-lead" data-pptx-bounds="684 384 532 40">
+    <text x="1216" y="410" font-size="28" fill="#332E27">מאז 1991 פועלת מעבדת שימור ייעודית</text>
+  </g>
+  <g id="lab-body" data-pptx-bounds="508 448 708 70">
+    <text x="1216" y="470" font-size="24" fill="#332E27">עקרון העבודה הוא <tspan font-weight="bold" fill="#9A5B2B">שימור הפיך</tspan>, בליווי מכון גטי לשימור<tspan x="1216" dy="37">והמגילות מאוחסנות במתקן מבוקר-אקלים ייעודי</tspan></text>
+  </g>
+  <g id="lab-note" data-pptx-bounds="644 542 572 28">
+    <text x="1216" y="560" font-size="18" fill="#6B6156">מגילה שהוצגה שלושה חודשים נחה כשנה לפחות לפני הצגה נוספת</text>
+  </g>
+  <g id="lab-source" data-pptx-bounds="815 632 401 28">
+    <text x="1216" y="650" font-size="18" fill="#6B6156">מקור: רשות העתיקות, 2026 · שימור המגילות</text>
+  </g>
+</svg>

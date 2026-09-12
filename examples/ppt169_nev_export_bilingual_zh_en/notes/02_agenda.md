@@ -1,0 +1,3 @@
+四个部分依次回答四个问题:第一部分先把规模和口径说清楚,出口了多少、按谁的口径;第二部分讲卖到哪里、谁在卖;第三部分解释为什么开始在当地造车;第四部分是规则怎么变、2026 年怎么看。部分顺序就是论证顺序,如果只关心某一段,可以直接跳到那一部分。
+
+The four parts answer four questions in order: how much was exported and on whose count; where the cars went and who shipped them; why plants are replacing shipments; and how the rules are changing into 2026. The order of the parts is the order of the argument, so feel free to jump to the part you care about.

@@ -1,0 +1,47 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p05-edge-fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F4EEE2" stop-opacity="1"/>
+      <stop offset="9%" stop-color="#F4EEE2" stop-opacity="0"/>
+      <stop offset="91%" stop-color="#F4EEE2" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F4EEE2" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="p05-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <line id="p05-seam-1" data-pptx-role="decoration" x1="926" y1="460" x2="926" y2="540" stroke="#CDC2AE" stroke-width="1"/>
+  <line id="p05-seam-2" data-pptx-role="decoration" x1="632" y1="460" x2="632" y2="540" stroke="#CDC2AE" stroke-width="1"/>
+  <line id="p05-seam-3" data-pptx-role="decoration" x1="338" y1="460" x2="338" y2="540" stroke="#CDC2AE" stroke-width="1"/>
+  <g id="isaiah-kicker" data-pptx-bounds="915 74 301 27">
+    <text x="1216" y="92" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק רביעי · מגילת ישעיהו</text>
+  </g>
+  <g id="isaiah-title" data-pptx-bounds="480 104 736 76">
+    <text x="1216" y="142" font-family="David" font-size="40" fill="#1F1B16">המגילה שהקדימה את זמנה באלף שנה</text>
+    <line x1="480" y1="176" x2="1216" y2="176" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="scroll-band" data-pptx-bounds="64 208 1152 194">
+    <image id="p05-scroll" href="../images/isaiah_scroll.jpg" x="64" y="210" width="1152" height="190" preserveAspectRatio="xMidYMid slice"/>
+    <rect id="p05-scroll-fade" x="64" y="210" width="1152" height="190" fill="url(#p05-edge-fade)"/>
+  </g>
+  <g id="isaiah-fig-length" data-pptx-bounds="940 452 276 92">
+    <text x="1216" y="500" font-family="David" font-size="56" fill="#9A5B2B">734</text>
+    <text x="1216" y="534" font-size="18" fill="#6B6156">סנטימטרים אורך</text>
+  </g>
+  <g id="isaiah-fig-columns" data-pptx-bounds="646 452 276 92">
+    <text x="922" y="500" font-family="David" font-size="56" fill="#9A5B2B">54</text>
+    <text x="922" y="534" font-size="18" fill="#6B6156">עמודות כתיבה</text>
+  </g>
+  <g id="isaiah-fig-chapters" data-pptx-bounds="352 452 276 92">
+    <text x="628" y="500" font-family="David" font-size="56" fill="#9A5B2B">66</text>
+    <text x="628" y="534" font-size="18" fill="#6B6156">פרקי ישעיהו</text>
+  </g>
+  <g id="isaiah-fig-variants" data-pptx-bounds="58 452 276 92">
+    <text x="334" y="500" font-family="David" font-size="56" fill="#9A5B2B">2,600</text>
+    <text x="334" y="534" font-size="18" fill="#6B6156">גרסאות שונות ויותר</text>
+  </g>
+  <g id="isaiah-body" data-pptx-bounds="345 576 871 36">
+    <text x="1216" y="600" font-size="24" fill="#332E27">המגילה השלמה ביותר מבין המגילות המקראיות, ותוארכה לכ-125 לפנה"ס</text>
+  </g>
+  <g id="isaiah-source" data-pptx-bounds="588 642 628 28">
+    <text x="1216" y="660" font-size="18" fill="#6B6156">מקור: מוזיאון ישראל, 2026 · מגילת ישעיהו הגדולה במיזם הדיגיטלי</text>
+  </g>
+</svg>

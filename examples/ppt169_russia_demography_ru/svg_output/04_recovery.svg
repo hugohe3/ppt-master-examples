@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 58 1136 104">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Восстановление 2009–2019 отыграло<tspan x="72" dy="48">меньше половины падения</tspan></text>
+  </g>
+
+  <g id="population-recent" data-pptx-replace-with="chart" data-pptx-bounds="72 196 704 400" data-pptx-fallback-sha256="9de1a4ebf59091882770a18194fd0cfb5856f5a7c34be94828f4b26d7c79e4ac">
+    <metadata type="application/json"><![CDATA[
+{
+  "name": "population-recent",
+  "x": 72, "y": 196, "width": 704, "height": 400,
+  "plot_area": {"x": 150, "y": 220, "width": 602, "height": 340},
+  "type": "line",
+  "grouping": "standard",
+  "line_style": "line",
+  "marker_size": 10,
+  "categories": ["2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"],
+  "series": [
+    {
+      "name": "Численность населения, млн человек",
+      "values": [143.52,143.05,142.81,142.74,142.79,142.85,143.02,143.38,143.81,144.24,144.64,145.02,145.29,145.40,145.45,145.25,144.75,144.24,143.83,143.67],
+      "line_width": 3,
+      "point_colors": [null,null,null,"#B3121B",null,null,null,null,null,null,null,null,null,null,"#2E6F8E",null,null,null,null,"#1B2B3A"]
+    }
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none"},
+    "value": {"kind": "value", "position": "left", "visible": true, "label_position": "next_to", "minimum": 142, "maximum": 146, "major_unit": 1, "major_gridlines": true, "tick_marks": "none", "number_format": "0", "cross_between": "mid_category"}
+  },
+  "style": {
+    "colors": ["#2E6F8E"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#5B6670",
+    "axis_color": "#5B6670",
+    "grid_color": "#E6E1D7",
+    "font_family": "Arial",
+    "axis_font_size": 18
+  },
+  "notes": [
+    {"text": "142,74", "width": 90, "font_size": 20, "color": "#B3121B", "bold": true, "align": "ctr"},
+    {"text": "145,45", "width": 90, "font_size": 20, "color": "#2E6F8E", "bold": true, "align": "ctr"},
+    {"text": "143,67", "width": 90, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "r"},
+    {"text": "млн человек", "width": 130, "font_size": 18, "color": "#5B6670", "align": "l"}
+  ]
+}
+    ]]></metadata>
+
+    <g id="population-recent-chartArea">
+      <g id="population-recent-grid" stroke="#E6E1D7" stroke-width="1">
+        <line x1="150" y1="475" x2="752" y2="475" />
+        <line x1="150" y1="390" x2="752" y2="390" />
+        <line x1="150" y1="305" x2="752" y2="305" />
+        <line x1="150" y1="220" x2="752" y2="220" />
+      </g>
+      <g id="population-recent-axis" stroke="#5B6670" stroke-width="1.5">
+        <line x1="150" y1="220" x2="150" y2="560" />
+        <line x1="150" y1="560" x2="752" y2="560" />
+      </g>
+      <g id="population-recent-value-labels" font-size="18" fill="#5B6670" text-anchor="end">
+        <text x="138" y="566">142</text>
+        <text x="138" y="481">143</text>
+        <text x="138" y="396">144</text>
+        <text x="138" y="311">145</text>
+        <text x="138" y="226">146</text>
+      </g>
+      <g id="population-recent-category-labels" font-size="18" fill="#5B6670" text-anchor="middle">
+        <text x="150" y="586">2005</text>
+        <text x="276.7" y="586">2009</text>
+        <text x="403.5" y="586">2013</text>
+        <text x="530.2" y="586">2017</text>
+        <text x="656.9" y="586">2021</text>
+        <text x="752" y="586">2024</text>
+      </g>
+      <!-- chart-plot-area: object=population-recent | 150,220,752,560 -->
+      <g id="population-recent-series">
+        <polyline points="150,430.8 181.7,470.8 213.4,491.2 245.1,497.1 276.7,492.9 308.4,487.8 340.1,473.3 371.8,442.7 403.5,406.2 435.2,369.6 466.8,335.6 498.5,303.3 530.2,280.4 561.9,271 593.6,266.8 625.3,283.8 656.9,326.3 688.6,369.6 720.3,404.5 752,418.1" fill="none" stroke="#2E6F8E" stroke-width="3" stroke-linejoin="round" />
+        <circle cx="245.1" cy="497.1" r="5" fill="#B3121B" />
+        <circle cx="593.6" cy="266.8" r="5" fill="#2E6F8E" />
+        <circle cx="752" cy="418.1" r="5" fill="#1B2B3A" />
+      </g>
+      <g id="population-recent-point-notes" font-size="20" font-weight="bold">
+        <text x="245.1" y="523" text-anchor="middle" fill="#B3121B">142,74</text>
+        <text x="593.6" y="252" text-anchor="middle" fill="#2E6F8E">145,45</text>
+        <text x="740" y="404" text-anchor="end" fill="#1B2B3A">143,67</text>
+      </g>
+      <text x="150" y="212" font-size="18" font-weight="normal" fill="#5B6670">млн человек</text>
+    </g>
+  </g>
+
+  <g id="recovery-figures" data-pptx-bounds="812 196 396 370">
+    <text x="812" y="216" font-size="18" letter-spacing="2" fill="#5B6670">РОСТ 2009–2019</text>
+    <text x="812" y="278" font-family="Times New Roman, serif" font-size="64" font-weight="bold" fill="#2E6F8E">+2,71 млн</text>
+    <text x="812" y="308" font-size="18" fill="#232A31">человек, с 142,74 до 145,45 млн</text>
+    <line x1="812" y1="330" x2="1208" y2="330" stroke="#D5CFC4" stroke-width="1" />
+    <text x="812" y="360" font-size="18" letter-spacing="2" fill="#5B6670">НОВАЯ УБЫЛЬ 2019–2024</text>
+    <text x="812" y="422" font-family="Times New Roman, serif" font-size="64" font-weight="bold" fill="#B3121B">−1,78 млн</text>
+    <text x="812" y="452" font-size="18" fill="#232A31">человек, с 145,45 до 143,67 млн</text>
+    <line x1="812" y1="474" x2="1208" y2="474" stroke="#D5CFC4" stroke-width="1" />
+    <text x="812" y="504" font-size="18" fill="#232A31">Восстановление покрыло 48 %<tspan x="812" dy="26">падения 1994–2008 на 5,65 млн</tspan><tspan x="812" dy="26">человек. Разности — расчёт.</tspan></text>
+  </g>
+
+  <g id="period-marker" data-pptx-bounds="662 598 180 58">
+    <g id="period-marker-body" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="662 604 180 52" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val -60000" fill="#1B2B3A" stroke="none">
+<path d="M 662 604 L 692 604 L 752 598.8 L 737 604 L 842 604 L 842 612.67 L 842 612.67 L 842 625.67 L 842 656 L 737 656 L 692 656 L 692 656 L 662 656 L 662 625.67 L 662 612.67 L 662 612.67 Z" />
+    </g>
+    <text x="752" y="628" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="bold" fill="#FBFAF7">2024</text>
+    <text x="752" y="650" text-anchor="middle" font-size="18" fill="#F0EDE6">новая убыль</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SP.POP.TOTL, 2005–2024 · доли и разности — расчёт</text>
+    <text x="1208" y="690" text-anchor="end">04</text>
+  </g>
+</svg>

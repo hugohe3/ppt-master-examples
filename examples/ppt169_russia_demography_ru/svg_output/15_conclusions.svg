@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 44 1136 88">
+    <text x="72" y="84" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Что следует из данных</text>
+    <text x="72" y="120" font-size="28" fill="#232A31">Четыре вывода — каждый со своим индикатором</text>
+  </g>
+
+  <g id="conclusion-1" data-pptx-bounds="72 156 1136 62">
+    <text x="72" y="190" font-family="Times New Roman, serif" font-size="32" font-weight="bold" fill="#B3121B">−4,72 млн</text>
+    <use data-icon="tabler-outline/users" x="300" y="164" width="36" height="36" fill="#1B2B3A" stroke-width="2" />
+    <text x="356" y="188" font-size="18" fill="#232A31">человек — итог 1991–2024 годов по индикатору SP.POP.TOTL</text>
+    <line x1="72" y1="212" x2="1208" y2="212" stroke="#D5CFC4" stroke-width="1" />
+  </g>
+
+  <g id="conclusion-2" data-pptx-bounds="72 232 1136 62">
+    <text x="72" y="266" font-family="Times New Roman, serif" font-size="32" font-weight="bold" fill="#B3121B">30 из 34</text>
+    <use data-icon="tabler-outline/grave" x="300" y="240" width="36" height="36" fill="#1B2B3A" stroke-width="2" />
+    <text x="356" y="264" font-size="18" fill="#232A31">лет с естественной убылью; худший год — 2021-й: −7,1 на 1000 человек</text>
+    <line x1="72" y1="288" x2="1208" y2="288" stroke="#D5CFC4" stroke-width="1" />
+  </g>
+
+  <g id="conclusion-3" data-pptx-bounds="72 308 1136 62">
+    <text x="72" y="342" font-family="Times New Roman, serif" font-size="32" font-weight="bold" fill="#2E6F8E">1,42</text>
+    <use data-icon="tabler-outline/baby-carriage" x="300" y="316" width="36" height="36" fill="#1B2B3A" stroke-width="2" />
+    <text x="356" y="340" font-size="18" fill="#232A31">рождения на женщину в 2024 году против 1,73 в 1991-м (SP.DYN.TFRT.IN)</text>
+    <line x1="72" y1="364" x2="1208" y2="364" stroke="#D5CFC4" stroke-width="1" />
+  </g>
+
+  <g id="conclusion-4" data-pptx-bounds="72 384 1136 88">
+    <text x="72" y="418" font-family="Times New Roman, serif" font-size="32" font-weight="bold" fill="#B3121B">−178 тыс.</text>
+    <use data-icon="tabler-outline/arrows-exchange" x="300" y="392" width="36" height="36" fill="#1B2B3A" stroke-width="2" />
+    <text x="356" y="416" font-size="18" fill="#232A31">миграционное сальдо 2024 года — впервые<tspan x="356" dy="26">отрицательное с 1992 года (SM.POP.NETM)</tspan></text>
+    <line x1="72" y1="466" x2="1208" y2="466" stroke="#D5CFC4" stroke-width="1" />
+  </g>
+
+  <g id="closing-takeaway" data-pptx-bounds="72 480 1136 70">
+    <rect x="72" y="480" width="1136" height="70" fill="#F0EDE6" />
+    <text x="96" y="510" font-size="24" fill="#1B2B3A">Численность удерживалась миграцией, а не естественным воспроизводством;<tspan x="96" dy="30" font-weight="bold">в 2024 году оба слагаемых изменения численности отрицательны.</tspan></text>
+  </g>
+
+  <g id="closing-band" data-pptx-bounds="0 560 1280 108">
+    <image href="../images/15_closing_band.jpg" x="0" y="560" width="1280" height="108" preserveAspectRatio="xMidYMax slice" />
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, World Development Indicators, 1991–2024 · производные величины — расчёт</text>
+    <text x="1208" y="690" text-anchor="end">15</text>
+  </g>
+</svg>

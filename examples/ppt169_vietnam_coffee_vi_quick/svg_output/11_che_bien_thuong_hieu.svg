@@ -1,0 +1,55 @@
+<svg lang="vi-VN" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <defs>
+    <linearGradient id="beanFade" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#1C1610" stop-opacity="0.78" />
+      <stop offset="46%" stop-color="#1C1610" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#1C1610" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 4 · CHẾ BIẾN</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Giá trị nằm ở chế biến sâu và thương hiệu</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="754" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="processing-photo" data-pptx-bounds="760 176 520 464">
+    <image href="../images/green_beans_fit.jpg" x="760" y="176" width="520" height="464" preserveAspectRatio="xMidYMid slice" />
+    <rect x="760" y="480" width="520" height="160" fill="url(#beanFade)" />
+    <text x="788" y="596" font-size="20" fill="#F7F3EC">Cà phê nhân chưa rang — dạng<tspan x="788" dy="28">xuất khẩu chủ yếu của Việt Nam</tspan></text>
+  </g>
+
+  <g id="brand-lead" data-pptx-bounds="64 190 648 76">
+    <text x="64" y="214" font-size="28" fill="#3A3128">Giá trị tăng thêm đến từ hai hướng: chế<tspan x="64" dy="36">biến sâu và thị trường trong nước.</tspan></text>
+  </g>
+
+  <g id="brand-stat-1" data-pptx-bounds="64 282 648 80">
+    <text x="64" y="320" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B">1996</text>
+    <text x="64" y="354" font-size="18" fill="#6B5B4A">Trung Nguyên ra đời tại Buôn Ma Thuột</text>
+  </g>
+
+  <g id="brand-stat-2" data-pptx-bounds="64 392 648 80">
+    <text x="64" y="430" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B">80</text>
+    <text x="64" y="464" font-size="18" fill="#6B5B4A">quốc gia và vùng lãnh thổ có sản phẩm Trung Nguyên</text>
+  </g>
+
+  <g id="brand-stat-3" data-pptx-bounds="64 502 648 80">
+    <text x="64" y="540" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B">5,0 triệu bao</text>
+    <text x="64" y="574" font-size="18" fill="#6B5B4A">tiêu thụ nội địa dự báo niên vụ 2026/27, tăng từ 4,9 triệu bao</text>
+  </g>
+
+  <g id="brand-note" data-pptx-bounds="64 600 648 40">
+    <text x="64" y="622" font-size="18" fill="#6B5B4A">Số liệu Trung Nguyên là công bố trên báo chí năm 2022.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: Báo Thanh Niên (30/11/2022); USDA FAS VM2026-0016 (20/5/2026). Ảnh: Jimmy Ramírez qua Pexels.</text>
+    <text x="1216" y="692" text-anchor="end">11</text>
+  </g>
+</svg>

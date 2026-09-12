@@ -1,0 +1,3 @@
+出口地图在 2025 年发生了位置变化。墨西哥以 62.52 万辆首次超过俄罗斯,成为中国汽车出口第一大目的国;俄罗斯 58.27 万辆,阿联酋 57.2 万辆。前三名之间的差距不到 6 万辆,谁排第一并不稳定,更重要的是三个市场分属北美、独联体和中东三个完全不同的准入环境。第四到第六位是英国、巴西和沙特,本简报没有拿到可核对的确切数值,所以没有画进图里。提醒一下,这一页是乘联分会的整车出口统计,包含燃油车。
+
+The export map shifted in 2025. Mexico took first place for the first time with 625,200 units, ahead of Russia at 582,700 and the UAE at 572,000. The top three are within sixty thousand units of each other, so the ranking is not stable; what matters more is that the three sit in three completely different access regimes — North America, the CIS and the Middle East. Fourth to sixth are the UK, Brazil and Saudi Arabia, but we have no verified figures for them, so they are not charted. Note this page counts all vehicles, combustion included.

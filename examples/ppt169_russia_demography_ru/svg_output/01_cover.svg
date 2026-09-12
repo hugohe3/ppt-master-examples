@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FBFAF7" stop-opacity="0.96" />
+      <stop offset="46%" stop-color="#FBFAF7" stop-opacity="0.88" />
+      <stop offset="72%" stop-color="#FBFAF7" stop-opacity="0.32" />
+      <stop offset="100%" stop-color="#FBFAF7" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="coverRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1B2B3A" />
+      <stop offset="100%" stop-color="#B3121B" />
+    </linearGradient>
+  </defs>
+
+  <image id="cover-field" data-pptx-role="background" href="../images/01_cover_field.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#coverScrim)" />
+
+  <g id="cover-title" data-pptx-bounds="88 118 700 292">
+    <text x="88" y="190" font-size="18" letter-spacing="2" fill="#5B6670">ДЕМОГРАФИЧЕСКИЙ ОБЗОР ПО ДАННЫМ ВСЕМИРНОГО БАНКА</text>
+    <text x="88" y="286" font-family="Times New Roman, serif" font-size="72" font-weight="bold" fill="#1B2B3A">Россия в цифрах</text>
+    <rect x="88" y="326" width="196" height="4" fill="url(#coverRule)" />
+    <text x="88" y="382" font-family="Times New Roman, serif" font-size="32" fill="#232A31">30 лет демографии, 1991–2024</text>
+  </g>
+
+  <g id="cover-hero-delta" data-pptx-bounds="88 444 700 102">
+    <text x="88" y="500" font-family="Times New Roman, serif" font-size="64" font-weight="bold" fill="#B3121B">−4,72 млн</text>
+    <text x="88" y="534" font-size="18" fill="#5B6670">человек — изменение численности населения с 1991 по 2024 год</text>
+  </g>
+
+  <g id="cover-anchors" data-pptx-bounds="88 572 620 64" fill="#1B2B3A" font-family="Consolas, monospace" font-size="22">
+    <text x="88" y="596">148 394 216 <tspan font-family="Arial, sans-serif" font-size="18" fill="#5B6670">человек в 1991 году</tspan></text>
+    <text x="88" y="628">143 669 648 <tspan font-family="Arial, sans-serif" font-size="18" fill="#5B6670">человек в 2024 году</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24">
+    <text x="72" y="690" font-size="16" fill="#5B6670">Всемирный банк, SP.POP.TOTL, 1991 и 2024 · набор обновлён 13.07.2026</text>
+  </g>
+</svg>

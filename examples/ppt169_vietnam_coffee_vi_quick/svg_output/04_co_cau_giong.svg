@@ -1,0 +1,107 @@
+<svg lang="vi-VN" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 1 · CƠ CẤU GIỐNG</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Robusta chiếm gần như toàn bộ sản lượng</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="64" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="variety-mix" data-pptx-bounds="140 196 620 392" data-pptx-replace-with="chart" data-pptx-fallback-sha256="db404de2fd445b70cf851fa19e81027b9582e8d0c056cb6961fea3c5f0810262">
+    <metadata type="application/json">
+      {
+        "x": 140,
+        "y": 196,
+        "width": 620,
+        "height": 392,
+        "name": "variety-mix",
+        "type": "column",
+        "grouping": "stacked",
+        "gap_width": 150,
+        "categories": ["2024/25", "2025/26", "2026/27"],
+        "series": [
+          {"name": "Robusta", "values": [28, 30.5, 31.4]},
+          {"name": "Arabica", "values": [1, 1.2, 1.1]}
+        ],
+        "axes": {
+          "value": {"minimum": 0, "maximum": 35, "major_unit": 10, "major_gridlines": true, "number_format": "0"}
+        },
+        "plot_area": {"x": 190, "y": 210, "width": 530, "height": 330},
+        "style": {
+          "colors": ["#7A3B22", "#C08A2E"],
+          "font_family": "Segoe UI",
+          "axis_font_size": 20,
+          "text_color": "#6B5B4A",
+          "axis_color": "#B8A88F",
+          "grid_color": "#E4DACB",
+          "chart_area_fill": "none",
+          "plot_area_fill": "none"
+        }
+      }
+    </metadata>
+    <g id="variety-mix-chartArea">
+      <g id="variety-mix-grid" stroke="#E4DACB" stroke-width="1">
+        <line x1="190" y1="445.71" x2="720" y2="445.71" />
+        <line x1="190" y1="351.43" x2="720" y2="351.43" />
+        <line x1="190" y1="257.14" x2="720" y2="257.14" />
+      </g>
+      <g id="variety-mix-axis" stroke="#B8A88F" stroke-width="1.5">
+        <line x1="190" y1="210" x2="190" y2="540" />
+        <line x1="190" y1="540" x2="720" y2="540" />
+      </g>
+      <g id="variety-mix-value-labels" font-size="20" fill="#6B5B4A" text-anchor="end">
+        <text x="178" y="546">0</text>
+        <text x="178" y="451.71">10</text>
+        <text x="178" y="357.43">20</text>
+        <text x="178" y="263.14">30</text>
+      </g>
+      <g id="variety-mix-category-labels" font-size="20" fill="#6B5B4A" text-anchor="middle">
+        <text x="278.33" y="570">2024/25</text>
+        <text x="455" y="570">2025/26</text>
+        <text x="631.67" y="570">2026/27</text>
+      </g>
+      <!-- chart-plot-area: object=variety-mix | 190,210,720,540 -->
+      <g id="variety-mix-robusta" fill="#7A3B22">
+        <rect x="243" y="276" width="70.67" height="264" />
+        <rect x="419.67" y="252.43" width="70.67" height="287.57" />
+        <rect x="596.33" y="243.94" width="70.67" height="296.06" />
+      </g>
+      <g id="variety-mix-arabica" fill="#C08A2E">
+        <rect x="243" y="266.57" width="70.67" height="9.43" />
+        <rect x="419.67" y="241.12" width="70.67" height="11.31" />
+        <rect x="596.33" y="233.57" width="70.67" height="10.37" />
+      </g>
+    </g>
+  </g>
+
+  <g id="variety-legend" data-pptx-bounds="140 604 620 36">
+    <line x1="140" y1="620" x2="176" y2="620" stroke="#7A3B22" stroke-width="8" />
+    <text x="186" y="627" font-size="20" fill="#3A3128">Robusta</text>
+    <line x1="300" y1="620" x2="336" y2="620" stroke="#C08A2E" stroke-width="8" />
+    <text x="346" y="627" font-size="20" fill="#3A3128">Arabica</text>
+    <text x="440" y="627" font-size="20" fill="#6B5B4A">Đơn vị: triệu bao 60 kg (GBE)</text>
+  </g>
+
+  <g id="share-hero" data-pptx-bounds="776 196 440 176">
+    <text x="776" y="218" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">TỶ TRỌNG ROBUSTA</text>
+    <text x="776" y="300" font-family="Cambria" font-size="72" font-weight="bold" fill="#7A3B22">96%</text>
+    <text x="776" y="336" font-size="18" fill="#6B5B4A">sản lượng cà phê Việt Nam là<tspan x="776" dy="26">Robusta (tổng hợp từ số liệu USDA)</tspan></text>
+  </g>
+
+  <g id="share-note" data-pptx-bounds="776 396 440 144">
+    <text x="776" y="420" font-size="24" fill="#3A3128">Năng suất Robusta tăng từ <tspan font-weight="bold" fill="#9C2B1B">2,73</tspan><tspan x="776" dy="36">lên <tspan font-weight="bold" fill="#9C2B1B">2,93 tấn/ha</tspan> giữa hai niên vụ,</tspan><tspan x="776" dy="36">trong khi Arabica giữ nguyên</tspan><tspan x="776" dy="36">quanh mức 1,0–1,2 triệu bao.</tspan></text>
+  </g>
+
+  <g id="share-caveat" data-pptx-bounds="776 570 440 30">
+    <text x="776" y="588" font-size="18" fill="#6B5B4A">2026/27 là số dự báo của USDA.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: USDA FAS, Coffee Annual Vietnam VM2026-0016 (20/5/2026), bảng sản lượng Robusta và Arabica.</text>
+    <text x="1216" y="692" text-anchor="end">04</text>
+  </g>
+</svg>

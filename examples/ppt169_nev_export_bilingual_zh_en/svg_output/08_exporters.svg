@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+
+  <g id="header" data-pptx-bounds="72 58 860 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">量第一与增速第一不是同一家</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">The Largest Is Not the Fastest</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">二 市场与企业</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 2 · Markets &amp; Players</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 176 1136 62">
+    <text x="72" y="204" font-size="22" fill="#1B2430">奇瑞以 134.4 万辆保持出口第一,比亚迪以 <tspan font-weight="bold" fill="#D4541E">+145%</tspan> 的增速首破百万辆。单位:万辆。</text>
+    <text x="72" y="232" font-family="Cambria" font-size="18" fill="#5C6673">Chery stays largest at 1.344m units; BYD grew +145% to pass one million. Unit: 10k vehicles.</text>
+  </g>
+
+  <g id="exporter-metrics" data-pptx-replace-with="table" data-pptx-bounds="72 250 1136 336" data-pptx-fallback-sha256="43809c3fb2c4b664074f91e0d295e8c807e92ad17e0cb33fc80394f96a469e0b">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 72, "y": 250, "width": 1136, "height": 336,
+  "name": "exporter-metrics",
+  "column_widths": [280, 240, 200, 416],
+  "row_heights": [56, 56, 56, 56, 56, 56],
+  "defaults": {"run": {"color": "#1B2430"}, "cell": {"valign": "middle", "font_size": 20, "align": "l",
+                        "borders": {"bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}}},
+  "columns": [
+    {"text": "企业 Company", "fill": "#0E3A66", "color": "#FFFFFF", "bold": true},
+    {"text": "2025 出口 Exports", "fill": "#0E3A66", "color": "#FFFFFF", "bold": true, "align": "r"},
+    {"text": "同比 YoY", "fill": "#0E3A66", "color": "#FFFFFF", "bold": true, "align": "r"},
+    {"text": "集团总销量 Group sales", "fill": "#0E3A66", "color": "#FFFFFF", "bold": true, "align": "r"}
+  ],
+  "rows": [
+    [{"text": "奇瑞 Chery"}, {"text": "134.4", "align": "r"}, {"text": "+17.4%", "align": "r", "color": "#2E7D32"}, {"text": "280.6", "align": "r"}],
+    [{"text": "上汽 SAIC"}, {"text": "107.1", "align": "r"}, {"text": "—", "align": "r"}, {"text": "450.7", "align": "r"}],
+    [{"text": "比亚迪 BYD"}, {"text": "104.96", "align": "r"}, {"text": "+145%", "align": "r", "color": "#D4541E"}, {"text": "460.2", "align": "r"}],
+    [{"text": "长安 Changan"}, {"text": "63.7", "align": "r"}, {"text": "+18.9%", "align": "r", "color": "#2E7D32"}, {"text": "291.3", "align": "r"}],
+    [{"text": "长城 GWM"}, {"text": "50.6", "align": "r"}, {"text": "+11.7%", "align": "r", "color": "#2E7D32"}, {"text": "132.4", "align": "r"}]
+  ]
+}
+    </metadata>
+    <rect x="72" y="250" width="1136" height="56" fill="#0E3A66"/>
+    <text x="88" y="286" font-size="20" font-weight="bold" fill="#FFFFFF">企业 Company</text>
+    <text x="576" y="286" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">2025 出口 Exports</text>
+    <text x="776" y="286" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">同比 YoY</text>
+    <text x="1192" y="286" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="end">集团总销量 Group sales</text>
+
+    <text x="88" y="342" font-size="20" fill="#1B2430">奇瑞 Chery</text>
+    <text x="576" y="342" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">134.4</text>
+    <text x="776" y="342" font-family="Cambria" font-size="20" fill="#2E7D32" text-anchor="end">+17.4%</text>
+    <text x="1192" y="342" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">280.6</text>
+    <line x1="72" y1="362" x2="1208" y2="362" stroke="#D8DEE6" stroke-width="1"/>
+
+    <text x="88" y="398" font-size="20" fill="#1B2430">上汽 SAIC</text>
+    <text x="576" y="398" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">107.1</text>
+    <text x="776" y="398" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">—</text>
+    <text x="1192" y="398" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">450.7</text>
+    <line x1="72" y1="418" x2="1208" y2="418" stroke="#D8DEE6" stroke-width="1"/>
+
+    <text x="88" y="454" font-size="20" fill="#1B2430">比亚迪 BYD</text>
+    <text x="576" y="454" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">104.96</text>
+    <text x="776" y="454" font-family="Cambria" font-size="20" fill="#D4541E" text-anchor="end">+145%</text>
+    <text x="1192" y="454" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">460.2</text>
+    <line x1="72" y1="474" x2="1208" y2="474" stroke="#D8DEE6" stroke-width="1"/>
+
+    <text x="88" y="510" font-size="20" fill="#1B2430">长安 Changan</text>
+    <text x="576" y="510" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">63.7</text>
+    <text x="776" y="510" font-family="Cambria" font-size="20" fill="#2E7D32" text-anchor="end">+18.9%</text>
+    <text x="1192" y="510" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">291.3</text>
+    <line x1="72" y1="530" x2="1208" y2="530" stroke="#D8DEE6" stroke-width="1"/>
+
+    <text x="88" y="566" font-size="20" fill="#1B2430">长城 GWM</text>
+    <text x="576" y="566" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">50.6</text>
+    <text x="776" y="566" font-family="Cambria" font-size="20" fill="#2E7D32" text-anchor="end">+11.7%</text>
+    <text x="1192" y="566" font-family="Cambria" font-size="20" fill="#1B2430" text-anchor="end">132.4</text>
+    <line x1="72" y1="586" x2="1208" y2="586" stroke="#D8DEE6" stroke-width="1"/>
+  </g>
+
+  <g id="table-note" data-pptx-bounds="72 598 1136 58">
+    <text x="72" y="622" font-size="17" fill="#5C6673">补充:上汽 MG 品牌欧洲销量 30 万辆以上(同比接近 +30%);比亚迪出口约占其总销量 23%;上汽通用五菱出口 26.7 万辆,同比 +128.6%。</text>
+    <text x="72" y="648" font-family="Cambria" font-size="18" fill="#5C6673">Also: MG sold 300k+ in Europe (≈+30%); exports are ≈23% of BYD sales; SGMW exported 267k (+128.6%).</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 660 1136 28">
+    <line x1="72" y1="662" x2="1208" y2="662" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="684" font-size="14" fill="#5C6673">来源:各企业公布数据,2026 年 1 月行业盘点 / Source: company disclosures, industry review, Jan 2026</text>
+    <text x="1208" y="684" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">08 / 15</text>
+  </g>
+</svg>

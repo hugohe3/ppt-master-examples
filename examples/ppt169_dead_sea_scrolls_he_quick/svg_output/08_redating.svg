@@ -1,0 +1,55 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <rect id="p08-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <g id="redating-kicker" data-pptx-bounds="930 74 286 27">
+    <text x="1216" y="92" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק שביעי · תיארוך מחדש</text>
+  </g>
+  <g id="redating-title" data-pptx-bounds="574 104 642 76">
+    <text x="1216" y="142" font-family="David" font-size="40" fill="#1F1B16">המודל שהזיז את התאריכים אחורה</text>
+    <line x1="574" y1="176" x2="1216" y2="176" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="enoch-fig-samples" data-pptx-bounds="965 222 251 90">
+    <text x="1216" y="270" font-family="David" font-size="56" fill="#9A5B2B">24</text>
+    <text x="1216" y="304" font-size="18" fill="#6B6156">דגימות שתוארכו בפחמן</text>
+  </g>
+  <g id="enoch-fig-predicted" data-pptx-bounds="690 222 251 90">
+    <text x="941" y="270" font-family="David" font-size="56" fill="#9A5B2B">135</text>
+    <text x="941" y="304" font-size="18" fill="#6B6156">כתבי יד שנחזו במודל</text>
+  </g>
+  <g id="enoch-fig-accuracy" data-pptx-bounds="415 222 251 90">
+    <text x="666" y="270" font-family="David" font-size="56" fill="#9A5B2B">85%</text>
+    <text x="666" y="304" font-size="18" fill="#6B6156">דיוק מול דגימות ידועות</text>
+  </g>
+  <g id="enoch-fig-agreement" data-pptx-bounds="140 222 251 90">
+    <text x="391" y="270" font-family="David" font-size="56" fill="#9A5B2B">79%</text>
+    <text x="391" y="304" font-size="18" fill="#6B6156">התאמה לפלאוגרפיה</text>
+  </g>
+  <g id="redating-claim" data-pptx-bounds="238 384 624 104">
+<g id="p08-claim-card" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="240 386 620 100" fill="#EDE3D2" stroke="#C98A46" stroke-width="1">
+<path d="M 240 386 L 843.33 386 L 860 402.67 L 860 486 L 240 486 Z"/>
+</g>
+    <text x="828" y="424" font-size="24" fill="#332E27">התאריכים שהמודל מציע קדומים<tspan x="828" dy="37">ב-<tspan font-weight="bold" fill="#9A5B2B">50 עד 150 שנה</tspan> מן ההערכה המקובלת</tspan></text>
+  </g>
+  <g id="date-marker" data-pptx-bounds="960 430 210 58">
+    <text x="1164" y="448" font-size="18" fill="#1F1B16">קהלת: 300–240 לפנה"ס</text>
+    <rect x="990" y="458" width="150" height="28" fill="#9A5B2B" fill-opacity="0.85"/>
+  </g>
+  <g id="date-axis" data-pptx-bounds="120 492 1045 58">
+    <line x1="140" y1="500" x2="1140" y2="500" stroke="#8C8172" stroke-width="2"/>
+    <line x1="1140" y1="494" x2="1140" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <line x1="890" y1="494" x2="890" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <line x1="640" y1="494" x2="640" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <line x1="390" y1="494" x2="390" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <line x1="140" y1="494" x2="140" y2="506" stroke="#8C8172" stroke-width="2"/>
+    <text x="1140" y="540" text-anchor="middle" font-size="18" fill="#6B6156">300</text>
+    <text x="890" y="540" text-anchor="middle" font-size="18" fill="#6B6156">200</text>
+    <text x="640" y="540" text-anchor="middle" font-size="18" fill="#6B6156">100</text>
+    <text x="390" y="540" text-anchor="middle" font-size="18" fill="#6B6156">תחילת הספירה</text>
+    <text x="140" y="540" text-anchor="middle" font-size="18" fill="#6B6156">100</text>
+  </g>
+  <g id="redating-note" data-pptx-bounds="620 572 596 28">
+    <text x="1216" y="590" font-size="18" fill="#332E27">אותו ציר, אותה מגילה — התאריך שהמודל מציע קדום יותר</text>
+  </g>
+  <g id="redating-source" data-pptx-bounds="712 632 504 28">
+    <text x="1216" y="650" font-size="18" fill="#6B6156">מקור: מחקר תיארוך שפורסם ב-2025 · כתב העת פלוס ואן</text>
+  </g>
+</svg>

@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 60 1136 122">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Население: −4,7 млн за 33 года</text>
+    <text font-size="28" fill="#232A31" x="72" y="136">Непрерывное падение 1994–2008, восстановление до 2019,</text><text font-size="28" fill="#232A31" x="72" y="170">новая убыль с 2021 года</text></g>
+
+  <g id="population-curve" data-pptx-replace-with="chart" data-pptx-bounds="72 196 842 400" data-pptx-fallback-sha256="59eaaf9b4fbed5f3fa155ba157e403723a580aab20506dc6ed80f9c81e37dd20">
+    <metadata type="application/json">
+{
+  "name": "population-curve",
+  "x": 72, "y": 196, "width": 842, "height": 400,
+  "plot_area": {"x": 150, "y": 220, "width": 740, "height": 340},
+  "type": "line",
+  "grouping": "standard",
+  "line_style": "line",
+  "marker_size": 10,
+  "categories": ["1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"],
+  "series": [
+    {
+      "name": "Численность населения, млн человек",
+      "values": [148.39,148.54,148.46,148.41,148.38,148.16,147.92,147.67,147.21,146.60,145.98,145.31,144.65,144.07,143.52,143.05,142.81,142.74,142.79,142.85,143.02,143.38,143.81,144.24,144.64,145.02,145.29,145.40,145.45,145.25,144.75,144.24,143.83,143.67],
+      "line_width": 3,
+      "point_colors": ["#1B2B3A",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"#1B2B3A",null,null,null,null,null,null,null,null,null,null,"#1B2B3A",null,null,null,null,"#1B2B3A"]
+    }
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none"},
+    "value": {"kind": "value", "position": "left", "visible": true, "label_position": "next_to", "minimum": 142, "maximum": 149, "major_unit": 1, "major_gridlines": true, "tick_marks": "none", "number_format": "0", "cross_between": "mid_category"}
+  },
+  "style": {
+    "colors": ["#2E6F8E"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#5B6670",
+    "axis_color": "#5B6670",
+    "grid_color": "#E6E1D7",
+    "font_family": "Arial",
+    "axis_font_size": 18
+  },
+  "notes": [
+    {"text": "148,39", "width": 90, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "l"},
+    {"text": "142,74", "width": 90, "font_size": 20, "color": "#B3121B", "bold": true, "align": "ctr"},
+    {"text": "145,45", "width": 90, "font_size": 20, "color": "#2E6F8E", "bold": true, "align": "ctr"},
+    {"text": "143,67", "width": 90, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "r"},
+    {"text": "млн человек", "width": 130, "font_size": 18, "color": "#5B6670", "align": "l"}
+  ]
+}
+    </metadata>
+
+    <g id="population-curve-chartArea">
+      <g id="population-curve-grid" stroke="#E6E1D7" stroke-width="1">
+        <line x1="150" y1="511.4" x2="890" y2="511.4" />
+        <line x1="150" y1="462.9" x2="890" y2="462.9" />
+        <line x1="150" y1="414.3" x2="890" y2="414.3" />
+        <line x1="150" y1="365.7" x2="890" y2="365.7" />
+        <line x1="150" y1="317.1" x2="890" y2="317.1" />
+        <line x1="150" y1="268.6" x2="890" y2="268.6" />
+        <line x1="150" y1="220" x2="890" y2="220" />
+      </g>
+      <g id="population-curve-axis" stroke="#5B6670" stroke-width="1.5">
+        <line x1="150" y1="220" x2="150" y2="560" />
+        <line x1="150" y1="560" x2="890" y2="560" />
+      </g>
+      <g id="population-curve-value-labels" font-size="18" fill="#5B6670" text-anchor="end">
+        <text x="138" y="566">142</text>
+        <text x="138" y="517.4">143</text>
+        <text x="138" y="468.9">144</text>
+        <text x="138" y="420.3">145</text>
+        <text x="138" y="371.7">146</text>
+        <text x="138" y="323.1">147</text>
+        <text x="138" y="274.6">148</text>
+        <text x="138" y="226">149</text>
+      </g>
+      <g id="population-curve-category-labels" font-size="18" fill="#5B6670" text-anchor="middle">
+        <text x="150" y="586">1991</text>
+        <text x="239.7" y="586">1995</text>
+        <text x="329.4" y="586">1999</text>
+        <text x="419" y="586">2003</text>
+        <text x="508.7" y="586">2007</text>
+        <text x="598.4" y="586">2011</text>
+        <text x="688.1" y="586">2015</text>
+        <text x="777.8" y="586">2019</text>
+        <text x="889.9" y="586">2024</text>
+      </g>
+      
+      <g id="population-curve-series">
+        <polyline points="150,249.7 172.4,242.4 194.8,246.2 217.3,248.7 239.7,250.1 262.1,260.8 284.5,272.5 306.9,284.6 329.4,307 351.8,336.6 374.2,366.7 396.6,399.2 419,431.3 441.5,459.5 463.9,486.2 486.3,509 508.7,520.7 531.1,524.1 553.6,521.6 576,518.7 598.4,510.5 620.8,493 643.2,472.1 665.7,451.2 688.1,431.8 710.5,413.3 732.9,400.2 755.3,394.9 777.8,392.4 800.2,402.1 822.6,426.4 845,451.2 867.4,471.1 889.9,478.9" fill="none" stroke="#2E6F8E" stroke-width="3" stroke-linejoin="round" />
+        <g fill="#1B2B3A">
+          <circle cx="150" cy="249.7" r="5" />
+          <circle cx="531.1" cy="524.1" r="5" />
+          <circle cx="777.8" cy="392.4" r="5" />
+          <circle cx="889.9" cy="478.9" r="5" />
+        </g>
+      </g>
+      <g id="population-curve-point-notes" font-size="20" font-weight="bold">
+        <text x="162" y="240" fill="#1B2B3A">148,39</text>
+        <text x="531.1" y="550" text-anchor="middle" fill="#B3121B">142,74</text>
+        <text x="777.8" y="378" text-anchor="middle" fill="#2E6F8E">145,45</text>
+        <text x="878" y="464" text-anchor="end" fill="#1B2B3A">143,67</text>
+      </g>
+      <text x="150" y="212" font-size="18" font-weight="normal" fill="#5B6670">млн человек</text>
+    </g>
+  </g>
+
+  <g id="pop-minimum-note" data-pptx-bounds="940 208 268 184">
+    <text x="940" y="226" font-size="18" letter-spacing="2" fill="#5B6670">МИНИМУМ ПЕРИОДА</text>
+    <text x="940" y="266" font-family="Times New Roman, serif" font-size="32" font-weight="bold" fill="#B3121B">142,74 млн</text>
+    <text x="940" y="294" font-size="18" fill="#232A31">человек, 2008 год</text>
+    <line x1="940" y1="314" x2="1208" y2="314" stroke="#D5CFC4" stroke-width="1" />
+    <text x="940" y="344" font-size="18" letter-spacing="2" fill="#5B6670">ПАДЕНИЕ 1994–2008</text>
+    <text x="940" y="376" font-family="Consolas, monospace" font-size="22" fill="#1B2B3A">−5,65 млн</text>
+  </g>
+
+  <g id="period-marker" data-pptx-bounds="441 598 180 58">
+    <g id="period-marker-body" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="441 604 180 52" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val -60000" fill="#1B2B3A" stroke="none">
+<path d="M 441 604 L 471 604 L 531 598.8 L 516 604 L 621 604 L 621 612.67 L 621 612.67 L 621 625.67 L 621 656 L 516 656 L 471 656 L 471 656 L 441 656 L 441 625.67 L 441 612.67 L 441 612.67 Z" />
+    </g>
+    <text x="531" y="628" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="bold" fill="#FBFAF7">2008</text>
+    <text x="531" y="650" text-anchor="middle" font-size="18" fill="#F0EDE6">дно ряда</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SP.POP.TOTL, 1991–2024 · изменение за период — расчёт</text>
+    <text x="1208" y="690" text-anchor="end">03</text>
+  </g>
+</svg>

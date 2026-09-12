@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <rect id="closing-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="330" fill="#F2F4F7" />
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1" />
+
+  <g id="header" data-pptx-bounds="72 58 900 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">下一阶段比什么</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">What the Next Stage Is About</text>
+  </g>
+
+  <g id="takeaway" data-pptx-bounds="72 176 1136 138">
+    <text x="72" y="222" font-family="SimSun" font-size="28" fill="#1B2430">2025 年出口翻倍至 261.5 万辆(中汽协口径),</text>
+    <text x="72" y="262" font-family="SimSun" font-size="28" fill="#1B2430">下一阶段比的是<tspan font-weight="bold" fill="#D4541E">本地产能、网络与规则适配</tspan>。</text>
+    <text x="72" y="304" font-family="Cambria" font-size="24" fill="#5C6673">Exports doubled in 2025 — next: local capacity, networks and rules.</text>
+  </g>
+
+  <g id="agenda-calibres" data-pptx-bounds="72 380 368 240">
+    <line x1="72" y1="384" x2="72" y2="470" stroke="#0E3A66" stroke-width="3" />
+    <text x="94" y="414" font-family="Cambria" font-size="24" fill="#2E7D8F">01</text>
+    <text x="94" y="452" font-size="22" font-weight="bold" fill="#0E3A66">口径对齐</text>
+    <text x="94" y="478" font-family="Cambria" font-size="18" fill="#2E7D8F">Align the numbers</text>
+    <text font-size="22" fill="#1B2430" x="94" y="522">引用数字时标注机构</text><text font-size="22" fill="#1B2430" x="94" y="552">与年份</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="94" y="584">Always name the institution</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="94" y="608">and the year</text></g>
+
+  <g id="agenda-localization" data-pptx-bounds="464 380 368 240">
+    <line x1="464" y1="384" x2="464" y2="470" stroke="#0E3A66" stroke-width="3" />
+    <text x="486" y="414" font-family="Cambria" font-size="24" fill="#2E7D8F">02</text>
+    <text x="486" y="452" font-size="22" font-weight="bold" fill="#0E3A66">本地化配套</text>
+    <text x="486" y="478" font-family="Cambria" font-size="18" fill="#2E7D8F">Match the plants</text>
+    <text font-size="22" fill="#1B2430" x="486" y="522">按基地时间表对齐产能、</text><text font-size="22" fill="#1B2430" x="486" y="552">零部件与售后计划</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="486" y="584">Align capacity, parts and</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="486" y="608">service to plant timetables</text></g>
+
+  <g id="agenda-rules" data-pptx-bounds="856 380 352 240">
+    <line x1="856" y1="384" x2="856" y2="470" stroke="#D4541E" stroke-width="3" />
+    <text x="878" y="414" font-family="Cambria" font-size="24" fill="#2E7D8F">03</text>
+    <text x="878" y="452" font-size="22" font-weight="bold" fill="#0E3A66">规则跟踪</text>
+    <text x="878" y="478" font-family="Cambria" font-size="18" fill="#2E7D8F">Track the rules</text>
+    <text font-size="22" fill="#1B2430" x="878" y="522">共同跟踪 MIP 生效进展</text><text font-size="22" fill="#1B2430" x="878" y="552">与各市场准入变化</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="878" y="584">Watch the MIP timetable and</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="878" y="608">market-access changes</text></g>
+
+  <g id="source-bar" data-pptx-bounds="72 656 1136 32">
+    <line x1="72" y1="660" x2="1208" y2="660" stroke="#D8DEE6" stroke-width="1" />
+    <text x="72" y="682" font-size="14" fill="#5C6673">全部数据引自公开发布来源,口径与年份见各页页脚 / All figures from public sources; calibres and years are on each page footer</text>
+    <text x="1208" y="682" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">15 / 15</text>
+  </g>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="vi-VN" viewBox="0 0 1280 720" data-pptx-page-role="toc" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">LỘ TRÌNH BÀI GIẢNG</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Bài giảng đi qua năm chặng</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12" stroke-width="2">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" />
+    <line x1="64" y1="130" x2="64" y2="138" stroke="#B8A88F" />
+    <line x1="294" y1="130" x2="294" y2="138" stroke="#B8A88F" />
+    <line x1="524" y1="130" x2="524" y2="138" stroke="#B8A88F" />
+    <line x1="754" y1="130" x2="754" y2="138" stroke="#B8A88F" />
+    <line x1="984" y1="130" x2="984" y2="138" stroke="#B8A88F" />
+    <line x1="1216" y1="130" x2="1216" y2="138" stroke="#B8A88F" />
+  </g>
+
+  <g id="stage-1" data-pptx-bounds="64 190 230 160">
+    <g id="p02-stage-1-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 196 230 72" fill="#9C2B1B" stroke="none">
+<path d="M 64 196 L 258 196 L 294 232 L 258 268 L 64 268 L 100 232 Z" />
+</g>
+    <text x="197" y="247" font-family="Cambria" font-size="44" font-weight="bold" fill="#F7F3EC" text-anchor="middle">1</text>
+    <text x="197" y="310" font-size="28" font-weight="600" fill="#221C15" text-anchor="middle">Gốc rễ</text>
+    <text x="197" y="340" font-size="20" fill="#6B5B4A" text-anchor="middle">1857 và 1914</text>
+  </g>
+
+  <g id="stage-2" data-pptx-bounds="294 190 230 160">
+    <g id="p02-stage-2-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="294 196 230 72" fill="#EFE7DA" stroke="#D9CDBA" stroke-width="1.5">
+<path d="M 294 196 L 488 196 L 524 232 L 488 268 L 294 268 L 330 232 Z" />
+</g>
+    <text x="427" y="247" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B" text-anchor="middle">2</text>
+    <text x="427" y="310" font-size="28" font-weight="600" fill="#221C15" text-anchor="middle">Vùng trồng</text>
+    <text x="427" y="340" font-size="20" fill="#6B5B4A" text-anchor="middle">vùng Tây Nguyên</text>
+  </g>
+
+  <g id="stage-3" data-pptx-bounds="524 190 230 160">
+    <g id="p02-stage-3-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="524 196 230 72" fill="#EFE7DA" stroke="#D9CDBA" stroke-width="1.5">
+<path d="M 524 196 L 718 196 L 754 232 L 718 268 L 524 268 L 560 232 Z" />
+</g>
+    <text x="657" y="247" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B" text-anchor="middle">3</text>
+    <text x="657" y="310" font-size="28" font-weight="600" fill="#221C15" text-anchor="middle">Dòng chảy</text>
+    <text x="657" y="340" font-size="20" fill="#6B5B4A" text-anchor="middle">xuất khẩu và giá</text>
+  </g>
+
+  <g id="stage-4" data-pptx-bounds="754 190 230 160">
+    <g id="p02-stage-4-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="754 196 230 72" fill="#EFE7DA" stroke="#D9CDBA" stroke-width="1.5">
+<path d="M 754 196 L 948 196 L 984 232 L 948 268 L 754 268 L 790 232 Z" />
+</g>
+    <text x="887" y="247" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B" text-anchor="middle">4</text>
+    <text x="887" y="310" font-size="28" font-weight="600" fill="#221C15" text-anchor="middle">Giá trị</text>
+    <text x="887" y="340" font-size="20" fill="#6B5B4A" text-anchor="middle">chế biến sâu</text>
+  </g>
+
+  <g id="stage-5" data-pptx-bounds="984 190 232 160">
+    <g id="p02-stage-5-mark" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="984 196 230 72" fill="#EFE7DA" stroke="#D9CDBA" stroke-width="1.5">
+<path d="M 984 196 L 1178 196 L 1214 232 L 1178 268 L 984 268 L 1020 232 Z" />
+</g>
+    <text x="1117" y="247" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B" text-anchor="middle">5</text>
+    <text x="1117" y="310" font-size="28" font-weight="600" fill="#221C15" text-anchor="middle">Thách thức</text>
+    <text x="1117" y="340" font-size="20" fill="#6B5B4A" text-anchor="middle">khí hậu và EUDR</text>
+  </g>
+
+  <g id="journey-lead" data-pptx-bounds="64 396 1088 106">
+    <text font-size="24" fill="#3A3128" x="64" y="420">Mỗi chặng trả lời một câu hỏi: cây cà phê đến từ đâu, trồng ở đâu, đi tới thị</text><text font-size="24" fill="#3A3128" x="64" y="456">trường nào, ai giữ phần giá trị, và điều gì đang đe doạ chuỗi cung ứng.</text><text x="64" y="492" font-size="18" fill="#6B5B4A">Khung năm chặng là cách sắp xếp của bài giảng (tổng hợp), không phải cấu trúc của nguồn.</text>
+  </g>
+
+  <g id="journey-takeaway" data-pptx-bounds="64 528 1152 104">
+    <g id="p02-takeaway-band" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="64 528 1152 104" fill="#EFE7DA" stroke="none">
+<path d="M 64 528 L 1198.67 528 L 1216 545.33 L 1216 632 L 1216 632 L 81.33 632 L 64 614.67 L 64 528 Z" />
+</g>
+    <text x="96" y="562" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">THÔNG ĐIỆP CHÍNH CỦA BÀI GIẢNG</text>
+    <text x="96" y="604" font-size="28" fill="#221C15">Mạnh về sản lượng Robusta, nhưng phần lớn giá trị vẫn nằm ngoài biên giới.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Khung trình bày do bài giảng tổng hợp; dữ liệu dẫn nguồn ở từng trang.</text>
+    <text x="1216" y="692" text-anchor="end">02</text>
+  </g>
+</svg>

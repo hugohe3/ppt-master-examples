@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="vi-VN" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 3 · KỶ LỤC GIÁ</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Kỷ lục kim ngạch của niên vụ 2024–2025</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="524" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="record-callout" data-pptx-bounds="64 176 1152 200">
+    <g id="p08-record-band" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 176 1152 200" fill="#EFE7DA" stroke="none">
+<path d="M 64 176 L 1182.67 176 L 1216 209.33 L 1216 376 L 64 376 Z" />
+</g>
+    <text x="96" y="216" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">NIÊN VỤ 2024–2025 · 10/2024 – 9/2025</text>
+    <text x="96" y="310" font-family="Cambria" font-size="72" font-weight="bold" fill="#9C2B1B">8,4 tỷ USD</text>
+    <text x="96" y="346" font-size="18" fill="#6B5B4A">kim ngạch xuất khẩu cả niên vụ</text>
+    <text x="700" y="310" font-family="Cambria" font-size="44" font-weight="bold" fill="#2F6B4F">+55,5%</text>
+    <text x="700" y="346" font-size="18" fill="#6B5B4A">giá trị so với niên vụ trước</text>
+  </g>
+
+  <g id="stat-volume" data-pptx-bounds="64 400 568 92">
+    <text x="64" y="444" font-family="Cambria" font-size="44" font-weight="bold" fill="#221C15">1,5 triệu tấn</text>
+    <text x="64" y="478" font-size="18" fill="#6B5B4A">khối lượng xuất khẩu, tăng 1,8% so với niên vụ trước</text>
+  </g>
+
+  <g id="stat-price" data-pptx-bounds="648 400 568 92">
+    <text x="648" y="444" font-family="Cambria" font-size="44" font-weight="bold" fill="#221C15">5.610 USD/tấn</text>
+    <text x="648" y="478" font-size="18" fill="#6B5B4A">giá xuất khẩu bình quân, tăng 52,7%</text>
+  </g>
+
+  <g id="stat-output" data-pptx-bounds="64 520 568 92">
+    <text x="64" y="564" font-family="Cambria" font-size="44" font-weight="bold" fill="#221C15">29,5 triệu bao</text>
+    <text x="64" y="598" font-size="18" fill="#6B5B4A">sản lượng niên vụ theo VICOFA, tăng hơn 9%</text>
+  </g>
+
+  <g id="stat-conflict" data-pptx-bounds="648 528 568 82">
+    <text font-size="18" fill="#6B5B4A" x="648" y="548">Lưu ý nguồn: cùng thông cáo VICOFA ngày 24/10/2025,</text><text font-size="18" fill="#6B5B4A" x="648" y="574">VietnamNet ghi mức tăng 1,8% về lượng còn VietnamPlus</text><text font-size="18" fill="#6B5B4A" x="648" y="600">ghi tăng gần 6%. Bài giảng dùng 1,8% vì hai nguồn trùng.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: VICOFA công bố 24/10/2025, dẫn qua VietnamNet và VietnamPlus; USDA FAS ước 29,0 triệu bao cho cùng niên vụ.</text>
+    <text x="1216" y="692" text-anchor="end">08</text>
+  </g>
+</svg>

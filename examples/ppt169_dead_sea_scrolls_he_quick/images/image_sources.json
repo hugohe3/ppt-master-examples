@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "filename": "qumran_cliffs.jpg",
+      "slide": "",
+      "purpose": "",
+      "search_query": "Qumran Cave 4 entrance cliff",
+      "matched_query": "Qumran Cave 4 entrance cliff",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Cave 4Q, Caves of Qumran, 2019 (04).jpg",
+      "author": "Bahnfrend",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Cave_4Q,_Caves_of_Qumran,_2019_(04).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cave_4Q%2C_Caves_of_Qumran%2C_2019_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 6016,
+      "height": 4016,
+      "attribution_text": "qumran_cliffs.jpg — \"Cave 4Q, Caves of Qumran, 2019 (04).jpg\" by Bahnfrend via Wikimedia Commons — license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Qumran|Dead Sea"
+      ]
+    },
+    {
+      "filename": "scroll_jar.jpg",
+      "slide": "02_discovery",
+      "purpose": "the storage jar in which the first scrolls were found",
+      "search_query": "Dead Sea Scrolls jar Qumran",
+      "matched_query": "Qumran scroll jar",
+      "orientation": "portrait",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Dead Sea Scroll jar and lid - MET 64.26a, b.jpg",
+      "author": "",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Dead_Sea_Scroll_jar_and_lid_-_MET_64.26a,_b.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Dead_Sea_Scroll_jar_and_lid_-_MET_64.26a%2C_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 3000,
+      "height": 4000,
+      "attribution_text": "scroll_jar.jpg — \"Dead Sea Scroll jar and lid - MET 64.26a, b.jpg\" via Wikimedia Commons — license: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Qumran|Dead Sea Scroll"
+      ],
+      "query_variants": [
+        "Qumran scroll jar",
+        "Dead Sea Scroll storage jar"
+      ]
+    },
+    {
+      "filename": "isaiah_scroll.jpg",
+      "slide": "05_isaiah",
+      "purpose": "the Great Isaiah Scroll columns, wide crop",
+      "search_query": "Great Isaiah Scroll",
+      "matched_query": "Great Isaiah Scroll",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "The Great Isaiah Scroll MS A (1QIsa) - Google Art Project-x4-y0.jpg",
+      "author": "Unknown artist Unknown artist",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:The_Great_Isaiah_Scroll_MS_A_(1QIsa)_-_Google_Art_Project-x4-y0.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Great_Isaiah_Scroll_MS_A_%281QIsa%29_-_Google_Art_Project-x4-y0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 8704,
+      "height": 5013,
+      "attribution_text": "isaiah_scroll.jpg — \"The Great Isaiah Scroll MS A (1QIsa) - Google Art Project-x4-y0.jpg\" by Unknown artist Unknown artist via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Isaiah"
+      ],
+      "query_variants": [
+        "Isaiah Scroll 1QIsaa",
+        "Great Isaiah Scroll facsimile"
+      ]
+    },
+    {
+      "filename": "shrine_of_the_book.jpg",
+      "slide": "11_shrine",
+      "purpose": "the white dome of the Shrine of the Book, exterior",
+      "search_query": "Shrine of the Book Israel Museum Jerusalem",
+      "matched_query": "היכל הספר",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Jerusalem Shrine of the Book (2542822559).jpg",
+      "author": "Chris Yunker from St. Louis, United States",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Jerusalem_Shrine_of_the_Book_(2542822559).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Jerusalem_Shrine_of_the_Book_%282542822559%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 3264,
+      "height": 2448,
+      "attribution_text": "shrine_of_the_book.jpg — \"Jerusalem Shrine of the Book (2542822559).jpg\" by Chris Yunker from St. Louis, United States via Wikimedia Commons — license: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Shrine of the Book|היכל הספר"
+      ],
+      "query_variants": [
+        "Shrine of the Book dome",
+        "היכל הספר"
+      ]
+    },
+    {
+      "filename": "scroll_fragment.jpg",
+      "slide": "09_conservation",
+      "purpose": "a single parchment fragment, close view, for the conservation beat",
+      "search_query": "Dead Sea Scrolls fragment parchment",
+      "matched_query": "Dead Sea Scrolls fragment parchment",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Dead Sea Scroll fragment with Hebrew text, Wadi Qumran, Cave IV, 50 BC to 50 AD, parchment and ink - Oriental Institute Museum, University of Chicago - DSC07748.JPG",
+      "author": "Daderot",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Dead_Sea_Scroll_fragment_with_Hebrew_text,_Wadi_Qumran,_Cave_IV,_50_BC_to_50_AD,_parchment_and_ink_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07748.JPG",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Dead_Sea_Scroll_fragment_with_Hebrew_text%2C_Wadi_Qumran%2C_Cave_IV%2C_50_BC_to_50_AD%2C_parchment_and_ink_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07748.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1245,
+      "height": 1555,
+      "attribution_text": "scroll_fragment.jpg — \"Dead Sea Scroll fragment with Hebrew text, Wadi Qumran, Cave IV, 50 BC to 50 AD, parchment and ink - Oriental Institute Museum, University of Chicago - DSC07748.JPG\" by Daderot via Wikimedia Commons — license: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Dead Sea Scroll|Qumran"
+      ],
+      "query_variants": [
+        "Dead Sea Scroll fragment",
+        "Qumran manuscript fragment"
+      ]
+    }
+  ],
+  "generated_at": "2026-09-12T03:13:26.689182Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

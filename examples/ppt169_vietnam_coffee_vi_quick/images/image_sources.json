@@ -1,0 +1,284 @@
+{
+  "items": [
+    {
+      "filename": "coffee_cherries_branch.jpg",
+      "slide": "01_cover",
+      "purpose": "cover hero photo",
+      "search_query": "ripe coffee cherries branch plantation",
+      "matched_query": "ripe coffee cherries branch plantation",
+      "orientation": "landscape",
+      "provider": "pexels",
+      "stage": "all",
+      "title": "Close-up of ripe coffee cherries on a tree branch in Đà Lạt, Vietnam's highlands.",
+      "author": "1500m Coffee",
+      "source_page_url": "https://www.pexels.com/photo/ripe-coffee-cherries-on-tree-in-vietnamese-highlands-29639312/",
+      "download_url": "https://images.pexels.com/photos/29639312/pexels-photo-29639312.jpeg",
+      "license_name": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 7952,
+      "height": 5304,
+      "attribution_text": "coffee_cherries_branch.jpg — \"Close-up of ripe coffee cherries on a tree branch in Đà Lạt, Vietnam's highlands.\" by 1500m Coffee via Pexels — license: Pexels License (https://www.pexels.com/license/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "coffee cherries robusta branch",
+        "coffea fruit ripe red"
+      ]
+    },
+    {
+      "filename": "highland_coffee_plantation.jpg",
+      "slide": "",
+      "purpose": "",
+      "search_query": "coffee plantation rows highland",
+      "matched_query": "coffee plantation rows highland",
+      "orientation": "landscape",
+      "provider": "pixabay",
+      "stage": "all",
+      "title": "coffee, tree, nature, yellow, bean, growing, plantation, sunset",
+      "author": "Young_n",
+      "source_page_url": "https://pixabay.com/photos/coffee-tree-yellow-bean-growing-1548766/",
+      "download_url": "https://pixabay.com/get/g4a22afd2bcf60bb3fbe7f64bcf7d41499e4fec66ae3caaeca79706406287257586ca529fba96052d09f5baabf10b78233171b0d605aec18130f82c0240728054_1280.jpg",
+      "license_name": "Pixabay Content License",
+      "license_url": "https://pixabay.com/service/license-summary/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1280,
+      "height": 853,
+      "attribution_text": "highland_coffee_plantation.jpg — \"coffee, tree, nature, yellow, bean, growing, plantation, sunset\" by Young_n via Pixabay — license: Pixabay Content License (https://pixabay.com/service/license-summary/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "coffee farm red soil rows",
+        "coffee trees plantation landscape"
+      ],
+      "metadata_dimensions": {
+        "width": 6000,
+        "height": 4000,
+        "note": "upstream-reported size; actual downloaded file is smaller (likely a preview)"
+      }
+    },
+    {
+      "filename": "phin_drip_coffee.jpg",
+      "slide": "12_culture",
+      "purpose": "phin brewing close-up",
+      "search_query": "Vietnamese phin drip coffee filter",
+      "matched_query": "Vietnamese phin drip coffee filter",
+      "orientation": "landscape",
+      "provider": "pexels",
+      "stage": "all",
+      "title": "Close-up of a Vietnamese coffee drip filter brewing in a cozy kitchen interior with blurred background.",
+      "author": "FOX ^.ᆽ.^= ∫",
+      "source_page_url": "https://www.pexels.com/photo/a-coffee-maker-is-sitting-on-top-of-a-counter-27831787/",
+      "download_url": "https://images.pexels.com/photos/27831787/pexels-photo-27831787.jpeg",
+      "license_name": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 6000,
+      "height": 4000,
+      "attribution_text": "phin_drip_coffee.jpg — \"Close-up of a Vietnamese coffee drip filter brewing in a cozy kitchen interior with blurred background.\" by FOX ^.ᆽ.^= ∫ via Pexels — license: Pexels License (https://www.pexels.com/license/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Vietnam|Vietnamese|phin"
+      ],
+      "query_variants": [
+        "ca phe phin Vietnam",
+        "Vietnamese coffee filter glass"
+      ]
+    },
+    {
+      "filename": "egg_coffee_hanoi.jpg",
+      "slide": "",
+      "purpose": "",
+      "search_query": "egg coffee",
+      "matched_query": "egg coffee",
+      "orientation": "any",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Egg Coffee (6923068614).jpg",
+      "author": "David McKelvey from Brisbane, Australia",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Egg_Coffee_(6923068614).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Egg_Coffee_%286923068614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 2592,
+      "height": 1458,
+      "attribution_text": "egg_coffee_hanoi.jpg — \"Egg Coffee (6923068614).jpg\" by David McKelvey from Brisbane, Australia via Wikimedia Commons — license: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted"
+    },
+    {
+      "filename": "green_coffee_beans_drying.jpg",
+      "slide": "11_processing",
+      "purpose": "processing and trade grounding photo",
+      "search_query": "green coffee beans drying yard",
+      "matched_query": "green coffee beans pile",
+      "orientation": "landscape",
+      "provider": "pexels",
+      "stage": "all",
+      "title": "Close-up view of a large pile of raw, unroasted coffee beans showcasing texture.",
+      "author": "Jimmy Ramírez",
+      "source_page_url": "https://www.pexels.com/photo/close-up-shot-of-coffee-beans-6007654/",
+      "download_url": "https://images.pexels.com/photos/6007654/pexels-photo-6007654.jpeg",
+      "license_name": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 7360,
+      "height": 4912,
+      "attribution_text": "green_coffee_beans_drying.jpg — \"Close-up view of a large pile of raw, unroasted coffee beans showcasing texture.\" by Jimmy Ramírez via Pexels — license: Pexels License (https://www.pexels.com/license/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "coffee beans sacks warehouse",
+        "green coffee beans pile"
+      ]
+    },
+    {
+      "filename": "cover_cherries_fit.jpg",
+      "slide": "01_cover",
+      "purpose": "cover hero photo",
+      "search_query": "ripe coffee cherries branch plantation",
+      "matched_query": "ripe coffee cherries branch plantation",
+      "orientation": "landscape",
+      "provider": "pexels",
+      "stage": "all",
+      "title": "Close-up of ripe coffee cherries on a tree branch in Đà Lạt, Vietnam's highlands.",
+      "author": "1500m Coffee",
+      "source_page_url": "https://www.pexels.com/photo/ripe-coffee-cherries-on-tree-in-vietnamese-highlands-29639312/",
+      "download_url": "https://images.pexels.com/photos/29639312/pexels-photo-29639312.jpeg",
+      "license_name": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1799,
+      "height": 1200,
+      "attribution_text": "cover_cherries_fit.jpg — \"Close-up of ripe coffee cherries on a tree branch in Đà Lạt, Vietnam's highlands.\" by 1500m Coffee via Pexels — license: Pexels License (https://www.pexels.com/license/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "coffee cherries robusta branch",
+        "coffea fruit ripe red"
+      ],
+      "derived_from": "coffee_cherries_branch.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1800,
+          "height": 1200
+        }
+      ]
+    },
+    {
+      "filename": "phin_fit.jpg",
+      "slide": "12_culture",
+      "purpose": "phin brewing close-up",
+      "search_query": "Vietnamese phin drip coffee filter",
+      "matched_query": "Vietnamese phin drip coffee filter",
+      "orientation": "landscape",
+      "provider": "pexels",
+      "stage": "all",
+      "title": "Close-up of a Vietnamese coffee drip filter brewing in a cozy kitchen interior with blurred background.",
+      "author": "FOX ^.ᆽ.^= ∫",
+      "source_page_url": "https://www.pexels.com/photo/a-coffee-maker-is-sitting-on-top-of-a-counter-27831787/",
+      "download_url": "https://images.pexels.com/photos/27831787/pexels-photo-27831787.jpeg",
+      "license_name": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1200,
+      "height": 800,
+      "attribution_text": "phin_fit.jpg — \"Close-up of a Vietnamese coffee drip filter brewing in a cozy kitchen interior with blurred background.\" by FOX ^.ᆽ.^= ∫ via Pexels — license: Pexels License (https://www.pexels.com/license/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Vietnam|Vietnamese|phin"
+      ],
+      "query_variants": [
+        "ca phe phin Vietnam",
+        "Vietnamese coffee filter glass"
+      ],
+      "derived_from": "phin_drip_coffee.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1200,
+          "height": 900
+        }
+      ]
+    },
+    {
+      "filename": "green_beans_fit.jpg",
+      "slide": "11_processing",
+      "purpose": "processing and trade grounding photo",
+      "search_query": "green coffee beans drying yard",
+      "matched_query": "green coffee beans pile",
+      "orientation": "landscape",
+      "provider": "pexels",
+      "stage": "all",
+      "title": "Close-up view of a large pile of raw, unroasted coffee beans showcasing texture.",
+      "author": "Jimmy Ramírez",
+      "source_page_url": "https://www.pexels.com/photo/close-up-shot-of-coffee-beans-6007654/",
+      "download_url": "https://images.pexels.com/photos/6007654/pexels-photo-6007654.jpeg",
+      "license_name": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1200,
+      "height": 801,
+      "attribution_text": "green_beans_fit.jpg — \"Close-up view of a large pile of raw, unroasted coffee beans showcasing texture.\" by Jimmy Ramírez via Pexels — license: Pexels License (https://www.pexels.com/license/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "query_variants": [
+        "coffee beans sacks warehouse",
+        "green coffee beans pile"
+      ],
+      "derived_from": "green_coffee_beans_drying.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1200,
+          "height": 900
+        }
+      ]
+    },
+    {
+      "filename": "egg_coffee_fit.jpg",
+      "slide": "",
+      "purpose": "",
+      "search_query": "egg coffee",
+      "matched_query": "egg coffee",
+      "orientation": "any",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Egg Coffee (6923068614).jpg",
+      "author": "David McKelvey from Brisbane, Australia",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Egg_Coffee_(6923068614).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Egg_Coffee_%286923068614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 1200,
+      "height": 675,
+      "attribution_text": "egg_coffee_fit.jpg — \"Egg Coffee (6923068614).jpg\" by David McKelvey from Brisbane, Australia via Wikimedia Commons — license: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "derived_from": "egg_coffee_hanoi.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1200,
+          "height": 900
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-12T03:12:38.451321Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

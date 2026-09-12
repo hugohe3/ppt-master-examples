@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+
+  <g id="header" data-pptx-bounds="72 58 900 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">四个已落地的海外基地</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">Four Bases on the Ground</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">三 本地化</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 3 · Localization</text>
+  </g>
+
+  <g id="p10-local-production-band" data-pptx-bounds="72 172 392 64">
+    <g id="p10-band-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 176 392 56" data-pptx-av-adj="val 20000" fill="#0E3A66" stroke="none">
+<path d="M 72 176 L 452.8 176 L 464 204 L 452.8 232 L 72 232 L 83.2 204 Z"/>
+</g>
+    <text x="104" y="200" font-size="20" font-weight="bold" fill="#FFFFFF">二 当地生产</text>
+    <text x="104" y="224" font-family="Cambria" font-size="18" fill="#FFFFFF">Building locally</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="500 172 708 64">
+    <text x="500" y="200" font-size="22" fill="#1B2430">四个基地覆盖两种目的:服务本地市场,或直接对冲关税。</text>
+    <text x="500" y="226" font-family="Cambria" font-size="18" fill="#5C6673">Two purposes: serving local demand, or hedging tariffs directly.</text>
+  </g>
+
+  <g id="overseas-plants" data-pptx-replace-with="table" data-pptx-bounds="72 260 1136 320" data-pptx-fallback-sha256="ca5b0e1190493c8f63addf44e620feb8e7cdde75edc09561d0d997676d339124">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 72, "y": 260, "width": 1136, "height": 320,
+  "name": "overseas-plants",
+  "column_widths": [260, 240, 200, 436],
+  "row_heights": [64, 64, 64, 64, 64],
+  "defaults": {"run": {"color": "#1B2430"}, "cell": {"valign": "middle", "font_size": 20, "align": "l",
+                        "borders": {"bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}}},
+  "columns": [
+    {"text": "基地 Base", "fill": "#0E3A66", "color": "#FFFFFF", "bold": true},
+    {"text": "时间节点 Milestone", "fill": "#0E3A66", "color": "#FFFFFF", "bold": true},
+    {"text": "产能 Capacity", "fill": "#0E3A66", "color": "#FFFFFF", "bold": true},
+    {"text": "投资与就业 Investment &amp; jobs", "fill": "#0E3A66", "color": "#FFFFFF", "bold": true}
+  ],
+  "rows": [
+    [{"text": "泰国 Rayong"}, {"text": "2024-07 投产"}, {"text": "约 15 万辆/年"}, {"text": "同日下线第 800 万辆新能源车"}],
+    [{"text": "巴西 Camaçari"}, {"text": "2025-07 首车下线"}, {"text": "15 万辆/年"}, {"text": "55 亿雷亚尔(≈71 亿元),2 万岗位"}],
+    [{"text": "匈牙利 Szeged"}, {"text": "2026 Q2 量产"}, {"text": "30 万辆/年"}, {"text": "40 亿欧元(≈350 亿元)"}],
+    [{"text": "西班牙 Barcelona"}, {"text": "2024-11 投产"}, {"text": "未披露"}, {"text": "预计 1250 个当地岗位"}]
+  ]
+}
+    </metadata>
+    <rect x="72" y="260" width="1136" height="64" fill="#0E3A66"/>
+    <text x="88" y="300" font-size="20" font-weight="bold" fill="#FFFFFF">基地 Base</text>
+    <text x="348" y="300" font-size="20" font-weight="bold" fill="#FFFFFF">时间节点 Milestone</text>
+    <text x="588" y="300" font-size="20" font-weight="bold" fill="#FFFFFF">产能 Capacity</text>
+    <text x="788" y="300" font-size="20" font-weight="bold" fill="#FFFFFF">投资与就业 Investment &amp; jobs</text>
+
+    <text x="88" y="364" font-size="20" fill="#1B2430">泰国 Rayong</text>
+    <text x="348" y="364" font-size="20" fill="#1B2430">2024-07 投产</text>
+    <text x="588" y="364" font-size="20" fill="#1B2430">约 15 万辆/年</text>
+    <text x="788" y="364" font-size="20" fill="#1B2430">同日下线第 800 万辆新能源车</text>
+    <line x1="72" y1="388" x2="1208" y2="388" stroke="#D8DEE6" stroke-width="1"/>
+
+    <text x="88" y="428" font-size="20" fill="#1B2430">巴西 Camaçari</text>
+    <text x="348" y="428" font-size="20" fill="#1B2430">2025-07 首车下线</text>
+    <text x="588" y="428" font-size="20" fill="#1B2430">15 万辆/年</text>
+    <text x="788" y="428" font-size="20" fill="#1B2430">55 亿雷亚尔(≈71 亿元),2 万岗位</text>
+    <line x1="72" y1="452" x2="1208" y2="452" stroke="#D8DEE6" stroke-width="1"/>
+
+    <text x="88" y="492" font-size="20" fill="#1B2430">匈牙利 Szeged</text>
+    <text x="348" y="492" font-size="20" fill="#1B2430">2026 Q2 量产</text>
+    <text x="588" y="492" font-size="20" fill="#1B2430">30 万辆/年</text>
+    <text x="788" y="492" font-size="20" fill="#1B2430">40 亿欧元(≈350 亿元)</text>
+    <line x1="72" y1="516" x2="1208" y2="516" stroke="#D8DEE6" stroke-width="1"/>
+
+    <text x="88" y="556" font-size="20" fill="#1B2430">西班牙 Barcelona</text>
+    <text x="348" y="556" font-size="20" fill="#1B2430">2024-11 投产</text>
+    <text x="588" y="556" font-size="20" fill="#1B2430">未披露</text>
+    <text x="788" y="556" font-size="20" fill="#1B2430">预计 1250 个当地岗位</text>
+    <line x1="72" y1="580" x2="1208" y2="580" stroke="#D8DEE6" stroke-width="1"/>
+  </g>
+
+  <g id="table-note" data-pptx-bounds="72 594 1136 58">
+    <text x="72" y="618" font-size="17" fill="#5C6673">匈牙利工厂 2026 年第一季度试生产,最大年产能 30 万辆、初期约 15 万辆;西班牙为合资工厂。</text>
+    <text x="72" y="644" font-family="Cambria" font-size="18" fill="#5C6673">Szeged began trial production in Q1 2026 (300k peak, ≈150k initially); Barcelona is a joint venture.</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 660 1136 28">
+    <line x1="72" y1="662" x2="1208" y2="662" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="684" font-size="14" fill="#5C6673">来源:新华网(2024)、比亚迪官网(2025)、新浪财经(2026) / Sources: Xinhua 2024; BYD 2025; Sina Finance 2026</text>
+    <text x="1208" y="684" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">10 / 15</text>
+  </g>
+</svg>

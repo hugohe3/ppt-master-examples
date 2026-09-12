@@ -1,0 +1,182 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "מגילות ים המלח: מהמערה למוזיאון",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "הספרייה המקוונת של מגילות מדבר יהודה ע\"ש ליאון לוי מדמתת אוסף של כ-930 כתבי יד, ובהם אלפי קטעי מגילות.",
+      "source_title": "מגילות מדבר יהודה - על הספרייה הדיגיטלית / The Dead Sea Scrolls - The Digital Library (רשות העתיקות)",
+      "source_url": "https://www.deadseascrolls.org.il/about-the-project/the-digital-library",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "טכנולוגיית הדימות פותחה בידי MegaVision; רשות העתיקות צילמה קטע מבראשית ב-12 אורכי גל — 7 בתחום הנראה ו-5 בתחום האינפרא-אדום הקרוב — וצילום באינפרא-אדום משחזר כתב שדהה עד כדי חוסר-נראות.",
+      "source_title": "מגילות מדבר יהודה - על הספרייה הדיגיטלית (רשות העתיקות, גרסה עברית)",
+      "source_url": "https://www.deadseascrolls.org.il/about-the-project/the-digital-library?locale=he_IL",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "אוסף מגילות ים המלח מונה עשרות אלפי קטעי קלף ופפירוס השייכים לכ-1000 חיבורים שונים, והספרייה המקוונת ע\"ש ליאון לוי מדמתת למעלה מ-25,000 קטעים.",
+      "source_title": "Dead Sea Scrolls — The Friends of the Israel Antiquities Authority",
+      "source_url": "https://www.friendsofiaa.org/dead-sea-scrolls",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "בשנת 1991 פנתה רשות העתיקות למומחי שימור בסיוע מכון גטי, החלה לתעד ולטפל באלפי קטעים השייכים לכ-900 כתבי יד, והקימה מעבדת שימור ייעודית ומתקן אחסון מבוקר-אקלים המבוססים על עיקרון השימור ההפיך.",
+      "source_title": "מגילות מדבר יהודה - שימור המגילות (רשות העתיקות)",
+      "source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/conservation?locale=he_IL",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "בשנות החמישים והשישים של המאה ה-20 מוינו קטעי המגילות והונחו בלמעלה מ-1,200 לוחות זכוכית; רשימת המצאי מ-1967 מספרת את הלוחות מ-1 עד 1,261, ונייר הדבק ולחץ הזגוגיות גרמו לקלף להשחיר.",
+      "source_title": "מגילות מדבר יהודה - שימור המגילות (רשות העתיקות)",
+      "source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/conservation?locale=he_IL",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "80% ממגילות מדבר יהודה כתובות על קלף ו-20% על פפירוס.",
+      "source_title": "מגילות מדבר יהודה - שימור המגילות (רשות העתיקות)",
+      "source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/conservation?locale=he_IL",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "השתמרות המגילות התאפשרה בתנאי אזור ים המלח, כ-400 מ' מתחת לפני הים, באקלים יבש ובלחות וטמפרטורה יציבות; העברתן לירושלים, 800 מ' מעל פני הים, חשפה אותן לשינוי אקלימי קיצוני.",
+      "source_title": "מגילות מדבר יהודה - שימור המגילות (רשות העתיקות)",
+      "source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/conservation?locale=he_IL",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "כתבי היד נמצאו באחת-עשרה מערות באזור קומראן; באוסף כ-230 כתבי יד מקראיים, כ-25% מכתבי היד הלא-מקראיים מסווגים כספרות הכת, כ-15% כתובים ארמית, וחומר קומראן מסתיים לפני חורבן הבית השני ב-70 לספירה.",
+      "source_title": "The Dead Sea Scrolls - Introduction (Israel Antiquities Authority)",
+      "source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "מגילת ישעיהו הגדולה (1QIsaa) התגלתה במערה 1 בקומראן ב-1947, אורכה 734 ס\"מ וגובהה 22–25 ס\"מ, 54 עמודותיה מכילות את כל 66 פרקי ספר ישעיהו, היא מתוארכת לכ-125 לפנה\"ס והיא כאלף שנים קדומה מכתבי היד המקראיים העתיקים שהיו ידועים לפני הגילוי.",
+      "source_title": "The Great Isaiah Scroll — Digital Dead Sea Scrolls, The Israel Museum, Jerusalem",
+      "source_url": "http://dss.collections.imj.org.il/isaiah",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "מספר הגרסאות הטקסטואליות השונות בין מגילת ישעיהו הגדולה לנוסח המסורה הוא למעלה מ-2,600, מאות אחת ועד פסוקים שלמים.",
+      "source_title": "The Great Isaiah Scroll — Digital Dead Sea Scrolls, The Israel Museum, Jerusalem",
+      "source_url": "http://dss.collections.imj.org.il/isaiah",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "בקומראן נמצאו כ-20 עותקים נוספים של ספר ישעיהו וששה פשרים המבוססים על הספר.",
+      "source_title": "The Great Isaiah Scroll — Digital Dead Sea Scrolls, The Israel Museum, Jerusalem",
+      "source_url": "http://dss.collections.imj.org.il/isaiah",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "מגילת המקדש (11Q19) התגלתה כנראה ב-1956 במערה 11, מורכבת מ-18 גיליונות קלף, אורכה 8.146 מ' והיא הארוכה מכל מגילות קומראן, והקלף שלה בעובי עשירית המילימטר — הדק שנמצא במערות קומראן.",
+      "source_title": "מגילת המקדש — מגילות ים המלח, המיזם הדיגיטלי, מוזיאון ישראל",
+      "source_url": "http://dss.collections.imj.org.il/he/temple",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "סרך היחד (1QS) הוא החטיבה העיקרית באחת משבע המגילות המקוריות שהתגלו במערה 1 בקומראן ב-1947, והוא הועתק בין השנים 100 ו-75 לפנה\"ס.",
+      "source_title": "סרך היחד — מגילות ים המלח, המיזם הדיגיטלי, מוזיאון ישראל",
+      "source_url": "http://dss.collections.imj.org.il/he/community",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "מגילת המלחמה (1QM) היא אחת משבע המגילות הראשונות שהתגלו בקומראן ב-1947; נשמרו בה 19 עמודות מתוך עשרים לפחות שהיו במקור, והיא מתוארכת לשלהי המאה ה-1 לפנה\"ס או ראשית המאה ה-1 לספירה.",
+      "source_title": "מגילת המלחמה — מגילות ים המלח, המיזם הדיגיטלי, מוזיאון ישראל",
+      "source_url": "http://dss.collections.imj.org.il/he/war",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "היכל הספר נבנה כדי לשמור ולהציג את שבע המגילות הראשונות מ-1947, תוכנן בידי האדריכלים ארמנד פ' ברטוס ופרדריק ג' קיסלר ונחנך ב-20 באפריל 1965; הכיפה הלבנה מסמלת את מכסי הכדים שבהם נמצאו המגילות והניגוד לקיר השחור מתייחס ל'בני אור' ול'בני חושך'.",
+      "source_title": "היכל הספר — מגילות ים המלח, המיזם הדיגיטלי, מוזיאון ישראל",
+      "source_url": "http://dss.collections.imj.org.il/he/shrine",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "רשות העתיקות הציגה את המגילות לראשונה ב-1993 בספריית הקונגרס; עד היום הוצגו המגילות ב-30 מקומות בעולם, ומגילה שהוצגה שלושה חודשים צריכה לנוח כשנה לפחות לפני הצגה נוספת.",
+      "source_title": "מגילות מדבר יהודה - שימור המגילות (רשות העתיקות)",
+      "source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/conservation?locale=he_IL",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "ב-16 במרס 2021 הודיעה רשות העתיקות על חשיפת קטעי מגילה במערת האימים בנחל חבר, כ-80 מ' מתחת לראש המצוק, הנושאים תרגום יווני של תרי-עשר — זכריה ח:16–17 ונחום א:5–6; אלה המגילות הראשונות שנחשפו בחפירה במדבר יהודה מזה למעלה מ-60 שנה, ומאז אוקטובר 2017 נסקרו 80 ק\"מ של מצוקי מדבר.",
+      "source_title": "A challenging Israel Antiquities Authority operation has uncovered thrilling finds in the Judean Desert Nature Reserve",
+      "source_url": "https://www.friendsofiaa.org/news/2021/3/16/a-challenging-israel-antiquities-authority-operation-has-uncovered-thrilling-finds-in-the-judean-desert-nature-reserve",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "באותו מבצע במדבר יהודה נמצאו גם סל בן כ-10,500 שנה בנפח 90–100 ליטר — השלם העתיק שנמצא בעולם, שלד ילד חנוט למחצה בן כ-6,000 שנה, ומטמון מטבעות מתקופת בר כוכבא.",
+      "source_title": "A challenging Israel Antiquities Authority operation has uncovered thrilling finds in the Judean Desert Nature Reserve",
+      "source_url": "https://www.friendsofiaa.org/news/2021/3/16/a-challenging-israel-antiquities-authority-operation-has-uncovered-thrilling-finds-in-the-judean-desert-nature-reserve",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "מחקר שפורסם ב-PLOS ONE ב-4 ביוני 2025 הציג את המודל \"חנוך\" (Enoch) המשלב תיארוך פחמן-14 עם ניתוח סגנון כתיבה ממוחשב: המודל אומן על 24 דגימות מתוארכות בפחמן-14, חזה תאריכים ל-135 כתבי יד לא מתוארכים, השיג התאמה ב-85% מול דגימות מתוארכות ו-79% התאמה בהערכה פלאוגרפית בדיעבד, והתאריכים שהתקבלו קדומים ב-50 עד 150 שנה מההערכות הפלאוגרפיות המסורתיות.",
+      "source_title": "Dating ancient manuscripts using radiocarbon and AI-based writing style analysis (PLOS ONE)",
+      "source_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0323185",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "כתב יד ובו פסוקים מקהלת תוארך פלאוגרפית ל-175–125 לפנה\"ס, והמודל \"חנוך\" מציע עבורו 300–240 לפנה\"ס.",
+      "source_title": "AI analysis of ancient handwriting gives new age estimates for Dead Sea Scrolls (CNN)",
+      "source_url": "https://www.cnn.com/2025/06/07/science/dead-sea-scrolls-older-ai-carbon-dating",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "ב-2007 כינסה רשות העתיקות ועדה בין-לאומית לבחינת תרומת הצילום הספקטרלי לתיעוד המגילות, ב-2008 הקימה סטודיו ייעודי לצילומן, ובמרס 2012 כינסה ועדה בין-לאומית של מומחי שימור קלף ופפירוס לבחינה מחודשת של תהליך העבודה.",
+      "source_title": "מגילות מדבר יהודה - שימור המגילות (רשות העתיקות)",
+      "source_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/conservation?locale=he_IL",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "רשות העתיקות השיקה את הספרייה המקוונת ע\"ש ליאון לוי בשיתוף מרכז המחקר והפיתוח של Google ישראל, במימון מוביל של קרן ליאון לוי, בסיוע קרן ארקדיה ובמימון ראשוני של קרן יד הנדיב.",
+      "source_title": "מגילות מדבר יהודה - על הספרייה הדיגיטלית (רשות העתיקות, גרסה עברית)",
+      "source_url": "https://www.deadseascrolls.org.il/about-the-project/the-digital-library?locale=he_IL",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    }
+  ]
+}

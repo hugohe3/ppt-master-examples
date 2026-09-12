@@ -1,0 +1,39 @@
+<svg lang="vi-VN" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="Segoe UI">
+  <defs>
+    <linearGradient id="bandWash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1C1610" stop-opacity="0.78"/>
+      <stop offset="44%" stop-color="#1C1610" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#1C1610" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC"/>
+
+  <g id="cover-image" data-pptx-bounds="0 0 1280 420">
+    <image href="../images/cover_cherries_fit.jpg" x="0" y="0" width="1280" height="412" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="0" y="0" width="1280" height="412" fill="url(#bandWash)"/>
+    <rect x="0" y="412" width="1280" height="8" fill="#9C2B1B"/>
+    <text x="64" y="80" font-size="18" font-weight="600" fill="#F7F3EC" letter-spacing="2">BÀI GIẢNG CHUYÊN ĐỀ · NGÀNH HÀNG CÀ PHÊ</text>
+    <text x="64" y="118" font-size="18" fill="#EDE2D2">Quả cà phê chín tại vùng cao nguyên Đà Lạt</text>
+  </g>
+
+  <g id="cover-title" data-pptx-bounds="64 448 660 152">
+    <text x="64" y="470" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">TỪ TÂY NGUYÊN RA THẾ GIỚI</text>
+    <text x="64" y="540" font-family="Cambria" font-size="54" font-weight="bold" fill="#221C15">CÀ PHÊ VIỆT NAM</text>
+    <text x="64" y="586" font-size="30" fill="#6B5B4A">Một ngành hàng đọc bằng số liệu</text>
+  </g>
+
+  <g id="cover-stats" data-pptx-bounds="748 440 468 220">
+    <line x1="748" y1="446" x2="748" y2="656" stroke="#D9CDBA" stroke-width="2"/>
+    <text x="946" y="484" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B" text-anchor="end">1857</text>
+    <text x="970" y="468" font-size="18" fill="#6B5B4A">người Pháp đưa cà phê<tspan x="970" dy="26">du nhập vào Việt Nam</tspan></text>
+    <text x="946" y="562" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B" text-anchor="end">Thứ 2</text>
+    <text x="970" y="546" font-size="18" fill="#6B5B4A">thế giới về sản lượng<tspan x="970" dy="26">niên vụ 2025/26</tspan></text>
+    <text x="946" y="640" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B" text-anchor="end">32,5</text>
+    <text x="970" y="624" font-size="18" fill="#6B5B4A">triệu bao dự báo cho<tspan x="970" dy="26">niên vụ 2026/27</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38">
+    <text x="64" y="692" font-size="16" fill="#6B5B4A">Nguồn: USDA FAS (2026); Báo Thanh Niên (2022). Ảnh: 1500m Coffee qua Pexels.</text>
+  </g>
+</svg>

@@ -1,0 +1,3 @@
+在看任何数字之前,先讲口径,否则两边引用的数据永远对不上。中国汽车工业协会的口径是 2025 年新能源汽车出口 261.5 万辆,这是本简报的主口径;乘联分会同一年给出的是 343 万辆,统计范围更宽。两个数字都对,差别在统计范围,所以我们既不相加也不折中,而是在需要时并列标注。本页的口径对照是编者按调研来源整理的,不是任何一家机构的原文表述。
+
+Before any number, a word on calibres, otherwise the two sides will never quote the same figure. CAAM puts 2025 NEV exports at 2.615 million units, and that is the primary calibre here. CPCA gives 3.43 million for the same year on a wider definition. Both are correct; the difference is scope, so we never add them together or average them. This comparison is our own reading of the sources, not a quotation from either institution.

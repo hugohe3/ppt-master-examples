@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1" />
+
+  <g id="header" data-pptx-bounds="72 58 620 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">先说口径:同一年有两个数字</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">Two Calibres, One Year</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 60">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">一 规模与口径</text>
+    <text x="1208" y="114" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 1 · Scale &amp; Calibres</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 176 1136 90">
+    <text x="72" y="212" font-size="26" fill="#1B2430">本简报以中汽协为主口径,乘联分会口径<tspan font-weight="bold" fill="#D4541E">并列标注</tspan>,两者不相加、不折中。</text>
+    <text x="72" y="248" font-family="Cambria" font-size="18" fill="#5C6673">CAAM is the primary calibre here; CPCA figures are shown alongside — never added together or averaged.</text>
+  </g>
+
+  <g id="calibre-caam" data-pptx-bounds="72 296 352 238">
+    <g id="p03-card-caam" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="72 300 352 230" fill="none" stroke="#0E3A66" stroke-width="1.5">
+<path d="M 72 300 L 385.67 300 L 424 338.33 L 424 530 L 72 530 Z" />
+</g>
+    <text x="100" y="352" font-family="SimSun" font-size="28" font-weight="bold" fill="#0E3A66">中国汽车工业协会</text>
+    <text x="100" y="378" font-family="Cambria" font-size="18" fill="#2E7D8F">CAAM</text>
+    <text font-size="22" fill="#1B2430" x="100" y="424">2025 年新能源汽车</text><text font-size="22" fill="#1B2430" x="100" y="456">出口 261.5 万辆</text><text x="100" y="482" font-family="Cambria" font-size="18" fill="#5C6673">2.615m NEVs exported in 2025</text>
+    <text x="100" y="512" font-size="17" fill="#D4541E">本简报主口径</text>
+  </g>
+
+  <g id="calibre-cpca" data-pptx-bounds="464 296 352 238">
+    <g id="p03-card-cpca" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="464 300 352 230" fill="none" stroke="#2E7D8F" stroke-width="1.5">
+<path d="M 464 300 L 777.67 300 L 816 338.33 L 816 530 L 464 530 Z" />
+</g>
+    <text x="492" y="352" font-family="SimSun" font-size="28" font-weight="bold" fill="#0E3A66">乘联分会</text>
+    <text x="492" y="378" font-family="Cambria" font-size="18" fill="#2E7D8F">CPCA</text>
+    <text font-size="22" fill="#1B2430" x="492" y="424">同年 343 万辆,</text><text font-size="22" fill="#1B2430" x="492" y="456">统计范围更宽</text><text x="492" y="482" font-family="Cambria" font-size="18" fill="#5C6673">3.43m on a wider definition</text>
+    <text x="492" y="512" font-size="17" fill="#5C6673">并列标注,不相加</text>
+  </g>
+
+  <g id="calibre-rule" data-pptx-bounds="856 296 352 238">
+    <g id="p03-card-rule" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="856 300 352 230" fill="#F2F4F7" stroke="none">
+<path d="M 856 300 L 1169.67 300 L 1208 338.33 L 1208 530 L 856 530 Z" />
+</g>
+    
+  <g transform="translate(884, 324) scale(1.875)" fill="#0E3A66">
+    <path d="M14 0H2V4H14V0Z" />
+    <path d="M2 6H7V10H2V6Z" />
+    <path d="M2 12H7V16H2V12Z" />
+    <path d="M9 12H14V16H9V12Z" />
+    <path d="M14 6H9V10H14V6Z" />
+  </g>
+    <text x="884" y="386" font-family="SimSun" font-size="28" font-weight="bold" fill="#0E3A66">引用规则</text>
+    <text x="884" y="412" font-family="Cambria" font-size="18" fill="#2E7D8F">How to cite</text>
+    <text font-size="22" fill="#1B2430" x="884" y="450">每页底部标注机构</text><text font-size="22" fill="#1B2430" x="884" y="482">与年份</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="884" y="496">Every page names its</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="884" y="520">source and year</text></g>
+
+  <g id="editor-note" data-pptx-bounds="72 560 1136 62">
+    <line x1="72" y1="564" x2="72" y2="616" stroke="#D4541E" stroke-width="3" />
+    <text x="94" y="592" font-size="22" fill="#1B2430">本页为编者整理:口径对照由调研来源整理而成,非任一来源的原文表述。</text>
+    <text x="94" y="616" font-family="Cambria" font-size="18" fill="#5C6673">Editor's note — this comparison is our reading of the sources, not a quotation from any one of them.</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 656 1136 32">
+    <line x1="72" y1="660" x2="1208" y2="660" stroke="#D8DEE6" stroke-width="1" />
+    <text x="72" y="682" font-size="14" fill="#5C6673">来源:中国汽车工业协会(2026)、乘联分会崔东树(2026) / Sources: CAAM 2026; CPCA 2026</text>
+    <text x="1208" y="682" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">03 / 15</text>
+  </g>
+</svg>

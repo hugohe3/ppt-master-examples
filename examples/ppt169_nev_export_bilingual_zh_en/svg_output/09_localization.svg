@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+
+  <g id="header" data-pptx-bounds="72 58 900 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">建厂不是扩张动作,是回答三个问题</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">Local Plants Answer Three Questions</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">三 本地化</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 3 · Localization</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 176 628 144">
+    <text x="72" y="212" font-size="26" fill="#1B2430">本地化同时回答关税、<tspan x="72" dy="34">交付与服务三个问题。</tspan></text>
+    <text x="72" y="286" font-family="Cambria" font-size="18" fill="#5C6673">Local production answers tariffs,<tspan x="72" dy="24">delivery and service at once.</tspan></text>
+  </g>
+
+  <g id="increment-claim" data-pptx-bounds="72 322 628 104">
+    <line x1="72" y1="326" x2="72" y2="422" stroke="#D4541E" stroke-width="3"/>
+    <text x="94" y="358" font-size="22" fill="#1B2430">2026 年的增量更多来自海外产能,<tspan x="94" dy="30">而非整车出口。</tspan></text>
+    <text x="94" y="418" font-family="Cambria" font-size="18" fill="#5C6673">The 2026 increment comes from overseas capacity.</text>
+  </g>
+
+  <g id="plant-visual" data-pptx-bounds="740 176 468 250">
+    <image href="../images/local_plant.jpg" x="740" y="176" width="468" height="250" preserveAspectRatio="xMidYMid slice"/>
+    <text x="1208" y="418" font-size="14" fill="#5C6673" text-anchor="end">示意图 / illustrative</text>
+  </g>
+
+  <g id="p09-shipping-step" data-pptx-bounds="72 446 392 180">
+    <g id="p09-step-1-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 450 392 110" data-pptx-av-adj="val 20000" fill="#C3CFDA" stroke="none">
+<path d="M 72 450 L 442 450 L 464 505 L 442 560 L 72 560 L 94 505 Z"/>
+</g>
+    <text x="120" y="500" font-size="22" font-weight="bold" fill="#0E3A66">一 出口整车</text>
+    <text x="120" y="528" font-family="Cambria" font-size="18" fill="#0E3A66">Shipping finished cars</text>
+    <text x="72" y="592" font-size="22" fill="#1B2430">受关税与运输成本直接约束</text>
+    <text x="72" y="620" font-family="Cambria" font-size="18" fill="#5C6673">Exposed to tariffs and freight</text>
+  </g>
+
+  <g id="p09-local-production-step" data-pptx-bounds="464 446 392 180">
+    <g id="p09-step-2-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="464 450 392 110" data-pptx-av-adj="val 20000" fill="#0E3A66" stroke="none">
+<path d="M 464 450 L 834 450 L 856 505 L 834 560 L 464 560 L 486 505 Z"/>
+</g>
+    <text x="512" y="500" font-size="22" font-weight="bold" fill="#FFFFFF">二 当地生产</text>
+    <text x="512" y="528" font-family="Cambria" font-size="18" fill="#FFFFFF">Building locally</text>
+    <text x="464" y="592" font-size="22" fill="#1B2430">对冲关税,服务本地市场</text>
+    <text x="464" y="620" font-family="Cambria" font-size="18" fill="#5C6673">Hedges tariffs, serves locally</text>
+  </g>
+
+  <g id="p09-network-step" data-pptx-bounds="856 446 352 180">
+    <g id="p09-step-3-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="856 450 352 110" data-pptx-av-adj="val 20000" fill="#2E7D8F" stroke="none">
+<path d="M 856 450 L 1186 450 L 1208 505 L 1186 560 L 856 560 L 878 505 Z"/>
+</g>
+    <text x="900" y="500" font-size="22" font-weight="bold" fill="#FFFFFF">三 当地网络</text>
+    <text x="900" y="528" font-family="Cambria" font-size="18" fill="#FFFFFF">Local networks</text>
+    <text x="856" y="592" font-size="22" fill="#1B2430">充电与售后决定复购</text>
+    <text x="856" y="620" font-family="Cambria" font-size="18" fill="#5C6673">Service decides repeat sales</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 660 1136 28">
+    <line x1="72" y1="662" x2="1208" y2="662" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="684" font-size="14" fill="#5C6673">本页框架为编者按调研事实整理 / Framework: our reading of the sourced facts</text>
+    <text x="1208" y="684" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">09 / 15</text>
+  </g>
+</svg>

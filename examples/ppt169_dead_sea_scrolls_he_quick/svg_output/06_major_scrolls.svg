@@ -1,0 +1,92 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p06-edge-fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F4EEE2" stop-opacity="1"/>
+      <stop offset="9%" stop-color="#F4EEE2" stop-opacity="0"/>
+      <stop offset="91%" stop-color="#F4EEE2" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F4EEE2" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="p06-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <g id="scrolls-kicker" data-pptx-bounds="880 74 336 27">
+    <text x="1216" y="92" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק חמישי · מגילות מרכזיות</text>
+  </g>
+  <g id="scrolls-title" data-pptx-bounds="616 104 600 76">
+    <text x="1216" y="142" font-family="David" font-size="40" fill="#1F1B16">ארבע מגילות, ארבעה סיפורים</text>
+    <line x1="616" y1="176" x2="1216" y2="176" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="scroll-band" data-pptx-bounds="64 194 1152 54">
+    <image id="p06-scroll" href="../images/isaiah_scroll.jpg" x="64" y="196" width="1152" height="50" preserveAspectRatio="xMidYMid slice"/>
+    <rect id="p06-scroll-fade" x="64" y="196" width="1152" height="50" fill="url(#p06-edge-fade)"/>
+  </g>
+  <g id="p06-major-scrolls" data-pptx-replace-with="table" data-pptx-bounds="64 298 1152 276" data-pptx-fallback-sha256="3892b47965a4941655860d0a7e7b2f2159187bb9dc0f26ce648b43785c311b89">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "x": 64, "y": 300, "width": 1152, "height": 272,
+        "name": "p06-major-scrolls",
+        "column_widths": [360, 288, 144, 360],
+        "row_heights": [48, 56, 56, 56, 56],
+        "defaults": {
+          "cell": {
+            "align": "r",
+            "valign": "middle",
+            "font_size": 18,
+            "padding": 16,
+            "borders": {
+              "left": {"style": "none"},
+              "right": {"style": "none"},
+              "top": {"style": "none"},
+              "bottom": {"style": "solid", "color": "#CDC2AE", "width": 1}
+            }
+          },
+          "run": {"font_family": "Segoe UI", "color": "#332E27"}
+        },
+        "columns": [
+          {"text": "ממדים והיקף", "fill": "#EDE3D2", "bold": true, "font_size": 20, "color": "#1F1B16", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#9A5B2B", "width": 2}}},
+          {"text": "תיארוך", "fill": "#EDE3D2", "bold": true, "font_size": 20, "color": "#1F1B16", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#9A5B2B", "width": 2}}},
+          {"text": "מערה", "fill": "#EDE3D2", "bold": true, "font_size": 20, "color": "#1F1B16", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#9A5B2B", "width": 2}}},
+          {"text": "מגילה", "fill": "#EDE3D2", "bold": true, "font_size": 20, "color": "#1F1B16", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#9A5B2B", "width": 2}}}
+        ],
+        "rows": [
+          ["אורך 734 ס\"מ, 54 עמודות", "כ-125 לפנה\"ס", "מערה 1", {"text": "מגילת ישעיהו הגדולה", "bold": true, "color": "#1F1B16"}],
+          ["אורך 8.146 מ', 18 גיליונות", "שלהי ימי הבית השני", "מערה 11", {"text": "מגילת המקדש", "bold": true, "color": "#1F1B16"}],
+          ["אחת משבע הראשונות", "בין 100 ל-75 לפנה\"ס", "מערה 1", {"text": "סרך היחד", "bold": true, "color": "#1F1B16"}],
+          ["שרדו 19 עמודות מתוך עשרים", "שלהי המאה ה-1 לפנה\"ס", "מערה 1", {"text": "מגילת המלחמה", "bold": true, "color": "#1F1B16"}]
+        ]
+      }
+    </metadata>
+    <rect x="64" y="300" width="1152" height="48" fill="#EDE3D2"/>
+    <line x1="64" y1="348" x2="1216" y2="348" stroke="#9A5B2B" stroke-width="2"/>
+    <line x1="64" y1="404" x2="1216" y2="404" stroke="#CDC2AE" stroke-width="1"/>
+    <line x1="64" y1="460" x2="1216" y2="460" stroke="#CDC2AE" stroke-width="1"/>
+    <line x1="64" y1="516" x2="1216" y2="516" stroke="#CDC2AE" stroke-width="1"/>
+    <line x1="64" y1="572" x2="1216" y2="572" stroke="#CDC2AE" stroke-width="1"/>
+    <text x="1200" y="332" font-size="20" font-weight="bold" fill="#1F1B16">מגילה</text>
+    <text x="840" y="332" font-size="20" font-weight="bold" fill="#1F1B16">מערה</text>
+    <text x="696" y="332" font-size="20" font-weight="bold" fill="#1F1B16">תיארוך</text>
+    <text x="408" y="332" font-size="20" font-weight="bold" fill="#1F1B16">ממדים והיקף</text>
+    <text x="1200" y="384" font-size="18" font-weight="bold" fill="#1F1B16">מגילת ישעיהו הגדולה</text>
+    <text x="840" y="384" font-size="18" fill="#332E27">מערה 1</text>
+    <text x="696" y="384" font-size="18" fill="#332E27">כ-125 לפנה"ס</text>
+    <text x="408" y="384" font-size="18" fill="#332E27">אורך 734 ס"מ, 54 עמודות</text>
+    <text x="1200" y="440" font-size="18" font-weight="bold" fill="#1F1B16">מגילת המקדש</text>
+    <text x="840" y="440" font-size="18" fill="#332E27">מערה 11</text>
+    <text x="696" y="440" font-size="18" fill="#332E27">שלהי ימי הבית השני</text>
+    <text x="408" y="440" font-size="18" fill="#332E27">אורך 8.146 מ', 18 גיליונות</text>
+    <text x="1200" y="496" font-size="18" font-weight="bold" fill="#1F1B16">סרך היחד</text>
+    <text x="840" y="496" font-size="18" fill="#332E27">מערה 1</text>
+    <text x="696" y="496" font-size="18" fill="#332E27">בין 100 ל-75 לפנה"ס</text>
+    <text x="408" y="496" font-size="18" fill="#332E27">אחת משבע הראשונות</text>
+    <text x="1200" y="552" font-size="18" font-weight="bold" fill="#1F1B16">מגילת המלחמה</text>
+    <text x="840" y="552" font-size="18" fill="#332E27">מערה 1</text>
+    <text x="696" y="552" font-size="18" fill="#332E27">שלהי המאה ה-1 לפנה"ס</text>
+    <text x="408" y="552" font-size="18" fill="#332E27">שרדו 19 עמודות מתוך עשרים</text>
+  </g>
+  <g id="scrolls-note" data-pptx-bounds="570 592 646 28">
+    <text x="1216" y="610" font-size="18" fill="#332E27">כל המגילות בטבלה נמצאו בקומראן, והתיארוך נתון להערכות מחודשות</text>
+  </g>
+  <g id="scrolls-source" data-pptx-bounds="628 632 588 28">
+    <text x="1216" y="650" font-size="18" fill="#6B6156">מקור: מוזיאון ישראל, 2026 · המיזם הדיגיטלי של מגילות ים המלח</text>
+  </g>
+</svg>

@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 58 1136 126">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Россия прибавила 4,9 года жизни</text>
+    <text font-size="28" fill="#232A31" x="72" y="136">Китай за тот же период — +9,4 года</text><text font-size="28" fill="#232A31" x="72" y="170">Российское значение 2024 года — самое низкое из пяти</text></g>
+
+  <g id="le-compare" data-pptx-replace-with="chart" data-pptx-bounds="72 196 1136 400" data-pptx-fallback-sha256="ab56ab81aac2034e94fa15f8fbddf2f33a51263be4d4baf37ff51c4b38d06d73">
+    <metadata type="application/json">
+{
+  "name": "le-compare",
+  "x": 72, "y": 196, "width": 1136, "height": 400,
+  "plot_area": {"x": 150, "y": 220, "width": 1030, "height": 340},
+  "type": "column",
+  "grouping": "clustered",
+  "gap_width": 75,
+  "overlap": -11,
+  "show_legend": true,
+  "legend_position": "top",
+  "categories": ["Россия", "Германия", "Япония", "Китай", "США"],
+  "series": [
+    {"name": "1991", "values": [68.5, 75.3, 79.0, 68.6, 75.4]},
+    {"name": "2024", "values": [73.4, 80.8, 84.0, 78.0, 78.9]}
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none"},
+    "value": {"kind": "value", "position": "left", "visible": true, "label_position": "next_to", "minimum": 60, "maximum": 90, "major_unit": 5, "major_gridlines": true, "tick_marks": "none", "number_format": "0", "cross_between": "between"}
+  },
+  "style": {
+    "colors": ["#5B6670", "#2E6F8E"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#5B6670",
+    "axis_color": "#5B6670",
+    "grid_color": "#E6E1D7",
+    "font_family": "Arial",
+    "axis_font_size": 18,
+    "legend_font_size": 18
+  },
+  "notes": [
+    {"text": "лет", "width": 60, "font_size": 18, "color": "#5B6670", "align": "l"},
+    {"text": "68,5", "width": 70, "font_size": 18, "color": "#5B6670", "align": "ctr"},
+    {"text": "73,4", "width": 70, "font_size": 18, "color": "#2E6F8E", "align": "ctr"},
+    {"text": "75,3", "width": 70, "font_size": 18, "color": "#5B6670", "align": "ctr"},
+    {"text": "80,8", "width": 70, "font_size": 18, "color": "#2E6F8E", "align": "ctr"},
+    {"text": "79,0", "width": 70, "font_size": 18, "color": "#5B6670", "align": "ctr"},
+    {"text": "84,0", "width": 70, "font_size": 18, "color": "#2E6F8E", "align": "ctr"},
+    {"text": "68,6", "width": 70, "font_size": 18, "color": "#5B6670", "align": "ctr"},
+    {"text": "78,0", "width": 70, "font_size": 18, "color": "#2E6F8E", "align": "ctr"},
+    {"text": "75,4", "width": 70, "font_size": 18, "color": "#5B6670", "align": "ctr"},
+    {"text": "78,9", "width": 70, "font_size": 18, "color": "#2E6F8E", "align": "ctr"},
+    {"text": "+4,9", "width": 70, "font_size": 20, "color": "#B3121B", "bold": true, "align": "ctr"},
+    {"text": "+5,5", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "+5,0", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "+9,4", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "+3,5", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"}
+  ]
+}
+    </metadata>
+
+    <g id="le-compare-chartArea">
+      <g id="le-compare-grid" stroke="#E6E1D7" stroke-width="1">
+        <line x1="150" y1="503.3" x2="1180" y2="503.3" />
+        <line x1="150" y1="446.7" x2="1180" y2="446.7" />
+        <line x1="150" y1="390" x2="1180" y2="390" />
+        <line x1="150" y1="333.3" x2="1180" y2="333.3" />
+        <line x1="150" y1="276.7" x2="1180" y2="276.7" />
+        <line x1="150" y1="220" x2="1180" y2="220" />
+      </g>
+      <g id="le-compare-axis" stroke="#5B6670" stroke-width="1.5">
+        <line x1="150" y1="220" x2="150" y2="560" />
+        <line x1="150" y1="560" x2="1180" y2="560" />
+      </g>
+      <g id="le-compare-value-labels" font-size="18" fill="#5B6670" text-anchor="end">
+        <text x="138" y="566">60</text>
+        <text x="138" y="509.3">65</text>
+        <text x="138" y="452.7">70</text>
+        <text x="138" y="396">75</text>
+        <text x="138" y="339.3">80</text>
+        <text x="138" y="282.7">85</text>
+        <text x="138" y="226">90</text>
+      </g>
+      <g id="le-compare-category-labels" font-size="18" fill="#5B6670" text-anchor="middle">
+        <text x="253" y="586">Россия</text>
+        <text x="459" y="586">Германия</text>
+        <text x="665" y="586">Япония</text>
+        <text x="871" y="586">Китай</text>
+        <text x="1077" y="586">США</text>
+      </g>
+      <g id="le-compare-legend" font-size="18" fill="#5B6670">
+        <rect x="600" y="200" width="24" height="12" />
+        <text x="632" y="212">1991</text>
+        <rect x="720" y="200" width="24" height="12" fill="#2E6F8E" />
+        <text x="752" y="212">2024</text>
+      </g>
+      
+      <g id="le-compare-bars-1991" fill="#5B6670">
+        <rect x="177" y="463.7" width="72" height="96.3" />
+        <rect x="383" y="386.6" width="72" height="173.4" />
+        <rect x="589" y="344.7" width="72" height="215.3" />
+        <rect x="795" y="462.5" width="72" height="97.5" />
+        <rect x="1001" y="385.5" width="72" height="174.5" />
+      </g>
+      <g id="le-compare-bars-2024" fill="#2E6F8E">
+        <rect x="257" y="408.1" width="72" height="151.9" />
+        <rect x="463" y="324.3" width="72" height="235.7" />
+        <rect x="669" y="288" width="72" height="272" />
+        <rect x="875" y="356" width="72" height="204" />
+        <rect x="1081" y="345.8" width="72" height="214.2" />
+      </g>
+      <g id="le-compare-value-notes" font-size="18" text-anchor="middle">
+        <text x="213" y="455.7" fill="#5B6670">68,5</text>
+        <text x="293" y="400.1" fill="#2E6F8E">73,4</text>
+        <text x="419" y="378.6" fill="#5B6670">75,3</text>
+        <text x="499" y="316.3" fill="#2E6F8E">80,8</text>
+        <text x="625" y="336.7" fill="#5B6670">79,0</text>
+        <text x="705" y="280" fill="#2E6F8E">84,0</text>
+        <text x="831" y="454.5" fill="#5B6670">68,6</text>
+        <text x="911" y="348" fill="#2E6F8E">78,0</text>
+        <text x="1037" y="377.5" fill="#5B6670">75,4</text>
+        <text x="1117" y="337.8" fill="#2E6F8E">78,9</text>
+      </g>
+      <g id="le-compare-growth-notes" font-size="20" font-weight="bold" text-anchor="middle">
+        <text x="253" y="374.1" fill="#B3121B">+4,9</text>
+        <text x="459" y="290.3" fill="#1B2B3A">+5,5</text>
+        <text x="665" y="254" fill="#1B2B3A">+5,0</text>
+        <text x="871" y="322" fill="#1B2B3A">+9,4</text>
+        <text x="1077" y="311.8" fill="#1B2B3A">+3,5</text>
+      </g>
+      <text x="150" y="212" font-size="18" fill="#5B6670">лет</text>
+    </g>
+  </g>
+
+  <g id="le-compare-note" data-pptx-bounds="72 604 1136 52">
+    <text font-size="18" fill="#5B6670" x="72" y="624">Приросты за 1991–2024 годы — расчёт по двум значениям того же индикатора.</text><text font-size="18" fill="#5B6670" x="72" y="650">Россия и Китай начинали период почти с одного уровня: 68,5 и 68,6 года.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SP.DYN.LE00.IN, 1991 и 2024</text>
+    <text x="1208" y="690" text-anchor="end">14</text>
+  </g>
+</svg>

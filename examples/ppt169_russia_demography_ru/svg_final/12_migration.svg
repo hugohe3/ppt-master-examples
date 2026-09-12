@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 58 1136 126">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Миграция: сальдо 2024 года отрицательно</text>
+    <text font-size="28" fill="#232A31" x="72" y="136">Впервые с 1992 года: −178 тыс. человек</text><text font-size="28" fill="#232A31" x="72" y="170">Прирост покрывал естественную убыль в 2009–2019 годах</text></g>
+
+  <g id="net-migration" data-pptx-replace-with="chart" data-pptx-bounds="72 196 1136 400" data-pptx-fallback-sha256="723dbb512dea36e155cbbba4a43ce3ad36723d498fb4ef4975d54ed60164b4c3">
+    <metadata type="application/json">
+{
+  "name": "net-migration",
+  "x": 72, "y": 196, "width": 1136, "height": 400,
+  "plot_area": {"x": 150, "y": 220, "width": 1030, "height": 340},
+  "type": "column",
+  "grouping": "clustered",
+  "gap_width": 51,
+  "categories": ["1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"],
+  "series": [
+    {
+      "name": "Сальдо международной миграции, тыс. человек",
+      "values": [126,-1130,507,1271,724,587,541,528,375,550,260,1359,257,262,264,308,366,361,350,308,309,286,290,265,385,448,397,340,336,334,314,766,28,-178],
+      "point_colors": ["#2E6F8E","#B3121B","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#2E6F8E","#B3121B"]
+    }
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "low", "tick_marks": "none"},
+    "value": {"kind": "value", "position": "left", "visible": true, "label_position": "next_to", "minimum": -1200, "maximum": 1400, "major_unit": 400, "major_gridlines": true, "tick_marks": "none", "number_format": "0", "cross_between": "between"}
+  },
+  "style": {
+    "colors": ["#2E6F8E"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#5B6670",
+    "axis_color": "#5B6670",
+    "grid_color": "#E6E1D7",
+    "font_family": "Arial",
+    "axis_font_size": 18
+  },
+  "notes": [
+    {"text": "тыс. человек", "width": 150, "font_size": 18, "color": "#5B6670", "align": "l"},
+    {"text": "−1 130", "width": 100, "font_size": 20, "color": "#B3121B", "bold": true, "align": "ctr"},
+    {"text": "+1 271", "width": 100, "font_size": 20, "color": "#2E6F8E", "bold": true, "align": "ctr"},
+    {"text": "+1 359", "width": 100, "font_size": 20, "color": "#2E6F8E", "bold": true, "align": "ctr"},
+    {"text": "+766", "width": 90, "font_size": 20, "color": "#2E6F8E", "bold": true, "align": "ctr"},
+    {"text": "−178", "width": 90, "font_size": 20, "color": "#B3121B", "bold": true, "align": "r"}
+  ]
+}
+    </metadata>
+
+    <g id="net-migration-chartArea">
+      <g id="net-migration-grid" stroke="#E6E1D7" stroke-width="1">
+        <line x1="150" y1="507.7" x2="1180" y2="507.7" />
+        <line x1="150" y1="455.4" x2="1180" y2="455.4" />
+        <line x1="150" y1="350.8" x2="1180" y2="350.8" />
+        <line x1="150" y1="298.5" x2="1180" y2="298.5" />
+        <line x1="150" y1="246.2" x2="1180" y2="246.2" />
+      </g>
+      <g id="net-migration-axis" stroke="#5B6670" stroke-width="1.5">
+        <line x1="150" y1="220" x2="150" y2="560" />
+        <line x1="150" y1="403.1" x2="1180" y2="403.1" />
+      </g>
+      <g id="net-migration-value-labels" font-size="18" fill="#5B6670" text-anchor="end">
+        <text x="138" y="566">-1200</text>
+        <text x="138" y="513.7">-800</text>
+        <text x="138" y="461.4">-400</text>
+        <text x="138" y="409.1">0</text>
+        <text x="138" y="356.8">400</text>
+        <text x="138" y="304.5">800</text>
+        <text x="138" y="252.2">1200</text>
+      </g>
+      <g id="net-migration-category-labels" font-size="18" fill="#5B6670" text-anchor="middle">
+        <text x="165.1" y="586">1991</text>
+        <text x="286.3" y="586">1995</text>
+        <text x="407.4" y="586">1999</text>
+        <text x="528.6" y="586">2003</text>
+        <text x="649.7" y="586">2007</text>
+        <text x="770.9" y="586">2011</text>
+        <text x="892" y="586">2015</text>
+        <text x="1013.2" y="586">2019</text>
+        <text x="1134.3" y="586">2023</text>
+      </g>
+      
+      <g id="net-migration-bars">
+        <rect x="155.1" y="386.6" width="20" height="16.5" fill="#2E6F8E" />
+        <rect x="185.4" y="403.1" width="20" height="147.7" fill="#B3121B" />
+        <rect x="215.7" y="336.8" width="20" height="66.3" fill="#2E6F8E" />
+        <rect x="246" y="236.8" width="20" height="166.3" fill="#2E6F8E" />
+        <rect x="276.3" y="308.4" width="20" height="94.7" fill="#2E6F8E" />
+        <rect x="306.6" y="326.3" width="20" height="76.8" fill="#2E6F8E" />
+        <rect x="336.9" y="332.3" width="20" height="70.8" fill="#2E6F8E" />
+        <rect x="367.2" y="334" width="20" height="69.1" fill="#2E6F8E" />
+        <rect x="397.4" y="354.1" width="20" height="49" fill="#2E6F8E" />
+        <rect x="427.7" y="331.2" width="20" height="71.9" fill="#2E6F8E" />
+        <rect x="458" y="369.1" width="20" height="34" fill="#2E6F8E" />
+        <rect x="488.3" y="225.4" width="20" height="177.7" fill="#2E6F8E" />
+        <rect x="518.6" y="369.5" width="20" height="33.6" fill="#2E6F8E" />
+        <rect x="548.9" y="368.8" width="20" height="34.3" fill="#2E6F8E" />
+        <rect x="579.2" y="368.5" width="20" height="34.6" fill="#2E6F8E" />
+        <rect x="609.5" y="362.8" width="20" height="40.3" fill="#2E6F8E" />
+        <rect x="639.7" y="355.2" width="20" height="47.9" fill="#2E6F8E" />
+        <rect x="670" y="355.9" width="20" height="47.2" fill="#2E6F8E" />
+        <rect x="700.3" y="357.3" width="20" height="45.8" fill="#2E6F8E" />
+        <rect x="730.6" y="362.8" width="20" height="40.3" fill="#2E6F8E" />
+        <rect x="760.9" y="362.7" width="20" height="40.4" fill="#2E6F8E" />
+        <rect x="791.2" y="365.7" width="20" height="37.4" fill="#2E6F8E" />
+        <rect x="821.5" y="365.2" width="20" height="37.9" fill="#2E6F8E" />
+        <rect x="851.8" y="368.4" width="20" height="34.7" fill="#2E6F8E" />
+        <rect x="882" y="352.8" width="20" height="50.3" fill="#2E6F8E" />
+        <rect x="912.3" y="344.5" width="20" height="58.6" fill="#2E6F8E" />
+        <rect x="942.6" y="351.2" width="20" height="51.9" fill="#2E6F8E" />
+        <rect x="972.9" y="358.6" width="20" height="44.5" fill="#2E6F8E" />
+        <rect x="1003.2" y="359.1" width="20" height="44" fill="#2E6F8E" />
+        <rect x="1033.5" y="359.4" width="20" height="43.7" fill="#2E6F8E" />
+        <rect x="1063.8" y="362.1" width="20" height="41" fill="#2E6F8E" />
+        <rect x="1094.1" y="302.9" width="20" height="100.2" fill="#2E6F8E" />
+        <rect x="1124.3" y="399.4" width="20" height="3.7" fill="#2E6F8E" />
+        <rect x="1154.6" y="403.1" width="20" height="23.3" fill="#B3121B" />
+      </g>
+      <g id="net-migration-point-notes" font-size="20" font-weight="bold">
+        <text x="195.4" y="572" text-anchor="middle" fill="#B3121B">−1 130</text>
+        <text x="256" y="228" text-anchor="middle" fill="#2E6F8E">+1 271</text>
+        <text x="498.3" y="217" text-anchor="middle" fill="#2E6F8E">+1 359</text>
+        <text x="1104.1" y="294" text-anchor="middle" fill="#2E6F8E">+766</text>
+        <text x="1176" y="448" text-anchor="end" fill="#B3121B">−178</text>
+      </g>
+      <text x="150" y="212" font-size="18" fill="#5B6670">тыс. человек</text>
+    </g>
+  </g>
+
+  <g id="migration-note" data-pptx-bounds="72 600 1136 56">
+    <text font-size="18" fill="#5B6670" x="72" y="622">Только два отрицательных года: 1992 (−1 130 тыс.) и 2024 (−178 тыс.).</text><text font-size="18" fill="#5B6670" x="72" y="648">В 2024 году естественная убыль −4,0 на 1000 человек уже не компенсировалась миграцией.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SM.POP.NETM, 1991–2024</text>
+    <text x="1208" y="690" text-anchor="end">12</text>
+  </g>
+</svg>

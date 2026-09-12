@@ -1,0 +1,126 @@
+<svg lang="vi-VN" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 3 · DÒNG CHẢY</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Sản lượng và xuất khẩu theo niên vụ</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="524" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="output-export-trend" data-pptx-bounds="150 196 700 372" data-pptx-replace-with="chart" data-pptx-fallback-sha256="3d931f6ae919c17d4b6178a4be31499483c46589dc32302ba8743c5acbe01ce2">
+    <metadata type="application/json">
+      {
+        "x": 150,
+        "y": 196,
+        "width": 700,
+        "height": 372,
+        "name": "output-export-trend",
+        "type": "line",
+        "line_style": "lineMarker",
+        "marker_size": 12,
+        "categories": ["2021/22", "2022/23", "2023/24", "2024/25", "2025/26", "2026/27"],
+        "series": [
+          {"name": "Sản lượng", "values": [31.58, 28.3, 27.55, 29, 31.7, 32.5]},
+          {"name": "Xuất khẩu", "values": [29.01, 28.34, 24.4, 25.2, 28.5, 28.95]}
+        ],
+        "axes": {
+          "value": {"minimum": 20, "maximum": 35, "major_unit": 5, "major_gridlines": true, "number_format": "0", "cross_between": "between"}
+        },
+        "plot_area": {"x": 200, "y": 210, "width": 620, "height": 310},
+        "style": {
+          "colors": ["#7A3B22", "#2F6B4F"],
+          "font_family": "Segoe UI",
+          "axis_font_size": 20,
+          "text_color": "#6B5B4A",
+          "axis_color": "#B8A88F",
+          "grid_color": "#E4DACB",
+          "chart_area_fill": "none",
+          "plot_area_fill": "none"
+        }
+      }
+    </metadata>
+    <g id="output-export-trend-chartArea">
+      <g id="output-export-trend-grid" stroke="#E4DACB" stroke-width="1">
+        <line x1="200" y1="416.67" x2="820" y2="416.67" />
+        <line x1="200" y1="313.33" x2="820" y2="313.33" />
+        <line x1="200" y1="210" x2="820" y2="210" />
+      </g>
+      <g id="output-export-trend-axis" stroke="#B8A88F" stroke-width="1.5">
+        <line x1="200" y1="210" x2="200" y2="520" />
+        <line x1="200" y1="520" x2="820" y2="520" />
+      </g>
+      <g id="output-export-trend-value-labels" font-size="20" fill="#6B5B4A" text-anchor="end">
+        <text x="188" y="526">20</text>
+        <text x="188" y="422.67">25</text>
+        <text x="188" y="319.33">30</text>
+        <text x="188" y="216">35</text>
+      </g>
+      <g id="output-export-trend-category-labels" font-size="20" fill="#6B5B4A" text-anchor="middle">
+        <text x="251.67" y="552">2021/22</text>
+        <text x="355" y="552">2022/23</text>
+        <text x="458.33" y="552">2023/24</text>
+        <text x="561.67" y="552">2024/25</text>
+        <text x="665" y="552">2025/26</text>
+        <text x="768.33" y="552">2026/27</text>
+      </g>
+      <!-- chart-plot-area: object=output-export-trend | 200,210,820,520 -->
+      <g id="output-export-trend-output">
+        <polyline points="251.67,280.68 355,348.47 458.33,363.97 561.67,334 665,278.2 768.33,261.67" fill="none" stroke="#7A3B22" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <g fill="#7A3B22">
+          <circle cx="251.67" cy="280.68" r="6" />
+          <circle cx="355" cy="348.47" r="6" />
+          <circle cx="458.33" cy="363.97" r="6" />
+          <circle cx="561.67" cy="334" r="6" />
+          <circle cx="665" cy="278.2" r="6" />
+          <circle cx="768.33" cy="261.67" r="6" />
+        </g>
+      </g>
+      <g id="output-export-trend-export">
+        <polyline points="251.67,333.79 355,347.64 458.33,429.07 561.67,412.53 665,344.33 768.33,335.03" fill="none" stroke="#2F6B4F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+        <g fill="#2F6B4F">
+          <circle cx="251.67" cy="333.79" r="6" />
+          <circle cx="355" cy="347.64" r="6" />
+          <circle cx="458.33" cy="429.07" r="6" />
+          <circle cx="561.67" cy="412.53" r="6" />
+          <circle cx="665" cy="344.33" r="6" />
+          <circle cx="768.33" cy="335.03" r="6" />
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <g id="trend-legend" data-pptx-bounds="150 580 700 40">
+    <line x1="150" y1="600" x2="186" y2="600" stroke="#7A3B22" stroke-width="4" />
+    <circle cx="168" cy="600" r="6" fill="#7A3B22" />
+    <text x="196" y="607" font-size="20" fill="#3A3128">Sản lượng</text>
+    <line x1="330" y1="600" x2="366" y2="600" stroke="#2F6B4F" stroke-width="4" />
+    <circle cx="348" cy="600" r="6" fill="#2F6B4F" />
+    <text x="376" y="607" font-size="20" fill="#3A3128">Xuất khẩu</text>
+  </g>
+
+  <g id="record-callout" data-pptx-bounds="880 196 336 200">
+    <g id="p07-record-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="880 200 336 192" fill="#EFE7DA" stroke="none">
+<path d="M 880 200 L 1184 200 L 1216 232 L 1216 392 L 880 392 Z" />
+</g>
+    <text x="904" y="238" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">NIÊN VỤ 2024–2025</text>
+    <text x="904" y="300" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B">8,4 tỷ USD</text>
+    <text x="904" y="336" font-size="18" fill="#6B5B4A">kim ngạch xuất khẩu, mức<tspan x="904" dy="26">cao nhất từ trước tới nay</tspan></text>
+  </g>
+
+  <g id="record-trend" data-pptx-bounds="880 420 336 144">
+    <text x="880" y="444" font-size="24" fill="#3A3128">Xuất khẩu giảm mạnh ở<tspan x="880" dy="36">niên vụ 2023/24 rồi hồi</tspan><tspan x="880" dy="36">phục lên <tspan font-weight="bold" fill="#9C2B1B">28,5 triệu bao</tspan></tspan><tspan x="880" dy="36">ở niên vụ 2025/26.</tspan></text>
+  </g>
+
+  <g id="record-unit" data-pptx-bounds="880 580 336 80">
+    <text x="880" y="598" font-size="18" fill="#6B5B4A">Đơn vị: triệu bao 60 kg (GBE).<tspan x="880" dy="26">Xuất khẩu gồm hạt xanh, rang</tspan><tspan x="880" dy="26">xay và hoà tan.</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: USDA FAS, Coffee: World Markets and Trade (7/2026); kim ngạch theo VICOFA dẫn qua VietnamNet (2025).</text>
+    <text x="1216" y="692" text-anchor="end">07</text>
+  </g>
+</svg>

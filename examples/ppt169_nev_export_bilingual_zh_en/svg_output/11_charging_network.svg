@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+
+  <g id="header" data-pptx-bounds="72 58 900 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">6000 座闪充站,和它为什么慢</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">6,000 Fast-Charging Sites, and Why It Is Slow</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">三 本地化</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 3 · Localization</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 170 1136 62">
+    <text x="72" y="196" font-size="22" fill="#1B2430">计划自 2026 年 3 月至 2027 年 3 月底在海外建成 6000 座闪充站</text>
+    <text x="72" y="224" font-family="Cambria" font-size="18" fill="#5C6673">6,000 overseas fast-charging sites planned, March 2026 to March 2027</text>
+  </g>
+
+  <g id="region-europe" data-pptx-bounds="72 234 272 130">
+    <use data-icon="chunk-filled/plug" x="72" y="238" width="28" height="28" fill="#2E7D8F"/>
+    <text x="112" y="250" font-size="22" fill="#1B2430">欧洲</text>
+    <text x="72" y="274" font-family="Cambria" font-size="18" fill="#5C6673">Europe</text>
+    <text x="72" y="336" font-family="Cambria" font-size="64" fill="#0E3A66">3000</text>
+  </g>
+
+  <g id="region-americas" data-pptx-bounds="360 234 272 130">
+    <use data-icon="chunk-filled/plug" x="360" y="238" width="28" height="28" fill="#2E7D8F"/>
+    <text x="400" y="250" font-size="22" fill="#1B2430">美洲</text>
+    <text x="360" y="274" font-family="Cambria" font-size="18" fill="#5C6673">Americas</text>
+    <text x="360" y="336" font-family="Cambria" font-size="64" fill="#0E3A66">2000</text>
+  </g>
+
+  <g id="region-apac" data-pptx-bounds="648 234 272 130">
+    <use data-icon="chunk-filled/plug" x="648" y="238" width="28" height="28" fill="#2E7D8F"/>
+    <text x="688" y="250" font-size="22" fill="#1B2430">亚太</text>
+    <text x="648" y="274" font-family="Cambria" font-size="18" fill="#5C6673">Asia-Pacific</text>
+    <text x="648" y="336" font-family="Cambria" font-size="64" fill="#0E3A66">1000</text>
+  </g>
+
+  <g id="region-total" data-pptx-bounds="936 234 272 130">
+    <text x="936" y="250" font-size="22" fill="#1B2430">合计</text>
+    <text x="936" y="274" font-family="Cambria" font-size="18" fill="#5C6673">Total sites</text>
+    <text x="936" y="336" font-family="Cambria" font-size="64" fill="#D4541E">6000</text>
+  </g>
+
+  <g id="build-out-reality" data-pptx-bounds="72 376 568 278">
+    <text x="72" y="408" font-size="22" font-weight="bold" fill="#0E3A66">网络投入的两个现实</text>
+    <text x="72" y="434" font-family="Cambria" font-size="18" fill="#2E7D8F">Two realities of network build-out</text>
+    <text x="72" y="482" font-size="22" fill="#1B2430">充电难与维修难,需要售后服务中心、<tspan x="72" dy="30">零件仓库与充换电设施同时配套。</tspan></text>
+    <text x="72" y="544" font-family="Cambria" font-size="18" fill="#5C6673">Charging and repair gaps need service centres,<tspan x="72" dy="24">parts warehouses and charging sites together.</tspan></text>
+    <text x="72" y="600" font-size="22" fill="#1B2430">投入大、回报周期长;用地审批与<tspan x="72" dy="30">跨行业协作使进度常不及预期。</tspan></text>
+    <text x="72" y="652" font-family="Cambria" font-size="18" fill="#5C6673">Heavy capex, slow payback, permits and partners.</text>
+  </g>
+
+  <g id="charging-visual" data-pptx-bounds="688 368 520 290">
+    <image href="../images/charging_array.jpg" x="688" y="368" width="520" height="290" preserveAspectRatio="xMidYMid slice"/>
+    <text x="1208" y="652" font-size="14" fill="#5C6673" text-anchor="end">示意图 / illustrative</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 660 1136 28">
+    <line x1="72" y1="662" x2="1208" y2="662" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="684" font-size="14" fill="#5C6673">来源:比亚迪李云飞,2026 年 7 月;行业出海观察 2025 / Sources: BYD (Li Yunfei), Jul 2026; industry review 2025</text>
+    <text x="1208" y="684" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">11 / 15</text>
+  </g>
+</svg>

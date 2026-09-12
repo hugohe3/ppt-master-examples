@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="toc">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="header" data-pptx-bounds="72 58 1136 96">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">本次简报的四个部分</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">Four Parts of This Briefing</text>
+    <line x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1"/>
+  </g>
+
+  <g id="agenda-lead" data-pptx-bounds="72 170 1136 70">
+    <text x="72" y="202" font-size="26" fill="#1B2430">从规模到方式,再到规则:四个部分回答四个问题。</text>
+    <text x="72" y="232" font-family="Cambria" font-size="18" fill="#5C6673">From scale to method to rules — four parts, four questions.</text>
+  </g>
+
+  <line id="agenda-spine" data-pptx-role="decoration" x1="72" y1="300" x2="1208" y2="300" stroke="#D8DEE6" stroke-width="2"/>
+
+  <g id="part-1" data-pptx-bounds="72 276 260 266">
+    <circle cx="94" cy="300" r="22" fill="#0E3A66"/>
+    <text x="94" y="309" font-family="Cambria" font-size="24" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="72" y="372" font-family="SimSun" font-size="28" font-weight="bold" fill="#0E3A66">规模与口径</text>
+    <text x="72" y="400" font-family="Cambria" font-size="24" fill="#2E7D8F">Scale &amp; Calibres</text>
+    <text x="72" y="444" font-size="22" fill="#1B2430">出口了多少,<tspan x="72" dy="32">按谁的口径</tspan></text>
+    <text x="72" y="506" font-family="Cambria" font-size="18" fill="#5C6673">How much, and on<tspan x="72" dy="24">whose count</tspan></text>
+  </g>
+
+  <g id="part-2" data-pptx-bounds="364 276 260 266">
+    <circle cx="386" cy="300" r="22" fill="#0E3A66"/>
+    <text x="386" y="309" font-family="Cambria" font-size="24" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="364" y="372" font-family="SimSun" font-size="28" font-weight="bold" fill="#0E3A66">市场与企业</text>
+    <text x="364" y="400" font-family="Cambria" font-size="24" fill="#2E7D8F">Markets &amp; Players</text>
+    <text x="364" y="444" font-size="22" fill="#1B2430">卖到哪里,<tspan x="364" dy="32">谁在卖</tspan></text>
+    <text x="364" y="506" font-family="Cambria" font-size="18" fill="#5C6673">Where they go,<tspan x="364" dy="24">who ships them</tspan></text>
+  </g>
+
+  <g id="part-3" data-pptx-bounds="656 276 260 266">
+    <circle cx="678" cy="300" r="22" fill="#0E3A66"/>
+    <text x="678" y="309" font-family="Cambria" font-size="24" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="656" y="372" font-family="SimSun" font-size="28" font-weight="bold" fill="#0E3A66">本地化</text>
+    <text x="656" y="400" font-family="Cambria" font-size="24" fill="#2E7D8F">Localization</text>
+    <text x="656" y="444" font-size="22" fill="#1B2430">为什么开始<tspan x="656" dy="32">在当地造车</tspan></text>
+    <text x="656" y="506" font-family="Cambria" font-size="18" fill="#5C6673">Why plants follow<tspan x="656" dy="24">shipments</tspan></text>
+  </g>
+
+  <g id="part-4" data-pptx-bounds="948 276 260 266">
+    <circle cx="970" cy="300" r="22" fill="#D4541E"/>
+    <text x="970" y="309" font-family="Cambria" font-size="24" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="948" y="372" font-family="SimSun" font-size="28" font-weight="bold" fill="#0E3A66">壁垒与展望</text>
+    <text x="948" y="400" font-family="Cambria" font-size="24" fill="#2E7D8F">Barriers &amp; Outlook</text>
+    <text x="948" y="444" font-size="22" fill="#1B2430">规则怎么变,<tspan x="948" dy="32">2026 怎么看</tspan></text>
+    <text x="948" y="506" font-family="Cambria" font-size="18" fill="#5C6673">Rule shifts and the<tspan x="948" dy="24">2026 view</tspan></text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 656 1136 32">
+    <line x1="72" y1="660" x2="1208" y2="660" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="682" font-size="14" fill="#5C6673">部分顺序即本简报的论证顺序 / Part order is the order of the argument</text>
+    <text x="1208" y="682" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">02 / 15</text>
+  </g>
+</svg>

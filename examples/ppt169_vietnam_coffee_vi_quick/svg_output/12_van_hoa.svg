@@ -1,0 +1,45 @@
+<svg lang="vi-VN" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <defs>
+    <linearGradient id="cultureFade" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#1C1610" stop-opacity="0.80" />
+      <stop offset="48%" stop-color="#1C1610" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#1C1610" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 4 · VĂN HOÁ</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Cách người Việt uống cà phê</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="754" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="culture-phin" data-pptx-bounds="64 184 568 352">
+    <image href="../images/phin_fit.jpg" x="64" y="184" width="568" height="296" preserveAspectRatio="xMidYMid slice" />
+    <rect x="64" y="384" width="568" height="96" fill="url(#cultureFade)" />
+    <text x="92" y="452" font-size="24" fill="#F7F3EC">Phin — dụng cụ pha đặc trưng</text>
+    <text x="64" y="506" font-size="18" fill="#6B5B4A">Ảnh: FOX qua Pexels.</text>
+  </g>
+
+  <g id="culture-egg" data-pptx-bounds="648 184 568 352">
+    <image href="../images/egg_coffee_fit.jpg" x="648" y="184" width="568" height="296" preserveAspectRatio="xMidYMid slice" />
+    <rect x="648" y="384" width="568" height="96" fill="url(#cultureFade)" />
+    <text x="676" y="452" font-size="24" fill="#F7F3EC">Cà phê trứng — Hà Nội, năm 1946</text>
+    <text x="648" y="504" font-size="16" fill="#6B5B4A">Ảnh: David McKelvey from Brisbane, Australia /<tspan x="648" dy="24">Wikimedia Commons / CC BY 2.0</tspan></text>
+  </g>
+
+  <g id="culture-note" data-pptx-bounds="64 540 1152 104">
+    <text x="64" y="566" font-size="28" fill="#3A3128">Phin nhôm, cà phê sữa đá và cà phê trứng là ba cách người Việt<tspan x="64" dy="36">biến vị đắng đậm của Robusta thành thói quen hằng ngày.</tspan></text>
+    <text x="64" y="636" font-size="18" fill="#6B5B4A">Cách nhóm ba biểu hiện văn hoá này là tổng hợp của bài giảng; mốc 1946 dẫn nguồn ở dưới.</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: Vietcetera, Lịch sử của cà phê trứng — ông Nguyễn Văn Giảng tạo ra món này năm 1946 và mở quán Café Giảng cùng năm.</text>
+    <text x="1216" y="692" text-anchor="end">12</text>
+  </g>
+</svg>

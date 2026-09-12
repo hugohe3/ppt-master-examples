@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1" />
+
+  <g id="header" data-pptx-bounds="72 58 900 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">一道按企业分级,一道一刀切</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">One Tiered, One Flat</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">四 壁垒与展望</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 4 · Barriers &amp; Outlook</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 172 1136 68">
+    <text x="72" y="204" font-size="22" fill="#1B2430">欧盟按企业征收 7.8%–35.3% 反补贴税并叠加 10% 进口关税;美国统一提高到 100%。</text>
+    <text x="72" y="232" font-family="Cambria" font-size="18" fill="#5C6673">EU: 7.8%–35.3% duties plus the 10% import duty. US: a flat 100%.</text>
+  </g>
+
+  <g id="eu-tariff-ladder" data-pptx-bounds="72 248 568 252">
+    <text x="72" y="272" font-size="22" font-weight="bold" fill="#0E3A66">欧盟 · 分企业反补贴税率</text>
+    <text x="72" y="296" font-family="Cambria" font-size="18" fill="#2E7D8F">EU · countervailing duty by producer</text>
+    <text x="72" y="336" font-size="20" fill="#1B2430">特斯拉 Tesla</text>
+    <rect x="240" y="318" width="69" height="24" fill="#C3CFDA" />
+    <text x="319" y="336" font-family="Cambria" font-size="18" fill="#1B2430">7.8%</text>
+    <text x="72" y="376" font-size="20" fill="#1B2430">比亚迪 BYD</text>
+    <rect x="240" y="358" width="150" height="24" fill="#C3CFDA" />
+    <text x="400" y="376" font-family="Cambria" font-size="18" fill="#1B2430">17.0%</text>
+    <text x="72" y="416" font-size="20" fill="#1B2430">吉利 Geely</text>
+    <rect x="240" y="398" width="166" height="24" fill="#C3CFDA" />
+    <text x="416" y="416" font-family="Cambria" font-size="18" fill="#1B2430">18.8%</text>
+    <text x="72" y="456" font-size="20" fill="#1B2430">未抽样加权 Others</text>
+    <rect x="240" y="438" width="179" height="24" fill="#C3CFDA" />
+    <text x="429" y="456" font-family="Cambria" font-size="18" fill="#1B2430">20.3%</text>
+    <text x="72" y="496" font-size="20" fill="#1B2430">上汽 SAIC</text>
+    <rect x="240" y="478" width="312" height="24" fill="#C62828" />
+    <text x="562" y="496" font-family="Cambria" font-size="18" fill="#1B2430">35.3%</text>
+  </g>
+
+  <g id="p12-combined-burden-bar" data-pptx-bounds="72 512 568 96">
+    <text x="72" y="536" font-size="20" fill="#1B2430">叠加 10% 进口关税后,综合税负最高 <tspan font-weight="bold" fill="#C62828">45.3%</tspan></text>
+    <rect x="72" y="552" width="568" height="28" fill="#C62828" />
+    <text x="72" y="602" font-family="Cambria" font-size="18" fill="#5C6673">Up to 45.3% once the 10% import duty is added</text>
+  </g>
+
+  <g id="us-tariff-wall" data-pptx-bounds="700 248 508 360">
+    
+  <g transform="translate(700, 254) scale(1.875)" fill="#C62828">
+    <path d="M7 4C7 5.65685 5.65685 7 4 7C2.34315 7 1 5.65685 1 4C1 2.34315 2.34315 1 4 1C5.65685 1 7 2.34315 7 4Z" />
+    <path d="M14.7071 2.70711L2.70711 14.7071L1.29289 13.2929L13.2929 1.29289L14.7071 2.70711Z" />
+    <path d="M12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12C9 13.6569 10.3431 15 12 15Z" />
+  </g>
+    <text x="744" y="278" font-size="22" font-weight="bold" fill="#0E3A66">美国 · 301 条款电动汽车关税</text>
+    <text x="700" y="308" font-family="Cambria" font-size="18" fill="#2E7D8F">US · Section 301 tariff on Chinese EVs</text>
+    <text x="700" y="400" font-family="Cambria" font-size="64" fill="#C62828">100%</text>
+    <text x="700" y="440" font-size="22" fill="#1B2430">自 2024 年 9 月 27 日起生效</text>
+    <text x="700" y="468" font-family="Cambria" font-size="18" fill="#5C6673">In force since 27 September 2024</text>
+    <text x="700" y="516" font-size="17" fill="#5C6673">同批还包括光伏电池 50%、动力电池与关键矿产 25%</text>
+    <text font-size="18" fill="#5C6673" font-family="Cambria" x="700" y="546">Same package: solar cells 50%,</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="700" y="570">EV batteries and key minerals 25%</text><text x="700" y="604" font-size="17" fill="#5C6673">发布机构:美国贸易代表办公室(USTR)</text>
+  </g>
+
+  <g id="source-bar" data-pptx-bounds="72 656 1136 32">
+    <line x1="72" y1="660" x2="1208" y2="660" stroke="#D8DEE6" stroke-width="1" />
+    <text x="72" y="682" font-size="14" fill="#5C6673">来源:欧盟委员会确定性反补贴税(2024-10-31 生效);USTR 301 条款(2024-09-27 生效) / Sources: European Commission 2024; USTR 2024</text>
+    <text x="1208" y="682" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">12 / 15</text>
+  </g>
+</svg>

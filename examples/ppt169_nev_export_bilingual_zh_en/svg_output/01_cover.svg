@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="cover">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <rect id="cover-left-field" data-pptx-role="decoration" x="0" y="0" width="620" height="720" fill="#F2F4F7"/>
+
+  <g id="cover-kicker" data-pptx-bounds="72 96 500 38">
+    <text x="72" y="118" font-size="17" fill="#5C6673" letter-spacing="2">行业简报 · 公开数据</text>
+    <line x1="72" y1="130" x2="196" y2="130" stroke="#D4541E" stroke-width="3"/>
+  </g>
+
+  <g id="cover-title" data-pptx-bounds="72 150 520 230">
+    <text x="72" y="222" font-family="SimSun" font-size="64" font-weight="bold" fill="#0E3A66">中国新能源汽车<tspan x="72" dy="76">出海 2025</tspan></text>
+    <text x="72" y="350" font-family="Cambria" font-size="24" fill="#5C6673">China&apos;s NEV Exports 2025</text>
+  </g>
+
+  <g id="cover-hook" data-pptx-bounds="72 392 520 120">
+    <line x1="72" y1="400" x2="72" y2="496" stroke="#0E3A66" stroke-width="3"/>
+    <text x="94" y="434" font-size="26" fill="#1B2430">出口翻倍,但增长方式变了</text>
+    <text x="94" y="472" font-family="Cambria" font-size="18" fill="#5C6673">Exports doubled — the growth model changed</text>
+  </g>
+
+  <g id="cover-meta" data-pptx-bounds="72 528 520 116">
+    <text x="72" y="552" font-size="17" fill="#1B2430">口径:中汽协为主,乘联分会并列标注 · 15 页</text>
+    <text x="72" y="580" font-family="Cambria" font-size="18" fill="#5C6673">Calibres: CAAM primary,<tspan x="72" dy="26">CPCA shown alongside · 15 slides</tspan></text>
+    <text x="72" y="634" font-family="Cambria" font-size="18" fill="#5C6673">2026-09</text>
+  </g>
+
+  <g id="cover-visual" data-pptx-bounds="640 150 640 450">
+    <image href="../images/cover_port_roro.jpg" x="640" y="150" width="640" height="450" preserveAspectRatio="xMidYMax slice"/>
+  </g>
+
+  <g id="cover-source" data-pptx-bounds="72 662 1136 26">
+    <line x1="72" y1="662" x2="1208" y2="662" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="72" y="684" font-size="14" fill="#5C6673">数据来源:中国汽车工业协会、乘联分会、欧盟委员会、USTR 等公开发布(2024–2026)</text>
+    <text x="1208" y="684" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Sources: CAAM, CPCA, European Commission, USTR (2024–2026)</text>
+  </g>
+</svg>

@@ -1,0 +1,93 @@
+<svg lang="vi-VN" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 3 · THỊ TRƯỜNG</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Gần một nửa lượng cà phê đi châu Âu</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="524" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="market-share" data-pptx-bounds="190 242 300 300" data-pptx-replace-with="chart" data-pptx-fallback-sha256="cd8b5d62b948b7a1a4acaabf7f614378231491c3ffaa27c3c89a8d688be02ad5">
+    <metadata type="application/json">
+      {
+        "x": 190,
+        "y": 242,
+        "width": 300,
+        "height": 300,
+        "name": "market-share",
+        "type": "doughnut",
+        "hole_size": 59,
+        "categories": ["Đức", "Ý", "Tây Ban Nha", "Châu Âu khác", "Ngoài châu Âu"],
+        "series": [
+          {"name": "Thị phần lượng xuất khẩu", "values": [13, 8.3, 7.3, 18.6, 52.8]}
+        ],
+        "style": {
+          "colors": ["#7A3B22", "#A85A33", "#C08A2E", "#D7BE96", "#BFB3A3"],
+          "font_family": "Segoe UI",
+          "text_color": "#6B5B4A",
+          "chart_area_fill": "none",
+          "plot_area_fill": "none"
+        }
+      }
+    </metadata>
+    <g id="market-share-chartArea">
+      <!-- chart-plot-area: object=market-share | donut | center: 340,392 | outer-radius: 148 | inner-radius: 88 -->
+      <path d="M 340.0 244.0 A 148.0 148.0 0 0 1 447.89 290.69 L 404.15 331.76 A 88.0 88.0 0 0 0 340.0 304.0 Z" fill="#7A3B22" />
+      <path d="M 447.89 290.69 A 148.0 148.0 0 0 1 484.02 357.9 L 425.63 371.73 A 88.0 88.0 0 0 0 404.15 331.76 Z" fill="#A85A33" />
+      <path d="M 484.02 357.9 A 148.0 148.0 0 0 1 484.23 425.19 L 425.76 411.74 A 88.0 88.0 0 0 0 425.63 371.73 Z" fill="#C08A2E" />
+      <path d="M 484.23 425.19 A 148.0 148.0 0 0 1 365.9 537.72 L 355.4 478.64 A 88.0 88.0 0 0 0 425.76 411.74 Z" fill="#D7BE96" />
+      <path d="M 365.9 537.72 A 148.0 148.0 0 1 1 340.0 244.0 L 340.0 304.0 A 88.0 88.0 0 1 0 355.4 478.64 Z" fill="#BFB3A3" />
+    </g>
+  </g>
+
+  <g id="market-growth" data-pptx-bounds="64 578 496 78">
+    <text x="64" y="596" font-size="18" fill="#6B5B4A">Nửa đầu niên vụ 2025/26, xuất khẩu sang Đức tăng<tspan x="64" dy="26">46%, Hoa Kỳ 37%, Nga 35%, Ý 31%, Tây Ban Nha 22%</tspan><tspan x="64" dy="26">và Nhật Bản 19% so với cùng kỳ.</tspan></text>
+  </g>
+
+  <g id="market-list" data-pptx-bounds="600 244 616 248">
+    <g id="market-list-chips">
+      <rect x="600" y="250" width="12" height="28" rx="3" fill="#7A3B22" />
+      <rect x="600" y="302" width="12" height="28" rx="3" fill="#A85A33" />
+      <rect x="600" y="354" width="12" height="28" rx="3" fill="#C08A2E" />
+      <rect x="600" y="406" width="12" height="28" rx="3" fill="#D7BE96" />
+      <rect x="600" y="458" width="12" height="28" rx="3" fill="#BFB3A3" />
+    </g>
+    <g id="market-list-names" font-size="24" fill="#221C15">
+      <text x="632" y="272">Đức</text>
+      <text x="632" y="324">Ý</text>
+      <text x="632" y="376">Tây Ban Nha</text>
+      <text x="632" y="428">Châu Âu khác (tổng hợp)</text>
+      <text x="632" y="480">Ngoài châu Âu (tổng hợp)</text>
+    </g>
+    <g id="market-list-values" font-family="Cambria" font-size="24" font-weight="bold" fill="#221C15" text-anchor="end">
+      <text x="1216" y="272">13,0%</text>
+      <text x="1216" y="324">8,3%</text>
+      <text x="1216" y="376">7,3%</text>
+      <text x="1216" y="428">18,6%</text>
+      <text x="1216" y="480">52,8%</text>
+    </g>
+    <g id="market-list-rules" stroke="#E4DACB" stroke-width="1">
+      <line x1="600" y1="290" x2="1216" y2="290" />
+      <line x1="600" y1="342" x2="1216" y2="342" />
+      <line x1="600" y1="394" x2="1216" y2="394" />
+      <line x1="600" y1="446" x2="1216" y2="446" />
+    </g>
+  </g>
+
+  <g id="europe-callout" data-pptx-bounds="600 516 616 124">
+    <g id="p09-europe-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="600 516 616 124" fill="#EFE7DA" stroke="none">
+<path d="M 600 516 L 1195.33 516 L 1216 536.67 L 1216 640 L 600 640 Z" />
+</g>
+      <text x="628" y="590" font-family="Cambria" font-size="44" font-weight="bold" fill="#9C2B1B">47,2%</text>
+      <text x="800" y="576" font-size="18" fill="#6B5B4A">hơn 710.000 tấn cà phê Việt<tspan x="800" dy="26">Nam đi thị trường châu Âu</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: VICOFA, niên vụ 2024–2025, dẫn qua VietnamNet (2025); tăng trưởng nửa đầu niên vụ 2025/26 theo USDA FAS VM2026-0016.</text>
+    <text x="1216" y="692" text-anchor="end">09</text>
+  </g>
+</svg>

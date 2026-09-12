@@ -1,0 +1,310 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "Cà phê Việt Nam: từ Tây Nguyên ra thế giới",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "Năm 1857, người Pháp đưa cà phê du nhập vào Việt Nam.",
+      "source_title": "Khát vọng từ Buôn Ma Thuột - Thành phố cà phê của thế giới (Báo Thanh Niên, 30/11/2022)",
+      "source_url": "https://thanhnien.vn/khat-vong-tu-buon-ma-thuot-thanh-pho-ca-phe-cua-the-gioi-1851526767.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "Năm 1914, người Pháp chọn Buôn Ma Thuột làm nơi chuyên canh cà phê Robusta; bác sĩ Yersin nhận định nơi đây có loại đất tốt nhất thế giới, thích hợp mở đồn điền cây công nghiệp.",
+      "source_title": "Khát vọng từ Buôn Ma Thuột - Thành phố cà phê của thế giới (Báo Thanh Niên, 30/11/2022)",
+      "source_url": "https://thanhnien.vn/khat-vong-tu-buon-ma-thuot-thanh-pho-ca-phe-cua-the-gioi-1851526767.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "Vùng Buôn Ma Thuột có đất đỏ bazan giữ nước và hấp thu dinh dưỡng cao, độ cao khoảng 500–600 m so với mực nước biển; vùng được chọn nằm trong bán kính khoảng 20 km quanh Buôn Ma Thuột.",
+      "source_title": "Khát vọng từ Buôn Ma Thuột - Thành phố cà phê của thế giới (Báo Thanh Niên, 30/11/2022)",
+      "source_url": "https://thanhnien.vn/khat-vong-tu-buon-ma-thuot-thanh-pho-ca-phe-cua-the-gioi-1851526767.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "Hãng cà phê Trung Nguyên ra đời năm 1996 tại Buôn Ma Thuột; tính đến bài báo năm 2022, sản phẩm của Trung Nguyên có mặt tại 80 quốc gia và vùng lãnh thổ.",
+      "source_title": "Khát vọng từ Buôn Ma Thuột - Thành phố cà phê của thế giới (Báo Thanh Niên, 30/11/2022)",
+      "source_url": "https://thanhnien.vn/khat-vong-tu-buon-ma-thuot-thanh-pho-ca-phe-cua-the-gioi-1851526767.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "USDA ước tính sản lượng cà phê Việt Nam niên vụ MY2024/25 đạt 29,0 triệu bao GBE, gồm 28,0 triệu bao Robusta và 1,0 triệu bao Arabica.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "USDA điều chỉnh tăng sản lượng cà phê Việt Nam niên vụ MY2025/26 lên 31,7 triệu bao GBE, gồm 30,5 triệu bao Robusta và 1,2 triệu bao Arabica.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "USDA dự báo sản lượng cà phê Việt Nam niên vụ MY2026/27 đạt 32,5 triệu bao GBE, gồm 31,4 triệu bao Robusta và 1,1 triệu bao Arabica.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "Diện tích Robusta cho thu hoạch của Việt Nam là 615.000 ha (MY2024/25), 630.200 ha (MY2025/26) và 644.000 ha (MY2026/27); năng suất bình quân tương ứng 2,73 – 2,90 – 2,93 tấn/ha.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "Theo Bộ Nông nghiệp và Môi trường (MAE), tổng diện tích cà phê của Việt Nam đã đạt khoảng 730.000 ha.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "Theo Viện Khoa học Kỹ thuật Nông Lâm nghiệp Tây Nguyên (WASI), khoảng 30% diện tích cà phê hiện nay đã 20 năm tuổi trở lên và cần tái canh hoặc cải tạo để giữ năng suất, chất lượng.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "Hơn 600.000 hộ nông dân quy mô nhỏ tham gia sản xuất cà phê tại Việt Nam.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "Đến năm 2025, khoảng 40% diện tích cà phê của Việt Nam đạt các chứng nhận bền vững như Rainforest Alliance, Fairtrade, 4C và UTZ.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "Quy định chống mất rừng của Liên minh châu Âu (EUDR) có hiệu lực từ tháng 12/2026.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "USDA ước tính xuất khẩu cà phê Việt Nam MY2025/26 đạt 28,5 triệu bao GBE, tăng 13% so với MY2024/25; dự báo MY2026/27 đạt 28,95 triệu bao, tăng 2% so với MY2025/26 và 15% so với MY2024/25.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "Theo Hiệp hội Cà phê – Ca cao Việt Nam (VICOFA), cà phê rang xay và hòa tan chiếm khoảng 13% tổng lượng xuất khẩu cà phê.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "Tiêu thụ cà phê nội địa của Việt Nam ước 4,9 triệu bao GBE trong MY2025/26 và dự báo 5,0 triệu bao trong MY2026/27.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "Giá xuất khẩu bình quân đạt 5.127 USD/tấn trong nửa đầu MY2025/26, giảm 9% so với cùng kỳ MY2024/25; tháng 3/2026 giá xuất khẩu là 4.553 USD/tấn, giảm 22% so với tháng 3/2025.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "Giá Robusta nội địa tại Tây Nguyên bình quân khoảng 102.800 đồng/kg trong nửa đầu MY2025/26, giảm 16% so với nửa đầu MY2024/25.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "Nửa đầu MY2025/26 Việt Nam xuất khẩu khoảng 15,7 triệu bao GBE, tăng 27,5% so với cùng kỳ; tăng trưởng theo thị trường: Đức +46%, Ý +31%, Hoa Kỳ +37%, Tây Ban Nha +22%, Nga +35%, Nhật Bản +19%.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "Nông dân cho biết chi phí sản xuất tăng mạnh: phân bón và nhiên liệu tăng khoảng 30%, chi phí lao động tăng 33% so với năm trước.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "NOAA dự báo xác suất 62% El Niño xuất hiện trong tháng 6–8/2026 và kéo dài ít nhất đến hết năm 2026.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "Lượng mưa từ tháng 1 đến tháng 3/2026 thấp hơn mức bình thường tại các tỉnh trồng cà phê chính của Tây Nguyên gồm Đắk Lắk, Gia Lai, Kon Tum, Đắk Nông và Lâm Đồng (số liệu GADAS của USDA).",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "Theo VICOFA, niên vụ 2024–2025 (10/2024–9/2025) Việt Nam xuất khẩu hơn 1,5 triệu tấn cà phê, kim ngạch hơn 8,4 tỷ USD, tăng 1,8% về lượng và 55,5% về giá trị; giá xuất khẩu bình quân 5.610 USD/tấn, tăng 52,7%.",
+      "source_title": "Vietnam's coffee exports hit record USD 8.4 billion in 2025 (VietnamNet, dẫn VICOFA)",
+      "source_url": "https://vietnamnet.vn/en/vietnam-s-coffee-exports-hit-record-usd-8-4-billion-in-2025-2456173.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "Theo VICOFA, tổng sản lượng cà phê niên vụ 2024–2025 của Việt Nam ước gần 29,5 triệu bao (hơn 1,7 triệu tấn), tăng hơn 9% so với 26,79 triệu bao của niên vụ 2023–2024.",
+      "source_title": "Vietnam's coffee exports hit record USD 8.4 billion in 2025 (VietnamNet, dẫn VICOFA)",
+      "source_url": "https://vietnamnet.vn/en/vietnam-s-coffee-exports-hit-record-usd-8-4-billion-in-2025-2456173.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "Niên vụ 2024–2025, các thị trường lớn nhất của cà phê Việt Nam là Đức 196.259 tấn (13%), Ý 124.766 tấn (8,3%) và Tây Ban Nha 110.224 tấn (7,3%); toàn châu Âu nhập hơn 710.000 tấn, chiếm 47,2%.",
+      "source_title": "Vietnam's coffee exports hit record USD 8.4 billion in 2025 (VietnamNet, dẫn VICOFA)",
+      "source_url": "https://vietnamnet.vn/en/vietnam-s-coffee-exports-hit-record-usd-8-4-billion-in-2025-2456173.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "Niên vụ cà phê 2023–2024 của tỉnh Đắk Lắk: diện tích toàn tỉnh khoảng 212.106 ha, trong đó diện tích cho sản phẩm 200.441 ha; năng suất bình quân 26,72 tạ/ha; tổng sản lượng 535.672 tấn, giảm 23.057 tấn so với niên vụ trước.",
+      "source_title": "Niên vụ cà phê 2023 - 2024: Tổng sản lượng toàn tỉnh đạt 535.672 tấn (Cổng thông tin điện tử tỉnh Đắk Lắk, 28/11/2024)",
+      "source_url": "https://daklak.gov.vn/-/nien-vu-ca-phe-2023-2024-tong-san-luong-toan-tinh-at-535-672-tan",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "Niên vụ 2023–2024, tỉnh Đắk Lắk xuất khẩu 264.404 tấn cà phê, giảm 54.095 tấn so với niên vụ 2022–2023; kim ngạch đạt 915,795 triệu USD, tăng 168,238 triệu USD do giá cà phê tăng cao.",
+      "source_title": "Niên vụ cà phê 2023 - 2024: Tổng sản lượng toàn tỉnh đạt 535.672 tấn (Cổng thông tin điện tử tỉnh Đắk Lắk, 28/11/2024)",
+      "source_url": "https://daklak.gov.vn/-/nien-vu-ca-phe-2023-2024-tong-san-luong-toan-tinh-at-535-672-tan",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "Sản lượng cà phê thế giới niên vụ 2025/26 là 178,83 triệu bao 60 kg; dự báo 2026/27 đạt mức kỷ lục 189,7 triệu bao.",
+      "source_title": "USDA FAS — Coffee: World Markets and Trade (tháng 7/2026)",
+      "source_url": "https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "Việt Nam là nước sản xuất cà phê lớn thứ hai thế giới sau Brazil; Brazil đạt 63,0 triệu bao niên vụ 2025/26 và dự báo 71,9 triệu bao niên vụ 2026/27.",
+      "source_title": "USDA FAS — Coffee: World Markets and Trade (tháng 7/2026)",
+      "source_url": "https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "Sản lượng Robusta toàn cầu niên vụ 2025/26 là 84,39 triệu bao, trong đó Việt Nam 30,5 triệu bao; niên vụ 2026/27 dự báo toàn cầu 83,8 triệu bao và Việt Nam 31,4 triệu bao.",
+      "source_title": "USDA FAS — Coffee: World Markets and Trade (tháng 7/2026)",
+      "source_url": "https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "Sản lượng cà phê Việt Nam theo niên vụ (nghìn bao 60 kg GBE): 2021/22 = 31.580; 2022/23 = 28.300; 2023/24 = 27.550; 2024/25 = 29.000; 2025/26 = 31.700; 2026/27 (dự báo) = 32.500.",
+      "source_title": "USDA FAS — Coffee: World Markets and Trade (tháng 7/2026)",
+      "source_url": "https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "Tổng xuất khẩu cà phê Việt Nam theo niên vụ (nghìn bao GBE, gồm hạt xanh, rang xay và hòa tan): 2021/22 = 29.010; 2022/23 = 28.340; 2023/24 = 24.400; 2024/25 = 25.200; 2025/26 = 28.500; 2026/27 (dự báo) = 28.950.",
+      "source_title": "USDA FAS — Coffee: World Markets and Trade (tháng 7/2026)",
+      "source_url": "https://apps.fas.usda.gov/psdonline/circulars/coffee.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "Cà phê trứng do ông Nguyễn Văn Giảng tạo ra năm 1946 khi thiếu sữa tươi và ông dùng trứng thay thế; quán Café Giảng mở tại Hà Nội cùng năm đó.",
+      "source_title": "Lịch sử của cà phê trứng (Vietcetera)",
+      "source_url": "https://vietcetera.com/en/the-history-of-egg-coffee",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "Kim ngạch xuất khẩu cà phê niên vụ 2024–2025 đạt 8,4 tỷ USD so với 5,4 tỷ USD niên vụ trước.",
+      "source_title": "Vietnam's coffee exports hit record high of 8.4 billion USD in 2024–2025 crop year (VietnamPlus, dẫn VICOFA)",
+      "source_url": "https://en.vietnamplus.vn/vietnams-coffee-exports-hit-record-high-of-84-billion-usd-in-20242025-crop-year-post330926.vnp",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "Theo VICOFA, khoảng 85% lượng cà phê xuất khẩu của Việt Nam vẫn là hạt thô chưa có thương hiệu mạnh; ngành đặt mục tiêu kim ngạch 10 tỷ USD dựa vào chế biến sâu, nâng chất lượng và xây dựng thương hiệu.",
+      "source_title": "Vietnam's coffee exports hit record high of 8.4 billion USD in 2024–2025 crop year (VietnamPlus, dẫn VICOFA)",
+      "source_url": "https://en.vietnamplus.vn/vietnams-coffee-exports-hit-record-high-of-84-billion-usd-in-20242025-crop-year-post330926.vnp",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "Nhiều nông dân Tây Nguyên từng chuyển một phần diện tích cà phê sang sầu riêng vì lợi nhuận cao hơn 2,5–3 lần trên cùng đơn vị diện tích; giá cà phê tăng mạnh năm 2024 đã đảo ngược xu hướng này, và mô hình độc canh đang chuyển dần sang xen canh tại Đắk Lắk, Lâm Đồng.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "Nửa đầu MY2025/26, Lào là nguồn cung cà phê nhập khẩu lớn nhất của Việt Nam với 45% tổng lượng nhập, tiếp theo là Indonesia 19%, Brazil 16% và Uganda 10%.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "Tồn kho cuối kỳ của Việt Nam ước 689.000 bao GBE cho MY2025/26 và dự báo giảm còn 489.000 bao cho MY2026/27.",
+      "source_title": "USDA FAS GAIN — Coffee Annual, Vietnam, VM2026-0016 (20/5/2026)",
+      "source_url": "https://www.fas.usda.gov/data/gain/2026/05/vietnam-coffee-annual",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    }
+  ]
+}

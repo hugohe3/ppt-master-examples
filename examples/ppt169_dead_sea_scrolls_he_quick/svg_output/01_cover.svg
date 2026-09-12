@@ -1,0 +1,29 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="p01-scrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#16130E" stop-opacity="0.9"/>
+      <stop offset="65%" stop-color="#16130E" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#16130E" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect id="p01-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#232019"/>
+  <image id="p01-photo" data-pptx-role="decoration" href="../images/qumran_cliffs.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="p01-veil" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p01-scrim)"/>
+<g id="p01-opening-arc" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="-420 -60 900 900" data-pptx-av-adj1="val 18900000" data-pptx-av-adj2="val 8100000" fill="none" stroke="#F4EEE2" stroke-width="2" stroke-opacity="0.5">
+<path d="M 348.2 71.8 A 450 450 0 0 1 -288.2 708.2 L 30 390 Z" stroke="none"/>
+<path d="M 348.2 71.8 A 450 450 0 0 1 -288.2 708.2"/>
+</g>
+  <g id="cover-kicker" data-pptx-bounds="880 132 336 28">
+    <text x="1216" y="150" font-size="18" letter-spacing="2" fill="#E2C79A">רשות העתיקות · מוזיאון ישראל</text>
+  </g>
+  <g id="cover-title" data-pptx-bounds="466 172 750 192">
+    <text x="1216" y="240" font-family="David" font-size="76" fill="#FAF6EC">מגילות ים המלח<tspan x="1216" dy="91">מהמערה למוזיאון</tspan></text>
+  </g>
+  <g id="cover-subtitle" data-pptx-bounds="648 384 568 70">
+    <line id="cover-rule" x1="648" y1="392" x2="1216" y2="392" stroke="#C98A46" stroke-width="2"/>
+    <text x="1216" y="438" font-size="30" fill="#EFE6D4">שבעים שנה של גילוי, שימור והנגשה</text>
+  </g>
+  <g id="cover-credit" data-pptx-bounds="60 682 400 26">
+    <text x="64" y="700" text-anchor="start" font-size="16" fill="#CDBFA6">Bahnfrend / Wikimedia Commons / CC BY-SA 4.0</text>
+  </g>
+</svg>

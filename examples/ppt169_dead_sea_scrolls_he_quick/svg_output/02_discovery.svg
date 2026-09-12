@@ -1,0 +1,37 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <defs>
+    <radialGradient id="p02-fade" cx="0.5" cy="0.5" r="0.74">
+      <stop offset="42%" stop-color="#F4EEE2" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F4EEE2" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect id="p02-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <g id="discovery-relic" data-pptx-bounds="70 118 400 540">
+<g id="p02-lid-arc" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="blockArc" data-pptx-frame="70 120 400 400" data-pptx-av-adj1="val 10800000" data-pptx-av-adj2="val 21600000" data-pptx-av-adj3="val 8000" fill="#C98A46" stroke="none" fill-opacity="0.22">
+<path d="M 70 320 A 200 200 0 0 1 470 320 L 438 320 A 168 168 0 0 0 102 320 Z"/>
+</g>
+    <image id="p02-jar" href="../images/scroll_jar.jpg" x="100" y="195" width="340" height="453" preserveAspectRatio="xMidYMid meet"/>
+    <rect id="p02-jar-fade" x="100" y="195" width="340" height="453" fill="url(#p02-fade)"/>
+    <text x="440" y="648" font-size="16" fill="#8C8172">כד אחסון מקומראן, אוסף מוזיאון המטרופוליטן</text>
+  </g>
+  <g id="discovery-kicker" data-pptx-bounds="980 122 236 28">
+    <text x="1216" y="140" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק ראשון · הגילוי</text>
+  </g>
+  <g id="discovery-title" data-pptx-bounds="775 162 441 76">
+    <text x="1216" y="200" font-family="David" font-size="40" fill="#1F1B16">הכל התחיל במערה אחת</text>
+    <line x1="775" y1="232" x2="1216" y2="232" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="discovery-year" data-pptx-bounds="1010 254 206 122">
+    <text x="1216" y="330" font-family="David" font-size="84" fill="#9A5B2B">1947</text>
+    <text x="1216" y="366" font-size="18" fill="#6B6156">שנת הגילוי</text>
+  </g>
+  <g id="discovery-lead" data-pptx-bounds="600 412 616 86">
+    <text x="1216" y="440" font-size="28" fill="#332E27">שבע מגילות שלמות נמצאו במערה 1 בקומראן<tspan x="1216" dy="44">והן שפתחו את המסע אל עולם שלם של כתבים</tspan></text>
+  </g>
+  <g id="discovery-body" data-pptx-bounds="560 536 656 74">
+    <text x="1216" y="560" font-size="24" fill="#332E27">בהן מגילת ישעיהו הגדולה, סרך היחד ומגילת המלחמה<tspan x="1216" dy="37">שלוש מן המגילות שמוצגות היום בהיכל הספר</tspan></text>
+  </g>
+  <g id="discovery-source" data-pptx-bounds="625 631 591 30">
+    <text x="1216" y="650" font-size="18" fill="#6B6156">מקור: מוזיאון ישראל, 2026 · המיזם הדיגיטלי של מגילות ים המלח</text>
+  </g>
+</svg>

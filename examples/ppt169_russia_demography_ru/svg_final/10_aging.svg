@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="agingRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1B2B3A" />
+      <stop offset="100%" stop-color="#B3121B" />
+    </linearGradient>
+  </defs>
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 58 1136 92">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Доля 65 лет и старше выросла до 17,2 %</text>
+    <text x="72" y="136" font-size="28" fill="#232A31">Весь прирост последних лет — после 2011 года</text>
+  </g>
+
+  <g id="aging-summary" data-pptx-bounds="72 196 380 380">
+    <text x="72" y="226" font-size="18" letter-spacing="2" fill="#5B6670">ДОЛЯ 65 ЛЕТ И СТАРШЕ</text>
+    
+  <g transform="translate(320, 204) scale(1.83333)" fill="none" stroke="#B3121B" stroke-width="2">
+    <path d="M6.5 7h11" />
+    <path d="M6.5 17h11" />
+    <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1" />
+    <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1" />
+  </g>
+    <text x="72" y="302" font-family="Times New Roman, serif" font-size="64" font-weight="bold" fill="#B3121B">+6,9</text>
+    <text x="72" y="332" font-size="18" fill="#232A31">процентного пункта за 33 года</text>
+    <rect x="72" y="352" width="240" height="4" fill="url(#agingRule)" />
+    <text font-size="22" font-family="Consolas, monospace" fill="#1B2B3A" x="72" y="390">1991 — 10,3 %</text><text font-size="22" font-family="Consolas, monospace" fill="#1B2B3A" x="72" y="422">2024 — 17,2 %</text><text font-size="18" fill="#5B6670" x="72" y="470">Единственное снижение ряда —</text><text font-size="18" fill="#5B6670" x="72" y="496">2009–2011 годы (12,6 % в 2011).</text><text font-size="18" fill="#5B6670" x="72" y="534">С 2012 по 2024 год доля</text><text font-size="18" fill="#5B6670" x="72" y="560">выросла на 4,6 п. п. (расчёт).</text></g>
+
+  <g id="aging-share" data-pptx-replace-with="chart" data-pptx-bounds="452 196 756 400" data-pptx-fallback-sha256="12ed9d275201852fc2e21d6cc348b151370429196fd31d979b5a89ccd659fa35">
+    <metadata type="application/json">
+{
+  "name": "aging-share",
+  "x": 452, "y": 196, "width": 756, "height": 400,
+  "plot_area": {"x": 530, "y": 220, "width": 650, "height": 340},
+  "type": "column",
+  "grouping": "clustered",
+  "gap_width": 56,
+  "categories": ["1991","1995","2000","2005","2011","2015","2020","2024"],
+  "series": [
+    {
+      "name": "Доля населения 65 лет и старше, %",
+      "values": [10.3,11.9,12.3,13.7,12.6,13.5,15.5,17.2],
+      "point_colors": ["#1B2B3A","#1B2B3A","#1B2B3A","#1B2B3A","#2E6F8E","#1B2B3A","#1B2B3A","#B3121B"]
+    }
+  ],
+  "axes": {
+    "category": {"kind": "text", "position": "bottom", "visible": true, "label_position": "next_to", "tick_marks": "none"},
+    "value": {"kind": "value", "position": "left", "visible": true, "label_position": "next_to", "minimum": 0, "maximum": 18, "major_unit": 3, "major_gridlines": true, "tick_marks": "none", "number_format": "0", "cross_between": "between"}
+  },
+  "style": {
+    "colors": ["#1B2B3A"],
+    "chart_area_fill": "none",
+    "plot_area_fill": "none",
+    "text_color": "#5B6670",
+    "axis_color": "#5B6670",
+    "grid_color": "#E6E1D7",
+    "font_family": "Arial",
+    "axis_font_size": 18
+  },
+  "notes": [
+    {"text": "% от численности населения", "width": 290, "font_size": 18, "color": "#5B6670", "align": "l"},
+    {"text": "10,3", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "11,9", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "12,3", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "13,7", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "12,6", "width": 70, "font_size": 20, "color": "#2E6F8E", "bold": true, "align": "ctr"},
+    {"text": "13,5", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "15,5", "width": 70, "font_size": 20, "color": "#1B2B3A", "bold": true, "align": "ctr"},
+    {"text": "17,2", "width": 70, "font_size": 20, "color": "#B3121B", "bold": true, "align": "ctr"}
+  ]
+}
+    </metadata>
+
+    <g id="aging-share-chartArea">
+      <g id="aging-share-grid" stroke="#E6E1D7" stroke-width="1">
+        <line x1="530" y1="503.3" x2="1180" y2="503.3" />
+        <line x1="530" y1="446.7" x2="1180" y2="446.7" />
+        <line x1="530" y1="390" x2="1180" y2="390" />
+        <line x1="530" y1="333.3" x2="1180" y2="333.3" />
+        <line x1="530" y1="276.7" x2="1180" y2="276.7" />
+        <line x1="530" y1="220" x2="1180" y2="220" />
+      </g>
+      <g id="aging-share-axis" stroke="#5B6670" stroke-width="1.5">
+        <line x1="530" y1="220" x2="530" y2="560" />
+        <line x1="530" y1="560" x2="1180" y2="560" />
+      </g>
+      <g id="aging-share-value-labels" font-size="18" fill="#5B6670" text-anchor="end">
+        <text x="518" y="566">0</text>
+        <text x="518" y="509.3">3</text>
+        <text x="518" y="452.7">6</text>
+        <text x="518" y="396">9</text>
+        <text x="518" y="339.3">12</text>
+        <text x="518" y="282.7">15</text>
+        <text x="518" y="226">18</text>
+      </g>
+      <g id="aging-share-category-labels" font-size="18" fill="#5B6670" text-anchor="middle">
+        <text x="570.6" y="586">1991</text>
+        <text x="651.9" y="586">1995</text>
+        <text x="733.1" y="586">2000</text>
+        <text x="814.4" y="586">2005</text>
+        <text x="895.6" y="586">2011</text>
+        <text x="976.9" y="586">2015</text>
+        <text x="1058.1" y="586">2020</text>
+        <text x="1139.4" y="586">2024</text>
+      </g>
+      
+      <g id="aging-share-bars">
+        <rect x="544.6" y="365.4" width="52" height="194.6" fill="#1B2B3A" />
+        <rect x="625.9" y="335.2" width="52" height="224.8" fill="#1B2B3A" />
+        <rect x="707.1" y="327.7" width="52" height="232.3" fill="#1B2B3A" />
+        <rect x="788.4" y="301.2" width="52" height="258.8" fill="#1B2B3A" />
+        <rect x="869.6" y="322" width="52" height="238" fill="#2E6F8E" />
+        <rect x="950.9" y="305" width="52" height="255" fill="#1B2B3A" />
+        <rect x="1032.1" y="267.2" width="52" height="292.8" fill="#1B2B3A" />
+        <rect x="1113.4" y="235.1" width="52" height="324.9" fill="#B3121B" />
+      </g>
+      <g id="aging-share-point-notes" font-size="20" font-weight="bold" text-anchor="middle">
+        <text x="570.6" y="356" fill="#1B2B3A">10,3</text>
+        <text x="651.9" y="326" fill="#1B2B3A">11,9</text>
+        <text x="733.1" y="318" fill="#1B2B3A">12,3</text>
+        <text x="814.4" y="292" fill="#1B2B3A">13,7</text>
+        <text x="895.6" y="312" fill="#2E6F8E">12,6</text>
+        <text x="976.9" y="296" fill="#1B2B3A">13,5</text>
+        <text x="1058.1" y="258" fill="#1B2B3A">15,5</text>
+        <text x="1139.4" y="226" fill="#B3121B">17,2</text>
+      </g>
+      <text x="530" y="212" font-size="18" fill="#5B6670">% от численности населения</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SP.POP.65UP.TO.ZS, избранные годы 1991–2024 · прирост в п. п. — расчёт</text>
+    <text x="1208" y="690" text-anchor="end">10</text>
+  </g>
+</svg>

@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "trigger": "after-previous" }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-kicker": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "cover-title": { "effect": "entrance_fade", "order": 2, "duration": 0.7 },
+        "cover-hook": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.6 },
+        "cover-visual": { "effect": "entrance_fade", "order": 4, "duration": 0.8 },
+        "cover-meta": { "effect": "entrance_fade", "order": 5, "duration": 0.4 }
+      }
+    },
+    "02_agenda": {
+      "groups": {
+        "agenda-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "part-1": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.4 },
+        "part-2": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.4 },
+        "part-3": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.4 },
+        "part-4": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.4 }
+      }
+    },
+    "03_calibres": {
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "calibre-caam": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "calibre-cpca": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "calibre-rule": { "effect": "entrance_fade", "order": 4, "duration": 0.5 },
+        "editor-note": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.5, "delay": 0.2 }
+      }
+    },
+    "04_volumes": {
+      "groups": {
+        "export-mix-donut": { "effect": "entrance_wedge", "order": 1, "duration": 0.9 },
+        "claim-total": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "claim-nev": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "claim-ice": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "claim-share": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.5, "delay": 0.2 }
+      }
+    },
+    "05_four_year_step": {
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "nev-export-series": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 2, "duration": 0.9 },
+        "p05-nev-2025-figure": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "step-annotation": { "effect": "entrance_fade", "order": 4, "duration": 0.5, "delay": 0.3 }
+      }
+    },
+    "06_two_calibres": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "05_four_year_step", "pairs": { "nev-2025-figure": { "from": "p05-nev-2025-figure", "to": "p05-nev-2025-figure" } } },
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "p06-cpca-figure": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "calibre-gap": { "effect": "entrance_zoom", "order": 3, "duration": 0.5 },
+        "rule-line": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.5 },
+        "price-note": { "effect": "entrance_fade", "order": 5, "duration": 0.4, "delay": 0.2 }
+      }
+    },
+    "07_destinations": {
+      "transition": { "effect": "push", "duration": 0.5 },
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "destination-top3": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.9 },
+        "region-tags": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "tail-note": { "effect": "entrance_fade", "order": 4, "duration": 0.4, "delay": 0.2 }
+      }
+    },
+    "08_exporters": {
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "exporter-metrics": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.9 },
+        "table-note": { "effect": "entrance_fade", "order": 3, "duration": 0.4, "delay": 0.2 }
+      }
+    },
+    "09_localization": {
+      "transition": { "effect": "push", "duration": 0.5 },
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "p09-shipping-step": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.5 },
+        "p09-local-production-step": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.5 },
+        "p09-network-step": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.5 },
+        "plant-visual": { "effect": "entrance_fade", "order": 5, "duration": 0.6 },
+        "increment-claim": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.5, "delay": 0.3 }
+      }
+    },
+    "10_overseas_plants": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "09_localization", "pairs": { "local-production": { "from": "p09-local-production-step", "to": "p10-local-production-band" } } },
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "overseas-plants": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.9 },
+        "table-note": { "effect": "entrance_fade", "order": 3, "duration": 0.4, "delay": 0.2 }
+      }
+    },
+    "11_charging_network": {
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "region-europe": { "effect": "entrance_rise_up", "order": 2, "duration": 0.4 },
+        "region-americas": { "effect": "entrance_rise_up", "order": 3, "duration": 0.4 },
+        "region-apac": { "effect": "entrance_rise_up", "order": 4, "duration": 0.4 },
+        "region-total": { "effect": "entrance_zoom", "order": 5, "duration": 0.5 },
+        "charging-visual": { "effect": "entrance_fade", "order": 6, "duration": 0.6 },
+        "build-out-reality": { "effect": "entrance_fade", "order": 7, "duration": 0.5, "delay": 0.3 }
+      }
+    },
+    "12_tariff_walls": {
+      "transition": { "effect": "push", "duration": 0.5 },
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "eu-tariff-ladder": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.9 },
+        "p12-combined-burden-bar": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.6 },
+        "us-tariff-wall": { "effect": "entrance_fade", "order": 4, "duration": 0.6 }
+      }
+    },
+    "13_price_undertaking": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "12_tariff_walls", "pairs": { "tariff-burden": { "from": "p12-combined-burden-bar", "to": "p13-mip-bar" } } },
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "mip-replaces": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "mip-pricing": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "mip-condition": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "status-note": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.5, "delay": 0.3 }
+      }
+    },
+    "14_outlook": {
+      "groups": {
+        "lead-claim": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "forecast-2026": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "outlook-2030": { "effect": "entrance_fade", "order": 3, "duration": 0.6 },
+        "growth-contrast": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.5, "delay": 0.3 }
+      }
+    },
+    "15_takeaway": {
+      "groups": {
+        "takeaway": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "agenda-calibres": { "effect": "entrance_rise_up", "order": 2, "duration": 0.4 },
+        "agenda-localization": { "effect": "entrance_rise_up", "order": 3, "duration": 0.4 },
+        "agenda-rules": { "effect": "entrance_rise_up", "order": 4, "duration": 0.4 }
+      }
+    }
+  }
+}

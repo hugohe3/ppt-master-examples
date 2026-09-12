@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <line id="header-rule" data-pptx-role="decoration" x1="72" y1="152" x2="1208" y2="152" stroke="#D8DEE6" stroke-width="1" />
+
+  <g id="header" data-pptx-bounds="72 58 900 84">
+    <text x="72" y="102" font-family="SimSun" font-size="40" font-weight="bold" fill="#0E3A66">总量增速回落,重心转向海外生产</text>
+    <text x="72" y="134" font-family="Cambria" font-size="24" fill="#5C6673">Slower Volume, Local Production Leads</text>
+  </g>
+
+  <g id="part-index" data-pptx-bounds="1000 58 208 62">
+    <text x="1208" y="94" font-size="17" fill="#5C6673" text-anchor="end">四 壁垒与展望</text>
+    <text x="1208" y="116" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">Part 4 · Barriers &amp; Outlook</text>
+  </g>
+
+  <g id="lead-claim" data-pptx-bounds="72 172 1136 68">
+    <text x="72" y="204" font-size="22" fill="#1B2430">2026 年两个公开预测都指向个位数增长;真正的增量在海外产能。单位:万辆。</text>
+    <text x="72" y="232" font-family="Cambria" font-size="18" fill="#5C6673">Both 2026 forecasts point to single-digit growth; the increment sits in overseas capacity.</text>
+  </g>
+
+  <g id="forecast-2026" data-pptx-bounds="72 260 640 240">
+    <g id="p14-forecast-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="72 264 640 232" data-pptx-av-adj="val 8000" fill="none" stroke="#C3CFDA" stroke-width="2">
+<path d="M 72 282.56 A 18.56 18.56 0 0 1 90.56 264 L 693.44 264 A 18.56 18.56 0 0 1 712 282.56 L 712 477.44 A 18.56 18.56 0 0 1 693.44 496 L 90.56 496 A 18.56 18.56 0 0 1 72 477.44 Z" stroke="none" />
+<path d="M 90.56 496 A 18.56 18.56 0 0 1 72 477.44 L 72 282.56 A 18.56 18.56 0 0 1 90.56 264 M 693.44 264 A 18.56 18.56 0 0 1 712 282.56 L 712 477.44 A 18.56 18.56 0 0 1 693.44 496" />
+</g>
+    <text x="112" y="300" font-size="20" fill="#5C6673">2026 年汽车出口预测 / 2026 export forecasts</text>
+    <text x="112" y="342" font-size="22" font-weight="bold" fill="#0E3A66">中汽协 CAAM</text>
+    <text x="112" y="412" font-family="Cambria" font-size="64" fill="#0E3A66">740</text>
+    <text x="112" y="444" font-size="20" fill="#1B2430">万辆,同比 +4.3%</text>
+    <text x="112" y="470" font-family="Cambria" font-size="18" fill="#5C6673">7.4m units, +4.3%</text>
+    <text x="420" y="342" font-size="22" font-weight="bold" fill="#0E3A66">车百会 CEV100</text>
+    <text x="420" y="412" font-family="Cambria" font-size="64" fill="#2E7D8F">800</text>
+    <text x="420" y="444" font-size="20" fill="#1B2430">万辆(张永伟)</text>
+    <text x="420" y="470" font-family="Cambria" font-size="18" fill="#5C6673">8m units (Zhang Yongwei)</text>
+  </g>
+
+  <g id="outlook-2030" data-pptx-bounds="760 260 448 300">
+    <text x="760" y="300" font-size="20" fill="#5C6673">2030 年展望 / The 2030 view</text>
+    <text x="760" y="372" font-family="Cambria" font-size="64" fill="#D4541E">1000</text>
+    <text x="760" y="406" font-size="22" fill="#1B2430">万辆:含出口在内的海外产销</text>
+    <text x="760" y="434" font-family="Cambria" font-size="18" fill="#5C6673">10m units made or sold abroad</text>
+    <line x1="760" y1="462" x2="1208" y2="462" stroke="#D8DEE6" stroke-width="1" />
+    <text x="760" y="500" font-size="22" fill="#1B2430">其中海外生产销售占比<tspan font-weight="bold" fill="#D4541E">有望冲击 50%</tspan></text>
+    <text x="760" y="530" font-family="Cambria" font-size="18" fill="#5C6673">Local production could reach half of that</text>
+  </g>
+
+  <g id="growth-contrast" data-pptx-bounds="72 524 640 124">
+    <line x1="72" y1="528" x2="72" y2="644" stroke="#D4541E" stroke-width="3" />
+    <text x="94" y="560" font-size="22" fill="#1B2430">对比 2025 年实际 <tspan font-weight="bold" fill="#2E7D32">+21.1%</tspan>,2026 年预测增速</text>
+    <text x="94" y="590" font-size="22" fill="#1B2430">明显回落至 <tspan font-weight="bold" fill="#D4541E">+4.3%</tspan>,增长重心转向海外生产。</text>
+    <text font-size="18" fill="#5C6673" font-family="Cambria" x="94" y="620">Against +21.1% actual in 2025, growth slows to +4.3% —</text><text font-size="18" fill="#5C6673" font-family="Cambria" x="94" y="644">the increment moves to overseas production.</text></g>
+
+  <g id="source-bar" data-pptx-bounds="72 660 1136 28">
+    <line x1="72" y1="662" x2="1208" y2="662" stroke="#D8DEE6" stroke-width="1" />
+    <text x="72" y="684" font-size="14" fill="#5C6673">来源:中国汽车工业协会 2026-01-14 预测;中国电动汽车百人会张永伟 / Sources: CAAM forecast, 14 Jan 2026; CEV100 (Zhang Yongwei)</text>
+    <text x="1208" y="684" font-family="Cambria" font-size="14" fill="#5C6673" text-anchor="end">14 / 15</text>
+  </g>
+</svg>

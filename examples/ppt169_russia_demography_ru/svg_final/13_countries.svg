@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBFAF7" />
+
+  <g id="page-header" data-pptx-bounds="72 58 1136 92">
+    <text x="72" y="96" font-family="Times New Roman, serif" font-size="40" font-weight="bold" fill="#1B2B3A">Сопоставление пяти стран, 2024 год</text>
+    <text x="72" y="136" font-size="28" fill="#232A31">Все значения — за 2024 год из тех же четырёх индикаторов</text>
+    
+  <g transform="translate(1152, 62) scale(2)" fill="none" stroke="#2E6F8E" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M3.6 9h16.8" />
+    <path d="M3.6 15h16.8" />
+    <path d="M11.5 3a17 17 0 0 0 0 18" />
+    <path d="M12.5 3a17 17 0 0 1 0 18" />
+  </g>
+  </g>
+
+  <g id="country-metrics" data-pptx-replace-with="table" data-pptx-bounds="72 200 1136 336" data-pptx-fallback-sha256="ac2cc042d77384784032b52dbd689c19c1f044df24312af76211ac36b232de49">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "country-metrics",
+  "x": 72, "y": 200, "width": 1136, "height": 336,
+  "column_widths": [300, 200, 240, 200, 196],
+  "defaults": {
+    "cell": {
+      "valign": "middle",
+      "font_size": 22,
+      "padding": {"left": 16, "right": 16, "top": 8, "bottom": 8},
+      "borders": {
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D5CFC4", "width": 1},
+        "left": {"style": "none"},
+        "right": {"style": "none"}
+      }
+    }
+  },
+  "columns": [
+    {"text": "СТРАНА", "bold": true, "font_size": 18, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "l"},
+    {"text": "СКР", "bold": true, "font_size": 18, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "r"},
+    {"text": "ЛЕТ ЖИЗНИ", "bold": true, "font_size": 18, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "r"},
+    {"text": "65+, %", "bold": true, "font_size": 18, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "r"},
+    {"text": "ГОРОД, %", "bold": true, "font_size": 18, "color": "#1B2B3A", "fill": "#F0EDE6", "align": "r"}
+  ],
+  "rows": [
+    [{"text": "Россия", "bold": true, "color": "#B3121B", "fill": "#F5E7E5", "align": "l"}, {"text": "1,42", "bold": true, "color": "#B3121B", "fill": "#F5E7E5", "align": "r"}, {"text": "73,4", "bold": true, "color": "#B3121B", "fill": "#F5E7E5", "align": "r"}, {"text": "17,2", "bold": true, "color": "#B3121B", "fill": "#F5E7E5", "align": "r"}, {"text": "75,1", "bold": true, "color": "#B3121B", "fill": "#F5E7E5", "align": "r"}],
+    [{"text": "Германия", "color": "#232A31", "align": "l"}, {"text": "1,36", "color": "#1B2B3A", "align": "r"}, {"text": "80,8", "color": "#1B2B3A", "align": "r"}, {"text": "23,2", "color": "#1B2B3A", "align": "r"}, {"text": "82,0", "color": "#1B2B3A", "align": "r"}],
+    [{"text": "Япония", "color": "#232A31", "align": "l"}, {"text": "1,15", "color": "#1B2B3A", "align": "r"}, {"text": "84,0", "color": "#1B2B3A", "align": "r"}, {"text": "29,8", "color": "#1B2B3A", "align": "r"}, {"text": "92,2", "color": "#1B2B3A", "align": "r"}],
+    [{"text": "Китай", "color": "#232A31", "align": "l"}, {"text": "1,01", "color": "#1B2B3A", "align": "r"}, {"text": "78,0", "color": "#1B2B3A", "align": "r"}, {"text": "14,7", "color": "#1B2B3A", "align": "r"}, {"text": "65,9", "color": "#1B2B3A", "align": "r"}],
+    [{"text": "США", "color": "#232A31", "align": "l"}, {"text": "1,63", "color": "#1B2B3A", "align": "r"}, {"text": "78,9", "color": "#1B2B3A", "align": "r"}, {"text": "17,9", "color": "#1B2B3A", "align": "r"}, {"text": "80,1", "color": "#1B2B3A", "align": "r"}]
+  ]
+}
+    </metadata>
+
+    <rect x="72" y="200" width="1136" height="56" fill="#F0EDE6" />
+    <rect x="72" y="256" width="1136" height="56" fill="#F5E7E5" />
+    <g stroke="#D5CFC4" stroke-width="1">
+      <line x1="72" y1="256" x2="1208" y2="256" />
+      <line x1="72" y1="312" x2="1208" y2="312" />
+      <line x1="72" y1="368" x2="1208" y2="368" />
+      <line x1="72" y1="424" x2="1208" y2="424" />
+      <line x1="72" y1="480" x2="1208" y2="480" />
+      <line x1="72" y1="536" x2="1208" y2="536" />
+    </g>
+    <g font-size="18" font-weight="bold" fill="#1B2B3A">
+      <text x="88" y="236">СТРАНА</text>
+      <text x="556" y="236" text-anchor="end">СКР</text>
+      <text x="796" y="236" text-anchor="end">ЛЕТ ЖИЗНИ</text>
+      <text x="996" y="236" text-anchor="end">65+, %</text>
+      <text x="1192" y="236" text-anchor="end">ГОРОД, %</text>
+    </g>
+    <g id="country-row-rus" font-size="22" font-weight="bold" fill="#B3121B">
+      <text x="88" y="292">Россия</text>
+      <text x="556" y="292" text-anchor="end">1,42</text>
+      <text x="796" y="292" text-anchor="end">73,4</text>
+      <text x="996" y="292" text-anchor="end">17,2</text>
+      <text x="1192" y="292" text-anchor="end">75,1</text>
+    </g>
+    <g font-size="22" fill="#1B2B3A">
+      <text x="88" y="348" fill="#232A31">Германия</text>
+      <text x="556" y="348" text-anchor="end">1,36</text>
+      <text x="796" y="348" text-anchor="end">80,8</text>
+      <text x="996" y="348" text-anchor="end">23,2</text>
+      <text x="1192" y="348" text-anchor="end">82,0</text>
+      <text x="88" y="404" fill="#232A31">Япония</text>
+      <text x="556" y="404" text-anchor="end">1,15</text>
+      <text x="796" y="404" text-anchor="end">84,0</text>
+      <text x="996" y="404" text-anchor="end">29,8</text>
+      <text x="1192" y="404" text-anchor="end">92,2</text>
+      <text x="88" y="460" fill="#232A31">Китай</text>
+      <text x="556" y="460" text-anchor="end">1,01</text>
+      <text x="796" y="460" text-anchor="end">78,0</text>
+      <text x="996" y="460" text-anchor="end">14,7</text>
+      <text x="1192" y="460" text-anchor="end">65,9</text>
+      <text x="88" y="516" fill="#232A31">США</text>
+      <text x="556" y="516" text-anchor="end">1,63</text>
+      <text x="796" y="516" text-anchor="end">78,9</text>
+      <text x="996" y="516" text-anchor="end">17,9</text>
+      <text x="1192" y="516" text-anchor="end">80,1</text>
+    </g>
+  </g>
+
+  <g id="country-note" data-pptx-bounds="72 548 1136 82">
+    <text font-size="18" fill="#5B6670" x="72" y="570">СКР — суммарный коэффициент рождаемости, рождений на женщину.</text><text font-size="18" fill="#5B6670" x="72" y="596">Страны сопоставления выбраны как крупные экономики с длинными рядами.</text><text font-size="18" fill="#5B6670" x="72" y="622">По СКР Россия выше Германии, Японии и Китая, но по продолжительности жизни — ниже всех.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 674 1136 24" fill="#5B6670" font-size="16">
+    <text x="72" y="690">Всемирный банк, SP.DYN.TFRT.IN, SP.DYN.LE00.IN, SP.POP.65UP.TO.ZS, SP.URB.TOTL.IN.ZS, 2024</text>
+    <text x="1208" y="690" text-anchor="end">13</text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg lang="he-IL" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI" text-anchor="end" data-pptx-page-role="content">
+  <rect id="p11-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F4EEE2"/>
+  <image id="p11-shrine" data-pptx-role="decoration" href="../images/shrine_of_the_book.jpg" x="0" y="0" width="700" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <line id="p11-seam" data-pptx-role="decoration" x1="700" y1="0" x2="700" y2="720" stroke="#C98A46" stroke-width="2"/>
+  <g id="shrine-kicker" data-pptx-bounds="955 162 261 27">
+    <text x="1216" y="180" font-size="18" letter-spacing="2" fill="#9A5B2B">פרק עשירי · היכל הספר</text>
+  </g>
+  <g id="shrine-title" data-pptx-bounds="911 202 305 122">
+    <text x="1216" y="240" font-family="David" font-size="40" fill="#1F1B16">הכיפה שמספרת<tspan x="1216" dy="48">את הסיפור</tspan></text>
+    <line x1="911" y1="320" x2="1216" y2="320" stroke="#C98A46" stroke-width="2"/>
+  </g>
+  <g id="shrine-year" data-pptx-bounds="1081 340 135 94">
+    <text x="1216" y="390" font-family="David" font-size="56" fill="#9A5B2B">1965</text>
+    <text x="1216" y="424" font-size="18" fill="#6B6156">שנת החנוכה</text>
+  </g>
+  <g id="shrine-body" data-pptx-bounds="740 456 476 144">
+    <text x="1216" y="480" font-size="24" fill="#332E27">הבניין נחנך בעשרים באפריל, והוקם<tspan x="1216" dy="37">כדי לשמור על שבע המגילות הראשונות</tspan><tspan x="1216" dy="37">הכיפה מסמלת את מכסי הכדים, והקיר</tspan><tspan x="1216" dy="37">השחור מולה — בני אור ובני חושך</tspan></text>
+  </g>
+  <g id="shrine-architects" data-pptx-bounds="780 602 436 28">
+    <text x="1216" y="620" font-size="18" fill="#6B6156">האדריכלים: ארמנד פ' ברטוס ופרדריק ג' קיסלר</text>
+  </g>
+  <g id="shrine-source" data-pptx-bounds="846 632 370 28">
+    <text x="1216" y="650" font-size="18" fill="#6B6156">מקור: מוזיאון ישראל, 2026 · היכל הספר</text>
+  </g>
+  <g id="shrine-credit" data-pptx-bounds="884 672 332 40">
+    <text x="1216" y="686" font-size="14" fill="#8C8172">Chris Yunker from St. Louis, United States<tspan x="1216" dy="20">Wikimedia Commons / CC BY-SA 2.0</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="vi-VN" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F3EC" />
+
+  <g id="page-title" data-pptx-bounds="64 44 1152 82">
+    <text x="64" y="62" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẶNG 4 · GIÁ TRỊ</text>
+    <text x="64" y="110" font-family="Cambria" font-size="40" font-weight="bold" fill="#221C15">Điểm nghẽn giá trị: phần lớn vẫn xuất thô</text>
+  </g>
+
+  <g id="chapter-rail" data-pptx-bounds="64 128 1152 12">
+    <line x1="64" y1="134" x2="1216" y2="134" stroke="#D9CDBA" stroke-width="2" />
+    <rect x="754" y="131" width="230" height="6" fill="#9C2B1B" />
+  </g>
+
+  <g id="value-gap-block" data-pptx-bounds="64 176 576 244">
+    <rect x="64" y="176" width="576" height="244" fill="#7A3B22" />
+    <text x="96" y="222" font-size="18" font-weight="600" fill="#E7D5BF" letter-spacing="2">XUẤT THÔ</text>
+    <text x="96" y="322" font-family="Cambria" font-size="72" font-weight="bold" fill="#F7F3EC">85%</text>
+    <text font-size="18" fill="#E7D5BF" x="96" y="362">lượng cà phê xuất khẩu vẫn là hạt thô,</text><text font-size="18" fill="#E7D5BF" x="96" y="388">chưa có thương hiệu mạnh</text></g>
+
+  <g id="value-processed-block" data-pptx-bounds="664 176 552 244">
+    <rect x="664" y="176" width="552" height="244" fill="#EFE7DA" />
+    <text x="696" y="222" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">CHẾ BIẾN SÂU</text>
+    <text x="696" y="322" font-family="Cambria" font-size="72" font-weight="bold" fill="#7A3B22">13%</text>
+    <text font-size="18" fill="#6B5B4A" x="696" y="362">cà phê rang xay và hoà tan trong tổng</text><text font-size="18" fill="#6B5B4A" x="696" y="388">lượng xuất khẩu</text></g>
+
+  <g id="value-gap-caveat" data-pptx-bounds="64 430 1152 30">
+    <text x="64" y="448" font-size="18" fill="#6B5B4A">Hai tỷ lệ trên đến từ hai phát biểu khác nhau của VICOFA và không cộng thành 100%.</text>
+  </g>
+
+  <g id="value-target" data-pptx-bounds="64 470 1152 90">
+    <text x="64" y="490" font-size="18" font-weight="600" fill="#9C2B1B" letter-spacing="2">MỤC TIÊU CỦA NGÀNH</text>
+    <g id="p10-target-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="64 504 200 48" data-pptx-av-adj1="val 55000" data-pptx-av-adj2="val 60000" fill="#C08A2E" stroke="none">
+<path d="M 64 514.8 L 235.2 514.8 L 235.2 504 L 264 528 L 235.2 552 L 235.2 541.2 L 64 541.2 Z" />
+</g>
+    <text x="296" y="542" font-family="Cambria" font-size="44" font-weight="bold" fill="#221C15">10 tỷ USD</text>
+  </g>
+
+  <g id="value-target-note" data-pptx-bounds="64 570 1152 72">
+    <text font-size="24" fill="#3A3128" x="64" y="594">VICOFA đặt mục tiêu kim ngạch 10 tỷ USD, dựa vào chế biến sâu, nâng chất</text><text font-size="24" fill="#3A3128" x="64" y="630">lượng và xây dựng thương hiệu cho hạt cà phê Việt Nam.</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 668 1152 38" fill="#6B5B4A" font-size="16">
+    <text x="64" y="692">Nguồn: VICOFA dẫn qua VietnamPlus (2025) cho tỷ lệ 85% và mục tiêu 10 tỷ USD; USDA FAS VM2026-0016 dẫn VICOFA cho tỷ lệ 13%.</text>
+    <text x="1216" y="692" text-anchor="end">10</text>
+  </g>
+</svg>

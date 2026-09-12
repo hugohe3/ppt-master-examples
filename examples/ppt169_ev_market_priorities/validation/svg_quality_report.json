@@ -1,0 +1,1098 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "1ccf05c629c5ab64fee6ccb26aa08f5723d04c0b9afe00393c3da00487123a99",
+    "file_count": 14,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "18121a54b52ad2823a7ac486aa9208e53d6cc05bff5b59c26ff807179d3f45ea"
+      },
+      {
+        "file": "02_summary.svg",
+        "sha256": "f0b6e188697cc8c735b82d7fef9777b4376814fe197a83bb92dbc7384b613136"
+      },
+      {
+        "file": "03_global_total.svg",
+        "sha256": "9c329f6f669d90d9414baab8a4ee9b52d4f2bd77a9ce51c89fd5f8adfd2215a5"
+      },
+      {
+        "file": "04_regional_split.svg",
+        "sha256": "d99b5c2f335ca7dc8a878514478dbe99a35cfd7968175884069d62fb01722572"
+      },
+      {
+        "file": "05_mature_markets.svg",
+        "sha256": "f75a65eb7329054033f8a4df80690a857d7c1931e36be6eaca65bd410c31ecdc"
+      },
+      {
+        "file": "06_europe.svg",
+        "sha256": "edff35aaccc0b86929c7ab8a763febd4c3938425ebc9eb4dc6859aeb303e4ce9"
+      },
+      {
+        "file": "07_emerging.svg",
+        "sha256": "47e0dc7c2492baf58f0e86ccb1983e7facadb2559418934052f930f8e3f6fca0"
+      },
+      {
+        "file": "08_phev.svg",
+        "sha256": "553f2167c1692b9773aaf93207c53c258908985c2543fa4c6b6ff7d63039f5b5"
+      },
+      {
+        "file": "09_scenario.svg",
+        "sha256": "29cdb627fd8cc0d985bdf369ba3d1efa1d2275c05278c983536fa6af877cea9f"
+      },
+      {
+        "file": "10_priorities.svg",
+        "sha256": "cfb18f5e686d38174069a5f52701b58d93c25427576000ebfb564f412d5533e9"
+      },
+      {
+        "file": "11_roadmap.svg",
+        "sha256": "e117b7493bf3b20afbf83d93dd03621a2656512bcc4350296316690ee0df716e"
+      },
+      {
+        "file": "12_risks.svg",
+        "sha256": "69602eb7593b8f323d3cc8bd9522e82cec301d9d840bff13b964e92165fabd97"
+      },
+      {
+        "file": "13_decisions.svg",
+        "sha256": "b03cb1fae6b306a592208f763147037d6c6c9d4369d0df6081518c2cac89cf67"
+      },
+      {
+        "file": "14_appendix.svg",
+        "sha256": "96d01411214efde246873ea13e533c5693e234d7e50cb8008b6b66d37bd10fd2"
+      }
+    ]
+  },
+  "summary": {
+    "total": 14,
+    "passed": 0,
+    "warnings": 14,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 15,
+      "issues": [
+        {
+          "file": "01_cover.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[11]:font-size '14' -> None; text[17]:font-size '14' -> None; text[20]:font-size '14' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "02_summary.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (11 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[57]:font-size '14' -> None; text[63]:font-size '14' -> None; text[68]:font-size '14' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "03_global_total.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[153]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "03_global_total.svg",
+          "message": "<text> (x=491.55, y=433.15; text='1%') exceeds <g id=\"world-share\"> data-pptx-bounds on the horizontal axis: content (474.8, 423.8)-(491.6, 437.0), container (476.0, 204.0)-(888.0, 470.0), overflow horizontal 0.3%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈8.4 px per Latin char at 11px incl. headroom; ≈49 chars fit in 412 px"
+        },
+        {
+          "file": "04_regional_split.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[155]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "05_mature_markets.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (13 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[72]:font-family 'Microsoft YaHei' -> None; text[79]:font-family 'Microsoft YaHei' -> None; text[86]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "06_europe.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (14 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[55]:font-family 'Microsoft YaHei' -> None; text[60]:font-family 'Microsoft YaHei' -> None; text[65]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "07_emerging.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (15 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[26]:font-family 'Microsoft YaHei' -> None; text[31]:font-family 'Microsoft YaHei' -> None; text[36]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "08_phev.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[136]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "09_scenario.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[153]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "10_priorities.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (11 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): tspan[137]:fill '#7F7F7F' -> None; footer:fill None -> '#7F7F7F'; footer:font-size None -> '10' (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "11_roadmap.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (11 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[16]:font-size '14' -> None; text[21]:font-size '14' -> None; text[26]:font-size '14' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "12_risks.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[96]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "13_decisions.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (8 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[67]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "14_appendix.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[204]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        }
+      ]
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {
+      "#EEF2FF": [
+        "10_priorities.svg"
+      ]
+    },
+    "fonts": {},
+    "sizes": {
+      "20": [
+        "01_cover.svg"
+      ],
+      "44": [
+        "01_cover.svg"
+      ]
+    }
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 14,
+    "totals": {
+      "text_elements": 1034,
+      "image_placements": 0,
+      "icons": 0,
+      "svg_geometry_elements": 399,
+      "preset_shapes": 3,
+      "page_frame_elements": 27,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 31,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 0,
+      "icons": 0,
+      "presets": 1,
+      "charts": 7,
+      "tables": 8,
+      "formulas": 0,
+      "inline_emphasis_runs": 8,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "geometry_elements": {
+      "circle": 93,
+      "ellipse": 0,
+      "line": 133,
+      "path": 0,
+      "polygon": 2,
+      "polyline": 4,
+      "rect": 167
+    },
+    "preset_names": {
+      "chevron": 3
+    },
+    "native_objects": {
+      "chart": 14,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 9
+    },
+    "image_page_max_frame_share_range": []
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (7 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[11]:font-size '14' -> None; text[17]:font-size '14' -> None; text[20]:font-size '14' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 26,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 5,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 5,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 26,
+        "tspan_elements": 10,
+        "sparse_typography_sizes": {
+          "20": 1,
+          "44": 1
+        }
+      },
+      "passed": true,
+      "source_sha256": "18121a54b52ad2823a7ac486aa9208e53d6cc05bff5b59c26ff807179d3f45ea"
+    },
+    {
+      "file": "02_summary.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/02_summary.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (11 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[57]:font-size '14' -> None; text[63]:font-size '14' -> None; text[68]:font-size '14' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 39,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 3,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 6,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 39,
+        "tspan_elements": 14
+      },
+      "passed": true,
+      "source_sha256": "f0b6e188697cc8c735b82d7fef9777b4376814fe197a83bb92dbc7384b613136"
+    },
+    {
+      "file": "03_global_total.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/03_global_total.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[153]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "<text> (x=491.55, y=433.15; text='1%') exceeds <g id=\"world-share\"> data-pptx-bounds on the horizontal axis: content (474.8, 423.8)-(491.6, 437.0), container (476.0, 204.0)-(888.0, 470.0), overflow horizontal 0.3%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈8.4 px per Latin char at 11px incl. headroom; ≈49 chars fit in 412 px"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 88,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 15,
+              "circle": 17,
+              "ellipse": 0,
+              "line": 9,
+              "polyline": 1,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 2,
+            "table": 1,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 88,
+        "tspan_elements": 9
+      },
+      "passed": true,
+      "source_sha256": "9c329f6f669d90d9414baab8a4ee9b52d4f2bd77a9ce51c89fd5f8adfd2215a5"
+    },
+    {
+      "file": "04_regional_split.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/04_regional_split.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[155]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 75,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 4,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 36,
+              "circle": 6,
+              "ellipse": 0,
+              "line": 7,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 2,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 75,
+        "tspan_elements": 17
+      },
+      "passed": true,
+      "source_sha256": "d99b5c2f335ca7dc8a878514478dbe99a35cfd7968175884069d62fb01722572"
+    },
+    {
+      "file": "05_mature_markets.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/05_mature_markets.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (13 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[72]:font-family 'Microsoft YaHei' -> None; text[79]:font-family 'Microsoft YaHei' -> None; text[86]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 79,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 16,
+              "circle": 28,
+              "ellipse": 0,
+              "line": 9,
+              "polyline": 3,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 2,
+            "table": 1,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 79,
+        "tspan_elements": 10
+      },
+      "passed": true,
+      "source_sha256": "f75a65eb7329054033f8a4df80690a857d7c1931e36be6eaca65bd410c31ecdc"
+    },
+    {
+      "file": "06_europe.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/06_europe.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (14 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[55]:font-family 'Microsoft YaHei' -> None; text[60]:font-family 'Microsoft YaHei' -> None; text[65]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 87,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 19,
+              "circle": 7,
+              "ellipse": 0,
+              "line": 9,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 2,
+            "table": 1,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 87,
+        "tspan_elements": 11
+      },
+      "passed": true,
+      "source_sha256": "edff35aaccc0b86929c7ab8a763febd4c3938425ebc9eb4dc6859aeb303e4ce9"
+    },
+    {
+      "file": "07_emerging.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/07_emerging.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (15 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[26]:font-family 'Microsoft YaHei' -> None; text[31]:font-family 'Microsoft YaHei' -> None; text[36]:font-family 'Microsoft YaHei' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 96,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 21,
+              "circle": 7,
+              "ellipse": 0,
+              "line": 10,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 2,
+            "table": 1,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 96,
+        "tspan_elements": 11
+      },
+      "passed": true,
+      "source_sha256": "47e0dc7c2492baf58f0e86ccb1983e7facadb2559418934052f930f8e3f6fca0"
+    },
+    {
+      "file": "08_phev.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/08_phev.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[136]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 69,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 4,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 18,
+              "circle": 7,
+              "ellipse": 0,
+              "line": 6,
+              "polyline": 0,
+              "polygon": 2,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 3,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 69,
+        "tspan_elements": 17
+      },
+      "passed": true,
+      "source_sha256": "553f2167c1692b9773aaf93207c53c258908985c2543fa4c6b6ff7d63039f5b5"
+    },
+    {
+      "file": "09_scenario.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/09_scenario.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[153]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 92,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 14,
+              "circle": 6,
+              "ellipse": 0,
+              "line": 19,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 1,
+            "table": 1,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 92,
+        "tspan_elements": 11
+      },
+      "passed": true,
+      "source_sha256": "29cdb627fd8cc0d985bdf369ba3d1efa1d2275c05278c983536fa6af877cea9f"
+    },
+    {
+      "file": "10_priorities.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/10_priorities.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (11 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): tspan[137]:fill '#7F7F7F' -> None; footer:fill None -> '#7F7F7F'; footer:font-size None -> '10' (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 113,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 6,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 6,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 15,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 1,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 113,
+        "tspan_elements": 10,
+        "contextual_values": {
+          "colors": [
+            "#EEF2FF"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "cfb18f5e686d38174069a5f52701b58d93c25427576000ebfb564f412d5533e9"
+    },
+    {
+      "file": "11_roadmap.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/11_roadmap.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (11 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): text[16]:font-size '14' -> None; text[21]:font-size '14' -> None; text[26]:font-size '14' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 31,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 3,
+            "preset_names": {
+              "chevron": 3
+            },
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 31,
+        "tspan_elements": 12
+      },
+      "passed": true,
+      "source_sha256": "e117b7493bf3b20afbf83d93dd03621a2656512bcc4350296316690ee0df716e"
+    },
+    {
+      "file": "12_risks.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/12_risks.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[96]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 48,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 4,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 7,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 1,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 48,
+        "tspan_elements": 26
+      },
+      "passed": true,
+      "source_sha256": "69602eb7593b8f323d3cc8bd9522e82cec301d9d840bff13b964e92165fabd97"
+    },
+    {
+      "file": "13_decisions.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/13_decisions.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (8 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[67]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 34,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 4,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 6,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 34,
+        "tspan_elements": 14
+      },
+      "passed": true,
+      "source_sha256": "b03cb1fae6b306a592208f763147037d6c6c9d4369d0df6081518c2cac89cf67"
+    },
+    {
+      "file": "14_appendix.svg",
+      "path": "/root/ppt-master-examples/examples/ppt169_ev_market_priorities/svg_output/14_appendix.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (10 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): footer:fill None -> '#7F7F7F'; footer:font-size None -> '10'; text[204]:fill '#7F7F7F' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 157,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 2,
+              "ellipse": 0,
+              "line": 26,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 2,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei"
+        ],
+        "text_elements": 157,
+        "tspan_elements": 6,
+        "hyperlinks": 1
+      },
+      "passed": true,
+      "source_sha256": "96d01411214efde246873ea13e533c5693e234d7e50cb8008b6b66d37bd10fd2"
+    }
+  ]
+}
