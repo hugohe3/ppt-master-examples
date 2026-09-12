@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <clipPath id="finjanDiscClip">
+      <path d="M 100 372 A 190 270 0 1 0 480 372 A 190 270 0 1 0 100 372 Z"/>
+    </clipPath>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="finjan-disc" data-pptx-bounds="98 100 384 544">
+    <image href="../images/finjan_hand.jpg" x="83.5" y="96.5" width="413" height="551" preserveAspectRatio="xMidYMid slice" clip-path="url(#finjanDiscClip)"/>
+    <ellipse cx="290" cy="372" rx="190" ry="270" fill="none" stroke="#5E7D4F" stroke-width="3"/>
+  </g>
+  <g id="shake-statement" data-pptx-bounds="494 170 722 380">
+    <rect x="1205" y="186" width="3" height="350" fill="#B8862B"/>
+    <text x="1186" y="214" font-size="20" fill="#B8862B">الفصل الثالث · الإشارة</text>
+    <text x="1186" y="330" font-family="'Times New Roman', serif" font-size="96" font-weight="bold" fill="#4A2C1D">هزّة الفنجان<tspan x="1186" dy="110">تعني: اكتفيت</tspan></text>
+    <text x="1186" y="518" font-size="30" fill="#2B1D15">ويُقدَّم للكبار والضيوف أولاً</text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="700 664 508 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">المصدر: اليونسكو، 2024</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">09</text>
+</svg>

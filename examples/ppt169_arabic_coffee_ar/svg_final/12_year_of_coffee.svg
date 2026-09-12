@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="section" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <linearGradient id="yearField" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4A2C1D" />
+      <stop offset="1" stop-color="#1E120B" />
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="url(#yearField)" />
+  <g id="year-arch" data-pptx-bounds="90 144 442 482">
+    <g id="p12-arch" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="96 150 430 470" data-pptx-av-adj1="val 50000" data-pptx-av-adj2="val 0" fill="none" stroke="#B8862B" stroke-width="3">
+<path d="M 311 150 L 311 150 A 215 215 0 0 1 526 365 L 526 620 L 96 620 L 96 365 A 215 215 0 0 1 311 150 Z" />
+</g>
+    
+  <g transform="translate(287, 270) scale(2)" fill="none" stroke="#EADCC6" stroke-width="1.5">
+    <path d="M3 14c.83 .642 2.077 1.017 3.5 1c1.423 .017 2.67 -.358 3.5 -1c.83 -.642 2.077 -1.017 3.5 -1c1.423 -.017 2.67 .358 3.5 1" />
+    <path d="M8 3a2.4 2.4 0 0 0 -1 2a2.4 2.4 0 0 0 1 2" />
+    <path d="M12 3a2.4 2.4 0 0 0 -1 2a2.4 2.4 0 0 0 1 2" />
+    <path d="M3 10h14v5a6 6 0 0 1 -6 6h-2a6 6 0 0 1 -6 -6v-5" />
+    <path d="M16.746 16.726a3 3 0 1 0 .252 -5.555" />
+  </g>
+    <text x="311" y="470" font-family="'Times New Roman', serif" font-size="160" font-weight="bold" fill="#B8862B" text-anchor="middle">2022</text>
+  </g>
+  <g id="year-title" data-pptx-bounds="560 170 656 220">
+    <rect x="1205" y="186" width="3" height="200" fill="#B8862B" />
+    <text x="1186" y="214" font-size="20" fill="#B8862B">الفصل الرابع · احتفاء وطني</text>
+    <text x="1186" y="280" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#F6EFE4">عام القهوة السعودية</text>
+    <text fill="#EADCC6" font-size="30" x="1186" y="334">عامٌ كامل خصّصته وزارة الثقافة</text><text fill="#EADCC6" font-size="30" x="1186" y="376">للقهوة رمزاً أصيلاً للكرم والضيافة</text></g>
+  <g id="year-launch" data-pptx-bounds="560 410 656 96">
+    
+  <g transform="translate(1164, 426) scale(1.25)" fill="none" stroke="#B8862B" stroke-width="1.5">
+    <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12" />
+    <path d="M16 3v4" />
+    <path d="M8 3v4" />
+    <path d="M4 11h16" />
+    <path d="M11 15h1" />
+    <path d="M12 15v3" />
+  </g>
+    <text fill="#F6EFE4" font-size="26" x="1146" y="450">أُطلقت مطلع <tspan font-weight="bold" fill="#B8862B">2022</tspan></text><text fill="#F6EFE4" font-size="26" x="1146" y="488">بدعم من برنامج جودة الحياة</text></g>
+  <g id="year-closing" data-pptx-bounds="560 512 656 96">
+    
+  <g transform="translate(1164, 528) scale(1.25)" fill="none" stroke="#B8862B" stroke-width="1.5">
+    <path d="M12 15a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+    <path d="M13 17.5v4.5l2 -1.5l2 1.5v-4.5" />
+    <path d="M10 19h-5a2 2 0 0 1 -2 -2v-10c0 -1.1 .9 -2 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -1 1.73" />
+    <path d="M6 9l12 0" />
+    <path d="M6 12l3 0" />
+    <path d="M6 15l2 0" />
+  </g>
+    <text fill="#F6EFE4" font-size="26" x="1146" y="552">اختُتمت في قصر الثقافة بالرياض</text><text fill="#F6EFE4" font-size="26" x="1146" y="590"><tspan>يوم <tspan font-weight="bold" fill="#B8862B">25 يناير 2023</tspan></tspan></text></g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="600 664 608 24">
+    <text x="1186" y="680" font-size="16" fill="#EADCC6">المصدر: وكالة الأنباء السعودية (واس)، 2023</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#EADCC6" text-anchor="start">12</text>
+</svg>

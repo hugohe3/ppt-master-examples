@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <clipPath id="finjanDiscClip">
+      <path d="M 151.5 538 A 52 52 0 1 0 255.5 538 A 52 52 0 1 0 151.5 538 Z"/>
+    </clipPath>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="header" data-pptx-bounds="72 48 1144 190">
+    <rect x="1205" y="64" width="3" height="160" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الثالث · آداب التقديم</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">التقديم يبدأ بالأكبر وينتهي بهزّة</text>
+    <text x="1186" y="208" font-size="30" fill="#2B1D15">لكل حركة في التقديم قاعدة يعرفها المضيف والضيف</text>
+  </g>
+  <g id="p08-majlis-arc" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="180 310 960 660" data-pptx-av-adj1="val 11469600" data-pptx-av-adj2="val 20930400" fill="none" stroke="#B8862B" stroke-width="2">
+<path d="M 198.62 548.98 A 480 330 0 0 1 1121.38 548.98 L 660 640 Z" stroke="none"/>
+<path d="M 198.62 548.98 A 480 330 0 0 1 1121.38 548.98"/>
+</g>
+  <g id="station-1" data-pptx-bounds="990 490 226 118" text-anchor="middle">
+    <circle cx="1105" cy="516.4" r="22" fill="#4A2C1D"/>
+    <text x="1105" y="524" font-size="20" font-weight="bold" fill="#F6EFE4">1</text>
+    <text x="1105" y="566" font-size="24" fill="#2B1D15">الدلّة باليسرى<tspan x="1105" dy="30">والفنجان باليمنى</tspan></text>
+  </g>
+  <g id="station-2" data-pptx-bounds="874 366 202 112" text-anchor="middle">
+    <circle cx="974.9" cy="390.9" r="22" fill="#4A2C1D"/>
+    <text x="974.9" y="398.5" font-size="20" font-weight="bold" fill="#F6EFE4">2</text>
+    <text x="974.9" y="440" font-size="24" fill="#2B1D15">البدء بالأهم<tspan x="974.9" dy="30">أو الأكبر سناً</tspan></text>
+  </g>
+  <g id="station-3" data-pptx-bounds="690 294 172 112" text-anchor="middle">
+    <circle cx="776.1" cy="319.8" r="22" fill="#4A2C1D"/>
+    <text x="776.1" y="327.4" font-size="20" font-weight="bold" fill="#F6EFE4">3</text>
+    <text x="776.1" y="368" font-size="24" fill="#2B1D15">ربع الفنجان<tspan x="776.1" dy="30">لا أكثر</tspan></text>
+  </g>
+  <g id="station-4" data-pptx-bounds="436 294 216 144" text-anchor="middle">
+    <circle cx="543.9" cy="319.8" r="22" fill="#5E7D4F"/>
+    <text x="543.9" y="327.4" font-size="20" font-weight="bold" fill="#F6EFE4">4</text>
+    <text x="543.9" y="368" font-size="24" fill="#2B1D15">يتناوله الضيف<tspan x="543.9" dy="30">باليمنى ثم يعيده</tspan></text>
+  </g>
+  <g id="station-5" data-pptx-bounds="250 366 184 112" text-anchor="middle">
+    <circle cx="345.1" cy="390.9" r="22" fill="#5E7D4F"/>
+    <text x="345.1" y="398.5" font-size="20" font-weight="bold" fill="#F6EFE4">5</text>
+    <text x="345.1" y="440" font-size="24" fill="#2B1D15">من فنجان واحد<tspan x="345.1" dy="30">إلى ثلاثة</tspan></text>
+  </g>
+  <g id="finjan-disc" data-pptx-bounds="149 484 110 108">
+    <image href="../images/finjan_hand.jpg" x="76.1" y="392.4" width="260" height="346.7" preserveAspectRatio="xMidYMid slice" clip-path="url(#finjanDiscClip)"/>
+    <circle cx="203.5" cy="538" r="52" fill="none" stroke="#5E7D4F" stroke-width="3"/>
+  </g>
+  <g id="station-6" data-pptx-bounds="104 596 200 62" text-anchor="middle">
+    <text x="203.5" y="620" font-size="24" font-weight="bold" fill="#4A2C1D">هزّ الفنجان<tspan x="203.5" dy="28" font-weight="normal" fill="#2B1D15">إشارة الاكتفاء</tspan></text>
+  </g>
+  <g id="roles-legend" data-pptx-bounds="540 498 240 50">
+    <circle cx="762" cy="522" r="9" fill="#4A2C1D"/>
+    <text x="746" y="530" font-size="20" fill="#2B1D15">المقدِّم</text>
+    <circle cx="642" cy="522" r="9" fill="#5E7D4F"/>
+    <text x="626" y="530" font-size="20" fill="#2B1D15">الضيف</text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="500 664 708 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">تنظيم عن: دائرة الثقافة والسياحة – أبوظبي؛ اليونسكو، 2024</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">08</text>
+</svg>

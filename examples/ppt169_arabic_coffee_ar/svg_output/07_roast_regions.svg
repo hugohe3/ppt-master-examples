@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <clipPath id="cardamomArch">
+      <path d="M 72 600 L 72 380 A 110 110 0 0 1 292 380 L 292 600 Z"/>
+    </clipPath>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="header" data-pptx-bounds="72 48 1144 188">
+    <rect x="1205" y="64" width="3" height="160" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الثاني · الهيل والنكهة</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">لكل منطقة حمصتها وإضافاتها</text>
+    <text x="1186" y="208" font-size="30" fill="#2B1D15"><tspan fill="#5E7D4F" font-weight="bold">الهيل</tspan> حاضر في معظم المناطق، والجنوب ينفرد بحمصة فاتحة</text>
+  </g>
+  <g id="cardamom-photo" data-pptx-bounds="72 270 220 330">
+    <image href="../images/cardamom.jpg" x="72" y="270" width="220" height="330" preserveAspectRatio="xMidYMid slice" clip-path="url(#cardamomArch)"/>
+  </g>
+  <g id="roast-regions" data-pptx-replace-with="table" data-pptx-bounds="312 270 896 330" data-pptx-fallback-sha256="78289de3fc22111db8b83cd24d64da4d06909661c0cb08a8039b1f08b785b21a">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "roast-regions",
+  "x": 312, "y": 270, "width": 896, "height": 330,
+  "column_widths": [446, 150, 300],
+  "row_heights": [60, 90, 90, 90],
+  "columns": [
+    {"text": "الإضافات", "align": "r", "bold": true},
+    {"text": "الحمصة", "align": "r", "bold": true},
+    {"text": "المنطقة", "align": "r", "bold": true}
+  ],
+  "rows": [
+    [
+      {"paragraphs": [{"align": "r", "runs": [{"text": "الهيل", "bold": true, "color": "#5E7D4F"}]}]},
+      {"text": "داكنة", "align": "r"},
+      {"text": "الشمال", "align": "r", "bold": true, "color": "#4A2C1D"}
+    ],
+    [
+      {"text": "الزنجبيل والزعفران والقرفة والقرنفل", "align": "r"},
+      {"text": "فاتحة", "align": "r"},
+      {"text": "الجنوب", "align": "r", "bold": true, "color": "#4A2C1D"}
+    ],
+    [
+      {"paragraphs": [{"align": "r", "runs": [{"text": "الهيل", "bold": true, "color": "#5E7D4F"}, {"text": " والزعفران"}]}]},
+      {"text": "متوسطة", "align": "r"},
+      {"text": "الشرقية والغربية والوسطى", "align": "r", "bold": true, "color": "#4A2C1D"}
+    ]
+  ],
+  "defaults": {
+    "run": {"color": "#2B1D15"},
+    "cell": {
+      "valign": "middle",
+      "padding": {"left": 16, "right": 16, "top": 6, "bottom": 6},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#D6C3A5", "width": 1.5}
+      }
+    }
+  },
+  "style": {
+    "font_family": "Segoe UI",
+    "font_size": 24,
+    "header_fill": "#4A2C1D",
+    "header_text": "#F6EFE4",
+    "body_text": "#2B1D15",
+    "band_row": false
+  }
+}
+    </metadata>
+    <rect x="312" y="270" width="896" height="60" fill="#4A2C1D"/>
+    <line x1="312" y1="420" x2="1208" y2="420" stroke="#D6C3A5" stroke-width="1.5"/>
+    <line x1="312" y1="510" x2="1208" y2="510" stroke="#D6C3A5" stroke-width="1.5"/>
+    <line x1="312" y1="600" x2="1208" y2="600" stroke="#D6C3A5" stroke-width="1.5"/>
+    <g font-size="24" font-weight="bold" fill="#F6EFE4" text-anchor="end">
+      <text x="742" y="308">الإضافات</text>
+      <text x="892" y="308">الحمصة</text>
+      <text x="1192" y="308">المنطقة</text>
+    </g>
+    <g font-size="24" fill="#2B1D15" text-anchor="end">
+      <text x="742" y="384"><tspan fill="#5E7D4F" font-weight="bold">الهيل</tspan></text>
+      <text x="892" y="384">داكنة</text>
+      <text x="1192" y="384" font-weight="bold" fill="#4A2C1D">الشمال</text>
+      <text x="742" y="458">الزنجبيل والزعفران <tspan x="742" dy="32">والقرفة والقرنفل</tspan></text>
+      <text x="892" y="474">فاتحة</text>
+      <text x="1192" y="474" font-weight="bold" fill="#4A2C1D">الجنوب</text>
+      <text x="742" y="564"><tspan fill="#5E7D4F" font-weight="bold">الهيل</tspan> والزعفران</text>
+      <text x="892" y="564">متوسطة</text>
+      <text x="1192" y="548" font-weight="bold" fill="#4A2C1D">الشرقية والغربية <tspan x="1192" dy="32">والوسطى</tspan></text>
+    </g>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="560 664 648 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">المصدر: وزارة البيئة والمياه والزراعة، 2025</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">07</text>
+</svg>

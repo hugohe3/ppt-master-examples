@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <clipPath id="roastDiscClip">
+      <path d="M 480.5 595 A 70 70 0 1 0 620.5 595 A 70 70 0 1 0 480.5 595 Z"/>
+    </clipPath>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="header" data-pptx-bounds="72 48 1144 190">
+    <rect x="1205" y="64" width="3" height="160" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الثاني · من الحبة إلى الفنجان</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">من الحبة إلى الفنجان في ست مراحل</text>
+    <text x="1186" y="208" font-size="30" fill="#2B1D15">كل فنجان يمرّ بست مراحل متتالية قبل أن يُقدَّم</text>
+  </g>
+  <g id="process" data-pptx-bounds="72 256 1144 254">
+    <g id="stage-sort">
+      <text x="1090.5" y="284" font-size="20" fill="#B8862B" text-anchor="middle">01</text>
+      <g transform="rotate(180 1090.5 355)">
+        <g id="p03-stage-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="973 300 235 110" fill="#4A2C1D" stroke="none">
+<path d="M 973 300 L 1153 300 L 1208 355 L 1153 410 L 973 410 L 1028 355 Z"/>
+</g>
+      </g>
+      <text x="1090.5" y="364" font-size="26" font-weight="bold" fill="#F6EFE4" text-anchor="middle">الفرز</text>
+      <text x="1090.5" y="448" font-size="20" fill="#2B1D15" text-anchor="middle">فرز حبوب البن</text>
+    </g>
+    <g id="stage-wash">
+      <text x="910.5" y="284" font-size="20" fill="#B8862B" text-anchor="middle">02</text>
+      <g transform="rotate(180 910.5 355)">
+        <g id="p03-stage-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="793 300 235 110" fill="#4A2C1D" stroke="none">
+<path d="M 793 300 L 973 300 L 1028 355 L 973 410 L 793 410 L 848 355 Z"/>
+</g>
+      </g>
+      <text x="910.5" y="364" font-size="26" font-weight="bold" fill="#F6EFE4" text-anchor="middle">الغسل</text>
+      <text x="910.5" y="448" font-size="20" fill="#2B1D15" text-anchor="middle">غسل الحبوب</text>
+    </g>
+    <g id="stage-dry">
+      <text x="730.5" y="284" font-size="20" fill="#B8862B" text-anchor="middle">03</text>
+      <g transform="rotate(180 730.5 355)">
+        <g id="p03-stage-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="613 300 235 110" fill="#4A2C1D" stroke="none">
+<path d="M 613 300 L 793 300 L 848 355 L 793 410 L 613 410 L 668 355 Z"/>
+</g>
+      </g>
+      <text x="730.5" y="364" font-size="26" font-weight="bold" fill="#F6EFE4" text-anchor="middle">التجفيف</text>
+      <text x="730.5" y="448" font-size="20" fill="#2B1D15" text-anchor="middle">تجفيف الحبوب</text>
+    </g>
+    <g id="stage-roast">
+      <text x="550.5" y="284" font-size="20" fill="#B8862B" text-anchor="middle">04</text>
+      <g transform="rotate(180 550.5 355)">
+        <g id="p03-stage-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="433 300 235 110" fill="#B8862B" stroke="none">
+<path d="M 433 300 L 613 300 L 668 355 L 613 410 L 433 410 L 488 355 Z"/>
+</g>
+      </g>
+      <text x="550.5" y="364" font-size="26" font-weight="bold" fill="#2B1D15" text-anchor="middle">التحميص</text>
+      <text x="550.5" y="448" font-size="20" fill="#2B1D15" text-anchor="middle">حتى يصير لونها<tspan x="550.5" dy="30">أحمر أو بنياً</tspan></text>
+    </g>
+    <g id="stage-grind">
+      <text x="370.5" y="284" font-size="20" fill="#B8862B" text-anchor="middle">05</text>
+      <g transform="rotate(180 370.5 355)">
+        <g id="p03-stage-5" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="253 300 235 110" fill="#4A2C1D" stroke="none">
+<path d="M 253 300 L 433 300 L 488 355 L 433 410 L 253 410 L 308 355 Z"/>
+</g>
+      </g>
+      <text x="370.5" y="364" font-size="26" font-weight="bold" fill="#F6EFE4" text-anchor="middle">الطحن</text>
+      <text x="370.5" y="448" font-size="20" fill="#2B1D15" text-anchor="middle">طحن الحبوب<tspan x="370.5" dy="30">المحمّصة</tspan></text>
+    </g>
+    <g id="stage-brew">
+      <text x="190.5" y="284" font-size="20" fill="#B8862B" text-anchor="middle">06</text>
+      <g transform="rotate(180 190.5 355)">
+        <g id="p03-stage-6" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="73 300 235 110" fill="#4A2C1D" stroke="none">
+<path d="M 73 300 L 253 300 L 308 355 L 253 410 L 73 410 L 128 355 Z"/>
+</g>
+      </g>
+      <text x="190.5" y="364" font-size="26" font-weight="bold" fill="#F6EFE4" text-anchor="middle">التخمير</text>
+      <text x="190.5" y="448" font-size="20" fill="#2B1D15" text-anchor="middle">نقع وتخمير<tspan x="190.5" dy="30">على نار هادئة</tspan></text>
+    </g>
+  </g>
+  <g id="roast-disc" data-pptx-bounds="476 521 149 149">
+    <image href="../images/roasting_tawa.jpg" x="456" y="481.6" width="210" height="210" preserveAspectRatio="xMidYMid slice" clip-path="url(#roastDiscClip)"/>
+    <circle cx="550.5" cy="595" r="70" fill="none" stroke="#B8862B" stroke-width="3"/>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="640 664 568 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">تنظيم عن: دائرة الثقافة والسياحة – أبوظبي</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">03</text>
+</svg>

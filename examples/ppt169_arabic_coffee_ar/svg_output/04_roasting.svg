@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <clipPath id="roastDiscClip">
+      <path d="M 70 380 A 220 220 0 1 0 510 380 A 220 220 0 1 0 70 380 Z"/>
+    </clipPath>
+    <marker id="arrowLeft" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#6E5A4C"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="roast-disc" data-pptx-bounds="68 158 444 444">
+    <image href="../images/roasting_tawa.jpg" x="11" y="45.2" width="620" height="620" preserveAspectRatio="xMidYMid slice" clip-path="url(#roastDiscClip)"/>
+    <circle cx="290" cy="380" r="220" fill="none" stroke="#B8862B" stroke-width="3"/>
+  </g>
+  <g id="header" data-pptx-bounds="540 48 676 300">
+    <rect x="1205" y="64" width="3" height="276" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">المرحلة الرابعة · التحميص</text>
+    <text x="1186" y="160" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">في التحميص<tspan x="1186" dy="58">يولد اللون</tspan></text>
+    <text x="1186" y="284" font-size="30" fill="#2B1D15">يُحمَّص البن في التاوة ويُقلَّب بالمحماس<tspan x="1186" dy="44">حتى يتحوّل لونه إلى <tspan fill="#4A2C1D" font-weight="bold">الأحمر أو البني</tspan></tspan></text>
+  </g>
+  <g id="tools" data-pptx-bounds="528 370 688 150">
+    <use data-icon="tabler-outline/flame" x="1160" y="382" width="30" height="30" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1146" y="406" font-size="26" fill="#2B1D15"><tspan font-weight="bold" fill="#4A2C1D">التاوة:</tspan> مقلاة مستديرة واسعة للتحميص</text>
+    <use data-icon="tabler-outline/grain" x="1160" y="430" width="30" height="30" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1146" y="454" font-size="26" fill="#2B1D15"><tspan font-weight="bold" fill="#4A2C1D">المحماس:</tspan> ملعقة لتقليب الحبوب أثناء التحميص</text>
+    <use data-icon="tabler-outline/hand-stop" x="1160" y="478" width="30" height="30" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1146" y="502" font-size="26" fill="#2B1D15"><tspan font-weight="bold" fill="#4A2C1D">المهباش:</tspan> ملقط حديدي لوضع الجمر وتوزيعه</text>
+  </g>
+  <g id="color-shift" data-pptx-bounds="528 540 688 106">
+    <circle cx="1146" cy="572" r="18" fill="#B9B18E"/>
+    <line x1="1116" y1="572" x2="1028" y2="572" stroke="#6E5A4C" stroke-width="2" marker-end="url(#arrowLeft)"/>
+    <circle cx="996" cy="572" r="18" fill="#8E3B2A"/>
+    <line x1="966" y1="572" x2="878" y2="572" stroke="#6E5A4C" stroke-width="2" marker-end="url(#arrowLeft)"/>
+    <circle cx="846" cy="572" r="18" fill="#5A3521"/>
+    <text x="1146" y="622" font-size="20" fill="#2B1D15" text-anchor="middle">قبل التحميص</text>
+    <text x="996" y="622" font-size="20" fill="#2B1D15" text-anchor="middle">أحمر</text>
+    <text x="846" y="622" font-size="20" fill="#2B1D15" text-anchor="middle">بني</text>
+    <text x="800" y="580" font-size="16" fill="#6E5A4C">ألوان توضيحية</text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="640 664 568 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">المصدر: دائرة الثقافة والسياحة – أبوظبي</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">04</text>
+</svg>

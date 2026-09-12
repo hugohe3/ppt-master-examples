@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <linearGradient id="closingScrim" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#1E120B" stop-opacity="0.9"/>
+      <stop offset="0.6" stop-color="#1E120B" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#1E120B" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <image id="closing-field" data-pptx-role="background" href="../images/dallah_hero_blur.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="closing-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#closingScrim)"/>
+  <g id="takeaway" data-pptx-bounds="372 48 844 280">
+    <rect x="1205" y="64" width="3" height="250" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الخلاصة</text>
+    <text x="1186" y="160" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#F6EFE4">حين يُهزّ الفنجان ينتهي الشرب،<tspan x="1186" dy="58">ولا تنتهي الضيافة</tspan></text>
+    <text x="1186" y="282" font-size="30" fill="#EADCC6">كل خطوة من الحبة إلى الفنجان تحمل معنى الكرم</text>
+    <text x="1186" y="316" font-size="16" fill="#B8862B">خلاصة من تنظيم العرض</text>
+  </g>
+  <g id="sources" data-pptx-bounds="460 352 756 262">
+    <text x="1186" y="380" font-size="20" fill="#B8862B">المصادر الرئيسية — روابط قابلة للنقر</text>
+    <use data-icon="tabler-outline/external-link" x="1162" y="400" width="24" height="24" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1150" y="420" font-size="24" fill="#F6EFE4"><a href="https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-01074"><tspan text-decoration="underline">اليونسكو: القهوة العربية، رمز للكرم</tspan></a></text>
+    <use data-icon="tabler-outline/external-link" x="1162" y="436" width="24" height="24" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1150" y="456" font-size="24" fill="#F6EFE4"><a href="https://ich.unesco.org/en/RL/knowledge-and-practices-related-to-cultivating-khawlani-coffee-beans-01863"><tspan text-decoration="underline">اليونسكو: معارف زراعة البن الخولاني</tspan></a></text>
+    <use data-icon="tabler-outline/external-link" x="1162" y="472" width="24" height="24" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1150" y="492" font-size="24" fill="#F6EFE4"><a href="https://abudhabiculture.ae/ar/cultural-heritage/intangible/unesco-ich-inscribed-elements/gahwa-arabic-coffee"><tspan text-decoration="underline">دائرة الثقافة والسياحة – أبوظبي: القهوة العربية</tspan></a></text>
+    <use data-icon="tabler-outline/external-link" x="1162" y="508" width="24" height="24" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1150" y="528" font-size="24" fill="#F6EFE4"><a href="https://www.mewa.gov.sa/ar/MediaCenter/News/Pages/News13082020.aspx"><tspan text-decoration="underline">وزارة البيئة والمياه والزراعة: البن السعودي</tspan></a></text>
+    <use data-icon="tabler-outline/external-link" x="1162" y="544" width="24" height="24" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1150" y="564" font-size="24" fill="#F6EFE4"><a href="https://www.spa.gov.sa/w1845052"><tspan text-decoration="underline">واس: ختام مبادرة عام القهوة السعودية 2022</tspan></a></text>
+    <use data-icon="tabler-outline/external-link" x="1162" y="580" width="24" height="24" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1150" y="600" font-size="24" fill="#F6EFE4"><a href="https://www.spa.gov.sa/N2047077"><tspan text-decoration="underline">واس: إنتاج منطقة جازان من البن</tspan></a></text>
+  </g>
+  <g id="image-note" data-pptx-bounds="300 628 916 30">
+    <text x="1186" y="648" font-size="16" fill="#EADCC6">جميع الصور في العرض توضيحية مولَّدة بالذكاء الاصطناعي، ولا تمثّل أماكن أو أشخاصاً بعينهم</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#EADCC6" text-anchor="start">15</text>
+</svg>

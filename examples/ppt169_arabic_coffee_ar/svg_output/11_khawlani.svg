@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <linearGradient id="rightScrim" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#1E120B" stop-opacity="0.92"/>
+      <stop offset="0.45" stop-color="#1E120B" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#1E120B" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bottomScrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E120B" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1E120B" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <image id="terraces-field" data-pptx-role="background" href="../images/terraces_duo.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="right-scrim" data-pptx-role="decoration" x="520" y="0" width="760" height="720" fill="url(#rightScrim)"/>
+  <rect id="bottom-scrim" data-pptx-role="decoration" x="0" y="380" width="700" height="340" fill="url(#bottomScrim)"/>
+  <g id="header" data-pptx-bounds="600 48 616 190">
+    <rect x="1205" y="64" width="3" height="170" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الرابع · البن الخولاني</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#F6EFE4">البن الخولاني:<tspan x="1186" dy="58">معرفة المدرّجات</tspan></text>
+  </g>
+  <g id="khawlani-steps" data-pptx-bounds="600 262 616 262">
+    <text x="1186" y="290" font-size="24" font-weight="bold" fill="#B8862B">1</text>
+    <text x="1160" y="290" font-size="24" fill="#F6EFE4">شتلات في أكياس شبكية في الظل<tspan x="1160" dy="32">من 3 إلى 4 أشهر</tspan></text>
+    <text x="1186" y="368" font-size="24" font-weight="bold" fill="#B8862B">2</text>
+    <text x="1160" y="368" font-size="24" fill="#F6EFE4">تُنقل إلى مدرّجات تحفظ الماء والتربة</text>
+    <text x="1186" y="414" font-size="24" font-weight="bold" fill="#B8862B">3</text>
+    <text x="1160" y="414" font-size="24" fill="#F6EFE4">تُثمر بعد 2 إلى 3 سنوات من الزراعة</text>
+    <text x="1186" y="460" font-size="24" font-weight="bold" fill="#B8862B">4</text>
+    <text x="1160" y="460" font-size="24" fill="#F6EFE4">قطف يدوي ثم تجفيف الثمار</text>
+    <text x="1186" y="506" font-size="24" font-weight="bold" fill="#B8862B">5</text>
+    <text x="1160" y="506" font-size="24" fill="#F6EFE4">رحى حجرية تقشّر الحبة دون أن تتكسّر</text>
+  </g>
+  <g id="khawlani-heritage" data-pptx-bounds="72 440 516 212">
+    <text x="560" y="464" font-size="24" fill="#EADCC6">قبائل خولان تزرع البن منذ</text>
+    <text x="560" y="566" font-size="30" fill="#F6EFE4">أكثر من <tspan font-family="'Times New Roman', serif" font-size="96" font-weight="bold" fill="#B8862B">300</tspan> عام</text>
+    <text x="560" y="610" font-size="24" fill="#EADCC6">وتقديم بنّ مزرعة المضيف للضيف<tspan x="560" dy="32">علامة شرف واحترام</tspan></text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="700 664 508 24">
+    <text x="1186" y="680" font-size="16" fill="#EADCC6">المصدر: اليونسكو، 2022</text>
+  </g>
+  <text id="ai-caption" data-pptx-role="footer" x="72" y="48" font-size="16" fill="#F6EFE4" text-anchor="start">صورة توضيحية مولَّدة بالذكاء الاصطناعي</text>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#EADCC6" text-anchor="start">11</text>
+</svg>

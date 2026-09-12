@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <clipPath id="terraceArch">
+      <path d="M 72 640 L 72 450 A 200 200 0 0 1 472 450 L 472 640 Z"/>
+    </clipPath>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="header" data-pptx-bounds="72 48 1144 188">
+    <rect x="1205" y="64" width="3" height="160" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الخامس · جازان</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">في جبال جازان: أكثر من 2000 مزرعة</text>
+    <text x="1186" y="208" font-size="30" fill="#2B1D15">البن السعودي محصول جبلي تحمله ست محافظات</text>
+  </g>
+  <g id="terrace-arch" data-pptx-bounds="70 248 404 394">
+    <image href="../images/terraces.jpg" x="-355" y="250" width="949" height="530" preserveAspectRatio="xMidYMid slice" clip-path="url(#terraceArch)"/>
+    <path d="M 72 640 L 72 450 A 200 200 0 0 1 472 450 L 472 640" fill="none" stroke="#B8862B" stroke-width="3"/>
+  </g>
+  <g id="kpi-farms" data-pptx-bounds="864 252 344 214">
+    <text x="1186" y="286" font-size="24" fill="#2B1D15">أكثر من</text>
+    <text x="1186" y="374" font-family="'Times New Roman', serif" font-size="96" font-weight="bold" fill="#B8862B">2000</text>
+    <text x="1186" y="418" font-size="26" font-weight="bold" fill="#4A2C1D">مزرعة بن</text>
+    <text x="1186" y="452" font-size="16" fill="#6E5A4C">واس عن فرع وزارة البيئة بجازان، 2024</text>
+  </g>
+  <g id="kpi-trees" data-pptx-bounds="500 252 352 214">
+    <text x="830" y="286" font-size="24" fill="#2B1D15">أكثر من</text>
+    <text x="830" y="374" font-family="'Times New Roman', serif" font-size="96" font-weight="bold" fill="#5E7D4F">966<tspan font-size="48"> ألف</tspan></text>
+    <text x="830" y="418" font-size="26" font-weight="bold" fill="#4A2C1D">شجرة بن مثمرة</text>
+    <text x="830" y="452" font-size="16" fill="#6E5A4C">وزارة البيئة والمياه والزراعة، 2025</text>
+  </g>
+  <g id="governorates" data-pptx-bounds="500 488 708 124">
+    <use data-icon="tabler-outline/map-pin" x="1160" y="496" width="30" height="30" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1146" y="518" font-size="20" fill="#B8862B">ست محافظات جبلية</text>
+    <text x="1186" y="562" font-size="26" fill="#2B1D15">الداير · فيفا · الريث<tspan x="1186" dy="40">العارضة · هروب · العيدابي</tspan></text>
+  </g>
+  <g id="data-note" data-pptx-bounds="500 624 708 32">
+    <text x="1186" y="646" font-size="16" fill="#6E5A4C">ملاحظة: الرقمان من بيانين بتاريخين مختلفين فلا يُجمعان</text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="640 664 568 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">المصدر: واس، 2024؛ وزارة البيئة والمياه والزراعة، 2025</text>
+  </g>
+  <text id="ai-caption" data-pptx-role="footer" x="472" y="668" font-size="16" fill="#6E5A4C">صورة توضيحية مولَّدة بالذكاء الاصطناعي</text>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">14</text>
+</svg>

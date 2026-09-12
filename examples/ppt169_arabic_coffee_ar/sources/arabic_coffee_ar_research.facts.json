@@ -1,0 +1,182 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "القهوة العربية",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "تقدمت الإمارات والسعودية وعُمان وقطر بطلب إدراج القهوة العربية في القائمة التمثيلية للتراث الثقافي غير المادي للبشرية في اليونسكو، ونجحت في ذلك عام 2015.",
+      "source_title": "القهوة العربية — دائرة الثقافة والسياحة أبوظبي (العناصر المدرجة في قائمة اليونسكو)",
+      "source_url": "https://abudhabiculture.ae/ar/cultural-heritage/intangible/unesco-ich-inscribed-elements/gahwa-arabic-coffee",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "تسجّل صفحة اليونسكو الحالية للعنصر «القهوة العربية، رمز للكرم» إدراجه عام 2024 (الدورة 19 للجنة الدولية) مع الأردن دولةً مقدِّمة جديدة إلى جانب الإمارات وعُمان وقطر والسعودية.",
+      "source_title": "Arabic coffee, a symbol of generosity — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-01074",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "تُقدَّم القهوة العربية في الأعراس والتجمعات القبلية، ومنها مجالس الصلح وفض النزاعات، وتقديمها وشربها طقس يومي.",
+      "source_title": "Arabic coffee, a symbol of generosity — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-01074",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "يُقدَّم للكبار والضيوف أولاً، ومن المعتاد أن يهزّ الشارب فنجانه إشارةً إلى أنه اكتفى.",
+      "source_title": "Arabic coffee, a symbol of generosity — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-01074",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "ترافق القهوة في المجالس قراءة الشعر والنقاش وتبادل الذكريات، وهي إلى جانب رمزيتها للكرم والضيافة والاحترام دعوة إلى السلام والحوار داخل البلدان وفيما بينها.",
+      "source_title": "Arabic coffee, a symbol of generosity — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-01074",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "تمر عملية تحويل حبوب البن إلى قهوة بمراحل: فرز الحبوب وغسلها وتجفيفها، ثم تحميصها حتى يتغير لونها إلى الأحمر أو البني، ثم طحنها ونقعها وتخميرها على نار هادئة.",
+      "source_title": "القهوة العربية — دائرة الثقافة والسياحة أبوظبي",
+      "source_url": "https://abudhabiculture.ae/ar/cultural-heritage/intangible/unesco-ich-inscribed-elements/gahwa-arabic-coffee",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "تُسمّى أدوات تحضير القهوة مجتمعةً «المعاميل»، وأهمها التاوة (مقلاة مستديرة لتحميص البن) والمحماس (ملعقة لتقليب الحبوب أثناء التحميص) والمهباش (ملقط حديدي للجمر).",
+      "source_title": "القهوة العربية — دائرة الثقافة والسياحة أبوظبي",
+      "source_url": "https://abudhabiculture.ae/ar/cultural-heritage/intangible/unesco-ich-inscribed-elements/gahwa-arabic-coffee",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "للدلّة ثلاثة أنواع: دلّة الخُمرة (وعاء كبير لغلي القهوة والهيل)، ودلّة التلقيمة (متوسطة لتصفية القهوة)، ودلّة المزلة (الصغرى للتقديم).",
+      "source_title": "القهوة العربية — دائرة الثقافة والسياحة أبوظبي",
+      "source_url": "https://abudhabiculture.ae/ar/cultural-heritage/intangible/unesco-ich-inscribed-elements/gahwa-arabic-coffee",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "يحمل من يصب القهوة الدلّة بيده اليسرى والفنجان بيده اليمنى، ويتناول الضيف الفنجان بيده اليمنى ويعيده إلى من قدّمه.",
+      "source_title": "القهوة العربية — دائرة الثقافة والسياحة أبوظبي",
+      "source_url": "https://abudhabiculture.ae/ar/cultural-heritage/intangible/unesco-ich-inscribed-elements/gahwa-arabic-coffee",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "تُقدَّم القهوة للضيف الأهم أو الأكبر سناً أولاً، ولا يزيد مقدارها عادةً على ربع الفنجان، ويشرب الضيف فنجاناً واحداً على الأقل ولا يزيد على ثلاثة.",
+      "source_title": "القهوة العربية — دائرة الثقافة والسياحة أبوظبي",
+      "source_url": "https://abudhabiculture.ae/ar/cultural-heritage/intangible/unesco-ich-inscribed-elements/gahwa-arabic-coffee",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "كان أهل البادية يعدّون القهوة على موقد هو حفرة في الأرض، ثم حلّ محلها «الكوار»: تجويف طيني فيه موقد مليء بالحصى يوضع في زاوية المجلس.",
+      "source_title": "القهوة العربية — دائرة الثقافة والسياحة أبوظبي",
+      "source_url": "https://abudhabiculture.ae/ar/cultural-heritage/intangible/unesco-ich-inscribed-elements/gahwa-arabic-coffee",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "أُدرجت «المعارف والممارسات المرتبطة بزراعة البن الخولاني» (المملكة العربية السعودية) في القائمة التمثيلية لليونسكو عام 2022 (الدورة 17 للجنة الدولية).",
+      "source_title": "Knowledge and practices related to cultivating Khawlani coffee beans — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/knowledge-and-practices-related-to-cultivating-khawlani-coffee-beans-01863",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "تُزرع بذور البن الخولاني في أكياس شبكية مملوءة بالتربة في الظل من ثلاثة إلى أربعة أشهر، ثم تُنقل إلى مدرجات زراعية تحفظ الماء والتربة، وتثمر بعد سنتين إلى ثلاث من الزراعة.",
+      "source_title": "Knowledge and practices related to cultivating Khawlani coffee beans — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/knowledge-and-practices-related-to-cultivating-khawlani-coffee-beans-01863",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "تُقطف الثمار باليد وتُفرد لتجف، ثم توضع على رحى حجرية مسطحة كبيرة ويُقشِّرها حجر أسطواني دون أن تتكسر الحبة.",
+      "source_title": "Knowledge and practices related to cultivating Khawlani coffee beans — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/knowledge-and-practices-related-to-cultivating-khawlani-coffee-beans-01863",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "تزرع قبائل خولان البن منذ أكثر من 300 عام، ويُعدّ تقديم البن المحصود من مزرعة المضيف نفسه للضيوف علامةَ شرف واحترام.",
+      "source_title": "Knowledge and practices related to cultivating Khawlani coffee beans — UNESCO Intangible Cultural Heritage",
+      "source_url": "https://ich.unesco.org/en/RL/knowledge-and-practices-related-to-cultivating-khawlani-coffee-beans-01863",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "أطلقت وزارة الثقافة مبادرة «عام القهوة السعودية 2022» مطلع 2022 بدعم من برنامج جودة الحياة، واحتفت بختامها في قصر الثقافة بالرياض يوم 25 يناير 2023.",
+      "source_title": "وزارة الثقافة تحتفي بختام مبادرة عام القهوة السعودية 2022 — وكالة الأنباء السعودية (واس)",
+      "source_url": "https://www.spa.gov.sa/w1845052",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "وفق وزارة البيئة والمياه والزراعة (اليوم العالمي للبن، 1 أكتوبر 2025) تحتضن مناطق جازان وعسير والباحة ومكة المكرمة ونجران أكثر من 1.3 مليون شجرة بن مثمرة تنتج أكثر من 870 طناً من البن الصافي سنوياً.",
+      "source_title": "البن السعودي.. إرث وطني ونكهة الأصالة — وزارة البيئة والمياه والزراعة",
+      "source_url": "https://www.mewa.gov.sa/ar/MediaCenter/News/Pages/News13082020.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "تتصدر جازان بأكثر من 966 ألف شجرة مثمرة تنتج أكثر من 642 طناً من البن الصافي، تليها عسير بأكثر من 243 ألف شجرة وأكثر من 175 طناً (وزارة البيئة والمياه والزراعة، 2025).",
+      "source_title": "البن السعودي.. إرث وطني ونكهة الأصالة — وزارة البيئة والمياه والزراعة",
+      "source_url": "https://www.mewa.gov.sa/ar/MediaCenter/News/Pages/News13082020.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "في الباحة نحو 72 ألف شجرة مثمرة تنتج أكثر من 36 طناً، إضافة إلى نحو 540 ألف شجرة زُرعت في مدينة البن التنموية ولم تدخل الإثمار بعد؛ وفي مكة المكرمة أكثر من 12 ألف شجرة (أكثر من 10 أطنان)، وفي نجران أكثر من 9 آلاف شجرة (أكثر من 7 أطنان) (وزارة البيئة والمياه والزراعة، 2025).",
+      "source_title": "البن السعودي.. إرث وطني ونكهة الأصالة — وزارة البيئة والمياه والزراعة",
+      "source_url": "https://www.mewa.gov.sa/ar/MediaCenter/News/Pages/News13082020.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "تختلف طريقة تحضير القهوة السعودية بين المناطق: في الشمال حمصة داكنة مع الهيل، وفي الجنوب حمصة فاتحة يضاف إليها الزنجبيل والزعفران والقرفة والقرنفل، وفي الشرقية والغربية والوسطى حمصة متوسطة مع الهيل والزعفران.",
+      "source_title": "البن السعودي.. إرث وطني ونكهة الأصالة — وزارة البيئة والمياه والزراعة",
+      "source_url": "https://www.mewa.gov.sa/ar/MediaCenter/News/Pages/News13082020.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "وفق بيانات فرع وزارة البيئة والمياه والزراعة بجازان (فبراير 2024) تجاوز عدد أشجار البن في المنطقة 400 ألف شجرة وإنتاجها 1000 طن سنوياً وعدد المزارع 2000 مزرعة، في المحافظات الجبلية: الداير وفيفا والريث والعارضة وهروب والعيدابي.",
+      "source_title": "إنتاج منطقة جازان من البن يتخطى حاجز الـ1000 طن سنوياً — وكالة الأنباء السعودية (واس)",
+      "source_url": "https://www.spa.gov.sa/N2047077",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "يوافق اليوم العالمي للبن الأول من أكتوبر من كل عام.",
+      "source_title": "البن السعودي.. إرث وطني ونكهة الأصالة — وزارة البيئة والمياه والزراعة",
+      "source_url": "https://www.mewa.gov.sa/ar/MediaCenter/News/Pages/News13082020.aspx",
+      "classification": "external",
+      "retrieved_at": "2026-09-11"
+    }
+  ]
+}

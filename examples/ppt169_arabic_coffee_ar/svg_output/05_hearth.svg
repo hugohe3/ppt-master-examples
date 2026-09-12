@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="header" data-pptx-bounds="72 48 1144 188">
+    <rect x="1205" y="64" width="3" height="160" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الثاني · الموقد والأدوات</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">من حفرة في الأرض إلى كوار المجلس</text>
+    <text x="1186" y="208" font-size="30" fill="#2B1D15">انتقل موقد القهوة من البادية إلى قلب المجلس</text>
+  </g>
+  <g id="hearth-before" data-pptx-bounds="752 262 456 290">
+    <use data-icon="tabler-outline/coffee" x="955" y="286" width="40" height="40" fill="#4A2C1D" stroke-width="1.5"/>
+    <line x1="780" y1="380" x2="1170" y2="380" stroke="#6E5A4C" stroke-width="2"/>
+    <g id="p05-pit" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chord" data-pptx-frame="885 320 180 120" data-pptx-av-adj1="val 0" data-pptx-av-adj2="val 10800000" fill="#D6C3A5" stroke="#6E5A4C" stroke-width="2">
+<path d="M 1065 380 A 90 60 0 0 1 885 380 Z"/>
+</g>
+    <circle cx="950" cy="398" r="6" fill="#C4622D"/>
+    <circle cx="972" cy="404" r="7" fill="#B8862B"/>
+    <circle cx="996" cy="399" r="6" fill="#C4622D"/>
+    <text x="1186" y="478" font-size="26" font-weight="bold" fill="#4A2C1D">قديماً</text>
+    <text x="1186" y="518" font-size="26" fill="#2B1D15">موقد بدائي هو حفرة في الأرض</text>
+  </g>
+  <g id="hearth-shift" data-pptx-bounds="597 316 150 100">
+    <text x="673" y="342" font-size="20" fill="#6E5A4C" text-anchor="middle">مع مرور الوقت</text>
+    <g id="p05-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftArrow" data-pptx-frame="618 356 110 44" fill="#B8862B" stroke="none">
+<path d="M 618 378 L 640 356 L 640 367 L 728 367 L 728 389 L 640 389 L 640 400 Z"/>
+</g>
+  </g>
+  <g id="hearth-after" data-pptx-bounds="72 246 522 322">
+    <g id="p05-majlis-corner" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="corner" data-pptx-frame="100 250 380 180" data-pptx-av-adj1="val 12000" data-pptx-av-adj2="val 12000" fill="#D6C3A5" stroke="none">
+<path d="M 100 250 L 121.6 250 L 121.6 408.4 L 480 408.4 L 480 430 L 100 430 Z"/>
+</g>
+    <g id="p05-kawar" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="trapezoid" data-pptx-frame="180 322 170 86" fill="#8E5B3A" stroke="none">
+<path d="M 180 408 L 201.5 322 L 328.5 322 L 350 408 Z"/>
+</g>
+    <rect x="226" y="342" width="78" height="40" rx="6" fill="#2B1D15"/>
+    <circle cx="240" cy="374" r="5" fill="#B9B18E"/>
+    <circle cx="253" cy="370" r="5" fill="#B9B18E"/>
+    <circle cx="266" cy="375" r="5" fill="#B9B18E"/>
+    <circle cx="279" cy="371" r="5" fill="#B9B18E"/>
+    <circle cx="292" cy="374" r="5" fill="#B9B18E"/>
+    <circle cx="258" cy="357" r="4" fill="#C4622D"/>
+    <circle cx="276" cy="355" r="4" fill="#B8862B"/>
+    <g id="p05-wood-vessel" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="can" data-pptx-frame="378 348 54 60" fill="#6E5A4C" stroke="none">
+<path d="M 378 354.75 A 27 6.75 0 0 0 432 354.75 L 432 401.25 A 27 6.75 0 0 1 378 401.25 Z"/>
+<path d="M 378 354.75 A 27 6.75 0 0 1 432 354.75 A 27 6.75 0 0 1 378 354.75 Z" fill="#A89C94"/>
+<path d="M 432 354.75 A 27 6.75 0 0 1 378 354.75 A 27 6.75 0 0 1 432 354.75 L 432 401.25 A 27 6.75 0 0 1 378 401.25 L 378 354.75" fill="none"/>
+</g>
+    <text x="584" y="478" font-size="26" font-weight="bold" fill="#4A2C1D">لاحقاً: الكوار</text>
+    <text x="584" y="518" font-size="26" fill="#2B1D15">تجويف طيني فيه موقد مليء بالحصى<tspan x="584" dy="38">في زاوية المجلس، وبجانبه وعاء الحطب</tspan></text>
+  </g>
+  <g id="maamil" data-pptx-bounds="72 584 1144 70">
+    <rect x="72" y="588" width="1136" height="62" fill="#EADCC6"/>
+    <text x="1176" y="628" font-size="26" fill="#2B1D15"><tspan font-weight="bold" fill="#4A2C1D">المعاميل (سلة الخُمرة):</tspan> الاسم الجامع لأدوات تحضير القهوة</text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="640 664 568 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">المصدر: دائرة الثقافة والسياحة – أبوظبي</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">05</text>
+</svg>

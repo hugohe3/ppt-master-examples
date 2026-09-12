@@ -1,12 +1,115 @@
 {
   "version": 1,
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "stats": {
-    "examples": 49,
-    "pages": 701,
-    "templates": 49
+    "examples": 50,
+    "pages": 716,
+    "templates": 50
   },
   "projects": [
+    {
+      "id": "ppt169_arabic_coffee_ar",
+      "title": "القهوة العربية",
+      "description": "公开讲座 deck 15 页 — 仓库首个阿拉伯文示例,全卷从右到左;输入只有题目,事实经 topic-research 取自 UNESCO 非物质文化遗产页(阿拉伯咖啡 2015 年列入、2024 年约旦加入;豪拉尼咖啡 2024 年)、阿布扎比文化与旅游部 gahwa 页与手册、沙特环境水利农业部、沙特通讯社与统计总局(7 份网页与 PDF 经 source_to_md 转换),每个数字标出处与年份,自建框架标「تنظيم」;「مجلس الضيافة」方向:右侧黄铜细竖线、纳斯赫体大标题、拱形与圆形图窗,同一批次低照度静物 AI 摄影 6 张 + 双色调与压暗模糊 2 张派生,Times New Roman / Segoe UI 阿拉伯字形,西式数字;咖啡产量 1 张原生图表(RTL 类别轴)与各地区烘焙 1 张原生表格(列序从右到左),13 个原生预设形状,主角进场动画与 2 组 Morph,6 条来源原生超链接,全卷阿拉伯文讲者备注,语言标签 ar-SA、段落 rtl",
+      "icon": "☕",
+      "color": "#4A2C1D",
+      "style": "culture",
+      "styleName": "Majlis Editorial · مجلس الضيافة",
+      "desc": "A fifteen-page Arabic public-lecture deck on Arabic coffee as a language of hospitality — the first Arabic, right-to-left example in the collection. The only input was the topic: facts came through topic research from the UNESCO Intangible Cultural Heritage pages (Arabic coffee, inscribed 2015 and joined by Jordan in 2024; Khawlani coffee, 2024), the Abu Dhabi Department of Culture and Tourism gahwa page and booklet, the Saudi Ministry of Environment, Water and Agriculture, the Saudi Press Agency and the General Authority for Statistics (seven web pages and PDFs converted by source_to_md), with every figure carrying its source and year and compiled framings marked تنظيم. Free design in a majlis editorial look: a thin brass rule on the right, large Naskh titles in Times New Roman with Segoe UI body text, arched and circular photo windows, six low-light still-life AI photographs from one batch with a duotone and a darkened-blur derivative; one native bar chart of coffee production with a right-to-left category axis and one native roast-by-region table with right-to-left columns, thirteen preset shapes, hero entrances with two Morph pairs, six native source hyperlinks, Arabic speaker notes throughout, ar-SA language tags and rtl paragraphs.",
+      "tags": [
+        "Culture",
+        "Arabic",
+        "Right-to-Left",
+        "Heritage",
+        "Native Charts",
+        "Native Tables",
+        "Morph",
+        "AI Photography"
+      ],
+      "isNew": true,
+      "folder": "ppt169_arabic_coffee_ar/svg_final",
+      "generatedAt": "2026-09-11",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_arabic_coffee_ar/exports/ppt169_arabic_coffee_ar.pptx",
+      "pptxNative": "examples/ppt169_arabic_coffee_ar/exports/ppt169_arabic_coffee_ar_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "القهوة العربية — لغة الضيافة من الحبة إلى الفنجان"
+        },
+        {
+          "file": "02_hospitality.svg",
+          "title": "hospitality",
+          "desc": "القهوة لغة ضيافة قبل أن تكون مشروباً"
+        },
+        {
+          "file": "03_six_stages.svg",
+          "title": "six stages",
+          "desc": "من الحبة إلى الفنجان في ست مراحل"
+        },
+        {
+          "file": "04_roasting.svg",
+          "title": "roasting",
+          "desc": "في التحميص يولد اللون"
+        },
+        {
+          "file": "05_hearth.svg",
+          "title": "hearth",
+          "desc": "من حفرة في الأرض إلى كوار المجلس"
+        },
+        {
+          "file": "06_three_dallahs.svg",
+          "title": "three dallahs",
+          "desc": "ثلاث دلال لثلاث مهام"
+        },
+        {
+          "file": "07_roast_regions.svg",
+          "title": "roast regions",
+          "desc": "لكل منطقة حمصتها وإضافاتها"
+        },
+        {
+          "file": "08_serving_order.svg",
+          "title": "serving order",
+          "desc": "التقديم يبدأ بالأكبر وينتهي بهزّة"
+        },
+        {
+          "file": "09_cup_shake.svg",
+          "title": "cup shake",
+          "desc": "هزّة الفنجان تعني: اكتفيت"
+        },
+        {
+          "file": "10_unesco_timeline.svg",
+          "title": "unesco timeline",
+          "desc": "من 2015 إلى 2024: اعتراف يتّسع"
+        },
+        {
+          "file": "11_khawlani.svg",
+          "title": "khawlani",
+          "desc": "البن الخولاني: معرفة المدرّجات"
+        },
+        {
+          "file": "12_year_of_coffee.svg",
+          "title": "year of coffee",
+          "desc": "2022 — عام القهوة السعودية"
+        },
+        {
+          "file": "13_production_chart.svg",
+          "title": "production chart",
+          "desc": "جازان: نحو ثلاثة أرباع البن السعودي"
+        },
+        {
+          "file": "14_jazan_mountains.svg",
+          "title": "jazan mountains",
+          "desc": "في جبال جازان: أكثر من 2000 مزرعة"
+        },
+        {
+          "file": "15_closing_sources.svg",
+          "title": "closing sources",
+          "desc": "حين يُهزّ الفنجان ينتهي الشرب، ولا تنتهي الضيافة"
+        }
+      ]
+    },
     {
       "id": "ppt169_jeju_haenyeo_ko",
       "title": "제주 해녀",

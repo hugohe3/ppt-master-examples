@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <marker id="timeArrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#B8862B"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="header" data-pptx-bounds="72 48 1144 190">
+    <rect x="1205" y="64" width="3" height="160" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الرابع · الاعتراف الدولي</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">من 2015 إلى 2024: اعتراف يتّسع</text>
+    <text x="1186" y="208" font-size="30" fill="#2B1D15">بدأ الاعتراف الدولي بملف رباعي عام 2015 ثم اتّسع</text>
+  </g>
+  <g id="time-spine" data-pptx-bounds="72 280 1144 40">
+    <line x1="1186" y1="300" x2="96" y2="300" stroke="#B8862B" stroke-width="2" marker-end="url(#timeArrow)"/>
+    <circle cx="1176" cy="300" r="10" fill="#4A2C1D"/>
+    <circle cx="796" cy="300" r="10" fill="#4A2C1D"/>
+    <circle cx="370" cy="300" r="10" fill="#5E7D4F"/>
+  </g>
+  <g id="year-2015" data-pptx-bounds="826 324 382 250">
+    <text x="1186" y="408" font-family="'Times New Roman', serif" font-size="96" font-weight="bold" fill="#B8862B">2015</text>
+    <text x="1186" y="456" font-size="24" font-weight="bold" fill="#4A2C1D">القهوة العربية، رمز للكرم</text>
+    <text x="1186" y="494" font-size="24" fill="#2B1D15">ملف مشترك من الإمارات<tspan x="1186" dy="32">والسعودية وعُمان وقطر</tspan></text>
+  </g>
+  <g id="year-2022" data-pptx-bounds="400 324 424 250">
+    <text x="806" y="408" font-family="'Times New Roman', serif" font-size="96" font-weight="bold" fill="#B8862B">2022</text>
+    <text x="806" y="456" font-size="24" font-weight="bold" fill="#4A2C1D">المعارف والممارسات المرتبطة<tspan x="806" dy="32">بزراعة البن الخولاني</tspan></text>
+    <text x="806" y="526" font-size="24" fill="#2B1D15">المملكة العربية السعودية</text>
+  </g>
+  <g id="year-2024" data-pptx-bounds="76 324 316 250">
+    <text x="380" y="408" font-family="'Times New Roman', serif" font-size="96" font-weight="bold" fill="#5E7D4F">2024</text>
+    <text x="380" y="456" font-size="24" font-weight="bold" fill="#4A2C1D">القهوة العربية،<tspan x="380" dy="32">رمز للكرم</tspan></text>
+    <text x="380" y="526" font-size="24" fill="#2B1D15">الأردن دولةً مقدِّمة جديدة<tspan x="380" dy="32">إلى جانب الدول الأربع</tspan></text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="500 664 708 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">تنظيم عن: اليونسكو (صفحتا العنصرين)؛ دائرة الثقافة والسياحة – أبوظبي</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">10</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4" />
+  <g id="header" data-pptx-bounds="72 48 1144 230">
+    <rect x="1205" y="64" width="3" height="200" fill="#B8862B" />
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الأول · المعنى</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">القهوة لغة ضيافة قبل أن تكون مشروباً</text>
+    <text fill="#2B1D15" font-size="30" x="1186" y="210">حضورها في الأعراس ومجالس الصلح والحياة اليومية</text><text fill="#2B1D15" font-size="30" x="1186" y="254"><tspan>يجعلها <tspan fill="#4A2C1D" font-weight="bold">رمزاً للكرم والاحترام</tspan></tspan></text></g>
+  <g id="occasions" data-pptx-bounds="72 292 1136 262">
+    <rect x="72" y="296" width="1136" height="252" fill="#EADCC6" />
+    <line x1="818" y1="324" x2="818" y2="520" stroke="#D6C3A5" stroke-width="1.5" />
+    <line x1="462" y1="324" x2="462" y2="520" stroke="#D6C3A5" stroke-width="1.5" />
+    <g id="occasion-daily">
+      
+  <g transform="translate(1124, 324) scale(1.83333)" fill="none" stroke="#4A2C1D" stroke-width="1.5">
+    <path d="M3 14c.83 .642 2.077 1.017 3.5 1c1.423 .017 2.67 -.358 3.5 -1c.83 -.642 2.077 -1.017 3.5 -1c1.423 -.017 2.67 .358 3.5 1" />
+    <path d="M8 3a2.4 2.4 0 0 0 -1 2a2.4 2.4 0 0 0 1 2" />
+    <path d="M12 3a2.4 2.4 0 0 0 -1 2a2.4 2.4 0 0 0 1 2" />
+    <path d="M3 10h14v5a6 6 0 0 1 -6 6h-2a6 6 0 0 1 -6 -6v-5" />
+    <path d="M16.746 16.726a3 3 0 1 0 .252 -5.555" />
+  </g>
+      <text x="1168" y="420" font-size="30" font-weight="bold" fill="#4A2C1D">طقس يومي</text>
+      <text fill="#2B1D15" font-size="26" x="1168" y="466">يُقدَّم ويُشرب كل يوم</text><text fill="#2B1D15" font-size="26" x="1168" y="508">للأفراد والجماعات</text></g>
+    <g id="occasion-weddings">
+      
+  <g transform="translate(734, 324) scale(1.83333)" fill="none" stroke="#4A2C1D" stroke-width="1.5">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+      <text x="778" y="420" font-size="30" font-weight="bold" fill="#4A2C1D">الأعراس والتجمعات</text>
+      <text fill="#2B1D15" font-size="26" x="778" y="466">حاضرة في الأعراس</text><text fill="#2B1D15" font-size="26" x="778" y="508">والتجمعات القبلية</text></g>
+    <g id="occasion-reconcile">
+      
+  <g transform="translate(378, 324) scale(1.83333)" fill="none" stroke="#4A2C1D" stroke-width="1.5">
+    <path d="M3 21l18 0" />
+    <path d="M4 21v-15a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v15" />
+    <path d="M9 21v-8a3 3 0 0 1 6 0v8" />
+  </g>
+      <text x="422" y="420" font-size="30" font-weight="bold" fill="#4A2C1D">مجالس الصلح</text>
+      <text fill="#2B1D15" font-size="26" x="422" y="466">حاضرة في مجالس الصلح</text><text fill="#2B1D15" font-size="26" x="422" y="508">وفضّ النزاعات</text></g>
+  </g>
+  <g id="peace-line" data-pptx-bounds="72 574 1144 84">
+    <text fill="#2B1D15" font-size="26" x="1186" y="604">ترافقها قراءة الشعر والنقاش وتبادل الذكريات،</text><text fill="#2B1D15" font-size="26" x="1186" y="644"><tspan>وهي <tspan fill="#5E7D4F" font-weight="bold">دعوة إلى السلام والحوار</tspan> داخل البلدان وفيما بينها</tspan></text></g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="400 664 808 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">المصدر: اليونسكو، صفحة عنصر «القهوة العربية، رمز للكرم»، 2024</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">02</text>
+</svg>

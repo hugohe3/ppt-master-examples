@@ -1,0 +1,9 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,cardamom.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,115.8,Near square
+2,dallah_hero.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,111.2,Wide landscape
+3,dallah_hero_blur.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,37.9,Wide landscape
+4,finjan_hand.jpg,1434,1920,0.75,0.75,,native,JPEG,False,1,,bitmap,True,True,116.7,Portrait
+5,roasting_tawa.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,459.8,Near square
+6,terraces.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,461.5,Wide landscape
+7,terraces_duo.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,375.7,Wide landscape
+8,three_dallahs.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,171.3,Wide landscape

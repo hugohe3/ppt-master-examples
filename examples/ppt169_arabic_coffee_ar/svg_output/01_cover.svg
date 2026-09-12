@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <linearGradient id="coverScrim" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#1E120B" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#1E120B" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#1E120B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <image id="cover-photo" data-pptx-role="background" href="../images/dallah_hero.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#coverScrim)"/>
+  <g id="cover-rule" data-pptx-bounds="1200 150 16 420">
+    <rect x="1204" y="156" width="3" height="408" fill="#B8862B"/>
+  </g>
+  <g id="cover-title" data-pptx-bounds="72 150 1120 290">
+    <text x="1176" y="196" font-size="20" fill="#B8862B">محاضرة عامة</text>
+    <text x="1176" y="330" font-family="'Times New Roman', serif" font-size="120" font-weight="bold" fill="#F6EFE4">القهوة العربية</text>
+    <text x="1176" y="410" font-family="'Times New Roman', serif" font-size="34" fill="#EADCC6">لغة الضيافة من الحبة إلى الفنجان</text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="600 450 590 60">
+    <text x="1176" y="492" font-size="30" fill="#B8862B">فنجانٌ واحد يقول: أهلاً بك</text>
+  </g>
+  <g id="cover-badge" data-pptx-bounds="440 600 770 60">
+    <use data-icon="tabler-outline/certificate" x="1152" y="610" width="32" height="32" fill="#EADCC6" stroke-width="1.5"/>
+    <text x="1136" y="634" font-size="20" fill="#EADCC6">مُدرجة في قائمة اليونسكو للتراث الثقافي غير المادي منذ 2015</text>
+  </g>
+</svg>

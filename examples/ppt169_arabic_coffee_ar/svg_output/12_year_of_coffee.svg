@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="section" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <defs>
+    <linearGradient id="yearField" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4A2C1D"/>
+      <stop offset="1" stop-color="#1E120B"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="url(#yearField)"/>
+  <g id="year-arch" data-pptx-bounds="90 144 442 482">
+    <g id="p12-arch" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="round2SameRect" data-pptx-frame="96 150 430 470" data-pptx-av-adj1="val 50000" data-pptx-av-adj2="val 0" fill="none" stroke="#B8862B" stroke-width="3">
+<path d="M 311 150 L 311 150 A 215 215 0 0 1 526 365 L 526 620 L 96 620 L 96 365 A 215 215 0 0 1 311 150 Z"/>
+</g>
+    <use data-icon="tabler-outline/coffee" x="287" y="270" width="48" height="48" fill="#EADCC6" stroke-width="1.5"/>
+    <text x="311" y="470" font-family="'Times New Roman', serif" font-size="160" font-weight="bold" fill="#B8862B" text-anchor="middle">2022</text>
+  </g>
+  <g id="year-title" data-pptx-bounds="560 170 656 220">
+    <rect x="1205" y="186" width="3" height="200" fill="#B8862B"/>
+    <text x="1186" y="214" font-size="20" fill="#B8862B">الفصل الرابع · احتفاء وطني</text>
+    <text x="1186" y="280" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#F6EFE4">عام القهوة السعودية</text>
+    <text x="1186" y="334" font-size="30" fill="#EADCC6">عامٌ كامل خصّصته وزارة الثقافة<tspan x="1186" dy="42">للقهوة رمزاً أصيلاً للكرم والضيافة</tspan></text>
+  </g>
+  <g id="year-launch" data-pptx-bounds="560 410 656 96">
+    <use data-icon="tabler-outline/calendar" x="1164" y="426" width="30" height="30" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1146" y="450" font-size="26" fill="#F6EFE4">أُطلقت مطلع <tspan font-weight="bold" fill="#B8862B">2022</tspan><tspan x="1146" dy="38">بدعم من برنامج جودة الحياة</tspan></text>
+  </g>
+  <g id="year-closing" data-pptx-bounds="560 512 656 96">
+    <use data-icon="tabler-outline/certificate" x="1164" y="528" width="30" height="30" fill="#B8862B" stroke-width="1.5"/>
+    <text x="1146" y="552" font-size="26" fill="#F6EFE4">اختُتمت في قصر الثقافة بالرياض<tspan x="1146" dy="38">يوم <tspan font-weight="bold" fill="#B8862B">25 يناير 2023</tspan></tspan></text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="600 664 608 24">
+    <text x="1186" y="680" font-size="16" fill="#EADCC6">المصدر: وكالة الأنباء السعودية (واس)، 2023</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#EADCC6" text-anchor="start">12</text>
+</svg>

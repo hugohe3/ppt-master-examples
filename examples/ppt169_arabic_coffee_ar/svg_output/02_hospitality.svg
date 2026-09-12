@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content" font-family="'Segoe UI', sans-serif" text-anchor="end">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#F6EFE4"/>
+  <g id="header" data-pptx-bounds="72 48 1144 230">
+    <rect x="1205" y="64" width="3" height="200" fill="#B8862B"/>
+    <text x="1186" y="92" font-size="20" fill="#B8862B">الفصل الأول · المعنى</text>
+    <text x="1186" y="156" font-family="'Times New Roman', serif" font-size="48" font-weight="bold" fill="#4A2C1D">القهوة لغة ضيافة قبل أن تكون مشروباً</text>
+    <text x="1186" y="210" font-size="30" fill="#2B1D15">حضورها في الأعراس ومجالس الصلح والحياة اليومية<tspan x="1186" dy="44">يجعلها <tspan fill="#4A2C1D" font-weight="bold">رمزاً للكرم والاحترام</tspan></tspan></text>
+  </g>
+  <g id="occasions" data-pptx-bounds="72 292 1136 262">
+    <rect x="72" y="296" width="1136" height="252" fill="#EADCC6"/>
+    <line x1="818" y1="324" x2="818" y2="520" stroke="#D6C3A5" stroke-width="1.5"/>
+    <line x1="462" y1="324" x2="462" y2="520" stroke="#D6C3A5" stroke-width="1.5"/>
+    <g id="occasion-daily">
+      <use data-icon="tabler-outline/coffee" x="1124" y="324" width="44" height="44" fill="#4A2C1D" stroke-width="1.5"/>
+      <text x="1168" y="420" font-size="30" font-weight="bold" fill="#4A2C1D">طقس يومي</text>
+      <text x="1168" y="466" font-size="26" fill="#2B1D15">يُقدَّم ويُشرب كل يوم<tspan x="1168" dy="42">للأفراد والجماعات</tspan></text>
+    </g>
+    <g id="occasion-weddings">
+      <use data-icon="tabler-outline/users" x="734" y="324" width="44" height="44" fill="#4A2C1D" stroke-width="1.5"/>
+      <text x="778" y="420" font-size="30" font-weight="bold" fill="#4A2C1D">الأعراس والتجمعات</text>
+      <text x="778" y="466" font-size="26" fill="#2B1D15">حاضرة في الأعراس<tspan x="778" dy="42">والتجمعات القبلية</tspan></text>
+    </g>
+    <g id="occasion-reconcile">
+      <use data-icon="tabler-outline/building-arch" x="378" y="324" width="44" height="44" fill="#4A2C1D" stroke-width="1.5"/>
+      <text x="422" y="420" font-size="30" font-weight="bold" fill="#4A2C1D">مجالس الصلح</text>
+      <text x="422" y="466" font-size="26" fill="#2B1D15">حاضرة في مجالس الصلح<tspan x="422" dy="42">وفضّ النزاعات</tspan></text>
+    </g>
+  </g>
+  <g id="peace-line" data-pptx-bounds="72 574 1144 84">
+    <text x="1186" y="604" font-size="26" fill="#2B1D15">ترافقها قراءة الشعر والنقاش وتبادل الذكريات،<tspan x="1186" dy="40">وهي <tspan fill="#5E7D4F" font-weight="bold">دعوة إلى السلام والحوار</tspan> داخل البلدان وفيما بينها</tspan></text>
+  </g>
+  <g id="source" data-pptx-role="footer" data-pptx-bounds="400 664 808 24">
+    <text x="1186" y="680" font-size="16" fill="#6E5A4C">المصدر: اليونسكو، صفحة عنصر «القهوة العربية، رمز للكرم»، 2024</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="72" y="680" font-size="16" fill="#6E5A4C" text-anchor="start">02</text>
+</svg>
