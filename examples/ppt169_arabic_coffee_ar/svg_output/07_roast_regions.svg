@@ -45,7 +45,6 @@
     ]
   ],
   "defaults": {
-    "run": {"color": "#2B1D15"},
     "cell": {
       "valign": "middle",
       "padding": {"left": 16, "right": 16, "top": 6, "bottom": 6},
