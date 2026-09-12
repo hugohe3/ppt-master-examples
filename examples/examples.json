@@ -2,11 +2,307 @@
   "version": 1,
   "updated": "2026-09-12",
   "stats": {
-    "examples": 50,
-    "pages": 716,
-    "templates": 50
+    "examples": 53,
+    "pages": 759,
+    "templates": 53
   },
   "projects": [
+    {
+      "id": "ppt169_thai_jasmine_rice_th",
+      "title": "ข้าวหอมมะลิ จากนาสู่โลก",
+      "description": "公开讲座 deck 15 页 — 仓库首个泰文示例;输入只有题目,事实经 topic-research 取自泰国稻米厅与知识产权厅(GI 注册)、泰国大米出口商协会、农业经济办公室、USDA/FAO 与世界大米大会奖项记录,每个数字标出处与年份,年份用佛历并注明换算;「复古海报 × 编辑」方向:同一批次平涂半调 AI 插画 5 张(晨间稻田、依善盆地、米粒与香气、出口码头、捧稻的手),chevron 路线图;五年出口原生折线图与买家份额原生环图 2 张、品种与竞品对照原生表格 2 张,Leelawadee UI / Tahoma 泰文字体,西式数字;泰文无空格全卷手工选词界断行、四层叠加符号取 1.75 倍行距,主角进场动画与 3 组 Morph,全卷泰文讲者备注,语言标签 th-TH",
+      "icon": "🌾",
+      "color": "#3F5A2B",
+      "style": "culture",
+      "styleName": "Vintage Poster · โปสเตอร์ย้อนยุค",
+      "desc": "A fifteen-page Thai public-lecture deck on Hom Mali jasmine rice, from the 199 panicles of 1950 to today's exports — the first Thai example in the collection. The only input was the topic: facts came through topic research from the Thai Rice Department and Department of Intellectual Property (GI registration), the Thai Rice Exporters Association, the Office of Agricultural Economics, USDA and FAO publications and the World Rice Conference award records, with every figure carrying its source and year and Buddhist-calendar years stated with their conversion. Free design in a vintage-poster editorial look: five flat-colour halftone AI illustrations from one batch (dawn paddy, Isan basin, grain and aroma, export port, a farmer's hands), a chevron roadmap, two native charts (five-year export lines, buyer-share doughnut) and two native comparison tables, Leelawadee UI and Tahoma, Western digits, hand-chosen word-boundary line breaks for the unspaced script with 1.75× leading for its stacked marks, hero entrances with three Morph pairs, Thai speaker notes throughout, and th-TH language tags.",
+      "tags": [
+        "Culture",
+        "Thai",
+        "Agriculture",
+        "Native Charts",
+        "Native Tables",
+        "Morph",
+        "AI Illustration"
+      ],
+      "isNew": true,
+      "folder": "ppt169_thai_jasmine_rice_th/svg_final",
+      "generatedAt": "2026-09-12",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_thai_jasmine_rice_th/exports/ppt169_thai_jasmine_rice_th.pptx",
+      "pptxNative": "examples/ppt169_thai_jasmine_rice_th/exports/ppt169_thai_jasmine_rice_th_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "ข้าวหอมมะลิ จากนาสู่โลก — การบรรยายสาธารณะ"
+        },
+        {
+          "file": "02_roadmap.svg",
+          "title": "roadmap",
+          "desc": "เส้นทางของการบรรยาย"
+        },
+        {
+          "file": "03_origin_199_panicles.svg",
+          "title": "origin 199 panicles",
+          "desc": "199 รวง จากอำเภอบางคล้า"
+        },
+        {
+          "file": "04_certified_1959.svg",
+          "title": "certified 1959",
+          "desc": "25 พฤษภาคม 2502 วันที่ขาวดอกมะลิ 105 เป็นพันธุ์รับรอง"
+        },
+        {
+          "file": "05_why_fragrant.svg",
+          "title": "why fragrant",
+          "desc": "ความหอมมาจากสารหนึ่งตัวและยีนหนึ่งตำแหน่ง"
+        },
+        {
+          "file": "06_isan_and_thung_kula.svg",
+          "title": "isan and thung kula",
+          "desc": "พื้นที่ปลูกกระจุกอยู่ที่ภาคตะวันออกเฉียงเหนือ"
+        },
+        {
+          "file": "07_gi_two_layers.svg",
+          "title": "gi two layers",
+          "desc": "การรับรองสองชั้น พันธุ์และพื้นที่"
+        },
+        {
+          "file": "08_gi_value_premium.svg",
+          "title": "gi value premium",
+          "desc": "ส่วนต่างที่มาจากการคุ้มครอง"
+        },
+        {
+          "file": "09_five_years_of_export.svg",
+          "title": "five years of export",
+          "desc": "ข้าวหอมทรงตัว ขณะที่ยอดรวมโตด้วยข้าวขาว"
+        },
+        {
+          "file": "10_who_buys_it.svg",
+          "title": "who buys it",
+          "desc": "ตลาดข้าวหอมมะลิกระจุกอยู่ไม่กี่ประเทศ"
+        },
+        {
+          "file": "11_farm_gate_price.svg",
+          "title": "farm gate price",
+          "desc": "ราคาที่ไร่นา มกราคม 2568"
+        },
+        {
+          "file": "12_production_outlook.svg",
+          "title": "production outlook",
+          "desc": "ตัวเลขที่คาดไว้สำหรับปีถัดไป"
+        },
+        {
+          "file": "13_worlds_best_rice.svg",
+          "title": "worlds best rice",
+          "desc": "รางวัลข้าวที่ดีที่สุดในโลก 2563–2568"
+        },
+        {
+          "file": "14_global_competitors.svg",
+          "title": "global competitors",
+          "desc": "สามข้าวหอมบนเกณฑ์เดียวกัน"
+        },
+        {
+          "file": "15_what_must_be_kept.svg",
+          "title": "what must be kept",
+          "desc": "ความหอมไม่ใช่ของที่อยู่คงที่"
+        }
+      ]
+    },
+    {
+      "id": "ppt43_fourier_transform_formulas_zh",
+      "title": "傅里叶变换:把信号拆成频率",
+      "description": "公开课 deck 15 页,4:3 画布 — 仓库首个以原生公式为主角的示例;输入只有题目,历史与应用事实(傅里叶 1807/1822、Cooley–Tukey 1965、JPEG T.81、802.11a)标出处,推导为本 deck 整理;「讲义」方向:通栏公式带配黄铜细线、发丝分隔线、封面 1 张 AI 插画;48 条 PowerPoint 原生可编辑公式(17 条展示式、31 条行内式,其中 8 条在变换对表格内),Cambria Math 公式字体,SimSun / Microsoft YaHei 中文字体;谐波幅度原生柱状图 1 张,21 个原生预设形状;2 组 Morph,其中一组把级数系数式推成变换积分式,说明文字随公式之后进场,全卷中文讲者备注",
+      "icon": "∫",
+      "color": "#1F3A5F",
+      "style": "education",
+      "styleName": "Lecture Handout · 讲义",
+      "desc": "A fifteen-page Chinese lecture deck on the Fourier transform on a 4:3 canvas — the first example built around native formulas. The only input was the topic: historical and application facts (Fourier 1807/1822, Cooley–Tukey 1965, JPEG T.81, 802.11a) carry their sources and the derivations are the deck's own compilation. Free design in a lecture-handout look: full-width formula bands with a brass rule, hairline dividers, one AI illustration on the cover; forty-eight editable Office Math formulas (seventeen display blocks, thirty-one inline runs, eight of them inside the transform-pair grid) set in Cambria Math beside SimSun and Microsoft YaHei, one native column chart of harmonic amplitudes, twenty-one preset shapes, two Morph pairs — one morphs the series coefficient into the transform integral — with reading lines entering after the formulas they explain, and Chinese speaker notes throughout.",
+      "tags": [
+        "Education",
+        "Mathematics",
+        "Native Formulas",
+        "4:3",
+        "Native Charts",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt43_fourier_transform_formulas_zh/svg_final",
+      "generatedAt": "2026-09-12",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt43_fourier_transform_formulas_zh/exports/ppt43_fourier_transform_formulas_zh.pptx",
+      "pptxNative": "examples/ppt43_fourier_transform_formulas_zh/exports/ppt43_fourier_transform_formulas_zh_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "傅里叶变换 把信号拆成频率 — 一个和弦里有几个正弦波?"
+        },
+        {
+          "file": "02_chord.svg",
+          "title": "chord",
+          "desc": "听到的是一条波,里面是好几条"
+        },
+        {
+          "file": "03_series_origin.svg",
+          "title": "series origin",
+          "desc": "级数不是技巧,是热方程解出来的"
+        },
+        {
+          "file": "04_coefficients.svg",
+          "title": "coefficients",
+          "desc": "想知道某个频率有多少,就与它做积分"
+        },
+        {
+          "file": "05_square_wave.svg",
+          "title": "square wave",
+          "desc": "一条方波的频率清单"
+        },
+        {
+          "file": "06_series_to_integral.svg",
+          "title": "series to integral",
+          "desc": "周期越长,频率排得越密"
+        },
+        {
+          "file": "07_transform_pair.svg",
+          "title": "transform pair",
+          "desc": "同一条式子,换成积分"
+        },
+        {
+          "file": "08_transform_pairs_table.svg",
+          "title": "transform pairs table",
+          "desc": "四对变换,记住就能用"
+        },
+        {
+          "file": "09_properties.svg",
+          "title": "properties",
+          "desc": "会用性质,就不用重算积分"
+        },
+        {
+          "file": "10_convolution.svg",
+          "title": "convolution",
+          "desc": "时域卷积,频域相乘"
+        },
+        {
+          "file": "11_dft.svg",
+          "title": "dft",
+          "desc": "采样让积分变成有限求和"
+        },
+        {
+          "file": "12_cost.svg",
+          "title": "cost",
+          "desc": "每个频点都要遍历所有样本"
+        },
+        {
+          "file": "13_cooley_tukey.svg",
+          "title": "cooley tukey",
+          "desc": "拆成奇偶两半,再递归下去"
+        },
+        {
+          "file": "14_applications.svg",
+          "title": "applications",
+          "desc": "图像、医学、无线、声音"
+        },
+        {
+          "file": "15_closing.svg",
+          "title": "closing",
+          "desc": "三句话,和两条继续走的路"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_chandrayaan3_hi_quick",
+      "title": "चंद्रयान-3: चाँद के दक्षिणी ध्रुव तक",
+      "description": "科普讲座 deck 13 页 — 仓库首个印地文示例,Quick 运行时(无策略/确认/spec/lock);输入只有题目,事实经 topic-research 取自 ISRO 任务页与 PIB 新闻稿(2023–2024,经 source_to_md 转换),每个数字标出处与日期,自建框架标「संकलन」;深蓝网格「蓝图」方向:AI 示意图 3 张(组合体等轴、南极地形、风化层剖面),载荷原生表格 1 张、任务成本对比原生柱状图 1 张,16 个 tabler 图标;Nirmala UI 天城文字体、Consolas 日期坐标,西式数字;主角进场动画与 3 组 Morph,全卷印地文讲者备注,语言标签 hi-IN",
+      "icon": "🌙",
+      "color": "#0B1A2B",
+      "style": "education",
+      "styleName": "Blueprint · ब्लूप्रिंट",
+      "desc": "A thirteen-page Hindi science-lecture deck on Chandrayaan-3's landing near the lunar south pole — the first Hindi example in the collection and a Quick-runtime deck (no strategist, confirmation, spec or lock). The only input was the topic: facts came through topic research from ISRO mission pages and Press Information Bureau releases (2023–2024) converted by source_to_md, with every figure carrying its source and date and compiled framings marked संकलन. A blueprint look on a deep navy grid: three AI schematic illustrations (stack isometric, south-pole terrain, regolith section), one native payload table and one native cost-comparison bar chart, sixteen tabler icons, Nirmala UI with Consolas for dates and coordinates, Western digits, hero entrances with three Morph pairs, Hindi speaker notes throughout, and hi-IN language tags.",
+      "tags": [
+        "Science",
+        "Hindi",
+        "Space",
+        "Quick",
+        "Native Charts",
+        "Native Tables",
+        "Morph",
+        "AI Illustration"
+      ],
+      "isNew": true,
+      "folder": "ppt169_chandrayaan3_hi_quick/svg_final",
+      "generatedAt": "2026-09-12",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_chandrayaan3_hi_quick/exports/ppt169_chandrayaan3_hi_quick.pptx",
+      "pptxNative": "examples/ppt169_chandrayaan3_hi_quick/exports/ppt169_chandrayaan3_hi_quick_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "चंद्रयान-3 चाँद के दक्षिणी ध्रुव तक — एक विज्ञान-व्याख्यान"
+        },
+        {
+          "file": "02_mission_objectives.svg",
+          "title": "mission objectives",
+          "desc": "मिशन के तीन उद्देश्य"
+        },
+        {
+          "file": "03_chandrayaan2_lesson.svg",
+          "title": "chandrayaan2 lesson",
+          "desc": "2019 का सबक़: चंद्रयान-2"
+        },
+        {
+          "file": "04_launch.svg",
+          "title": "launch",
+          "desc": "प्रक्षेपण: 14 जुलाई 2023"
+        },
+        {
+          "file": "05_orbit_raising.svg",
+          "title": "orbit raising",
+          "desc": "कक्षा-उन्नयन से चंद्र कक्षा तक"
+        },
+        {
+          "file": "06_landing.svg",
+          "title": "landing",
+          "desc": "23 अगस्त 2023: सॉफ़्ट लैंडिंग"
+        },
+        {
+          "file": "07_shiv_shakti.svg",
+          "title": "shiv shakti",
+          "desc": "'शिव शक्ति' — अवतरण बिंदु का नाम"
+        },
+        {
+          "file": "08_payloads.svg",
+          "title": "payloads",
+          "desc": "प्रज्ञान रोवर और सात पेलोड"
+        },
+        {
+          "file": "09_libs_sulphur.svg",
+          "title": "libs sulphur",
+          "desc": "LIBS: गंधक (S) की असंदिग्ध पुष्टि"
+        },
+        {
+          "file": "10_chaste_hop.svg",
+          "title": "chaste hop",
+          "desc": "ChaSTE और 'हॉप' प्रयोग"
+        },
+        {
+          "file": "11_outcomes.svg",
+          "title": "outcomes",
+          "desc": "मिशन के बाद: निद्रा, वापसी और एक खोज"
+        },
+        {
+          "file": "12_cost.svg",
+          "title": "cost",
+          "desc": "लागत: कम खर्च, बड़ा प्रतिफल"
+        },
+        {
+          "file": "13_ahead.svg",
+          "title": "ahead",
+          "desc": "आगे की राह"
+        }
+      ]
+    },
     {
       "id": "ppt169_arabic_coffee_ar",
       "title": "القهوة العربية",

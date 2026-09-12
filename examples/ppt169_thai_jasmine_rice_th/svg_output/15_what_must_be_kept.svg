@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF"/>
+  <path id="closing-motif-panicle" data-pptx-role="decoration" d="M1212 184 C1186 224 1174 268 1180 320 M1206 216 C1188 222 1178 234 1175 250 M1198 258 C1182 264 1174 276 1172 290" fill="none" stroke="#F1E8D6" stroke-width="6" stroke-linecap="round"/>
+  <g id="page-header" data-pptx-bounds="64 64 1152 92">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 4 · ความท้าทายและสิ่งที่ต้องรักษา</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">ความหอมไม่ใช่ของที่อยู่คงที่</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1"/>
+  </g>
+  <g id="closing-figure" data-pptx-bounds="64 178 400 404">
+    <image href="../images/05_farmer_hands.jpg" x="64" y="180" width="400" height="400" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <g id="takeaway-variety-fragility" data-pptx-bounds="512 178 704 116">
+    <use data-icon="chunk-filled/bug" x="512" y="188" width="26" height="26" fill="#8C3B2E"/>
+    <text x="556" y="212" font-size="30" font-weight="bold" fill="#C8952B">1</text>
+    <text x="596" y="212" font-size="24" fill="#26241F">พันธุ์ที่ให้กลิ่นหอมคือพันธุ์ที่ไม่ต้านทานโรคใบสีส้ม<tspan x="596" dy="34">ขอบใบแห้ง ไหม้ ใบหงิก เพลี้ยกระโดดสีน้ำตาล</tspan><tspan x="596" dy="34">เพลี้ยจักจั่นสีเขียว และหนอนกอ</tspan></text>
+  </g>
+  <g id="takeaway-gi-value" data-pptx-bounds="512 304 704 82">
+    <use data-icon="chunk-filled/shield-check" x="512" y="314" width="26" height="26" fill="#2F5D3A"/>
+    <text x="556" y="338" font-size="30" font-weight="bold" fill="#C8952B">2</text>
+    <text x="596" y="338" font-size="24" fill="#26241F">มูลค่าเพิ่มที่วัดได้มาจากการคุ้มครองพื้นที่ ข้าว GI<tspan x="596" dy="34">ทุ่งกุลาร้องไห้ขายได้สูงกว่าข้าวธรรมดาร้อยละ 15 ถึง 20</tspan></text>
+  </g>
+  <g id="takeaway-world-stage" data-pptx-bounds="512 396 704 82">
+    <use data-icon="chunk-filled/trophy" x="512" y="406" width="26" height="26" fill="#C8952B"/>
+    <text x="556" y="430" font-size="30" font-weight="bold" fill="#C8952B">3</text>
+    <text x="596" y="430" font-size="24" fill="#26241F">ตำแหน่งข้าวที่ดีที่สุดในโลกเปลี่ยนมือทุกปี<tspan x="596" dy="34">ไทยชนะครั้งล่าสุดในปี 2564</tspan></text>
+  </g>
+  <g id="closing-line" data-pptx-bounds="64 596 1152 58">
+    <rect x="64" y="596" width="1152" height="4" fill="#C8952B"/>
+    <text x="64" y="640" font-size="30" font-weight="bold" fill="#2F5D3A">เมล็ดที่ 105 จาก 199 รวงยังเป็นเมล็ดเดิม สิ่งที่เปลี่ยนคือสิ่งที่อยู่รอบมัน</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 656 1152 46" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="672">แหล่งข้อมูลหลัก: Rice Knowledge Bank กรมการข้าว · สำนักงานปลัดกระทรวงเกษตรและสหกรณ์ · สำนักงานประชาสัมพันธ์จังหวัดร้อยเอ็ด (2550)<tspan x="64" dy="20">Commission Implementing Regulation (EU) No 120/2013 · WIPO · USDA FAS TH2025-0011 (2568) · กรมประชาสัมพันธ์ (2567)</tspan></text>
+    <text x="1216" y="692" text-anchor="end">15</text>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF"/>
+  <path id="value-motif-panicle" data-pptx-role="decoration" d="M1214 208 C1188 248 1176 292 1182 344 M1208 240 C1190 246 1180 258 1177 274 M1200 282 C1184 288 1176 300 1174 314" fill="none" stroke="#F1E8D6" stroke-width="6" stroke-linecap="round"/>
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 2 · แผ่นดินที่ให้กลิ่นหอม</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">ส่วนต่างที่มาจากการคุ้มครอง</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1"/>
+    <text x="64" y="186" font-size="30" fill="#26241F">มูลค่าเพิ่มของ GI ไม่ได้อยู่ที่ตราบนถุง แต่อยู่ที่ราคาต่อหน่วยและต้นทุนต่อไร่</text>
+  </g>
+  <g id="metric-price-premium" data-pptx-bounds="64 258 376 228">
+    <rect x="64" y="260" width="120" height="4" fill="#C8952B"/>
+    <text x="64" y="372" font-size="88" font-weight="bold" fill="#2F5D3A">15–20 %</text>
+    <text x="64" y="412" font-size="24" font-weight="bold" fill="#26241F">ราคาสูงกว่าข้าวธรรมดา</text>
+    <text x="64" y="446" font-size="18" fill="#5F5A50">ข้าว GI ทุ่งกุลาร้องไห้<tspan x="64" dy="28">ขายได้ราคาสูงกว่าข้าวธรรมดา</tspan></text>
+  </g>
+  <g id="metric-yield-jump" data-pptx-bounds="452 258 376 228">
+    <rect x="452" y="260" width="120" height="4" fill="#C8952B"/>
+    <text x="452" y="372" font-size="88" font-weight="bold" fill="#2F5D3A">600</text>
+    <text x="452" y="412" font-size="24" font-weight="bold" fill="#26241F">ผลผลิตต่อไร่ (กิโลกรัม)</text>
+    <text x="452" y="446" font-size="18" fill="#5F5A50">เพิ่มจาก 320 กก./ไร่<tspan x="452" dy="28">ด้วยการหยอดเมล็ดโดยตรง</tspan></text>
+  </g>
+  <g id="metric-seed-cost" data-pptx-bounds="840 258 376 228">
+    <rect x="840" y="260" width="120" height="4" fill="#C8952B"/>
+    <text x="840" y="372" font-size="88" font-weight="bold" fill="#2F5D3A">1,000</text>
+    <text x="840" y="412" font-size="24" font-weight="bold" fill="#26241F">ต้นทุนเมล็ดพันธุ์ที่ลดลง</text>
+    <text x="840" y="446" font-size="18" fill="#5F5A50">ประมาณ 1,000 บาทต่อไร่<tspan x="840" dy="28">(ราว 87 ดอลลาร์สหรัฐ)</tspan></text>
+  </g>
+  <g id="scope-note" data-pptx-bounds="64 552 1152 62">
+    <rect x="64" y="552" width="6" height="62" fill="#8C3B2E"/>
+    <text x="88" y="576" font-size="18" fill="#5F5A50">บรรทัดขอบเขต ตัวเลขผลผลิตและต้นทุนสองรายการหลังมาจากโครงการหมู่บ้านหยอดข้าวศรีแสงดาว จังหวัดร้อยเอ็ด<tspan x="88" dy="28">ไม่ใช่ค่าเฉลี่ยของทั้งเขตคุ้มครอง GI ทุ่งกุลาร้องไห้</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 670 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: Thai Hom Mali Rice from Thung Kula Rong-Hai – A World-Recognized GI, WIPO</text>
+    <text x="1216" y="688" text-anchor="end">08</text>
+  </g>
+</svg>

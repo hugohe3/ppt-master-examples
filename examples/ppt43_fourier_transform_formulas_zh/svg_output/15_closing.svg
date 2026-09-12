@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="ending" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="band-takeaway-1" data-pptx-role="decoration" x="64" y="200" width="896" height="64" fill="#F2F4F7" />
+  <rect id="band-takeaway-1-bar" data-pptx-role="decoration" x="64" y="200" width="3" height="64" fill="#123B63" />
+  <rect id="band-takeaway-2" data-pptx-role="decoration" x="64" y="280" width="896" height="64" fill="#F2F4F7" />
+  <rect id="band-takeaway-2-bar" data-pptx-role="decoration" x="64" y="280" width="3" height="64" fill="#123B63" />
+  <rect id="band-takeaway-3" data-pptx-role="decoration" x="64" y="360" width="896" height="64" fill="#F2F4F7" />
+  <rect id="band-takeaway-3-bar" data-pptx-role="decoration" x="64" y="360" width="3" height="64" fill="#123B63" />
+  <rect id="formula-band" data-pptx-role="decoration" x="64" y="600" width="896" height="90" fill="#F2F4F7" />
+  <rect id="formula-band-bar" data-pptx-role="decoration" x="64" y="600" width="3" height="90" fill="#C2452D" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 6 节 · 收束</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">三句话,和两条继续走的路</text>
+  </g>
+  <g id="takeaways" data-pptx-bounds="64 216 896 196" fill="#1B2027">
+    <text x="92" y="240"><tspan font-weight="bold" fill="#123B63">一 </tspan>时域与频域是同一份信息的两种写法,靠一对积分互相翻译。</text>
+    <text x="92" y="320"><tspan font-weight="bold" fill="#123B63">二 </tspan>滤波、均衡、模糊在频域都只是一次乘法——卷积定理。</text>
+    <text x="92" y="400"><tspan font-weight="bold" fill="#123B63">三 </tspan>FFT 没换数学,只换了算路:从 N² 到 N log N。</text>
+  </g>
+  <g id="extension-course" data-pptx-bounds="64 450 430 120">
+<g id="p15-card-course" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snipRoundRect" data-pptx-frame="64 450 430 120" fill="#FFFFFF" stroke="#123B63" stroke-width="2">
+<path d="M 84 450 L 474 450 L 494 470 L 494 570 L 64 570 L 64 470 A 20 20 0 0 1 84 450 Z" />
+</g>
+    <use data-icon="tabler-outline/book" x="88" y="472" width="26" height="26" fill="#123B63" stroke-width="2" />
+    <text x="126" y="494" font-weight="bold" fill="#123B63">继续学理论</text>
+    <text x="88" y="530" font-size="18" fill="#1B2027">Stanford EE261《The Fourier<tspan x="88" dy="24">Transform and its Applications》</tspan></text>
+  </g>
+  <g id="extension-practice" data-pptx-bounds="530 450 430 120">
+<g id="p15-card-practice" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snipRoundRect" data-pptx-frame="530 450 430 120" fill="#FFFFFF" stroke="#2E7D7B" stroke-width="2">
+<path d="M 550 450 L 940 450 L 960 470 L 960 570 L 530 570 L 530 470 A 20 20 0 0 1 550 450 Z" />
+</g>
+    <use data-icon="tabler-outline/bulb" x="554" y="472" width="26" height="26" fill="#2E7D7B" stroke-width="2" />
+    <text x="592" y="494" font-weight="bold" fill="#2E7D7B">动手算一遍</text>
+    <text x="554" y="530" font-size="18" fill="#1B2027">自己写一个 8 点 DFT,再和库函数的<tspan x="554" dy="24">结果逐项对一遍,这一步比看十页推导有用。</tspan></text>
+  </g>
+  <g id="closing-formula" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="600" data-pptx-width="896" data-pptx-height="90" data-pptx-bounds="64 600 896 90">
+    <metadata type="application/json">
+      {"latex":"f(t) \\xrightarrow{\\mathcal{F}} F(\\omega) \\xrightarrow{\\mathcal{F}^{-1}} f(t)",
+       "display":"block","font_size":28,"color":"#C2452D","align":"center"}
+    </metadata>
+    <text x="512" y="656" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#C2452D">f(t) ──F──▶ F(ω) ──F⁻¹──▶ f(t)</text>
+  </g>
+  <g id="closing-line" data-pptx-bounds="64 700 896 36">
+    <text x="64" y="724" fill="#1B2027">记号是门槛,思想不是:它只是把「怎么变」翻译成「由哪些频率组成」。</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 740 896 20" fill="#5A6472" font-size="16">
+    <text x="64" y="754">来源:Stanford EE261(F012);本卷全部事实出处见 sources/fourier_transform_research.facts.json</text>
+    <text x="960" y="754" text-anchor="end">15</text>
+  </g>
+</svg>

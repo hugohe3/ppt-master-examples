@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="cover">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.45" r="0.78">
+      <stop offset="55%" stop-color="#0B1A2B" stop-opacity="0" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.45" />
+    </radialGradient>
+    <filter id="accentGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7" result="b" />
+      <feFlood flood-color="#FF7A3D" flood-opacity="0.5" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+  <rect id="vignette-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#vignette)" />
+
+  <g id="p01-limb-ring" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="donut" data-pptx-frame="880 100 540 540" data-pptx-av-adj="val 12000" fill="none" stroke="#8AB4E8" stroke-width="1.5">
+<path d="M 880 370 A 270 270 0 0 1 1150 100 A 270 270 0 0 1 1420 370 A 270 270 0 0 1 1150 640 A 270 270 0 0 1 880 370 Z M 944.8 370 A 205.2 205.2 0 0 0 1150 575.2 A 205.2 205.2 0 0 0 1355.2 370 A 205.2 205.2 0 0 0 1150 164.8 A 205.2 205.2 0 0 0 944.8 370 Z" />
+</g>
+
+  <g id="p01-pole-wedge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="pie" data-pptx-frame="880 100 540 540" data-pptx-av-adj1="val 4500000" data-pptx-av-adj2="val 6300000" fill="#FF7A3D" stroke="#FF7A3D" fill-opacity="0.14" stroke-width="1.5">
+<path d="M 1219.88 630.8 A 270 270 0 0 1 1080.12 630.8 L 1150 370 Z" />
+</g>
+
+  <g id="cover-title" data-pptx-bounds="64 150 760 284">
+    <text x="64" y="176" font-size="22" letter-spacing="2" fill="#FF7A3D">ISRO · LVM3-M4 · 2023</text>
+    <text font-weight="bold" fill="#E8F1FA" font-size="72" x="64" y="268">चंद्रयान-3</text><text font-weight="bold" fill="#E8F1FA" font-size="72" x="64" y="356">चाँद के दक्षिणी ध्रुव तक</text><text x="64" y="412" font-size="36" fill="#8AB4E8">एक विज्ञान-व्याख्यान: मिशन, पेलोड और परिणाम</text>
+  </g>
+
+  <g id="cover-hook" data-pptx-bounds="64 456 760 104">
+    <line x1="64" y1="462" x2="184" y2="462" stroke="#FF7A3D" stroke-width="3" />
+    <text fill="#E8F1FA" font-size="34" x="64" y="502">चाँद पर उतरने वाला चौथा देश —</text><text fill="#FF7A3D" font-size="34" x="64" y="544">दक्षिणी ध्रुव के निकट पहला।</text></g>
+
+  <g id="cover-titleblock" data-pptx-bounds="64 576 520 96">
+    <g id="p01-titleblock-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="64 576 520 96" fill="#12263C" stroke="#2A4A6B" stroke-width="1.5">
+<path d="M 64 576 L 568 576 L 584 592 L 584 672 L 584 672 L 80 672 L 64 656 L 64 576 Z" />
+</g>
+    <text x="88" y="608" font-family="Consolas" font-size="18" letter-spacing="1" fill="#9FB6CC">CH3 · LVM3-M4 · SDSC-SHAR</text>
+    <text x="88" y="640" font-size="22" fill="#E8F1FA">प्रक्षेपण: 14 जुलाई 2023 · अवतरण: 23 अगस्त 2023</text>
+  </g>
+
+  <g id="cover-crosshair" data-pptx-bounds="1008 576 264 88">
+    <text x="1140" y="596" font-size="22" text-anchor="middle" fill="#FF7A3D">दक्षिणी ध्रुव क्षेत्र</text>
+    <line x1="1110" y1="630" x2="1170" y2="630" stroke="#FF7A3D" stroke-width="1.5" />
+    <line x1="1140" y1="604" x2="1140" y2="656" stroke="#FF7A3D" stroke-width="1.5" />
+    <circle cx="1140" cy="630" r="11" fill="none" stroke="#FF7A3D" stroke-width="1.5" filter="url(#accentGlow)" />
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO (isro.gov.in) · PIB (pib.gov.in), 2023–2024 — तथ्य F001, F010, F022, F023</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">01 / 13</text>
+  </g>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF" />
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 1 · พันธุ์และตัวตน</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">25 พฤษภาคม 2502 วันที่ขาวดอกมะลิ 105 เป็นพันธุ์รับรอง</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1" />
+    <text x="64" y="186" font-size="30" fill="#26241F">พันธุ์นี้ทนดินที่คนอื่นปลูกไม่ได้ แต่ยอมแพ้ให้โรคและแมลงแทบทุกชนิด</text>
+  </g>
+  <g id="variety-seal" data-pptx-bounds="64 198 380 244">
+    <g id="p04-certification-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="64 200 380 240" fill="#2F5D3A" stroke="none">
+<path d="M 64 240 A 40 40 0 0 0 104 200 L 404 200 A 40 40 0 0 0 444 240 L 444 400 A 40 40 0 0 0 404 440 L 104 440 A 40 40 0 0 0 64 400 Z" />
+</g>
+    
+  <g transform="translate(234, 242) scale(2.5)" fill="#C8952B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6563 5.24291C15.4743 5.88358 16 6.8804 16 8C16 9.11964 15.4743 10.1165 14.6562 10.7572C14.7816 11.7886 14.4485 12.8652 13.6568 13.6569C12.8651 14.4486 11.7885 14.7817 10.7571 14.6563C10.1164 15.4743 9.1196 16 8 16C6.88038 16 5.88354 15.4743 5.24288 14.6562C4.21141 14.7817 3.13481 14.4485 2.34312 13.6568C1.55143 12.8652 1.2183 11.7886 1.34372 10.7571C0.525698 10.1164 0 9.1196 0 8C0 6.88038 0.525715 5.88354 1.34376 5.24288C1.21834 4.21141 1.55147 3.13481 2.34316 2.34312C3.13485 1.55143 4.21145 1.2183 5.24291 1.34372C5.88358 0.525698 6.8804 0 8 0C9.11964 0 10.1165 0.525732 10.7572 1.3438C11.7886 1.21838 12.8652 1.55152 13.6569 2.3432C14.4486 3.13488 14.7817 4.21146 14.6563 5.24291ZM12.2071 6.20711L10.7929 4.79289L7 8.58579L5.20711 6.79289L3.79289 8.20711L7 11.4142L12.2071 6.20711Z" />
+  </g>
+    <text x="254" y="314" font-size="18" fill="#F1E8D6" text-anchor="middle">พันธุ์รับรองเมื่อ</text>
+    <text x="254" y="356" font-size="30" font-weight="bold" fill="#FBF7EF" text-anchor="middle">25 พฤษภาคม 2502</text>
+    <text text-anchor="middle" fill="#DCD3C2" font-size="18" x="254" y="394">โดยคณะกรรมการ</text><text text-anchor="middle" fill="#DCD3C2" font-size="18" x="254" y="422">การพิจารณาพันธุ์</text></g>
+  <g id="variety-traits" data-pptx-bounds="476 200 740 340">
+    <g id="trait-photoperiod">
+      
+  <g transform="translate(476, 208) scale(1.875)" fill="#2F5D3A">
+    <path d="M7 3V0H9V3H7Z" />
+    <path d="M9 13V16H7V13H9Z" />
+    <path d="M11 8C11 9.65685 9.65685 11 8 11C6.34315 11 5 9.65685 5 8C5 6.34315 6.34315 5 8 5C9.65685 5 11 6.34315 11 8Z" />
+    <path d="M0 9H3V7H0V9Z" />
+    <path d="M16 7H13V9H16V7Z" />
+    <path d="M3.75735 5.17157L1.63603 3.05025L3.05025 1.63603L5.17157 3.75735L3.75735 5.17157Z" />
+    <path d="M12.2426 10.8284L14.364 12.9497L12.9497 14.364L10.8284 12.2426L12.2426 10.8284Z" />
+    <path d="M3.05025 14.364L5.17157 12.2426L3.75735 10.8284L1.63603 12.9498L3.05025 14.364Z" />
+    <path d="M12.9497 1.63604L10.8284 3.75736L12.2426 5.17158L14.364 3.05026L12.9497 1.63604Z" />
+  </g>
+      <text x="524" y="232" font-size="24" fill="#26241F">ข้าวเจ้าไวต่อช่วงแสง สูงประมาณ 140 เซนติเมตร</text>
+    </g>
+    <g id="trait-harvest">
+      
+  <g transform="translate(476, 260) scale(1.875)" fill="#2F5D3A">
+    <path d="M6 0H3V2H1V5H15V2H13V0H10V2H6V0Z" />
+    <path d="M15 7H1V15H15V7Z" />
+  </g>
+      <text x="524" y="284" font-size="24" fill="#26241F">อายุเก็บเกี่ยวประมาณวันที่ 25 พฤศจิกายนของทุกปี</text>
+    </g>
+    <g id="trait-grain-size">
+      
+  <g transform="translate(476, 312) scale(1.875)" fill="#2F5D3A">
+    <path d="M12 1C6.47715 1 2 5.02944 2 10V16H4L4 10.5858L8.29289 6.29288L9.70711 7.70709L6 11.4142V13.9556C11.0533 13.504 15 9.66681 15 5L15 1H12Z" />
+  </g>
+      <text fill="#26241F" font-size="24" x="524" y="336">เมล็ดข้าวกล้อง 7.5 × 2.1 × 1.8 มม.</text><text fill="#26241F" font-size="24" x="524" y="372">เมล็ดข้าวเปลือก 10.6 × 2.5 × 1.9 มม.</text></g>
+    <g id="trait-amylose">
+      
+  <g transform="translate(476, 400) scale(1.875)" fill="#2F5D3A">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0L2.94499 6.48801C2.32745 7.47609 2 8.61782 2 9.78301V10C2 13.3137 4.68629 16 8 16C11.3137 16 14 13.3137 14 10V9.78301C14 8.61782 13.6726 7.47609 13.055 6.48801L9 0H7ZM10 10C10 11.1046 9.10457 12 8 12V14C10.2091 14 12 12.2091 12 10H10Z" />
+  </g>
+      <text x="524" y="424" font-size="24" fill="#26241F">อมิโลส 12–17 % หุงสุกอ่อนนุ่ม กลิ่นหอมคล้ายใบเตย</text>
+    </g>
+    <g id="trait-yield">
+      
+  <g transform="translate(476, 452) scale(1.875)" fill="#2F5D3A">
+    <path d="M1 1V15H15V13H3V1H1Z" />
+    <path d="M5 7L7 5L10 8L15 3V11H5V7Z" />
+  </g>
+      <text x="524" y="476" font-size="24" fill="#26241F">ผลผลิตประมาณ <tspan font-weight="bold" fill="#8C3B2E">363 กิโลกรัมต่อไร่</tspan></text>
+    </g>
+    <g id="trait-region">
+      
+  <g transform="translate(476, 504) scale(1.875)" fill="#2F5D3A">
+    <path d="M4 2L0 1V14L4 15V2Z" />
+    <path d="M16 2L12 1V14L16 15V2Z" />
+    <path d="M10 1L6 2V15L10 14V1Z" />
+  </g>
+      <text x="524" y="528" font-size="24" fill="#26241F">พื้นที่แนะนำ ภาคตะวันออกเฉียงเหนือและภาคเหนือตอนบน</text>
+    </g>
+  </g>
+  <g id="strength-band" data-pptx-bounds="64 554 1152 46">
+    <rect x="64" y="554" width="1152" height="46" fill="#2E7D32" fill-opacity="0.10" />
+    
+  <g transform="translate(88, 564) scale(1.625)" fill="#2E7D32">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16L4.35009 13.3929C2.24773 11.8912 1 9.46667 1 6.88306V3L8 0L15 3V6.88306C15 9.46667 13.7523 11.8912 11.6499 13.3929L8 16ZM12.2071 5.70711L10.7929 4.29289L7 8.08579L5.20711 6.29289L3.79289 7.70711L7 10.9142L12.2071 5.70711Z" />
+  </g>
+    <text x="128" y="584" font-size="18" font-weight="bold" fill="#2E7D32">จุดแข็ง</text>
+    <text x="208" y="584" font-size="18" fill="#26241F">ทนแล้ง ทนดินเปรี้ยวและดินเค็ม เมล็ดข้าวสารใส แกร่ง คุณภาพการสีดี</text>
+  </g>
+  <g id="caution-band" data-pptx-bounds="64 608 1152 46">
+    <rect x="64" y="608" width="1152" height="46" fill="#F57C00" fill-opacity="0.12" />
+    
+  <g transform="translate(88, 618) scale(1.625)" fill="#8C3B2E">
+    <path d="M7 0V1.60002C7.32311 1.53443 7.65753 1.5 8 1.5C8.34247 1.5 8.67689 1.53443 9 1.60002V0H11V2.49963C11.8265 3.12041 12.4543 3.99134 12.7711 5H3.2289C3.5457 3.99134 4.17354 3.12041 5 2.49963V0H7Z" />
+    <path d="M0 7V9H3V10.4957L0.225279 11.2885L0.774721 13.2115L3.23189 12.5095C3.87194 14.5331 5.76467 16 8 16C10.2353 16 12.1281 14.5331 12.7681 12.5095L15.2253 13.2115L15.7747 11.2885L13 10.4957V9H16V7H9V12H7V7H0Z" />
+  </g>
+    <text x="128" y="638" font-size="18" font-weight="bold" fill="#8C3B2E">ข้อควรระวัง</text>
+    <text x="240" y="638" font-size="18" fill="#26241F">ไม่ต้านทานโรคใบสีส้ม ขอบใบแห้ง ไหม้ ใบหงิก และไม่ต้านทานเพลี้ยกระโดดสีน้ำตาล เพลี้ยจักจั่นสีเขียว หนอนกอ</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 672 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: Rice Knowledge Bank กรมการข้าว · ชื่อพันธุ์ ขาวดอกมะลิ 105 สำนักงานปลัดกระทรวงเกษตรและสหกรณ์</text>
+    <text x="1216" y="688" text-anchor="end">04</text>
+  </g>
+</svg>

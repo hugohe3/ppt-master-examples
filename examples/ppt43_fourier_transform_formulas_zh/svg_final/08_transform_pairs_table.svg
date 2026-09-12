@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 3 节 · 从级数到变换</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">四对变换,记住就能用</text>
+  </g>
+  <g id="transform-pairs" data-pptx-bounds="64 200 896 302">
+    <rect x="64" y="206" width="896" height="44" fill="#F2F4F7" />
+    <text x="80" y="236" font-size="20" font-weight="bold" fill="#123B63">时域 f(t)</text>
+    <text x="356" y="236" font-size="20" font-weight="bold" fill="#123B63">频域 F(ω)</text>
+    <text x="636" y="236" font-size="20" font-weight="bold" fill="#123B63">读法</text>
+    <line x1="64" y1="250" x2="960" y2="250" stroke="#123B63" stroke-width="1.5" />
+    <text x="80" y="290" fill="#1B2027"><tspan data-pptx-inline-formula="\mathrm{rect}(t)">rect(t)</tspan></text>
+    <text x="356" y="290" fill="#C2452D"><tspan data-pptx-inline-formula="\mathrm{sinc}(\omega / 2\pi)">sinc(ω/2π)</tspan></text>
+    <text x="636" y="290" fill="#1B2027">窗越窄,频谱越宽</text>
+    <line x1="64" y1="312" x2="960" y2="312" stroke="#D6DBE1" stroke-width="1" />
+    <text x="80" y="352" fill="#1B2027"><tspan data-pptx-inline-formula="e^{-\pi t^{2}}">e⁻πᵗ²</tspan></text>
+    <text x="356" y="352" fill="#C2452D"><tspan data-pptx-inline-formula="e^{-\pi \omega^{2}}">e⁻πω²</tspan></text>
+    <text x="636" y="352" fill="#1B2027">变过去还是高斯</text>
+    <line x1="64" y1="374" x2="960" y2="374" stroke="#D6DBE1" stroke-width="1" />
+    <text x="80" y="414" fill="#1B2027"><tspan data-pptx-inline-formula="\delta(t)">δ(t)</tspan></text>
+    <text x="356" y="414" fill="#C2452D"><tspan data-pptx-inline-formula="1">1</tspan></text>
+    <text x="636" y="414" fill="#1B2027">一瞬间含所有频率</text>
+    <line x1="64" y1="436" x2="960" y2="436" stroke="#D6DBE1" stroke-width="1" />
+    <text x="80" y="476" fill="#1B2027"><tspan data-pptx-inline-formula="\cos(\omega_0 t)">cos(ω₀t)</tspan></text>
+    <text x="356" y="476" fill="#C2452D"><tspan data-pptx-inline-formula="\pi\left[\delta(\omega-\omega_0) + \delta(\omega+\omega_0)\right]">π[δ(ω−ω₀)+δ(ω+ω₀)]</tspan></text>
+    <text x="636" y="476" fill="#1B2027">单频只在两点有值</text>
+    <line x1="64" y1="498" x2="960" y2="498" stroke="#D6DBE1" stroke-width="1" />
+  </g>
+  <g id="pairs-note" data-pptx-bounds="64 522 896 108">
+    
+  <g transform="translate(64, 526) scale(0.916667)" fill="none" stroke="#5A6472" stroke-width="2">
+    <path d="M21 7l-18 0" />
+    <path d="M18 10l3 -3l-3 -3" />
+    <path d="M6 20l-3 -3l3 -3" />
+    <path d="M3 17l18 0" />
+  </g>
+    <text x="94" y="543" font-size="18" fill="#5A6472">表里每一行都是一对,左右互相决定</text>
+    <text fill="#1B2027" x="64" y="582">前两行是同一句话的两种说法:<tspan font-weight="bold" fill="#C2452D">时域越窄,频域越宽</tspan>。</text><text fill="#1B2027" x="64" y="618">高斯是唯一「形状不变」的那个,只是宽度换了个方向。</text></g>
+  <g id="pairs-duality" data-pptx-bounds="64 642 896 72">
+    <text fill="#1B2027" x="64" y="666">后两行是一对极端:一瞬间的冲击含所有频率,一条纯正弦只占两个点。</text><text fill="#1B2027" x="64" y="702">遇到新信号,先看它像表里哪一行,再用下一页的性质把它挪过去。</text></g>
+  <g id="page-footer" data-pptx-bounds="64 722 896 22" fill="#5A6472" font-size="16">
+    <text x="64" y="736">来源:Stanford EE261 The Fourier Transform and its Applications(F012);表内公式为原生可编辑公式</text>
+    <text x="960" y="736" text-anchor="end">08</text>
+  </g>
+</svg>

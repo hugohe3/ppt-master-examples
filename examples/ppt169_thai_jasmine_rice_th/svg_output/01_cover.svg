@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverWash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FBF7EF" stop-opacity="0.94"/>
+      <stop offset="62%" stop-color="#FBF7EF" stop-opacity="0.58"/>
+      <stop offset="100%" stop-color="#FBF7EF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <image id="cover-photo" data-pptx-role="background" href="../images/01_paddy_dawn.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-wash" data-pptx-role="decoration" x="0" y="0" width="1280" height="440" fill="url(#coverWash)"/>
+  <path id="cover-motif-panicle" data-pptx-role="decoration" d="M1184 92 C1146 150 1124 214 1130 286 M1176 132 C1150 140 1134 156 1128 178 M1166 176 C1142 184 1128 200 1124 222 M1156 220 C1136 228 1126 242 1124 262" fill="none" stroke="#C8952B" stroke-width="4" stroke-linecap="round"/>
+  <g id="cover-title" data-pptx-bounds="96 148 848 252">
+    <rect x="96" y="150" width="124" height="8" fill="#C8952B"/>
+    <text x="96" y="236" font-size="72" font-weight="bold" fill="#2F5D3A">ข้าวหอมมะลิ<tspan x="96" dy="96">จากนาสู่โลก</tspan></text>
+    <text x="96" y="384" font-size="30" fill="#5F5A50">การบรรยายสาธารณะ · เรียบเรียงจากแหล่งข้อมูลที่เผยแพร่แล้ว</text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="96 470 684 132">
+    <rect x="96" y="470" width="684" height="132" fill="#F1E8D6" fill-opacity="0.95"/>
+    <rect x="96" y="470" width="8" height="132" fill="#8C3B2E"/>
+    <text x="132" y="520" font-size="24" fill="#26241F">จาก <tspan font-weight="bold" fill="#8C3B2E">199 รวง</tspan>ที่เก็บในอำเภอบางคล้า พ.ศ. 2493–2494<tspan x="132" dy="42">ถึงข้าวหอม <tspan font-weight="bold" fill="#8C3B2E">1,740,901 ตัน</tspan> ที่ออกจากประเทศไทยในปี 2567</tspan></text>
+  </g>
+  <g id="cover-source" data-pptx-bounds="96 670 786 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="96" y="688">ที่มา: Rice Knowledge Bank กรมการข้าว · Grain and Feed Annual TH2025-0011, USDA FAS (2568)</text>
+  </g>
+</svg>

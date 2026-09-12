@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF"/>
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 4 · ความท้าทายและสิ่งที่ต้องรักษา</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">รางวัลข้าวที่ดีที่สุดในโลก 2563–2568</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1"/>
+    <text x="64" y="186" font-size="30" fill="#26241F">ไทยชนะสองปีติดกัน แล้วไม่กลับไปอยู่อันดับหนึ่งอีกในสี่ปีถัดมา</text>
+  </g>
+  <line id="award-timeline-spine" data-pptx-role="decoration" x1="64" y1="320" x2="1216" y2="320" stroke="#DCD3C2" stroke-width="3"/>
+  <g id="award-2563-thailand" data-pptx-bounds="64 240 192 200">
+    <text x="160" y="272" font-size="32" font-weight="bold" fill="#2F5D3A" text-anchor="middle">2563</text>
+    <circle cx="160" cy="320" r="26" fill="#C8952B"/>
+    <use data-icon="chunk-filled/trophy" x="148" y="308" width="24" height="24" fill="#2F5D3A"/>
+    <text x="160" y="382" font-size="18" font-weight="bold" fill="#2F5D3A" text-anchor="middle">ข้าวหอมมะลิไทย</text>
+    <text x="160" y="410" font-size="18" fill="#5F5A50" text-anchor="middle">ปีแรกของสองปีติด</text>
+  </g>
+  <g id="award-2564-thailand" data-pptx-bounds="256 240 192 200">
+    <text x="352" y="272" font-size="32" font-weight="bold" fill="#2F5D3A" text-anchor="middle">2564</text>
+    <circle cx="352" cy="320" r="26" fill="#C8952B"/>
+    <use data-icon="chunk-filled/trophy" x="340" y="308" width="24" height="24" fill="#2F5D3A"/>
+    <text x="352" y="382" font-size="18" font-weight="bold" fill="#2F5D3A" text-anchor="middle">ข้าวหอมมะลิไทย</text>
+    <text x="352" y="410" font-size="18" fill="#5F5A50" text-anchor="middle">ครั้งที่ 13 ที่ดูไบ</text>
+  </g>
+  <g id="award-2565-cambodia" data-pptx-bounds="448 240 192 200">
+    <text x="544" y="272" font-size="32" font-weight="bold" fill="#5F5A50" text-anchor="middle">2565</text>
+    <circle cx="544" cy="320" r="18" fill="#FBF7EF" stroke="#8C3B2E" stroke-width="3"/>
+    <text x="544" y="382" font-size="18" font-weight="bold" fill="#8C3B2E" text-anchor="middle">ผกาลำดวน</text>
+    <text x="544" y="410" font-size="18" fill="#5F5A50" text-anchor="middle">กัมพูชา</text>
+  </g>
+  <g id="award-2566-vietnam" data-pptx-bounds="640 240 192 208">
+    <text x="736" y="272" font-size="32" font-weight="bold" fill="#5F5A50" text-anchor="middle">2566</text>
+    <circle cx="736" cy="320" r="18" fill="#FBF7EF" stroke="#8C3B2E" stroke-width="3"/>
+    <text x="736" y="382" font-size="18" font-weight="bold" fill="#8C3B2E" text-anchor="middle">Loc Troi 28<tspan x="736" dy="28">Nang Hoa 9</tspan></text>
+    <text x="736" y="438" font-size="18" fill="#5F5A50" text-anchor="middle">เวียดนาม</text>
+  </g>
+  <g id="award-2567-cambodia" data-pptx-bounds="832 240 192 200">
+    <text x="928" y="272" font-size="32" font-weight="bold" fill="#5F5A50" text-anchor="middle">2567</text>
+    <circle cx="928" cy="320" r="18" fill="#FBF7EF" stroke="#8C3B2E" stroke-width="3"/>
+    <text x="928" y="382" font-size="18" font-weight="bold" fill="#8C3B2E" text-anchor="middle">Malys Angkor</text>
+    <text x="928" y="410" font-size="18" fill="#5F5A50" text-anchor="middle">กัมพูชา ครั้งที่ 6</text>
+  </g>
+  <g id="award-2568-vietnam-cambodia" data-pptx-bounds="1024 240 192 208">
+    <text x="1120" y="272" font-size="32" font-weight="bold" fill="#5F5A50" text-anchor="middle">2568</text>
+    <circle cx="1120" cy="320" r="18" fill="#FBF7EF" stroke="#8C3B2E" stroke-width="3"/>
+    <text x="1120" y="382" font-size="18" font-weight="bold" fill="#8C3B2E" text-anchor="middle">ST25 เวียดนาม<tspan x="1120" dy="28">ร่วมกับผกาลำดวน</tspan></text>
+    <text x="1120" y="438" font-size="18" fill="#5F5A50" text-anchor="middle">กัมพูชา ครั้งที่ 7</text>
+  </g>
+  <g id="award-context-note" data-pptx-bounds="64 486 1152 120">
+    <rect x="64" y="486" width="1152" height="120" fill="#F1E8D6"/>
+    <use data-icon="chunk-filled/globe" x="88" y="508" width="26" height="26" fill="#2F5D3A"/>
+    <text x="128" y="520" font-size="18" fill="#26241F">การประกวดจัดโดย The Rice Trader ในงาน World Rice Conference · ครั้งที่ 13 ปี 2564 จัดที่ดูไบ 7–9 ธันวาคม<tspan x="128" dy="28">มีข้าว 11 ชนิดจาก 6 ประเทศเข้าชิง คือ ไทย สหรัฐอเมริกา จีน อินเดีย เวียดนาม และเมียนมา และข้าวไทยเคยชนะรวม 7 ครั้ง</tspan><tspan x="128" dy="28">ปี 2566 ตัดสินที่เมืองเซบู · ปี 2567 ที่กรุงมะนิลา 7 พฤศจิกายน เป็นครั้งที่ 6 ของกัมพูชา · ปี 2568 ที่กรุงพนมเปญ เป็นครั้งที่ 7</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 670 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: The Nation Thailand (2564, 2567) · Vietnam Investment Review (2566) · Cambodianess (2568)</text>
+    <text x="1216" y="688" text-anchor="end">13</text>
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="formula-band" data-pptx-role="decoration" x="64" y="196" width="896" height="104" fill="#F2F4F7" />
+  <rect id="formula-band-bar" data-pptx-role="decoration" x="64" y="196" width="3" height="104" fill="#123B63" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 5 节 · 离散与快速</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">拆成奇偶两半,再递归下去</text>
+  </g>
+  <g id="divide-formula" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="196" data-pptx-width="896" data-pptx-height="104" data-pptx-bounds="64 196 896 104">
+    <metadata type="application/json">
+      {"latex":"X_k = E_k + e^{-i 2\\pi k / N} O_k",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="512" y="260" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">Xₖ = Eₖ + e⁻ⁱ²πᵏ/ᴺ Oₖ</text>
+  </g>
+  <g id="cost-figure" data-pptx-bounds="64 315 600 79">
+    <text x="64" y="372" font-family="SimSun, Cambria, serif" font-size="60" fill="#2E7D7B">N log₂N</text>
+    <text x="330" y="350" font-size="18" fill="#5A6472">同一个变换,同一条定义<tspan x="330" dy="26">只是换了算路,代价掉了两个数量级</tspan></text>
+  </g>
+  <g id="complexity-compare" data-pptx-replace-with="chart" data-pptx-bounds="64 398 520 282" data-pptx-fallback-sha256="6d795b60e75bdefe9603cd2b03f8436670711d9661a676dc44f889f0eaeab7b1">
+    <metadata type="application/json">
+      {"x": 64, "y": 398, "width": 520, "height": 282,
+       "name": "complexity-compare",
+       "type": "line",
+       "line_style": "lineMarker",
+       "marker_size": 9,
+       "title": "复数乘加次数(线性刻度)",
+       "title_font_size": 18,
+       "plot_area": {"x": 150, "y": 440, "width": 410, "height": 180},
+       "categories": ["N=64", "N=256", "N=1024"],
+       "series": [
+         {"name": "直接算 N²", "values": [4096, 65536, 1048576],
+          "data_labels": {"points": [{"idx": 2}], "number_format": "#,##0", "position": "above", "font_size": 18, "color": "#1B2027"}},
+         {"name": "FFT N·log₂N", "values": [384, 2048, 10240],
+          "data_labels": {"points": [{"idx": 2}], "number_format": "#,##0", "position": "above", "font_size": 18, "color": "#1B2027"}}
+       ],
+       "axes": {"value": {"minimum": 0, "maximum": 1100000}},
+       "show_value_axis_labels": false,
+       "show_legend": true,
+       "legend_position": "bottom",
+       "legend_font_size": 18,
+       "axis_font_size": 18,
+       "style": {"colors": ["#C2452D", "#2E7D7B"], "axis_color": "#5A6472", "text_color": "#1B2027"}}
+    </metadata>
+    <text x="150" y="414" font-size="18" fill="#5A6472">复数乘加次数(线性刻度)</text>
+    <g id="complexity-compare-chartArea">
+      <line id="complexity-compare-value-axis" x1="150" y1="440" x2="150" y2="620" stroke="#5A6472" stroke-width="1" />
+      <line id="complexity-compare-category-axis" x1="150" y1="620" x2="560" y2="620" stroke="#5A6472" stroke-width="1" />
+      <!-- chart-plot-area: object=complexity-compare | 150,440,560,620 -->
+      <path d="M 218.3 619.3 L 355 609.3 L 491.7 448.4" fill="none" stroke="#C2452D" stroke-width="2.5" />
+      <circle cx="218.3" cy="619.3" r="4.5" fill="#C2452D" />
+      <circle cx="355" cy="609.3" r="4.5" fill="#C2452D" />
+      <circle cx="491.7" cy="448.4" r="4.5" fill="#C2452D" />
+      <path d="M 218.3 619.9 L 355 619.7 L 491.7 618.3" fill="none" stroke="#2E7D7B" stroke-width="2.5" />
+      <circle cx="218.3" cy="619.9" r="4.5" fill="#2E7D7B" />
+      <circle cx="355" cy="619.7" r="4.5" fill="#2E7D7B" />
+      <circle cx="491.7" cy="618.3" r="4.5" fill="#2E7D7B" />
+    </g>
+    <text x="491.7" y="436" font-size="18" fill="#1B2027" text-anchor="middle">1,048,576</text>
+    <text x="491.7" y="606" font-size="18" fill="#1B2027" text-anchor="middle">10,240</text>
+    <text x="218.3" y="642" font-size="18" fill="#1B2027" text-anchor="middle">N=64</text>
+    <text x="355" y="642" font-size="18" fill="#1B2027" text-anchor="middle">N=256</text>
+    <text x="491.7" y="642" font-size="18" fill="#1B2027" text-anchor="middle">N=1024</text>
+    <rect x="150" y="662" width="16" height="8" fill="#C2452D" />
+    <text x="176" y="672" font-size="18" fill="#1B2027">直接算 N²</text>
+    <rect x="310" y="662" width="16" height="8" fill="#2E7D7B" />
+    <text x="336" y="672" font-size="18" fill="#1B2027">FFT N·log₂N</text>
+  </g>
+  <g id="divide-reading" data-pptx-bounds="620 398 340 252">
+    <use data-icon="tabler-outline/repeat" x="620" y="402" width="22" height="22" fill="#5A6472" stroke-width="2" />
+    <text x="650" y="419" font-size="18" fill="#5A6472">拆一次,省一半</text>
+    <text x="620" y="458" fill="#1B2027">偶数下标给出 <tspan data-pptx-inline-formula="E_k">Eₖ</tspan>,<tspan x="620" dy="36">奇数下标给出 <tspan data-pptx-inline-formula="O_k">Oₖ</tspan>,</tspan><tspan x="620" dy="36">再用一个旋转因子合起来。</tspan></text>
+    <text x="620" y="566" fill="#1B2027">对 N/2 继续同样拆分,<tspan x="620" dy="36">一共只有 log₂N 层,</tspan><tspan x="620" dy="36">每层 N 次——代价落到这里。</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 686 896 60" fill="#5A6472" font-size="16">
+    <text x="64" y="702">来源:Cooley &amp; Tukey, Math. Comp. 19(90):297–301, 1965(F003);<tspan x="64" dy="18">史前史见 Heideman 等, IEEE ASSP Magazine 1(4):14–21, 1984(F004)</tspan><tspan x="64" dy="18">整理:两条曲线的数值由 N² 与 N·log₂N 直接算出,非引用数字</tspan></text>
+    <text x="960" y="738" text-anchor="end">13</text>
+  </g>
+</svg>

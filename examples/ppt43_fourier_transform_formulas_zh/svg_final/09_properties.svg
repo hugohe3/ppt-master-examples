@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="band-linearity" data-pptx-role="decoration" x="300" y="206" width="660" height="86" fill="#F2F4F7" />
+  <rect id="band-linearity-bar" data-pptx-role="decoration" x="300" y="206" width="3" height="86" fill="#123B63" />
+  <rect id="band-timeshift" data-pptx-role="decoration" x="300" y="312" width="660" height="86" fill="#F2F4F7" />
+  <rect id="band-timeshift-bar" data-pptx-role="decoration" x="300" y="312" width="3" height="86" fill="#123B63" />
+  <rect id="band-modulation" data-pptx-role="decoration" x="300" y="418" width="660" height="86" fill="#F2F4F7" />
+  <rect id="band-modulation-bar" data-pptx-role="decoration" x="300" y="418" width="3" height="86" fill="#123B63" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 4 节 · 三条性质</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">会用性质,就不用重算积分</text>
+  </g>
+  <g id="property-labels" data-pptx-bounds="64 234 226 274">
+    <text x="64" y="258" font-weight="bold" fill="#123B63">线性</text>
+    <text x="64" y="286" font-size="18" fill="#5A6472">分开算,再相加</text>
+    <text x="64" y="364" font-weight="bold" fill="#123B63">时移</text>
+    <text x="64" y="392" font-size="18" fill="#5A6472">幅度不变,只改相位</text>
+    <text x="64" y="470" font-weight="bold" fill="#123B63">调制</text>
+    <text x="64" y="498" font-size="18" fill="#5A6472">把整段频谱搬走</text>
+  </g>
+  <g id="linearity-formula" data-pptx-replace-with="formula" data-pptx-x="300" data-pptx-y="206" data-pptx-width="660" data-pptx-height="86" data-pptx-bounds="300 206 660 86">
+    <metadata type="application/json">
+      {"latex":"a f(t) + b g(t) \\leftrightarrow a F(\\omega) + b G(\\omega)",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="630" y="258" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">a f(t) + b g(t) ↔ a F(ω) + b G(ω)</text>
+  </g>
+  <g id="timeshift-formula" data-pptx-replace-with="formula" data-pptx-x="300" data-pptx-y="312" data-pptx-width="660" data-pptx-height="86" data-pptx-bounds="300 312 660 86">
+    <metadata type="application/json">
+      {"latex":"f(t-t_0) \\leftrightarrow e^{-i\\omega t_0} F(\\omega)",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="630" y="364" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">f(t − t₀) ↔ e⁻ⁱωᵗ⁰ F(ω)</text>
+  </g>
+  <g id="modulation-formula" data-pptx-replace-with="formula" data-pptx-x="300" data-pptx-y="418" data-pptx-width="660" data-pptx-height="86" data-pptx-bounds="300 418 660 86">
+    <metadata type="application/json">
+      {"latex":"f(t)\\, e^{i\\omega_0 t} \\leftrightarrow F(\\omega - \\omega_0)",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="630" y="470" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">f(t) e⁺ⁱω⁰ᵗ ↔ F(ω − ω₀)</text>
+  </g>
+  <g id="property-readings" data-pptx-bounds="64 526 896 144" fill="#1B2027">
+    <text x="64" y="550">性质的用法都一样:把新信号<tspan font-weight="bold" fill="#123B63">化归</tspan>成上一页表里已有的那一行。</text>
+    <text x="64" y="586">时移只给频谱乘上 <tspan data-pptx-inline-formula="e^{-i\omega t_0}">e⁻ⁱωᵗ⁰</tspan>:声音晚到一点,含哪些频率完全没变,</text><text x="64" y="622">变的只是它们的起步位置——这就是「幅度谱看不出延迟」的原因。</text><text x="64" y="658">调制把整段频谱搬到 <tspan data-pptx-inline-formula="\omega_0">ω₀</tspan> 上,调幅广播和上变频做的就是这件事。</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 722 896 22" fill="#5A6472" font-size="16">
+    <text x="64" y="736">整理:三条性质的工程读法</text>
+    <text x="960" y="736" text-anchor="end">09</text>
+  </g>
+</svg>

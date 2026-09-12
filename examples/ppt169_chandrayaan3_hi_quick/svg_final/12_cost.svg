@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">लागत: कम खर्च, बड़ा प्रतिफल</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="mission-cost-compare" data-pptx-replace-with="chart" data-pptx-bounds="64 194 1152 344" data-pptx-fallback-sha256="f68b17848dab69715050204e308345f38db1f259d72554480161cd8830558fa8">
+    <metadata type="application/json">
+      {
+        "name": "mission-cost-compare",
+        "x": 64, "y": 194, "width": 1152, "height": 344,
+        "plot_area": {"x": 320, "y": 200, "width": 640, "height": 260},
+        "type": "bar",
+        "categories": ["चंद्रयान-3", "चंद्रयान-4", "रूसी चंद्र मिशन"],
+        "series": [
+          {"name": "लागत", "values": [600, 2104.06, 16000], "point_colors": ["#FF7A3D", "#8AB4E8", "#4E7FA8"]}
+        ],
+        "data_labels": true,
+        "gap_width": 80,
+        "axes": {"value": {"minimum": 0, "maximum": 16000, "major_unit": 4000}},
+        "axis_titles": {"value": "करोड़ रुपये"},
+        "show_legend": false,
+        "style": {
+          "font_family": "Nirmala UI",
+          "colors": ["#FF7A3D", "#8AB4E8", "#4E7FA8"],
+          "axis_color": "#2A4A6B",
+          "grid_color": "#16324F",
+          "text_color": "#9FB6CC"
+        }
+      }
+    </metadata>
+    <g id="mission-cost-compare-chartArea">
+      <line id="cost-value-axis" x1="320" y1="200" x2="320" y2="460" stroke="#2A4A6B" stroke-width="1.5" />
+      <line id="cost-grid-1" x1="480" y1="200" x2="480" y2="460" stroke="#16324F" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="cost-grid-2" x1="640" y1="200" x2="640" y2="460" stroke="#16324F" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="cost-grid-3" x1="800" y1="200" x2="800" y2="460" stroke="#16324F" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="cost-grid-4" x1="960" y1="200" x2="960" y2="460" stroke="#16324F" stroke-width="1" stroke-dasharray="4,4" />
+      
+      <text x="300" y="252" font-size="26" text-anchor="end" fill="#E8F1FA">चंद्रयान-3</text>
+      <rect x="320" y="219.3" width="24" height="48.1" fill="#FF7A3D" />
+      <text x="976" y="252" font-size="28" font-weight="bold" fill="#FF7A3D">600</text>
+      <text x="300" y="339" font-size="26" text-anchor="end" fill="#E8F1FA">चंद्रयान-4</text>
+      <rect x="320" y="305.9" width="84.2" height="48.1" fill="#8AB4E8" />
+      <text x="976" y="339" font-size="28" font-weight="bold" fill="#8AB4E8">2104.06</text>
+      <text x="300" y="426" font-size="26" text-anchor="end" fill="#E8F1FA">रूसी चंद्र मिशन</text>
+      <rect x="320" y="392.6" width="640" height="48.1" fill="#4E7FA8" />
+      <text x="976" y="426" font-size="28" font-weight="bold" fill="#9FB6CC">16000</text>
+      <text x="320" y="490" font-family="Consolas" font-size="20" text-anchor="middle" fill="#9FB6CC">0</text>
+      <text x="480" y="490" font-family="Consolas" font-size="20" text-anchor="middle" fill="#9FB6CC">4000</text>
+      <text x="640" y="490" font-family="Consolas" font-size="20" text-anchor="middle" fill="#9FB6CC">8000</text>
+      <text x="800" y="490" font-family="Consolas" font-size="20" text-anchor="middle" fill="#9FB6CC">12000</text>
+      <text x="960" y="490" font-family="Consolas" font-size="20" text-anchor="middle" fill="#9FB6CC">16000</text>
+      <text x="640" y="522" font-size="22" text-anchor="middle" fill="#9FB6CC">करोड़ रुपये</text>
+    </g>
+  </g>
+
+  <g id="cost-context" data-pptx-bounds="64 566 1152 92">
+    <text fill="#E8F1FA" font-size="28" x="64" y="600">PIB (26 अगस्त 2023): असफल रूसी चंद्र मिशन ₹16,000 करोड़;</text><text fill="#E8F1FA" font-size="28" x="64" y="638">चंद्रयान-3 लगभग ₹600 करोड़ — चंद्रयान-4 हेतु ₹2104.06 करोड़।</text></g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: PIB — लागत-प्रभावी अंतरिक्ष मिशन (2023) · चंद्रयान-4 मंत्रिमंडल स्वीकृति (2024) — तथ्य F021, F024</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">12 / 13</text>
+  </g>
+</svg>

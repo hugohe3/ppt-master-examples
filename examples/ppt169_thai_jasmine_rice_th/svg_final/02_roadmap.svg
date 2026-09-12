@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="toc">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF" />
+  <path id="roadmap-motif-panicle" data-pptx-role="decoration" d="M1208 72 C1178 108 1162 148 1166 196 M1202 98 C1182 104 1170 116 1166 132 M1194 130 C1176 136 1166 148 1163 164" fill="none" stroke="#DCD3C2" stroke-width="4" stroke-linecap="round" />
+  <g id="page-header" data-pptx-bounds="64 76 1152 116">
+    <rect x="64" y="78" width="96" height="6" fill="#C8952B" />
+    <text x="64" y="122" font-size="40" font-weight="bold" fill="#2F5D3A">เส้นทางของการบรรยาย</text>
+    <line x1="64" y1="144" x2="1216" y2="144" stroke="#DCD3C2" stroke-width="1" />
+    <text x="64" y="182" font-size="30" fill="#26241F">คำถามเดียวที่ร้อยทั้งสี่ตอนไว้คือ อะไรทำให้ข้าวชนิดนี้ต่างจากข้าวอื่น</text>
+  </g>
+  <g id="part-1" data-pptx-bounds="64 212 367 388">
+    <rect x="64" y="212" width="367" height="388" fill="#2F5D3A" />
+    <text x="92" y="336" font-size="96" font-weight="bold" fill="#C8952B">1</text>
+    <text x="92" y="400" font-size="32" font-weight="bold" fill="#FBF7EF">พันธุ์และตัวตน</text>
+    <text fill="#F1E8D6" font-size="18" x="92" y="454">199 รวงจากบางคล้า</text><text fill="#F1E8D6" font-size="18" x="92" y="484">การรับรองพันธุ์ 2502</text><text fill="#F1E8D6" font-size="18" x="92" y="514">กลไกความหอมระดับยีน</text></g>
+  <g id="part-2" data-pptx-bounds="463 212 230 388">
+    <rect x="463" y="212" width="230" height="388" fill="none" stroke="#DCD3C2" stroke-width="2" />
+    <text x="487" y="326" font-size="96" font-weight="bold" fill="#DCD3C2">2</text>
+    <text font-weight="bold" fill="#2F5D3A" font-size="24" x="487" y="382">แผ่นดินที่</text><text font-weight="bold" fill="#2F5D3A" font-size="24" x="487" y="416">ให้กลิ่นหอม</text><text fill="#5F5A50" font-size="18" x="487" y="450">อีสาน 22.1 ล้านไร่</text><text fill="#5F5A50" font-size="18" x="487" y="480">ทุ่งกุลาร้องไห้</text><text fill="#5F5A50" font-size="18" x="487" y="510">การคุ้มครอง GI</text></g>
+  <g id="part-3" data-pptx-bounds="725 212 230 388">
+    <rect x="725" y="212" width="230" height="388" fill="none" stroke="#DCD3C2" stroke-width="2" />
+    <text x="749" y="326" font-size="96" font-weight="bold" fill="#DCD3C2">3</text>
+    <text font-weight="bold" fill="#2F5D3A" font-size="24" x="749" y="382">จากนาสู่</text><text font-weight="bold" fill="#2F5D3A" font-size="24" x="749" y="416">ตลาดโลก</text><text fill="#5F5A50" font-size="18" x="749" y="450">ปริมาณส่งออกห้าปี</text><text fill="#5F5A50" font-size="18" x="749" y="480">ตลาด · ราคาที่ปากนา</text></g>
+  <g id="part-4" data-pptx-bounds="987 212 229 388">
+    <rect x="987" y="212" width="229" height="388" fill="none" stroke="#DCD3C2" stroke-width="2" />
+    <text x="1011" y="326" font-size="96" font-weight="bold" fill="#DCD3C2">4</text>
+    <text font-weight="bold" fill="#2F5D3A" font-size="24" x="1011" y="382">ความท้าทาย</text><text font-weight="bold" fill="#2F5D3A" font-size="24" x="1011" y="416">และสิ่งที่ต้องรักษา</text><text fill="#5F5A50" font-size="18" x="1011" y="450">เวทีโลกที่เปลี่ยนมือ</text><text fill="#5F5A50" font-size="18" x="1011" y="480">สิ่งที่ต้องรักษา</text></g>
+  <g id="page-footer" data-pptx-bounds="64 670 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">โครงเรื่องสี่ตอนนี้เรียบเรียงโดยผู้บรรยาย ไม่ใช่โครงสร้างที่แหล่งข้อมูลกำหนด</text>
+    <text x="1216" y="688" text-anchor="end">02</text>
+  </g>
+</svg>

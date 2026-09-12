@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF"/>
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 3 · จากนาสู่ตลาดโลก</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">ข้าวหอมทรงตัว ขณะที่ยอดรวมโตด้วยข้าวขาว</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1"/>
+    <text x="64" y="186" font-size="30" fill="#26241F">ห้าปีที่ผ่านมาข้าวหอมไทยขยับอยู่ในกรอบสองล้านตัน ส่วนที่โตคือข้าวขาว</text>
+  </g>
+  <g id="export-quay-band" data-pptx-bounds="64 198 1152 136">
+    <image href="../images/04_export_port.jpg" x="64" y="200" width="1152" height="132" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <g id="thai-rice-export-by-variety" data-pptx-replace-with="chart" data-pptx-bounds="64 348 872 292" data-pptx-fallback-sha256="b517d0b558a153eeed2d785021dd9be15e3cfa3f88927e681dc723b59ef25921">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-chart.v1",
+        "name": "thai-rice-export-by-variety",
+        "x": 64, "y": 348, "width": 872, "height": 292,
+        "type": "line",
+        "plot_area": {"x": 152, "y": 378, "width": 768, "height": 218},
+        "categories": ["2563", "2564", "2565", "2566", "2567"],
+        "series": [
+          {"name": "ข้าวขาว", "values": [2.015, 2.498, 3.786, 5.57, 6.793]},
+          {"name": "ข้าวหอม", "values": [2.023, 1.984, 2.048, 1.677, 1.741]},
+          {"name": "ข้าวนึ่ง", "values": [1.419, 1.503, 1.511, 1.376, 1.264]},
+          {"name": "ข้าวเหนียว", "values": [0.277, 0.311, 0.35, 0.14, 0.148]}
+        ],
+        "axes": {"value": {"minimum": 0, "maximum": 7, "major_unit": 1}},
+        "axis_titles": {"value": "ล้านตัน"},
+        "show_legend": false,
+        "notes": ["ข้าวขาว", "ข้าวหอม", "ข้าวนึ่ง", "ข้าวเหนียว"],
+        "style": {
+          "font_family": "Tahoma", "font_size": 18, "axis_font_size": 18,
+          "axis_title_font_size": 18, "note_font_size": 18,
+          "colors": ["#2F5D3A", "#C8952B", "#5F5A50", "#8C3B2E"],
+          "chart_area_fill": "#FFFDF8", "plot_area_fill": "#FFFDF8",
+          "text_color": "#5F5A50", "axis_color": "#DCD3C2", "grid_color": "#E8DFCE"
+        }
+      }
+    </metadata>
+    <rect x="64" y="348" width="872" height="292" fill="#FFFDF8"/>
+    <g id="thai-rice-export-by-variety-chartArea">
+      <g id="export-chart-grid" stroke="#E8DFCE" stroke-width="1">
+        <line x1="152" y1="378" x2="920" y2="378"/>
+        <line x1="152" y1="409.14" x2="920" y2="409.14"/>
+        <line x1="152" y1="440.29" x2="920" y2="440.29"/>
+        <line x1="152" y1="471.43" x2="920" y2="471.43"/>
+        <line x1="152" y1="502.57" x2="920" y2="502.57"/>
+        <line x1="152" y1="533.71" x2="920" y2="533.71"/>
+        <line x1="152" y1="564.86" x2="920" y2="564.86"/>
+      </g>
+      <g id="export-chart-axis" stroke="#DCD3C2" stroke-width="2">
+        <line x1="152" y1="378" x2="152" y2="596"/>
+        <line x1="152" y1="596" x2="920" y2="596"/>
+      </g>
+      <!-- chart-plot-area: object=thai-rice-export-by-variety | 152,378,920,596 -->
+      <path d="M229 533.2 L382 518.2 L536 478.1 L690 422.6 L843 384.5" fill="none" stroke="#2F5D3A" stroke-width="4"/>
+      <path d="M229 533 L382 534.2 L536 532.2 L690 543.8 L843 541.8" fill="none" stroke="#C8952B" stroke-width="6"/>
+      <path d="M229 551.8 L382 549.2 L536 548.9 L690 553.1 L843 556.6" fill="none" stroke="#5F5A50" stroke-width="3"/>
+      <path d="M229 587.4 L382 586.3 L536 585.1 L690 591.6 L843 591.4" fill="none" stroke="#8C3B2E" stroke-width="3"/>
+    </g>
+    <g id="export-chart-labels" font-family="Tahoma, sans-serif" font-size="18" fill="#5F5A50">
+      <text x="140" y="384" text-anchor="end">7</text>
+      <text x="140" y="415.14" text-anchor="end">6</text>
+      <text x="140" y="446.29" text-anchor="end">5</text>
+      <text x="140" y="477.43" text-anchor="end">4</text>
+      <text x="140" y="508.57" text-anchor="end">3</text>
+      <text x="140" y="539.71" text-anchor="end">2</text>
+      <text x="140" y="570.86" text-anchor="end">1</text>
+      <text x="140" y="602" text-anchor="end">0</text>
+      <text x="229" y="622" text-anchor="middle">2563</text>
+      <text x="382" y="622" text-anchor="middle">2564</text>
+      <text x="536" y="622" text-anchor="middle">2565</text>
+      <text x="690" y="622" text-anchor="middle">2566</text>
+      <text x="843" y="622" text-anchor="middle">2567</text>
+      <text x="80" y="370">ล้านตัน</text>
+      <text x="858" y="390" fill="#2F5D3A" font-weight="bold">ข้าวขาว</text>
+      <text x="858" y="536" fill="#C8952B" font-weight="bold">ข้าวหอม</text>
+      <text x="858" y="575">ข้าวนึ่ง</text>
+      <text x="846" y="601" fill="#8C3B2E">ข้าวเหนียว</text>
+    </g>
+  </g>
+  <g id="hom-mali-volume-mark" data-pptx-bounds="968 348 248 292">
+    <rect x="968" y="348" width="248" height="292" fill="#F1E8D6"/>
+    <rect x="968" y="348" width="248" height="8" fill="#C8952B"/>
+    <text x="992" y="396" font-size="18" fill="#5F5A50">ข้าวหอม ปี 2567</text>
+    <text x="992" y="434" font-size="30" font-weight="bold" fill="#8C3B2E">1,740,901</text>
+    <text x="992" y="462" font-size="18" fill="#26241F">ตัน · เพิ่มร้อยละ 3.8</text>
+    <line x1="992" y1="494" x2="1192" y2="494" stroke="#DCD3C2" stroke-width="1"/>
+    <text x="992" y="530" font-size="18" fill="#5F5A50">รวมทุกชนิด ปี 2567</text>
+    <text x="992" y="568" font-size="30" font-weight="bold" fill="#2F5D3A">9,945,323</text>
+    <text x="992" y="596" font-size="18" fill="#26241F">ตัน · เพิ่มร้อยละ 13.5</text>
+    <text x="992" y="624" font-size="18" fill="#5F5A50">225,656 ล้านบาท</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 660 1152 46" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="678">หน่วยบนกราฟเป็นล้านตัน ปัดจากตัวเลขเมตริกตันในตารางต้นทาง · ปีเป็น พ.ศ. (2563 = ค.ศ. 2020)<tspan x="64" dy="18">ที่มา: Table 1.3.1 Thai Rice Exports by Varieties, Ministry of Commerce อ้างใน USDA FAS TH2025-0011 · กรมประชาสัมพันธ์</tspan></text>
+    <text x="1216" y="696" text-anchor="end">09</text>
+  </g>
+</svg>

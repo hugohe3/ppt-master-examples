@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">मिशन के बाद: निद्रा, वापसी और एक खोज</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="crater-discovery" data-pptx-bounds="64 170 656 400">
+    <g id="p11-crater-corner" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="halfFrame" data-pptx-frame="64 170 656 400" data-pptx-av-adj1="val 2000" data-pptx-av-adj2="val 2000" fill="#FF7A3D" stroke="none">
+<path d="M 64 170 L 720 170 L 706.88 178 L 72 178 L 72 565.12 L 64 570 Z" />
+</g>
+    <text x="112" y="226" font-size="34" font-weight="bold" fill="#8AB4E8">दबा हुआ प्राचीन क्रेटर</text>
+    <text x="112" y="310" font-size="64" font-weight="bold" fill="#FF7A3D">160 किमी</text>
+    <text x="112" y="356" font-size="28" fill="#E8F1FA">व्यास, लगभग 4.4 किमी गहरा</text>
+    <text fill="#E8F1FA" font-size="28" x="112" y="410">प्रज्ञान के कैमरों और चंद्रयान-2 के</text><text fill="#E8F1FA" font-size="28" x="112" y="448">OHRC चित्रों से पता चला।</text><text fill="#9FB6CC" font-size="22" x="112" y="492">SPA बेसिन से भी पुराना हो सकता है।</text><text fill="#9FB6CC" font-size="22" x="112" y="518">स्थल पर SPA से ~1400 मी मलबा जमा</text></g>
+
+  <g id="sleep-mode" data-pptx-bounds="760 170 456 206">
+    
+  <g transform="translate(760, 176) scale(1.66667)" fill="none" stroke="#8AB4E8" stroke-width="2">
+    <path d="M4 12h6l-6 8h6" />
+    <path d="M14 4h6l-6 8h6" />
+  </g>
+    <text x="760" y="254" font-size="34" font-weight="bold" fill="#8AB4E8">निद्रा-अवस्था</text>
+    <text x="760" y="286" font-family="Consolas" font-size="20" fill="#9FB6CC">04-09-2023</text>
+    <text fill="#E8F1FA" font-size="28" x="760" y="328">लैंडर और रोवर को निद्रा-</text><text fill="#E8F1FA" font-size="28" x="760" y="366">अवस्था में रखा गया।</text></g>
+
+  <g id="pm-return" data-pptx-bounds="760 378 456 218">
+    
+  <g transform="translate(760, 386) scale(1.66667)" fill="none" stroke="#8AB4E8" stroke-width="2">
+    <path d="M3.707 6.293l2.586 -2.586a1 1 0 0 1 1.414 0l5.586 5.586a1 1 0 0 1 0 1.414l-2.586 2.586a1 1 0 0 1 -1.414 0l-5.586 -5.586a1 1 0 0 1 0 -1.414" />
+    <path d="M6 10l-3 3l3 3l3 -3" />
+    <path d="M10 6l3 -3l3 3l-3 3" />
+    <path d="M12 12l1.5 1.5" />
+    <path d="M14.5 17a2.5 2.5 0 0 0 2.5 -2.5" />
+    <path d="M15 21a6 6 0 0 0 6 -6" />
+  </g>
+    <text x="760" y="464" font-size="34" font-weight="bold" fill="#8AB4E8">प्रोपल्शन मॉड्यूल</text>
+    <text fill="#E8F1FA" font-size="28" x="760" y="506">13 अक्तूबर 2023: ट्रांस-अर्थ</text><text fill="#E8F1FA" font-size="28" x="760" y="544">इंजेक्शन; 100+ किग्रा</text><text fill="#E8F1FA" font-size="28" x="760" y="582">प्रणोदक शेष था।</text></g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO — Chandrayaan-3 · Propulsion Module वापसी · Buried Crater / Icarus (2024) — तथ्य F016, F018, F019</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">11 / 13</text>
+  </g>
+</svg>

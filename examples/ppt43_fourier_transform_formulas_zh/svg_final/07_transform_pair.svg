@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="formula-band-fwd" data-pptx-role="decoration" x="64" y="206" width="896" height="104" fill="#F2F4F7" />
+  <rect id="formula-band-fwd-bar" data-pptx-role="decoration" x="64" y="206" width="3" height="104" fill="#123B63" />
+  <rect id="formula-band-inv" data-pptx-role="decoration" x="64" y="372" width="896" height="104" fill="#F2F4F7" />
+  <rect id="formula-band-inv-bar" data-pptx-role="decoration" x="64" y="372" width="3" height="104" fill="#2E7D7B" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 3 节 · 从级数到变换</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">同一条式子,换成积分</text>
+  </g>
+  <g id="integral-transform-morph" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="206" data-pptx-width="896" data-pptx-height="104" data-pptx-bounds="64 206 896 104">
+    <metadata type="application/json">
+      {"latex":"F(\\omega) = \\int_{-\\infty}^{\\infty} f(t)\\, e^{-i\\omega t}\\, dt",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="512" y="270" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">F(ω) = ∫₋∞⁺∞ f(t) e⁻ⁱωᵗ dt</text>
+  </g>
+  <g id="transform-pair-arrow" data-pptx-bounds="480 316 80 52">
+<g id="p07-pair-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upDownArrow" data-pptx-frame="496 318 32 48" fill="#123B63" stroke="none">
+<path d="M 496 334 L 512 318 L 528 334 L 520 334 L 520 350 L 528 350 L 512 366 L 496 350 L 504 350 L 504 334 Z" />
+</g>
+  </g>
+  <g id="inverse-transform" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="372" data-pptx-width="896" data-pptx-height="104" data-pptx-bounds="64 372 896 104">
+    <metadata type="application/json">
+      {"latex":"f(t) = \\frac{1}{2\\pi} \\int_{-\\infty}^{\\infty} F(\\omega)\\, e^{i\\omega t}\\, d\\omega",
+       "display":"block","font_size":28,"color":"#2E7D7B","align":"center"}
+    </metadata>
+    <text x="512" y="436" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#2E7D7B">f(t) = (1/2π) ∫₋∞⁺∞ F(ω) e⁺ⁱωᵗ dω</text>
+  </g>
+  <g id="pair-reading" data-pptx-bounds="64 496 896 108">
+    
+  <g transform="translate(64, 500) scale(0.916667)" fill="none" stroke="#5A6472" stroke-width="2">
+    <path d="M21 7l-18 0" />
+    <path d="M18 10l3 -3l-3 -3" />
+    <path d="M6 20l-3 -3l3 -3" />
+    <path d="M3 17l18 0" />
+  </g>
+    <text x="94" y="517" font-size="18" fill="#5A6472">一本可逆的字典:两个方向</text>
+    <text fill="#1B2027" x="64" y="556">上式把 <tspan data-pptx-inline-formula="f(t)">f(t)</tspan> 读成频率分布 <tspan data-pptx-inline-formula="F(\omega)">F(ω)</tspan>,下式把它读回时间。</text><text fill="#1B2027" x="64" y="592"><tspan>同一份信息,两种写法,<tspan font-weight="bold" fill="#123B63">来回都不丢东西</tspan>。</tspan></text></g>
+  <g id="convention-note" data-pptx-bounds="64 612 896 92">
+    <text fill="#1B2027" x="64" y="640">约定要先说清:<tspan data-pptx-inline-formula="1/(2\pi)">1/(2π)</tspan> 放哪一侧、指数写 <tspan data-pptx-inline-formula="e^{-i\omega t}">e⁻ⁱωᵗ</tspan> 还是 <tspan data-pptx-inline-formula="e^{-2\pi i f t}">e⁻²πⁱᶠᵗ</tspan>,</text><text fill="#1B2027" x="64" y="676">各教材不同——本课按 NIST DLMF §1.14 的写法,换书时先核对约定。</text></g>
+  <g id="page-footer" data-pptx-bounds="64 722 896 22" fill="#5A6472" font-size="16">
+    <text x="64" y="736">来源:NIST Digital Library of Mathematical Functions §1.14(F010、F011)</text>
+    <text x="960" y="736" text-anchor="end">07</text>
+  </g>
+</svg>

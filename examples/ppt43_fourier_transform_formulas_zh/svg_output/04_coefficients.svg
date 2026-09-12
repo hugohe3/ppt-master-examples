@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="formula-band-a" data-pptx-role="decoration" x="64" y="200" width="896" height="104" fill="#F2F4F7" />
+  <rect id="formula-band-a-bar" data-pptx-role="decoration" x="64" y="200" width="3" height="104" fill="#123B63" />
+  <rect id="formula-band-b" data-pptx-role="decoration" x="64" y="320" width="896" height="104" fill="#F2F4F7" />
+  <rect id="formula-band-b-bar" data-pptx-role="decoration" x="64" y="320" width="3" height="104" fill="#2E7D7B" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 2 节 · 傅里叶级数</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">想知道某个频率有多少,就与它做积分</text>
+  </g>
+  <g id="cosine-coefficient" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="200" data-pptx-width="896" data-pptx-height="104" data-pptx-bounds="64 200 896 104">
+    <metadata type="application/json">
+      {"latex":"a_n = \\frac{2}{T} \\int_{0}^{T} f(x) \\cos \\frac{2\\pi n x}{T}\\, dx",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="512" y="264" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">aₙ = (2/T) ∫₀ᵀ f(x) cos(2πnx/T) dx</text>
+  </g>
+  <g id="sine-coefficient" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="320" data-pptx-width="896" data-pptx-height="104" data-pptx-bounds="64 320 896 104">
+    <metadata type="application/json">
+      {"latex":"b_n = \\frac{2}{T} \\int_{0}^{T} f(x) \\sin \\frac{2\\pi n x}{T}\\, dx",
+       "display":"block","font_size":28,"color":"#2E7D7B","align":"center"}
+    </metadata>
+    <text x="512" y="384" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#2E7D7B">bₙ = (2/T) ∫₀ᵀ f(x) sin(2πnx/T) dx</text>
+  </g>
+  <g id="coefficient-reading" data-pptx-bounds="64 444 896 182">
+    <use data-icon="tabler-outline/math-function" x="64" y="448" width="22" height="22" fill="#5A6472" stroke-width="2" />
+    <text x="94" y="465" font-size="18" fill="#5A6472">逐个符号读一遍</text>
+    <text x="64" y="504" fill="#1B2027"><tspan data-pptx-inline-formula="\int_{0}^{T}">∫₀ᵀ</tspan> 是「在一个周期上求平均」,<tspan x="64" dy="36"><tspan data-pptx-inline-formula="\cos \frac{2\pi n x}{T}">cos(2πnx/T)</tspan> 是「第 n 条已知频率的尺子」。</tspan></text>
+    <text x="64" y="576" fill="#1B2027">把信号贴着这把尺子量一遍,其他频率<tspan font-weight="bold" fill="#C2452D">相互抵消</tspan>,只剩它自己的量。<tspan x="64" dy="36">两条公式互为镜像:一条量余弦成分,一条量正弦成分。</tspan></text>
+  </g>
+  <g id="coefficient-oneliner" data-pptx-bounds="64 648 460 66">
+    <use data-icon="tabler-outline/bulb" x="64" y="652" width="22" height="22" fill="#C2452D" stroke-width="2" />
+    <text x="94" y="669" font-size="18" fill="#5A6472">一句话记住</text>
+    <text x="64" y="702" fill="#1B2027">先固定频率,再做一次积分。</text>
+  </g>
+  <g id="orthogonality-note" data-pptx-bounds="556 630 404 84">
+<g id="p04-orthogonality-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="556 650 404 64" data-pptx-av-adj1="val -35000" data-pptx-av-adj2="val -78000" fill="#FFFFFF" stroke="#C2452D" stroke-width="2">
+<path d="M 556 650 L 623.33 650 L 616.6 632.08 L 724.33 650 L 960 650 L 960 660.67 L 960 660.67 L 960 676.67 L 960 714 L 724.33 714 L 623.33 714 L 623.33 714 L 556 714 L 556 676.67 L 556 660.67 L 556 660.67 Z" />
+</g>
+    <text x="580" y="678" font-size="18" fill="#1B2027">周期 <tspan data-pptx-inline-formula="T">T</tspan> 决定了可用频率只能是<tspan x="580" dy="26">基频的整数倍,中间取不到。</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 722 896 22" fill="#5A6472" font-size="16">
+    <text x="64" y="736">整理:系数公式的读法与正交性直觉</text>
+    <text x="960" y="736" text-anchor="end">04</text>
+  </g>
+</svg>

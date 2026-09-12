@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF" />
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 3 · จากนาสู่ตลาดโลก</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">ตัวเลขที่คาดไว้สำหรับปีถัดไป</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1" />
+    <text x="64" y="186" font-size="30" fill="#26241F">ผลผลิตคาดว่าจะเพิ่มเล็กน้อย แต่การส่งออกคาดว่าจะทรงตัวหรือลดลงจากปี 2567</text>
+  </g>
+  <g id="panel-production" data-pptx-bounds="64 208 560 344">
+    <rect x="64" y="210" width="560" height="340" fill="none" stroke="#DCD3C2" stroke-width="2" />
+    <rect x="64" y="210" width="560" height="48" fill="#2F5D3A" />
+    
+  <g transform="translate(88, 222) scale(1.5)" fill="#C8952B">
+    <path d="M15 3C15 5.61507 13.327 7.8394 10.9929 8.66108C10.3694 8.88059 9.69864 9 9 9V13H13V15H3V13H7V11C3.68629 11 1 8.31371 1 5V3H3C4.72715 3 6.28386 3.72977 7.37859 4.89779C7.93972 5.49647 8.37947 6.2103 8.65859 7H9C9.58752 7 10.1455 6.87333 10.648 6.64581C10.2274 5.27772 9.44973 4.06596 8.42381 3.11928C9.52439 1.82275 11.1661 1 13 1H15V3Z" />
+  </g>
+    <text x="124" y="242" font-size="24" font-weight="bold" fill="#FBF7EF">ผลผลิตข้าวไทย</text>
+    <text x="88" y="300" font-size="18" fill="#5F5A50">ปีการตลาด 2567/68 (ประมาณการ)</text>
+    <text x="88" y="336" font-size="30" font-weight="bold" fill="#26241F">20.5 ล้านตัน</text>
+    <text x="88" y="386" font-size="18" fill="#5F5A50">ปีการตลาด 2568/69 (คาดการณ์ USDA FAS)</text>
+    <text x="88" y="422" font-size="30" font-weight="bold" fill="#2F5D3A">20.7 ล้านตัน</text>
+    <line x1="88" y1="452" x2="600" y2="452" stroke="#DCD3C2" stroke-width="1" />
+    <text x="88" y="480" font-size="18" fill="#26241F">เนื้อที่ปลูกนาปี 8.94 และนาปรัง 2.05 ล้านเฮกตาร์</text>
+    <text x="88" y="512" font-size="18" fill="#5F5A50">นาปรังปีการตลาด 2568/69 สูงสุดในรอบหลายปี</text>
+  </g>
+  <g id="panel-exports" data-pptx-bounds="656 208 560 344">
+    <rect x="656" y="210" width="560" height="340" fill="none" stroke="#DCD3C2" stroke-width="2" />
+    <rect x="656" y="210" width="560" height="48" fill="#8C3B2E" />
+    
+  <g transform="translate(680, 222) scale(1.5)" fill="#C8952B">
+    <path d="M11 1H5V3.89181L7.99999 2.89182L11 3.89182V1Z" />
+    <path d="M8 5L2 7L3 13H1V15H3.19258L5.5 14.077L8 15.077L10.5 14.077L12.8074 15H15V13H13L14 7L8 5Z" />
+  </g>
+    <text x="716" y="242" font-size="24" font-weight="bold" fill="#FBF7EF">การส่งออกข้าวไทย</text>
+    <text x="680" y="300" font-size="18" fill="#5F5A50">ปี 2567 ยอดจริง</text>
+    <text x="680" y="336" font-size="30" font-weight="bold" fill="#26241F">9.95 ล้านตัน</text>
+    <text x="680" y="386" font-size="18" fill="#5F5A50">ปีการตลาด 2568/69 คาดการณ์ USDA FAS</text>
+    <text x="680" y="422" font-size="30" font-weight="bold" fill="#8C3B2E">7.6 ล้านตัน</text>
+    <text x="680" y="472" font-size="18" fill="#5F5A50">ปี 2568 คาดการณ์ กรมการค้าต่างประเทศ</text>
+    <text x="680" y="508" font-size="30" font-weight="bold" fill="#8C3B2E">7.5 ล้านตัน</text>
+  </g>
+  <g id="scope-note" data-pptx-bounds="64 570 1152 76">
+    <rect x="64" y="570" width="6" height="68" fill="#8C3B2E" />
+    <text fill="#5F5A50" font-size="24" x="88" y="600">บรรทัดขอบเขต ตัวเลขผลผลิตเป็นปีการตลาด ส่วนตัวเลขส่งออกของกรมการค้า</text><text fill="#5F5A50" font-size="24" x="88" y="634">ต่างประเทศและสมาคมผู้ส่งออกข้าวไทยเป็นปีปฏิทิน</text></g>
+  <g id="page-footer" data-pptx-bounds="64 670 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: Grain and Feed Annual TH2025-0011, USDA FAS · กรมประชาสัมพันธ์ อ้างกรมการค้าต่างประเทศและสมาคมผู้ส่งออกข้าวไทย</text>
+    <text x="1216" y="688" text-anchor="end">12</text>
+  </g>
+</svg>

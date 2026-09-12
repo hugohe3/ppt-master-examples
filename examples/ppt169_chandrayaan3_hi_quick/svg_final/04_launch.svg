@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">प्रक्षेपण: 14 जुलाई 2023</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="launch-vehicle" data-pptx-bounds="64 172 556 330">
+    
+  <g transform="translate(64, 192) scale(1.83333)" fill="none" stroke="#FF7A3D" stroke-width="2">
+    <path d="M4 13a8 8 0 0 1 7 7a6 6 0 0 0 3 -5a9 9 0 0 0 6 -8a3 3 0 0 0 -3 -3a9 9 0 0 0 -8 6a6 6 0 0 0 -5 3" />
+    <path d="M7 14a6 6 0 0 0 -3 6a6 6 0 0 0 6 -3" />
+    <path d="M14 9a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+  </g>
+    <text x="128" y="244" font-size="64" font-weight="bold" fill="#E8F1FA">LVM3-M4</text>
+    <text x="128" y="278" font-size="22" fill="#9FB6CC">भारी प्रक्षेपण यान</text>
+    <line x1="64" y1="320" x2="620" y2="320" stroke="#2A4A6B" stroke-width="1" />
+    <text fill="#E8F1FA" font-size="28" x="64" y="366">दिनांक: 14 जुलाई 2023</text><text fill="#E8F1FA" font-size="28" x="64" y="404">समय: 14:35 IST</text><text fill="#E8F1FA" font-size="28" x="64" y="446">स्थल: दूसरा लॉन्च पैड,</text><text fill="#E8F1FA" font-size="28" x="64" y="484">SDSC-SHAR, श्रीहरिकोटा</text></g>
+
+  <g id="spec-tiles" data-pptx-bounds="660 172 556 440">
+    <g id="p04-kpi-mass" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="660 180 556 130" fill="#12263C" stroke="#2A4A6B" stroke-width="1.5">
+<path d="M 660 201.67 A 21.67 21.67 0 0 0 681.67 180 L 1194.33 180 A 21.67 21.67 0 0 0 1216 201.67 L 1216 288.33 A 21.67 21.67 0 0 0 1194.33 310 L 681.67 310 A 21.67 21.67 0 0 0 660 288.33 Z" />
+</g>
+    <text x="700" y="254" font-size="64" font-weight="bold" fill="#FF7A3D">1752<tspan font-size="28" font-weight="normal" fill="#8AB4E8"> किग्रा</tspan></text>
+    <text x="700" y="292" font-size="22" fill="#9FB6CC">लैंडर मॉड्यूल का द्रव्यमान</text>
+    <g id="p04-kpi-rover" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="660 330 556 130" fill="#12263C" stroke="#2A4A6B" stroke-width="1.5">
+<path d="M 660 351.67 A 21.67 21.67 0 0 0 681.67 330 L 1194.33 330 A 21.67 21.67 0 0 0 1216 351.67 L 1216 438.33 A 21.67 21.67 0 0 0 1194.33 460 L 681.67 460 A 21.67 21.67 0 0 0 660 438.33 Z" />
+</g>
+    <text x="700" y="404" font-size="64" font-weight="bold" fill="#8AB4E8">26<tspan font-size="28" font-weight="normal"> किग्रा</tspan></text>
+    <text x="700" y="442" font-size="22" fill="#9FB6CC">इसी में रोवर 'प्रज्ञान' शामिल</text>
+    <g id="p04-kpi-life" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="660 480 556 130" fill="#12263C" stroke="#2A4A6B" stroke-width="1.5">
+<path d="M 660 501.67 A 21.67 21.67 0 0 0 681.67 480 L 1194.33 480 A 21.67 21.67 0 0 0 1216 501.67 L 1216 588.33 A 21.67 21.67 0 0 0 1194.33 610 L 681.67 610 A 21.67 21.67 0 0 0 660 588.33 Z" />
+</g>
+    <text x="700" y="554" font-size="64" font-weight="bold" fill="#8AB4E8">~14<tspan font-size="28" font-weight="normal"> दिवस</tspan></text>
+    <text x="700" y="592" font-size="22" fill="#9FB6CC">नियोजित मिशन-आयु: एक चंद्र-दिवस</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO, Chandrayaan-3 / Chandrayaan-3 Details (isro.gov.in, 2023) — तथ्य F001, F003, F004</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">04 / 13</text>
+  </g>
+</svg>

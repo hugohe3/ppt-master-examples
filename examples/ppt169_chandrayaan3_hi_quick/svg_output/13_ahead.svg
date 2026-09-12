@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="ending">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">आगे की राह</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="roadmap" data-pptx-bounds="64 190 1152 130">
+    <g id="p13-stage-2024" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 190 400 120" fill="#12263C" stroke="#FF7A3D" stroke-width="1.5">
+<path d="M 64 190 L 404 190 L 464 250 L 404 310 L 64 310 L 124 250 Z" />
+</g>
+    <text x="264" y="232" font-family="Consolas" font-size="28" font-weight="bold" text-anchor="middle" fill="#FF7A3D">2024</text>
+    <text x="264" y="268" font-size="22" text-anchor="middle" fill="#E8F1FA">चंद्रयान-4 स्वीकृत</text>
+    <g id="p13-stage-2035" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="440 190 400 120" fill="#12263C" stroke="#8AB4E8" stroke-width="1.5">
+<path d="M 440 190 L 780 190 L 840 250 L 780 310 L 440 310 L 500 250 Z" />
+</g>
+    <text x="646" y="232" font-family="Consolas" font-size="28" font-weight="bold" text-anchor="middle" fill="#8AB4E8">2035</text>
+    <text x="646" y="268" font-size="22" text-anchor="middle" fill="#E8F1FA">अंतरिक्ष स्टेशन</text>
+    <g id="p13-stage-2040" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="816 190 400 120" fill="#12263C" stroke="#8AB4E8" stroke-width="1.5">
+<path d="M 816 190 L 1156 190 L 1216 250 L 1156 310 L 816 310 L 876 250 Z" />
+</g>
+    <text x="1022" y="232" font-family="Consolas" font-size="28" font-weight="bold" text-anchor="middle" fill="#8AB4E8">2040</text>
+    <text x="1022" y="268" font-size="22" text-anchor="middle" fill="#E8F1FA">चाँद पर मानव अवतरण</text>
+  </g>
+
+  <g id="ch4-details" data-pptx-bounds="64 356 1152 108">
+    <text x="64" y="390" font-size="34" font-weight="bold" fill="#8AB4E8">चंद्रयान-4: नमूना लाकर लौटना</text>
+    <rect x="64" y="432" width="8" height="8" fill="#FF7A3D" />
+    <text x="88" y="446" font-size="28" fill="#E8F1FA">₹2104.06 करोड़ स्वीकृत</text>
+    <rect x="520" y="432" width="8" height="8" fill="#8AB4E8" />
+    <text x="544" y="446" font-size="28" fill="#E8F1FA">दो LVM3 प्रक्षेपण</text>
+    <rect x="824" y="432" width="8" height="8" fill="#8AB4E8" />
+    <text x="848" y="446" font-size="28" fill="#E8F1FA">36 माह की समय-सीमा</text>
+  </g>
+
+  <g id="closing" data-pptx-bounds="64 500 1152 120">
+    <rect x="64" y="504" width="176" height="4" fill="url(#ruleGrad)" />
+    <text x="64" y="560" font-size="34" fill="#E8F1FA">चंद्रयान-3 ने तकनीक सिद्ध की; चंद्रयान-4 उसे<tspan x="64" dy="42">नमूना-वापसी तक ले जाएगा।</tspan></text>
+    <text x="1216" y="580" font-size="64" font-weight="bold" text-anchor="end" fill="#FF7A3D">2040</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: PIB — चंद्रयान-4 मंत्रिमंडल स्वीकृति, 18 सितंबर 2024 (pib.gov.in) — तथ्य F024</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">13 / 13</text>
+  </g>
+</svg>

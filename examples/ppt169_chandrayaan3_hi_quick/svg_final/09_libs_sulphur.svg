@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+    <filter id="accentGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b" />
+      <feFlood flood-color="#FF7A3D" flood-opacity="0.55" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">LIBS: गंधक (S) की असंदिग्ध पुष्टि</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="rover-detail" data-pptx-bounds="76 148 358 172">
+    <circle cx="290" cy="158" r="8" fill="#FF7A3D" />
+    <line x1="290" y1="196" x2="290" y2="166" stroke="#FF7A3D" stroke-width="2" />
+    <rect x="100" y="180" width="210" height="10" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <rect x="108" y="196" width="196" height="56" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="134" cy="269" r="17" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="206" cy="269" r="17" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="278" cy="269" r="17" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <line x1="206" y1="286" x2="206" y2="300" stroke="#FF7A3D" stroke-width="2.5" />
+    <circle cx="206" cy="306" r="14" fill="#FF7A3D" fill-opacity="0.3" filter="url(#accentGlow)" />
+    <circle cx="206" cy="306" r="6" fill="#FF7A3D" />
+    <line x1="80" y1="306" x2="430" y2="306" stroke="#9FB6CC" stroke-width="1.5" />
+  </g>
+
+  <g id="libs-chain" data-pptx-bounds="470 172 696 116">
+    <g id="p09-node-laser" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snipRoundRect" data-pptx-frame="470 180 200 100" fill="#12263C" stroke="#8AB4E8" stroke-width="1.5">
+<path d="M 486.67 180 L 653.33 180 L 670 196.67 L 670 280 L 470 280 L 470 196.67 A 16.67 16.67 0 0 1 486.67 180 Z" />
+</g>
+    <text text-anchor="middle" fill="#E8F1FA" font-size="22" x="570" y="224">तीव्र लेज़र</text><text text-anchor="middle" fill="#E8F1FA" font-size="22" x="570" y="250">स्पंद</text><g id="p09-arrow-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="674 210 44 40" fill="#8AB4E8" stroke="none">
+<path d="M 674 220 L 698 220 L 698 210 L 718 230 L 698 250 L 698 240 L 674 240 Z" />
+</g>
+    <g id="p09-node-plasma" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snipRoundRect" data-pptx-frame="718 180 200 100" fill="#12263C" stroke="#8AB4E8" stroke-width="1.5">
+<path d="M 734.67 180 L 901.33 180 L 918 196.67 L 918 280 L 718 280 L 718 196.67 A 16.67 16.67 0 0 1 734.67 180 Z" />
+</g>
+    <text text-anchor="middle" fill="#E8F1FA" font-size="22" x="818" y="224">अत्यंत गर्म</text><text text-anchor="middle" fill="#E8F1FA" font-size="22" x="818" y="250">प्लाज़्मा</text><g id="p09-arrow-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="922 210 44 40" fill="#8AB4E8" stroke="none">
+<path d="M 922 220 L 946 220 L 946 210 L 966 230 L 946 250 L 946 240 L 922 240 Z" />
+</g>
+    <g id="p09-node-spectrum" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snipRoundRect" data-pptx-frame="966 180 200 100" fill="#12263C" stroke="#FF7A3D" stroke-width="1.5">
+<path d="M 982.67 180 L 1149.33 180 L 1166 196.67 L 1166 280 L 966 280 L 966 196.67 A 16.67 16.67 0 0 1 982.67 180 Z" />
+</g>
+    <text text-anchor="middle" fill="#FF7A3D" font-size="22" x="1066" y="224">वर्णक्रम</text><text text-anchor="middle" fill="#FF7A3D" font-size="22" x="1066" y="250">विश्लेषण</text></g>
+
+  <g id="elements-found" data-pptx-bounds="64 326 1152 180">
+    <rect x="64" y="330" width="200" height="150" rx="4" fill="#FF7A3D" fill-opacity="0.14" stroke="#FF7A3D" stroke-width="1.5" />
+    <text x="164" y="420" font-size="64" font-weight="bold" text-anchor="middle" fill="#FF7A3D">S</text>
+    <text x="164" y="462" font-size="28" text-anchor="middle" fill="#E8F1FA">गंधक</text>
+    <rect x="290" y="350" width="104" height="80" rx="4" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="342" y="400" font-size="34" text-anchor="middle" fill="#8AB4E8">Al</text>
+    <rect x="406" y="350" width="104" height="80" rx="4" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="458" y="400" font-size="34" text-anchor="middle" fill="#8AB4E8">Ca</text>
+    <rect x="522" y="350" width="104" height="80" rx="4" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="574" y="400" font-size="34" text-anchor="middle" fill="#8AB4E8">Fe</text>
+    <rect x="638" y="350" width="104" height="80" rx="4" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="690" y="400" font-size="34" text-anchor="middle" fill="#8AB4E8">Cr</text>
+    <rect x="754" y="350" width="104" height="80" rx="4" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="806" y="400" font-size="34" text-anchor="middle" fill="#8AB4E8">Ti</text>
+    <rect x="870" y="350" width="104" height="80" rx="4" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="922" y="400" font-size="34" text-anchor="middle" fill="#8AB4E8">Mn</text>
+    <rect x="986" y="350" width="104" height="80" rx="4" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="1038" y="400" font-size="34" text-anchor="middle" fill="#8AB4E8">Si</text>
+    <rect x="1102" y="350" width="104" height="80" rx="4" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="1154" y="400" font-size="34" text-anchor="middle" fill="#8AB4E8">O</text>
+    <text fill="#9FB6CC" font-size="22" x="290" y="470">ऐलुमिनियम, कैल्शियम, लोहा, क्रोमियम,</text><text fill="#9FB6CC" font-size="22" x="290" y="496">टाइटेनियम, मैंगनीज़, सिलिकॉन, ऑक्सीजन</text></g>
+
+  <g id="libs-note" data-pptx-bounds="64 540 1152 100">
+    <line x1="64" y1="546" x2="1216" y2="546" stroke="#2A4A6B" stroke-width="1" />
+    <text fill="#E8F1FA" font-size="28" x="64" y="590">28 अगस्त 2023: दक्षिणी ध्रुव क्षेत्र में गंधक की असंदिग्ध यथास्थान पुष्टि।</text><text fill="#9FB6CC" font-size="28" x="64" y="628">हाइड्रोजन की खोज जारी। विकसित: LEOS/ISRO, बेंगलूरु।</text></g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO, LIBS Results (isro.gov.in, 2023) — तथ्य F012</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">09 / 13</text>
+  </g>
+</svg>

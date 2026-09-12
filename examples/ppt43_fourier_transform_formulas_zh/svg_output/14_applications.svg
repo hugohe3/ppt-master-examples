@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="formula-band" data-pptx-role="decoration" x="64" y="570" width="896" height="104" fill="#F2F4F7" />
+  <rect id="formula-band-bar" data-pptx-role="decoration" x="64" y="570" width="3" height="104" fill="#123B63" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 6 节 · 用在哪里</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">图像、医学、无线、声音</text>
+  </g>
+  <g id="app-jpeg" data-pptx-bounds="64 210 430 150">
+<g id="p14-card-jpeg" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 210 430 150" fill="#F2F4F7" stroke="#D6DBE1" stroke-width="1">
+<path d="M 64 210 L 469 210 L 494 235 L 494 360 L 64 360 Z" />
+</g>
+    <use data-icon="tabler-outline/photo" x="88" y="234" width="28" height="28" fill="#123B63" stroke-width="2" />
+    <text x="128" y="258" font-weight="bold" fill="#123B63">图像:JPEG</text>
+    <text x="88" y="298" font-size="18" fill="#1B2027">基线 JPEG 把图像切成 8×8 块,<tspan x="88" dy="24">每块做一次离散余弦变换(DCT)。</tspan></text>
+    <text x="88" y="346" font-size="18" fill="#5A6472">ITU-T T.81,1992(F005)</text>
+  </g>
+  <g id="app-mri" data-pptx-bounds="530 210 430 150">
+<g id="p14-card-mri" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="530 210 430 150" fill="#F2F4F7" stroke="#D6DBE1" stroke-width="1">
+<path d="M 530 210 L 935 210 L 960 235 L 960 360 L 530 360 Z" />
+</g>
+    <use data-icon="tabler-outline/activity-heartbeat" x="554" y="234" width="28" height="28" fill="#123B63" stroke-width="2" />
+    <text x="594" y="258" font-weight="bold" fill="#123B63">医学:MRI</text>
+    <text x="554" y="298" font-size="18" fill="#1B2027">采集等于在傅里叶空间(k 空间)<tspan x="554" dy="24">沿轨迹采样,再变换回图像。</tspan></text>
+    <text x="554" y="346" font-size="18" fill="#5A6472">Twieg, Med. Phys. 10(5), 1983(F006)</text>
+  </g>
+  <g id="app-wifi" data-pptx-bounds="64 390 430 150">
+<g id="p14-card-wifi" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="64 390 430 150" fill="#F2F4F7" stroke="#D6DBE1" stroke-width="1">
+<path d="M 64 390 L 469 390 L 494 415 L 494 540 L 64 540 Z" />
+</g>
+    <use data-icon="tabler-outline/wifi" x="88" y="414" width="28" height="28" fill="#123B63" stroke-width="2" />
+    <text x="128" y="438" font-weight="bold" fill="#123B63">无线:OFDM</text>
+    <text x="88" y="478" font-size="18" fill="#1B2027">20 MHz OFDM 用 64 点 FFT,<tspan x="88" dy="24">含 48 个数据子载波与 4 个导频。</tspan></text>
+    <text x="88" y="526" font-size="18" fill="#5A6472">IEEE 802.11a-1999(F007、F008)</text>
+  </g>
+  <g id="app-audio" data-pptx-bounds="530 390 430 150">
+<g id="p14-card-audio" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="530 390 430 150" fill="#F2F4F7" stroke="#D6DBE1" stroke-width="1">
+<path d="M 530 390 L 935 390 L 960 415 L 960 540 L 530 540 Z" />
+</g>
+    <use data-icon="tabler-outline/music" x="554" y="414" width="28" height="28" fill="#123B63" stroke-width="2" />
+    <text x="594" y="438" font-weight="bold" fill="#123B63">声音:均衡</text>
+    <text x="554" y="478" font-size="18" fill="#1B2027">按频段乘一条传递函数再变回时域,<tspan x="554" dy="24">频谱分析工具普遍用 FFT 实现。</tspan></text>
+    <text x="554" y="526" font-size="18" fill="#5A6472">卷积定理的工程读法(F010)</text>
+  </g>
+  <g id="dct-formula" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="570" data-pptx-width="896" data-pptx-height="104" data-pptx-bounds="64 570 896 104">
+    <metadata type="application/json">
+      {"latex":"S_{vu} = \\frac{1}{4} C_u C_v \\sum_{x=0}^{7} \\sum_{y=0}^{7} s_{yx} \\cos\\frac{(2x+1)u\\pi}{16} \\cos\\frac{(2y+1)v\\pi}{16}",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="512" y="616" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">Sᵥᵤ = ¼ Cᵤ Cᵥ ∑ₓ₌₀⁷ ∑ᵥ₌₀⁷ sᵥₓ ×<tspan x="512" dy="38">cos((2x+1)uπ/16) cos((2y+1)vπ/16)</tspan></text>
+  </g>
+  <g id="applications-note" data-pptx-bounds="64 686 896 36">
+    <text x="64" y="710" fill="#1B2027">上面这条就是 JPEG 里那次 DCT——同一套思路,换了一组基函数。</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 722 896 22" fill="#5A6472" font-size="16">
+    <text x="64" y="736">来源见各卡片;子载波间隔 312.5 kHz = 20 MHz ÷ 64,为本卷整理结果</text>
+    <text x="960" y="736" text-anchor="end">14</text>
+  </g>
+</svg>

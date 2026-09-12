@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="formula-band" data-pptx-role="decoration" x="64" y="430" width="896" height="104" fill="#F2F4F7" />
+  <rect id="formula-band-bar" data-pptx-role="decoration" x="64" y="430" width="3" height="104" fill="#123B63" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 3 节 · 从级数到变换</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">周期越长,频率排得越密</text>
+  </g>
+  <g id="spacing-schematic" data-pptx-bounds="64 206 896 210">
+    <use data-icon="tabler-outline/repeat" x="64" y="210" width="22" height="22" fill="#5A6472" stroke-width="2" />
+    <text x="94" y="227" font-size="18" fill="#5A6472">可用频率是基频的整数倍,间隔就是 1/T</text>
+    <text x="64" y="262" font-size="18" fill="#1B2027">周期 T</text>
+    <line x1="200" y1="242" x2="200" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="270" y1="242" x2="270" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="340" y1="242" x2="340" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="410" y1="242" x2="410" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="480" y1="242" x2="480" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="550" y1="242" x2="550" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="620" y1="242" x2="620" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="690" y1="242" x2="690" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="760" y1="242" x2="760" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="830" y1="242" x2="830" y2="270" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="900" y1="242" x2="900" y2="270" stroke="#2E7D7B" stroke-width="2" />
+    <text x="64" y="332" font-size="18" fill="#1B2027">周期 2T</text>
+    <line x1="200" y1="312" x2="200" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="235" y1="312" x2="235" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="270" y1="312" x2="270" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="305" y1="312" x2="305" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="340" y1="312" x2="340" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="375" y1="312" x2="375" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="410" y1="312" x2="410" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="445" y1="312" x2="445" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="480" y1="312" x2="480" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="515" y1="312" x2="515" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="550" y1="312" x2="550" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="585" y1="312" x2="585" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="620" y1="312" x2="620" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="655" y1="312" x2="655" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="690" y1="312" x2="690" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="725" y1="312" x2="725" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="760" y1="312" x2="760" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="795" y1="312" x2="795" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="830" y1="312" x2="830" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="865" y1="312" x2="865" y2="340" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="900" y1="312" x2="900" y2="340" stroke="#2E7D7B" stroke-width="2" />
+    <text x="64" y="402" font-size="18" fill="#1B2027">周期 4T</text>
+    <line x1="200" y1="382" x2="200" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="217.5" y1="382" x2="217.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="235.0" y1="382" x2="235.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="252.5" y1="382" x2="252.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="270.0" y1="382" x2="270.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="287.5" y1="382" x2="287.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="305.0" y1="382" x2="305.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="322.5" y1="382" x2="322.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="340.0" y1="382" x2="340.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="357.5" y1="382" x2="357.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="375.0" y1="382" x2="375.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="392.5" y1="382" x2="392.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="410.0" y1="382" x2="410.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="427.5" y1="382" x2="427.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="445.0" y1="382" x2="445.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="462.5" y1="382" x2="462.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="480.0" y1="382" x2="480.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="497.5" y1="382" x2="497.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="515.0" y1="382" x2="515.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="532.5" y1="382" x2="532.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="550.0" y1="382" x2="550.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="567.5" y1="382" x2="567.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="585.0" y1="382" x2="585.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="602.5" y1="382" x2="602.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="620.0" y1="382" x2="620.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="637.5" y1="382" x2="637.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="655.0" y1="382" x2="655.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="672.5" y1="382" x2="672.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="690.0" y1="382" x2="690.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="707.5" y1="382" x2="707.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="725.0" y1="382" x2="725.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="742.5" y1="382" x2="742.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="760.0" y1="382" x2="760.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="777.5" y1="382" x2="777.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="795.0" y1="382" x2="795.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="812.5" y1="382" x2="812.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="830.0" y1="382" x2="830.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="847.5" y1="382" x2="847.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="865.0" y1="382" x2="865.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="882.5" y1="382" x2="882.5" y2="410" stroke="#2E7D7B" stroke-width="2" />
+      <line x1="900.0" y1="382" x2="900.0" y2="410" stroke="#2E7D7B" stroke-width="2" />
+  </g>
+  <g id="series-coefficient-morph" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="430" data-pptx-width="896" data-pptx-height="104" data-pptx-bounds="64 430 896 104">
+    <metadata type="application/json">
+      {"latex":"c_n = \\frac{1}{T} \\int_{-T/2}^{T/2} f(t)\\, e^{-i 2\\pi n t / T}\\, dt",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="512" y="494" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">cₙ = (1/T) ∫₋T/₂ᵀ/² f(t) e⁻ⁱ²πⁿᵗ/ᵀ dt</text>
+  </g>
+  <g id="limit-reasoning" data-pptx-bounds="64 540 896 108" fill="#1B2027">
+    <text x="64" y="564">这条系数式就是「第 n 条频率占多少」:积分区间是<tspan font-weight="bold" fill="#123B63">一个周期</tspan>,</text>
+    <text x="64" y="600">前面还挂着 <tspan data-pptx-inline-formula="1/T">1/T</tspan>。T 变大,频率间隔 <tspan data-pptx-inline-formula="1/T">1/T</tspan> 变小,清单越排越密,<tspan x="64" dy="36">直到相邻两条挨在一起,离散的清单变成一条连续的谱。</tspan></text>
+  </g>
+  <g id="next-step-arrow" data-pptx-bounds="64 656 896 48">
+<g id="p06-next-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="64 664 120 40" data-pptx-av-adj1="val 55000" data-pptx-av-adj2="val 50000" fill="#C2452D" stroke="none">
+<path d="M 64 673 L 164 673 L 164 664 L 184 684 L 164 704 L 164 695 L 64 695 Z" />
+</g>
+    <text x="200" y="692" fill="#1B2027">下一页:把 T 推到无穷,求和号就换成积分号。</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 722 896 22" fill="#5A6472" font-size="16">
+    <text x="64" y="736">整理:周期趋于无穷时的极限过程,示意图非实测数据</text>
+    <text x="960" y="736" text-anchor="end">06</text>
+  </g>
+</svg>

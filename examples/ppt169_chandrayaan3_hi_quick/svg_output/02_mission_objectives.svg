@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">मिशन के तीन उद्देश्य</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="objectives" data-pptx-bounds="64 190 576 330">
+    <g id="p02-scope-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="64 190 28 330" fill="none" stroke="#8AB4E8" stroke-width="1.5">
+<path d="M 92 520 A 28 2.33 0 0 1 64 517.67 L 64 192.33 A 28 2.33 0 0 1 92 190 Z" stroke="none" />
+<path d="M 92 520 A 28 2.33 0 0 1 64 517.67 L 64 192.33 A 28 2.33 0 0 1 92 190" />
+</g>
+    <g id="objective-landing">
+      <use data-icon="tabler-outline/target" x="120" y="196" width="34" height="34" fill="#FF7A3D" stroke-width="2" />
+      <text x="176" y="224" font-size="28" fill="#E8F1FA">चंद्र सतह पर सुरक्षित और<tspan x="176" dy="38">सॉफ़्ट लैंडिंग का प्रदर्शन</tspan></text>
+    </g>
+    <g id="objective-roving">
+      <use data-icon="tabler-outline/map-pin" x="120" y="312" width="34" height="34" fill="#8AB4E8" stroke-width="2" />
+      <text x="176" y="340" font-size="28" fill="#E8F1FA">चंद्रमा पर रोवर के<tspan x="176" dy="38">भ्रमण का प्रदर्शन</tspan></text>
+    </g>
+    <g id="objective-science">
+      <use data-icon="tabler-outline/flask" x="120" y="428" width="34" height="34" fill="#8AB4E8" stroke-width="2" />
+      <text x="176" y="456" font-size="28" fill="#E8F1FA">यथास्थान (in-situ)<tspan x="176" dy="38">वैज्ञानिक प्रयोग</tspan></text>
+    </g>
+  </g>
+
+  <g id="stack-schematic" data-pptx-bounds="672 170 544 470">
+    <image href="../images/ch3_stack_iso.jpg" x="672" y="170" width="544" height="406" preserveAspectRatio="xMidYMid meet" />
+    <rect x="672" y="170" width="544" height="406" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="672" y="600" font-size="22" fill="#9FB6CC">योजनाबद्ध आरेख (संकलन): ऊपर प्रोपल्शन मॉड्यूल,<tspan x="672" dy="26">मध्य में लैंडर 'विक्रम', नीचे रोवर 'प्रज्ञान'</tspan></text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO, Chandrayaan-3 Details (isro.gov.in, 2023) — तथ्य F002, F015</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">02 / 13</text>
+  </g>
+</svg>

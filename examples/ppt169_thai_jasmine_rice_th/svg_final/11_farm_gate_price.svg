@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF" />
+  <path id="price-motif-panicle" data-pptx-role="decoration" d="M1216 196 C1190 236 1178 280 1184 332 M1210 228 C1192 234 1182 246 1179 262 M1202 270 C1186 276 1178 288 1176 302" fill="none" stroke="#F1E8D6" stroke-width="6" stroke-linecap="round" />
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 3 · จากนาสู่ตลาดโลก</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">ราคาที่ไร่นา มกราคม 2568</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1" />
+    <text x="64" y="186" font-size="30" fill="#26241F">กลิ่นหอมมีค่าประมาณ 5,823 บาทต่อตันข้าวเปลือกที่ปากนา</text>
+  </g>
+  <g id="price-white-paddy" data-pptx-bounds="64 248 460 224">
+    <rect x="64" y="250" width="460" height="4" fill="#DCD3C2" />
+    <text x="64" y="298" font-size="24" font-weight="bold" fill="#5F5A50">ข้าวเปลือกเจ้า</text>
+    <text x="64" y="394" font-size="88" font-weight="bold" fill="#5F5A50">9,180</text>
+    <text x="64" y="430" font-size="24" fill="#26241F">บาทต่อตัน</text>
+    <text x="64" y="464" font-size="24" fill="#5F5A50">269 ดอลลาร์สหรัฐต่อตัน</text>
+  </g>
+  <g id="price-gap" data-pptx-bounds="556 248 168 224">
+    <g id="p11-price-gap-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="556 326 168 76" fill="#C8952B" stroke="none">
+<path d="M 556 345 L 686 345 L 686 326 L 724 364 L 686 402 L 686 383 L 556 383 Z" />
+</g>
+    <text x="640" y="298" font-size="24" font-weight="bold" fill="#8C3B2E" text-anchor="middle">ส่วนต่าง</text>
+    <text x="640" y="430" font-size="30" font-weight="bold" fill="#8C3B2E" text-anchor="middle">+5,823</text>
+    <text x="640" y="464" font-size="24" fill="#8C3B2E" text-anchor="middle">ร้อยละ 63</text>
+  </g>
+  <g id="price-hom-mali-paddy" data-pptx-bounds="756 248 460 224">
+    <rect x="756" y="250" width="460" height="4" fill="#C8952B" />
+    <text x="756" y="298" font-size="24" font-weight="bold" fill="#2F5D3A">ข้าวเปลือกหอมมะลิ</text>
+    <text x="756" y="394" font-size="88" font-weight="bold" fill="#2F5D3A">15,003</text>
+    <text x="756" y="430" font-size="24" fill="#26241F">บาทต่อตัน</text>
+    <text x="756" y="464" font-size="24" fill="#5F5A50">440 ดอลลาร์สหรัฐต่อตัน</text>
+  </g>
+  <g id="scope-note" data-pptx-bounds="64 540 1152 76">
+    <rect x="64" y="540" width="6" height="68" fill="#8C3B2E" />
+    <text fill="#5F5A50" font-size="24" x="88" y="570">บรรทัดขอบเขต เป็นราคาข้าวเปลือกที่ไร่นาเฉลี่ยเดือนมกราคม 2568 ไม่ใช่ราคาข้าวสารส่งออก</text><text fill="#5F5A50" font-size="24" x="88" y="604">ส่วนต่างและร้อยละคำนวณจากการลบสองค่าในแหล่งเดียวกัน (เรียบเรียง)</text></g>
+  <g id="page-footer" data-pptx-bounds="64 670 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: Grain and Feed Annual, Thailand TH2025-0011, USDA Foreign Agricultural Service (มกราคม 2568)</text>
+    <text x="1216" y="688" text-anchor="end">11</text>
+  </g>
+</svg>

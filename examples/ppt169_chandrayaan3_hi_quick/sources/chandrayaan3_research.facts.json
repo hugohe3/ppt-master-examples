@@ -1,0 +1,198 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "चंद्रयान-3: चाँद के दक्षिणी ध्रुव तक",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "LVM3-M4 यान ने 14 जुलाई 2023 को 14:35 IST पर चंद्रयान-3 को कक्षा में स्थापित किया; प्रक्षेपण स्थल दूसरा लॉन्च पैड, SDSC-SHAR, श्रीहरिकोटा था।",
+      "source_title": "Chandrayaan-3 — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "चंद्रयान-3 के तीन उद्देश्य थे: चंद्र सतह पर सुरक्षित व सॉफ़्ट लैंडिंग का प्रदर्शन, चंद्रमा पर रोवर भ्रमण का प्रदर्शन, और यथास्थान वैज्ञानिक प्रयोग।",
+      "source_title": "Chandrayaan-3 Details — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "लैंडर मॉड्यूल का द्रव्यमान 1752 किग्रा था, जिसमें 26 किग्रा का रोवर शामिल था।",
+      "source_title": "Chandrayaan-3 Details — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "नियोजित मिशन-आयु एक चंद्र-दिवस, यानी लगभग 14 पृथ्वी-दिवस थी।",
+      "source_title": "Chandrayaan-3 Details — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "लक्षित लैंडिंग-क्षेत्र 4 किमी × 2.4 किमी का बॉक्स था, जिसका केंद्र 69.367621° दक्षिण, 32.348126° पूर्व है।",
+      "source_title": "Chandrayaan-3 Details — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "नियोजित टचडाउन मानदंड थे: ऊर्ध्व वेग 2 मीटर/सेकंड से कम, क्षैतिज वेग 0.5 मीटर/सेकंड से कम और ढलान 12 डिग्री से कम।",
+      "source_title": "Chandrayaan-3 Details — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "कक्षा-उन्नयन के बाद यान 15 जुलाई 2023 को 41762 किमी × 173 किमी, 17 जुलाई को 41603 किमी × 226 किमी और 22 जुलाई को 71351 किमी × 233 किमी की कक्षा में पहुँचा।",
+      "source_title": "Chandrayaan-3 — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "1 अगस्त 2023 को चंद्रयान-3 को ट्रांस-लूनर कक्षा में डाला गया; प्राप्त कक्षा 288 किमी × 369328 किमी थी।",
+      "source_title": "Chandrayaan-3 — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "5 अगस्त 2023 को चंद्रयान-3 चंद्र कक्षा में स्थापित हुआ; प्राप्त कक्षा 164 किमी × 18074 किमी थी।",
+      "source_title": "Chandrayaan-3 — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "23 अगस्त 2023 को चंद्रयान-3 ने चंद्रमा पर सफल सॉफ़्ट लैंडिंग की।",
+      "source_title": "Chandrayaan-3 — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "24 अगस्त 2023 को प्रज्ञान रोवर लैंडर से उतरकर चंद्र सतह पर आया।",
+      "source_title": "Chandrayaan-3 — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "LEOS/ISRO बेंगलूरु द्वारा विकसित LIBS ने 28 अगस्त 2023 को चंद्रमा के दक्षिणी ध्रुव क्षेत्र में गंधक (S) की असंदिग्ध यथास्थान पुष्टि की; साथ ही ऐलुमिनियम, कैल्शियम, लोहा, क्रोमियम, टाइटेनियम, मैंगनीज़, सिलिकॉन और ऑक्सीजन पाए गए, और हाइड्रोजन की खोज जारी रही।",
+      "source_title": "LIBS confirms the presence of Sulphur (S) on the lunar surface through unambiguous in-situ measurements",
+      "source_url": "https://www.isro.gov.in/LIBSResults.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "ChaSTE (Chandra's Surface Thermophysical Experiment) में 10 तापमान-संवेदक थे और यह सतह से 10 सेंटीमीटर गहराई तक पहुँच सकता था; पहली प्रेक्षण-रिपोर्ट 27 अगस्त 2023 को जारी हुई; इसे SPL/VSSC के नेतृत्व में PRL, अहमदाबाद के सहयोग से बनाया गया।",
+      "source_title": "The first observations from the ChaSTE payload onboard Vikram Lander",
+      "source_url": "https://www.isro.gov.in/Ch3_first_observation_ChaSTE_Vikram_Lander.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "लैंडर पर ILSA भूकंपीयता मापकर चंद्र भूपर्पटी और मैंटल की संरचना का आकलन करता है, RAMBHA-Langmuir Probe निकट-सतह प्लाज़्मा घनत्व मापता है, LRA निष्क्रिय रूप से चंद्र-गतिकी अध्ययन के लिए है, और रोवर पर APXS तत्व-संरचना निर्धारित करता है।",
+      "source_title": "Chandrayaan-3 Details — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "प्रोपल्शन मॉड्यूल पर SHAPE (Spectro-polarimetry of HAbitable Planet Earth) पेलोड था, जो वासयोग्य बहिर्ग्रहों की खोज से जुड़े संकेतकों का अध्ययन करता है।",
+      "source_title": "Chandrayaan-3 Details — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "4 सितंबर 2023 को लैंडर और रोवर को निद्रा-अवस्था (sleep mode) में रखा गया।",
+      "source_title": "Chandrayaan-3 — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "2 सितंबर 2023 के 'हॉप' प्रयोग में विक्रम लैंडर लगभग 50 सेंटीमीटर उठा; विश्लेषण से पता चला कि ऊपरी 2–6 सेमी परत अत्यधिक संसक्त और अति-सरंध्र है, घनत्व गहराई के साथ 750 से 1600 किग्रा/मी³ तक और संसक्ति 300 Pa से 6.5 सेमी पर 1600 Pa तक बढ़ती है, तथा इंजन-निकास ने लगभग 3 सेमी ढीली धूल हटा दी।",
+      "source_title": "Chandrayaan-3 \"Hop\" Experiment Reveals Hidden Lunar Secrets: Scientists Uncover Regolith Heterogeneity at Moon's South Pole",
+      "source_url": "https://www.isro.gov.in/Chandrayaan_3Hop_Experiment_Reveals.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "प्रोपल्शन मॉड्यूल की अपोल्यून 9 अक्तूबर 2023 को 150 किमी से 5112 किमी की गई (कक्षीय अवधि 2.1 घंटे से 7.2 घंटे), 13 अक्तूबर 2023 को ट्रांस-अर्थ इंजेक्शन हुआ, 100 किग्रा से अधिक प्रणोदक शेष था, और चार चंद्र फ़्लाई-बाई के बाद 10 नवंबर को यान चंद्रमा के प्रभाव-क्षेत्र से बाहर निकला।",
+      "source_title": "Returns to home Earth: Chandrayaan-3 Propulsion Module moved from Lunar orbit to Earth's orbit",
+      "source_url": "https://www.isro.gov.in/Ch3_Propulsion_Module_moved_from_Lunar_orbit_to_Earth_orbit.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "प्रज्ञान के नेविगेशन कैमरों और चंद्रयान-2 OHRC चित्रों के विश्लेषण से लैंडिंग-स्थल के नीचे लगभग 160 किमी व्यास और लगभग 4.4 किमी गहरा दबा हुआ क्रेटर मिला, जो दक्षिण ध्रुव-ऐटकेन (SPA) बेसिन से भी पुराना हो सकता है; SPA बेसिन ने स्थल पर लगभग 1400 मीटर और अन्य 11 बेसिनों ने लगभग 580 मीटर मलबा जमा किया।",
+      "source_title": "Discovery of a buried crater on the Moon! Chandrayaan-3 Vikram Lander and Pragyan Rover landed within it",
+      "source_url": "https://www.isro.gov.in/ch3_Discovery_of_a_buried_crater_on_the_moon.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "चंद्रयान-2 को 22 जुलाई 2019 को GSLV MkIII-M1 से प्रक्षेपित किया गया था; विक्रम लैंडर का अवतरण 2.1 किमी ऊँचाई तक सामान्य रहा, फिर संपर्क टूट गया, जबकि ऑर्बिटर आठ वैज्ञानिक उपकरणों और 0.3 मीटर विभेदन वाले कैमरे के साथ कार्यरत रहा।",
+      "source_title": "Chandrayaan2 — Indian Space Research Organisation",
+      "source_url": "https://www.isro.gov.in/Chandrayaan_2.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "26 अगस्त 2023 के PIB वक्तव्य में केंद्रीय राज्य मंत्री डॉ. जितेंद्र सिंह ने कहा कि असफल रूसी चंद्र मिशन की लागत ₹16,000 करोड़ थी, जबकि चंद्रयान-3 मिशन की लागत लगभग ₹600 करोड़ रही।",
+      "source_title": "\"Chandrayaan-3 has proved India's capability for cost-effective Space missions\" — Press Information Bureau",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1952448",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "प्रधानमंत्री के 26 अगस्त 2023 के ISRO सम्बोधन में चंद्रयान-3 के लैंडिंग बिंदु को 'शिव शक्ति', चंद्रयान-2 के संपर्क-बिंदु को 'तिरंगा' नाम दिया गया और 23 अगस्त को राष्ट्रीय अंतरिक्ष दिवस के रूप में मनाने की घोषणा हुई।",
+      "source_title": "English rendering of Prime Minister addressing Team ISRO on success of Chandrayaan-3 mission — Press Information Bureau",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1952376",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "भारत सरकार ने 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' घोषित किया; इस उपलब्धि से भारत चंद्रमा पर उतरने वाला चौथा देश और चंद्रमा के दक्षिणी ध्रुव के निकट उतरने वाला पहला देश बना।",
+      "source_title": "Government of India has declared August 23rd as \"National Space Day\" to celebrate the remarkable success of the Chandrayaan-3 Mission — Press Information Bureau",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2044457",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "18 सितंबर 2024 को केंद्रीय मंत्रिमंडल ने चंद्रयान-4 को मंज़ूरी दी: कुल निधि आवश्यकता ₹2104.06 करोड़, दो LVM3 प्रक्षेपण, स्वीकृति से 36 माह में पूर्णता की अपेक्षा; सरकार की दृष्टि में 2035 तक भारतीय अंतरिक्ष स्टेशन और 2040 तक चंद्रमा पर भारतीय अवतरण शामिल है।",
+      "source_title": "India goes to Moon again: Cabinet gave approval for CHANDRAYAAN-4 Mission — Press Information Bureau",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2055983",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    }
+  ]
+}

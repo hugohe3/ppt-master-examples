@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <marker id="arrowAlert" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#E2574C" />
+    </marker>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">2019 का सबक़: चंद्रयान-2</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="descent-axis-2019" data-pptx-bounds="64 176 440 356">
+    <text x="176" y="200" font-size="22" fill="#9FB6CC">अवतरण आरंभ · 2019</text>
+    <line x1="124" y1="190" x2="156" y2="190" stroke="#8AB4E8" stroke-width="2" />
+    <line x1="140" y1="190" x2="140" y2="330" stroke="#8AB4E8" stroke-width="2" />
+    <line x1="124" y1="330" x2="156" y2="330" stroke="#E2574C" stroke-width="2" />
+    <text x="176" y="322" font-size="28" fill="#E2574C">2.1 किमी ऊँचाई</text>
+    <text x="176" y="352" font-size="22" fill="#9FB6CC">संपर्क टूटा</text>
+    <line x1="140" y1="330" x2="140" y2="516" stroke="#E2574C" stroke-width="2" stroke-dasharray="8,6" marker-end="url(#arrowAlert)" />
+    <line x1="96" y1="520" x2="320" y2="520" stroke="#9FB6CC" stroke-width="1.5" />
+    <text x="176" y="504" font-size="22" fill="#9FB6CC">कठोर अवतरण</text>
+  </g>
+
+  <g id="outcome-contrast" data-pptx-bounds="520 190 696 284">
+    <g id="p03-card-lander" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="520 190 696 130" fill="#12263C" stroke="#2A4A6B" stroke-width="1.5">
+<path d="M 520 190 L 1194.33 190 L 1216 211.67 L 1216 320 L 520 320 Z" />
+</g>
+    <rect x="520" y="190" width="6" height="130" fill="#E2574C" />
+    <text x="552" y="232" font-size="34" font-weight="bold" fill="#E8F1FA">लैंडर 'विक्रम'</text>
+    <text x="1184" y="232" font-family="Consolas" font-size="20" text-anchor="end" fill="#9FB6CC">22-07-2019 · GSLV MkIII-M1</text>
+    <text fill="#E8F1FA" font-size="28" x="552" y="274">2.1 किमी तक अवतरण सामान्य रहा, फिर</text><text fill="#E8F1FA" font-size="28" x="552" y="308">संपर्क टूटा — कठोर अवतरण।</text><g id="p03-card-orbiter" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="520 344 696 130" fill="#12263C" stroke="#2A4A6B" stroke-width="1.5">
+<path d="M 520 344 L 1194.33 344 L 1216 365.67 L 1216 474 L 520 474 Z" />
+</g>
+    <rect x="520" y="344" width="6" height="130" fill="#8AB4E8" />
+    <text x="552" y="386" font-size="34" font-weight="bold" fill="#E8F1FA">ऑर्बिटर</text>
+    <text x="1184" y="386" font-family="Consolas" font-size="20" text-anchor="end" fill="#9FB6CC">0.3 m OHRC</text>
+    <text fill="#E8F1FA" font-size="28" x="552" y="428">आठ वैज्ञानिक उपकरणों के साथ ऑर्बिटर</text><text fill="#E8F1FA" font-size="28" x="552" y="462">कार्यरत रहा; कैमरा विभेदन 0.3 मीटर।</text></g>
+
+  <g id="lesson-band" data-pptx-bounds="64 556 1152 84">
+    <rect x="64" y="556" width="1152" height="84" fill="#FF7A3D" fill-opacity="0.08" />
+    <text x="96" y="606" font-size="34" fill="#E8F1FA">सबक़: अवतरण-मानदंड पहले से कड़े तय किए गए।</text>
+    <text x="1184" y="606" font-size="22" text-anchor="end" fill="#FF7A3D">संकलन</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO, Chandrayaan-2 (isro.gov.in, 2019) · PIB (2023) — तथ्य F020, F006, F022</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">03 / 13</text>
+  </g>
+</svg>

@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "trigger": "after-previous", "duration": 0.5, "stagger": 0.15 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.7 } ] },
+        "cover-hook": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "delay": 0.3, "duration": 0.6 } ] }
+      }
+    },
+    "02_roadmap": {
+      "groups": {
+        "part-1": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.45 } ] },
+        "part-2": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.4 } ] },
+        "part-3": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] },
+        "part-4": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] }
+      }
+    },
+    "03_origin_199_panicles": {
+      "groups": {
+        "stage-1-collect": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.45 } ] },
+        "stage-2-pureline": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.45 } ] },
+        "stage-3-trials": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.45 } ] },
+        "stage-4-named": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.45 } ] },
+        "name-part-4": { "effects": [ { "effect": "entrance_fade", "order": 5, "delay": 0.2, "duration": 0.4 } ] },
+        "name-part-2": { "effects": [ { "effect": "entrance_fade", "order": 6, "duration": 0.4 } ] },
+        "name-part-105": { "effects": [ { "effect": "entrance_zoom", "order": 7, "duration": 0.55 } ] },
+        "page-takeaway": { "effects": [ { "effect": "entrance_fade", "order": 8, "delay": 0.3, "duration": 0.5 } ] }
+      }
+    },
+    "04_certified_1959": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "03_origin_199_panicles",
+        "pairs": { "kdml-105-mark": { "from": "name-part-105", "to": "variety-seal" } }
+      },
+      "groups": {
+        "variety-traits": { "effects": [ { "effect": "entrance_fade", "order": 1, "delay": 0.3, "duration": 0.6 } ] },
+        "strength-band": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.45 } ] },
+        "caution-band": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.45 } ] }
+      }
+    },
+    "05_why_fragrant": {
+      "groups": {
+        "chain-step-1-gene": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.45 } ] },
+        "chain-step-2-enzyme": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.45 } ] },
+        "chain-step-3-accumulate": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.45 } ] },
+        "chain-step-4-aroma": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 4, "duration": 0.5 }, { "effect": "emphasis_grow_shrink", "order": 5, "delay": 0.2, "duration": 0.6 } ] },
+        "method-note": { "effects": [ { "effect": "entrance_fade", "order": 6, "delay": 0.3, "duration": 0.4 } ] }
+      }
+    },
+    "06_isan_and_thung_kula": {
+      "groups": {
+        "scope-country": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.45 } ] },
+        "scope-northeast": { "effects": [ { "effect": "entrance_zoom", "order": 2, "duration": 0.5 } ] },
+        "tkr-area-block": { "effects": [ { "effect": "entrance_zoom", "order": 3, "duration": 0.55 } ] }
+      }
+    },
+    "07_gi_two_layers": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "06_isan_and_thung_kula",
+        "pairs": { "tkr-gi-carrier": { "from": "tkr-area-block", "to": "tkr-gi-block" } }
+      },
+      "groups": {
+        "eu-pgi-block": { "effects": [ { "effect": "entrance_fade", "order": 1, "delay": 0.3, "duration": 0.45 } ] },
+        "tas-block": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.45 } ] },
+        "variety-gi-comparison": { "effects": [ { "effect": "entrance_fade", "order": 3, "delay": 0.2, "duration": 0.6 } ] }
+      }
+    },
+    "08_gi_value_premium": {
+      "groups": {
+        "metric-price-premium": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] },
+        "metric-yield-jump": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "metric-seed-cost": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5 } ] },
+        "scope-note": { "effects": [ { "effect": "entrance_fade", "order": 4, "delay": 0.3, "duration": 0.4 } ] }
+      }
+    },
+    "09_five_years_of_export": {
+      "groups": {
+        "thai-rice-export-by-variety": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.7 } ] },
+        "hom-mali-volume-mark": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "delay": 0.3, "duration": 0.6 } ] }
+      }
+    },
+    "10_who_buys_it": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "09_five_years_of_export",
+        "pairs": { "hom-mali-figure": { "from": "hom-mali-volume-mark", "to": "hom-mali-value-mark" } }
+      },
+      "groups": {
+        "hom-mali-market-share-2560": { "effects": [ { "effect": "entrance_wheel", "order": 1, "delay": 0.3, "duration": 0.8 } ] },
+        "top-markets-2567": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "scope-note": { "effects": [ { "effect": "entrance_fade", "order": 3, "delay": 0.3, "duration": 0.4 } ] }
+      }
+    },
+    "11_farm_gate_price": {
+      "groups": {
+        "price-white-paddy": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] },
+        "price-hom-mali-paddy": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "price-gap": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "delay": 0.2, "duration": 0.6 } ] },
+        "scope-note": { "effects": [ { "effect": "entrance_fade", "order": 4, "delay": 0.3, "duration": 0.4 } ] }
+      }
+    },
+    "12_production_outlook": {
+      "groups": {
+        "panel-production": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] },
+        "panel-exports": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "scope-note": { "effects": [ { "effect": "entrance_fade", "order": 3, "delay": 0.3, "duration": 0.4 } ] }
+      }
+    },
+    "13_worlds_best_rice": {
+      "groups": {
+        "award-2563-thailand": { "effects": [ { "effect": "entrance_zoom", "order": 1, "duration": 0.45 } ] },
+        "award-2564-thailand": { "effects": [ { "effect": "entrance_zoom", "order": 2, "duration": 0.45 } ] },
+        "award-2565-cambodia": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] },
+        "award-2566-vietnam": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] },
+        "award-2567-cambodia": { "effects": [ { "effect": "entrance_fade", "order": 5, "duration": 0.4 } ] },
+        "award-2568-vietnam-cambodia": { "effects": [ { "effect": "entrance_fade", "order": 6, "duration": 0.4 } ] },
+        "award-context-note": { "effects": [ { "effect": "entrance_fade", "order": 7, "delay": 0.4, "duration": 0.5 } ] }
+      }
+    },
+    "14_global_competitors": {
+      "groups": {
+        "global-aromatic-rice-comparison": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.7 } ] },
+        "note-vietnam-st25": { "effects": [ { "effect": "entrance_fade", "order": 2, "delay": 0.2, "duration": 0.4 } ] },
+        "note-india-basmati": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.4 } ] },
+        "comparison-limitation": { "effects": [ { "effect": "entrance_fade", "order": 4, "delay": 0.3, "duration": 0.4 } ] }
+      }
+    },
+    "15_what_must_be_kept": {
+      "groups": {
+        "takeaway-variety-fragility": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.5 } ] },
+        "takeaway-gi-value": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.5 } ] },
+        "takeaway-world-stage": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.5 } ] },
+        "closing-line": { "effects": [ { "effect": "entrance_fade", "order": 4, "delay": 0.5, "duration": 0.8 } ] }
+      }
+    }
+  }
+}

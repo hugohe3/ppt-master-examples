@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="formula-band" data-pptx-role="decoration" x="64" y="200" width="896" height="104" fill="#F2F4F7" />
+  <rect id="formula-band-bar" data-pptx-role="decoration" x="64" y="200" width="3" height="104" fill="#123B63" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 5 节 · 离散与快速</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">每个频点都要遍历所有样本</text>
+  </g>
+  <g id="dft-cost-formula" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="200" data-pptx-width="896" data-pptx-height="104" data-pptx-bounds="64 200 896 104">
+    <metadata type="application/json">
+      {"latex":"X_k = \\sum_{n=0}^{N-1} x_n\\, e^{-i 2\\pi k n / N}",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="512" y="264" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">Xₖ = ∑ₙ₌₀⋯ᴺ⁻¹ xₙ e⁻ⁱ²πᵏⁿ/ᴺ</text>
+  </g>
+  <g id="cost-figure" data-pptx-bounds="64 347 500 76">
+    <text x="64" y="400" font-family="SimSun, Cambria, serif" font-size="60" fill="#C2452D">N²</text>
+    <text font-size="18" fill="#5A6472" x="200" y="378">一个频点要走一遍全部样本</text><text font-size="18" fill="#5A6472" x="200" y="404">N 个频点,就是 N × N 次复数乘加</text></g>
+  <g id="cost-numbers" data-pptx-bounds="580 347 380 76">
+    <text font-size="18" fill="#1B2027" x="580" y="378">N = 1024 时约 1 048 576 次(整理)</text><text font-size="18" fill="#1B2027" x="580" y="404">实时音频每秒要做很多次这种变换</text></g>
+  <g id="cost-reading" data-pptx-bounds="64 450 896 144" fill="#1B2027">
+    <text x="64" y="474">代价直接写在求和号里:里层跑 n,外层跑 k,两层都到 N。</text>
+    <text x="64" y="510">所以朴素实现是 O(N²):样本翻一倍,时间变四倍。把 N 从 1024 抬到</text><text x="64" y="546">4096,代价就从百万级跳到千万级——长信号照这个写法根本算不动。</text><text x="64" y="582">注意:公式没有错,慢的不是数学,是<tspan font-weight="bold" fill="#C2452D">照定义硬算</tspan>这件事。</text>
+  </g>
+  <g id="cost-next" data-pptx-bounds="64 606 896 72">
+    <text fill="#1B2027" x="64" y="630">1965 年那篇论文没有改这条公式,它只是发现:</text><text fill="#1B2027" x="64" y="666">求和里有大量重复的旋转因子,可以只算一次。</text></g>
+  <g id="page-footer" data-pptx-bounds="64 722 896 22" fill="#5A6472" font-size="16">
+    <text x="64" y="736">来源:Cooley &amp; Tukey, Math. Comp. 19(90):297–301, 1965(F003);量级数字为整理所得</text>
+    <text x="960" y="736" text-anchor="end">12</text>
+  </g>
+</svg>

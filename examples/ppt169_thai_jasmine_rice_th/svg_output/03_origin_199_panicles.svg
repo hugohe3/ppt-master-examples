@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF"/>
+  <g id="page-header" data-pptx-bounds="64 64 1152 92">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 1 · พันธุ์และตัวตน</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">199 รวง จากอำเภอบางคล้า</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1"/>
+  </g>
+  <g id="stage-1-collect" data-pptx-bounds="64 194 282 176">
+    <g id="p03-stage-1-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 196 282 96" data-pptx-av-adj="val 32000" fill="#2F5D3A" stroke="none">
+<path d="M 64 196 L 315.28 196 L 346 244 L 315.28 292 L 64 292 L 94.72 244 Z"/>
+</g>
+    <text x="106" y="251" font-size="18" font-weight="bold" fill="#FBF7EF">รวบรวม 199 รวง</text>
+    <text x="72" y="330" font-size="18" fill="#26241F">อ.บางคล้า จ.ฉะเชิงเทรา<tspan x="72" dy="30">พ.ศ. 2493–2494</tspan></text>
+  </g>
+  <g id="stage-2-pureline" data-pptx-bounds="354 194 282 176">
+    <g id="p03-stage-2-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="354 196 282 96" data-pptx-av-adj="val 32000" fill="#2F5D3A" stroke="none">
+<path d="M 354 196 L 605.28 196 L 636 244 L 605.28 292 L 354 292 L 384.72 244 Z"/>
+</g>
+    <text x="396" y="251" font-size="18" font-weight="bold" fill="#FBF7EF">คัดพันธุ์บริสุทธิ์</text>
+    <text x="362" y="330" font-size="18" fill="#26241F">โดยนายสุนทร สีหะเนิน<tspan x="362" dy="30">เจ้าพนักงานข้าว</tspan></text>
+  </g>
+  <g id="stage-3-trials" data-pptx-bounds="644 194 282 176">
+    <g id="p03-stage-3-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="644 196 282 96" data-pptx-av-adj="val 32000" fill="#2F5D3A" stroke="none">
+<path d="M 644 196 L 895.28 196 L 926 244 L 895.28 292 L 644 292 L 674.72 244 Z"/>
+</g>
+    <text x="686" y="251" font-size="18" font-weight="bold" fill="#FBF7EF">ปลูกเปรียบเทียบพันธุ์</text>
+    <text x="652" y="330" font-size="18" fill="#26241F">สถานีทดลองข้าวโคกสำโรง<tspan x="652" dy="30">และพันธุ์ท้องถิ่นสามภาค</tspan></text>
+  </g>
+  <g id="stage-4-named" data-pptx-bounds="934 194 282 176">
+    <g id="p03-stage-4-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="934 196 282 96" data-pptx-av-adj="val 32000" fill="#C8952B" stroke="none">
+<path d="M 934 196 L 1185.28 196 L 1216 244 L 1185.28 292 L 934 292 L 964.72 244 Z"/>
+</g>
+    <text x="976" y="251" font-size="18" font-weight="bold" fill="#26241F">ได้สายพันธุ์ 4-2-105</text>
+    <text x="942" y="330" font-size="18" fill="#26241F">รวงที่ 105 จาก 199 รวง</text>
+  </g>
+  <g id="name-anatomy-header" data-pptx-bounds="64 380 1152 46">
+    <text x="64" y="408" font-size="30" fill="#26241F">ชื่อสายพันธุ์ ขาวดอกมะลิ 4-2-105 ถอดความหมายได้สามส่วน</text>
+  </g>
+  <g id="name-part-4" data-pptx-bounds="64 450 362 168">
+    <rect x="64" y="450" width="120" height="4" fill="#C8952B"/>
+    <text x="64" y="540" font-size="88" font-weight="bold" fill="#2F5D3A">4</text>
+    <text x="64" y="576" font-size="18" fill="#26241F">สถานที่เก็บรวงข้าว<tspan x="64" dy="30">อำเภอบางคล้า</tspan></text>
+  </g>
+  <g id="name-part-2" data-pptx-bounds="458 450 362 168">
+    <rect x="458" y="450" width="120" height="4" fill="#C8952B"/>
+    <text x="458" y="540" font-size="88" font-weight="bold" fill="#2F5D3A">2</text>
+    <text x="458" y="576" font-size="18" fill="#26241F">พันธุ์ทดสอบที่ 2<tspan x="458" dy="30">คือ ขาวดอกมะลิ</tspan></text>
+  </g>
+  <g id="name-part-105" data-pptx-bounds="852 450 364 168">
+    <rect x="852" y="450" width="120" height="4" fill="#8C3B2E"/>
+    <text x="852" y="540" font-size="88" font-weight="bold" fill="#8C3B2E">105</text>
+    <text x="852" y="576" font-size="18" fill="#26241F">รวงที่ 105<tspan x="852" dy="30">จากทั้งหมด 199 รวง</tspan></text>
+  </g>
+  <g id="page-takeaway" data-pptx-bounds="64 624 1152 44" fill="#2F5D3A">
+    <rect x="64" y="624" width="1152" height="44" fill-opacity="0.08"/>
+    <text x="88" y="654" font-size="30">ข้าวหอมมะลิที่เรากินคือรวงที่ 105 จากทั้งหมด 199 รวง</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 672 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: ชื่อพันธุ์ ขาวดอกมะลิ 105 สำนักงานปลัดกระทรวงเกษตรและสหกรณ์ · Rice Knowledge Bank กรมการข้าว</text>
+    <text x="1216" y="688" text-anchor="end">03</text>
+  </g>
+</svg>

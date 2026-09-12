@@ -1,0 +1,334 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "ข้าวหอมมะลิ: จากนาสู่โลก",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "ขาวดอกมะลิ 105 ได้มาโดยนายสุนทร สีหะเนิน เจ้าพนักงานข้าว รวบรวมจากอำเภอบางคล้า จังหวัดฉะเชิงเทรา เมื่อ พ.ศ. 2493-2494 จำนวน 199 รวง แล้วคัดเลือกแบบคัดพันธุ์บริสุทธิ์ และปลูกเปรียบเทียบพันธุ์ที่สถานีทดลองข้าวโคกสำโรง",
+      "source_title": "ชื่อพันธุ์ ขาวดอกมะลิ 105 (Khao Dawk Mali 105) ชนิด ข้าวเจ้าหอม — สำนักงานปลัดกระทรวงเกษตรและสหกรณ์",
+      "source_url": "https://www.opsmoac.go.th/surin-local_wisdom-files-422891791796",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "ชื่อสายพันธุ์ ขาวดอกมะลิ 4-2-105 มีความหมายว่า เลข 4 คือสถานที่เก็บรวงข้าว (อำเภอบางคล้า) เลข 2 คือพันธุ์ทดสอบที่ 2 (ขาวดอกมะลิ) และเลข 105 คือแถวหรือรวงที่ 105 จากจำนวน 199 รวง",
+      "source_title": "ชื่อพันธุ์ ขาวดอกมะลิ 105 (Khao Dawk Mali 105) ชนิด ข้าวเจ้าหอม — สำนักงานปลัดกระทรวงเกษตรและสหกรณ์",
+      "source_url": "https://www.opsmoac.go.th/surin-local_wisdom-files-422891791796",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "คณะกรรมการการพิจารณาพันธุ์ให้ใช้ขยายพันธุ์ขาวดอกมะลิ 105 เป็นพันธุ์รับรอง เมื่อวันที่ 25 พฤษภาคม 2502",
+      "source_title": "ขาวดอกมะลิ 105 (Khao Dawk Mali 105) — Rice Knowledge Bank, กรมการข้าว",
+      "source_url": "https://rkb.ricethailand.go.th/web/content_page.php?code=IG2V6DR5CBCR067OJHESNEJGFLSH1",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "ขาวดอกมะลิ 105 เป็นข้าวเจ้าไวต่อช่วงแสง สูงประมาณ 140 เซนติเมตร อายุเก็บเกี่ยวประมาณวันที่ 25 พฤศจิกายนของทุกปี",
+      "source_title": "ชื่อพันธุ์ ขาวดอกมะลิ 105 (Khao Dawk Mali 105) ชนิด ข้าวเจ้าหอม — สำนักงานปลัดกระทรวงเกษตรและสหกรณ์",
+      "source_url": "https://www.opsmoac.go.th/surin-local_wisdom-files-422891791796",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "เมล็ดข้าวกล้องขาวดอกมะลิ 105 มีขนาด ยาว x กว้าง x หนา = 7.5 x 2.1 x 1.8 มิลลิเมตร และเมล็ดข้าวเปลือก 10.6 x 2.5 x 1.9 มิลลิเมตร",
+      "source_title": "ชื่อพันธุ์ ขาวดอกมะลิ 105 (Khao Dawk Mali 105) ชนิด ข้าวเจ้าหอม — สำนักงานปลัดกระทรวงเกษตรและสหกรณ์",
+      "source_url": "https://www.opsmoac.go.th/surin-local_wisdom-files-422891791796",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "ขาวดอกมะลิ 105 มีปริมาณอมิโลส 12-17 เปอร์เซ็นต์ คุณภาพการหุงสุกอ่อนนุ่ม มีกลิ่นหอมคล้ายใบเตย",
+      "source_title": "ขาวดอกมะลิ 105 (Khao Dawk Mali 105) — Rice Knowledge Bank, กรมการข้าว",
+      "source_url": "https://rkb.ricethailand.go.th/web/content_page.php?code=IG2V6DR5CBCR067OJHESNEJGFLSH1",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "ขาวดอกมะลิ 105 ให้ผลผลิตประมาณ 363 กิโลกรัมต่อไร่",
+      "source_title": "ขาวดอกมะลิ 105 (Khao Dawk Mali 105) — Rice Knowledge Bank, กรมการข้าว",
+      "source_url": "https://rkb.ricethailand.go.th/web/content_page.php?code=IG2V6DR5CBCR067OJHESNEJGFLSH1",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "ลักษณะเด่นของขาวดอกมะลิ 105 คือทนแล้งได้ดี ทนต่อสภาพดินเปรี้ยวและดินเค็ม เมล็ดข้าวสารใส แกร่ง คุณภาพการสีดี",
+      "source_title": "ชื่อพันธุ์ ขาวดอกมะลิ 105 (Khao Dawk Mali 105) ชนิด ข้าวเจ้าหอม — สำนักงานปลัดกระทรวงเกษตรและสหกรณ์",
+      "source_url": "https://www.opsmoac.go.th/surin-local_wisdom-files-422891791796",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "ขาวดอกมะลิ 105 ไม่ต้านทานโรคใบสีส้ม โรคขอบใบแห้ง โรคไหม้ และโรคใบหงิก และไม่ต้านทานเพลี้ยกระโดดสีน้ำตาล เพลี้ยจักจั่นสีเขียว และหนอนกอ",
+      "source_title": "ขาวดอกมะลิ 105 (Khao Dawk Mali 105) — Rice Knowledge Bank, กรมการข้าว",
+      "source_url": "https://rkb.ricethailand.go.th/web/content_page.php?code=IG2V6DR5CBCR067OJHESNEJGFLSH1",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "พื้นที่แนะนำให้ปลูกขาวดอกมะลิ 105 คือภาคตะวันออกเฉียงเหนือและภาคเหนือตอนบน",
+      "source_title": "ขาวดอกมะลิ 105 (Khao Dawk Mali 105) — Rice Knowledge Bank, กรมการข้าว",
+      "source_url": "https://rkb.ricethailand.go.th/web/content_page.php?code=IG2V6DR5CBCR067OJHESNEJGFLSH1",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "พื้นที่ปลูกข้าวหอมมะลิในภาคตะวันออกเฉียงเหนือมี 22.1 ล้านไร่ คิดเป็นร้อยละ 85 ของพื้นที่ปลูกข้าวหอมมะลิทั้งประเทศ (ข้อมูลสำนักงานเศรษฐกิจการเกษตร ปี 2561)",
+      "source_title": "ด้านเศรษฐกิจ ข้าวหอมมะลิ — สำนักงานสถิติจังหวัดร้อยเอ็ด",
+      "source_url": "https://roiet.nso.go.th/images/roiet/2962ana.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "เขตทุ่งกุลาร้องไห้ที่คุ้มครอง GI มีพื้นที่รวม 2,107,690 ไร่ ใน 5 จังหวัด คือ ร้อยเอ็ด 986,807 ไร่ สุรินทร์ 575,993 ไร่ ศรีสะเกษ 287,000 ไร่ มหาสารคาม 193,890 ไร่ และยโสธร 64,000 ไร่",
+      "source_title": "ข้าวหอมมะลิทุ่งกุลาร้องไห้ — สำนักงานประชาสัมพันธ์จังหวัดร้อยเอ็ด",
+      "source_url": "https://roiet.prd.go.th/th/content/category/detail/id/235/iid/62559",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "พื้นที่ GI ทุ่งกุลาร้องไห้ 2,107,690 ไร่ เทียบเท่าประมาณ 337,230 เฮกตาร์",
+      "source_title": "Commission Implementing Regulation (EU) No 120/2013 — Khao Hom Mali Thung Kula Rong-Hai (PGI)",
+      "source_url": "https://www.legislation.gov.uk/eur/2013/120/data.xht?view=snippet&wrap=true",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "USDA FAS ประเมินเนื้อที่ปลูกข้าวนาปีของไทยปีการตลาด 2568/69 ที่ 8.94 ล้านเฮกตาร์ และข้าวนาปรัง 2.05 ล้านเฮกตาร์ ซึ่งเป็นระดับสูงสุดในรอบหลายปี",
+      "source_title": "Grain and Feed Annual, Thailand TH2025-0011 — USDA Foreign Agricultural Service",
+      "source_url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain+and+Feed+Annual_Bangkok_Thailand_TH2025-0011.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "ข้าวหอมมะลิทุ่งกุลาร้องไห้ได้รับการขึ้นทะเบียนสิ่งบ่งชี้ทางภูมิศาสตร์จากกรมทรัพย์สินทางปัญญาเมื่อวันที่ 24 ตุลาคม 2550",
+      "source_title": "ข้าวหอมมะลิทุ่งกุลาร้องไห้ — สำนักงานประชาสัมพันธ์จังหวัดร้อยเอ็ด",
+      "source_url": "https://roiet.prd.go.th/th/content/category/detail/id/235/iid/62559",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "ตารางส่งออกข้าวไทยแยกชนิด (หน่วยเมตริกตัน) ของกระทรวงพาณิชย์: ข้าวหอม 2,022,879 (2020) 1,984,470 (2021) 2,048,151 (2022) 1,677,164 (2023) 1,740,901 (2024) เพิ่มร้อยละ 3.8; ข้าวขาว 2,015,246 / 2,498,142 / 3,785,902 / 5,569,859 / 6,793,093; ข้าวนึ่ง 1,419,345 / 1,502,968 / 1,511,058 / 1,376,229 / 1,263,547; ข้าวเหนียว 276,568 / 311,101 / 350,226 / 139,975 / 147,782; รวม 5,734,038 / 6,296,681 / 7,695,325 / 8,763,227 / 9,945,323 เพิ่มร้อยละ 13.5",
+      "source_title": "Grain and Feed Annual, Thailand TH2025-0011, Table 1.3.1 Thai Rice Exports by Varieties (Source: Ministry of Commerce) — USDA Foreign Agricultural Service",
+      "source_url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain+and+Feed+Annual_Bangkok_Thailand_TH2025-0011.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "Khao Hom Mali Thung Kula Rong-Hai เป็นสินค้า GI รายการแรกของไทยที่ได้รับการคุ้มครองในสหภาพยุโรป",
+      "source_title": "Thai Hom Mali Rice from Thung Kula Rong-Hai – A World-Recognized GI — WIPO",
+      "source_url": "https://www.wipo.int/en/web/ip-advantage/w/stories/thai-hom-mali-rice-from-thung-kula-rong-hai-a-world-recognized-gi",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "การส่งออกข้าวไทยปี 2567 แยกตามชนิด: ข้าวขาว 5.99 ล้านตัน ข้าวหอมมะลิไทย 1.74 ล้านตัน ข้าวนึ่ง 1.27 ล้านตัน ข้าวหอมไทย 0.63 ล้านตัน ข้าวเหนียวขาว 0.30 ล้านตัน และข้าวกล้อง 0.02 ล้านตัน",
+      "source_title": "Thai Rice exports hit 6-year high in 2024 worth USD6.69B — กรมประชาสัมพันธ์ (PRD Thailand)",
+      "source_url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/360215",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "ลักษณะเฉพาะของข้าวหอมมะลิทุ่งกุลาร้องไห้ตามข้อกำหนด GI: ความยาวเมล็ดมากกว่า 7.0 มิลลิเมตร อัตราส่วนความยาวต่อความกว้างมากกว่า 3.2 และท้องไข่น้อยกว่าร้อยละ 6",
+      "source_title": "ข้าวหอมมะลิทุ่งกุลาร้องไห้ — สำนักงานประชาสัมพันธ์จังหวัดร้อยเอ็ด",
+      "source_url": "https://roiet.prd.go.th/th/content/category/detail/id/235/iid/62559",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "มาตรฐานสินค้าเกษตรของสำนักงานมาตรฐานสินค้าเกษตรและอาหารแห่งชาติกำหนดว่าข้าวหอมมะลิไทยต้องมีข้าวหอมมะลิไทยไม่น้อยกว่าร้อยละ 92",
+      "source_title": "Thai Agricultural Standard (TAS 4000) Thai Hom Mali Rice — FAOLEX / ECOLEX",
+      "source_url": "https://www.fao.org/faolex/results/details/en/c/LEX-FAOC166269/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "ข้าว GI ทุ่งกุลาร้องไห้ขายได้ราคาสูงกว่าข้าวธรรมดาประมาณร้อยละ 15 ถึง 20",
+      "source_title": "Thai Hom Mali Rice from Thung Kula Rong-Hai – A World-Recognized GI — WIPO",
+      "source_url": "https://www.wipo.int/en/web/ip-advantage/w/stories/thai-hom-mali-rice-from-thung-kula-rong-hai-a-world-recognized-gi",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "ในโครงการหมู่บ้านหยอดข้าวศรีแสงดาว จังหวัดร้อยเอ็ด การหยอดเมล็ดโดยตรงทำให้ผลผลิตเพิ่มจาก 320 เป็น 600 กิโลกรัมต่อไร่",
+      "source_title": "Thai Hom Mali Rice from Thung Kula Rong-Hai – A World-Recognized GI — WIPO",
+      "source_url": "https://www.wipo.int/en/web/ip-advantage/w/stories/thai-hom-mali-rice-from-thung-kula-rong-hai-a-world-recognized-gi",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "การหยอดเมล็ดโดยตรงลดต้นทุนเมล็ดพันธุ์ประมาณ 1,000 บาทต่อไร่ (ประมาณ 87 ดอลลาร์สหรัฐ)",
+      "source_title": "Thai Hom Mali Rice from Thung Kula Rong-Hai – A World-Recognized GI — WIPO",
+      "source_url": "https://www.wipo.int/en/web/ip-advantage/w/stories/thai-hom-mali-rice-from-thung-kula-rong-hai-a-world-recognized-gi",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "สารให้กลิ่นหอมหลักของข้าวหอมคือ 2-acetyl-1-pyrroline (2AP) ซึ่งสังเคราะห์ผ่านเมแทบอลิซึมของ L-proline โดยยีน badh2 (betaine aldehyde dehydrogenase) บนโครโมโซมที่ 8",
+      "source_title": "RNAi-directed downregulation of OsBADH2 results in aroma (2-acetyl-1-pyrroline) production in rice — BMC Plant Biology",
+      "source_url": "https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-8-100",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "พบการขาดหายของเบส 8 คู่ใน exon 7 ของยีน badh2 ซึ่งทำให้เอนไซม์ betaine aldehyde dehydrogenase ไม่ทำงาน พบเฉพาะในข้าวหอม และเป็นเหตุให้ 2AP สะสมในเมล็ด",
+      "source_title": "RNAi-directed downregulation of OsBADH2 results in aroma (2-acetyl-1-pyrroline) production in rice — BMC Plant Biology",
+      "source_url": "https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-8-100",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "งานวิจัยของ Mahatheeranont, Keawsa-Ard และ Dumri ใน Journal of Agricultural and Food Chemistry ปี 2001 (DOI 10.1021/jf000885y) วัดปริมาณ 2AP ในข้าวกล้องขาวดอกมะลิ 105 ที่ยังไม่หุง ด้วย capillary gas chromatography และตรวจพบ 2AP ได้จากสารสกัดข้าวกล้องเพียง 0.5 กรัม",
+      "source_title": "Quantification of the rice aroma compound, 2-acetyl-1-pyrroline, in uncooked Khao Dawk Mali 105 brown rice — PubMed 11262027",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/11262027/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "ปี 2567 ไทยส่งออกข้าว 9.95 ล้านตัน มูลค่า 225,656 ล้านบาท (6.69 พันล้านดอลลาร์สหรัฐ) เพิ่มขึ้นร้อยละ 13 จากปีก่อน เป็นระดับสูงสุดในรอบ 6 ปี",
+      "source_title": "Thai Rice exports hit 6-year high in 2024 worth USD6.69B — กรมประชาสัมพันธ์ (PRD Thailand)",
+      "source_url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/360215",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "ตลาดส่งออกข้าวไทย 5 อันดับแรกปี 2567: อินโดนีเซีย 1.33 ล้านตัน อิรัก 1 ล้านตัน สหรัฐอเมริกา 0.85 ล้านตัน แอฟริกาใต้ 0.83 ล้านตัน และฟิลิปปินส์ 0.62 ล้านตัน",
+      "source_title": "Thai Rice exports hit 6-year high in 2024 worth USD6.69B — กรมประชาสัมพันธ์ (PRD Thailand)",
+      "source_url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/360215",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "ข้อมูลกระทรวงพาณิชย์ปี 2560 ระบุมูลค่าส่งออกข้าวหอมมะลิ 42,000 ล้านบาท โดยสหรัฐอเมริกาคิดเป็นร้อยละ 28 จีนร้อยละ 15 ฮ่องกงร้อยละ 11 อิหร่านร้อยละ 6 และแคนาดาร้อยละ 5",
+      "source_title": "Rice forecast remains robust — Bangkok Post (17 February 2018), อ้างข้อมูลกระทรวงพาณิชย์ปี 2560",
+      "source_url": "https://www.pressreader.com/thailand/bangkok-post/20180217/281990377994639",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "ราคาข้าวเปลือกที่ไร่นาเดือนมกราคม 2568: ข้าวเปลือกเจ้า 9,180 บาทต่อตัน (269 ดอลลาร์สหรัฐต่อตัน) ข้าวเปลือกหอมมะลิ 15,003 บาทต่อตัน (440 ดอลลาร์สหรัฐต่อตัน)",
+      "source_title": "Grain and Feed Annual, Thailand TH2025-0011 — USDA Foreign Agricultural Service",
+      "source_url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain+and+Feed+Annual_Bangkok_Thailand_TH2025-0011.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "USDA FAS คาดการณ์ผลผลิตข้าวไทยปีการตลาด 2568/69 ที่ 20.7 ล้านตัน เพิ่มจาก 20.5 ล้านตันในปีการตลาด 2567/68 และคาดการณ์ส่งออก 7.6 ล้านตัน เท่ากับปีก่อน",
+      "source_title": "Grain and Feed Annual, Thailand TH2025-0011 — USDA Foreign Agricultural Service",
+      "source_url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Grain+and+Feed+Annual_Bangkok_Thailand_TH2025-0011.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "กรมการค้าต่างประเทศและสมาคมผู้ส่งออกข้าวไทยคาดการณ์การส่งออกข้าวปี 2568 ที่ 7.5 ล้านตัน",
+      "source_title": "Thai Rice exports hit 6-year high in 2024 worth USD6.69B — กรมประชาสัมพันธ์ (PRD Thailand)",
+      "source_url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/360215",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "ข้าวหอมมะลิไทยชนะรางวัล World's Best Rice ในปี 2020 และ 2021 ติดต่อกันสองปี การประกวดครั้งที่ 13 จัดที่ดูไบ สหรัฐอาหรับเอมิเรตส์ วันที่ 7-9 ธันวาคม 2021 มีข้าว 11 ชนิดจาก 6 ประเทศเข้าชิง (ไทย สหรัฐอเมริกา จีน อินเดีย เวียดนาม เมียนมา) และข้าวไทยเคยชนะรางวัลนี้มาแล้ว 7 ครั้ง",
+      "source_title": "Thai Hom Mali rice bags World's Best Rice Award for second consecutive year — The Nation Thailand",
+      "source_url": "https://www.nationthailand.com/in-focus/40009997",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "รางวัล World's Best Rice ปี 2022 เป็นของข้าวผกาลำดวน (Phka Rumduol) ของกัมพูชา",
+      "source_title": "Cambodian fragrant rice wins World's Best Rice award for sixth time — The Nation Thailand / ASEAN",
+      "source_url": "https://www.nationthailand.com/news/asean/40043085",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "รางวัล World's Best Rice ปี 2023 เป็นของข้าวเวียดนาม สายพันธุ์ Loc Troi 28 และ Nang Hoa 9 ตัดสินในงาน TRT International World Rice Conference ครั้งที่ 15 ที่เมืองเซบู ฟิลิปปินส์",
+      "source_title": "Loc Troi 28 and Nang Hoa 9 honoured as the World's Best Rice — Vietnam Investment Review",
+      "source_url": "https://vir.com.vn/loc-troi-28-and-nang-hoa-9-honoured-as-the-worlds-best-rice-107332.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "รางวัล World's Best Rice ปี 2024 เป็นของข้าวหอมกัมพูชา Malys Angkor ตัดสินที่กรุงมะนิลา ฟิลิปปินส์ วันที่ 7 พฤศจิกายน 2024 นับเป็นครั้งที่ 6 ของกัมพูชา",
+      "source_title": "Cambodian fragrant rice wins World's Best Rice award for sixth time — The Nation Thailand / ASEAN",
+      "source_url": "https://www.nationthailand.com/news/asean/40043085",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "รางวัล World's Best Rice ปี 2025 ข้าว ST25 ของเวียดนามได้รับร่วมกับข้าวผกาลำดวนของกัมพูชา ในการประชุมข้าวโลกครั้งที่ 17 ที่กรุงพนมเปญ เดือนพฤศจิกายน 2025 นับเป็นครั้งที่ 7 ของกัมพูชา",
+      "source_title": "Cambodia's Malys Angkor Rice Crowned World's Best for the Seventh Time — Cambodianess",
+      "source_url": "https://cambodianess.com/article/cambodias-malys-angkor-rice-crowned-worlds-best-for-the-seventh-time",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "ปีงบประมาณ 2567/68 (FY 2024-25) อินเดียส่งออกข้าวบาสมาติประมาณ 6.06 ล้านตัน มูลค่า 5.94 พันล้านดอลลาร์สหรัฐ ซึ่งเป็นสถิติสูงสุดด้านปริมาณ ขณะที่มูลค่าส่งออกข้าวทั้งหมดของอินเดียอยู่ที่ 12.47 พันล้านดอลลาร์สหรัฐ",
+      "source_title": "Basmati Rice — Agricultural and Processed Food Products Export Development Authority (APEDA), India",
+      "source_url": "https://apeda.gov.in/BasmatiRice",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "ข้าว ST25 พัฒนาโดยนายโฮ กวาง กัว (Ho Quang Cua) ในจังหวัดซอกจัง สามเหลี่ยมปากแม่น้ำโขง ชื่อ ST25 มาจาก Soc Trang สายที่ 25 และชนะรางวัล World's Best Rice ครั้งแรกในปี 2019 ที่ฟิลิปปินส์ เป็นข้าวเวียดนามพันธุ์แรกที่ได้รางวัลนี้",
+      "source_title": "ST25: The Rice Variety That Turned Saline Fields Into Opportunity in Viet Nam's Mekong Delta — UPOV",
+      "source_url": "https://www.upov.int/en/w/stories/st25-the-rice-variety-that-turned-saline-fields-into-opportunity-in-viet-nam-s-mekong-delta",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "คณะกรรมาธิการยุโรปออกระเบียบ Commission Implementing Regulation (EU) No 120/2013 ลงวันที่ 11 กุมภาพันธ์ 2013 ขึ้นทะเบียนชื่อ Khao Hom Mali Thung Kula Rong-Hai เป็น Protected Geographical Indication (PGI) ในหมวด Class 1.6 ผลไม้ ผัก และธัญพืช สดหรือแปรรูป ประเทศราชอาณาจักรไทย",
+      "source_title": "Commission Implementing Regulation (EU) No 120/2013 — Khao Hom Mali Thung Kula Rong-Hai (PGI)",
+      "source_url": "https://www.legislation.gov.uk/eur/2013/120/data.xht?view=snippet&wrap=true",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "ข้อกำหนดสินค้า PGI Khao Hom Mali Thung Kula Rong-Hai ครอบคลุมข้าวสองพันธุ์ที่ไวต่อช่วงแสง คือ ขาวดอกมะลิ 105 (KDML 105) และ กข 15 (RD 15) ปลูกในฤดูฝนในเขตทุ่งกุลาร้องไห้",
+      "source_title": "Commission Implementing Regulation (EU) No 120/2013 — Khao Hom Mali Thung Kula Rong-Hai (PGI)",
+      "source_url": "https://www.legislation.gov.uk/eur/2013/120/data.xht?view=snippet&wrap=true",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    }
+  ]
+}

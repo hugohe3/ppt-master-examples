@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF" />
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 4 · ความท้าทายและสิ่งที่ต้องรักษา</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">สามข้าวหอมบนเกณฑ์เดียวกัน</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1" />
+    <text x="64" y="186" font-size="30" fill="#26241F">ข้าวหอมมะลิไทยไม่ใช่ข้าวหอมที่ส่งออกมากที่สุด</text>
+  </g>
+  <g id="global-aromatic-rice-comparison" data-pptx-replace-with="table" data-pptx-bounds="64 210 1152 274" data-pptx-fallback-sha256="729bd874083c391874dda5705797337262933460d14770833a9208a8581b0791">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "name": "global-aromatic-rice-comparison",
+        "x": 64, "y": 210, "width": 1152, "height": 274,
+        "column_widths": [260, 300, 300, 292],
+        "row_heights": [44, 46, 46, 46, 46, 46],
+        "header_rows": 1,
+        "style": {
+          "font_family": "Tahoma", "font_size": 18, "header_font_size": 18,
+          "band_row": false, "valign": "middle", "padding": 16,
+          "header_fill": "#2F5D3A", "header_text": "#FBF7EF", "body_text": "#26241F",
+          "border_color": "#DCD3C2", "border_width": 1
+        },
+        "defaults": {
+          "cell": {
+            "borders": {
+              "left": {"style": "none"}, "right": {"style": "none"},
+              "top": {"style": "solid", "color": "#DCD3C2", "width": 1},
+              "bottom": {"style": "solid", "color": "#DCD3C2", "width": 1}
+            }
+          }
+        },
+        "columns": [
+          {"text": "เกณฑ์เทียบ", "align": "l", "bold": true},
+          {"text": "ข้าวหอมมะลิไทย", "align": "l", "bold": true},
+          {"text": "บาสมาติ อินเดีย", "align": "l", "bold": true},
+          {"text": "ST25 เวียดนาม", "align": "l", "bold": true}
+        ],
+        "rows": [
+          [{"text": "แหล่งกำเนิดและพันธุ์", "bold": true}, "ขาวดอกมะลิ 105 (2502)", "บาสมาติ อินเดีย", "ST25 จ.ซอกจัง (2562)"],
+          [{"text": "ปริมาณส่งออกล่าสุด", "bold": true}, "1,740,901 ตัน ปี 2567", "6.06 ล้านตัน ปีงบฯ 2567/68", "ไม่มีตัวเลขแยกเผยแพร่"],
+          [{"text": "มูลค่าส่งออกที่อ้างอิงได้", "bold": true}, "ข้าวทุกชนิด 225,656 ล้านบาท", "บาสมาติ 5.94 พันล้าน USD", "ไม่อยู่ในชุดข้อมูลนี้"],
+          [{"text": "ที่มาของกลิ่น", "bold": true}, "2AP · ยีน badh2", "ไม่อยู่ในชุดข้อมูลนี้", "ผสมพันธุ์หอมใต้กับเหนือ"],
+          [{"text": "รางวัลข้าวที่ดีที่สุดในโลก", "bold": true}, "2563 และ 2564 (รวม 7 ครั้ง)", "ไม่อยู่ในชุดข้อมูลนี้", "2562 · 2566 · ร่วมปี 2568"]
+        ]
+      }
+    </metadata>
+    <rect x="64" y="210" width="1152" height="44" fill="#2F5D3A" />
+    <g id="global-comparison-header" font-family="Tahoma, sans-serif" font-size="18" font-weight="bold" fill="#FBF7EF">
+      <text x="80" y="239">เกณฑ์เทียบ</text>
+      <text x="340" y="239">ข้าวหอมมะลิไทย</text>
+      <text x="640" y="239">บาสมาติ อินเดีย</text>
+      <text x="940" y="239">ST25 เวียดนาม</text>
+    </g>
+    <g id="global-comparison-body" font-family="Tahoma, sans-serif" font-size="18" fill="#26241F">
+      <line x1="64" y1="254" x2="1216" y2="254" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="283" font-weight="bold">แหล่งกำเนิดและพันธุ์</text>
+      <text x="340" y="283">ขาวดอกมะลิ 105 (2502)</text>
+      <text x="640" y="283">บาสมาติ อินเดีย</text>
+      <text x="940" y="283">ST25 จ.ซอกจัง (2562)</text>
+      <line x1="64" y1="300" x2="1216" y2="300" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="329" font-weight="bold">ปริมาณส่งออกล่าสุด</text>
+      <text x="340" y="329">1,740,901 ตัน ปี 2567</text>
+      <text x="640" y="329">6.06 ล้านตัน ปีงบฯ 2567/68</text>
+      <text x="940" y="329">ไม่มีตัวเลขแยกเผยแพร่</text>
+      <line x1="64" y1="346" x2="1216" y2="346" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="375" font-weight="bold">มูลค่าส่งออกที่อ้างอิงได้</text>
+      <text x="340" y="375">ข้าวทุกชนิด 225,656 ล้านบาท</text>
+      <text x="640" y="375">บาสมาติ 5.94 พันล้าน USD</text>
+      <text x="940" y="375">ไม่อยู่ในชุดข้อมูลนี้</text>
+      <line x1="64" y1="392" x2="1216" y2="392" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="421" font-weight="bold">ที่มาของกลิ่น</text>
+      <text x="340" y="421">2AP · ยีน badh2</text>
+      <text x="640" y="421">ไม่อยู่ในชุดข้อมูลนี้</text>
+      <text x="940" y="421">ผสมพันธุ์หอมใต้กับเหนือ</text>
+      <line x1="64" y1="438" x2="1216" y2="438" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="467" font-weight="bold">รางวัลข้าวที่ดีที่สุดในโลก</text>
+      <text x="340" y="467">2563 และ 2564 (รวม 7 ครั้ง)</text>
+      <text x="640" y="467">ไม่อยู่ในชุดข้อมูลนี้</text>
+      <text x="940" y="467">2562 · 2566 · ร่วมปี 2568</text>
+      <line x1="64" y1="484" x2="1216" y2="484" stroke="#DCD3C2" stroke-width="1" />
+    </g>
+  </g>
+  <g id="note-vietnam-st25" data-pptx-bounds="64 504 560 96">
+    <rect x="64" y="504" width="6" height="96" fill="#8C3B2E" />
+    <text fill="#5F5A50" font-size="18" x="88" y="530">ST25 พัฒนาโดยนายโฮ กวาง กัว ในจังหวัดซอกจัง</text><text fill="#5F5A50" font-size="18" x="88" y="558">สามเหลี่ยมปากแม่น้ำโขง ชื่อมาจาก Soc Trang สายที่ 25</text><text fill="#5F5A50" font-size="18" x="88" y="586">เป็นข้าวเวียดนามพันธุ์แรกที่ได้รางวัลนี้ในปี 2562</text></g>
+  <g id="note-india-basmati" data-pptx-bounds="656 504 560 96">
+    <rect x="656" y="504" width="6" height="96" fill="#8C3B2E" />
+    <text fill="#5F5A50" font-size="18" x="680" y="530">อินเดียส่งออกบาสมาติปีงบประมาณ 2567/68 ประมาณ</text><text fill="#5F5A50" font-size="18" x="680" y="558">6.06 ล้านตัน เป็นสถิติสูงสุดด้านปริมาณ</text><text fill="#5F5A50" font-size="18" x="680" y="586">มูลค่าส่งออกข้าวทั้งหมดของอินเดีย 12.47 พันล้านดอลลาร์</text></g>
+  <g id="comparison-limitation" data-pptx-bounds="64 612 1152 56">
+    <rect x="64" y="612" width="1152" height="56" fill="#F57C00" fill-opacity="0.10" />
+    <text fill="#26241F" font-size="18" x="88" y="636">ข้อจำกัดของการเทียบ ตัวเลขไทยเป็นปีปฏิทิน ตัวเลขอินเดียเป็นปีงบประมาณเมษายนถึงมีนาคม</text><text fill="#26241F" font-size="18" x="88" y="662">เทียบได้เพียงเชิงลำดับขนาด (เรียบเรียงโดยผู้บรรยาย)</text></g>
+  <g id="page-footer" data-pptx-bounds="64 676 1152 24" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="692">ที่มา: USDA FAS TH2025-0011 · กรมประชาสัมพันธ์ · APEDA อินเดีย · UPOV (ST25) · The Nation Thailand</text>
+    <text x="1216" y="692" text-anchor="end">14</text>
+  </g>
+</svg>

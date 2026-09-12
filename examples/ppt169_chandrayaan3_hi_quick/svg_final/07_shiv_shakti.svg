@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <radialGradient id="vignette" cx="0.28" cy="0.5" r="0.8">
+      <stop offset="45%" stop-color="#0B1A2B" stop-opacity="0" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.5" />
+    </radialGradient>
+    <filter id="accentGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="b" />
+      <feFlood flood-color="#FF7A3D" flood-opacity="0.5" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+  <rect id="vignette-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#vignette)" />
+
+  <g id="kicker" data-pptx-bounds="64 96 1152 34">
+    <text x="64" y="118" font-size="22" letter-spacing="2" fill="#FF7A3D">26 अगस्त 2023 · प्रधानमंत्री की घोषणा</text>
+  </g>
+
+  <g id="landing-point" data-pptx-bounds="184 264 212 212">
+    <line x1="200" y1="370" x2="380" y2="370" stroke="#FF7A3D" stroke-width="2" />
+    <line x1="290" y1="280" x2="290" y2="460" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="290" cy="370" r="46" fill="none" stroke="#FF7A3D" stroke-width="2.5" filter="url(#accentGlow)" />
+    <circle cx="290" cy="370" r="9" fill="#FF7A3D" />
+  </g>
+
+  <g id="statement" data-pptx-bounds="460 236 756 288">
+    <text x="460" y="300" font-size="64" font-weight="bold" fill="#E8F1FA">'शिव शक्ति'</text>
+    <text fill="#8AB4E8" font-size="34" x="460" y="356">चंद्रयान-3 के अवतरण बिंदु का नाम</text><text fill="#9FB6CC" font-size="34" x="460" y="398">चंद्रयान-2 के बिंदु का नाम 'तिरंगा'</text><text fill="#E8F1FA" font-size="28" x="460" y="460">भारत चाँद पर उतरने वाला चौथा देश और</text><text fill="#E8F1FA" font-size="28" x="460" y="498">दक्षिणी ध्रुव के निकट पहला देश बना।</text></g>
+
+  <g id="space-day" data-pptx-bounds="64 560 1152 100">
+    <rect x="64" y="560" width="1152" height="100" fill="#FF7A3D" fill-opacity="0.08" />
+    <g id="p07-day-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star4" data-pptx-frame="104 588 44 44" fill="#FF7A3D" stroke="none">
+<path d="M 104 610 L 122.11 606.11 L 126 588 L 129.89 606.11 L 148 610 L 129.89 613.89 L 126 632 L 122.11 613.89 Z" />
+</g>
+    <text x="176" y="624" font-size="34" fill="#E8F1FA">23 अगस्त · राष्ट्रीय अंतरिक्ष दिवस</text>
+    <text x="1184" y="624" font-size="22" text-anchor="end" fill="#9FB6CC">भारत सरकार की घोषणा</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: PIB — PM का ISRO सम्बोधन (2023) · राष्ट्रीय अंतरिक्ष दिवस विज्ञप्ति (2024) — तथ्य F022, F023</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">07 / 13</text>
+  </g>
+</svg>

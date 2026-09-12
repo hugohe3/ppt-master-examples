@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="cover" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <defs>
+    <linearGradient id="bandFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="62%" stop-color="#FFFFFF" stop-opacity="0.88" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <g id="cover-kicker" data-pptx-bounds="64 58 480 40">
+    <rect x="64" y="60" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="90" font-size="18" fill="#5A6472">公开课 · 45 分钟 · 面向大一新生与工程师</text>
+  </g>
+  <g id="cover-title" data-pptx-bounds="64 112 896 154">
+    <text x="64" y="168" font-family="SimSun, Cambria, serif" font-size="60" fill="#123B63">傅里叶变换<tspan x="64" dy="72">把信号拆成频率</tspan></text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="64 278 520 48">
+    <text x="64" y="310" font-family="SimSun, Cambria, serif" font-size="32" fill="#1B2027">一个和弦里有几个正弦波?</text>
+  </g>
+  <g id="cover-visual" data-pptx-bounds="0 334 1024 434">
+    <image href="../images/cover_wave_band.jpg" x="0" y="334" width="1024" height="434" preserveAspectRatio="xMidYMid meet" />
+    <rect x="0" y="334" width="1024" height="112" fill="url(#bandFade)" />
+    <text x="64" y="382" fill="#1B2027">一节课读懂级数、变换、FFT 与它们的公式</text>
+    <text x="64" y="414" font-size="18" fill="#5A6472">页面上的每一条公式都是 PowerPoint 原生可编辑公式,不是图片</text>
+  </g>
+</svg>

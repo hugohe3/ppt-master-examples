@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" data-pptx-page-role="content" font-family="Microsoft YaHei, Cambria, sans-serif" font-size="24">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1024" height="768" fill="#FFFFFF" />
+  <line id="title-rule" data-pptx-role="decoration" x1="64" y1="180" x2="960" y2="180" stroke="#D6DBE1" stroke-width="1" />
+  <rect id="formula-band" data-pptx-role="decoration" x="64" y="200" width="896" height="110" fill="#F2F4F7" />
+  <rect id="formula-band-bar" data-pptx-role="decoration" x="64" y="200" width="3" height="110" fill="#123B63" />
+  <g id="section-kicker" data-pptx-bounds="64 56 480 40">
+    <rect x="64" y="58" width="28" height="3" fill="#C2452D" />
+    <text x="64" y="88" font-size="18" fill="#5A6472">第 4 节 · 三条性质</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="64 106 896 60">
+    <text x="64" y="146" font-family="SimSun, Cambria, serif" font-size="42" fill="#123B63">时域卷积,频域相乘</text>
+  </g>
+  <g id="convolution-formula" data-pptx-replace-with="formula" data-pptx-x="64" data-pptx-y="200" data-pptx-width="896" data-pptx-height="110" data-pptx-bounds="64 200 896 110">
+    <metadata type="application/json">
+      {"latex":"(f * g)(t) = \\int_{-\\infty}^{\\infty} f(t-s)\\, g(s)\\, ds \\leftrightarrow F(\\omega)\\, G(\\omega)",
+       "display":"block","font_size":28,"color":"#123B63","align":"center"}
+    </metadata>
+    <text x="512" y="266" text-anchor="middle" font-family="Cambria Math, serif" font-size="28" fill="#123B63">(f ∗ g)(t) = ∫₋∞⁺∞ f(t−s) g(s) ds ↔ F(ω) G(ω)</text>
+  </g>
+  <g id="convolution-steps" data-pptx-bounds="64 336 896 78">
+<g id="p10-step-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="64 340 280 70" fill="#123B63" stroke="none">
+<path d="M 64 340 L 309 340 L 344 375 L 309 410 L 64 410 L 99 375 Z" />
+</g>
+<g id="p10-step-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="314 340 280 70" fill="#2E7D7B" stroke="none">
+<path d="M 314 340 L 559 340 L 594 375 L 559 410 L 314 410 L 349 375 Z" />
+</g>
+<g id="p10-step-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="564 340 280 70" fill="#C2452D" stroke="none">
+<path d="M 564 340 L 809 340 L 844 375 L 809 410 L 564 410 L 599 375 Z" />
+</g>
+    <text x="205" y="384" fill="#FFFFFF" text-anchor="middle">① 变到频域</text>
+    <text x="455" y="384" fill="#FFFFFF" text-anchor="middle">② 乘一条曲线</text>
+    <text x="705" y="384" fill="#FFFFFF" text-anchor="middle">③ 变回时域</text>
+  </g>
+  <g id="convolution-reading" data-pptx-bounds="64 430 896 146" fill="#1B2027">
+    <text x="64" y="454">定理说:时域里那个麻烦的<tspan font-weight="bold" fill="#123B63">卷积</tspan>,到频域只是逐点相乘。</text>
+    <text x="64" y="490">于是滤波不用在时域一格一格地卷:变过去,乘一条传递函数 <tspan data-pptx-inline-formula="G(\omega)">G(ω)</tspan>,<tspan x="64" dy="36">再变回来。三步之中只有中间那步是「设计」,两头都是机械操作。</tspan></text>
+    <text x="64" y="562">前提是两个函数都绝对可积——课堂上的信号一般都满足。</text>
+  </g>
+  <g id="equalizer-note" data-pptx-bounds="64 590 896 104">
+    <use data-icon="tabler-outline/music" x="64" y="594" width="22" height="22" fill="#C2452D" stroke-width="2" />
+    <text x="94" y="611" font-size="18" fill="#5A6472">你每天都在用它</text>
+    <text x="64" y="650" fill="#1B2027">均衡器那几个推子就是 <tspan data-pptx-inline-formula="G(\omega)">G(ω)</tspan> 的形状:低频推高一点、齿音压低一点,<tspan x="64" dy="36">再变回时域——「调音色」和「乘一条曲线」是同一件事。</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 722 896 22" fill="#5A6472" font-size="16">
+    <text x="64" y="736">来源:NIST Digital Library of Mathematical Functions §1.14 卷积定理(F010)</text>
+    <text x="960" y="736" text-anchor="end">10</text>
+  </g>
+</svg>

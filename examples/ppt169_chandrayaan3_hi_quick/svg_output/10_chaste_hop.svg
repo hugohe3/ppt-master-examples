@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">ChaSTE और 'हॉप' प्रयोग</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="regolith-figure" data-pptx-bounds="64 170 556 456">
+    <image href="../images/regolith_section.jpg" x="64" y="170" width="556" height="415" preserveAspectRatio="xMidYMid meet" />
+    <rect x="64" y="170" width="556" height="415" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <g id="p10-layer-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRectCallout" data-pptx-frame="88 190 300 100" fill="#0B1A2B" stroke="#FF7A3D" fill-opacity="0.88" stroke-width="1.5">
+<path d="M 88 190 L 138 190 L 138 190 L 213 190 L 388 190 L 388 248.33 L 388 248.33 L 388 273.33 L 388 290 L 213 290 L 175.5 302.5 L 138 290 L 88 290 L 88 273.33 L 88 248.33 L 88 248.33 Z" />
+</g>
+    <text x="112" y="232" font-size="22" fill="#FF7A3D">ऊपरी 2–6 सेमी परत<tspan x="112" dy="26" fill="#E8F1FA">अति-सरंध्र और संसक्त</tspan></text>
+    <text x="64" y="613" font-size="22" fill="#9FB6CC">योजनाबद्ध परिच्छेद (संकलन); गहराई-पैमाना सेमी में</text>
+  </g>
+
+  <g id="chaste-facts" data-pptx-bounds="660 170 556 232">
+    <text x="660" y="204" font-size="34" font-weight="bold" fill="#8AB4E8">ChaSTE</text>
+    <circle cx="668" cy="246" r="5" fill="#FF7A3D" />
+    <text x="692" y="254" font-size="28" fill="#E8F1FA">10 तापमान-संवेदक,<tspan x="692" dy="38">सतह से 10 सेमी गहराई तक</tspan></text>
+    <circle cx="668" cy="332" r="5" fill="#8AB4E8" />
+    <text x="692" y="340" font-size="28" fill="#E8F1FA">पहली रिपोर्ट: 27 अगस्त 2023</text>
+    <circle cx="668" cy="380" r="5" fill="#8AB4E8" />
+    <text x="692" y="388" font-size="28" fill="#E8F1FA">विकास: SPL/VSSC + PRL</text>
+  </g>
+
+  <g id="hop-facts" data-pptx-bounds="660 410 556 216">
+    <text x="660" y="444" font-size="34" font-weight="bold" fill="#8AB4E8">'हॉप' प्रयोग</text>
+    <text x="1216" y="444" font-family="Consolas" font-size="20" text-anchor="end" fill="#9FB6CC">02-09-2023</text>
+    <circle cx="668" cy="486" r="5" fill="#FF7A3D" />
+    <text x="692" y="494" font-size="28" fill="#E8F1FA">लगभग 50 सेमी की छलांग</text>
+    <circle cx="668" cy="524" r="5" fill="#8AB4E8" />
+    <text x="692" y="532" font-size="28" fill="#E8F1FA">घनत्व 750 → 1600 किग्रा/मी³</text>
+    <circle cx="668" cy="562" r="5" fill="#8AB4E8" />
+    <text x="692" y="570" font-size="28" fill="#E8F1FA">संसक्ति 300 → 1600 Pa (6.5 सेमी)</text>
+    <circle cx="668" cy="600" r="5" fill="#8AB4E8" />
+    <text x="692" y="608" font-size="28" fill="#E8F1FA">इंजन-निकास से ~3 सेमी धूल हटी</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO — ChaSTE पहला प्रेक्षण (2023) · Hop Experiment / ApJ (2026) — तथ्य F013, F017</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">10 / 13</text>
+  </g>
+</svg>

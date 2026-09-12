@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF" />
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 2 · แผ่นดินที่ให้กลิ่นหอม</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">การรับรองสองชั้น พันธุ์และพื้นที่</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1" />
+    <text x="64" y="186" font-size="30" fill="#26241F">ตรา GI ไม่รับรองพันธุ์ แต่รับรองว่าพันธุ์ที่กำหนดปลูกในพื้นที่ที่กำหนด</text>
+  </g>
+  <g id="tkr-gi-block" data-pptx-bounds="64 198 360 100">
+    <rect x="64" y="200" width="360" height="96" fill="#2F5D3A" />
+    
+  <g transform="translate(88, 216) scale(1.5)" fill="#C8952B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16L4.35009 13.3929C2.24773 11.8912 1 9.46667 1 6.88306V3L8 0L15 3V6.88306C15 9.46667 13.7523 11.8912 11.6499 13.3929L8 16ZM12.2071 5.70711L10.7929 4.29289L7 8.08579L5.20711 6.29289L3.79289 7.70711L7 10.9142L12.2071 5.70711Z" />
+  </g>
+    <text x="124" y="236" font-size="30" font-weight="bold" fill="#FBF7EF">24 ตุลาคม 2550</text>
+    <text fill="#F1E8D6" font-size="18" x="88" y="262">ขึ้นทะเบียน GI ในประเทศ</text><text fill="#F1E8D6" font-size="18" x="88" y="286">โดยกรมทรัพย์สินทางปัญญา</text></g>
+  <g id="eu-pgi-block" data-pptx-bounds="460 198 360 100">
+    <rect x="460" y="200" width="360" height="96" fill="none" stroke="#DCD3C2" stroke-width="2" />
+    
+  <g transform="translate(484, 216) scale(1.5)" fill="#2F5D3A">
+    <path d="M1.51967 3.30803C0.748393 4.37143 0.232465 5.63209 0.0618896 7L15.9381 7C15.7675 5.63208 15.2516 4.37142 14.4803 3.30801C14.4387 3.3313 14.3965 3.3546 14.3538 3.3779C12.8684 4.1881 10.7045 5 7.99997 5C5.29547 5 3.13149 4.1881 1.64611 3.3779C1.60342 3.35461 1.56127 3.33131 1.51967 3.30803Z" />
+    <path d="M13.0562 1.80011C11.8114 2.42548 10.0975 3 7.99997 3C5.90247 3 4.18861 2.42549 2.94376 1.80013C4.32185 0.674887 6.08211 0 8 0C9.91787 0 11.6781 0.674881 13.0562 1.80011Z" />
+    <path d="M0.0618896 9C0.232466 10.3679 0.748398 11.6286 1.51968 12.692C1.56128 12.6687 1.60344 12.6454 1.64614 12.6221C3.13152 11.8119 5.2955 11 8 11C10.7045 11 12.8685 11.8119 14.3538 12.6221C14.3966 12.6454 14.4387 12.6687 14.4803 12.692C15.2516 11.6286 15.7675 10.3679 15.9381 9L0.0618896 9Z" />
+    <path d="M8 16C6.08212 16 4.32186 15.3251 2.94377 14.1999C4.18862 13.5745 5.90249 13 8 13C10.0975 13 11.8114 13.5745 13.0562 14.1999C11.6781 15.3251 9.91788 16 8 16Z" />
+  </g>
+    <text x="520" y="236" font-size="30" font-weight="bold" fill="#2F5D3A">11 กุมภาพันธ์ 2013</text>
+    <text fill="#26241F" font-size="18" x="484" y="262">EU No 120/2013 · PGI Class 1.6</text><text fill="#26241F" font-size="18" x="484" y="286">GI ไทยรายการแรกในสหภาพยุโรป</text></g>
+  <g id="tas-block" data-pptx-bounds="856 198 360 100">
+    <rect x="856" y="200" width="360" height="96" fill="none" stroke="#DCD3C2" stroke-width="2" />
+    
+  <g transform="translate(880, 216) scale(1.5)" fill="#2F5D3A">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6563 5.24291C15.4743 5.88358 16 6.8804 16 8C16 9.11964 15.4743 10.1165 14.6562 10.7572C14.7816 11.7886 14.4485 12.8652 13.6568 13.6569C12.8651 14.4486 11.7885 14.7817 10.7571 14.6563C10.1164 15.4743 9.1196 16 8 16C6.88038 16 5.88354 15.4743 5.24288 14.6562C4.21141 14.7817 3.13481 14.4485 2.34312 13.6568C1.55143 12.8652 1.2183 11.7886 1.34372 10.7571C0.525698 10.1164 0 9.1196 0 8C0 6.88038 0.525715 5.88354 1.34376 5.24288C1.21834 4.21141 1.55147 3.13481 2.34316 2.34312C3.13485 1.55143 4.21145 1.2183 5.24291 1.34372C5.88358 0.525698 6.8804 0 8 0C9.11964 0 10.1165 0.525732 10.7572 1.3438C11.7886 1.21838 12.8652 1.55152 13.6569 2.3432C14.4486 3.13488 14.7817 4.21146 14.6563 5.24291ZM12.2071 6.20711L10.7929 4.79289L7 8.58579L5.20711 6.79289L3.79289 8.20711L7 11.4142L12.2071 6.20711Z" />
+  </g>
+    <text x="916" y="236" font-size="30" font-weight="bold" fill="#2F5D3A">ไม่น้อยกว่าร้อยละ 92</text>
+    <text fill="#26241F" font-size="18" x="880" y="262">มาตรฐานสินค้าเกษตร</text><text fill="#26241F" font-size="18" x="880" y="286">ข้าวหอมมะลิไทยในผลิตภัณฑ์</text></g>
+  <g id="variety-gi-comparison" data-pptx-replace-with="table" data-pptx-bounds="64 306 1152 324" data-pptx-fallback-sha256="111d5f007faf0c452de890cdcac931873e726ef1df8329df3661e84957c5fe7a">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "name": "variety-gi-comparison",
+        "x": 64, "y": 306, "width": 1152, "height": 324,
+        "column_widths": [250, 440, 462],
+        "row_heights": [48, 46, 46, 46, 46, 46, 46],
+        "header_rows": 1,
+        "style": {
+          "font_family": "Tahoma", "font_size": 22, "header_font_size": 22,
+          "band_row": false, "valign": "middle", "padding": 16,
+          "header_fill": "#2F5D3A", "header_text": "#FBF7EF", "body_text": "#26241F",
+          "border_color": "#DCD3C2", "border_width": 1
+        },
+        "defaults": {
+          "cell": {
+            "borders": {
+              "left": {"style": "none"}, "right": {"style": "none"},
+              "top": {"style": "solid", "color": "#DCD3C2", "width": 1},
+              "bottom": {"style": "solid", "color": "#DCD3C2", "width": 1}
+            }
+          }
+        },
+        "columns": [
+          {"text": "เกณฑ์", "align": "l", "bold": true},
+          {"text": "ขาวดอกมะลิ 105 (พันธุ์)", "align": "l", "bold": true},
+          {"text": "ข้าว GI ทุ่งกุลาร้องไห้ (พื้นที่)", "align": "l", "bold": true}
+        ],
+        "rows": [
+          [{"text": "สิ่งที่รับรอง", "bold": true}, "ลักษณะประจำพันธุ์", "แหล่งผลิตและพันธุ์ที่กำหนด"],
+          [{"text": "พันธุ์ที่กำหนด", "bold": true}, "ขาวดอกมะลิ 105", "ขาวดอกมะลิ 105 และ กข 15"],
+          [{"text": "พื้นที่", "bold": true}, "อีสานและภาคเหนือตอนบน (คำแนะนำ)", "5 จังหวัด รวม 2,107,690 ไร่"],
+          [{"text": "ปีที่รับรอง", "bold": true}, "2502 (พันธุ์รับรอง)", "2550 ในประเทศ · 2013 PGI ยุโรป"],
+          [{"text": "เกณฑ์เมล็ด", "bold": true}, "ข้าวกล้อง 7.5 × 2.1 × 1.8 มม.", "ยาวกว่า 7.0 มม. · ท้องไข่ไม่เกินร้อยละ 6"],
+          [{"text": "อมิโลส", "bold": true}, "12–17 เปอร์เซ็นต์", "ไม่ได้กำหนดในเกณฑ์ GI"]
+        ]
+      }
+    </metadata>
+    <rect x="64" y="306" width="1152" height="48" fill="#2F5D3A" />
+    <text x="80" y="337" font-family="Tahoma, sans-serif" font-size="22" font-weight="bold" fill="#FBF7EF">เกณฑ์</text>
+    <text x="330" y="337" font-family="Tahoma, sans-serif" font-size="22" font-weight="bold" fill="#FBF7EF">ขาวดอกมะลิ 105 (พันธุ์)</text>
+    <text x="770" y="337" font-family="Tahoma, sans-serif" font-size="22" font-weight="bold" fill="#FBF7EF">ข้าว GI ทุ่งกุลาร้องไห้ (พื้นที่)</text>
+    <g id="variety-gi-comparison-body" font-family="Tahoma, sans-serif" font-size="22" fill="#26241F">
+      <line x1="64" y1="354" x2="1216" y2="354" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="383" font-weight="bold">สิ่งที่รับรอง</text>
+      <text x="330" y="383">ลักษณะประจำพันธุ์</text>
+      <text x="770" y="383">แหล่งผลิตและพันธุ์ที่กำหนด</text>
+      <line x1="64" y1="400" x2="1216" y2="400" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="429" font-weight="bold">พันธุ์ที่กำหนด</text>
+      <text x="330" y="429">ขาวดอกมะลิ 105</text>
+      <text x="770" y="429">ขาวดอกมะลิ 105 และ กข 15</text>
+      <line x1="64" y1="446" x2="1216" y2="446" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="475" font-weight="bold">พื้นที่</text>
+      <text x="330" y="475">อีสานและภาคเหนือตอนบน (คำแนะนำ)</text>
+      <text x="770" y="475">5 จังหวัด รวม 2,107,690 ไร่</text>
+      <line x1="64" y1="492" x2="1216" y2="492" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="521" font-weight="bold">ปีที่รับรอง</text>
+      <text x="330" y="521">2502 (พันธุ์รับรอง)</text>
+      <text x="770" y="521">2550 ในประเทศ · 2013 PGI ยุโรป</text>
+      <line x1="64" y1="538" x2="1216" y2="538" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="567" font-weight="bold">เกณฑ์เมล็ด</text>
+      <text x="330" y="567">ข้าวกล้อง 7.5 × 2.1 × 1.8 มม.</text>
+      <text x="770" y="567">ยาวกว่า 7.0 มม. · ท้องไข่ไม่เกินร้อยละ 6</text>
+      <line x1="64" y1="584" x2="1216" y2="584" stroke="#DCD3C2" stroke-width="1" />
+      <text x="80" y="613" font-weight="bold">อมิโลส</text>
+      <text x="330" y="613">12–17 เปอร์เซ็นต์</text>
+      <text x="770" y="613">ไม่ได้กำหนดในเกณฑ์ GI</text>
+      <line x1="64" y1="630" x2="1216" y2="630" stroke="#DCD3C2" stroke-width="1" />
+    </g>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 670 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: สำนักงานประชาสัมพันธ์จังหวัดร้อยเอ็ด · Commission Implementing Regulation (EU) No 120/2013 · WIPO · TAS 4000 (FAOLEX)</text>
+    <text x="1216" y="688" text-anchor="end">07</text>
+  </g>
+</svg>

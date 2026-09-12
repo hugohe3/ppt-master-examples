@@ -1,0 +1,496 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": {
+      "effect": "fade",
+      "duration": 0.4
+    },
+    "animation": {
+      "trigger": "after-previous"
+    }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-kicker": {
+          "effect": "none"
+        },
+        "cover-title": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        },
+        "cover-hook": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "cover-visual": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 3,
+          "duration": 0.9
+        }
+      }
+    },
+    "02_chord": {
+      "groups": {
+        "wave-composite": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "wave-components": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 2,
+          "duration": 0.9
+        },
+        "wave-grouping": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "chord-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "chord-formula": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    "03_series_origin": {
+      "transition": {
+        "effect": "push",
+        "effect_options": {
+          "direction": "right"
+        },
+        "duration": 0.5
+      },
+      "groups": {
+        "history-timeline": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 1,
+          "duration": 1.0
+        },
+        "series-formula": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "series-reading": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        }
+      }
+    },
+    "04_coefficients": {
+      "groups": {
+        "cosine-coefficient": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "sine-coefficient": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "coefficient-reading": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "orthogonality-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "coefficient-oneliner": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    },
+    "05_square_wave": {
+      "groups": {
+        "square-harmonics": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "up"
+          },
+          "order": 1,
+          "duration": 0.9
+        },
+        "square-reading": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4
+        },
+        "square-formula": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "square-takeaway": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        }
+      }
+    },
+    "06_series_to_integral": {
+      "transition": {
+        "effect": "push",
+        "effect_options": {
+          "direction": "right"
+        },
+        "duration": 0.5
+      },
+      "groups": {
+        "spacing-schematic": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        },
+        "series-coefficient-morph": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "limit-reasoning": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "next-step-arrow": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 4,
+          "delay": 0.3,
+          "duration": 0.6
+        }
+      }
+    },
+    "07_transform_pair": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "06_series_to_integral",
+        "pairs": {
+          "analysis-integral": {
+            "from": "series-coefficient-morph",
+            "to": "integral-transform-morph"
+          }
+        }
+      },
+      "groups": {
+        "transform-pair-arrow": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "delay": 0.3,
+          "duration": 0.4
+        },
+        "inverse-transform": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "pair-reading": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        },
+        "convention-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        }
+      }
+    },
+    "08_transform_pairs_table": {
+      "groups": {
+        "transform-pairs": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "down"
+          },
+          "order": 1,
+          "duration": 1.0
+        },
+        "pairs-note": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "pairs-duality": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        }
+      }
+    },
+    "09_properties": {
+      "transition": {
+        "effect": "push",
+        "effect_options": {
+          "direction": "right"
+        },
+        "duration": 0.5
+      },
+      "groups": {
+        "property-labels": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "linearity-formula": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.45
+        },
+        "timeshift-formula": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.45
+        },
+        "modulation-formula": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.45
+        },
+        "property-readings": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    "10_convolution": {
+      "groups": {
+        "convolution-formula": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "convolution-steps": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 2,
+          "duration": 0.9
+        },
+        "convolution-reading": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "equalizer-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    "11_dft": {
+      "transition": {
+        "effect": "push",
+        "effect_options": {
+          "direction": "right"
+        },
+        "duration": 0.5
+      },
+      "groups": {
+        "sampling-fact": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "dft-formula": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.5
+        },
+        "dft-reading": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "dft-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        }
+      }
+    },
+    "12_cost": {
+      "groups": {
+        "dft-cost-formula": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "cost-figure": {
+          "effect": "entrance_zoom",
+          "order": 2,
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "cost-numbers": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "cost-reading": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "cost-next": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    },
+    "13_cooley_tukey": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.9
+      },
+      "morph": {
+        "from": "12_cost",
+        "pairs": {
+          "cost-figure": {
+            "from": "cost-figure",
+            "to": "cost-figure"
+          }
+        }
+      },
+      "groups": {
+        "divide-formula": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        },
+        "complexity-compare": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 2,
+          "delay": 0.3,
+          "duration": 1.0
+        },
+        "divide-reading": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5
+        }
+      }
+    },
+    "14_applications": {
+      "transition": {
+        "effect": "push",
+        "effect_options": {
+          "direction": "right"
+        },
+        "duration": 0.5
+      },
+      "groups": {
+        "app-jpeg": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4
+        },
+        "app-mri": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4
+        },
+        "app-wifi": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "app-audio": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4
+        },
+        "dct-formula": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "applications-note": {
+          "effect": "entrance_fade",
+          "order": 6,
+          "duration": 0.4
+        }
+      }
+    },
+    "15_closing": {
+      "groups": {
+        "takeaways": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.6
+        },
+        "extension-course": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4
+        },
+        "extension-practice": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4
+        },
+        "closing-formula": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "delay": 0.3,
+          "duration": 0.6
+        },
+        "closing-line": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="chainArrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#C8952B"/>
+    </marker>
+  </defs>
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF"/>
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 1 · พันธุ์และตัวตน</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">ความหอมมาจากสารหนึ่งตัวและยีนหนึ่งตำแหน่ง</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1"/>
+    <text x="64" y="186" font-size="30" fill="#26241F">ข้าวหอมหอมได้เพราะยีนตัวหนึ่งเสียหน้าที่ ไม่ใช่เพราะได้รับอะไรเพิ่ม</text>
+  </g>
+  <g id="chain-step-1-gene" data-pptx-bounds="64 214 596 78">
+    <rect x="64" y="216" width="596" height="76" rx="4" fill="#F1E8D6"/>
+    <rect x="64" y="216" width="6" height="76" fill="#2F5D3A"/>
+    <use data-icon="chunk-filled/dna" x="90" y="238" width="32" height="32" fill="#2F5D3A"/>
+    <text x="140" y="248" font-size="24" fill="#26241F">ยีน badh2 บนโครโมโซมที่ 8 ขาดหายไป 8 คู่เบส<tspan x="140" dy="34">ใน exon 7 พบเฉพาะในข้าวหอม</tspan></text>
+  </g>
+  <g id="chain-step-2-enzyme" data-pptx-bounds="64 296 596 96">
+    <line x1="362" y1="298" x2="362" y2="314" stroke="#C8952B" stroke-width="3" marker-end="url(#chainArrow)"/>
+    <rect x="64" y="320" width="596" height="72" rx="4" fill="#F1E8D6"/>
+    <rect x="64" y="320" width="6" height="72" fill="#2F5D3A"/>
+    <text x="140" y="346" font-size="24" fill="#26241F">เอนไซม์ betaine aldehyde<tspan x="140" dy="34">dehydrogenase ไม่ทำงาน</tspan></text>
+  </g>
+  <g id="chain-step-3-accumulate" data-pptx-bounds="64 396 596 92">
+    <line x1="362" y1="398" x2="362" y2="414" stroke="#C8952B" stroke-width="3" marker-end="url(#chainArrow)"/>
+    <rect x="64" y="420" width="596" height="68" rx="4" fill="#F1E8D6"/>
+    <rect x="64" y="420" width="6" height="68" fill="#2F5D3A"/>
+    <text x="140" y="462" font-size="24" fill="#26241F">2-acetyl-1-pyrroline (2AP) สะสมในเมล็ด</text>
+  </g>
+  <g id="chain-step-4-aroma" data-pptx-bounds="64 492 596 92">
+    <line x1="362" y1="494" x2="362" y2="510" stroke="#C8952B" stroke-width="3" marker-end="url(#chainArrow)"/>
+    <rect x="64" y="516" width="596" height="68" rx="4" fill="#C8952B"/>
+    <use data-icon="chunk-filled/wind" x="90" y="534" width="32" height="32" fill="#26241F"/>
+    <text x="140" y="558" font-size="24" font-weight="bold" fill="#26241F">เกิดกลิ่นหอมคล้ายใบเตย</text>
+  </g>
+  <g id="grain-figure" data-pptx-bounds="708 214 508 386">
+    <image href="../images/03_grain_aroma.jpg" x="708" y="216" width="508" height="380" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <g id="method-note" data-pptx-bounds="64 604 1152 58">
+    <rect x="64" y="604" width="6" height="58" fill="#DCD3C2"/>
+    <text x="88" y="628" font-size="18" fill="#5F5A50">หมายเหตุวิธีวัด งานวิจัยปี 2001 ใน Journal of Agricultural and Food Chemistry วัด 2AP ในข้าวกล้องขาวดอกมะลิ 105 ที่ยังไม่หุง<tspan x="88" dy="28">ด้วย capillary gas chromatography และตรวจพบได้จากสารสกัดเพียง 0.5 กรัม ซึ่งเป็นความไวของวิธีวัด ไม่ใช่ค่าความเข้มข้น</tspan></text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 672 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: BMC Plant Biology (2008) OsBADH2 · Journal of Agricultural and Food Chemistry (2001) DOI 10.1021/jf000885y</text>
+    <text x="1216" y="688" text-anchor="end">05</text>
+  </g>
+</svg>

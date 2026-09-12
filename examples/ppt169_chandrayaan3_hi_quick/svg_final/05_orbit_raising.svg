@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <marker id="arrowLine" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#8AB4E8" />
+    </marker>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">कक्षा-उन्नयन से चंद्र कक्षा तक</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="orbit-axis" data-pptx-bounds="64 200 1152 60">
+    <line x1="96" y1="230" x2="1176" y2="230" stroke="#8AB4E8" stroke-width="2" marker-end="url(#arrowLine)" />
+    <line x1="160" y1="218" x2="160" y2="242" stroke="#8AB4E8" stroke-width="2" />
+    <line x1="400" y1="218" x2="400" y2="242" stroke="#8AB4E8" stroke-width="2" />
+    <line x1="640" y1="218" x2="640" y2="242" stroke="#8AB4E8" stroke-width="2" />
+    <line x1="880" y1="218" x2="880" y2="242" stroke="#8AB4E8" stroke-width="2" />
+    <line x1="1120" y1="214" x2="1120" y2="246" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="1120" cy="230" r="14" fill="#FF7A3D" />
+  </g>
+
+  <g id="orbit-stages" data-pptx-bounds="64 274 1152 140" text-anchor="middle">
+    <g id="stage-jul15">
+      <text x="160" y="300" font-family="Consolas" font-size="20" fill="#9FB6CC">15-07-2023</text>
+      <text x="160" y="340" font-size="28" font-weight="bold" fill="#E8F1FA">41762 × 173</text>
+      <text fill="#9FB6CC" font-size="22" x="160" y="374">पहला</text><text fill="#9FB6CC" font-size="22" x="160" y="400">कक्षा-उन्नयन</text></g>
+    <g id="stage-jul17">
+      <text x="400" y="300" font-family="Consolas" font-size="20" fill="#9FB6CC">17-07-2023</text>
+      <text x="400" y="340" font-size="28" font-weight="bold" fill="#E8F1FA">41603 × 226</text>
+      <text fill="#9FB6CC" font-size="22" x="400" y="374">दूसरा</text><text fill="#9FB6CC" font-size="22" x="400" y="400">कक्षा-उन्नयन</text></g>
+    <g id="stage-jul22">
+      <text x="640" y="300" font-family="Consolas" font-size="20" fill="#9FB6CC">22-07-2023</text>
+      <text x="640" y="340" font-size="28" font-weight="bold" fill="#E8F1FA">71351 × 233</text>
+      <text fill="#9FB6CC" font-size="22" x="640" y="374">चौथा</text><text fill="#9FB6CC" font-size="22" x="640" y="400">कक्षा-उन्नयन</text></g>
+    <g id="stage-aug01">
+      <text x="880" y="300" font-family="Consolas" font-size="20" fill="#9FB6CC">01-08-2023</text>
+      <text x="880" y="340" font-size="28" font-weight="bold" fill="#E8F1FA">288 × 369328</text>
+      <text fill="#9FB6CC" font-size="22" x="880" y="374">ट्रांस-लूनर</text><text fill="#9FB6CC" font-size="22" x="880" y="400">कक्षा</text></g>
+    <g id="stage-aug05">
+      <text x="1120" y="300" font-family="Consolas" font-size="20" fill="#FF7A3D">05-08-2023</text>
+      <text x="1120" y="340" font-size="28" font-weight="bold" fill="#FF7A3D">164 × 18074</text>
+      <text fill="#9FB6CC" font-size="22" x="1120" y="374">चंद्र कक्षा</text><text fill="#9FB6CC" font-size="22" x="1120" y="400">में प्रवेश</text></g>
+  </g>
+
+  <g id="scale-note" data-pptx-bounds="64 430 1152 34" font-size="22">
+    <text x="64" y="452" fill="#9FB6CC">मान: अपभू × उपभू (किमी)</text>
+    <text x="1216" y="452" text-anchor="end" fill="#FF7A3D">आरेख योजनाबद्ध है, पैमाने पर नहीं — संकलन</text>
+  </g>
+
+  <g id="takeaway" data-pptx-bounds="64 496 1152 120">
+    <rect x="64" y="498" width="176" height="4" fill="url(#ruleGrad)" />
+    <text fill="#E8F1FA" font-size="34" x="64" y="556">चार कक्षा-उन्नयन और एक ट्रांस-लूनर इंजेक्शन के बाद</text><text fill="#E8F1FA" font-size="34" x="64" y="598">5 अगस्त को चंद्र कक्षा — कुल 22 दिन (संकलन)।</text></g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO, Chandrayaan-3 (isro.gov.in, 2023) — तथ्य F007, F008, F009</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">05 / 13</text>
+  </g>
+</svg>

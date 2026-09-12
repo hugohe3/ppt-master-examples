@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "trigger": "after-previous", "duration": 0.5, "stagger": 0.2 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effect": "entrance_fade", "order": 1, "duration": 0.7 },
+        "cover-hook": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "p01-limb-ring": { "effect": "entrance_fade", "order": 3, "duration": 0.6 },
+        "p01-pole-wedge": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "cover-crosshair": { "effect": "entrance_fade", "order": 5, "duration": 0.4 },
+        "cover-titleblock": { "effect": "entrance_fade", "order": 6, "duration": 0.4 }
+      }
+    },
+    "02_mission_objectives": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "stack-schematic": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "objectives": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.6 }
+      }
+    },
+    "03_chandrayaan2_lesson": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "descent-axis-2019": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.8 },
+        "outcome-contrast": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "lesson-band": { "effect": "entrance_fade", "order": 4, "duration": 0.5, "delay": 0.2 }
+      }
+    },
+    "04_launch": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "launch-vehicle": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "spec-tiles": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.6 }
+      }
+    },
+    "05_orbit_raising": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "orbit-axis": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.9 },
+        "orbit-stages": { "effect": "entrance_fade", "order": 3, "duration": 0.6 },
+        "takeaway": { "effect": "entrance_fade", "order": 4, "duration": 0.5, "delay": 0.2 }
+      }
+    },
+    "06_landing": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "05_orbit_raising",
+        "pairs": { "mission-axis": { "from": "orbit-axis", "to": "descent-axis" } }
+      },
+      "groups": {
+        "landing-specs": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "terrain-band": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "landing-cross": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "07_shiv_shakti": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 1.0 },
+      "morph": {
+        "from": "06_landing",
+        "pairs": { "landing-marker": { "from": "landing-cross", "to": "landing-point" } }
+      },
+      "groups": {
+        "kicker": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "statement": { "effect": "entrance_fade", "order": 2, "duration": 0.7 },
+        "space-day": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.6 }
+      }
+    },
+    "08_payloads": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "rover-note": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "rover-figure": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "payload-roster": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 4, "duration": 0.9 }
+      }
+    },
+    "09_libs_sulphur": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "08_payloads",
+        "pairs": { "rover-body": { "from": "rover-figure", "to": "rover-detail" } }
+      },
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "libs-chain": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.8 },
+        "elements-found": { "effect": "entrance_fade", "order": 3, "duration": 0.6 },
+        "libs-note": { "effect": "entrance_fade", "order": 4, "duration": 0.5 }
+      }
+    },
+    "10_chaste_hop": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "regolith-figure": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "chaste-facts": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "hop-facts": { "effect": "entrance_fade", "order": 4, "duration": 0.5 }
+      }
+    },
+    "11_outcomes": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "crater-discovery": { "effect": "entrance_fade", "order": 2, "duration": 0.7 },
+        "sleep-mode": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "pm-return": { "effect": "entrance_fade", "order": 4, "duration": 0.4 }
+      }
+    },
+    "12_cost": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "mission-cost-compare": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.0 },
+        "cost-context": { "effect": "entrance_fade", "order": 3, "duration": 0.5 }
+      }
+    },
+    "13_ahead": {
+      "transition": { "effect": "push", "effect_options": { "direction": "left" }, "duration": 0.6 },
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "roadmap": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.9 },
+        "ch4-details": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "closing": { "effect": "entrance_fade", "order": 4, "duration": 0.6, "delay": 0.2 }
+      }
+    }
+  }
+}

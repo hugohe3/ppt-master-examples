@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">प्रज्ञान रोवर और सात पेलोड</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="rover-note" data-pptx-bounds="64 170 880 50">
+    <text x="64" y="204" font-size="28" fill="#E8F1FA">24 अगस्त 2023: रोवर 'प्रज्ञान' लैंडर से उतरा।</text>
+  </g>
+
+  <g id="rover-figure" data-pptx-bounds="990 150 220 104">
+    <rect x="995" y="176" width="150" height="8" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <rect x="1000" y="192" width="140" height="40" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="1018" cy="240" r="12" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="1070" cy="240" r="12" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="1122" cy="240" r="12" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <line x1="1130" y1="192" x2="1130" y2="168" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="1130" cy="160" r="6" fill="#FF7A3D" />
+  </g>
+
+  <g id="payload-roster" data-pptx-replace-with="table" data-pptx-bounds="64 258 1152 384" data-pptx-fallback-sha256="5535165049d55e3a030614ed747d77291ebc9e62e14cb7f26d321dfe455874e9">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "name": "payload-roster",
+        "x": 64, "y": 258, "width": 1152, "height": 384,
+        "style": {"font_family": "Nirmala UI", "font_size": 19.5},
+        "column_widths": [220, 260, 672],
+        "row_heights": [48, 48, 48, 48, 48, 48, 48, 48],
+        "defaults": {
+          "cell": {
+            "font_size": 19.5,
+            "valign": "middle",
+            "align": "l",
+            "color": "#E8F1FA",
+            "padding": {"left": 24, "right": 24, "top": 8, "bottom": 8},
+            "borders": {
+              "left": {"style": "none"},
+              "right": {"style": "none"},
+              "top": {"style": "none"},
+              "bottom": {"style": "solid", "color": "#2A4A6B", "width": 1}
+            }
+          }
+        },
+        "columns": [
+          {"text": "पेलोड", "fill": "#12263C", "color": "#8AB4E8", "bold": true},
+          {"text": "वाहक", "fill": "#12263C", "color": "#8AB4E8", "bold": true},
+          {"text": "क्या मापता है", "fill": "#12263C", "color": "#8AB4E8", "bold": true}
+        ],
+        "rows": [
+          [{"text": "ChaSTE", "bold": true}, "लैंडर", "सतही तापमान-प्रोफ़ाइल, 10 सेमी गहराई तक"],
+          [{"text": "ILSA", "bold": true}, "लैंडर", "भूकंपीयता; भूपर्पटी और मैंटल की संरचना"],
+          [{"text": "RAMBHA-LP", "bold": true}, "लैंडर", "निकट-सतह प्लाज़्मा घनत्व"],
+          [{"text": "LRA", "bold": true}, "लैंडर", "निष्क्रिय चंद्र-गतिकी अध्ययन"],
+          [{"text": "LIBS", "bold": true, "color": "#FF7A3D"}, "रोवर", "तत्व एवं खनिज संरचना"],
+          [{"text": "APXS", "bold": true, "color": "#FF7A3D"}, "रोवर", "तत्व-संरचना (अल्फ़ा कण एक्स-रे)"],
+          [{"text": "SHAPE", "bold": true}, "प्रोपल्शन", "बहिर्ग्रहों की वासयोग्यता के संकेतक"]
+        ]
+      }
+    </metadata>
+    <rect x="64" y="258" width="1152" height="48" fill="#12263C" />
+    <text x="88" y="291" font-size="26" font-weight="bold" fill="#8AB4E8">पेलोड</text>
+    <text x="308" y="291" font-size="26" font-weight="bold" fill="#8AB4E8">वाहक</text>
+    <text x="568" y="291" font-size="26" font-weight="bold" fill="#8AB4E8">क्या मापता है</text>
+    <line x1="64" y1="306" x2="1216" y2="306" stroke="#2A4A6B" stroke-width="1" />
+    <text x="88" y="339" font-size="26" font-weight="bold" fill="#E8F1FA">ChaSTE</text>
+    <text x="308" y="339" font-size="26" fill="#E8F1FA">लैंडर</text>
+    <text x="568" y="339" font-size="26" fill="#E8F1FA">सतही तापमान-प्रोफ़ाइल, 10 सेमी गहराई तक</text>
+    <line x1="64" y1="354" x2="1216" y2="354" stroke="#2A4A6B" stroke-width="1" />
+    <text x="88" y="387" font-size="26" font-weight="bold" fill="#E8F1FA">ILSA</text>
+    <text x="308" y="387" font-size="26" fill="#E8F1FA">लैंडर</text>
+    <text x="568" y="387" font-size="26" fill="#E8F1FA">भूकंपीयता; भूपर्पटी और मैंटल की संरचना</text>
+    <line x1="64" y1="402" x2="1216" y2="402" stroke="#2A4A6B" stroke-width="1" />
+    <text x="88" y="435" font-size="26" font-weight="bold" fill="#E8F1FA">RAMBHA-LP</text>
+    <text x="308" y="435" font-size="26" fill="#E8F1FA">लैंडर</text>
+    <text x="568" y="435" font-size="26" fill="#E8F1FA">निकट-सतह प्लाज़्मा घनत्व</text>
+    <line x1="64" y1="450" x2="1216" y2="450" stroke="#2A4A6B" stroke-width="1" />
+    <text x="88" y="483" font-size="26" font-weight="bold" fill="#E8F1FA">LRA</text>
+    <text x="308" y="483" font-size="26" fill="#E8F1FA">लैंडर</text>
+    <text x="568" y="483" font-size="26" fill="#E8F1FA">निष्क्रिय चंद्र-गतिकी अध्ययन</text>
+    <line x1="64" y1="498" x2="1216" y2="498" stroke="#2A4A6B" stroke-width="1" />
+    <text x="88" y="531" font-size="26" font-weight="bold" fill="#FF7A3D">LIBS</text>
+    <text x="308" y="531" font-size="26" fill="#E8F1FA">रोवर</text>
+    <text x="568" y="531" font-size="26" fill="#E8F1FA">तत्व एवं खनिज संरचना</text>
+    <line x1="64" y1="546" x2="1216" y2="546" stroke="#2A4A6B" stroke-width="1" />
+    <text x="88" y="579" font-size="26" font-weight="bold" fill="#FF7A3D">APXS</text>
+    <text x="308" y="579" font-size="26" fill="#E8F1FA">रोवर</text>
+    <text x="568" y="579" font-size="26" fill="#E8F1FA">तत्व-संरचना (अल्फ़ा कण एक्स-रे)</text>
+    <line x1="64" y1="594" x2="1216" y2="594" stroke="#2A4A6B" stroke-width="1" />
+    <text x="88" y="627" font-size="26" font-weight="bold" fill="#E8F1FA">SHAPE</text>
+    <text x="308" y="627" font-size="26" fill="#E8F1FA">प्रोपल्शन</text>
+    <text x="568" y="627" font-size="26" fill="#E8F1FA">बहिर्ग्रहों की वासयोग्यता के संकेतक</text>
+    <line x1="64" y1="642" x2="1216" y2="642" stroke="#2A4A6B" stroke-width="1" />
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO, Chandrayaan-3 Details · ChaSTE प्रेक्षण (isro.gov.in, 2023) — तथ्य F011, F013, F014, F015</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">08 / 13</text>
+  </g>
+</svg>

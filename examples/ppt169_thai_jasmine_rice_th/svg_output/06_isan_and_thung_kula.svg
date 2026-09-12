@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF"/>
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 2 · แผ่นดินที่ให้กลิ่นหอม</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">พื้นที่ปลูกกระจุกอยู่ที่ภาคตะวันออกเฉียงเหนือ</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1"/>
+    <text x="64" y="186" font-size="30" fill="#26241F">ข้าวหอมมะลิเป็นข้าวของภาคเดียว และดินที่ปลูกยากคือส่วนหนึ่งของเหตุผล</text>
+  </g>
+  <g id="scope-country" data-pptx-bounds="64 206 600 104">
+    <rect x="64" y="208" width="600" height="100" fill="none" stroke="#DCD3C2" stroke-width="2"/>
+    <text x="88" y="236" font-size="18" font-weight="bold" fill="#5F5A50">ทั้งประเทศ</text>
+    <text x="88" y="264" font-size="18" fill="#26241F">เนื้อที่ปลูกข้าวนาปี 8.94 ล้านเฮกตาร์<tspan x="88" dy="28">และนาปรัง 2.05 ล้านเฮกตาร์ (ปีการตลาด 2568/69)</tspan></text>
+  </g>
+  <g id="p06-region-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="80 324 40 296" fill="none" stroke="#C8952B" stroke-width="3">
+<path d="M 120 620 A 20 3.33 0 0 1 100 616.67 L 100 475.33 A 20 3.33 0 0 0 80 472 A 20 3.33 0 0 0 100 468.67 L 100 327.33 A 20 3.33 0 0 1 120 324 Z" stroke="none"/>
+<path d="M 120 620 A 20 3.33 0 0 1 100 616.67 L 100 475.33 A 20 3.33 0 0 0 80 472 A 20 3.33 0 0 0 100 468.67 L 100 327.33 A 20 3.33 0 0 1 120 324"/>
+</g>
+  <g id="scope-northeast" data-pptx-bounds="128 322 536 136">
+    <rect x="128" y="324" width="536" height="132" fill="#F1E8D6"/>
+    <text x="148" y="366" font-size="32" font-weight="bold" fill="#2F5D3A">ภาคตะวันออกเฉียงเหนือ</text>
+    <text x="148" y="406" font-size="30" font-weight="bold" fill="#8C3B2E">22.1 ล้านไร่</text>
+    <text x="148" y="440" font-size="18" fill="#26241F">ร้อยละ 85 ของพื้นที่ปลูกข้าวหอมมะลิทั้งประเทศ (ข้อมูล 2561)</text>
+  </g>
+  <g id="tkr-area-block" data-pptx-bounds="128 470 536 152">
+    <rect x="128" y="472" width="536" height="148" fill="#2F5D3A"/>
+    <use data-icon="chunk-filled/shield-check" x="148" y="484" width="24" height="24" fill="#C8952B"/>
+    <text x="184" y="502" font-size="24" font-weight="bold" fill="#FBF7EF">ทุ่งกุลาร้องไห้ · เขตคุ้มครอง GI</text>
+    <text x="148" y="542" font-size="30" font-weight="bold" fill="#C8952B">2,107,690 ไร่ ≈ 337,230 เฮกตาร์</text>
+    <text x="148" y="576" font-size="18" fill="#F1E8D6">ร้อยเอ็ด 986,807 · สุรินทร์ 575,993 · ศรีสะเกษ 287,000<tspan x="148" dy="28">มหาสารคาม 193,890 · ยโสธร 64,000 ไร่</tspan></text>
+  </g>
+  <g id="basin-figure" data-pptx-bounds="736 206 544 426">
+    <image href="../images/02_isan_plain.jpg" x="736" y="208" width="544" height="380" preserveAspectRatio="xMidYMid slice"/>
+    <text x="736" y="620" font-size="18" fill="#5F5A50">ที่ราบแอ่งกระทะดินร่วนปนทราย แล้งในหน้าแล้งและน้ำท่วมในหน้าฝน</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 670 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: สำนักงานสถิติจังหวัดร้อยเอ็ด (2561) · สำนักงานประชาสัมพันธ์จังหวัดร้อยเอ็ด · EU No 120/2013 · USDA FAS TH2025-0011</text>
+    <text x="1216" y="688" text-anchor="end">06</text>
+  </g>
+</svg>

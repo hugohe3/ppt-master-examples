@@ -1,0 +1,102 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "傅里叶变换:把信号拆成频率(公开课)",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "傅里叶研究热传导时提出以无穷三角级数展开函数,成果汇成 1822 年出版的《Théorie analytique de la chaleur》(热的解析理论)。",
+      "source_title": "Fourier's Heat Conduction Equation: History, Influences and Connections (J. Earth Syst. Sci. 108(3):117-148, 1999)",
+      "source_url": "https://www.ias.ac.in/public/Volumes/jess/108/03/0117-0148.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "1807 年 12 月傅里叶向法兰西研究院提交热传导手稿但未获发表,1811 年以修订稿赢得科学院热扩散悬赏,著作最终于 1822 年出版。",
+      "source_title": "Fourier's Heat Equation and the Birth of Fourier Series (TRIUMPHS, Ursinus College Digital Commons)",
+      "source_url": "https://digitalcommons.ursinus.edu/context/triumphs_differ/article/1008/viewcontent/F44_Fourier_s_Heat_Equation_and_the_Birth_of_Fourier_Series___PSP_Version__3_.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "快速傅里叶变换的公开发表出处为 J. W. Cooley 与 J. W. Tukey《An algorithm for the machine calculation of complex Fourier series》,Mathematics of Computation 19(90):297-301,1965;该分治算法把 N 点 DFT 的 O(N^2) 计算量降为 O(N log N)。",
+      "source_title": "An algorithm for the machine calculation of complex Fourier series (Mathematics of Computation, 1965) - NASA ADS",
+      "source_url": "https://ui.adsabs.harvard.edu/abs/1965MaCom..19..297C",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "高斯约在 1805 年的未发表手稿中已使用与 Cooley-Tukey 等价的 DFT 分解,该考证见 Heideman、Johnson、Burrus《Gauss and the history of the fast Fourier transform》,IEEE ASSP Magazine 1(4):14-21,1984。",
+      "source_title": "Gauss and the History of the Fast Fourier Transform (IEEE ASSP Magazine, 1984)",
+      "source_url": "https://www.cis.rit.edu/class/simg716/Gauss_History_FFT.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "基线 JPEG 由 ITU-T Rec. T.81(1992 年 9 月,等同 ISO/IEC 10918-1)规定:图像分成 8x8 不重叠块,每块做离散余弦变换,再量化与熵编码。",
+      "source_title": "ITU-T Recommendation T.81 (09/92), Information technology - Digital compression and coding of continuous-tone still images",
+      "source_url": "https://www.w3.org/Graphics/JPEG/itu-t81.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "核磁共振成像的采集可表述为在傅里叶空间(k 空间)沿轨迹采样、再由傅里叶变换重建图像;该 k 轨迹表述见 D. Twieg, Medical Physics 10(5):610-621, 1983。",
+      "source_title": "The k-trajectory formulation of the NMR imaging process (Medical Physics 10:610, 1983) - NASA ADS",
+      "source_url": "https://ui.adsabs.harvard.edu/abs/1983MedPh..10..610T/abstract",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "IEEE Std 802.11a-1999 于 1999 年 12 月 30 日发布,规定 5 GHz 频段的高速无线局域网物理层。",
+      "source_title": "IEEE 802.11a-1999 standard record, IEEE Standards Association",
+      "source_url": "https://standards.ieee.org/ieee/802.11a/1165/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "802.11a 的 non-HT 20 MHz OFDM 采用 FFT 长度 64、采样率 20 MHz,含 48 个数据子载波与 4 个导频子载波。",
+      "source_title": "wlanNonHTOFDMInfo - OFDM information for non-HT transmission (MathWorks WLAN Toolbox documentation)",
+      "source_url": "https://www.mathworks.com/help/wlan/ref/wlannonhtofdminfo.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "C. E. Shannon《Communication in the Presence of Noise》,Proceedings of the IRE 37(1):10-21,1949,给出带宽限于 W 的信号可由每秒 2W 个采样完全确定的采样定理。",
+      "source_title": "Communication in the Presence of Noise, Proceedings of the IRE 37(1):10-21, 1949 (author PDF)",
+      "source_url": "https://webusers.imj-prg.fr/~antoine.chambert-loir/enseignement/2020-21/shannon/shannon1949.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "NIST DLMF 第 1.14 节给出傅里叶变换与卷积的定义,并给出卷积定理:若 f 与 g 在 (-inf,inf) 绝对可积,则 f*g 的傅里叶变换等于两者变换之积 F(x)G(x)。",
+      "source_title": "NIST Digital Library of Mathematical Functions, 1.14 Integral Transforms",
+      "source_url": "https://dlmf.nist.gov/1.14",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "傅里叶变换存在多种等价约定(1/(2pi) 归一化位置、e^{-i omega t} 与 e^{-2 pi i f t} 的指数写法),讲述时需先声明所采用的约定。",
+      "source_title": "NIST Digital Library of Mathematical Functions, 1.14 Integral Transforms",
+      "source_url": "https://dlmf.nist.gov/1.14",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "Stanford EE261《The Fourier Transform and its Applications》(Brad Osgood)系统讲授变换对与性质(线性、时移、卷积、采样、DFT),可作为听众的公开延伸课程。",
+      "source_title": "EE261 - The Fourier Transform and its Applications, Stanford Engineering Everywhere",
+      "source_url": "https://see.stanford.edu/Course/EE261",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    }
+  ]
+}

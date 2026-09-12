@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Nirmala UI" data-pptx-page-role="content">
+  <defs>
+    <pattern id="gridPat" data-pptx-pattern="smGrid" data-pptx-fg="#16324F" data-pptx-bg="#0B1A2B" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="16" height="16" fill="#0B1A2B" />
+      <path d="M0 0H16M0 0V16" stroke="#16324F" stroke-width="1" />
+    </pattern>
+    <marker id="arrowLine" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#8AB4E8" />
+    </marker>
+    <linearGradient id="ruleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A3D" />
+      <stop offset="100%" stop-color="#8AB4E8" />
+    </linearGradient>
+  </defs>
+
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#0B1A2B" />
+  <rect id="grid-field" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#gridPat)" />
+
+  <g id="page-title" data-pptx-bounds="64 56 1152 80">
+    <text x="64" y="100" font-size="48" font-weight="bold" fill="#E8F1FA">23 अगस्त 2023: सॉफ़्ट लैंडिंग</text>
+    <line x1="64" y1="132" x2="1216" y2="132" stroke="#2A4A6B" stroke-width="1" />
+    <rect x="64" y="130" width="176" height="4" fill="url(#ruleGrad)" />
+  </g>
+
+  <g id="descent-axis" data-pptx-bounds="64 160 456 82">
+    <line x1="96" y1="200" x2="500" y2="200" stroke="#8AB4E8" stroke-width="2" marker-end="url(#arrowLine)" />
+    <line x1="140" y1="188" x2="140" y2="212" stroke="#8AB4E8" stroke-width="2" />
+    <line x1="280" y1="188" x2="280" y2="212" stroke="#8AB4E8" stroke-width="2" />
+    <line x1="440" y1="184" x2="440" y2="216" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="440" cy="200" r="14" fill="#FF7A3D" />
+    <text x="140" y="234" font-size="22" text-anchor="middle" fill="#9FB6CC">अवतरण</text>
+    <text x="440" y="234" font-size="22" text-anchor="middle" fill="#FF7A3D">सतह</text>
+  </g>
+
+  <g id="landing-specs" data-pptx-bounds="64 262 456 188">
+    <text x="64" y="284" font-size="22" fill="#9FB6CC">नियोजित अवतरण-मानदंड</text>
+    <circle cx="72" cy="324" r="5" fill="#8AB4E8" />
+    <text x="96" y="332" font-size="28" fill="#E8F1FA">ऊर्ध्व वेग ≤ 2 मी/से</text>
+    <circle cx="72" cy="364" r="5" fill="#8AB4E8" />
+    <text x="96" y="372" font-size="28" fill="#E8F1FA">क्षैतिज वेग ≤ 0.5 मी/से</text>
+    <circle cx="72" cy="404" r="5" fill="#8AB4E8" />
+    <text x="96" y="412" font-size="28" fill="#E8F1FA">ढलान ≤ 12°</text>
+  </g>
+
+  <g id="landing-cross" data-pptx-bounds="64 506 456 100">
+    <line x1="76" y1="545" x2="132" y2="545" stroke="#FF7A3D" stroke-width="2" />
+    <line x1="104" y1="517" x2="104" y2="573" stroke="#FF7A3D" stroke-width="2" />
+    <circle cx="104" cy="545" r="10" fill="none" stroke="#FF7A3D" stroke-width="2" />
+    <text x="150" y="532" font-size="22" fill="#9FB6CC">लक्षित अवतरण-क्षेत्र</text>
+    <text x="150" y="562" font-family="Consolas" font-size="20" fill="#E8F1FA">69.367621 S<tspan x="150" dy="26">32.348126 E</tspan></text>
+  </g>
+
+  <g id="terrain-band" data-pptx-bounds="560 168 656 452">
+    <image href="../images/south_pole_terrain.jpg" x="560" y="178" width="656" height="367" preserveAspectRatio="xMidYMid meet" />
+    <rect x="560" y="178" width="656" height="367" fill="none" stroke="#2A4A6B" stroke-width="1.5" />
+    <text x="560" y="575" font-size="22" fill="#9FB6CC">दक्षिणी ध्रुव क्षेत्र का योजनाबद्ध चार्ट (संकलन);<tspan x="560" dy="26">नारंगी बॉक्स = 4 × 2.4 किमी का लक्षित क्षेत्र</tspan></text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 682 1152 28" fill="#9FB6CC" font-size="16">
+    <text x="64" y="700">स्रोत: ISRO, Chandrayaan-3 / Chandrayaan-3 Details (isro.gov.in, 2023) — तथ्य F005, F006, F010</text>
+    <text x="1216" y="700" font-family="Consolas" text-anchor="end">06 / 13</text>
+  </g>
+</svg>

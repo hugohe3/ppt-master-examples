@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Leelawadee UI, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF7EF"/>
+  <g id="page-header" data-pptx-bounds="64 64 1152 133">
+    <text x="64" y="84" font-size="18" font-weight="bold" fill="#C8952B">ตอนที่ 1 · พันธุ์และตัวตน</text>
+    <text x="64" y="128" font-size="40" font-weight="bold" fill="#2F5D3A">25 พฤษภาคม 2502 วันที่ขาวดอกมะลิ 105 เป็นพันธุ์รับรอง</text>
+    <line x1="64" y1="150" x2="1216" y2="150" stroke="#DCD3C2" stroke-width="1"/>
+    <text x="64" y="186" font-size="30" fill="#26241F">พันธุ์นี้ทนดินที่คนอื่นปลูกไม่ได้ แต่ยอมแพ้ให้โรคและแมลงแทบทุกชนิด</text>
+  </g>
+  <g id="variety-seal" data-pptx-bounds="64 198 380 244">
+    <g id="p04-certification-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="64 200 380 240" fill="#2F5D3A" stroke="none">
+<path d="M 64 240 A 40 40 0 0 0 104 200 L 404 200 A 40 40 0 0 0 444 240 L 444 400 A 40 40 0 0 0 404 440 L 104 440 A 40 40 0 0 0 64 400 Z"/>
+</g>
+    <use data-icon="chunk-filled/badge-check" x="234" y="242" width="40" height="40" fill="#C8952B"/>
+    <text x="254" y="314" font-size="18" fill="#F1E8D6" text-anchor="middle">พันธุ์รับรองเมื่อ</text>
+    <text x="254" y="356" font-size="30" font-weight="bold" fill="#FBF7EF" text-anchor="middle">25 พฤษภาคม 2502</text>
+    <text x="254" y="394" font-size="18" fill="#DCD3C2" text-anchor="middle">โดยคณะกรรมการ<tspan x="254" dy="28">การพิจารณาพันธุ์</tspan></text>
+  </g>
+  <g id="variety-traits" data-pptx-bounds="476 200 740 340">
+    <g id="trait-photoperiod">
+      <use data-icon="chunk-filled/sun" x="476" y="208" width="30" height="30" fill="#2F5D3A"/>
+      <text x="524" y="232" font-size="24" fill="#26241F">ข้าวเจ้าไวต่อช่วงแสง สูงประมาณ 140 เซนติเมตร</text>
+    </g>
+    <g id="trait-harvest">
+      <use data-icon="chunk-filled/calendar" x="476" y="260" width="30" height="30" fill="#2F5D3A"/>
+      <text x="524" y="284" font-size="24" fill="#26241F">อายุเก็บเกี่ยวประมาณวันที่ 25 พฤศจิกายนของทุกปี</text>
+    </g>
+    <g id="trait-grain-size">
+      <use data-icon="chunk-filled/leaf" x="476" y="312" width="30" height="30" fill="#2F5D3A"/>
+      <text x="524" y="336" font-size="24" fill="#26241F">เมล็ดข้าวกล้อง 7.5 × 2.1 × 1.8 มม.<tspan x="524" dy="36">เมล็ดข้าวเปลือก 10.6 × 2.5 × 1.9 มม.</tspan></text>
+    </g>
+    <g id="trait-amylose">
+      <use data-icon="chunk-filled/droplet" x="476" y="400" width="30" height="30" fill="#2F5D3A"/>
+      <text x="524" y="424" font-size="24" fill="#26241F">อมิโลส 12–17 % หุงสุกอ่อนนุ่ม กลิ่นหอมคล้ายใบเตย</text>
+    </g>
+    <g id="trait-yield">
+      <use data-icon="chunk-filled/chart-line" x="476" y="452" width="30" height="30" fill="#2F5D3A"/>
+      <text x="524" y="476" font-size="24" fill="#26241F">ผลผลิตประมาณ <tspan font-weight="bold" fill="#8C3B2E">363 กิโลกรัมต่อไร่</tspan></text>
+    </g>
+    <g id="trait-region">
+      <use data-icon="chunk-filled/map" x="476" y="504" width="30" height="30" fill="#2F5D3A"/>
+      <text x="524" y="528" font-size="24" fill="#26241F">พื้นที่แนะนำ ภาคตะวันออกเฉียงเหนือและภาคเหนือตอนบน</text>
+    </g>
+  </g>
+  <g id="strength-band" data-pptx-bounds="64 554 1152 46">
+    <rect x="64" y="554" width="1152" height="46" fill="#2E7D32" fill-opacity="0.10"/>
+    <use data-icon="chunk-filled/shield-check" x="88" y="564" width="26" height="26" fill="#2E7D32"/>
+    <text x="128" y="584" font-size="18" font-weight="bold" fill="#2E7D32">จุดแข็ง</text>
+    <text x="208" y="584" font-size="18" fill="#26241F">ทนแล้ง ทนดินเปรี้ยวและดินเค็ม เมล็ดข้าวสารใส แกร่ง คุณภาพการสีดี</text>
+  </g>
+  <g id="caution-band" data-pptx-bounds="64 608 1152 46">
+    <rect x="64" y="608" width="1152" height="46" fill="#F57C00" fill-opacity="0.12"/>
+    <use data-icon="chunk-filled/bug" x="88" y="618" width="26" height="26" fill="#8C3B2E"/>
+    <text x="128" y="638" font-size="18" font-weight="bold" fill="#8C3B2E">ข้อควรระวัง</text>
+    <text x="240" y="638" font-size="18" fill="#26241F">ไม่ต้านทานโรคใบสีส้ม ขอบใบแห้ง ไหม้ ใบหงิก และไม่ต้านทานเพลี้ยกระโดดสีน้ำตาล เพลี้ยจักจั่นสีเขียว หนอนกอ</text>
+  </g>
+  <g id="page-footer" data-pptx-bounds="64 672 1152 26" font-family="Tahoma, sans-serif" font-size="16" fill="#5F5A50">
+    <text x="64" y="688">ที่มา: Rice Knowledge Bank กรมการข้าว · ชื่อพันธุ์ ขาวดอกมะลิ 105 สำนักงานปลัดกระทรวงเกษตรและสหกรณ์</text>
+    <text x="1216" y="688" text-anchor="end">04</text>
+  </g>
+</svg>
