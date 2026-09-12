@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "http://country.people.com.cn/gb/n1/2018/0914/c419842-30292746.html",
+    "name": "http://country.people.com.cn/gb/n1/2018/0914/c419842-30292746.html",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "成都平原何以成天府之国都江堰一水润泽万顷田--美丽乡村--人民网.md",
+    "asset_dir": "成都平原何以成天府之国都江堰一水润泽万顷田--美丽乡村--人民网_files",
+    "image_manifest": "成都平原何以成天府之国都江堰一水润泽万顷田--美丽乡村--人民网_files/image_manifest.json",
+    "image_count": 3
+  },
+  "markdown": {
+    "line_count": 202,
+    "char_count": 7129,
+    "heading_count": 1,
+    "table_count": 1,
+    "image_ref_count": 3,
+    "link_count": 0
+  },
+  "warnings": []
+}

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="18" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p11-wash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08152A" stop-opacity="0"/>
+      <stop offset="68%" stop-color="#08152A" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#08152A" stop-opacity="0.58"/>
+    </linearGradient>
+    <clipPath id="p11-main-clip"><rect x="64" y="170" width="760" height="480" rx="16"/></clipPath>
+    <clipPath id="p11-badge-clip"><rect x="900" y="170" width="280" height="190" rx="12"/></clipPath>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA"/>
+
+  <g id="header" data-pptx-bounds="64 56 1152 76">
+    <text x="64" y="76" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">08 · 现场</text>
+    <text x="64" y="112" font-family="SimSun, FangSong" font-size="30" font-weight="bold" fill="#14335C">从冰冷的数字,到真实的乘坐体验</text>
+  </g>
+
+  <g id="onboard-main" data-pptx-bounds="64 170 760 480">
+    <image href="../images/fuxing_interior.jpg" x="64" y="170" width="760" height="480" preserveAspectRatio="xMidYMid slice" clip-path="url(#p11-main-clip)"/>
+    <rect x="64" y="170" width="760" height="480" rx="16" fill="url(#p11-wash)"/>
+    <text x="88" y="606" font-size="20" font-weight="bold" fill="#FFFFFF">复兴号商务座车厢内饰</text>
+    <text x="88" y="630" font-size="15" fill="#E7EAF1">图片:<a href="https://commons.wikimedia.org/wiki/File:Car_16_premium_class_interior_of_CR400AF-AE-2399_(20260810101430).jpg"><tspan text-decoration="underline">N509FZ, CC BY-SA 4.0</tspan></a></text>
+  </g>
+
+  <g id="fuxing-badge" data-pptx-bounds="900 170 280 190">
+    <image href="../images/fuxing_train_device.jpg" x="900" y="170" width="280" height="190" preserveAspectRatio="xMidYMid slice" clip-path="url(#p11-badge-clip)"/>
+    <rect x="900" y="170" width="280" height="190" rx="12" fill="none" stroke="#14335C" stroke-width="2"/>
+  </g>
+
+  <g id="onboard-side-text" data-pptx-bounds="900 388 280 262">
+    <text x="900" y="410" font-size="18" font-weight="bold" fill="#14335C">装备升级的落点</text>
+    <text x="900" y="440" font-size="16">机车、动车组、货车的<tspan x="900" dy="22">数字增长,最终体现在</tspan><tspan x="900" dy="22">每一次真实的出行体验上。</tspan></text>
+    <line x1="900" y1="512" x2="1180" y2="512" stroke="#D7DBE3"/>
+    <text x="900" y="536" font-size="15" fill="#5B6472">图片:<a href="https://commons.wikimedia.org/wiki/File:CR400AF-2007_at_Guangnan_(20181107092901).jpg"><tspan text-decoration="underline">N509FZ, CC BY-SA 4.0</tspan></a></text>
+    <text x="900" y="556" font-size="15" fill="#5B6472">Wikimedia Commons</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 676 1152 30">
+    <line x1="64" y1="676" x2="1216" y2="676" stroke="#D7DBE3" stroke-width="1"/>
+    <text x="64" y="700" font-size="16" fill="#5B6472">中国铁路2024:数据与现场</text>
+    <text x="1216" y="700" font-size="16" fill="#5B6472" text-anchor="end">11 / 15</text>
+  </g>
+</svg>

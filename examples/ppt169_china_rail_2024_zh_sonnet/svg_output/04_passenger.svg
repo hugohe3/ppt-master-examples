@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="18" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p04-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C" /><stop offset="100%" stop-color="#C81E3A" />
+    </linearGradient>
+    <linearGradient id="p04-photo-wash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08152A" stop-opacity="0" />
+      <stop offset="60%" stop-color="#08152A" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#08152A" stop-opacity="0.62" />
+    </linearGradient>
+    <clipPath id="p04-photo-clip"><rect x="64" y="486" width="1152" height="150" rx="12" /></clipPath>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA" />
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-weight="bold" letter-spacing="2" fill="#C81E3A">02 · 客运</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#14335C">国家铁路挑大梁,其他铁路增速更猛</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#p04-accent-bar)" />
+  </g>
+
+  <g id="passenger-table" data-pptx-bounds="64 176 560 280" data-pptx-replace-with="table" data-pptx-fallback-sha256="31de65f1b0daab2b5321e48b785d905b2c3b980a5540dbce8f2fcad5beecb52e">
+    <metadata type="application/json">
+    {
+      "schema": "ppt-master.semantic-table.v2",
+      "x": 64, "y": 176, "width": 560, "height": 280,
+      "columns": [
+        {"text": "指标", "align": "l", "bold": true, "color": "#FFFFFF", "fill": "#14335C"},
+        {"text": "单位", "align": "ctr", "bold": true, "color": "#FFFFFF", "fill": "#14335C"},
+        {"text": "2024年", "align": "r", "bold": true, "color": "#FFFFFF", "fill": "#14335C"},
+        {"text": "比上年±%", "align": "r", "bold": true, "color": "#FFFFFF", "fill": "#14335C"}
+      ],
+      "row_heights": [40,40,40,40,40,40,40],
+      "rows": [
+        [{"text":"旅客发送量","bold":true},{"text":"万人","align":"ctr"},{"text":"431240","align":"r"},{"text":"+11.9%","align":"r","color":"#2E7D32"}],
+        [{"text":"国家铁路","color":"#5B6472"},{"text":"万人","align":"ctr","color":"#5B6472"},{"text":"408516","align":"r"},{"text":"+10.9%","align":"r","color":"#2E7D32"}],
+        [{"text":"其他铁路","color":"#5B6472"},{"text":"万人","align":"ctr","color":"#5B6472"},{"text":"22724","align":"r"},{"text":"+34.0%","align":"r","color":"#2E7D32"}],
+        [{"text":"旅客周转量","bold":true},{"text":"亿人公里","align":"ctr"},{"text":"15799.10","align":"r"},{"text":"+7.3%","align":"r","color":"#2E7D32"}],
+        [{"text":"国家铁路","color":"#5B6472"},{"text":"亿人公里","align":"ctr","color":"#5B6472"},{"text":"15776.35","align":"r"},{"text":"+7.2%","align":"r","color":"#2E7D32"}],
+        [{"text":"其他铁路","color":"#5B6472"},{"text":"亿人公里","align":"ctr","color":"#5B6472"},{"text":"22.74","align":"r"},{"text":"+85.9%","align":"r","color":"#2E7D32"}]
+      ],
+      "defaults": {"cell": {"padding": 8, "font_size": 18, "valign": "middle"}, "run": {"font_family": "Microsoft YaHei"}}
+    }
+    </metadata>
+    <rect x="64" y="176" width="560" height="280" fill="#FFFFFF" />
+    <rect x="64" y="176" width="560" height="40" fill="#14335C" />
+    <text x="80" y="202" fill="#FFFFFF" font-weight="bold">指标</text>
+    <text x="354" y="202" fill="#FFFFFF" font-weight="bold" text-anchor="middle">单位</text>
+    <text x="508" y="202" fill="#FFFFFF" font-weight="bold" text-anchor="end">2024年</text>
+    <text x="608" y="202" fill="#FFFFFF" font-weight="bold" text-anchor="end">比上年±%</text>
+
+    <rect x="64" y="216" width="560" height="40" fill="#E7EAF1" />
+    <text x="80" y="242" font-weight="bold">旅客发送量</text>
+    <text x="354" y="242" text-anchor="middle">万人</text>
+    <text x="508" y="242" text-anchor="end">431240</text>
+    <text x="608" y="242" text-anchor="end" fill="#2E7D32" font-weight="bold">+11.9%</text>
+
+    <text x="96" y="282" fill="#5B6472">国家铁路</text>
+    <text x="354" y="282" text-anchor="middle" fill="#5B6472">万人</text>
+    <text x="508" y="282" text-anchor="end">408516</text>
+    <text x="608" y="282" text-anchor="end" fill="#2E7D32">+10.9%</text>
+
+    <text x="96" y="322" fill="#5B6472">其他铁路</text>
+    <text x="354" y="322" text-anchor="middle" fill="#5B6472">万人</text>
+    <text x="508" y="322" text-anchor="end">22724</text>
+    <text x="608" y="322" text-anchor="end" fill="#2E7D32">+34.0%</text>
+
+    <line x1="64" y1="336" x2="624" y2="336" stroke="#D7DBE3" />
+    <rect x="64" y="336" width="560" height="40" fill="#E7EAF1" />
+    <text x="80" y="362" font-weight="bold">旅客周转量</text>
+    <text x="354" y="362" text-anchor="middle">亿人公里</text>
+    <text x="508" y="362" text-anchor="end">15799.10</text>
+    <text x="608" y="362" text-anchor="end" fill="#2E7D32" font-weight="bold">+7.3%</text>
+
+    <text x="96" y="402" fill="#5B6472">国家铁路</text>
+    <text x="354" y="402" text-anchor="middle" fill="#5B6472">亿人公里</text>
+    <text x="508" y="402" text-anchor="end">15776.35</text>
+    <text x="608" y="402" text-anchor="end" fill="#2E7D32">+7.2%</text>
+
+    <text x="96" y="442" fill="#5B6472">其他铁路</text>
+    <text x="354" y="442" text-anchor="middle" fill="#5B6472">亿人公里</text>
+    <text x="508" y="442" text-anchor="end">22.74</text>
+    <text x="608" y="442" text-anchor="end" fill="#2E7D32">+85.9%</text>
+    <line x1="64" y1="456" x2="624" y2="456" stroke="#D7DBE3" />
+  </g>
+
+  <g id="passenger-split" data-pptx-bounds="656 176 496 280">
+    <text x="656" y="196" font-size="20" font-weight="bold" fill="#14335C">客运结构占比(按发送量,依表格数字换算)</text>
+    <rect x="656" y="246" width="496" height="40" fill="#E7EAF1" />
+    <rect x="656" y="246" width="470" height="40" fill="#14335C" />
+    <rect x="1126" y="246" width="26" height="40" fill="#1D7A8C" />
+    <rect x="656" y="330" width="14" height="14" fill="#14335C" />
+    <text x="678" y="342" font-size="20">国家铁路 <tspan font-weight="bold">94.7%</tspan></text>
+    <rect x="656" y="360" width="14" height="14" fill="#1D7A8C" />
+    <text x="678" y="372" font-size="20">其他铁路 <tspan font-weight="bold">5.3%</tspan>(发送量增速 <tspan fill="#2E7D32" font-weight="bold">+34.0%</tspan>)</text>
+    <text x="656" y="416" font-size="16" fill="#5B6472">占比按公报表格万人数字直接换算,非公报原文披露值</text>
+  </g>
+
+  <g id="passenger-photo" data-pptx-bounds="64 486 1152 150">
+    <image href="../images/shanghai_hongqiao.jpg" x="64" y="486" width="1152" height="150" preserveAspectRatio="xMidYMid slice" clip-path="url(#p04-photo-clip)" />
+    <rect x="64" y="486" width="1152" height="150" rx="12" fill="url(#p04-photo-wash)" />
+    <text x="88" y="614" font-size="20" font-weight="bold" fill="#FFFFFF">上海虹桥站候车厅</text>
+    <text x="1192" y="620" font-size="15" fill="#E7EAF1" text-anchor="end">图片:<a href="https://commons.wikimedia.org/wiki/File:2010-07-22_Shanghai_Hongqiao_Railway_Station_waiting_hall.jpg"><tspan text-decoration="underline">Patrick Nagel, CC BY-SA 3.0</tspan></a></text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 662 1152 30">
+    <line x1="64" y1="662" x2="1216" y2="662" stroke="#D7DBE3" stroke-width="1" />
+    <text x="64" y="686" font-size="16" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第2页</text>
+    <text x="1216" y="686" font-size="16" fill="#5B6472" text-anchor="end">04 / 15</text>
+  </g>
+</svg>

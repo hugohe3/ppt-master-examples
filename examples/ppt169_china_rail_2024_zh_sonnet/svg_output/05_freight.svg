@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="18" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p05-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C" /><stop offset="100%" stop-color="#C81E3A" />
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA" />
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-weight="bold" letter-spacing="2" fill="#C81E3A">03 · 货运</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#14335C">总发送量增,总周转量降——运距在缩短</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#p05-accent-bar)" />
+  </g>
+
+  <g id="freight-table" data-pptx-bounds="64 190 600 280" data-pptx-replace-with="table" data-pptx-fallback-sha256="381b7fb154f04dc57de2bbd30a87ee3078553397c67a8ed3f0f62d7e426f4a2b">
+    <metadata type="application/json">
+    {
+      "schema": "ppt-master.semantic-table.v2",
+      "x": 64, "y": 190, "width": 600, "height": 280,
+      "columns": [
+        {"text": "指标", "align": "l", "bold": true, "color": "#FFFFFF", "fill": "#14335C"},
+        {"text": "单位", "align": "ctr", "bold": true, "color": "#FFFFFF", "fill": "#14335C"},
+        {"text": "2024年", "align": "r", "bold": true, "color": "#FFFFFF", "fill": "#14335C"},
+        {"text": "比上年±%", "align": "r", "bold": true, "color": "#FFFFFF", "fill": "#14335C"}
+      ],
+      "row_heights": [40,40,40,40,40,40,40],
+      "rows": [
+        [{"text":"货运总发送量","bold":true},{"text":"万吨","align":"ctr"},{"text":"517477","align":"r"},{"text":"+2.8%","align":"r","color":"#2E7D32"}],
+        [{"text":"国家铁路","color":"#5B6472"},{"text":"万吨","align":"ctr","color":"#5B6472"},{"text":"398531","align":"r"},{"text":"+1.9%","align":"r","color":"#2E7D32"}],
+        [{"text":"其他铁路","color":"#5B6472"},{"text":"万吨","align":"ctr","color":"#5B6472"},{"text":"118946","align":"r"},{"text":"+5.8%","align":"r","color":"#2E7D32"}],
+        [{"text":"货运总周转量","bold":true},{"text":"亿吨公里","align":"ctr"},{"text":"35861.90","align":"r"},{"text":"-1.6%","align":"r","color":"#C62828"}],
+        [{"text":"国家铁路","color":"#5B6472"},{"text":"亿吨公里","align":"ctr","color":"#5B6472"},{"text":"32580.63","align":"r"},{"text":"-0.2%","align":"r","color":"#C62828"}],
+        [{"text":"其他铁路","color":"#5B6472"},{"text":"亿吨公里","align":"ctr","color":"#5B6472"},{"text":"3281.26","align":"r"},{"text":"-14.1%","align":"r","color":"#C62828"}]
+      ],
+      "defaults": {"cell": {"padding": 8, "font_size": 18, "valign": "middle"}, "run": {"font_family": "Microsoft YaHei"}}
+    }
+    </metadata>
+    <rect x="64" y="190" width="600" height="280" fill="#FFFFFF" />
+    <rect x="64" y="190" width="600" height="40" fill="#14335C" />
+    <text x="80" y="216" fill="#FFFFFF" font-weight="bold">指标</text>
+    <text x="354" y="216" fill="#FFFFFF" font-weight="bold" text-anchor="middle">单位</text>
+    <text x="548" y="216" fill="#FFFFFF" font-weight="bold" text-anchor="end">2024年</text>
+    <text x="648" y="216" fill="#FFFFFF" font-weight="bold" text-anchor="end">比上年±%</text>
+
+    <rect x="64" y="230" width="600" height="40" fill="#E7EAF1" />
+    <text x="80" y="256" font-weight="bold">货运总发送量</text>
+    <text x="354" y="256" text-anchor="middle">万吨</text>
+    <text x="548" y="256" text-anchor="end">517477</text>
+    <text x="648" y="256" text-anchor="end" fill="#2E7D32" font-weight="bold">+2.8%</text>
+
+    <text x="96" y="296" fill="#5B6472">国家铁路</text>
+    <text x="354" y="296" text-anchor="middle" fill="#5B6472">万吨</text>
+    <text x="548" y="296" text-anchor="end">398531</text>
+    <text x="648" y="296" text-anchor="end" fill="#2E7D32">+1.9%</text>
+
+    <text x="96" y="336" fill="#5B6472">其他铁路</text>
+    <text x="354" y="336" text-anchor="middle" fill="#5B6472">万吨</text>
+    <text x="548" y="336" text-anchor="end">118946</text>
+    <text x="648" y="336" text-anchor="end" fill="#2E7D32">+5.8%</text>
+
+    <line x1="64" y1="350" x2="664" y2="350" stroke="#D7DBE3" />
+    <rect x="64" y="350" width="600" height="40" fill="#E7EAF1" />
+    <text x="80" y="376" font-weight="bold">货运总周转量</text>
+    <text x="354" y="376" text-anchor="middle">亿吨公里</text>
+    <text x="548" y="376" text-anchor="end">35861.90</text>
+    <text x="648" y="376" text-anchor="end" fill="#C62828" font-weight="bold">-1.6%</text>
+
+    <text x="96" y="416" fill="#5B6472">国家铁路</text>
+    <text x="354" y="416" text-anchor="middle" fill="#5B6472">亿吨公里</text>
+    <text x="548" y="416" text-anchor="end">32580.63</text>
+    <text x="648" y="416" text-anchor="end" fill="#C62828">-0.2%</text>
+
+    <text x="96" y="456" fill="#5B6472">其他铁路</text>
+    <text x="354" y="456" text-anchor="middle" fill="#5B6472">亿吨公里</text>
+    <text x="548" y="456" text-anchor="end">3281.26</text>
+    <text x="648" y="456" text-anchor="end" fill="#C62828">-14.1%</text>
+    <line x1="64" y1="470" x2="664" y2="470" stroke="#D7DBE3" />
+  </g>
+
+  <g id="freight-callout" data-pptx-bounds="712 210 456 224">
+    <g id="p05-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRoundRectCallout" data-pptx-frame="712 210 456 190" fill="#FFFFFF" stroke="#14335C" stroke-width="2">
+      <path d="M 712 241.67 A 31.67 31.67 0 0 1 743.67 210 L 788 210 L 788 210 L 902 210 L 1136.33 210 A 31.67 31.67 0 0 1 1168 241.67 L 1168 320.83 L 1168 320.83 L 1168 368.33 L 1168 368.33 A 31.67 31.67 0 0 1 1136.33 400 L 902 400 L 845 423.75 L 788 400 L 743.67 400 A 31.67 31.67 0 0 1 712 368.33 L 712 368.33 L 712 320.83 L 712 320.83 Z" />
+    </g>
+    <use data-icon="tabler-outline/truck" x="744" y="236" width="30" height="30" fill="#14335C" stroke-width="2" />
+    <text x="786" y="258" font-size="22" font-weight="bold" fill="#14335C">量升距降</text>
+    <text x="744" y="296">总发送量同比<tspan fill="#2E7D32" font-weight="bold">+2.8%</tspan>,<tspan x="744" dy="26">总周转量却<tspan fill="#C62828" font-weight="bold">-1.6%</tspan>,</tspan><tspan x="744" dy="26">反映平均运距缩短、</tspan><tspan x="744" dy="26">短途运输占比上升。</tspan></text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 662 1152 30">
+    <line x1="64" y1="662" x2="1216" y2="662" stroke="#D7DBE3" stroke-width="1" />
+    <text x="64" y="686" font-size="16" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第3页</text>
+    <text x="1216" y="686" font-size="16" fill="#5B6472" text-anchor="end">05 / 15</text>
+  </g>
+</svg>

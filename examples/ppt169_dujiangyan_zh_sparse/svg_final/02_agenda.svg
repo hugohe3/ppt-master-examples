@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="toc">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E" />
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1" />
+  <path id="toc-rail" data-pptx-role="decoration" d="M200 232V630" fill="none" stroke="#1E3A57" stroke-width="2" />
+
+  <g id="page-title" data-pptx-bounds="68 66 560 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">本讲的四段路</text>
+    <text x="370" y="104" font-size="18" fill="#E8A33D">［整理］</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 800 80">
+    <text font-size="30" fill="#D6E4F0" x="72" y="168">先看它要解决什么问题，再看它怎么工作，</text><text font-size="30" fill="#D6E4F0" x="72" y="206">然后看它为什么没坏，最后看它今天在做什么。</text></g>
+
+  <g id="toc-item-1" data-pptx-bounds="88 236 1120 96">
+    <text x="96" y="302" font-family="SimHei, Consolas, sans-serif" font-size="72" fill="#4A90C2" fill-opacity="0.5">01</text>
+    <text x="232" y="276" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">为什么要修</text>
+    <text x="232" y="314" font-size="24" fill="#93AEC8">成都平原同时闹涝又闹旱，根子在地形。</text>
+    <text x="1208" y="314" font-size="18" fill="#4A90C2" text-anchor="end">第 3 页</text>
+  </g>
+
+  <g id="toc-item-2" data-pptx-bounds="88 334 1120 96">
+    <text x="96" y="400" font-family="SimHei, Consolas, sans-serif" font-size="72" fill="#4A90C2" fill-opacity="0.5">02</text>
+    <text x="232" y="374" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">它怎么工作</text>
+    <text x="232" y="412" font-size="24" fill="#93AEC8">分水、排沙、引水——三件工程各管一段。</text>
+    <text x="1208" y="412" font-size="18" fill="#4A90C2" text-anchor="end">第 4–8 页</text>
+  </g>
+
+  <g id="toc-item-3" data-pptx-bounds="88 432 1120 96">
+    <text x="96" y="498" font-family="SimHei, Consolas, sans-serif" font-size="72" fill="#4A90C2" fill-opacity="0.5">03</text>
+    <text x="232" y="472" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">它为什么能活两千年</text>
+    <text x="232" y="510" font-size="24" fill="#93AEC8">六个字写成口诀，维护写成制度。</text>
+    <text x="1208" y="510" font-size="18" fill="#4A90C2" text-anchor="end">第 9–10 页</text>
+  </g>
+
+  <g id="toc-item-4" data-pptx-bounds="88 530 1120 96">
+    <text x="96" y="596" font-family="SimHei, Consolas, sans-serif" font-size="72" fill="#E8A33D" fill-opacity="0.6">04</text>
+    <text x="232" y="570" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">它今天在做什么</text>
+    <text x="232" y="608" font-size="24" fill="#93AEC8">全国第一大灌区，2025 年计划灌面 1164.7 万亩。</text>
+    <text x="1208" y="608" font-size="18" fill="#4A90C2" text-anchor="end">第 11–13 页</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1" />
+    <text x="72" y="668" font-size="16" fill="#93AEC8">本页的四段分法是本讲整理的讲解顺序，不是史料原有分法。</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">02 / 14</text>
+  </g>
+</svg>

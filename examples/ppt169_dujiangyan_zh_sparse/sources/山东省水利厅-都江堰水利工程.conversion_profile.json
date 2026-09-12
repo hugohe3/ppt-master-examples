@@ -1,0 +1,30 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "http://wr.shandong.gov.cn/swh_319/201505/t20150518_4707161.html",
+    "name": "http://wr.shandong.gov.cn/swh_319/201505/t20150518_4707161.html",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "山东省水利厅-都江堰水利工程.md",
+    "asset_dir": "山东省水利厅-都江堰水利工程_files",
+    "image_manifest": "山东省水利厅-都江堰水利工程_files/image_manifest.json",
+    "image_count": 1
+  },
+  "markdown": {
+    "line_count": 11,
+    "char_count": 184,
+    "heading_count": 1,
+    "table_count": 0,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": [
+    "no readable body text extracted; the page may render its content with scripts or link to it elsewhere"
+  ]
+}

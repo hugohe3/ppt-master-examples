@@ -1,0 +1,323 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="420" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">04 合规红线</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">先说一件事：条号全变了</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="article-renumber" data-pptx-replace-with="table" data-pptx-bounds="72 200 1136 370" data-pptx-fallback-sha256="45fb32cba9be0fb5564dc9cac8a60391f1e4232a0cc2973708638b30763248a5">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 72,
+  "y": 206,
+  "width": 1136,
+  "height": 358,
+  "name": "article-renumber",
+  "column_widths": [
+    560,
+    240,
+    336
+  ],
+  "row_heights": [
+    38,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32
+  ],
+  "style": {
+    "font_size": 18,
+    "header_fill": "#1F2A37",
+    "header_text": "#F7F4EE",
+    "body_text": "#232A31",
+    "band_row": false
+  },
+  "defaults": {
+    "cell": {
+      "font_size": 18,
+      "align": "l",
+      "valign": "middle",
+      "padding": 14,
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#E4DED3",
+          "width": 1
+        }
+      }
+    }
+  },
+  "columns": [
+    {
+      "text": "内容",
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#1F2A37",
+          "width": 2
+        }
+      }
+    },
+    {
+      "text": "2016 年版旧条号",
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#1F2A37",
+          "width": 2
+        }
+      }
+    },
+    {
+      "text": "2025 年修正后现行条号",
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#1F2A37",
+          "width": 2
+        }
+      }
+    }
+  ],
+  "rows": [
+    [
+      {
+        "text": "用户行为红线"
+      },
+      {
+        "text": "第十二条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第十三条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "等级保护与日志留存六个月"
+      },
+      {
+        "text": "第二十一条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第二十三条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "应急预案与事件报告"
+      },
+      {
+        "text": "第二十五条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第二十七条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "禁止危害网络安全活动"
+      },
+      {
+        "text": "第二十七条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第二十九条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "个人信息收集使用原则"
+      },
+      {
+        "text": "第四十一条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第四十三条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "不得泄露与泄露补救告知"
+      },
+      {
+        "text": "第四十二条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第四十四条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "删除权与更正权"
+      },
+      {
+        "text": "第四十三条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第四十五条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "等保义务罚则"
+      },
+      {
+        "text": "第五十九条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第六十一条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "危害网络安全活动罚则"
+      },
+      {
+        "text": "第六十三条",
+        "color": "#8A8478"
+      },
+      {
+        "text": "第六十六条",
+        "color": "#C0392B",
+        "bold": true
+      }
+    ],
+    [
+      {
+        "text": "侵害个人信息罚则",
+        "borders": {
+          "bottom": {
+            "style": "solid",
+            "color": "#1F2A37",
+            "width": 2
+          }
+        }
+      },
+      {
+        "text": "第六十四条",
+        "color": "#8A8478",
+        "borders": {
+          "bottom": {
+            "style": "solid",
+            "color": "#1F2A37",
+            "width": 2
+          }
+        }
+      },
+      {
+        "text": "第七十一条（已改为转致）",
+        "color": "#C0392B",
+        "bold": true,
+        "borders": {
+          "bottom": {
+            "style": "solid",
+            "color": "#1F2A37",
+            "width": 2
+          }
+        }
+      }
+    ]
+  ]
+}
+    </metadata>
+    <rect x="72" y="206" width="1136" height="38" fill="#1F2A37" />
+    <g font-size="18" font-weight="bold" fill="#F7F4EE">
+      <text x="86" y="231">内容</text>
+      <text x="646" y="231">2016 年版旧条号</text>
+      <text x="886" y="231">2025 年修正后现行条号</text>
+    </g>
+    <g font-size="18">
+      <text x="86" y="266" fill="#232A31">用户行为红线</text>
+      <text x="646" y="266" fill="#8A8478">第十二条</text>
+      <text x="886" y="266" fill="#C0392B" font-weight="bold">第十三条</text>
+      <text x="86" y="298" fill="#232A31">等级保护与日志留存六个月</text>
+      <text x="646" y="298" fill="#8A8478">第二十一条</text>
+      <text x="886" y="298" fill="#C0392B" font-weight="bold">第二十三条</text>
+      <text x="86" y="330" fill="#232A31">应急预案与事件报告</text>
+      <text x="646" y="330" fill="#8A8478">第二十五条</text>
+      <text x="886" y="330" fill="#C0392B" font-weight="bold">第二十七条</text>
+      <text x="86" y="362" fill="#232A31">禁止危害网络安全活动</text>
+      <text x="646" y="362" fill="#8A8478">第二十七条</text>
+      <text x="886" y="362" fill="#C0392B" font-weight="bold">第二十九条</text>
+      <text x="86" y="394" fill="#232A31">个人信息收集使用原则</text>
+      <text x="646" y="394" fill="#8A8478">第四十一条</text>
+      <text x="886" y="394" fill="#C0392B" font-weight="bold">第四十三条</text>
+      <text x="86" y="426" fill="#232A31">不得泄露与泄露补救告知</text>
+      <text x="646" y="426" fill="#8A8478">第四十二条</text>
+      <text x="886" y="426" fill="#C0392B" font-weight="bold">第四十四条</text>
+      <text x="86" y="458" fill="#232A31">删除权与更正权</text>
+      <text x="646" y="458" fill="#8A8478">第四十三条</text>
+      <text x="886" y="458" fill="#C0392B" font-weight="bold">第四十五条</text>
+      <text x="86" y="490" fill="#232A31">等保义务罚则</text>
+      <text x="646" y="490" fill="#8A8478">第五十九条</text>
+      <text x="886" y="490" fill="#C0392B" font-weight="bold">第六十一条</text>
+      <text x="86" y="522" fill="#232A31">危害网络安全活动罚则</text>
+      <text x="646" y="522" fill="#8A8478">第六十三条</text>
+      <text x="886" y="522" fill="#C0392B" font-weight="bold">第六十六条</text>
+      <text x="86" y="554" fill="#232A31">侵害个人信息罚则</text>
+      <text x="646" y="554" fill="#8A8478">第六十四条</text>
+      <text x="886" y="554" fill="#C0392B" font-weight="bold">第七十一条（已改为转致）</text>
+    </g>
+    <line x1="72" y1="276" x2="1208" y2="276" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="308" x2="1208" y2="308" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="340" x2="1208" y2="340" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="372" x2="1208" y2="372" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="404" x2="1208" y2="404" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="436" x2="1208" y2="436" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="468" x2="1208" y2="468" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="500" x2="1208" y2="500" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="532" x2="1208" y2="532" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="564" x2="1208" y2="564" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="effective-date-trap" data-pptx-bounds="72 574 1136 84">
+    <rect x="72" y="578" width="1136" height="76" fill="#C0392B" fill-opacity="0.07" />
+    <rect x="72" y="578" width="4" height="76" fill="#C0392B" />
+    <text font-size="18" fill="#232A31" x="100" y="606">修正后第八十一条仍写「本法自 2017 年 6 月 1 日起施行」；</text><text font-size="18" fill="#232A31" x="100" y="632">2026 年 1 月 1 日是修改决定的生效日；正确说法是「2025 年修正，修正后的规定自 2026 年 1 月 1 日起施行」。</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：2025 年 10 月 28 日十四届全国人大常委会第十八次会议修改决定，修正后全文 81 条（F001、F002、F003）</text>
+    <text x="1208" y="686" text-anchor="end">20 / 28</text>
+  </g>
+</svg>

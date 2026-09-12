@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE"/>
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1"/>
+    <rect x="38" y="320" width="12" height="34" fill="#C0392B"/>
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">03 数据与设备</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">什么数据不能出门</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2"/>
+  </g>
+  <g id="escalation-scale" data-pptx-bounds="72 192 700 40">
+    <g id="p15-escalation-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="72 196 220 28" fill="#C9C1B4" stroke="none">
+<path d="M 72 203 L 278 203 L 278 196 L 292 210 L 278 224 L 278 217 L 72 217 Z"/>
+</g>
+    <text x="304" y="218" font-size="18" fill="#5A6068">敏感度与外发限制递增</text>
+  </g>
+  <g id="grade-public" data-pptx-bounds="72 306 260 236">
+    <rect x="72" y="314" width="260" height="24" fill="#C9C1B4"/>
+    <text x="72" y="380" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">公开</text>
+    <text x="72" y="420" font-size="24" fill="#232A31">已对外发布，<tspan x="72" dy="34">可自由外发。</tspan></text>
+  </g>
+  <g id="grade-internal" data-pptx-bounds="364 282 260 260">
+    <rect x="364" y="290" width="260" height="48" fill="#D98B7F"/>
+    <text x="364" y="380" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">内部</text>
+    <text x="364" y="420" font-size="24" fill="#232A31">仅限在职员工，<tspan x="364" dy="34">外发需业务负责人</tspan><tspan x="364" dy="34">确认。</tspan></text>
+  </g>
+  <g id="grade-sensitive" data-pptx-bounds="656 258 260 284">
+    <rect x="656" y="266" width="260" height="72" fill="#C0392B"/>
+    <text x="656" y="380" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">敏感</text>
+    <text x="656" y="420" font-size="24" fill="#232A31">客户与员工个人信息、<tspan x="656" dy="34">合同与报价；外发需</tspan><tspan x="656" dy="34">安全与法务确认，</tspan><tspan x="656" dy="34">并留痕。</tspan></text>
+  </g>
+  <g id="grade-important" data-pptx-bounds="948 234 260 308">
+    <rect x="948" y="242" width="260" height="96" fill="#1F2A37"/>
+    <text x="948" y="380" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">重要数据</text>
+    <text x="948" y="420" font-size="24" fill="#232A31">按主管部门目录认定；<tspan x="948" dy="34">处理者须定期开展风险</tspan><tspan x="948" dy="34">评估，并向主管部门</tspan><tspan x="948" dy="34">报送报告。</tspan></text>
+  </g>
+  <g id="legal-basis" data-pptx-bounds="72 552 1136 56">
+    <text x="72" y="570" font-size="18" fill="#5A6068">法定依据：《网络安全法》第二十三条第（四）项数据分类、重要数据备份和加密；<tspan x="72" dy="26">《数据安全法》第三十条重要数据定期风险评估并报送；《个人信息保护法》第五十一条分类管理与加密去标识化。</tspan></text>
+  </g>
+  <g id="compile-note" data-pptx-bounds="72 614 820 46">
+    <g id="p15-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 618 76 32" fill="#E0D9CC" stroke="none">
+<path d="M 72 623.33 A 5.33 5.33 0 0 0 77.33 618 L 142.67 618 A 5.33 5.33 0 0 0 148 623.33 L 148 644.67 A 5.33 5.33 0 0 0 142.67 650 L 77.33 650 A 5.33 5.33 0 0 0 72 644.67 Z"/>
+</g>
+    <text x="110" y="640" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="640" font-size="18" fill="#5A6068">四档名称与外发口径为本课依据上述法条所作的可执行归纳，以本企业制度为准。</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：《网络安全法》（F006）、《数据安全法》（F024）、《个人信息保护法》（F030）</text>
+    <text x="1208" y="686" text-anchor="end">15 / 28</text>
+  </g>
+</svg>

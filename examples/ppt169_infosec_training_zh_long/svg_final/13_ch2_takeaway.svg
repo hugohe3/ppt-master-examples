@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="220" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">02 账号与密码 · 本章结论</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">本章你要做的三件事</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="action-today" data-pptx-bounds="72 246 1024 64">
+    <g id="p13-stage-today" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 250 160 56" fill="#1F2A37" stroke="none">
+<path d="M 72 250 L 204 250 L 232 278 L 204 306 L 72 306 L 100 278 Z" />
+</g>
+    <text x="152" y="286" font-size="24" font-weight="bold" fill="#F7F4EE" text-anchor="middle">今天</text>
+    <text x="264" y="286" font-size="28" fill="#232A31">把公司账号口令换成 <tspan font-weight="bold" fill="#C0392B">15 个字符以上</tspan>、且没在别处用过的一串。</text>
+  </g>
+  <g id="action-week" data-pptx-bounds="72 346 1024 64">
+    <g id="p13-stage-week" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 350 160 56" fill="#3A4757" stroke="none">
+<path d="M 72 350 L 204 350 L 232 378 L 204 406 L 72 406 L 100 378 Z" />
+</g>
+    <text x="152" y="386" font-size="24" font-weight="bold" fill="#F7F4EE" text-anchor="middle">本周</text>
+    <text x="264" y="386" font-size="28" fill="#232A31">在支持的系统上启用<tspan font-weight="bold" fill="#1D6A73">抗钓鱼的多因素认证</tspan>，不再只靠短信。</text>
+  </g>
+  <g id="action-long" data-pptx-bounds="72 446 1024 82">
+    <g id="p13-stage-long" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 450 160 56" fill="#5A6068" stroke="none">
+<path d="M 72 450 L 204 450 L 232 478 L 204 506 L 72 506 L 100 478 Z" />
+</g>
+    <text x="152" y="486" font-size="24" font-weight="bold" fill="#F7F4EE" text-anchor="middle">长期</text>
+    <text x="264" y="486" font-size="28" fill="#232A31">任何催你「立刻、马上、否则」的消息，<tspan font-weight="bold" fill="#C0392B">先停手再核实</tspan>。</text>
+    <text x="264" y="516" font-size="18" fill="#5A6068">电话、短信、搜索结果和邮件一视同仁。</text>
+  </g>
+  <g id="compile-note" data-pptx-bounds="72 552 420 42">
+    <g id="p13-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 556 76 32" fill="#E0D9CC" stroke="none">
+<path d="M 72 561.33 A 5.33 5.33 0 0 0 77.33 556 L 142.67 556 A 5.33 5.33 0 0 0 148 561.33 L 148 582.67 A 5.33 5.33 0 0 0 142.67 588 L 77.33 588 A 5.33 5.33 0 0 0 72 582.67 Z" />
+</g>
+    <text x="110" y="578" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="578" font-size="18" fill="#5A6068">三件事为本章要点的归纳</text>
+  </g>
+  <g id="next-chapter-03" data-pptx-bounds="1000 560 208 92" text-anchor="end">
+    <text x="1208" y="580" font-size="18" fill="#5A6068">下一章 · 数据与设备</text>
+    <text x="1208" y="632" font-family="SimSun, Cambria, serif" font-size="44" fill="#C0392B">03</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">依据：NIST SP 800-63B-4（F068）；CISA·FBI 抗钓鱼 MFA 建议（F073）</text>
+    <text x="1208" y="686" text-anchor="end">13 / 28</text>
+  </g>
+</svg>

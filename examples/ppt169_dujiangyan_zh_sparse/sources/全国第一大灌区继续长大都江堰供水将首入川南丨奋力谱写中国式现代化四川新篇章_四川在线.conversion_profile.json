@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "https://sichuan.scol.com.cn/ggxw/202504/82940229.html",
+    "name": "https://sichuan.scol.com.cn/ggxw/202504/82940229.html",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "全国第一大灌区继续长大都江堰供水将首入川南丨奋力谱写中国式现代化四川新篇章_四川在线.md",
+    "asset_dir": "全国第一大灌区继续长大都江堰供水将首入川南丨奋力谱写中国式现代化四川新篇章_四川在线_files",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 54,
+    "char_count": 2072,
+    "heading_count": 1,
+    "table_count": 0,
+    "image_ref_count": 2,
+    "link_count": 0
+  },
+  "warnings": []
+}

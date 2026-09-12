@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="24" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="ov-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C" /><stop offset="100%" stop-color="#C81E3A" />
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA" />
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">01 · 总览</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#14335C">四项核心指标同步增长,量质齐升</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#ov-accent-bar)" />
+  </g>
+
+  <g id="kpi-passenger" data-pptx-bounds="64 180 270 300">
+    <rect x="64" y="180" width="270" height="300" rx="16" fill="#E7EAF1" />
+    <!-- icon: tabler-outline/users -->
+  <g transform="translate(88, 204) scale(1.33333)" fill="none" stroke="#14335C" stroke-width="2">
+    <path d="M5 7a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" />
+    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
+  </g>
+    <text x="130" y="226" font-size="16" fill="#5B6472">全国铁路</text>
+    <text x="88" y="300" font-family="Consolas, Courier New" font-size="64" font-weight="bold" fill="#14335C">43.12</text>
+    <text x="88" y="330" font-size="22">亿人次 · 旅客发送量</text>
+    <g id="p03-arrow-passenger" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upArrow" data-pptx-frame="88 350 20 20" fill="#2E7D32" stroke="none">
+      <path d="M 88 360 L 98 350 L 108 360 L 103 360 L 103 370 L 93 370 L 93 360 Z" />
+    </g>
+    <text x="116" y="368" font-size="22" fill="#2E7D32" font-weight="bold">+11.9%<tspan font-size="16" fill="#5B6472" font-weight="normal"> 同比上年</tspan></text>
+    <line x1="88" y1="424" x2="310" y2="424" stroke="#D7DBE3" />
+    <text x="88" y="450" font-size="15" fill="#5B6472">来源:公报第1页</text>
+  </g>
+
+  <g id="kpi-freight" data-pptx-bounds="358 180 270 300">
+    <rect x="358" y="180" width="270" height="300" rx="16" fill="#E7EAF1" />
+    <!-- icon: tabler-outline/truck -->
+  <g transform="translate(382, 204) scale(1.33333)" fill="none" stroke="#14335C" stroke-width="2">
+    <path d="M5 17a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M15 17a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M5 17h-2v-11a1 1 0 0 1 1 -1h9v12m-4 0h6m4 0h2v-6h-8m0 -5h5l3 5" />
+  </g>
+    <text x="424" y="226" font-size="16" fill="#5B6472">全国铁路</text>
+    <text x="382" y="300" font-family="Consolas, Courier New" font-size="64" font-weight="bold" fill="#14335C">51.75</text>
+    <text x="382" y="330" font-size="22">亿吨 · 货运总发送量</text>
+    <g id="p03-arrow-freight" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upArrow" data-pptx-frame="382 350 20 20" fill="#2E7D32" stroke="none">
+      <path d="M 382 360 L 392 350 L 402 360 L 397 360 L 397 370 L 387 370 L 387 360 Z" />
+    </g>
+    <text x="410" y="368" font-size="22" fill="#2E7D32" font-weight="bold">+2.8%<tspan font-size="16" fill="#5B6472" font-weight="normal"> 同比上年</tspan></text>
+    <line x1="382" y1="424" x2="604" y2="424" stroke="#D7DBE3" />
+    <text x="382" y="450" font-size="15" fill="#5B6472">来源:公报第3页</text>
+  </g>
+
+  <g id="kpi-turnover" data-pptx-bounds="652 180 270 300">
+    <rect x="652" y="180" width="270" height="300" rx="16" fill="#E7EAF1" />
+    <!-- icon: tabler-outline/route -->
+  <g transform="translate(676, 204) scale(1.33333)" fill="none" stroke="#14335C" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+    <text x="718" y="226" font-size="16" fill="#5B6472">全国铁路</text>
+    <text x="676" y="300" font-family="Consolas, Courier New" font-size="56" font-weight="bold" fill="#14335C">51661</text>
+    <text x="676" y="322" font-size="20">亿吨公里</text>
+    <text x="676" y="344" font-size="20">总换算周转量</text>
+    <g id="p03-arrow-turnover" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="upArrow" data-pptx-frame="676 350 20 20" fill="#2E7D32" stroke="none">
+      <path d="M 676 360 L 686 350 L 696 360 L 691 360 L 691 370 L 681 370 L 681 360 Z" />
+    </g>
+    <text x="704" y="368" font-size="22" fill="#2E7D32" font-weight="bold">+0.9%<tspan font-size="16" fill="#5B6472" font-weight="normal"> 同比上年</tspan></text>
+    <line x1="676" y1="424" x2="898" y2="424" stroke="#D7DBE3" />
+    <text x="676" y="450" font-size="15" fill="#5B6472">来源:公报第5页</text>
+  </g>
+
+  <g id="kpi-investment" data-pptx-bounds="946 180 270 300">
+    <rect x="946" y="180" width="270" height="300" rx="16" fill="#E7EAF1" />
+    <!-- icon: tabler-outline/coin -->
+  <g transform="translate(970, 204) scale(1.33333)" fill="none" stroke="#14335C" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M14.8 9a2 2 0 0 0 -1.8 -1h-2a2 2 0 1 0 0 4h2a2 2 0 1 1 0 4h-2a2 2 0 0 1 -1.8 -1" />
+    <path d="M12 7v10" />
+  </g>
+    <text x="1012" y="226" font-size="16" fill="#5B6472">全国铁路</text>
+    <text x="970" y="300" font-family="Consolas, Courier New" font-size="64" font-weight="bold" fill="#14335C">8506</text>
+    <text x="970" y="330" font-size="22">亿元 · 固定资产投资</text>
+    <text x="970" y="368" font-size="18" fill="#5B6472" font-style="italic">(公报未披露同比幅度)</text>
+    <line x1="970" y1="424" x2="1192" y2="424" stroke="#D7DBE3" />
+    <text x="970" y="450" font-size="15" fill="#5B6472">来源:公报第5页</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 676 1152 30">
+    <line x1="64" y1="676" x2="1216" y2="676" stroke="#D7DBE3" stroke-width="1" />
+    <text x="64" y="700" font-size="16" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》</text>
+    <text x="1216" y="700" font-size="16" fill="#5B6472" text-anchor="end">03 / 15</text>
+  </g>
+</svg>

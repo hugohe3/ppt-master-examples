@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="320" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">03 数据与设备 · 本章结论</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">外发之前问自己四句话</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="question-1" data-pptx-bounds="72 230 828 80">
+    <text x="72" y="282" font-family="SimSun, Cambria, serif" font-size="56" fill="#D5CEC2">一</text>
+    <text x="160" y="264" font-size="24" font-weight="bold" fill="#1F2A37">这是哪一档数据？</text>
+    <text x="160" y="294" font-size="18" fill="#5A6068">分不清就按敏感处理。</text>
+    <line x1="160" y1="308" x2="900" y2="308" stroke="#D5CEC2" stroke-width="1" />
+  </g>
+  <g id="question-2" data-pptx-bounds="72 315 828 80">
+    <text x="72" y="367" font-family="SimSun, Cambria, serif" font-size="56" fill="#D5CEC2">二</text>
+    <text x="160" y="349" font-size="24" font-weight="bold" fill="#1F2A37">收件人有权知道吗？</text>
+    <text x="160" y="379" font-size="18" fill="#5A6068">对外发送要有合同或授权依据。</text>
+    <line x1="160" y1="393" x2="900" y2="393" stroke="#D5CEC2" stroke-width="1" />
+  </g>
+  <g id="question-3" data-pptx-bounds="72 400 828 80">
+    <text x="72" y="452" font-family="SimSun, Cambria, serif" font-size="56" fill="#D5CEC2">三</text>
+    <text x="160" y="434" font-size="24" font-weight="bold" fill="#1F2A37">有没有更小的范围？</text>
+    <text x="160" y="464" font-size="18" fill="#5A6068">能发摘要就不发全量，能去标识化就不发原始个人信息。</text>
+    <line x1="160" y1="478" x2="900" y2="478" stroke="#D5CEC2" stroke-width="1" />
+  </g>
+  <g id="question-4" data-pptx-bounds="72 485 828 80">
+    <text x="72" y="537" font-family="SimSun, Cambria, serif" font-size="56" fill="#D5CEC2">四</text>
+    <text x="160" y="519" font-size="24" font-weight="bold" fill="#1F2A37">留痕了吗？</text>
+    <text x="160" y="549" font-size="18" fill="#5A6068">谁批的、什么时候发的、发了哪一版，要能查得到。</text>
+    <line x1="160" y1="563" x2="900" y2="563" stroke="#D5CEC2" stroke-width="1" />
+  </g>
+  <g id="export-verdict" data-pptx-bounds="912 226 300 340">
+    <g id="p18-group-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightBrace" data-pptx-frame="920 230 36 330" fill="none" stroke="#C0392B" stroke-width="2">
+<path d="M 920 230 A 18 3 0 0 1 938 233 L 938 392 A 18 3 0 0 0 956 395 A 18 3 0 0 0 938 398 L 938 557 A 18 3 0 0 1 920 560 Z" stroke="none" />
+<path d="M 920 230 A 18 3 0 0 1 938 233 L 938 392 A 18 3 0 0 0 956 395 A 18 3 0 0 0 938 398 L 938 557 A 18 3 0 0 1 920 560" />
+</g>
+    <text font-size="28" fill="#C0392B" font-weight="bold" x="976" y="340">任何一句</text><text font-size="28" fill="#C0392B" font-weight="bold" x="976" y="378">答不上来，</text><text font-size="28" fill="#C0392B" font-weight="bold" x="976" y="416">就不要发。</text></g>
+  <g id="compile-note" data-pptx-bounds="72 580 820 76">
+    <text x="72" y="600" font-size="18" fill="#5A6068">四问依据《个人信息保护法》第五条至第七条的合法、正当、必要与影响最小原则操作化。</text>
+    <g id="p18-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 616 76 32" fill="#E0D9CC" stroke="none">
+<path d="M 72 621.33 A 5.33 5.33 0 0 0 77.33 616 L 142.67 616 A 5.33 5.33 0 0 0 148 621.33 L 148 642.67 A 5.33 5.33 0 0 0 142.67 648 L 77.33 648 A 5.33 5.33 0 0 0 72 642.67 Z" />
+</g>
+    <text x="110" y="638" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="638" font-size="18" fill="#5A6068">四问为本课归纳的外发自查序列</text>
+  </g>
+  <g id="next-chapter-04" data-pptx-bounds="1000 580 208 89" text-anchor="end">
+    <text x="1208" y="600" font-size="18" fill="#5A6068">下一章 · 合规红线</text>
+    <text x="1208" y="652" font-family="SimSun, Cambria, serif" font-size="44" fill="#C0392B">04</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：《个人信息保护法》第五条至第七条（F028）</text>
+    <text x="1208" y="686" text-anchor="end">18 / 28</text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "pdf_to_md.py",
+  "conversion_type": "pdf",
+  "source": {
+    "path": "/tmp/claude-0/-root-ppt-master/d98e2dc0-232f-41e9-b49a-2876621878b8/scratchpad/materials_rail/railway_bulletin_2024.pdf",
+    "name": "railway_bulletin_2024.pdf",
+    "suffix": ".pdf",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 837747
+  },
+  "outputs": {
+    "markdown": "railway_bulletin_2024.md",
+    "asset_dir": "railway_bulletin_2024_files",
+    "image_manifest": "railway_bulletin_2024_files/image_manifest.json",
+    "image_count": 7
+  },
+  "markdown": {
+    "line_count": 136,
+    "char_count": 4206,
+    "heading_count": 2,
+    "table_count": 3,
+    "image_ref_count": 7,
+    "link_count": 0
+  },
+  "warnings": []
+}

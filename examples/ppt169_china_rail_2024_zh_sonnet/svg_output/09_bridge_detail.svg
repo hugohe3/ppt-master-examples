@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="20" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p09-card-wash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08152A" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#08152A" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#08152A" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA"/>
+
+  <g id="header" data-pptx-bounds="64 56 1152 76">
+    <text x="640" y="80" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A" text-anchor="middle">06 · 现场</text>
+    <text x="640" y="112" font-family="SimSun, FangSong" font-size="30" font-weight="bold" fill="#14335C" text-anchor="middle">丹昆特大桥:高铁网络建设的一处剖面</text>
+  </g>
+
+  <g id="bridge-detail" data-pptx-bounds="316 148 648 452">
+    <rect x="316" y="148" width="648" height="452" fill="#0A2A3D"/>
+    <image href="../images/bridge_detail.jpg" x="316" y="148" width="648" height="452" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="316" y="148" width="648" height="452" fill="url(#p09-card-wash)"/>
+    <text x="340" y="562" font-size="18" font-weight="bold" fill="#FFFFFF">京沪高铁 · 丹昆特大桥</text>
+  </g>
+
+  <g id="bridge-caption" data-pptx-bounds="316 618 648 40">
+    <text x="640" y="638" font-size="16" fill="#5B6472" text-anchor="middle">背景资料(非公报数字):全长164.851公里,曾为世界最长高铁桥梁之一</text>
+  </g>
+
+  <g id="p09-credit" data-pptx-role="footer" data-pptx-bounds="700 686 516 26">
+    <text x="1216" y="704" font-size="15" fill="#5B6472" text-anchor="end">图片:<a href="https://commons.wikimedia.org/wiki/File:201603_Danyang-Kunshan_grand_bridge_(wuxi).JPG"><tspan text-decoration="underline">MNXANL, CC BY-SA 4.0, Wikimedia Commons</tspan></a></text>
+  </g>
+</svg>

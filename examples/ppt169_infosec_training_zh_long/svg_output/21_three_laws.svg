@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE"/>
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1"/>
+    <rect x="38" y="420" width="12" height="34" fill="#C0392B"/>
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">04 合规红线</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">三部法律落到你身上的，是这几条</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2"/>
+  </g>
+  <g id="law-csl" data-pptx-bounds="72 206 357 418">
+    <rect x="72" y="210" width="357" height="4" fill="#C0392B"/>
+    <text x="72" y="256" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">《网络安全法》</text>
+    <text x="72" y="286" font-size="18" fill="#5A6068">2025 年修正</text>
+    <line x1="72" y1="300" x2="429" y2="300" stroke="#D5CEC2" stroke-width="1"/>
+    <text x="72" y="336" font-size="24" font-weight="bold" fill="#1F2A37">第十三条第二款</text>
+    <text x="72" y="366" font-size="18" fill="#232A31">使用网络不得危害网络安全，不得<tspan x="72" dy="26">利用网络从事危害国家安全、侵害</tspan><tspan x="72" dy="26">他人名誉隐私知识产权等活动。</tspan></text>
+    <text x="72" y="458" font-size="24" font-weight="bold" fill="#1F2A37">第二十九条</text>
+    <text x="72" y="488" font-size="18" fill="#232A31">明知他人从事危害网络安全活动，<tspan x="72" dy="26">仍提供技术支持、广告推广、支付</tspan><tspan x="72" dy="26">结算等帮助的，同样违法。</tspan></text>
+    <text x="72" y="578" font-size="24" font-weight="bold" fill="#C0392B">帮朋友「跑个脚本」，<tspan x="72" dy="34">同样违法。</tspan></text>
+  </g>
+  <g id="law-dsl" data-pptx-bounds="461 206 357 418">
+    <rect x="461" y="210" width="357" height="4" fill="#C0392B"/>
+    <text x="461" y="256" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">《数据安全法》</text>
+    <text x="461" y="286" font-size="18" fill="#5A6068">2021 年 9 月 1 日施行</text>
+    <line x1="461" y1="300" x2="818" y2="300" stroke="#D5CEC2" stroke-width="1"/>
+    <text x="461" y="336" font-size="24" font-weight="bold" fill="#1F2A37">第三十二条</text>
+    <text x="461" y="366" font-size="18" fill="#232A31">任何组织、个人收集数据应当采取<tspan x="461" dy="26">合法、正当的方式，不得窃取或以</tspan><tspan x="461" dy="26">其他非法方式获取数据。</tspan></text>
+    <text x="461" y="458" font-size="24" font-weight="bold" fill="#1F2A37">第二十七条</text>
+    <text x="461" y="488" font-size="18" fill="#232A31">企业须建立全流程数据安全管理制<tspan x="461" dy="26">度，并组织开展数据安全教育培训。</tspan></text>
+    <text x="461" y="578" font-size="24" font-weight="bold" fill="#C0392B">这门课本身，<tspan x="461" dy="34">就是这一条的落实。</tspan></text>
+  </g>
+  <g id="law-pipl" data-pptx-bounds="850 206 357 418">
+    <rect x="850" y="210" width="357" height="4" fill="#C0392B"/>
+    <text x="850" y="256" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">《个人信息保护法》</text>
+    <text x="850" y="286" font-size="18" fill="#5A6068">2021 年 11 月 1 日施行</text>
+    <line x1="850" y1="300" x2="1207" y2="300" stroke="#D5CEC2" stroke-width="1"/>
+    <text x="850" y="336" font-size="24" font-weight="bold" fill="#1F2A37">第十条</text>
+    <text x="850" y="366" font-size="18" fill="#232A31">任何组织、个人不得非法收集、使<tspan x="850" dy="26">用、加工、传输他人个人信息，不</tspan><tspan x="850" dy="26">得非法买卖、提供或者公开。</tspan></text>
+    <text x="850" y="458" font-size="24" font-weight="bold" fill="#1F2A37">第五十一条第（四）项</text>
+    <text x="850" y="488" font-size="18" fill="#232A31">合理确定个人信息处理的操作权限，<tspan x="850" dy="26">并定期对从业人员进行安全教育和</tspan><tspan x="850" dy="26">培训。</tspan></text>
+    <text x="850" y="578" font-size="24" font-weight="bold" fill="#C0392B">个人信息的每一次经手，<tspan x="850" dy="34">都在这两条里。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：《网络安全法》（F004、F008）；《数据安全法》（F025、F022）；《个人信息保护法》（F029、F030）</text>
+    <text x="1208" y="686" text-anchor="end">21 / 28</text>
+  </g>
+</svg>

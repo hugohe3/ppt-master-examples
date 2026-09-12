@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="420" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">04 合规红线</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">同一份名单，员工的入罪门槛只要一半</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="threshold-track" data-pptx-bounds="72 212 260 140">
+    <text x="72" y="254" font-family="SimSun, Cambria, serif" font-size="44" fill="#C0392B">≥ 50 条</text>
+    <text font-size="18" fill="#232A31" x="72" y="288">行踪轨迹、通信内容、</text><text font-size="18" fill="#232A31" x="72" y="314">征信、财产信息</text></g>
+  <g id="threshold-lodging" data-pptx-bounds="364 212 260 140">
+    <text x="364" y="254" font-family="SimSun, Cambria, serif" font-size="44" fill="#C0392B">≥ 500 条</text>
+    <text font-size="18" fill="#232A31" x="364" y="288">住宿、通信记录、健康</text><text font-size="18" fill="#232A31" x="364" y="314">生理、交易等信息</text></g>
+  <g id="threshold-other" data-pptx-bounds="656 212 260 140">
+    <text x="656" y="254" font-family="SimSun, Cambria, serif" font-size="44" fill="#C0392B">≥ 5000 条</text>
+    <text x="656" y="288" font-size="18" fill="#232A31">其他公民个人信息</text>
+  </g>
+  <g id="threshold-gain" data-pptx-bounds="948 212 260 140">
+    <text x="948" y="254" font-family="SimSun, Cambria, serif" font-size="44" fill="#C0392B">≥ 5000 元</text>
+    <text x="948" y="288" font-size="18" fill="#232A31">违法所得</text>
+  </g>
+  <g id="halving-rule" data-pptx-bounds="72 368 1136 102">
+    <rect x="72" y="372" width="1136" height="98" fill="#C0392B" fill-opacity="0.08" />
+    <rect x="72" y="372" width="4" height="98" fill="#C0392B" />
+    <text x="100" y="402" font-size="28" fill="#232A31">在履行职责或提供服务过程中获得的，上述数量或数额<tspan font-weight="bold" fill="#C0392B">减半</tspan>即达「情节严重」。</text>
+    <text x="100" y="430" font-size="18" fill="#232A31">即 25 条 / 250 条 / 2500 条 / 违法所得 2500 元（依该规则折算）。</text>
+    <text x="100" y="456" font-size="18" fill="#5A6068">《刑法》第二百五十三条之一 侵犯公民个人信息罪；法释〔2017〕10 号，2017 年 6 月 1 日起施行。</text>
+  </g>
+  <g id="case-didi" data-pptx-bounds="72 472 552 128">
+    <text x="72" y="490" font-size="18" font-weight="bold" fill="#C0392B" letter-spacing="1">监管处罚实例</text>
+    <text x="72" y="518" font-size="24" font-weight="bold" fill="#1F2A37">滴滴案（2022 年 7 月 21 日，国家网信办）</text>
+    <text font-size="18" fill="#232A31" x="72" y="542">处滴滴全球股份有限公司 80.26 亿元罚款，并对董事长兼</text><text font-size="18" fill="#232A31" x="72" y="566">CEO 程维、总裁柳青各处 100 万元罚款。</text></g>
+  <g id="case-cnki" data-pptx-bounds="656 472 552 128">
+    <text x="656" y="490" font-size="18" font-weight="bold" fill="#C0392B" letter-spacing="1">监管处罚实例</text>
+    <text x="656" y="518" font-size="24" font-weight="bold" fill="#1F2A37">知网案（2023 年 9 月 1 日，国家网信办）</text>
+    <text font-size="18" fill="#232A31" x="656" y="542">责令停止违法处理个人信息并处 5000 万元罚款；手机知网等</text><text font-size="18" fill="#232A31" x="656" y="566">14 款 App 存在违反必要原则收集、未经同意收集、</text><text font-size="18" fill="#232A31" x="656" y="590">未提供注销功能等行为。</text></g>
+  <g id="next-chapter-05" data-pptx-bounds="1000 602 208 66" text-anchor="end">
+    <text x="1208" y="620" font-size="18" fill="#5A6068">下一章 · 应急与上报</text>
+    <text x="1208" y="654" font-family="SimSun, Cambria, serif" font-size="32" fill="#C0392B">05</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：最高人民法院法释〔2017〕10 号（F039、F040）；国家互联网信息办公室（F041、F042）</text>
+    <text x="1208" y="686" text-anchor="end">23 / 28</text>
+  </g>
+</svg>

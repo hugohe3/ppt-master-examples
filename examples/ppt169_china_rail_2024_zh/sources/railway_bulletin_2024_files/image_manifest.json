@@ -1,0 +1,163 @@
+[
+  {
+    "index": 1,
+    "filename": "railway_bulletin_2024_p2_0.png",
+    "original_filename": "railway_bulletin_2024_p2_0.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 2,
+    "occurrence_index": 1,
+    "pixel_width": 1465,
+    "pixel_height": 806,
+    "pixel_ratio": 1.817618,
+    "display_ratio": 1.817618,
+    "source_sha256": "cca18c452a0a131219edb305fbd4b96f7d52619dbeb8332fa0dd80def824623d",
+    "bbox": [
+      124.90000915527344,
+      317.29998779296875,
+      475.79998779296875,
+      510.20001220703125
+    ]
+  },
+  {
+    "index": 2,
+    "filename": "railway_bulletin_2024_p2_1.png",
+    "original_filename": "railway_bulletin_2024_p2_1.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 2,
+    "occurrence_index": 2,
+    "pixel_width": 1465,
+    "pixel_height": 807,
+    "pixel_ratio": 1.815366,
+    "display_ratio": 1.815366,
+    "source_sha256": "24dc21fe391641b7a2a4f5f747e8a73ab2ba9bb5652989afa7f880e5e08a1ae7",
+    "bbox": [
+      124.90000915527344,
+      549.199951171875,
+      475.79998779296875,
+      742.5999755859375
+    ]
+  },
+  {
+    "index": 3,
+    "filename": "railway_bulletin_2024_p3_2.png",
+    "original_filename": "railway_bulletin_2024_p3_2.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 3,
+    "occurrence_index": 3,
+    "pixel_width": 1463,
+    "pixel_height": 805,
+    "pixel_ratio": 1.817391,
+    "display_ratio": 1.817391,
+    "source_sha256": "cf5023737579fb1fb9cb6c4f4c7af4adce591caa03246072de2cc561ac6397d6",
+    "bbox": [
+      124.90000915527344,
+      498.699951171875,
+      475.70001220703125,
+      692.0999755859375
+    ]
+  },
+  {
+    "index": 4,
+    "filename": "railway_bulletin_2024_p4_3.png",
+    "original_filename": "railway_bulletin_2024_p4_3.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 4,
+    "occurrence_index": 4,
+    "pixel_width": 1463,
+    "pixel_height": 806,
+    "pixel_ratio": 1.815136,
+    "display_ratio": 1.815136,
+    "source_sha256": "7a9460e1b881416a3be464a876bbdde1d9dac125a6095606615689536da45409",
+    "bbox": [
+      124.90000915527344,
+      104.80000305175781,
+      475.70001220703125,
+      297.70001220703125
+    ]
+  },
+  {
+    "index": 5,
+    "filename": "railway_bulletin_2024_p5_4.png",
+    "original_filename": "railway_bulletin_2024_p5_4.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 5,
+    "occurrence_index": 5,
+    "pixel_width": 1465,
+    "pixel_height": 806,
+    "pixel_ratio": 1.817618,
+    "display_ratio": 1.817618,
+    "source_sha256": "920731ed31481bf7a74e85ab0efb0c5eadd181246a3c13cb12fd718159279e2d",
+    "bbox": [
+      124.90000915527344,
+      223.1999969482422,
+      475.79998779296875,
+      416.1000061035156
+    ]
+  },
+  {
+    "index": 6,
+    "filename": "railway_bulletin_2024_p8_5.png",
+    "original_filename": "railway_bulletin_2024_p8_5.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 8,
+    "occurrence_index": 6,
+    "pixel_width": 1465,
+    "pixel_height": 807,
+    "pixel_ratio": 1.815366,
+    "display_ratio": 1.815366,
+    "source_sha256": "06a4399cdad4126c20dcf39d5025deaf0e71211783e98196fbd68a457fdb7bd3",
+    "bbox": [
+      122.70000457763672,
+      104.80000305175781,
+      477.8000183105469,
+      297.70001220703125
+    ]
+  },
+  {
+    "index": 7,
+    "filename": "railway_bulletin_2024_p8_6.png",
+    "original_filename": "railway_bulletin_2024_p8_6.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 8,
+    "occurrence_index": 7,
+    "pixel_width": 1465,
+    "pixel_height": 806,
+    "pixel_ratio": 1.817618,
+    "display_ratio": 1.817618,
+    "source_sha256": "1c0113702c8125454d2459d41e1d8dd8b914993b324b1c2fe0bb1a9505bcc08a",
+    "bbox": [
+      124.10000610351562,
+      370.89996337890625,
+      476.6000061035156,
+      564.2999877929688
+    ]
+  }
+]

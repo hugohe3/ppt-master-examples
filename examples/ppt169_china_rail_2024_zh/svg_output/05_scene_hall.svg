@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1B2E" stop-opacity="0"/>
+      <stop offset="52%" stop-color="#0A1B2E" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#0A1B2E" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <image id="p05-photo" data-pptx-role="background" href="../images/shanghai_hongqiao.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="p05-scrim" data-pptx-role="decoration" x="0" y="360" width="1280" height="360" fill="url(#fadeBottom)"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48" fill="#FFFFFF">
+    <rect x="72" y="56" width="1136" height="3"/>
+    <text x="72" y="86" font-size="18">二、客运 · 现场</text>
+    <text x="1208" y="86" font-size="18" text-anchor="end">05 / 15</text>
+  </g>
+  <g id="p05-claim" data-pptx-bounds="72 470 940 150" fill="#FFFFFF">
+    <text x="72" y="520" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold">43.12 亿人次,发生在这里</text>
+    <text x="72" y="570" font-size="24">平均每天约 1180 万人次通过全国铁路发送<tspan x="72" dy="36">(整理:按 431240 万人 ÷ 366 天测算)</tspan></text>
+  </g>
+  <g id="p05-credit" data-pptx-role="footer" data-pptx-bounds="72 660 1136 40" fill="#FFFFFF" font-size="15">
+    <text x="72" y="690">数据来源:国家铁路局《2024年铁道统计公报》</text>
+    <text x="1208" y="690" text-anchor="end">上海虹桥站候车大厅 摄影 Patrick Nagel · CC BY-SA 3.0 · Wikimedia Commons</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE"/>
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1"/>
+    <rect x="38" y="320" width="12" height="34" fill="#C0392B"/>
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">03 数据与设备</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">在家办公，等于把办公室的边界搬到你家</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2"/>
+  </g>
+  <g id="remote-device" data-pptx-bounds="72 224 552 108">
+    <use data-icon="chunk-filled/laptop" x="72" y="228" width="44" height="44" fill="#1F2A37"/>
+    <text x="136" y="260" font-size="24" font-weight="bold" fill="#1F2A37">设备</text>
+    <text x="136" y="296" font-size="18" fill="#5A6068">公司数据只落在公司管控的终端上，个人电脑<tspan x="136" dy="26">不做公司数据的落地存储。</tspan></text>
+  </g>
+  <g id="remote-network" data-pptx-bounds="656 224 552 108">
+    <use data-icon="chunk-filled/wifi" x="656" y="228" width="44" height="44" fill="#1F2A37"/>
+    <text x="720" y="260" font-size="24" font-weight="bold" fill="#1F2A37">网络</text>
+    <text x="720" y="296" font-size="18" fill="#5A6068">公共 Wi-Fi 下先连公司 VPN 再访问内部系统；<tspan x="720" dy="26">不为「网速快」绕过管控通道。</tspan></text>
+  </g>
+  <g id="remote-account" data-pptx-bounds="72 424 552 108">
+    <use data-icon="chunk-filled/keyhole" x="72" y="428" width="44" height="44" fill="#1F2A37"/>
+    <text x="136" y="460" font-size="24" font-weight="bold" fill="#1F2A37">账号</text>
+    <text x="136" y="496" font-size="18" fill="#5A6068">家人共用的电脑不保存公司账号口令；<tspan x="136" dy="26">离开座位时锁屏。</tspan></text>
+  </g>
+  <g id="remote-screen" data-pptx-bounds="656 424 552 108">
+    <use data-icon="chunk-filled/eye" x="656" y="428" width="44" height="44" fill="#1F2A37"/>
+    <text x="720" y="460" font-size="24" font-weight="bold" fill="#1F2A37">屏幕与音频</text>
+    <text x="720" y="496" font-size="18" fill="#5A6068">视频会议共享屏幕前先关掉无关窗口；<tspan x="720" dy="26">客户信息不出现在共享画面里。</tspan></text>
+  </g>
+  <g id="log-retention" data-pptx-bounds="72 554 1136 70">
+    <rect x="72" y="558" width="1136" height="62" fill="#EBE6DC"/>
+    <rect x="72" y="558" width="4" height="62" fill="#1F2A37"/>
+    <text x="100" y="598" font-size="24" fill="#232A31">《网络安全法》第二十三条要求留存相关的网络日志<tspan font-weight="bold" fill="#C0392B">不少于六个月</tspan>——在家的操作同样在日志里。</text>
+  </g>
+  <g id="compile-note" data-pptx-bounds="72 628 700 40">
+    <g id="p17-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 632 76 30" fill="#E0D9CC" stroke="none">
+<path d="M 72 637 A 5 5 0 0 0 77 632 L 143 632 A 5 5 0 0 0 148 637 L 148 657 A 5 5 0 0 0 143 662 L 77 662 A 5 5 0 0 0 72 657 Z"/>
+</g>
+    <text x="110" y="653" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="653" font-size="18" fill="#5A6068">四个场景为本课归纳的常见远程办公风险面</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：《网络安全法》第二十三条（F005）</text>
+    <text x="1208" y="686" text-anchor="end">17 / 28</text>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1"/>
+
+  <g id="page-title" data-pptx-bounds="68 66 900 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">一次洪水里，三件工程的动作顺序</text>
+    <text x="790" y="104" font-size="18" fill="#E8A33D">［整理］</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1088 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">三件工程不是三个景点，是一条流水线上的三道工序。</text>
+  </g>
+
+  <g id="weir-assembly" data-pptx-bounds="72 192 704 420">
+    <path id="assembly-upstream" d="M350 200 L350 300" fill="none" stroke="#4A90C2" stroke-width="30"/>
+    <path id="assembly-outer-river" d="M330 306 C296 372 252 470 214 588" fill="none" stroke="#4A90C2" stroke-width="24" stroke-linecap="round"/>
+    <path id="assembly-inner-river" d="M372 306 C412 372 466 466 512 588" fill="none" stroke="#4A90C2" stroke-width="24" stroke-linecap="round"/>
+    <path id="assembly-yuzui" d="M350 296 L376 340 L371 394 L329 394 L324 340 Z" fill="#16314C" stroke="#E8A33D" stroke-width="3" stroke-linejoin="round"/>
+    <line x1="448" y1="440" x2="472" y2="492" stroke="#E8A33D" stroke-width="7" stroke-linecap="round"/>
+    <path id="assembly-lidui" d="M462 534 L492 556 L462 578 Z" fill="#16314C" stroke="#E8A33D" stroke-width="3" stroke-linejoin="round"/>
+    <path id="assembly-yulei" d="M542 534 L512 556 L542 578 Z" fill="#16314C" stroke="#E8A33D" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="290" cy="330" r="17" fill="#E8A33D"/>
+    <text x="290" y="337" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#0B1B2E" text-anchor="middle">1</text>
+    <circle cx="410" cy="462" r="17" fill="#E8A33D"/>
+    <text x="410" y="469" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#0B1B2E" text-anchor="middle">2</text>
+    <circle cx="588" cy="556" r="17" fill="#E8A33D"/>
+    <text x="588" y="563" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#0B1B2E" text-anchor="middle">3</text>
+    <text x="380" y="238" font-size="18" fill="#93AEC8">岷江（洪水）</text>
+    <text x="128" y="560" font-size="18" fill="#93AEC8">外江</text>
+    <text x="548" y="470" font-size="18" fill="#93AEC8">内江</text>
+    <text x="558" y="606" font-size="18" fill="#93AEC8">→ 成都平原</text>
+  </g>
+
+  <g id="step-1" data-pptx-bounds="800 216 408 90">
+    <g id="p08-step1-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="804 220 52 40" fill="#E8A33D" stroke="none">
+<path d="M 804 220 L 836 220 L 856 240 L 836 260 L 804 260 L 824 240 Z"/>
+</g>
+    <text x="868" y="250" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">第一步 · 鱼嘴</text>
+    <text x="804" y="292" font-size="24" fill="#93AEC8">洪水期把约六成水推入外江</text>
+  </g>
+
+  <g id="step-2" data-pptx-bounds="800 336 408 90">
+    <g id="p08-step2-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="804 340 52 40" fill="#E8A33D" stroke="none">
+<path d="M 804 340 L 836 340 L 856 360 L 836 380 L 804 380 L 824 360 Z"/>
+</g>
+    <text x="868" y="370" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">第二步 · 飞沙堰</text>
+    <text x="804" y="412" font-size="24" fill="#93AEC8">多余的水与泥沙从堰顶溢回外江</text>
+  </g>
+
+  <g id="step-3" data-pptx-bounds="800 456 408 90">
+    <g id="p08-step3-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="804 460 52 40" fill="#E8A33D" stroke="none">
+<path d="M 804 460 L 836 460 L 856 480 L 836 500 L 804 500 L 824 480 Z"/>
+</g>
+    <text x="868" y="490" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">第三步 · 宝瓶口</text>
+    <text x="804" y="532" font-size="24" fill="#93AEC8">狭窄断面把进水量压在上限之内</text>
+  </g>
+
+  <g id="closing-line" data-pptx-bounds="800 570 408 60">
+    <text x="804" y="590" font-size="18" fill="#7FD1C3">分流分沙、泄洪排沙、限洪引水，<tspan x="804" dy="30">三件相辅相成。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1"/>
+    <text x="72" y="668" font-size="16" fill="#93AEC8">动作顺序为本讲整理的读法。来源：水利文明网《以水为师都江堰》（2022-09-03）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">08 / 14</text>
+  </g>
+</svg>

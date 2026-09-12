@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="18" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p13-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C"/><stop offset="100%" stop-color="#C81E3A"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA"/>
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">10 · 科技创新</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="38" font-weight="bold" fill="#14335C">标准供给持续扩容,复兴号项目摘得国家科技进步特等奖</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#p13-accent-bar)"/>
+  </g>
+
+  <g id="standards-list" data-pptx-bounds="64 176 660 420">
+    <text x="64" y="198" font-size="20" font-weight="bold" fill="#14335C">技术标准体系</text>
+
+    <use data-icon="tabler-outline/award" x="64" y="216" width="30" height="30" fill="#14335C" stroke-width="2"/>
+    <text x="108" y="238" font-size="22"><tspan font-family="Consolas, Courier New" font-weight="bold">20</tspan> 项国家标准</text>
+
+    <use data-icon="tabler-outline/award" x="64" y="256" width="30" height="30" fill="#14335C" stroke-width="2"/>
+    <text x="108" y="278" font-size="22"><tspan font-family="Consolas, Courier New" font-weight="bold">95</tspan> 项行业标准</text>
+
+    <use data-icon="tabler-outline/award" x="64" y="296" width="30" height="30" fill="#14335C" stroke-width="2"/>
+    <text x="108" y="318" font-size="22"><tspan font-family="Consolas, Courier New" font-weight="bold">4+4</tspan> 项国家/行业计量规程规范</text>
+
+    <use data-icon="tabler-outline/globe" x="64" y="336" width="30" height="30" fill="#1D7A8C" stroke-width="2"/>
+    <text x="108" y="358" font-size="22"><tspan font-family="Consolas, Courier New" font-weight="bold">7</tspan> 项我国主持制定的国际标准</text>
+    <text x="108" y="382" font-size="16" fill="#5B6472">(ISO / UIC / IEEE)</text>
+
+    <use data-icon="tabler-outline/award" x="64" y="402" width="30" height="30" fill="#14335C" stroke-width="2"/>
+    <text x="108" y="424" font-size="22"><tspan font-family="Consolas, Courier New" font-weight="bold">21+5</tspan> 项标准外文译本</text>
+
+    <line x1="64" y1="454" x2="724" y2="454" stroke="#D7DBE3"/>
+    <text x="64" y="480" font-size="16" fill="#5B6472">2名专家获国际标准化组织(ISO)"卓越贡献奖";1名专家获国际电工委员会<tspan x="64" dy="20">(IEC)"1906奖"(我国第6次获此奖项);3项标准获中国工程建设标准化</tspan><tspan x="64" dy="20">协会标准科技创新奖。</tspan></text>
+    <text x="64" y="548" font-size="15" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第6页</text>
+  </g>
+
+  <line id="divider-mid" data-pptx-role="decoration" x1="712" y1="176" x2="712" y2="656" stroke="#D7DBE3"/>
+
+  <g id="award-highlight" data-pptx-bounds="744 190 472 90">
+    <g id="p13-ribbon" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="ribbon2" data-pptx-frame="744 200 400 60" fill="#C81E3A" stroke="none">
+      <path d="M 744 260 L 881.5 260 A 12.5 2.5 0 0 0 881.5 255 L 856.5 255 A 12.5 2.5 0 0 1 856.5 250 L 1031.5 250 A 12.5 2.5 0 0 1 1031.5 255 L 1006.5 255 A 12.5 2.5 0 0 0 1006.5 260 L 1144 260 L 1094 235 L 1144 210 L 1044 210 L 1044 202.5 A 12.5 2.5 0 0 0 1031.5 200 L 856.5 200 A 12.5 2.5 0 0 0 844 202.5 L 844 210 L 744 210 L 794 235 Z"/>
+      <path d="M 894 257.5 A 12.5 2.5 0 0 0 881.5 255 L 856.5 255 A 12.5 2.5 0 0 1 856.5 250 L 894 250 Z M 994 257.5 A 12.5 2.5 0 0 1 1006.5 255 L 1031.5 255 A 12.5 2.5 0 0 0 1031.5 250 L 994 250 Z" fill="#A41930"/>
+      <path d="M 744 260 L 794 235 L 744 210 L 844 210 L 844 202.5 A 12.5 2.5 0 0 1 856.5 200 L 1031.5 200 A 12.5 2.5 0 0 1 1044 202.5 L 1044 210 L 1044 210 L 1144 210 L 1094 235 L 1144 260 L 1006.5 260 A 12.5 2.5 0 0 1 1006.5 255 L 1031.5 255 A 12.5 2.5 0 0 0 1031.5 250 L 856.5 250 A 12.5 2.5 0 0 0 856.5 255 L 881.5 255 A 12.5 2.5 0 0 1 881.5 260 Z M 894 250 L 894 257.5 M 994 257.5 L 994 250 M 844 252.5 L 844 210 M 1044 210 L 1044 252.5" fill="none"/>
+    </g>
+    <text x="944" y="230" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">复兴号高速列车</text>
+    <text x="944" y="248" font-size="13" fill="#FFE3E7" text-anchor="middle">国家科学技术进步奖 特等奖</text>
+  </g>
+
+  <g id="award-others" data-pptx-bounds="744 300 472 360">
+    <text x="744" y="320" font-size="18" font-weight="bold" fill="#14335C">2024年度国家科学技术奖 · 铁路6项</text>
+    <text x="744" y="352" font-size="17">· 永磁电涡流阻尼减振缓冲耗能新技术<tspan x="744" dy="20">—— 技术发明奖<tspan font-weight="bold">一等奖</tspan></tspan></text>
+    <text x="744" y="402" font-size="17">· 复杂运营条件下高铁轨道系统状态演化<tspan x="744" dy="20">—— 进步奖<tspan font-weight="bold">二等奖</tspan></tspan></text>
+    <text x="744" y="452" font-size="17">· 350km/h高铁道岔结构关键技术<tspan x="744" dy="20">—— 技术发明奖<tspan font-weight="bold">二等奖</tspan></tspan></text>
+    <text x="744" y="502" font-size="17">· 软弱土基坑工程安全控制绿色高效技术<tspan x="744" dy="20">—— 技术发明奖<tspan font-weight="bold">二等奖</tspan></tspan></text>
+    <text x="744" y="552" font-size="17">· 高速移动复杂场景信道特征及传输理论<tspan x="744" dy="20">—— 自然科学奖<tspan font-weight="bold">二等奖</tspan></tspan></text>
+
+    <line x1="744" y1="588" x2="1216" y2="588" stroke="#D7DBE3"/>
+    <text x="744" y="610" font-size="17">重大科技创新成果库2024年度入库<tspan font-family="Consolas, Courier New" font-weight="bold">335</tspan>项</text>
+    <text x="744" y="632" font-size="15" fill="#5B6472">科技项目50 · 专利61 · 技术标准24 · 科技论文200篇<tspan x="744" dy="18">来源:国家铁路局《2024年铁道统计公报》第6-7页</tspan></text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 662 1152 30">
+    <line x1="64" y1="662" x2="1216" y2="662" stroke="#D7DBE3" stroke-width="1"/>
+    <text x="64" y="686" font-size="16" fill="#5B6472">中国铁路2024:数据与现场</text>
+    <text x="1216" y="686" font-size="16" fill="#5B6472" text-anchor="end">13 / 15</text>
+  </g>
+</svg>

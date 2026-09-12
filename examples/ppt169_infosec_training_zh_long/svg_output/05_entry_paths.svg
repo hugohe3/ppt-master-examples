@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="120" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">01 为什么是你</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">攻击者进门的方式，两条里有一条是社工</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="initial-access-vectors" data-pptx-replace-with="chart" data-pptx-bounds="156 216 998 356" data-pptx-fallback-sha256="aa61f496b91f66237049a6f6662b517e56bba704611339e5a015611eb94c9e6e">
+    <metadata type="application/json">
+{
+  "x": 156, "y": 216, "width": 998, "height": 356,
+  "name": "initial-access-vectors",
+  "type": "column",
+  "title": "确认泄露的初始入侵途径占比（2026）",
+  "categories": ["漏洞利用", "钓鱼", "凭据滥用", "托词欺骗"],
+  "series": [{"name": "占确认泄露的比例", "values": [31, 16, 13, 6], "point_colors": ["#8A8478", "#C0392B", "#C0392B", "#D98B7F"]}],
+  "gap_width": 96,
+  "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0\"%\"", "font_size": 24, "bold": true, "color": "#232A31"},
+  "axes": {"value": {"minimum": 0, "maximum": 35, "major_unit": 10}},
+  "plot_area": {"x": 200, "y": 240, "width": 940, "height": 280},
+  "show_legend": false,
+  "style": {"axis_color": "#5A6068", "grid_color": "#E4DED3", "text_color": "#232A31"}
+}
+    </metadata>
+    <text x="200" y="236" font-size="18" fill="#5A6068">确认泄露的初始入侵途径占比（2026）</text>
+    <g id="initial-access-vectors-chartArea">
+      <line id="initial-access-vectors-grid-30" x1="200" y1="280" x2="1140" y2="280" stroke="#E4DED3" stroke-width="1" />
+      <line id="initial-access-vectors-grid-20" x1="200" y1="360" x2="1140" y2="360" stroke="#E4DED3" stroke-width="1" />
+      <line id="initial-access-vectors-grid-10" x1="200" y1="440" x2="1140" y2="440" stroke="#E4DED3" stroke-width="1" />
+      <line id="initial-access-vectors-axis-value" x1="200" y1="240" x2="200" y2="520" stroke="#5A6068" stroke-width="1" />
+      <line id="initial-access-vectors-axis-category" x1="200" y1="520" x2="1140" y2="520" stroke="#5A6068" stroke-width="1" />
+      <text x="190" y="526" font-size="18" fill="#5A6068" text-anchor="end">0</text>
+      <text x="190" y="446" font-size="18" fill="#5A6068" text-anchor="end">10</text>
+      <text x="190" y="366" font-size="18" fill="#5A6068" text-anchor="end">20</text>
+      <text x="190" y="286" font-size="18" fill="#5A6068" text-anchor="end">30</text>
+      <!-- chart-plot-area: object=initial-access-vectors | 200,240,1140,520 -->
+      <rect x="257.5" y="272" width="120" height="248" fill="#8A8478" />
+      <rect x="492.5" y="392" width="120" height="128" fill="#C0392B" />
+      <rect x="727.5" y="416" width="120" height="104" fill="#C0392B" />
+      <rect x="962.5" y="472" width="120" height="48" fill="#D98B7F" />
+      <text x="317.5" y="262" font-size="24" font-weight="bold" fill="#232A31" text-anchor="middle">31%</text>
+      <text x="552.5" y="382" font-size="24" font-weight="bold" fill="#232A31" text-anchor="middle">16%</text>
+      <text x="787.5" y="406" font-size="24" font-weight="bold" fill="#232A31" text-anchor="middle">13%</text>
+      <text x="1022.5" y="462" font-size="24" font-weight="bold" fill="#232A31" text-anchor="middle">6%</text>
+    </g>
+    <text x="317.5" y="556" font-size="24" fill="#232A31" text-anchor="middle">漏洞利用</text>
+    <text x="552.5" y="556" font-size="24" fill="#232A31" text-anchor="middle">钓鱼</text>
+    <text x="787.5" y="556" font-size="24" fill="#232A31" text-anchor="middle">凭据滥用</text>
+    <text x="1022.5" y="556" font-size="24" fill="#232A31" text-anchor="middle">托词欺骗</text>
+  </g>
+  <g id="vector-takeaway" data-pptx-bounds="72 580 1136 82">
+    <rect x="72" y="586" width="120" height="3" fill="#C0392B" />
+    <text x="72" y="628" font-size="28" fill="#1F2A37">漏洞由 IT 修；<tspan font-weight="bold" fill="#C0392B">钓鱼与凭据滥用，只能由你守</tspan>。</text>
+    <text x="72" y="654" font-size="18" fill="#5A6068">钓鱼 16% 与凭据滥用 13% 合计 29%，与漏洞利用的 31% 几乎持平；凭据滥用由上一版的第一位降至第三。</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" fill="#8A8478" font-size="16">
+    <text x="72" y="686">来源：Verizon DBIR 2026，数据集覆盖 2024 年 10 月至 2025 年 11 月（F056、F054）</text>
+    <text x="1208" y="686" text-anchor="end">05 / 28</text>
+  </g>
+</svg>

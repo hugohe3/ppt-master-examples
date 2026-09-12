@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F" />
+    <text x="72" y="86" font-size="18" fill="#5A6775">九、行业监管</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">14 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">622 件行政许可,198 起行政处罚</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">从制度到准入再到惩戒,监管链条在 2024 年的动作量</text>
+  </g>
+  <g id="p14-stage-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 280 400 120" fill="#1E6FB8" stroke="none">
+<path d="M 72 280 L 412 280 L 472 340 L 412 400 L 72 400 L 132 340 Z" />
+</g>
+  <g id="p14-stage-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="440 280 400 120" fill="#0B3A6F" stroke="none">
+<path d="M 440 280 L 780 280 L 840 340 L 780 400 L 440 400 L 500 340 Z" />
+</g>
+  <g id="p14-stage-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="808 280 400 120" fill="#C8102E" stroke="none">
+<path d="M 808 280 L 1148 280 L 1208 340 L 1148 400 L 808 400 L 868 340 Z" />
+</g>
+  <g id="stage-rule" data-pptx-bounds="88 300 360 260" text-anchor="middle">
+    <text x="272" y="352" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">制度</text>
+    <text x="272" y="446" font-size="24" fill="#1E2733">1 部规章完成制定修订</text>
+    <text x="272" y="482" font-size="24" fill="#1E2733">7 件行政规范性文件</text>
+  </g>
+  <g id="stage-license" data-pptx-bounds="468 300 360 260" text-anchor="middle">
+    <text x="640" y="352" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">准入</text>
+    <text x="640" y="446" font-size="24" fill="#1E2733">622 件行政许可决定书</text>
+    <text x="640" y="482" font-size="24" fill="#1E2733">运输企业累计 81 家</text>
+    <text x="640" y="518" font-size="24" fill="#1E2733">生产企业累计 116 家</text>
+  </g>
+  <g id="stage-penalty" data-pptx-bounds="848 300 360 260" text-anchor="middle">
+    <text x="1008" y="352" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">惩戒</text>
+    <text x="1008" y="446" font-size="24" fill="#1E2733">198 起行政处罚</text>
+    <text x="1008" y="482" font-size="24" fill="#1E2733">383 个处罚决定</text>
+    <text x="1008" y="518" font-size="24" fill="#1E2733">挂牌督办 24 次</text>
+  </g>
+  <g id="p14-detail" data-pptx-bounds="72 580 1136 60">
+    <text x="72" y="604" font-size="18" fill="#5A6775">机车车辆驾驶人员新增 10933 人,累计 220308 人;机车车辆设计制造维修进口企业累计 124 家<tspan x="72" dy="26">预警 262 次、通报 333 次、约谈 68 次</tspan></text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6" />
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》六、行业监管(公报第 8—9 页)· 三段式为编者整理</text>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="24" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p07-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C" /><stop offset="100%" stop-color="#C81E3A" />
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA" />
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">04 · 综合效率与安全</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#14335C">综合运能稳步提升,全年未发生重特大事故</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#p07-accent-bar)" />
+  </g>
+
+  <g id="turnover-stats" data-pptx-bounds="64 200 568 420">
+    <text x="64" y="228" font-size="20" fill="#5B6472">全国铁路总换算周转量</text>
+    <text x="64" y="300" font-family="Consolas, Courier New" font-size="64" font-weight="bold" fill="#14335C">51661.00</text>
+    <text x="392" y="300" font-size="24" fill="#232B36">亿吨公里</text>
+    <text x="64" y="332" font-size="22" fill="#2E7D32" font-weight="bold">同比 +0.9%</text>
+
+    <line x1="64" y1="368" x2="584" y2="368" stroke="#D7DBE3" />
+
+    <text x="64" y="404" font-size="20" fill="#5B6472">其中 国家铁路</text>
+    <text x="470" y="404" font-family="Consolas, Courier New" font-size="24" font-weight="bold" fill="#14335C" text-anchor="end">48356.99</text>
+    <text x="482" y="404" font-size="16" fill="#5B6472">亿吨公里</text>
+    <text x="624" y="404" font-size="20" fill="#2E7D32" font-weight="bold" text-anchor="end">+2.1%</text>
+
+    <text x="64" y="448" font-size="20" fill="#5B6472">其中 其他铁路</text>
+    <text x="470" y="448" font-family="Consolas, Courier New" font-size="24" font-weight="bold" fill="#14335C" text-anchor="end">3304.01</text>
+    <text x="482" y="448" font-size="16" fill="#5B6472">亿吨公里</text>
+    <text x="624" y="448" font-size="20" fill="#C62828" font-weight="bold" text-anchor="end">-13.8%</text>
+
+    <text x="64" y="500" font-size="16" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第5页</text>
+  </g>
+
+  <line id="divider-mid" data-pptx-role="decoration" x1="632" y1="200" x2="632" y2="560" stroke="#D7DBE3" />
+
+  <g id="safety-panel" data-pptx-bounds="680 200 472 380">
+    
+  <g transform="translate(680, 200) scale(3)" fill="none" stroke="#2E7D32" stroke-width="2">
+    <path d="M11.46 20.846a12 12 0 0 1 -7.96 -14.846a12 12 0 0 0 8.5 -3a12 12 0 0 0 8.5 3a12 12 0 0 1 -.09 7.06" />
+    <path d="M15 19l2 2l4 -4" />
+  </g>
+    <text fill="#14335C" font-weight="bold" font-size="28" x="680" y="316">全年未发生铁路交通</text><text fill="#14335C" font-weight="bold" font-size="28" x="680" y="352">特别重大、重大事故</text><text x="680" y="404" font-size="20">较大事故<tspan font-weight="bold">2件</tspan>,与上年持平</text>
+    <text x="680" y="440" font-size="20">铁路交通事故死亡人数<tspan fill="#2E7D32" font-weight="bold">下降18.0%</tspan></text>
+    <text x="680" y="484" font-size="16" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第5页</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 676 1152 30">
+    <line x1="64" y1="676" x2="1216" y2="676" stroke="#D7DBE3" stroke-width="1" />
+    <text x="64" y="700" font-size="16" fill="#5B6472">中国铁路2024:数据与现场</text>
+    <text x="1216" y="700" font-size="16" fill="#5B6472" text-anchor="end">07 / 15</text>
+  </g>
+</svg>

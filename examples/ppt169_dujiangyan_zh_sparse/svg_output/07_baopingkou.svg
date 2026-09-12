@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="rockFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#16314C"/>
+      <stop offset="100%" stop-color="#0F2439"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1"/>
+
+  <g id="page-title" data-pptx-bounds="68 66 660 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">宝瓶口：一道不会关上的闸门</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1088 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">没有闸门，所以永远不会忘记开关——限流靠的是断面。</text>
+  </g>
+
+  <g id="baopingkou-closeup" data-pptx-bounds="72 192 628 372">
+    <path id="lidui-rock" d="M100 560 L100 330 L180 300 L250 330 L300 400 L318 470 L318 560 Z" fill="url(#rockFill)" stroke="#93AEC8" stroke-width="2" stroke-linejoin="bevel"/>
+    <path id="yulei-rock" d="M660 560 L660 330 L580 300 L510 330 L470 400 L452 470 L452 560 Z" fill="url(#rockFill)" stroke="#93AEC8" stroke-width="2" stroke-linejoin="bevel"/>
+    <rect x="318" y="462" width="134" height="98" fill="#1B4A70"/>
+    <line x1="318" y1="462" x2="452" y2="462" stroke="#4A90C2" stroke-width="3"/>
+    <line x1="318" y1="462" x2="318" y2="560" stroke="#E8A33D" stroke-width="3"/>
+    <line x1="452" y1="462" x2="452" y2="560" stroke="#E8A33D" stroke-width="3"/>
+    <line x1="318" y1="286" x2="452" y2="286" stroke="#E8A33D" stroke-width="2" stroke-dasharray="8,4,2,4"/>
+    <line x1="318" y1="278" x2="318" y2="294" stroke="#E8A33D" stroke-width="2"/>
+    <line x1="452" y1="278" x2="452" y2="294" stroke="#E8A33D" stroke-width="2"/>
+    <text x="385" y="268" font-size="18" fill="#E8A33D" text-anchor="middle">平均口宽 20 米</text>
+    <text x="148" y="400" font-size="18" fill="#93AEC8">离堆</text>
+    <text x="548" y="400" font-size="18" fill="#93AEC8">玉垒山</text>
+    <text x="385" y="546" font-size="18" fill="#EAF3FB" text-anchor="middle">内江水由此进入成都平原</text>
+  </g>
+
+  <g id="water-gauge" data-pptx-bounds="720 192 488 380">
+    <text x="790" y="232" font-size="18" fill="#4A90C2" text-anchor="middle">水则 · 二十四划</text>
+    <path id="gauge-spine" d="M790 260V560" fill="none" stroke="#4A90C2" stroke-width="2"/>
+    <path id="gauge-major-ticks" d="M774 260H806 M774 310H806 M774 360H806 M774 410H806 M774 460H806 M774 510H806 M774 560H806" fill="none" stroke="#4A90C2" stroke-width="2"/>
+    <path id="gauge-minor-ticks" d="M780 272.5H800 M780 285H800 M780 297.5H800 M780 322.5H800 M780 335H800 M780 347.5H800 M780 372.5H800 M780 385H800 M780 397.5H800 M780 422.5H800 M780 435H800 M780 447.5H800 M780 472.5H800 M780 485H800 M780 497.5H800 M780 522.5H800 M780 535H800 M780 547.5H800" fill="none" stroke="#4A90C2" stroke-width="1" stroke-opacity="0.7"/>
+    <text x="880" y="320" font-size="18" fill="#93AEC8">左岸石壁刻有水则共二十四划，<tspan x="880" dy="30">每划一市尺（1/3 米），</tspan><tspan x="880" dy="30">用以观测水位涨落。</tspan></text>
+    <use data-icon="tabler-outline/ruler-measure" x="880" y="380" width="28" height="28" fill="#4A90C2" stroke-width="2"/>
+    <text x="920" y="402" font-size="18" fill="#4A90C2">断面狭窄 = 天然节制闸</text>
+  </g>
+
+  <g id="reading-note" data-pptx-bounds="72 580 1136 44">
+    <text x="72" y="606" font-size="24" fill="#D6E4F0">怎么读：进得来多少水，是这道口子的形状决定的，不是人决定的。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1"/>
+    <text x="72" y="668" font-size="16" fill="#93AEC8">示意图为本讲整理绘制。来源：水利文明网《以水为师都江堰》（2022-09-03）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">07 / 14</text>
+  </g>
+</svg>

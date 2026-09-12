@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverBand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#233040" />
+      <stop offset="100%" stop-color="#1B2531" />
+    </linearGradient>
+  </defs>
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <rect id="cover-band" data-pptx-role="decoration" x="0" y="430" width="1280" height="290" fill="url(#coverBand)" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="430" stroke="#C9C1B4" stroke-width="1" />
+    <line x1="44" y1="430" x2="44" y2="684" stroke="#4A5560" stroke-width="1" />
+    <rect x="38" y="120" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="cover-kicker" data-pptx-bounds="72 116 620 38">
+    <rect x="72" y="130" width="68" height="3" fill="#C0392B" />
+    <text x="156" y="146" font-size="18" fill="#5A6068" letter-spacing="2">企业信息安全意识培训课件</text>
+  </g>
+  <g id="cover-title" data-pptx-bounds="72 162 880 150" font-family="SimSun, Cambria, serif">
+    <text x="72" y="240" font-size="88" fill="#1F2A37">信息安全意识培训</text>
+    <text x="72" y="298" font-size="32" fill="#5A6068">2026 版 · 新员工必修 · 45 分钟</text>
+  </g>
+  <g id="cover-year" data-pptx-bounds="792 458 416 204">
+    <text x="800" y="600" font-family="SimSun, Cambria, serif" font-size="160" fill="#3A4757">2026</text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="72 466 716 154" font-family="SimSun, Cambria, serif" font-size="56" fill="#F7F4EE">
+    <text x="72" y="520">你不是安全部门的旁观者</text>
+    <text x="72" y="590">你<tspan fill="#E8A6A0">就是入口</tspan>。</text>
+  </g>
+  <g id="cover-legal-note" data-pptx-bounds="72 620 700 58">
+    <text x="72" y="640" font-size="18" fill="#A9A296">依据 2025 年修正的《网络安全法》编写<tspan x="72" dy="26">修正后的规定自 2026 年 1 月 1 日起施行。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="1096 670 112 24">
+    <text x="1208" y="686" font-size="16" fill="#A9A296" text-anchor="end">01 / 28</text>
+  </g>
+</svg>

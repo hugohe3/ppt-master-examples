@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1B2E" stop-opacity="0" />
+      <stop offset="100%" stop-color="#0A1B2E" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F" />
+    <text x="72" y="86" font-size="18" fill="#5A6775">八、节能减排</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">13 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">二氧化硫排放六年降到 456 吨</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">主要污染物排放持续下降,单位能耗比上年微升 1.3%</text>
+  </g>
+  <g id="emission-6y" data-pptx-replace-with="chart" data-pptx-bounds="72 236 700 400" data-pptx-fallback-sha256="f52f3d80330bcc0ab1c1dc2fa90a8449de0754dd3770851eea398d468e9d6a3f">
+    <metadata type="application/json">
+      {
+        "x": 72,
+        "y": 236,
+        "width": 700,
+        "height": 400,
+        "name": "emission-6y",
+        "type": "line",
+      "line_style": "lineMarker",
+      "marker_size": 8,
+        "categories": [
+          "2019年",
+          "2020年",
+          "2021年",
+          "2022年",
+          "2023年",
+          "2024年"
+        ],
+        "series": [
+          {
+            "name": "化学需氧量排放量",
+            "values": [
+              1732,
+              1623,
+              1606,
+              1427,
+              1466,
+              1337
+            ],
+            "data_labels": {
+              "show_value": true,
+              "position": "above",
+              "number_format": "0",
+              "font_size": 18,
+              "color": "#C8102E",
+              "points": [
+                {
+                  "idx": 0
+                },
+                {
+                  "idx": 1,
+                  "delete": true
+                },
+                {
+                  "idx": 2,
+                  "delete": true
+                },
+                {
+                  "idx": 3,
+                  "delete": true
+                },
+                {
+                  "idx": 4,
+                  "delete": true
+                },
+                {
+                  "idx": 5
+                }
+              ]
+            }
+          },
+          {
+            "name": "二氧化硫排放量",
+            "values": [
+              5286,
+              3418,
+              2340,
+              1315,
+              652,
+              456
+            ],
+            "data_labels": {
+              "show_value": true,
+              "position": "above",
+              "number_format": "0",
+              "font_size": 18,
+              "color": "#2E7D32",
+              "points": [
+                {
+                  "idx": 0
+                },
+                {
+                  "idx": 1,
+                  "delete": true
+                },
+                {
+                  "idx": 2,
+                  "delete": true
+                },
+                {
+                  "idx": 3,
+                  "delete": true
+                },
+                {
+                  "idx": 4,
+                  "delete": true
+                },
+                {
+                  "idx": 5
+                }
+              ]
+            }
+          }
+        ],
+        "axes": {
+          "category": {
+            "kind": "text",
+            "position": "bottom",
+            "tick_marks": "none",
+            "font_size": 18,
+            "color": "#5A6775"
+          },
+          "value": {
+            "minimum": 0,
+            "maximum": 6000,
+            "major_unit": 1000,
+            "number_format": "0",
+            "major_gridlines": true,
+            "tick_marks": "none",
+            "cross_between": "mid_category",
+            "font_size": 18,
+            "color": "#5A6775"
+          }
+        },
+        "axis_titles": {
+          "value": "吨"
+        },
+        "show_legend": true,
+        "legend_position": "bottom",
+        "plot_area": {
+          "x": 170,
+          "y": 280,
+          "width": 570,
+          "height": 280
+        },
+        "style": {
+          "axis_color": "#5A6775",
+          "grid_color": "#E6EBF1",
+          "text_color": "#5A6775",
+          "font_family": "Microsoft YaHei",
+          "colors": [
+            "#C8102E",
+            "#2E7D32"
+          ],
+          "legend_font_size": 18
+        }
+      }
+    </metadata>
+    <g id="emission-6y-chartArea">
+      <line id="em-grid-1000" x1="170" y1="513.33" x2="740" y2="513.33" stroke="#E6EBF1" stroke-width="1" />
+      <line id="em-grid-2000" x1="170" y1="466.67" x2="740" y2="466.67" stroke="#E6EBF1" stroke-width="1" />
+      <line id="em-grid-3000" x1="170" y1="420.0" x2="740" y2="420.0" stroke="#E6EBF1" stroke-width="1" />
+      <line id="em-grid-4000" x1="170" y1="373.33" x2="740" y2="373.33" stroke="#E6EBF1" stroke-width="1" />
+      <line id="em-grid-5000" x1="170" y1="326.67" x2="740" y2="326.67" stroke="#E6EBF1" stroke-width="1" />
+      <line id="em-grid-6000" x1="170" y1="280.0" x2="740" y2="280.0" stroke="#E6EBF1" stroke-width="1" />
+      <line id="em-axis-y" x1="170" y1="280" x2="170" y2="560" stroke="#5A6775" stroke-width="1" />
+      <line id="em-axis-x" x1="170" y1="560" x2="740" y2="560" stroke="#5A6775" stroke-width="1" />
+      <!-- chart-plot-area: object=emission-6y | 170,280,740,560 -->
+      <polyline points="170.0,479.17 284.0,484.26 398.0,485.05 512.0,493.41 626.0,491.59 740.0,497.61" fill="none" stroke="#C8102E" stroke-width="3" stroke-linejoin="round" />
+      <circle cx="170.0" cy="479.17" r="4" fill="#C8102E" />
+      <circle cx="284.0" cy="484.26" r="4" fill="#C8102E" />
+      <circle cx="398.0" cy="485.05" r="4" fill="#C8102E" />
+      <circle cx="512.0" cy="493.41" r="4" fill="#C8102E" />
+      <circle cx="626.0" cy="491.59" r="4" fill="#C8102E" />
+      <circle cx="740.0" cy="497.61" r="4" fill="#C8102E" />
+      <polyline points="170.0,313.32 284.0,400.49 398.0,450.8 512.0,498.63 626.0,529.57 740.0,538.72" fill="none" stroke="#2E7D32" stroke-width="3" stroke-linejoin="round" />
+      <circle cx="170.0" cy="313.32" r="4" fill="#2E7D32" />
+      <circle cx="284.0" cy="400.49" r="4" fill="#2E7D32" />
+      <circle cx="398.0" cy="450.8" r="4" fill="#2E7D32" />
+      <circle cx="512.0" cy="498.63" r="4" fill="#2E7D32" />
+      <circle cx="626.0" cy="529.57" r="4" fill="#2E7D32" />
+      <circle cx="740.0" cy="538.72" r="4" fill="#2E7D32" />
+    </g>
+    <text x="100" y="262" font-size="18" fill="#5A6775">吨</text>
+    <text x="160" y="566.0" font-size="18" fill="#5A6775" text-anchor="end">0</text>
+    <text x="160" y="519.33" font-size="18" fill="#5A6775" text-anchor="end">1000</text>
+    <text x="160" y="472.67" font-size="18" fill="#5A6775" text-anchor="end">2000</text>
+    <text x="160" y="426.0" font-size="18" fill="#5A6775" text-anchor="end">3000</text>
+    <text x="160" y="379.33" font-size="18" fill="#5A6775" text-anchor="end">4000</text>
+    <text x="160" y="332.67" font-size="18" fill="#5A6775" text-anchor="end">5000</text>
+    <text x="160" y="286.0" font-size="18" fill="#5A6775" text-anchor="end">6000</text>
+    <text x="170.0" y="585" font-size="18" fill="#5A6775" text-anchor="middle">2019年</text>
+    <text x="284.0" y="585" font-size="18" fill="#5A6775" text-anchor="middle">2020年</text>
+    <text x="398.0" y="585" font-size="18" fill="#5A6775" text-anchor="middle">2021年</text>
+    <text x="512.0" y="585" font-size="18" fill="#5A6775" text-anchor="middle">2022年</text>
+    <text x="626.0" y="585" font-size="18" fill="#5A6775" text-anchor="middle">2023年</text>
+    <text x="740.0" y="585" font-size="18" fill="#5A6775" text-anchor="middle">2024年</text>
+    <text x="170.0" y="467.17" font-size="18" fill="#C8102E" text-anchor="middle">1732</text>
+    <text x="740.0" y="485.61" font-size="18" fill="#C8102E" text-anchor="middle">1337</text>
+    <text x="170.0" y="301.32" font-size="18" fill="#2E7D32" text-anchor="middle">5286</text>
+    <text x="740.0" y="526.72" font-size="18" fill="#2E7D32" text-anchor="middle">456</text>
+    <line x1="170" y1="614" x2="194" y2="614" stroke="#C8102E" stroke-width="3" />
+    <circle cx="182" cy="614" r="4" fill="#C8102E" />
+    <text x="204" y="620" font-size="18" fill="#5A6775">化学需氧量排放量</text>
+    <line x1="400" y1="614" x2="424" y2="614" stroke="#2E7D32" stroke-width="3" />
+    <circle cx="412" cy="614" r="4" fill="#2E7D32" />
+    <text x="434" y="620" font-size="18" fill="#5A6775">二氧化硫排放量</text>
+  </g>
+  <g id="p13-tibet-photo" data-pptx-bounds="812 236 396 200">
+    <image href="../images/qinghai_tibet_railway.jpg" x="812" y="236" width="396" height="200" preserveAspectRatio="xMidYMid slice" />
+    <rect x="812" y="392" width="396" height="44" fill="url(#fadeBottom)" />
+    <text x="1196" y="426" font-size="15" fill="#FFFFFF" text-anchor="end">青藏铁路车厢 摄影 Hiroki Ogawa · CC BY 3.0</text>
+  </g>
+  <g id="energy-block" data-pptx-bounds="812 452 396 110">
+    <rect x="812" y="452" width="396" height="3" fill="#0B3A6F" />
+    <use data-icon="chunk-filled/gauge-high" x="812" y="464" width="30" height="30" fill="#0B3A6F" />
+    <text x="852" y="488" font-size="18" fill="#5A6775">单位运输工作量综合能耗</text>
+    <text x="812" y="530" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0B3A6F">3.86<tspan font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="normal" fill="#5A6775"> 吨标准煤/百万换算吨公里</tspan></text>
+    <text x="812" y="556" font-size="18" fill="#C62828">比上年增长 1.3%</text>
+  </g>
+  <g id="energy-total" data-pptx-bounds="812 578 396 58" font-size="18">
+    <text x="812" y="600" fill="#1E2733">国家铁路综合能耗 1801.2 万吨标准煤</text>
+    <text x="812" y="626" fill="#5A6775">比上年增加 48.5 万吨,增长 2.8%</text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6" />
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》五、节能减排 · 国家铁路化学需氧量、二氧化硫排放量图(公报第 8 页)</text>
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="18" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p10-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C"/><stop offset="100%" stop-color="#C81E3A"/>
+    </linearGradient>
+    <linearGradient id="p10-photo-wash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08152A" stop-opacity="0"/>
+      <stop offset="65%" stop-color="#08152A" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#08152A" stop-opacity="0.60"/>
+    </linearGradient>
+    <clipPath id="p10-photo-clip"><rect x="720" y="190" width="432" height="340" rx="16"/></clipPath>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA"/>
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">07 · 装备</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#14335C">动车组保有量达4806标准组、38448辆</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#p10-accent-bar)"/>
+  </g>
+
+  <g id="fleet-table" data-pptx-bounds="64 190 560 280" data-pptx-replace-with="table" data-pptx-fallback-sha256="dffcfbdbb91c0cd8b0684daf12d2cc9d2c261c5ed009c050f3f1b1b2ac9fb172">
+    <metadata type="application/json">
+    {
+      "schema": "ppt-master.semantic-table.v2",
+      "x": 64, "y": 190, "width": 560, "height": 280,
+      "columns": [
+        {"text": "指标", "align": "l", "bold": true, "color": "#FFFFFF", "fill": "#14335C"},
+        {"text": "数值", "align": "r", "bold": true, "color": "#FFFFFF", "fill": "#14335C"}
+      ],
+      "row_heights": [40,40,40,40,40,40,40],
+      "rows": [
+        [{"text":"机车拥有量","bold":true},{"text":"2.25万台","align":"r","bold":true}],
+        [{"text":"其中 内燃机车","color":"#5B6472"},{"text":"0.78万台","align":"r","color":"#5B6472"}],
+        [{"text":"其中 电力机车","color":"#5B6472"},{"text":"1.47万台","align":"r","color":"#5B6472"}],
+        [{"text":"客车拥有量","bold":true},{"text":"8.1万辆","align":"r","bold":true}],
+        [{"text":"其中 动车组","color":"#5B6472"},{"text":"4806标准组、38448辆","align":"r","color":"#5B6472"}],
+        [{"text":"货车拥有量","bold":true},{"text":"101.9万辆","align":"r","bold":true}]
+      ],
+      "defaults": {"cell": {"padding": 8, "font_size": 18, "valign": "middle"}, "run": {"font_family": "Microsoft YaHei"}}
+    }
+    </metadata>
+    <rect x="64" y="190" width="560" height="280" fill="#FFFFFF"/>
+    <rect x="64" y="190" width="560" height="40" fill="#14335C"/>
+    <text x="80" y="216" fill="#FFFFFF" font-weight="bold">指标</text>
+    <text x="608" y="216" fill="#FFFFFF" font-weight="bold" text-anchor="end">数值</text>
+
+    <rect x="64" y="230" width="560" height="40" fill="#E7EAF1"/>
+    <text x="80" y="256" font-weight="bold">机车拥有量</text>
+    <text x="608" y="256" text-anchor="end" font-weight="bold">2.25万台</text>
+
+    <text x="96" y="296" fill="#5B6472">其中 内燃机车</text>
+    <text x="608" y="296" text-anchor="end" fill="#5B6472">0.78万台</text>
+
+    <text x="96" y="336" fill="#5B6472">其中 电力机车</text>
+    <text x="608" y="336" text-anchor="end" fill="#5B6472">1.47万台</text>
+
+    <line x1="64" y1="350" x2="624" y2="350" stroke="#D7DBE3"/>
+    <rect x="64" y="350" width="560" height="40" fill="#E7EAF1"/>
+    <text x="80" y="376" font-weight="bold">客车拥有量</text>
+    <text x="608" y="376" text-anchor="end" font-weight="bold">8.1万辆</text>
+
+    <text x="96" y="416" fill="#5B6472">其中 动车组</text>
+    <text x="608" y="416" text-anchor="end" fill="#5B6472">4806标准组、38448辆</text>
+
+    <line x1="64" y1="430" x2="624" y2="430" stroke="#D7DBE3"/>
+    <rect x="64" y="430" width="560" height="40" fill="#E7EAF1"/>
+    <text x="80" y="456" font-weight="bold">货车拥有量</text>
+    <text x="608" y="456" text-anchor="end" font-weight="bold">101.9万辆</text>
+    <line x1="64" y1="470" x2="624" y2="470" stroke="#D7DBE3"/>
+  </g>
+
+  <g id="p10-brace-loco" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="624 270 24 80" fill="none" stroke="#14335C" stroke-width="2">
+    <path d="M 648 350 A 12 2 0 0 1 636 348 L 636 312 A 12 2 0 0 0 624 310 A 12 2 0 0 0 636 308 L 636 272 A 12 2 0 0 1 648 270 Z" stroke="none"/>
+    <path d="M 648 350 A 12 2 0 0 1 636 348 L 636 312 A 12 2 0 0 0 624 310 A 12 2 0 0 0 636 308 L 636 272 A 12 2 0 0 1 648 270"/>
+  </g>
+  <g id="brace-label" data-pptx-bounds="656 300 60 24">
+    <text x="656" y="316" font-size="14" fill="#5B6472">机车合计</text>
+  </g>
+
+  <g id="fleet-photo" data-pptx-bounds="720 190 432 340">
+    <image href="../images/fuxing_train_device.jpg" x="720" y="190" width="432" height="340" preserveAspectRatio="xMidYMid slice" clip-path="url(#p10-photo-clip)"/>
+    <rect x="720" y="190" width="432" height="340" rx="16" fill="url(#p10-photo-wash)"/>
+    <text x="744" y="500" font-size="18" font-weight="bold" fill="#FFFFFF">复兴号动车组</text>
+    <text x="744" y="522" font-size="15" fill="#E7EAF1">图片:<a href="https://commons.wikimedia.org/wiki/File:CR400AF-2007_at_Guangnan_(20181107092901).jpg"><tspan text-decoration="underline">N509FZ, CC BY-SA 4.0</tspan></a></text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 662 1152 30">
+    <line x1="64" y1="662" x2="1216" y2="662" stroke="#D7DBE3" stroke-width="1"/>
+    <text x="64" y="686" font-size="16" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第5-6页</text>
+    <text x="1216" y="686" font-size="16" fill="#5B6472" text-anchor="end">10 / 15</text>
+  </g>
+</svg>

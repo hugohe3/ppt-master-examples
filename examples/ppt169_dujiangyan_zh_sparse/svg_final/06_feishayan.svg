@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#7FD1C3" />
+    </marker>
+    <marker id="arrowAmber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#E8A33D" />
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E" />
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1" />
+
+  <g id="page-title" data-pptx-bounds="68 66 620 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">飞沙堰：让弯道替人排沙</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1088 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">这道堰的本事在"低"——水一转弯就自己把沙甩出去。</text>
+  </g>
+
+  <g id="bend-section" data-pptx-bounds="72 192 748 360">
+    <path id="bend-inner-river" d="M140 260 C280 250 390 288 456 358 C508 413 532 460 540 505" fill="none" stroke="#4A90C2" stroke-width="64" stroke-linecap="round" />
+    <path id="circulation-1" d="M244 236 Q290 270 244 304" fill="none" stroke="#7FD1C3" stroke-width="3" marker-end="url(#arrowTeal)" />
+    <path id="circulation-2" d="M334 262 Q378 302 332 340" fill="none" stroke="#7FD1C3" stroke-width="3" marker-end="url(#arrowTeal)" />
+    <line x1="378" y1="336" x2="438" y2="384" stroke="#E8A33D" stroke-width="8" stroke-linecap="round" />
+    <line x1="404" y1="366" x2="300" y2="470" stroke="#E8A33D" stroke-width="3" marker-end="url(#arrowAmber)" />
+    <text x="452" y="398" font-family="SimHei, Consolas, sans-serif" font-size="24" fill="#E8A33D">飞沙堰</text>
+    <text x="112" y="224" font-size="18" fill="#93AEC8">内江（上游来水）</text>
+    <text x="470" y="300" font-size="18" fill="#93AEC8">凹岸 · 水深 · 取水</text>
+    <text x="170" y="336" font-size="18" fill="#7FD1C3">弯道环流</text>
+    <text x="150" y="452" font-size="18" fill="#93AEC8">凸岸 · 淤沙 · 排沙</text>
+    <text x="246" y="506" font-size="18" fill="#E8A33D">多余的水与泥沙 → 外江</text>
+  </g>
+
+  <g id="weir-dimensions" data-pptx-bounds="860 198 348 230">
+    
+  <g transform="translate(864, 204) scale(1.16667)" fill="none" stroke="#4A90C2" stroke-width="2">
+    <path d="M19.875 12c.621 0 1.125 .512 1.125 1.143v5.714c0 .631 -.504 1.143 -1.125 1.143h-15.875a1 1 0 0 1 -1 -1v-5.857c0 -.631 .504 -1.143 1.125 -1.143h15.75" />
+    <path d="M9 12v2" />
+    <path d="M6 12v3" />
+    <path d="M12 12v3" />
+    <path d="M18 12v3" />
+    <path d="M15 12v2" />
+    <path d="M3 3v4" />
+    <path d="M3 5h18" />
+    <path d="M21 3v4" />
+  </g>
+    <text x="864" y="292" font-family="SimHei, Consolas, sans-serif" font-size="72" fill="#EAF3FB">240<tspan font-size="32" fill="#93AEC8"> 米</tspan></text>
+    <text x="864" y="322" font-size="18" fill="#93AEC8">堰口宽度</text>
+    <text x="864" y="386" font-family="SimHei, Consolas, sans-serif" font-size="72" fill="#EAF3FB">2<tspan font-size="32" fill="#93AEC8"> 米</tspan></text>
+    <text x="864" y="416" font-size="18" fill="#93AEC8">堰坝高出河床</text>
+  </g>
+
+  <g id="weir-functions" data-pptx-bounds="860 436 348 152" font-size="24">
+    <text x="864" y="468" font-weight="bold" fill="#D6E4F0">同一道堰，三件事</text>
+    <text x="864" y="506" fill="#93AEC8">· 拦引春水</text>
+    <text x="864" y="540" fill="#93AEC8">· 排泄洪水</text>
+    <text x="864" y="574" fill="#93AEC8">· 排砂石</text>
+  </g>
+
+  <g id="reading-note" data-pptx-bounds="72 562 748 70">
+    <text font-size="24" fill="#D6E4F0" x="72" y="588">怎么读：内江水量超过宝瓶口能吃下的量时，</text><text font-size="24" fill="#D6E4F0" x="72" y="622">多余的水就从这道低堰的堰顶自行溢回外江。</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1" />
+    <text x="72" y="668" font-size="16" fill="#93AEC8">示意图为本讲整理绘制。来源：水利文明网《以水为师都江堰》（2022-09-03）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">06 / 14</text>
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE"/>
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1"/>
+    <rect x="38" y="120" width="12" height="34" fill="#C0392B"/>
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">01 为什么是你</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">通报里的攻击者，是应聘进来的</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2"/>
+  </g>
+  <g id="case-judgment" data-pptx-bounds="72 186 1136 42">
+    <text x="72" y="212" font-size="28" fill="#1F2A37">攻击者不一定是<tspan font-weight="bold" fill="#C0392B">黑</tspan>进来的，也可能是<tspan font-weight="bold" fill="#C0392B">应聘</tspan>进来的。</text>
+  </g>
+  <g id="insider-cases" data-pptx-replace-with="table" data-pptx-bounds="72 240 1136 356" data-pptx-fallback-sha256="7143da9bd09288a81ce91c79ce5e0e4eba80e89f3804ef7f0c508af959f80345">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 72, "y": 246, "width": 1136, "height": 344,
+  "name": "insider-cases",
+  "column_widths": [260, 440, 220, 216],
+  "row_heights": [48, 74, 74, 74, 74],
+  "style": {"font_size": 18, "header_fill": "#1F2A37", "header_text": "#F7F4EE", "body_text": "#232A31", "band_row": false},
+  "defaults": {"cell": {"font_size": 18, "align": "l", "valign": "middle", "padding": 14, "borders": {"bottom": {"style": "solid", "color": "#D5CEC2", "width": 1}}}},
+  "columns": [
+    {"text": "案件", "bold": true, "align": "l", "borders": {"bottom": {"style": "solid", "color": "#1F2A37", "width": 2}}},
+    {"text": "手法", "bold": true, "align": "l", "borders": {"bottom": {"style": "solid", "color": "#1F2A37", "width": 2}}},
+    {"text": "结果", "bold": true, "align": "l", "borders": {"bottom": {"style": "solid", "color": "#1F2A37", "width": 2}}},
+    {"text": "通报来源与年份", "bold": true, "align": "l", "borders": {"bottom": {"style": "solid", "color": "#1F2A37", "width": 2}}}
+  ],
+  "rows": [
+    ["北京海淀教培木马案", "制作木马程序，组织人员入职目标教培机构，定向投放木马非法控制内部计算机", "抓获犯罪嫌疑人 8 名", "公安部 2025 年通报"],
+    ["甘肃张掖快递内鬼案", "勾结快递行业工作人员，利用技术手段窃取快递订单个人信息并出售牟利", "抓获 18 人涉案 300 余万元", "公安部 2025 年通报"],
+    ["四川凉山运维滥用案", "利用开发运维在线学习平台的工作便利，非法获取、出售他人个人信息", "抓获犯罪嫌疑人 45 名", "公安部 2025 年通报"],
+    [
+      {"text": "某药房内鬼盗卖案", "borders": {"bottom": {"style": "solid", "color": "#1F2A37", "width": 2}}},
+      {"text": "未严格限制和监控员工数据访问权限，内部人员利用管理漏洞盗卖客户数据", "borders": {"bottom": {"style": "solid", "color": "#1F2A37", "width": 2}}},
+      {"text": "内部权限失控", "borders": {"bottom": {"style": "solid", "color": "#1F2A37", "width": 2}}},
+      {"text": "中国网络空间安全协会等 2025 年报告", "borders": {"bottom": {"style": "solid", "color": "#1F2A37", "width": 2}}}
+    ]
+  ]
+}
+    </metadata>
+    <rect x="72" y="246" width="1136" height="48" fill="#1F2A37"/>
+    <g font-size="18" font-weight="bold" fill="#F7F4EE">
+      <text x="86" y="276">案件</text>
+      <text x="346" y="276">手法</text>
+      <text x="786" y="276">结果</text>
+      <text x="1006" y="276">通报来源与年份</text>
+    </g>
+    <g font-size="18" fill="#232A31">
+      <text x="86" y="337">北京海淀教培木马案</text>
+      <text x="346" y="324">制作木马程序，组织人员入职目标教培机构，<tspan x="346" dy="26">定向投放木马非法控制内部计算机</tspan></text>
+      <text x="786" y="337">抓获犯罪嫌疑人 8 名</text>
+      <text x="1006" y="337">公安部 2025 年通报</text>
+      <text x="86" y="411">甘肃张掖快递内鬼案</text>
+      <text x="346" y="398">勾结快递行业工作人员，利用技术手段窃取<tspan x="346" dy="26">快递订单个人信息并出售牟利</tspan></text>
+      <text x="786" y="398">抓获 18 人<tspan x="786" dy="26">涉案 300 余万元</tspan></text>
+      <text x="1006" y="411">公安部 2025 年通报</text>
+      <text x="86" y="485">四川凉山运维滥用案</text>
+      <text x="346" y="472">利用开发运维在线学习平台的工作便利，<tspan x="346" dy="26">非法获取、出售他人个人信息</tspan></text>
+      <text x="786" y="485">抓获犯罪嫌疑人 45 名</text>
+      <text x="1006" y="485">公安部 2025 年通报</text>
+      <text x="86" y="559">某药房内鬼盗卖案</text>
+      <text x="346" y="546">未严格限制和监控员工数据访问权限，内部<tspan x="346" dy="26">人员利用管理漏洞盗卖客户数据</tspan></text>
+      <text x="786" y="559">内部权限失控</text>
+      <text x="1006" y="546">中国网络空间安全<tspan x="1006" dy="26">协会等 2025 年报告</tspan></text>
+    </g>
+    <line x1="72" y1="368" x2="1208" y2="368" stroke="#D5CEC2" stroke-width="1"/>
+    <line x1="72" y1="442" x2="1208" y2="442" stroke="#D5CEC2" stroke-width="1"/>
+    <line x1="72" y1="516" x2="1208" y2="516" stroke="#D5CEC2" stroke-width="1"/>
+    <line x1="72" y1="590" x2="1208" y2="590" stroke="#1F2A37" stroke-width="2"/>
+  </g>
+  <g id="scale-note" data-pptx-bounds="72 604 1136 56">
+    <text x="72" y="622" font-size="18" fill="#5A6068">2024 年全国公安机关侦破侵犯公民个人信息相关案件 7000 余起；<tspan x="72" dy="26">公安部 2025 年 3 月公布 10 起打击侵犯公民个人信息犯罪典型案例。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：公安部 2025 年 3 月通报（F043–F046）；中国网络空间安全协会等 2025 年 3 月报告（F052）</text>
+    <text x="1208" y="686" text-anchor="end">06 / 28</text>
+  </g>
+</svg>

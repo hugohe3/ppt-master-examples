@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+    "name": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "水利文明网-以水为师都江堰.md",
+    "asset_dir": "水利文明网-以水为师都江堰_files",
+    "image_manifest": "水利文明网-以水为师都江堰_files/image_manifest.json",
+    "image_count": 18
+  },
+  "markdown": {
+    "line_count": 373,
+    "char_count": 16616,
+    "heading_count": 1,
+    "table_count": 0,
+    "image_ref_count": 19,
+    "link_count": 0
+  },
+  "warnings": []
+}

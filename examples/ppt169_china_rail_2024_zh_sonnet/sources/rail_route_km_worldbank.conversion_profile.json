@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "excel_to_md.py",
+  "conversion_type": "xlsx",
+  "source": {
+    "path": "/tmp/claude-0/-root-ppt-master/d98e2dc0-232f-41e9-b49a-2876621878b8/scratchpad/materials_rail/rail_route_km_worldbank.xlsx",
+    "name": "rail_route_km_worldbank.xlsx",
+    "suffix": ".xlsx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 6268
+  },
+  "outputs": {
+    "markdown": "rail_route_km_worldbank.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 27,
+    "char_count": 2420,
+    "heading_count": 3,
+    "table_count": 1,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}

@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1B2E" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0A1B2E" stop-opacity="0.78"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F"/>
+    <text x="72" y="86" font-size="18" fill="#5A6775">二、客运</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">04 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">40.85 亿人来自国家铁路</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">其他铁路增速更高,但基数很小——以下为公报原表</text>
+  </g>
+  <g id="p04-station-photo" data-pptx-bounds="72 236 1136 104">
+    <image href="../images/beijing_south_station.jpg" x="72" y="236" width="1136" height="104" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="72" y="296" width="1136" height="44" fill="url(#fadeBottom)"/>
+    <text x="1196" y="330" font-size="15" fill="#FFFFFF" text-anchor="end">北京南站站台 摄影 颐园新居 · CC BY-SA 4.0 · Wikimedia Commons</text>
+  </g>
+  <g id="pax-volume-table" data-pptx-replace-with="table" data-pptx-bounds="72 364 1136 244" data-pptx-fallback-sha256="8bba9c7b4f58ce67e96d27b06bd35a7558772988f45113f614a663d754e052cf">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "x": 72, "y": 364, "width": 1136, "height": 244,
+        "name": "pax-volume-table",
+        "column_widths": [400, 200, 280, 256],
+        "row_heights": [40, 34, 34, 34, 34, 34, 34],
+        "defaults": {
+          "cell": {"valign": "middle", "font_size": 24, "padding": {"left": 16, "right": 16, "top": 2, "bottom": 2},
+                   "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"},
+                               "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}}
+        },
+        "columns": [
+          {"text": "指标", "fill": "#0B3A6F", "color": "#FFFFFF", "bold": true, "align": "l"},
+          {"text": "单位", "fill": "#0B3A6F", "color": "#FFFFFF", "bold": true, "align": "ctr"},
+          {"text": "2024 年", "fill": "#0B3A6F", "color": "#FFFFFF", "bold": true, "align": "r"},
+          {"text": "比上年±%", "fill": "#0B3A6F", "color": "#FFFFFF", "bold": true, "align": "r"}
+        ],
+        "rows": [
+          [{"text": "旅客发送量", "fill": "#F2F5F9", "bold": true, "color": "#1E2733", "align": "l"},
+           {"text": "万人", "fill": "#F2F5F9", "color": "#1E2733", "align": "ctr"},
+           {"text": "431240", "fill": "#F2F5F9", "bold": true, "color": "#1E2733", "align": "r"},
+           {"text": "11.9", "fill": "#F2F5F9", "bold": true, "color": "#2E7D32", "align": "r"}],
+          [{"text": "　国家铁路", "color": "#1E2733", "align": "l"},
+           {"text": "万人", "color": "#1E2733", "align": "ctr"},
+           {"text": "408516", "color": "#1E2733", "align": "r"},
+           {"text": "10.9", "color": "#2E7D32", "align": "r"}],
+          [{"text": "　其他铁路", "color": "#1E2733", "align": "l"},
+           {"text": "万人", "color": "#1E2733", "align": "ctr"},
+           {"text": "22724", "color": "#1E2733", "align": "r"},
+           {"text": "34.0", "color": "#2E7D32", "align": "r"}],
+          [{"text": "旅客周转量", "fill": "#F2F5F9", "bold": true, "color": "#1E2733", "align": "l"},
+           {"text": "亿人公里", "fill": "#F2F5F9", "color": "#1E2733", "align": "ctr"},
+           {"text": "15799.10", "fill": "#F2F5F9", "bold": true, "color": "#1E2733", "align": "r"},
+           {"text": "7.3", "fill": "#F2F5F9", "bold": true, "color": "#2E7D32", "align": "r"}],
+          [{"text": "　国家铁路", "color": "#1E2733", "align": "l"},
+           {"text": "亿人公里", "color": "#1E2733", "align": "ctr"},
+           {"text": "15776.35", "color": "#1E2733", "align": "r"},
+           {"text": "7.2", "color": "#2E7D32", "align": "r"}],
+          [{"text": "　其他铁路", "color": "#1E2733", "align": "l"},
+           {"text": "亿人公里", "color": "#1E2733", "align": "ctr"},
+           {"text": "22.74", "color": "#1E2733", "align": "r"},
+           {"text": "85.9", "color": "#2E7D32", "align": "r"}]
+        ]
+      }
+    </metadata>
+    <rect x="72" y="364" width="1136" height="40" fill="#0B3A6F"/>
+    <text x="88" y="391" font-size="24" font-weight="bold" fill="#FFFFFF">指标</text>
+    <text x="572" y="391" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">单位</text>
+    <text x="936" y="391" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="end">2024 年</text>
+    <text x="1192" y="391" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="end">比上年±%</text>
+    <rect x="72" y="404" width="1136" height="34" fill="#F2F5F9"/>
+    <rect x="72" y="506" width="1136" height="34" fill="#F2F5F9"/>
+    <text x="88" y="428" font-size="24" font-weight="bold" fill="#1E2733">旅客发送量</text>
+    <text x="572" y="428" font-size="24" fill="#1E2733" text-anchor="middle">万人</text>
+    <text x="936" y="428" font-size="24" font-weight="bold" fill="#1E2733" text-anchor="end">431240</text>
+    <text x="1192" y="428" font-size="24" font-weight="bold" fill="#2E7D32" text-anchor="end">11.9</text>
+    <text x="88" y="462" font-size="24" fill="#1E2733">　国家铁路</text>
+    <text x="572" y="462" font-size="24" fill="#1E2733" text-anchor="middle">万人</text>
+    <text x="936" y="462" font-size="24" fill="#1E2733" text-anchor="end">408516</text>
+    <text x="1192" y="462" font-size="24" fill="#2E7D32" text-anchor="end">10.9</text>
+    <text x="88" y="496" font-size="24" fill="#1E2733">　其他铁路</text>
+    <text x="572" y="496" font-size="24" fill="#1E2733" text-anchor="middle">万人</text>
+    <text x="936" y="496" font-size="24" fill="#1E2733" text-anchor="end">22724</text>
+    <text x="1192" y="496" font-size="24" fill="#2E7D32" text-anchor="end">34.0</text>
+    <text x="88" y="530" font-size="24" font-weight="bold" fill="#1E2733">旅客周转量</text>
+    <text x="572" y="530" font-size="24" fill="#1E2733" text-anchor="middle">亿人公里</text>
+    <text x="936" y="530" font-size="24" font-weight="bold" fill="#1E2733" text-anchor="end">15799.10</text>
+    <text x="1192" y="530" font-size="24" font-weight="bold" fill="#2E7D32" text-anchor="end">7.3</text>
+    <text x="88" y="564" font-size="24" fill="#1E2733">　国家铁路</text>
+    <text x="572" y="564" font-size="24" fill="#1E2733" text-anchor="middle">亿人公里</text>
+    <text x="936" y="564" font-size="24" fill="#1E2733" text-anchor="end">15776.35</text>
+    <text x="1192" y="564" font-size="24" fill="#2E7D32" text-anchor="end">7.2</text>
+    <text x="88" y="598" font-size="24" fill="#1E2733">　其他铁路</text>
+    <text x="572" y="598" font-size="24" fill="#1E2733" text-anchor="middle">亿人公里</text>
+    <text x="936" y="598" font-size="24" fill="#1E2733" text-anchor="end">22.74</text>
+    <text x="1192" y="598" font-size="24" fill="#2E7D32" text-anchor="end">85.9</text>
+    <line x1="72" y1="438" x2="1208" y2="438" stroke="#D8DEE6" stroke-width="1"/>
+    <line x1="72" y1="472" x2="1208" y2="472" stroke="#D8DEE6" stroke-width="1"/>
+    <line x1="72" y1="506" x2="1208" y2="506" stroke="#D8DEE6" stroke-width="1"/>
+    <line x1="72" y1="540" x2="1208" y2="540" stroke="#D8DEE6" stroke-width="1"/>
+    <line x1="72" y1="574" x2="1208" y2="574" stroke="#D8DEE6" stroke-width="1"/>
+    <line x1="72" y1="608" x2="1208" y2="608" stroke="#D8DEE6" stroke-width="1"/>
+  </g>
+  <g id="table-note" data-pptx-bounds="72 614 1136 34">
+    <text x="72" y="636" font-size="18" fill="#5A6775">注:其他铁路旅客周转量 22.74 亿人公里,约占全国的 0.14%(整理,由公报两项数值计算)</text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6"/>
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》表「全国铁路旅客运输量」(公报第 2 页)</text>
+  </g>
+</svg>

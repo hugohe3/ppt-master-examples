@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1"/>
+
+  <g id="page-title" data-pptx-bounds="68 66 800 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">分水—排沙—引水：三件一套</text>
+    <text x="690" y="104" font-size="18" fill="#E8A33D">［整理］</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 850 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">三件工程按水流顺序排在同一条河道上，各管一件事。</text>
+  </g>
+
+  <g id="weir-overview" data-pptx-bounds="72 192 704 420">
+    <path id="overview-upstream" d="M350 200 L350 300" fill="none" stroke="#4A90C2" stroke-width="30"/>
+    <path id="overview-outer-river" d="M330 306 C296 372 252 470 214 588" fill="none" stroke="#4A90C2" stroke-width="24" stroke-linecap="round"/>
+    <path id="overview-inner-river" d="M372 306 C412 372 466 466 512 588" fill="none" stroke="#4A90C2" stroke-width="24" stroke-linecap="round"/>
+    <path id="overview-yuzui" d="M350 296 L376 340 L371 394 L329 394 L324 340 Z" fill="#16314C" stroke="#D6E4F0" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="448" y1="440" x2="472" y2="492" stroke="#E8A33D" stroke-width="7" stroke-linecap="round"/>
+    <path id="overview-lidui" d="M462 534 L492 556 L462 578 Z" fill="#16314C" stroke="#D6E4F0" stroke-width="2" stroke-linejoin="round"/>
+    <path id="overview-yulei" d="M542 534 L512 556 L542 578 Z" fill="#16314C" stroke="#D6E4F0" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="290" cy="330" r="17" fill="#0B1B2E" stroke="#E8A33D" stroke-width="2"/>
+    <text x="290" y="337" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#E8A33D" text-anchor="middle">1</text>
+    <circle cx="410" cy="462" r="17" fill="#0B1B2E" stroke="#E8A33D" stroke-width="2"/>
+    <text x="410" y="469" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#E8A33D" text-anchor="middle">2</text>
+    <circle cx="588" cy="556" r="17" fill="#0B1B2E" stroke="#E8A33D" stroke-width="2"/>
+    <text x="588" y="563" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#E8A33D" text-anchor="middle">3</text>
+    <text x="380" y="238" font-size="18" fill="#93AEC8">岷江（上游来水）</text>
+    <text x="128" y="560" font-size="18" fill="#93AEC8">外江</text>
+    <text x="548" y="470" font-size="18" fill="#93AEC8">内江</text>
+    <text x="558" y="606" font-size="18" fill="#93AEC8">→ 成都平原</text>
+  </g>
+
+  <g id="caption-yuzui" data-pptx-bounds="800 236 408 86">
+    <circle cx="820" cy="262" r="18" fill="#E8A33D"/>
+    <text x="820" y="269" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#0B1B2E" text-anchor="middle">1</text>
+    <text x="856" y="272" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">鱼嘴</text>
+    <text x="856" y="310" font-size="24" fill="#93AEC8">把岷江分成内外两江</text>
+  </g>
+
+  <g id="caption-feishayan" data-pptx-bounds="800 366 408 86">
+    <circle cx="820" cy="392" r="18" fill="#E8A33D"/>
+    <text x="820" y="399" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#0B1B2E" text-anchor="middle">2</text>
+    <text x="856" y="402" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">飞沙堰</text>
+    <text x="856" y="440" font-size="24" fill="#93AEC8">把多余的水和沙送回外江</text>
+  </g>
+
+  <g id="caption-baopingkou" data-pptx-bounds="800 496 408 86">
+    <circle cx="820" cy="522" r="18" fill="#E8A33D"/>
+    <text x="820" y="529" font-family="SimHei, Consolas, sans-serif" font-size="20" fill="#0B1B2E" text-anchor="middle">3</text>
+    <text x="856" y="532" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">宝瓶口</text>
+    <text x="856" y="570" font-size="24" fill="#93AEC8">控制进入成都平原的水量</text>
+  </g>
+
+  <g id="elevation-note" data-pptx-bounds="800 596 408 32">
+    <text x="804" y="616" font-size="18" fill="#4A90C2">渠首海拔 726 米，成都平原最高点</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1"/>
+    <text x="72" y="668" font-size="16" fill="#93AEC8">示意图为本讲整理绘制，仅示相对位置与水流顺序，不按实际比例。来源：水利文明网（2022）；UNESCO（2000）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">04 / 14</text>
+  </g>
+</svg>

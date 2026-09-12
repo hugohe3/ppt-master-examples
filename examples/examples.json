@@ -2,11 +2,481 @@
   "version": 1,
   "updated": "2026-09-12",
   "stats": {
-    "examples": 57,
-    "pages": 816,
-    "templates": 57
+    "examples": 61,
+    "pages": 888,
+    "templates": 61
   },
   "projects": [
+    {
+      "id": "ppt169_dujiangyan_zh_sparse",
+      "title": "都江堰：一座还在上班的两千岁工程",
+      "description": "科普讲解 deck 14 页 — 仓库首个「稀疏输入」示例:用户原话只有一句「帮我做一个介绍都江堰的PPT」,受众、页数、画幅、方向全部由 Strategist 自行决定并在 design_spec 写明依据;事实经 topic-research 取自 UNESCO 世界遗产中心、人民网、四川在线、中新网等 7 个来源,每页标出处;两张网络实景图(Pixabay 免署名 / Wikimedia Commons CC BY-SA 带署名)满幅压暗;鱼嘴、飞沙堰、宝瓶口三页并列拆解后合回一张总图讲一次洪水中的动作顺序;深底图纸式版面(细线框、引线、尺寸括号、淡网格),灌溉面积与岁修 2 张原生图表、1 张原生表格,chevron / plaque / snip2DiagRect 共 6 个原生预设;SimHei / Microsoft YaHei / Consolas,zh-CN;主角数字跨页 3 组 Morph,全卷中文讲者备注",
+      "icon": "🌊",
+      "color": "#0B1B2E",
+      "style": "culture",
+      "styleName": "Blueprint Explainer · 图纸式科普",
+      "desc": "A fourteen-page Chinese explainer on the Dujiangyan irrigation system — the first sparse-input example: the whole user request was one sentence (\"make me a PPT introducing Dujiangyan\"), so audience, page count, canvas and direction were all decided by the Strategist and justified in the design spec. Facts came through topic research from the UNESCO World Heritage Centre, People's Daily, Sichuan Online and China News among seven sources, each page carrying its citation; two web photos (Pixabay no-attribution, Wikimedia Commons CC BY-SA with credit) run full-bleed and darkened. The Yuzui levee, Feishayan spillway and Baopingkou inlet get one page each before a single overview page walks through their sequence in a flood. A dark blueprint layout (hairline frames, leader lines, dimension brackets, faint grid), two native charts and one native table, six preset shapes (chevron, plaque, snip2DiagRect), SimHei / Microsoft YaHei / Consolas with zh-CN tags, three Morph pairs carrying the hero figure between pages, and Chinese speaker notes throughout.",
+      "tags": [
+        "Culture",
+        "Chinese",
+        "Sparse Input",
+        "Topic Research",
+        "Web Photos",
+        "Native Charts",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_dujiangyan_zh_sparse/svg_final",
+      "generatedAt": "2026-09-12",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_dujiangyan_zh_sparse/exports/ppt169_dujiangyan_zh_sparse.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面：一座还在上班的两千岁工程"
+        },
+        {
+          "file": "02_agenda.svg",
+          "title": "agenda",
+          "desc": "本讲的四段路（整理）"
+        },
+        {
+          "file": "03_problem.svg",
+          "title": "problem",
+          "desc": "问题：一条出山就发脾气的江"
+        },
+        {
+          "file": "04_overview.svg",
+          "title": "overview",
+          "desc": "分水—排沙—引水：三件一套（整理）"
+        },
+        {
+          "file": "05_yuzui.svg",
+          "title": "yuzui",
+          "desc": "鱼嘴：把一条江分成会看季节的两条"
+        },
+        {
+          "file": "06_feishayan.svg",
+          "title": "feishayan",
+          "desc": "飞沙堰：让弯道替人排沙"
+        },
+        {
+          "file": "07_baopingkou.svg",
+          "title": "baopingkou",
+          "desc": "宝瓶口：一道不会关上的闸门"
+        },
+        {
+          "file": "08_sequence.svg",
+          "title": "sequence",
+          "desc": "一次洪水里，三件工程的动作顺序（整理）"
+        },
+        {
+          "file": "09_maxim.svg",
+          "title": "maxim",
+          "desc": "六个字，管了两千年"
+        },
+        {
+          "file": "10_annual_repair.svg",
+          "title": "annual repair",
+          "desc": "岁修：把维护变成每年都要做的事"
+        },
+        {
+          "file": "11_area_growth.svg",
+          "title": "area growth",
+          "desc": "灌溉面积：一条走了两千年的上升线（整理）"
+        },
+        {
+          "file": "12_today.svg",
+          "title": "today",
+          "desc": "今天的都江堰灌区：全国第一大"
+        },
+        {
+          "file": "13_heritage.svg",
+          "title": "heritage",
+          "desc": "两块牌子：2000 与 2018"
+        },
+        {
+          "file": "14_closing.svg",
+          "title": "closing",
+          "desc": "它给出的答案不是更高的坝"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_china_rail_2024_zh",
+      "title": "中国铁路 2024：数据与现场",
+      "description": "数据汇报 deck 15 页 — 用户自带素材示例:输入是国家铁路局《2024年铁道统计公报》PDF(9 页 3 表)、世界银行八国铁路营业里程 xlsx 与 6 张 Wikimedia Commons CC 照片(附 credits.tsv);全卷数字只出自附件,零 AI 生图;PDF 半框线表与 xlsx 首行说明经 source_to_md 转出;白底高密度数据页与深色满幅现场页交替,一张照片派生洗色版;客运、货运、品类、装备、路网、八国对照 6 张原生图表,公报原表与装备表 2 张原生表格,chevron / leftBrace / snip1Rect 共 6 个原生预设;每张照片按 CC BY / CC BY-SA 署名并给出 Commons 链接;SimHei / Microsoft YaHei,zh-CN;主角照片与主角数字跨页 3 组 Morph,全卷中文讲者备注",
+      "icon": "🚄",
+      "color": "#0B3A6F",
+      "style": "data",
+      "styleName": "Data Journalism × Photo Editorial · 数据汇报",
+      "desc": "A fifteen-page Chinese data briefing on China's railways in 2024, built from user-supplied materials only: the National Railway Administration's 2024 statistical bulletin PDF (nine pages, three tables), a World Bank spreadsheet of eight countries' route-km, and six Wikimedia Commons CC photos with a credits file. Every figure comes from the attachments and no AI image was generated; the partially ruled PDF tables and the spreadsheet's leading note were recovered by source_to_md. Dense white data pages alternate with dark full-bleed scene pages, one photo derived as a washed variant; six native charts (passenger, freight, commodity mix, rolling stock, network, eight-country comparison), two native tables (the bulletin's own table and the equipment table), six preset shapes (chevron, leftBrace, snip1Rect), every photo credited under CC BY / CC BY-SA with its Commons link; SimHei / Microsoft YaHei with zh-CN tags, three Morph pairs carrying the hero photo and hero figure between pages, and Chinese speaker notes throughout.",
+      "tags": [
+        "Data",
+        "Chinese",
+        "User Materials",
+        "PDF Source",
+        "Excel Source",
+        "CC Photos",
+        "Native Charts",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_china_rail_2024_zh/svg_final",
+      "generatedAt": "2026-09-12",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_china_rail_2024_zh/exports/ppt169_china_rail_2024_zh.pptx",
+      "pptxNative": "examples/ppt169_china_rail_2024_zh/exports/ppt169_china_rail_2024_zh_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面:43.12 亿人"
+        },
+        {
+          "file": "02_overview.svg",
+          "title": "overview",
+          "desc": "2024 年全年总览(整理)"
+        },
+        {
+          "file": "03_passenger_trend.svg",
+          "title": "passenger trend",
+          "desc": "客运:六年回到高位"
+        },
+        {
+          "file": "04_passenger_table.svg",
+          "title": "passenger table",
+          "desc": "客运结构:公报原表"
+        },
+        {
+          "file": "05_scene_hall.svg",
+          "title": "scene hall",
+          "desc": "现场:候车大厅"
+        },
+        {
+          "file": "06_freight_trend.svg",
+          "title": "freight trend",
+          "desc": "货运:总量连续六年上行"
+        },
+        {
+          "file": "07_freight_category.svg",
+          "title": "freight category",
+          "desc": "货运品类:集装箱领涨,粮食领跌"
+        },
+        {
+          "file": "08_converted_turnover.svg",
+          "title": "converted turnover",
+          "desc": "换算周转量与国际班列"
+        },
+        {
+          "file": "09_equipment.svg",
+          "title": "equipment",
+          "desc": "运输装备:机车、客车与货车"
+        },
+        {
+          "file": "10_network.svg",
+          "title": "network",
+          "desc": "路网:16.2 万公里与它的结构"
+        },
+        {
+          "file": "11_intl_compare.svg",
+          "title": "intl compare",
+          "desc": "国际对照:八国营业里程(整理)"
+        },
+        {
+          "file": "12_tech_safety.svg",
+          "title": "tech safety",
+          "desc": "科技创新与运输安全"
+        },
+        {
+          "file": "13_green.svg",
+          "title": "green",
+          "desc": "绿色低碳:能耗微升,排放持续下降"
+        },
+        {
+          "file": "14_regulation.svg",
+          "title": "regulation",
+          "desc": "行业监管:许可、企业与处罚"
+        },
+        {
+          "file": "15_conclusion.svg",
+          "title": "conclusion",
+          "desc": "结论:带走三条判断(整理)"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_china_rail_2024_zh_sonnet",
+      "title": "中国铁路2024：数据与现场（Sonnet 对照）",
+      "description": "数据汇报 deck 15 页 — 与《中国铁路 2024：数据与现场》同一份任务书、同一批素材,改由 Claude Sonnet 5 生成的模型对照示例:同样只用附件数字、零 AI 生图,6 张 CC 照片派生 5 张裁切/调色版;pyramid 模式 × data-journalism 风格直接取用目录项;客运、货运、周转量、路网、八国对照 5 张原生图表,3 张原生表格,upArrow×3 / ribbon2 / swooshArrow / wedgeRoundRectCallout / leftBrace / bentConnector2 共 8 个原生预设,行内强调 53 处;SimSun / Microsoft YaHei / Consolas,zh-CN;桥梁照片与车型徽标 2 组 Morph,全卷中文讲者备注;终检 0 错,14 页带 compact 书写 advisory,原样保留供与 Opus 版对照",
+      "icon": "🚆",
+      "color": "#14335C",
+      "style": "data",
+      "styleName": "Data Journalism · Sonnet 对照",
+      "desc": "A fifteen-page Chinese data briefing generated from the same brief and the same materials as \"China Railways 2024: Data and Scenes\", but by Claude Sonnet 5 as a model comparison. It likewise uses only the attached figures with no AI image, deriving five crops and tone variants from the six CC photos; the pyramid mode and data-journalism style are taken straight from the catalogues. Five native charts (passenger, freight, turnover, network, eight-country comparison), three native tables, eight preset shapes (three upArrows, ribbon2, swooshArrow, wedgeRoundRectCallout, leftBrace, bentConnector2) and fifty-three inline emphases; SimSun / Microsoft YaHei / Consolas with zh-CN tags, two Morph pairs on the bridge photo and the train badge, and Chinese speaker notes throughout. The final gate reports zero errors and fourteen pages with compact-authoring advisories, kept as generated for the side-by-side comparison.",
+      "tags": [
+        "Data",
+        "Chinese",
+        "Model Comparison",
+        "User Materials",
+        "CC Photos",
+        "Native Charts",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_china_rail_2024_zh_sonnet/svg_final",
+      "generatedAt": "2026-09-12",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_china_rail_2024_zh_sonnet/exports/ppt169_china_rail_2024_zh_sonnet.pptx",
+      "pptxNative": "examples/ppt169_china_rail_2024_zh_sonnet/exports/ppt169_china_rail_2024_zh_sonnet_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面:中国铁路2024,数据与现场"
+        },
+        {
+          "file": "02_agenda.svg",
+          "title": "agenda",
+          "desc": "汇报导览"
+        },
+        {
+          "file": "03_overview.svg",
+          "title": "overview",
+          "desc": "2024年铁路运输总览"
+        },
+        {
+          "file": "04_passenger.svg",
+          "title": "passenger",
+          "desc": "客运:结构与增长"
+        },
+        {
+          "file": "05_freight.svg",
+          "title": "freight",
+          "desc": "货运:总量与结构"
+        },
+        {
+          "file": "06_freight_category.svg",
+          "title": "freight category",
+          "desc": "重点物资运输与国际班列"
+        },
+        {
+          "file": "07_turnover_safety.svg",
+          "title": "turnover safety",
+          "desc": "换算周转量与运输安全"
+        },
+        {
+          "file": "08_construction.svg",
+          "title": "construction",
+          "desc": "建设:投资与路网"
+        },
+        {
+          "file": "09_bridge_detail.svg",
+          "title": "bridge detail",
+          "desc": "现场影像:高铁桥梁工程"
+        },
+        {
+          "file": "10_fleet.svg",
+          "title": "fleet",
+          "desc": "装备:机车车辆"
+        },
+        {
+          "file": "11_onboard.svg",
+          "title": "onboard",
+          "desc": "现场影像:复兴号车厢与枢纽车站"
+        },
+        {
+          "file": "12_international.svg",
+          "title": "international",
+          "desc": "国际对照:铁路营业里程"
+        },
+        {
+          "file": "13_tech_standards.svg",
+          "title": "tech standards",
+          "desc": "科技创新与技术标准"
+        },
+        {
+          "file": "14_green_regulation.svg",
+          "title": "green regulation",
+          "desc": "绿色低碳与行业监管"
+        },
+        {
+          "file": "15_closing.svg",
+          "title": "closing",
+          "desc": "结语:量质齐升,支撑发展"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_infosec_training_zh_long",
+      "title": "信息安全意识培训（2026 版 · 新员工必修）",
+      "description": "培训课件 deck 28 页 — 仓库最长的示例,压长卷一致性:5 章各有章节页,目录页列出每章起始页码,末页随堂自测;事实经 topic-research 取自 2025 年修正的《网络安全法》与《数据安全法》《个人信息保护法》条文及公开通报,每页底部一条来源行;纸色底 + 深墨章节页 + 印章红,超大章节编号,眉标、卷宗轨与页脚全卷固定坐标;根因占比、入侵方式、罚款阶梯、入罪门槛 4 张原生图表,密码规则、数据分级、上报渠道等 5 张原生表格,plaque×8 / snip1Rect×5 / chevron×3 / bracketPair / rightArrow / rightBrace / wedgeRectCallout 共 20 个原生预设;全卷 0 张图片(风格选择,§VIII 无行);SimSun / Microsoft YaHei,zh-CN;章节边界 6 组 Morph,28 页中文讲者备注",
+      "icon": "🛡️",
+      "color": "#1F2A37",
+      "style": "education",
+      "styleName": "Editorial Training Deck · 长卷课件",
+      "desc": "A twenty-eight-page Chinese information-security awareness course for new employees — the longest example in the library and a test of long-deck consistency: five chapters with their own divider pages, a contents page listing each chapter's starting page, and a closing quiz. Facts came through topic research from the 2025 revision of the Cybersecurity Law, the Data Security Law and the Personal Information Protection Law plus public case notices, with a source line at the foot of every page. A paper-toned ground, ink-dark chapter pages with oversized numerals and a seal red accent; the eyebrow, dossier rail and footer sit at fixed coordinates across all pages. Four native charts (root-cause shares, intrusion paths, fine ladder, criminal threshold), five native tables (password rules, data grades, reporting channels and more), twenty preset shapes (eight plaques, five snip1Rects, three chevrons, bracketPair, rightArrow, rightBrace, wedgeRectCallout), no images by style choice; SimSun / Microsoft YaHei with zh-CN tags, six Morph pairs at the chapter boundaries, and Chinese speaker notes on all twenty-eight pages.",
+      "tags": [
+        "Education",
+        "Chinese",
+        "Long Deck",
+        "Topic Research",
+        "Native Charts",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_infosec_training_zh_long/svg_final",
+      "generatedAt": "2026-09-12",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_infosec_training_zh_long/exports/ppt169_infosec_training_zh_long.pptx",
+      "pptxNative": "examples/ppt169_infosec_training_zh_long/exports/ppt169_infosec_training_zh_long_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面：你不是旁观者"
+        },
+        {
+          "file": "02_toc.svg",
+          "title": "toc",
+          "desc": "目录：五章与你的关系"
+        },
+        {
+          "file": "03_ch1_cover.svg",
+          "title": "ch1 cover",
+          "desc": "章节页 01：为什么是你"
+        },
+        {
+          "file": "04_human_factor.svg",
+          "title": "human factor",
+          "desc": "泄露的根因里，近一半与人直接相关"
+        },
+        {
+          "file": "05_entry_paths.svg",
+          "title": "entry paths",
+          "desc": "攻击者进门的方式，两条里有一条是社工"
+        },
+        {
+          "file": "06_insider_cases.svg",
+          "title": "insider cases",
+          "desc": "通报里的攻击者，是应聘进来的"
+        },
+        {
+          "file": "07_ch1_takeaway.svg",
+          "title": "ch1 takeaway",
+          "desc": "你在这套风险里有三个身份"
+        },
+        {
+          "file": "08_ch2_cover.svg",
+          "title": "ch2 cover",
+          "desc": "章节页 02：账号与密码"
+        },
+        {
+          "file": "09_password_rules.svg",
+          "title": "password rules",
+          "desc": "你被教了十年的口令规矩，已经过期"
+        },
+        {
+          "file": "10_mfa.svg",
+          "title": "mfa",
+          "desc": "短信验证码挡不住今天的攻击者"
+        },
+        {
+          "file": "11_phish_email.svg",
+          "title": "phish email",
+          "desc": "一封钓鱼邮件的六处破绽"
+        },
+        {
+          "file": "12_phish_channels.svg",
+          "title": "phish channels",
+          "desc": "钓鱼早就不只在邮箱里"
+        },
+        {
+          "file": "13_ch2_takeaway.svg",
+          "title": "ch2 takeaway",
+          "desc": "本章你要做的三件事"
+        },
+        {
+          "file": "14_ch3_cover.svg",
+          "title": "ch3 cover",
+          "desc": "章节页 03：数据与设备"
+        },
+        {
+          "file": "15_data_grades.svg",
+          "title": "data grades",
+          "desc": "什么数据不能出门"
+        },
+        {
+          "file": "16_removable_media.svg",
+          "title": "removable media",
+          "desc": "走 U 盘的那条路，最难被发现"
+        },
+        {
+          "file": "17_remote_work.svg",
+          "title": "remote work",
+          "desc": "在家办公，等于把办公室的边界搬到你家"
+        },
+        {
+          "file": "18_export_check.svg",
+          "title": "export check",
+          "desc": "外发之前问自己四句话"
+        },
+        {
+          "file": "19_ch4_cover.svg",
+          "title": "ch4 cover",
+          "desc": "章节页 04：合规红线"
+        },
+        {
+          "file": "20_law_renumber.svg",
+          "title": "law renumber",
+          "desc": "先说一件事：条号全变了"
+        },
+        {
+          "file": "21_three_laws.svg",
+          "title": "three laws",
+          "desc": "三部法律落到你身上的，是这几条"
+        },
+        {
+          "file": "22_penalty_ladder.svg",
+          "title": "penalty ladder",
+          "desc": "罚款有上限，任职资格没有"
+        },
+        {
+          "file": "23_criminal_threshold.svg",
+          "title": "criminal threshold",
+          "desc": "同一份名单，员工的入罪门槛只要一半"
+        },
+        {
+          "file": "24_ch5_cover.svg",
+          "title": "ch5 cover",
+          "desc": "章节页 05：应急与上报"
+        },
+        {
+          "file": "25_first_four_hours.svg",
+          "title": "first four hours",
+          "desc": "发现异常后的四个动作"
+        },
+        {
+          "file": "26_report_channels.svg",
+          "title": "report channels",
+          "desc": "报给谁、多久、怎么报"
+        },
+        {
+          "file": "27_report_immunity.svg",
+          "title": "report immunity",
+          "desc": "及时上报是免责条款，不是追责起点"
+        },
+        {
+          "file": "28_quiz.svg",
+          "title": "quiz",
+          "desc": "随堂自测：五道判断题"
+        }
+      ]
+    },
     {
       "id": "ppt169_nev_export_bilingual_zh_en",
       "title": "中国新能源汽车出海 2025 / China's NEV Exports 2025",

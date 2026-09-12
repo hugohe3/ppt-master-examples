@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1B2E" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0A1B2E" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F"/>
+    <text x="72" y="86" font-size="18" fill="#5A6775">五、路网</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">10 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">16.2 万公里,其中高铁 4.8 万公里</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">高铁约占全国营业里程的三成,电化率已达 76.2%</text>
+  </g>
+  <g id="p10-bridge-photo" data-pptx-bounds="72 236 1136 144">
+    <image href="../images/danyang_kunshan_bridge.jpg" x="72" y="236" width="1136" height="144" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="72" y="336" width="1136" height="44" fill="url(#fadeBottom)"/>
+    <text x="1196" y="370" font-size="15" fill="#FFFFFF" text-anchor="end">丹昆特大桥(无锡段) 摄影 MNXANL · CC BY-SA 4.0 · Wikimedia Commons</text>
+  </g>
+  <g id="network-total" data-pptx-bounds="72 404 370 160">
+    <text x="72" y="436" font-size="18" fill="#5A6775">全国铁路营业里程</text>
+    <text x="72" y="510" font-family="SimHei, Arial, sans-serif" font-size="64" font-weight="bold" fill="#C8102E">16.2<tspan font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="normal" fill="#1E2733"> 万公里</tspan></text>
+    <text x="72" y="546" font-size="18" fill="#5A6775">路网密度 168.5 公里/万平方公里</text>
+  </g>
+  <g id="p10-parent-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="460 404 36 232" fill="none" stroke="#1E6FB8" stroke-width="2">
+<path d="M 496 636 A 18 3 0 0 1 478 633 L 478 523 A 18 3 0 0 0 460 520 A 18 3 0 0 0 478 517 L 478 407 A 18 3 0 0 1 496 404 Z" stroke="none"/>
+<path d="M 496 636 A 18 3 0 0 1 478 633 L 478 523 A 18 3 0 0 0 460 520 A 18 3 0 0 0 478 517 L 478 407 A 18 3 0 0 1 496 404"/>
+</g>
+  <g id="network-hsr" data-pptx-bounds="520 404 300 110">
+    <use data-icon="chunk-filled/train" x="520" y="410" width="30" height="30" fill="#0B3A6F"/>
+    <text x="560" y="434" font-size="18" fill="#5A6775">高速铁路营业里程</text>
+    <text x="520" y="484" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0B3A6F">4.8 万公里</text>
+  </g>
+  <g id="network-west" data-pptx-bounds="520 526 300 110">
+    <use data-icon="chunk-filled/route" x="520" y="532" width="30" height="30" fill="#0B3A6F"/>
+    <text x="560" y="556" font-size="18" fill="#5A6775">西部地区铁路营业里程</text>
+    <text x="520" y="606" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0B3A6F">6.6 万公里</text>
+  </g>
+  <g id="network-quality" data-pptx-bounds="860 404 348 232">
+    <rect x="860" y="404" width="348" height="3" fill="#0B3A6F"/>
+    <text x="860" y="444" font-size="18" fill="#5A6775">路网质量指标</text>
+    <text x="860" y="500" font-size="24" fill="#1E2733">复线率</text>
+    <text x="1208" y="500" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#1E6FB8" text-anchor="end">60.8%</text>
+    <line x1="860" y1="528" x2="1208" y2="528" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="860" y="580" font-size="24" fill="#1E2733">电化率</text>
+    <text x="1208" y="580" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#1E6FB8" text-anchor="end">76.2%</text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6"/>
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》二、铁路建设(公报第 5 页)</text>
+  </g>
+</svg>

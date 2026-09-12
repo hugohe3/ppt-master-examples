@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-kicker": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.35}]},
+        "cover-title": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.45}]},
+        "cover-hook": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.45}]}
+      }
+    },
+    "03_overview": {
+      "groups": {
+        "kpi-passenger": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.3}]},
+        "kpi-freight": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.3}]},
+        "kpi-turnover": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.3}]},
+        "kpi-investment": {"effects": [{"effect": "entrance_fade", "order": 4, "duration": 0.3}]}
+      }
+    },
+    "04_passenger": {
+      "groups": {
+        "passenger-table": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.35}]},
+        "passenger-split": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.35}]},
+        "passenger-photo": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.4}]}
+      }
+    },
+    "05_freight": {
+      "groups": {
+        "freight-table": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.35}]},
+        "freight-callout": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.35}]}
+      }
+    },
+    "06_freight_category": {
+      "groups": {
+        "category-freight": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.4}]},
+        "freight-deltas": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.3}]},
+        "corridor-ceurail": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.3}]},
+        "corridor-westland": {"effects": [{"effect": "entrance_fade", "order": 4, "duration": 0.3}]}
+      }
+    },
+    "07_turnover_safety": {
+      "groups": {
+        "turnover-stats": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.35}]},
+        "safety-panel": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.35}]}
+      }
+    },
+    "09_bridge_detail": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.8},
+      "morph": {"from": "08_construction", "pairs": {"bridge-photo": {"from": "bridge-hero", "to": "bridge-detail"}}}
+    },
+    "10_fleet": {
+      "groups": {
+        "fleet-table": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.35}]},
+        "p10-brace-loco": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.25}]},
+        "brace-label": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.25}]},
+        "fleet-photo": {"effects": [{"effect": "entrance_fade", "order": 4, "duration": 0.4}]}
+      }
+    },
+    "11_onboard": {
+      "transition": {"effect": "morph", "effect_options": {"morph_by": "object"}, "duration": 0.8},
+      "morph": {"from": "10_fleet", "pairs": {"train-badge": {"from": "fleet-photo", "to": "fuxing-badge"}}},
+      "groups": {
+        "onboard-side-text": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.35}]}
+      }
+    },
+    "13_tech_standards": {
+      "groups": {
+        "standards-list": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.35}]},
+        "award-highlight": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.35}]},
+        "award-others": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.35}]}
+      }
+    },
+    "14_green_regulation": {
+      "groups": {
+        "energy-yoy": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.3}]},
+        "cod-yoy": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.3}]},
+        "so2-yoy": {"effects": [{"effect": "entrance_fade", "order": 3, "duration": 0.3}]},
+        "green-photo": {"effects": [{"effect": "entrance_fade", "order": 4, "duration": 0.35}]},
+        "regulation-stats": {"effects": [{"effect": "entrance_fade", "order": 5, "duration": 0.35}]}
+      }
+    },
+    "15_closing": {
+      "groups": {
+        "closing-header": {"effects": [{"effect": "entrance_fade", "order": 1, "duration": 0.4}]},
+        "closing-points": {"effects": [{"effect": "entrance_fade", "order": 2, "duration": 0.4}]}
+      }
+    }
+  }
+}

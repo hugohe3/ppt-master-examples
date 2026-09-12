@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="420" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">04 合规红线</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">罚款有上限，任职资格没有</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="penalty-matrix" data-pptx-replace-with="table" data-pptx-bounds="72 196 1136 410" data-pptx-fallback-sha256="7471fb2abaac75cc0cff01cb99712f0fc5394b3712dd68d753dfe9520996062d">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 72,
+  "y": 200,
+  "width": 1136,
+  "height": 400,
+  "name": "penalty-matrix",
+  "column_widths": [
+    220,
+    316,
+    300,
+    300
+  ],
+  "row_heights": [
+    40,
+    120,
+    120,
+    120
+  ],
+  "style": {
+    "font_size": 18,
+    "header_fill": "#1F2A37",
+    "header_text": "#F7F4EE",
+    "body_text": "#232A31",
+    "band_row": false
+  },
+  "defaults": {
+    "cell": {
+      "font_size": 18,
+      "align": "l",
+      "valign": "middle",
+      "padding": 14,
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#E4DED3",
+          "width": 1
+        }
+      }
+    }
+  },
+  "columns": [
+    {
+      "text": "法律与条款",
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#1F2A37",
+          "width": 2
+        }
+      }
+    },
+    {
+      "text": "一般情形",
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#1F2A37",
+          "width": 2
+        }
+      }
+    },
+    {
+      "text": "严重情形",
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#1F2A37",
+          "width": 2
+        }
+      }
+    },
+    {
+      "text": "附加后果",
+      "bold": true,
+      "align": "l",
+      "borders": {
+        "bottom": {
+          "style": "solid",
+          "color": "#1F2A37",
+          "width": 2
+        }
+      }
+    }
+  ],
+  "rows": [
+    [
+      {
+        "text": "《网络安全法》第六十一条",
+        "bold": true
+      },
+      {
+        "text": "单位 1 万–5 万元；拒不改正或致危害后果5 万–50 万元；直接责任人员 1 万–10 万元"
+      },
+      {
+        "text": "严重后果：单位 50 万–200万元，个人 5 万–20 万元；特别严重：单位 200 万–1000 万元，个人 20 万–100 万元"
+      },
+      {
+        "text": "第六十六条第三款：受治安管理处罚的五年内、受刑事处罚的终身，不得从事网络安全管理和网络运营关键岗位",
+        "color": "#C0392B"
+      }
+    ],
+    [
+      {
+        "text": "《数据安全法》第四十五条",
+        "bold": true
+      },
+      {
+        "text": "单位 5 万–50 万元；直接责任人员 1 万–10 万元"
+      },
+      {
+        "text": "单位 50 万–200 万元；直接责任人员 5 万–20 万元"
+      },
+      {
+        "text": "可责令停业整顿、吊销许可或营业执照",
+        "color": "#C0392B"
+      }
+    ],
+    [
+      {
+        "text": "《个人信息保护法》第六十六条",
+        "bold": true,
+        "borders": {
+          "bottom": {
+            "style": "solid",
+            "color": "#1F2A37",
+            "width": 2
+          }
+        }
+      },
+      {
+        "text": "拒不改正并处 100 万元以下；直接责任人员 1 万–10 万元",
+        "borders": {
+          "bottom": {
+            "style": "solid",
+            "color": "#1F2A37",
+            "width": 2
+          }
+        }
+      },
+      {
+        "text": "5000 万元以下或上一年度营业额 5% 以下；直接责任人员 10 万–100 万元",
+        "borders": {
+          "bottom": {
+            "style": "solid",
+            "color": "#1F2A37",
+            "width": 2
+          }
+        }
+      },
+      {
+        "text": "可禁止其在一定期限内担任董事、监事、高管和个人信息保护负责人",
+        "color": "#C0392B",
+        "borders": {
+          "bottom": {
+            "style": "solid",
+            "color": "#1F2A37",
+            "width": 2
+          }
+        }
+      }
+    ]
+  ]
+}
+    </metadata>
+    <rect x="72" y="200" width="1136" height="40" fill="#1F2A37" />
+    <g font-size="18" font-weight="bold" fill="#F7F4EE">
+      <text x="86" y="226">法律与条款</text>
+      <text x="306" y="226">一般情形</text>
+      <text x="622" y="226">严重情形</text>
+      <text x="922" y="226">附加后果</text>
+    </g>
+    <text font-size="18" fill="#232A31" font-weight="bold" x="86" y="293">《网络安全法》</text><text font-size="18" fill="#232A31" font-weight="bold" x="86" y="319">第六十一条</text><text font-size="18" fill="#232A31" x="306" y="267">单位 1 万–5 万元；</text><text font-size="18" fill="#232A31" x="306" y="293">拒不改正或致危害后果</text><text font-size="18" fill="#232A31" x="306" y="319">5 万–50 万元；</text><text font-size="18" fill="#232A31" x="306" y="345">直接责任人员 1 万–10 万元</text><text font-size="18" fill="#232A31" x="622" y="267">严重后果：单位 50 万–200</text><text font-size="18" fill="#232A31" x="622" y="293">万元，个人 5 万–20 万元；</text><text font-size="18" fill="#232A31" x="622" y="319">特别严重：单位 200 万–</text><text font-size="18" fill="#232A31" x="622" y="345">1000 万元，个人 20 万–100 万元</text><text font-size="18" fill="#C0392B" x="922" y="267">第六十六条第三款：受治安</text><text font-size="18" fill="#C0392B" x="922" y="293">管理处罚的五年内、受刑事</text><text font-size="18" fill="#C0392B" x="922" y="319">处罚的终身，不得从事网络</text><text font-size="18" fill="#C0392B" x="922" y="345">安全管理和网络运营关键岗位</text><text font-size="18" fill="#232A31" font-weight="bold" x="86" y="413">《数据安全法》</text><text font-size="18" fill="#232A31" font-weight="bold" x="86" y="439">第四十五条</text><text font-size="18" fill="#232A31" x="306" y="413">单位 5 万–50 万元；</text><text font-size="18" fill="#232A31" x="306" y="439">直接责任人员 1 万–10 万元</text><text font-size="18" fill="#232A31" x="622" y="413">单位 50 万–200 万元；</text><text font-size="18" fill="#232A31" x="622" y="439">直接责任人员 5 万–20 万元</text><text font-size="18" fill="#C0392B" x="922" y="413">可责令停业整顿、</text><text font-size="18" fill="#C0392B" x="922" y="439">吊销许可或营业执照</text><text font-size="18" fill="#232A31" font-weight="bold" x="86" y="533">《个人信息保护法》</text><text font-size="18" fill="#232A31" font-weight="bold" x="86" y="559">第六十六条</text><text font-size="18" fill="#232A31" x="306" y="533">拒不改正并处 100 万元以下；</text><text font-size="18" fill="#232A31" x="306" y="559">直接责任人员 1 万–10 万元</text><text font-size="18" fill="#232A31" x="622" y="520">5000 万元以下或上一年度</text><text font-size="18" fill="#232A31" x="622" y="546">营业额 5% 以下；直接责任</text><text font-size="18" fill="#232A31" x="622" y="572">人员 10 万–100 万元</text><text font-size="18" fill="#C0392B" x="922" y="520">可禁止其在一定期限内担任</text><text font-size="18" fill="#C0392B" x="922" y="546">董事、监事、高管和个人信</text><text font-size="18" fill="#C0392B" x="922" y="572">息保护负责人</text><line x1="72" y1="360" x2="1208" y2="360" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="480" x2="1208" y2="480" stroke="#E4DED3" stroke-width="1" />
+    <line x1="72" y1="600" x2="1208" y2="600" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="penalty-verdict" data-pptx-bounds="72 608 1136 44">
+    <text x="72" y="636" font-size="28" fill="#1F2A37">一次违规，<tspan font-weight="bold" fill="#C0392B">可能断送整条职业路径</tspan>——罚款有上限，任职资格没有。</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：《网络安全法》（F014、F015、F017）、《数据安全法》（F026）、《个人信息保护法》（F032、F033）</text>
+    <text x="1208" y="686" text-anchor="end">22 / 28</text>
+  </g>
+</svg>

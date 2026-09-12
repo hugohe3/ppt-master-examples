@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="18" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p06-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C"/><stop offset="100%" stop-color="#C81E3A"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA"/>
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">03 · 货运</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#14335C">集装箱运量增速最快,粮食运量降幅最大</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#p06-accent-bar)"/>
+  </g>
+
+  <g id="category-freight" data-pptx-bounds="64 176 680 420" data-pptx-replace-with="chart" data-pptx-fallback-sha256="f67e85bbfdd7c49ee4e6b8eb6ff65f1439709f2794bd539c26b43e6138382c95">
+    <metadata type="application/json">
+    {
+      "x": 64, "y": 176, "width": 680, "height": 420,
+      "name": "category-freight",
+      "type": "column",
+      "title": "全国铁路主要品类运量(2024年,亿吨)",
+      "plot_area": {"x": 120, "y": 200, "width": 570, "height": 360},
+      "categories": ["煤", "冶炼物资", "石油", "粮食", "化肥及农药", "集装箱"],
+      "series": [
+        {"name": "运量(亿吨)", "values": [28.24, 8.77, 1.33, 0.56, 0.48, 9.14]}
+      ],
+      "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.00", "font_size": 16},
+      "axes": {"category": {"kind": "text", "visible": true}, "value": {"kind": "value", "visible": false}},
+      "style": {"axis_color": "#5B6472"}    }
+    </metadata>
+    <text x="64" y="196" font-size="20" font-weight="bold" fill="#14335C">全国铁路主要品类运量(2024年,亿吨)</text>
+    <g id="category-freight-chartArea">
+      <line x1="120" y1="560" x2="690" y2="560" stroke="#5B6472" stroke-width="1.5" id="axis-baseline"/>
+      <!-- chart-plot-area: object=category-freight | 120,200,690,560 -->
+      <rect x="140" y="200.0" width="55" height="360.0" fill="#14335C"/>
+      <text x="167.5" y="192" font-size="16" font-family="Consolas, Courier New" text-anchor="middle">28.24</text>
+      <text x="167.5" y="580" font-size="16" text-anchor="middle">煤</text>
+
+      <rect x="235" y="448.2" width="55" height="111.8" fill="#14335C"/>
+      <text x="262.5" y="440.2" font-size="16" font-family="Consolas, Courier New" text-anchor="middle">8.77</text>
+      <text x="262.5" y="580" font-size="16" text-anchor="middle">冶炼物资</text>
+
+      <rect x="330" y="543.0" width="55" height="17.0" fill="#14335C"/>
+      <text x="357.5" y="535.0" font-size="16" font-family="Consolas, Courier New" text-anchor="middle">1.33</text>
+      <text x="357.5" y="580" font-size="16" text-anchor="middle">石油</text>
+
+      <rect x="425" y="552.9" width="55" height="7.1" fill="#14335C"/>
+      <text x="452.5" y="544.9" font-size="16" font-family="Consolas, Courier New" text-anchor="middle">0.56</text>
+      <text x="452.5" y="580" font-size="16" text-anchor="middle">粮食</text>
+
+      <rect x="520" y="553.9" width="55" height="6.1" fill="#14335C"/>
+      <text x="547.5" y="545.9" font-size="16" font-family="Consolas, Courier New" text-anchor="middle">0.48</text>
+      <text x="547.5" y="580" font-size="16" text-anchor="middle">化肥及农药</text>
+
+      <rect x="615" y="443.5" width="55" height="116.5" fill="#C81E3A"/>
+      <text x="642.5" y="435.5" font-size="16" font-family="Consolas, Courier New" text-anchor="middle" fill="#C81E3A" font-weight="bold">9.14</text>
+      <text x="642.5" y="580" font-size="16" text-anchor="middle">集装箱</text>
+    </g>
+  </g>
+
+  <g id="freight-deltas" data-pptx-bounds="64 606 1152 40">
+    <text x="64" y="622" font-size="16" fill="#5B6472">同比:煤炭<tspan fill="#2E7D32">+1.5%</tspan> · 冶炼物资<tspan fill="#C62828">-3.6%</tspan> · 石油<tspan fill="#2E7D32">+2.1%</tspan> · 粮食<tspan fill="#C62828">-17.6%</tspan> · 化肥及农药<tspan fill="#C62828">-5.2%</tspan> · 集装箱<tspan fill="#2E7D32" font-weight="bold">+15.5%</tspan></text>
+  </g>
+
+  <g id="corridor-ceurail" data-pptx-bounds="750 200 430 160">
+    <rect x="750" y="200" width="430" height="160" rx="16" fill="#E7EAF1"/>
+    <!-- icon: tabler-outline/route -->
+  <g transform="translate(774, 224) scale(1.33333)" fill="none" stroke="#14335C" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+    <text x="818" y="248" font-size="22" font-weight="bold" fill="#14335C">中欧班列</text>
+    <text x="774" y="296" font-family="Consolas, Courier New" font-size="40" font-weight="bold" fill="#14335C">1.9<tspan font-family="Microsoft YaHei, SimHei" font-size="20" fill="#232B36">万列</tspan></text>
+    <text x="774" y="326" font-size="18">发送货物207万标箱 · 同比<tspan fill="#2E7D32" font-weight="bold">+10%</tspan> / <tspan fill="#2E7D32" font-weight="bold">+9%</tspan></text>
+    <text x="774" y="348" font-size="15" fill="#5B6472">来源:公报第4页</text>
+  </g>
+
+  <g id="p06-link-connector" data-pptx-authoring="preset" data-pptx-object="connector" data-pptx-prst="bentConnector2" data-pptx-frame="965 360 0 24" fill="none" stroke="#5B6472" stroke-width="2">
+    <path d="M 965 360 L 965 360 L 965 384"/>
+  </g>
+
+  <g id="corridor-westland" data-pptx-bounds="750 384 430 160">
+    <rect x="750" y="384" width="430" height="160" rx="16" fill="#E7EAF1"/>
+    <!-- icon: tabler-outline/route -->
+  <g transform="translate(774, 408) scale(1.33333)" fill="none" stroke="#1D7A8C" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+    <text x="818" y="432" font-size="22" font-weight="bold" fill="#1D7A8C">西部陆海新通道</text>
+    <text x="774" y="480" font-family="Consolas, Courier New" font-size="40" font-weight="bold" fill="#1D7A8C">96<tspan font-family="Microsoft YaHei, SimHei" font-size="20" fill="#232B36">万标箱</tspan></text>
+    <text x="774" y="510" font-size="18">班列发送货物 · 同比<tspan fill="#2E7D32" font-weight="bold">+11%</tspan></text>
+    <text x="774" y="532" font-size="15" fill="#5B6472">来源:公报第4页</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 662 1152 30">
+    <line x1="64" y1="662" x2="1216" y2="662" stroke="#D7DBE3" stroke-width="1"/>
+    <text x="64" y="686" font-size="16" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第4页</text>
+    <text x="1216" y="686" font-size="16" fill="#5B6472" text-anchor="end">06 / 15</text>
+  </g>
+</svg>

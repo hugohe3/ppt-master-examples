@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F"/>
+    <text x="72" y="86" font-size="18" fill="#5A6775">二、客运</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">03 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">43.12 亿人:客运越过 2019 年的高点</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">2024 年旅客发送量 431240 万人,是六年来的最高值</text>
+  </g>
+  <g id="pax-sent-6y" data-pptx-replace-with="chart" data-pptx-bounds="72 236 748 400" data-pptx-fallback-sha256="5f93ae129367d5b3188f41d078ed557e1381f1edda11521fe816d0a5fc69c103">
+    <metadata type="application/json">
+      {
+        "x": 72, "y": 236, "width": 748, "height": 400,
+        "name": "pax-sent-6y",
+        "type": "column",
+        "categories": ["2019年", "2020年", "2021年", "2022年", "2023年", "2024年"],
+        "series": [
+          {
+            "name": "旅客发送量",
+            "values": [366002, 220350, 261171, 167296, 385450, 431240],
+            "point_colors": ["#1E6FB8", "#1E6FB8", "#1E6FB8", "#1E6FB8", "#1E6FB8", "#C8102E"]
+          }
+        ],
+        "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0", "font_size": 18, "color": "#1E2733"},
+        "axes": {
+          "category": {"kind": "text", "position": "bottom", "tick_marks": "none", "font_size": 18, "color": "#5A6775"},
+          "value": {"minimum": 0, "maximum": 500000, "major_unit": 100000, "number_format": "0", "major_gridlines": true, "tick_marks": "none", "font_size": 18, "color": "#5A6775"}
+        },
+        "axis_titles": {"value": "万人"},
+        "show_legend": false,
+        "gap_width": 90,
+        "plot_area": {"x": 160, "y": 280, "width": 640, "height": 300},
+        "style": {"axis_color": "#5A6775", "grid_color": "#E6EBF1", "text_color": "#5A6775", "font_family": "Microsoft YaHei"}
+      }
+    </metadata>
+    <g id="pax-sent-6y-chartArea">
+      <line id="pax-grid-1" x1="160" y1="280" x2="800" y2="280" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="pax-grid-2" x1="160" y1="340" x2="800" y2="340" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="pax-grid-3" x1="160" y1="400" x2="800" y2="400" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="pax-grid-4" x1="160" y1="460" x2="800" y2="460" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="pax-grid-5" x1="160" y1="520" x2="800" y2="520" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="pax-axis-y" x1="160" y1="280" x2="160" y2="580" stroke="#5A6775" stroke-width="1"/>
+      <line id="pax-axis-x" x1="160" y1="580" x2="800" y2="580" stroke="#5A6775" stroke-width="1"/>
+      <!-- chart-plot-area: object=pax-sent-6y | 160,280,800,580 -->
+      <rect x="185.33" y="360.4" width="56" height="219.6" fill="#1E6FB8"/>
+      <rect x="292" y="447.79" width="56" height="132.21" fill="#1E6FB8"/>
+      <rect x="398.67" y="423.3" width="56" height="156.7" fill="#1E6FB8"/>
+      <rect x="505.33" y="479.62" width="56" height="100.38" fill="#1E6FB8"/>
+      <rect x="612" y="348.73" width="56" height="231.27" fill="#1E6FB8"/>
+      <rect x="718.67" y="321.26" width="56" height="258.74" fill="#C8102E"/>
+    </g>
+    <text x="88" y="262" font-size="18" fill="#5A6775">万人</text>
+    <text x="150" y="586" font-size="18" fill="#5A6775" text-anchor="end">0</text>
+    <text x="150" y="526" font-size="18" fill="#5A6775" text-anchor="end">100000</text>
+    <text x="150" y="466" font-size="18" fill="#5A6775" text-anchor="end">200000</text>
+    <text x="150" y="406" font-size="18" fill="#5A6775" text-anchor="end">300000</text>
+    <text x="150" y="346" font-size="18" fill="#5A6775" text-anchor="end">400000</text>
+    <text x="150" y="286" font-size="18" fill="#5A6775" text-anchor="end">500000</text>
+    <text x="213.33" y="350.4" font-size="18" fill="#1E2733" text-anchor="middle">366002</text>
+    <text x="320" y="437.79" font-size="18" fill="#1E2733" text-anchor="middle">220350</text>
+    <text x="426.67" y="413.3" font-size="18" fill="#1E2733" text-anchor="middle">261171</text>
+    <text x="533.33" y="469.62" font-size="18" fill="#1E2733" text-anchor="middle">167296</text>
+    <text x="640" y="338.73" font-size="18" fill="#1E2733" text-anchor="middle">385450</text>
+    <text x="746.67" y="311.26" font-size="18" fill="#1E2733" text-anchor="middle">431240</text>
+    <text x="213.33" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2019年</text>
+    <text x="320" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2020年</text>
+    <text x="426.67" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2021年</text>
+    <text x="533.33" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2022年</text>
+    <text x="640" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2023年</text>
+    <text x="746.67" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2024年</text>
+  </g>
+  <g id="read-low" data-pptx-bounds="860 236 348 160">
+    <rect x="860" y="236" width="72" height="3" fill="#1E6FB8"/>
+    <text x="860" y="278" font-size="18" fill="#5A6775">六年谷底</text>
+    <text x="860" y="324" font-size="24" fill="#1E2733">2022 年发送量 167296<tspan x="860" dy="38">万人,为六年最低。</tspan></text>
+  </g>
+  <g id="read-gap" data-pptx-bounds="860 416 348 180">
+    <rect x="860" y="416" width="72" height="3" fill="#C8102E"/>
+    <text x="860" y="458" font-size="18" fill="#5A6775">与疫情前对比(整理)</text>
+    <text x="860" y="504" font-size="24" fill="#1E2733">2024 年比 2019 年多<tspan x="860" dy="38">65238 万人,由公报</tspan><tspan x="860" dy="38">两项数值相减得出。</tspan></text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6"/>
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》一、运输生产 · 全国铁路旅客发送量图(公报第 2 页)</text>
+  </g>
+</svg>

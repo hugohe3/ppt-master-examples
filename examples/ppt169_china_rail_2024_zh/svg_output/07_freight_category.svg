@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F"/>
+    <text x="72" y="86" font-size="18" fill="#5A6775">三、货运</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">07 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">煤仍占大头,集装箱增长最快</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">六大品类合计 48.52 亿吨;品类名后的百分比为比上年增减</text>
+  </g>
+  <g id="freight-mass" data-pptx-bounds="72 236 500 76">
+    <text x="72" y="258" font-size="18" fill="#5A6775">2024 年货运总发送量</text>
+    <text x="72" y="294" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#C8102E">51.75 亿吨</text>
+  </g>
+  <g id="category-icons" data-pptx-bounds="72 330 50 306">
+    <use data-icon="chunk-filled/fire" x="76" y="354" width="32" height="32" fill="#0B3A6F"/>
+    <use data-icon="chunk-filled/box" x="76" y="396" width="32" height="32" fill="#C8102E"/>
+    <use data-icon="chunk-filled/factory" x="76" y="438" width="32" height="32" fill="#0B3A6F"/>
+    <use data-icon="chunk-filled/droplet" x="76" y="480" width="32" height="32" fill="#0B3A6F"/>
+    <use data-icon="chunk-filled/seedling" x="76" y="522" width="32" height="32" fill="#0B3A6F"/>
+    <use data-icon="chunk-filled/leaf" x="76" y="563" width="32" height="32" fill="#0B3A6F"/>
+  </g>
+  <g id="freight-category-2024" data-pptx-replace-with="chart" data-pptx-bounds="130 330 1078 306" data-pptx-fallback-sha256="bc01e2120a3790dc7151d37c0db262933a6239d0abc0fa2ed9e2e80a1add3eb6">
+    <metadata type="application/json">
+      {
+        "x": 130, "y": 330, "width": 1078, "height": 306,
+        "name": "freight-category-2024",
+        "type": "bar",
+        "categories": ["煤 +1.5%", "集装箱 +15.5%", "冶炼物资 -3.6%", "石油 +2.1%", "粮食 -17.6%", "化肥及农药 -5.2%"],
+        "series": [
+          {
+            "name": "2024 年运量",
+            "values": [282365, 91371, 87726, 13322, 5640, 4765],
+            "point_colors": ["#0B3A6F", "#C8102E", "#1E6FB8", "#1E6FB8", "#1E6FB8", "#1E6FB8"]
+          }
+        ],
+        "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0", "font_size": 18, "color": "#1E2733"},
+        "axes": {
+          "category": {"kind": "text", "position": "left", "tick_marks": "none", "font_size": 18, "color": "#1E2733"},
+          "value": {"position": "bottom", "minimum": 0, "maximum": 300000, "major_unit": 100000, "number_format": "0", "major_gridlines": true, "tick_marks": "none", "font_size": 18, "color": "#5A6775"}
+        },
+        "axis_titles": {"value": "万吨"},
+        "show_legend": false,
+        "gap_width": 60,
+        "plot_area": {"x": 300, "y": 350, "width": 740, "height": 250},
+        "style": {"axis_color": "#5A6775", "grid_color": "#E6EBF1", "text_color": "#1E2733", "font_family": "Microsoft YaHei"}
+      }
+    </metadata>
+    <g id="freight-category-2024-chartArea">
+      <line id="cat-grid-1" x1="546.67" y1="350" x2="546.67" y2="600" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="cat-grid-2" x1="793.33" y1="350" x2="793.33" y2="600" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="cat-grid-3" x1="1040" y1="350" x2="1040" y2="600" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="cat-axis-y" x1="300" y1="350" x2="300" y2="600" stroke="#5A6775" stroke-width="1"/>
+      <line id="cat-axis-x" x1="300" y1="600" x2="1040" y2="600" stroke="#5A6775" stroke-width="1"/>
+      <!-- chart-plot-area: object=freight-category-2024 | 300,350,1040,600 -->
+      <rect x="300" y="357.83" width="696.5" height="26" fill="#0B3A6F"/>
+      <rect x="300" y="399.5" width="225.38" height="26" fill="#C8102E"/>
+      <rect x="300" y="441.17" width="216.39" height="26" fill="#1E6FB8"/>
+      <rect x="300" y="482.83" width="32.86" height="26" fill="#1E6FB8"/>
+      <rect x="300" y="524.5" width="13.91" height="26" fill="#1E6FB8"/>
+      <rect x="300" y="566.17" width="11.75" height="26" fill="#1E6FB8"/>
+    </g>
+    <text x="1040" y="346" font-size="18" fill="#5A6775" text-anchor="end">万吨</text>
+    <text x="290" y="376.83" font-size="18" fill="#1E2733" text-anchor="end">煤 +1.5%</text>
+    <text x="290" y="418.5" font-size="18" fill="#1E2733" text-anchor="end">集装箱 +15.5%</text>
+    <text x="290" y="460.17" font-size="18" fill="#1E2733" text-anchor="end">冶炼物资 -3.6%</text>
+    <text x="290" y="501.83" font-size="18" fill="#1E2733" text-anchor="end">石油 +2.1%</text>
+    <text x="290" y="543.5" font-size="18" fill="#1E2733" text-anchor="end">粮食 -17.6%</text>
+    <text x="290" y="585.17" font-size="18" fill="#1E2733" text-anchor="end">化肥及农药 -5.2%</text>
+    <text x="1006.5" y="376.83" font-size="18" fill="#1E2733">282365</text>
+    <text x="535.38" y="418.5" font-size="18" fill="#1E2733">91371</text>
+    <text x="526.39" y="460.17" font-size="18" fill="#1E2733">87726</text>
+    <text x="342.86" y="501.83" font-size="18" fill="#1E2733">13322</text>
+    <text x="323.91" y="543.5" font-size="18" fill="#1E2733">5640</text>
+    <text x="321.75" y="585.17" font-size="18" fill="#1E2733">4765</text>
+    <text x="300" y="626" font-size="18" fill="#5A6775" text-anchor="middle">0</text>
+    <text x="546.67" y="626" font-size="18" fill="#5A6775" text-anchor="middle">100000</text>
+    <text x="793.33" y="626" font-size="18" fill="#5A6775" text-anchor="middle">200000</text>
+    <text x="1040" y="626" font-size="18" fill="#5A6775" text-anchor="middle">300000</text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6"/>
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》表「全国铁路主要品类运量」(公报第 4 页)· 六大品类合计为整理</text>
+  </g>
+</svg>

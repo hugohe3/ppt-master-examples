@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="24" fill="#232B36" data-pptx-page-role="toc">
+  <defs>
+    <linearGradient id="agendaAccentBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C" />
+      <stop offset="100%" stop-color="#C81E3A" />
+    </linearGradient>
+    <linearGradient id="agendaPhotoWash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08152A" stop-opacity="0" />
+      <stop offset="72%" stop-color="#08152A" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#08152A" stop-opacity="0.74" />
+    </linearGradient>
+    <clipPath id="agendaPhotoClip"><rect x="736" y="140" width="480" height="516" rx="16" /></clipPath>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA" />
+
+  <g id="header" data-pptx-bounds="64 48 900 92">
+    <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">汇报导览</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#14335C">十二个板块,读懂中国铁路2024</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#agendaAccentBar)" />
+  </g>
+
+  <g id="agenda-list" data-pptx-bounds="64 172 616 468">
+    <g id="agenda-01" transform="translate(64 180)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">01</text><text x="44" y="20" font-size="22">总览:2024年核心指标</text></g>
+    <g id="agenda-02" transform="translate(64 218)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">02</text><text x="44" y="20" font-size="22">客运:结构与增长</text></g>
+    <g id="agenda-03" transform="translate(64 256)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">03</text><text x="44" y="20" font-size="22">货运:总量与品类</text></g>
+    <g id="agenda-04" transform="translate(64 294)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">04</text><text x="44" y="20" font-size="22">换算周转量与运输安全</text></g>
+    <g id="agenda-05" transform="translate(64 332)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">05</text><text x="44" y="20" font-size="22">建设:投资与路网</text></g>
+    <g id="agenda-06" transform="translate(64 370)"><circle cx="15" cy="12" r="15" fill="#1D7A8C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">06</text><text x="44" y="20" font-size="22">现场:丹昆特大桥</text></g>
+    <g id="agenda-07" transform="translate(64 408)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">07</text><text x="44" y="20" font-size="22">装备:机车车辆</text></g>
+    <g id="agenda-08" transform="translate(64 446)"><circle cx="15" cy="12" r="15" fill="#1D7A8C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">08</text><text x="44" y="20" font-size="22">现场:复兴号与车站</text></g>
+    <g id="agenda-09" transform="translate(64 484)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">09</text><text x="44" y="20" font-size="22">国际对照:8国营业里程</text></g>
+    <g id="agenda-10" transform="translate(64 522)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">10</text><text x="44" y="20" font-size="22">科技创新与技术标准</text></g>
+    <g id="agenda-11" transform="translate(64 560)"><circle cx="15" cy="12" r="15" fill="#14335C" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">11</text><text x="44" y="20" font-size="22">绿色低碳与行业监管</text></g>
+    <g id="agenda-12" transform="translate(64 598)"><circle cx="15" cy="12" r="15" fill="#C81E3A" /><text x="15" y="18" font-family="Consolas, Courier New" font-size="15" fill="#FFFFFF" text-anchor="middle">12</text><text x="44" y="20" font-size="22" font-weight="bold">结语:量质齐升,支撑发展</text></g>
+  </g>
+
+  <g id="agenda-photo" data-pptx-bounds="736 140 480 516">
+    <image href="../images/beijing_south_station.jpg" x="736" y="140" width="480" height="516" preserveAspectRatio="xMidYMid slice" clip-path="url(#agendaPhotoClip)" />
+    <rect x="736" y="140" width="480" height="516" rx="16" fill="url(#agendaPhotoWash)" />
+    <text x="760" y="622" font-size="20" font-weight="bold" fill="#FFFFFF">北京南站</text>
+    <text x="760" y="646" font-size="15" fill="#E7EAF1">图片:<a href="https://commons.wikimedia.org/wiki/File:Beijing_South_Railway_Station_Platform_20141111.JPG"><tspan text-decoration="underline">颐园新居, CC BY-SA 4.0, Wikimedia Commons</tspan></a></text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 676 1152 30">
+    <line x1="64" y1="676" x2="1216" y2="676" stroke="#D7DBE3" stroke-width="1" />
+    <text x="64" y="700" font-size="16" fill="#5B6472">中国铁路2024:数据与现场</text>
+    <text x="1216" y="700" font-size="16" fill="#5B6472" text-anchor="end">02 / 15</text>
+  </g>
+</svg>

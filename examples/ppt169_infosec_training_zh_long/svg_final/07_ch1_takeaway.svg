@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="120" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">01 为什么是你 · 本章结论</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">你在这套风险里有三个身份</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="identity-target" data-pptx-bounds="72 256 357 216">
+    
+  <g transform="translate(72, 264) scale(3)" fill="#C0392B">
+    <path d="M8 7C9.65685 7 11 5.65685 11 4C11 2.34315 9.65685 1 8 1C6.34315 1 5 2.34315 5 4C5 5.65685 6.34315 7 8 7Z" />
+    <path d="M14 12C14 10.3431 12.6569 9 11 9H5C3.34315 9 2 10.3431 2 12V15H14V12Z" />
+  </g>
+    <text x="72" y="366" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">一 · 目标</text>
+    <rect x="72" y="384" width="60" height="3" fill="#C0392B" />
+    <text font-size="24" fill="#232A31" x="72" y="424">你的账号和你手里的数据，</text><text font-size="24" fill="#232A31" x="72" y="458">本身就是战利品。</text></g>
+  <g id="identity-channel" data-pptx-bounds="461 256 357 216">
+    
+  <g transform="translate(461, 264) scale(3)" fill="#C0392B">
+    <path d="M7.05025 1.53553C8.03344 0.552348 9.36692 0 10.7574 0C13.6528 0 16 2.34721 16 5.24264C16 6.63308 15.4477 7.96656 14.4645 8.94975L12.4142 11L11 9.58579L13.0503 7.53553C13.6584 6.92742 14 6.10264 14 5.24264C14 3.45178 12.5482 2 10.7574 2C9.89736 2 9.07258 2.34163 8.46447 2.94975L6.41421 5L5 3.58579L7.05025 1.53553Z" />
+    <path d="M7.53553 13.0503L9.58579 11L11 12.4142L8.94975 14.4645C7.96656 15.4477 6.63308 16 5.24264 16C2.34721 16 0 13.6528 0 10.7574C0 9.36693 0.552347 8.03344 1.53553 7.05025L3.58579 5L5 6.41421L2.94975 8.46447C2.34163 9.07258 2 9.89736 2 10.7574C2 12.5482 3.45178 14 5.24264 14C6.10264 14 6.92742 13.6584 7.53553 13.0503Z" />
+    <path d="M5.70711 11.7071L11.7071 5.70711L10.2929 4.29289L4.29289 10.2929L5.70711 11.7071Z" />
+  </g>
+    <text x="461" y="366" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">二 · 通道</text>
+    <rect x="461" y="384" width="60" height="3" fill="#C0392B" />
+    <text font-size="24" fill="#232A31" x="461" y="424">攻击者要的是穿过你，</text><text font-size="24" fill="#232A31" x="461" y="458">去拿系统里更值钱的东西。</text></g>
+  <g id="identity-defense" data-pptx-bounds="850 256 357 216">
+    
+  <g transform="translate(850, 264) scale(3)" fill="#1D6A73">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16L4.35009 13.3929C2.24773 11.8912 1 9.46667 1 6.88306V3L8 0L15 3V6.88306C15 9.46667 13.7523 11.8912 11.6499 13.3929L8 16ZM12.2071 5.70711L10.7929 4.29289L7 8.08579L5.20711 6.29289L3.79289 7.70711L7 10.9142L12.2071 5.70711Z" />
+  </g>
+    <text x="850" y="366" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">三 · 防线</text>
+    <rect x="850" y="384" width="60" height="3" fill="#1D6A73" />
+    <text font-size="24" fill="#232A31" x="850" y="424">能在第一时间发现并说出</text><text font-size="24" fill="#232A31" x="850" y="458">异常的，通常只有当事人。</text></g>
+  <g id="compile-note" data-pptx-bounds="72 510 800 50">
+    <g id="p07-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 516 76 36" fill="#E0D9CC" stroke="none">
+<path d="M 72 522 A 6 6 0 0 0 78 516 L 142 516 A 6 6 0 0 0 148 522 L 148 546 A 6 6 0 0 0 142 552 L 78 552 A 6 6 0 0 0 72 546 Z" />
+</g>
+    <text x="110" y="540" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="540" font-size="18" fill="#5A6068">三身份为本课依据前述通报案例与统计所作的归纳，非引自单一来源。</text>
+  </g>
+  <g id="next-chapter-02" data-pptx-bounds="1000 560 208 92" text-anchor="end">
+    <text x="1208" y="580" font-size="18" fill="#5A6068">下一章 · 账号与密码</text>
+    <text x="1208" y="632" font-family="SimSun, Cambria, serif" font-size="44" fill="#C0392B">02</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">本页为本章归纳，支撑事实见 P04–P06</text>
+    <text x="1208" y="686" text-anchor="end">07 / 28</text>
+  </g>
+</svg>

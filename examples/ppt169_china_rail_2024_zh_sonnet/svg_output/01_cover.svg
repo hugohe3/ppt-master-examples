@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="24" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#08152A" stop-opacity="0.92" />
+      <stop offset="46%" stop-color="#0B1B32" stop-opacity="0.62" />
+      <stop offset="100%" stop-color="#0B1B32" stop-opacity="0.04" />
+    </linearGradient>
+    <linearGradient id="coverAccentBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C" />
+      <stop offset="100%" stop-color="#C81E3A" />
+    </linearGradient>
+  </defs>
+
+  <image id="cover-bg-image" data-pptx-role="background" href="../images/fuxing_train_cover.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#coverScrim)" />
+
+  <g id="cover-kicker" data-pptx-bounds="64 56 700 34">
+    <text x="64" y="80" font-size="18" font-weight="bold" letter-spacing="2" fill="#CFE3D5">国家铁路局《2024年铁道统计公报》 · 面向省交通部门的年度汇报</text>
+  </g>
+
+  <g id="cover-title" data-pptx-bounds="60 150 900 220">
+    <text x="64" y="300" font-family="SimSun, FangSong" font-size="88" font-weight="bold" fill="#FFFFFF">中国铁路2024</text>
+    <text x="64" y="352" font-family="SimSun, FangSong" font-size="30" fill="#E7EAF1">数据与现场</text>
+    <rect x="64" y="372" width="220" height="6" fill="url(#coverAccentBar)" />
+  </g>
+
+  <g id="cover-hook" data-pptx-bounds="64 420 760 172">
+    <text x="64" y="512" font-family="Consolas, Courier New" font-size="64" font-weight="bold" fill="#FFFFFF">43.12<tspan font-family="Microsoft YaHei, SimHei" font-size="34" fill="#E7EAF1">亿人次</tspan></text>
+    <text x="64" y="548" fill="#E7EAF1">全国铁路旅客发送量 · 同比<tspan fill="#7BD68A" font-weight="bold">+11.9%</tspan></text>
+    <text x="64" y="580" font-size="16" fill="#B7C2D0">来源:国家铁路局《2024年铁道统计公报》第1页</text>
+  </g>
+
+  <g id="cover-credit" data-pptx-role="footer" data-pptx-bounds="760 686 456 26">
+    <text x="1216" y="704" font-size="15" fill="#D7DBE3" text-anchor="end">图片:<a href="https://commons.wikimedia.org/wiki/File:CR400AF-2007_at_Guangnan_(20181107092901).jpg"><tspan text-decoration="underline">N509FZ, CC BY-SA 4.0, Wikimedia Commons</tspan></a></text>
+  </g>
+</svg>

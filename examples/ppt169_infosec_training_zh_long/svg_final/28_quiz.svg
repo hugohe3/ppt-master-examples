@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE"/>
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1"/>
+    <rect x="38" y="620" width="12" height="34" fill="#C0392B"/>
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">随堂检验</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">随堂自测：五道判断题</text>
+    <text x="560" y="150" font-size="24" fill="#5A6068">答案与解析见讲者备注</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2"/>
+  </g>
+  <g id="quiz-1" data-pptx-bounds="72 214 1136 70">
+    <text x="72" y="260" font-family="SimSun, Cambria, serif" font-size="32" fill="#C0392B">1</text>
+    <text x="136" y="256" font-size="24" fill="#232A31">数据泄露的根因中，IT 故障占比最高。</text>
+    <rect x="1010" y="230" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1040" y="258" font-size="24" fill="#1F2A37" text-anchor="middle">对</text>
+    <rect x="1090" y="230" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1120" y="258" font-size="24" fill="#1F2A37" text-anchor="middle">错</text>
+    <line x1="72" y1="282" x2="1208" y2="282" stroke="#D5CEC2" stroke-width="1"/>
+  </g>
+  <g id="quiz-2" data-pptx-bounds="72 296 1136 70">
+    <text x="72" y="342" font-family="SimSun, Cambria, serif" font-size="32" fill="#C0392B">2</text>
+    <text x="136" y="338" font-size="24" fill="#232A31">现行的权威口令标准要求每 90 天强制更换一次密码。</text>
+    <rect x="1010" y="312" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1040" y="340" font-size="24" fill="#1F2A37" text-anchor="middle">对</text>
+    <rect x="1090" y="312" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1120" y="340" font-size="24" fill="#1F2A37" text-anchor="middle">错</text>
+    <line x1="72" y1="364" x2="1208" y2="364" stroke="#D5CEC2" stroke-width="1"/>
+  </g>
+  <g id="quiz-3" data-pptx-bounds="72 378 1136 70">
+    <text x="72" y="424" font-family="SimSun, Cambria, serif" font-size="32" fill="#C0392B">3</text>
+    <text x="136" y="420" font-size="24" fill="#232A31">用私人 U 盘拷贝公司文件回家处理，只要不外传就没有风险。</text>
+    <rect x="1010" y="394" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1040" y="422" font-size="24" fill="#1F2A37" text-anchor="middle">对</text>
+    <rect x="1090" y="394" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1120" y="422" font-size="24" fill="#1F2A37" text-anchor="middle">错</text>
+    <line x1="72" y1="446" x2="1208" y2="446" stroke="#D5CEC2" stroke-width="1"/>
+  </g>
+  <g id="quiz-4" data-pptx-bounds="72 460 1136 70">
+    <text x="72" y="506" font-family="SimSun, Cambria, serif" font-size="32" fill="#C0392B">4</text>
+    <text x="136" y="502" font-size="24" fill="#232A31">违反《网络安全法》只会罚公司，不会罚到个人。</text>
+    <rect x="1010" y="476" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1040" y="504" font-size="24" fill="#1F2A37" text-anchor="middle">对</text>
+    <rect x="1090" y="476" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1120" y="504" font-size="24" fill="#1F2A37" text-anchor="middle">错</text>
+    <line x1="72" y1="528" x2="1208" y2="528" stroke="#D5CEC2" stroke-width="1"/>
+  </g>
+  <g id="quiz-5" data-pptx-bounds="72 542 1136 70">
+    <text x="72" y="588" font-family="SimSun, Cambria, serif" font-size="32" fill="#C0392B">5</text>
+    <text x="136" y="584" font-size="24" fill="#232A31">发现安全事件后先自己查清楚原因，查明白了再上报，比较稳妥。</text>
+    <rect x="1010" y="558" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1040" y="586" font-size="24" fill="#1F2A37" text-anchor="middle">对</text>
+    <rect x="1090" y="558" width="60" height="40" fill="none" stroke="#1F2A37" stroke-width="1"/>
+    <text x="1120" y="586" font-size="24" fill="#1F2A37" text-anchor="middle">错</text>
+    <line x1="72" y1="610" x2="1208" y2="610" stroke="#D5CEC2" stroke-width="1"/>
+  </g>
+  <g id="compile-note" data-pptx-bounds="72 622 900 46">
+    <g id="p28-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 626 76 32" fill="#E0D9CC" stroke="none">
+<path d="M 72 631.33 A 5.33 5.33 0 0 0 77.33 626 L 142.67 626 A 5.33 5.33 0 0 0 148 631.33 L 148 652.67 A 5.33 5.33 0 0 0 142.67 658 L 77.33 658 A 5.33 5.33 0 0 0 72 652.67 Z"/>
+</g>
+    <text x="110" y="648" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="648" font-size="18" fill="#5A6068">五道判断题为本课依据前述法条与统计自行设计，答案以页内引用来源为准。</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">对应章节：1 题第一章 · 2 题第二章 · 3 题第三章 · 4 题第四章 · 5 题第五章</text>
+    <text x="1208" y="686" text-anchor="end">28 / 28</text>
+  </g>
+</svg>

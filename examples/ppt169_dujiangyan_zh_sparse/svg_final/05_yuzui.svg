@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E" />
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1" />
+
+  <g id="page-title" data-pptx-bounds="68 66 900 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">鱼嘴：把一条江分成会看季节的两条</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1000 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">它的作用是"平旱潦，分四六"——不靠闸门，靠河床与堤形。</text>
+  </g>
+
+  <g id="yuzui-closeup" data-pptx-bounds="72 192 528 420">
+    <path id="closeup-upstream" d="M321 200 L321 300" fill="none" stroke="#4A90C2" stroke-width="46" />
+    <path id="closeup-outer-river" d="M290 310 C240 380 190 470 150 588" fill="none" stroke="#4A90C2" stroke-width="40" stroke-linecap="round" />
+    <path id="closeup-inner-river" d="M352 310 C404 380 460 470 500 588" fill="none" stroke="#4A90C2" stroke-width="40" stroke-linecap="round" />
+    <path id="closeup-yuzui" d="M321 290 L364 350 L356 440 L286 440 L278 350 Z" fill="#16314C" stroke="#E8A33D" stroke-width="3" stroke-linejoin="round" />
+    <text x="321" y="474" font-family="SimHei, Consolas, sans-serif" font-size="24" fill="#E8A33D" text-anchor="middle">鱼嘴</text>
+    <text x="352" y="240" font-size="18" fill="#93AEC8">岷江</text>
+    <text x="104" y="552" font-size="18" fill="#93AEC8">外江（泄洪）</text>
+    <text x="470" y="520" font-size="18" fill="#93AEC8">内江（灌溉）</text>
+    <text x="90" y="600" font-size="18" fill="#4A90C2">图示为鱼嘴分水处的放大示意</text>
+  </g>
+
+  <g id="flow-split-ratio" data-pptx-replace-with="chart" data-pptx-bounds="628 232 580 248" data-pptx-fallback-sha256="e5922add18a452824f9fe9ea4708d95497872168a6001e3557470ce16e58a030">
+    <metadata type="application/json">
+{
+  "x": 640, "y": 236, "width": 568, "height": 240,
+  "name": "flow-split-ratio",
+  "type": "bar",
+  "grouping": "stacked",
+  "categories": ["枯水期", "洪水期"],
+  "series": [
+    {"name": "内江", "values": [60, 40]},
+    {"name": "外江", "values": [40, 60]}
+  ],
+  "data_labels": {"show_value": true, "position": "center", "number_format": "0\"%\"", "font_size": 18, "color": "#0B1B2E", "bold": true},
+  "gap_width": 54,
+  "show_legend": true,
+  "legend_position": "top",
+  "style": {
+    "colors": ["#4A90C2", "#7FD1C3"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 18,
+    "legend_font_size": 18,
+    "text_color": "#D6E4F0",
+    "axis_color": "#1E3A57",
+    "grid_color": "none",
+    "chart_area_fill": "none",
+    "plot_area_fill": "none"
+  }
+}
+    </metadata>
+    <rect x="700" y="250" width="16" height="16" fill="#4A90C2" />
+    <text x="724" y="263" font-size="18" fill="#D6E4F0">内江</text>
+    <rect x="820" y="250" width="16" height="16" fill="#7FD1C3" />
+    <text x="844" y="263" font-size="18" fill="#D6E4F0">外江</text>
+    <g id="flow-split-ratio-chartArea">
+      <line id="flow-split-ratio-axis" x1="700" y1="286" x2="700" y2="466" stroke="#1E3A57" stroke-width="2" />
+      
+      <rect x="700" y="305" width="288" height="56" fill="#4A90C2" />
+      <rect x="988" y="305" width="192" height="56" fill="#7FD1C3" />
+      <rect x="700" y="391" width="192" height="56" fill="#4A90C2" />
+      <rect x="892" y="391" width="288" height="56" fill="#7FD1C3" />
+      <text x="844" y="339" font-size="18" font-weight="bold" fill="#0B1B2E" text-anchor="middle">60%</text>
+      <text x="1084" y="339" font-size="18" font-weight="bold" fill="#0B1B2E" text-anchor="middle">40%</text>
+      <text x="796" y="425" font-size="18" font-weight="bold" fill="#0B1B2E" text-anchor="middle">40%</text>
+      <text x="1036" y="425" font-size="18" font-weight="bold" fill="#0B1B2E" text-anchor="middle">60%</text>
+    </g>
+    <text x="692" y="339" font-size="18" fill="#D6E4F0" text-anchor="end">枯水期</text>
+    <text x="692" y="425" font-size="18" fill="#D6E4F0" text-anchor="end">洪水期</text>
+  </g>
+
+  <g id="reading-note" data-pptx-bounds="640 504 568 92">
+    
+  <g transform="translate(644, 512) scale(1.16667)" fill="none" stroke="#E8A33D" stroke-width="2">
+    <path d="M21 17h-8l-3.5 -5h-6.5" />
+    <path d="M21 7h-8l-3.495 5" />
+    <path d="M18 10l3 -3l-3 -3" />
+    <path d="M18 20l3 -3l-3 -3" />
+  </g>
+    <text font-size="24" fill="#D6E4F0" x="684" y="536">怎么读：这一分配随水位自动改变，</text><text font-size="24" fill="#D6E4F0" x="684" y="574">没有人工调节动作。</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1" />
+    <text x="72" y="668" font-size="16" fill="#93AEC8">来源：水利文明网《以水为师都江堰》（2022-09-03）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">05 / 14</text>
+  </g>
+</svg>

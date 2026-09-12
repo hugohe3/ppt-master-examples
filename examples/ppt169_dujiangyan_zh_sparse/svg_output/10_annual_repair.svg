@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#4A90C2"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1"/>
+
+  <g id="page-title" data-pptx-bounds="68 66 960 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">岁修：把维护变成每年都要做的事</text>
+    <text x="790" y="104" font-size="18" fill="#E8A33D">［整理］</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1088 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">它能活两千年，不是因为没坏，而是因为修它这件事被写进了制度。</text>
+  </g>
+
+  <g id="maintenance-timeline" data-pptx-bounds="72 276 1136 190">
+    <use data-icon="tabler-outline/calendar-repeat" x="104" y="344" width="32" height="32" fill="#4A90C2" stroke-width="2"/>
+    <line x1="152" y1="360" x2="1060" y2="360" stroke="#4A90C2" stroke-width="2" marker-end="url(#arrowBlue)"/>
+    <line x1="1064" y1="360" x2="1150" y2="360" stroke="#4A90C2" stroke-width="2" stroke-dasharray="8,4"/>
+    <text x="1160" y="366" font-size="18" fill="#93AEC8">至今</text>
+
+    <circle cx="200" cy="360" r="11" fill="#E8A33D"/>
+    <text x="200" y="312" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB" text-anchor="middle">宋代</text>
+    <text x="200" y="404" font-size="24" fill="#93AEC8" text-anchor="middle">岁修成为定制</text>
+
+    <circle cx="450" cy="360" r="11" fill="#4A90C2"/>
+    <text x="450" y="312" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB" text-anchor="middle">1936</text>
+    <text x="450" y="404" font-size="24" fill="#93AEC8" text-anchor="middle">现鱼嘴始建</text>
+
+    <circle cx="700" cy="360" r="11" fill="#4A90C2"/>
+    <text x="700" y="312" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB" text-anchor="middle">1974</text>
+    <text x="700" y="404" font-size="24" fill="#93AEC8" text-anchor="middle">修外江闸时<tspan x="700" dy="34">以混凝土加固</tspan></text>
+
+    <circle cx="950" cy="360" r="11" fill="#4A90C2"/>
+    <text x="950" y="312" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB" text-anchor="middle">2002</text>
+    <text x="950" y="404" font-size="24" fill="#93AEC8" text-anchor="middle">冬修以钢筋<tspan x="950" dy="34">混凝土加固基础</tspan></text>
+  </g>
+
+  <g id="quake-check" data-pptx-bounds="72 496 1136 116">
+    <g id="p10-verify-plate" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="72 500 1136 108" fill="none" stroke="#7FD1C3" stroke-width="2">
+<path d="M 72 500 L 1190 500 L 1208 518 L 1208 608 L 1208 608 L 90 608 L 72 590 L 72 500 Z"/>
+</g>
+    <use data-icon="tabler-outline/alert-triangle" x="104" y="526" width="32" height="32" fill="#7FD1C3" stroke-width="2"/>
+    <text x="152" y="548" font-size="24" fill="#D6E4F0"><tspan font-weight="bold" fill="#7FD1C3">验证点：</tspan>2008 年 5 月 12 日四川地震中，<tspan x="152" dy="38">都江堰水利工程基本未受损坏。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1"/>
+    <text x="72" y="668" font-size="16" fill="#93AEC8">时间线为本讲整理。来源：水利文明网（2022-09-03）；UNESCO 世界遗产中心（编号 1001）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">10 / 14</text>
+  </g>
+</svg>

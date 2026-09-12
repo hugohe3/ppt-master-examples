@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F"/>
+    <text x="72" y="86" font-size="18" fill="#5A6775">三、货运</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">06 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">51.75 亿吨:总量上行,周转量回落</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">货运总发送量连续六年上行,而总周转量比上年下降 1.6%</text>
+  </g>
+  <g id="freight-mass" data-pptx-bounds="72 236 388 200">
+    <rect x="72" y="236" width="388" height="3" fill="#C8102E"/>
+    <use data-icon="chunk-filled/truck" x="72" y="256" width="36" height="36" fill="#C8102E"/>
+    <text x="120" y="284" font-size="18" fill="#5A6775">2024 年货运总发送量</text>
+    <text x="72" y="356" font-family="SimHei, Arial, sans-serif" font-size="64" font-weight="bold" fill="#C8102E">51.75<tspan font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="normal" fill="#1E2733"> 亿吨</tspan></text>
+    <text x="72" y="390" font-size="18" fill="#2E7D32">比上年增长 2.8%(增加 1.39 亿吨)</text>
+  </g>
+  <g id="freight-turnover" data-pptx-bounds="72 456 388 186">
+    <rect x="72" y="456" width="388" height="3" fill="#0B3A6F"/>
+    <text x="72" y="498" font-size="18" fill="#5A6775">2024 年货运总周转量</text>
+    <text x="72" y="570" font-family="SimHei, Arial, sans-serif" font-size="64" font-weight="bold" fill="#0B3A6F">35861.90</text>
+    <text x="72" y="604" font-size="18" fill="#C62828">亿吨公里,比上年下降 1.6%</text>
+    <text x="72" y="630" font-size="18" fill="#5A6775">国家铁路 -0.2%,其他铁路 -14.1%</text>
+  </g>
+  <g id="freight-sent-6y" data-pptx-replace-with="chart" data-pptx-bounds="500 236 708 400" data-pptx-fallback-sha256="519d37555f19bc7ab5ed2e708d4cdf28d60f5c34721e9c7532e905e796b4e7b9">
+    <metadata type="application/json">
+      {
+        "x": 500, "y": 236, "width": 708, "height": 400,
+        "name": "freight-sent-6y",
+        "type": "column",
+        "categories": ["2019年", "2020年", "2021年", "2022年", "2023年", "2024年"],
+        "series": [
+          {
+            "name": "货运总发送量",
+            "values": [441213, 455236, 477372, 498424, 503535, 517477],
+            "point_colors": ["#1E6FB8", "#1E6FB8", "#1E6FB8", "#1E6FB8", "#1E6FB8", "#C8102E"]
+          }
+        ],
+        "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0", "font_size": 18, "color": "#1E2733"},
+        "axes": {
+          "category": {"kind": "text", "position": "bottom", "tick_marks": "none", "font_size": 18, "color": "#5A6775"},
+          "value": {"minimum": 0, "maximum": 600000, "major_unit": 100000, "number_format": "0", "major_gridlines": true, "tick_marks": "none", "font_size": 18, "color": "#5A6775"}
+        },
+        "axis_titles": {"value": "万吨"},
+        "show_legend": false,
+        "gap_width": 88,
+        "plot_area": {"x": 580, "y": 280, "width": 610, "height": 300},
+        "style": {"axis_color": "#5A6775", "grid_color": "#E6EBF1", "text_color": "#5A6775", "font_family": "Microsoft YaHei"}
+      }
+    </metadata>
+    <g id="freight-sent-6y-chartArea">
+      <line id="fr-grid-1" x1="580" y1="280" x2="1190" y2="280" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="fr-grid-2" x1="580" y1="330" x2="1190" y2="330" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="fr-grid-3" x1="580" y1="380" x2="1190" y2="380" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="fr-grid-4" x1="580" y1="430" x2="1190" y2="430" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="fr-grid-5" x1="580" y1="480" x2="1190" y2="480" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="fr-grid-6" x1="580" y1="530" x2="1190" y2="530" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="fr-axis-y" x1="580" y1="280" x2="580" y2="580" stroke="#5A6775" stroke-width="1"/>
+      <line id="fr-axis-x" x1="580" y1="580" x2="1190" y2="580" stroke="#5A6775" stroke-width="1"/>
+      <!-- chart-plot-area: object=freight-sent-6y | 580,280,1190,580 -->
+      <rect x="603.83" y="359.39" width="54" height="220.61" fill="#1E6FB8"/>
+      <rect x="705.5" y="352.38" width="54" height="227.62" fill="#1E6FB8"/>
+      <rect x="807.17" y="341.31" width="54" height="238.69" fill="#1E6FB8"/>
+      <rect x="908.83" y="330.79" width="54" height="249.21" fill="#1E6FB8"/>
+      <rect x="1010.5" y="328.23" width="54" height="251.77" fill="#1E6FB8"/>
+      <rect x="1112.17" y="321.26" width="54" height="258.74" fill="#C8102E"/>
+    </g>
+    <text x="508" y="262" font-size="18" fill="#5A6775">万吨</text>
+    <text x="570" y="586" font-size="18" fill="#5A6775" text-anchor="end">0</text>
+    <text x="570" y="536" font-size="18" fill="#5A6775" text-anchor="end">100000</text>
+    <text x="570" y="486" font-size="18" fill="#5A6775" text-anchor="end">200000</text>
+    <text x="570" y="436" font-size="18" fill="#5A6775" text-anchor="end">300000</text>
+    <text x="570" y="386" font-size="18" fill="#5A6775" text-anchor="end">400000</text>
+    <text x="570" y="336" font-size="18" fill="#5A6775" text-anchor="end">500000</text>
+    <text x="570" y="286" font-size="18" fill="#5A6775" text-anchor="end">600000</text>
+    <text x="630.83" y="349.39" font-size="18" fill="#1E2733" text-anchor="middle">441213</text>
+    <text x="732.5" y="342.38" font-size="18" fill="#1E2733" text-anchor="middle">455236</text>
+    <text x="834.17" y="331.31" font-size="18" fill="#1E2733" text-anchor="middle">477372</text>
+    <text x="935.83" y="320.79" font-size="18" fill="#1E2733" text-anchor="middle">498424</text>
+    <text x="1037.5" y="318.23" font-size="18" fill="#1E2733" text-anchor="middle">503535</text>
+    <text x="1139.17" y="311.26" font-size="18" fill="#1E2733" text-anchor="middle">517477</text>
+    <text x="630.83" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2019年</text>
+    <text x="732.5" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2020年</text>
+    <text x="834.17" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2021年</text>
+    <text x="935.83" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2022年</text>
+    <text x="1037.5" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2023年</text>
+    <text x="1139.17" y="610" font-size="18" fill="#5A6775" text-anchor="middle">2024年</text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6"/>
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》一、运输生产 · 全国铁路货运总发送量图(公报第 3 页)、全国铁路货物运输量表</text>
+  </g>
+</svg>

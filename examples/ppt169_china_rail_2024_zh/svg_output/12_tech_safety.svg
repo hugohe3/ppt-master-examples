@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F"/>
+    <text x="72" y="86" font-size="18" fill="#5A6775">七、科技与安全</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">12 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">20 项国家标准,2 件较大事故</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">标准与科技成果持续产出,事故死亡人数比上年下降 18.0%</text>
+  </g>
+  <g id="p12-tech-field" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="72 236 556 400" data-pptx-av-adj="val 6000" fill="none" stroke="#C3CBD4" stroke-width="2">
+<path d="M 72 236 L 604 236 L 628 260 L 628 636 L 72 636 Z"/>
+</g>
+  <g id="p12-safety-field" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="652 236 556 400" data-pptx-av-adj="val 6000" fill="none" stroke="#C3CBD4" stroke-width="2">
+<path d="M 652 236 L 1184 236 L 1208 260 L 1208 636 L 652 636 Z"/>
+</g>
+  <g id="tech-block" data-pptx-bounds="76 240 548 392">
+    <use data-icon="chunk-filled/lightbulb" x="100" y="272" width="34" height="34" fill="#0B3A6F"/>
+    <text x="146" y="300" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0B3A6F">科技创新</text>
+    <text x="100" y="356" font-size="24" fill="#1E2733">· 铁路国家标准 <tspan font-weight="bold" fill="#0B3A6F">20 项</tspan>、行业标准 <tspan font-weight="bold" fill="#0B3A6F">95 项</tspan></text>
+    <text x="100" y="392" font-size="24" fill="#1E2733">· 主持制定国际标准 7 项</text>
+    <text x="100" y="428" font-size="24" fill="#1E2733">· 计量规程规范:国家 4 项、行业 4 项</text>
+    <text x="100" y="464" font-size="24" fill="#1E2733">· 6 个项目获 2023 年度国家科学技术奖</text>
+    <text x="100" y="500" font-size="24" fill="#1E2733">· 「复兴号高速列车」获进步奖特等奖</text>
+    <text x="100" y="536" font-size="24" fill="#1E2733">· 重大科技创新成果库入库 335 项</text>
+    <text x="100" y="572" font-size="24" fill="#1E2733">· 新研发 BH10 冷藏车等 3 个型号装备</text>
+    <text x="100" y="608" font-size="24" fill="#1E2733">· 建立中国标准新能源机车平台</text>
+  </g>
+  <g id="safety-block" data-pptx-bounds="656 240 548 392">
+    <use data-icon="chunk-filled/shield-check" x="680" y="272" width="34" height="34" fill="#0B3A6F"/>
+    <text x="726" y="300" font-family="SimHei, Arial, sans-serif" font-size="32" font-weight="bold" fill="#0B3A6F">运输安全</text>
+    <text x="680" y="424" font-family="SimHei, Arial, sans-serif" font-size="64" font-weight="bold" fill="#2E7D32">-18.0%</text>
+    <text x="680" y="458" font-size="18" fill="#5A6775">铁路交通事故死亡人数比上年降幅</text>
+    <text x="680" y="524" font-size="24" fill="#1E2733">· 全年未发生特别重大、重大事故</text>
+    <text x="680" y="560" font-size="24" fill="#1E2733">· 发生较大事故 <tspan font-weight="bold" fill="#C8102E">2 件</tspan>,与上年持平</text>
+    <text x="680" y="608" font-size="18" fill="#5A6775">安全指标取自公报「运输安全」一节</text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6"/>
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》一、运输生产(运输安全);四、技术标准和科技创新(公报第 5—7 页)</text>
+  </g>
+</svg>

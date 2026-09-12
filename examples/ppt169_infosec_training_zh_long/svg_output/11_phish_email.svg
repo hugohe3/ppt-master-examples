@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE"/>
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1"/>
+    <rect x="38" y="220" width="12" height="34" fill="#C0392B"/>
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">02 账号与密码</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">一封钓鱼邮件的六处破绽</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2"/>
+  </g>
+  <g id="phish-mail-mock" data-pptx-bounds="72 204 692 418">
+    <rect x="72" y="210" width="688" height="410" fill="#FFFFFF" stroke="#D5CEC2" stroke-width="1"/>
+    <rect x="72" y="210" width="688" height="40" fill="#EBE6DC"/>
+    <circle cx="92" cy="230" r="5" fill="#C9C1B4"/>
+    <circle cx="110" cy="230" r="5" fill="#C9C1B4"/>
+    <circle cx="128" cy="230" r="5" fill="#C9C1B4"/>
+    <text x="148" y="236" font-size="16" fill="#5A6068">收件箱 · 示例（非真实邮件，仅用于教学）</text>
+    <circle cx="96" cy="276" r="13" fill="#C0392B"/>
+    <text x="96" y="282" font-size="16" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="124" y="282" font-size="18" fill="#232A31">显示名：IT 服务台</text>
+    <circle cx="96" cy="312" r="13" fill="#C0392B"/>
+    <text x="96" y="318" font-size="16" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="124" y="318" font-size="18" fill="#232A31">实际地址：it-serv1ce@company-mail.cn</text>
+    <circle cx="96" cy="352" r="13" fill="#C0392B"/>
+    <text x="96" y="358" font-size="16" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="124" y="358" font-size="18" font-weight="bold" fill="#232A31">主题：【紧急】24 小时内未验证将停用您的账号</text>
+    <line x1="124" y1="374" x2="744" y2="374" stroke="#E4DED3" stroke-width="1"/>
+    <text x="124" y="404" font-size="18" fill="#5A6068">尊敬的同事：系统检测到您的账号存在异常登录。<tspan x="124" dy="28">请在 24 小时内点击下方链接完成验证，否则账号将被停用。</tspan></text>
+    <circle cx="96" cy="464" r="13" fill="#C0392B"/>
+    <text x="96" y="470" font-size="16" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="124" y="470" font-size="18" fill="#1D6A73" text-decoration="underline">点击这里立即验证 → https://company-verify.hl.cn</text>
+    <circle cx="96" cy="520" r="13" fill="#C0392B"/>
+    <text x="96" y="526" font-size="16" fill="#FFFFFF" text-anchor="middle">5</text>
+    <rect x="124" y="502" width="322" height="34" fill="#EBE6DC"/>
+    <use data-icon="chunk-filled/bug" x="136" y="511" width="16" height="16" fill="#C0392B"/>
+    <text x="160" y="525" font-size="18" fill="#232A31">账号验证说明.docx.exe</text>
+    <text x="462" y="525" font-size="18" fill="#5A6068">（请先关闭安全提示再打开）</text>
+    <circle cx="96" cy="580" r="13" fill="#C0392B"/>
+    <text x="96" y="586" font-size="16" fill="#FFFFFF" text-anchor="middle">6</text>
+    <text x="124" y="586" font-size="18" fill="#8A8478">本邮件由系统自动发送</text>
+  </g>
+  <g id="phish-tells" data-pptx-bounds="800 218 408 356">
+    <text x="800" y="250" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37">六处破绽</text>
+    <g font-size="18" fill="#232A31">
+      <circle cx="812" cy="294" r="13" fill="#1F2A37"/>
+      <text x="812" y="300" fill="#FFFFFF" text-anchor="middle">1</text>
+      <text x="838" y="300">显示名与真实地址不一致</text>
+      <circle cx="812" cy="346" r="13" fill="#1F2A37"/>
+      <text x="812" y="352" fill="#FFFFFF" text-anchor="middle">2</text>
+      <text x="838" y="352">发件域名字母重复或错拼</text>
+      <circle cx="812" cy="398" r="13" fill="#1F2A37"/>
+      <text x="812" y="404" fill="#FFFFFF" text-anchor="middle">3</text>
+      <text x="838" y="404">制造时限压力的主题</text>
+      <circle cx="812" cy="450" r="13" fill="#1F2A37"/>
+      <text x="812" y="456" fill="#FFFFFF" text-anchor="middle">4</text>
+      <text x="838" y="456">链接文字与实际指向不符</text>
+      <circle cx="812" cy="502" r="13" fill="#1F2A37"/>
+      <text x="812" y="508" fill="#FFFFFF" text-anchor="middle">5</text>
+      <text x="838" y="508">要求先关掉安全提示的附件</text>
+      <circle cx="812" cy="554" r="13" fill="#1F2A37"/>
+      <text x="812" y="560" fill="#FFFFFF" text-anchor="middle">6</text>
+      <text x="838" y="560">页脚缺少可核对的组织信息</text>
+    </g>
+  </g>
+  <g id="phish-action" data-pptx-bounds="800 586 408 72">
+    <text x="800" y="610" font-size="24" fill="#232A31">看不准就不点；转给安全负责人，<tspan x="800" dy="34">比自己验证安全。</tspan></text>
+  </g>
+  <g id="compile-note" data-pptx-bounds="72 626 540 42">
+    <g id="p11-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 630 76 32" fill="#E0D9CC" stroke="none">
+<path d="M 72 635.33 A 5.33 5.33 0 0 0 77.33 630 L 142.67 630 A 5.33 5.33 0 0 0 148 635.33 L 148 656.67 A 5.33 5.33 0 0 0 142.67 662 L 77.33 662 A 5.33 5.33 0 0 0 72 656.67 Z"/>
+</g>
+    <text x="110" y="652" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="652" font-size="18" fill="#5A6068">六处破绽依据 CNCERT 与 CISA 公开提示归纳</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：CNCERT 2026 年 5 月风险提示（F074、F050）；CISA·FBI 预警 AA23-320A（F051）</text>
+    <text x="1208" y="686" text-anchor="end">11 / 28</text>
+  </g>
+</svg>

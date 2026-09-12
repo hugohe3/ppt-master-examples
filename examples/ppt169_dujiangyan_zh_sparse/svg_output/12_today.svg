@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1"/>
+
+  <g id="page-title" data-pptx-bounds="68 66 800 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">今天的都江堰灌区：全国第一大</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1088 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">它今天供的是 8 市 41 县、3142 万常住人口的生产生活用水，不只是农田。</text>
+  </g>
+
+  <g id="today-hero" data-pptx-bounds="72 196 1136 118" font-family="SimHei, Consolas, sans-serif">
+    <text x="76" y="262" font-size="72" font-weight="bold" fill="#E8A33D">41<tspan font-size="32" font-weight="normal" fill="#93AEC8"> 个县（市、区）</tspan></text>
+    <text x="76" y="294" font-family="Microsoft YaHei, Consolas, sans-serif" font-size="18" fill="#93AEC8">覆盖成都、德阳等 8 市</text>
+    <text x="476" y="262" font-size="72" font-weight="bold" fill="#EAF3FB">3142<tspan font-size="32" font-weight="normal" fill="#93AEC8"> 万人</tspan></text>
+    <text x="476" y="294" font-family="Microsoft YaHei, Consolas, sans-serif" font-size="18" fill="#93AEC8">灌区常住人口</text>
+    <text x="876" y="262" font-size="72" font-weight="bold" fill="#EAF3FB">605<tspan font-size="32" font-weight="normal" fill="#93AEC8"> 万亩</tspan></text>
+    <text x="876" y="294" font-family="Microsoft YaHei, Consolas, sans-serif" font-size="18" fill="#93AEC8">2025 年计划水稻保栽面积</text>
+    <line x1="72" y1="310" x2="1208" y2="310" stroke="#1E3A57" stroke-width="1"/>
+  </g>
+
+  <g id="canal-network" data-pptx-replace-with="table" data-pptx-bounds="72 320 688 260" data-pptx-fallback-sha256="94fb09635832f7078e8a25444f72ee750b3f7f8744a9aca64ca3dd63615bfe0c">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "x": 72, "y": 340, "width": 688, "height": 224,
+  "name": "canal-network",
+  "column_widths": [328, 140, 220],
+  "row_heights": [44, 60, 60, 60],
+  "defaults": {
+    "cell": {
+      "font_size": 24,
+      "valign": "middle",
+      "padding": 8,
+      "borders": {
+        "top": {"style": "none"},
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#1E3A57", "width": 1}
+      }
+    }
+  },
+  "columns": [
+    {"text": "渠系层级", "bold": true, "color": "#EAF3FB", "align": "l", "borders": {"top": {"style": "none"}, "left": {"style": "none"}, "right": {"style": "none"}, "bottom": {"style": "solid", "color": "#4A90C2", "width": 2}}},
+    {"text": "条数", "bold": true, "color": "#EAF3FB", "align": "r", "borders": {"top": {"style": "none"}, "left": {"style": "none"}, "right": {"style": "none"}, "bottom": {"style": "solid", "color": "#4A90C2", "width": 2}}},
+    {"text": "长度（公里）", "bold": true, "color": "#EAF3FB", "align": "r", "borders": {"top": {"style": "none"}, "left": {"style": "none"}, "right": {"style": "none"}, "bottom": {"style": "solid", "color": "#4A90C2", "width": 2}}}
+  ],
+  "rows": [
+    [
+      {"text": "干渠及分干渠", "color": "#D6E4F0", "align": "l"},
+      {"text": "111", "color": "#EAF3FB", "bold": true, "align": "r"},
+      {"text": "3567", "color": "#EAF3FB", "bold": true, "align": "r"}
+    ],
+    [
+      {"text": "万亩以上支渠", "color": "#D6E4F0", "align": "l"},
+      {"text": "268", "color": "#EAF3FB", "bold": true, "align": "r"},
+      {"text": "3354", "color": "#EAF3FB", "bold": true, "align": "r"}
+    ],
+    [
+      {"text": "支渠以下各级末级渠道", "color": "#D6E4F0", "align": "l"},
+      {"text": "—", "color": "#93AEC8", "align": "r"},
+      {"text": "35000 以上", "color": "#EAF3FB", "bold": true, "align": "r"}
+    ]
+  ]
+}
+    </metadata>
+    <text x="84" y="370" font-size="24" font-weight="bold" fill="#EAF3FB">渠系层级</text>
+    <text x="528" y="370" font-size="24" font-weight="bold" fill="#EAF3FB" text-anchor="end">条数</text>
+    <text x="748" y="370" font-size="24" font-weight="bold" fill="#EAF3FB" text-anchor="end">长度（公里）</text>
+    <line x1="72" y1="384" x2="760" y2="384" stroke="#4A90C2" stroke-width="2"/>
+    <text x="84" y="422" font-size="24" fill="#D6E4F0">干渠及分干渠</text>
+    <text x="528" y="422" font-size="24" font-weight="bold" fill="#EAF3FB" text-anchor="end">111</text>
+    <text x="748" y="422" font-size="24" font-weight="bold" fill="#EAF3FB" text-anchor="end">3567</text>
+    <line x1="72" y1="444" x2="760" y2="444" stroke="#1E3A57" stroke-width="1"/>
+    <text x="84" y="482" font-size="24" fill="#D6E4F0">万亩以上支渠</text>
+    <text x="528" y="482" font-size="24" font-weight="bold" fill="#EAF3FB" text-anchor="end">268</text>
+    <text x="748" y="482" font-size="24" font-weight="bold" fill="#EAF3FB" text-anchor="end">3354</text>
+    <line x1="72" y1="504" x2="760" y2="504" stroke="#1E3A57" stroke-width="1"/>
+    <text x="84" y="542" font-size="24" fill="#D6E4F0">支渠以下各级末级渠道</text>
+    <text x="528" y="542" font-size="24" fill="#93AEC8" text-anchor="end">—</text>
+    <text x="748" y="542" font-size="24" font-weight="bold" fill="#EAF3FB" text-anchor="end">35000 以上</text>
+    <line x1="72" y1="564" x2="760" y2="564" stroke="#1E3A57" stroke-width="1"/>
+  </g>
+
+  <g id="today-sidebar" data-pptx-bounds="800 320 408 220">
+    <text x="804" y="352" font-size="24" font-weight="bold" fill="#D6E4F0">还在长大</text>
+    <use data-icon="tabler-outline/map-pin" x="804" y="380" width="22" height="22" fill="#E8A33D" stroke-width="2"/>
+    <text x="836" y="396" font-size="18" fill="#93AEC8">2025 年首次向川南经济区供水</text>
+    <use data-icon="tabler-outline/droplet" x="804" y="418" width="22" height="22" fill="#4A90C2" stroke-width="2"/>
+    <text x="836" y="434" font-size="18" fill="#93AEC8">计划全年向资中县供水 1044 万立方米</text>
+    <use data-icon="tabler-outline/topology-star" x="804" y="456" width="22" height="22" fill="#4A90C2" stroke-width="2"/>
+    <text x="836" y="472" font-size="18" fill="#93AEC8">关键控制断面 1264 处计量设施</text>
+    <use data-icon="tabler-outline/wave-sine" x="804" y="494" width="22" height="22" fill="#4A90C2" stroke-width="2"/>
+    <text x="836" y="510" font-size="18" fill="#93AEC8">293 处闸门自动化改造</text>
+  </g>
+
+  <g id="grain-note" data-pptx-bounds="800 556 408 60" fill="#7FD1C3">
+    <use data-icon="tabler-outline/wheat" x="804" y="560" width="22" height="22" stroke-width="2"/>
+    <text x="836" y="576" font-size="18">以占全省约二十分之一的土地，<tspan x="836" dy="30">提供全省四分之一的粮食产能。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1"/>
+    <text x="72" y="668" font-size="16" fill="#93AEC8">渠系数据为 2018 年口径。来源：人民网（2018-09-14）；中国水利网（2024-01-16）；四川在线（2025-04）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">12 / 14</text>
+  </g>
+</svg>

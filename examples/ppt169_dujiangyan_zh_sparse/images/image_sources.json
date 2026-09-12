@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "filename": "dujiangyan_weir_aerial.jpg",
+      "slide": "01_cover",
+      "purpose": "cover full-bleed photo of the Dujiangyan weir works",
+      "search_query": "Dujiangyan irrigation system Yuzui levee",
+      "matched_query": "都江堰 鱼嘴",
+      "orientation": "landscape",
+      "provider": "pixabay",
+      "stage": "all",
+      "title": "dams, dujiangyan, sichuan, nature, china, water, landscape, mountains, hills, view",
+      "author": "StockSnap",
+      "source_page_url": "https://pixabay.com/photos/dams-dujiangyan-sichuan-china-2627421/",
+      "download_url": "https://pixabay.com/get/gc9e64b1dae2dbdc09d7b2557eee049f359f5058249ac3812ed63d35eac2f0324d3a34656ed18aa75a0e213f16e9fe07c3f0ce73d2c7c7ae857f3c666a9c71ae7_1280.jpg",
+      "license_name": "Pixabay Content License",
+      "license_url": "https://pixabay.com/service/license-summary/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1280,
+      "height": 941,
+      "attribution_text": "dujiangyan_weir_aerial.jpg — \"dams, dujiangyan, sichuan, nature, china, water, landscape, mountains, hills, view\" by StockSnap via Pixabay — license: Pixabay Content License (https://pixabay.com/service/license-summary/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Dujiangyan|都江堰"
+      ],
+      "query_variants": [
+        "Dujiangyan irrigation system aerial",
+        "都江堰 鱼嘴",
+        "Dujiangyan Minjiang river weir"
+      ],
+      "metadata_dimensions": {
+        "width": 4000,
+        "height": 2941,
+        "note": "upstream-reported size; actual downloaded file is smaller (likely a preview)"
+      }
+    },
+    {
+      "filename": "dujiangyan_channel_scene.jpg",
+      "slide": "09_maxim",
+      "purpose": "quiet ground-level scene of the Dujiangyan weir works for a quote page",
+      "search_query": "Dujiangyan Feishayan spillway",
+      "matched_query": "都江堰 飞沙堰",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "all",
+      "title": "都江堰鱼嘴",
+      "author": "星星",
+      "source_page_url": "https://commons.wikimedia.org/w/index.php?curid=90782999",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/%E9%83%BD%E6%B1%9F%E5%A0%B0%E9%B1%BC%E5%98%B4.jpg",
+      "license_name": "by-sa",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 4032,
+      "height": 3024,
+      "attribution_text": "dujiangyan_channel_scene.jpg — \"都江堰鱼嘴\" by 星星 via Openverse — license: by-sa (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Dujiangyan|都江堰"
+      ],
+      "query_variants": [
+        "Dujiangyan irrigation system channel",
+        "都江堰 飞沙堰",
+        "Dujiangyan Baopingkou"
+      ]
+    }
+  ],
+  "generated_at": "2026-09-12T08:27:04.943781Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

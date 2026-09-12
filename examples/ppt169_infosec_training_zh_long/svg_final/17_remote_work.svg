@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="320" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">03 数据与设备</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">在家办公，等于把办公室的边界搬到你家</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="remote-device" data-pptx-bounds="72 224 552 108">
+    
+  <g transform="translate(72, 228) scale(2.75)" fill="#1F2A37">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1H14V9H2V1ZM4 3H12V7H4V3Z" />
+    <path d="M2 11L0 13V15H16V13L14 11H2Z" />
+  </g>
+    <text x="136" y="260" font-size="24" font-weight="bold" fill="#1F2A37">设备</text>
+    <text font-size="18" fill="#5A6068" x="136" y="296">公司数据只落在公司管控的终端上，个人电脑</text><text font-size="18" fill="#5A6068" x="136" y="322">不做公司数据的落地存储。</text></g>
+  <g id="remote-network" data-pptx-bounds="656 224 552 108">
+    
+  <g transform="translate(656, 228) scale(2.75)" fill="#1F2A37">
+    <path d="M0 7L1.17157 5.82843C2.98259 4.01741 5.43884 3 8 3C10.5612 3 13.0174 4.01742 14.8284 5.82843L16 7L14.5858 8.41421L13.4142 7.24264C11.9783 5.8067 10.0307 5 8 5C5.96928 5 4.02173 5.8067 2.58579 7.24264L1.41421 8.41421L0 7Z" />
+    <path d="M4.24264 11.2426L2.82843 9.82843L4 8.65685C5.06086 7.59599 6.49971 7 8 7C9.50029 7 10.9391 7.59599 12 8.65686L13.1716 9.82843L11.7574 11.2426L10.5858 10.0711C9.89999 9.38527 8.96986 9 8 9C7.03014 9 6.1 9.38527 5.41421 10.0711L4.24264 11.2426Z" />
+    <path d="M8 15L5.65685 12.6569L6.82842 11.4853C7.13914 11.1746 7.56057 11 8 11C8.43942 11 8.86085 11.1746 9.17157 11.4853L10.3431 12.6569L8 15Z" />
+  </g>
+    <text x="720" y="260" font-size="24" font-weight="bold" fill="#1F2A37">网络</text>
+    <text font-size="18" fill="#5A6068" x="720" y="296">公共 Wi-Fi 下先连公司 VPN 再访问内部系统；</text><text font-size="18" fill="#5A6068" x="720" y="322">不为「网速快」绕过管控通道。</text></g>
+  <g id="remote-account" data-pptx-bounds="72 424 552 108">
+    
+  <g transform="translate(72, 428) scale(2.75)" fill="#1F2A37">
+    <path d="M10.5199 9.31954C12.0034 8.45222 13 6.84249 13 5C13 2.23858 10.7614 0 8 0C5.23858 0 3 2.23858 3 5C3 6.84249 3.99659 8.45222 5.48013 9.31954L4 14.5V16H12V14.5L10.5199 9.31954Z" />
+  </g>
+    <text x="136" y="460" font-size="24" font-weight="bold" fill="#1F2A37">账号</text>
+    <text font-size="18" fill="#5A6068" x="136" y="496">家人共用的电脑不保存公司账号口令；</text><text font-size="18" fill="#5A6068" x="136" y="522">离开座位时锁屏。</text></g>
+  <g id="remote-screen" data-pptx-bounds="656 424 552 108">
+    
+  <g transform="translate(656, 428) scale(2.75)" fill="#1F2A37">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 8L3.07945 4.30466C4.29638 2.84434 6.09909 2 8 2C9.90091 2 11.7036 2.84434 12.9206 4.30466L16 8L12.9206 11.6953C11.7036 13.1557 9.90091 14 8 14C6.09909 14 4.29638 13.1557 3.07945 11.6953L0 8ZM8 11C9.65685 11 11 9.65685 11 8C11 6.34315 9.65685 5 8 5C6.34315 5 5 6.34315 5 8C5 9.65685 6.34315 11 8 11Z" />
+  </g>
+    <text x="720" y="460" font-size="24" font-weight="bold" fill="#1F2A37">屏幕与音频</text>
+    <text font-size="18" fill="#5A6068" x="720" y="496">视频会议共享屏幕前先关掉无关窗口；</text><text font-size="18" fill="#5A6068" x="720" y="522">客户信息不出现在共享画面里。</text></g>
+  <g id="log-retention" data-pptx-bounds="72 554 1136 70">
+    <rect x="72" y="558" width="1136" height="62" fill="#EBE6DC" />
+    <rect x="72" y="558" width="4" height="62" fill="#1F2A37" />
+    <text x="100" y="598" font-size="24" fill="#232A31">《网络安全法》第二十三条要求留存相关的网络日志<tspan font-weight="bold" fill="#C0392B">不少于六个月</tspan>——在家的操作同样在日志里。</text>
+  </g>
+  <g id="compile-note" data-pptx-bounds="72 628 700 40">
+    <g id="p17-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 632 76 30" fill="#E0D9CC" stroke="none">
+<path d="M 72 637 A 5 5 0 0 0 77 632 L 143 632 A 5 5 0 0 0 148 637 L 148 657 A 5 5 0 0 0 143 662 L 77 662 A 5 5 0 0 0 72 657 Z" />
+</g>
+    <text x="110" y="653" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="653" font-size="18" fill="#5A6068">四个场景为本课归纳的常见远程办公风险面</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：《网络安全法》第二十三条（F005）</text>
+    <text x="1208" y="686" text-anchor="end">17 / 28</text>
+  </g>
+</svg>

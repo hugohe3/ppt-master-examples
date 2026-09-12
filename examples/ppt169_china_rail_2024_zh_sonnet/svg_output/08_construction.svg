@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="20" fill="#FFFFFF" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p08-scrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2A3D" stop-opacity="0"/>
+      <stop offset="42%" stop-color="#0A2A3D" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#0A2A3D" stop-opacity="0.86"/>
+    </linearGradient>
+  </defs>
+
+  <g id="bridge-hero" data-pptx-bounds="0 0 1280 720">
+    <image href="../images/bridge_hero.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <rect id="p08-scrim-rect" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#p08-scrim)"/>
+
+    <g id="header">
+      <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#E7EAF1">05 · 建设</text>
+      <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#FFFFFF">新线投产3113公里,路网质量同步提升</text>
+      <rect x="64" y="128" width="140" height="5" fill="#C81E3A"/>
+    </g>
+
+    <g id="construction-kpi">
+      <text x="64" y="466" font-size="22">投产新线3113公里,其中高速铁路2457公里</text>
+      <text x="64" y="548" font-family="Consolas, Courier New" font-size="64" font-weight="bold">8506</text>
+      <text x="256" y="548" font-size="22">亿元</text>
+      <text x="64" y="576" font-size="18" fill="#CFE3D5">全国铁路固定资产投资完成额</text>
+
+      <text x="380" y="548" font-family="Consolas, Courier New" font-size="64" font-weight="bold">16.2</text>
+      <text x="572" y="548" font-size="22">万公里</text>
+      <text x="380" y="576" font-size="18" fill="#CFE3D5">全国铁路营业里程(高铁4.8万公里)</text>
+
+      <text x="64" y="636" font-size="16" fill="#CFE3D5">西部地区铁路营业里程6.6万公里 · 路网密度168.5公里/万平方公里</text>
+    </g>
+
+    <g id="network-quality">
+      <text x="760" y="462" font-size="18" fill="#CFE3D5">路网质量(依公报数字)</text>
+      <text x="760" y="500" font-size="20">复线率</text>
+      <rect x="860" y="484" width="356" height="24" rx="4" fill="#FFFFFF" fill-opacity="0.20"/>
+      <rect x="860" y="484" width="216.4" height="24" rx="4" fill="#1D7A8C"/>
+      <text x="1216" y="502" font-size="20" font-weight="bold" text-anchor="end">60.8%</text>
+
+      <text x="760" y="552" font-size="20">电化率</text>
+      <rect x="860" y="536" width="356" height="24" rx="4" fill="#FFFFFF" fill-opacity="0.20"/>
+      <rect x="860" y="536" width="271.4" height="24" rx="4" fill="#C81E3A"/>
+      <text x="1216" y="554" font-size="20" font-weight="bold" text-anchor="end">76.2%</text>
+
+      <text x="760" y="600" font-size="15" fill="#CFE3D5">来源:国家铁路局《2024年铁道统计公报》第5页</text>
+    </g>
+
+    <g id="p08-credit">
+      <text x="1216" y="704" font-size="15" fill="#D7DBE3" text-anchor="end">图片:<a href="https://commons.wikimedia.org/wiki/File:201603_Danyang-Kunshan_grand_bridge_(wuxi).JPG"><tspan text-decoration="underline">MNXANL, CC BY-SA 4.0, Wikimedia Commons</tspan></a></text>
+    </g>
+  </g>
+</svg>

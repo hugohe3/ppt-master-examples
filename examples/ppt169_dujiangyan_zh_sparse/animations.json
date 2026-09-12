@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.5 },
+    "animation": { "effect": "entrance_fade", "trigger": "after-previous", "duration": 0.5, "stagger": 0.15 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "cover-hook": { "effect": "entrance_fade", "order": 2, "duration": 0.6, "delay": 0.2 },
+        "cover-yearband": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.7 }
+      }
+    },
+    "03_problem": {
+      "groups": {
+        "terrain-section": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.9 },
+        "scale-dimensions": { "effect": "entrance_fade", "order": 4, "duration": 0.5 },
+        "note-flood": { "effect": "entrance_fade", "order": 5, "duration": 0.5 },
+        "note-drought": { "effect": "entrance_fade", "order": 6, "duration": 0.5 }
+      }
+    },
+    "04_overview": {
+      "groups": {
+        "weir-overview": { "effect": "entrance_fade", "order": 3, "duration": 0.8 },
+        "caption-yuzui": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "caption-feishayan": { "effect": "entrance_fade", "order": 5, "duration": 0.4 },
+        "caption-baopingkou": { "effect": "entrance_fade", "order": 6, "duration": 0.4 },
+        "elevation-note": { "effect": "entrance_fade", "order": 7, "duration": 0.4 }
+      }
+    },
+    "05_yuzui": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "04_overview",
+        "pairs": { "weir-figure": { "from": "weir-overview", "to": "yuzui-closeup" } }
+      },
+      "groups": {
+        "yuzui-closeup": { "effect": "none" },
+        "flow-split-ratio": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.8 },
+        "reading-note": { "effect": "entrance_fade", "order": 4, "duration": 0.5 }
+      }
+    },
+    "06_feishayan": {
+      "groups": {
+        "bend-section": { "effect": "entrance_fade", "order": 3, "duration": 0.8 },
+        "weir-dimensions": { "effect": "entrance_fade", "order": 4, "duration": 0.5 },
+        "weir-functions": { "effect": "entrance_fade", "order": 5, "duration": 0.5 },
+        "reading-note": { "effect": "entrance_fade", "order": 6, "duration": 0.5 }
+      }
+    },
+    "07_baopingkou": {
+      "groups": {
+        "baopingkou-closeup": { "effect": "entrance_fade", "order": 3, "duration": 0.8 },
+        "water-gauge": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 4, "duration": 0.7 },
+        "reading-note": { "effect": "entrance_fade", "order": 5, "duration": 0.5 }
+      }
+    },
+    "08_sequence": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "07_baopingkou",
+        "pairs": { "bottleneck-figure": { "from": "baopingkou-closeup", "to": "weir-assembly" } }
+      },
+      "groups": {
+        "weir-assembly": { "effect": "none" },
+        "step-1": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.5 },
+        "step-2": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.5 },
+        "step-3": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.5 },
+        "closing-line": { "effect": "entrance_fade", "order": 6, "duration": 0.5, "delay": 0.3 }
+      }
+    },
+    "09_maxim": {
+      "groups": {
+        "quote-maxim": { "effect": "entrance_fade", "order": 2, "duration": 1.0 },
+        "maxim-reading": { "effect": "entrance_fade", "order": 3, "duration": 0.6, "delay": 0.4 },
+        "image-credit": { "effect": "none" }
+      }
+    },
+    "10_annual_repair": {
+      "groups": {
+        "maintenance-timeline": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 1.0 },
+        "quake-check": { "effect": "entrance_fade", "order": 4, "duration": 0.6, "delay": 0.3 }
+      }
+    },
+    "11_area_growth": {
+      "groups": {
+        "irrigated-area-growth": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 1.2 },
+        "area-hero": { "effect": "entrance_fade", "order": 4, "duration": 0.6 },
+        "scope-note": { "effect": "entrance_fade", "order": 5, "duration": 0.5 }
+      }
+    },
+    "12_today": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": {
+        "from": "11_area_growth",
+        "pairs": { "area-figure": { "from": "area-hero", "to": "today-hero" } }
+      },
+      "groups": {
+        "today-hero": { "effect": "none" },
+        "canal-network": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.8 },
+        "today-sidebar": { "effect": "entrance_fade", "order": 4, "duration": 0.5 },
+        "grain-note": { "effect": "entrance_fade", "order": 5, "duration": 0.5 }
+      }
+    },
+    "13_heritage": {
+      "groups": {
+        "heritage-2000": { "effect": "entrance_fade", "order": 3, "duration": 0.7 },
+        "heritage-2018": { "effect": "entrance_fade", "order": 4, "duration": 0.7 },
+        "three-heritage-note": { "effect": "entrance_fade", "order": 5, "duration": 0.6, "delay": 0.3 }
+      }
+    },
+    "14_closing": {
+      "groups": {
+        "closing-statement": { "effect": "entrance_fade", "order": 1, "duration": 1.0 },
+        "cause-engineering": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "cause-institution": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "result-line": { "effect": "entrance_fade", "order": 4, "duration": 0.6, "delay": 0.3 }
+      }
+    }
+  }
+}

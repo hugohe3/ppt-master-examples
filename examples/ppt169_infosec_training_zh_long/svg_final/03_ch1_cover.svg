@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="section">
+  <defs>
+    <linearGradient id="chapterField" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#243141" />
+      <stop offset="100%" stop-color="#1A232E" />
+    </linearGradient>
+  </defs>
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="url(#chapterField)" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#4A5560" stroke-width="1" />
+    <rect x="38" y="120" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="chapter-divider" data-pptx-role="decoration" data-pptx-bounds="354 186 12 320">
+    <line x1="360" y1="190" x2="360" y2="500" stroke="#4A5560" stroke-width="1" />
+  </g>
+  <g id="chapter-num-01" data-pptx-bounds="88 178 216 204">
+    <text x="96" y="320" font-family="SimSun, Cambria, serif" font-size="160" fill="#F7F4EE">01</text>
+  </g>
+  <g id="chapter-title" data-pptx-bounds="412 206 700 126">
+    <text x="420" y="260" font-family="SimSun, Cambria, serif" font-size="56" fill="#F7F4EE">为什么是你</text>
+    <text x="420" y="312" font-size="28" fill="#C9C1B4">先看清楚攻击者从哪里进来</text>
+  </g>
+  <g id="chapter-route" data-pptx-bounds="412 364 760 136">
+    <rect x="420" y="376" width="10" height="10" fill="#C0392B" />
+    <text x="446" y="386" font-size="18" fill="#A9A296">泄露的根因里，近一半与人直接相关</text>
+    <rect x="420" y="410" width="10" height="10" fill="#C0392B" />
+    <text x="446" y="420" font-size="18" fill="#A9A296">攻击者进门的方式，两条里有一条是社工</text>
+    <rect x="420" y="444" width="10" height="10" fill="#C0392B" />
+    <text x="446" y="454" font-size="18" fill="#A9A296">通报里的攻击者，是应聘进来的</text>
+    <rect x="420" y="478" width="10" height="10" fill="#C0392B" />
+    <text x="446" y="488" font-size="18" fill="#A9A296">你在这套风险里有三个身份</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" fill="#6E6A62" font-size="16">
+    <text x="72" y="686">第一章 · 为什么是你</text>
+    <text x="1208" y="686" text-anchor="end">03 / 28</text>
+  </g>
+</svg>

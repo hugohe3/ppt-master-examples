@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="520" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">05 应急与上报 · 本章结论</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">及时上报是免责条款，不是追责起点</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="immunity-quote" data-pptx-bounds="152 232 976 180">
+    <g id="p27-quote-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="bracketPair" data-pptx-frame="152 236 976 172" fill="none" stroke="#C0392B" stroke-width="2">
+<path d="M 152 264.67 A 28.67 28.67 0 0 1 180.67 236 L 1099.33 236 A 28.67 28.67 0 0 1 1128 264.67 L 1128 379.33 A 28.67 28.67 0 0 1 1099.33 408 L 180.67 408 A 28.67 28.67 0 0 1 152 379.33 Z" stroke="none" />
+<path d="M 180.67 408 A 28.67 28.67 0 0 1 152 379.33 L 152 264.67 A 28.67 28.67 0 0 1 180.67 236 M 1099.33 236 A 28.67 28.67 0 0 1 1128 264.67 L 1128 379.33 A 28.67 28.67 0 0 1 1099.33 408" />
+</g>
+    <text font-size="24" fill="#232A31" x="210" y="292">发生网络安全事件时，网络运营者已采取合理必要的防护措施、按照应急预案</text><text font-size="24" fill="#232A31" x="210" y="326">进行处置并有效降低影响危害、且按照本办法规定及时报告的，</text><text font-size="24" fill="#232A31" x="210" y="360">可视情从轻或不予追究相关单位和人员责任。</text><text x="210" y="394" font-size="18" fill="#5A6068">——《国家网络安全事件报告管理办法》第十一条</text>
+  </g>
+  <g id="condition-protect" data-pptx-bounds="72 440 357 120">
+    
+  <g transform="translate(72, 444) scale(2.5)" fill="#1D6A73">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12.7071 5.70711L11.2929 4.29289L6.5 9.08579L4.70711 7.29289L3.29289 8.70711L6.5 11.9142L12.7071 5.70711Z" />
+  </g>
+    <text font-size="24" fill="#232A31" x="72" y="512">已采取合理必要</text><text font-size="24" fill="#232A31" x="72" y="546">防护措施</text></g>
+  <g id="condition-handle" data-pptx-bounds="461 440 357 120">
+    
+  <g transform="translate(461, 444) scale(2.5)" fill="#1D6A73">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM12.7071 5.70711L11.2929 4.29289L6.5 9.08579L4.70711 7.29289L3.29289 8.70711L6.5 11.9142L12.7071 5.70711Z" />
+  </g>
+    <text font-size="24" fill="#232A31" x="461" y="512">按预案处置并</text><text font-size="24" fill="#232A31" x="461" y="546">有效降低危害</text></g>
+  <g id="condition-report" data-pptx-bounds="850 440 357 120">
+    
+  <g transform="translate(850, 444) scale(2.5)" fill="#1D6A73">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 1V2.5L2 6V5H0V11H2V10L4.11255 10.6162C4.0391 10.8985 4 11.1947 4 11.5C4 13.433 5.567 15 7.5 15C9.05764 15 10.3776 13.9825 10.8315 12.5759L14 13.5V15H16V1H14ZM6.0349 11.1768L8.90919 12.0152C8.69905 12.5898 8.14742 13 7.5 13C6.67157 13 6 12.3284 6 11.5C6 11.3891 6.01204 11.2809 6.0349 11.1768Z" />
+  </g>
+    <text font-size="24" fill="#232A31" x="850" y="512">按规定<tspan font-weight="bold" fill="#C0392B">及时报告</tspan></text><text font-size="24" fill="#232A31" x="850" y="546">（三个条件须同时满足）</text></g>
+  <g id="personal-takeaway" data-pptx-bounds="72 580 1136 76">
+    <text font-size="28" fill="#1F2A37" x="72" y="604">你越早说，公司越有可能落到「从轻或不予追究」这一侧；</text><text font-size="28" fill="#1F2A37" x="72" y="640">隐瞒只会把时间线拖到无法补救。</text></g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：《国家网络安全事件报告管理办法》第十一条，2025 年 11 月 1 日起施行（F081、F076）</text>
+    <text x="1208" y="686" text-anchor="end">27 / 28</text>
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E" />
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1" />
+
+  <g id="page-title" data-pptx-bounds="68 66 620 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">两块牌子：2000 与 2018</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1088 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">一块认的是它的历史价值，另一块认的是它今天仍在灌溉。</text>
+  </g>
+
+  <g id="heritage-2000" data-pptx-bounds="72 196 556 356">
+    <g id="p13-plate-2000" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 200 556 340" fill="#11263D" stroke="#4A90C2" stroke-width="2">
+<path d="M 72 256.67 A 56.67 56.67 0 0 0 128.67 200 L 571.33 200 A 56.67 56.67 0 0 0 628 256.67 L 628 483.33 A 56.67 56.67 0 0 0 571.33 540 L 128.67 540 A 56.67 56.67 0 0 0 72 483.33 Z" />
+</g>
+    
+  <g transform="translate(136, 250) scale(1.33333)" fill="none" stroke="#4A90C2" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 1 0 -12 0" />
+    <path d="M12 15l3.4 5.89l1.598 -3.233l3.598 .232l-3.4 -5.889" />
+    <path d="M6.802 12l-3.4 5.89l3.598 -.233l1.598 3.232l3.4 -5.889" />
+  </g>
+    <text x="136" y="356" font-family="SimHei, Consolas, sans-serif" font-size="72" font-weight="bold" fill="#4A90C2">2000</text>
+    <text x="136" y="398" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">世界文化遗产</text>
+    <text font-size="24" fill="#D6E4F0" x="136" y="440">青城山—都江堰列入联合国教科文组织</text><text font-size="24" fill="#D6E4F0" x="136" y="474">《世界遗产名录》，编号 1001。</text><text font-size="18" fill="#93AEC8" x="136" y="512">标准 (ii)：水管理与技术发展史上的重大</text><text font-size="18" fill="#93AEC8" x="136" y="540">里程碑，至今仍在完美履行其功能。</text></g>
+
+  <g id="heritage-2018" data-pptx-bounds="652 196 556 356">
+    <g id="p13-plate-2018" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="652 200 556 340" fill="#11263D" stroke="#E8A33D" stroke-width="2">
+<path d="M 652 256.67 A 56.67 56.67 0 0 0 708.67 200 L 1151.33 200 A 56.67 56.67 0 0 0 1208 256.67 L 1208 483.33 A 56.67 56.67 0 0 0 1151.33 540 L 708.67 540 A 56.67 56.67 0 0 0 652 483.33 Z" />
+</g>
+    
+  <g transform="translate(716, 250) scale(1.33333)" fill="none" stroke="#E8A33D" stroke-width="2">
+    <path d="M6 9a6 6 0 1 0 12 0a6 6 0 1 0 -12 0" />
+    <path d="M12 15l3.4 5.89l1.598 -3.233l3.598 .232l-3.4 -5.889" />
+    <path d="M6.802 12l-3.4 5.89l3.598 -.233l1.598 3.232l3.4 -5.889" />
+  </g>
+    <text x="716" y="356" font-family="SimHei, Consolas, sans-serif" font-size="72" font-weight="bold" fill="#E8A33D">2018</text>
+    <text x="716" y="398" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">世界灌溉工程遗产</text>
+    <text font-size="24" fill="#D6E4F0" x="716" y="440">国际灌溉排水委员会第 69 届理事会</text><text font-size="24" fill="#D6E4F0" x="716" y="474">通过 2018 年度评选，正式列入名录。</text><text font-size="18" fill="#93AEC8" x="716" y="512">加拿大时间 2018 年 8 月 13 日晚，</text><text font-size="18" fill="#93AEC8" x="716" y="540">于加拿大萨斯卡通召开的理事会上通过。</text></g>
+
+  <g id="three-heritage-note" data-pptx-bounds="72 558 1136 70">
+    <text font-size="24" fill="#D6E4F0" x="72" y="582">连同 2006 年入选的世界自然遗产"四川大熊猫栖息地"重要组成部分，</text><text font-size="24" fill="#D6E4F0" x="72" y="616">都江堰成为全球为数不多同时拥有 3 个世界遗产的城市。</text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1" />
+    <text x="72" y="668" font-size="16" fill="#93AEC8">来源：UNESCO 世界遗产中心（编号 1001）；中国新闻网（2018-08-14）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">13 / 14</text>
+  </g>
+</svg>

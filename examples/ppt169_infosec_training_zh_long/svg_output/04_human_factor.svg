@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="120" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">01 为什么是你</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">泄露的根因里，近一半与人直接相关</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="breach-root-cause" data-pptx-replace-with="chart" data-pptx-bounds="180 208 440 440" data-pptx-fallback-sha256="5d87fd9991728b3dd04a859f5baf3351d0835a774b2ece5eedcc182ae46c7f29">
+    <metadata type="application/json">
+{
+  "x": 180, "y": 208, "width": 440, "height": 440,
+  "name": "breach-root-cause",
+  "type": "pie",
+  "title": "数据泄露根因构成（2026）",
+  "categories": ["恶意或犯罪攻击", "人为失误", "IT 故障"],
+  "series": [{"name": "占全部数据泄露的比例", "values": [55, 23, 22]}],
+  "show_legend": true,
+  "legend_position": "b",
+  "style": {"colors": ["#C0392B", "#D98B7F", "#C9C1B4"]},
+  "notes": ["55%", "23%", "22%"]
+}
+    </metadata>
+    <text x="200" y="240" font-size="18" fill="#5A6068">数据泄露根因构成（2026）</text>
+    <g id="breach-root-cause-chartArea">
+      <!-- chart-plot-area: object=breach-root-cause | pie | center: 330,390 | radius: 130 -->
+      <path d="M330 390 L330 260 A130 130 0 1 1 289.83 513.64 Z" fill="#C0392B" />
+      <path d="M330 390 L289.83 513.64 A130 130 0 0 1 202.30 365.64 Z" fill="#D98B7F" />
+      <path d="M330 390 L202.30 365.64 A130 130 0 0 1 330 260 Z" fill="#C9C1B4" />
+      <text x="404" y="402" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">55%</text>
+      <text x="261" y="431" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">23%</text>
+      <text x="279" y="329" font-size="24" font-weight="bold" fill="#3A4048" text-anchor="middle">22%</text>
+    </g>
+    <rect x="200" y="554" width="16" height="16" fill="#C0392B" />
+    <text x="228" y="568" font-size="18" fill="#232A31">恶意或犯罪攻击</text>
+    <rect x="200" y="584" width="16" height="16" fill="#D98B7F" />
+    <text x="228" y="598" font-size="18" fill="#232A31">人为失误</text>
+    <rect x="200" y="614" width="16" height="16" fill="#C9C1B4" />
+    <text x="228" y="628" font-size="18" fill="#232A31">IT 故障</text>
+  </g>
+  <g id="human-factor-metric" data-pptx-bounds="672 250 540 160">
+    <text x="680" y="320" font-size="64" font-weight="bold" fill="#C0392B">62%</text>
+    <text x="680" y="364" font-size="28" fill="#1F2A37">的数据泄露中出现「人为因素」</text>
+    <text x="680" y="398" font-size="18" fill="#5A6068">Verizon DBIR 2026，上一版为 60%</text>
+  </g>
+  <g id="reading-note" data-pptx-bounds="672 436 540 96" fill="#232A31" font-size="24">
+    <text x="680" y="470">恶意攻击占 <tspan font-weight="bold" fill="#C0392B">55%</tspan>，较上一年上升近 8%；</text>
+    <text x="680" y="508">纯粹的 IT 故障只占 <tspan font-weight="bold">22%</tspan>。</text>
+  </g>
+  <g id="takeaway" data-pptx-bounds="672 540 544 108">
+    <rect x="680" y="546" width="528" height="96" fill="#C0392B" fill-opacity="0.07" />
+    <rect x="680" y="546" width="4" height="96" fill="#C0392B" />
+    <text x="708" y="588" font-size="24" fill="#232A31">把「人」当成入口，比把「系统」<tspan x="708" dy="34">当成入口更接近事实。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" fill="#8A8478" font-size="16">
+    <text x="72" y="686">来源：IBM《数据泄露成本报告》2026（F064）；Verizon DBIR 2026（F055）</text>
+    <text x="1208" y="686" text-anchor="end">04 / 28</text>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="spineArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#1F2A37" />
+    </marker>
+  </defs>
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="520" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">05 应急与上报</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">发现异常后的四个动作</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="timeline-spine" data-pptx-role="decoration" data-pptx-bounds="136 330 1034 20">
+    <line x1="140" y1="340" x2="1150" y2="340" stroke="#1F2A37" stroke-width="2" marker-end="url(#spineArrow)" />
+  </g>
+  <g id="action-stop" data-pptx-bounds="80 268 260 216">
+    <text x="210" y="300" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37" text-anchor="middle">停</text>
+    <circle cx="210" cy="340" r="22" fill="#1F2A37" />
+    <text x="210" y="346" font-size="18" fill="#F7F4EE" text-anchor="middle">1</text>
+    <text font-size="18" text-anchor="middle" fill="#5A6068" x="210" y="400">停止操作；不关机、</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="210" y="426">不重装、不删日志。</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="210" y="452">第七条把「现场保护情况」</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="210" y="478">列为必报内容。</text></g>
+  <g id="action-report" data-pptx-bounds="360 268 260 216">
+    <text x="490" y="300" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37" text-anchor="middle">报</text>
+    <circle cx="490" cy="340" r="22" fill="#1F2A37" />
+    <text x="490" y="346" font-size="18" fill="#F7F4EE" text-anchor="middle">2</text>
+    <text font-size="18" text-anchor="middle" fill="#5A6068" x="490" y="400">立即通知本单位安全</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="490" y="426">负责人；由单位按预案</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="490" y="452">启动处置并向主管部门</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="490" y="478">报告（网安法第二十七条）。</text></g>
+  <g id="action-record" data-pptx-bounds="640 268 260 216">
+    <text x="770" y="300" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37" text-anchor="middle">记</text>
+    <circle cx="770" cy="340" r="22" fill="#1F2A37" />
+    <text x="770" y="346" font-size="18" fill="#F7F4EE" text-anchor="middle">3</text>
+    <text font-size="18" text-anchor="middle" fill="#5A6068" x="770" y="400">记下发现时间、现象、</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="770" y="426">你做过的每一步操作</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="770" y="452">（个保法第五十七条</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="770" y="478">通知内容要求）。</text></g>
+  <g id="action-cooperate" data-pptx-bounds="920 268 260 216">
+    <text x="1050" y="300" font-family="SimSun, Cambria, serif" font-size="32" fill="#1F2A37" text-anchor="middle">配合</text>
+    <circle cx="1050" cy="340" r="22" fill="#1F2A37" />
+    <text x="1050" y="346" font-size="18" fill="#F7F4EE" text-anchor="middle">4</text>
+    <text font-size="18" text-anchor="middle" fill="#5A6068" x="1050" y="400">配合调查与溯源；处置</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="1050" y="426">结束后 30 日内形成事件</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="1050" y="452">处置总结报告，按原渠道</text><text font-size="18" text-anchor="middle" fill="#5A6068" x="1050" y="478">上报（第八条）。</text></g>
+  <g id="four-hour-rule" data-pptx-bounds="72 520 1136 84">
+    <rect x="72" y="524" width="1136" height="76" fill="#1F2A37" />
+    <text x="100" y="558" font-size="24" fill="#F7F4EE">研判属于<tspan font-weight="bold" fill="#E8A6A0">较大以上</tspan>网络安全事件的，一般网络运营者最迟 <tspan font-weight="bold" fill="#E8A6A0">4 小时</tspan>内</text>
+    <text x="100" y="586" font-size="24" fill="#F7F4EE">向属地省级网信部门报告。</text>
+  </g>
+  <g id="compile-note" data-pptx-bounds="72 614 820 46">
+    <g id="p25-note-badge" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="plaque" data-pptx-frame="72 618 76 32" fill="#E0D9CC" stroke="none">
+<path d="M 72 623.33 A 5.33 5.33 0 0 0 77.33 618 L 142.67 618 A 5.33 5.33 0 0 0 148 623.33 L 148 644.67 A 5.33 5.33 0 0 0 142.67 650 L 77.33 650 A 5.33 5.33 0 0 0 72 644.67 Z" />
+</g>
+    <text x="110" y="640" font-size="18" fill="#5A6068" text-anchor="middle">整理</text>
+    <text x="168" y="640" font-size="18" fill="#5A6068">四个动作为本课依据上述法条与办法归纳的员工侧动作序列。</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：《国家网络安全事件报告管理办法》（F077、F079、F080）；《网络安全法》（F007）；《个人信息保护法》（F031）</text>
+    <text x="1208" y="686" text-anchor="end">25 / 28</text>
+  </g>
+</svg>

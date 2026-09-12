@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <filter id="heroGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b"/>
+      <feFlood flood-color="#E8A33D" flood-opacity="0.45" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1"/>
+
+  <g id="page-title" data-pptx-bounds="68 66 980 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">灌溉面积：一条走了两千年的上升线</text>
+    <text x="810" y="104" font-size="18" fill="#E8A33D">［整理］</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1088 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">从建成之初约 100 万亩到 2025 年计划 1164.7 万亩，这条线还在往上走。</text>
+  </g>
+
+  <g id="scope-note" data-pptx-bounds="72 200 288 216">
+    <text x="72" y="228" font-size="24" font-weight="bold" fill="#D6E4F0">口径说明</text>
+    <text x="72" y="266" font-size="18" fill="#93AEC8">· 横轴为选取的里程碑年份，<tspan x="72" dy="30">非等距时间轴。</tspan></text>
+    <text x="72" y="336" font-size="18" fill="#93AEC8">· 2025 年为计划用水面积，<tspan x="72" dy="30">其余为当年灌溉面积。</tspan></text>
+    <text x="72" y="406" font-size="18" fill="#93AEC8">· 单位：万亩。</text>
+  </g>
+
+  <g id="area-hero" data-pptx-bounds="72 452 288 152">
+    <text x="76" y="520" font-family="SimHei, Consolas, sans-serif" font-size="72" font-weight="bold" fill="#E8A33D" filter="url(#heroGlow)">1164.7</text>
+    <text x="76" y="560" font-family="SimHei, Consolas, sans-serif" font-size="32" fill="#EAF3FB">万亩</text>
+    <text x="76" y="592" font-size="18" fill="#93AEC8">2025 年计划用水面积</text>
+  </g>
+
+  <g id="irrigated-area-growth" data-pptx-replace-with="chart" data-pptx-bounds="390 196 818 404" data-pptx-fallback-sha256="65339687495878a5fa8f189a10d7ac9b7f4687fac15b009c8b4c090aeed82f04">
+    <metadata type="application/json">
+{
+  "x": 390, "y": 200, "width": 818, "height": 396,
+  "name": "irrigated-area-growth",
+  "type": "line",
+  "grouping": "standard",
+  "line_style": "lineMarker",
+  "marker_size": 10,
+  "categories": ["建成之初", "1949年前", "2018", "2021", "2023", "2024", "2025计划"],
+  "series": [
+    {"name": "灌溉面积", "values": [100, 280, 1076, 1090.6, 1133.2, 1154.8, 1164.7]}
+  ],
+  "axes": {"value": {"minimum": 0, "maximum": 1200, "major_unit": 400}},
+  "data_labels": {"points": [{"idx": 0}, {"idx": 6}], "position": "above", "font_size": 18, "color": "#E8A33D", "bold": true},
+  "show_legend": false,
+  "style": {
+    "colors": ["#E8A33D"],
+    "font_family": "Microsoft YaHei",
+    "axis_font_size": 18,
+    "text_color": "#93AEC8",
+    "axis_color": "#1E3A57",
+    "grid_color": "#17304A",
+    "chart_area_fill": "none",
+    "plot_area_fill": "none"
+  }
+}
+    </metadata>
+    <g id="irrigated-area-growth-chartArea">
+      <path id="growth-grid-lines" d="M470 250H1160 M470 340H1160 M470 430H1160" fill="none" stroke="#17304A" stroke-width="1"/>
+      <line id="growth-value-axis" x1="470" y1="240" x2="470" y2="520" stroke="#1E3A57" stroke-width="2"/>
+      <line id="growth-category-axis" x1="470" y1="520" x2="1160" y2="520" stroke="#1E3A57" stroke-width="2"/>
+      <!-- chart-plot-area: object=irrigated-area-growth | 470,250,1150,520 -->
+      <path id="growth-line" d="M518.6 497.5 L615.7 457 L712.9 277.9 L810 274.6 L907.1 265.03 L1004.3 260.17 L1101.4 257.94" fill="none" stroke="#E8A33D" stroke-width="3"/>
+      <circle cx="518.6" cy="497.5" r="5" fill="#E8A33D"/>
+      <circle cx="615.7" cy="457" r="5" fill="#E8A33D"/>
+      <circle cx="712.9" cy="277.9" r="5" fill="#E8A33D"/>
+      <circle cx="810" cy="274.6" r="5" fill="#E8A33D"/>
+      <circle cx="907.1" cy="265.03" r="5" fill="#E8A33D"/>
+      <circle cx="1004.3" cy="260.17" r="5" fill="#E8A33D"/>
+      <circle cx="1101.4" cy="257.94" r="5" fill="#E8A33D"/>
+      <text x="518.6" y="483.5" font-size="18" font-weight="bold" fill="#E8A33D" text-anchor="middle">100</text>
+      <text x="1101.4" y="244" font-size="18" font-weight="bold" fill="#E8A33D" text-anchor="middle">1164.7</text>
+    </g>
+    <text x="458" y="526" font-size="18" fill="#93AEC8" text-anchor="end">0</text>
+    <text x="458" y="436" font-size="18" fill="#93AEC8" text-anchor="end">400</text>
+    <text x="458" y="346" font-size="18" fill="#93AEC8" text-anchor="end">800</text>
+    <text x="458" y="256" font-size="18" fill="#93AEC8" text-anchor="end">1200</text>
+    <text x="518.6" y="548" font-size="18" fill="#93AEC8" text-anchor="middle">建成之初</text>
+    <text x="615.7" y="548" font-size="18" fill="#93AEC8" text-anchor="middle">1949年前</text>
+    <text x="712.9" y="548" font-size="18" fill="#93AEC8" text-anchor="middle">2018</text>
+    <text x="810" y="548" font-size="18" fill="#93AEC8" text-anchor="middle">2021</text>
+    <text x="907.1" y="548" font-size="18" fill="#93AEC8" text-anchor="middle">2023</text>
+    <text x="1004.3" y="548" font-size="18" fill="#93AEC8" text-anchor="middle">2024</text>
+    <text x="1101.4" y="548" font-size="18" fill="#93AEC8" text-anchor="middle">2025计划</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1"/>
+    <text x="72" y="668" font-size="16" fill="#93AEC8">来源：人民网（2018-09-14）；中新网（2024-03-20）；四川在线（2025-04）。跨来源口径为本讲整理并列。</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">11 / 14</text>
+  </g>
+</svg>

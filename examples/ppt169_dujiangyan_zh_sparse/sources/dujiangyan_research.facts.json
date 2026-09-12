@@ -1,0 +1,246 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "都江堰水利工程",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "都江堰灌溉系统始建于公元前3世纪，由秦国蜀郡太守李冰主持修建；联合国教科文组织记为约公元前256年动工。",
+      "source_title": "Mount Qingcheng and the Dujiangyan Irrigation System - UNESCO World Heritage Centre",
+      "source_url": "https://whc.unesco.org/en/list/1001/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "公元前256年李冰任蜀郡太守，率部属沿岷江实地考察，把引水口选在成都平原冲积扇顶部的灌县玉垒山处。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "都江堰渠首枢纽的三大主体工程是鱼嘴分水堤、飞沙堰溢洪坝和宝瓶口引水口，三者相辅相成、协调运行。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "鱼嘴的作用是“平旱潦，分四六”：洪水季节外江占约60%流量，枯水季节内江占约60%流量。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "都江堰三大工程利用“凹岸取水、凸岸排沙”的河湾水流原理：鱼嘴“分流分沙”、飞沙堰“泄洪排沙”、宝瓶口“限洪引水”。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "飞沙堰是由内江通往外江的旁侧溢流堰，堰口宽240米，堰坝高出河床2米，具有拦引春水、排泄洪水、排砂石的功能。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "宝瓶口是内江灌区的总进水口，平均口宽20米；因过水断面狭窄而具有天然节制闸的作用。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "宝瓶口左岸石壁上刻有“水则”共二十四划，每划一市尺（1/3米），用以观测水位涨落。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "都江堰的治水格言“深淘滩，低作堰”“逢正抽心，遇弯截角”作为遗迹保存至今，其中“深淘滩，低作堰”镶嵌于二王庙石壁。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "从宋代开始，都江堰的岁修成为定制；历史上鱼嘴曾多次改建，现鱼嘴系1936年始建，1974年修建外江闸时用混凝土和浆砌卵石覆盖加固，2002年冬修再以钢筋混凝土加固基础。",
+      "source_title": "以水为师都江堰 — 水利文明网",
+      "source_url": "http://slwm.mwr.gov.cn/wllm/rhal/n01/202209/t20220903_1337304.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "都江堰工程以无坝引水为特征，利用天然地形与水文条件解决引水灌溉、排沙、防洪与流量控制问题；渠首枢纽位于海拔726米、距都江堰市1公里处，是成都平原的最高点。",
+      "source_title": "Mount Qingcheng and the Dujiangyan Irrigation System - UNESCO World Heritage Centre",
+      "source_url": "https://whc.unesco.org/en/list/1001/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "“青城山—都江堰”于2000年被联合国教科文组织列入《世界遗产名录》（编号1001），依据文化遗产标准 (ii)(iv)(vi)。",
+      "source_title": "Mount Qingcheng and the Dujiangyan Irrigation System - UNESCO World Heritage Centre",
+      "source_url": "https://whc.unesco.org/en/list/1001/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "世界遗产标准 (ii) 的评语指出：都江堰是水管理与技术发展史上的重大里程碑，至今仍在完美地履行其功能。",
+      "source_title": "Mount Qingcheng and the Dujiangyan Irrigation System - UNESCO World Heritage Centre",
+      "source_url": "https://whc.unesco.org/en/list/1001/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "在2008年5月12日四川地震中，都江堰水利工程基本未受损坏（部分道教建筑受到不同程度损伤）。",
+      "source_title": "Mount Qingcheng and the Dujiangyan Irrigation System - UNESCO World Heritage Centre",
+      "source_url": "https://whc.unesco.org/en/list/1001/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "加拿大时间2018年8月13日晚，在加拿大萨斯卡通召开的国际灌溉排水委员会第69届国际执行理事会上，都江堰水利工程通过2018年度评选，正式列入世界灌溉工程遗产名录。",
+      "source_title": "都江堰水利工程成功列入世界灌溉工程遗产名录 — 中国新闻网",
+      "source_url": "https://www.chinanews.com.cn/sh/2018/08-14/8599224.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "都江堰是继2000年青城山—都江堰列入世界文化遗产、2006年入选世界自然遗产“四川大熊猫栖息地”重要组成部分之后第三次列入世界遗产名录，成为全球为数不多同时拥有3个世界遗产的城市。",
+      "source_title": "都江堰水利工程成功列入世界灌溉工程遗产名录 — 中国新闻网",
+      "source_url": "https://www.chinanews.com.cn/sh/2018/08-14/8599224.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "都江堰水利工程建成之初仅灌溉蜀、广汉、犍为3郡，农田万顷（约100万亩）；宋代扩至12个县；1949年新中国成立前灌区扩大到14个县、受益农田280万亩。",
+      "source_title": "成都平原何以成“天府之国”？都江堰，一水润泽万顷田 — 人民网",
+      "source_url": "http://country.people.com.cn/gb/n1/2018/0914/c419842-30292746.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "2018年时都江堰灌区实际幅员面积2.32万平方公里，惠及7市38个县（市、区）的1076万亩农田，并提供生活、生产与生态用水。",
+      "source_title": "成都平原何以成“天府之国”？都江堰，一水润泽万顷田 — 人民网",
+      "source_url": "http://country.people.com.cn/gb/n1/2018/0914/c419842-30292746.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "都江堰市距成都市区仅50公里，海拔落差却达273米；汛期江水顺势而下、水流湍急，历史上易成灾害。",
+      "source_title": "成都平原何以成“天府之国”？都江堰，一水润泽万顷田 — 人民网",
+      "source_url": "http://country.people.com.cn/gb/n1/2018/0914/c419842-30292746.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "都江堰灌区2024年灌溉面积达1154.8万亩，较2023年的1133.2万亩增长21.6万亩，稳居全国大型灌区第一；其中成都566.9万亩、眉山177.2万亩、德阳245.5万亩。",
+      "source_title": "保供灌面将达1154.8万亩 四川都江堰灌区春灌工作全面启幕 — 中国新闻网",
+      "source_url": "https://www.chinanews.com.cn/sh/2024/03-20/10183801.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "2021—2023年都江堰灌区通过续建配套与现代化改造，改善灌溉面积62.81万亩，新增节水能力7885万立方米；2024年灌区预测用水需求86.27亿立方米。",
+      "source_title": "保供灌面将达1154.8万亩 四川都江堰灌区春灌工作全面启幕 — 中国新闻网",
+      "source_url": "https://www.chinanews.com.cn/sh/2024/03-20/10183801.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "2025年都江堰灌区计划用水面积达1164.7万亩，确保605万亩水稻满栽满插；灌面从一体化管理改革前（2021年）的1090.6万亩增至2024年的1154.8万亩。",
+      "source_title": "全国第一大灌区继续长大，都江堰供水将首入川南 — 四川在线（四川日报）",
+      "source_url": "https://sichuan.scol.com.cn/ggxw/202504/82940229.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "2025年都江堰灌区供水范围从7市40县（市、区）扩大到成都、德阳、绵阳、遂宁、乐山、眉山、资阳、内江等8市41县（市、区），首次进入川南经济区，计划全年向资中县供水1044万立方米。",
+      "source_title": "全国第一大灌区继续长大，都江堰供水将首入川南 — 四川在线（四川日报）",
+      "source_url": "https://sichuan.scol.com.cn/ggxw/202504/82940229.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "都江堰灌区常住人口达3142万人，以占四川省约二十分之一的土地面积，提供了全省四分之一的粮食产能。",
+      "source_title": "全国第一大灌区继续长大，都江堰供水将首入川南 — 四川在线（四川日报）",
+      "source_url": "https://sichuan.scol.com.cn/ggxw/202504/82940229.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "四川省都江堰水利发展中心于2021年11月26日正式挂牌成立，统筹推进灌区一体化改革；都江堰灌区是四川省首家通过水利部大中型灌区标准化管理部级评价的大型灌区。",
+      "source_title": "都江堰灌区：千年古堰多点突破 为高质量发展注入强劲动力 — 中国水利网",
+      "source_url": "https://www.chinawater.com.cn/ztgz/ggzq/2024gqggksc/1/202401/t20240116_1037079.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "都江堰灌区建成灌区“智慧水网”：完成关键控制断面1264处计量设施建设和293处闸门自动化改造，建成89处AI视频识别点位、81处视频监控和163处工情监测点，接入视频监控点451处。",
+      "source_title": "都江堰灌区：千年古堰多点突破 为高质量发展注入强劲动力 — 中国水利网",
+      "source_url": "https://www.chinawater.com.cn/ztgz/ggzq/2024gqggksc/1/202401/t20240116_1037079.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "都江堰灌区渠系规模：干渠及分干渠111条长3567公里，灌溉万亩以上的支渠268条长3354公里，支渠以下各级末级渠道长达3.5万余公里；有大型水库3座、中型水库15座，总蓄水量18.54亿立方米（2018年数据）。",
+      "source_title": "成都平原何以成“天府之国”？都江堰，一水润泽万顷田 — 人民网",
+      "source_url": "http://country.people.com.cn/gb/n1/2018/0914/c419842-30292746.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "按总体规划，都江堰灌区幅员面积为2.86万平方公里，远期灌溉面积1500万亩，覆盖8市42个县（市、区）。",
+      "source_title": "成都平原何以成“天府之国”？都江堰，一水润泽万顷田 — 人民网",
+      "source_url": "http://country.people.com.cn/gb/n1/2018/0914/c419842-30292746.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "党的十八大以来，都江堰灌区共投入38.83亿元用于续建配套与节水改造、水毁工程修复和日常岁修维护，新建、改建、扩建渠道1338公里。",
+      "source_title": "成都平原何以成“天府之国”？都江堰，一水润泽万顷田 — 人民网",
+      "source_url": "http://country.people.com.cn/gb/n1/2018/0914/c419842-30292746.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "联合国教科文组织描述：都江堰历经唐、宋、元、明各代改建扩建，至今灌溉668,700公顷农田。",
+      "source_title": "Mount Qingcheng and the Dujiangyan Irrigation System - UNESCO World Heritage Centre",
+      "source_url": "https://whc.unesco.org/en/list/1001/",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    }
+  ]
+}

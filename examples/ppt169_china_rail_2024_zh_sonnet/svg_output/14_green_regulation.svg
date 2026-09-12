@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="16" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p14-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C"/><stop offset="100%" stop-color="#C81E3A"/>
+    </linearGradient>
+    <linearGradient id="p14-photo-wash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#08152A" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#08152A" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#08152A" stop-opacity="0.62"/>
+    </linearGradient>
+    <clipPath id="p14-photo-clip"><rect x="64" y="430" width="340" height="192" rx="14"/></clipPath>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA"/>
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">11 · 绿色低碳与监管</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="36" font-weight="bold" fill="#14335C">总能耗随运量增长,主要污染物排放同比下降</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#p14-accent-bar)"/>
+  </g>
+
+  <g id="energy-yoy" data-pptx-bounds="64 176 340 224" data-pptx-replace-with="chart" data-pptx-fallback-sha256="0dacfe38cfdca7a8017a477a60104549defd15de617ba98815c889e40a34d7bc">
+    <metadata type="application/json">
+    { "x": 64, "y": 176, "width": 340, "height": 224, "name": "energy-yoy", "type": "column",
+      "title": "综合能耗(万吨标准煤)",
+      "plot_area": {"x": 64, "y": 220, "width": 340, "height": 150},
+      "categories": ["上年", "本年"],
+      "series": [{"name": "综合能耗", "values": [1752.7, 1801.2]}],
+      "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0.0"},
+      "axes": {"category": {"kind": "text", "visible": true}, "value": {"kind": "value", "visible": false}},
+      "style": {"axis_color": "#5B6472", "colors": ["#9AA5B1", "#14335C"]}    }
+    </metadata>
+    <text x="64" y="196" font-size="18" font-weight="bold" fill="#14335C">综合能耗(万吨标准煤)</text>
+    <g id="energy-yoy-chartArea">
+      <line x1="64" y1="370" x2="404" y2="370" stroke="#5B6472" stroke-width="1.5"/>
+      <!-- chart-plot-area: object=energy-yoy | 64,220,404,370 -->
+      <rect x="124" y="224.0" width="70" height="146.0" fill="#9AA5B1"/>
+      <text x="159" y="216" font-size="15" font-family="Consolas, Courier New" text-anchor="middle">1752.7</text>
+      <text x="159" y="390" font-size="15" text-anchor="middle">上年</text>
+      <rect x="274" y="220.0" width="70" height="150.0" fill="#14335C"/>
+      <text x="309" y="212" font-size="15" font-family="Consolas, Courier New" text-anchor="middle" fill="#14335C" font-weight="bold">1801.2</text>
+      <text x="309" y="390" font-size="15" text-anchor="middle">本年</text>
+    </g>
+  </g>
+
+  <g id="cod-yoy" data-pptx-bounds="424 176 340 224" data-pptx-replace-with="chart" data-pptx-fallback-sha256="293a253ddcb7c8cfea880095061014da7619689c930d7fc79396d2b9ce2dc1a9">
+    <metadata type="application/json">
+    { "x": 424, "y": 176, "width": 340, "height": 224, "name": "cod-yoy", "type": "column",
+      "title": "化学需氧量排放量(吨)",
+      "plot_area": {"x": 424, "y": 220, "width": 340, "height": 150},
+      "categories": ["上年", "本年"],
+      "series": [{"name": "化学需氧量", "values": [1467, 1337]}],
+      "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0"},
+      "axes": {"category": {"kind": "text", "visible": true}, "value": {"kind": "value", "visible": false}},
+      "style": {"axis_color": "#5B6472", "colors": ["#9AA5B1", "#2E7D32"]}    }
+    </metadata>
+    <text x="424" y="196" font-size="18" font-weight="bold" fill="#14335C">化学需氧量排放量(吨)</text>
+    <g id="cod-yoy-chartArea">
+      <line x1="424" y1="370" x2="764" y2="370" stroke="#5B6472" stroke-width="1.5"/>
+      <!-- chart-plot-area: object=cod-yoy | 424,220,764,370 -->
+      <rect x="484" y="220.0" width="70" height="150.0" fill="#9AA5B1"/>
+      <text x="519" y="212" font-size="15" font-family="Consolas, Courier New" text-anchor="middle">1467</text>
+      <text x="519" y="390" font-size="15" text-anchor="middle">上年</text>
+      <rect x="634" y="233.3" width="70" height="136.7" fill="#2E7D32"/>
+      <text x="669" y="225.3" font-size="15" font-family="Consolas, Courier New" text-anchor="middle" fill="#2E7D32" font-weight="bold">1337</text>
+      <text x="669" y="390" font-size="15" text-anchor="middle">本年</text>
+    </g>
+  </g>
+
+  <g id="so2-yoy" data-pptx-bounds="784 176 340 224" data-pptx-replace-with="chart" data-pptx-fallback-sha256="d11f51bab5475f403593e802b674a25bdcd5f152849c56e3b555d2d2532fa5c6">
+    <metadata type="application/json">
+    { "x": 784, "y": 176, "width": 340, "height": 224, "name": "so2-yoy", "type": "column",
+      "title": "二氧化硫排放量(吨)",
+      "plot_area": {"x": 784, "y": 220, "width": 340, "height": 150},
+      "categories": ["上年", "本年"],
+      "series": [{"name": "二氧化硫", "values": [652, 456]}],
+      "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0"},
+      "axes": {"category": {"kind": "text", "visible": true}, "value": {"kind": "value", "visible": false}},
+      "style": {"axis_color": "#5B6472", "colors": ["#9AA5B1", "#2E7D32"]}    }
+    </metadata>
+    <text x="784" y="196" font-size="18" font-weight="bold" fill="#14335C">二氧化硫排放量(吨)</text>
+    <g id="so2-yoy-chartArea">
+      <line x1="784" y1="370" x2="1124" y2="370" stroke="#5B6472" stroke-width="1.5"/>
+      <!-- chart-plot-area: object=so2-yoy | 784,220,1124,370 -->
+      <rect x="844" y="220.0" width="70" height="150.0" fill="#9AA5B1"/>
+      <text x="879" y="212" font-size="15" font-family="Consolas, Courier New" text-anchor="middle">652</text>
+      <text x="879" y="390" font-size="15" text-anchor="middle">上年</text>
+      <rect x="994" y="265.1" width="70" height="104.9" fill="#2E7D32"/>
+      <text x="1029" y="257.1" font-size="15" font-family="Consolas, Courier New" text-anchor="middle" fill="#2E7D32" font-weight="bold">456</text>
+      <text x="1029" y="390" font-size="15" text-anchor="middle">本年</text>
+    </g>
+  </g>
+
+  <g id="green-photo" data-pptx-bounds="64 430 340 192">
+    <image href="../images/qinghai_green.jpg" x="64" y="430" width="340" height="192" preserveAspectRatio="xMidYMid slice" clip-path="url(#p14-photo-clip)"/>
+    <rect x="64" y="430" width="340" height="192" rx="14" fill="url(#p14-photo-wash)"/>
+    <text x="84" y="596" font-size="16" font-weight="bold" fill="#FFFFFF">青藏铁路车窗</text>
+    <text x="84" y="614" font-size="13" fill="#E7EAF1">图片:<a href="https://commons.wikimedia.org/wiki/File:Compartment_Qinghai_Tibet_Railway_Xining_Qinghai_China_%E9%9D%92%E6%B5%B7_%E9%9D%92%E8%97%8F%E9%93%81%E8%B7%AF_-_panoramio.jpg"><tspan text-decoration="underline">Hiroki Ogawa, CC BY 3.0</tspan></a></text>
+  </g>
+
+  <g id="regulation-stats" data-pptx-bounds="424 430 792 192">
+    <text x="424" y="450" font-size="18" font-weight="bold" fill="#14335C">行业监管</text>
+    <text x="424" y="476" font-size="16">1部规章、7件行政规范性文件完成制定修订并公布;行政许可决定书<tspan font-family="Consolas, Courier New" font-weight="bold">622</tspan>件</text>
+    <text x="424" y="500" font-size="16">运输企业累计<tspan font-weight="bold">81</tspan>家 · 基础设备生产企业累计<tspan font-weight="bold">116</tspan>家 · 进口企业累计<tspan font-weight="bold">124</tspan>家 · 无线电台站企业累计<tspan font-weight="bold">336</tspan>家</text>
+    <text x="424" y="524" font-size="16">机车车辆驾驶人员累计<tspan font-family="Consolas, Courier New" font-weight="bold">220308</tspan>人(全年新增10933人)</text>
+    <text x="424" y="548" font-size="16">行政处罚<tspan font-weight="bold">198</tspan>起,作出处罚决定<tspan font-weight="bold">383</tspan>个;预警262次 · 通报333次 · 约谈68次 · 挂牌督办24次</text>
+    <text x="424" y="580" font-size="15" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第9页</text>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 662 1152 30">
+    <line x1="64" y1="662" x2="1216" y2="662" stroke="#D7DBE3" stroke-width="1"/>
+    <text x="64" y="686" font-size="16" fill="#5B6472">来源:国家铁路局《2024年铁道统计公报》第7-9页</text>
+    <text x="1216" y="686" font-size="16" fill="#5B6472" text-anchor="end">14 / 15</text>
+  </g>
+</svg>

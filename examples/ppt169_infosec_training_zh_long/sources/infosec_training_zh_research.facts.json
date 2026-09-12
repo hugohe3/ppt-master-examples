@@ -1,0 +1,670 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "面向中国大陆企业新员工的《信息安全意识培训（2026版）》事实底座",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "《网络安全法》2016年11月7日十二届全国人大常委会第二十四次会议通过，根据2025年10月28日十四届全国人大常委会第十八次会议《关于修改〈中华人民共和国网络安全法〉的决定》修正；这是该法自2016年制定以来的首次修改。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "修正后的《网络安全法》全文共81条，较2016年版的79条净增2条，导致第十二条之后的条文序号整体后移（2016年版第21条等级保护条款在修正后为第二十三条，第27条危害网络安全活动条款为第二十九条，第40至43条个人信息条款为第四十二至四十五条）。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "修正后《网络安全法》第八十一条仍规定“本法自2017年6月1日起施行”；2026年1月1日是全国人大常委会修改决定的生效日期，而非该法的原始施行日期。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "《网络安全法》（2025年修正）第十三条第二款规定，任何个人和组织使用网络应当遵守宪法法律，不得危害网络安全，不得利用网络从事危害国家安全、传播暴力淫秽色情信息、编造传播虚假信息扰乱经济秩序和社会秩序，以及侵害他人名誉、隐私、知识产权和其他合法权益等活动。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "《网络安全法》（2025年修正）第二十三条确立网络安全等级保护制度，要求网络运营者制定内部安全管理制度和操作规程、确定网络安全负责人，并采取监测记录网络运行状态和网络安全事件的技术措施，“按照规定留存相关的网络日志不少于六个月”。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "《网络安全法》（2025年修正）第二十三条第（四）项要求网络运营者采取数据分类、重要数据备份和加密等措施。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "《网络安全法》（2025年修正）第二十七条要求网络运营者制定网络安全事件应急预案，及时处置系统漏洞、计算机病毒、网络攻击、网络侵入等风险；发生危害网络安全的事件时立即启动预案、采取补救措施并按规定向有关主管部门报告。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "《网络安全法》（2025年修正）第二十九条规定，任何个人和组织不得从事非法侵入他人网络、干扰他人网络正常功能、窃取网络数据等危害网络安全的活动，不得提供相关程序工具，明知他人从事危害网络安全活动的不得提供技术支持、广告推广、支付结算等帮助。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "《网络安全法》（2025年修正）第四十三条要求网络运营者收集、使用个人信息遵循合法、正当、必要原则，公开收集使用规则、明示目的方式范围并经被收集者同意，且不得收集与所提供服务无关的个人信息。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "《网络安全法》（2025年修正）第四十四条规定网络运营者不得泄露、篡改、毁损其收集的个人信息，未经同意不得向他人提供；发生或可能发生个人信息泄露、毁损、丢失时应立即采取补救措施，按规定及时告知用户并向有关主管部门报告。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "《网络安全法》（2025年修正）第四十五条赋予个人要求网络运营者删除其个人信息、更正错误个人信息的权利。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "《网络安全法》（2025年修正）第四十六条规定，任何个人和组织不得窃取或者以其他非法方式获取个人信息，不得非法出售或者非法向他人提供个人信息。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "《网络安全法》（2025年修正）第四十八条规定，任何个人和组织应当对其使用网络的行为负责，不得设立用于实施诈骗、传授犯罪方法、制作或销售违禁物品等违法犯罪活动的网站、通讯群组。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "《网络安全法》（2025年修正）第六十一条第一款规定，网络运营者不履行第二十三条、第二十七条网络安全保护义务的，责令改正、给予警告，可处一万元以上五万元以下罚款；拒不改正或导致危害网络安全等后果的，处五万元以上五十万元以下罚款，对直接负责的主管人员和其他直接责任人员处一万元以上十万元以下罚款。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "《网络安全法》（2025年修正）第六十一条第三款为新增的加重罚则：造成大量数据泄露、关键信息基础设施丧失局部功能等严重后果的，处五十万元以上二百万元以下罚款，对直接负责的主管人员和其他直接责任人员处五万元以上二十万元以下罚款；造成关键信息基础设施丧失主要功能等特别严重后果的，处二百万元以上一千万元以下罚款，对直接负责的主管人员和其他直接责任人员处二十万元以上一百万元以下罚款。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "《网络安全法》（2025年修正）第六十六条第一款规定，违反第二十九条从事危害网络安全活动尚不构成犯罪的，由公安机关没收违法所得，处五日以下拘留，可以并处五万元以上五十万元以下罚款；情节较重的，处五日以上十五日以下拘留，可以并处十万元以上一百万元以下罚款。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "《网络安全法》（2025年修正）第六十六条第三款规定，违反第二十九条受到治安管理处罚的人员，五年内不得从事网络安全管理和网络运营关键岗位的工作；受到刑事处罚的人员，终身不得从事网络安全管理和网络运营关键岗位的工作。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "《网络安全法》（2025年修正）第七十一条将侵害个人信息权益的违法行为（违反第二十四条第三款、第四十三条至第四十五条）改为“依照有关法律、行政法规的规定处理、处罚”，不再在本法中直接规定罚款数额，实践中转致《个人信息保护法》。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "《网络安全法》（2025年修正）第二十二条规定，国家支持企业和高等学校、职业学校等教育培训机构开展网络安全相关教育与培训，采取多种方式培养网络安全人才。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "《网络安全法》（2025年修正）第二十条为本次修正新增的人工智能条款，规定国家支持人工智能基础理论研究和算法等关键技术研发，完善人工智能伦理规范，加强风险监测评估和安全监管。",
+      "source_title": "中华人民共和国网络安全法",
+      "source_url": "https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "《数据安全法》2021年6月10日第十三届全国人大常委会第二十九次会议通过，自2021年9月1日起施行；该法第三条将“数据”定义为任何以电子或者其他方式对信息的记录。",
+      "source_title": "中华人民共和国数据安全法",
+      "source_url": "http://www.npc.gov.cn/npc///c2/c30834/202106/t20210610_311888.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "《数据安全法》第二十七条要求开展数据处理活动建立健全全流程数据安全管理制度、“组织开展数据安全教育培训”，并在网络安全等级保护制度的基础上履行数据安全保护义务。",
+      "source_title": "中华人民共和国数据安全法",
+      "source_url": "http://www.npc.gov.cn/npc///c2/c30834/202106/t20210610_311888.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "《数据安全法》第二十九条要求开展数据处理活动加强风险监测，发现数据安全缺陷、漏洞等风险时立即采取补救措施；发生数据安全事件时立即处置，按规定及时告知用户并向有关主管部门报告。",
+      "source_title": "中华人民共和国数据安全法",
+      "source_url": "http://www.npc.gov.cn/npc///c2/c30834/202106/t20210610_311888.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "《数据安全法》第三十条要求重要数据的处理者按规定对其数据处理活动定期开展风险评估，并向有关主管部门报送风险评估报告。",
+      "source_title": "中华人民共和国数据安全法",
+      "source_url": "http://www.npc.gov.cn/npc///c2/c30834/202106/t20210610_311888.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "《数据安全法》第三十二条规定，任何组织、个人收集数据应当采取合法、正当的方式，不得窃取或者以其他非法方式获取数据。",
+      "source_title": "中华人民共和国数据安全法",
+      "source_url": "http://www.npc.gov.cn/npc///c2/c30834/202106/t20210610_311888.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "《数据安全法》第四十五条规定，不履行第二十七条、第二十九条、第三十条数据安全保护义务的，责令改正、给予警告，可并处五万元以上五十万元以下罚款，对直接负责的主管人员和其他直接责任人员可处一万元以上十万元以下罚款；拒不改正或造成大量数据泄露等严重后果的，处五十万元以上二百万元以下罚款，对直接负责的主管人员和其他直接责任人员处五万元以上二十万元以下罚款。",
+      "source_title": "中华人民共和国数据安全法",
+      "source_url": "http://www.npc.gov.cn/npc///c2/c30834/202106/t20210610_311888.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "《个人信息保护法》2021年8月20日第十三届全国人大常委会第三十次会议通过，自2021年11月1日起施行。",
+      "source_title": "中华人民共和国个人信息保护法",
+      "source_url": "http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "《个人信息保护法》第五条至第七条确立处理个人信息的基本原则：合法、正当、必要和诚信，不得通过误导欺诈胁迫方式处理；目的明确合理且与处理目的直接相关、采取对个人权益影响最小的方式；公开透明并明示处理的目的、方式和范围。",
+      "source_title": "中华人民共和国个人信息保护法",
+      "source_url": "http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "《个人信息保护法》第十条规定，任何组织、个人不得非法收集、使用、加工、传输他人个人信息，不得非法买卖、提供或者公开他人个人信息。",
+      "source_title": "中华人民共和国个人信息保护法",
+      "source_url": "http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "《个人信息保护法》第五十一条第（四）项要求个人信息处理者“合理确定个人信息处理的操作权限，并定期对从业人员进行安全教育和培训”；同条还要求制定内部管理制度和操作规程、对个人信息实行分类管理、采取加密和去标识化等安全技术措施、制定并组织实施个人信息安全事件应急预案。",
+      "source_title": "中华人民共和国个人信息保护法",
+      "source_url": "http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "《个人信息保护法》第五十七条规定，发生或者可能发生个人信息泄露、篡改、丢失的，个人信息处理者应当立即采取补救措施，并通知履行个人信息保护职责的部门和个人；通知内容须包括信息种类、原因和可能造成的危害，已采取的补救措施和个人可采取的减轻危害措施，以及处理者的联系方式。",
+      "source_title": "中华人民共和国个人信息保护法",
+      "source_url": "http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "《个人信息保护法》第六十六条第一款规定，违法处理个人信息或未履行个人信息保护义务的，责令改正、警告、没收违法所得，对违法处理个人信息的应用程序责令暂停或终止提供服务；拒不改正的并处一百万元以下罚款，对直接负责的主管人员和其他直接责任人员处一万元以上十万元以下罚款。",
+      "source_title": "中华人民共和国个人信息保护法",
+      "source_url": "http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "《个人信息保护法》第六十六条第二款规定，情节严重的由省级以上部门责令改正、没收违法所得，并处五千万元以下或者上一年度营业额百分之五以下罚款，可责令暂停业务、停业整顿、吊销许可或营业执照；对直接负责的主管人员和其他直接责任人员处十万元以上一百万元以下罚款，并可决定禁止其在一定期限内担任相关企业的董事、监事、高级管理人员和个人信息保护负责人。",
+      "source_title": "中华人民共和国个人信息保护法",
+      "source_url": "http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "国家标准GB/T 22239-2019《信息安全技术 网络安全等级保护基本要求》（英文名 Information security technology—Baseline for classified protection of cybersecurity）于2019年5月10日发布、2019年12月1日实施，标准状态为“现行”，归口单位为全国网络安全标准化技术委员会，全部代替GB/T 22239-2008。",
+      "source_title": "信息安全技术 网络安全等级保护基本要求（GB/T 22239-2019）国家标准全文公开系统标准详情",
+      "source_url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=88F4E6DA63434198E05397BE0A0ADE2D",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "《网络数据安全管理条例》以国务院令第790号公布，自2025年1月1日起施行，共9章64条。",
+      "source_title": "网络数据安全管理条例",
+      "source_url": "https://www.cac.gov.cn/2024-09/30/c_1729384452307680.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "《网络数据安全管理条例》第十条规定，网络数据处理者发现其网络产品、服务存在安全缺陷、漏洞等风险时应立即采取补救措施并按规定告知用户、向有关主管部门报告；涉及危害国家安全、公共利益的，还应当在24小时内向有关主管部门报告。",
+      "source_title": "网络数据安全管理条例",
+      "source_url": "https://www.cac.gov.cn/2024-09/30/c_1729384452307680.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "《网络数据安全管理条例》第十一条要求建立健全网络数据安全事件应急预案，发生事件立即启动预案并按规定报告；事件危害个人、组织合法权益的，应及时以电话、短信、即时通信工具、电子邮件或公告等方式通知利害关系人；处置中发现涉嫌违法犯罪线索的，应按规定向公安机关、国家安全机关报案。",
+      "source_title": "网络数据安全管理条例",
+      "source_url": "https://www.cac.gov.cn/2024-09/30/c_1729384452307680.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "《网络数据安全管理条例》第三十条要求重要数据处理者明确网络数据安全负责人和管理机构，定期组织开展风险监测、风险评估、应急演练、宣传教育培训等活动；掌握特定种类、规模重要数据的处理者还应对安全负责人和关键岗位人员进行安全背景审查并加强培训。",
+      "source_title": "网络数据安全管理条例",
+      "source_url": "https://www.cac.gov.cn/2024-09/30/c_1729384452307680.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "《刑法》第二百五十三条之一规定侵犯公民个人信息罪；法释〔2017〕10号《最高人民法院、最高人民检察院关于办理侵犯公民个人信息刑事案件适用法律若干问题的解释》自2017年6月1日起施行，规定“情节严重”的数量门槛为：行踪轨迹信息、通信内容、征信信息、财产信息五十条以上；住宿信息、通信记录、健康生理信息、交易信息等其他可能影响人身财产安全的信息五百条以上；其他公民个人信息五千条以上；违法所得五千元以上。",
+      "source_title": "两高发布办理侵犯公民个人信息刑事案件司法解释",
+      "source_url": "https://www.court.gov.cn/zixun/xiangqing/43932.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "法释〔2017〕10号司法解释规定，将在履行职责或者提供服务过程中获得的公民个人信息出售或者提供给他人的，数量或数额达到一般标准一半以上即构成“情节严重”，即在职员工利用职务便利泄露信息的入罪门槛减半。",
+      "source_title": "两高发布办理侵犯公民个人信息刑事案件司法解释",
+      "source_url": "https://www.court.gov.cn/zixun/xiangqing/43932.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "2022年7月21日，国家互联网信息办公室依据《网络安全法》《数据安全法》《个人信息保护法》《行政处罚法》，对滴滴全球股份有限公司处人民币80.26亿元罚款，并对董事长兼CEO程维、总裁柳青各处人民币100万元罚款。",
+      "source_title": "国家互联网信息办公室对滴滴全球股份有限公司依法作出网络安全审查相关行政处罚的决定",
+      "source_url": "https://www.cac.gov.cn/2022-07/21/c_1660021534306352.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "2023年9月1日，国家互联网信息办公室对知网（CNKI）作出网络安全审查相关行政处罚，责令停止违法处理个人信息行为并处人民币5000万元罚款；其手机知网、知网阅读等14款App存在违反必要原则收集个人信息、未经同意收集个人信息、未提供账号注销功能、注销后未及时删除个人信息等违法行为。",
+      "source_title": "国家互联网信息办公室对知网（CNKI）依法作出网络安全审查相关行政处罚",
+      "source_url": "https://www.cac.gov.cn/2023-09/06/c_1695654024248502.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "2024年全国公安机关深入推进“净网”专项行动，共侦破侵犯公民个人信息相关案件7000余起；公安部于2025年3月18日公布10起打击侵犯公民个人信息犯罪典型案例。",
+      "source_title": "公安部公布打击侵犯公民个人信息犯罪典型案例",
+      "source_url": "https://www.news.cn/government/20250319/ccb83f5cfae146958b9e2372ada049f4/c.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "公安部2025年3月公布的典型案例中，北京海淀案的犯罪团伙“制作木马程序，组织人员入职目标教培机构，定向投放木马程序非法控制教培机构内部计算机，窃取客户资料等个人信息”，抓获犯罪嫌疑人8名——攻击者以应聘入职方式把内部人员作为入侵通道。",
+      "source_title": "公安部公布打击侵犯公民个人信息犯罪典型案例",
+      "source_url": "https://www.news.cn/government/20250319/ccb83f5cfae146958b9e2372ada049f4/c.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "公安部2025年3月公布的典型案例中，甘肃张掖案自2023年2月起由犯罪团伙“勾结快递行业工作人员”，利用技术手段窃取快递订单个人信息并出售牟利，2024年3月抓获犯罪嫌疑人18名，涉案金额300余万元。",
+      "source_title": "公安部公布打击侵犯公民个人信息犯罪典型案例",
+      "source_url": "https://www.news.cn/government/20250319/ccb83f5cfae146958b9e2372ada049f4/c.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "公安部2025年3月公布的典型案例中，四川凉山案的犯罪嫌疑人彭某“利用开发运维在线学习平台的工作便利，非法获取、出售他人个人信息”，该案共抓获犯罪嫌疑人45名。",
+      "source_title": "公安机关公布打击侵犯公民个人信息犯罪典型案例",
+      "source_url": "https://www.news.cn/20250318/f5a19c2016e647a9a4679711e677713c/c.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "2025年5月6日，中央网信办会同工业和信息化部、公安部、市场监管总局通报15款App和16款SDK的个人信息收集使用问题：15款App未逐一列出收集使用个人信息的SDK、未准确列出SDK收集使用个人信息的目的方式范围；16款SDK未提供个人信息收集使用规则、未说明响应用户个人信息权利请求的措施、未及时响应用户投诉举报。",
+      "source_title": "关于15款App和16款SDK个人信息收集使用问题的通报",
+      "source_url": "https://www.cac.gov.cn/2025-05/06/c_1748239411359045.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "工业和信息化部2025年8月4日发布《关于侵害用户权益行为的APP（SDK）通报》（2025年第4批，总第49批），通报23款存在违法违规收集使用个人信息等问题的App及SDK，依据为《个人信息保护法》《网络安全法》《电信条例》《电信和互联网用户个人信息保护规定》。",
+      "source_title": "关于侵害用户权益行为的APP（SDK）通报（2025年第4批，总第49批）",
+      "source_url": "https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2025/art_eae96df5f3c043aca3d280ee3d4036d1.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "2026年5月22日CNCERT发布风险提示：银狐远控木马通过批量生成的高仿真钓鱼网站大规模传播；对2026年2月6日至5月4日注册的439个钓鱼网站域名分析发现，仿冒wps、chrome的域名合计340个占77.4%，域名后缀hl.cn占42.6%、com.cn占30.8%，最高峰一分钟内注册15条letsvpn相关域名。",
+      "source_title": "关于黑产团伙批量搭建高仿真钓鱼网站大规模传播银狐木马的风险提示",
+      "source_url": "https://www.cert.org.cn/publish/main/10/2026/20260522113326926111046/20260522113326926111046_.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F050",
+      "claim": "CNCERT 2026年5月的分析判断，该批钓鱼页面疑似由AI编码快速生成：页面呈现高度标准化的前端结构与规整HTML注释，同一仿冒主题在不同时间注册的页面布局内容并不统一；钓鱼网站通过bing搜索SEO投递，并检测refer头确保访问来自搜索引擎，直接输域名访问会跳转以规避分析。",
+      "source_title": "关于黑产团伙批量搭建高仿真钓鱼网站大规模传播银狐木马的风险提示",
+      "source_url": "https://www.cert.org.cn/publish/main/10/2026/20260522113326926111046/20260522113326926111046_.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F051",
+      "claim": "CISA与FBI等七国机构联合发布的Scattered Spider预警AA23-320A（2023年11月16日首发，2025年7月29日修订）指出，该团伙以社会工程学见长，冒充IT服务台人员通过语音钓鱼（vishing）、短信钓鱼（smishing）、MFA推送轰炸和SIM卡交换获取凭据；拉斯维加斯MGM、凯撒等赌场遭入侵即因攻击者说服IT服务台人员重置密码和多因素认证令牌。",
+      "source_title": "Scattered Spider (AA23-320A) | CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F052",
+      "claim": "中国网络空间安全协会、中国消费者协会与新华网2025年3月发布的报告披露，某药房内部人员2023年11月利用管理漏洞盗卖客户数据，根源在于该药房未严格限制和监控员工的数据访问权限、缺乏全流程数据管理制度与有效审计机制。",
+      "source_title": "个人信息超范围收集与泄露问题分析研究报告",
+      "source_url": "https://www.news.cn/digital/20250314/4b37cc36b435452c8944d1c4f3dcae7e/84a5fa3885bb46e7b4bd765407cd9185.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F053",
+      "claim": "中国网络空间安全协会2021年至2025年3月共受理处理违法违规收集使用个人信息投诉举报9.6万条，协调3500余家App运营者进行整改。",
+      "source_title": "个人信息超范围收集与泄露问题分析研究报告",
+      "source_url": "https://www.news.cn/digital/20250314/4b37cc36b435452c8944d1c4f3dcae7e/84a5fa3885bb46e7b4bd765407cd9185.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F054",
+      "claim": "Verizon《2026数据泄露调查报告》（DBIR）为第19版，分析了超过31000起真实安全事件，其中超过22000起为确认的数据泄露，涉及145个国家和地区的组织；报告正文称数据集覆盖2024年10月至2025年11月。",
+      "source_title": "2026 Data Breach Investigations Report Executive Summary",
+      "source_url": "https://www.verizon.com/business/resources/executivebriefs/dbir-2026-executive-summary.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F055",
+      "claim": "Verizon DBIR数据显示，“人为因素”（human element）出现在62%的数据泄露中，较上一版报告的60%略有上升。",
+      "source_title": "2026 Data Breach Investigations Report Executive Summary",
+      "source_url": "https://www.verizon.com/business/resources/executivebriefs/dbir-2026-executive-summary.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F056",
+      "claim": "Verizon 2026 DBIR显示，漏洞利用已成为最常见的初始入侵途径，占比升至31%；此前居首的凭据滥用降至13%；钓鱼（Phishing）与上一版持平为16%；托词欺骗（Pretexting）在全部泄露中达到6%。",
+      "source_title": "2026 Data Breach Investigations Report Executive Summary",
+      "source_url": "https://www.verizon.com/business/resources/executivebriefs/dbir-2026-executive-summary.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F057",
+      "claim": "Verizon 2026 DBIR显示，勒索软件占全部数据泄露的48%，高于上一版的44%；69%的勒索软件受害者没有支付赎金，支付赎金的中位数金额由上一版的150000美元降至139875美元。",
+      "source_title": "2026 Data Breach Investigations Report Executive Summary",
+      "source_url": "https://www.verizon.com/business/resources/executivebriefs/dbir-2026-executive-summary.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F058",
+      "claim": "Verizon 2026 DBIR显示，仅26%的CISA已知被利用漏洞（KEV）目录中的关键漏洞在2025年被组织完全修复，低于上一年的38%；完全修复的中位耗时由上一年的32天升至43天。",
+      "source_title": "2026 Data Breach Investigations Report Executive Summary",
+      "source_url": "https://www.verizon.com/business/resources/executivebriefs/dbir-2026-executive-summary.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F059",
+      "claim": "Verizon 2026 DBIR的钓鱼演练数据显示，语音和短信等以移动端为载体的社工渠道，其成功“点击”率中位数比电子邮件渠道高出40%。",
+      "source_title": "2026 Data Breach Investigations Report Executive Summary",
+      "source_url": "https://www.verizon.com/business/resources/executivebriefs/dbir-2026-executive-summary.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F060",
+      "claim": "Verizon 2026 DBIR正文将社会工程学列为第三常见的泄露模式，占全部泄露的16%。",
+      "source_title": "2026 Data Breach Investigations Report Executive Summary",
+      "source_url": "https://www.verizon.com/business/resources/executivebriefs/dbir-2026-executive-summary.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F061",
+      "claim": "IBM《2026年数据泄露成本报告》由Ponemon Institute研究，覆盖2025年3月至2026年2月间遭遇数据泄露的602家组织，横跨17个行业、16个国家和地区，泄露记录数介于2590条至115380条，访谈了3558位安全与业务高管。",
+      "source_title": "Cost of a Data Breach Report 2026: The AI tipping point",
+      "source_url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F062",
+      "claim": "IBM数据泄露成本报告显示，全球平均单次数据泄露成本2024年为488万美元，2025年降至444万美元（下降9%），2026年升至历史新高499万美元（上升12%），增长主要由检测与升级成本和业务损失驱动。",
+      "source_title": "Cost of a Data Breach Report 2026: The AI tipping point",
+      "source_url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F063",
+      "claim": "IBM《2026年数据泄露成本报告》指出，钓鱼连续第四年成为进入被泄露组织的头号初始攻击途径；语音与短信钓鱼用于17%的攻击并带来最高的平均泄露成本529万美元，冒充服务台人员等社会工程学用于13%的攻击、平均成本523万美元，有效账户滥用平均成本507万美元。",
+      "source_title": "Cost of a Data Breach Report 2026: The AI tipping point",
+      "source_url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F064",
+      "claim": "IBM《2026年数据泄露成本报告》显示，恶意或犯罪攻击占全部数据泄露根因的55%（较上一年上升近8%），人为失误占23%，IT故障占22%。",
+      "source_title": "Cost of a Data Breach Report 2026: The AI tipping point",
+      "source_url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F065",
+      "claim": "IBM《2026年数据泄露成本报告》显示，近10%的数据泄露中攻击者通过可移动介质非法复制数据；此类泄露平均历时258天才被识别和遏制，与供应链入侵并列耗时最长。",
+      "source_title": "Cost of a Data Breach Report 2026: The AI tipping point",
+      "source_url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F066",
+      "claim": "IBM《2026年数据泄露成本报告》显示，客户个人身份信息是被窃取或泄露最多的数据类型，占52%，平均每条记录成本192美元；员工个人身份信息在35%的攻击中被窃取。",
+      "source_title": "Cost of a Data Breach Report 2026: The AI tipping point",
+      "source_url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:21111142-1251-4369-86fb-57b82f5bb108/original/as/Cost%20of%20a%20Data%20Breach%20Report%202026.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F067",
+      "claim": "IBM《2025年数据泄露成本报告》由Ponemon Institute研究，覆盖2024年3月至2025年2月间600家组织，报告平均泄露识别与遏制时间为241天。",
+      "source_title": "2025 Cost of a Data Breach Report: Navigating the AI rush without sidelining security",
+      "source_url": "https://www.ibm.com/think/x-force/2025-cost-of-a-data-breach-navigating-ai",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F068",
+      "claim": "NIST SP 800-63B-4《数字身份指南：认证与认证器管理》2025年7月发布，要求作为单因素认证的口令最短15个字符；仅作为多因素认证组成部分的口令可以更短，但最少8个字符（“SHALL require passwords that are used as a single-factor authentication mechanism to be a minimum of 15 characters in length”）。",
+      "source_title": "NIST SP 800-63B-4, Digital Identity Guidelines: Authentication and Authenticator Management",
+      "source_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F069",
+      "claim": "NIST SP 800-63B-4明确规定“Verifiers and CSPs SHALL NOT require subscribers to change passwords periodically”（不得要求用户定期更换口令），但在有证据表明认证器已泄露时必须强制更换。",
+      "source_title": "NIST SP 800-63B-4, Digital Identity Guidelines: Authentication and Authenticator Management",
+      "source_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F070",
+      "claim": "NIST SP 800-63B-4规定“Verifiers and CSPs SHALL NOT impose other composition rules (e.g., requiring mixtures of different character types) for passwords”，即不得强制要求大小写、数字、符号混合等组合规则。",
+      "source_title": "NIST SP 800-63B-4, Digital Identity Guidelines: Authentication and Authenticator Management",
+      "source_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F071",
+      "claim": "NIST SP 800-63B-4要求在建立或修改口令时，验证方必须将待设口令与已知常用、可预期或已泄露口令的黑名单进行完整比对；命中黑名单须拒绝并告知拒绝原因。",
+      "source_title": "NIST SP 800-63B-4, Digital Identity Guidelines: Authentication and Authenticator Management",
+      "source_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F072",
+      "claim": "NIST SP 800-63B-4规定不得允许用户存储可被未认证者访问的口令提示，也不得提示用户使用基于知识的认证（如“你的第一只宠物叫什么”）或安全问题来选择口令；并建议最大口令长度至少支持64个字符。",
+      "source_title": "NIST SP 800-63B-4, Digital Identity Guidelines: Authentication and Authenticator Management",
+      "source_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63B-4.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F073",
+      "claim": "CISA与FBI在Scattered Spider预警中建议实施抗钓鱼的多因素认证——FIDO/WebAuthn或基于PKI的MFA，因其可抵抗钓鱼且不受推送轰炸和SIM卡交换攻击影响，并建议持续开展针对语音钓鱼和鱼叉式钓鱼的员工培训。",
+      "source_title": "Scattered Spider (AA23-320A) | CISA",
+      "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F074",
+      "claim": "CNCERT 2026年提示的钓鱼域名识别特征包括：命名模板复用，常见关键词为zh、cn、apps、web、office，并大量使用字母重复、缺字、错拼等仿冒手法；域名后缀高度集中于hl.cn与com.cn。",
+      "source_title": "关于黑产团伙批量搭建高仿真钓鱼网站大规模传播银狐木马的风险提示",
+      "source_url": "https://www.cert.org.cn/publish/main/10/2026/20260522113326926111046/20260522113326926111046_.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F075",
+      "claim": "中国网络空间安全协会等2025年3月报告建议企业强化个人信息处理员工管理：制定员工操作规范、落实最小权限原则（员工仅能获取完成本职工作所必需的个人信息）、强化员工日常操作行为监督，并定期组织安全培训、采用案例分析与模拟演练等形式并进行评估考核。",
+      "source_title": "个人信息超范围收集与泄露问题分析研究报告",
+      "source_url": "https://www.news.cn/digital/20250314/4b37cc36b435452c8944d1c4f3dcae7e/84a5fa3885bb46e7b4bd765407cd9185.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F076",
+      "claim": "《国家网络安全事件报告管理办法》由国家互联网信息办公室于2025年9月15日发布，自2025年11月1日起施行，共十四条，依据《网络安全法》《数据安全法》《个人信息保护法》《关键信息基础设施安全保护条例》制定。",
+      "source_title": "国家网络安全事件报告管理办法",
+      "source_url": "https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F077",
+      "claim": "《国家网络安全事件报告管理办法》第四条规定，网络运营者按《网络安全事件分级指南》研判属于较大以上网络安全事件的应当报告：涉及关键信息基础设施的，第一时间向保护工作部门、公安机关报告，最迟不得超过1小时；属中央和国家机关各部门及其直属单位的，向本部门网信工作机构报告最迟不得超过2小时；其他网络运营者向属地省级网信部门报告最迟不得超过4小时。",
+      "source_title": "国家网络安全事件报告管理办法",
+      "source_url": "https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F078",
+      "claim": "《国家网络安全事件报告管理办法》第四条规定，属于重大、特别重大网络安全事件的，保护工作部门收到报告后向国家网信部门、国务院公安部门报告最迟不得超过半小时；各部门网信工作机构和省级网信部门收到报告后向国家网信部门报告最迟不得超过1小时。",
+      "source_title": "国家网络安全事件报告管理办法",
+      "source_url": "https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F079",
+      "claim": "《国家网络安全事件报告管理办法》第七条规定报告内容应包括涉事单位及系统基本情况、事件发现或发生的时间地点类型级别及影响危害、已采取措施及效果、事态发展趋势、原因初步分析、溯源线索、拟采取的应对措施与请求支援事项、现场保护情况；对勒索软件攻击事件还应包括要求支付赎金的金额、方式、日期。",
+      "source_title": "国家网络安全事件报告管理办法",
+      "source_url": "https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F080",
+      "claim": "《国家网络安全事件报告管理办法》第八条规定，网络安全事件处置工作结束后，网络运营者应当于30日内形成事件处置总结报告（含原因、应急处置措施、危害、责任追究、整改情况、教训）按原渠道上报。",
+      "source_title": "国家网络安全事件报告管理办法",
+      "source_url": "https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F081",
+      "claim": "《国家网络安全事件报告管理办法》第十一条规定，发生网络安全事件时网络运营者已采取合理必要防护措施、按应急预案处置并有效降低影响危害、且按办法规定及时报告的，可视情从轻或不予追究相关单位和人员责任。",
+      "source_title": "国家网络安全事件报告管理办法",
+      "source_url": "https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F082",
+      "claim": "《国家网络安全事件报告管理办法》第五条要求网络运营者以合同等形式，要求为其提供网络安全、系统运维等服务的组织或个人及时向其报告监测发现的网络安全事件并协助报告。",
+      "source_title": "国家网络安全事件报告管理办法",
+      "source_url": "https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    },
+    {
+      "fact_id": "F083",
+      "claim": "网信部门已开通六类网络安全事件报告渠道：12387热线电话、网站https://12387.cert.org.cn、微信“12387”小程序、“国家互联网应急中心CNCERT”微信公众号、邮箱12387@cert.org.cn、传真010-82992387。",
+      "source_title": "12387网络安全事件报告平台已经开通",
+      "source_url": "https://www.cert.org.cn/publish/main/12/2025/20250916153839638294800/20250916153839638294800_.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-12"
+    }
+  ]
+}

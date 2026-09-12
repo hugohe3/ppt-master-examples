@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "effect": "entrance_fade", "trigger": "after-previous", "duration": 0.4, "stagger": 0.25 }
+  },
+  "slides": {
+    "02_toc": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "01_cover", "pairs": { "year-mark": { "from": "cover-year", "to": "toc-year" } } }
+    },
+    "03_ch1_cover": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "02_toc", "pairs": { "chapter-mark-01": { "from": "toc-row-1", "to": "chapter-num-01" } } }
+    },
+    "04_human_factor": {
+      "groups": {
+        "breach-root-cause": { "effect": "entrance_wheel", "order": 2, "duration": 0.9 },
+        "human-factor-metric": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "reading-note": { "effect": "entrance_fade", "order": 4, "delay": 0.2, "duration": 0.5 },
+        "takeaway": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.6 }
+      }
+    },
+    "05_entry_paths": {
+      "groups": {
+        "initial-access-vectors": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 2, "duration": 0.9 },
+        "vector-takeaway": { "effect": "entrance_fade", "order": 3, "delay": 0.3, "duration": 0.5 }
+      }
+    },
+    "06_insider_cases": {
+      "groups": {
+        "case-judgment": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "insider-cases": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.9 },
+        "scale-note": { "effect": "entrance_fade", "order": 4, "delay": 0.2, "duration": 0.5 }
+      }
+    },
+    "08_ch2_cover": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "07_ch1_takeaway", "pairs": { "chapter-mark-02": { "from": "next-chapter-02", "to": "chapter-num-02" } } }
+    },
+    "09_password_rules": {
+      "groups": {
+        "password-rules-compare": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.0 },
+        "password-takeaway": { "effect": "entrance_fade", "order": 3, "delay": 0.3, "duration": 0.6 }
+      }
+    },
+    "11_phish_email": {
+      "groups": {
+        "phish-mail-mock": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "phish-tells": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.9 },
+        "phish-action": { "effect": "entrance_fade", "order": 4, "delay": 0.2, "duration": 0.5 }
+      }
+    },
+    "12_phish_channels": {
+      "groups": {
+        "phish-cost-by-vector": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.9 },
+        "channel-takeaway": { "effect": "entrance_fade", "order": 6, "delay": 0.3, "duration": 0.5 }
+      }
+    },
+    "14_ch3_cover": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "13_ch2_takeaway", "pairs": { "chapter-mark-03": { "from": "next-chapter-03", "to": "chapter-num-03" } } }
+    },
+    "15_data_grades": {
+      "groups": {
+        "escalation-scale": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.6 },
+        "grade-public": { "effect": "entrance_rise_up", "order": 3, "duration": 0.4 },
+        "grade-internal": { "effect": "entrance_rise_up", "order": 4, "duration": 0.4 },
+        "grade-sensitive": { "effect": "entrance_rise_up", "order": 5, "duration": 0.4 },
+        "grade-important": { "effect": "entrance_rise_up", "order": 6, "duration": 0.4 },
+        "legal-basis": { "effect": "entrance_fade", "order": 7, "delay": 0.3, "duration": 0.5 },
+        "compile-note": { "effect": "entrance_fade", "order": 8, "duration": 0.4 }
+      }
+    },
+    "16_removable_media": {
+      "groups": {
+        "removable-media-share": { "effect": "entrance_wheel", "order": 2, "duration": 0.9 },
+        "dwell-callout": { "effect": "entrance_fade", "order": 3, "delay": 0.2, "duration": 0.5 },
+        "dwell-metric": { "effect": "entrance_fade", "order": 4, "duration": 0.5 },
+        "dwell-reason": { "effect": "entrance_fade", "order": 5, "delay": 0.2, "duration": 0.5 },
+        "media-action": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.6 }
+      }
+    },
+    "19_ch4_cover": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "18_export_check", "pairs": { "chapter-mark-04": { "from": "next-chapter-04", "to": "chapter-num-04" } } }
+    },
+    "20_law_renumber": {
+      "groups": {
+        "article-renumber": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 1.1 },
+        "effective-date-trap": { "effect": "entrance_fade", "order": 3, "delay": 0.4, "duration": 0.6 }
+      }
+    },
+    "22_penalty_ladder": {
+      "groups": {
+        "penalty-matrix": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 1.0 },
+        "penalty-verdict": { "effect": "entrance_fade", "order": 3, "delay": 0.4, "duration": 0.6 }
+      }
+    },
+    "23_criminal_threshold": {
+      "groups": {
+        "threshold-track": { "effect": "entrance_fade", "order": 2, "duration": 0.35 },
+        "threshold-lodging": { "effect": "entrance_fade", "order": 3, "duration": 0.35 },
+        "threshold-other": { "effect": "entrance_fade", "order": 4, "duration": 0.35 },
+        "threshold-gain": { "effect": "entrance_fade", "order": 5, "duration": 0.35 },
+        "halving-rule": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "delay": 0.3, "duration": 0.8 },
+        "case-didi": { "effect": "entrance_fade", "order": 7, "duration": 0.5 },
+        "case-cnki": { "effect": "entrance_fade", "order": 8, "duration": 0.5 }
+      }
+    },
+    "24_ch5_cover": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": { "from": "23_criminal_threshold", "pairs": { "chapter-mark-05": { "from": "next-chapter-05", "to": "chapter-num-05" } } }
+    },
+    "25_first_four_hours": {
+      "groups": {
+        "action-stop": { "effect": "entrance_fade", "order": 2, "duration": 0.45 },
+        "action-report": { "effect": "entrance_fade", "order": 3, "duration": 0.45 },
+        "action-record": { "effect": "entrance_fade", "order": 4, "duration": 0.45 },
+        "action-cooperate": { "effect": "entrance_fade", "order": 5, "duration": 0.45 },
+        "four-hour-rule": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "delay": 0.3, "duration": 0.7 },
+        "compile-note": { "effect": "entrance_fade", "order": 7, "duration": 0.4 }
+      }
+    },
+    "26_report_channels": {
+      "groups": {
+        "report-timing": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 2, "duration": 0.9 },
+        "report-precondition": { "effect": "entrance_fade", "order": 3, "delay": 0.2, "duration": 0.5 },
+        "channel-label": { "effect": "entrance_fade", "order": 4, "duration": 0.4 }
+      }
+    },
+    "27_report_immunity": {
+      "groups": {
+        "immunity-quote": { "effect": "entrance_fade", "order": 2, "duration": 0.7 },
+        "condition-protect": { "effect": "entrance_rise_up", "order": 3, "duration": 0.45 },
+        "condition-handle": { "effect": "entrance_rise_up", "order": 4, "duration": 0.45 },
+        "condition-report": { "effect": "entrance_rise_up", "order": 5, "duration": 0.45 },
+        "personal-takeaway": { "effect": "entrance_fade", "order": 6, "delay": 0.4, "duration": 0.7 }
+      }
+    },
+    "28_quiz": {
+      "animation": { "trigger": "on-click", "effect": "entrance_fade", "duration": 0.4 },
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "trigger": "after-previous", "duration": 0.4 },
+        "quiz-1": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "quiz-2": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "quiz-3": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "quiz-4": { "effect": "entrance_fade", "order": 5, "duration": 0.4 },
+        "quiz-5": { "effect": "entrance_fade", "order": 6, "duration": 0.4 },
+        "compile-note": { "effect": "entrance_fade", "order": 7, "trigger": "after-previous", "duration": 0.4 }
+      }
+    }
+  }
+}

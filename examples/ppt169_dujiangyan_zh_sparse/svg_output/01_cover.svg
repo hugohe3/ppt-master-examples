@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0B1B2E" stop-opacity="0.94"/>
+      <stop offset="50%" stop-color="#0B1B2E" stop-opacity="0.74"/>
+      <stop offset="100%" stop-color="#0B1B2E" stop-opacity="0.38"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E"/>
+  <image id="cover-photo" data-pptx-role="background" href="../images/dujiangyan_weir_aerial.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#coverScrim)"/>
+  <path id="cover-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#4A90C2" stroke-width="1" stroke-opacity="0.14"/>
+
+  <g id="cover-title" data-pptx-bounds="96 240 724 186" font-family="SimHei, Consolas, sans-serif">
+    <text x="100" y="322" font-size="88" font-weight="bold" fill="#EAF3FB">都江堰</text>
+    <text x="104" y="400" font-size="56" fill="#E8A33D">一座还在上班的两千岁工程</text>
+  </g>
+
+  <g id="cover-hook" data-pptx-bounds="96 440 976 46">
+    <text x="104" y="470" font-size="30" fill="#D6E4F0">公元前 <tspan font-weight="bold" fill="#EAF3FB">256</tspan> 年动工的工程，<tspan font-weight="bold" fill="#EAF3FB">2025</tspan> 年仍在为 <tspan font-weight="bold" fill="#E8A33D">1164.7</tspan> 万亩农田配水。</text>
+  </g>
+
+  <g id="cover-yearband" data-pptx-bounds="96 538 620 52">
+    <line x1="104" y1="545" x2="700" y2="545" stroke="#4A90C2" stroke-width="2"/>
+    <line x1="104" y1="538" x2="104" y2="552" stroke="#4A90C2" stroke-width="2"/>
+    <line x1="700" y1="538" x2="700" y2="552" stroke="#E8A33D" stroke-width="2"/>
+    <text x="104" y="578" font-size="18" fill="#93AEC8">公元前 256 年 · 李冰主持兴建</text>
+    <text x="700" y="578" font-size="18" fill="#E8A33D" text-anchor="end">2025 年 · 仍在供水</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1"/>
+    <text x="72" y="668" font-size="16" fill="#93AEC8">来源：联合国教科文组织世界遗产中心（whc.unesco.org）；四川在线（2025-04）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">01 / 14</text>
+  </g>
+</svg>

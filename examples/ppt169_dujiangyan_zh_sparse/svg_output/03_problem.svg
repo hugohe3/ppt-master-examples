@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Consolas, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#4A90C2"/>
+    </marker>
+    <linearGradient id="landFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#16314C"/>
+      <stop offset="100%" stop-color="#0F2439"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B1B2E"/>
+  <path id="page-grid" data-pptx-role="decoration" d="M160 0V720 M320 0V720 M480 0V720 M640 0V720 M800 0V720 M960 0V720 M1120 0V720 M0 120H1280 M0 240H1280 M0 360H1280 M0 480H1280 M0 600H1280" fill="none" stroke="#17304A" stroke-width="1"/>
+
+  <g id="page-title" data-pptx-bounds="68 66 700 62">
+    <text x="72" y="108" font-family="SimHei, Consolas, sans-serif" font-size="42" font-weight="bold" fill="#EAF3FB">一条出山就发脾气的江</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="68 140 1088 42">
+    <text x="72" y="168" font-size="30" fill="#7FD1C3">问题不是水少，是水来得不是时候——涝和旱在同一片平原上轮流出现。</text>
+  </g>
+
+  <g id="terrain-section" data-pptx-bounds="72 192 1136 284">
+    <path id="terrain-body" d="M90 450 L90 292 L150 236 L210 258 L252 236 L310 286 L372 330 L470 368 L600 392 L760 406 L950 414 L1100 418 L1190 419 L1190 450 Z" fill="url(#landFill)" stroke="#4A90C2" stroke-width="2" stroke-linejoin="bevel"/>
+    <path id="river-course" d="M314 272 L376 316 L474 354 L604 378 L764 392 L1120 402" fill="none" stroke="#4A90C2" stroke-width="6" stroke-linecap="round" marker-end="url(#arrowBlue)"/>
+    <line x1="314" y1="272" x2="1140" y2="272" stroke="#93AEC8" stroke-width="1" stroke-dasharray="8,4,2,4"/>
+    <line x1="604" y1="402" x2="1140" y2="402" stroke="#93AEC8" stroke-width="1" stroke-dasharray="8,4,2,4"/>
+    <line x1="1140" y1="272" x2="1140" y2="402" stroke="#E8A33D" stroke-width="2"/>
+    <line x1="1132" y1="272" x2="1148" y2="272" stroke="#E8A33D" stroke-width="2"/>
+    <line x1="1132" y1="402" x2="1148" y2="402" stroke="#E8A33D" stroke-width="2"/>
+    <text x="1124" y="344" font-size="18" fill="#E8A33D" text-anchor="end">落差 273 米</text>
+    <line x1="300" y1="256" x2="314" y2="270" stroke="#93AEC8" stroke-width="1"/>
+    <text x="296" y="248" font-size="18" fill="#93AEC8" text-anchor="end">出山口</text>
+    <text x="104" y="224" font-size="18" fill="#93AEC8">玉垒山</text>
+    <text x="820" y="444" font-size="18" fill="#93AEC8">成都平原</text>
+  </g>
+
+  <g id="scale-dimensions" data-pptx-bounds="300 488 840 60">
+    <line x1="314" y1="500" x2="1120" y2="500" stroke="#93AEC8" stroke-width="1" stroke-dasharray="8,4,2,4"/>
+    <line x1="314" y1="492" x2="314" y2="508" stroke="#93AEC8" stroke-width="1"/>
+    <line x1="1120" y1="492" x2="1120" y2="508" stroke="#93AEC8" stroke-width="1"/>
+    <text x="717" y="536" font-size="18" fill="#93AEC8" text-anchor="middle">都江堰市 → 成都市区 直线约 50 公里</text>
+  </g>
+
+  <g id="note-flood" data-pptx-bounds="72 552 556 76">
+    <use data-icon="tabler-outline/alert-triangle" x="76" y="560" width="28" height="28" fill="#E8A33D" stroke-width="2"/>
+    <text x="116" y="578" font-size="24" fill="#D6E4F0"><tspan font-weight="bold" fill="#E8A33D">汛期：</tspan>江水顺势而下、水流湍急，<tspan x="116" dy="34">历史上极易成灾。</tspan></text>
+  </g>
+
+  <g id="note-drought" data-pptx-bounds="652 552 556 76">
+    <use data-icon="tabler-outline/mountain" x="656" y="560" width="28" height="28" fill="#7FD1C3" stroke-width="2"/>
+    <text x="696" y="578" font-size="24" fill="#D6E4F0"><tspan font-weight="bold" fill="#7FD1C3">另一面：</tspan>玉垒山阻隔江水东流，<tspan x="696" dy="34">造成东旱西涝。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="72 634 1136 42">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#1E3A57" stroke-width="1"/>
+    <text x="72" y="668" font-size="16" fill="#93AEC8">来源：人民网《成都平原何以成"天府之国"》（2018-09-14）；水利文明网《以水为师都江堰》（2022-09-03）</text>
+    <text x="1208" y="668" font-size="16" fill="#93AEC8" text-anchor="end">03 / 14</text>
+  </g>
+</svg>

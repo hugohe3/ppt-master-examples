@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1B2E" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0A1B2E" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F"/>
+    <text x="72" y="86" font-size="18" fill="#5A6775">四、运输装备</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">09 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">101.9 万辆货车,4806 标准组动车组</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">电力机车已占机车拥有量的三分之二</text>
+  </g>
+  <g id="equipment-table" data-pptx-replace-with="table" data-pptx-bounds="72 236 1136 178" data-pptx-fallback-sha256="1ac0c77f1f76c476bcbef783c3c05319358958ac9b366ed5a875812ef9c5db63">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "x": 72, "y": 236, "width": 1136, "height": 178,
+        "name": "equipment-table",
+        "column_widths": [200, 260, 676],
+        "row_heights": [40, 46, 46, 46],
+        "defaults": {
+          "cell": {"valign": "middle", "font_size": 24, "padding": {"left": 16, "right": 16, "top": 2, "bottom": 2},
+                   "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"},
+                               "bottom": {"style": "solid", "color": "#D8DEE6", "width": 1}}}
+        },
+        "columns": [
+          {"text": "类别", "fill": "#0B3A6F", "color": "#FFFFFF", "bold": true, "align": "l"},
+          {"text": "2024 年拥有量", "fill": "#0B3A6F", "color": "#FFFFFF", "bold": true, "align": "r"},
+          {"text": "构成", "fill": "#0B3A6F", "color": "#FFFFFF", "bold": true, "align": "l"}
+        ],
+        "rows": [
+          [{"text": "机车", "bold": true, "color": "#1E2733", "align": "l"},
+           {"text": "2.25 万台", "bold": true, "color": "#0B3A6F", "align": "r"},
+           {"text": "内燃机车 0.78 万台;电力机车 1.47 万台", "color": "#1E2733", "align": "l"}],
+          [{"text": "客车", "fill": "#F2F5F9", "bold": true, "color": "#1E2733", "align": "l"},
+           {"text": "8.1 万辆", "fill": "#F2F5F9", "bold": true, "color": "#0B3A6F", "align": "r"},
+           {"text": "其中动车组 4806 标准组、38448 辆", "fill": "#F2F5F9", "color": "#1E2733", "align": "l"}],
+          [{"text": "货车", "bold": true, "color": "#1E2733", "align": "l"},
+           {"text": "101.9 万辆", "bold": true, "color": "#C8102E", "align": "r"},
+           {"text": "公报未列分项", "color": "#5A6775", "align": "l"}]
+        ]
+      }
+    </metadata>
+    <rect x="72" y="236" width="1136" height="40" fill="#0B3A6F"/>
+    <text x="88" y="263" font-size="24" font-weight="bold" fill="#FFFFFF">类别</text>
+    <text x="516" y="263" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="end">2024 年拥有量</text>
+    <text x="548" y="263" font-size="24" font-weight="bold" fill="#FFFFFF">构成</text>
+    <rect x="72" y="322" width="1136" height="46" fill="#F2F5F9"/>
+    <text x="88" y="307" font-size="24" font-weight="bold" fill="#1E2733">机车</text>
+    <text x="516" y="307" font-size="24" font-weight="bold" fill="#0B3A6F" text-anchor="end">2.25 万台</text>
+    <text x="548" y="307" font-size="24" fill="#1E2733">内燃机车 0.78 万台;电力机车 1.47 万台</text>
+    <text x="88" y="353" font-size="24" font-weight="bold" fill="#1E2733">客车</text>
+    <text x="516" y="353" font-size="24" font-weight="bold" fill="#0B3A6F" text-anchor="end">8.1 万辆</text>
+    <text x="548" y="353" font-size="24" fill="#1E2733">其中动车组 4806 标准组、38448 辆</text>
+    <text x="88" y="399" font-size="24" font-weight="bold" fill="#1E2733">货车</text>
+    <text x="516" y="399" font-size="24" font-weight="bold" fill="#C8102E" text-anchor="end">101.9 万辆</text>
+    <text x="548" y="399" font-size="24" fill="#5A6775">公报未列分项</text>
+    <line x1="72" y1="322" x2="1208" y2="322" stroke="#D8DEE6" stroke-width="1"/>
+    <line x1="72" y1="368" x2="1208" y2="368" stroke="#D8DEE6" stroke-width="1"/>
+    <line x1="72" y1="414" x2="1208" y2="414" stroke="#D8DEE6" stroke-width="1"/>
+  </g>
+  <g id="equipment-note" data-pptx-bounds="72 420 1136 34">
+    <text x="72" y="442" font-size="18" fill="#5A6775">注:电力机车 1.47 万台约占机车拥有量的 65%(整理,由公报两项数值计算)</text>
+  </g>
+  <g id="p09-interior-photo" data-pptx-bounds="72 470 1136 166">
+    <image href="../images/fuxing_interior.jpg" x="72" y="470" width="1136" height="166" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="72" y="592" width="1136" height="44" fill="url(#fadeBottom)"/>
+    <text x="1196" y="626" font-size="15" fill="#FFFFFF" text-anchor="end">复兴号商务座车厢内景 摄影 N509FZ · CC BY-SA 4.0 · Wikimedia Commons</text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6"/>
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》三、运输装备(公报第 5—6 页)</text>
+  </g>
+</svg>

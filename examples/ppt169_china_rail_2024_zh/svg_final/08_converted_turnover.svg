@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="header" data-pptx-bounds="72 48 1136 48">
+    <rect x="72" y="56" width="1136" height="3" fill="#0B3A6F"/>
+    <text x="72" y="86" font-size="18" fill="#5A6775">三、货运 · 换算周转量</text>
+    <text x="1208" y="86" font-size="18" fill="#5A6775" text-anchor="end">08 / 15</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 104 1136 60">
+    <text x="72" y="150" font-family="SimHei, Arial, sans-serif" font-size="40" font-weight="bold" fill="#0B3A6F">51661 亿吨公里:总换算周转量小幅上行</text>
+  </g>
+  <g id="page-lead" data-pptx-bounds="72 172 1136 44">
+    <text x="72" y="200" font-size="28" fill="#1E2733">比上年增长 0.9%;国家铁路增长 2.1%,其他铁路下降 13.8%</text>
+  </g>
+  <g id="converted-turnover-6y" data-pptx-replace-with="chart" data-pptx-bounds="72 236 720 400" data-pptx-fallback-sha256="3e4f67fe23ba76b5ba10ac975b6862cbc21b0ac91a3e86d2dbb0fd5820647b0a">
+    <metadata type="application/json">
+      {
+        "x": 72, "y": 236, "width": 720, "height": 400,
+        "name": "converted-turnover-6y",
+        "type": "area",
+        "categories": ["2019年", "2020年", "2021年", "2022年", "2023年", "2024年"],
+        "series": [{"name": "总换算周转量", "values": [44924.00, 38780.65, 42805.81, 42523.22, 51189.74, 51661.00]}],
+        "data_labels": {"show_value": true, "number_format": "0.00", "font_size": 18, "color": "#1E2733"},
+        "axes": {
+          "category": {"kind": "text", "position": "bottom", "tick_marks": "none", "font_size": 18, "color": "#5A6775"},
+          "value": {"minimum": 0, "maximum": 60000, "major_unit": 10000, "number_format": "0", "major_gridlines": true, "tick_marks": "none", "cross_between": "mid_category", "font_size": 18, "color": "#5A6775"}
+        },
+        "axis_titles": {"value": "亿吨公里"},
+        "show_legend": false,
+        "plot_area": {"x": 160, "y": 290, "width": 600, "height": 270},
+        "style": {"axis_color": "#5A6775", "grid_color": "#E6EBF1", "text_color": "#5A6775", "font_family": "Microsoft YaHei", "colors": ["#1E6FB8"]}
+      }
+    </metadata>
+    <g id="converted-turnover-6y-chartArea">
+      <line id="ct-grid-1" x1="160" y1="290" x2="760" y2="290" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="ct-grid-2" x1="160" y1="335" x2="760" y2="335" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="ct-grid-3" x1="160" y1="380" x2="760" y2="380" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="ct-grid-4" x1="160" y1="425" x2="760" y2="425" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="ct-grid-5" x1="160" y1="470" x2="760" y2="470" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="ct-grid-6" x1="160" y1="515" x2="760" y2="515" stroke="#E6EBF1" stroke-width="1"/>
+      <line id="ct-axis-y" x1="160" y1="290" x2="160" y2="560" stroke="#5A6775" stroke-width="1"/>
+      <line id="ct-axis-x" x1="160" y1="560" x2="760" y2="560" stroke="#5A6775" stroke-width="1"/>
+      <!-- chart-plot-area: object=converted-turnover-6y | 160,290,760,560 -->
+      <path d="M160 357.84 L280 385.49 L400 367.37 L520 368.65 L640 329.64 L760 327.53 L760 560 L160 560 Z" fill="#1E6FB8"/>
+    </g>
+    <text x="88" y="272" font-size="18" fill="#5A6775">亿吨公里</text>
+    <text x="150" y="566" font-size="18" fill="#5A6775" text-anchor="end">0</text>
+    <text x="150" y="521" font-size="18" fill="#5A6775" text-anchor="end">10000</text>
+    <text x="150" y="476" font-size="18" fill="#5A6775" text-anchor="end">20000</text>
+    <text x="150" y="431" font-size="18" fill="#5A6775" text-anchor="end">30000</text>
+    <text x="150" y="386" font-size="18" fill="#5A6775" text-anchor="end">40000</text>
+    <text x="150" y="341" font-size="18" fill="#5A6775" text-anchor="end">50000</text>
+    <text x="150" y="296" font-size="18" fill="#5A6775" text-anchor="end">60000</text>
+    <text x="170" y="345.84" font-size="18" fill="#1E2733">44924.00</text>
+    <text x="280" y="373.49" font-size="18" fill="#1E2733" text-anchor="middle">38780.65</text>
+    <text x="400" y="355.37" font-size="18" fill="#1E2733" text-anchor="middle">42805.81</text>
+    <text x="520" y="356.65" font-size="18" fill="#1E2733" text-anchor="middle">42523.22</text>
+    <text x="640" y="317.64" font-size="18" fill="#1E2733" text-anchor="middle">51189.74</text>
+    <text x="750" y="315.53" font-size="18" fill="#1E2733" text-anchor="end">51661.00</text>
+    <text x="160" y="590" font-size="18" fill="#5A6775" text-anchor="middle">2019年</text>
+    <text x="280" y="590" font-size="18" fill="#5A6775" text-anchor="middle">2020年</text>
+    <text x="400" y="590" font-size="18" fill="#5A6775" text-anchor="middle">2021年</text>
+    <text x="520" y="590" font-size="18" fill="#5A6775" text-anchor="middle">2022年</text>
+    <text x="640" y="590" font-size="18" fill="#5A6775" text-anchor="middle">2023年</text>
+    <text x="760" y="590" font-size="18" fill="#5A6775" text-anchor="middle">2024年</text>
+  </g>
+  <g id="ceb-block" data-pptx-bounds="812 236 396 190">
+    <rect x="812" y="236" width="396" height="3" fill="#0B3A6F"/>
+    <!-- icon: chunk-filled/globe -->
+  <g transform="translate(812, 256) scale(2)" fill="#0B3A6F">
+    <path d="M1.51967 3.30803C0.748393 4.37143 0.232465 5.63209 0.0618896 7L15.9381 7C15.7675 5.63208 15.2516 4.37142 14.4803 3.30801C14.4387 3.3313 14.3965 3.3546 14.3538 3.3779C12.8684 4.1881 10.7045 5 7.99997 5C5.29547 5 3.13149 4.1881 1.64611 3.3779C1.60342 3.35461 1.56127 3.33131 1.51967 3.30803Z"/>
+    <path d="M13.0562 1.80011C11.8114 2.42548 10.0975 3 7.99997 3C5.90247 3 4.18861 2.42549 2.94376 1.80013C4.32185 0.674887 6.08211 0 8 0C9.91787 0 11.6781 0.674881 13.0562 1.80011Z"/>
+    <path d="M0.0618896 9C0.232466 10.3679 0.748398 11.6286 1.51968 12.692C1.56128 12.6687 1.60344 12.6454 1.64614 12.6221C3.13152 11.8119 5.2955 11 8 11C10.7045 11 12.8685 11.8119 14.3538 12.6221C14.3966 12.6454 14.4387 12.6687 14.4803 12.692C15.2516 11.6286 15.7675 10.3679 15.9381 9L0.0618896 9Z"/>
+    <path d="M8 16C6.08212 16 4.32186 15.3251 2.94377 14.1999C4.18862 13.5745 5.90249 13 8 13C10.0975 13 11.8114 13.5745 13.0562 14.1999C11.6781 15.3251 9.91788 16 8 16Z"/>
+  </g>
+    <text x="856" y="282" font-size="18" fill="#5A6775">中欧班列</text>
+    <text x="812" y="356" font-family="SimHei, Arial, sans-serif" font-size="64" font-weight="bold" fill="#0B3A6F">1.9<tspan font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="normal" fill="#1E2733"> 万列</tspan></text>
+    <text x="812" y="390" font-size="18" fill="#5A6775">发送货物 207 万标箱,分别增长 10%、9%</text>
+  </g>
+  <g id="wsl-block" data-pptx-bounds="812 446 396 190">
+    <rect x="812" y="446" width="396" height="3" fill="#0B3A6F"/>
+    <!-- icon: chunk-filled/box -->
+  <g transform="translate(812, 466) scale(2)" fill="#0B3A6F">
+    <path d="M7 1H4L1 6V15H15V6L12 1H9V6H7V1Z"/>
+  </g>
+    <text x="856" y="492" font-size="18" fill="#5A6775">西部陆海新通道班列</text>
+    <text x="812" y="566" font-family="SimHei, Arial, sans-serif" font-size="64" font-weight="bold" fill="#0B3A6F">96<tspan font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="normal" fill="#1E2733"> 万标箱</tspan></text>
+    <text x="812" y="600" font-size="18" fill="#2E7D32">发送货物比上年增长 11%</text>
+  </g>
+  <g id="source-bar" data-pptx-role="footer" data-pptx-bounds="72 652 1136 48">
+    <rect x="72" y="656" width="1136" height="1" fill="#D8DEE6"/>
+    <text x="72" y="688" font-size="15" fill="#5A6775">数据来源:国家铁路局《2024年铁道统计公报》一、运输生产 · 全国铁路总换算周转量图(公报第 5 页)、重点运输(公报第 4 页)</text>
+  </g>
+</svg>

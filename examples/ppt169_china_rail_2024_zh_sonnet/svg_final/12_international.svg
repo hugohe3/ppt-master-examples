@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, SimHei" font-size="16" fill="#232B36" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="p12-accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14335C"/><stop offset="100%" stop-color="#C81E3A"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F6F7FA"/>
+
+  <g id="header" data-pptx-bounds="64 48 1152 92">
+    <text x="64" y="68" font-size="18" font-weight="bold" letter-spacing="2" fill="#C81E3A">09 · 国际对照</text>
+    <text x="64" y="114" font-family="SimSun, FangSong" font-size="40" font-weight="bold" fill="#14335C">中国铁路里程增速,六国中最快</text>
+    <rect x="64" y="128" width="140" height="5" fill="url(#p12-accent-bar)"/>
+  </g>
+
+  <g id="rail-km-intl" data-pptx-bounds="64 176 1152 420" data-pptx-replace-with="chart" data-pptx-fallback-sha256="a1d8acf1eaf46cef41f918c208d9dd2498853c57c9c454043c719458546b1c8c">
+    <metadata type="application/json">
+    {
+      "x": 64, "y": 176, "width": 1152, "height": 420,
+      "name": "rail-km-intl",
+      "type": "line",
+      "title": "全国铁路营业里程 vs 六国(2000-2021,公里)",
+      "plot_area": {"x": 140, "y": 200, "width": 940, "height": 360},
+      "categories": ["2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"],
+      "series": [
+        {"name": "中国", "values": [58656,59079,59530,60446,61015,62200,63411.7,63636.5,60809,65491,66239,72487,85843,79306,85320,89966,91675,93742,96353,102462,106235,109767]},
+        {"name": "美国", "values": [194077,194746,198057,196806,195369,194025,191771,192508,192123,191785,194431,194136,153516.6,154321.5,152932.6,151735,151270,150966,150462.2976,149488.6469,148749.68684,148553.34734]},
+        {"name": "俄罗斯", "values": [86075,85835,85542,85394,85286,85542,85253,84158,85194,85281,85292,85166,85248,85266,84581,85262,85375,85545,85626,85494,85555,85544]},
+        {"name": "印度", "values": [62759,63028,63140,63122,63221,63485,63332,63327,63273,64015,63974,64460,64600,65436,65808,66030,66687,67368,69249,67414.07,67955.63,68102.73]},
+        {"name": "德国", "values": [36642,36050,35868,36054,34724.575,34228.19,34128.4,33977.603,33862.3,33721.305,33714.093,33575.872,33506,33449,33426,33332,33380,33488,33440,33423,33399,33401]},
+        {"name": "法国", "values": [29330,29503,29410,29327,29304,28470,29620,29976,29959,33698,29929,30071,29406,29979,null,28866,29236.65,29248.142,28241,28157,27872,27716]},
+        {"name": "西班牙", "values": [13868,13868,13856,14387,14395,14272,14472,15011.52,15041,15044,15590.12,15680.563,15438,15582,15506,15711,15650,15559,15618,15718,15848,15963]}
+      ],
+      "axes": {"category": {"kind": "text", "visible": true}, "value": {"kind": "value", "visible": false, "minimum": 0, "maximum": 200000, "major_unit": 50000}},
+      "style": {"axis_color": "#5B6472", "colors": ["#C81E3A","#14335C","#1D7A8C","#9AA5B1","#9AA5B1","#9AA5B1","#9AA5B1"]},
+      "notes": [
+        {"text": "20万", "x": 90, "y": 195, "width": 34, "height": 18, "color": "#5B6472"},
+        {"text": "15万", "x": 90, "y": 285, "width": 34, "height": 18, "color": "#5B6472"},
+        {"text": "10万", "x": 90, "y": 375, "width": 34, "height": 18, "color": "#5B6472"},
+        {"text": "5万", "x": 100, "y": 465, "width": 24, "height": 18, "color": "#5B6472"},
+        {"text": "0", "x": 114, "y": 555, "width": 10, "height": 18, "color": "#5B6472"},
+        {"text": "中国", "x": 1090, "y": 354, "width": 90, "height": 22, "color": "#C81E3A", "bold": true},
+        {"text": "美国", "x": 1090, "y": 284, "width": 90, "height": 22, "color": "#14335C"},
+        {"text": "俄罗斯", "x": 1090, "y": 398, "width": 90, "height": 22, "color": "#1D7A8C"},
+        {"text": "印度", "x": 1090, "y": 429, "width": 90, "height": 20, "color": "#9AA5B1"},
+        {"text": "德国", "x": 1090, "y": 488, "width": 90, "height": 20, "color": "#9AA5B1"},
+        {"text": "法国", "x": 1090, "y": 506, "width": 90, "height": 20, "color": "#9AA5B1"},
+        {"text": "西班牙", "x": 1090, "y": 535, "width": 90, "height": 20, "color": "#9AA5B1"},
+        {"text": "日本:仅2010-2011年有记录(20140→20087公里),", "x": 792, "y": 230, "width": 400, "height": 18, "color": "#5B6472"},
+        {"text": "样本不足未绘入趋势线", "x": 792, "y": 242, "width": 400, "height": 18, "color": "#5B6472"}
+      ]    }
+    </metadata>
+    <text x="64" y="196" font-size="20" font-weight="bold" fill="#14335C">全国铁路营业里程 vs 六国(2000-2021,公里)</text>
+    <g id="rail-km-intl-chartArea">
+      <g id="gridlines" fill="none" stroke="#D7DBE3" stroke-dasharray="4,4">
+        <line x1="140" y1="200" x2="1080" y2="200"/>
+        <line x1="140" y1="290" x2="1080" y2="290"/>
+        <line x1="140" y1="380" x2="1080" y2="380"/>
+        <line x1="140" y1="470" x2="1080" y2="470"/>
+      </g>
+      <line id="axis-baseline" x1="140" y1="560" x2="1080" y2="560" stroke="#5B6472" stroke-width="1.5"/>
+      <text x="124" y="204" font-size="14" fill="#5B6472" text-anchor="end">20万</text>
+      <text x="124" y="294" font-size="14" fill="#5B6472" text-anchor="end">15万</text>
+      <text x="124" y="384" font-size="14" fill="#5B6472" text-anchor="end">10万</text>
+      <text x="124" y="474" font-size="14" fill="#5B6472" text-anchor="end">5万</text>
+      <text x="124" y="564" font-size="14" fill="#5B6472" text-anchor="end">0</text>
+      <text x="140" y="580" font-size="14" fill="#5B6472">2000</text>
+      <text x="363.8" y="580" font-size="14" fill="#5B6472" text-anchor="middle">2005</text>
+      <text x="587.6" y="580" font-size="14" fill="#5B6472" text-anchor="middle">2010</text>
+      <text x="811.4" y="580" font-size="14" fill="#5B6472" text-anchor="middle">2015</text>
+      <text x="1080" y="580" font-size="14" fill="#5B6472" text-anchor="end">2021</text>
+      <!-- chart-plot-area: object=rail-km-intl | 140,200,1080,560 -->
+      <path d="M 140.0 535.0 L 184.8 535.0 L 229.5 535.1 L 274.3 534.1 L 319.0 534.1 L 363.8 534.3 L 408.6 534.0 L 453.3 533.0 L 498.1 532.9 L 542.9 532.9 L 587.6 531.9 L 632.4 531.8 L 677.1 532.2 L 721.9 532.0 L 766.7 532.1 L 811.4 531.7 L 856.2 531.8 L 901.0 532.0 L 945.7 531.9 L 990.5 531.7 L 1035.2 531.5 L 1080.0 531.3" fill="none" stroke="#9AA5B1" stroke-width="1.5"/>
+      <path d="M 140.0 507.2 L 184.8 506.9 L 229.5 507.1 L 274.3 507.2 L 319.0 507.3 L 363.8 508.8 L 408.6 506.7 L 453.3 506.0 L 498.1 506.1 L 542.9 499.3 L 587.6 506.1 L 632.4 505.9 L 677.1 507.1 L 721.9 506.0 M 811.4 508.0 L 856.2 507.4 L 901.0 507.4 L 945.7 509.2 L 990.5 509.3 L 1035.2 509.8 L 1080.0 510.1" fill="none" stroke="#9AA5B1" stroke-width="1.5"/>
+      <path d="M 140.0 494.0 L 184.8 495.1 L 229.5 495.4 L 274.3 495.1 L 319.0 497.5 L 363.8 498.4 L 408.6 498.6 L 453.3 498.8 L 498.1 499.0 L 542.9 499.3 L 587.6 499.3 L 632.4 499.6 L 677.1 499.7 L 721.9 499.8 L 766.7 499.8 L 811.4 500.0 L 856.2 499.9 L 901.0 499.7 L 945.7 499.8 L 990.5 499.8 L 1035.2 499.9 L 1080.0 499.9" fill="none" stroke="#9AA5B1" stroke-width="1.5"/>
+      <path d="M 140.0 447.0 L 184.8 446.5 L 229.5 446.3 L 274.3 446.4 L 319.0 446.2 L 363.8 445.7 L 408.6 446.0 L 453.3 446.0 L 498.1 446.1 L 542.9 444.8 L 587.6 444.8 L 632.4 444.0 L 677.1 443.7 L 721.9 442.2 L 766.7 441.5 L 811.4 441.1 L 856.2 440.0 L 901.0 438.7 L 945.7 435.4 L 990.5 438.7 L 1035.2 437.7 L 1080.0 437.4" fill="none" stroke="#9AA5B1" stroke-width="1.5"/>
+      <path d="M 140.0 405.1 L 184.8 405.5 L 229.5 406.0 L 274.3 406.3 L 319.0 406.5 L 363.8 406.0 L 408.6 406.5 L 453.3 408.5 L 498.1 406.7 L 542.9 406.5 L 587.6 406.5 L 632.4 406.7 L 677.1 406.6 L 721.9 406.5 L 766.7 407.8 L 811.4 406.5 L 856.2 406.3 L 901.0 406.0 L 945.7 405.9 L 990.5 406.1 L 1035.2 406.0 L 1080.0 406.0" fill="none" stroke="#1D7A8C" stroke-width="2"/>
+      <path d="M 140.0 210.7 L 184.8 209.5 L 229.5 203.5 L 274.3 205.7 L 319.0 208.3 L 363.8 210.8 L 408.6 214.8 L 453.3 213.5 L 498.1 214.2 L 542.9 214.8 L 587.6 210.0 L 632.4 210.6 L 677.1 283.7 L 721.9 282.2 L 766.7 284.7 L 811.4 286.9 L 856.2 287.7 L 901.0 288.3 L 945.7 289.2 L 990.5 290.9 L 1035.2 292.3 L 1080.0 292.6" fill="none" stroke="#14335C" stroke-width="2.5"/>
+      <path d="M 140.0 454.4 L 184.8 453.7 L 229.5 452.8 L 274.3 451.2 L 319.0 450.2 L 363.8 448.0 L 408.6 445.9 L 453.3 445.5 L 498.1 450.5 L 542.9 442.1 L 587.6 440.8 L 632.4 429.5 L 677.1 405.5 L 721.9 417.2 L 766.7 406.4 L 811.4 398.1 L 856.2 395.0 L 901.0 391.3 L 945.7 386.6 L 990.5 375.6 L 1035.2 368.8 L 1080.0 362.4" fill="none" stroke="#C81E3A" stroke-width="3"/>
+    </g>
+    <g id="rail-km-labels">
+      <text x="1090" y="366" font-size="16" font-weight="bold" fill="#C81E3A">中国</text>
+      <text x="1090" y="296" font-size="16" fill="#14335C">美国</text>
+      <text x="1090" y="410" font-size="16" fill="#1D7A8C">俄罗斯</text>
+      <text x="1090" y="441" font-size="15" fill="#9AA5B1">印度</text>
+      <text x="1090" y="500" font-size="15" fill="#9AA5B1">德国</text>
+      <text x="1090" y="518" font-size="15" fill="#9AA5B1">法国</text>
+      <text x="1090" y="535" font-size="15" fill="#9AA5B1">西班牙</text>
+    </g>
+    <g id="japan-note">
+      <rect x="780" y="206" width="420" height="40" rx="8" fill="#FFFFFF" stroke="#D7DBE3"/>
+      <text x="792" y="230" font-size="14" fill="#5B6472">日本:仅2010-2011年有记录(20140→20087公里),</text>
+      <text x="792" y="242" font-size="14" fill="#5B6472">样本不足未绘入趋势线</text>
+    </g>
+  </g>
+
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="64 662 1152 30">
+    <line x1="64" y1="662" x2="1216" y2="662" stroke="#D7DBE3" stroke-width="1"/>
+    <text x="64" y="686" font-size="16" fill="#5B6472">来源:World Bank, IS.RRS.TOTL.KM(下载于2026-09-12);数据公开至2021年,2022-2024年尚无发布值</text>
+    <text x="1216" y="686" font-size="16" fill="#5B6472" text-anchor="end">12 / 15</text>
+  </g>
+</svg>

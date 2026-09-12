@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "https://www.chinanews.com.cn/sh/2024/03-20/10183801.shtml",
+    "name": "https://www.chinanews.com.cn/sh/2024/03-20/10183801.shtml",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "保供灌面将达11548万亩_四川都江堰灌区春灌工作全面启幕-中新网.md",
+    "asset_dir": "保供灌面将达11548万亩_四川都江堰灌区春灌工作全面启幕-中新网_files",
+    "image_manifest": "保供灌面将达11548万亩_四川都江堰灌区春灌工作全面启幕-中新网_files/image_manifest.json",
+    "image_count": 2
+  },
+  "markdown": {
+    "line_count": 29,
+    "char_count": 1637,
+    "heading_count": 1,
+    "table_count": 1,
+    "image_ref_count": 2,
+    "link_count": 1
+  },
+  "warnings": []
+}

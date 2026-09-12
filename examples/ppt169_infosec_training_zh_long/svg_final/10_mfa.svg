@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-ground" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F4EE" />
+  <g id="dossier-rail" data-pptx-role="decoration" data-pptx-bounds="34 48 18 636">
+    <line x1="44" y1="48" x2="44" y2="684" stroke="#D5CEC2" stroke-width="1" />
+    <rect x="38" y="220" width="12" height="34" fill="#C0392B" />
+  </g>
+  <g id="eyebrow" data-pptx-role="header" data-pptx-bounds="72 66 620 28">
+    <text x="72" y="84" font-size="18" fill="#5A6068" letter-spacing="1">02 账号与密码</text>
+  </g>
+  <g id="page-title" data-pptx-bounds="72 108 1136 76">
+    <text x="72" y="150" font-family="SimSun, Cambria, serif" font-size="44" fill="#1F2A37">短信验证码挡不住今天的攻击者</text>
+    <line x1="72" y1="176" x2="1208" y2="176" stroke="#1F2A37" stroke-width="2" />
+  </g>
+  <g id="bypass-divider" data-pptx-role="decoration" data-pptx-bounds="684 226 12 340">
+    <line x1="690" y1="230" x2="690" y2="560" stroke="#D5CEC2" stroke-width="1" />
+  </g>
+  <g id="bypass-vishing" data-pptx-bounds="72 236 600 76">
+    
+  <g transform="translate(72, 240) scale(2.5)" fill="#C0392B">
+    <path d="M1 5V1H7V5L4.5 7.5L8.5 11.5L11 9H15V15H11C5.47715 15 1 10.5228 1 5Z" />
+  </g>
+    <text x="136" y="270" font-size="24" font-weight="bold" fill="#1F2A37">语音钓鱼（vishing）</text>
+    <text x="136" y="300" font-size="18" fill="#5A6068">冒充 IT 服务台打来电话，引导你念出验证码</text>
+  </g>
+  <g id="bypass-push" data-pptx-bounds="72 336 600 76">
+    
+  <g transform="translate(72, 340) scale(2.5)" fill="#C0392B">
+    <path d="M0 1H16V13H11L8 16L5 13H0V1Z" />
+  </g>
+    <text x="136" y="370" font-size="24" font-weight="bold" fill="#1F2A37">MFA 推送轰炸</text>
+    <text x="136" y="400" font-size="18" fill="#5A6068">连续发送认证推送，直到你为了清静按下「同意」</text>
+  </g>
+  <g id="bypass-sim" data-pptx-bounds="72 436 600 76">
+    
+  <g transform="translate(72, 440) scale(2.5)" fill="#C0392B">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C2.89543 0 2 0.895431 2 2V14C2 15.1046 2.89543 16 4 16H12C13.1046 16 14 15.1046 14 14V2C14 0.895431 13.1046 0 12 0H4ZM12 3H4V13H12V3Z" />
+  </g>
+    <text x="136" y="470" font-size="24" font-weight="bold" fill="#1F2A37">SIM 卡交换</text>
+    <text x="136" y="500" font-size="18" fill="#5A6068">把你的号码转到攻击者的卡上，短信验证码直接送达</text>
+  </g>
+  <g id="mgm-case" data-pptx-bounds="712 230 496 196">
+    <text x="720" y="250" font-size="18" font-weight="bold" fill="#C0392B" letter-spacing="1">实例</text>
+    <text font-size="24" fill="#232A31" x="720" y="288">拉斯维加斯 MGM、凯撒等赌场</text><text font-size="24" fill="#232A31" x="720" y="322">被攻破，是因为攻击者说服 IT</text><text font-size="24" fill="#232A31" x="720" y="356">服务台人员重置了密码和令牌。</text><text font-size="18" fill="#5A6068" x="720" y="386">CISA·FBI 等七国机构联合预警 AA23-320A</text><text font-size="18" fill="#5A6068" x="720" y="412">2023 年首发、2025 年修订</text></g>
+  <g id="phish-resistant-mfa" data-pptx-bounds="712 434 504 172">
+    <rect x="720" y="440" width="488" height="160" fill="#1D6A73" fill-opacity="0.08" />
+    <rect x="720" y="440" width="4" height="160" fill="#1D6A73" />
+    <text x="748" y="486" font-size="28" font-weight="bold" fill="#1D6A73">要用抗钓鱼的多因素认证</text>
+    <text font-size="24" fill="#232A31" x="748" y="524">FIDO/WebAuthn 或基于 PKI 的 MFA，</text><text font-size="24" fill="#232A31" x="748" y="558">不受推送轰炸和 SIM 卡交换影响。</text></g>
+  <g id="mfa-rule" data-pptx-bounds="72 612 700 46">
+    <text x="72" y="646" font-size="28" fill="#1F2A37">没人有权在电话里让你<tspan font-weight="bold" fill="#C0392B">念出验证码</tspan>。</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="72 670 1136 24" font-size="16" fill="#8A8478">
+    <text x="72" y="686">来源：CISA·FBI 等联合预警 AA23-320A，2023 年首发、2025 年 7 月修订（F051、F073）</text>
+    <text x="1208" y="686" text-anchor="end">10 / 28</text>
+  </g>
+</svg>

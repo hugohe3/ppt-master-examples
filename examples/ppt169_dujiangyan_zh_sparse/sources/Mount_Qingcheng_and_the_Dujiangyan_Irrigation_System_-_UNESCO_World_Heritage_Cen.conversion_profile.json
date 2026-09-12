@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "web_to_md.py",
+  "conversion_type": "web",
+  "source": {
+    "path": "https://whc.unesco.org/en/list/1001/",
+    "name": "https://whc.unesco.org/en/list/1001/",
+    "suffix": "",
+    "kind": "url",
+    "exists": false,
+    "size_bytes": null
+  },
+  "outputs": {
+    "markdown": "Mount_Qingcheng_and_the_Dujiangyan_Irrigation_System_-_UNESCO_World_Heritage_Cen.md",
+    "asset_dir": "Mount_Qingcheng_and_the_Dujiangyan_Irrigation_System_-_UNESCO_World_Heritage_Cen_files",
+    "image_manifest": "Mount_Qingcheng_and_the_Dujiangyan_Irrigation_System_-_UNESCO_World_Heritage_Cen_files/image_manifest.json",
+    "image_count": 12
+  },
+  "markdown": {
+    "line_count": 281,
+    "char_count": 15449,
+    "heading_count": 16,
+    "table_count": 2,
+    "image_ref_count": 12,
+    "link_count": 57
+  },
+  "warnings": []
+}
