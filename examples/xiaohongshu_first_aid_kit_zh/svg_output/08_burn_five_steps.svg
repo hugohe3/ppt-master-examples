@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1242 1660" width="1242" height="1660" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <linearGradient id="waterFlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7FB7C9" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#7FB7C9" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1242" height="1660" fill="#FBF6EC"/>
+  <rect id="rail" data-pptx-role="decoration" x="54" y="88" width="3" height="1484" fill="#1F6F5C" fill-opacity="0.30"/>
+
+  <g id="rail-marker" data-pptx-bounds="42 1292 28 28">
+    <circle cx="55.5" cy="1306" r="13" fill="#D94F3D"/>
+  </g>
+
+  <g id="page-kicker" data-pptx-bounds="88 96 1066 56">
+    <text x="88" y="134" font-size="36" fill="#1F6F5C" letter-spacing="2">现场 · 烫伤</text>
+  </g>
+
+  <g id="page-title" data-pptx-bounds="88 166 1066 130">
+    <text x="88" y="250" font-family="SimHei, Arial Black, sans-serif" font-size="80" font-weight="bold" fill="#2B2A26">烫伤:冲 脱 泡 盖 送</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 310 1066 90">
+    <text x="88" y="360" font-size="52" fill="#2B2A26">第一步永远是<tspan fill="#D94F3D" font-weight="bold">常温自来水</tspan>,冲够时间。</text>
+  </g>
+
+  <g id="burn-hero" data-pptx-bounds="88 408 1066 192">
+    <rect x="150" y="416" width="18" height="168" fill="url(#waterFlow)"/>
+    <text x="196" y="520" font-family="SimHei, Arial Black, sans-serif" font-size="96" font-weight="bold" fill="#D94F3D">20 分钟</text>
+    <text x="196" y="580" font-size="32" fill="#6B6558">以上,冲得越早越好;3 小时内开始仍有意义</text>
+    <image href="../images/burn_water.jpg" x="960" y="412" width="180" height="180" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="burn-step-1" data-pptx-bounds="88 610 1066 124">
+    <g id="p08-step-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="88 612 1066 120" fill="#E8A33D" stroke="#2B2A26" stroke-width="2">
+<path d="M 88 612 L 1094 612 L 1154 672 L 1094 732 L 88 732 L 148 672 Z"/>
+</g>
+    <text x="176" y="692" font-family="SimHei, Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#2B2A26">冲</text>
+    <text x="256" y="664" font-size="32" fill="#2B2A26">15~25℃ 常温自来水持续冲洗<tspan x="256" dy="40">15~30 分钟,至少 15 分钟,越久越好</tspan></text>
+
+  </g>
+
+  <g id="burn-step-2" data-pptx-bounds="88 746 1066 124">
+    <g id="p08-step-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="88 748 1066 120" fill="#F2E8D5" stroke="#2B2A26" stroke-width="2">
+<path d="M 88 748 L 1094 748 L 1154 808 L 1094 868 L 88 868 L 148 808 Z"/>
+</g>
+    <text x="176" y="828" font-family="SimHei, Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#C0392B">脱</text>
+    <text x="256" y="800" font-size="32" fill="#2B2A26">冲洗后再轻柔脱去衣物<tspan x="256" dy="40">粘连处用剪刀剪开周围,保留粘着部分</tspan></text>
+
+  </g>
+
+  <g id="burn-step-3" data-pptx-bounds="88 882 1066 124">
+    <g id="p08-step-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="88 884 1066 120" fill="#F2E8D5" stroke="#2B2A26" stroke-width="2">
+<path d="M 88 884 L 1094 884 L 1154 944 L 1094 1004 L 88 1004 L 148 944 Z"/>
+</g>
+    <text x="176" y="964" font-family="SimHei, Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#C0392B">泡</text>
+    <text x="256" y="936" font-size="32" fill="#2B2A26">小面积可用冷水浸泡 10~20 分钟<tspan x="256" dy="40">大面积烫伤及老人、儿童禁止久泡</tspan></text>
+
+  </g>
+
+  <g id="burn-step-4" data-pptx-bounds="88 1018 1066 124">
+    <g id="p08-step-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="88 1020 1066 120" fill="#F2E8D5" stroke="#2B2A26" stroke-width="2">
+<path d="M 88 1020 L 1094 1020 L 1154 1080 L 1094 1140 L 88 1140 L 148 1080 Z"/>
+</g>
+    <text x="176" y="1100" font-family="SimHei, Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#C0392B">盖</text>
+    <text x="256" y="1072" font-size="32" fill="#2B2A26">无菌纱布或干净棉布轻覆创面<tspan x="256" dy="40">冷却后保鲜膜可平铺覆盖,不要缠绕</tspan></text>
+
+  </g>
+
+  <g id="burn-step-5" data-pptx-bounds="88 1154 1066 124">
+    <g id="p08-step-5" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="88 1156 1066 120" fill="#F2E8D5" stroke="#2B2A26" stroke-width="2">
+<path d="M 88 1156 L 1094 1156 L 1154 1216 L 1094 1276 L 88 1276 L 148 1216 Z"/>
+</g>
+    <text x="176" y="1236" font-family="SimHei, Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#C0392B">送</text>
+    <text x="256" y="1208" font-size="32" fill="#2B2A26">面积大于手掌、起泡变色、头面部或关节<tspan x="256" dy="40">婴幼儿或老人、化学或电烧伤,立即就医</tspan></text>
+  </g>
+
+  <g id="burn-donts" data-pptx-bounds="88 1288 1066 184">
+    <text x="88" y="1316" font-size="32" fill="#C0392B">不要涂牙膏、酱油、醋、香油、草木灰,也不要涂乳膏油类;<tspan x="88" dy="40">不要用冰块或冰水冷却,可能造成进一步组织损伤;</tspan><tspan x="88" dy="40">不要强行撕扯粘在皮肤上的衣物;</tspan><tspan x="88" dy="40">小于 1 厘米的水疱保留,大于 1 厘米交医生,严禁自己挑破。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="88 1480 1066 80" font-size="26" fill="#6B6558">
+    <text x="88" y="1512">来源:国内卫健系统烫伤急救科普(15~25℃、15~30 分钟);<tspan x="88" dy="34">英国 NHS 与澳新复苏委员会 ANZCOR 烧伤急救指南(≥20 分钟)</tspan></text>
+    <text x="1154" y="1546" text-anchor="end">8 / 9</text>
+  </g>
+</svg>

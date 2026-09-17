@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="de-DE" data-pptx-page-role="content" font-family="Segoe UI" font-size="24">
+  <rect id="grund" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4" />
+
+  <g id="seitentitel" data-pptx-bounds="64 56 1152 100" fill="#1C1C1A">
+    <rect x="64" y="58" width="4" height="26" fill="#12525C" />
+    <text x="80" y="78" font-size="18" font-weight="bold" letter-spacing="1.6" fill="#12525C">TONNE 1 UND 2</text>
+    <text x="64" y="128" font-family="Cambria" font-size="44" font-weight="bold">Restmüll und Biotonne</text>
+    <line x1="64" y1="152" x2="1216" y2="152" stroke="#D8D3C8" stroke-width="1" />
+  </g>
+
+  <g id="tonnen-leiste" data-pptx-bounds="64 168 1152 46">
+    <rect x="64" y="172" width="130" height="30" rx="4" fill="#3C3C3B" />
+    <text x="129" y="192" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Restmüll</text>
+    <rect x="64" y="206" width="130" height="3" fill="#12525C" />
+    <rect x="210" y="172" width="130" height="30" rx="4" fill="#6B4423" />
+    <text x="275" y="192" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Biotonne</text>
+    <rect x="210" y="206" width="130" height="3" fill="#12525C" />
+    <rect x="356" y="172" width="130" height="30" rx="4" fill="#F4C400" fill-opacity="0.35" />
+    <text x="421" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Gelbe Tonne</text>
+    <rect x="502" y="172" width="130" height="30" rx="4" fill="#0F4C9E" fill-opacity="0.35" />
+    <text x="567" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Altpapier</text>
+    <rect x="648" y="172" width="130" height="30" rx="4" fill="#2E7D32" fill-opacity="0.35" />
+    <text x="713" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Altglas</text>
+    <rect x="794" y="172" width="130" height="30" rx="4" fill="#FFFFFF" stroke="#D8D3C8" stroke-width="1.2" />
+    <text x="859" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Pfand</text>
+    <rect x="940" y="172" width="130" height="30" rx="4" fill="#FFFFFF" stroke="#D8D3C8" stroke-width="1.2" />
+    <text x="1005" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Sperrmüll</text>
+    <rect x="1086" y="172" width="130" height="30" rx="4" fill="#FFFFFF" stroke="#D8D3C8" stroke-width="1.2" />
+    <text x="1151" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Wertstoffhof</text>
+  </g>
+
+  <g id="spalte-restmuell" data-pptx-bounds="64 234 572 300" fill="#1C1C1A">
+    <rect x="64" y="240" width="572" height="6" fill="#3C3C3B" />
+    
+  <g transform="translate(64, 258) scale(2.25)" fill="#3C3C3B">
+    <path d="M4 2H1V4H15V2H12V0H4V2Z" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M3 6H13V16H3V6ZM7 9H9V13H7V9Z" />
+  </g>
+    <text x="112" y="290" font-family="Cambria" font-size="28" font-weight="bold">Restmülltonne</text>
+    <text x="64" y="336" font-size="20" font-weight="bold" fill="#2E7D32">Das gehört hinein</text>
+    <text font-size="20" x="64" y="368">Hygieneartikel, Windeln, Katzenstreu</text><text font-size="20" x="64" y="394">Abgekühlte Asche und Zigarettenreste</text><text font-size="20" x="64" y="420">Keramik, Porzellan und Trinkgläser</text><text x="64" y="466" font-size="20" font-weight="bold" fill="#B3261E">Das gehört nicht hinein</text>
+    <text font-size="20" x="64" y="498">Leere Verpackungen, Papier, Altglas</text><text font-size="20" x="64" y="524">Elektrogeräte, Batterien, Schadstoffe</text></g>
+
+  <g id="spalte-biotonne" data-pptx-bounds="680 234 536 300" fill="#1C1C1A">
+    <rect x="680" y="240" width="536" height="6" fill="#6B4423" />
+    
+  <g transform="translate(680, 258) scale(2.25)" fill="#6B4423">
+    <path d="M12 1C6.47715 1 2 5.02944 2 10V16H4L4 10.5858L8.29289 6.29288L9.70711 7.70709L6 11.4142V13.9556C11.0533 13.504 15 9.66681 15 5L15 1H12Z" />
+  </g>
+    <text x="728" y="290" font-family="Cambria" font-size="28" font-weight="bold">Biotonne</text>
+    <text x="680" y="336" font-size="20" font-weight="bold" fill="#2E7D32">Das gehört hinein</text>
+    <text font-size="20" x="680" y="368">Obst- und Gemüsereste, Kaffeesatz</text><text font-size="20" x="680" y="394">Speisereste, Eierschalen, Laub</text><text font-size="20" x="680" y="420">Rasenschnitt und Pflanzenteile</text><text x="680" y="466" font-size="20" font-weight="bold" fill="#B3261E">Das gehört nicht hinein</text>
+    <text font-size="20" x="680" y="498">Kunststoffbeutel – auch „kompostierbare“</text><text font-size="20" x="680" y="524">Katzenstreu, Asche und Windeln</text></g>
+
+  <g id="bio-hinweis" data-pptx-bounds="64 540 1152 124" fill="#1C1C1A">
+    <rect x="64" y="546" width="1152" height="112" rx="6" fill="#E1EDEF" />
+    <text font-size="22" x="96" y="584"><tspan><tspan font-weight="bold" fill="#12525C">Keine kompostierbaren Plastiktüten</tspan> – sie werden in den meisten Anlagen aussortiert.</tspan></text><text font-size="22" x="96" y="614"><tspan>Bioabfälle machen <tspan font-weight="bold" fill="#12525C">30 bis 40 %</tspan> des Siedlungsabfalls aus; seit Mai 2025 gilt eine</tspan></text><text font-size="22" x="96" y="644"><tspan>Fremdstoffgrenze von höchstens <tspan font-weight="bold" fill="#12525C">1,0 %</tspan>.</tspan></text></g>
+  <g id="seitenfuss" data-pptx-role="footer" data-pptx-bounds="64 675 1152 24" fill="#8A8A82" font-size="15">
+    <text x="64" y="690">Quelle: Mülltrennung wirkt! und Bundesumweltministerium zur Bioabfallverordnung (gültig seit 1. Mai 2025)</text>
+    <text x="1216" y="690" text-anchor="end">5</text>
+  </g>
+</svg>

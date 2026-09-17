@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512" />
+
+  <g id="artifact-title" data-pptx-bounds="88 70 700 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227" />
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">青铜大面具</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">目前已知三星堆出土体量最大、保存状况完好的大型青铜面具</text>
+  </g>
+
+  <g id="dimension-width" data-pptx-bounds="112 232 320 140" text-anchor="middle">
+    <text x="272" y="250" font-size="18" fill="#4FB9A5">宽</text>
+    <text x="272" y="340" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#C9A227">131<tspan font-size="28"> 厘米</tspan></text>
+  </g>
+
+  <g id="dimension-height" data-pptx-bounds="480 232 320 140" text-anchor="middle">
+    <text x="640" y="250" font-size="18" fill="#4FB9A5">高</text>
+    <text x="640" y="340" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#E9E5D9">71<tspan font-size="28"> 厘米</tspan></text>
+  </g>
+
+  <g id="dimension-depth" data-pptx-bounds="848 232 320 140" text-anchor="middle">
+    <text x="1008" y="250" font-size="18" fill="#4FB9A5">深</text>
+    <text x="1008" y="340" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#E9E5D9">66<tspan font-size="28"> 厘米</tspan></text>
+  </g>
+
+  <g id="fact-era-pit" data-pptx-bounds="112 400 516 70">
+    <text x="112" y="422" font-size="18" fill="#4FB9A5">年代与坑号</text>
+    <text x="112" y="452" font-size="24" fill="#E9E5D9">商代晚期 · 3 号祭祀坑</text>
+  </g>
+
+  <g id="fact-weight" data-pptx-bounds="652 400 516 70">
+    <text x="652" y="422" font-size="18" fill="#4FB9A5">重量</text>
+    <text x="652" y="452" font-size="24" fill="#E9E5D9">131 斤</text>
+  </g>
+
+  <g id="fact-highlight" data-pptx-bounds="112 500 1056 76">
+    <text x="112" y="522" font-size="18" fill="#4FB9A5">看点</text>
+    <text x="112" y="552" font-size="24" fill="#E9E5D9">2021 年 6 月出土于 3 号「祭祀坑」；2022 年除夕登上央视春晚</text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：新华网《三星堆青铜大面具除夕贺岁》，2022</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1" />
+    <text x="620" y="680" font-size="16" fill="#A8A396" text-anchor="middle">13 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <!-- icon: tabler-outline/home -->
+  <g transform="translate(82, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-7">
+      <rect x="240" y="648" width="180" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <!-- icon: tabler-outline/list -->
+  <g transform="translate(258, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M9 6l11 0" />
+    <path d="M9 12l11 0" />
+    <path d="M9 18l11 0" />
+    <path d="M5 6l0 .01" />
+    <path d="M5 12l0 .01" />
+    <path d="M5 18l0 .01" />
+  </g>
+      <text x="292" y="680" font-size="20" fill="#E9E5D9">文物目录</text>
+    </a>
+    <a href="#slide-12">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <!-- icon: tabler-outline/arrow-left -->
+  <g transform="translate(916, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M5 12l6 6" />
+    <path d="M5 12l6 -6" />
+  </g>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-14">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <!-- icon: tabler-outline/arrow-right -->
+  <g transform="translate(1178, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    </a>
+  </g>
+</svg>

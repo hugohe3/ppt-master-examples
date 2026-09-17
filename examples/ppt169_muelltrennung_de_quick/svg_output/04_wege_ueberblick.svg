@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="de-DE" data-pptx-page-role="content" font-family="Segoe UI" font-size="24">
+  <rect id="grund" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4" />
+
+  <g id="seitentitel" data-pptx-bounds="64 56 1152 100" fill="#1C1C1A">
+    <rect x="64" y="58" width="4" height="26" fill="#12525C" />
+    <text x="80" y="78" font-size="18" font-weight="bold" letter-spacing="1.6" fill="#12525C">ÜBERBLICK</text>
+    <text x="64" y="128" font-family="Cambria" font-size="44" font-weight="bold">Wohin gehört was? Die Wege im Überblick</text>
+    <line x1="64" y1="152" x2="1216" y2="152" stroke="#D8D3C8" stroke-width="1" />
+  </g>
+
+  <g id="einleitung" data-pptx-bounds="64 170 1152 44" fill="#1C1C1A">
+    <text x="64" y="196" font-size="28">Fünf Tonnen stehen am Haus. Drei Wege führen aus dem Haus hinaus.</text>
+  </g>
+
+  <g id="tonnen-leiste" data-pptx-bounds="64 226 1160 156" fill="#1C1C1A">
+    <rect x="64" y="230" width="130" height="76" rx="6" fill="#3C3C3B" />
+    <use data-icon="chunk-filled/trash" x="109" y="250" width="40" height="40" fill="#FFFFFF" />
+    <text x="129" y="334" font-size="18" font-weight="bold" text-anchor="middle">Restmüll</text>
+    <text x="129" y="356" font-size="14" fill="#57574F" text-anchor="middle">Hygiene, Asche,<tspan x="129" dy="18">Keramik</tspan></text>
+
+    <rect x="210" y="230" width="130" height="76" rx="6" fill="#6B4423" />
+    <use data-icon="chunk-filled/leaf" x="255" y="250" width="40" height="40" fill="#FFFFFF" />
+    <text x="275" y="334" font-size="18" font-weight="bold" text-anchor="middle">Biotonne</text>
+    <text x="275" y="356" font-size="14" fill="#57574F" text-anchor="middle">Küche und<tspan x="275" dy="18">Garten</tspan></text>
+
+    <rect x="356" y="230" width="130" height="76" rx="6" fill="#F4C400" />
+    <use data-icon="chunk-filled/recycle" x="401" y="250" width="40" height="40" />
+    <text x="421" y="334" font-size="18" font-weight="bold" text-anchor="middle">Gelbe Tonne</text>
+    <text x="421" y="356" font-size="14" fill="#57574F" text-anchor="middle">Verpackungen<tspan x="421" dy="18">Kunststoff/Metall</tspan></text>
+
+    <rect x="502" y="230" width="130" height="76" rx="6" fill="#0F4C9E" />
+    <use data-icon="chunk-filled/newspaper" x="547" y="250" width="40" height="40" fill="#FFFFFF" />
+    <text x="567" y="334" font-size="18" font-weight="bold" text-anchor="middle">Altpapier</text>
+    <text x="567" y="356" font-size="14" fill="#57574F" text-anchor="middle">Papier, Pappe<tspan x="567" dy="18">und Karton</tspan></text>
+
+    <rect x="648" y="230" width="130" height="76" rx="6" fill="#2E7D32" />
+    <use data-icon="chunk-filled/bottle" x="693" y="250" width="40" height="40" fill="#FFFFFF" />
+    <text x="713" y="334" font-size="18" font-weight="bold" text-anchor="middle">Altglas</text>
+    <text x="713" y="356" font-size="14" fill="#57574F" text-anchor="middle">Flaschen und<tspan x="713" dy="18">Gläser</tspan></text>
+
+    <rect x="794" y="230" width="130" height="76" rx="6" fill="#FFFFFF" stroke="#1C1C1A" stroke-width="1.5" />
+    <use data-icon="chunk-filled/euro" x="839" y="250" width="40" height="40" />
+    <text x="859" y="334" font-size="18" font-weight="bold" text-anchor="middle">Pfand</text>
+    <text x="859" y="356" font-size="14" fill="#57574F" text-anchor="middle">Flaschen, Dosen<tspan x="859" dy="18">mit Pfandlogo</tspan></text>
+
+    <rect x="940" y="230" width="130" height="76" rx="6" fill="#FFFFFF" stroke="#1C1C1A" stroke-width="1.5" />
+    <use data-icon="chunk-filled/box" x="985" y="250" width="40" height="40" />
+    <text x="1005" y="334" font-size="18" font-weight="bold" text-anchor="middle">Sperrmüll</text>
+    <text x="1005" y="356" font-size="14" fill="#57574F" text-anchor="middle">Möbel, große<tspan x="1005" dy="18">Gegenstände</tspan></text>
+
+    <rect x="1086" y="230" width="130" height="76" rx="6" fill="#FFFFFF" stroke="#1C1C1A" stroke-width="1.5" />
+    <use data-icon="chunk-filled/truck" x="1131" y="250" width="40" height="40" />
+    <text x="1151" y="334" font-size="18" font-weight="bold" text-anchor="middle">Wertstoffhof</text>
+    <text x="1151" y="356" font-size="14" fill="#57574F" text-anchor="middle">Elektro, Bau,<tspan x="1151" dy="18">Schadstoffe</tspan></text>
+  </g>
+
+  <g id="leiste-legende" data-pptx-bounds="64 402 1152 28">
+    <text x="64" y="420" font-size="18" fill="#57574F">Farbig = Tonne am Haus · Umrandet = Weg außer Haus: Rückgabe, Abholung oder selbst hinbringen (eigene Einteilung)</text>
+  </g>
+
+  <g id="weg-hinweis" data-pptx-bounds="64 452 1152 130" fill="#1C1C1A">
+    <rect x="64" y="458" width="1152" height="118" rx="6" fill="#E1EDEF" />
+    <text x="96" y="502" font-size="22">Verpackungen trennen Sie nach Material: Kunststoff, Metall und Verbund in die Gelbe Tonne,<tspan x="96" dy="30">Papier in die Blaue, Glas in den Container. Alles andere entscheidet der Weg – und</tspan><tspan x="96" dy="30">Elektrogeräte, Batterien und Glas <tspan font-weight="bold" fill="#12525C">gehören nie in den Restmüll</tspan>.</tspan></text>
+  </g>
+
+  <g id="seitenfuss" data-pptx-role="footer" data-pptx-bounds="64 675 1152 24" fill="#8A8A82" font-size="15">
+    <text x="64" y="690">Quelle: Mülltrennung wirkt! (Initiative der dualen Systeme) und Bundesumweltministerium, Stand 2026</text>
+    <text x="1216" y="690" text-anchor="end">4</text>
+  </g>
+</svg>

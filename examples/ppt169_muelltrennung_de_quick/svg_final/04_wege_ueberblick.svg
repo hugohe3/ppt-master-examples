@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="de-DE" data-pptx-page-role="content" font-family="Segoe UI" font-size="24">
+  <rect id="grund" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4" />
+
+  <g id="seitentitel" data-pptx-bounds="64 56 1152 100" fill="#1C1C1A">
+    <rect x="64" y="58" width="4" height="26" fill="#12525C" />
+    <text x="80" y="78" font-size="18" font-weight="bold" letter-spacing="1.6" fill="#12525C">ÜBERBLICK</text>
+    <text x="64" y="128" font-family="Cambria" font-size="44" font-weight="bold">Wohin gehört was? Die Wege im Überblick</text>
+    <line x1="64" y1="152" x2="1216" y2="152" stroke="#D8D3C8" stroke-width="1" />
+  </g>
+
+  <g id="einleitung" data-pptx-bounds="64 170 1152 44" fill="#1C1C1A">
+    <text x="64" y="196" font-size="28">Fünf Tonnen stehen am Haus. Drei Wege führen aus dem Haus hinaus.</text>
+  </g>
+
+  <g id="tonnen-leiste" data-pptx-bounds="64 226 1160 156" fill="#1C1C1A">
+    <rect x="64" y="230" width="130" height="76" rx="6" fill="#3C3C3B" />
+    
+  <g transform="translate(109, 250) scale(2.5)" fill="#FFFFFF">
+    <path d="M4 2H1V4H15V2H12V0H4V2Z" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M3 6H13V16H3V6ZM7 9H9V13H7V9Z" />
+  </g>
+    <text x="129" y="334" font-size="18" font-weight="bold" text-anchor="middle">Restmüll</text>
+    <text font-size="14" text-anchor="middle" fill="#57574F" x="129" y="356">Hygiene, Asche,</text><text font-size="14" text-anchor="middle" fill="#57574F" x="129" y="374">Keramik</text><rect x="210" y="230" width="130" height="76" rx="6" fill="#6B4423" />
+    
+  <g transform="translate(255, 250) scale(2.5)" fill="#FFFFFF">
+    <path d="M12 1C6.47715 1 2 5.02944 2 10V16H4L4 10.5858L8.29289 6.29288L9.70711 7.70709L6 11.4142V13.9556C11.0533 13.504 15 9.66681 15 5L15 1H12Z" />
+  </g>
+    <text x="275" y="334" font-size="18" font-weight="bold" text-anchor="middle">Biotonne</text>
+    <text font-size="14" text-anchor="middle" fill="#57574F" x="275" y="356">Küche und</text><text font-size="14" text-anchor="middle" fill="#57574F" x="275" y="374">Garten</text><rect x="356" y="230" width="130" height="76" rx="6" fill="#F4C400" />
+    
+  <g transform="translate(401, 250) scale(2.5)" fill="#000000">
+    <path d="M5.68623 0H10.3138L12.178 3.27835L13.9282 2.26789L14.4282 3.13392L13.3301 7.232L9.23203 6.13392L8.73203 5.26789L10.4459 4.27837L9.15033 2L6.84966 2L6.29552 2.97447L4.56343 1.97445L5.68623 0Z" />
+    <path d="M13.1649 9.05964L13.7039 10.0076L12.6055 12H9.99998L9.99998 9.99995H8.99998L5.99998 12.9999L8.99998 15.9999H9.99998L9.99998 14H13.7868L15.996 9.99242L14.8969 8.05962L13.1649 9.05964Z" />
+    <path d="M3.39445 12H4.49998V14H2.21325L0.00390625 9.99242L1.8446 6.75554L0.0717772 5.732L0.571776 4.86598L4.66986 3.7679L5.76793 7.86598L5.26793 8.732L3.57669 7.75556L2.29605 10.0076L3.39445 12Z" />
+  </g>
+    <text x="421" y="334" font-size="18" font-weight="bold" text-anchor="middle">Gelbe Tonne</text>
+    <text font-size="14" text-anchor="middle" fill="#57574F" x="421" y="356">Verpackungen</text><text font-size="14" text-anchor="middle" fill="#57574F" x="421" y="374">Kunststoff/Metall</text><rect x="502" y="230" width="130" height="76" rx="6" fill="#0F4C9E" />
+    
+  <g transform="translate(547, 250) scale(2.5)" fill="#FFFFFF">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M3.0598e-07 11C3.78403e-07 12.6569 1.34315 14 3 14L13 14C14.6569 14 16 12.6569 16 11V2L4 2L4 11H2L2 4H0L3.0598e-07 11ZM6 4L14 4V6H6V4ZM14 8H6L6 10H14V8Z" />
+  </g>
+    <text x="567" y="334" font-size="18" font-weight="bold" text-anchor="middle">Altpapier</text>
+    <text font-size="14" text-anchor="middle" fill="#57574F" x="567" y="356">Papier, Pappe</text><text font-size="14" text-anchor="middle" fill="#57574F" x="567" y="374">und Karton</text><rect x="648" y="230" width="130" height="76" rx="6" fill="#2E7D32" />
+    
+  <g transform="translate(693, 250) scale(2.5)" fill="#FFFFFF">
+    <path d="M0.707107 12.7071L3.29289 15.2929C3.74565 15.7456 4.35971 16 5 16C5.64029 16 6.25435 15.7456 6.70711 15.2929L11 11V8L12.5 6.5H12.5858L9.5 3.41421V3.5L8 5H5L0.707107 9.29289C0.254354 9.74565 0 10.3597 0 11C0 11.6403 0.254354 12.2544 0.707107 12.7071Z" />
+    <path d="M10.4571 1.54289L14.4571 5.54289L16 4L12 0L10.4571 1.54289Z" />
+  </g>
+    <text x="713" y="334" font-size="18" font-weight="bold" text-anchor="middle">Altglas</text>
+    <text font-size="14" text-anchor="middle" fill="#57574F" x="713" y="356">Flaschen und</text><text font-size="14" text-anchor="middle" fill="#57574F" x="713" y="374">Gläser</text><rect x="794" y="230" width="130" height="76" rx="6" fill="#FFFFFF" stroke="#1C1C1A" stroke-width="1.5" />
+    
+  <g transform="translate(839, 250) scale(2.5)" fill="#000000">
+    <path d="M4.99918 5C5.13949 4.81337 5.29458 4.63433 5.46444 4.46447C7.41706 2.51184 10.5829 2.51184 12.5355 4.46447L14.6568 2.34315C11.5326 -0.781049 6.46731 -0.781049 3.34312 2.34315C2.55926 3.12701 1.97207 4.03306 1.58155 5H0V7H1.06235C0.979184 7.66386 0.979184 8.33614 1.06235 9H0V11H1.58155C1.97207 11.9669 2.55926 12.873 3.34312 13.6569C6.46731 16.781 11.5326 16.781 14.6568 13.6569L12.5355 11.5355C10.5829 13.4882 7.41706 13.4882 5.46444 11.5355C5.29458 11.3657 5.13949 11.1866 4.99918 11H9V9H4.10044C3.96649 8.3406 3.96649 7.6594 4.10044 7H9V5H4.99918Z" />
+  </g>
+    <text x="859" y="334" font-size="18" font-weight="bold" text-anchor="middle">Pfand</text>
+    <text font-size="14" text-anchor="middle" fill="#57574F" x="859" y="356">Flaschen, Dosen</text><text font-size="14" text-anchor="middle" fill="#57574F" x="859" y="374">mit Pfandlogo</text><rect x="940" y="230" width="130" height="76" rx="6" fill="#FFFFFF" stroke="#1C1C1A" stroke-width="1.5" />
+    
+  <g transform="translate(985, 250) scale(2.5)" fill="#000000">
+    <path d="M7 1H4L1 6V15H15V6L12 1H9V6H7V1Z" />
+  </g>
+    <text x="1005" y="334" font-size="18" font-weight="bold" text-anchor="middle">Sperrmüll</text>
+    <text font-size="14" text-anchor="middle" fill="#57574F" x="1005" y="356">Möbel, große</text><text font-size="14" text-anchor="middle" fill="#57574F" x="1005" y="374">Gegenstände</text><rect x="1086" y="230" width="130" height="76" rx="6" fill="#FFFFFF" stroke="#1C1C1A" stroke-width="1.5" />
+    
+  <g transform="translate(1131, 250) scale(2.5)" fill="#000000">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 2H0V13H2C2 14.1046 2.89543 15 4 15C5.10457 15 6 14.1046 6 13H10C10 14.1046 10.8954 15 12 15C13.1046 15 14 14.1046 14 13H16V8C16 6.34315 14.6569 5 13 5H11V2ZM11 7V9H14V7H11Z" />
+  </g>
+    <text x="1151" y="334" font-size="18" font-weight="bold" text-anchor="middle">Wertstoffhof</text>
+    <text font-size="14" text-anchor="middle" fill="#57574F" x="1151" y="356">Elektro, Bau,</text><text font-size="14" text-anchor="middle" fill="#57574F" x="1151" y="374">Schadstoffe</text></g>
+
+  <g id="leiste-legende" data-pptx-bounds="64 402 1152 28">
+    <text x="64" y="420" font-size="18" fill="#57574F">Farbig = Tonne am Haus · Umrandet = Weg außer Haus: Rückgabe, Abholung oder selbst hinbringen (eigene Einteilung)</text>
+  </g>
+
+  <g id="weg-hinweis" data-pptx-bounds="64 452 1152 130" fill="#1C1C1A">
+    <rect x="64" y="458" width="1152" height="118" rx="6" fill="#E1EDEF" />
+    <text font-size="22" x="96" y="502">Verpackungen trennen Sie nach Material: Kunststoff, Metall und Verbund in die Gelbe Tonne,</text><text font-size="22" x="96" y="532">Papier in die Blaue, Glas in den Container. Alles andere entscheidet der Weg – und</text><text font-size="22" x="96" y="562"><tspan>Elektrogeräte, Batterien und Glas <tspan font-weight="bold" fill="#12525C">gehören nie in den Restmüll</tspan>.</tspan></text></g>
+
+  <g id="seitenfuss" data-pptx-role="footer" data-pptx-bounds="64 675 1152 24" fill="#8A8A82" font-size="15">
+    <text x="64" y="690">Quelle: Mülltrennung wirkt! (Initiative der dualen Systeme) und Bundesumweltministerium, Stand 2026</text>
+    <text x="1216" y="690" text-anchor="end">4</text>
+  </g>
+</svg>

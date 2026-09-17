@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512" />
+
+  <g id="artifact-title" data-pptx-bounds="88 70 700 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227" />
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">龟背形网格状器</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">一件在整个中国青铜时代都前所未见的器物，至今无法开启</text>
+  </g>
+
+  <g id="structure-sketch" data-pptx-bounds="88 186 512 324">
+    <text x="140" y="202" font-size="18" fill="#4FB9A5">上层网格</text>
+    <rect x="140" y="212" width="400" height="100" rx="8" fill="none" stroke="#4FB9A5" stroke-width="1.5" />
+    <line x1="190" y1="212" x2="190" y2="312" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="240" y1="212" x2="240" y2="312" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="290" y1="212" x2="290" y2="312" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="340" y1="212" x2="340" y2="312" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="390" y1="212" x2="390" y2="312" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="440" y1="212" x2="440" y2="312" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="490" y1="212" x2="490" y2="312" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="140" y1="262" x2="540" y2="262" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <ellipse cx="340" cy="340" rx="90" ry="26" fill="#4FB9A5" fill-opacity="0.25" stroke="#4FB9A5" stroke-width="1.5" />
+    <text x="440" y="346" font-size="18" fill="#A8A396">内置椭圆形玉器</text>
+    <rect x="148" y="312" width="8" height="64" fill="#C9A227" />
+    <rect x="170" y="312" width="8" height="64" fill="#C9A227" />
+    <rect x="534" y="328" width="14" height="34" rx="3" fill="#C9A227" />
+    <rect x="140" y="376" width="400" height="100" rx="8" fill="none" stroke="#4FB9A5" stroke-width="1.5" />
+    <line x1="190" y1="376" x2="190" y2="476" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="240" y1="376" x2="240" y2="476" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="290" y1="376" x2="290" y2="476" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="340" y1="376" x2="340" y2="476" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="390" y1="376" x2="390" y2="476" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="440" y1="376" x2="440" y2="476" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="490" y1="376" x2="490" y2="476" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <line x1="140" y1="426" x2="540" y2="426" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1" />
+    <circle cx="140" cy="212" r="8" fill="#C6704A" />
+    <circle cx="540" cy="212" r="8" fill="#C6704A" />
+    <circle cx="140" cy="476" r="8" fill="#C6704A" />
+    <circle cx="540" cy="476" r="8" fill="#C6704A" />
+    <text x="140" y="496" font-size="18" fill="#4FB9A5">下层网格</text>
+  </g>
+
+  <g id="sketch-caption" data-pptx-bounds="88 520 512 80">
+    <text x="88" y="540" font-size="18" fill="#C6704A">结构示意（非文物照片）：四角雕刻龙头，一<tspan x="88" dy="24">侧有门合页状插销，另一侧以两条铜带连接两</tspan><tspan x="88" dy="24">层网格</tspan></text>
+  </g>
+
+  <g id="fact-era-pit" data-pptx-bounds="640 186 552 82">
+    <text x="640" y="208" font-size="18" fill="#4FB9A5">年代与坑号</text>
+    <text x="640" y="236" font-size="24" fill="#E9E5D9">商代晚期 · 7 号祭祀坑</text>
+    <text x="640" y="261" font-size="18" fill="#A8A396">2022 年 6 月 13 日随阶段性成果公布</text>
+  </g>
+
+  <g id="fact-form" data-pptx-bounds="640 268 552 82" font-size="18">
+    <text x="640" y="290" fill="#4FB9A5">形制</text>
+    <text x="640" y="314" fill="#E9E5D9">由一次性浑铸、分上下两层的青铜网格「盒<tspan x="640" dy="24">子」与内部放置的椭圆形青绿色玉器组成</tspan></text>
+  </g>
+
+  <g id="fact-state" data-pptx-bounds="640 350 552 60" font-size="18">
+    <text x="640" y="372" fill="#4FB9A5">状态</text>
+    <text x="640" y="396" fill="#E9E5D9">因严重锈蚀，两角变形残破，暂无法开启</text>
+  </g>
+
+  <g id="fact-highlight" data-pptx-bounds="640 410 552 84" font-size="18">
+    <text x="640" y="432" fill="#4FB9A5">看点</text>
+    <text x="640" y="456" fill="#E9E5D9">发掘负责人黎海超称这件器物在整个中国青铜<tspan x="640" dy="24">时代都前所未见，铸造工艺非常精湛</tspan></text>
+  </g>
+
+  <g id="section-exit" data-pptx-bounds="640 504 552 74">
+    <a href="#slide-7">
+      <rect x="640" y="510" width="260" height="60" rx="8" fill="#1D2A24" stroke="#C9A227" stroke-opacity="0.6" stroke-width="1" />
+      <use data-icon="tabler-outline/list" x="664" y="526" width="28" height="28" fill="#C9A227" stroke-width="2" />
+      <text x="708" y="550" font-size="24" fill="#C9A227">返回文物目录</text>
+    </a>
+    <a href="#slide-1">
+      <rect x="932" y="510" width="260" height="60" rx="8" fill="#1D2A24" stroke="#C9A227" stroke-opacity="0.6" stroke-width="1" />
+      <use data-icon="tabler-outline/home" x="956" y="526" width="28" height="28" fill="#C9A227" stroke-width="2" />
+      <text x="1000" y="550" font-size="24" fill="#C9A227">返回展区菜单</text>
+    </a>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：四川在线《这件龟背形网格状青铜器造型别致，暗藏机关》，2022</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1" />
+    <text x="620" y="680" font-size="16" fill="#A8A396" text-anchor="middle">14 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/home" x="82" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-7">
+      <rect x="240" y="648" width="180" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/list" x="258" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="292" y="680" font-size="20" fill="#E9E5D9">文物目录</text>
+    </a>
+    <a href="#slide-13">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/arrow-left" x="916" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-15">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <use data-icon="tabler-outline/arrow-right" x="1178" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+    </a>
+  </g>
+</svg>

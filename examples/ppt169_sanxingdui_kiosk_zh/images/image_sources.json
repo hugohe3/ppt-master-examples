@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "filename": "sanxingdui_museum_exterior.jpg",
+      "slide": "01_menu",
+      "purpose": "menu background, place anchor",
+      "search_query": "Sanxingdui Museum building",
+      "matched_query": "Sanxingdui Museum",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Sanxingdui Museum 20260512-1.jpg",
+      "author": "Suicasmo",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Sanxingdui_Museum_20260512-1.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sanxingdui_Museum_20260512-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 5184,
+      "height": 3456,
+      "attribution_text": "sanxingdui_museum_exterior.jpg — \"Sanxingdui Museum 20260512-1.jpg\" by Suicasmo via Wikimedia Commons — license: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Sanxingdui|三星堆"
+      ],
+      "query_variants": [
+        "Sanxingdui Museum",
+        "三星堆博物馆",
+        "Sanxingdui site Guanghan"
+      ]
+    },
+    {
+      "filename": "bronze_standing_figure.jpg",
+      "slide": "08_standing_figure",
+      "purpose": "artifact identity photo",
+      "search_query": "Sanxingdui bronze standing figure",
+      "matched_query": "Sanxingdui bronze standing figure",
+      "orientation": "portrait",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Bronze Colossal Standing Figure, Sanxingdui a.jpg",
+      "author": "Gary Todd",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Bronze_Colossal_Standing_Figure,_Sanxingdui_a.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bronze_Colossal_Standing_Figure%2C_Sanxingdui_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2592,
+      "height": 3888,
+      "attribution_text": "bronze_standing_figure.jpg — \"Bronze Colossal Standing Figure, Sanxingdui a.jpg\" by Gary Todd via Wikimedia Commons — license: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Sanxingdui|三星堆",
+        "standing figure|standing man|立人"
+      ],
+      "query_variants": [
+        "青铜大立人",
+        "Sanxingdui large bronze standing figure",
+        "Bronze Standing Figure Sanxingdui Museum"
+      ]
+    },
+    {
+      "filename": "bronze_sacred_tree.jpg",
+      "slide": "09_sacred_tree",
+      "purpose": "artifact identity photo",
+      "search_query": "Sanxingdui bronze sacred tree",
+      "matched_query": "青铜神树",
+      "orientation": "portrait",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Bronze Tree, Sanxingdui 1a.jpg",
+      "author": "Gary Todd",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Bronze_Tree,_Sanxingdui_1a.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bronze_Tree%2C_Sanxingdui_1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2592,
+      "height": 3888,
+      "attribution_text": "bronze_sacred_tree.jpg — \"Bronze Tree, Sanxingdui 1a.jpg\" by Gary Todd via Wikimedia Commons — license: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Sanxingdui|三星堆",
+        "tree|神树"
+      ],
+      "query_variants": [
+        "青铜神树",
+        "Sanxingdui bronze divine tree",
+        "Sanxingdui tree bronze Guanghan"
+      ]
+    },
+    {
+      "filename": "bronze_mask_protruding_eyes.jpg",
+      "slide": "10_protruding_mask",
+      "purpose": "artifact identity photo",
+      "search_query": "Sanxingdui bronze mask protruding eyes",
+      "matched_query": "纵目面具",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "SanXingDui ZongMuMianJu.jpg",
+      "author": "Jason Zou",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:SanXingDui_ZongMuMianJu.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/SanXingDui_ZongMuMianJu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2586,
+      "height": 1628,
+      "attribution_text": "bronze_mask_protruding_eyes.jpg — \"SanXingDui ZongMuMianJu.jpg\" by Jason Zou via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Sanxingdui|三星堆",
+        "mask|面具"
+      ],
+      "query_variants": [
+        "纵目面具",
+        "Sanxingdui mask with protruding pupils",
+        "Sanxingdui bronze mask Guanghan"
+      ]
+    },
+    {
+      "filename": "gold_scepter.jpg",
+      "slide": "11_gold_scepter",
+      "purpose": "artifact identity photo",
+      "search_query": "三星堆金杖",
+      "matched_query": "三星堆金杖",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "三星堆出土文物14.png",
+      "author": "陳寅恪",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%98%9F%E5%A0%86%E5%87%BA%E5%9C%9F%E6%96%87%E7%89%A914.png",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%E4%B8%89%E6%98%9F%E5%A0%86%E5%87%BA%E5%9C%9F%E6%96%87%E7%89%A914.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 2560,
+      "height": 1920,
+      "attribution_text": "gold_scepter.jpg — \"三星堆出土文物14.png\" by 陳寅恪 via Wikimedia Commons — license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Sanxingdui|三星堆",
+        "gold|golden|金"
+      ],
+      "query_variants": [
+        "Sanxingdui gold sceptre",
+        "Golden sceptre Sanxingdui Museum",
+        "Sanxingdui gold staff Shang dynasty",
+        "Jinzhang Sanxingdui"
+      ]
+    }
+  ],
+  "generated_at": "2026-09-17T14:59:14.374730Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1242 1660" width="1242" height="1660" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1242" height="1660" fill="#FBF6EC"/>
+  <rect id="rail" data-pptx-role="decoration" x="54" y="88" width="3" height="1484" fill="#1F6F5C" fill-opacity="0.30"/>
+
+  <g id="rail-marker" data-pptx-bounds="42 788 28 28">
+    <circle cx="55.5" cy="802" r="13" fill="#D94F3D"/>
+  </g>
+
+  <g id="page-kicker" data-pptx-bounds="88 96 1066 56">
+    <text x="88" y="134" font-size="36" fill="#1F6F5C" letter-spacing="2">纠错 · 该清出去的</text>
+  </g>
+
+  <g id="page-title" data-pptx-bounds="88 166 1066 130">
+    <text x="88" y="250" font-family="SimHei, Arial Black, sans-serif" font-size="80" font-weight="bold" fill="#2B2A26">这几样,今天就清出去</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 310 1066 90">
+    <text x="88" y="360" font-size="52" fill="#2B2A26">含汞、有致癌风险,<tspan fill="#C0392B" font-weight="bold">消毒还不可靠</tspan>。</text>
+  </g>
+
+    <g id="p05-ban-frame" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="96 420 1058 620" data-pptx-av-adj1="val 2300" fill="#EFE3CC" stroke="#C0392B" stroke-width="3">
+<path d="M 96 420 L 1154 420 L 1154 1040 L 96 1040 Z M 110.26 434.26 L 110.26 1025.74 L 1139.74 1025.74 L 1139.74 434.26 Z"/>
+</g>
+  <g id="old-drugs-figure" data-pptx-bounds="978 445 160 160">
+    <image href="../images/no_old_drugs.jpg" x="978" y="445" width="160" height="160" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="ban-item-mercurochrome" data-pptx-bounds="150 458 825 104">
+      <use data-icon="tabler-outline/ban" x="150" y="466" width="44" height="44" fill="#C0392B" stroke-width="2"/>
+      <text x="212" y="500" font-size="44" font-weight="bold" fill="#C0392B">红药水(汞溴红)</text>
+      <text x="212" y="544" font-size="32" fill="#6B6558">含汞有毒、消毒不可靠,大面积擦伤可致坏死</text>
+    </g>
+  <g id="ban-item-gentian" data-pptx-bounds="150 580 825 104">
+      <use data-icon="tabler-outline/ban" x="150" y="588" width="44" height="44" fill="#C0392B" stroke-width="2"/>
+      <text x="212" y="622" font-size="44" font-weight="bold" fill="#C0392B">紫药水(龙胆紫)</text>
+      <text x="212" y="666" font-size="32" fill="#6B6558">深或脏的伤口易在痂下积脓,且是潜在致癌剂</text>
+    </g>
+  <g id="ban-item-alcohol" data-pptx-bounds="150 702 825 104">
+      <use data-icon="tabler-outline/ban" x="150" y="710" width="44" height="44" fill="#C0392B" stroke-width="2"/>
+      <text x="212" y="744" font-size="44" font-weight="bold" fill="#C0392B">酒精、碘酒直接涂伤口</text>
+      <text x="212" y="788" font-size="32" fill="#6B6558">只能消毒伤口周围皮肤;碘酒还需酒精脱碘</text>
+    </g>
+  <g id="ban-item-expired" data-pptx-bounds="150 824 825 148">
+      <use data-icon="tabler-outline/ban" x="150" y="832" width="44" height="44" fill="#C0392B" stroke-width="2"/>
+      <text x="212" y="866" font-size="44" font-weight="bold" fill="#C0392B">过期药与变色变质的药</text>
+      <text x="212" y="910" font-size="32" fill="#6B6558">药效全无,还可能变质引发不良反应<tspan x="212" dy="44">粘连、变硬、开裂缺角的,没过期也别用</tspan></text>
+  </g>
+
+  <g id="disposal-flow" data-pptx-bounds="88 1070 1066 210">
+    <use data-icon="tabler-outline/trash" x="150" y="1082" width="48" height="48" fill="#1F6F5C" stroke-width="2"/>
+    <text x="214" y="1122" font-family="SimHei, Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#1F6F5C">清出来的药怎么扔</text>
+    <text x="150" y="1210" font-size="44" fill="#2B2A26">破坏药品包装盒</text>
+    <g id="p05-disposal-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="520 1172 120 48" fill="#1F6F5C" stroke="none">
+<path d="M 520 1184 L 616 1184 L 616 1172 L 640 1196 L 616 1220 L 616 1208 L 520 1208 Z"/>
+</g>
+    <text x="672" y="1182" font-size="44" fill="#2B2A26">随生活垃圾丢弃,<tspan x="672" dy="62">或送正规回收点</tspan></text>
+  </g>
+
+  <g id="dispute-note" data-pptx-bounds="88 1300 1066 112">
+    <use data-icon="tabler-outline/alert-triangle" x="88" y="1300" width="36" height="36" fill="#E8A33D" stroke-width="2"/>
+    <text x="138" y="1330" font-size="32" fill="#6B6558">争议条目:止血粉在应急管理部清单里被列为外用药品,<tspan x="138" dy="44">但国防部科普明确不建议用于伤口,本清单不列为必备。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="88 1480 1066 80" font-size="26" fill="#6B6558">
+    <text x="88" y="1512">来源:国家药监局与广西药监局用药科普;卫健系统健康科普;<tspan x="88" dy="34">《国家危险废物名录》(2021 年版);国防部网止血包扎科普</tspan></text>
+    <text x="1154" y="1546" text-anchor="end">5 / 9</text>
+  </g>
+</svg>

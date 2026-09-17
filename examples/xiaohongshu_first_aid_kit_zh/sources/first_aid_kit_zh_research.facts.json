@@ -1,0 +1,630 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "家用急救包怎么配（中文小红书图文轮播 9 张，3:4 竖版）",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "应急管理部 2020 年 11 月 29 日发布《全国基础版家庭应急物资储备建议清单》，共 11 项，涵盖应急物品、应急工具和应急药物三类。",
+      "source_title": "全国基础版家庭应急物资储备建议清单——中华人民共和国应急管理部",
+      "source_url": "https://www.mem.gov.cn/kp/shaq/202011/t20201129_372149.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "应急管理部基础版清单中的「外用药品」一项明确列举：止血粉、止血贴、纱布绷带、棉球、碘伏棉棒。",
+      "source_title": "全国基础版家庭应急物资储备建议清单——中华人民共和国应急管理部",
+      "source_url": "https://www.mem.gov.cn/kp/shaq/202011/t20201129_372149.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "应急管理部基础版清单同时把手电筒、多功能小刀、救生哨子、消毒湿纸巾、医用外科口罩列为家庭常备，其中手电筒建议存放在床头。",
+      "source_title": "全国基础版家庭应急物资储备建议清单——中华人民共和国应急管理部",
+      "source_url": "https://www.mem.gov.cn/kp/shaq/202011/t20201129_372149.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "美国红十字会建议，四口之家的急救包应包含 2 片吸收性敷料（5×9 英寸）、25 片各种尺寸创可贴、1 卷布质胶带（10 码×1 英寸）。",
+      "source_title": "Make a First Aid Kit: What to Include | American Red Cross",
+      "source_url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "美国红十字会四口之家清单的包扎类还包括 1 卷 3 英寸宽绷带、1 卷 4 英寸宽绷带、5 片 3×3 英寸无菌纱布、5 片 4×4 英寸无菌纱布、2 条三角巾。",
+      "source_title": "Make a First Aid Kit: What to Include | American Red Cross",
+      "source_url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "美国红十字会四口之家清单的消毒与外用类包括 5 包抗生素软膏、5 包消毒湿巾、2 包氢化可的松软膏。",
+      "source_title": "Make a First Aid Kit: What to Include | American Red Cross",
+      "source_url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "美国红十字会四口之家清单的工具与防护类包括 1 条急救毯、1 个带单向阀的人工呼吸面膜、1 个速冷冰袋、2 副非乳胶手套、1 支非水银非玻璃口腔体温计、1 把镊子，以及一份急救操作说明。",
+      "source_title": "Make a First Aid Kit: What to Include | American Red Cross",
+      "source_url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "美国红十字会建议在急救包中加入个人专用物品，例如本人常用药和紧急联系电话。",
+      "source_title": "Make a First Aid Kit: What to Include | American Red Cross",
+      "source_url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "广州市卫生健康委健康科普平台建议，家庭急救箱的消毒类配医用碘伏和无菌棉签／棉球，理由是碘伏温和不刺激、适用所有伤口。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "广州市卫生健康委健康科普平台建议，家庭急救箱的止血包扎类配无菌纱布、医用胶带、多种尺寸创可贴、弹力绷带和止血带。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "广州市卫生健康委健康科普平台建议，家庭急救箱的工具与防护类配一次性医用外科手套、医用圆头剪刀、镊子、体温计和电子血压计，并提醒定期检查血压计电量与校准。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "广州市卫生健康委健康科普平台把家庭常备药按用途分为退烧止痛、抗过敏、肠胃应急、外用止痛和清凉解暑五类，并强调「对症备用，不盲目囤货」。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "广州市卫生健康委健康科普平台建议按家庭成员补充特殊配置：确诊冠心病的老人常备硝酸甘油片或速效救心丸与上臂式电子血压计，有小孩的家庭补儿童退热药、退热贴、无菌敷贴、蚊虫叮咬膏和生理盐水洗鼻剂。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "北京急救中心 2020 年 8 月 2 日发布《家庭医疗应急物品指导目录》，把家庭医疗应急物品分为基础配置和特殊配置两大类。",
+      "source_title": "北京急救中心发布《家庭医疗应急物品指导目录》，看看你家缺了啥——健康界",
+      "source_url": "https://www.cn-healthcare.com/articlewm/20200804/content-1135365.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "北京急救中心《家庭医疗应急物品指导目录》的基础配置包括一次性手套、医用外科口罩、护目镜、碘伏棉签、生理盐水、创可贴等个人防护与清洁消毒物品。",
+      "source_title": "北京急救中心发布《家庭医疗应急物品指导目录》，看看你家缺了啥——健康界",
+      "source_url": "https://www.cn-healthcare.com/articlewm/20200804/content-1135365.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "广西壮族自治区药品监督管理局科普指出，碘伏是碘的络合物，对皮肤黏膜无刺激无腐蚀，可直接用于黏膜消毒，并能在创面形成保护膜；碘过敏者禁用，甲亢病人慎用。",
+      "source_title": "小伤口消毒的常用药介绍——广西壮族自治区药品监督管理局",
+      "source_url": "http://yjj.gxzf.gov.cn/yp/ypkp/t2462022.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "广西壮族自治区药品监督管理局指出，一般情况下用 0.9% 生理盐水清洗伤口是最好的处理方法；伤口较小较浅又没有消毒液时，可用纯净水或生理盐水冲洗干净后贴创可贴或纱布。",
+      "source_title": "小伤口消毒的常用药介绍——广西壮族自治区药品监督管理局",
+      "source_url": "http://yjj.gxzf.gov.cn/yp/ypkp/t2462022.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "广西壮族自治区药品监督管理局指出，红汞（红药水、汞溴红）穿透力很弱、抑菌作用小、消毒效果并不可靠，且含有重金属汞的有机化合物对人体有毒，大面积皮肤擦伤时不宜使用，以免造成大块皮肤坏死。",
+      "source_title": "小伤口消毒的常用药介绍——广西壮族自治区药品监督管理局",
+      "source_url": "http://yjj.gxzf.gov.cn/yp/ypkp/t2462022.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "广西壮族自治区药品监督管理局指出，龙胆紫（紫药水、甲紫）收敛结痂快，不宜用于较深或较脏的伤口，否则痂下易积存脓液；近年来发现龙胆紫是潜在的致癌剂，因此使用减少。",
+      "source_title": "小伤口消毒的常用药介绍——广西壮族自治区药品监督管理局",
+      "source_url": "http://yjj.gxzf.gov.cn/yp/ypkp/t2462022.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "广西壮族自治区药品监督管理局明确建议：最好不用红汞、龙胆紫涂擦伤口；红汞还不能与碘酊混合使用或同一部位先后使用。",
+      "source_title": "小伤口消毒的常用药介绍——广西壮族自治区药品监督管理局",
+      "source_url": "http://yjj.gxzf.gov.cn/yp/ypkp/t2462022.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "广西壮族自治区药品监督管理局指出，75% 酒精一般只用于伤口周围皮肤消毒，不能直接涂擦伤口，因为刺激伤口疼痛难受，还会使创面蛋白凝固、影响伤口愈合。",
+      "source_title": "小伤口消毒的常用药介绍——广西壮族自治区药品监督管理局",
+      "source_url": "http://yjj.gxzf.gov.cn/yp/ypkp/t2462022.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "广西壮族自治区药品监督管理局指出，碘酊（碘酒）含酒精成分，只能消毒伤口周围皮肤、不能涂在伤口上，且涂后需尽快用 75% 酒精脱碘，以免灼伤皮肤。",
+      "source_title": "小伤口消毒的常用药介绍——广西壮族自治区药品监督管理局",
+      "source_url": "http://yjj.gxzf.gov.cn/yp/ypkp/t2462022.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "广西壮族自治区药品监督管理局提醒，使用医用双氧水时要严格控制浓度不高于 3%，否则会引起局部皮肤烧伤。",
+      "source_title": "小伤口消毒的常用药介绍——广西壮族自治区药品监督管理局",
+      "source_url": "http://yjj.gxzf.gov.cn/yp/ypkp/t2462022.shtml",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "广州市卫生健康委健康科普平台把「禁用红药水、紫药水」列为家庭急救箱错误之首，理由是含汞、刺激性强、易染色影响伤口观察，并要求全部清理出急救箱。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "广州市卫生健康委健康科普平台把「盲目囤积、过期失效」和「重药品、轻工具」列为家庭急救箱的另外两个常见错误：过期药品药效全无还可能变质引发不良反应；只囤药却没有纱布、碘伏、止血带，外伤急救时直接卡壳。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "美国红十字会援引美国 FDA 的说明指出，过期医疗产品可能因化学成分改变或效价下降而失效甚至有风险，某些过期药品还存在细菌滋生风险。",
+      "source_title": "Do first aid kits expire? | American Red Cross",
+      "source_url": "https://www.redcross.org/take-a-class/resources/articles/do-first-aid-kits-expire",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "Mayo Clinic 指出，清洗割伤擦伤时不要使用双氧水或碘酊，两者都会刺激伤口。",
+      "source_title": "Cuts and scrapes: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "解放军报刊发于国防部网的止血包扎科普指出，处理伤口时尽量不要用止血粉，否则不仅会刺激伤口，还会盖住创面，影响医生诊断及二次处理。",
+      "source_title": "@战友 压、包、塞、捆，四步教你学会正确止血包扎——中华人民共和国国防部",
+      "source_url": "http://www.mod.gov.cn/gfbw/gffw/ws/4918896.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "MedlinePlus（美国国立医学图书馆）建议把药品存放在阴凉干燥处，例如抽屉、橱柜、储物盒或壁橱，并远离炉灶、水槽和发热电器。",
+      "source_title": "Storing your medicines: MedlinePlus Medical Encyclopedia",
+      "source_url": "https://medlineplus.gov/ency/patientinstructions/000534.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "MedlinePlus 指出，很多人把药放在卫生间柜子里，但淋浴、洗澡和洗手台带来的高温与潮气会损坏药品，使药效下降或在有效期之前变质。",
+      "source_title": "Storing your medicines: MedlinePlus Medical Encyclopedia",
+      "source_url": "https://medlineplus.gov/ency/patientinstructions/000534.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "MedlinePlus 建议药品始终放在儿童看不见也够不着的地方，最好存放在带儿童安全锁扣的柜子里。",
+      "source_title": "Storing your medicines: MedlinePlus Medical Encyclopedia",
+      "source_url": "https://medlineplus.gov/ency/patientinstructions/000534.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "MedlinePlus 明确提醒：不要把药品放在汽车的手套箱里，那里可能过热、过冷或受潮。",
+      "source_title": "Storing your medicines: MedlinePlus Medical Encyclopedia",
+      "source_url": "https://medlineplus.gov/ency/patientinstructions/000534.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "药师冀连梅在北京急救中心《家庭医疗应急物品指导目录》发布报道中建议：药品要放在孩子接触不到、而成人自己很熟悉很容易拿到的地方，且存放处要通风、干燥、阴凉。",
+      "source_title": "北京急救中心发布《家庭医疗应急物品指导目录》，看看你家缺了啥——健康界",
+      "source_url": "https://www.cn-healthcare.com/articlewm/20200804/content-1135365.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "美国红十字会建议家里和车上各放一个急救包，并事先知道工作场所的急救包放在哪里。",
+      "source_title": "Make a First Aid Kit: What to Include | American Red Cross",
+      "source_url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "广州市卫生健康委健康科普平台建议家庭急救箱每 3 个月自查 1 次，检查药品有效期、工具是否完好，补充缺失物品并更换过期或破损用品。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "北京急救中心《家庭医疗应急物品指导目录》要求应急物资定期更新、妥善放置、保证随时可用；药师冀连梅建议至少每三个月查看一次药品有效期和性状有无变质。",
+      "source_title": "北京急救中心发布《家庭医疗应急物品指导目录》，看看你家缺了啥——健康界",
+      "source_url": "https://www.cn-healthcare.com/articlewm/20200804/content-1135365.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "美国红十字会建议每年完整复核一次急救包，发现过期物品立即更换；没有标注有效期的物品则逐件检查是否仍可正常使用。",
+      "source_title": "Do first aid kits expire? | American Red Cross",
+      "source_url": "https://www.redcross.org/take-a-class/resources/articles/do-first-aid-kits-expire",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "美国红十字会给出的急救包保质期参考：胶带、敷料、纱布绷带、无菌纱布、冰袋、手套、剪刀、镊子等在包装完好的前提下可达 5 年；酒精湿巾约 2 年，抗生素软膏约 2 年，烧伤软膏约 1～2 年，洗眼液约 3 年，免洗洗手液约 4～5 年。",
+      "source_title": "Do first aid kits expire? | American Red Cross",
+      "source_url": "https://www.redcross.org/take-a-class/resources/articles/do-first-aid-kits-expire",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "美国红十字会提醒，创可贴和胶布即使过了 5 年也未必「变质」，但黏性会随时间下降；纱布若包装受潮或变色，即使未过期也应更换。",
+      "source_title": "Do first aid kits expire? | American Red Cross",
+      "source_url": "https://www.redcross.org/take-a-class/resources/articles/do-first-aid-kits-expire",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "美国红十字会给出的急救包检查五步：检查箱体能否正常开合、有无破损锈蚀；逐件取出检查包装有无破损污渍渗漏与是否过期；清理箱内灰尘碎屑；更换过期或损坏的物品；记录本次检查时间并把记录留在箱边。",
+      "source_title": "Do first aid kits expire? | American Red Cross",
+      "source_url": "https://www.redcross.org/take-a-class/resources/articles/do-first-aid-kits-expire",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "Mayo Clinic 指出，处理小的割伤擦伤第一步是洗手，以避免感染；小伤口通常会自行止血，必要时用干净纱布或布料轻压伤口并抬高该部位直到出血停止。",
+      "source_title": "Cuts and scrapes: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "Mayo Clinic 建议用流动清水冲洗伤口以降低感染风险，用肥皂清洗伤口周围但不要让肥皂进入伤口，并用酒精清洁过的镊子取出污物；若无法完全清除异物应就医。",
+      "source_title": "Cuts and scrapes: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "Mayo Clinic 建议清创后薄涂一层抗生素软膏或凡士林保持创面湿润、帮助减少疤痕，再用创可贴或纱布覆盖伤口，并至少每天更换一次敷料、沾湿或弄脏时随时更换。",
+      "source_title": "Cuts and scrapes: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "Mayo Clinic 指出，伤口周围出现范围扩大的颜色改变、疼痛加剧、渗液、发热或肿胀等感染征象时应就医；若伤口深或脏且近五年未接种过破伤风疫苗，应就医补种。",
+      "source_title": "Cuts and scrapes: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "Mayo Clinic 指出，伤口很深或不确定严重程度时应立即拨打急救电话；施救前若有条件应戴一次性手套等个人防护装备。",
+      "source_title": "Severe bleeding: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-severe-bleeding/basics/art-20056661",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "Mayo Clinic 指出，严重出血时可清除明显的表面异物，但不要取出大的或深深嵌入的异物，也不要探查伤口。",
+      "source_title": "Severe bleeding: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-severe-bleeding/basics/art-20056661",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "Mayo Clinic 的止血步骤：用无菌纱布或干净布覆盖伤口，用手掌用力按压直到出血停止，再用厚敷料或干净布加胶带包扎，可能时把伤处抬高到心脏水平以上；但不要按压眼部损伤、嵌入异物处，怀疑颅骨骨折时不要按压头部伤口。",
+      "source_title": "Severe bleeding: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-severe-bleeding/basics/art-20056661",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "Mayo Clinic 指出，若血液渗透敷料，应在原有敷料上再加纱布或布料，然后继续用力按压，而不是把原敷料揭下来。",
+      "source_title": "Severe bleeding: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-severe-bleeding/basics/art-20056661",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "Mayo Clinic 对止血带的立场：止血带能有效控制四肢危及生命的大出血，但只应在有成品止血带且受过使用训练时使用，不要用围巾、皮带等临时物品自制止血带；急救人员到达时要说明止血带已使用多久。",
+      "source_title": "Severe bleeding: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-severe-bleeding/basics/art-20056661",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F050",
+      "claim": "Mayo Clinic 建议让伤者躺下并垫上毯子防止体温流失，出现虚弱、皮肤湿冷、脉搏加快等休克征象时抬高双脚，并尽量让伤者保持不动。",
+      "source_title": "Severe bleeding: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-severe-bleeding/basics/art-20056661",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F051",
+      "claim": "解放军报刊发于国防部网的科普把止血包扎概括为「压、包、塞、捆」四步，其中直接压迫止血是最常见的方法：用干净纱布或布类直接按压出血区。",
+      "source_title": "@战友 压、包、塞、捆，四步教你学会正确止血包扎——中华人民共和国国防部",
+      "source_url": "http://www.mod.gov.cn/gfbw/gffw/ws/4918896.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F052",
+      "claim": "解放军报刊发于国防部网的科普指出，加压包扎应遵循「先盖后包、力度适中」：先在伤口盖敷料再用绷带或三角巾加压包扎；包扎过松不能有效止血，过紧可能造成远端组织缺血缺氧坏死。",
+      "source_title": "@战友 压、包、塞、捆，四步教你学会正确止血包扎——中华人民共和国国防部",
+      "source_url": "http://www.mod.gov.cn/gfbw/gffw/ws/4918896.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F053",
+      "claim": "解放军报刊发于国防部网的科普强调，处理伤口时不可随意去除伤口内的较大异物，以免加重出血。",
+      "source_title": "@战友 压、包、塞、捆，四步教你学会正确止血包扎——中华人民共和国国防部",
+      "source_url": "http://www.mod.gov.cn/gfbw/gffw/ws/4918896.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F054",
+      "claim": "解放军报刊发于国防部网的科普指出，止血带止血法适用于四肢大动脉破裂出血，主要用于暂不能用其他方法控制的出血；连续使用不能超过 2 小时，每隔 30 分钟放松 2～3 分钟，且不能用铁丝、电线、尼龙绳、麻绳代替止血带。",
+      "source_title": "@战友 压、包、塞、捆，四步教你学会正确止血包扎——中华人民共和国国防部",
+      "source_url": "http://www.mod.gov.cn/gfbw/gffw/ws/4918896.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F055",
+      "claim": "解放军报刊发于国防部网的科普纠正两个常见误区：浅表伤口出血后不应让它自然风干，伤口愈合需要湿润环境，应在消毒后用纱布覆盖；包扎也不宜过紧，过紧会阻碍血液循环、减少伤口接触氧气、使愈合变慢。",
+      "source_title": "@战友 压、包、塞、捆，四步教你学会正确止血包扎——中华人民共和国国防部",
+      "source_url": "http://www.mod.gov.cn/gfbw/gffw/ws/4918896.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F056",
+      "claim": "广州市卫生健康委健康科普平台列出四种必须立即拨打 120 的情况：持续胸痛超过 15 分钟、意识模糊或抽搐昏迷、严重创伤或出血不止、呼吸困难面色青紫。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F057",
+      "claim": "首都之窗发布的烫伤急救指引给出五步法「冲、脱、泡、盖、送」，其中「冲」为用 15～25℃ 常温自来水持续冲洗 15～30 分钟，至少 15 分钟，时间越长越好。",
+      "source_title": "烫伤、烧伤别乱处理！教你正确急救步骤——首都之窗·北京市人民政府门户网站",
+      "source_url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260507_4640118.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F058",
+      "claim": "首都之窗发布的烫伤急救指引中的「脱」：冲洗后轻柔脱去衣物，若衣物与皮肤粘连则用剪刀剪开周围部分、保留粘连部分，避免二次撕裂创面。",
+      "source_title": "烫伤、烧伤别乱处理！教你正确急救步骤——首都之窗·北京市人民政府门户网站",
+      "source_url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260507_4640118.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F059",
+      "claim": "首都之窗发布的烫伤急救指引中的「泡」：小面积烫伤可用冷水浸泡 10～20 分钟；大面积烫伤以及老人、儿童禁止长时间浸泡。",
+      "source_title": "烫伤、烧伤别乱处理！教你正确急救步骤——首都之窗·北京市人民政府门户网站",
+      "source_url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260507_4640118.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F060",
+      "claim": "首都之窗发布的烫伤急救指引中的「盖」与「送」：用无菌纱布或干净棉布轻覆创面以保护伤口、减少污染；出现烫伤面积大于手掌、皮肤起泡或变色、位于头面部或关节、患者为婴幼儿或老人、伤口渗液有异味、化学或电烧伤等情况须立即就医。",
+      "source_title": "烫伤、烧伤别乱处理！教你正确急救步骤——首都之窗·北京市人民政府门户网站",
+      "source_url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260507_4640118.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F061",
+      "claim": "首都之窗发布的烫伤急救指引明确禁止：涂抹牙膏、酱油、醋、香油、草木灰，直接用冰块冰敷，强行撕扯衣物或挑破水泡。",
+      "source_title": "烫伤、烧伤别乱处理！教你正确急救步骤——首都之窗·北京市人民政府门户网站",
+      "source_url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260507_4640118.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F062",
+      "claim": "首都之窗发布的烫伤急救指引对水疱的处理：直径小于 1 厘米的小水疱予以保留，大于 1 厘米的大水疱必须由医生处理，严禁自己挑破、撕掉疱皮或挤水。",
+      "source_title": "烫伤、烧伤别乱处理！教你正确急救步骤——首都之窗·北京市人民政府门户网站",
+      "source_url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260507_4640118.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F063",
+      "claim": "英国 NHS 建议烧烫伤后尽快、并在事发 3 小时内把伤处置于流动冷水下冲洗 20 分钟。",
+      "source_title": "Burns and scalds - Treatment | NHS",
+      "source_url": "https://www.nhs.uk/conditions/burns-and-scalds/treatment/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F064",
+      "claim": "英国 NHS 明确：不要在烧烫伤处涂抹任何乳膏、油类或黄油，也不要用创可贴或带黏性的敷料覆盖烧烫伤；待创面冷却后可以把保鲜膜平铺覆盖在伤处，但不要缠绕。",
+      "source_title": "Burns and scalds - Treatment | NHS",
+      "source_url": "https://www.nhs.uk/conditions/burns-and-scalds/treatment/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F065",
+      "claim": "英国 NHS 要求以下烧烫伤立即前往急诊：面积很大或很深的烧伤、位于面部与生殖器臀部的烧伤，以及由酸碱化学品或电击造成的烧伤。",
+      "source_title": "Burns and scalds - Treatment | NHS",
+      "source_url": "https://www.nhs.uk/conditions/burns-and-scalds/treatment/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F066",
+      "claim": "澳新复苏委员会（ANZCOR）烧伤急救指南要求用流动冷水冷却至少 20 分钟，并尽快开始；即使在烧伤后 3 小时内才开始冷却仍可能有帮助。",
+      "source_title": "ANZCOR Guideline 9.1.3 – First Aid for Burns",
+      "source_url": "https://www.anzcor.org/home/first-aid/guideline-9-1-3-first-aid-for-burns",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F067",
+      "claim": "澳新复苏委员会（ANZCOR）明确禁止用冰块或冰水冷却烧伤，因为可能造成进一步组织损伤，也不要涂抹洗剂、油膏、乳膏或粉剂。",
+      "source_title": "ANZCOR Guideline 9.1.3 – First Aid for Burns",
+      "source_url": "https://www.anzcor.org/home/first-aid/guideline-9-1-3-first-aid-for-burns",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F068",
+      "claim": "澳新复苏委员会（ANZCOR）建议用不粘的松散敷料（如干净的保鲜膜）覆盖烧伤处、不要缠绕肢体，并提醒盖好未烧伤部位、给伤者保暖以降低低体温风险，幼儿尤其容易迅速出现低体温。",
+      "source_title": "ANZCOR Guideline 9.1.3 – First Aid for Burns",
+      "source_url": "https://www.anzcor.org/home/first-aid/guideline-9-1-3-first-aid-for-burns",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F069",
+      "claim": "Mayo Clinic 指出，烧伤后应在肿胀出现前轻轻摘下戒指、腰带等紧束物品，但不要撕扯粘在烧伤皮肤上的衣物；也不要挑破水疱，水疱有防感染作用。",
+      "source_title": "Burns: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F070",
+      "claim": "Mayo Clinic 明确指出不要在烧伤处使用黄油、牙膏或油类，这些会封住热量、造成刺激并加重损伤。",
+      "source_title": "Burns: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F071",
+      "claim": "Mayo Clinic 列出需立即急救就医的烧伤：贯穿全层皮肤、皮肤干硬如皮革、出现焦黑或白褐黑斑块、直径超过约 8 厘米、累及面部手足会阴臀部或膝肩肘等大关节、环绕整条手臂或腿、伴有吸入烟雾、迅速肿胀，以及电击、雷击和强化学品所致烧伤。",
+      "source_title": "Burns: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F072",
+      "claim": "中国政府网转载的国家药品监督管理局答复指出，按《国家危险废物名录》（2021 年版），家庭日常生活产生的废药品属于生活垃圾中的危险废物，只要未集中收集，可不按危险废物管理，按照生活垃圾处理。",
+      "source_title": "家里过期药品怎么处理？国家药品监督管理局回应了——中国政府网",
+      "source_url": "https://app.www.gov.cn/govdata/gov/202102/01/467730/article.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F073",
+      "claim": "国家药品监督管理局给出家庭过期药品的两条处置途径：送到正规回收点集中收集并作无害化处理；或破坏药品包装盒后随生活垃圾分散丢弃、分类回收。",
+      "source_title": "家里过期药品怎么处理？国家药品监督管理局回应了——中国政府网",
+      "source_url": "https://app.www.gov.cn/govdata/gov/202102/01/467730/article.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F074",
+      "claim": "国家药品监督管理局同时倡导树立合理用药理念、减少囤药与浪费，从源头降低过期药品的产生。",
+      "source_title": "家里过期药品怎么处理？国家药品监督管理局回应了——中国政府网",
+      "source_url": "https://app.www.gov.cn/govdata/gov/202102/01/467730/article.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F075",
+      "claim": "MedlinePlus 提醒：药品变色、质地或气味改变，或药片粘连、变硬变软、开裂缺角时，即使没到有效期也不要服用。",
+      "source_title": "Storing your medicines: MedlinePlus Medical Encyclopedia",
+      "source_url": "https://medlineplus.gov/ency/patientinstructions/000534.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F076",
+      "claim": "广州市卫生健康委健康科普平台强调「备对药」加「懂急救」才是双重保障，并建议每个家庭至少有一人参加一次红十字会或急救中心的培训，学会止血、包扎、心肺复苏等基础技能。",
+      "source_title": "家庭急救箱，您真的备对了吗？——广州市健康科普信息平台",
+      "source_url": "https://kepu.wjw.gz.gov.cn/zs/content/mpost_5937.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F077",
+      "claim": "Mayo Clinic 对轻度烧伤的降温表述是：用凉水（cool）而非冰冷的水（cold）冲洗患处约 10 分钟；面部烧伤改用凉湿布敷，并指出用冰冷的水降温会加重损伤。",
+      "source_title": "Burns: First aid - Mayo Clinic",
+      "source_url": "https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F078",
+      "claim": "解放军报刊发于国防部网的科普指出，一般建议 3～5 天更换 1 次敷料；每天换药会增加伤口接触空气污染物的机会，还会破坏刚长好的组织、加重瘢痕形成。",
+      "source_title": "@战友 压、包、塞、捆，四步教你学会正确止血包扎——中华人民共和国国防部",
+      "source_url": "http://www.mod.gov.cn/gfbw/gffw/ws/4918896.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1242 1660" width="1242" height="1660" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1242" height="1660" fill="#FBF6EC"/>
+  <rect id="rail" data-pptx-role="decoration" x="54" y="88" width="3" height="1484" fill="#1F6F5C" fill-opacity="0.30"/>
+
+  <g id="rail-marker" data-pptx-bounds="42 1460 28 28">
+    <circle cx="55.5" cy="1474" r="13" fill="#D94F3D"/>
+  </g>
+
+  <g id="page-kicker" data-pptx-bounds="88 96 1066 56">
+    <text x="88" y="134" font-size="36" fill="#1F6F5C" letter-spacing="2">收尾 · 长按保存</text>
+  </g>
+
+  <g id="page-title" data-pptx-bounds="88 166 1066 130">
+    <text x="88" y="250" font-family="SimHei, Arial Black, sans-serif" font-size="80" font-weight="bold" fill="#2B2A26">一张总表,长按保存</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 310 1066 88">
+    <text x="88" y="358" font-size="52" fill="#2B2A26">照着买、照着清、<tspan fill="#D94F3D" font-weight="bold">照着查</tspan>。</text>
+  </g>
+
+  <g id="checklist-master" data-pptx-replace-with="table" data-pptx-bounds="88 404 1066 906" data-pptx-fallback-sha256="7e40dbdc24f9aff8efac4e3703ad509e95996ddb75831bbb9b6315dc95e5939d">
+    <metadata type="application/json">
+      {
+        "schema": "ppt-master.semantic-table.v2",
+        "name": "checklist-master",
+        "x": 88,
+        "y": 410,
+        "width": 1066,
+        "height": 896,
+        "column_widths": [
+          186,
+          460,
+          420
+        ],
+        "defaults": {
+          "cell": {
+            "align": "l",
+            "valign": "middle",
+            "padding": 12,
+            "font_size": 36
+          }
+        },
+        "columns": [
+          {
+            "text": "分类",
+            "fill": "#1F6F5C",
+            "color": "#FBF6EC",
+            "bold": true
+          },
+          {
+            "text": "物品",
+            "fill": "#1F6F5C",
+            "color": "#FBF6EC",
+            "bold": true
+          },
+          {
+            "text": "要点",
+            "fill": "#1F6F5C",
+            "color": "#FBF6EC",
+            "bold": true
+          }
+        ],
+        "rows": [
+          [
+            {
+              "text": "止血包扎",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "无菌纱布 各 5 片",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "渗血加盖不揭",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "止血包扎",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "弹力绷带 · 三角巾",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "先盖后包,适中",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "止血包扎",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "创可贴 · 医用胶带",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "黏性会随时间降",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "消毒",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "碘伏 + 无菌棉签",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "可直接上伤口",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "消毒",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "0.9% 生理盐水",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "冲洗伤口首选",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "消毒",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "消毒湿巾",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "只擦周围皮肤",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "常用药",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "退烧止痛 · 抗过敏",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "对症备,不囤货",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "常用药",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "肠胃 · 外用 · 解暑",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "遵医嘱看说明书",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "常用药",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "家人专用药",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "老人小孩各自备",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "工具",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "圆头剪刀 · 镊子",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "剪衣物取表浅异物",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "工具",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "手套 · 外科口罩",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "施救前先防护",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "工具",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "电子体温计",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "非水银非玻璃",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "工具",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "急救毯 · 手电筒",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "保暖、夜间取用",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "别放",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "红药水 · 紫药水",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "含汞或致癌,清出",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ],
+          [
+            {
+              "text": "别放",
+              "fill": "#EFE3CC",
+              "color": "#1F6F5C",
+              "bold": true,
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "过期或变质药",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            },
+            {
+              "text": "破坏包装再丢弃",
+              "fill": "#FFFDF7",
+              "color": "#2B2A26",
+              "borders": {
+                "bottom": {
+                  "style": "solid",
+                  "color": "#D9CDB8",
+                  "width": 1
+                }
+              }
+            }
+          ]
+        ]
+      }
+    </metadata>
+      <rect x="88" y="410" width="186" height="56" fill="#1F6F5C"/>
+      <rect x="274" y="410" width="460" height="56" fill="#1F6F5C"/>
+      <rect x="734" y="410" width="420" height="56" fill="#1F6F5C"/>
+      <text x="100" y="448" font-size="36" font-weight="bold" fill="#FBF6EC">分类</text>
+      <text x="286" y="448" font-size="36" font-weight="bold" fill="#FBF6EC">物品</text>
+      <text x="746" y="448" font-size="36" font-weight="bold" fill="#FBF6EC">要点</text>
+      <rect x="88" y="466" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="466" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="522" x2="1154" y2="522" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="504" font-size="36" font-weight="bold" fill="#1F6F5C">止血包扎</text>
+      <text x="286" y="504" font-size="36" fill="#2B2A26">无菌纱布 各 5 片</text>
+      <text x="746" y="504" font-size="36" fill="#2B2A26">渗血加盖不揭</text>
+      <rect x="88" y="522" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="522" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="578" x2="1154" y2="578" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="560" font-size="36" font-weight="bold" fill="#1F6F5C">止血包扎</text>
+      <text x="286" y="560" font-size="36" fill="#2B2A26">弹力绷带 · 三角巾</text>
+      <text x="746" y="560" font-size="36" fill="#2B2A26">先盖后包,适中</text>
+      <rect x="88" y="578" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="578" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="634" x2="1154" y2="634" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="616" font-size="36" font-weight="bold" fill="#1F6F5C">止血包扎</text>
+      <text x="286" y="616" font-size="36" fill="#2B2A26">创可贴 · 医用胶带</text>
+      <text x="746" y="616" font-size="36" fill="#2B2A26">黏性会随时间降</text>
+      <rect x="88" y="634" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="634" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="690" x2="1154" y2="690" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="672" font-size="36" font-weight="bold" fill="#1F6F5C">消毒</text>
+      <text x="286" y="672" font-size="36" fill="#2B2A26">碘伏 + 无菌棉签</text>
+      <text x="746" y="672" font-size="36" fill="#2B2A26">可直接上伤口</text>
+      <rect x="88" y="690" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="690" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="746" x2="1154" y2="746" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="728" font-size="36" font-weight="bold" fill="#1F6F5C">消毒</text>
+      <text x="286" y="728" font-size="36" fill="#2B2A26">0.9% 生理盐水</text>
+      <text x="746" y="728" font-size="36" fill="#2B2A26">冲洗伤口首选</text>
+      <rect x="88" y="746" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="746" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="802" x2="1154" y2="802" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="784" font-size="36" font-weight="bold" fill="#1F6F5C">消毒</text>
+      <text x="286" y="784" font-size="36" fill="#2B2A26">消毒湿巾</text>
+      <text x="746" y="784" font-size="36" fill="#2B2A26">只擦周围皮肤</text>
+      <rect x="88" y="802" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="802" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="858" x2="1154" y2="858" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="840" font-size="36" font-weight="bold" fill="#1F6F5C">常用药</text>
+      <text x="286" y="840" font-size="36" fill="#2B2A26">退烧止痛 · 抗过敏</text>
+      <text x="746" y="840" font-size="36" fill="#2B2A26">对症备,不囤货</text>
+      <rect x="88" y="858" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="858" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="914" x2="1154" y2="914" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="896" font-size="36" font-weight="bold" fill="#1F6F5C">常用药</text>
+      <text x="286" y="896" font-size="36" fill="#2B2A26">肠胃 · 外用 · 解暑</text>
+      <text x="746" y="896" font-size="36" fill="#2B2A26">遵医嘱看说明书</text>
+      <rect x="88" y="914" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="914" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="970" x2="1154" y2="970" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="952" font-size="36" font-weight="bold" fill="#1F6F5C">常用药</text>
+      <text x="286" y="952" font-size="36" fill="#2B2A26">家人专用药</text>
+      <text x="746" y="952" font-size="36" fill="#2B2A26">老人小孩各自备</text>
+      <rect x="88" y="970" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="970" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="1026" x2="1154" y2="1026" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="1008" font-size="36" font-weight="bold" fill="#1F6F5C">工具</text>
+      <text x="286" y="1008" font-size="36" fill="#2B2A26">圆头剪刀 · 镊子</text>
+      <text x="746" y="1008" font-size="36" fill="#2B2A26">剪衣物取表浅异物</text>
+      <rect x="88" y="1026" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="1026" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="1082" x2="1154" y2="1082" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="1064" font-size="36" font-weight="bold" fill="#1F6F5C">工具</text>
+      <text x="286" y="1064" font-size="36" fill="#2B2A26">手套 · 外科口罩</text>
+      <text x="746" y="1064" font-size="36" fill="#2B2A26">施救前先防护</text>
+      <rect x="88" y="1082" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="1082" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="1138" x2="1154" y2="1138" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="1120" font-size="36" font-weight="bold" fill="#1F6F5C">工具</text>
+      <text x="286" y="1120" font-size="36" fill="#2B2A26">电子体温计</text>
+      <text x="746" y="1120" font-size="36" fill="#2B2A26">非水银非玻璃</text>
+      <rect x="88" y="1138" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="1138" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="1194" x2="1154" y2="1194" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="1176" font-size="36" font-weight="bold" fill="#1F6F5C">工具</text>
+      <text x="286" y="1176" font-size="36" fill="#2B2A26">急救毯 · 手电筒</text>
+      <text x="746" y="1176" font-size="36" fill="#2B2A26">保暖、夜间取用</text>
+      <rect x="88" y="1194" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="1194" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="1250" x2="1154" y2="1250" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="1232" font-size="36" font-weight="bold" fill="#1F6F5C">别放</text>
+      <text x="286" y="1232" font-size="36" fill="#2B2A26">红药水 · 紫药水</text>
+      <text x="746" y="1232" font-size="36" fill="#2B2A26">含汞或致癌,清出</text>
+      <rect x="88" y="1250" width="186" height="56" fill="#EFE3CC"/>
+      <rect x="274" y="1250" width="880" height="56" fill="#FFFDF7"/>
+      <line x1="88" y1="1306" x2="1154" y2="1306" stroke="#D9CDB8" stroke-width="1"/>
+      <text x="100" y="1288" font-size="36" font-weight="bold" fill="#1F6F5C">别放</text>
+      <text x="286" y="1288" font-size="36" fill="#2B2A26">过期或变质药</text>
+      <text x="746" y="1288" font-size="36" fill="#2B2A26">破坏包装再丢弃</text>
+  </g>
+
+  <g id="action-band" data-pptx-bounds="88 1314 1066 156">
+    <g id="p09-action-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRoundRectCallout" data-pptx-frame="88 1350 1066 120" data-pptx-av-adj1="val -28000" data-pptx-av-adj2="val -78000" data-pptx-av-adj3="val 16667" fill="#1F6F5C" stroke="none">
+<path d="M 88 1370 A 20 20 0 0 1 108 1350 L 265.67 1350 L 322.52 1316.4 L 532.17 1350 L 1134 1350 A 20 20 0 0 1 1154 1370 L 1154 1370 L 1154 1370 L 1154 1400 L 1154 1450 A 20 20 0 0 1 1134 1470 L 532.17 1470 L 265.67 1470 L 265.67 1470 L 108 1470 A 20 20 0 0 1 88 1450 L 88 1400 L 88 1370 L 88 1370 Z"/>
+</g>
+    <use data-icon="tabler-outline/shield-check" x="132" y="1380" width="52" height="52" fill="#FBF6EC" stroke-width="2"/>
+    <text x="204" y="1406" font-size="44" font-weight="bold" fill="#FBF6EC">备对药 + 懂急救,才是双重保障</text>
+    <text x="204" y="1450" font-size="32" fill="#EFE3CC">建议家里至少一人参加一次红会或急救中心培训</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="88 1490 1066 70" font-size="26" fill="#6B6558">
+    <text x="88" y="1524">总表为本文整理,条目与要点均来自前 8 页标注的官方来源</text>
+    <text x="1154" y="1524" text-anchor="end">9 / 9</text>
+  </g>
+</svg>

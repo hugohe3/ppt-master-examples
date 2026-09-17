@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512" />
+
+  <g id="artifact-title" data-pptx-bounds="88 70 700 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227" />
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">一号青铜神树</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">全世界已发现的最大单件青铜文物，3.96 米高，由 2479 块碎片拼回来</text>
+  </g>
+
+  <g id="artifact-photo" data-pptx-bounds="88 208 280 364">
+    <image href="../images/bronze_sacred_tree.jpg" x="88" y="210" width="280" height="360" preserveAspectRatio="xMidYMid meet" />
+  </g>
+
+  <g id="fact-era" data-pptx-bounds="408 188 784 60">
+    <text x="408" y="210" font-size="18" fill="#4FB9A5">年代</text>
+    <text x="408" y="238" font-size="24" fill="#E9E5D9">商代晚期</text>
+  </g>
+
+  <g id="fact-pit" data-pptx-bounds="408 248 784 82">
+    <text x="408" y="270" font-size="18" fill="#4FB9A5">出土坑号</text>
+    <text x="408" y="298" font-size="24" fill="#E9E5D9">2 号祭祀坑（1986 年）</text>
+    <text x="408" y="323" font-size="18" fill="#A8A396">全世界已发现的最大单件青铜文物，国家一级文物</text>
+  </g>
+
+  <g id="fact-size" data-pptx-bounds="408 330 784 82">
+    <text x="408" y="352" font-size="18" fill="#4FB9A5">尺寸</text>
+    <text x="408" y="380" font-size="24" fill="#C9A227">通高 396 厘米（修复后 3.96 米、宽 1.4 米）</text>
+    <text x="408" y="405" font-size="18" fill="#A8A396">由 2479 块碎片复原，1990 年起历时 8 年（研究阶段 3 年），修复者杨晓邬、郭汉中</text>
+  </g>
+
+  <g id="fact-form" data-pptx-bounds="408 412 784 106">
+    <text x="408" y="434" font-size="18" fill="#4FB9A5">形制与工艺</text>
+    <text x="408" y="462" font-size="24" fill="#E9E5D9">三层九枝 · 九鸟一龙</text>
+    <text x="408" y="487" font-size="18" fill="#A8A396">底座、树、龙三部分；每层三枝共九枝，九鸟立于向上果枝的果实，一龙沿主干旁<tspan x="408" dy="24">侧而下。分段铸造法，套铸、铆铸、嵌铸、铸接等当时最先进手法</tspan></text>
+  </g>
+
+  <g id="fact-highlight" data-pptx-bounds="408 518 784 78" font-size="18">
+    <text x="408" y="540" fill="#4FB9A5">看点</text>
+    <text x="408" y="564" fill="#E9E5D9">2002 年列入首批禁止出国（境）展览文物目录；馆长雷雨认为其造型可能对应<tspan x="408" dy="24">《山海经》中的扶桑、建木或若木，是古蜀先民人神互通神话意识的形象化写照</tspan></text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：四川在线《三星堆馆长讲国宝①》2022；宝鸡市文物局《首批禁止出国（境）展览文物——商青铜神树》2025</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1" />
+    <text x="620" y="680" font-size="16" fill="#A8A396" text-anchor="middle">9 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/home" x="82" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-7">
+      <rect x="240" y="648" width="180" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/list" x="258" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="292" y="680" font-size="20" fill="#E9E5D9">文物目录</text>
+    </a>
+    <a href="#slide-8">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/arrow-left" x="916" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-10">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <use data-icon="tabler-outline/arrow-right" x="1178" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+    </a>
+  </g>
+</svg>

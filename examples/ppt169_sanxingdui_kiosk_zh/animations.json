@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "slides": {
+    "01_menu": {
+      "groups": {
+        "cover-title": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "cover-hook": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "menu-entry-chapter1": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.35 },
+        "menu-entry-chapter2": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.35 },
+        "menu-entry-chapter3": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.35 },
+        "menu-entry-visit": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.35 }
+      }
+    },
+    "02_chapter_century": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "01_menu",
+        "pairs": {
+          "menu-chapter-one": { "from": "menu-entry-chapter1", "to": "chapter-mark" }
+        }
+      },
+      "groups": {
+        "chapter-desc": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "units-caption": { "effect": "entrance_fade", "order": 2, "duration": 0.3 },
+        "p02-unit-1": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.35 },
+        "p02-unit-2": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.35 },
+        "p02-unit-3": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.35 },
+        "unit-labels": { "effect": "entrance_fade", "order": 6, "duration": 0.3 },
+        "section-contents": { "effect": "entrance_fade", "order": 7, "duration": 0.3 }
+      }
+    },
+    "03_discovery_timeline": {
+      "groups": {
+        "page-header": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "timeline-node-1929": { "effect": "entrance_rise_up", "order": 3, "duration": 0.4 },
+        "timeline-node-1934": { "effect": "entrance_rise_up", "order": 4, "duration": 0.4 },
+        "timeline-node-1986": { "effect": "entrance_rise_up", "order": 5, "duration": 0.4 },
+        "timeline-node-2019": { "effect": "entrance_rise_up", "order": 6, "duration": 0.4 },
+        "reading-note": { "effect": "entrance_fade", "order": 7, "duration": 0.3 }
+      }
+    },
+    "04_pits_and_dating": {
+      "groups": {
+        "page-header": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "pit-field-first": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "pit-field-new": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "dating-band": { "effect": "entrance_zoom", "order": 5, "duration": 0.6 },
+        "count-reading-a": { "effect": "entrance_fade", "order": 6, "duration": 0.35 },
+        "count-reading-b": { "effect": "entrance_fade", "order": 7, "duration": 0.35 },
+        "back-to-menu": { "effect": "entrance_fade", "order": 8, "duration": 0.3 }
+      }
+    },
+    "05_chapter_capital": {
+      "groups": {
+        "chapter-mark": { "effect": "entrance_fade", "order": 1, "duration": 0.5 },
+        "chapter-desc": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "units-caption": { "effect": "entrance_fade", "order": 3, "duration": 0.3 },
+        "unit-members": { "effect": "entrance_fade", "order": 4, "duration": 0.45 },
+        "p05-unit-brace": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 5, "duration": 0.4 },
+        "section-contents": { "effect": "entrance_fade", "order": 6, "duration": 0.3 }
+      }
+    },
+    "06_capital_city": {
+      "groups": {
+        "page-header": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "scale-card": { "effect": "entrance_zoom", "order": 3, "duration": 0.5 },
+        "craft-gold": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.35 },
+        "craft-jade": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.35 },
+        "craft-bronze": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.35 },
+        "chapter-end-note": { "effect": "entrance_fade", "order": 7, "duration": 0.3 },
+        "back-to-menu": { "effect": "entrance_fade", "order": 8, "duration": 0.3 }
+      }
+    },
+    "07_artifact_index": {
+      "groups": {
+        "page-header": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "toc-item-standing-figure": { "effect": "entrance_fade", "order": 3, "duration": 0.3 },
+        "toc-item-sacred-tree": { "effect": "entrance_fade", "order": 4, "duration": 0.3 },
+        "toc-item-protruding-mask": { "effect": "entrance_fade", "order": 5, "duration": 0.3 },
+        "toc-item-gold-scepter": { "effect": "entrance_fade", "order": 6, "duration": 0.3 },
+        "toc-item-gold-mask": { "effect": "entrance_fade", "order": 7, "duration": 0.3 },
+        "toc-item-large-mask": { "effect": "entrance_fade", "order": 8, "duration": 0.3 },
+        "toc-item-grid-vessel": { "effect": "entrance_fade", "order": 9, "duration": 0.3 },
+        "zone-note": { "effect": "entrance_fade", "order": 10, "duration": 0.3 }
+      }
+    },
+    "08_standing_figure": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "07_artifact_index",
+        "pairs": {
+          "artifact-standing-figure": { "from": "toc-item-standing-figure", "to": "artifact-title" }
+        }
+      },
+      "groups": {
+        "page-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "artifact-photo": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "fact-era": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.3 },
+        "fact-pit": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.3 },
+        "fact-size": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.3 },
+        "fact-grade": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.3 },
+        "fact-highlight": { "effect": "entrance_fade", "order": 7, "duration": 0.35 }
+      }
+    },
+    "09_sacred_tree": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "08_standing_figure",
+        "pairs": {
+          "artifact-size-frame": { "from": "fact-size", "to": "fact-size" }
+        }
+      },
+      "groups": {
+        "artifact-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "artifact-photo": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "fact-era": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.3 },
+        "fact-pit": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.3 },
+        "fact-form": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.3 },
+        "fact-highlight": { "effect": "entrance_fade", "order": 7, "duration": 0.35 }
+      }
+    },
+    "10_protruding_mask": {
+      "groups": {
+        "artifact-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "artifact-photo": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "size-hero": { "effect": "entrance_zoom", "order": 4, "duration": 0.6 },
+        "fact-era": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.3 },
+        "fact-pit": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.3 },
+        "fact-size": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 7, "duration": 0.3 },
+        "fact-caliber": { "effect": "entrance_fade", "order": 8, "duration": 0.35 },
+        "fact-highlight": { "effect": "entrance_fade", "order": 9, "duration": 0.35 }
+      }
+    },
+    "11_gold_scepter": {
+      "groups": {
+        "artifact-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "artifact-photo": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "pattern-detail": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "fact-era": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.3 },
+        "fact-size": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.3 },
+        "fact-grade": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 7, "duration": 0.3 },
+        "fact-readings": { "effect": "entrance_fade", "order": 8, "duration": 0.45 }
+      }
+    },
+    "12_gold_mask": {
+      "groups": {
+        "artifact-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "weight-hero": { "effect": "entrance_zoom", "order": 3, "duration": 0.6 },
+        "fact-era-pit": { "effect": "entrance_fade", "order": 4, "duration": 0.3 },
+        "metal-composition": { "effect": "entrance_fade", "order": 5, "duration": 0.35 },
+        "estimated-weight": { "effect": "entrance_fade", "order": 6, "duration": 0.5 },
+        "weight-comparison": { "effect": "entrance_fade", "order": 7, "duration": 0.35 },
+        "fact-discovery": { "effect": "entrance_fade", "order": 8, "duration": 0.35 },
+        "fact-highlight": { "effect": "entrance_fade", "order": 9, "duration": 0.35 },
+        "caliber-note": { "effect": "entrance_fade", "order": 10, "duration": 0.3 }
+      }
+    },
+    "13_large_mask": {
+      "groups": {
+        "artifact-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "dimension-width": { "effect": "entrance_rise_up", "order": 3, "duration": 0.45 },
+        "dimension-height": { "effect": "entrance_rise_up", "order": 4, "duration": 0.45 },
+        "dimension-depth": { "effect": "entrance_rise_up", "order": 5, "duration": 0.45 },
+        "fact-era-pit": { "effect": "entrance_fade", "order": 6, "duration": 0.3 },
+        "fact-weight": { "effect": "entrance_fade", "order": 7, "duration": 0.3 },
+        "fact-highlight": { "effect": "entrance_fade", "order": 8, "duration": 0.35 }
+      }
+    },
+    "14_grid_vessel": {
+      "groups": {
+        "artifact-title": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "structure-sketch": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 3, "duration": 0.7 },
+        "sketch-caption": { "effect": "entrance_fade", "order": 4, "duration": 0.35 },
+        "fact-era-pit": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.3 },
+        "fact-form": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.3 },
+        "fact-state": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 7, "duration": 0.3 },
+        "fact-highlight": { "effect": "entrance_fade", "order": 8, "duration": 0.35 },
+        "section-exit": { "effect": "entrance_fade", "order": 9, "duration": 0.3 }
+      }
+    },
+    "15_quick_table": {
+      "groups": {
+        "page-header": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 }
+      }
+    },
+    "16_visit_info": {
+      "groups": {
+        "page-header": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "info-hours": { "effect": "entrance_fade", "order": 3, "duration": 0.35 },
+        "info-tickets": { "effect": "entrance_fade", "order": 4, "duration": 0.35 },
+        "info-booking": { "effect": "entrance_fade", "order": 5, "duration": 0.35 },
+        "info-contact": { "effect": "entrance_fade", "order": 6, "duration": 0.35 },
+        "official-site": { "effect": "entrance_zoom", "order": 7, "duration": 0.6 },
+        "validity-note": { "effect": "entrance_fade", "order": 8, "duration": 0.3 }
+      }
+    }
+  }
+}

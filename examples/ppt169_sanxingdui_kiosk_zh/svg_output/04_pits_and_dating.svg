@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512"/>
+
+  <g id="page-header" data-pptx-bounds="88 70 800 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227"/>
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">八座祭祀坑：两批发现，一个年代</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 82">
+    <text x="88" y="156" font-size="28" fill="#A8A396">八座坑分两批被发现，碳十四把它们的埋藏年代<tspan x="88" dy="42">收进公元前 1131 年至前 1012 年</tspan></text>
+  </g>
+
+  <g id="pit-field-first" data-pptx-bounds="88 244 344 156">
+    <rect x="88" y="246" width="344" height="150" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.35" stroke-width="1"/>
+    <text x="108" y="278" font-size="18" fill="#C9A227">1986 年发现</text>
+    <rect x="108" y="294" width="72" height="72" rx="8" fill="#1D2A24" stroke="#C9A227" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="144" y="340" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#E9E5D9" text-anchor="middle">K1</text>
+    <rect x="196" y="294" width="72" height="72" rx="8" fill="#1D2A24" stroke="#C9A227" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="232" y="340" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#E9E5D9" text-anchor="middle">K2</text>
+    <text x="108" y="386" font-size="18" fill="#A8A396">陈德安、陈显丹主持发掘</text>
+  </g>
+
+  <g id="pit-field-new" data-pptx-bounds="456 244 736 156">
+    <rect x="456" y="246" width="736" height="150" rx="8" fill="#17211D" stroke="#4FB9A5" stroke-opacity="0.35" stroke-width="1"/>
+    <text x="476" y="278" font-size="18" fill="#4FB9A5">2019 年 11 月至 2020 年 5 月发现</text>
+    <rect x="476" y="294" width="72" height="72" rx="8" fill="#1D2A24" stroke="#4FB9A5" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="512" y="340" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#E9E5D9" text-anchor="middle">K3</text>
+    <rect x="564" y="294" width="72" height="72" rx="8" fill="#1D2A24" stroke="#4FB9A5" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="600" y="340" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#E9E5D9" text-anchor="middle">K4</text>
+    <rect x="652" y="294" width="72" height="72" rx="8" fill="#1D2A24" stroke="#4FB9A5" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="688" y="340" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#E9E5D9" text-anchor="middle">K5</text>
+    <rect x="740" y="294" width="72" height="72" rx="8" fill="#1D2A24" stroke="#4FB9A5" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="776" y="340" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#E9E5D9" text-anchor="middle">K6</text>
+    <rect x="828" y="294" width="72" height="72" rx="8" fill="#1D2A24" stroke="#4FB9A5" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="864" y="340" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#E9E5D9" text-anchor="middle">K7</text>
+    <rect x="916" y="294" width="72" height="72" rx="8" fill="#1D2A24" stroke="#4FB9A5" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="952" y="340" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#E9E5D9" text-anchor="middle">K8</text>
+    <text x="476" y="386" font-size="18" fill="#A8A396">四川省文物考古研究院、北京大学、四川大学等组成联合考古队</text>
+  </g>
+
+  <g id="dating-band" data-pptx-bounds="88 400 1104 106">
+    <text x="88" y="462" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#C9A227">公元前1131 — 前1012年</text>
+    <text x="88" y="498" font-size="18" fill="#A8A396">碳十四对近 200 个样品测年，相当于中原商代晚期，距今约 3200 至 3000 年；祭祀区面积约 13000 平方米</text>
+  </g>
+
+  <g id="count-reading-a" data-pptx-bounds="88 508 432 78">
+    <rect x="88" y="510" width="432" height="74" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="108" y="542" font-size="24" fill="#E9E5D9">编号文物近 13000 件</text>
+    <text x="108" y="568" font-size="18" fill="#A8A396">2022-06-13 四川省文物考古研究院公布</text>
+  </g>
+
+  <g id="count-reading-b" data-pptx-bounds="544 508 488 78">
+    <rect x="544" y="510" width="488" height="74" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="564" y="542" font-size="24" fill="#E9E5D9">清理出土文物 17000 余件</text>
+    <text x="564" y="568" font-size="18" fill="#A8A396">四川省文物考古研究院另一表述</text>
+  </g>
+
+  <g id="back-to-menu" data-pptx-bounds="1056 508 136 78">
+    <a href="#slide-1">
+      <rect x="1056" y="510" width="136" height="74" rx="8" fill="#1D2A24" stroke="#C9A227" stroke-opacity="0.6" stroke-width="1"/>
+      <use data-icon="tabler-outline/list" x="1112" y="524" width="24" height="24" fill="#C9A227" stroke-width="2"/>
+      <text x="1124" y="570" font-size="20" fill="#C9A227" text-anchor="middle">回菜单</text>
+    </a>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：新华网 2022；中新网<a href="https://www.chinanews.com.cn/cul/2022/07-02/9793927.shtml"><tspan fill="#C9A227">《为三星堆测年龄为何那么难？》</tspan></a>2022</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1"/>
+    <text x="640" y="680" font-size="16" fill="#A8A396" text-anchor="middle">4 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/home" x="82" y="660" width="24" height="24" fill="#C9A227" stroke-width="2"/>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-3">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/arrow-left" x="916" y="660" width="24" height="24" fill="#C9A227" stroke-width="2"/>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-5">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <use data-icon="tabler-outline/arrow-right" x="1178" y="660" width="24" height="24" fill="#C9A227" stroke-width="2"/>
+    </a>
+  </g>
+</svg>

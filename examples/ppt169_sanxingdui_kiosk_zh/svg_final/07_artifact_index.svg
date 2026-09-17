@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="toc">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512" />
+
+  <g id="page-header" data-pptx-bounds="88 70 800 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227" />
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">天地人神：七件重点文物</text>
+    <rect x="640" y="80" width="72" height="32" rx="6" fill="none" stroke="#C6704A" stroke-width="1" />
+    <text x="676" y="102" font-size="18" fill="#C6704A" text-anchor="middle">整理</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">点任意一件，直接看它的年代、坑号、尺寸与看点</text>
+  </g>
+
+  <g id="toc-item-standing-figure" data-pptx-bounds="88 248 264 120">
+    <a href="#slide-8">
+      <rect x="88" y="250" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(108, 266) scale(1.16667)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M12 6l4 6l5 -4l-2 10h-14l-2 -10l5 4l4 -6" />
+  </g>
+      <text x="108" y="324" font-size="24" fill="#E9E5D9">青铜大立人像</text>
+      <text x="108" y="352" font-size="18" fill="#A8A396">通高 2.61 米，2 号坑</text>
+    </a>
+  </g>
+
+  <g id="toc-item-sacred-tree" data-pptx-bounds="368 248 264 120">
+    <a href="#slide-9">
+      <rect x="368" y="250" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(388, 266) scale(1.16667)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M12 13l-2 -2" />
+    <path d="M12 12l2 -2" />
+    <path d="M12 21v-13" />
+    <path d="M9.824 16a3 3 0 0 1 -2.743 -3.69a3 3 0 0 1 .304 -4.833a3 3 0 0 1 4.615 -3.707a3 3 0 0 1 4.614 3.707a3 3 0 0 1 .305 4.833a3 3 0 0 1 -2.919 3.695h-4l-.176 -.005" />
+  </g>
+      <text x="388" y="324" font-size="24" fill="#E9E5D9">一号青铜神树</text>
+      <text x="388" y="352" font-size="18" fill="#A8A396">通高 396 厘米，2 号坑</text>
+    </a>
+  </g>
+
+  <g id="toc-item-protruding-mask" data-pptx-bounds="648 248 264 120">
+    <a href="#slide-10">
+      <rect x="648" y="250" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(668, 266) scale(1.16667)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" />
+  </g>
+      <text x="668" y="324" font-size="24" fill="#E9E5D9">青铜纵目面具</text>
+      <text x="668" y="352" font-size="18" fill="#A8A396">两耳间距 138 厘米</text>
+    </a>
+  </g>
+
+  <g id="toc-item-gold-scepter" data-pptx-bounds="928 248 264 120">
+    <a href="#slide-11">
+      <rect x="928" y="250" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(948, 266) scale(1.16667)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+    <path d="M14.8 9a2 2 0 0 0 -1.8 -1h-2a2 2 0 1 0 0 4h2a2 2 0 1 1 0 4h-2a2 2 0 0 1 -1.8 -1" />
+    <path d="M12 7v10" />
+  </g>
+      <text x="948" y="324" font-size="24" fill="#E9E5D9">金杖</text>
+      <text x="948" y="352" font-size="18" fill="#A8A396">长 1.42 米，1 号坑</text>
+    </a>
+  </g>
+
+  <g id="toc-item-gold-mask" data-pptx-bounds="88 380 264 120">
+    <a href="#slide-12">
+      <rect x="88" y="382" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(108, 398) scale(1.16667)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M9 12a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+    <path d="M4 6a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+  </g>
+      <text x="108" y="456" font-size="24" fill="#E9E5D9">黄金面具</text>
+      <text x="108" y="484" font-size="18" fill="#A8A396">5 号坑残件 280 克</text>
+    </a>
+  </g>
+
+  <g id="toc-item-large-mask" data-pptx-bounds="368 380 264 120">
+    <a href="#slide-13">
+      <rect x="368" y="382" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(388, 398) scale(1.16667)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M9 12a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" />
+    <path d="M4 6a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2l0 -12" />
+  </g>
+      <text x="388" y="456" font-size="24" fill="#E9E5D9">青铜大面具</text>
+      <text x="388" y="484" font-size="18" fill="#A8A396">宽 131 厘米，3 号坑</text>
+    </a>
+  </g>
+
+  <g id="toc-item-grid-vessel" data-pptx-bounds="648 380 264 120">
+    <a href="#slide-14">
+      <rect x="648" y="382" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(668, 398) scale(1.16667)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M12 3l8 4.5l0 9l-8 4.5l-8 -4.5l0 -9l8 -4.5" />
+    <path d="M12 12l8 -4.5" />
+    <path d="M12 12l0 9" />
+    <path d="M12 12l-8 -4.5" />
+  </g>
+      <text x="668" y="456" font-size="24" fill="#E9E5D9">龟背形网格状器</text>
+      <text x="668" y="484" font-size="18" fill="#A8A396">7 号坑，至今未开启</text>
+    </a>
+  </g>
+
+  <g id="zone-note" data-pptx-bounds="88 504 1104 74" font-size="18" fill="#A8A396">
+    <text x="88" y="520">展区以祭祀区出土精品文物为主要展示对象，呈现礼器、祭祀行为、崇拜对象及信仰体系与宇宙观念</text><text x="88" y="544">下设以玉通神 · 藏礼于器 · 神圣祭坛 · 青铜面具 · 鸟足神像 · 万物有灵 · 通天神树 七个单元</text><text x="88" y="568" fill="#C6704A">本目录为导览整理，七件系从馆藏重点文物中择取</text></g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：中国网文化《三星堆博物馆新馆有哪些亮点》，2023</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1" />
+    <text x="640" y="680" font-size="16" fill="#A8A396" text-anchor="middle">7 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(82, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-6">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(916, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M5 12l6 6" />
+    <path d="M5 12l6 -6" />
+  </g>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-8">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      
+  <g transform="translate(1178, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    </a>
+  </g>
+</svg>

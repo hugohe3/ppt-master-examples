@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512" />
+
+  <g id="artifact-title" data-pptx-bounds="88 70 700 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227" />
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">金杖</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">1.42 米长的金杖，杖端 46 厘米的图案带至今有两种读法</text>
+  </g>
+
+  <g id="artifact-photo" data-pptx-bounds="88 188 472 252">
+    <image href="../images/gold_scepter.jpg" x="88" y="190" width="472" height="220" preserveAspectRatio="xMidYMid meet" />
+    <text x="88" y="428" font-size="16" fill="#A8A396">© 陳寅恪 / Wikimedia Commons / CC BY-SA 4.0</text>
+  </g>
+
+  <g id="pattern-detail" data-pptx-bounds="88 446 472 130" font-size="18">
+    <text x="88" y="468" fill="#4FB9A5">杖端图案</text>
+    <text x="88" y="492" fill="#E9E5D9">一端平雕 46 厘米长的三组图案：靠近端头是<tspan x="88" dy="24">两个前后对称、面带微笑、头戴五齿高冠的人头，</tspan><tspan x="88" dy="24">靠近杖内部是对称的鸟和鱼，鱼与鸟的颈部各串</tspan><tspan x="88" dy="24">着一根箭翎状图案</tspan></text>
+  </g>
+
+  <g id="fact-era" data-pptx-bounds="600 188 592 82">
+    <text x="600" y="210" font-size="18" fill="#4FB9A5">年代与坑号</text>
+    <text x="600" y="238" font-size="24" fill="#E9E5D9">商代晚期 · 1 号祭祀坑</text>
+    <text x="600" y="263" font-size="18" fill="#A8A396">1986 年 7 月 30 日凌晨出土，为一号坑发掘第 10 天所获</text>
+  </g>
+
+  <g id="fact-size" data-pptx-bounds="600 270 592 82">
+    <text x="600" y="292" font-size="18" fill="#4FB9A5">尺寸与重量</text>
+    <text x="600" y="320" font-size="24" fill="#C9A227">长 1.42 米，重约 500 克</text>
+    <text x="600" y="345" font-size="18" fill="#A8A396">另一权威口径 463 克，为当时我国出土的商代最重金器</text>
+  </g>
+
+  <g id="fact-grade" data-pptx-bounds="600 352 592 82">
+    <text x="600" y="374" font-size="18" fill="#4FB9A5">文物级别</text>
+    <text x="600" y="402" font-size="24" fill="#E9E5D9">商金杖 · 收藏单位广汉三星堆博物馆</text>
+    <text x="600" y="427" font-size="18" fill="#A8A396">列入<a href="https://wwj.beijing.gov.cn/bjww/362760/362767/556574/556644/bwgjcjzl/557087/index.html"><tspan fill="#C9A227">《第三批禁止出境展览文物目录》</tspan></a>杂项类</text>
+  </g>
+
+  <g id="fact-readings" data-pptx-bounds="600 434 592 158" font-size="18">
+    <text x="600" y="456" fill="#4FB9A5">两种读法</text>
+    <text x="600" y="482" fill="#C9A227">读法一 · 馆长雷雨</text>
+    <text x="600" y="506" fill="#E9E5D9">古蜀王权交接的象征：头戴五齿高冠者身份高贵，鸟（鱼凫）代表鱼<tspan x="600" dy="24">凫部族，羽箭贯穿鸟与鱼头是当时王位禅让制度的直观表现</tspan></text>
+    <text x="600" y="560" fill="#C9A227">读法二 · 发掘者陈显丹</text>
+    <text x="600" y="584" fill="#E9E5D9">图案自左至右可读作「鱼凫王」三字，杖主应是鱼凫王</text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：四川在线《三星堆馆长讲国宝⑦》2022；中新网 2022；驻慕尼黑总领馆 2006；北京市文物局目录</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1" />
+    <text x="620" y="680" font-size="16" fill="#A8A396" text-anchor="middle">11 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/home" x="82" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-7">
+      <rect x="240" y="648" width="180" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/list" x="258" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="292" y="680" font-size="20" fill="#E9E5D9">文物目录</text>
+    </a>
+    <a href="#slide-10">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/arrow-left" x="916" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-12">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <use data-icon="tabler-outline/arrow-right" x="1178" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+    </a>
+  </g>
+</svg>

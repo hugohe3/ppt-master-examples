@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="section">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512"/>
+  <rect id="chapter-rule" data-pptx-role="decoration" x="88" y="120" width="1104" height="1" fill="#2A3630"/>
+
+  <g id="chapter-mark" data-pptx-bounds="88 168 560 100">
+    <rect x="88" y="170" width="520" height="96" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+    <rect x="88" y="170" width="4" height="96" fill="#C9A227"/>
+    <!-- icon: tabler-outline/shovel -->
+  <g transform="translate(112, 200) scale(1.5)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M17 4l3 3" />
+    <path d="M18.5 5.5l-8 8" />
+    <path d="M8.276 11.284l4.44 4.44a.968 .968 0 0 1 0 1.369l-2.704 2.704a4.108 4.108 0 0 1 -5.809 -5.81l2.704 -2.703a.968 .968 0 0 1 1.37 0l-.001 0" />
+  </g>
+    <text x="168" y="238" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#E9E5D9">世纪逐梦</text>
+  </g>
+
+  <g id="chapter-desc" data-pptx-bounds="88 294 1104 40">
+    <text x="88" y="320" font-size="28" fill="#A8A396">以三星堆遗址近一个世纪的重大考古发现和研究成果为主线</text>
+  </g>
+
+  <g id="units-caption" data-pptx-bounds="88 350 1104 30">
+    <text x="88" y="369" font-size="18" fill="#4FB9A5">展区下设三个单元</text>
+  </g>
+
+  <g id="p02-unit-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="88 400 384 88" fill="#17211D" stroke="#4FB9A5" stroke-width="1.5" stroke-opacity="0.55">
+<path d="M 88 400 L 428 400 L 472 444 L 428 488 L 88 488 L 132 444 Z"/>
+</g>
+  <g id="p02-unit-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="448 400 384 88" fill="#17211D" stroke="#4FB9A5" stroke-width="1.5" stroke-opacity="0.55">
+<path d="M 448 400 L 788 400 L 832 444 L 788 488 L 448 488 L 492 444 Z"/>
+</g>
+  <g id="p02-unit-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="808 400 384 88" fill="#17211D" stroke="#4FB9A5" stroke-width="1.5" stroke-opacity="0.55">
+<path d="M 808 400 L 1148 400 L 1192 444 L 1148 488 L 808 488 L 852 444 Z"/>
+</g>
+
+  <g id="unit-labels" data-pptx-bounds="132 424 950 48" font-size="28" fill="#E9E5D9">
+    <text x="156" y="456">初识三星堆</text>
+    <text x="516" y="456">一醒惊天下</text>
+    <text x="876" y="456">盛世续华章</text>
+  </g>
+
+  <g id="section-contents" data-pptx-bounds="88 526 1104 30">
+    <text x="88" y="545" font-size="18" fill="#A8A396">本段包含：百年发现时间线（第 3 页）、八座祭祀坑与年代（第 4 页）</text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">展区与单元名称：中国网文化《三星堆博物馆新馆有哪些亮点》，2023</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1"/>
+    <text x="640" y="680" font-size="16" fill="#A8A396" text-anchor="middle">2 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <!-- icon: tabler-outline/home -->
+  <g transform="translate(82, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-1">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <!-- icon: tabler-outline/arrow-left -->
+  <g transform="translate(916, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M5 12l6 6" />
+    <path d="M5 12l6 -6" />
+  </g>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-3">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <!-- icon: tabler-outline/arrow-right -->
+  <g transform="translate(1178, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    </a>
+  </g>
+</svg>

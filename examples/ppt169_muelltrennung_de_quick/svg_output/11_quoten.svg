@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="de-DE" data-pptx-page-role="content" font-family="Segoe UI" font-size="24">
+  <rect id="grund" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4" />
+
+  <g id="seitentitel" data-pptx-bounds="64 56 1152 100" fill="#1C1C1A">
+    <rect x="64" y="58" width="4" height="26" fill="#12525C" />
+    <text x="80" y="78" font-size="18" font-weight="bold" letter-spacing="1.6" fill="#12525C">ZAHLEN</text>
+    <text x="64" y="128" font-family="Cambria" font-size="44" font-weight="bold">Wie viel wird wirklich recycelt?</text>
+    <line x1="64" y1="152" x2="1216" y2="152" stroke="#D8D3C8" stroke-width="1" />
+  </g>
+
+  <g id="quoten-lead" data-pptx-bounds="64 170 1152 42" fill="#1C1C1A">
+    <text x="64" y="196" font-size="28">Recyclingquoten der Verpackungsabfälle in Deutschland, 2023.</text>
+  </g>
+
+  <g id="verwertungsquoten" data-pptx-bounds="64 226 760 430" data-pptx-replace-with="chart" fill="#1C1C1A" data-pptx-fallback-sha256="e37c25e55ce0375974c7bfc384720553666522942d3d6031a7954dbc0b14fae0">
+    <metadata type="application/json">
+      {
+        "name": "verwertungsquoten",
+        "x": 64, "y": 226, "width": 760, "height": 430,
+        "plot_area": {"x": 316, "y": 238, "width": 460, "height": 376},
+        "type": "bar",
+        "grouping": "clustered",
+        "categories": ["Eisenmetalle", "Papier/Pappe/Karton", "Glas", "Aluminium", "Kunststoffe", "Holz"],
+        "series": [
+          {
+            "name": "Recyclingquote 2023",
+            "values": [86.8, 86.6, 80.6, 68.0, 52.2, 30.2],
+            "point_colors": ["#6E9EA8", "#6E9EA8", "#6E9EA8", "#6E9EA8", "#12525C", "#12525C"]
+          }
+        ],
+        "axes": {
+          "category": {"position": "left", "tick_marks": "none", "color": "#1C1C1A", "font_size": 20},
+          "value": {"position": "bottom", "minimum": 0, "maximum": 100, "major_unit": 25, "major_gridlines": true, "tick_marks": "none", "color": "#8A8A82", "font_size": 15}
+        },
+        "show_legend": false,
+        "style": {"colors": ["#6E9EA8"], "axis_color": "#8A8A82", "grid_color": "#D8D3C8", "text_color": "#1C1C1A", "font_family": "Segoe UI", "chart_area_fill": "none", "plot_area_fill": "none"},
+        "notes": [
+          {"text": "86,8 %", "width": 84, "font_size": 20, "bold": true, "color": "#1C1C1A"},
+          {"text": "86,6 %", "width": 84, "font_size": 20, "bold": true, "color": "#1C1C1A"},
+          {"text": "80,6 %", "width": 84, "font_size": 20, "bold": true, "color": "#1C1C1A"},
+          {"text": "68,0 %", "width": 84, "font_size": 20, "bold": true, "color": "#1C1C1A"},
+          {"text": "52,2 %", "width": 84, "font_size": 20, "bold": true, "color": "#1C1C1A"},
+          {"text": "30,2 %", "width": 84, "font_size": 20, "bold": true, "color": "#1C1C1A"},
+          {"text": "Angaben in Prozent", "width": 200, "font_size": 15, "color": "#8A8A82"}
+        ]
+      }
+    </metadata>
+
+    <g id="verwertungsquoten-chartArea">
+      <line id="verwertungsquoten-grid-25" x1="431" y1="238" x2="431" y2="614" stroke="#D8D3C8" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="verwertungsquoten-grid-50" x1="546" y1="238" x2="546" y2="614" stroke="#D8D3C8" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="verwertungsquoten-grid-75" x1="661" y1="238" x2="661" y2="614" stroke="#D8D3C8" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="verwertungsquoten-grid-100" x1="776" y1="238" x2="776" y2="614" stroke="#D8D3C8" stroke-width="1" stroke-dasharray="4,4" />
+      <line id="verwertungsquoten-axis-value" x1="316" y1="614" x2="776" y2="614" stroke="#8A8A82" stroke-width="1.5" />
+      <line id="verwertungsquoten-axis-category" x1="316" y1="238" x2="316" y2="614" stroke="#8A8A82" stroke-width="1.5" />
+      <!-- chart-plot-area: object=verwertungsquoten | 316,238,776,614 -->
+      <rect x="316" y="251.7" width="399.3" height="35.2" fill="#6E9EA8" />
+      <rect x="316" y="314.4" width="398.4" height="35.2" fill="#6E9EA8" />
+      <rect x="316" y="377.1" width="370.8" height="35.2" fill="#6E9EA8" />
+      <rect x="316" y="439.7" width="312.8" height="35.2" fill="#6E9EA8" />
+      <rect x="316" y="502.4" width="240.1" height="35.2" fill="#12525C" />
+      <rect x="316" y="565.1" width="138.9" height="35.2" fill="#12525C" />
+    </g>
+
+    <text x="300" y="276.3" font-size="20" text-anchor="end">Eisenmetalle</text>
+    <text x="300" y="339" font-size="20" text-anchor="end">Papier/Pappe/Karton</text>
+    <text x="300" y="401.7" font-size="20" text-anchor="end">Glas</text>
+    <text x="300" y="464.3" font-size="20" text-anchor="end">Aluminium</text>
+    <text x="300" y="527" font-size="20" text-anchor="end">Kunststoffe</text>
+    <text x="300" y="589.7" font-size="20" text-anchor="end">Holz</text>
+
+    <text x="727.3" y="276.3" font-size="20" font-weight="bold">86,8 %</text>
+    <text x="726.4" y="339" font-size="20" font-weight="bold">86,6 %</text>
+    <text x="698.8" y="401.7" font-size="20" font-weight="bold">80,6 %</text>
+    <text x="640.8" y="464.3" font-size="20" font-weight="bold">68,0 %</text>
+    <text x="568.1" y="527" font-size="20" font-weight="bold">52,2 %</text>
+    <text x="466.9" y="589.7" font-size="20" font-weight="bold">30,2 %</text>
+
+    <text x="316" y="636" font-size="15" fill="#8A8A82" text-anchor="middle">0</text>
+    <text x="431" y="636" font-size="15" fill="#8A8A82" text-anchor="middle">25</text>
+    <text x="546" y="636" font-size="15" fill="#8A8A82" text-anchor="middle">50</text>
+    <text x="661" y="636" font-size="15" fill="#8A8A82" text-anchor="middle">75</text>
+    <text x="776" y="636" font-size="15" fill="#8A8A82" text-anchor="middle">100</text>
+    <text x="64" y="636" font-size="15" fill="#8A8A82">Angaben in Prozent</text>
+  </g>
+
+  <g id="quoten-takeaway" data-pptx-bounds="840 226 376 336" fill="#1C1C1A">
+    <rect x="840" y="232" width="376" height="324" rx="6" fill="#E1EDEF" />
+    <text x="872" y="300" font-family="Cambria" font-size="48" font-weight="bold" fill="#12525C">69,4 %</text>
+    <text x="872" y="336" font-size="18">aller Verpackungsabfälle<tspan x="872" dy="24">wurden 2023 recycelt –</tspan><tspan x="872" dy="24">5,4 Prozentpunkte mehr</tspan><tspan x="872" dy="24">als 2019.</tspan></text>
+    <line x1="872" y1="436" x2="1184" y2="436" stroke="#6E9EA8" stroke-width="1" />
+    <text x="872" y="470" font-size="18" font-weight="bold">Am weitesten entfernt:</text>
+    <text x="872" y="496" font-size="18">Kunststoffe mit 52,2 % und<tspan x="872" dy="24">Holz mit 30,2 %.</tspan></text>
+  </g>
+
+  <g id="seitenfuss" data-pptx-role="footer" data-pptx-bounds="64 675 1152 24" fill="#8A8A82" font-size="15">
+    <text x="64" y="690">Quelle: Umweltbundesamt, Verpackungsabfälle 2023 (neue Berechnungsmethode)</text>
+    <text x="1216" y="690" text-anchor="end">11</text>
+  </g>
+</svg>

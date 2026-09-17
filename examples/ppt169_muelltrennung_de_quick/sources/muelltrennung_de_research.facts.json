@@ -1,0 +1,526 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "Mülltrennung in Deutschland — Faktenbasis für eine Infoveranstaltung der Hausverwaltung für neu Zugezogene",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "§ 6 Abs. 1 Kreislaufwirtschaftsgesetz (KrWG) schreibt eine fünfstufige Abfallhierarchie vor: 1. Vermeidung, 2. Vorbereitung zur Wiederverwendung, 3. Recycling, 4. sonstige Verwertung, insbesondere energetische Verwertung, 5. Beseitigung (Stand 2026).",
+      "source_title": "§ 6 KrWG – Abfallhierarchie – Einzelnorm, Gesetze im Internet",
+      "source_url": "https://www.gesetze-im-internet.de/krwg/__6.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "§ 6 Abs. 2 KrWG verlangt, diejenige Maßnahme der Abfallhierarchie zu wählen, die den Schutz von Mensch und Umwelt am besten gewährleistet; maßgeblich sind zu erwartende Emissionen, das Maß der Schonung der natürlichen Ressourcen, die eingesetzte oder gewonnene Energie sowie die Anreicherung von Schadstoffen, unter Berücksichtigung von technischer Möglichkeit, wirtschaftlicher Zumutbarkeit und sozialen Folgen (Stand 2026).",
+      "source_title": "§ 6 KrWG – Abfallhierarchie – Einzelnorm, Gesetze im Internet",
+      "source_url": "https://www.gesetze-im-internet.de/krwg/__6.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "§ 14 Abs. 1 KrWG legt für die Vorbereitung zur Wiederverwendung und das Recycling von Siedlungsabfällen Zielquoten fest: mindestens 50 Gewichtsprozent ab 1. Januar 2020, 55 Gewichtsprozent ab 1. Januar 2025, 60 Gewichtsprozent ab 1. Januar 2030 und 65 Gewichtsprozent ab 1. Januar 2035.",
+      "source_title": "§ 14 KrWG – Förderung des Recyclings und der sonstigen stofflichen Verwertung – Einzelnorm, Gesetze im Internet",
+      "source_url": "https://www.gesetze-im-internet.de/krwg/__14.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "§ 14 Abs. 2 KrWG verlangt für nicht gefährliche Bau- und Abbruchabfälle (ohne natürlich vorkommendes Material der Abfallschlüsselnummer 17 05 04) spätestens ab 1. Januar 2020 mindestens 70 Gewichtsprozent Vorbereitung zur Wiederverwendung, Recycling und sonstige stoffliche Verwertung.",
+      "source_title": "§ 14 KrWG – Förderung des Recyclings und der sonstigen stofflichen Verwertung – Einzelnorm, Gesetze im Internet",
+      "source_url": "https://www.gesetze-im-internet.de/krwg/__14.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "§ 20 Abs. 2 KrWG verpflichtet die öffentlich-rechtlichen Entsorgungsträger, Bioabfälle, Papier-, Metall-, Kunststoff- und Glasabfälle, Sperrmüll, gefährliche Abfälle und Textilabfälle getrennt zu sammeln; die Pflicht zur getrennten Sammlung von Textilabfällen gilt ab dem 1. Januar 2025.",
+      "source_title": "§ 20 KrWG – Pflichten der öffentlich-rechtlichen Entsorgungsträger, buzer.de Gesetzestext",
+      "source_url": "https://www.buzer.de/20_KrWG.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "§ 16 Abs. 2 Verpackungsgesetz (VerpackG) verlangt von den dualen Systemen ab 1. Januar 2022 folgende Mindestquoten für die Zuführung zur Vorbereitung zur Wiederverwendung und zum Recycling: Glas 90 Masseprozent, Papier/Pappe/Karton 90 %, Eisenmetalle 90 %, Aluminium 90 %, Getränkekartonverpackungen 80 %, sonstige Verbundverpackungen 70 % (zuvor ab 1. Januar 2019: 80/85/80/80/75/55 %).",
+      "source_title": "§ 16 VerpackG – Anforderungen an die Verwertung, buzer.de Gesetzestext",
+      "source_url": "https://www.buzer.de/16_VerpackG.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "§ 16 Abs. 2 VerpackG: „Kunststoffe sind zu mindestens 90 Masseprozent einer Verwertung zuzuführen. Dabei sind mindestens 65 Prozent und ab dem 1. Januar 2022 70 Prozent dieser Verwertungsquote durch werkstoffliche Verwertung sicherzustellen“ — daraus ergibt sich eine werkstoffliche Zielquote von 63 % ab 2022.",
+      "source_title": "§ 16 VerpackG – Anforderungen an die Verwertung, buzer.de Gesetzestext",
+      "source_url": "https://www.buzer.de/16_VerpackG.htm",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "Der Referentenentwurf des BMUKN für ein Verpackungsrecht-Durchführungsgesetz (Stand November 2025) sieht eine Recycling-Zuführungsquote von 75 % ab 2028 und 80 % ab 2030 sowie eine Zuführungsquote für werkstoffliches Recycling von 70 % ab 2028 und 75 % ab 2030 vor, zuzüglich eines Anrechnungspotenzials von 5 % für sonstige Recyclingverfahren ab 2028.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "Das Brutto-Abfallaufkommen in Deutschland betrug 2023 rund 380,1 Mio. Tonnen; das darin enthaltene Netto-Abfallaufkommen von 322,9 Mio. Tonnen sank gegenüber 2000 um rund 21 %.",
+      "source_title": "Abfallaufkommen | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/ressourcen-abfall/abfallaufkommen",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "Die haushaltstypischen Siedlungsabfälle in Deutschland lagen 2023 bei 43,9 Mio. Tonnen, das entspricht 519 kg je Einwohner und Jahr (2000: 458 kg je Einwohner).",
+      "source_title": "Abfallaufkommen | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/ressourcen-abfall/abfallaufkommen",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "Der Verpackungsverbrauch in Deutschland lag 2023 bei 17,92 Mio. Tonnen und sank gegenüber 2022 um 5,8 % beziehungsweise 1,094 Mio. Tonnen; pro Kopf wurden 13,3 kg weniger Verpackungen verbraucht als im Vorjahr.",
+      "source_title": "Verpackungsverbrauch 2023 gesunken, Recyclingquote gestiegen | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/themen/verpackungsverbrauch-2023-gesunken-recyclingquote",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "Die Recyclingquote aller Verpackungsabfälle in Deutschland betrug 2023 69,4 % — ein Plus von 0,9 Prozentpunkten gegenüber 2022 und von 5,4 Prozentpunkten gegenüber 2019.",
+      "source_title": "Verpackungsverbrauch 2023 gesunken, Recyclingquote gestiegen | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/themen/verpackungsverbrauch-2023-gesunken-recyclingquote",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "Recyclingquoten der Verpackungsabfälle in Deutschland im Jahr 2023 nach Material (neue Berechnungsmethode): Glas 80,6 %, Papier/Pappe/Karton 86,6 %, Kunststoffe 52,2 %, Aluminium 68,0 %, Eisenmetalle 86,8 %, Holz 30,2 %.",
+      "source_title": "Verpackungsabfälle | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/umweltzustand-trends/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/verpackungsabfaelle",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "Nach der älteren Berechnungsmethode wurden 2023 insgesamt 97,1 % der Verpackungsabfälle in Deutschland stofflich oder energetisch verwertet.",
+      "source_title": "Verpackungsabfälle | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/umweltzustand-trends/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/verpackungsabfaelle",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "Rund 47,0 % aller Verpackungsabfälle in Deutschland stammten 2024 von privaten Endverbrauchern.",
+      "source_title": "Verpackungsabfälle | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/umweltzustand-trends/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/verpackungsabfaelle",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "Die Gesamtverwertungsquote der bei dualen Systemen beteiligten Verpackungsmengen lag 2018 bei rund 82 % (mehr als 4,7 Mio. t), stieg bis 2023 auf gut 90 % und blieb 2024 auf diesem Niveau; in beiden Jahren wurden jeweils rund 5,5 Mio. Tonnen Verpackungsabfälle über alle Materialarten verwertet.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "Von den dualen Systemen erreichte Recyclingquoten im Bezugsjahr 2024 gegenüber der VerpackG-Vorgabe ab 2022: Papier/Pappe/Karton 91,8 % (Vorgabe 90 %), Glas 82,9 % (90 %), Kunststoffe gesamt 105,7 % (90 %), Kunststoffe werkstofflich 70,8 % (63 %), Aluminium 117,4 % (90 %), Eisenmetalle 107,8 % (90 %), Getränkekartonverpackungen 69,5 % (80 %), sonstige Verbundverpackungen 61,5 % (70 %).",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "Im Bezugsjahr 2024 wurden fünf von acht gesetzlichen Recyclingquoten erreicht oder übertroffen (Papier/Pappe/Karton, Kunststoffe, Aluminium, Eisenmetalle); nicht erreicht wurden erneut die Vorgaben bei Glas, Getränkekartonverpackungen und sonstigen Verbundverpackungen.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "Die werkstoffliche Verwertung der systembeteiligten Kunststoffverpackungen stieg von 42,1 % im Jahr 2018 auf 70,78 % im Jahr 2024, bei einer Zielquote von 63 % ab 2022; die werkstofflich verwertete Menge wuchs von 443.200 t (2018) auf 764.508 t (2024), ein Plus von 72,5 %.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "Die gesetzliche Vorgabe, dass mehr als 50 % der Sammelmenge an Leichtverpackungen (LVP) dem Recycling zugeführt werden muss, wurde 2024 mit 52,55 % übererfüllt.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "Für die weitgehend automatische Sortierung von Leichtverpackungen mit Siebmaschinen, Magnetscheidern und Nahinfrarot-Trennern standen in Deutschland im Jahr 2024 insgesamt 43 Sortieranlagen zur Verfügung.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "Die Erfassungsmenge Glas lag 2024 bundesweit bei 22,237 kg je Einwohner, in Großstädten deutlich darunter: München 18,198 kg, Köln 17,526 kg, Berlin 17,178 kg, Frankfurt 17,121 kg, Hamburg 16,572 kg.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "Zur Erfüllung der gesetzlichen Glasquote fehlten im Jahr 2024 rund 160.000 Tonnen Altglas — das sind knapp 2 kg pro Einwohnerin und Einwohner in Deutschland.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "Im Berichtsjahr 2022 lag die Mehrwegquote bei Getränken in Deutschland bei 33,5 % (plus 0,3 Prozentpunkte gegenüber dem Vorjahr) und verfehlte damit das gesetzliche Ziel von 70 % nach § 1 Abs. 3 VerpackG um 36,5 Prozentpunkte.",
+      "source_title": "Mehrwegquote bei Getränken weit von gesetzlichem Ziel entfernt | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/themen/mehrwegquote-bei-getraenken-weit-von-gesetzlichem",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "Im Jahr 2023 wurden in Deutschland 34,3 Prozent aller Getränke in Mehrwegverpackungen abgefüllt (UBA-Texte 116/2025, veröffentlicht September 2025).",
+      "source_title": "Bundesweite Erhebung von Daten zum Verbrauch von Getränken in Mehrweggetränkeverpackungen – Bezugsjahr 2023 | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/publikationen/bundesweite-erhebung-von-daten-verbrauch-von-3",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "In Deutschland wurden 2023 3.243.822 Tonnen Elektro- und Elektronikgeräte in Verkehr gebracht und 906.121 Tonnen Elektroaltgeräte gesammelt; die Sammelquote betrug 29,5 % nach 44,3 % (2019), 41,2 % (2020), 38,6 % (2021) und 27,9 % (2022).",
+      "source_title": "Elektro- und Elektronikaltgeräte | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/elektro-elektronikaltgeraete",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "Seit dem Jahr 2019 muss die Menge gesammelter Elektroaltgeräte mindestens 65 % des gemittelten Gesamtgewichts der in den drei Vorjahren in Verkehr gebrachten Elektro- und Elektronikgeräte entsprechen (WEEE-Richtlinie 2012/19/EU, umgesetzt im ElektroG); dieses Ziel wurde 2023 mit 29,5 % deutlich verfehlt.",
+      "source_title": "Elektro- und Elektronikaltgeräte | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/elektro-elektronikaltgeraete",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "Die Sammelquote für Gerätealtbatterien in Deutschland lag 2024 bei 53,8 % nach 50,4 % (2023) und 52,2 % (2019); 2024 wurden 31.898 Tonnen Gerätealtbatterien zurückgenommen (2023: 30.483 t) bei einer in Verkehr gebrachten Menge von 59.496 Tonnen (2023: 55.197 t).",
+      "source_title": "Altbatterien | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/umweltzustand-trends/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/altbatterien",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "Die Verwertungsquote der gesammelten Gerätealtbatterien betrug 2024 100,2 % und 2023 100,0 %; Werte über oder unter 100 % ergeben sich aus dem Auf- und Abbau von Lagerbeständen in Sortier- und Verwertungsanlagen.",
+      "source_title": "Altbatterien | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/umweltzustand-trends/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/altbatterien",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "Die Recyclingquote für Behälterglas lag 2022 bei 84,6 %; Behälterglashersteller setzten 2015 durchschnittlich 60 % Scherben ein, bei Grünglas bis zu 90 %, und je Prozent zugesetzter Altglasscherben sinkt der Energiebedarf der Schmelze um etwa 0,2 bis 0,3 %; bundesweit stehen über 250.000 Altglascontainer.",
+      "source_title": "Glas und Altglas | Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/daten/ressourcen-abfall/verwertung-entsorgung-ausgewaehlter-abfallarten/glas-altglas",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "Das deutsche Einwegpfandsystem erreicht nach Angaben der DPG Deutsche Pfandsystem GmbH Rücklaufquoten von 96 Prozent und darüber; jährlich werden rund 20 Milliarden Verpackungen in den Kreislauf zurückgeführt (Stand 2026, 20 Jahre nach Einführung).",
+      "source_title": "Useful Information – The one-way deposit system, DPG Deutsche Pfandsystem GmbH",
+      "source_url": "https://dpg-pfandsystem.de/en/the-one-way-deposit-system/useful-information.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "In die Gelbe Tonne beziehungsweise den Gelben Sack gehören ausschließlich leere Verpackungen, die nicht aus Papier, Pappe oder Glas bestehen: Leichtverpackungen aus Kunststoff, Aluminium und Weißblech sowie Verbundverpackungen wie Getränkekartons (Stand 2026).",
+      "source_title": "Was gehört in die gelbe Tonne? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/gelbe-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "Nicht in die Gelbe Tonne gehören Nicht-Verpackungen aus Kunststoff wie Gießkannen oder Spielzeug, Glas- und Papierverpackungen, Speisereste und Bioabfälle sowie Elektrogeräte und Batterien (Stand 2026).",
+      "source_title": "Was gehört in die gelbe Tonne? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/gelbe-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "In einigen Regionen, zum Beispiel in Berlin, nimmt eine Wertstofftonne zusätzlich stoffgleiche Nichtverpackungen aus Kunststoff und Metall auf; andernorts gehören größere Kunststoff- und Metallgegenstände zum Schrotthändler oder auf den Wertstoffhof (Stand 2026).",
+      "source_title": "Was gehört in die gelbe Tonne? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/gelbe-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "In die Blaue Tonne gehören Papier, Pappe und Karton: Verpackungen, Briefumschläge, Geschenkpapier, Broschüren, Zeitungen, Zeitschriften, Bücher, Hochglanzkataloge sowie Kartons und Papiertüten (Stand 2026).",
+      "source_title": "Was gehört in die blaue Tonne? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/blaue-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "Papierfasern lassen sich zehn- bis 25-mal recyceln; in Deutschland wurden im Jahr 2020 rund 21,4 Mio. Tonnen Papiererzeugnisse hergestellt, davon 16,9 Mio. Tonnen aus Altpapier.",
+      "source_title": "Was gehört in die blaue Tonne? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/blaue-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "In die schwarze Restmülltonne gehören benutzte Hygiene- und Reinigungsartikel, abgekühlte Asche, Katzenstreu, Keramik und kleinere Glasgegenstände wie Trinkgläser sowie stark verschmutzte, nicht restentleerte Verpackungen wie eine Aluminiumschale mit Essensresten (Stand 2026).",
+      "source_title": "Restmülltonne: Was darf rein? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/restmuell-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "Nicht in den Restmüll gehören leere Kunststoff-, Metall- und Verbundverpackungen (Gelbe Tonne/Gelber Sack), Papier und Pappe (Blaue Tonne), Glasverpackungen (Glascontainer, nach Farben sortiert) sowie größere Gegenstände, Baumaterialien, Elektronik und schadstoffhaltige Abfälle; diese gehören auf den Wertstoffhof oder in die angemeldete Sperrmüllabholung, Batterien zusätzlich an Sammelstellen im Handel (Stand 2026).",
+      "source_title": "Restmülltonne: Was darf rein? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/restmuell-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "In den Glascontainer gehören alle restentleerten Glasverpackungen, auf die kein Pfand erhoben wird: Glaskonserven (zum Beispiel Gemüse, Obst), Flakons aus Glas (zum Beispiel Parfüm, Medizin) und Glasflaschen ohne Pfand (zum Beispiel Öl, Wein, Spirituosen, Essig) sowie Marmeladen-, Senf- und Gurkengläser (Stand 2026).",
+      "source_title": "Was gehört in den Glascontainer? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/glascontainer/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "Altglas darf in der Regel werktags zwischen 7:00 und 20:00 Uhr in die Container eingeworfen werden; die konkreten Einwurfzeiten regeln die Kommunen und können abweichen (Stand 2026).",
+      "source_title": "Altglas – Verbrauchertipp | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/themen/kreislaufwirtschaft/abfallarten-und-abfallstroeme/altglas/altglas-verbrauchertipp",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "Bundesweit wurden in Deutschland im Jahr 2017 rund 33,9 kg Sperrmüll je Einwohner und Jahr erfasst, insgesamt etwa 2,8 Mio. Mg; die Zusammensetzung: Holzmöbel 38,5 Gew.-%, Polster- und Verbundmöbel 22,2 %, Matratzen 8,1 %, Teppiche und andere Bodenbeläge 8,0 %, Metall- und Metallverbunde 6,9 %, sonstiges Holz 6,8 %, Kunststoffe 4,7 %; nur rund 8,6 Gew.-% des Sperrmülls wurden als wiederverwendbar eingeschätzt.",
+      "source_title": "TEXTE 113/2020: Vergleichende Analyse von Siedlungsrestabfällen aus repräsentativen Regionen in Deutschland – Abschlussbericht, Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/system/files/medien/479/publikationen/texte_113-2020_analyse_von_siedlungsrestabfaellen_abschlussbericht.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "Das Einwegpfand beträgt 25 Eurocent und gilt für praktisch alle Einweg-Kunststoffflaschen und alle Getränkedosen; Wein- und Spirituosenflaschen aus Glas sowie ökologisch vorteilhafte Getränkeverpackungen sind ausgenommen. Mehrwegpfand ist nicht gesetzlich geregelt, sondern wird vom Hersteller festgelegt und beträgt typischerweise 8 oder 15 Eurocent, in Einzelfällen bis zu 1 Euro. Beim Bier hat das Pfandsystem den Mehrweganteil dauerhaft über 80 Prozent stabilisiert (Stand 2026).",
+      "source_title": "Einweg und Mehrweg – FAQ | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/faqs/einweg-und-mehrweg",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "Eine Analyse der LVP-Sammelware (Bezugsmenge 2,6 Mio. Tonnen, Basisjahr 2017, ausgewertet durch CHI Institut cyclos-HTP, Dezember 2025) ergab folgende Zusammensetzung des Inhalts von Gelben Säcken und Gelben Tonnen: 36 % recyclingfähige Kunststoffverpackungen, 25 % recyclingfähige Metall- und Papierverpackungen einschließlich recyclingfähiger Papierverbunde, 13 % nicht recyclingfähige Verpackungen und Kunststoffobjekte, 26 % Fehlwürfe.",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "Fehlwürfe durchlaufen die gesamte Sortierprozesskette und verursachen vor allem hohe Kosten; einzelne Fehlwürfe wie Lithium-Ionen-Akkus haben hohes Gefährdungspotenzial für Mensch und Maschine, und schwere Fremdstoffe verzerren die massenbezogene Sortierbilanz — ein Turnschuh wiegt etwa so viel wie 100 Joghurtbecher (Stand 2026).",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "Die heute eingesetzte Sortiertechnik erreicht, bezogen auf die im Sammelgemisch enthaltenen Verpackungen, Sortierquoten von über 95 % bei recyclingfähigen Kunststoffverpackungen, über 95 % bei Flüssigkeitskartons, über 95 % bei Aluminiumverpackungen und über 99 % bei Weißblechverpackungen (Stand Dezember 2025).",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "Die bundesweite Hausmüllanalyse des Umweltbundesamtes (Erhebung 2017/2018, veröffentlicht Juni 2020 als TEXTE 113/2020) ergab für den Hausmüll privater Haushalte: nativ-organische Abfälle 39,3 Gew.-%, trockene Wertstoffe 27,6 Gew.-%, Restabfall 26,3 Gew.-%, Feinmüll (0–10 mm) 6,3 Gew.-% und Problem- und Schadstoffe 0,5 Gew.-%, bei einer spezifischen Menge von 128,2 kg je Einwohner und Jahr.",
+      "source_title": "TEXTE 113/2020: Vergleichende Analyse von Siedlungsrestabfällen aus repräsentativen Regionen in Deutschland – Abschlussbericht, Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/system/files/medien/479/publikationen/texte_113-2020_analyse_von_siedlungsrestabfaellen_abschlussbericht.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "Detailzusammensetzung des deutschen Hausmülls nach der UBA-Hausmüllanalyse (TEXTE 113/2020): Altpapier 5,2 Gew.-% (6,6 kg/E·a), Altglas 4,6 % (5,8 kg), Metalle 2,0 % (2,6 kg), Kunststoffe 6,7 % (8,6 kg), Verbunde 4,3 % (5,5 kg), Alttextilien 3,5 % (4,5 kg), Holz/Kork 1,3 % (1,6 kg), nativ-organische Abfälle 39,3 % (50,4 kg), Problem- und Schadstoffe 0,5 % (0,7 kg), Hygieneprodukte 13,5 % (17,3 kg), Inertmaterial 3,9 % (5,0 kg), sonstige Abfälle 8,9 % (11,4 kg), Feinmüll 6,3 % (8,1 kg).",
+      "source_title": "TEXTE 113/2020: Vergleichende Analyse von Siedlungsrestabfällen aus repräsentativen Regionen in Deutschland – Abschlussbericht, Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/system/files/medien/479/publikationen/texte_113-2020_analyse_von_siedlungsrestabfaellen_abschlussbericht.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "Die UBA-Hausmüllanalyse (TEXTE 113/2020) war die erste bundesweite Erhebung seit 1983–1985; gegenüber der damaligen Analyse ist ein Mengenrückgang um rund 46 % von etwa 239 kg auf 128 kg je Einwohner und Jahr eingetreten.",
+      "source_title": "TEXTE 113/2020: Vergleichende Analyse von Siedlungsrestabfällen aus repräsentativen Regionen in Deutschland – Abschlussbericht, Umweltbundesamt",
+      "source_url": "https://www.umweltbundesamt.de/system/files/medien/479/publikationen/texte_113-2020_analyse_von_siedlungsrestabfaellen_abschlussbericht.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "Die novellierte Bioabfallverordnung gilt seit dem 1. Mai 2025 und begrenzt Kunststoff-Fremdstoffe in Bioabfällen vor der Behandlung auf höchstens 0,5 Masseprozent; für Bioabfälle aus der haushaltsnahen Sammlung (Biotonne) gilt ein Wert von höchstens 1,0 Masseprozent.",
+      "source_title": "Weniger Kunststoffe im Bioabfall ab Mai 2025 – Pressemitteilung | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/pressemitteilung/weniger-kunststoffe-im-bioabfall-ab-mai-2025",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F050",
+      "claim": "Das Bundesumweltministerium stellt zur Bioabfallverordnung 2025 klar, dass Verbraucherinnen und Verbraucher keine Kunststoffprodukte in den Bioabfall geben sollen, auch dann nicht, wenn diese als biologisch abbaubar vermarktet werden; ausdrücklich genannt werden bioabbaubare Kunststoff-Kaffeekapseln.",
+      "source_title": "Weniger Kunststoffe im Bioabfall ab Mai 2025 – Pressemitteilung | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/pressemitteilung/weniger-kunststoffe-im-bioabfall-ab-mai-2025",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F051",
+      "claim": "Bioabfälle machen rund 30 bis 40 Prozent des Siedlungsabfalls aus, und ein großer Teil der Bioabfälle wird weiterhin über den Restmüll entsorgt (Stand 2025).",
+      "source_title": "Weniger Kunststoffe im Bioabfall ab Mai 2025 – Pressemitteilung | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/pressemitteilung/weniger-kunststoffe-im-bioabfall-ab-mai-2025",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F052",
+      "claim": "Nicht in die Blaue Tonne gehören Thermopapiere wie Kassenbons und Kontoauszüge (beschichtet und nicht recyclingfähig), mit Lebensmitteln verschmutzte Papierverpackungen wie Pizzakartons mit Resten, Küchentücher und Taschentücher, Tapetenreste, Backpapier, Styropor sowie Getränkekartons, die in die Gelbe Tonne gehören (Stand 2026).",
+      "source_title": "Was gehört in die blaue Tonne? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/blaue-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F053",
+      "claim": "§ 17 ElektroG verpflichtet Vertreiber mit einer Verkaufsfläche für Elektro- und Elektronikgeräte von mindestens 400 Quadratmetern sowie Lebensmittelhändler mit einer Gesamtverkaufsfläche von mindestens 800 Quadratmetern zur Rücknahme von Altgeräten; im Versandhandel gelten Lager- und Versandflächen als Verkaufsfläche (Stand 2026).",
+      "source_title": "§ 17 ElektroG – Rücknahmepflichten der Vertreiber – Einzelnorm, Gesetze im Internet",
+      "source_url": "https://www.gesetze-im-internet.de/elektrog_2015/__17.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F054",
+      "claim": "Nach § 17 ElektroG können Altgeräte, die in keiner äußeren Abmessung größer als 25 Zentimeter sind, ohne Kauf eines neuen Geräts unentgeltlich im Handel zurückgegeben werden, begrenzt auf drei Altgeräte pro Geräteart (Stand 2026).",
+      "source_title": "§ 17 ElektroG – Rücknahmepflichten der Vertreiber – Einzelnorm, Gesetze im Internet",
+      "source_url": "https://www.gesetze-im-internet.de/elektrog_2015/__17.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F055",
+      "claim": "Nach § 17 ElektroG müssen rücknahmepflichtige Vertreiber beim Kauf eines neuen Elektrogeräts ein Altgerät der gleichen Geräteart zurücknehmen, das im Wesentlichen die gleichen Funktionen erfüllt (1:1-Rücknahme); alle Rücknahmen sind für Endnutzer unentgeltlich (Stand 2026).",
+      "source_title": "§ 17 ElektroG – Rücknahmepflichten der Vertreiber – Einzelnorm, Gesetze im Internet",
+      "source_url": "https://www.gesetze-im-internet.de/elektrog_2015/__17.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F056",
+      "claim": "Das Batterierecht-Durchführungsgesetz (BattDG) ist seit dem 7. Oktober 2025 in Kraft; § 14 Abs. 1 verpflichtet Vertreiber zur unentgeltlichen Rücknahme von Gerätealtbatterien unabhängig von Marke, Herkunft und Beschaffenheit, § 6 Abs. 1 verpflichtet Endnutzer, Altbatterien getrennt vom unsortierten Siedlungsabfall zu entsorgen, und § 13 Abs. 1 legt eine Mindestsammelquote von 50 Prozent für Gerätealtbatterien fest.",
+      "source_title": "BattDG – Gesetz zur Durchführung der Verordnung (EU) 2023/1542 betreffend Batterien und Altbatterien, Gesetze im Internet",
+      "source_url": "https://www.gesetze-im-internet.de/battdg/BJNR0E90B0025.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F057",
+      "claim": "Altglas ist nach Weißglas, Grünglas und Braunglas zu trennen; blaues Glas und alle anderen nicht zuordenbaren Farben gehören in den Grünglas-Container, weil diese Fraktion andere Farben im Aufbereitungsprozess am besten verträgt (Stand 2026).",
+      "source_title": "Altglas – Verbrauchertipp | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/themen/kreislaufwirtschaft/abfallarten-und-abfallstroeme/altglas/altglas-verbrauchertipp",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F058",
+      "claim": "Nicht in den Glascontainer gehören Trinkgläser, Topfdeckel, Fenster- und Spiegelglas, Geschirr, Keramik, Porzellan und Lampen beziehungsweise Glühbirnen; Glasverpackungen bestehen aus anderem Glas als sonstige Glasprodukte, und andere Gläser stören das Recycling und müssen aufwändig aussortiert werden (Stand 2026).",
+      "source_title": "Altglas – Verbrauchertipp | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/themen/kreislaufwirtschaft/abfallarten-und-abfallstroeme/altglas/altglas-verbrauchertipp",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F059",
+      "claim": "Altglas muss vor dem Einwurf nicht gründlich gespült werden; eine grobe Entleerung von eventuellen Essensresten oder Ähnlichem ist ausreichend (Stand 2026).",
+      "source_title": "Altglas – Verbrauchertipp | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/themen/kreislaufwirtschaft/abfallarten-und-abfallstroeme/altglas/altglas-verbrauchertipp",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F060",
+      "claim": "Getrennt gesammeltes Altglas bleibt bei der Abholung (Sammelfahrzeug mit getrennten Kammern), in der Glasaufbereitung und bis in die Glashütte nach Farben getrennt; dies wird dokumentiert und ist überprüfbar — ausgenommen ist als Misch- und Buntglas gesammeltes Altglas (Stand 2026).",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F061",
+      "claim": "ZSVR und Umweltbundesamt formulieren für die Altglas-Sammlung: „Bitte nach Farben sortieren. Deckel dürfen drauf bleiben.“ Nicht einzuwerfen sind Fensterglas, Geschirr, Spiegel, Keramik und Porzellan (Stand Januar 2026).",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F062",
+      "claim": "Drei Grundregeln für die Gelbe Tonne: Verpackungen müssen restentleert („löffelrein“) sein, Ausspülen ist nicht nötig und verschwendet Wasser; Komponenten wie Deckel und Papierbanderole des Joghurtbechers sind voneinander zu trennen, Pappanteile gehören ins Altpapier; Verpackungen dürfen nicht ineinander gestapelt werden, weil dies die Sortiertechnik behindert (Stand 2026).",
+      "source_title": "Was gehört in die gelbe Tonne? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/gelbe-tonne/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F063",
+      "claim": "Mehrwegflaschen aus Glas können bis zu 50-mal wieder befüllt werden, bevor sie in das Glasrecycling gehen (Stand 2026).",
+      "source_title": "Altglas – Verbrauchertipp | Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "source_url": "https://www.bundesumweltministerium.de/themen/kreislaufwirtschaft/abfallarten-und-abfallstroeme/altglas/altglas-verbrauchertipp",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F064",
+      "claim": "Behälterglas ist oftmals sehr gut recyclingfähig und kann beliebig oft im Kreislauf geführt werden, wenn es getrennt und nach Farben sortiert entsorgt wird (Stand Januar 2026).",
+      "source_title": "Verpackungsrecycling im Faktencheck – Jahrespressekonferenz ZSVR und Umweltbundesamt, 27. Januar 2026",
+      "source_url": "https://www.verpackungsregister.org/fileadmin/files/Presse/20260127_PK_2026_Verpackungsrecycling_im_Faktencheck.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    },
+    {
+      "fact_id": "F065",
+      "claim": "Die Initiative „Mülltrennung wirkt“ empfiehlt, Verschlüsse und Deckel von Altglasverpackungen abzunehmen und in die Gelbe Tonne zu geben; bleibt der Deckel drauf, ist das unkritisch, weil die Aufbereitungsanlagen ihn per Magnet automatisch aussortieren (Stand 2026).",
+      "source_title": "Was gehört in den Glascontainer? | Mülltrennung wirkt! (Initiative der dualen Systeme)",
+      "source_url": "https://www.muelltrennung-wirkt.de/de/muelltrennung/was-gehoert-in-welche-tonne/glascontainer/",
+      "classification": "external",
+      "retrieved_at": "2026-09-17"
+    }
+  ]
+}

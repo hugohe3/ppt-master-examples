@@ -1,0 +1,1 @@
+Wir gehen in drei Schritten vor. Zuerst zwei Sätze zur rechtlichen Grundlage, damit Sie wissen, warum getrennt wird und wer wofür zuständig ist. Dann nehmen wir jede Tonne und jeden Weg einzeln durch, von der Restmülltonne bis zum Wertstoffhof. Zum Schluss schauen wir auf die Zahlen, auf die häufigsten Verwechslungen und auf eine Merkseite, die Sie mitnehmen können.

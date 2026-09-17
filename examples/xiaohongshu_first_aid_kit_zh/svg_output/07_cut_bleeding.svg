@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1242 1660" width="1242" height="1660" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="stepArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#2B2A26"/>
+    </marker>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1242" height="1660" fill="#FBF6EC"/>
+  <rect id="rail" data-pptx-role="decoration" x="54" y="88" width="3" height="1484" fill="#1F6F5C" fill-opacity="0.30"/>
+
+  <g id="rail-marker" data-pptx-bounds="42 1124 28 28">
+    <circle cx="55.5" cy="1138" r="13" fill="#D94F3D"/>
+  </g>
+
+  <g id="page-kicker" data-pptx-bounds="88 96 1066 56">
+    <text x="88" y="134" font-size="36" fill="#1F6F5C" letter-spacing="2">现场 · 割伤出血</text>
+  </g>
+
+  <g id="page-title" data-pptx-bounds="88 166 1066 130">
+    <text x="88" y="250" font-family="SimHei, Arial Black, sans-serif" font-size="80" font-weight="bold" fill="#2B2A26">割伤出血怎么处理</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 310 1066 90">
+    <text x="88" y="360" font-size="52" fill="#2B2A26">小伤口先冲洗;大出血<tspan fill="#C0392B" font-weight="bold">先打 120 再压</tspan>。</text>
+  </g>
+
+  <g id="branch-decision" data-pptx-bounds="88 404 1066 176">
+    <g id="p07-branch-node" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="flowChartDecision" data-pptx-frame="88 410 300 92" fill="#E8A33D" stroke="#2B2A26" stroke-width="3">
+<path d="M 88 456 L 238 410 L 388 456 L 238 502 Z"/>
+</g>
+    <text x="238" y="470" font-size="36" font-weight="bold" fill="#2B2A26" text-anchor="middle">先判断</text>
+    <text x="420" y="468" font-size="44" fill="#2B2A26">伤口深不深?止得住吗?</text>
+    <image href="../images/cut_press.jpg" x="980" y="408" width="165" height="165" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <g id="p07-edge-minor" data-pptx-authoring="preset" data-pptx-object="connector" data-pptx-prst="straightConnector1" data-pptx-frame="238 502 110 94" fill="none" stroke="#2B2A26" stroke-width="3">
+<path d="M 238 502 L 348 596"/>
+</g>
+  <g id="p07-edge-major" data-pptx-authoring="preset" data-pptx-object="connector" data-pptx-prst="bentConnector3" data-pptx-frame="388 456 505 140" fill="none" stroke="#2B2A26" stroke-width="3">
+<path d="M 388 456 L 640.5 456 L 640.5 596 L 893 596"/>
+</g>
+
+  <g id="minor-header" data-pptx-bounds="88 590 521 92">
+    <g id="p07-minor-header" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="88 596 521 80" fill="#3F8F5B" stroke="none">
+<path d="M 88 596 L 569 596 L 609 636 L 569 676 L 88 676 Z"/>
+</g>
+    <text x="318" y="650" font-size="44" font-weight="bold" fill="#FBF6EC" text-anchor="middle">小伤口 自己处理</text>
+  </g>
+
+  <g id="minor-step-1" data-pptx-bounds="88 694 521 96">
+      <rect x="88" y="696" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#3F8F5B" stroke-width="2"/>
+      <circle cx="132" cy="742" r="24" fill="#3F8F5B"/>
+      <text x="132" y="754" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">1</text>
+      <text x="176" y="754" font-size="32" fill="#2B2A26">洗手,流动清水冲伤口</text>
+    </g>
+  <g id="minor-step-2" data-pptx-bounds="88 792 521 116">
+      <line x1="348" y1="792" x2="348" y2="810" stroke="#2B2A26" stroke-width="3" marker-end="url(#stepArrow)"/>
+      <rect x="88" y="814" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#3F8F5B" stroke-width="2"/>
+      <circle cx="132" cy="860" r="24" fill="#3F8F5B"/>
+      <text x="132" y="872" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">2</text>
+      <text x="176" y="872" font-size="32" fill="#2B2A26">肥皂洗周围,别进伤口</text>
+    </g>
+  <g id="minor-step-3" data-pptx-bounds="88 910 521 116">
+      <line x1="348" y1="910" x2="348" y2="928" stroke="#2B2A26" stroke-width="3" marker-end="url(#stepArrow)"/>
+      <rect x="88" y="932" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#3F8F5B" stroke-width="2"/>
+      <circle cx="132" cy="978" r="24" fill="#3F8F5B"/>
+      <text x="132" y="990" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">3</text>
+      <text x="176" y="990" font-size="32" fill="#2B2A26">碘伏消伤口,由内向外</text>
+    </g>
+  <g id="minor-step-4" data-pptx-bounds="88 1028 521 116">
+      <line x1="348" y1="1028" x2="348" y2="1046" stroke="#2B2A26" stroke-width="3" marker-end="url(#stepArrow)"/>
+      <rect x="88" y="1050" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#3F8F5B" stroke-width="2"/>
+      <circle cx="132" cy="1096" r="24" fill="#3F8F5B"/>
+      <text x="132" y="1108" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">4</text>
+      <text x="176" y="1108" font-size="32" fill="#2B2A26">薄涂软膏,再盖上纱布</text>
+  </g>
+
+  <g id="major-header" data-pptx-bounds="633 590 521 92">
+    <g id="p07-major-header" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="633 596 521 80" fill="#C0392B" stroke="none">
+<path d="M 633 596 L 1114 596 L 1154 636 L 1114 676 L 633 676 Z"/>
+</g>
+    <text x="863" y="650" font-size="44" font-weight="bold" fill="#FBF6EC" text-anchor="middle">大出血 先打 120</text>
+  </g>
+
+  <g id="major-step-1" data-pptx-bounds="633 694 521 96">
+      <rect x="633" y="696" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#C0392B" stroke-width="2"/>
+      <circle cx="677" cy="742" r="24" fill="#C0392B"/>
+      <text x="677" y="754" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">1</text>
+      <text x="721" y="754" font-size="32" fill="#2B2A26">立即打 120</text>
+      <use data-icon="tabler-outline/phone-call" x="1080" y="718" width="44" height="44" fill="#C0392B" stroke-width="2"/>
+    </g>
+  <g id="major-step-2" data-pptx-bounds="633 792 521 116">
+      <line x1="893" y1="792" x2="893" y2="810" stroke="#2B2A26" stroke-width="3" marker-end="url(#stepArrow)"/>
+      <rect x="633" y="814" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#C0392B" stroke-width="2"/>
+      <circle cx="677" cy="860" r="24" fill="#C0392B"/>
+      <text x="677" y="872" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">2</text>
+      <text x="721" y="872" font-size="32" fill="#2B2A26">有条件先戴一次性手套</text>
+    </g>
+  <g id="major-step-3" data-pptx-bounds="633 910 521 116">
+      <line x1="893" y1="910" x2="893" y2="928" stroke="#2B2A26" stroke-width="3" marker-end="url(#stepArrow)"/>
+      <rect x="633" y="932" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#C0392B" stroke-width="2"/>
+      <circle cx="677" cy="978" r="24" fill="#C0392B"/>
+      <text x="677" y="990" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">3</text>
+      <text x="721" y="990" font-size="32" fill="#2B2A26">不拔大异物,别探伤口</text>
+    </g>
+  <g id="major-step-4" data-pptx-bounds="633 1028 521 116">
+      <line x1="893" y1="1028" x2="893" y2="1046" stroke="#2B2A26" stroke-width="3" marker-end="url(#stepArrow)"/>
+      <rect x="633" y="1050" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#C0392B" stroke-width="2"/>
+      <circle cx="677" cy="1096" r="24" fill="#C0392B"/>
+      <text x="677" y="1108" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">4</text>
+      <text x="721" y="1108" font-size="32" fill="#2B2A26">纱布盖住,手掌用力压</text>
+      <use data-icon="tabler-outline/hand-stop" x="1080" y="1072" width="44" height="44" fill="#C0392B" stroke-width="2"/>
+    </g>
+  <g id="major-step-5" data-pptx-bounds="633 1146 521 116">
+      <line x1="893" y1="1146" x2="893" y2="1164" stroke="#2B2A26" stroke-width="3" marker-end="url(#stepArrow)"/>
+      <rect x="633" y="1168" width="521" height="92" rx="20" fill="#FFFDF7" stroke="#C0392B" stroke-width="2"/>
+      <circle cx="677" cy="1214" r="24" fill="#C0392B"/>
+      <text x="677" y="1226" font-size="32" font-weight="bold" fill="#FBF6EC" text-anchor="middle">5</text>
+      <text x="721" y="1226" font-size="32" fill="#2B2A26">先盖后包,力度要适中</text>
+  </g>
+
+  <g id="flow-notes" data-pptx-bounds="88 1272 1066 200">
+    <text x="88" y="1300" font-size="32" fill="#6B6558">渗血后在原敷料上加盖继续压,不要揭下原敷料;<tspan x="88" dy="40">不按压眼部损伤、嵌入异物处,疑颅骨骨折不压头部伤口;</tspan><tspan x="88" dy="40">止血带只在有成品且受过训练时用,不用围巾皮带自制。</tspan><tspan x="88" dy="40">立即打 120:持续胸痛超 15 分钟 / 意识模糊或抽搐昏迷 /</tspan><tspan x="88" dy="40">严重创伤或出血不止 / 呼吸困难面色青紫。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="88 1480 1066 80" font-size="26" fill="#6B6558">
+    <text x="88" y="1512">来源:Mayo Clinic 割伤擦伤与严重出血急救;美国红十字会;<tspan x="88" dy="34">国防部网止血包扎科普;卫健系统健康科普(120 判断)</tspan></text>
+    <text x="1154" y="1546" text-anchor="end">7 / 9</text>
+  </g>
+</svg>

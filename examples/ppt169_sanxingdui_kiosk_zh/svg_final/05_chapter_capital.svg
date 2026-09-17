@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="section">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512"/>
+  <rect id="chapter-rule" data-pptx-role="decoration" x="88" y="120" width="1104" height="1" fill="#2A3630"/>
+
+  <g id="chapter-mark" data-pptx-bounds="88 148 560 100">
+    <rect x="88" y="150" width="520" height="96" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+    <rect x="88" y="150" width="4" height="96" fill="#C9A227"/>
+    <!-- icon: tabler-outline/building-bank -->
+  <g transform="translate(112, 180) scale(1.5)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M3 21l18 0" />
+    <path d="M3 10l18 0" />
+    <path d="M5 6l7 -3l7 3" />
+    <path d="M4 10l0 11" />
+    <path d="M20 10l0 11" />
+    <path d="M8 14l0 3" />
+    <path d="M12 14l0 3" />
+    <path d="M16 14l0 3" />
+  </g>
+    <text x="168" y="218" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#E9E5D9">巍然王都</text>
+  </g>
+
+  <g id="chapter-desc" data-pptx-bounds="88 268 1104 40">
+    <text x="88" y="294" font-size="28" fill="#A8A396">从文明探源角度展示古国的自然环境、社会面貌、都城布局、手工业技术与权力结构</text>
+  </g>
+
+  <g id="units-caption" data-pptx-bounds="88 312 1104 30">
+    <text x="88" y="331" font-size="18" fill="#4FB9A5">展区下设七个单元</text>
+  </g>
+
+  <g id="p05-unit-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="100 346 32 200" fill="none" stroke="#4FB9A5" stroke-width="1.5" stroke-opacity="0.55">
+<path d="M 132 546 A 16 2.67 0 0 1 116 543.33 L 116 448.67 A 16 2.67 0 0 0 100 446 A 16 2.67 0 0 0 116 443.33 L 116 348.67 A 16 2.67 0 0 1 132 346 Z" stroke="none"/>
+<path d="M 132 546 A 16 2.67 0 0 1 116 543.33 L 116 448.67 A 16 2.67 0 0 0 100 446 A 16 2.67 0 0 0 116 443.33 L 116 348.67 A 16 2.67 0 0 1 132 346"/>
+</g>
+
+  <g id="unit-members" data-pptx-bounds="156 344 1036 204">
+    <rect x="164" y="350" width="200" height="64" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="264" y="390" font-size="24" fill="#E9E5D9" text-anchor="middle">蜀土丰饶</text>
+    <rect x="380" y="350" width="200" height="64" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="480" y="390" font-size="24" fill="#E9E5D9" text-anchor="middle">都城营建</text>
+    <rect x="596" y="350" width="200" height="64" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="696" y="390" font-size="24" fill="#E9E5D9" text-anchor="middle">黄金加工</text>
+    <rect x="812" y="350" width="200" height="64" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="912" y="390" font-size="24" fill="#E9E5D9" text-anchor="middle">玉器制作</text>
+    <rect x="164" y="430" width="200" height="64" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="264" y="470" font-size="24" fill="#E9E5D9" text-anchor="middle">青铜冶铸</text>
+    <rect x="380" y="430" width="200" height="64" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="480" y="470" font-size="24" fill="#E9E5D9" text-anchor="middle">王者至尊</text>
+    <rect x="596" y="430" width="200" height="64" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1"/>
+    <text x="696" y="470" font-size="24" fill="#E9E5D9" text-anchor="middle">多元共生</text>
+  </g>
+
+  <g id="section-contents" data-pptx-bounds="88 556 1104 30">
+    <text x="88" y="575" font-size="18" fill="#A8A396">本段包含：一座 12 平方公里的都城（第 6 页）</text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">展区与单元名称：中国网文化《三星堆博物馆新馆有哪些亮点》，2023</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1"/>
+    <text x="640" y="680" font-size="16" fill="#A8A396" text-anchor="middle">5 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <!-- icon: tabler-outline/home -->
+  <g transform="translate(82, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-4">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <!-- icon: tabler-outline/arrow-left -->
+  <g transform="translate(916, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M5 12l6 6" />
+    <path d="M5 12l6 -6" />
+  </g>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-6">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <!-- icon: tabler-outline/arrow-right -->
+  <g transform="translate(1178, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    </a>
+  </g>
+</svg>

@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512"/>
+
+  <g id="page-header" data-pptx-bounds="88 70 800 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227"/>
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">七件重点文物速查</text>
+    <rect x="520" y="80" width="72" height="32" rx="6" fill="none" stroke="#C6704A" stroke-width="1"/>
+    <text x="556" y="102" font-size="18" fill="#C6704A" text-anchor="middle">整理</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">七件重点文物的年代、坑号与关键尺寸一览；各字段照录来源口径</text>
+  </g>
+
+  <g id="artifact-quick-table" data-pptx-replace-with="table" data-pptx-bounds="88 198 1104 398" data-pptx-fallback-sha256="045356ff38983b95b1e2b04390a7643d2ee3474756553c2b0cc44b53cc4d7b55">
+    <metadata type="application/json">
+{
+  "schema": "ppt-master.semantic-table.v2",
+  "name": "artifact-quick-table",
+  "x": 88,
+  "y": 200,
+  "width": 1104,
+  "height": 394,
+  "column_widths": [300, 160, 220, 424],
+  "row_heights": [44, 50, 50, 50, 50, 50, 50, 50],
+  "defaults": {
+    "cell": {
+      "align": "l",
+      "valign": "middle",
+      "font_size": 18,
+      "fill": "#17211D",
+      "padding": {"left": 16, "right": 16, "top": 6, "bottom": 6},
+      "borders": {
+        "left": {"style": "none"},
+        "right": {"style": "none"},
+        "top": {"style": "none"},
+        "bottom": {"style": "solid", "color": "#2A3630", "width": 1}
+      }
+    },
+    "run": {"color": "#E9E5D9"}
+  },
+  "columns": [
+    {"text": "文物", "fill": "#1D2A24", "color": "#C9A227", "bold": true},
+    {"text": "年代", "fill": "#1D2A24", "color": "#C9A227", "bold": true},
+    {"text": "出土坑号", "fill": "#1D2A24", "color": "#C9A227", "bold": true},
+    {"text": "关键尺寸", "fill": "#1D2A24", "color": "#C9A227", "bold": true}
+  ],
+  "rows": [
+    ["青铜大立人像", "商代晚期", "2 号坑（1986）", "通高 2.61 米"],
+    ["一号青铜神树", "商代晚期", "2 号坑（1986）", "通高 396 厘米"],
+    ["青铜纵目面具", "商代", "三星堆遗址", "两耳间距 138 厘米"],
+    ["金杖", "商代晚期", "1 号坑（1986）", "长 1.42 米"],
+    ["黄金面具（残件）", "商代晚期", "5 号坑（2021）", "宽约 23 厘米、高约 28 厘米"],
+    ["青铜大面具", "商代晚期", "3 号坑（2021）", "宽 131 厘米、高 71 厘米"],
+    ["龟背形网格状器", "商代晚期", "7 号坑", "尺寸未见权威公布"]
+  ]
+}
+    </metadata>
+    <rect x="88" y="200" width="1104" height="44" fill="#1D2A24"/>
+    <rect x="88" y="244" width="1104" height="350" fill="#17211D"/>
+    <text x="104" y="230" font-size="18" font-weight="bold" fill="#C9A227">文物</text>
+    <text x="404" y="230" font-size="18" font-weight="bold" fill="#C9A227">年代</text>
+    <text x="564" y="230" font-size="18" font-weight="bold" fill="#C9A227">出土坑号</text>
+    <text x="784" y="230" font-size="18" font-weight="bold" fill="#C9A227">关键尺寸</text>
+    <text x="104" y="276" font-size="18" fill="#E9E5D9">青铜大立人像</text>
+    <text x="404" y="276" font-size="18" fill="#E9E5D9">商代晚期</text>
+    <text x="564" y="276" font-size="18" fill="#E9E5D9">2 号坑（1986）</text>
+    <text x="784" y="276" font-size="18" fill="#E9E5D9">通高 2.61 米</text>
+    <text x="104" y="326" font-size="18" fill="#E9E5D9">一号青铜神树</text>
+    <text x="404" y="326" font-size="18" fill="#E9E5D9">商代晚期</text>
+    <text x="564" y="326" font-size="18" fill="#E9E5D9">2 号坑（1986）</text>
+    <text x="784" y="326" font-size="18" fill="#E9E5D9">通高 396 厘米</text>
+    <text x="104" y="376" font-size="18" fill="#E9E5D9">青铜纵目面具</text>
+    <text x="404" y="376" font-size="18" fill="#E9E5D9">商代</text>
+    <text x="564" y="376" font-size="18" fill="#E9E5D9">三星堆遗址</text>
+    <text x="784" y="376" font-size="18" fill="#E9E5D9">两耳间距 138 厘米</text>
+    <text x="104" y="426" font-size="18" fill="#E9E5D9">金杖</text>
+    <text x="404" y="426" font-size="18" fill="#E9E5D9">商代晚期</text>
+    <text x="564" y="426" font-size="18" fill="#E9E5D9">1 号坑（1986）</text>
+    <text x="784" y="426" font-size="18" fill="#E9E5D9">长 1.42 米</text>
+    <text x="104" y="476" font-size="18" fill="#E9E5D9">黄金面具（残件）</text>
+    <text x="404" y="476" font-size="18" fill="#E9E5D9">商代晚期</text>
+    <text x="564" y="476" font-size="18" fill="#E9E5D9">5 号坑（2021）</text>
+    <text x="784" y="476" font-size="18" fill="#E9E5D9">宽约 23 厘米、高约 28 厘米</text>
+    <text x="104" y="526" font-size="18" fill="#E9E5D9">青铜大面具</text>
+    <text x="404" y="526" font-size="18" fill="#E9E5D9">商代晚期</text>
+    <text x="564" y="526" font-size="18" fill="#E9E5D9">3 号坑（2021）</text>
+    <text x="784" y="526" font-size="18" fill="#E9E5D9">宽 131 厘米、高 71 厘米</text>
+    <text x="104" y="576" font-size="18" fill="#E9E5D9">龟背形网格状器</text>
+    <text x="404" y="576" font-size="18" fill="#E9E5D9">商代晚期</text>
+    <text x="564" y="576" font-size="18" fill="#E9E5D9">7 号坑</text>
+    <text x="784" y="576" font-size="18" fill="#E9E5D9">尺寸未见权威公布</text>
+    <line x1="88" y1="244" x2="1192" y2="244" stroke="#2A3630" stroke-width="1"/>
+    <line x1="88" y1="294" x2="1192" y2="294" stroke="#2A3630" stroke-width="1"/>
+    <line x1="88" y1="344" x2="1192" y2="344" stroke="#2A3630" stroke-width="1"/>
+    <line x1="88" y1="394" x2="1192" y2="394" stroke="#2A3630" stroke-width="1"/>
+    <line x1="88" y1="444" x2="1192" y2="444" stroke="#2A3630" stroke-width="1"/>
+    <line x1="88" y1="494" x2="1192" y2="494" stroke="#2A3630" stroke-width="1"/>
+    <line x1="88" y1="544" x2="1192" y2="544" stroke="#2A3630" stroke-width="1"/>
+    <line x1="88" y1="594" x2="1192" y2="594" stroke="#2A3630" stroke-width="1"/>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1"/>
+    <text x="620" y="680" font-size="16" fill="#A8A396" text-anchor="middle">15 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <!-- icon: tabler-outline/home -->
+  <g transform="translate(82, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-7">
+      <rect x="240" y="648" width="180" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <!-- icon: tabler-outline/list -->
+  <g transform="translate(258, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M9 6l11 0" />
+    <path d="M9 12l11 0" />
+    <path d="M9 18l11 0" />
+    <path d="M5 6l0 .01" />
+    <path d="M5 12l0 .01" />
+    <path d="M5 18l0 .01" />
+  </g>
+      <text x="292" y="680" font-size="20" fill="#E9E5D9">文物目录</text>
+    </a>
+    <a href="#slide-14">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <!-- icon: tabler-outline/arrow-left -->
+  <g transform="translate(916, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M5 12l6 6" />
+    <path d="M5 12l6 -6" />
+  </g>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-16">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <!-- icon: tabler-outline/arrow-right -->
+  <g transform="translate(1178, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    </a>
+  </g>
+</svg>

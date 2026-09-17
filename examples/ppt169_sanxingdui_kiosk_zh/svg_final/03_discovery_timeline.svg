@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512" />
+
+  <g id="page-header" data-pptx-bounds="88 70 850 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227" />
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">百年发现：从一条水沟到八座祭祀坑</text>
+    <rect x="860" y="80" width="72" height="32" rx="6" fill="none" stroke="#C6704A" stroke-width="1" />
+    <text x="896" y="102" font-size="18" fill="#C6704A" text-anchor="middle">整理</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 144 1104 38">
+    <text x="88" y="170" font-size="28" fill="#A8A396">三星堆的发现是一条近百年的链条，1986 年那两座坑才让它进入公众视野</text>
+  </g>
+
+  <g id="timeline-spine" data-pptx-role="decoration" data-pptx-bounds="72 238 1136 36">
+    <line x1="72" y1="250" x2="1208" y2="250" stroke="#2A3630" stroke-width="2" />
+    <circle cx="112" cy="250" r="9" fill="#C9A227" />
+    <circle cx="396" cy="250" r="9" fill="#C9A227" />
+    <circle cx="680" cy="250" r="9" fill="#C9A227" />
+    <circle cx="964" cy="250" r="9" fill="#C9A227" />
+    <line x1="112" y1="259" x2="112" y2="272" stroke="#2A3630" stroke-width="1" />
+    <line x1="396" y1="259" x2="396" y2="272" stroke="#2A3630" stroke-width="1" />
+    <line x1="680" y1="259" x2="680" y2="272" stroke="#2A3630" stroke-width="1" />
+    <line x1="964" y1="259" x2="964" y2="272" stroke="#2A3630" stroke-width="1" />
+  </g>
+
+  <g id="timeline-node-1929" data-pptx-bounds="72 276 268 196">
+    <text x="72" y="300" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#C9A227">1929</text>
+    <text x="72" y="336" font-size="24" fill="#E9E5D9">首次露头</text>
+    <text fill="#A8A396" font-size="18" x="72" y="364">燕道诚父子在广汉南兴镇挖沟</text><text fill="#A8A396" font-size="18" x="72" y="389">时发现300多件玉石器</text></g>
+
+  <g id="timeline-node-1934" data-pptx-bounds="356 276 268 196">
+    <text x="356" y="300" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#C9A227">1934</text>
+    <text x="356" y="336" font-size="24" fill="#E9E5D9">首次科学发掘</text>
+    <text fill="#A8A396" font-size="18" x="356" y="364">华西大学博物馆馆长葛维汉组</text><text fill="#A8A396" font-size="18" x="356" y="389">织考古队发掘10天，出土陶</text><text fill="#A8A396" font-size="18" x="356" y="414">器、石器、玉器等600多件</text></g>
+
+  <g id="timeline-node-1986" data-pptx-bounds="640 276 268 196">
+    <text x="640" y="300" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#C9A227">1986</text>
+    <text x="640" y="336" font-size="24" fill="#E9E5D9">两座祭祀坑现世</text>
+    <text fill="#A8A396" font-size="18" x="640" y="364">7月18日砖瓦厂工人取土挖出</text><text fill="#A8A396" font-size="18" x="640" y="389">器物，一号祭祀坑显露，出土</text><text fill="#A8A396" font-size="18" x="640" y="414">珍贵器物420件、象牙13根</text><text fill="#A8A396" font-size="18" x="640" y="439">8月二号祭祀坑随即现世，青</text><text fill="#A8A396" font-size="18" x="640" y="464">铜大立人、青铜神树出自其中</text></g>
+
+  <g id="timeline-node-2019" data-pptx-bounds="924 276 268 196">
+    <text x="924" y="300" font-family="Consolas, Microsoft YaHei, monospace" font-size="26" fill="#C9A227">2019–2022</text>
+    <text x="924" y="336" font-size="24" fill="#E9E5D9">六座新坑</text>
+    <text fill="#A8A396" font-size="18" x="924" y="364">2019年11月至2020年5月，新</text><text fill="#A8A396" font-size="18" x="924" y="389">发现6座「祭祀坑」，编号</text><text fill="#A8A396" font-size="18" x="924" y="414">K3–K8</text></g>
+
+  <g id="reading-note" data-pptx-bounds="88 484 1104 30">
+    <text x="88" y="500" font-size="18" fill="#C6704A">本时间线为导览整理，各节点照录来源的原始表述</text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：新华社《你从哪里来，三星堆？》2021；驻慕尼黑总领馆《三星堆考古发现20年记》2006</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1" />
+    <text x="640" y="680" font-size="16" fill="#A8A396" text-anchor="middle">3 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(82, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-2">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(916, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M5 12l6 6" />
+    <path d="M5 12l6 -6" />
+  </g>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-4">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      
+  <g transform="translate(1178, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M13 18l6 -6" />
+    <path d="M13 6l6 6" />
+  </g>
+    </a>
+  </g>
+</svg>

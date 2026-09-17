@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1242 1660" width="1242" height="1660" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1242" height="1660" fill="#FBF6EC"/>
+  <rect id="rail" data-pptx-role="decoration" x="54" y="88" width="3" height="1484" fill="#1F6F5C" fill-opacity="0.30"/>
+
+  <g id="rail-marker" data-pptx-bounds="42 620 28 28">
+    <circle cx="55.5" cy="634" r="13" fill="#D94F3D"/>
+  </g>
+
+  <g id="page-kicker" data-pptx-bounds="88 96 1066 56">
+    <text x="88" y="134" font-size="36" fill="#1F6F5C" letter-spacing="2">清单 · 第三类与第四类</text>
+  </g>
+
+  <g id="page-title" data-pptx-bounds="88 166 1066 130">
+    <text x="88" y="250" font-family="SimHei, Arial Black, sans-serif" font-size="80" font-weight="bold" fill="#2B2A26">常用药和工具,怎么备</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 310 1066 90">
+    <text x="88" y="360" font-size="52" fill="#2B2A26">药<tspan fill="#D94F3D" font-weight="bold">按用途备</tspan>,工具齐了才动得了手。</text>
+  </g>
+
+  <g id="band-medicine" data-pptx-bounds="88 410 1066 420">
+    <g id="p04-brace-medicine" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="96 420 44 400" fill="none" stroke="#E8A33D" stroke-width="5">
+<path d="M 140 820 A 22 3.67 0 0 1 118 816.33 L 118 623.67 A 22 3.67 0 0 0 96 620 A 22 3.67 0 0 0 118 616.33 L 118 423.67 A 22 3.67 0 0 1 140 420 Z" stroke="none"/>
+<path d="M 140 820 A 22 3.67 0 0 1 118 816.33 L 118 623.67 A 22 3.67 0 0 0 96 620 A 22 3.67 0 0 0 118 616.33 L 118 423.67 A 22 3.67 0 0 1 140 420"/>
+</g>
+    <image href="../images/kit_medicine.jpg" x="150" y="540" width="200" height="200" preserveAspectRatio="xMidYMid meet"/>
+    <use data-icon="tabler-outline/pills" x="1090" y="458" width="56" height="56" fill="#1F6F5C" stroke-width="2"/>
+    <text x="380" y="500" font-family="SimHei, Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#1F6F5C">第三类 常用药</text>
+    <text x="380" y="590" font-size="44" fill="#2B2A26">· 五个用途:退烧止痛、抗过敏</text>
+    <text x="380" y="652" font-size="44" fill="#2B2A26">· 肠胃应急、外用止痛、清凉解暑</text>
+    <text x="380" y="714" font-size="44" fill="#2B2A26">· 老人:硝酸甘油或速效救心丸</text>
+    <text x="380" y="776" font-size="44" fill="#2B2A26">· 小孩:儿童退热药、无菌敷贴</text>
+  </g>
+
+  <g id="band-tools" data-pptx-bounds="88 850 1066 460">
+    <g id="p04-brace-tools" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBrace" data-pptx-frame="96 860 44 440" fill="none" stroke="#E8A33D" stroke-width="5">
+<path d="M 140 1300 A 22 3.67 0 0 1 118 1296.33 L 118 1083.67 A 22 3.67 0 0 0 96 1080 A 22 3.67 0 0 0 118 1076.33 L 118 863.67 A 22 3.67 0 0 1 140 860 Z" stroke="none"/>
+<path d="M 140 1300 A 22 3.67 0 0 1 118 1296.33 L 118 1083.67 A 22 3.67 0 0 0 96 1080 A 22 3.67 0 0 0 118 1076.33 L 118 863.67 A 22 3.67 0 0 1 140 860"/>
+</g>
+    <image href="../images/kit_tools.jpg" x="150" y="1000" width="200" height="200" preserveAspectRatio="xMidYMid meet"/>
+    <use data-icon="tabler-outline/tools" x="1090" y="888" width="56" height="56" fill="#1F6F5C" stroke-width="2"/>
+    <text x="380" y="930" font-family="SimHei, Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#1F6F5C">第四类 工具</text>
+    <text x="380" y="1020" font-size="44" fill="#2B2A26">· 一次性医用手套、外科口罩</text>
+    <text x="380" y="1082" font-size="44" fill="#2B2A26">· 护目镜 · 圆头剪刀 · 镊子</text>
+    <text x="380" y="1144" font-size="44" fill="#2B2A26">· 电子体温计(非水银非玻璃)</text>
+    <text x="380" y="1206" font-size="44" fill="#2B2A26">· 急救毯 · 人工呼吸面膜 · 手电筒</text>
+    <g id="tools-caution">
+      <use data-icon="tabler-outline/bulb" x="380" y="1244" width="34" height="34" fill="#E8A33D" stroke-width="2"/>
+      <text x="426" y="1272" font-size="32" fill="#6B6558">电子血压计要定期检查电量与校准</text>
+    </g>
+  </g>
+
+  <g id="page-note" data-pptx-bounds="88 1340 1066 110">
+    <text x="88" y="1376" font-size="32" fill="#6B6558">对症备用,不盲目囤货;再加上家人长期服用的药和急救电话。<tspan x="88" dy="44">本页只给品类,具体用药遵医嘱或看说明书,不给剂量。</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="88 1480 1066 80" font-size="26" fill="#6B6558">
+    <text x="88" y="1512">来源:北京急救中心《家庭医疗应急物品指导目录》2020;应急管理部<tspan x="88" dy="34">《全国基础版家庭应急物资储备建议清单》2020;美国红十字会急救包清单</tspan></text>
+    <text x="1154" y="1546" text-anchor="end">4 / 9</text>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="de-DE" data-pptx-page-role="content" font-family="Segoe UI" font-size="24">
+  <rect id="grund" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FAF8F4" />
+
+  <g id="seitentitel" data-pptx-bounds="64 56 1152 100" fill="#1C1C1A">
+    <rect x="64" y="58" width="4" height="26" fill="#12525C" />
+    <text x="80" y="78" font-size="18" font-weight="bold" letter-spacing="1.6" fill="#12525C">AUSSER HAUS</text>
+    <text x="64" y="128" font-family="Cambria" font-size="44" font-weight="bold">Elektrogeräte und Batterien</text>
+    <line x1="64" y1="152" x2="1216" y2="152" stroke="#D8D3C8" stroke-width="1" />
+  </g>
+
+  <g id="tonnen-leiste" data-pptx-bounds="64 168 1152 46">
+    <rect x="64" y="172" width="130" height="30" rx="4" fill="#3C3C3B" fill-opacity="0.35" />
+    <text x="129" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Restmüll</text>
+    <rect x="210" y="172" width="130" height="30" rx="4" fill="#6B4423" fill-opacity="0.35" />
+    <text x="275" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Biotonne</text>
+    <rect x="356" y="172" width="130" height="30" rx="4" fill="#F4C400" fill-opacity="0.35" />
+    <text x="421" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Gelbe Tonne</text>
+    <rect x="502" y="172" width="130" height="30" rx="4" fill="#0F4C9E" fill-opacity="0.35" />
+    <text x="567" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Altpapier</text>
+    <rect x="648" y="172" width="130" height="30" rx="4" fill="#2E7D32" fill-opacity="0.35" />
+    <text x="713" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Altglas</text>
+    <rect x="794" y="172" width="130" height="30" rx="4" fill="#FFFFFF" stroke="#D8D3C8" stroke-width="1.2" />
+    <text x="859" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Pfand</text>
+    <rect x="940" y="172" width="130" height="30" rx="4" fill="#FFFFFF" stroke="#D8D3C8" stroke-width="1.2" />
+    <text x="1005" y="192" font-size="14" font-weight="bold" fill="#8A8A82" text-anchor="middle">Sperrmüll</text>
+    <rect x="1086" y="172" width="130" height="30" rx="4" fill="#FFFFFF" stroke="#1C1C1A" stroke-width="1.2" />
+    <text x="1151" y="192" font-size="14" font-weight="bold" fill="#1C1C1A" text-anchor="middle">Wertstoffhof</text>
+    <rect x="1086" y="206" width="130" height="3" fill="#12525C" />
+  </g>
+
+  <g id="elektro-wohin" data-pptx-bounds="64 234 556 330" fill="#1C1C1A">
+    <rect x="64" y="240" width="556" height="6" fill="#3C3C3B" />
+    
+  <g transform="translate(64, 258) scale(2.25)" fill="#12525C">
+    <path d="M6 0V4H10V0H12V4H15V6H13V8C13 10.419 11.2822 12.4367 9 12.9V16H7V12.9C4.71776 12.4367 3 10.419 3 8V6H1V4H4V0H6Z" />
+  </g>
+    <text x="112" y="290" font-family="Cambria" font-size="28" font-weight="bold">Wohin damit?</text>
+    <text x="64" y="336" font-size="20" font-weight="bold" fill="#B3261E">Nie in den Restmüll</text>
+    <text font-size="20" x="64" y="368">Lithium-Ionen-Akkus können in Fahrzeugen</text><text font-size="20" x="64" y="394">und Sortieranlagen in Brand geraten. Für</text><text font-size="20" x="64" y="420">Altbatterien ist die getrennte Entsorgung</text><text font-size="20" x="64" y="446">gesetzlich vorgeschrieben.</text><text x="64" y="492" font-size="20" font-weight="bold" fill="#2E7D32">Drei richtige Wege</text>
+    <text font-size="20" x="64" y="524">Wertstoffhof, kommunale Sammelstelle</text><text font-size="20" x="64" y="550">oder Rückgabe im Handel.</text></g>
+
+  <g id="handel-ruecknahme" data-pptx-bounds="660 234 556 330" fill="#1C1C1A">
+    <rect x="660" y="240" width="556" height="6" fill="#12525C" />
+    
+  <g transform="translate(660, 258) scale(2.25)" fill="#12525C">
+    <path d="M3 1L0 4V5C0 5 2 6 4 6C6 6 8 5 8 5C8 5 10 6 12 6C14 6 16 5 16 5V4L13 1H3Z" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1 15V7.5187C1.81671 7.76457 2.88168 8 4 8C5.3025 8 6.53263 7.68064 7.38246 7.39737C7.60924 7.32177 7.81664 7.24612 8 7.17526C8.18337 7.24612 8.39076 7.32177 8.61754 7.39737C9.46737 7.68064 10.6975 8 12 8C13.1183 8 14.1833 7.76457 15 7.5187V15H7V10H4V15H1ZM12 10H10V13H12V10Z" />
+  </g>
+    <text x="708" y="290" font-family="Cambria" font-size="28" font-weight="bold">Der Handel muss zurücknehmen</text>
+    <text x="660" y="336" font-size="20" font-weight="bold">Wer verpflichtet ist</text>
+    <text font-size="20" x="660" y="368">Händler ab 400 m² Verkaufsfläche für</text><text font-size="20" x="660" y="394">Elektrogeräte und Lebensmittelmärkte ab</text><text font-size="20" x="660" y="420">800 m² Gesamtverkaufsfläche.</text><text x="660" y="466" font-size="20" font-weight="bold">Was Sie abgeben dürfen</text>
+    <text font-size="20" x="660" y="498">Geräte bis 25 cm ohne Neukauf, höchstens</text><text font-size="20" x="660" y="524">drei je Geräteart. Beim Neukauf zusätzlich</text><text font-size="20" x="660" y="550">ein Altgerät gleicher Art – immer kostenlos.</text></g>
+
+  <g id="elektro-quoten" data-pptx-bounds="64 570 1152 94" fill="#1C1C1A">
+    <rect x="64" y="576" width="1152" height="82" rx="6" fill="#E1EDEF" />
+    <text font-size="20" x="96" y="612">Sammelquote Elektroaltgeräte 2023: <tspan font-weight="bold" fill="#12525C">29,5 %</tspan> – das gesetzliche Ziel liegt bei <tspan font-weight="bold" fill="#12525C">65 %</tspan>.</text><text font-size="20" x="96" y="640"><tspan>Bei Gerätealtbatterien wurden 2024 <tspan font-weight="bold" fill="#12525C">53,8 %</tspan> erreicht, bei einer Mindestquote von 50 %.</tspan></text></g>
+
+  <g id="seitenfuss" data-pptx-role="footer" data-pptx-bounds="64 675 1152 24" fill="#8A8A82" font-size="15">
+    <text x="64" y="690">Quelle: § 17 ElektroG, Batterierecht-Durchführungsgesetz (seit 7. Oktober 2025), Umweltbundesamt 2023/2024</text>
+    <text x="1216" y="690" text-anchor="end">9</text>
+  </g>
+</svg>

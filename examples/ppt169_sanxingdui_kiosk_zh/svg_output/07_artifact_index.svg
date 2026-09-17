@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="toc">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512"/>
+
+  <g id="page-header" data-pptx-bounds="88 70 800 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227"/>
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">天地人神：七件重点文物</text>
+    <rect x="640" y="80" width="72" height="32" rx="6" fill="none" stroke="#C6704A" stroke-width="1"/>
+    <text x="676" y="102" font-size="18" fill="#C6704A" text-anchor="middle">整理</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">点任意一件，直接看它的年代、坑号、尺寸与看点</text>
+  </g>
+
+  <g id="toc-item-standing-figure" data-pptx-bounds="88 248 264 120">
+    <a href="#slide-8">
+      <rect x="88" y="250" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/crown" x="108" y="266" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="108" y="324" font-size="24" fill="#E9E5D9">青铜大立人像</text>
+      <text x="108" y="352" font-size="18" fill="#A8A396">通高 2.61 米，2 号坑</text>
+    </a>
+  </g>
+
+  <g id="toc-item-sacred-tree" data-pptx-bounds="368 248 264 120">
+    <a href="#slide-9">
+      <rect x="368" y="250" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/tree" x="388" y="266" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="388" y="324" font-size="24" fill="#E9E5D9">一号青铜神树</text>
+      <text x="388" y="352" font-size="18" fill="#A8A396">通高 396 厘米，2 号坑</text>
+    </a>
+  </g>
+
+  <g id="toc-item-protruding-mask" data-pptx-bounds="648 248 264 120">
+    <a href="#slide-10">
+      <rect x="648" y="250" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/eye" x="668" y="266" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="668" y="324" font-size="24" fill="#E9E5D9">青铜纵目面具</text>
+      <text x="668" y="352" font-size="18" fill="#A8A396">两耳间距 138 厘米</text>
+    </a>
+  </g>
+
+  <g id="toc-item-gold-scepter" data-pptx-bounds="928 248 264 120">
+    <a href="#slide-11">
+      <rect x="928" y="250" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/coin" x="948" y="266" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="948" y="324" font-size="24" fill="#E9E5D9">金杖</text>
+      <text x="948" y="352" font-size="18" fill="#A8A396">长 1.42 米，1 号坑</text>
+    </a>
+  </g>
+
+  <g id="toc-item-gold-mask" data-pptx-bounds="88 380 264 120">
+    <a href="#slide-12">
+      <rect x="88" y="382" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/mask" x="108" y="398" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="108" y="456" font-size="24" fill="#E9E5D9">黄金面具</text>
+      <text x="108" y="484" font-size="18" fill="#A8A396">5 号坑残件 280 克</text>
+    </a>
+  </g>
+
+  <g id="toc-item-large-mask" data-pptx-bounds="368 380 264 120">
+    <a href="#slide-13">
+      <rect x="368" y="382" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/mask" x="388" y="398" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="388" y="456" font-size="24" fill="#E9E5D9">青铜大面具</text>
+      <text x="388" y="484" font-size="18" fill="#A8A396">宽 131 厘米，3 号坑</text>
+    </a>
+  </g>
+
+  <g id="toc-item-grid-vessel" data-pptx-bounds="648 380 264 120">
+    <a href="#slide-14">
+      <rect x="648" y="382" width="264" height="116" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/box" x="668" y="398" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="668" y="456" font-size="24" fill="#E9E5D9">龟背形网格状器</text>
+      <text x="668" y="484" font-size="18" fill="#A8A396">7 号坑，至今未开启</text>
+    </a>
+  </g>
+
+  <g id="zone-note" data-pptx-bounds="88 504 1104 74" font-size="18" fill="#A8A396">
+    <text x="88" y="520">展区以祭祀区出土精品文物为主要展示对象，呈现礼器、祭祀行为、崇拜对象及信仰体系与宇宙观念<tspan x="88" dy="24">下设以玉通神 · 藏礼于器 · 神圣祭坛 · 青铜面具 · 鸟足神像 · 万物有灵 · 通天神树 七个单元</tspan><tspan x="88" dy="24" fill="#C6704A">本目录为导览整理，七件系从馆藏重点文物中择取</tspan></text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：中国网文化《三星堆博物馆新馆有哪些亮点》，2023</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1"/>
+    <text x="640" y="680" font-size="16" fill="#A8A396" text-anchor="middle">7 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/home" x="82" y="660" width="24" height="24" fill="#C9A227" stroke-width="2"/>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-6">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/arrow-left" x="916" y="660" width="24" height="24" fill="#C9A227" stroke-width="2"/>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-8">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <use data-icon="tabler-outline/arrow-right" x="1178" y="660" width="24" height="24" fill="#C9A227" stroke-width="2"/>
+    </a>
+  </g>
+</svg>

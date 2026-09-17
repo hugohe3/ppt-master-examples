@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512" />
+
+  <g id="page-header" data-pptx-bounds="88 70 700 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227" />
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">参观信息</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">开放时间、票价与预约方式以官网当日公布为准</text>
+  </g>
+
+  <g id="info-hours" data-pptx-bounds="88 198 264 264">
+    <rect x="88" y="200" width="264" height="260" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1" />
+    
+  <g transform="translate(108, 220) scale(1.33333)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M12 7v5l3 3" />
+  </g>
+    <text x="108" y="280" font-size="18" fill="#4FB9A5">开放时间</text>
+    <text fill="#E9E5D9" font-size="18" x="108" y="310">新馆（陈列馆）</text><text fill="#E9E5D9" font-size="18" x="108" y="334">08:30–18:00</text><text fill="#E9E5D9" font-size="18" x="108" y="358">停止入馆 17:00</text><text fill="#E9E5D9" font-size="18" x="108" y="382">修复馆 09:00–17:00</text><text fill="#E9E5D9" font-size="18" x="108" y="406">原综合馆、青铜馆</text><text fill="#E9E5D9" font-size="18" x="108" y="430">停止对外开放</text></g>
+
+  <g id="info-tickets" data-pptx-bounds="368 198 264 264">
+    <rect x="368" y="200" width="264" height="260" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1" />
+    
+  <g transform="translate(388, 220) scale(1.33333)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M15 5l0 2" />
+    <path d="M15 11l0 2" />
+    <path d="M15 17l0 2" />
+    <path d="M5 5h14a2 2 0 0 1 2 2v3a2 2 0 0 0 0 4v3a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-3a2 2 0 0 0 0 -4v-3a2 2 0 0 1 2 -2" />
+  </g>
+    <text x="388" y="280" font-size="18" fill="#4FB9A5">票价</text>
+    <text fill="#E9E5D9" font-size="18" x="388" y="310">普通票 72 元</text><text fill="#E9E5D9" font-size="18" x="388" y="334">学生票 36 元</text><text fill="#E9E5D9" font-size="18" x="388" y="358">试运行期间暂</text><text fill="#E9E5D9" font-size="18" x="388" y="382">执行原票价</text><text fill="#E9E5D9" font-size="18" x="388" y="406">优惠政策详见</text><text fill="#E9E5D9" font-size="18" x="388" y="430">票务预约系统</text></g>
+
+  <g id="info-booking" data-pptx-bounds="648 198 264 264">
+    <rect x="648" y="200" width="264" height="260" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1" />
+    
+  <g transform="translate(668, 220) scale(1.33333)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12" />
+    <path d="M16 3v4" />
+    <path d="M8 3v4" />
+    <path d="M4 11h16" />
+    <path d="M11 15h1" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="668" y="280" font-size="18" fill="#4FB9A5">预约</text>
+    <text fill="#E9E5D9" font-size="18" x="668" y="310">须提前通过微信公</text><text fill="#E9E5D9" font-size="18" x="668" y="334">众号或官网预约购</text><text fill="#E9E5D9" font-size="18" x="668" y="358">票，按预约时段入馆</text><text fill="#E9E5D9" font-size="18" x="668" y="382">未授权第三方机构</text><text fill="#E9E5D9" font-size="18" x="668" y="406">或个人销售门票和</text><text fill="#E9E5D9" font-size="18" x="668" y="430">讲解票</text></g>
+
+  <g id="info-contact" data-pptx-bounds="928 198 264 264">
+    <rect x="928" y="200" width="264" height="260" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1" />
+    
+  <g transform="translate(948, 220) scale(1.33333)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+    <path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0" />
+  </g>
+    <text x="948" y="280" font-size="18" fill="#4FB9A5">馆址与联系</text>
+    <text fill="#E9E5D9" font-size="18" x="948" y="310">四川省广汉市</text><text fill="#E9E5D9" font-size="18" x="948" y="334">客服电话</text><text fill="#E9E5D9" font-size="18" x="948" y="358">0838-5533333</text><text fill="#E9E5D9" font-size="18" x="948" y="382">人工客服时间</text><text fill="#E9E5D9" font-size="18" x="948" y="406">08:30–17:00</text></g>
+
+  <g id="official-site" data-pptx-bounds="88 478 1104 84">
+    <a href="https://www.sxd.cn/">
+      <rect x="88" y="480" width="1104" height="80" rx="8" fill="#1D2A24" stroke="#C9A227" stroke-width="2" />
+      
+  <g transform="translate(132, 502) scale(1.5)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M3.6 9h16.8" />
+    <path d="M3.6 15h16.8" />
+    <path d="M11.5 3a17 17 0 0 0 0 18" />
+    <path d="M12.5 3a17 17 0 0 1 0 18" />
+  </g>
+      <text x="188" y="532" font-family="SimHei, Arial, sans-serif" font-size="32" fill="#C9A227">三星堆博物馆官方网站 www.sxd.cn</text>
+    </a>
+  </g>
+
+  <g id="validity-note" data-pptx-bounds="88 568 1104 28">
+    <text x="88" y="586" font-size="18" fill="#C6704A">以上开放时间与票价出自 2023 年 7 月博物馆试运行公告，请以官网当日公布为准</text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：广汉市人民政府<a href="https://www.guanghan.gov.cn/gk/zjah/ahll/1647848.htm"><tspan fill="#C9A227">《三星堆博物馆新馆试运行公告》</tspan></a>，2023-07-26</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1" />
+    <text x="620" y="680" font-size="16" fill="#A8A396" text-anchor="middle">16 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(82, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-7">
+      <rect x="240" y="648" width="180" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(258, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M9 6l11 0" />
+    <path d="M9 12l11 0" />
+    <path d="M9 18l11 0" />
+    <path d="M5 6l0 .01" />
+    <path d="M5 12l0 .01" />
+    <path d="M5 18l0 .01" />
+  </g>
+      <text x="292" y="680" font-size="20" fill="#E9E5D9">文物目录</text>
+    </a>
+    <a href="#slide-15">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      
+  <g transform="translate(916, 660)" fill="none" stroke="#C9A227" stroke-width="2">
+    <path d="M5 12l14 0" />
+    <path d="M5 12l6 6" />
+    <path d="M5 12l6 -6" />
+  </g>
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+  </g>
+</svg>

@@ -1,12 +1,283 @@
 {
   "version": 1,
-  "updated": "2026-09-12",
+  "updated": "2026-09-17",
   "stats": {
-    "examples": 61,
-    "pages": 888,
-    "templates": 61
+    "examples": 64,
+    "pages": 926,
+    "templates": 64
   },
   "projects": [
+    {
+      "id": "ppt169_sanxingdui_kiosk_zh",
+      "title": "三星堆博物馆自助导览",
+      "description": "触摸屏自助导览 deck 16 页 — 仓库首个原生超链接示例:首页是可点菜单,四个展区各自跳转,每页底部导航条带「回首页 / 上一页 / 下一页」,文物页多一个「文物目录」按钮,末页参观信息挂官网外链,导出后同卷跳转落在每个叶子形状的 hlinkClick 上(按钮自带底矩形作命中区);事实经 topic-research 取自三星堆博物馆官网、国家文物局、四川省文物考古研究院与新华社等来源,每页标出处与年份;青铜大立人、一号神树、纵目面具、金杖、大面具、龟背形网格状器各一页,固定同序写年代、坑号、尺寸、看点,五号坑黄金面具因候选照片无法确证身份改为无照片页;近黑墨绿暗场承托 Wikimedia Commons 文物实拍,细金线与低透明度巨大编号浮在内容层后,等宽体只用于尺寸与坑号;1 张原生表格速查,带链接的组同时作 Morph 端点与进场动画,共 3 组 Morph;zh-CN,全卷中文讲者备注",
+      "icon": "🏺",
+      "color": "#0E1512",
+      "style": "culture",
+      "styleName": "Bronze & Gold Dark Kiosk · 青铜金线暗场导览",
+      "desc": "A sixteen-page Chinese self-guided museum deck for a touch screen — the first native-hyperlink example: the cover is a clickable menu, each of four galleries jumps to its own section, every page carries a bottom navigation bar (home / previous / next, artifact pages add a catalogue button), and the closing visitor-information page links out to the official site. Exported same-deck jumps land on every leaf shape's hlinkClick, so each button paints its own background rectangle as the hit area. Facts came through topic research from the Sanxingdui Museum, the National Cultural Heritage Administration, the Sichuan Provincial Institute of Archaeology and Xinhua, each page citing source and year; the standing bronze figure, sacred tree no. 1, protruding-eye mask, gold sceptre, large mask and turtle-shell grid vessel get one page each in a fixed order of date, pit, dimensions and what to look for, while the pit-5 gold mask became a photo-free page when no candidate image could be verified. A near-black bronze-green stage carries Wikimedia Commons photographs, hairline gold rules and huge low-opacity numerals sit behind the content layer, monospace is reserved for dimensions and pit numbers; one native quick-reference table, linked groups doubling as Morph endpoints and entrance animations across three Morph pairs, zh-CN, Chinese speaker notes throughout.",
+      "tags": [
+        "Culture",
+        "Chinese",
+        "Hyperlinks",
+        "Kiosk",
+        "Topic Research",
+        "Web Photos",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_sanxingdui_kiosk_zh/svg_final",
+      "generatedAt": "2026-09-17",
+      "cover": "01_menu.svg",
+      "pptx": "examples/ppt169_sanxingdui_kiosk_zh/exports/ppt169_sanxingdui_kiosk_zh.pptx",
+      "slides": [
+        {
+          "file": "01_menu.svg",
+          "title": "menu",
+          "desc": "首页菜单:三星堆博物馆自助导览(四条可点路径)"
+        },
+        {
+          "file": "02_chapter_century.svg",
+          "title": "chapter century",
+          "desc": "章节:世纪逐梦"
+        },
+        {
+          "file": "03_discovery_timeline.svg",
+          "title": "discovery timeline",
+          "desc": "百年发现:从一条水沟到八座祭祀坑"
+        },
+        {
+          "file": "04_pits_and_dating.svg",
+          "title": "pits and dating",
+          "desc": "八座祭祀坑与年代:公元前 1131—前 1012 年"
+        },
+        {
+          "file": "05_chapter_capital.svg",
+          "title": "chapter capital",
+          "desc": "章节:巍然王都"
+        },
+        {
+          "file": "06_capital_city.svg",
+          "title": "capital city",
+          "desc": "十二平方公里的王都"
+        },
+        {
+          "file": "07_artifact_index.svg",
+          "title": "artifact index",
+          "desc": "文物目录:天地人神,七件重点文物(可点)"
+        },
+        {
+          "file": "08_standing_figure.svg",
+          "title": "standing figure",
+          "desc": "青铜大立人像"
+        },
+        {
+          "file": "09_sacred_tree.svg",
+          "title": "sacred tree",
+          "desc": "一号青铜神树"
+        },
+        {
+          "file": "10_protruding_mask.svg",
+          "title": "protruding mask",
+          "desc": "青铜纵目面具:138 厘米的两耳间距"
+        },
+        {
+          "file": "11_gold_scepter.svg",
+          "title": "gold scepter",
+          "desc": "金杖"
+        },
+        {
+          "file": "12_gold_mask.svg",
+          "title": "gold mask",
+          "desc": "五号坑黄金面具:280 克(无照片页)"
+        },
+        {
+          "file": "13_large_mask.svg",
+          "title": "large mask",
+          "desc": "青铜大面具:131 厘米"
+        },
+        {
+          "file": "14_grid_vessel.svg",
+          "title": "grid vessel",
+          "desc": "龟背形网格状器"
+        },
+        {
+          "file": "15_quick_table.svg",
+          "title": "quick table",
+          "desc": "七件重点文物速查(原生表格)"
+        },
+        {
+          "file": "16_visit_info.svg",
+          "title": "visit info",
+          "desc": "参观信息与官网链接"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_muelltrennung_de_quick",
+      "title": "Mülltrennung in Deutschland",
+      "description": "Quick 路线德文信息会 deck 13 页 — 仓库首个德文示例,也是首个 Quick 修改回合示例:面向新迁入住户的物业信息会,先讲两部法律各一句(Kreislaufwirtschaftsgesetz / Verpackungsgesetz),再逐条讲 Restmüll、Biotonne、Gelbe Tonne、Altpapier/Altglas、Pfand、Elektro/Batterien、Sperrmüll/Wertstoffhof 去哪,配 Umweltbundesamt / Destatis / BMUV 的回收率数字与五个典型误投,末页五条日常规则;交付后按用户两轮改动完成——R1 在 Biotonne 页加一句、软化误投页标题、在 Pfand 后插入电器与电池页并重排目录页码,R2 全卷强调色换成深 petrol——旧页不重画,备注与 Morph 端点随页序跟上;德文长复合词在窄卡片内的断行、ä ö ü ß 与 „…“ 引号、86,8 % 小数逗号(原生 data_labels 不支持,改走图表注记)均为压测点;Segoe UI / Cambria,de-DE;1 张原生图表、1 张原生表格,横贯 7 页的分类色条与末页规则各成 Morph 链,共 7 对",
+      "icon": "♻️",
+      "color": "#12525C",
+      "style": "education",
+      "styleName": "Municipal Info Sheet · 市政信息单",
+      "desc": "A thirteen-page German Quick deck for a housing-association information evening — the first German example and the first to go through Quick revision rounds. Two laws in one sentence each (Kreislaufwirtschaftsgesetz, Verpackungsgesetz), then one page per route — residual waste, organic bin, yellow bin, paper and glass, deposit returns, electronics and batteries, bulky waste and recycling yard — with recycling-rate figures from the Umweltbundesamt, Destatis and BMUV, five typical mis-sorts, and a closing page of five everyday rules. After delivery the deck took two user rounds: R1 added a line to the organic-bin page, softened the mis-sorts title and inserted the electronics page after deposits with renumbered contents; R2 swapped the accent colour to a dark petrol across the deck — untouched pages were not redrawn, notes and Morph endpoints followed the new order. Long German compounds in narrow cards, ä ö ü ß and „…“ quotes, and 86,8 % decimal commas (unsupported in native data labels, so carried as chart notes) were the stress points; Segoe UI / Cambria with de-DE tags, one native chart and one native table, a route strip running seven pages and the closing rules each forming Morph chains, seven pairs in all.",
+      "tags": [
+        "Education",
+        "German",
+        "Quick",
+        "Revision Rounds",
+        "Topic Research",
+        "AI Illustration",
+        "Native Charts",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_muelltrennung_de_quick/svg_final",
+      "generatedAt": "2026-09-17",
+      "cover": "01_titel.svg",
+      "pptx": "examples/ppt169_muelltrennung_de_quick/exports/ppt169_muelltrennung_de_quick.pptx",
+      "slides": [
+        {
+          "file": "01_titel.svg",
+          "title": "titel",
+          "desc": "Titel: Mülltrennung in Deutschland"
+        },
+        {
+          "file": "02_ueberblick.svg",
+          "title": "ueberblick",
+          "desc": "Was Sie heute mitnehmen (Inhalt)"
+        },
+        {
+          "file": "03_rechtsgrundlagen.svg",
+          "title": "rechtsgrundlagen",
+          "desc": "Zwei Gesetze – in je einem Satz"
+        },
+        {
+          "file": "04_wege_ueberblick.svg",
+          "title": "wege ueberblick",
+          "desc": "Wohin gehört was? Die Wege im Überblick"
+        },
+        {
+          "file": "05_restmuell_biotonne.svg",
+          "title": "restmuell biotonne",
+          "desc": "Restmüll und Biotonne"
+        },
+        {
+          "file": "06_gelbe_tonne.svg",
+          "title": "gelbe tonne",
+          "desc": "Gelbe Tonne und Gelber Sack"
+        },
+        {
+          "file": "07_altpapier_altglas.svg",
+          "title": "altpapier altglas",
+          "desc": "Altpapier und Altglas"
+        },
+        {
+          "file": "08_pfand.svg",
+          "title": "pfand",
+          "desc": "Pfand: 25 Cent"
+        },
+        {
+          "file": "09_elektro_batterien.svg",
+          "title": "elektro batterien",
+          "desc": "Elektrogeräte und Batterien (in R1 eingefügt)"
+        },
+        {
+          "file": "10_sperrmuell_wertstoffhof.svg",
+          "title": "sperrmuell wertstoffhof",
+          "desc": "Sperrmüll und Wertstoffhof"
+        },
+        {
+          "file": "11_quoten.svg",
+          "title": "quoten",
+          "desc": "Recyclingquoten in Zahlen"
+        },
+        {
+          "file": "12_fehlwuerfe.svg",
+          "title": "fehlwuerfe",
+          "desc": "Fünf typische Verwechslungen"
+        },
+        {
+          "file": "13_merkseite.svg",
+          "title": "merkseite",
+          "desc": "Fünf Regeln für den Alltag"
+        }
+      ]
+    },
+    {
+      "id": "xiaohongshu_first_aid_kit_zh",
+      "title": "家用急救包怎么配",
+      "description": "小红书 3:4 竖版图文 9 张 — 仓库首个 xiaohongshu 画布示例(1242×1660,导出 sldSz 精确 3:4):封面抓人,四类清单(止血包扎 / 消毒 / 常用药 / 工具)逐类展开,一页「今天就清出去」纠错(过期药、红药水紫药水),放哪儿与多久检查一次,割伤出血与烫伤「冲脱泡盖送」两张拓扑装配流程图(导出为真连接符),末张可长按保存的原生总表;事实取自中国红十字会、北京急救中心家庭医疗应急物品指导目录、人民网科普中国、美国红十字会、Mayo Clinic 等已发布来源,每张标出处;9 张手绘感 AI 插画由两张 2×2 母版切片得到,暖米纸底、抖线黑墨轮廓、略溢出边线的柔和色块;眉题、发丝分隔线与纵向标尺给竖版层级;Microsoft YaHei,zh-CN;相邻页 3 对 Morph,备注面向社区讲解",
+      "icon": "🩹",
+      "color": "#FBF6EC",
+      "style": "culture",
+      "styleName": "Sketch-notes × Editorial · 手绘竖版图文",
+      "desc": "A nine-card Xiaohongshu 3:4 carousel in Chinese — the first example on the xiaohongshu canvas (1242×1660, exported slide size an exact 3:4): a cover built to stop the scroll, a four-category checklist (bleeding control, disinfection, everyday medicines, tools) opened one card at a time, a clear-out card for expired drugs and mercurochrome-era antiseptics, where to keep the kit and how often to check it, two topology-assembled flow charts for cuts and burns (cool–remove–soak–cover–send) exported as real connectors, and a closing master table to long-press and save. Facts come from the Red Cross Society of China, Beijing Emergency Medical Center's household emergency-supplies list, People's Daily Science, the American Red Cross and Mayo Clinic, each card citing its source; nine hand-drawn AI illustrations were sliced from two 2×2 sheets and sit on a warm paper ground with wobbly ink outlines and colour blocks that spill past the line, while kickers, hairline rules and a vertical scale give the portrait layout its hierarchy. Microsoft YaHei with zh-CN tags, three Morph pairs across adjacent cards, and speaker notes written for a community talk.",
+      "tags": [
+        "Culture",
+        "Chinese",
+        "Social Carousel",
+        "3:4",
+        "AI Illustration",
+        "Topology Assembly",
+        "Native Tables",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "xiaohongshu_first_aid_kit_zh/svg_final",
+      "generatedAt": "2026-09-17",
+      "cover": "01_cover.svg",
+      "pptx": "examples/xiaohongshu_first_aid_kit_zh/exports/xiaohongshu_first_aid_kit_zh.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面:家用急救包怎么配"
+        },
+        {
+          "file": "02_four_categories.svg",
+          "title": "four categories",
+          "desc": "记住四类,比记数量有用"
+        },
+        {
+          "file": "03_bandage_antiseptic.svg",
+          "title": "bandage antiseptic",
+          "desc": "止血包扎和消毒,买什么"
+        },
+        {
+          "file": "04_medicine_tools.svg",
+          "title": "medicine tools",
+          "desc": "常用药和工具,怎么备"
+        },
+        {
+          "file": "05_clear_out.svg",
+          "title": "clear out",
+          "desc": "这几样,今天就清出去"
+        },
+        {
+          "file": "06_where_and_when.svg",
+          "title": "where and when",
+          "desc": "放哪儿、多久查一次:3 个月"
+        },
+        {
+          "file": "07_cut_bleeding.svg",
+          "title": "cut bleeding",
+          "desc": "割伤出血怎么处理(流程图)"
+        },
+        {
+          "file": "08_burn_five_steps.svg",
+          "title": "burn five steps",
+          "desc": "烫伤五步:冲脱泡盖送(流程图)"
+        },
+        {
+          "file": "09_master_table.svg",
+          "title": "master table",
+          "desc": "一张总表,长按保存(原生表格)"
+        }
+      ]
+    },
     {
       "id": "ppt169_dujiangyan_zh_sparse",
       "title": "都江堰：一座还在上班的两千岁工程",

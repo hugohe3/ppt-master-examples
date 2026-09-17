@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E1512" stop-opacity="0.95"/>
+      <stop offset="48%" stop-color="#0E1512" stop-opacity="0.78"/>
+      <stop offset="78%" stop-color="#0E1512" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#0E1512" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="goldGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b"/>
+      <feFlood flood-color="#C9A227" flood-opacity="0.40" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512"/>
+  <image id="cover-photo" data-pptx-role="background" href="../images/sanxingdui_museum_exterior.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#coverScrim)"/>
+
+  <g id="cover-title" data-pptx-bounds="88 96 560 186">
+    <text x="88" y="164" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#E9E5D9" filter="url(#goldGlow)">三星堆博物馆<tspan x="88" dy="86" fill="#C9A227">自助导览</tspan></text>
+  </g>
+
+  <g id="cover-hook" data-pptx-bounds="88 292 460 36">
+    <text x="88" y="318" font-size="28" fill="#A8A396">沉睡数千年 一醒惊天下</text>
+  </g>
+
+  <g id="menu-entry-chapter1" data-pptx-bounds="88 346 560 60">
+    <a href="#slide-2">
+      <rect x="88" y="348" width="560" height="56" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/shovel" x="104" y="362" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="148" y="384" font-size="28" fill="#E9E5D9">世纪逐梦</text>
+      <text x="632" y="384" font-size="18" fill="#A8A396" text-anchor="end">遗址与祭祀坑 · 3 页</text>
+    </a>
+  </g>
+
+  <g id="menu-entry-chapter2" data-pptx-bounds="88 410 560 60">
+    <a href="#slide-5">
+      <rect x="88" y="412" width="560" height="56" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/building-bank" x="104" y="426" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="148" y="448" font-size="28" fill="#E9E5D9">巍然王都</text>
+      <text x="632" y="448" font-size="18" fill="#A8A396" text-anchor="end">都城与手工业 · 2 页</text>
+    </a>
+  </g>
+
+  <g id="menu-entry-chapter3" data-pptx-bounds="88 474 560 60">
+    <a href="#slide-7">
+      <rect x="88" y="476" width="560" height="56" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/crown" x="104" y="490" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="148" y="512" font-size="28" fill="#E9E5D9">天地人神 · 重点文物</text>
+      <text x="632" y="512" font-size="18" fill="#A8A396" text-anchor="end">7 件 · 8 页</text>
+    </a>
+  </g>
+
+  <g id="menu-entry-visit" data-pptx-bounds="88 538 560 60">
+    <a href="#slide-16">
+      <rect x="88" y="540" width="560" height="56" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <use data-icon="tabler-outline/ticket" x="104" y="554" width="28" height="28" fill="#C9A227" stroke-width="2"/>
+      <text x="148" y="576" font-size="28" fill="#E9E5D9">参观信息</text>
+      <text x="632" y="576" font-size="18" fill="#A8A396" text-anchor="end">开放时间 / 票价 · 1 页</text>
+    </a>
+  </g>
+
+  <g id="menu-footnote" data-pptx-role="footer" data-pptx-bounds="88 604 880 26">
+    <text x="88" y="620" font-size="16" fill="#A8A396">基本陈列「三星堆：沉睡数千年 一醒惊天下」分世纪逐梦、巍然王都、天地人神三大展区（广汉市人民政府，2023）</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1"/>
+    <text x="88" y="680" font-size="16" fill="#A8A396">触摸屏幕上的按钮即可跳转</text>
+    <text x="640" y="680" font-size="16" fill="#A8A396" text-anchor="middle">1 / 16</text>
+    <a href="#slide-2">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <use data-icon="tabler-outline/arrow-right" x="1178" y="660" width="24" height="24" fill="#C9A227" stroke-width="2"/>
+    </a>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, sans-serif" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0E1512" />
+
+  <g id="artifact-title" data-pptx-bounds="88 70 700 56">
+    <rect x="88" y="78" width="4" height="44" fill="#C9A227" />
+    <text x="108" y="108" font-family="SimHei, Arial, sans-serif" font-size="42" fill="#E9E5D9">黄金面具（五号坑残件）</text>
+  </g>
+
+  <g id="page-lead" data-pptx-bounds="88 130 1104 40">
+    <text x="88" y="156" font-size="28" fill="#A8A396">出土的是半张面具，280 克，推测完整时超过 500 克</text>
+  </g>
+
+  <g id="weight-hero" data-pptx-bounds="88 184 512 120">
+    <text x="88" y="200" font-size="18" fill="#4FB9A5">五号坑出土残件重量</text>
+    <text x="88" y="270" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#C9A227">280 克</text>
+  </g>
+
+  <g id="fact-era-pit" data-pptx-bounds="88 310 512 66">
+    <text x="88" y="332" font-size="18" fill="#4FB9A5">年代与坑号</text>
+    <text x="88" y="360" font-size="24" fill="#E9E5D9">商代晚期 · 5 号祭祀坑</text>
+  </g>
+
+  <g id="metal-composition" data-pptx-bounds="88 382 512 102">
+    <text x="88" y="404" font-size="18" fill="#4FB9A5">成分与尺寸</text>
+    <text x="88" y="438" font-size="24" fill="#E9E5D9">含金量约 85%，银含量 13%–14%</text>
+    <text x="88" y="472" font-size="24" fill="#E9E5D9">宽约 23 厘米、高约 28 厘米</text>
+  </g>
+
+  <g id="estimated-weight" data-pptx-bounds="640 184 552 134">
+    <rect x="640" y="186" width="552" height="130" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.35" stroke-width="1" />
+    <text x="664" y="212" font-size="18" fill="#4FB9A5">推测完整重量</text>
+    <text x="664" y="284" font-family="SimHei, Arial, sans-serif" font-size="72" fill="#E9E5D9">超过 500 克</text>
+  </g>
+
+  <g id="weight-comparison" data-pptx-bounds="640 330 552 116">
+    <rect x="640" y="332" width="552" height="112" rx="8" fill="#17211D" stroke="#2A3630" stroke-width="1" />
+    <text x="664" y="360" font-size="18" fill="#4FB9A5">比较</text>
+    <text x="664" y="388" font-size="18" fill="#E9E5D9">比成都金沙遗址出土的黄金面具更大更重，<tspan x="664" dy="24">也比金杖（463 克）更重</tspan></text>
+  </g>
+
+  <g id="fact-discovery" data-pptx-bounds="640 456 552 80" font-size="18">
+    <text x="640" y="478" fill="#4FB9A5">发现经过</text>
+    <text x="640" y="502" fill="#E9E5D9">2021 年 1 月 5 日，四川大学考古队在<tspan x="640" dy="24">5 号坑中发现半张黄金面具</tspan></text>
+  </g>
+
+  <g id="fact-highlight" data-pptx-bounds="88 494 512 102" font-size="18">
+    <text x="88" y="516" fill="#4FB9A5">看点</text>
+    <text x="88" y="540" fill="#E9E5D9">出土时像被揉皱压扁的纸团，逐步清理中才辨<tspan x="88" dy="24">出鼻子、耳朵；发掘领队黎海超称其为迄今发</tspan><tspan x="88" dy="24">现的体量最大的一件金面具</tspan></text>
+  </g>
+
+  <g id="caliber-note" data-pptx-bounds="640 544 552 54" font-size="18">
+    <text x="640" y="566" fill="#C6704A">口径提示</text>
+    <text x="640" y="590" fill="#A8A396">与金杖作重量对比时采用 463 克口径</text>
+  </g>
+
+  <g id="source-note" data-pptx-role="footer" data-pptx-bounds="64 600 1152 26">
+    <text x="88" y="616" font-size="16" fill="#A8A396">来源：中新网《亲历者揭秘「三星堆最大金面具」发现发掘幕后故事》，2022</text>
+  </g>
+
+  <g id="nav-bar" data-pptx-role="chrome" data-pptx-bounds="64 634 1152 64">
+    <line x1="64" y1="636" x2="1216" y2="636" stroke="#2A3630" stroke-width="1" />
+    <text x="620" y="680" font-size="16" fill="#A8A396" text-anchor="middle">12 / 16</text>
+    <a href="#slide-1">
+      <rect x="64" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/home" x="82" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="116" y="680" font-size="20" fill="#E9E5D9">回首页</text>
+    </a>
+    <a href="#slide-7">
+      <rect x="240" y="648" width="180" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/list" x="258" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="292" y="680" font-size="20" fill="#E9E5D9">文物目录</text>
+    </a>
+    <a href="#slide-11">
+      <rect x="898" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <use data-icon="tabler-outline/arrow-left" x="916" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+      <text x="950" y="680" font-size="20" fill="#E9E5D9">上一页</text>
+    </a>
+    <a href="#slide-13">
+      <rect x="1066" y="648" width="150" height="48" rx="8" fill="#17211D" stroke="#C9A227" stroke-opacity="0.45" stroke-width="1" />
+      <text x="1084" y="680" font-size="20" fill="#E9E5D9">下一页</text>
+      <use data-icon="tabler-outline/arrow-right" x="1178" y="660" width="24" height="24" fill="#C9A227" stroke-width="2" />
+    </a>
+  </g>
+</svg>

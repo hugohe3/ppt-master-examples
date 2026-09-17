@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "defaults": {
+    "animation": { "trigger": "after-previous", "duration": 0.4 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "cover-hook": { "effect": "entrance_rise_up", "order": 2, "duration": 0.5, "delay": 0.1 },
+        "cover-sub": { "effect": "entrance_fade", "order": 3, "duration": 0.4 }
+      }
+    },
+    "02_four_categories": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.45 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "cat-bandage": { "effect": "entrance_zoom", "order": 3, "duration": 0.4 },
+        "cat-antiseptic": { "effect": "entrance_zoom", "order": 4, "duration": 0.4 },
+        "cat-medicine": { "effect": "entrance_zoom", "order": 5, "duration": 0.4 },
+        "cat-tools": { "effect": "entrance_zoom", "order": 6, "duration": 0.4 },
+        "category-note": { "effect": "entrance_fade", "order": 7, "duration": 0.4 }
+      }
+    },
+    "03_bandage_antiseptic": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "02_four_categories",
+        "pairs": {
+          "rail-marker": { "from": "rail-marker", "to": "rail-marker" },
+          "cat-a": { "from": "cat-bandage", "to": "band-bandage" },
+          "cat-b": { "from": "cat-antiseptic", "to": "band-antiseptic" }
+        }
+      },
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.45 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "page-note": { "effect": "entrance_fade", "order": 3, "duration": 0.4, "delay": 0.3 }
+      }
+    },
+    "04_medicine_tools": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "03_bandage_antiseptic",
+        "pairs": {
+          "rail-marker": { "from": "rail-marker", "to": "rail-marker" },
+          "cat-a": { "from": "band-bandage", "to": "band-medicine" },
+          "cat-b": { "from": "band-antiseptic", "to": "band-tools" }
+        }
+      },
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.45 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "page-note": { "effect": "entrance_fade", "order": 3, "duration": 0.4, "delay": 0.3 }
+      }
+    },
+    "05_clear_out": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.45 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "old-drugs-figure": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "ban-item-mercurochrome": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.35 },
+        "ban-item-gentian": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.35 },
+        "ban-item-alcohol": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.35 },
+        "ban-item-expired": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 7, "duration": 0.35 },
+        "disposal-flow": { "effect": "entrance_fade", "order": 8, "duration": 0.45, "delay": 0.2 },
+        "dispute-note": { "effect": "entrance_fade", "order": 9, "duration": 0.4, "delay": 0.2 }
+      }
+    },
+    "06_where_and_when": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.45 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "storage-card": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "check-cycle": { "effect": "entrance_zoom", "order": 4, "duration": 0.5, "delay": 0.2 },
+        "check-steps": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.5 },
+        "shelf-life-note": { "effect": "entrance_fade", "order": 6, "duration": 0.4, "delay": 0.2 }
+      }
+    },
+    "07_cut_bleeding": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.45 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "branch-decision": { "effect": "entrance_zoom", "order": 3, "duration": 0.45 },
+        "p07-edge-minor": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 4, "duration": 0.3 },
+        "minor-header": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.35 },
+        "minor-step-1": { "effect": "entrance_fade", "order": 6, "duration": 0.3 },
+        "minor-step-2": { "effect": "entrance_fade", "order": 7, "duration": 0.3 },
+        "minor-step-3": { "effect": "entrance_fade", "order": 8, "duration": 0.3 },
+        "minor-step-4": { "effect": "entrance_fade", "order": 9, "duration": 0.3 },
+        "p07-edge-major": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 10, "duration": 0.3, "delay": 0.2 },
+        "major-header": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 11, "duration": 0.35 },
+        "major-step-1": { "effect": "entrance_fade", "order": 12, "duration": 0.3 },
+        "major-step-2": { "effect": "entrance_fade", "order": 13, "duration": 0.3 },
+        "major-step-3": { "effect": "entrance_fade", "order": 14, "duration": 0.3 },
+        "major-step-4": { "effect": "entrance_fade", "order": 15, "duration": 0.3 },
+        "major-step-5": { "effect": "entrance_fade", "order": 16, "duration": 0.3 },
+        "flow-notes": { "effect": "entrance_fade", "order": 17, "duration": 0.45, "delay": 0.3 }
+      }
+    },
+    "08_burn_five_steps": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "07_cut_bleeding",
+        "pairs": {
+          "rail-marker": { "from": "rail-marker", "to": "rail-marker" },
+          "page-title": { "from": "page-title", "to": "page-title" }
+        }
+      },
+      "groups": {
+        "page-lead": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "burn-hero": { "effect": "entrance_zoom", "order": 2, "duration": 0.5 },
+        "burn-step-1": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.4 },
+        "burn-step-2": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.35 },
+        "burn-step-3": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.35 },
+        "burn-step-4": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 6, "duration": 0.35 },
+        "burn-step-5": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 7, "duration": 0.35 },
+        "burn-donts": { "effect": "entrance_fade", "order": 8, "duration": 0.45, "delay": 0.3 }
+      }
+    },
+    "09_master_table": {
+      "groups": {
+        "page-title": { "effect": "entrance_fade", "order": 1, "duration": 0.45 },
+        "page-lead": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "checklist-master": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.8 },
+        "action-band": { "effect": "entrance_rise_up", "order": 4, "duration": 0.5, "delay": 0.3 }
+      }
+    }
+  }
+}

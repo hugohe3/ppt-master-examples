@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "defaults": {
+    "animation": {
+      "trigger": "after-previous",
+      "duration": 0.5,
+      "stagger": 0.15
+    }
+  },
+  "slides": {
+    "01_titel": {
+      "groups": {
+        "titelbild": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "up"
+          },
+          "order": 1,
+          "duration": 0.9
+        },
+        "titelblock": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.6
+        },
+        "titel-kennzahl": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.5,
+          "delay": 0.2
+        }
+      }
+    },
+    "02_ueberblick": {
+      "animation": {
+        "effect": "entrance_wipe",
+        "effect_options": {
+          "direction": "right"
+        },
+        "duration": 0.3,
+        "stagger": 0.08
+      },
+      "groups": {
+        "seitentitel": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5
+        }
+      }
+    },
+    "03_rechtsgrundlagen": {
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "hierarchie": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "down"
+          },
+          "order": 2,
+          "duration": 0.8
+        }
+      }
+    },
+    "04_wege_ueberblick": {
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "tonnen-leiste": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 3,
+          "duration": 0.9
+        }
+      }
+    },
+    "05_restmuell_biotonne": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "04_wege_ueberblick",
+        "pairs": {
+          "wegeleiste": {
+            "from": "tonnen-leiste",
+            "to": "tonnen-leiste"
+          }
+        }
+      },
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "tonnen-leiste": {
+          "effect": "none"
+        }
+      }
+    },
+    "06_gelbe_tonne": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "05_restmuell_biotonne",
+        "pairs": {
+          "wegeleiste": {
+            "from": "tonnen-leiste",
+            "to": "tonnen-leiste"
+          }
+        }
+      },
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "tonnen-leiste": {
+          "effect": "none"
+        }
+      }
+    },
+    "07_altpapier_altglas": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "06_gelbe_tonne",
+        "pairs": {
+          "wegeleiste": {
+            "from": "tonnen-leiste",
+            "to": "tonnen-leiste"
+          }
+        }
+      },
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "tonnen-leiste": {
+          "effect": "none"
+        }
+      }
+    },
+    "08_pfand": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "07_altpapier_altglas",
+        "pairs": {
+          "wegeleiste": {
+            "from": "tonnen-leiste",
+            "to": "tonnen-leiste"
+          }
+        }
+      },
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "tonnen-leiste": {
+          "effect": "none"
+        },
+        "pfand-einweg": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 2,
+          "duration": 0.6
+        },
+        "pfand-mehrweg": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "left"
+          },
+          "order": 3,
+          "duration": 0.6
+        }
+      }
+    },
+    "09_elektro_batterien": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "08_pfand",
+        "pairs": {
+          "wegeleiste": {
+            "from": "tonnen-leiste",
+            "to": "tonnen-leiste"
+          }
+        }
+      },
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "tonnen-leiste": {
+          "effect": "none"
+        }
+      }
+    },
+    "10_sperrmuell_wertstoffhof": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "09_elektro_batterien",
+        "pairs": {
+          "wegeleiste": {
+            "from": "tonnen-leiste",
+            "to": "tonnen-leiste"
+          }
+        }
+      },
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "tonnen-leiste": {
+          "effect": "none"
+        }
+      }
+    },
+    "11_quoten": {
+      "transition": {
+        "effect": "push",
+        "effect_options": {
+          "direction": "up"
+        },
+        "duration": 0.5
+      },
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "verwertungsquoten": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 3,
+          "duration": 0.9
+        }
+      }
+    },
+    "12_fehlwuerfe": {
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "fehl-merksatz": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 4,
+          "duration": 0.6
+        }
+      }
+    },
+    "13_merkseite": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "12_fehlwuerfe",
+        "pairs": {
+          "merksatz": {
+            "from": "fehl-merksatz",
+            "to": "merksatz"
+          }
+        }
+      },
+      "animation": {
+        "effect": "entrance_fade",
+        "duration": 0.45
+      },
+      "groups": {
+        "merksatz": {
+          "effect": "none"
+        }
+      }
+    }
+  }
+}
