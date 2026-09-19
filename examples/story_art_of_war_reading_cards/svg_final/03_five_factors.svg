@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" lang="zh-CN" font-family="Microsoft YaHei, Cambria" data-pptx-master="story_vertical_master" data-pptx-master-name="Story Vertical" data-pptx-layout="title_content" data-pptx-layout-name="Title and Content">
+  <rect id="master-background" x="0" y="0" width="1080" height="1920" fill="#F4F1E8" data-pptx-layer="master" data-pptx-editable="false" />
+  <line id="title-content-rule" x1="80" y1="400" x2="1000" y2="400" stroke="#D8D2C6" stroke-width="2" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="title-content-title-slot" data-pptx-placeholder="title" data-pptx-bounds="80 200 760 180">
+    <text id="title-content-title-carrier" data-pptx-carrier="true" x="80" y="306" font-family="KaiTi, Cambria" font-size="76" fill="#232323">先比五件事</text>
+  </g>
+  <g id="title-content-body-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="80 440 920 340">
+    <text fill="#3A3A3A" font-size="48" x="80" y="502">孙子说，胜负在开打前就能估出来</text><text fill="#3A3A3A" font-size="48" x="80" y="574">他列出五件必须比较的常数：</text><text fill="#3A3A3A" font-size="48" x="80" y="646"><tspan><tspan fill="#A8322D" font-weight="bold">道、天、地、将、法</tspan>。</tspan></text></g>
+  <g id="body-note-03" data-pptx-bounds="80 800 920 240">
+    <text fill="#3A3A3A" font-size="48" x="80" y="862">道是上下同心，天是时令气候，</text><text fill="#3A3A3A" font-size="48" x="80" y="934">地是远近险易，将是为将者的品质，</text><text fill="#3A3A3A" font-size="48" x="80" y="1006">法是编制、职责与军需。</text></g>
+  <g id="quote-plate-03" data-pptx-bounds="80 1200 920 300">
+    <g id="quote-bracket-03" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="80 1214 32 164" fill="none" stroke="#A8322D" stroke-width="4">
+<path d="M 112 1378 A 32 2.67 0 0 1 80 1375.33 L 80 1216.67 A 32 2.67 0 0 1 112 1214 Z" stroke="none" />
+<path d="M 112 1378 A 32 2.67 0 0 1 80 1375.33 L 80 1216.67 A 32 2.67 0 0 1 112 1214" />
+</g>
+    <text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1252">These are: (1) The Moral Law; (2) Heaven;</text><text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1306">(3) Earth; (4) The Commander; (5) Method</text><text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1360">and discipline.</text><text id="quote-cite-03" x="132" y="1430" font-size="34" fill="#7A756B">第一篇 LAYING PLANS · 第 4 节</text>
+  </g>
+  <g id="title-content-footer-slot" data-pptx-placeholder="footer" data-pptx-idx="2" data-pptx-bounds="80 1660 920 56">
+    <text id="title-content-footer-carrier" data-pptx-carrier="true" x="80" y="1700" font-size="28" fill="#7A756B">Giles 1910 英译 · 讲解为整理 · 03 / 11</text>
+  </g>
+  <g id="seal-mark-03" data-pptx-bounds="884 176 96 96">
+    <g id="seal-frame-03" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="884 176 96 96" fill="#A8322D" stroke="none">
+<path d="M 884 176 L 980 176 L 980 272 L 884 272 Z M 896 188 L 896 260 L 968 260 L 968 188 Z" />
+</g>
+    <text id="seal-glyph-03" x="932" y="241" text-anchor="middle" font-family="KaiTi, Cambria" font-size="48" fill="#A8322D">一</text>
+  </g>
+</svg>

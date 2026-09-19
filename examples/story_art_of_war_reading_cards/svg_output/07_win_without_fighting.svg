@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" lang="zh-CN"
+  font-family="Microsoft YaHei, Cambria"
+  data-pptx-master="story_vertical_master" data-pptx-master-name="Story Vertical"
+  data-pptx-layout="image_top_text" data-pptx-layout-name="Image over Text">
+  <rect id="master-background" x="0" y="0" width="1080" height="1920" fill="#F4F1E8"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="image-top-text-image-panel" x="80" y="400" width="920" height="620" rx="24" fill="#EBE6DA"
+    stroke="#D8D2C6" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="image-top-text-title-slot" data-pptx-placeholder="title" data-pptx-bounds="80 200 760 180">
+    <text id="image-top-text-title-carrier" data-pptx-carrier="true" x="80" y="306"
+      font-family="KaiTi, Cambria" font-size="76" fill="#232323">最好的胜利</text>
+  </g>
+  <g id="image-top-text-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="80 400 920 620">
+    <image id="image-top-text-picture-carrier" data-pptx-carrier="true"
+      href="../images/p07_unfought_field_fit.jpg" x="80" y="400" width="920" height="620"
+      preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <g id="image-top-text-body-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="80 1060 920 180">
+    <text id="image-top-text-body-carrier" data-pptx-carrier="true" x="80" y="1120" font-size="48" fill="#3A3A3A">百战百胜还不是最上乘；<tspan x="80" dy="72">不交手就让对方<tspan fill="#A8322D" font-weight="bold">放弃</tspan>，才是。</tspan></text>
+  </g>
+  <g id="quote-plate-07" data-pptx-bounds="80 1270 920 350">
+    <g id="quote-bracket-07" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="80 1284 32 218" fill="none" stroke="#A8322D" stroke-width="4">
+<path d="M 112 1502 A 32 2.67 0 0 1 80 1499.33 L 80 1286.67 A 32 2.67 0 0 1 112 1284 Z" stroke="none"/>
+<path d="M 112 1502 A 32 2.67 0 0 1 80 1499.33 L 80 1286.67 A 32 2.67 0 0 1 112 1284"/>
+</g>
+    <text id="quote-text-07" x="132" y="1322" font-family="Cambria" font-style="italic"
+      font-size="40" fill="#3A3A3A">Hence to fight and conquer in all your<tspan x="132" dy="54">battles is not supreme excellence; supreme</tspan><tspan x="132" dy="54">excellence consists in breaking the</tspan><tspan x="132" dy="54">enemy’s resistance without fighting.</tspan></text>
+    <text id="quote-cite-07" x="132" y="1554" font-size="34" fill="#7A756B">第三篇 ATTACK BY STRATAGEM · 第 2 节</text>
+  </g>
+  <g id="image-top-text-footer-slot" data-pptx-placeholder="footer" data-pptx-idx="3" data-pptx-bounds="80 1660 920 56">
+    <text id="image-top-text-footer-carrier" data-pptx-carrier="true" x="80" y="1700"
+      font-size="28" fill="#7A756B">Giles 1910 英译 · 讲解为整理 · 07 / 11</text>
+  </g>
+  <g id="seal-mark-07" data-pptx-bounds="884 176 96 96">
+    <g id="seal-frame-07" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="884 176 96 96" fill="#A8322D" stroke="none">
+<path d="M 884 176 L 980 176 L 980 272 L 884 272 Z M 896 188 L 896 260 L 968 260 L 968 188 Z"/>
+</g>
+    <text id="seal-glyph-07" x="932" y="241" text-anchor="middle"
+      font-family="KaiTi, Cambria" font-size="48" fill="#A8322D">三</text>
+  </g>
+</svg>

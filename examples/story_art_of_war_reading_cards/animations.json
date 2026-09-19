@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "trigger": "after-previous", "duration": 0.5 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "cover-subtitle-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "seal-mark-01": { "effect": "entrance_faded_zoom", "effect_options": { "direction": "in" }, "order": 3, "duration": 0.5 }
+      }
+    },
+    "02_life_and_death": {
+      "groups": {
+        "statement-message-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "statement-support-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "quote-plate-02": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.6 }
+      }
+    },
+    "03_five_factors": {
+      "groups": {
+        "title-content-title-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "title-content-body-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "body-note-03": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "quote-plate-03": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.6 }
+      }
+    },
+    "04_deception": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "03_five_factors",
+        "pairs": {
+          "quote-plate": { "from": "quote-plate-03", "to": "quote-plate-04" },
+          "chapter-seal": { "from": "seal-mark-03", "to": "seal-mark-04" }
+        }
+      },
+      "groups": {
+        "statement-message-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.6 },
+        "statement-support-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.4 }
+      }
+    },
+    "05_calculations": {
+      "groups": {
+        "numbered-list-title-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "numbered-list-one-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "numbered-list-two-slot": { "effect": "entrance_fade", "order": 3, "duration": 0.4 },
+        "numbered-list-three-slot": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "quote-plate-05": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 5, "duration": 0.6 }
+      }
+    },
+    "06_prolonged_war": {
+      "groups": {
+        "two-block-title-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "two-block-top-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "two-block-bottom-slot": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "quote-plate-06": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.6 }
+      }
+    },
+    "07_win_without_fighting": {
+      "groups": {
+        "image-top-text-title-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "image-top-text-picture-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.9 },
+        "image-top-text-body-slot": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "quote-plate-07": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.6 }
+      }
+    },
+    "08_know_both_sides": {
+      "groups": {
+        "title-content-title-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "title-content-body-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "body-note-08": { "effect": "entrance_fade", "order": 3, "duration": 0.5 },
+        "quote-plate-08": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4, "duration": 0.6 }
+      }
+    },
+    "09_invincible_first": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.8 },
+      "morph": {
+        "from": "08_know_both_sides",
+        "pairs": {
+          "quote-plate": { "from": "quote-plate-08", "to": "quote-plate-09" },
+          "chapter-seal": { "from": "seal-mark-08", "to": "seal-mark-09" }
+        }
+      },
+      "groups": {
+        "step-flow-title-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.4 },
+        "step-flow-one-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "step-arrow-1": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.3 },
+        "step-flow-two-slot": { "effect": "entrance_fade", "order": 4, "duration": 0.4 },
+        "step-arrow-2": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 5, "duration": 0.3 },
+        "step-flow-three-slot": { "effect": "entrance_fade", "order": 6, "duration": 0.4 }
+      }
+    },
+    "10_like_water": {
+      "groups": {
+        "image-full-picture-slot": { "effect": "entrance_fade", "order": 1, "duration": 1.0 },
+        "image-full-title-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "quote-plate-10": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.6 }
+      }
+    },
+    "11_ending": {
+      "groups": {
+        "ending-message-slot": { "effect": "entrance_fade", "order": 1, "duration": 0.7 },
+        "ending-cta-slot": { "effect": "entrance_fade", "order": 2, "duration": 0.4 },
+        "quote-plate-11": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.6 }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" lang="zh-CN" font-family="Microsoft YaHei, Cambria" data-pptx-master="story_vertical_master" data-pptx-master-name="Story Vertical" data-pptx-layout="two_block" data-pptx-layout-name="Two Block">
+  <rect id="master-background" x="0" y="0" width="1080" height="1920" fill="#F4F1E8" data-pptx-layer="master" data-pptx-editable="false" />
+  <rect id="two-block-top" x="80" y="440" width="920" height="360" rx="24" fill="#EBE6DA" stroke="#D8D2C6" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="two-block-bottom" x="80" y="840" width="920" height="360" rx="24" fill="#E4DED0" stroke="#D8D2C6" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="two-block-title-slot" data-pptx-placeholder="title" data-pptx-bounds="80 200 760 180">
+    <text id="two-block-title-carrier" data-pptx-carrier="true" x="80" y="306" font-family="KaiTi, Cambria" font-size="76" fill="#232323">久战无利</text>
+  </g>
+  <g id="two-block-top-slot" data-pptx-placeholder="object" data-pptx-idx="1" data-pptx-bounds="120 480 840 280">
+    <text fill="#3A3A3A" font-size="48" x="120" y="540">他先把打仗的花费算清楚：</text><text fill="#3A3A3A" font-size="48" x="120" y="612">人力、车马、补给，</text><text fill="#3A3A3A" font-size="48" x="120" y="684"><tspan>每多一天都在<tspan fill="#A8322D" font-weight="bold">消耗国力</tspan>。</tspan></text></g>
+  <g id="two-block-bottom-slot" data-pptx-placeholder="object" data-pptx-idx="2" data-pptx-bounds="120 880 840 280">
+    <text fill="#3A3A3A" font-size="48" x="120" y="940">所以孙子反对久战：</text><text fill="#3A3A3A" font-size="48" x="120" y="1012">拖得越久，国力越弱，</text><text fill="#3A3A3A" font-size="48" x="120" y="1084">别人就会趁虚而入。</text></g>
+  <g id="quote-plate-06" data-pptx-bounds="80 1250 920 300">
+    <g id="quote-bracket-06" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="80 1264 32 110" fill="none" stroke="#A8322D" stroke-width="4">
+<path d="M 112 1374 A 32 2.67 0 0 1 80 1371.33 L 80 1266.67 A 32 2.67 0 0 1 112 1264 Z" stroke="none" />
+<path d="M 112 1374 A 32 2.67 0 0 1 80 1371.33 L 80 1266.67 A 32 2.67 0 0 1 112 1264" />
+</g>
+    <text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1302">There is no instance of a country having</text><text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1356">benefited from prolonged warfare.</text><text id="quote-cite-06" x="132" y="1426" font-size="34" fill="#7A756B">第二篇 WAGING WAR · 第 6 节</text>
+  </g>
+  <g id="two-block-footer-slot" data-pptx-placeholder="footer" data-pptx-idx="3" data-pptx-bounds="80 1660 920 56">
+    <text id="two-block-footer-carrier" data-pptx-carrier="true" x="80" y="1700" font-size="28" fill="#7A756B">Giles 1910 英译 · 讲解为整理 · 06 / 11</text>
+  </g>
+  <g id="seal-mark-06" data-pptx-bounds="884 176 96 96">
+    <g id="seal-frame-06" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="884 176 96 96" fill="#A8322D" stroke="none">
+<path d="M 884 176 L 980 176 L 980 272 L 884 272 Z M 896 188 L 896 260 L 968 260 L 968 188 Z" />
+</g>
+    <text id="seal-glyph-06" x="932" y="241" text-anchor="middle" font-family="KaiTi, Cambria" font-size="48" fill="#A8322D">二</text>
+  </g>
+</svg>

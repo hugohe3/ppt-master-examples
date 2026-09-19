@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="triptych" data-pptx-layout-name="Triptych">
+  <defs>
+    <linearGradient id="triptych-top-paint" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.90"/>
+      <stop offset="0.65" stop-color="#000000" stop-opacity="0.74"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="triptych-bottom-paint" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#000000" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.90"/>
+    </linearGradient>
+  </defs>
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <g id="triptych-picture-one-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="0 0 427 720">
+    <image id="triptych-picture-one-carrier" data-pptx-carrier="true"
+      x="0" y="0" width="427" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/std_band_size.jpg"/>
+  </g>
+  <g id="triptych-picture-two-slot" data-pptx-placeholder="picture" data-pptx-idx="2"
+    data-pptx-bounds="427 0 427 720">
+    <image id="triptych-picture-two-carrier" data-pptx-carrier="true"
+      x="427" y="0" width="427" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/std_band_lock.jpg"/>
+  </g>
+  <g id="triptych-picture-three-slot" data-pptx-placeholder="picture" data-pptx-idx="3"
+    data-pptx-bounds="854 0 426 720">
+    <image id="triptych-picture-three-carrier" data-pptx-carrier="true"
+      x="854" y="0" width="426" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/std_band_count.jpg"/>
+  </g>
+  <rect id="triptych-top-scrim" x="0" y="0" width="1280" height="300"
+    fill="url(#triptych-top-paint)" data-pptx-role="decoration"/>
+  <rect id="triptych-bottom-scrim" x="0" y="440" width="1280" height="280"
+    fill="url(#triptych-bottom-paint)" data-pptx-role="decoration"/>
+  <g id="triptych-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="80 64 1120 72">
+    <text id="triptych-title-carrier" data-pptx-carrier="true"
+      x="80" y="114" fill="#E8EFF6" font-family="SimHei, Cambria, sans-serif"
+      font-size="40" font-weight="700">让标准成立的三件事</text>
+  </g>
+  <g id="chapter-rail" data-pptx-bounds="80 136 480 32">
+    <text x="80" y="158" fill="#BCD4E8" font-size="20" letter-spacing="0.4">第二章 让箱子通用</text>
+  </g>
+  <g id="reading-tag" data-pptx-bounds="1124 138 76 32">
+    <g id="p08-reading-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="1124 138 76 32" fill="none" stroke="#4A86B4" stroke-width="1">
+<path d="M 1124 138 L 1194.67 138 L 1200 143.33 L 1200 170 L 1124 170 Z"/>
+</g>
+    <text x="1162" y="161" text-anchor="middle" fill="#BCD4E8" font-size="20">整理</text>
+  </g>
+  <g id="source-note" data-pptx-bounds="80 172 1120 26">
+    <text x="80" y="188" fill="#C7D3DE" font-size="16">来源:ISO 668:2020 / ISO 1161:2016 目录;Eurostat 与 UN ESCWA 统计定义;毫米数值经百科条目转引</text>
+  </g>
+  <g id="band-one-mark" data-pptx-bounds="32 500 36 36">
+    <use data-icon="tabler-outline/ruler" x="32" y="500" width="36" height="36" fill="#E2761C" stroke-width="2"/>
+  </g>
+  <g id="band-two-mark" data-pptx-bounds="459 500 36 36">
+    <use data-icon="tabler-outline/lock" x="459" y="500" width="36" height="36" fill="#E2761C" stroke-width="2"/>
+  </g>
+  <g id="band-three-mark" data-pptx-bounds="886 500 36 36">
+    <use data-icon="tabler-outline/stack-2" x="886" y="500" width="36" height="36" fill="#E2761C" stroke-width="2"/>
+  </g>
+  <g id="triptych-caption-one-slot" data-pptx-placeholder="object" data-pptx-idx="4"
+    data-pptx-bounds="32 560 363 128">
+    <text id="triptych-caption-one-carrier" data-pptx-carrier="true"
+      x="32" y="584" fill="#E8EFF6" font-size="20"><tspan font-weight="bold">01</tspan> 尺寸<tspan x="32" dy="30">ISO 668 把 20 英尺箱定为</tspan><tspan x="32" dy="30">6058×2438×2591 mm</tspan><tspan x="32" dy="30">40 英尺箱长 12192 mm</tspan></text>
+  </g>
+  <g id="triptych-caption-two-slot" data-pptx-placeholder="object" data-pptx-idx="5"
+    data-pptx-bounds="459 560 363 128">
+    <text id="triptych-caption-two-carrier" data-pptx-carrier="true"
+      x="459" y="584" fill="#E8EFF6" font-size="20"><tspan font-weight="bold">02</tspan> 角件<tspan x="459" dy="30">ISO/R 1161(1970)</tspan><tspan x="459" dy="30">坦特林格说服 Sea-Land</tspan><tspan x="459" dy="30">放弃旋锁专利、免版税公开</tspan></text>
+  </g>
+  <g id="triptych-caption-three-slot" data-pptx-placeholder="object" data-pptx-idx="6"
+    data-pptx-bounds="886 560 362 128">
+    <text id="triptych-caption-three-carrier" data-pptx-carrier="true"
+      x="886" y="584" fill="#E8EFF6" font-size="20"><tspan font-weight="bold">03</tspan> 计量<tspan x="886" dy="30">有 20 英尺基准才有 TEU</tspan><tspan x="886" dy="30">20 英尺记 1,40 英尺记 2</tspan></text>
+  </g>
+</svg>

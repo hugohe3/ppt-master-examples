@@ -1,0 +1,51 @@
+# Image Generation Prompts
+
+> Auto-generated from `image_prompts.json` by `image_gen.py --render-md`.
+> Do not hand-edit — re-run the command to refresh.
+
+> Project: art_of_war_cards_quick_story_20260918
+> Generated: 2026-09-18
+> Color scheme: Background #F4F1E8 | Secondary_bg #EBE6DA | Primary #232323 | Accent #A8322D | Secondary_accent #7A756B | Body_text #3A3A3A
+> Deck Rendering: watercolor
+
+---
+
+### Image 1: p07_unfought_field.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Card 07 — winning without fighting (image over text panel) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 4:3 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Watercolor painting style with soft painterly edges and natural color bleeding. Forms emerge from washes of pigment rather than outlines — a shape is suggested by where the wash darkens, not by a line. Color pools and bleeds at edges, with characteristic wet-on-wet zones where one tone transitions into another. Composition feels organic and intentional, flowing rather than loose. Negative space is part of the artwork as untouched paper. Optional very subtle pencil lines suggest underlying structure without dominating. Calm, contemplative, artistic. The warm rice-paper background #F4F1E8 is the untouched breathing field and covers most of the canvas; the ink primary #232323 carries the main forms as diluted grey-black washes with a natural saturation gradient, palest in the distance; the secondary accent #7A756B softens the middle distance; the accent #A8322D appears only as one very small concentrated pigment pool, under three percent of the canvas. Composition: a wide empty valley read from a high vantage, two encampments implied on opposite low ridges — each only a cluster of faint triangular tent silhouettes and a single slender vertical banner pole — separated by a broad untouched paper plain where nothing happens; the left ridge sits lower and paler, the right ridge slightly nearer and darker, and a thin band of drifting mist crosses between them. One small square seal-red mark rests low on the right ridge as the single warm pigment pool. No figures, no weapons, no combat, no horses, no smoke. Composed as a 1200x900 px local illustration block for a vertical reading card; the lower third stays pale and calm. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #232323) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> Two distant encampments across an empty misty valley, ink-wash watercolor
+
+---
+
+### Image 2: p10_water_form.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Card 10 — tactics take shape like water (full-bleed image) |
+| Page role | hero_page |
+| Text policy | none |
+| Aspect ratio | 3:4 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Watercolor painting style with soft painterly edges and natural color bleeding. Forms emerge from washes of pigment rather than outlines — the water is suggested by where the wash darkens and where the paper is left bare, not by drawn lines. Color pools and bleeds at edges with wet-on-wet transitions; negative space is part of the artwork as untouched paper; very subtle pencil under-drawing may hint at structure. Calm, contemplative, artistic. The warm rice-paper background #F4F1E8 is the dominant untouched field; the ink primary #232323 carries the rock forms as saturated grey-black washes in the foreground, fading to pale grey upstream; the secondary accent #7A756B tints the shallow water; the accent #A8322D appears only as one tiny concentrated pigment mark near the lower right, under two percent of the canvas. Composition: a tall vertical view down a mountain stream, water descending from the pale upper distance toward the viewer, threading around three or four dark irregular boulders that force it to divide and rejoin; the water's path is read from the bare paper channels left between the washes, widening where the bed opens and narrowing where the rocks crowd; a faint wash of bank and grass at the lower left edge. No people, no buildings, no boats, no bridges. Composed as a 1080x1440 px full-bleed vertical hero image; the upper quarter stays pale and calm so a native title can sit over it. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #232323) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> A mountain stream dividing around dark boulders, vertical ink-wash watercolor
+
+---

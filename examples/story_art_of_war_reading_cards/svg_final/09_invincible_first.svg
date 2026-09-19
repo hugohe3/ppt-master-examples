@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" lang="zh-CN" font-family="Microsoft YaHei, Cambria" data-pptx-master="story_vertical_master" data-pptx-master-name="Story Vertical" data-pptx-layout="step_flow" data-pptx-layout-name="Vertical Step Flow">
+  <rect id="master-background" x="0" y="0" width="1080" height="1920" fill="#F4F1E8" data-pptx-layer="master" data-pptx-editable="false" />
+  <circle id="step-flow-node-one" cx="168" cy="470" r="20" fill="#F4F1E8" stroke="#A8322D" stroke-width="5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="step-flow-node-two" cx="168" cy="730" r="20" fill="#F4F1E8" stroke="#A8322D" stroke-width="5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="step-flow-node-three" cx="168" cy="990" r="20" fill="#F4F1E8" stroke="#A8322D" stroke-width="5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="step-flow-title-slot" data-pptx-placeholder="title" data-pptx-bounds="80 200 760 180">
+    <text id="step-flow-title-carrier" data-pptx-carrier="true" x="80" y="306" font-family="KaiTi, Cambria" font-size="76" fill="#232323">先立于不败</text>
+  </g>
+  <g id="step-flow-one-slot" data-pptx-placeholder="object" data-pptx-idx="1" data-pptx-bounds="240 430 760 220">
+    <text fill="#3A3A3A" font-size="48" x="240" y="490">先把自己弄到</text><text fill="#3A3A3A" font-size="48" x="240" y="562">打不垮的地步</text></g>
+  <g id="step-arrow-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="152 520 32 80" fill="#7A756B" stroke="none">
+<path d="M 152 584 L 160 584 L 160 520 L 176 520 L 176 584 L 184 584 L 168 600 Z" />
+</g>
+  <g id="step-flow-two-slot" data-pptx-placeholder="object" data-pptx-idx="2" data-pptx-bounds="240 690 760 220">
+    <text fill="#3A3A3A" font-size="48" x="240" y="750">然后等待对手</text><text fill="#3A3A3A" font-size="48" x="240" y="822">露出破绽</text></g>
+  <g id="step-arrow-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="152 780 32 80" fill="#7A756B" stroke="none">
+<path d="M 152 844 L 160 844 L 160 780 L 176 780 L 176 844 L 184 844 L 168 860 Z" />
+</g>
+  <g id="step-flow-three-slot" data-pptx-placeholder="object" data-pptx-idx="3" data-pptx-bounds="240 950 760 220">
+    <text fill="#3A3A3A" font-size="48" x="240" y="1010">破绽出现时</text><text fill="#3A3A3A" font-size="48" x="240" y="1082">才可以动手</text></g>
+  <g id="quote-plate-09" data-pptx-bounds="80 1180 920 350">
+    <g id="quote-bracket-09" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="80 1194 32 218" fill="none" stroke="#A8322D" stroke-width="4">
+<path d="M 112 1412 A 32 2.67 0 0 1 80 1409.33 L 80 1196.67 A 32 2.67 0 0 1 112 1194 Z" stroke="none" />
+<path d="M 112 1412 A 32 2.67 0 0 1 80 1409.33 L 80 1196.67 A 32 2.67 0 0 1 112 1194" />
+</g>
+    <text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1232">The good fighters of old first put</text><text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1286">themselves beyond the possibility of</text><text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1340">defeat, and then waited for an</text><text fill="#3A3A3A" font-style="italic" font-family="Cambria" font-size="40" x="132" y="1394">opportunity of defeating the enemy.</text><text id="quote-cite-09" x="132" y="1464" font-size="34" fill="#7A756B">第四篇 TACTICAL DISPOSITIONS · 第 1 节</text>
+  </g>
+  <g id="step-flow-footer-slot" data-pptx-placeholder="footer" data-pptx-idx="4" data-pptx-bounds="80 1660 920 56">
+    <text id="step-flow-footer-carrier" data-pptx-carrier="true" x="80" y="1700" font-size="28" fill="#7A756B">Giles 1910 英译 · 讲解为整理 · 09 / 11</text>
+  </g>
+  <g id="seal-mark-09" data-pptx-bounds="884 176 96 96">
+    <g id="seal-frame-09" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="884 176 96 96" fill="#A8322D" stroke="none">
+<path d="M 884 176 L 980 176 L 980 272 L 884 272 Z M 896 188 L 896 260 L 968 260 L 968 188 Z" />
+</g>
+    <text id="seal-glyph-09" x="932" y="241" text-anchor="middle" font-family="KaiTi, Cambria" font-size="48" fill="#A8322D">四</text>
+  </g>
+</svg>

@@ -1,0 +1,614 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "集装箱如何改变世界",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "马尔科姆·麦克莱恩（Malcom McLean）生于 1913 年 11 月 14 日，卒于 2001 年 5 月 25 日，2008 年入选美国国家发明家名人堂。",
+      "source_title": "NIHF Inductee Malcom McLean Made Shipping Container History",
+      "source_url": "https://www.invent.org/inductees/malcom-mclean",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "麦克莱恩在 1955 年卖掉自己的卡车运输车队，转而投入集装箱航运。",
+      "source_title": "NIHF Inductee Malcom McLean Made Shipping Container History",
+      "source_url": "https://www.invent.org/inductees/malcom-mclean",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "麦克莱恩名下的美国专利号为 US 2,853,968。",
+      "source_title": "NIHF Inductee Malcom McLean Made Shipping Container History",
+      "source_url": "https://www.invent.org/inductees/malcom-mclean",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "Ideal X 于 1956 年 4 月 26 日从新泽西州纽瓦克港启航，驶往得克萨斯州休斯敦港。",
+      "source_title": "Ideal X — Port Houston",
+      "source_url": "https://porthouston.com/ideal-x/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "Ideal X 首航装载 58 个金属集装箱，箱长 35 英尺，与当时标准卡车拖车车身尺寸一致。",
+      "source_title": "Ideal X — Port Houston",
+      "source_url": "https://porthouston.com/ideal-x/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "Ideal X 由二战时期的 T2 油轮改装而成，首航除 58 个集装箱外还装载 15,000 吨散装石油；该船于 1964 年拆解。",
+      "source_title": "First Containership, Ideal-X, 1956 — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter1/the-setting-of-global-transportation-systems/idealx-first-containeriship-1956/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "Ideal X 的 58 个集装箱在不到 8 小时内装船完毕；同期散杂货船装载往往需要数天。",
+      "source_title": "Ideal X — Port Houston",
+      "source_url": "https://porthouston.com/ideal-x/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "Ideal X 启航五天后抵达休斯敦，航程从纽瓦克到休斯敦共 5 天。",
+      "source_title": "First Containership, Ideal-X, 1956 — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter1/the-setting-of-global-transportation-systems/idealx-first-containeriship-1956/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "Ideal X 所载 58 个 35 英尺集装箱，折合略多于 100 个二十英尺当量单位（TEU）。",
+      "source_title": "Ideal X — Port Houston",
+      "source_url": "https://porthouston.com/ideal-x/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "麦克莱恩改装 Ideal X 的动机，是作为卡车运输业主寻求降低货物装卸费用，并证明集装箱化在经济上可行。",
+      "source_title": "First Containership, Ideal-X, 1956 — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter1/the-setting-of-global-transportation-systems/idealx-first-containeriship-1956/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "马克·莱文森（Marc Levinson）记述：1956 年 4 月 26 日装上 Ideal X 甲板的，是 58 个装在框架里的铝制卡车车厢。",
+      "source_title": "The Box That Changed Asia and the World — Forbes（Marc Levinson 撰，2006-03-13）",
+      "source_url": "https://www.forbes.com/global/2006/0313/030.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "1956 年，用传统方式装载一艘中型货船的费用约为每吨 5.83 美元；而用 Ideal X 装集装箱的费用低于每吨 0.16 美元。",
+      "source_title": "First Containership, Ideal-X, 1956 — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter1/the-setting-of-global-transportation-systems/idealx-first-containeriship-1956/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "20 至 25 吨货物用集装箱方式可在 2 分半钟内完成装卸，而同等数量的散杂货需要 18 至 20 个工时（原始出处：Harold M. Levinson 等，《Collective Bargaining and Technological Change in American Transportation》，1971 年，第 269 页）。",
+      "source_title": "Effects of automation in the lives of longshoremen — libcom.org",
+      "source_url": "https://libcom.org/article/effects-automation-lives-longshoremen",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "Matson 与 Sea-Land 发现，其集装箱码头的码头工人劳动生产率比散杂货作业提高了 13 至 18 倍。",
+      "source_title": "Effects of automation in the lives of longshoremen — libcom.org",
+      "source_url": "https://libcom.org/article/effects-automation-lives-longshoremen",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "在人力搬运（man-load）制度下，码头工人单件负重通常为 30 至 50 公斤，个别情况可达 80 公斤。",
+      "source_title": "Chapter 5.1 – Breakbulk — Port Economics, Management and Policy",
+      "source_url": "https://porteconomicsmanagement.org/pemp/contents/part5/break-bulk/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "集装箱化之前，港口周转时间极长，有时甚至超过船舶在海上航行的时间。",
+      "source_title": "Chapter 5.1 – Breakbulk — Port Economics, Management and Policy",
+      "source_url": "https://porteconomicsmanagement.org/pemp/contents/part5/break-bulk/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "散杂货装卸是反复装载、卸载、打包与重新打包的繁琐流程，可能耗时数天甚至数周。",
+      "source_title": "Chapter 5.1 – Breakbulk — Port Economics, Management and Policy",
+      "source_url": "https://porteconomicsmanagement.org/pemp/contents/part5/break-bulk/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "散杂货是劳动密集度最高的货类之一，单位货量创造的码头相关就业岗位数最多，单位吨附加值也显著高于原油和干散货。",
+      "source_title": "Chapter 5.1 – Breakbulk — Port Economics, Management and Policy",
+      "source_url": "https://porteconomicsmanagement.org/pemp/contents/part5/break-bulk/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "莱文森在《The Box》（2006 年，第 8 页）中断言「集装箱对世界经济究竟有多重要，无法量化」；Bernhofen、El-Sahli 与 Kneller 的论文正是为挑战这一论断而作。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "ISO 668《Series 1 货运集装箱——分类、尺寸与额定值》现行版本为 ISO 668:2020，它按外部尺寸对第 1 系列货运集装箱分类并规定相应额定值。",
+      "source_title": "ISO 668:2020 - Series 1 freight containers — Classification, dimensions and ratings",
+      "source_url": "https://www.iso.org/standard/76912.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "ISO 668:2020 的第 1 号修订单（Amendment 1）于 2022 年发布。",
+      "source_title": "ISO 668:2020/Amd 1:2022 - Series 1 freight containers — Amendment 1",
+      "source_url": "https://www.iso.org/standard/81611.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "ISO 官方标准目录中可查到的 ISO 668 历史版本包括 1979 年版、1988 年版、1995 年版、2013 年版与 2020 年版。",
+      "source_title": "ISO 668:1979 - Series 1 freight containers — Classification, external dimensions and ratings",
+      "source_url": "https://www.iso.org/standard/4829.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "ISO 668 通行说法为 1968 年首次发布，第二版于 1979 年问世。",
+      "source_title": "ISO 668（百科条目，用作指路；ISO 标准正文为付费文本，官方目录未列 1968 年版）",
+      "source_url": "https://en.wikipedia.org/wiki/ISO_668",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "ISO 668 规定 20 英尺箱外部尺寸为长 6,058 mm、宽 2,438 mm、标准高 2,591 mm（8 英尺 6 英寸）；40 英尺箱为长 12,192 mm、宽 2,438 mm、标准高 2,591 mm；高箱（high cube）高 2,896 mm（9 英尺 6 英寸）。",
+      "source_title": "ISO 668（百科条目，用作指路；数值原始出处为付费的 ISO 668 标准正文）",
+      "source_url": "https://en.wikipedia.org/wiki/ISO_668",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "集装箱最大总重额定值经两次上调：2005 年的修订把 20 英尺与 30 英尺箱从 24,000 kg / 25,400 kg 提高到 30,480 kg；2016 年的修订把除 10 英尺箱外的各规格提高到 36,000 kg。",
+      "source_title": "ISO 668（百科条目，用作指路；原始出处为 ISO 668 及 ISO 1496-1 的修订单）",
+      "source_url": "https://en.wikipedia.org/wiki/ISO_668",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "集装箱角件的国际推荐标准 ISO/R 1161 于 1970 年首次发布；现行标准为 ISO 1161:2016《Series 1 freight containers — Corner and intermediate fittings》。",
+      "source_title": "ISO/R 1161-1970 (E) 标准样张 / ISO 1161:2016 目录条目",
+      "source_url": "https://cdn.standards.iteh.ai/samples/442/64aec92364de49e9b314706cbe907445/ISO-R-1161-1970.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "运输工程师基思·坦特林格（Keith Tantlinger）于 1950 年代发明旋锁（twistlock）与角件，并说服其雇主 Sea-Land 放弃专利收费、免版税公开，旋锁因此成为行业与国际标准。",
+      "source_title": "Twistlock（百科条目，用作指路；原始出处为 Sea-Land 专利与 NPR 2011 年报道）",
+      "source_url": "https://en.wikipedia.org/wiki/Twistlock",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "Bernhofen 等人的研究指出：集装箱经美国约十年的港口与船舶技术创新后，于 1965 年完成国际标准化；国际贸易中的集装箱化采用自 1966 年开始、至 1983 年结束。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "ISO 668 管的是分类、外部尺寸与额定值；各类集装箱的内部尺寸由 ISO 1496 的相应部分规定。",
+      "source_title": "ISO 668:2020 - Series 1 freight containers — Classification, dimensions and ratings",
+      "source_url": "https://www.iso.org/standard/76912.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "欧盟统计局定义：TEU（twenty-foot equivalent unit，二十英尺当量单位）是海运与铁路运输统计中使用的容积单位，等于一个 20 英尺 ISO 集装箱。",
+      "source_title": "Glossary: Twenty-foot equivalent unit (TEU) — Eurostat Statistics Explained",
+      "source_url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Twenty-foot_equivalent_unit_(TEU)",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "换算规则：1 个 20 英尺 ISO 集装箱计为 1 TEU，1 个 40 英尺 ISO 集装箱计为 2 TEU。",
+      "source_title": "Twenty foot equivalent unit (TEU) — UN ESCWA Sustainable Development Glossary",
+      "source_url": "https://www.unescwa.org/sd-glossary/twenty-foot-equivalent-unit-teu",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "TEU 是统计不同规格集装箱数量、并描述集装箱船与集装箱码头能力的标准计量单位。",
+      "source_title": "Twenty foot equivalent unit (TEU) — UN ESCWA Sustainable Development Glossary",
+      "source_url": "https://www.unescwa.org/sd-glossary/twenty-foot-equivalent-unit-teu",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "1968 年出现第一代全蜂窝式（fully cellular）集装箱船，即 C7 级，代表船 Encounter Bay 运力 1,530 TEU；航速提高到 20–24 节。",
+      "source_title": "Evolution of Containerships — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter5/maritime-transportation/evolution-containerships-classes/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "1972 年投入的 Tokyo Bay 运力达 2,300 TEU。",
+      "source_title": "Evolution of Containerships — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter5/maritime-transportation/evolution-containerships-classes/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "1980–1990 年代的巴拿马型（Panamax）集装箱船运力约 4,000–4,500 TEU，受巴拿马运河 32.2 米宽度限制；1988 年的 APL C10 级（4,500 TEU）首次突破运河宽度。",
+      "source_title": "Evolution of Containerships — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter5/maritime-transportation/evolution-containerships-classes/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "2006 年马士基推出 Emma Maersk（E 级），运力 11,000–14,500 TEU，吃水超过 15 米，甲板宽度达 22 列集装箱。",
+      "source_title": "Evolution of Containerships — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter5/maritime-transportation/evolution-containerships-classes/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "2013 年 Triple E 级超过 18,000 TEU；2017 年起出现运力超过 20,000 TEU 的船；2019 年的 Megamax-24 型达 24 列宽、24 个舱位、约 24,000 TEU 级。",
+      "source_title": "Evolution of Containerships — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/chapter5/maritime-transportation/evolution-containerships-classes/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "全球集装箱船平均船型约 4,500 TEU，自 2000 年以来接近增至三倍；船队平均船龄 13.6 年（2025 年底数据，Alphaliner 口径）。",
+      "source_title": "Notable Container Shipping News: December 2025 — AXSMarine（引 Alphaliner，2026-01-07）",
+      "source_url": "https://public.axsmarine.com/blog/notable-container-shipping-news-december-2025",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "全球集装箱船队运力由 2000 年的 450 万 TEU 增至 2025 年的约 3,360 万 TEU，25 年间增长逾七倍。",
+      "source_title": "Notable Container Shipping News: December 2025 — AXSMarine（引 Alphaliner，2026-01-07）",
+      "source_url": "https://public.axsmarine.com/blog/notable-container-shipping-news-december-2025",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "莱文森在 2006 年撰文指出，当时全球每年的集装箱运量相当于 3 亿个 20 英尺箱，其中 26% 起运自中国。",
+      "source_title": "The Box That Changed Asia and the World — Forbes（Marc Levinson 撰，2006-03-13）",
+      "source_url": "https://www.forbes.com/global/2006/0313/030.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "Daniel M. Bernhofen、Zouheir El-Sahli 与 Richard Kneller 的《Estimating the effects of the container revolution on world trade》发表于《Journal of International Economics》2016 年第 98 卷，第 36–50 页。",
+      "source_title": "Estimating the effects of the container revolution on world trade — EconPapers（Journal of International Economics 98, 36-50, 2016）",
+      "source_url": "https://econpapers.repec.org/RePEc:eee:inecon:v:98:y:2016:i:c:p:36-50",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "该研究覆盖 157 个国家 1962–1990 年的 4 位数产品级双边贸易流；其基准子样本「北—北贸易」为 22 个工业化国家。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "在基准设定下，完全集装箱化（港口＋铁路的多式联运）使工业化国家之间的双边贸易流量当期平均提高 248%。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "集装箱化的效应具有持续性：采用后的两个五年期，滞后效应仍分别为 160% 和 110%，采用 15 年后仍显著。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "集装箱化 15 年的累计平均处理效应（ATE）：工业化国家之间为 517%；扩展到 157 国的全球样本为 370%。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "若只计港口集装箱化，累计 ATE 为 258%，远低于完全集装箱化的 517%，说明「门到门」的多式联运才是集装箱化红利的关键。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "在同一回归中，签署自由贸易协定的当期效应为提高贸易 37%、15 年累计 ATE 约 60%；双方同为关贸总协定（GATT）成员的当期效应为 40.2%、累计 ATE 为 101%——均远小于集装箱化的效应。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "以越战期间美军扩散集装箱技术构造工具变量后，集装箱化的当期效应估计为 232%，而同一设定下的普通最小二乘估计仅为 15%，说明 OLS 低估了效应。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "按不变价计算，世界贸易规模从 1960 年代初的 0.45 万亿美元增长到 1990 年的 3.4 万亿美元，约为 7 倍；其加速期与 1966–1983 年的全球集装箱采用期重合。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F050",
+      "claim": "2024 年全球港口集装箱吞吐量为 9.2 亿 TEU，同比增长 6.9%；2022 年与 2023 年则各仅增长 0.6%。",
+      "source_title": "Review of Maritime Transport 2024 — UN Trade and Development (UNCTAD)",
+      "source_url": "https://unctad.org/publication/review-maritime-transport-2024",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F051",
+      "claim": "2024 年集装箱吞吐量前五位经济体为：中国 2.9970 亿 TEU、美国 5,971 万 TEU、新加坡 4,112 万 TEU、韩国 3,185 万 TEU、马来西亚 3,066 万 TEU。",
+      "source_title": "Maritime and other transport — UNCTAD Data Hub Insights",
+      "source_url": "https://unctadstat.unctad.org/insights/theme/109",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F052",
+      "claim": "世界集装箱吞吐量长期走势：1980 年 3,600 万 TEU、2000 年 2.37 亿 TEU、2010 年 5.45 亿 TEU、2020 年 7.92 亿 TEU、2021 年 8.49 亿 TEU（数据来源 Drewry 与 UNCTAD）。",
+      "source_title": "World Container Throughput, 1980-2024 — Port Economics, Management and Policy",
+      "source_url": "https://porteconomicsmanagement.org/pemp/contents/part1/maritime-shipping-and-international-trade/world-container-throughput/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F053",
+      "claim": "上海港 2024 年集装箱吞吐量 5,151 万 TEU，成为全球首个年吞吐量突破 5,000 万 TEU 的港口。",
+      "source_title": "Shanghai port handles 50 million teu in 2024 — Seatrade Maritime",
+      "source_url": "https://www.seatrade-maritime.com/ports-logistics/shanghai-port-handles-50-million-teu-in-2024",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F054",
+      "claim": "上海港 2025 年集装箱吞吐量突破 5,500 万 TEU，连续第 16 年位居世界第一。",
+      "source_title": "Shanghai retains world's busiest container port title for 16th consecutive year — 上海市人民政府英文网站",
+      "source_url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260107/981624ec9df14b6a9810893afcf1cad8.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F055",
+      "claim": "2025 年 11 月，全球集装箱船队总运力首次突破 3,300 万 TEU（Alphaliner 统计）。",
+      "source_title": "Global container fleet tops 33 million TEU in November 2025 - Alphaliner",
+      "source_url": "https://en.portnews.ru/news/385449/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F056",
+      "claim": "截至 2025 年底，全球集装箱船队约 3,360 万 TEU、7,492 艘船（其中全集装箱船 6,669 艘），当年运力同比增长 7.3%、净增 227 万 TEU。",
+      "source_title": "Notable Container Shipping News: December 2025 — AXSMarine（引 Alphaliner，2026-01-07）",
+      "source_url": "https://public.axsmarine.com/blog/notable-container-shipping-news-december-2025",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F057",
+      "claim": "2025 年底全球集装箱新船订单量接近 1,100 万 TEU，为历史高位。",
+      "source_title": "Notable Container Shipping News: December 2025 — AXSMarine（引 Alphaliner，2026-01-07）",
+      "source_url": "https://public.axsmarine.com/blog/notable-container-shipping-news-december-2025",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F058",
+      "claim": "行业高度集中：前十大班轮公司的运力份额已从 2000 年的 61% 升至 2025 年的 84%。",
+      "source_title": "Notable Container Shipping News: December 2025 — AXSMarine（引 Alphaliner，2026-01-07）",
+      "source_url": "https://public.axsmarine.com/blog/notable-container-shipping-news-december-2025",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F059",
+      "claim": "MSC Irina 运力 24,346 TEU，船长 399.9 米、船宽 61.3 米，是目前全球运力最大的集装箱船；它于 2025 年 6 月停靠印度 Vizhinjam 国际海港。",
+      "source_title": "World's Largest Container Ship MSC IRINA Makes Historic Debut at Vizhinjam International Seaport — Adani",
+      "source_url": "https://www.adani.com/newsroom/media-releases/worlds-largest-container-ship-msc-irina-makes-historic-debut-at-vizhinjam-international-seaport",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F060",
+      "claim": "MSC Irina 从此前纪录保持者 OOCL Spain（24,188 TEU）手中接过全球最大集装箱船的位置。",
+      "source_title": "MSC shatters records with delivery of 24,346TEU MSC Irina — Ships Monthly",
+      "source_url": "https://shipsmonthly.com/news/msc-shatters-records-with-delivery-of-24346teu-msc-irina/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F061",
+      "claim": "联合国贸发会议（UNCTAD）指出，全球超过 80% 的商品进出口贸易量由海运承担。",
+      "source_title": "Shipping faces 'stormy seas' as trade slows and costs rise — UN News（UNCTAD《2025 年海运述评》发布，2025-09）",
+      "source_url": "https://news.un.org/en/story/2025/09/1165939",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F062",
+      "claim": "2024 年全球海运贸易量为 127.2 亿吨，增长 2.2%，高于 2013–2023 年 1.8% 的年均水平；UNCTAD 预测 2025 年仅增长 0.5%，为多年来最慢。",
+      "source_title": "UNCTAD: Review of Maritime Transport 2025 — SAFETY4SEA",
+      "source_url": "https://safety4sea.com/unctad-review-of-maritime-transport-2025/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F063",
+      "claim": "UNCTAD 预测 2025 年全球集装箱贸易量增长 1.4%。",
+      "source_title": "UNCTAD: Review of Maritime Transport 2025 — SAFETY4SEA",
+      "source_url": "https://safety4sea.com/unctad-review-of-maritime-transport-2025/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F064",
+      "claim": "到 20 世纪末，集装箱船已承运世界近 90% 的贸易货物。",
+      "source_title": "NIHF Inductee Malcom McLean Made Shipping Container History",
+      "source_url": "https://www.invent.org/inductees/malcom-mclean",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F065",
+      "claim": "1967 至 1973 年间，Sea-Land 每月向中南半岛运送 1,200 个集装箱，从美国国防部累计取得 4.5 亿美元收入。",
+      "source_title": "The Box That Changed Asia and the World — Forbes（Marc Levinson 撰，2006-03-13）",
+      "source_url": "https://www.forbes.com/global/2006/0313/030.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F066",
+      "claim": "1971 财年 Sea-Land 的越南合同收入达 1.02 亿美元，占公司销售额的 30%；1968 年其越南航线船舶利用率高达 99%。",
+      "source_title": "The Box That Changed Asia and the World — Forbes（Marc Levinson 撰，2006-03-13）",
+      "source_url": "https://www.forbes.com/global/2006/0313/030.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F067",
+      "claim": "Sea-Land 从美国西海岸到金兰湾的一个往返航次日均收入超过 2 万美元，岘港航线约 8,000 美元／天。",
+      "source_title": "The Box That Changed Asia and the World — Forbes（Marc Levinson 撰，2006-03-13）",
+      "source_url": "https://www.forbes.com/global/2006/0313/030.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F068",
+      "claim": "1968 年 3 月 Sea-Land 宣布开通日本航线，每月自横滨发六个航次；同年 9 月日本邮船（N.Y.K.）的首艘集装箱船投入运营——回程空箱催生了亚洲出口航线。",
+      "source_title": "The Box That Changed Asia and the World — Forbes（Marc Levinson 撰，2006-03-13）",
+      "source_url": "https://www.forbes.com/global/2006/0313/030.html",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F069",
+      "claim": "Bernhofen 等人用「该国到越南的距离」以及「1967 年前该国境内是否驻有美军基地」构造集装箱采用的工具变量，并把数据期限制到 1975 年，其逻辑是越战让邻近国家采用集装箱设施的成本下降，而这与未来贸易预期无关。",
+      "source_title": "Estimating the effects of the container revolution on world trade（工作论文，2014-02-07）",
+      "source_url": "https://www2.gwu.edu/~iiep/waits/documents/2014/BEK_container_Feb2014.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F070",
+      "claim": "越战期间美军 99% 的弹药与 95% 的补给经海路运输；1967 年年中，美国军事海运司令部（MSTS）运营着 527 艘船，为在南越的约 50 万美军供应。",
+      "source_title": "Fourth Arm of Defense: Sealift and Maritime Logistics in the Vietnam War（Salvatore R. Mercogliano，Naval History and Heritage Command，2017）",
+      "source_url": "https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/NHHC4thArmDefense_final_508.pdf",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F071",
+      "claim": "1962 年 8 月 15 日，纽约与新泽西港务局启用伊丽莎白港码头（Elizabeth-Port Authority Marine Terminal）；园区内 90 英亩的 Sea-Land 集装箱码头成为此后几乎所有集装箱码头的原型。",
+      "source_title": "Port Newark–Elizabeth Marine Terminal（百科条目，用作指路；原始出处为纽新港务局档案）",
+      "source_url": "https://en.wikipedia.org/wiki/Port_Newark%E2%80%93Elizabeth_Marine_Terminal",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F072",
+      "claim": "纽约港的货运枢纽从曼哈顿、布鲁克林、霍博肯与泽西城的杂货码头，迁往伊丽莎白港、纽瓦克、Red Hook 与 Howland Hook 的专用集装箱码头；到 1980 年代初曼哈顿的海运货物转运几乎完全停止，港口的货运地理彻底反转。",
+      "source_title": "B.21 – The Port Authority of New York and New Jersey — The Geography of Transport Systems",
+      "source_url": "https://transportgeography.org/contents/applications/port-authority-new-york-new-jersey/",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F073",
+      "claim": "纽约港在册码头工人数量：1953 年超过 5 万人，1967 年降至 2.3 万人，1970 年代进一步降到不足 1.6 万人。",
+      "source_title": "Effects of automation in the lives of longshoremen — libcom.org",
+      "source_url": "https://libcom.org/article/effects-automation-lives-longshoremen",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F074",
+      "claim": "美国西海岸码头工会 ILWU 在 1960 年签订《机械化与现代化协议》（M&M）：第一份协议（1960–1961）向年满 65 岁且工龄满 25 年者支付 7,900 美元奖金，或允许 62 岁提前退休；第二份协议（1966–1971）把退休奖金提高到 13,600 美元。",
+      "source_title": "Effects of automation in the lives of longshoremen — libcom.org",
+      "source_url": "https://libcom.org/article/effects-automation-lives-longshoremen",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F075",
+      "claim": "夏威夷 Matson 所在的一个港口，自动化前有 370 名码头工人，1975 年前后只剩 35 名。",
+      "source_title": "Effects of automation in the lives of longshoremen — libcom.org",
+      "source_url": "https://libcom.org/article/effects-automation-lives-longshoremen",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    },
+    {
+      "fact_id": "F076",
+      "claim": "莱文森的论文《Container Shipping and the Decline of New York, 1955–1975》发表于《Business History Review》2006 年第 80 卷第 49–80 页，论证集装箱化是纽约市 1967–1975 年工业基础崩溃的主要促因。",
+      "source_title": "Container Shipping and the Decline of New York, 1955–1975 — Business History Review, Cambridge Core",
+      "source_url": "https://www.cambridge.org/core/journals/business-history-review/article/abs/container-shipping-and-the-decline-of-new-york-19551975/06C303B6BF2DA84D5FF9AB41F32B92F1",
+      "classification": "external",
+      "retrieved_at": "2026-09-18"
+    }
+  ]
+}

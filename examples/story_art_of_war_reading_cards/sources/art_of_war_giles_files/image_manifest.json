@@ -1,0 +1,23 @@
+[
+  {
+    "index": 1,
+    "filename": "image_001.png",
+    "original_filename": "image_001.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "epub_image",
+    "source_ext": ".png",
+    "pixel_width": 1600,
+    "pixel_height": 2400,
+    "pixel_ratio": 0.666667,
+    "display_ratio": 0.666667,
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "source_ref": "art_of_war_giles_files/image_001.png"
+      }
+    ],
+    "usage_count": 1
+  }
+]

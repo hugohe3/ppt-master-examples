@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="image_grid_four" data-pptx-layout-name="Four-Image Grid">
+  <defs>
+    <linearGradient id="grid-scrim-paint" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.80"/>
+    </linearGradient>
+  </defs>
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <g id="grid-picture-one-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="0 0 640 360">
+    <image id="grid-picture-one-carrier" data-pptx-carrier="true"
+      x="0" y="0" width="640" height="360" preserveAspectRatio="xMidYMid slice"
+      href="../images/scale_cell_piers.jpg"/>
+  </g>
+  <g id="grid-picture-two-slot" data-pptx-placeholder="picture" data-pptx-idx="2"
+    data-pptx-bounds="640 0 640 360">
+    <image id="grid-picture-two-carrier" data-pptx-carrier="true"
+      x="640" y="0" width="640" height="360" preserveAspectRatio="xMidYMid slice"
+      href="../images/scale_cell_elizabeth.jpg"/>
+  </g>
+  <g id="grid-picture-three-slot" data-pptx-placeholder="picture" data-pptx-idx="3"
+    data-pptx-bounds="0 360 640 360">
+    <image id="grid-picture-three-carrier" data-pptx-carrier="true"
+      x="0" y="360" width="640" height="360" preserveAspectRatio="xMidYMid slice"
+      href="../images/scale_cell_yard.jpg"/>
+  </g>
+  <g id="grid-picture-four-slot" data-pptx-placeholder="picture" data-pptx-idx="4"
+    data-pptx-bounds="640 360 640 360">
+    <image id="grid-picture-four-carrier" data-pptx-carrier="true"
+      x="640" y="360" width="640" height="360" preserveAspectRatio="xMidYMid slice"
+      href="../images/scale_cell_megaship.jpg"/>
+  </g>
+  <rect id="grid-scrim-one" x="0" y="240" width="640" height="120"
+    fill="url(#grid-scrim-paint)" data-pptx-role="decoration"/>
+  <rect id="grid-scrim-two" x="640" y="240" width="640" height="120"
+    fill="url(#grid-scrim-paint)" data-pptx-role="decoration"/>
+  <rect id="grid-scrim-three" x="0" y="600" width="640" height="120"
+    fill="url(#grid-scrim-paint)" data-pptx-role="decoration"/>
+  <rect id="grid-scrim-four" x="640" y="600" width="640" height="120"
+    fill="url(#grid-scrim-paint)" data-pptx-role="decoration"/>
+  <g id="grid-caption-one-slot" data-pptx-placeholder="object" data-pptx-idx="5"
+    data-pptx-bounds="32 268 576 64">
+    <text id="grid-caption-one-carrier" data-pptx-carrier="true"
+      x="32" y="296" fill="#E8EFF6" font-size="20">纽约港在册码头工人<tspan x="32" dy="28">1953 年 <tspan font-weight="bold">5 万余人</tspan> → 1967 年 <tspan font-weight="bold">2.3 万</tspan></tspan></text>
+  </g>
+  <g id="grid-caption-two-slot" data-pptx-placeholder="object" data-pptx-idx="6"
+    data-pptx-bounds="672 268 576 64">
+    <text id="grid-caption-two-carrier" data-pptx-carrier="true"
+      x="672" y="296" fill="#E8EFF6" font-size="20">1962 年伊丽莎白港启用,90 英亩<tspan x="672" dy="28">Sea-Land 码头成为几乎所有集装箱码头的原型</tspan></text>
+  </g>
+  <g id="grid-caption-three-slot" data-pptx-placeholder="object" data-pptx-idx="7"
+    data-pptx-bounds="32 628 576 64">
+    <text id="grid-caption-three-carrier" data-pptx-carrier="true"
+      x="32" y="656" fill="#E8EFF6" font-size="20">上海港 2024 年 <tspan font-weight="bold">5151 万 TEU</tspan><tspan x="32" dy="28">全球首个突破 5000 万 TEU 的港口</tspan></text>
+  </g>
+  <g id="grid-caption-four-slot" data-pptx-placeholder="object" data-pptx-idx="8"
+    data-pptx-bounds="672 628 576 64">
+    <text id="grid-caption-four-carrier" data-pptx-carrier="true"
+      x="672" y="656" fill="#E8EFF6" font-size="20">MSC Irina <tspan font-weight="bold">24346 TEU</tspan>,长 399.9 米<tspan x="672" dy="28">1956 年那一船约合 100 TEU</tspan></text>
+  </g>
+  <g id="source-note" data-pptx-bounds="606 338 642 24">
+    <text x="1248" y="352" text-anchor="end" fill="#C7D3DE" font-size="16">来源:纽新港务局;Seatrade Maritime(2024);Port Houston;1971 年专著转引</text>
+  </g>
+</svg>

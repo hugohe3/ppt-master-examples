@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="quote_over_image" data-pptx-layout-name="Quote over Image">
+  <defs>
+    <radialGradient id="quote-vignette-paint" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.72"/>
+    </radialGradient>
+  </defs>
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <g id="quote-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="0 0 1280 720">
+    <image id="quote-picture-carrier" data-pptx-carrier="true"
+      x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/quote_blur.jpg"/>
+  </g>
+  <rect id="quote-vignette" x="0" y="0" width="1280" height="720"
+    fill="url(#quote-vignette-paint)" data-pptx-role="decoration"/>
+  <g id="quote-text-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="160 268 960 184">
+    <text id="quote-text-carrier" data-pptx-carrier="true"
+      x="640" y="344" text-anchor="middle" fill="#E8EFF6"
+      font-family="SimHei, Cambria, sans-serif" font-size="44" font-weight="700">「集装箱对世界经济究竟有多重要,<tspan x="640" dy="55">无法量化。」</tspan></text>
+  </g>
+  <g id="quote-attribution-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="160 492 960 48">
+    <text id="quote-attribution-carrier" data-pptx-carrier="true"
+      x="640" y="524" text-anchor="middle" fill="#C7D3DE"
+      font-size="20">马克·莱文森《The Box》(2006)第 8 页 —— 十年后,有人把它量化了</text>
+  </g>
+  <g id="chapter-rail" data-pptx-bounds="400 208 480 30">
+    <text x="640" y="228" text-anchor="middle" fill="#BCD4E8" font-size="20" letter-spacing="0.4">第一章 那一船</text>
+  </g>
+</svg>

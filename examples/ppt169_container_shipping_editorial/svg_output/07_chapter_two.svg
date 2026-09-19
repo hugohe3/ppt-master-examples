@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="chapter_full" data-pptx-layout-name="Chapter Full">
+  <defs>
+    <linearGradient id="chapter-full-wash-paint" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.44"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.68"/>
+    </linearGradient>
+  </defs>
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <g id="chapter-full-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="0 0 1280 720">
+    <image id="chapter-full-picture-carrier" data-pptx-carrier="true"
+      x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/iso_container_doors.jpg"/>
+  </g>
+  <rect id="chapter-full-wash" x="0" y="0" width="1280" height="720"
+    fill="url(#chapter-full-wash-paint)" data-pptx-role="decoration"/>
+  <g id="chapter-full-number-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="80 232 320 72">
+    <text id="chapter-full-number-carrier" data-pptx-carrier="true"
+      x="80" y="282" fill="#E2761C" font-family="Cambria, SimHei, serif"
+      font-size="56" font-weight="700">02</text>
+  </g>
+  <g id="chapter-full-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="80 332 1120 96">
+    <text id="chapter-full-title-carrier" data-pptx-carrier="true"
+      x="80" y="402" fill="#E8EFF6" font-family="SimHei, Cambria, sans-serif"
+      font-size="52" font-weight="700">让所有人用同一个箱子</text>
+  </g>
+  <g id="chapter-full-desc-slot" data-pptx-placeholder="body" data-pptx-idx="3"
+    data-pptx-bounds="80 452 880 56">
+    <text id="chapter-full-desc-carrier" data-pptx-carrier="true"
+      x="80" y="490" fill="#C7D3DE" font-size="24">标准化不是技术问题,是一次关于放弃的集体决定</text>
+  </g>
+  <g id="chapter-rail" data-pptx-bounds="80 180 480 30">
+    <text x="80" y="200" fill="#BCD4E8" font-size="20" letter-spacing="0.4">第二章 让箱子通用</text>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="split_bleed_reverse" data-pptx-layout-name="Split Bleed Reverse">
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="split-bleed-reverse-accent" x="80" y="168" width="72" height="6" rx="3" fill="#E2761C"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="split-bleed-reverse-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="640 0 640 720">
+    <image id="split-bleed-reverse-picture-carrier" data-pptx-carrier="true"
+      x="640" y="0" width="640" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/idealx_deck.jpg"/>
+  </g>
+  <g id="split-bleed-reverse-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="80 216 480 88">
+    <text id="split-bleed-reverse-title-carrier" data-pptx-carrier="true"
+      x="80" y="280" fill="#E8EFF6" font-family="SimHei, Cambria, sans-serif"
+      font-size="40" font-weight="700">那一船:不到 8 小时</text>
+  </g>
+  <g id="split-bleed-reverse-body-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="80 336 480 240">
+    <text id="split-bleed-reverse-body-carrier" data-pptx-carrier="true"
+      x="80" y="362" fill="#E8EFF6" font-size="24">1956 年 4 月 26 日<tspan x="80" dy="38">Ideal X 由油轮改装,驶往休斯敦</tspan><tspan x="80" dy="38">甲板 <tspan fill="#E2761C">58</tspan> 个 35 英尺铝箱</tspan><tspan x="80" dy="38">不到 <tspan fill="#E2761C">8</tspan> 小时装完,五天后抵港</tspan><tspan x="80" dy="38">装卸费降到每吨 <tspan fill="#E2761C">0.16</tspan> 美元以下</tspan></text>
+  </g>
+  <g id="chapter-rail" data-pptx-bounds="80 130 480 30">
+    <text x="80" y="150" fill="#BCD4E8" font-size="20" letter-spacing="0.4">第一章 那一船</text>
+  </g>
+  <g id="source-note" data-pptx-bounds="80 596 480 44">
+    <text x="80" y="612" fill="#C7D3DE" font-size="16">来源:美国国家发明家名人堂;<tspan x="80" dy="20">Levinson《The Box》(2006)</tspan></text>
+  </g>
+</svg>

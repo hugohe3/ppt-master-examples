@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="closing_full" data-pptx-layout-name="Closing Full">
+  <defs>
+    <linearGradient id="closing-full-scrim-paint" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.82"/>
+    </linearGradient>
+  </defs>
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <g id="closing-full-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="0 0 1280 720">
+    <image id="closing-full-picture-carrier" data-pptx-carrier="true"
+      x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/closing_shanghai_dawn.jpg"/>
+  </g>
+  <rect id="closing-full-scrim" x="0" y="300" width="1280" height="420"
+    fill="url(#closing-full-scrim-paint)" data-pptx-role="decoration"/>
+  <g id="scale-eyebrow" data-pptx-bounds="80 408 1000 32">
+    <text x="80" y="430" fill="#BCD4E8" font-size="20">全球集装箱船队运力:2000 年 450 万 TEU → 2025 年约 3360 万 TEU</text>
+  </g>
+  <g id="closing-full-message-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="80 468 1120 88">
+    <text id="closing-full-message-carrier" data-pptx-carrier="true"
+      x="80" y="528" fill="#E8EFF6" font-family="SimHei, Cambria, sans-serif"
+      font-size="64" font-weight="700">下一个集装箱,会是什么?</text>
+  </g>
+  <g id="closing-full-contact-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="80 580 880 48">
+    <text id="closing-full-contact-carrier" data-pptx-carrier="true"
+      x="80" y="602" fill="#C7D3DE" font-size="24">讨论:标准带来的红利由谁拿走,代价又由谁承担?</text>
+  </g>
+  <g id="source-note" data-pptx-bounds="80 616 800 24">
+    <text x="80" y="630" fill="#C7D3DE" font-size="16">来源:AXSMarine 引 Alphaliner(2025)</text>
+  </g>
+</svg>

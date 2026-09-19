@@ -1,0 +1,175 @@
+# Image Generation Prompts
+
+> Auto-generated from `image_prompts.json` by `image_gen.py --render-md`.
+> Do not hand-edit — re-run the command to refresh.
+
+> Project: container_shipping_editorial_ppt169_20260918
+> Generated: 2026-09-18
+> Color scheme: Background #0B1220 | Secondary_bg #16212F | Primary #4A86B4 | Accent #E2761C | Secondary_accent #8FB4CE | Body_text #E8EFF6
+> Deck Rendering: custom
+
+---
+
+### Image 1: cover_night_gantry.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Cover hero background (Slide 01) |
+| Page role | hero_page |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Editorial photography style with natural composition and professional color grading: a real container terminal at night, captured with a real lens, true depth of field and intentional lighting, never illustrated. Four ship-to-shore gantry cranes stand across the upper two thirds of the frame, their steel lattice booms lowered over an unseen ship, silhouetted against a deep blue-black sky graded toward #0B1220; sodium and LED work lamps pick out warm amber points along the boom rails and a single stronger warm accent echoing #E2761C on one crane's operator cab. Far behind the cranes, a low horizon of stacked container blocks reads only as rhythm and cool steel-blue #4A86B4 reflections, softly out of focus. The lower third of the frame is quiet by design: an unlit wet apron of concrete and still black water with no detail, no figures, no vehicles, holding an even dark value so overlaid text stays legible. Composition follows photographic principles, leading lines running from the lower left along the quay into the crane row. Composed as a 1280x720 full-bleed hero background; keep the lower third calm for a text overlay. NO text of any kind anywhere in the image - no letters, numbers, signs, watermarks, labels, or written symbols. The image must not depict identifiable logos, trademarks, or product likenesses. Color values (HEX codes like #0B1220) and color names are rendering guidance only - do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image.
+
+**Alt Text**:
+> Night container terminal with gantry cranes above a dark quay
+
+---
+
+### Image 2: breakbulk_1950s.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Break-bulk dock work before containerisation (Slide 03, left half-bleed) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Editorial photography style, documentary register, real subjects and real materials with true depth of field: a mid-1950s general-cargo wharf during loading. Four longshoremen in work caps, canvas trousers and heavy boots manhandle burlap sacks and wooden crates out of a rope cargo sling that has just been lowered onto the timber apron; one man carries a sack across his shoulders at the exact centre of the frame, his back and the sack forming the visual subject, another steadies the sling, two more stack crates behind them. A ship's derrick boom and its rigging cut diagonally across the upper left; loose cargo, dunnage timber and coiled rope litter the deck around them. Grading stays inside one restrained editorial palette: desaturated cool steel-blue shadows near #4A86B4, warm grey highlights, a period feel with visible fine film grain, no colour cast outside that family. Natural overcast daylight from the upper left, soft shadows, background slightly out of focus. Leave generous plain deck surface to the left and right of the central figure so the frame can be cropped to a tall half-canvas without losing the action. Composed as a 1280x720 photograph for local use within a page. NO text of any kind anywhere in the image - no letters, numbers, signs, watermarks, labels, or written symbols. No identifiable logos or trademarks. Color values (HEX codes) and color names are rendering guidance only - do NOT display them as visible text.
+
+**Alt Text**:
+> 1950s dockworkers unloading sacks and crates from a cargo sling
+
+---
+
+### Image 3: idealx_deck.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Converted tanker deck carrying aluminium boxes (Slide 04, right half-bleed) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Editorial photography style, documentary register, real materials and true depth of field: the weather deck of a converted 1950s oil tanker carrying rows of plain aluminium truck-body boxes lashed to a steel spar deck frame. The boxes are unmarked, riveted, with corrugated side panels, simple hinged rear doors and visible steel tie rods; they run in two ranks from the immediate foreground toward the ship's bridge in the far distance, forming a strong one-point perspective down the centre of the frame. Pipework, valve wheels, a kingpost and taut mooring lines sit between the ranks; beyond the bow is flat open sea and a pale horizon. Light is late-afternoon side light from the right, raking across the corrugations so each box reads separately; grading is restrained and cool, shadows toward #0B1220 and deck steel toward #4A86B4, with one warm rust-orange patch of deck primer near #E2761C on the foreground frame. Fine period film grain, slightly desaturated. Keep the horizon high and the side rails clear so the frame can be cropped to a tall half-canvas from either side without losing the rank of boxes. Composed as a 1280x720 photograph for local use within a page. NO text of any kind anywhere in the image - no letters, numbers, signs, watermarks, labels, stencilled markings or written symbols. No identifiable logos or trademarks. Color values (HEX codes) and color names are rendering guidance only - do NOT display them as visible text.
+
+**Alt Text**:
+> Rows of plain aluminium boxes lashed to a converted tanker deck
+
+---
+
+### Image 4: iso_container_doors.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Chapter divider on standardisation (Slide 07) |
+| Page role | hero_page |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Editorial photography style with professional grading and true depth of field: a container yard at dusk photographed square-on to a wall of container doors. The nearest container fills the left half of the frame with its two door leaves facing the camera - vertical locking bars, cam keepers, hinge blades, a rubber gasket line and the cast steel corner fittings at top and bottom are all clearly readable as machined hardware. The container skins are plain painted steel with no markings at all; the row recedes to the right in a clean perspective of identical doors, each a slightly different muted hue within one restrained family of steel blue #4A86B4, deep slate #16212F and a single weathered rust-orange unit near #E2761C about two thirds along the row. Behind the row, stacked blocks dissolve into cool blue evening haze and a gantry silhouette. Low warm dusk light rakes from the right, catching the edges of the locking bars; shadows fall toward #0B1220. Shallow depth of field keeps the nearest door and hardware sharp while the far end of the row softens. Composed as a 1280x720 full-bleed chapter background; a broad even dark wash will be laid over the whole frame, so keep large readable shapes and avoid busy small detail in the upper half. NO text of any kind anywhere in the image - no letters, numbers, serial codes, signs, watermarks, labels, stencils, or written symbols. No identifiable logos or trademarks. Color values (HEX codes) and color names are rendering guidance only - do NOT display them as visible text.
+
+**Alt Text**:
+> Wall of plain container doors with corner fittings at dusk
+
+---
+
+### Image 5: sheet_standard_trio.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Opaque three-panel photographic contact sheet, sliced into the Slide 08 triptych bands |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 4K |
+| Slice grid | 1x3 |
+| Slice names | std_band_size,std_band_lock,std_band_count |
+| Status | Generated |
+
+**Prompt**:
+
+One printed contact sheet holding three completely separate editorial photographs side by side, each occupying exactly one third of the width, full height, separated by a straight vertical black gutter about eight pixels wide with no other element crossing it. Every panel is a real photograph in the same documentary style, the same cool overcast light and the same restrained grading toward steel blue #4A86B4 and slate #16212F with one warm accent near #E2761C, and each is composed vertically so its subject is centred in its own tall panel. LEFT PANEL: two gloved hands holding a folded steel rule and a retractable tape measure against the machined corner of a plain steel shipping container, the tape stretched along the container edge, shallow depth of field, the corner casting sharp. CENTRE PANEL: a tight macro of a cast steel corner fitting with an engaged twistlock cone passing through its oval aperture, the locking handle swung across, paint chipped to bare metal on the wear faces, raking side light showing the machining marks. RIGHT PANEL: a high vantage looking down on a yard of identical stacked containers in exact rows and tiers, plain unmarked painted boxes forming a dense rectangular grid that reads as countable units, no cranes in frame. Composed as a 3840x2160 three-panel sheet for local use. Do not blend the three scenes, do not let any subject cross a gutter, do not add borders, frames, captions or panel numbers. NO text of any kind anywhere in the image - no letters, numbers, signs, watermarks, labels, stencils, or written symbols. No identifiable logos or trademarks. Color values (HEX codes) and color names are rendering guidance only - do NOT display them as visible text.
+
+**Alt Text**:
+> Three-panel sheet: measuring a container corner, a twistlock, a stacked yard
+
+---
+
+### Image 6: vietnam_supply_port.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Military supply port during the Vietnam war (Slide 09) |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Editorial photography style, documentary register, real materials and true depth of field: a late-1960s military supply quay in a tropical harbour. The right third of the frame carries the subject - a grey freighter alongside, its derricks working, with plain unmarked steel boxes already landed and stacked three high on the apron beside it, a mobile crane swung over them and two flatbed trucks waiting nose to tail. The remaining two thirds of the frame to the left are deliberately open: an empty sun-bleached concrete apron with faint tyre tracks, a few oil drums at the far edge, and a wide humid sky above a low green shoreline, all held at an even value with no small detail so a dark scrim can be laid over that side. Light is flat tropical midday, slightly hazy, colours desaturated toward warm grey and cool steel blue #4A86B4 with a single olive-and-rust accent near #E2761C on the crane body. Fine period film grain, slight highlight bloom. Leading line runs from the lower left corner along the quay edge to the ship. Composed as a 1280x720 photograph for local use within a page; keep the left two thirds calm for a text overlay. NO text of any kind anywhere in the image - no letters, numbers, hull markings, signs, watermarks, labels, insignia, flags, or written symbols. No identifiable logos or trademarks. Color values (HEX codes) and color names are rendering guidance only - do NOT display them as visible text.
+
+**Alt Text**:
+> 1960s military supply quay with a freighter, crane and stacked boxes
+
+---
+
+### Image 7: sheet_scale_quad.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Opaque four-panel photographic contact sheet, sliced into the Slide 11 grid quadrants |
+| Page role | local |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 4K |
+| Slice grid | 2x2 |
+| Slice names | scale_cell_piers,scale_cell_elizabeth,scale_cell_yard,scale_cell_megaship |
+| Status | Generated |
+
+**Prompt**:
+
+One printed contact sheet holding four completely separate editorial photographs in a strict two-by-two arrangement, each occupying exactly one quarter of the canvas, separated by straight black gutters about eight pixels wide running full width and full height, with no element crossing a gutter. Every panel is a real photograph in the same documentary style and the same restrained cool grading toward deep blue-black #0B1220, slate #16212F and steel blue #4A86B4, each with one small warm accent near #E2761C, and each is composed horizontally with its subject centred in its own wide panel. TOP LEFT: a deserted 1960s finger pier of an old general-cargo port, empty timber decking, a rusting cargo shed with broken windows, bollards and slack ropes, overcast flat light, nobody present. TOP RIGHT: a newly built container terminal photographed from the water, a straight row of ship-to-shore gantry cranes on a clean concrete apron with orderly low stacks behind them, bright even daylight. BOTTOM LEFT: a night aerial looking straight down on a modern megaport yard, thousands of stacked containers in exact rows lit by tall mast lamps, straddle carrier lanes cutting dark channels through the blocks. BOTTOM RIGHT: a very large container ship at dawn seen broadside on open water, loaded many tiers high above deck, accommodation block aft, calm pink-grey sea and a distant crane skyline. Composed as a 3840x2160 four-panel sheet for local use. Do not blend the four scenes, do not let any subject cross a gutter, do not add borders, frames, captions or panel numbers. NO text of any kind anywhere in the image - no letters, numbers, signs, watermarks, hull names, labels, or written symbols. No identifiable logos or trademarks. Color values (HEX codes) and color names are rendering guidance only - do NOT display them as visible text.
+
+**Alt Text**:
+> Four-panel sheet: abandoned pier, new terminal, night megaport yard, dawn megaship
+
+---
+
+### Image 8: closing_shanghai_dawn.jpg
+
+| Attribute | Value |
+|---|---|
+| Purpose | Closing hero: a very large container ship at dawn (Slide 12) |
+| Page role | hero_page |
+| Text policy | none |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Status | Generated |
+
+**Prompt**:
+
+Editorial photography style with professional grading and true depth of field: a very large modern container ship at dawn, photographed broadside from slightly below the horizon on open water as it leaves port. The hull runs across the middle band of the frame, loaded ten tiers high above deck with plain unmarked containers in muted blues, greys and one warm rust-orange block near #E2761C; the accommodation block and funnel sit aft, a bulbous bow throws a low white wave forward. Behind the ship, a distant skyline of gantry cranes reads only as cool blue-grey silhouette in dawn haze near #4A86B4. The sky above is a soft pink-to-slate gradient, the water below flat and nearly featureless, graded toward #0B1220. The lower third of the frame is deliberately quiet - open dark water with no detail, no other vessels, no birds - so overlaid text stays legible. Natural low-angle dawn light from the left rakes along the container stacks and separates the tiers. Composed as a 1280x720 full-bleed closing background; keep the lower third calm for a text overlay. NO text of any kind anywhere in the image - no letters, numbers, hull names, draught marks, signs, watermarks, labels, or written symbols. No identifiable logos or trademarks. Color values (HEX codes) and color names are rendering guidance only - do NOT display them as visible text.
+
+**Alt Text**:
+> Very large container ship at dawn leaving a port
+
+---

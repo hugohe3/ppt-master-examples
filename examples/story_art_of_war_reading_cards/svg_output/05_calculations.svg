@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" lang="zh-CN"
+  font-family="Microsoft YaHei, Cambria"
+  data-pptx-master="story_vertical_master" data-pptx-master-name="Story Vertical"
+  data-pptx-layout="numbered_list" data-pptx-layout-name="Numbered List">
+  <rect id="master-background" x="0" y="0" width="1080" height="1920" fill="#F4F1E8"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="numbered-list-row-one" x="80" y="440" width="920" height="260" rx="16" fill="#EBE6DA"
+    stroke="#D8D2C6" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="numbered-list-row-two" x="80" y="720" width="920" height="260" rx="16" fill="#EBE6DA"
+    stroke="#D8D2C6" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="numbered-list-row-three" x="80" y="1000" width="920" height="260" rx="16" fill="#EBE6DA"
+    stroke="#D8D2C6" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <circle id="numbered-list-marker-one" cx="168" cy="500" r="30" fill="#F4F1E8" stroke="#A8322D"
+    stroke-width="3" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <circle id="numbered-list-marker-two" cx="168" cy="780" r="30" fill="#F4F1E8" stroke="#A8322D"
+    stroke-width="3" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <circle id="numbered-list-marker-three" cx="168" cy="1060" r="30" fill="#F4F1E8" stroke="#A8322D"
+    stroke-width="3" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <text id="numbered-list-digit-one" x="168" y="512" text-anchor="middle" font-size="34" fill="#A8322D"
+    data-pptx-layer="layout" data-pptx-editable="false">1</text>
+  <text id="numbered-list-digit-two" x="168" y="792" text-anchor="middle" font-size="34" fill="#A8322D"
+    data-pptx-layer="layout" data-pptx-editable="false">2</text>
+  <text id="numbered-list-digit-three" x="168" y="1072" text-anchor="middle" font-size="34" fill="#A8322D"
+    data-pptx-layer="layout" data-pptx-editable="false">3</text>
+  <g id="numbered-list-title-slot" data-pptx-placeholder="title" data-pptx-bounds="80 200 760 180">
+    <text id="numbered-list-title-carrier" data-pptx-carrier="true" x="80" y="306"
+      font-family="KaiTi, Cambria" font-size="76" fill="#232323">多算者胜</text>
+  </g>
+  <g id="numbered-list-one-slot" data-pptx-placeholder="object" data-pptx-idx="1" data-pptx-bounds="240 460 760 220">
+    <text id="numbered-list-one-carrier" data-pptx-carrier="true" x="252" y="520" font-size="48" fill="#3A3A3A">开战前算得多的一方<tspan x="252" dy="72">多半能赢</tspan></text>
+  </g>
+  <g id="numbered-list-two-slot" data-pptx-placeholder="object" data-pptx-idx="2" data-pptx-bounds="240 740 760 220">
+    <text id="numbered-list-two-carrier" data-pptx-carrier="true" x="252" y="800" font-size="48" fill="#3A3A3A">算得少的一方<tspan x="252" dy="72">常常会输</tspan></text>
+  </g>
+  <g id="numbered-list-three-slot" data-pptx-placeholder="object" data-pptx-idx="3" data-pptx-bounds="240 1020 760 220">
+    <text id="numbered-list-three-carrier" data-pptx-carrier="true" x="252" y="1080" font-size="48" fill="#3A3A3A">根本不算的<tspan x="252" dy="72">结果可想而知</tspan></text>
+  </g>
+  <g id="quote-plate-05" data-pptx-bounds="80 1300 920 300">
+    <g id="quote-bracket-05" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="80 1314 32 164" fill="none" stroke="#A8322D" stroke-width="4">
+<path d="M 112 1478 A 32 2.67 0 0 1 80 1475.33 L 80 1316.67 A 32 2.67 0 0 1 112 1314 Z" stroke="none"/>
+<path d="M 112 1478 A 32 2.67 0 0 1 80 1475.33 L 80 1316.67 A 32 2.67 0 0 1 112 1314"/>
+</g>
+    <text id="quote-text-05" x="132" y="1352" font-family="Cambria" font-style="italic"
+      font-size="40" fill="#3A3A3A">Thus do many calculations lead to<tspan x="132" dy="54">victory, and few calculations to defeat:</tspan><tspan x="132" dy="54">how much more no calculation at all!</tspan></text>
+    <text id="quote-cite-05" x="132" y="1530" font-size="34" fill="#7A756B">第一篇 LAYING PLANS · 第 26 节</text>
+  </g>
+  <g id="numbered-list-footer-slot" data-pptx-placeholder="footer" data-pptx-idx="4" data-pptx-bounds="80 1660 920 56">
+    <text id="numbered-list-footer-carrier" data-pptx-carrier="true" x="80" y="1700"
+      font-size="28" fill="#7A756B">Giles 1910 英译 · 讲解为整理 · 05 / 11</text>
+  </g>
+  <g id="seal-mark-05" data-pptx-bounds="884 176 96 96">
+    <g id="seal-frame-05" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="884 176 96 96" fill="#A8322D" stroke="none">
+<path d="M 884 176 L 980 176 L 980 272 L 884 272 Z M 896 188 L 896 260 L 968 260 L 968 188 Z"/>
+</g>
+    <text id="seal-glyph-05" x="932" y="241" text-anchor="middle"
+      font-family="KaiTi, Cambria" font-size="48" fill="#A8322D">一</text>
+  </g>
+</svg>

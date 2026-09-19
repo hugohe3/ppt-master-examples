@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" lang="zh-CN"
+  font-family="Microsoft YaHei, Cambria"
+  data-pptx-master="story_vertical_master" data-pptx-master-name="Story Vertical"
+  data-pptx-layout="image_full" data-pptx-layout-name="Full-Bleed Image">
+  <defs>
+    <linearGradient id="pageFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EBE6DA" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#EBE6DA" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="master-background" x="0" y="0" width="1080" height="1920" fill="#F4F1E8"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="image-full-caption-band" x="0" y="1220" width="1080" height="520" fill="#EBE6DA"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="image-full-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1080 1220">
+    <image id="image-full-picture-carrier" data-pptx-carrier="true"
+      href="../images/p10_water_form_fit.jpg" x="0" y="0" width="1080" height="1220"
+      preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <g id="image-fade-10" data-pptx-role="decoration" data-pptx-bounds="0 1060 1080 160">
+    <rect id="image-fade-rect-10" x="0" y="1060" width="1080" height="160" fill="url(#pageFade)"/>
+  </g>
+  <g id="image-full-title-slot" data-pptx-placeholder="title" data-pptx-bounds="80 1260 920 100">
+    <text id="image-full-title-carrier" data-pptx-carrier="true" x="80" y="1326"
+      font-family="KaiTi, Cambria" font-size="76" fill="#232323">像水一样取形</text>
+  </g>
+  <g id="quote-plate-10" data-pptx-bounds="80 1380 920 280">
+    <g id="quote-bracket-10" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="80 1394 32 164" fill="none" stroke="#A8322D" stroke-width="4">
+<path d="M 112 1558 A 32 2.67 0 0 1 80 1555.33 L 80 1396.67 A 32 2.67 0 0 1 112 1394 Z" stroke="none"/>
+<path d="M 112 1558 A 32 2.67 0 0 1 80 1555.33 L 80 1396.67 A 32 2.67 0 0 1 112 1394"/>
+</g>
+    <text id="quote-text-10" x="132" y="1432" font-family="Cambria" font-style="italic"
+      font-size="40" fill="#3A3A3A">Therefore, just as water retains no<tspan x="132" dy="54">constant shape, so in warfare there are</tspan><tspan x="132" dy="54">no constant conditions.</tspan></text>
+    <text id="quote-cite-10" x="132" y="1610" font-size="34" fill="#7A756B">第六篇 WEAK POINTS AND STRONG · 第 32 节</text>
+  </g>
+  <g id="image-full-footer-slot" data-pptx-placeholder="footer" data-pptx-idx="2" data-pptx-bounds="80 1665 920 50">
+    <text id="image-full-footer-carrier" data-pptx-carrier="true" x="80" y="1700"
+      font-size="28" fill="#7A756B">Giles 1910 英译 · 讲解为整理 · 10 / 11</text>
+  </g>
+  <g id="seal-mark-10" data-pptx-bounds="884 176 96 96">
+    <g id="seal-frame-10" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="884 176 96 96" fill="#A8322D" stroke="none">
+<path d="M 884 176 L 980 176 L 980 272 L 884 272 Z M 896 188 L 896 260 L 968 260 L 968 188 Z"/>
+</g>
+    <text id="seal-glyph-10" x="932" y="241" text-anchor="middle"
+      font-family="KaiTi, Cambria" font-size="48" fill="#A8322D">六</text>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" lang="zh-CN"
+  font-family="Microsoft YaHei, Cambria"
+  data-pptx-master="story_vertical_master" data-pptx-master-name="Story Vertical"
+  data-pptx-layout="cover" data-pptx-layout-name="Cover">
+  <rect id="master-background" x="0" y="0" width="1080" height="1920" fill="#F4F1E8"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="cover-brand-band" x="0" y="1560" width="1080" height="180" fill="#EBE6DA"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="cover-accent" x="80" y="560" width="120" height="8" fill="#A8322D"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="cover-title-slot" data-pptx-placeholder="title" data-pptx-bounds="80 620 920 320">
+    <text id="cover-title-carrier" data-pptx-carrier="true" x="80" y="740"
+      font-family="KaiTi, Cambria" font-size="120" fill="#232323">孙子兵法<tspan x="80" dy="150">英译读书卡</tspan></text>
+  </g>
+  <g id="cover-subtitle-slot" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="80 990 920 120">
+    <text id="cover-subtitle-carrier" data-pptx-carrier="true" x="80" y="1044"
+      font-size="60" fill="#7A756B">Giles 1910 年英译本</text>
+  </g>
+  <g id="cover-brand-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="80 1610 920 60">
+    <text id="cover-brand-carrier" data-pptx-carrier="true" x="80" y="1652"
+      font-size="32" fill="#3A3A3A">十一张读书卡 · 中文讲解为整理</text>
+  </g>
+  <g id="seal-mark-01" data-pptx-bounds="80 400 110 110">
+    <g id="seal-frame-01" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="80 400 110 110" fill="#A8322D" stroke="none">
+<path d="M 80 400 L 190 400 L 190 510 L 80 510 Z M 93.75 413.75 L 93.75 496.25 L 176.25 496.25 L 176.25 413.75 Z"/>
+</g>
+    <text id="seal-glyph-01" x="135" y="472" text-anchor="middle"
+      font-family="KaiTi, Cambria" font-size="48" fill="#A8322D">兵</text>
+  </g>
+</svg>

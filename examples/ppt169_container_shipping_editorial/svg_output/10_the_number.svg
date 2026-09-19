@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="full_statement" data-pptx-layout-name="Full Statement">
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="full-statement-accent" x="80" y="272" width="96" height="8" rx="4" fill="#E2761C"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="statement-eyebrow" data-pptx-bounds="80 128 1000 64">
+    <text x="80" y="150" fill="#BCD4E8" font-size="20">对照:同一回归中,自由贸易协定当期 +37%,GATT 成员当期 +40.2%<tspan x="80" dy="28">只做港口集装箱化,15 年累计仅 258%</tspan></text>
+  </g>
+  <g id="reading-tag" data-pptx-bounds="1124 130 76 32">
+    <g id="p10-reading-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="1124 130 76 32" fill="none" stroke="#4A86B4" stroke-width="1">
+<path d="M 1124 130 L 1194.67 130 L 1200 135.33 L 1200 162 L 1124 162 Z"/>
+</g>
+    <text x="1162" y="153" text-anchor="middle" fill="#BCD4E8" font-size="20">整理</text>
+  </g>
+  <g id="full-statement-message-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="80 328 1120 200">
+    <text id="full-statement-message-carrier" data-pptx-carrier="true"
+      x="80" y="466" fill="#E2761C" font-family="Cambria, SimHei, serif"
+      font-size="150" font-weight="700">+248%</text>
+  </g>
+  <g id="full-statement-support-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="80 556 880 56">
+    <text id="full-statement-support-carrier" data-pptx-carrier="true"
+      x="80" y="594" fill="#E8EFF6" font-size="24">完全集装箱化:当期 +248%,15 年累计 +517%</text>
+  </g>
+  <g id="source-note" data-pptx-bounds="80 612 1060 28">
+    <text x="80" y="628" fill="#C7D3DE" font-size="16">来源:Bernhofen、El-Sahli、Kneller,《Journal of International Economics》2016 年第 98 卷</text>
+  </g>
+</svg>

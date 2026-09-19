@@ -1,12 +1,180 @@
 {
   "version": 1,
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "stats": {
-    "examples": 64,
-    "pages": 926,
-    "templates": 64
+    "examples": 66,
+    "pages": 949,
+    "templates": 66
   },
   "projects": [
+    {
+      "id": "ppt169_container_shipping_editorial",
+      "title": "集装箱如何改变世界",
+      "description": "出血大图杂志感 deck 12 页 — 首个套用内置 `editorial_bleed` 版式模板的示例(10 个原型全部用上,结构化 Master/Layout 导出),也是首个跑过 visual-review 阶段的示例:1956 年 Ideal X 首航、装卸费从每吨 5.83 美元到 0.16 美元、ISO 标准化的三件事、越战把箱子推到亚洲、+248% 的贸易增量、从纽约码头到 24346 TEU 巨轮;整幅 AI 纪实风照片压深色 scrim,橙色只点在数字上,两张 4K 拼版母版切出七格填满三联页与四宫格;事实取自 Levinson《The Box》、Bernhofen/El-Sahli/Kneller(2016)、ISO 668/1161 等已发布来源并逐页标出处;章节导轨 6 对 Morph,备注面向读书会",
+      "icon": "🚢",
+      "color": "#0B1220",
+      "style": "business",
+      "styleName": "Editorial Bleed · 出血大图版式模板",
+      "desc": "A twelve-page magazine-style deck in Chinese on how the shipping container changed the world — the first example built on the bundled editorial_bleed Layout template (all ten prototypes used, exported as a structured Master/Layout package) and the first to go through the visual-review stage, which caught ten text-over-photo contrast failures the static checker cannot see. It runs from the Ideal X's first voyage in 1956 and stevedoring costs falling from $5.83 to $0.16 a ton, through the three things ISO standardisation settled and the Vietnam supply runs that carried the box to Asia, to the +248% trade effect and the jump from Manhattan piers to a 24,346-TEU ship. Full-bleed documentary-style AI photographs sit under dark scrims with orange reserved for figures; two 4K contact sheets were sliced into seven cells for the triptych and four-up grid. Facts come from Levinson's The Box, Bernhofen, El-Sahli and Kneller (2016) and the ISO 668 / 1161 catalogue entries, cited on every page; six Morph pairs carry a chapter rail, and speaker notes are written for a company reading group.",
+      "tags": [
+        "Business",
+        "Chinese",
+        "Layout Template",
+        "Full-bleed Photography",
+        "Visual Review",
+        "AI Images",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_container_shipping_editorial/svg_final",
+      "generatedAt": "2026-09-18",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_container_shipping_editorial/exports/ppt169_container_shipping_editorial.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面:集装箱如何改变世界"
+        },
+        {
+          "file": "02_chapter_one.svg",
+          "title": "chapter one",
+          "desc": "章节一:一艘油轮改装的船"
+        },
+        {
+          "file": "03_old_world.svg",
+          "title": "old world",
+          "desc": "旧世界:装一吨货 5.83 美元"
+        },
+        {
+          "file": "04_ideal_x.svg",
+          "title": "ideal x",
+          "desc": "那一船:不到 8 小时"
+        },
+        {
+          "file": "05_unquantifiable.svg",
+          "title": "unquantifiable",
+          "desc": "引语:究竟有多重要,无法量化"
+        },
+        {
+          "file": "06_not_the_box.svg",
+          "title": "not the box",
+          "desc": "改变世界的不是铁盒子,是同一个盒子"
+        },
+        {
+          "file": "07_chapter_two.svg",
+          "title": "chapter two",
+          "desc": "章节二:让所有人用同一个箱子"
+        },
+        {
+          "file": "08_three_things.svg",
+          "title": "three things",
+          "desc": "让标准成立的三件事(三联页)"
+        },
+        {
+          "file": "09_war_to_asia.svg",
+          "title": "war to asia",
+          "desc": "战争把箱子推到亚洲"
+        },
+        {
+          "file": "10_the_number.svg",
+          "title": "the number",
+          "desc": "那个数字:+248%"
+        },
+        {
+          "file": "11_cost_and_scale.svg",
+          "title": "cost and scale",
+          "desc": "成本与规模(四宫格)"
+        },
+        {
+          "file": "12_next_box.svg",
+          "title": "next box",
+          "desc": "收尾:下一个集装箱,会是什么?"
+        }
+      ]
+    },
+    {
+      "id": "story_art_of_war_reading_cards",
+      "title": "孙子兵法 · 英译读书卡",
+      "description": "竖版 story 读书卡 11 张 — 首个 EPUB 源示例,也是首个套用内置 `story_vertical` 版式模板的 Quick 示例(结构化 1 Master / 9 Layout):源是 Project Gutenberg #132 的 Lionel Giles 1910 年英译本,每张一句中文讲解配一句英文原句,英文逐字取自译文正文(不取译者方括号评注与导言)并标篇名与节号,中文讲解标「整理」;宣纸底、朱红印章篇号与重点词、楷体标题,两张水墨 AI 插画;引语板与篇章印做 Slide 本地组承接 2 对 Morph",
+      "icon": "📜",
+      "color": "#F4F0E6",
+      "style": "culture",
+      "styleName": "Ink-wash Reading Cards · 水墨读书卡",
+      "desc": "Eleven vertical story cards (1080×1920) in Chinese on Sun Tzu's Art of War as translated by Lionel Giles in 1910 — the first example whose source is an EPUB (Project Gutenberg #132) and the first Quick deck on the bundled story_vertical Layout template, exported as a structured package with one Master and nine Layouts. Each card pairs a short Chinese reading with one English sentence taken verbatim from the numbered translation — never from Giles's bracketed commentary or introduction — and cites chapter and section, while the Chinese gloss is marked as the deck's own reading. Rice-paper ground, vermilion seal marks for chapter numbers and key words, KaiTi titles and two ink-wash AI illustrations; the quote plate and chapter seal are Slide-local groups so two Morph pairs survive the structured export.",
+      "tags": [
+        "Culture",
+        "Chinese",
+        "Story 9:16",
+        "Quick",
+        "Layout Template",
+        "EPUB Source",
+        "Verbatim Quotes",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "story_art_of_war_reading_cards/svg_final",
+      "generatedAt": "2026-09-18",
+      "cover": "01_cover.svg",
+      "pptx": "examples/story_art_of_war_reading_cards/exports/story_art_of_war_reading_cards.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面:孙子兵法 · 英译读书卡"
+        },
+        {
+          "file": "02_life_and_death.svg",
+          "title": "life and death",
+          "desc": "先问存亡,再问胜负"
+        },
+        {
+          "file": "03_five_factors.svg",
+          "title": "five factors",
+          "desc": "先比五件事:道天地将法"
+        },
+        {
+          "file": "04_deception.svg",
+          "title": "deception",
+          "desc": "打仗离不开误导对手"
+        },
+        {
+          "file": "05_calculations.svg",
+          "title": "calculations",
+          "desc": "多算者胜"
+        },
+        {
+          "file": "06_prolonged_war.svg",
+          "title": "prolonged war",
+          "desc": "久战无利"
+        },
+        {
+          "file": "07_win_without_fighting.svg",
+          "title": "win without fighting",
+          "desc": "最好的胜利:不战而屈人之兵"
+        },
+        {
+          "file": "08_know_both_sides.svg",
+          "title": "know both sides",
+          "desc": "先把双方看清楚"
+        },
+        {
+          "file": "09_invincible_first.svg",
+          "title": "invincible first",
+          "desc": "先立于不败"
+        },
+        {
+          "file": "10_like_water.svg",
+          "title": "like water",
+          "desc": "像水一样取形"
+        },
+        {
+          "file": "11_ending.svg",
+          "title": "ending",
+          "desc": "收尾:能不打,就不打"
+        }
+      ]
+    },
     {
       "id": "ppt169_sanxingdui_kiosk_zh",
       "title": "三星堆博物馆自助导览",

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="hero_side_scrim" data-pptx-layout-name="Hero with Side Scrim">
+  <defs>
+    <linearGradient id="hero-side-scrim-paint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.92"/>
+      <stop offset="0.68" stop-color="#000000" stop-opacity="0.86"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <g id="hero-side-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="0 0 1280 720">
+    <image id="hero-side-picture-carrier" data-pptx-carrier="true"
+      x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/vietnam_supply_port.jpg"/>
+  </g>
+  <rect id="hero-side-scrim" x="0" y="0" width="880" height="720"
+    fill="url(#hero-side-scrim-paint)" data-pptx-role="decoration"/>
+  <g id="hero-side-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="80 236 640 88">
+    <text id="hero-side-title-carrier" data-pptx-carrier="true"
+      x="80" y="300" fill="#E8EFF6" font-family="SimHei, Cambria, sans-serif"
+      font-size="40" font-weight="700">战争把箱子推到亚洲</text>
+  </g>
+  <g id="hero-side-body-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="80 356 640 200">
+    <text id="hero-side-body-carrier" data-pptx-carrier="true"
+      x="80" y="390" fill="#E8EFF6" font-size="24">1967–1973 年,Sea-Land 每月向<tspan x="80" dy="38">中南半岛运 <tspan fill="#E2761C">1200</tspan> 个集装箱</tspan><tspan x="80" dy="38">累计从国防部取得 <tspan fill="#E2761C">4.5 亿</tspan>美元</tspan><tspan x="80" dy="38">1971 财年越南合同占销售额 <tspan fill="#E2761C">30%</tspan></tspan><tspan x="80" dy="38">1968 年开通日本航线,回程空箱造就亚洲出口</tspan></text>
+  </g>
+  <g id="chapter-rail" data-pptx-bounds="80 178 480 32">
+    <text x="80" y="200" fill="#BCD4E8" font-size="20" letter-spacing="0.4">第二章 让箱子通用</text>
+  </g>
+  <g id="source-note" data-pptx-bounds="80 586 640 30">
+    <text x="80" y="602" fill="#C7D3DE" font-size="16">来源:Marc Levinson,Forbes(2006);Bernhofen 等(2016)</text>
+  </g>
+</svg>

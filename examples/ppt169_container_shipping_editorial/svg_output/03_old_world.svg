@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  font-family="Microsoft YaHei, Cambria, sans-serif"
+  data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed"
+  data-pptx-layout="split_bleed" data-pptx-layout-name="Split Bleed">
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="split-bleed-accent" x="720" y="168" width="72" height="6" rx="3" fill="#E2761C"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="split-bleed-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="0 0 640 720">
+    <image id="split-bleed-picture-carrier" data-pptx-carrier="true"
+      x="0" y="0" width="640" height="720" preserveAspectRatio="xMidYMid slice"
+      href="../images/breakbulk_1950s.jpg"/>
+  </g>
+  <g id="split-bleed-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="720 216 480 88">
+    <text id="split-bleed-title-carrier" data-pptx-carrier="true"
+      x="720" y="280" fill="#E8EFF6" font-family="SimHei, Cambria, sans-serif"
+      font-size="40" font-weight="700">装一吨货 5.83 美元</text>
+  </g>
+  <g id="split-bleed-body-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="720 336 480 240">
+    <text id="split-bleed-body-carrier" data-pptx-carrier="true"
+      x="720" y="362" fill="#E8EFF6" font-size="24">1956 年,装一艘中型货船<tspan x="720" dy="38">装卸费 每吨 <tspan fill="#E2761C">5.83</tspan> 美元</tspan><tspan x="720" dy="38"><tspan fill="#E2761C">20–25</tspan> 吨货要 <tspan fill="#E2761C">18–20</tspan> 个工时</tspan><tspan x="720" dy="38">工人单件负重常达 <tspan fill="#E2761C">30–50</tspan> 公斤</tspan><tspan x="720" dy="38">港口周转有时比航行还久</tspan></text>
+  </g>
+  <g id="chapter-rail" data-pptx-bounds="720 130 480 30">
+    <text x="720" y="150" fill="#BCD4E8" font-size="20" letter-spacing="0.4">第一章 那一船</text>
+  </g>
+  <g id="source-note" data-pptx-bounds="720 596 480 44">
+    <text x="720" y="612" fill="#C7D3DE" font-size="16">来源:Levinson《The Box》(2006);<tspan x="720" dy="20">Harold M. Levinson 等(1971)</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Cambria, sans-serif" data-pptx-master="editorial_bleed_master" data-pptx-master-name="Editorial Bleed" data-pptx-layout="full_statement" data-pptx-layout-name="Full Statement">
+  <rect id="master-background" x="0" y="0" width="1280" height="720" fill="#0B1220" data-pptx-layer="master" data-pptx-editable="false" />
+  <rect id="full-statement-accent" x="80" y="272" width="96" height="8" rx="4" fill="#E2761C" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="statement-eyebrow" data-pptx-bounds="80 128 1000 32">
+    <text x="80" y="150" fill="#BCD4E8" font-size="20">国际标准化 1965 年完成,国际贸易的集装箱化采用 1966 年开始、1983 年结束</text>
+  </g>
+  <g id="source-note" data-pptx-bounds="80 162 600 28">
+    <text x="80" y="178" fill="#C7D3DE" font-size="16">来源:Bernhofen、El-Sahli、Kneller(2016)</text>
+  </g>
+  <g id="reading-tag" data-pptx-bounds="1124 130 76 32">
+    <g id="p06-reading-plaque" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="1124 130 76 32" fill="none" stroke="#4A86B4" stroke-width="1">
+<path d="M 1124 130 L 1194.67 130 L 1200 135.33 L 1200 162 L 1124 162 Z" />
+</g>
+    <text x="1162" y="153" text-anchor="middle" fill="#BCD4E8" font-size="20">整理</text>
+  </g>
+  <g id="full-statement-message-slot" data-pptx-placeholder="title" data-pptx-bounds="80 328 1120 200">
+    <text font-weight="700" font-family="SimHei, Cambria, sans-serif" font-size="64" fill="#E8EFF6" x="80" y="400">改变世界的不是铁盒子,</text><text font-weight="700" font-family="SimHei, Cambria, sans-serif" font-size="64" fill="#E8EFF6" x="80" y="480"><tspan>是所有人同意用<tspan fill="#E2761C">同一个</tspan>盒子</tspan></text></g>
+  <g id="full-statement-support-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="80 556 880 56">
+    <text id="full-statement-support-carrier" data-pptx-carrier="true" x="80" y="594" fill="#C7D3DE" font-size="24">1956 到 1966,集装箱在美国国内走了十年才走向世界</text>
+  </g>
+</svg>

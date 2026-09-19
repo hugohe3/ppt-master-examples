@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" lang="zh-CN" font-family="Microsoft YaHei, Cambria" data-pptx-master="story_vertical_master" data-pptx-master-name="Story Vertical" data-pptx-layout="statement" data-pptx-layout-name="Statement">
+  <rect id="master-background" x="0" y="0" width="1080" height="1920" fill="#F4F1E8" data-pptx-layer="master" data-pptx-editable="false" />
+  <rect id="statement-accent" x="490" y="800" width="100" height="8" fill="#A8322D" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="statement-message-slot" data-pptx-placeholder="title" data-pptx-bounds="80 860 920 300">
+    <text fill="#232323" text-anchor="middle" font-family="KaiTi, Cambria" font-size="88" x="540" y="940">打仗离不开</text><text fill="#232323" text-anchor="middle" font-family="KaiTi, Cambria" font-size="88" x="540" y="1050">误导对手</text></g>
+  <g id="statement-support-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="120 1200 840 100">
+    <text id="statement-support-carrier" data-pptx-carrier="true" x="540" y="1252" text-anchor="middle" font-size="48" fill="#7A756B">让对手看到的，不是你要做的</text>
+  </g>
+  <g id="quote-plate-04" data-pptx-bounds="80 1400 920 250">
+    <g id="quote-bracket-04" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="80 1414 32 56" fill="none" stroke="#A8322D" stroke-width="4">
+<path d="M 112 1470 A 32 2.67 0 0 1 80 1467.33 L 80 1416.67 A 32 2.67 0 0 1 112 1414 Z" stroke="none" />
+<path d="M 112 1470 A 32 2.67 0 0 1 80 1467.33 L 80 1416.67 A 32 2.67 0 0 1 112 1414" />
+</g>
+    <text id="quote-text-04" x="132" y="1452" font-family="Cambria" font-style="italic" font-size="40" fill="#3A3A3A">All warfare is based on deception.</text>
+    <text id="quote-cite-04" x="132" y="1522" font-size="34" fill="#7A756B">第一篇 LAYING PLANS · 第 18 节</text>
+  </g>
+  <g id="card-meta-04" data-pptx-role="footer" data-pptx-bounds="80 1660 920 56">
+    <text id="card-meta-text-04" x="80" y="1700" font-size="28" fill="#7A756B">Giles 1910 英译 · 讲解为整理 · 04 / 11</text>
+  </g>
+  <g id="seal-mark-04" data-pptx-bounds="884 176 96 96">
+    <g id="seal-frame-04" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="frame" data-pptx-frame="884 176 96 96" fill="#A8322D" stroke="none">
+<path d="M 884 176 L 980 176 L 980 272 L 884 272 Z M 896 188 L 896 260 L 968 260 L 968 188 Z" />
+</g>
+    <text id="seal-glyph-04" x="932" y="241" text-anchor="middle" font-family="KaiTi, Cambria" font-size="48" fill="#A8322D">一</text>
+  </g>
+</svg>
