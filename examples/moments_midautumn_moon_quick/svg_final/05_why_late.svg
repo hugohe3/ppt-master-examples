@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" lang="zh-CN" font-family="Arial, Microsoft YaHei" data-pptx-master="moments_square_master" data-pptx-master-name="Moments Square" data-pptx-layout="three_row" data-pptx-layout-name="Three Row">
+  <rect id="master-background" x="0" y="0" width="1080" height="1080" fill="#0B1026" data-pptx-layer="master" data-pptx-editable="false" />
+  <rect id="three-row-one" x="100" y="380" width="880" height="148" rx="16" fill="#151C3A" stroke="#2A3560" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="three-row-two" x="100" y="556" width="880" height="148" rx="16" fill="#151C3A" stroke="#2A3560" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="three-row-three" x="100" y="732" width="880" height="148" rx="16" fill="#151C3A" stroke="#2A3560" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="three-row-marker-one" cx="168" cy="454" r="28" fill="#2A3560" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="three-row-marker-two" cx="168" cy="630" r="28" fill="#2A3560" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="three-row-marker-three" cx="168" cy="806" r="28" fill="#2A3560" data-pptx-layer="layout" data-pptx-editable="false" />
+  <text id="three-row-digit-one" x="168" y="464" text-anchor="middle" fill="#F2C66D" font-size="26" font-weight="bold" data-pptx-layer="layout" data-pptx-editable="false">1</text>
+  <text id="three-row-digit-two" x="168" y="640" text-anchor="middle" fill="#F2C66D" font-size="26" font-weight="bold" data-pptx-layer="layout" data-pptx-editable="false">2</text>
+  <text id="three-row-digit-three" x="168" y="816" text-anchor="middle" fill="#F2C66D" font-size="26" font-weight="bold" data-pptx-layer="layout" data-pptx-editable="false">3</text>
+  <g id="three-row-title-slot" data-pptx-placeholder="title" data-pptx-bounds="100 110 880 210">
+    <text id="three-row-title-carrier" data-pptx-carrier="true" x="100" y="250" fill="#F3EFE2" font-size="54" font-weight="bold">今年的“望”为什么迟到</text>
+  </g>
+  <g id="three-row-one-slot" data-pptx-placeholder="object" data-pptx-idx="1" data-pptx-bounds="220 404 736 100">
+    <text fill="#F3EFE2" font-size="30" x="220" y="446">月球绕地球的轨道是<tspan fill="#F2C66D" font-weight="bold">椭圆</tspan></text><text fill="#A9B3D1" font-size="30" x="220" y="492">离地球近时走得快，远时走得慢</text></g>
+  <g id="three-row-two-slot" data-pptx-placeholder="object" data-pptx-idx="2" data-pptx-bounds="220 580 736 100">
+    <text id="three-row-two-carrier" data-pptx-carrier="true" x="220" y="608" fill="#F3EFE2" font-size="30">所以从“朔”到“望”的天数并不固定</text>
+  </g>
+  <g id="three-row-three-slot" data-pptx-placeholder="object" data-pptx-idx="3" data-pptx-bounds="220 756 736 100">
+    <text fill="#F3EFE2" font-size="30" x="220" y="798">今年八月的“望”落在<tspan fill="#F2C66D" font-weight="bold">十七凌晨</tspan></text><text fill="#A9B3D1" font-size="30" x="220" y="844">2026—2035 年十年里，仅此一次</text></g>
+  <g id="three-row-footer-slot" data-pptx-placeholder="footer" data-pptx-idx="4" data-pptx-bounds="100 940 880 56">
+    <text id="three-row-footer-carrier" data-pptx-carrier="true" x="100" y="978" fill="#7C86AB" font-size="20">来源：南京日报（光明网 2026-09-22）；北京古观象台王玉民（北京日报 2026-09-17）</text>
+  </g>
+  <g id="span-range" data-pptx-bounds="236 616 724 42">
+    <line x1="240" y1="646" x2="940" y2="646" stroke="#2A3560" stroke-width="2" />
+    <line x1="380" y1="638" x2="380" y2="654" stroke="#7C86AB" stroke-width="2" />
+    <line x1="660" y1="638" x2="660" y2="654" stroke="#7C86AB" stroke-width="2" />
+    <line x1="940" y1="638" x2="940" y2="654" stroke="#7C86AB" stroke-width="2" />
+    <rect x="352" y="640" width="478.8" height="12" rx="6" fill="#F2C66D" />
+  </g>
+  <g id="span-range-labels" data-pptx-bounds="236 662 724 38" font-size="20" text-anchor="middle">
+    <text x="352" y="684" fill="#F2C66D" font-weight="bold">最短 13.90 天</text>
+    <text x="660" y="684" fill="#7C86AB">15 天</text>
+    <text x="831" y="684" fill="#F2C66D" font-weight="bold">最长 15.61 天</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="880 1016 100 36">
+    <text x="980" y="1042" text-anchor="end" fill="#7C86AB" font-size="20">5 / 8</text>
+  </g>
+</svg>

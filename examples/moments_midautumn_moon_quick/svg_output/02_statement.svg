@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" lang="zh-CN"
+  font-family="Arial, Microsoft YaHei"
+  data-pptx-master="moments_square_master" data-pptx-master-name="Moments Square"
+  data-pptx-layout="statement" data-pptx-layout-name="Statement">
+  <rect id="master-background" x="0" y="0" width="1080" height="1080" fill="#0B1026"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="statement-accent" x="490" y="340" width="100" height="8" rx="4" fill="#F2C66D"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="statement-message-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="100 400 880 300">
+    <text id="statement-message-carrier" data-pptx-carrier="true"
+      x="540" y="494" text-anchor="middle" fill="#F3EFE2"
+      font-size="60" font-weight="bold">今年月亮最圆的时刻<tspan x="540" dy="96" fill="#F2C66D">9月27日 0:49</tspan></text>
+  </g>
+  <g id="statement-support-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="140 760 800 100">
+    <text id="statement-support-carrier" data-pptx-carrier="true"
+      x="540" y="800" text-anchor="middle" fill="#F3EFE2"
+      font-size="30">农历八月十七凌晨（北京时间）<tspan x="540" dy="46" fill="#A9B3D1">据南京日报、广州市五羊天象馆 2026-09-22 发布</tspan></text>
+  </g>
+  <g id="star-field" data-pptx-role="decoration" data-pptx-bounds="0 0 1080 1080" fill="#F3EFE2">
+    <circle cx="120" cy="140" r="2" fill-opacity="0.6"/>
+    <circle cx="262" cy="80" r="1.5" fill-opacity="0.5"/>
+    <circle cx="828" cy="120" r="2.5" fill-opacity="0.7"/>
+    <circle cx="960" cy="260" r="1.5" fill-opacity="0.5"/>
+    <circle cx="86" cy="930" r="2" fill-opacity="0.45"/>
+    <circle cx="996" cy="960" r="1.5" fill-opacity="0.45"/>
+  </g>
+  <g id="moon-hero" data-pptx-bounds="470 160 140 140">
+    <image href="../images/phase_full.png" x="470" y="160" width="140" height="140"
+      preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="440 1010 200 40">
+    <text x="540" y="1040" text-anchor="middle" fill="#7C86AB" font-size="20">2 / 8</text>
+  </g>
+</svg>

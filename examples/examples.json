@@ -1,12 +1,132 @@
 {
   "version": 1,
-  "updated": "2026-09-18",
+  "updated": "2026-09-23",
   "stats": {
-    "examples": 66,
-    "pages": 949,
-    "templates": 66
+    "examples": 68,
+    "pages": 963,
+    "templates": 68
   },
   "projects": [
+    {
+      "id": "moments_midautumn_moon_quick",
+      "title": "十五的月亮十六圆?",
+      "description": "朋友圈方卡 8 张(1080×1080)— 2026 年中秋为什么要到八月十七才最圆:首个套用内置 `moments_square` 版式模板的示例(8 个原型各用一次,整体重绘成深色夜空,结构化 Master/Layout 导出),Quick 路线纯题目生成;AI 色键拼版切出八个月相与桂花,城市月出插画与满月特写,事实取自紫金山天文台、五羊天象馆、NASA 并逐卡标出处;月亮 Morph 串联前四张",
+      "icon": "🌕",
+      "color": "#0B1026",
+      "style": "education",
+      "styleName": "Moonlit Star Chart · moments_square 版式模板",
+      "desc": "Eight square cards (1080×1080) in Chinese for WeChat Moments on why the 2026 Mid-Autumn moon is not fullest until the seventeenth of the eighth lunar month — the first example built on the bundled moments_square Layout template, with all eight prototypes used once and redrawn as a dark night sky, exported as a structured Master/Layout package. Generated on the Quick runtime from a bare topic with topic research: the exact full-moon minute, the 29.53-day synodic month across eight moon phases, a 98%-lit festival night against the true full moon two days later, the elliptical orbit that makes new-to-full vary from 13.9 to 15.6 days, Guangzhou's moonrise time, and why this year is not a supermoon. A 3×3 AI colour-key sheet was sliced into eight transparent phases and an osmanthus sprig, beside an illustrated city moonrise and a full-moon close-up; warm moon-gold is reserved for key figures. Facts cite Purple Mountain Observatory, Guangzhou Wuyang Planetarium and NASA on each card; a moon Morph carries through the first four cards, with speaker notes throughout.",
+      "tags": [
+        "Education",
+        "Chinese",
+        "Layout Template",
+        "AI Images",
+        "Square",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "moments_midautumn_moon_quick/svg_final",
+      "generatedAt": "2026-09-23",
+      "cover": "01_cover.svg",
+      "pptx": "examples/moments_midautumn_moon_quick/exports/moments_midautumn_moon_quick.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面:十五的月亮十六圆?"
+        },
+        {
+          "file": "02_statement.svg",
+          "title": "statement",
+          "desc": "结论:今年最圆在八月十七凌晨 0:49"
+        },
+        {
+          "file": "03_phase_cycle.svg",
+          "title": "phase cycle",
+          "desc": "月相一轮:朔望月 29.53 天"
+        },
+        {
+          "file": "04_fifteen_vs_seventeen.svg",
+          "title": "fifteen vs seventeen",
+          "desc": "十五夜已亮 98% vs 十七的真正望"
+        },
+        {
+          "file": "05_why_late.svg",
+          "title": "why late",
+          "desc": "为什么迟到:椭圆轨道与朔望间隔"
+        },
+        {
+          "file": "06_moonrise.svg",
+          "title": "moonrise",
+          "desc": "中秋夜几点看:广州 17:24 月出"
+        },
+        {
+          "file": "07_supermoon.svg",
+          "title": "supermoon",
+          "desc": "今年不是超级月亮"
+        },
+        {
+          "file": "08_ending.svg",
+          "title": "ending",
+          "desc": "收尾:十五十六十七都值得抬头"
+        }
+      ]
+    },
+    {
+      "id": "wechat_typst_series_banners",
+      "title": "Typst 入门 · 公众号系列横幅",
+      "description": "公众号横幅一组 6 张(900×383)— 系列头图、四篇章节横幅(导引 / 标记语法 / 数学公式 / 中文排版)与文末关注图,首个从 Typst 源(typst-doc-cn 教程 5 个 .typ)生成的示例;「校样台」风格:Swiss 网格上的裁切线、基线网格、校对红插入光标,墨黑排字条放逐字源码对照排版结果,数学页公式为原生 PowerPoint 公式;系列名与红色光标 Morph 10 对,Default 路线,无图",
+      "icon": "✒️",
+      "color": "#CF3B2A",
+      "style": "technology",
+      "styleName": "Proof Table Series Banners",
+      "desc": "A set of six WeChat article banners (900×383) for a Chinese series introducing Typst — the first example generated from Typst sources, five .typ chapters of the Apache-2.0 typst-doc-cn tutorial. A series cover is followed by one banner per chapter (introduction, markup, math, Chinese typesetting), each pairing a verbatim snippet from the tutorial in an ink-black monospace strip with its typeset result, and a closing follow call-to-action that lays out the four-part route. The custom 'proof table' style sits on a strict Swiss grid with crop marks, a hairline baseline grid, a proofreader-red insert cursor and serif display titles — flat, with no images. The math banner carries its formula as a native PowerPoint equation. Built on the Default runtime with a design spec and lock; ten Morph pairs on two keys shrink the series name into a running head and move the red cursor along the chapter rail, with speaker notes on every banner.",
+      "tags": [
+        "Technology",
+        "Chinese",
+        "WeChat",
+        "Series",
+        "Native Formula",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "wechat_typst_series_banners/svg_final",
+      "generatedAt": "2026-09-23",
+      "cover": "01_series_cover.svg",
+      "pptx": "examples/wechat_typst_series_banners/exports/wechat_typst_series_banners.pptx",
+      "slides": [
+        {
+          "file": "01_series_cover.svg",
+          "title": "series cover",
+          "desc": "系列头图:Typst 入门"
+        },
+        {
+          "file": "02_ch1_intro.svg",
+          "title": "ch1 intro",
+          "desc": "01 导引"
+        },
+        {
+          "file": "03_ch2_markup.svg",
+          "title": "ch2 markup",
+          "desc": "02 标记语法:语义先行"
+        },
+        {
+          "file": "04_ch3_math.svg",
+          "title": "ch3 math",
+          "desc": "03 数学公式:用一对 $ 进入"
+        },
+        {
+          "file": "05_ch4_chinese.svg",
+          "title": "ch4 chinese",
+          "desc": "04 中文排版:五类常见问题"
+        },
+        {
+          "file": "06_follow_cta.svg",
+          "title": "follow cta",
+          "desc": "文末:关注本号,跟完四篇"
+        }
+      ]
+    },
     {
       "id": "ppt169_container_shipping_editorial",
       "title": "集装箱如何改变世界",

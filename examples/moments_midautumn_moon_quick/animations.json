@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.4 },
+    "animation": { "trigger": "after-previous" }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "moon-hero": { "effects": [ { "effect": "entrance_faded_zoom", "order": 1, "duration": 0.8 } ] },
+        "cover-title-slot": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "cover-subtitle-slot": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5 } ] },
+        "osmanthus-sprig": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.6 } ] }
+      }
+    },
+    "02_statement": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "01_cover", "pairs": { "moon-hero": { "from": "moon-hero", "to": "moon-hero" } } },
+      "groups": {
+        "statement-message-slot": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] },
+        "statement-support-slot": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] }
+      }
+    },
+    "03_phase_cycle": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "02_statement", "pairs": { "moon-hero": { "from": "moon-hero", "to": "moon-hero" } } },
+      "groups": {
+        "phase-row-waxing": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.7 } ] },
+        "phase-row-waning": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.6 } ] },
+        "phase-labels": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5 } ] }
+      }
+    },
+    "04_fifteen_vs_seventeen": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 0.9 },
+      "morph": { "from": "03_phase_cycle", "pairs": { "moon-hero": { "from": "moon-hero", "to": "moon-hero" } } },
+      "groups": {
+        "left-moon": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.6 } ] },
+        "two-column-left-slot": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "two-column-right-slot": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5 } ] }
+      }
+    },
+    "05_why_late": {
+      "groups": {
+        "three-row-one-slot": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.4 } ] },
+        "three-row-two-slot": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.4 } ] },
+        "span-range": { "effects": [ { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 0.7 } ] },
+        "span-range-labels": { "effects": [ { "effect": "entrance_fade", "order": 4, "duration": 0.4 } ] },
+        "three-row-three-slot": { "effects": [ { "effect": "entrance_fade", "order": 5, "duration": 0.4 } ] }
+      }
+    },
+    "06_moonrise": {
+      "groups": {
+        "saturn-note": { "effects": [ { "effect": "entrance_fade", "order": 1, "delay": 0.6, "duration": 0.5 } ] }
+      }
+    },
+    "07_supermoon": {
+      "groups": {
+        "size-note": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.5 } ] },
+        "date-note": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] }
+      }
+    },
+    "08_ending": {
+      "groups": {
+        "closing-phases": { "effects": [ { "effect": "entrance_fade", "order": 1, "duration": 0.6 } ] },
+        "ending-message-slot": { "effects": [ { "effect": "entrance_fade", "order": 2, "duration": 0.5 } ] },
+        "ending-cta-slot": { "effects": [ { "effect": "entrance_fade", "order": 3, "duration": 0.5 } ] }
+      }
+    }
+  }
+}

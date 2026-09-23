@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" data-pptx-page-role="ending" font-family="Microsoft YaHei, Arial, sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#F3EEE3" />
+  <g id="proof-marks" data-pptx-role="decoration" data-pptx-bounds="0 0 900 383" stroke="#CBC0AC" stroke-width="1">
+    <line x1="14" y1="24" x2="34" y2="24" />
+    <line x1="24" y1="14" x2="24" y2="34" />
+    <line x1="866" y1="24" x2="886" y2="24" />
+    <line x1="876" y1="14" x2="876" y2="34" />
+    <line x1="14" y1="359" x2="34" y2="359" />
+    <line x1="24" y1="349" x2="24" y2="369" />
+    <line x1="866" y1="359" x2="886" y2="359" />
+    <line x1="876" y1="349" x2="876" y2="369" />
+    <line x1="72" y1="86.5" x2="860" y2="86.5" stroke-opacity="0.6" />
+    <g font-family="Consolas, Microsoft YaHei, monospace" font-size="15" fill="#B3A794" stroke="none" text-anchor="end">
+      <text x="52" y="62">1</text>
+      <text x="52" y="142">2</text>
+      <text x="52" y="186">3</text>
+      <text x="52" y="246">4</text>
+      <text x="52" y="304">5</text>
+      <text x="52" y="352">6</text>
+    </g>
+  </g>
+  <g id="series-name" data-pptx-bounds="72 34 240 40">
+    <text x="72" y="62" font-family="SimSun, Cambria, serif" font-size="30" fill="#1D1A17">Typst 入门</text>
+  </g>
+  <g id="cta-head" data-pptx-bounds="72 94 788 104" font-family="SimSun, Cambria, serif">
+    <text x="72" y="142" font-size="50" fill="#1D1A17">关注本号</text>
+    <text x="72" y="186" font-size="30" fill="#27231F">把 Typst 从标记写到公式，再写到中文</text>
+  </g>
+  <g id="route" data-pptx-bounds="72 208 766 60">
+    <g id="p06-stage-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="72 212 180 52" fill="#1D1A17" stroke="none">
+<path d="M 72 212 L 226 212 L 252 238 L 226 264 L 72 264 Z" />
+</g>
+    <g id="p06-stage-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="266 212 180 52" fill="#1D1A17" stroke="none">
+<path d="M 266 212 L 420 212 L 446 238 L 420 264 L 266 264 Z" />
+</g>
+    <g id="p06-stage-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="460 212 180 52" fill="#1D1A17" stroke="none">
+<path d="M 460 212 L 614 212 L 640 238 L 614 264 L 460 264 Z" />
+</g>
+    <g id="p06-stage-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="homePlate" data-pptx-frame="654 212 180 52" fill="#1D1A17" stroke="none">
+<path d="M 654 212 L 808 212 L 834 238 L 808 264 L 654 264 Z" />
+</g>
+    <g font-size="24" fill="#F3EEE3">
+      <text x="90" y="246"><tspan fill="#E0A94A">01</tspan> 导引</text>
+      <text x="284" y="246"><tspan fill="#E0A94A">02</tspan> 标记语法</text>
+      <text x="478" y="246"><tspan fill="#E0A94A">03</tspan> 数学公式</text>
+      <text x="672" y="246"><tspan fill="#E0A94A">04</tspan> 中文排版</text>
+    </g>
+  </g>
+  <g id="red-marker" data-pptx-bounds="840 206 20 64">
+    <rect x="844" y="212" width="10" height="52" fill="#CF3B2A" />
+  </g>
+  <g id="reading-order" data-pptx-bounds="72 282 788 32">
+    <text x="72" y="304" font-size="18" fill="#6B6358">由浅入深：先像写 Markdown 那样写出一篇文档，再学公式与中文排版（整理）</text>
+  </g>
+  <g id="source-line" data-pptx-role="footer" data-pptx-bounds="72 338 788 20">
+    <text x="72" y="352" font-size="15" fill="#6B6358">内容整理自 typst-doc-cn/tutorial（Apache-2.0）· 代码与引句逐字出自各章 .typ 源文件</text>
+  </g>
+</svg>

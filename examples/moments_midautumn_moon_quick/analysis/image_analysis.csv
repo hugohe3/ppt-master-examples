@@ -1,0 +1,12 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,fullmoon_disc.jpg,1920,1920,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,132.2,Near square
+2,moonrise_city.jpg,1920,1434,1.34,1.34,,native,JPEG,False,1,,bitmap,True,True,102.2,Standard landscape
+3,osmanthus.png,427,475,0.90,0.90,,native,PNG,True,1,,bitmap,True,True,239.1,Near square
+4,phase_first_quarter.png,567,569,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,342.2,Near square
+5,phase_full.png,571,572,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,389.8,Near square
+6,phase_last_quarter.png,569,570,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,338.5,Near square
+7,phase_new.png,569,568,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,335.1,Near square
+8,phase_wan_crescent.png,568,568,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,311.1,Near square
+9,phase_wan_gibbous.png,572,572,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,374.1,Near square
+10,phase_wax_crescent.png,568,569,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,333.7,Near square
+11,phase_wax_gibbous.png,571,572,1.00,1.00,,native,PNG,True,1,,bitmap,True,True,370.9,Near square

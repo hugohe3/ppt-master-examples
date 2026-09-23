@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" lang="zh-CN"
+  font-family="Arial, Microsoft YaHei"
+  data-pptx-master="moments_square_master" data-pptx-master-name="Moments Square"
+  data-pptx-layout="image_center" data-pptx-layout-name="Centered Image">
+  <rect id="master-background" x="0" y="0" width="1080" height="1080" fill="#0B1026"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="image-center-panel" x="290" y="330" width="500" height="500" rx="24" fill="#151C3A"
+    stroke="#2A3560" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="image-center-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="100 110 880 180">
+    <text id="image-center-title-carrier" data-pptx-carrier="true"
+      x="540" y="226" text-anchor="middle" fill="#F3EFE2"
+      font-size="54" font-weight="bold">今年是超级月亮吗？<tspan fill="#F2C66D">不是</tspan></text>
+  </g>
+  <g id="image-center-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="290 330 500 500">
+    <image id="image-center-picture-carrier" data-pptx-carrier="true"
+      x="290" y="330" width="500" height="500" preserveAspectRatio="xMidYMid meet"
+      href="../images/fullmoon_disc.jpg"/>
+  </g>
+  <g id="image-center-caption-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="140 870 800 70">
+    <text id="image-center-caption-carrier" data-pptx-carrier="true"
+      x="540" y="916" text-anchor="middle" fill="#F3EFE2"
+      font-size="26">NASA：满月时离地球够近（近地点 90% 以内）才叫超级月亮</text>
+  </g>
+  <g id="size-note" data-pptx-bounds="40 420 240 300" font-size="26" fill="#A9B3D1">
+    <text x="48" y="460">超级月亮<tspan x="48" dy="38">看起来最多比</tspan><tspan x="48" dy="38">“微月”</tspan></text>
+    <text x="48" y="588" fill="#F2C66D" font-size="34" font-weight="bold">大 14%<tspan x="48" dy="46">亮 30%</tspan></text>
+    <text x="48" y="672" font-size="20" fill="#7C86AB">微月：一年中<tspan x="48" dy="26">最暗的满月</tspan></text>
+  </g>
+  <g id="date-note" data-pptx-bounds="800 420 240 300" font-size="26" fill="#A9B3D1">
+    <text x="812" y="460">2026 年的<tspan x="812" dy="38">超级月亮在</tspan></text>
+    <text x="812" y="588" fill="#F3EFE2" font-size="34" font-weight="bold">11月24日<tspan x="812" dy="46">12月24日</tspan></text>
+    <text x="812" y="672" font-size="20" fill="#7C86AB">世界时（UTC）<tspan x="812" dy="26">9 月不在其中</tspan></text>
+  </g>
+  <g id="source-note" data-pptx-bounds="140 960 800 40">
+    <text x="540" y="988" text-anchor="middle" fill="#7C86AB" font-size="20">来源：NASA Science《Supermoons》（页面日期 2026-02-12）· 月亮图为 AI 示意</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="880 1016 100 36">
+    <text x="980" y="1042" text-anchor="end" fill="#7C86AB" font-size="20">7 / 8</text>
+  </g>
+</svg>

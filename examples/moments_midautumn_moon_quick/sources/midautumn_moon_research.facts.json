@@ -1,0 +1,17 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "2026年中秋：十五的月亮为什么不一定十五最圆",
+  "facts": [
+    {"fact_id": "F001", "claim": "2026年中秋节（农历八月十五）为9月25日；据中国科学院紫金山天文台，今年中秋月最圆时刻出现在9月27日凌晨，届时已是农历八月十七。", "source_title": "2026年中秋：十五的月亮十七圆（中国新闻网，2026-09-22，消息来源：中国科学院紫金山天文台）", "source_url": "https://www.chinanews.com.cn/cul/2026/09-22/10701733.shtml", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F002", "claim": "2026年中秋期间月亮最圆时刻（望）为9月27日凌晨0时49分（北京时间）。", "source_title": "少见！今年中秋，“十五的月亮十七圆”（光明网转南京日报，2026-09-22）", "source_url": "https://m.gmw.cn/2026-09/22/content_1304566647.htm", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F003", "claim": "月相变化的起点为“朔”，月相达到满月的时刻称为“望”；一个朔望月平均为29.53天，这一周期长度使满月最常出现在农历十五和农历十六。", "source_title": "2026年中秋：十五的月亮十七圆（中国新闻网，2026-09-22，消息来源：中国科学院紫金山天文台）", "source_url": "https://www.chinanews.com.cn/cul/2026/09-22/10701733.shtml", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F004", "claim": "八月十五夜的月面被照亮部分已超过98%，肉眼看上去已接近满月；十六夜更接近圆满，直至“望”时达到最圆。", "source_title": "2026年中秋：十五的月亮十七圆（中国新闻网，2026-09-22，消息来源：中国科学院紫金山天文台）", "source_url": "https://www.chinanews.com.cn/cul/2026/09-22/10701733.shtml", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F005", "claim": "由于月球绕地球运行的轨道是椭圆，运行速度有快有慢，从“朔”到“望”的时间会变化，最短约13.90天，最长约15.61天。", "source_title": "少见！今年中秋，“十五的月亮十七圆”（光明网转南京日报，2026-09-22）", "source_url": "https://m.gmw.cn/2026-09/22/content_1304566647.htm", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F006", "claim": "北京古观象台王玉民介绍：2026年至2035年十年间，中秋最圆月有6次在农历十六、3次在农历十五，2026年是这十年中唯一一次出现在农历十七。", "source_title": "专家：2026年中秋，十五的月亮十七圆（北京日报客户端，2026-09-17）", "source_url": "https://news.qq.com/rain/a/20260917A09F1100", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F007", "claim": "据广州市五羊天象馆，1901—2100年的200年间，中秋“十五的月亮十七圆”仅有28次，平均约7.14年一次；上一次是2017年，下一次是2043年。", "source_title": "今年中秋“十五的月亮十七圆”，广州最佳赏月时刻出炉（21经济网，2026-09-22）", "source_url": "https://www.21jingji.com/article/20260922/herald/537ee02965e16266c1d74f3a2d3bbaed.html", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F008", "claim": "据广州市五羊天象馆，9月25日（中秋）广州月出时刻为17时24分，月亮从东偏南方向升起。", "source_title": "今年中秋“十五的月亮十七圆”，广州最佳赏月时刻出炉（21经济网，2026-09-22）", "source_url": "https://www.21jingji.com/article/20260922/herald/537ee02965e16266c1d74f3a2d3bbaed.html", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F009", "claim": "NASA：“超级月亮”不是正式天文术语，通常指月球到达轨道近地点距离90%以内时发生的满月；最近的满月可比一年中最暗的“微月”看起来大约14%、亮约30%。", "source_title": "Supermoons（NASA Science，页面日期2026-02-12）", "source_url": "https://science.nasa.gov/moon/supermoons/", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F010", "claim": "NASA列出的2026年后续超级月亮为11月24日与12月24日（UTC），9月满月不在其中。", "source_title": "Supermoons（NASA Science，页面日期2026-02-12）", "source_url": "https://science.nasa.gov/moon/supermoons/", "classification": "external", "retrieved_at": "2026-09-23"},
+    {"fact_id": "F011", "claim": "中秋夜月亮左侧有少许缺痕，左下方较远处可见土星。", "source_title": "2026年中秋：十五的月亮十七圆（中国新闻网，2026-09-22，消息来源：中国科学院紫金山天文台）", "source_url": "https://www.chinanews.com.cn/cul/2026/09-22/10701733.shtml", "classification": "external", "retrieved_at": "2026-09-23"}
+  ]
+}

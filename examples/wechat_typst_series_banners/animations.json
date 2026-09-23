@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "slides": {
+    "01_series_cover": {
+      "groups": {
+        "subtitle": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "claim": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 2,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "02_ch1_intro": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "01_series_cover",
+        "pairs": {
+          "series-name": {
+            "from": "series-name",
+            "to": "series-name"
+          },
+          "red-marker": {
+            "from": "red-marker",
+            "to": "red-marker"
+          }
+        }
+      },
+      "groups": {
+        "chapter-head": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "definition": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "code-strip": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "code-note": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "03_ch2_markup": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "02_ch1_intro",
+        "pairs": {
+          "series-name": {
+            "from": "series-name",
+            "to": "series-name"
+          },
+          "red-marker": {
+            "from": "red-marker",
+            "to": "red-marker"
+          }
+        }
+      },
+      "groups": {
+        "chapter-head": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "code-panel": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "result-panel": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 3,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "rule-quote": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "04_ch3_math": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "03_ch2_markup",
+        "pairs": {
+          "series-name": {
+            "from": "series-name",
+            "to": "series-name"
+          },
+          "red-marker": {
+            "from": "red-marker",
+            "to": "red-marker"
+          }
+        }
+      },
+      "groups": {
+        "chapter-head": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "code-strip": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 2,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "result-link": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.3,
+          "trigger": "after-previous"
+        },
+        "set-formula": {
+          "effect": "entrance_fade",
+          "order": 4,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "display-note": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "05_ch4_chinese": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "04_ch3_math",
+        "pairs": {
+          "series-name": {
+            "from": "series-name",
+            "to": "series-name"
+          },
+          "red-marker": {
+            "from": "red-marker",
+            "to": "red-marker"
+          }
+        }
+      },
+      "groups": {
+        "chapter-head": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "five-kinds-quote": {
+          "effect": "entrance_fade",
+          "order": 2,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "five-kinds": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 3,
+          "duration": 0.6,
+          "trigger": "after-previous"
+        },
+        "code-strip": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 4,
+          "duration": 0.5,
+          "trigger": "after-previous"
+        },
+        "code-note": {
+          "effect": "entrance_fade",
+          "order": 5,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    },
+    "06_follow_cta": {
+      "transition": {
+        "effect": "morph",
+        "effect_options": {
+          "morph_by": "object"
+        },
+        "duration": 0.8
+      },
+      "morph": {
+        "from": "05_ch4_chinese",
+        "pairs": {
+          "series-name": {
+            "from": "series-name",
+            "to": "series-name"
+          },
+          "red-marker": {
+            "from": "red-marker",
+            "to": "red-marker"
+          }
+        }
+      },
+      "groups": {
+        "cta-head": {
+          "effect": "entrance_fade",
+          "order": 1,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        },
+        "route": {
+          "effect": "entrance_wipe",
+          "effect_options": {
+            "direction": "right"
+          },
+          "order": 2,
+          "duration": 0.7,
+          "trigger": "after-previous"
+        },
+        "reading-order": {
+          "effect": "entrance_fade",
+          "order": 3,
+          "duration": 0.4,
+          "trigger": "after-previous"
+        }
+      }
+    }
+  }
+}

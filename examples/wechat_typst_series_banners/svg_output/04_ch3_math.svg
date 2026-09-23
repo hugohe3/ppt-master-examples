@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" data-pptx-page-role="section" font-family="Microsoft YaHei, Arial, sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#F3EEE3" />
+  <g id="proof-marks" data-pptx-role="decoration" data-pptx-bounds="0 0 900 383" stroke="#CBC0AC" stroke-width="1">
+    <line x1="14" y1="24" x2="34" y2="24" />
+    <line x1="24" y1="14" x2="24" y2="34" />
+    <line x1="866" y1="24" x2="886" y2="24" />
+    <line x1="876" y1="14" x2="876" y2="34" />
+    <line x1="14" y1="359" x2="34" y2="359" />
+    <line x1="24" y1="349" x2="24" y2="369" />
+    <line x1="866" y1="359" x2="886" y2="359" />
+    <line x1="876" y1="349" x2="876" y2="369" />
+    <line x1="72" y1="86.5" x2="860" y2="86.5" stroke-opacity="0.6" />
+    <line x1="326.5" y1="104" x2="326.5" y2="330" stroke-opacity="0.6" />
+    <line x1="350" y1="264.5" x2="860" y2="264.5" stroke-opacity="0.6" />
+    <g font-family="Consolas, Microsoft YaHei, monospace" font-size="15" fill="#B3A794" stroke="none" text-anchor="end">
+      <text x="52" y="62">1</text>
+      <text x="52" y="180">2</text>
+      <text x="52" y="244">3</text>
+      <text x="52" y="288">4</text>
+      <text x="52" y="352">5</text>
+    </g>
+  </g>
+  <g id="series-name" data-pptx-bounds="72 34 240 40">
+    <text x="72" y="62" font-family="SimSun, Cambria, serif" font-size="30" fill="#1D1A17">Typst 入门</text>
+  </g>
+  <g id="chapter-rail" data-pptx-role="chrome" data-pptx-bounds="410 44 450 26" font-size="18" fill="#6B6358">
+    <text x="419" y="62">01 导引</text>
+    <text x="505" y="62">02 标记语法</text>
+    <text x="630" y="62"><tspan fill="#1D1A17" font-weight="bold">03 数学公式</tspan></text>
+    <text x="755" y="62">04 中文排版</text>
+  </g>
+  <g id="red-marker" data-pptx-bounds="627 72 111 10">
+    <rect x="630" y="74" width="105" height="4" fill="#CF3B2A" />
+  </g>
+  <g id="chapter-head" data-pptx-bounds="72 96 240 206" font-family="SimSun, Cambria, serif">
+    <text x="72" y="180" font-size="96" fill="#1D1A17">03</text>
+    <text x="72" y="244" font-size="50" fill="#1D1A17">数学公式</text>
+    <text x="72" y="288" font-size="30" fill="#6B6358">用一对 $ 进入</text>
+  </g>
+  <g id="code-strip" data-pptx-bounds="350 102 510 60">
+    <rect x="350" y="104" width="510" height="56" fill="#1D1A17" />
+    <g font-family="Consolas, Microsoft YaHei, monospace">
+      <text x="376" y="140" font-size="15" fill="#A87A2A" text-anchor="end">1</text>
+      <text x="390" y="140" font-size="22" fill="#F3EEE3"><tspan fill="#E0A94A">$</tspan> A = {x | x in NN and x &lt; 10} <tspan fill="#E0A94A">$</tspan></text>
+    </g>
+  </g>
+  <g id="result-link" data-pptx-bounds="590 163 200 24">
+    <g id="p04-arrow-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="596 165 18 20" fill="#CF3B2A" stroke="none">
+<path d="M 596 176 L 600.5 176 L 600.5 165 L 609.5 165 L 609.5 176 L 614 176 L 605 185 Z" />
+</g>
+    <text x="624" y="181" font-size="15" fill="#6B6358">排版结果</text>
+  </g>
+  <g id="set-formula" data-pptx-replace-with="formula" data-pptx-x="350" data-pptx-y="190" data-pptx-width="510" data-pptx-height="68" data-pptx-bounds="350 190 510 68">
+    <metadata type="application/json"><![CDATA[
+      {"latex":"A = \\{x \\mid x \\in \\mathbb{N} \\land x < 10\\}",
+       "display":"block","font_size":32,"color":"#1D1A17","align":"center"}
+    ]]></metadata>
+    <text x="605" y="236" text-anchor="middle" font-family="Cambria Math" font-size="32" fill="#1D1A17">A = {x | x ∈ ℕ ∧ x &lt; 10}</text>
+  </g>
+  <g id="display-note" data-pptx-bounds="350 276 510 38">
+    <rect x="350" y="282" width="3" height="28" fill="#CF3B2A" />
+    <text x="366" y="304" font-size="24" fill="#27231F"><tspan fill="#CF3B2A" font-weight="bold">$</tspan>内部两侧如果都有空白那么就是行间公式</text>
+  </g>
+  <g id="source-line" data-pptx-role="footer" data-pptx-bounds="72 338 420 20">
+    <text x="72" y="352" font-size="15" fill="#6B6358">整理自 typst-doc-cn/tutorial · writing-math.typ</text>
+  </g>
+</svg>

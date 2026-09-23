@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" data-pptx-page-role="section" font-family="Microsoft YaHei, Arial, sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#F3EEE3" />
+  <g id="proof-marks" data-pptx-role="decoration" data-pptx-bounds="0 0 900 383" stroke="#CBC0AC" stroke-width="1">
+    <line x1="14" y1="24" x2="34" y2="24" />
+    <line x1="24" y1="14" x2="24" y2="34" />
+    <line x1="866" y1="24" x2="886" y2="24" />
+    <line x1="876" y1="14" x2="876" y2="34" />
+    <line x1="14" y1="359" x2="34" y2="359" />
+    <line x1="24" y1="349" x2="24" y2="369" />
+    <line x1="866" y1="359" x2="886" y2="359" />
+    <line x1="876" y1="349" x2="876" y2="369" />
+    <line x1="72" y1="86.5" x2="860" y2="86.5" stroke-opacity="0.6" />
+    <line x1="326.5" y1="104" x2="326.5" y2="330" stroke-opacity="0.6" />
+    <g font-family="Consolas, Microsoft YaHei, monospace" font-size="15" fill="#B3A794" stroke="none" text-anchor="end">
+      <text x="52" y="62">1</text>
+      <text x="52" y="180">2</text>
+      <text x="52" y="244">3</text>
+      <text x="52" y="288">4</text>
+      <text x="52" y="352">5</text>
+    </g>
+  </g>
+  <g id="series-name" data-pptx-bounds="72 34 240 40">
+    <text x="72" y="62" font-family="SimSun, Cambria, serif" font-size="30" fill="#1D1A17">Typst 入门</text>
+  </g>
+  <g id="chapter-rail" data-pptx-role="chrome" data-pptx-bounds="410 44 450 26" font-size="18" fill="#6B6358">
+    <text x="419" y="62">01 导引</text>
+    <text x="505" y="62">02 标记语法</text>
+    <text x="630" y="62">03 数学公式</text>
+    <text x="755" y="62"><tspan fill="#1D1A17" font-weight="bold">04 中文排版</tspan></text>
+  </g>
+  <g id="red-marker" data-pptx-bounds="752 72 108 10">
+    <rect x="755" y="74" width="105" height="4" fill="#CF3B2A" />
+  </g>
+  <g id="chapter-head" data-pptx-bounds="72 96 240 206" font-family="SimSun, Cambria, serif">
+    <text x="72" y="180" font-size="96" fill="#1D1A17">04</text>
+    <text x="72" y="244" font-size="50" fill="#1D1A17">中文排版</text>
+    <text x="72" y="288" font-size="30" fill="#6B6358">先设语言与区域</text>
+  </g>
+  <g id="five-kinds-quote" data-pptx-bounds="350 100 510 42">
+    <rect x="350" y="108" width="3" height="28" fill="#CF3B2A" />
+    <text x="366" y="130" font-size="24" fill="#27231F">中文用户最常遇到的问题大致分为五类</text>
+  </g>
+  <g id="five-kinds" data-pptx-bounds="350 148 510 42" font-size="18" fill="#1D1A17">
+    <rect x="350" y="152" width="62" height="32" fill="#E6DECD" />
+    <text x="362" y="174">字体</text>
+    <rect x="422" y="152" width="62" height="32" fill="#E6DECD" />
+    <text x="434" y="174">空白</text>
+    <rect x="494" y="152" width="62" height="32" fill="#E6DECD" />
+    <text x="506" y="174">语义</text>
+    <rect x="566" y="152" width="101" height="32" fill="#E6DECD" />
+    <text x="578" y="174">特殊排版</text>
+    <rect x="677" y="152" width="101" height="32" fill="#E6DECD" />
+    <text x="689" y="174">参考文献</text>
+  </g>
+  <g id="code-strip" data-pptx-bounds="350 200 510 60">
+    <rect x="350" y="202" width="510" height="56" fill="#1D1A17" />
+    <g font-family="Consolas, Microsoft YaHei, monospace">
+      <text x="374" y="238" font-size="15" fill="#A87A2A" text-anchor="end">1</text>
+      <text x="386" y="238" font-size="22" fill="#F3EEE3"><tspan fill="#E0A94A">#set</tspan> text(lang: "zh", region: "cn")</text>
+    </g>
+  </g>
+  <g id="code-note" data-pptx-bounds="350 270 510 30">
+    <text x="350" y="290" font-size="18" fill="#6B6358">影响列表数字、日期、智能引号与标点挤压（整理）</text>
+  </g>
+  <g id="source-line" data-pptx-role="footer" data-pptx-bounds="72 338 420 20">
+    <text x="72" y="352" font-size="15" fill="#6B6358">整理自 typst-doc-cn/tutorial · writing-chinese.typ</text>
+  </g>
+</svg>

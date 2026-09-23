@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" lang="zh-CN"
+  font-family="Arial, Microsoft YaHei"
+  data-pptx-master="moments_square_master" data-pptx-master-name="Moments Square"
+  data-pptx-layout="ending" data-pptx-layout-name="Ending">
+  <rect id="master-background" x="0" y="0" width="1080" height="1080" fill="#0B1026"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="ending-accent" x="490" y="340" width="100" height="8" rx="4" fill="#F2C66D"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="ending-brand-band" x="0" y="900" width="1080" height="180" fill="#151C3A"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="ending-message-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="100 400 880 260">
+    <text id="ending-message-carrier" data-pptx-carrier="true"
+      x="540" y="492" text-anchor="middle" fill="#F3EFE2"
+      font-size="60" font-weight="bold">十五、十六、十七<tspan x="540" dy="92" fill="#F2C66D">三晚都值得抬头</tspan></text>
+  </g>
+  <g id="ending-cta-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="140 720 800 100">
+    <text id="ending-cta-carrier" data-pptx-carrier="true"
+      x="540" y="762" text-anchor="middle" fill="#F3EFE2"
+      font-size="30">下一次中秋“十七圆”要等到 <tspan fill="#F2C66D" font-weight="bold">2043 年</tspan><tspan x="540" dy="44" fill="#A9B3D1">1901—2100 年仅 28 次（广州市五羊天象馆）</tspan></text>
+  </g>
+  <g id="ending-brand-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="100 960 880 60">
+    <text id="ending-brand-carrier" data-pptx-carrier="true"
+      x="540" y="1000" text-anchor="middle" fill="#A9B3D1"
+      font-size="26">中秋月相小科普 · 8 / 8 · 中秋快乐</text>
+  </g>
+  <g id="star-field" data-pptx-role="decoration" data-pptx-bounds="0 0 1080 900" fill="#F3EFE2">
+    <circle cx="110" cy="130" r="2" fill-opacity="0.6"/>
+    <circle cx="300" cy="220" r="1.5" fill-opacity="0.5"/>
+    <circle cx="820" cy="90" r="2.5" fill-opacity="0.7"/>
+    <circle cx="960" cy="240" r="1.5" fill-opacity="0.5"/>
+    <circle cx="70" cy="700" r="1.5" fill-opacity="0.4"/>
+    <circle cx="1010" cy="660" r="2" fill-opacity="0.4"/>
+  </g>
+  <g id="closing-phases" data-pptx-bounds="370 170 340 120">
+    <image href="../images/phase_full.png" x="376" y="190" width="96" height="96" preserveAspectRatio="xMidYMid meet" opacity="0.7"/>
+    <image href="../images/phase_full.png" x="482" y="176" width="116" height="116" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/phase_full.png" x="608" y="190" width="96" height="96" preserveAspectRatio="xMidYMid meet" opacity="0.7"/>
+  </g>
+  <g id="osmanthus-sprig" data-pptx-bounds="80 770 132 146">
+    <image href="../images/osmanthus.png" x="80" y="770" width="132" height="146"
+      preserveAspectRatio="xMidYMid meet"/>
+  </g>
+</svg>

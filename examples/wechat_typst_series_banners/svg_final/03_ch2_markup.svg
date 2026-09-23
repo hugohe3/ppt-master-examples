@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" data-pptx-page-role="section" font-family="Microsoft YaHei, Arial, sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#F3EEE3" />
+  <g id="proof-marks" data-pptx-role="decoration" data-pptx-bounds="0 0 900 383" stroke="#CBC0AC" stroke-width="1">
+    <line x1="14" y1="24" x2="34" y2="24" />
+    <line x1="24" y1="14" x2="24" y2="34" />
+    <line x1="866" y1="24" x2="886" y2="24" />
+    <line x1="876" y1="14" x2="876" y2="34" />
+    <line x1="14" y1="359" x2="34" y2="359" />
+    <line x1="24" y1="349" x2="24" y2="369" />
+    <line x1="866" y1="359" x2="886" y2="359" />
+    <line x1="876" y1="349" x2="876" y2="369" />
+    <line x1="72" y1="86.5" x2="860" y2="86.5" stroke-opacity="0.6" />
+    <line x1="326.5" y1="104" x2="326.5" y2="330" stroke-opacity="0.6" />
+    <g font-family="Consolas, Microsoft YaHei, monospace" font-size="15" fill="#B3A794" stroke="none" text-anchor="end">
+      <text x="52" y="62">1</text>
+      <text x="52" y="180">2</text>
+      <text x="52" y="244">3</text>
+      <text x="52" y="288">4</text>
+      <text x="52" y="352">5</text>
+    </g>
+  </g>
+  <g id="series-name" data-pptx-bounds="72 34 240 40">
+    <text x="72" y="62" font-family="SimSun, Cambria, serif" font-size="30" fill="#1D1A17">Typst 入门</text>
+  </g>
+  <g id="chapter-rail" data-pptx-role="chrome" data-pptx-bounds="410 44 450 26" font-size="18" fill="#6B6358">
+    <text x="419" y="62">01 导引</text>
+    <text x="505" y="62"><tspan fill="#1D1A17" font-weight="bold">02 标记语法</tspan></text>
+    <text x="630" y="62">03 数学公式</text>
+    <text x="755" y="62">04 中文排版</text>
+  </g>
+  <g id="red-marker" data-pptx-bounds="502 72 111 10">
+    <rect x="505" y="74" width="105" height="4" fill="#CF3B2A" />
+  </g>
+  <g id="chapter-head" data-pptx-bounds="72 96 240 206" font-family="SimSun, Cambria, serif">
+    <text x="72" y="180" font-size="96" fill="#1D1A17">02</text>
+    <text x="72" y="244" font-size="50" fill="#1D1A17">标记语法</text>
+    <text x="72" y="288" font-size="30" fill="#6B6358">语义先行</text>
+  </g>
+  <g id="code-panel" data-pptx-bounds="350 102 240 166">
+    <rect x="350" y="104" width="236" height="160" fill="#1D1A17" />
+    <g font-family="Consolas, Microsoft YaHei, monospace" font-size="24">
+      <g font-size="15" fill="#A87A2A" text-anchor="end">
+        <text x="378" y="142">1</text>
+        <text x="378" y="174">2</text>
+        <text x="378" y="206">3</text>
+        <text x="378" y="238">4</text>
+      </g>
+      <text x="392" y="142" fill="#F3EEE3"><tspan fill="#E0A94A">=</tspan> 一级标题</text>
+      <text x="392" y="174" fill="#F3EEE3">我走了。</text>
+      <text x="392" y="206" fill="#F3EEE3"><tspan fill="#E0A94A">==</tspan> 二级标题</text>
+      <text x="392" y="238" fill="#F3EEE3">我来了。</text>
+    </g>
+  </g>
+  <g id="result-panel" data-pptx-bounds="591 102 269 166">
+    <g id="p03-arrow-shape" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="594 170 22 20" fill="#CF3B2A" stroke="none">
+<path d="M 594 175 L 606 175 L 606 170 L 616 180 L 606 190 L 606 185 L 594 185 Z" />
+</g>
+    <rect x="624" y="104.5" width="235" height="159" fill="none" stroke="#CBC0AC" stroke-width="1" />
+    <g font-family="SimSun, Cambria, serif" fill="#1D1A17">
+      <text x="644" y="146" font-size="30" font-weight="bold">一级标题</text>
+      <text x="644" y="176" font-size="18" fill="#27231F">我走了。</text>
+      <text x="644" y="216" font-size="24" font-weight="bold">二级标题</text>
+      <text x="644" y="244" font-size="18" fill="#27231F">我来了。</text>
+    </g>
+  </g>
+  <g id="rule-quote" data-pptx-bounds="350 274 510 40">
+    <rect x="350" y="280" width="3" height="28" fill="#CF3B2A" />
+    <text x="366" y="302" font-size="24" fill="#27231F">等于号的数量恰好对应了标题的级别。</text>
+  </g>
+  <g id="source-line" data-pptx-role="footer" data-pptx-bounds="72 338 420 20">
+    <text x="72" y="352" font-size="15" fill="#6B6358">整理自 typst-doc-cn/tutorial · writing-markup.typ</text>
+  </g>
+</svg>

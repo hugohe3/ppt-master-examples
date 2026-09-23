@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" lang="zh-CN"
+  font-family="Arial, Microsoft YaHei"
+  data-pptx-master="moments_square_master" data-pptx-master-name="Moments Square"
+  data-pptx-layout="image_full" data-pptx-layout-name="Full-Bleed Image">
+  <rect id="master-background" x="0" y="0" width="1080" height="1080" fill="#0B1026"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <rect id="image-full-caption-band" x="0" y="820" width="1080" height="260" fill="#151C3A"
+    data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="image-full-picture-slot" data-pptx-placeholder="picture" data-pptx-idx="1"
+    data-pptx-bounds="0 0 1080 820">
+    <image id="image-full-picture-carrier" data-pptx-carrier="true"
+      x="0" y="0" width="1080" height="820" preserveAspectRatio="xMidYMid slice"
+      href="../images/moonrise_city.jpg"/>
+  </g>
+  <g id="image-full-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="100 860 880 80">
+    <text id="image-full-title-carrier" data-pptx-carrier="true"
+      x="100" y="916" fill="#F3EFE2" font-size="44" font-weight="bold">中秋夜 <tspan fill="#F2C66D">17:24</tspan> 月亮升起（广州）</text>
+  </g>
+  <g id="image-full-caption-slot" data-pptx-placeholder="body" data-pptx-idx="2"
+    data-pptx-bounds="100 950 880 70">
+    <text id="image-full-caption-carrier" data-pptx-carrier="true"
+      x="100" y="994" fill="#A9B3D1" font-size="26">据广州市五羊天象馆：从东偏南方向升起 · 图为 AI 示意</text>
+  </g>
+  <g id="saturn-note" data-pptx-bounds="70 70 520 110">
+    <rect x="70" y="70" width="520" height="110" rx="14" fill="#0B1026" fill-opacity="0.55"/>
+    <text x="96" y="116" fill="#F3EFE2" font-size="30">小彩蛋：月亮<tspan fill="#F2C66D" font-weight="bold">左下方</tspan>远处有土星<tspan x="96" dy="40" fill="#A9B3D1" font-size="20">据紫金山天文台（中国新闻网 2026-09-22）</tspan></text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="880 1036 100 36">
+    <text x="980" y="1060" text-anchor="end" fill="#7C86AB" font-size="20">6 / 8</text>
+  </g>
+</svg>

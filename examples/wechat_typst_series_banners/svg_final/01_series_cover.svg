@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 383" data-pptx-page-role="cover" font-family="Microsoft YaHei, Arial, sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="900" height="383" fill="#F3EEE3"/>
+  <g id="proof-marks" data-pptx-role="decoration" data-pptx-bounds="0 0 900 383" stroke="#CBC0AC" stroke-width="1">
+    <line x1="14" y1="24" x2="34" y2="24"/>
+    <line x1="24" y1="14" x2="24" y2="34"/>
+    <line x1="866" y1="24" x2="886" y2="24"/>
+    <line x1="876" y1="14" x2="876" y2="34"/>
+    <line x1="14" y1="359" x2="34" y2="359"/>
+    <line x1="24" y1="349" x2="24" y2="369"/>
+    <line x1="866" y1="359" x2="886" y2="359"/>
+    <line x1="876" y1="349" x2="876" y2="369"/>
+    <line x1="72" y1="200.5" x2="860" y2="200.5" stroke-opacity="0.6"/>
+    <line x1="72" y1="298.5" x2="860" y2="298.5" stroke-opacity="0.6"/>
+    <g font-family="Consolas, Microsoft YaHei, monospace" font-size="15" fill="#B3A794" stroke="none" text-anchor="end">
+      <text x="52" y="100">1</text>
+      <text x="52" y="200">2</text>
+      <text x="52" y="262">3</text>
+      <text x="52" y="298">4</text>
+      <text x="52" y="352">5</text>
+    </g>
+  </g>
+  <g id="kicker" data-pptx-bounds="72 80 460 28">
+    <text x="72" y="100" font-size="18" fill="#6B6358">公众号连载 · 排版语言入门系列</text>
+  </g>
+  <g id="series-name" data-pptx-bounds="72 110 562 124">
+    <text x="72" y="200" font-family="SimSun, Cambria, serif" font-size="96" fill="#1D1A17">Typst 入门</text>
+  </g>
+  <g id="red-marker" data-pptx-bounds="638 114 20 100">
+    <rect x="642" y="120" width="12" height="90" fill="#CF3B2A"/>
+  </g>
+  <g id="subtitle" data-pptx-bounds="72 234 560 38">
+    <text x="72" y="262" font-family="SimSun, Cambria, serif" font-size="30" fill="#27231F">一门简明但强大的现代排版语言</text>
+  </g>
+  <g id="claim" data-pptx-bounds="72 273 720 35">
+    <text x="72" y="298" font-size="24" fill="#27231F">少配置样式，也能获得<tspan fill="#CF3B2A" font-weight="bold">排版精良</tspan>的文档</text>
+    <text x="560" y="298" font-size="18" fill="#6B6358">整理自《标记模式》</text>
+  </g>
+  <g id="chapter-rail" data-pptx-role="chrome" data-pptx-bounds="72 332 620 28">
+    <text x="72" y="352" font-size="18" fill="#6B6358">01 导引　·　02 标记语法　·　03 数学公式　·　04 中文排版</text>
+  </g>
+</svg>

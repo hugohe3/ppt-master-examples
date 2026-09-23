@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" lang="zh-CN"
+  font-family="Arial, Microsoft YaHei"
+  data-pptx-master="moments_square_master" data-pptx-master-name="Moments Square"
+  data-pptx-layout="title_content" data-pptx-layout-name="Title and Content">
+  <defs>
+    <marker id="trackArrow" orient="auto" markerWidth="10" markerHeight="10" refX="8" refY="5">
+      <polygon points="0,0 10,5 0,10" fill="#2A3560"/>
+    </marker>
+  </defs>
+  <rect id="master-background" x="0" y="0" width="1080" height="1080" fill="#0B1026"
+    data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="title-content-rule" x1="100" y1="340" x2="980" y2="340" stroke="#2A3560"
+    stroke-width="2" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-content-title-slot" data-pptx-placeholder="title"
+    data-pptx-bounds="100 110 880 210">
+    <text id="title-content-title-carrier" data-pptx-carrier="true"
+      x="100" y="250" fill="#F3EFE2" font-size="54" font-weight="bold">月相走一圈：平均 <tspan fill="#F2C66D">29.53 天</tspan></text>
+  </g>
+  <g id="title-content-body-slot" data-pptx-placeholder="body" data-pptx-idx="1"
+    data-pptx-bounds="100 380 880 500">
+    <text id="title-content-body-carrier" data-pptx-carrier="true"
+      x="100" y="430" fill="#F3EFE2" font-size="30">月亮从“朔”（几乎看不见）走到“望”（最圆），<tspan x="100" dy="48">再回到“朔”，一个朔望月平均 <tspan fill="#F2C66D" font-weight="bold">29.53 天</tspan>。</tspan><tspan x="100" dy="48">所以满月最常落在农历<tspan fill="#F2C66D" font-weight="bold">十五或十六</tspan>。</tspan></text>
+  </g>
+  <g id="title-content-footer-slot" data-pptx-placeholder="footer" data-pptx-idx="2"
+    data-pptx-bounds="100 940 880 56">
+    <text id="title-content-footer-carrier" data-pptx-carrier="true"
+      x="100" y="978" fill="#7C86AB" font-size="20">来源：中国科学院紫金山天文台（中国新闻网 2026-09-22）· 月相示意为整理</text>
+  </g>
+  <g id="phase-row-waxing" data-pptx-bounds="100 624 432 112">
+    <line x1="110" y1="680" x2="530" y2="680" stroke="#2A3560" stroke-width="2"/>
+    <image href="../images/phase_new.png" x="112" y="637" width="86" height="86" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/phase_wax_crescent.png" x="222" y="637" width="86" height="86" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/phase_first_quarter.png" x="332" y="637" width="86" height="86" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/phase_wax_gibbous.png" x="442" y="637" width="86" height="86" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="moon-hero" data-pptx-bounds="536 620 120 120">
+    <image href="../images/phase_full.png" x="536" y="620" width="120" height="120"
+      preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="phase-row-waning" data-pptx-bounds="660 624 320 112">
+    <line x1="662" y1="680" x2="976" y2="680" stroke="#2A3560" stroke-width="2" marker-end="url(#trackArrow)"/>
+    <image href="../images/phase_wan_gibbous.png" x="662" y="637" width="86" height="86" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/phase_last_quarter.png" x="772" y="637" width="86" height="86" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/phase_wan_crescent.png" x="882" y="637" width="86" height="86" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <g id="phase-labels" data-pptx-bounds="100 762 880 80" font-size="26" text-anchor="middle" fill="#A9B3D1">
+    <text x="155" y="796">朔</text>
+    <text x="375" y="796">上弦</text>
+    <text x="596" y="796" fill="#F2C66D" font-weight="bold">望</text>
+    <text x="815" y="796">下弦</text>
+    <text x="540" y="834" fill="#7C86AB" font-size="20">从左到右：一个朔望月里月相的变化（示意）</text>
+  </g>
+  <g id="page-number" data-pptx-role="page-number" data-pptx-bounds="880 1016 100 36">
+    <text x="980" y="1042" text-anchor="end" fill="#7C86AB" font-size="20">3 / 8</text>
+  </g>
+</svg>
