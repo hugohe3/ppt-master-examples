@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216"/>
+  <g id="page-header" data-pptx-bounds="40 30 1200 110">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">02 / 两次尝试</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">2017 蒙扎差 25 秒，2019 维也纳快 20 秒</text>
+    <rect x="60" y="128" width="80" height="3" fill="#7CFF4F"/>
+  </g>
+  <g id="b2-vs-vienna" data-pptx-bounds="50 150 1180 456" data-pptx-replace-with="table" data-pptx-fallback-sha256="e4f6bfdf942dc8f58b2ed01231c7e6f57cda7b4359c86426d96d3c74b2ae60d2">
+    <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "b2-vs-vienna", "x": 60, "y": 160, "width": 1160, "height": 436, "column_widths": [220, 470, 470], "row_heights": [52, 64, 64, 64, 64, 64, 64], "defaults": {"cell": {"valign": "middle", "font_size": 18, "color": "#C9D3DB", "padding": 14, "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#26313B", "width": 1}}}}, "columns": [{"text": "对比项", "fill": "#18212A", "bold": true, "color": "#9AA7B2", "align": "l"}, {"text": "2017 Breaking2 · 蒙扎", "fill": "#18212A", "bold": true, "color": "#C9D3DB", "align": "l"}, {"text": "2019 INEOS 1:59 · 维也纳", "fill": "#18212A", "bold": true, "color": "#7CFF4F", "align": "l"}], "rows": [[{"text": "成绩", "bold": true, "color": "#9AA7B2"}, "2:00:25（距 2 小时差 25 秒）", {"text": "1:59:40.2", "bold": true, "color": "#F2F4F5"}], [{"text": "赛道", "bold": true, "color": "#9AA7B2"}, "F1 赛车场，17.5 圈", {"text": "Prater 公园 9.6 km 环线，约 90% 直道", "color": "#F2F4F5"}], [{"text": "领跑员", "bold": true, "color": "#9AA7B2"}, "32 人轮换", {"text": "41 人、9 个小组，每 5 公里换班", "color": "#F2F4F5"}], [{"text": "阵型", "bold": true, "color": "#9AA7B2"}, "—", {"text": "经 CFD 模拟设计的“倒 V”阵型", "color": "#F2F4F5"}], [{"text": "起跑时间", "bold": true, "color": "#9AA7B2"}, "当地 5:45", {"text": "当地 8:15", "color": "#F2F4F5"}], [{"text": "选址教训", "bold": true, "color": "#9AA7B2"}, "意外的湿度影响了体温调节", {"text": "看重清晨低温、低湿度", "color": "#F2F4F5"}]]}</metadata>
+    <rect x="60" y="160" width="1160" height="52" fill="#18212A"/>
+    <g stroke="#26313B" stroke-width="1">
+      <line x1="60" y1="212" x2="1220" y2="212"/>
+      <line x1="60" y1="276" x2="1220" y2="276"/>
+      <line x1="60" y1="340" x2="1220" y2="340"/>
+      <line x1="60" y1="404" x2="1220" y2="404"/>
+      <line x1="60" y1="468" x2="1220" y2="468"/>
+      <line x1="60" y1="532" x2="1220" y2="532"/>
+      <line x1="60" y1="596" x2="1220" y2="596"/>
+    </g>
+    <g font-size="18" font-weight="bold">
+      <text x="74" y="192" fill="#9AA7B2">对比项</text>
+      <text x="294" y="192" fill="#C9D3DB">2017 Breaking2 · 蒙扎</text>
+      <text x="764" y="192" fill="#7CFF4F">2019 INEOS 1:59 · 维也纳</text>
+    </g>
+    <g font-size="18" font-weight="bold" fill="#9AA7B2">
+      <text x="74" y="250">成绩</text>
+      <text x="74" y="314">赛道</text>
+      <text x="74" y="378">领跑员</text>
+      <text x="74" y="442">阵型</text>
+      <text x="74" y="506">起跑时间</text>
+      <text x="74" y="570">选址教训</text>
+    </g>
+    <g font-size="18" fill="#C9D3DB">
+      <text x="294" y="250">2:00:25（距 2 小时差 25 秒）</text>
+      <text x="294" y="314">F1 赛车场，17.5 圈</text>
+      <text x="294" y="378">32 人轮换</text>
+      <text x="294" y="442">—</text>
+      <text x="294" y="506">当地 5:45</text>
+      <text x="294" y="570">意外的湿度影响了体温调节</text>
+    </g>
+    <g font-size="18" fill="#F2F4F5">
+      <text x="764" y="250" font-weight="bold">1:59:40.2</text>
+      <text x="764" y="314">Prater 公园 9.6 km 环线，约 90% 直道</text>
+      <text x="764" y="378">41 人、9 个小组，每 5 公里换班</text>
+      <text x="764" y="442">经 CFD 模拟设计的“倒 V”阵型</text>
+      <text x="764" y="506">当地 8:15</text>
+      <text x="764" y="570">看重清晨低温、低湿度</text>
+    </g>
+  </g>
+  <g id="b2-takeaway" data-pptx-bounds="40 612 1200 44">
+    <text x="60" y="642" font-size="22" fill="#F2F4F5">同一个人、同一套思路：换了赛道、领跑人数与阵型，<tspan fill="#7CFF4F" font-weight="bold">最后 45 秒</tspan>被补上。</text>
+  </g>
+  <g id="footer" data-pptx-bounds="40 666 1200 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：World Athletics 赛报（2017、2019）；Canadian Running（2017）；INEOS 1:59 官方网站（2019）。“—”表示所引资料未记录 2017 阵型细节</text>
+    <text x="1220" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">03</text>
+  </g>
+</svg>

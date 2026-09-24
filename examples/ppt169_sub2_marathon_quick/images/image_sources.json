@@ -1,0 +1,282 @@
+{
+  "items": [
+    {
+      "filename": "kipchoge_vienna.jpg",
+      "slide": "01_cover",
+      "purpose": "real race photo of Kipchoge running in Vienna 2019 with pacers, cover hero",
+      "search_query": "Eliud Kipchoge INEOS 1:59 Challenge Vienna",
+      "matched_query": "Eliud Kipchoge INEOS 1:59 Challenge Vienna",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "all",
+      "title": "INEOS 159 Eliud last 200m",
+      "author": "Triathlet 79",
+      "source_page_url": "https://commons.wikimedia.org/w/index.php?curid=83035018",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/INEOS_159_Eliud_last_200m.jpg",
+      "license_name": "by-sa",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 2992,
+      "height": 2000,
+      "attribution_text": "kipchoge_vienna.jpg — \"INEOS 159 Eliud last 200m\" by Triathlet 79 via Openverse — license: by-sa (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Kipchoge|INEOS"
+      ],
+      "query_variants": [
+        "Eliud Kipchoge Vienna 2019",
+        "Kipchoge Wien 2019",
+        "INEOS 1:59 Challenge"
+      ]
+    },
+    {
+      "filename": "prater_hauptallee.jpg",
+      "slide": "07_course",
+      "purpose": "the straight tree-lined Hauptallee avenue in Vienna Prater, the race course",
+      "search_query": "Prater Hauptallee Vienna",
+      "matched_query": "Hauptallee Wien",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "all",
+      "title": "Hauptallee Prater Wien 2022-08-09 21",
+      "author": "Leonhard Lenz",
+      "source_page_url": "https://commons.wikimedia.org/w/index.php?curid=136977959",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hauptallee_Prater_Wien_2022-08-09_21.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 8384,
+      "height": 5612,
+      "attribution_text": "prater_hauptallee.jpg — \"Hauptallee Prater Wien 2022-08-09 21\" by Leonhard Lenz via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.en/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Hauptallee|Prater"
+      ],
+      "query_variants": [
+        "Hauptallee Wien",
+        "Prater Hauptallee Wien Allee"
+      ]
+    },
+    {
+      "filename": "kiptum_chicago.jpg",
+      "slide": "10_record",
+      "purpose": "photo of Kelvin Kiptum, official marathon world record holder",
+      "search_query": "Kelvin Kiptum marathon",
+      "matched_query": "Kelvin Kiptum marathon",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Kelvin Kiptum 2023 Chicago Marathon (cropped).jpg",
+      "author": "Chad Veal",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Kelvin_Kiptum_2023_Chicago_Marathon_(cropped).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kelvin_Kiptum_2023_Chicago_Marathon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 2900,
+      "height": 3864,
+      "attribution_text": "kiptum_chicago.jpg — \"Kelvin Kiptum 2023 Chicago Marathon (cropped).jpg\" by Chad Veal via Wikimedia Commons — license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Kiptum"
+      ],
+      "query_variants": [
+        "Kelvin Kiptum Chicago 2023",
+        "Kelvin Kiptum"
+      ]
+    },
+    {
+      "filename": "kipchoge_vienna_fit.jpg",
+      "slide": "01_cover",
+      "purpose": "real race photo of Kipchoge running in Vienna 2019 with pacers, cover hero",
+      "search_query": "Eliud Kipchoge INEOS 1:59 Challenge Vienna",
+      "matched_query": "Eliud Kipchoge INEOS 1:59 Challenge Vienna",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "all",
+      "title": "INEOS 159 Eliud last 200m",
+      "author": "Triathlet 79",
+      "source_page_url": "https://commons.wikimedia.org/w/index.php?curid=83035018",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/INEOS_159_Eliud_last_200m.jpg",
+      "license_name": "by-sa",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 1920,
+      "height": 1283,
+      "attribution_text": "kipchoge_vienna_fit.jpg — \"INEOS 159 Eliud last 200m\" by Triathlet 79 via Openverse — license: by-sa (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Kipchoge|INEOS"
+      ],
+      "query_variants": [
+        "Eliud Kipchoge Vienna 2019",
+        "Kipchoge Wien 2019",
+        "INEOS 1:59 Challenge"
+      ],
+      "derived_from": "kipchoge_vienna.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1920,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "filename": "prater_hauptallee_fit.jpg",
+      "slide": "07_course",
+      "purpose": "the straight tree-lined Hauptallee avenue in Vienna Prater, the race course",
+      "search_query": "Prater Hauptallee Vienna",
+      "matched_query": "Hauptallee Wien",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "all",
+      "title": "Hauptallee Prater Wien 2022-08-09 21",
+      "author": "Leonhard Lenz",
+      "source_page_url": "https://commons.wikimedia.org/w/index.php?curid=136977959",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hauptallee_Prater_Wien_2022-08-09_21.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1920,
+      "height": 1285,
+      "attribution_text": "prater_hauptallee_fit.jpg — \"Hauptallee Prater Wien 2022-08-09 21\" by Leonhard Lenz via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.en/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Hauptallee|Prater"
+      ],
+      "query_variants": [
+        "Hauptallee Wien",
+        "Prater Hauptallee Wien Allee"
+      ],
+      "derived_from": "prater_hauptallee.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1920,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "filename": "kiptum_chicago_fit.jpg",
+      "slide": "10_record",
+      "purpose": "photo of Kelvin Kiptum, official marathon world record holder",
+      "search_query": "Kelvin Kiptum marathon",
+      "matched_query": "Kelvin Kiptum marathon",
+      "orientation": "landscape",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Kelvin Kiptum 2023 Chicago Marathon (cropped).jpg",
+      "author": "Chad Veal",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Kelvin_Kiptum_2023_Chicago_Marathon_(cropped).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kelvin_Kiptum_2023_Chicago_Marathon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "license_tier": "attribution-required",
+      "attribution_required": true,
+      "width": 901,
+      "height": 1200,
+      "attribution_text": "kiptum_chicago_fit.jpg — \"Kelvin Kiptum 2023 Chicago Marathon (cropped).jpg\" by Chad Veal via Wikimedia Commons — license: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Kiptum"
+      ],
+      "query_variants": [
+        "Kelvin Kiptum Chicago 2023",
+        "Kelvin Kiptum"
+      ],
+      "derived_from": "kiptum_chicago.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1200,
+          "height": 1200
+        }
+      ]
+    },
+    {
+      "filename": "sawe_london.jpg",
+      "slide": "10_record",
+      "purpose": "photo of Sabastian Sawe, current official marathon world record holder",
+      "search_query": "Sabastian Sawe marathon",
+      "matched_query": "Sabastian Sawe marathon",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "all",
+      "title": "Sabastian Sawe at Berlin-Marathon 2025-09-21 03",
+      "author": "Leonhard Lenz",
+      "source_page_url": "https://commons.wikimedia.org/w/index.php?curid=175578422",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sabastian_Sawe_at_Berlin-Marathon_2025-09-21_03.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 8144,
+      "height": 5424,
+      "attribution_text": "sawe_london.jpg — \"Sabastian Sawe at Berlin-Marathon 2025-09-21 03\" by Leonhard Lenz via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.en/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Sawe"
+      ],
+      "query_variants": [
+        "Sabastian Sawe",
+        "Sebastian Sawe London Marathon 2026",
+        "Sabastian Sawe Berlin"
+      ]
+    },
+    {
+      "filename": "sawe_berlin_fit.jpg",
+      "slide": "10_record",
+      "purpose": "photo of Sabastian Sawe, current official marathon world record holder",
+      "search_query": "Sabastian Sawe marathon",
+      "matched_query": "Sabastian Sawe marathon",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "all",
+      "title": "Sabastian Sawe at Berlin-Marathon 2025-09-21 03",
+      "author": "Leonhard Lenz",
+      "source_page_url": "https://commons.wikimedia.org/w/index.php?curid=175578422",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sabastian_Sawe_at_Berlin-Marathon_2025-09-21_03.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1920,
+      "height": 1279,
+      "attribution_text": "sawe_berlin_fit.jpg — \"Sabastian Sawe at Berlin-Marathon 2025-09-21 03\" by Leonhard Lenz via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.en/)",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Sawe"
+      ],
+      "query_variants": [
+        "Sabastian Sawe",
+        "Sebastian Sawe London Marathon 2026",
+        "Sabastian Sawe Berlin"
+      ],
+      "derived_from": "sawe_london.jpg",
+      "treatments": [
+        {
+          "operation": "fit",
+          "width": 1920,
+          "height": 1920
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-23T08:31:11.522796Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

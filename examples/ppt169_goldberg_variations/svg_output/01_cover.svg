@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="cover">
+  <defs>
+    <linearGradient id="coverWash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F4EFE4" stop-opacity="0.96"/>
+      <stop offset="0.62" stop-color="#F4EFE4" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#F4EFE4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <image id="cover-image" data-pptx-role="background" href="../images/cover_arch.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-wash" data-pptx-role="decoration" x="0" y="0" width="760" height="720" fill="url(#coverWash)"/>
+  <g id="cover-title" data-pptx-bounds="56 170 640 204" font-family="SimSun, Cambria, serif">
+    <text x="60" y="196" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="16" fill="#9E2A2B" letter-spacing="2">J. S. BACH · BWV 988 · 1741</text>
+    <text x="60" y="270" font-size="60" font-weight="bold" fill="#1F2A36">哥德堡变奏曲<tspan x="60" dy="78">一座对称的建筑</tspan></text>
+  </g>
+  <g id="cover-subtitle" data-pptx-bounds="56 392 680 48">
+    <text x="60" y="424" font-size="28" fill="#2B2621" font-family="SimSun, Cambria, serif">巴赫 · 1741 年出版 · 给零乐理听众的结构导赏</text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="56 488 600 176">
+    <text x="60" y="524" font-size="26" fill="#1F2A36"><tspan fill="#9E2A2B" font-weight="bold">32 段音乐</tspan>,同一条低音线</text>
+    <g stroke="#1F2A36" stroke-width="1" stroke-opacity="0.55">
+      <line x1="60" y1="576" x2="600" y2="576"/>
+      <line x1="60" y1="588" x2="600" y2="588"/>
+      <line x1="60" y1="600" x2="600" y2="600"/>
+      <line x1="60" y1="612" x2="600" y2="612"/>
+      <line x1="60" y1="624" x2="600" y2="624"/>
+    </g>
+    <g fill="#1F2A36">
+      <ellipse cx="112" cy="582" rx="7.5" ry="5.5" transform="rotate(-20 112 582)"/>
+      <ellipse cx="172" cy="588" rx="7.5" ry="5.5" transform="rotate(-20 172 588)"/>
+      <ellipse cx="232" cy="594" rx="7.5" ry="5.5" transform="rotate(-20 232 594)"/>
+      <ellipse cx="292" cy="600" rx="7.5" ry="5.5" transform="rotate(-20 292 600)"/>
+      <ellipse cx="352" cy="612" rx="7.5" ry="5.5" transform="rotate(-20 352 612)"/>
+      <ellipse cx="412" cy="606" rx="7.5" ry="5.5" transform="rotate(-20 412 606)"/>
+      <ellipse cx="472" cy="600" rx="7.5" ry="5.5" transform="rotate(-20 472 600)"/>
+      <ellipse cx="532" cy="624" rx="7.5" ry="5.5" transform="rotate(-20 532 624)"/>
+    </g>
+    <text x="60" y="654" font-size="14" fill="#6E655A">谱线上的八个音:咏叹调低音线的开头(示意)</text>
+  </g>
+</svg>

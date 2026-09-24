@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">两次录音</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">古尔德 1955 与 1981:同一间录音室,两种时间感</text>
+  </g>
+  <g id="studio-image" data-pptx-bounds="56 156 262 424">
+    <image href="../images/studio_chair.jpg" x="60" y="160" width="250" height="373" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="60" y="160" width="250" height="373" fill="none" stroke="#CBBFA8" stroke-width="1"/>
+    <text x="60" y="556" font-size="14" fill="#6E655A">插图:AI 生成的示意场景<tspan x="60" dy="20">非历史照片</tspan></text>
+  </g>
+  <g id="gould-compare" data-pptx-bounds="346 156 878 408" data-pptx-replace-with="table" data-pptx-fallback-sha256="1afa3d0c2095942aa6db2214f10f6f5b95ef1f20db0d855598ace09fec642f54">
+    <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "gould-compare", "x": 350, "y": 160, "width": 870, "height": 400, "column_widths": [170, 350, 350], "row_heights": [50, 50, 50, 50, 50, 50, 50, 50], "style": {"font_family": "Microsoft YaHei", "font_size": 18, "header_fill": "#1F2A36", "header_text": "#FFFFFF", "band_row": false, "body_text": "#2B2621"}, "defaults": {"cell": {"valign": "middle", "padding": 14, "align": "l", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#CBBFA8", "width": 1}}}}, "columns": [{"text": "对照项", "bold": true, "align": "l"}, {"text": "1955 年版", "bold": true, "align": "l"}, {"text": "1981 年版", "bold": true, "align": "l"}], "rows": [[{"text": "地点", "bold": true, "fill": "#E9E1D0"}, {"text": "两次都在纽约哥伦比亚 30 街录音室", "col_span": 2}, {"merge_continuation": true}], [{"text": "录制", "bold": true, "fill": "#E9E1D0"}, "1955 年 6 月 10–16 日间的 4 天", "1981 年 4–5 月,分多次录制"], [{"text": "古尔德年龄", "bold": true, "fill": "#E9E1D0"}, "22 岁", "48 岁(按 1932 年 9 月出生推算)"], [{"text": "发行", "bold": true, "fill": "#E9E1D0"}, "1956 年 1 月", "1982 年 9 月 2 日"], [{"text": "速度与气质", "bold": true, "fill": "#E9E1D0"}, "快速、冲劲十足,能听到哼唱", "缓慢,细腻地刻画细节"], [{"text": "反复", "bold": true, "fill": "#E9E1D0"}, "不奏反复(仅见于维基百科)", "奏部分前半段反复(15 或 13 个)"], [{"text": "荣誉", "bold": true, "fill": "#E9E1D0"}, "2003 年入选美国国家录音登记册", "1983 年获两项格莱美奖"]]}</metadata>
+    <rect x="350" y="160" width="870" height="50" fill="#1F2A36"/>
+    <rect x="350" y="210" width="170" height="350" fill="#E9E1D0"/>
+    <path d="M350 260H1220 M350 310H1220 M350 360H1220 M350 410H1220 M350 460H1220 M350 510H1220 M350 560H1220" fill="none" stroke="#CBBFA8" stroke-width="1"/>
+    <g font-size="18" font-weight="bold" fill="#FFFFFF"><text x="364" y="191">对照项</text><text x="534" y="191">1955 年版</text><text x="884" y="191">1981 年版</text></g>
+    <g font-size="18" font-weight="bold" fill="#2B2621"><text x="364" y="241">地点</text><text x="364" y="291">录制</text><text x="364" y="341">古尔德年龄</text><text x="364" y="391">发行</text><text x="364" y="441">速度与气质</text><text x="364" y="491">反复</text><text x="364" y="541">荣誉</text></g>
+    <g font-size="18" fill="#2B2621"><text x="534" y="241">两次都在纽约哥伦比亚 30 街录音室</text><text x="534" y="291">1955 年 6 月 10–16 日间的 4 天</text><text x="884" y="291">1981 年 4–5 月,分多次录制</text><text x="534" y="341">22 岁</text><text x="884" y="341">48 岁(按 1932 年 9 月出生推算)</text><text x="534" y="391">1956 年 1 月</text><text x="884" y="391">1982 年 9 月 2 日</text><text x="534" y="441">快速、冲劲十足,能听到哼唱</text><text x="884" y="441">缓慢,细腻地刻画细节</text><text x="534" y="491">不奏反复(仅见于维基百科)</text><text x="884" y="491">奏部分前半段反复(15 或 13 个)</text><text x="534" y="541">2003 年入选美国国家录音登记册</text><text x="884" y="541">1983 年获两项格莱美奖</text></g>
+  </g>
+  <g id="gould-quote" data-pptx-bounds="346 578 878 104">
+    <use data-icon="tabler-outline/quote" x="350" y="586" width="28" height="28" fill="#9E2A2B" stroke-width="1.5"/>
+    <text x="390" y="608" font-size="20" fill="#2B2621">乐评人 Tim Page 借布莱克的诗集,把 1955 年版称作<tspan fill="#9E2A2B" font-weight="bold">“天真之歌”</tspan>。</text>
+    <text x="390" y="642" font-size="18" fill="#2B2621">1981 年版于 1982 年 9 月发行;同年 10 月 4 日,古尔德在多伦多中风去世。</text>
+    <text x="390" y="672" font-size="14" fill="#6E655A">两版总时长:未找到唱片公司或权威来源给出的数字,本页不列。</text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">来源:Sony Music Japan;glenngould.com(Sony Classical);加拿大国家图书档案馆;美国国会图书馆(Tim Page);维基百科(Bazzana 1997)</text>
+    <text x="1220" y="706" text-anchor="end">10</text>
+  </g>
+</svg>

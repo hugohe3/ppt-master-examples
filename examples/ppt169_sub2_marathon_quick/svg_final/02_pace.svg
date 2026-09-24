@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <filter id="heroGlow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b"/>
+      <feFlood flood-color="#7CFF4F" flood-opacity="0.40" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216"/>
+  <g id="page-header" data-pptx-bounds="40 30 1200 110">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">01 / 配速</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">两小时，意味着每公里都要 2:50</text>
+    <rect x="60" y="128" width="80" height="3" fill="#7CFF4F"/>
+  </g>
+  <g id="pace-hero" data-pptx-bounds="40 160 560 190">
+    <text x="60" y="290" font-family="Arial Black, SimHei" font-size="120" fill="#7CFF4F" filter="url(#heroGlow)">2:50</text>
+    <text x="400" y="290" font-size="26" fill="#C9D3DB">/ 公里</text>
+    <text x="60" y="336" font-size="22" fill="#9AA7B2">42.195 公里，一步都不能慢</text>
+  </g>
+  <g id="pace-translations" data-pptx-bounds="40 370 560 250">
+    <g id="pace-mile">
+      <text x="60" y="408" font-family="Consolas, Microsoft YaHei" font-size="18" fill="#7CFF4F">4:34 / 英里</text>
+      <text x="60" y="436" font-size="18" fill="#C9D3DB">领跑车设定的配速（SI，2019）</text>
+    </g>
+    <g id="pace-100m">
+      <text x="60" y="484" font-family="Consolas, Microsoft YaHei" font-size="18" fill="#7CFF4F">≈ 17 秒 / 100 米</text>
+      <text x="60" y="512" font-size="18" fill="#C9D3DB">由 2:50/公里换算；相当于连续 422 个 100 米</text>
+    </g>
+    <g id="pace-band">
+      <text x="60" y="560" font-family="Consolas, Microsoft YaHei" font-size="18" fill="#7CFF4F">2:48 – 2:52</text>
+      <text x="60" y="588" font-size="18" fill="#C9D3DB">每一公里分段都落在这 4 秒窗口里（INEOS，2019）</text>
+    </g>
+  </g>
+  <g id="split-chart-title" data-pptx-bounds="640 160 600 70">
+    <text x="660" y="190" font-size="22" fill="#F2F4F5" font-weight="bold">前 20 公里：每 5 公里比匀速差几秒</text>
+    <text x="660" y="218" font-size="16" fill="#9AA7B2">0 线 = 14:10（2:50 × 5）；正值偏慢、负值偏快，单位：秒</text>
+  </g>
+  <g id="split-deviation" data-pptx-bounds="610 236 630 380" data-pptx-replace-with="chart" data-pptx-fallback-sha256="907b9b3ff35027633ccd14b87a24eb15f4025aa5fa3d6b57026fbf308b4b20c4">
+    <metadata type="application/json">{"name": "split-deviation", "type": "column", "x": 610, "y": 236, "width": 630, "height": 380, "plot_area": {"x": 660, "y": 250, "width": 540, "height": 310}, "categories": ["0–5 km", "5–10 km", "10–15 km", "15–20 km"], "series": [{"name": "与 14:10 的偏差（秒）", "values": [4, 4, -4, 3]}], "gap_width": 125, "axes": {"value": {"minimum": -6, "maximum": 6, "major_unit": 2, "number_format": "0", "major_gridlines": true}, "category": {"label_position": "low"}}, "data_labels": {"show_value": true, "position": "outside_end", "number_format": "0"}, "style": {"colors": ["#7CFF4F"], "text_color": "#9AA7B2", "axis_color": "#3A4652", "grid_color": "#26313B", "chart_area_fill": "none", "plot_area_fill": "none"}}</metadata>
+    <g id="split-deviation-chartArea">
+      <g id="split-grid" stroke="#26313B" stroke-width="1">
+        <line x1="660" y1="250" x2="1200" y2="250"/>
+        <line x1="660" y1="301.67" x2="1200" y2="301.67"/>
+        <line x1="660" y1="353.33" x2="1200" y2="353.33"/>
+        <line x1="660" y1="456.67" x2="1200" y2="456.67"/>
+        <line x1="660" y1="508.33" x2="1200" y2="508.33"/>
+        <line x1="660" y1="560" x2="1200" y2="560"/>
+      </g>
+      <g id="split-axis" stroke="#3A4652" stroke-width="2">
+        <line x1="660" y1="250" x2="660" y2="560"/>
+        <line x1="660" y1="405" x2="1200" y2="405"/>
+      </g>
+      <g font-family="Consolas, Microsoft YaHei" font-size="14" fill="#9AA7B2" text-anchor="end">
+        <text x="650" y="255">6</text>
+        <text x="650" y="306.67">4</text>
+        <text x="650" y="358.33">2</text>
+        <text x="650" y="410">0</text>
+        <text x="650" y="461.67">-2</text>
+        <text x="650" y="513.33">-4</text>
+        <text x="650" y="565">-6</text>
+      </g>
+      <!-- chart-plot-area: object=split-deviation | 660,250,1200,560 -->
+      <g fill="#7CFF4F">
+        <rect x="697.5" y="301.67" width="60" height="103.33"/>
+        <rect x="832.5" y="301.67" width="60" height="103.33"/>
+        <rect x="967.5" y="405" width="60" height="103.33"/>
+        <rect x="1102.5" y="327.5" width="60" height="77.5"/>
+      </g>
+      <g font-family="Consolas, Microsoft YaHei" font-size="18" fill="#F2F4F5" text-anchor="middle" font-weight="bold">
+        <text x="727.5" y="292">4</text>
+        <text x="862.5" y="292">4</text>
+        <text x="997.5" y="530">-4</text>
+        <text x="1132.5" y="318">3</text>
+      </g>
+      <g font-size="16" fill="#C9D3DB" text-anchor="middle">
+        <text x="727.5" y="588">0–5 km</text>
+        <text x="862.5" y="588">5–10 km</text>
+        <text x="997.5" y="588">10–15 km</text>
+        <text x="1132.5" y="588">15–20 km</text>
+      </g>
+    </g>
+  </g>
+  <g id="footer" data-pptx-bounds="40 666 1200 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：INEOS 1:59 赛后通稿（2019）；SI（2019）；分段 14:14/28:28/42:34/56:47 取自 World Athletics 赛报（2019），偏差为本页计算</text>
+    <text x="1220" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">02</text>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">结构 · 卡农</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">卡农的音程:从同度一级级升到九度</text>
+  </g>
+  <g id="canon-def" data-pptx-bounds="56 152 1168 40">
+    <text x="60" y="180" font-size="22" fill="#2B2621"><tspan fill="#9E2A2B" font-weight="bold">卡农</tspan>:一个声部追着另一个声部,唱同一段旋律。<tspan fill="#9E2A2B" font-weight="bold">“几度”</tspan>:后起的声部比先起的高出多少。</text>
+  </g>
+  <g id="canon-stairs" data-pptx-bounds="56 206 860 470">
+    <path d="M80 630 V590 H172 V550 H264 V510 H356 V470 H448 V430 H540 V390 H632 V350 H724 V310 H816 V270 H908 V630 Z" fill="#E9E1D0" stroke="#1F2A36" stroke-width="1.5" stroke-opacity="0.6"/>
+    <g fill="#9E2A2B">
+      <rect x="82" y="590" width="88" height="8"/>
+      <rect x="174" y="550" width="88" height="8"/>
+      <rect x="266" y="510" width="88" height="8"/>
+      <rect x="358" y="470" width="88" height="8"/>
+      <rect x="450" y="430" width="88" height="8"/>
+      <rect x="542" y="390" width="88" height="8"/>
+      <rect x="634" y="350" width="88" height="8"/>
+      <rect x="726" y="310" width="88" height="8"/>
+      <rect x="818" y="270" width="88" height="8"/>
+    </g>
+    <g font-size="22" font-weight="bold" fill="#9E2A2B" text-anchor="middle">
+      <text x="126" y="550">同度</text>
+      <text x="218" y="510">二度</text>
+      <text x="310" y="470">三度</text>
+      <text x="402" y="430">四度</text>
+      <text x="494" y="390">五度</text>
+      <text x="586" y="350">六度</text>
+      <text x="678" y="310">七度</text>
+      <text x="770" y="270">八度</text>
+      <text x="862" y="230">九度</text>
+    </g>
+    <g font-size="16" fill="#6E655A" text-anchor="middle">
+      <text x="126" y="576">第 3 首</text>
+      <text x="218" y="536">第 6 首</text>
+      <text x="310" y="496">第 9 首</text>
+      <text x="402" y="456">第 12 首</text>
+      <text x="494" y="416">第 15 首</text>
+      <text x="586" y="376">第 18 首</text>
+      <text x="678" y="336">第 21 首</text>
+      <text x="770" y="296">第 24 首</text>
+      <text x="862" y="256">第 27 首</text>
+    </g>
+    <g font-size="16" font-weight="bold" fill="#A88452" text-anchor="middle">
+      <text x="402" y="506">倒影</text>
+      <text x="494" y="466">倒影</text>
+    </g>
+    <text x="862" y="306" font-size="16" font-weight="bold" fill="#1F2A36" text-anchor="middle">无低音</text>
+    <text x="80" y="662" font-size="16" fill="#6E655A">每往后一组,追随声部的起点就高一级 →</text>
+  </g>
+  <g id="note-v27" data-pptx-bounds="936 206 288 170">
+    <use data-icon="tabler-outline/stairs-up" x="940" y="214" width="28" height="28" fill="#9E2A2B" stroke-width="1.5"/>
+    <text x="978" y="236" font-size="20" font-weight="bold" fill="#9E2A2B">第 27 首 · 九度</text>
+    <text x="940" y="280" font-size="20" fill="#2B2621">最后一首卡农,也是唯一<tspan x="940" dy="32">没有低音支撑的一首,只</tspan><tspan x="940" dy="32">剩两个声部彼此追逐。</tspan></text>
+  </g>
+  <g id="note-inversion" data-pptx-bounds="936 400 288 170">
+    <use data-icon="tabler-outline/repeat" x="940" y="408" width="28" height="28" fill="#A88452" stroke-width="1.5"/>
+    <text x="978" y="430" font-size="20" font-weight="bold" fill="#A88452">第 12、15 首 · 倒影</text>
+    <text x="940" y="474" font-size="20" fill="#2B2621">追随的声部把旋律上下<tspan x="940" dy="32">颠倒着唱:领唱往上走,</tspan><tspan x="940" dy="32">它就往下走。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">来源:Bloomfield 节目单 2016</text>
+    <text x="1220" y="706" text-anchor="end">05</text>
+  </g>
+</svg>

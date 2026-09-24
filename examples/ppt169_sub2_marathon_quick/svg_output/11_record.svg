@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <linearGradient id="photoFadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E1216" stop-opacity="1"/>
+      <stop offset="40%" stop-color="#0E1216" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="photoFadeB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0E1216" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0E1216" stop-opacity="0.85"/>
+    </linearGradient>
+    <filter id="heroGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="b"/>
+      <feFlood flood-color="#7CFF4F" flood-opacity="0.50" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216"/>
+  <g id="sawe-photo" data-pptx-bounds="880 0 400 720">
+    <image href="../images/sawe_berlin_fit.jpg" x="880" y="0" width="400" height="720" preserveAspectRatio="xMaxYMid slice"/>
+    <rect x="880" y="0" width="400" height="720" fill="url(#photoFadeL)"/>
+    <rect x="880" y="560" width="400" height="160" fill="url(#photoFadeB)"/>
+    <text x="1262" y="690" font-size="13" fill="#C9D3DB" text-anchor="end">Sawe，2025 柏林马拉松</text>
+    <text x="1262" y="708" font-size="12" fill="#9AA7B2" text-anchor="end">摄影 Leonhard Lenz / Wikimedia Commons / CC0</text>
+  </g>
+  <g id="page-header" data-pptx-bounds="40 30 830 110">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">10 / 官方纪录</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">现在的官方纪录：1:59:30</text>
+    <rect x="60" y="128" width="80" height="3" fill="#7CFF4F"/>
+  </g>
+  <g id="record-timeline" data-pptx-bounds="24 150 846 400">
+    <g id="record-timeline-chartArea">
+      <line id="timeline-axis" x1="60" y1="430" x2="840" y2="430" stroke="#3A4652" stroke-width="2"/>
+      <g font-family="Consolas, Microsoft YaHei" font-size="14" fill="#9AA7B2" text-anchor="middle">
+        <text x="60" y="542">1:59:00</text>
+        <text x="372" y="542">2:00:00</text>
+        <text x="684" y="542">2:01:00</text>
+      </g>
+      <g stroke="#3A4652" stroke-width="1">
+        <line x1="60" y1="424" x2="60" y2="436"/>
+        <line x1="684" y1="424" x2="684" y2="436"/>
+      </g>
+      <line x1="372" y1="340" x2="372" y2="440" stroke="#FF7A2F" stroke-width="2" stroke-dasharray="8,4"/>
+      <text x="380" y="354" font-size="14" fill="#FF7A2F">2 小时</text>
+      <!-- chart-plot-area: object=record-timeline | 60,170,840,430 -->
+      <g stroke="#9AA7B2" stroke-width="1" stroke-opacity="0.6">
+        <line x1="216" y1="420" x2="216" y2="250"/>
+        <line x1="554" y1="420" x2="554" y2="250"/>
+        <line x1="273.2" y1="420" x2="273.2" y2="330"/>
+        <line x1="730.8" y1="420" x2="730.8" y2="330"/>
+        <line x1="268" y1="440" x2="268" y2="468"/>
+        <line x1="502" y1="440" x2="502" y2="468"/>
+      </g>
+      <g fill="#C9D3DB">
+        <circle cx="273.2" cy="430" r="7"/>
+        <circle cx="502" cy="430" r="7"/>
+        <circle cx="554" cy="430" r="7"/>
+        <circle cx="730.8" cy="430" r="7"/>
+      </g>
+      <circle cx="268" cy="430" r="8" fill="#FF7A2F"/>
+      <circle cx="216" cy="430" r="10" fill="#7CFF4F" filter="url(#heroGlow)"/>
+      <g id="label-sawe" text-anchor="end">
+        <text x="210" y="206" font-family="Consolas, Microsoft YaHei" font-size="22" font-weight="bold" fill="#7CFF4F">1:59:30</text>
+        <text x="210" y="228" font-size="14" fill="#F2F4F5">Sawe · 2026 伦敦</text>
+        <text x="210" y="246" font-size="14" fill="#7CFF4F">现行世界纪录</text>
+      </g>
+      <g id="label-kiptum">
+        <text x="560" y="206" font-family="Consolas, Microsoft YaHei" font-size="22" font-weight="bold" fill="#C9D3DB">2:00:35</text>
+        <text x="560" y="228" font-size="14" fill="#C9D3DB">Kiptum · 2023 芝加哥</text>
+        <text x="560" y="246" font-size="14" fill="#9AA7B2">上一项世界纪录</text>
+      </g>
+      <g id="label-kejelcha">
+        <text x="279" y="286" font-family="Consolas, Microsoft YaHei" font-size="22" font-weight="bold" fill="#C9D3DB">1:59:41</text>
+        <text x="279" y="308" font-size="14" fill="#C9D3DB">Kejelcha · 2026 伦敦（同场）</text>
+        <text x="279" y="326" font-size="14" fill="#9AA7B2">也跑进了 2 小时</text>
+      </g>
+      <g id="label-kipchoge-2022" text-anchor="end">
+        <text x="724" y="286" font-family="Consolas, Microsoft YaHei" font-size="22" font-weight="bold" fill="#C9D3DB">2:01:09</text>
+        <text x="724" y="308" font-size="14" fill="#C9D3DB">基普乔格 · 2022 柏林</text>
+        <text x="724" y="326" font-size="14" fill="#9AA7B2">他的官方个人最好成绩</text>
+      </g>
+      <g id="label-vienna">
+        <text x="274" y="490" font-family="Consolas, Microsoft YaHei" font-size="22" font-weight="bold" fill="#FF7A2F">1:59:40</text>
+        <text x="274" y="512" font-size="14" fill="#F2F4F5">基普乔格 · 2019 维也纳（表演赛）</text>
+      </g>
+      <g id="label-b2">
+        <text x="508" y="490" font-family="Consolas, Microsoft YaHei" font-size="22" font-weight="bold" fill="#C9D3DB">2:00:25</text>
+        <text x="508" y="512" font-size="14" fill="#C9D3DB">基普乔格 · 2017 蒙扎（Breaking2）</text>
+      </g>
+    </g>
+  </g>
+  <g id="record-takeaway" data-pptx-bounds="40 560 830 96">
+    <rect x="60" y="570" width="4" height="76" fill="#7CFF4F"/>
+    <text x="84" y="600" font-size="20" fill="#F2F4F5">维也纳先证明了“人能跑进 2 小时”；6 年半后，
+      <tspan x="84" dy="30">Sawe 在<tspan fill="#7CFF4F" font-weight="bold">符合纪录条件的正式比赛</tspan>里做到了，还快了约 10 秒。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="40 666 830 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：World Athletics 赛报与纪录批准公告（2022–2026）；INEOS（2019）。WA 将维也纳成绩记作 1:59:41</text>
+    <text x="860" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">11</text>
+  </g>
+</svg>

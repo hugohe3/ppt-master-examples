@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <filter id="laserGlow" x="-400%" y="-5%" width="900%" height="110%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="b" />
+      <feFlood flood-color="#7CFF4F" flood-opacity="0.7" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <filter id="heroGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b" />
+      <feFlood flood-color="#7CFF4F" flood-opacity="0.45" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216" />
+  <g id="page-header" data-pptx-bounds="40 30 730 110">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">04 / 环节 01</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">轮换挡风，激光把配速画在路上</text>
+    <rect x="60" y="128" width="80" height="3" fill="#7CFF4F" />
+  </g>
+  <g id="factor-rail" data-pptx-bounds="780 36 460 70">
+    <rect x="820" y="61" width="370" height="2" fill="#7CFF4F" />
+    <circle cx="830" cy="62" r="9" fill="#7CFF4F" />
+    <g fill="#0E1216" stroke="#7CFF4F" stroke-width="2">
+      <circle cx="950" cy="62" r="6" />
+      <circle cx="1070" cy="62" r="6" />
+      <circle cx="1190" cy="62" r="6" />
+    </g>
+    <g font-size="13" text-anchor="middle" fill="#9AA7B2">
+      <text x="830" y="94" fill="#7CFF4F" font-weight="bold">阵型与激光</text>
+      <text x="950" y="94">跑鞋</text>
+      <text x="1070" y="94">补给</text>
+      <text x="1190" y="94">赛道天气</text>
+    </g>
+  </g>
+  <rect id="road-field" data-pptx-role="decoration" x="60" y="160" width="1160" height="310" fill="#18212A" />
+  <g id="direction-cue" data-pptx-bounds="1000 176 220 58">
+    <g id="p05-direction" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="1110 190 90 36" fill="#9AA7B2" stroke="none">
+<path d="M 1110 199 L 1182 199 L 1182 190 L 1200 208 L 1182 226 L 1182 217 L 1110 217 Z" />
+</g>
+    <text x="1096" y="214" font-size="16" fill="#9AA7B2" text-anchor="end">前进方向</text>
+  </g>
+  <g id="formation-back" data-pptx-bounds="455 240 70 210">
+    <g fill="#C9D3DB">
+      <circle cx="490" cy="268" r="16" />
+      <circle cx="490" cy="372" r="16" />
+    </g>
+    <text x="490" y="424" font-size="16" fill="#C9D3DB" text-anchor="middle">后 2 人</text>
+  </g>
+  <g id="kipchoge-dot" data-pptx-bounds="526 290 70 90">
+    <circle cx="560" cy="320" r="20" fill="#7CFF4F" filter="url(#heroGlow)" />
+    <text x="560" y="368" font-size="16" font-weight="bold" fill="#7CFF4F" text-anchor="middle">基普乔格</text>
+  </g>
+  <g id="formation-front" data-pptx-bounds="598 190 152 274">
+    <g fill="#C9D3DB">
+      <circle cx="720" cy="320" r="16" />
+      <circle cx="670" cy="262" r="16" />
+      <circle cx="670" cy="378" r="16" />
+      <circle cx="620" cy="212" r="16" />
+      <circle cx="620" cy="428" r="16" />
+    </g>
+    <text x="680" y="456" font-size="16" fill="#C9D3DB" text-anchor="middle">前 5 人 V 形</text>
+  </g>
+  <g id="laser-line" data-pptx-bounds="752 176 246 290">
+    <polygon points="998,392 998,420 763,455 763,185" fill="#7CFF4F" fill-opacity="0.07" />
+    <rect x="760" y="185" width="3" height="270" fill="#7CFF4F" filter="url(#laserGlow)" />
+    <text x="776" y="206" font-size="16" fill="#7CFF4F">激光线 = 2:50/公里的位置</text>
+  </g>
+  <g id="pace-car" data-pptx-bounds="999 376 180 90">
+    <g id="p05-pace-car" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="roundRect" data-pptx-frame="1000 382 110 48" data-pptx-av-adj="val 30000" fill="#FF7A2F" stroke="none">
+<path d="M 1000 396.4 A 14.4 14.4 0 0 1 1014.4 382 L 1095.6 382 A 14.4 14.4 0 0 1 1110 396.4 L 1110 415.6 A 14.4 14.4 0 0 1 1095.6 430 L 1014.4 430 A 14.4 14.4 0 0 1 1000 415.6 Z" />
+</g>
+    <text x="1055" y="456" font-size="16" fill="#FF7A2F" text-anchor="middle">电动领跑车</text>
+  </g>
+  <g id="formation-note" data-pptx-bounds="40 474 1200 30">
+    <text x="60" y="494" font-size="14" fill="#9AA7B2">站位为示意（整理）：World Athletics 赛报称前方 5 人呈“V 形”，INEOS 称“倒 V”阵型；图中距离不按比例</text>
+  </g>
+  <g id="fact-groups" data-pptx-bounds="40 510 290 140">
+    <text x="60" y="548" font-size="26" font-weight="bold" fill="#F2F4F5">41 人 · 9 组</text>
+    <text font-size="18" fill="#C9D3DB" x="60" y="580">每次上场 7 人：
+      </text><text font-size="18" fill="#C9D3DB" x="60" y="606">前 5 挡风，后 2 护侧</text></g>
+  <g id="fact-rotation" data-pptx-bounds="330 510 290 140">
+    <text x="350" y="548" font-size="26" font-weight="bold" fill="#F2F4F5">每 5 公里换班</text>
+    <text font-size="18" fill="#C9D3DB" x="350" y="580">换班动作事先在肯尼亚
+      </text><text font-size="18" fill="#C9D3DB" x="350" y="606">和维也纳反复演练</text></g>
+  <g id="fact-cfd" data-pptx-bounds="620 510 290 140">
+    <text x="640" y="548" font-size="26" font-weight="bold" fill="#F2F4F5">数百次 CFD</text>
+    <text font-size="18" fill="#C9D3DB" x="640" y="580">与 TotalSim 合作做
+      </text><text font-size="18" fill="#C9D3DB" x="640" y="606">流体力学模拟定阵型</text></g>
+  <g id="fact-car" data-pptx-bounds="910 510 310 140">
+    <text x="930" y="548" font-size="26" font-weight="bold" fill="#FF7A2F">4:34 / 英里</text>
+    <text font-size="18" fill="#C9D3DB" x="930" y="580">领跑车恒速行驶，向路面
+      </text><text font-size="18" fill="#C9D3DB" x="930" y="606">投射绿色激光</text></g>
+  <g id="footer" data-pptx-bounds="40 666 1200 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：World Athletics 赛报（2019）；INEOS 1:59 官方网站 Formation 页（2019）；Sports Illustrated（2019）</text>
+    <text x="1220" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">05</text>
+  </g>
+</svg>

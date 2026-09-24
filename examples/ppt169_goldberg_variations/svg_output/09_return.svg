@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="arrowRet" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#9E2A2B"/>
+    </marker>
+  </defs>
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">终点与回环</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">终点回到起点:民歌玩笑之后,咏叹调原样回来</text>
+  </g>
+  <g id="quodlibet-intro" data-pptx-bounds="56 164 600 108">
+    <use data-icon="tabler-outline/music" x="60" y="170" width="28" height="28" fill="#A88452" stroke-width="1.5"/>
+    <text x="98" y="192" font-size="22" font-weight="bold" fill="#A88452">第 30 变奏 · 集腔曲(Quodlibet)</text>
+    <text x="60" y="230" font-size="20" fill="#2B2621">拉丁语“随心所欲”:把流行歌曲拼接起来一起唱,<tspan x="60" dy="30">是巴赫家族聚会时的即兴习俗。</tspan></text>
+  </g>
+  <g id="quodlibet-lanes" data-pptx-bounds="56 284 590 184">
+    <rect x="60" y="292" width="580" height="48" fill="#E9E1D0"/>
+    <rect x="60" y="292" width="5" height="48" fill="#A88452"/>
+    <text x="80" y="323" font-size="18" fill="#1F2A36">“Ich bin so lang nicht bey dir g'west”<tspan font-size="16" fill="#6E655A"> 我好久没和你在一起</tspan></text>
+    <rect x="60" y="352" width="580" height="48" fill="#E9E1D0"/>
+    <rect x="60" y="352" width="5" height="48" fill="#A88452"/>
+    <text x="80" y="383" font-size="18" fill="#1F2A36">“Kraut und Rüben haben mich vertrieben”<tspan font-size="16" fill="#6E655A"> 白菜萝卜把我赶走了</tspan></text>
+    <rect x="60" y="412" width="580" height="48" fill="#1F2A36" fill-opacity="0.12"/>
+    <rect x="60" y="412" width="5" height="48" fill="#1F2A36"/>
+    <text x="80" y="443" font-size="18" fill="#1F2A36" font-weight="bold">低音主题<tspan font-size="16" font-weight="normal" fill="#6E655A"> 同一条地基,照常在下面走</tspan></text>
+  </g>
+  <g id="p09-brace" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightBrace" data-pptx-frame="648 292 16 168" fill="none" stroke="#A88452" stroke-width="1.5">
+<path d="M 648 292 A 8 1.33 0 0 1 656 293.33 L 656 374.67 A 8 1.33 0 0 0 664 376 A 8 1.33 0 0 0 656 377.33 L 656 458.67 A 8 1.33 0 0 1 648 460 Z" stroke="none"/>
+<path d="M 648 292 A 8 1.33 0 0 1 656 293.33 L 656 374.67 A 8 1.33 0 0 0 664 376 A 8 1.33 0 0 0 656 377.33 L 656 458.67 A 8 1.33 0 0 1 648 460"/>
+</g>
+  <g id="quodlibet-caution" data-pptx-bounds="56 488 600 80">
+    <text x="60" y="516" font-size="16" fill="#6E655A">三条线同时响起。注意:两首民歌的认定只来自巴赫学生 Kittel<tspan x="60" dy="26">约 1801 年的口述记录,宜当作“相传”来听。</tspan></text>
+  </g>
+  <g id="return-loop" data-pptx-bounds="700 164 524 504">
+    <use data-icon="tabler-outline/repeat" x="720" y="170" width="28" height="28" fill="#9E2A2B" stroke-width="1.5"/>
+    <text x="758" y="192" font-size="22" font-weight="bold" fill="#1F2A36">最后:咏叹调原样再现</text>
+    <text x="720" y="228" font-size="18" fill="#6E655A">32 段首尾相接,合成一个回环</text>
+    <g id="p09-arch" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="760 300 420 420" data-pptx-av-adj1="val 10800000" data-pptx-av-adj2="val 0" fill="none" stroke="#1F2A36" stroke-width="1.5" stroke-opacity="0.45">
+<path d="M 760 510 A 210 210 0 0 1 1180 510 L 970 510 Z" stroke="none"/>
+<path d="M 760 510 A 210 210 0 0 1 1180 510"/>
+</g>
+    <g id="loop-dots">
+      <circle cx="761.1" cy="488.8" r="3" fill="#1F2A36"/>
+      <circle cx="764.3" cy="467.7" r="3" fill="#1F2A36"/>
+      <circle cx="769.6" cy="447.1" r="4.5" fill="#9E2A2B"/>
+      <circle cx="777.0" cy="427.2" r="3" fill="#1F2A36"/>
+      <circle cx="786.4" cy="408.1" r="3" fill="#1F2A36"/>
+      <circle cx="797.6" cy="390.0" r="4.5" fill="#9E2A2B"/>
+      <circle cx="810.7" cy="373.2" r="3" fill="#1F2A36"/>
+      <circle cx="825.3" cy="357.8" r="3" fill="#1F2A36"/>
+      <circle cx="841.5" cy="343.9" r="4.5" fill="#9E2A2B"/>
+      <circle cx="858.9" cy="331.8" r="3" fill="#1F2A36"/>
+      <circle cx="877.5" cy="321.5" r="3" fill="#1F2A36"/>
+      <circle cx="897.1" cy="313.1" r="4.5" fill="#9E2A2B"/>
+      <circle cx="917.4" cy="306.7" r="3" fill="#1F2A36"/>
+      <circle cx="938.2" cy="302.4" r="3" fill="#1F2A36"/>
+      <circle cx="959.4" cy="300.3" r="4.5" fill="#9E2A2B"/>
+      <circle cx="980.6" cy="300.3" r="3" fill="#1F2A36"/>
+      <circle cx="1001.8" cy="302.4" r="3" fill="#1F2A36"/>
+      <circle cx="1022.6" cy="306.7" r="4.5" fill="#9E2A2B"/>
+      <circle cx="1042.9" cy="313.1" r="3" fill="#1F2A36"/>
+      <circle cx="1062.5" cy="321.5" r="3" fill="#1F2A36"/>
+      <circle cx="1081.1" cy="331.8" r="4.5" fill="#9E2A2B"/>
+      <circle cx="1098.5" cy="343.9" r="3" fill="#1F2A36"/>
+      <circle cx="1114.7" cy="357.8" r="3" fill="#1F2A36"/>
+      <circle cx="1129.3" cy="373.2" r="4.5" fill="#9E2A2B"/>
+      <circle cx="1142.4" cy="390.0" r="3" fill="#1F2A36"/>
+      <circle cx="1153.6" cy="408.1" r="3" fill="#1F2A36"/>
+      <circle cx="1163.0" cy="427.2" r="4.5" fill="#9E2A2B"/>
+      <circle cx="1170.4" cy="447.1" r="3" fill="#1F2A36"/>
+      <circle cx="1175.7" cy="467.7" r="3" fill="#1F2A36"/>
+      <circle cx="1178.9" cy="488.8" r="7" fill="#A88452"/>
+    </g>
+    <circle cx="760" cy="510" r="11" fill="#1F2A36"/>
+    <circle cx="1180" cy="510" r="11" fill="#1F2A36"/>
+    <circle cx="1180" cy="510" r="16" fill="none" stroke="#9E2A2B" stroke-width="2"/>
+    <text x="1166" y="486" font-size="14" fill="#A88452" font-weight="bold" text-anchor="end">第 30 首</text>
+    <text x="760" y="550" font-size="16" fill="#1F2A36" text-anchor="middle">开头</text>
+    <text x="1180" y="550" font-size="16" fill="#1F2A36" text-anchor="middle">再现</text>
+    <path d="M1172 566 C1140 640 800 640 768 566" fill="none" stroke="#9E2A2B" stroke-width="2" stroke-dasharray="8,4" marker-end="url(#arrowRet)"/>
+    <text x="970" y="654" font-size="18" fill="#9E2A2B" text-anchor="middle">回到起点:开头那首咏叹调,原样再奏一遍</text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">来源:Marissen 2021;Bloomfield 节目单 2016;LA Phil 节目单(Henken)</text>
+    <text x="1220" y="706" text-anchor="end">09</text>
+  </g>
+</svg>

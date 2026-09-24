@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <linearGradient id="photoFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E1216" stop-opacity="1"/>
+      <stop offset="35%" stop-color="#0E1216" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0E1216" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216"/>
+  <g id="course-photo" data-pptx-bounds="640 120 640 600">
+    <image href="../images/prater_hauptallee_fit.jpg" x="640" y="120" width="640" height="600" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="640" y="120" width="220" height="600" fill="url(#photoFade)"/>
+    <rect x="690" y="556" width="560" height="134" fill="#0E1216" fill-opacity="0.82"/>
+    <text x="970" y="588" font-family="Consolas, Microsoft YaHei" font-size="16" fill="#7CFF4F" text-anchor="middle">4.3 km 直道</text>
+    <rect x="740" y="602" width="460" height="40" rx="20" fill="none" stroke="#7CFF4F" stroke-width="3"/>
+    <g fill="#FF7A2F">
+      <circle cx="760" cy="622" r="11"/>
+      <circle cx="1180" cy="622" r="11"/>
+    </g>
+    <text x="970" y="676" font-size="16" fill="#F2F4F5" text-anchor="middle">两端环岛，一圈 9.6 km，约 90% 是直道 · 跑 4.4 圈</text>
+    <text x="1262" y="140" font-size="12" fill="#C9D3DB" text-anchor="end">Prater 公园 Hauptallee（2022 年摄，CC0）</text>
+  </g>
+  <g id="page-header" data-pptx-bounds="40 30 590 110">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">07 / 环节 03 + 04</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">补给、赛道与天气</text>
+    <rect x="60" y="128" width="80" height="3" fill="#7CFF4F"/>
+  </g>
+  <g id="factor-rail" data-pptx-bounds="780 36 460 70">
+    <rect x="820" y="61" width="370" height="2" fill="#7CFF4F"/>
+    <g fill="#7CFF4F">
+      <circle cx="1070" cy="62" r="9"/>
+      <circle cx="1190" cy="62" r="9"/>
+    </g>
+    <g fill="#0E1216" stroke="#7CFF4F" stroke-width="2">
+      <circle cx="830" cy="62" r="6"/>
+      <circle cx="950" cy="62" r="6"/>
+    </g>
+    <g font-size="13" text-anchor="middle" fill="#9AA7B2">
+      <text x="830" y="94">阵型与激光</text>
+      <text x="950" y="94">跑鞋</text>
+      <text x="1070" y="94" fill="#7CFF4F" font-weight="bold">补给</text>
+      <text x="1190" y="94" fill="#7CFF4F" font-weight="bold">赛道天气</text>
+    </g>
+  </g>
+  <g id="fuel-block" data-pptx-bounds="40 150 590 160">
+    <text x="60" y="184" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="2" fill="#7CFF4F">补给</text>
+    <text x="60" y="218" font-size="22" font-weight="bold" fill="#F2F4F5">饮料由骑车的补给员递到手上</text>
+    <text x="60" y="250" font-size="18" fill="#C9D3DB">不必离开跑线去补给站取水。
+      <tspan x="60" dy="26" fill="#9AA7B2">每小时摄入多少碳水、用什么补给：未找到可靠来源。</tspan></text>
+  </g>
+  <g id="course-block" data-pptx-bounds="40 320 590 160">
+    <text x="60" y="354" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="2" fill="#7CFF4F">赛道</text>
+    <text x="60" y="388" font-size="22" font-weight="bold" fill="#F2F4F5">林荫大道上的平直环线</text>
+    <text x="60" y="420" font-size="18" fill="#C9D3DB">从多瑙河上的 Reichsbrücke 起跑，进入 Prater 公园。
+      <tspan x="60" dy="26">海拔 165 米，与肯尼亚家乡时差只有 1 小时。</tspan></text>
+  </g>
+  <g id="weather-block" data-pptx-bounds="40 490 590 160">
+    <text x="60" y="524" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="2" fill="#7CFF4F">天气</text>
+    <text x="60" y="558" font-size="22" font-weight="bold" fill="#F2F4F5">约 9°C，风速 0.5–1.5 m/s</text>
+    <text x="60" y="590" font-size="18" fill="#C9D3DB">赛前设定的理想条件：7–14°C、湿度低于 80%。
+      <tspan x="60" dy="26" fill="#9AA7B2">当天实测湿度：未找到可靠来源。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="40 666 590 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：Cycling Magazine；World Athletics 赛报；INEOS 官网（均 2019）</text>
+    <text x="620" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">08</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">聆听建议 · 整理</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">带着地图去听:四个小任务</text>
+  </g>
+  <g id="staff-decor" data-pptx-role="decoration" data-pptx-bounds="56 222 1168 64" stroke="#1F2A36" stroke-width="1" stroke-opacity="0.45">
+    <line x1="60" y1="230" x2="1220" y2="230"/>
+    <line x1="60" y1="242" x2="1220" y2="242"/>
+    <line x1="60" y1="254" x2="1220" y2="254"/>
+    <line x1="60" y1="266" x2="1220" y2="266"/>
+    <line x1="60" y1="278" x2="1220" y2="278"/>
+  </g>
+  <g id="task-bass" data-pptx-bounds="56 222 276 440">
+    <circle cx="90" cy="254" r="24" fill="#1F2A36"/>
+    <text x="90" y="262" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <use data-icon="tabler-outline/ear" x="60" y="310" width="32" height="32" fill="#1F2A36" stroke-width="1.5"/>
+    <text x="102" y="334" font-size="22" font-weight="bold" fill="#1F2A36">听地基</text>
+    <text x="60" y="382" font-size="20" fill="#2B2621">听开头的咏叹调时,留意<tspan x="60" dy="32">左手的低音:前四个音</tspan><tspan x="60" dy="32">一步步往下走。</tspan></text>
+    <text x="60" y="640" font-size="16" fill="#6E655A">回看第 7 页</text>
+  </g>
+  <g id="task-canon" data-pptx-bounds="346 222 276 440">
+    <circle cx="380" cy="254" r="24" fill="#9E2A2B"/>
+    <text x="380" y="262" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <use data-icon="tabler-outline/headphones" x="350" y="310" width="32" height="32" fill="#9E2A2B" stroke-width="1.5"/>
+    <text x="392" y="334" font-size="22" font-weight="bold" fill="#9E2A2B">数卡农</text>
+    <text x="350" y="382" font-size="20" fill="#2B2621">每到第 3、6、9……27 首,<tspan x="350" dy="32">留意“有人在追”:同一段</tspan><tspan x="350" dy="32">旋律晚一步又出现,而且</tspan><tspan x="350" dy="32">一首比一首起得高。</tspan></text>
+    <text x="350" y="640" font-size="16" fill="#6E655A">回看第 5–6 页</text>
+  </g>
+  <g id="task-minor" data-pptx-bounds="636 222 276 440">
+    <circle cx="670" cy="254" r="24" fill="#4F6A80"/>
+    <text x="670" y="262" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <use data-icon="tabler-outline/moon" x="640" y="310" width="32" height="32" fill="#4F6A80" stroke-width="1.5"/>
+    <text x="682" y="334" font-size="22" font-weight="bold" fill="#4F6A80">找阴影</text>
+    <text x="640" y="382" font-size="20" fill="#2B2621">第 15、21、25 首转入<tspan x="640" dy="32">g 小调;第 25 首很慢</tspan><tspan x="640" dy="32">(Adagio),被人称作</tspan><tspan x="640" dy="32">“黑珍珠”。</tspan></text>
+    <text x="640" y="640" font-size="16" fill="#6E655A">回看第 8 页</text>
+  </g>
+  <g id="task-compare" data-pptx-bounds="926 222 298 440">
+    <circle cx="960" cy="254" r="24" fill="#A88452"/>
+    <text x="960" y="262" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+    <use data-icon="tabler-outline/vinyl" x="930" y="310" width="32" height="32" fill="#A88452" stroke-width="1.5"/>
+    <text x="972" y="334" font-size="22" font-weight="bold" fill="#A88452">比两版</text>
+    <text x="930" y="382" font-size="20" fill="#2B2621">同一段咏叹调,先放 1955<tspan x="930" dy="32">年版,再放 1981 年版,</tspan><tspan x="930" dy="32">听速度与气质的差别。</tspan></text>
+    <text x="930" y="640" font-size="16" fill="#6E655A">回看第 10 页</text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">本页为根据前文事实整理的聆听建议,不是原始资料的说法</text>
+    <text x="1220" y="706" text-anchor="end">11</text>
+  </g>
+</svg>

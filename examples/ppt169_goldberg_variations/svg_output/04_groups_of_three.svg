@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">结构 · 分组</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">每三首一组,每组第三首是卡农</text>
+  </g>
+  <g id="var-grid" data-pptx-bounds="56 158 1168 192">
+    <g font-size="16" fill="#6E655A" text-anchor="middle">
+      <text x="292.5" y="182">第 1 组</text>
+      <text x="389.5" y="182">第 2 组</text>
+      <text x="486.5" y="182">第 3 组</text>
+      <text x="583.5" y="182">第 4 组</text>
+      <text x="680.5" y="182">第 5 组</text>
+      <text x="777.5" y="182">第 6 组</text>
+      <text x="874.5" y="182">第 7 组</text>
+      <text x="971.5" y="182">第 8 组</text>
+      <text x="1068.5" y="182">第 9 组</text>
+      <text x="1165.5" y="182">第 10 组</text>
+    </g>
+    <g font-size="20" fill="#2B2621">
+      <text x="60" y="237">组内第 1 首</text>
+      <text x="60" y="317">组内第 2 首</text>
+    </g>
+    <g font-size="22" font-weight="bold" text-anchor="middle">
+      <rect x="250" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="292.5" y="238" fill="#1F2A36">1</text>
+      <rect x="347" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="389.5" y="238" fill="#1F2A36">4</text>
+      <rect x="444" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="486.5" y="238" fill="#1F2A36">7</text>
+      <rect x="541" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="583.5" y="238" fill="#1F2A36">10</text>
+      <rect x="638" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="680.5" y="238" fill="#1F2A36">13</text>
+      <rect x="735" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="777.5" y="238" fill="#1F2A36">16</text>
+      <rect x="832" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="874.5" y="238" fill="#1F2A36">19</text>
+      <rect x="929" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="971.5" y="238" fill="#1F2A36">22</text>
+      <rect x="1026" y="196" width="85" height="68" rx="4" fill="#4F6A80"/><text x="1068.5" y="238" fill="#FFFFFF">25</text>
+      <rect x="1123" y="196" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="1165.5" y="238" fill="#1F2A36">28</text>
+      <rect x="250" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="292.5" y="318" fill="#1F2A36">2</text>
+      <rect x="347" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="389.5" y="318" fill="#1F2A36">5</text>
+      <rect x="444" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="486.5" y="318" fill="#1F2A36">8</text>
+      <rect x="541" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="583.5" y="318" fill="#1F2A36">11</text>
+      <rect x="638" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="680.5" y="318" fill="#1F2A36">14</text>
+      <rect x="735" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="777.5" y="318" fill="#1F2A36">17</text>
+      <rect x="832" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="874.5" y="318" fill="#1F2A36">20</text>
+      <rect x="929" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="971.5" y="318" fill="#1F2A36">23</text>
+      <rect x="1026" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="1068.5" y="318" fill="#1F2A36">26</text>
+      <rect x="1123" y="276" width="85" height="68" rx="4" fill="#E9E1D0"/><text x="1165.5" y="318" fill="#1F2A36">29</text>
+    </g>
+  </g>
+  <g id="canon-row" data-pptx-bounds="56 362 1168 124">
+    <text x="60" y="408" font-size="20" fill="#2B2621">组内第 3 首<tspan x="60" dy="28" fill="#9E2A2B" font-weight="bold">= 卡农</tspan></text>
+    <g font-size="22" font-weight="bold" text-anchor="middle" fill="#FFFFFF">
+      <rect x="250" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><text x="292.5" y="420">3</text>
+      <rect x="347" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><text x="389.5" y="420">6</text>
+      <rect x="444" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><text x="486.5" y="420">9</text>
+      <rect x="541" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><text x="583.5" y="420">12</text>
+      <rect x="638" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><rect x="642" y="376" width="77" height="72" rx="3" fill="none" stroke="#4F6A80" stroke-width="3"/><text x="680.5" y="420">15</text>
+      <rect x="735" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><text x="777.5" y="420">18</text>
+      <rect x="832" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><rect x="836" y="376" width="77" height="72" rx="3" fill="none" stroke="#4F6A80" stroke-width="3"/><text x="874.5" y="420">21</text>
+      <rect x="929" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><text x="971.5" y="420">24</text>
+      <rect x="1026" y="372" width="85" height="80" rx="4" fill="#9E2A2B"/><text x="1068.5" y="420">27</text>
+      <rect x="1123" y="372" width="85" height="80" rx="4" fill="#A88452"/><text x="1165.5" y="420">30</text>
+    </g>
+    <text x="1165.5" y="476" font-size="16" fill="#A88452" font-weight="bold" text-anchor="middle">集腔曲</text>
+  </g>
+  <g id="note-types" data-pptx-bounds="56 510 560 150">
+    <line x1="60" y1="514" x2="600" y2="514" stroke="#CBBFA8" stroke-width="1"/>
+    <text x="60" y="550" font-size="20" fill="#1F2A36" font-weight="bold">另外两首,风格对比鲜明</text>
+    <text x="60" y="590" font-size="20" fill="#2B2621">常见的概括:一首炫技的触技曲式乐曲,<tspan x="60" dy="32">一首温和优雅的性格小品,再加一首</tspan><tspan x="60" dy="32">严格的卡农(并非每组都完全如此)。</tspan></text>
+  </g>
+  <g id="note-quodlibet" data-pptx-bounds="656 510 568 150">
+    <line x1="660" y1="514" x2="1220" y2="514" stroke="#CBBFA8" stroke-width="1"/>
+    <text x="660" y="550" font-size="20" fill="#A88452" font-weight="bold">第十组的例外</text>
+    <text x="660" y="590" font-size="20" fill="#2B2621">第 30 变奏没有写成第十首卡农,<tspan x="660" dy="32">而是一首把民歌叠进来的“集腔曲”——</tspan><tspan x="660" dy="32">第 9 页再细讲。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">来源:Bloomfield 节目单 2016;LA Phil 节目单(Henken)</text>
+    <text x="1220" y="706" text-anchor="end">04</text>
+  </g>
+</svg>

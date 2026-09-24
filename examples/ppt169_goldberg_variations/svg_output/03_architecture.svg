@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">结构全景</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">全景:首尾同一首咏叹调,中间 30 个变奏</text>
+  </g>
+  <g id="arch-map" data-pptx-bounds="56 150 1168 498">
+    <g id="p03-arch" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="arc" data-pptx-frame="140 225 1000 720" data-pptx-av-adj1="val 10800000" data-pptx-av-adj2="val 0" fill="none" stroke="#1F2A36" stroke-width="2" stroke-opacity="0.45">
+<path d="M 140 585 A 500 360 0 0 1 1140 585 L 640 585 Z" stroke="none"/>
+<path d="M 140 585 A 500 360 0 0 1 1140 585"/>
+</g>
+    <line x1="100" y1="612" x2="1180" y2="612" stroke="#1F2A36" stroke-width="3"/>
+    <line x1="640" y1="170" x2="640" y2="262" stroke="#9E2A2B" stroke-width="1.5" stroke-dasharray="4,4"/>
+    <text x="652" y="176" font-size="16" fill="#9E2A2B">对折处:第 16 变奏开启后半</text>
+    <g id="arch-nodes">
+      <circle cx="142.6" cy="548.6" r="7" fill="#1F2A36"/>
+      <circle cx="150.2" cy="512.5" r="7" fill="#1F2A36"/>
+      <circle cx="162.9" cy="477.2" r="11" fill="#9E2A2B"/>
+      <circle cx="180.5" cy="443" r="7" fill="#1F2A36"/>
+      <circle cx="202.8" cy="410.3" r="7" fill="#1F2A36"/>
+      <circle cx="229.6" cy="379.3" r="11" fill="#9E2A2B"/>
+      <circle cx="260.6" cy="350.5" r="7" fill="#1F2A36"/>
+      <circle cx="295.5" cy="324.1" r="7" fill="#1F2A36"/>
+      <circle cx="333.9" cy="300.3" r="11" fill="#9E2A2B"/>
+      <circle cx="375.5" cy="279.5" r="7" fill="#1F2A36"/>
+      <circle cx="419.8" cy="261.8" r="7" fill="#1F2A36"/>
+      <circle cx="466.3" cy="247.4" r="11" fill="#9E2A2B"/>
+      <circle cx="514.7" cy="236.5" r="7" fill="#1F2A36"/>
+      <circle cx="564.3" cy="229.2" r="7" fill="#1F2A36"/>
+      <circle cx="614.7" cy="225.5" r="15" fill="none" stroke="#4F6A80" stroke-width="3"/>
+      <circle cx="614.7" cy="225.5" r="11" fill="#9E2A2B"/>
+      <circle cx="665.3" cy="225.5" r="7" fill="#1F2A36"/>
+      <circle cx="715.7" cy="229.2" r="7" fill="#1F2A36"/>
+      <circle cx="765.3" cy="236.5" r="11" fill="#9E2A2B"/>
+      <circle cx="813.7" cy="247.4" r="7" fill="#1F2A36"/>
+      <circle cx="860.2" cy="261.8" r="7" fill="#1F2A36"/>
+      <circle cx="904.5" cy="279.5" r="15" fill="none" stroke="#4F6A80" stroke-width="3"/>
+      <circle cx="904.5" cy="279.5" r="11" fill="#9E2A2B"/>
+      <circle cx="946.1" cy="300.3" r="7" fill="#1F2A36"/>
+      <circle cx="984.5" cy="324.1" r="7" fill="#1F2A36"/>
+      <circle cx="1019.4" cy="350.5" r="11" fill="#9E2A2B"/>
+      <circle cx="1050.4" cy="379.3" r="10" fill="#4F6A80"/>
+      <circle cx="1077.2" cy="410.3" r="7" fill="#1F2A36"/>
+      <circle cx="1099.5" cy="443" r="11" fill="#9E2A2B"/>
+      <circle cx="1117.1" cy="477.2" r="7" fill="#1F2A36"/>
+      <circle cx="1129.8" cy="512.5" r="7" fill="#1F2A36"/>
+      <circle cx="1137.4" cy="548.6" r="11" fill="#A88452"/>
+      <circle cx="140" cy="585" r="16" fill="#1F2A36"/>
+      <circle cx="1140" cy="585" r="16" fill="#1F2A36"/>
+    </g>
+    <g font-size="14" text-anchor="middle">
+      <text x="108.7" y="550.5" fill="#6E655A">1</text>
+      <text x="116.9" y="511.5" fill="#6E655A">2</text>
+      <text x="130.5" y="473.2" fill="#9E2A2B" font-weight="bold">3</text>
+      <text x="149.3" y="436.2" fill="#6E655A">4</text>
+      <text x="173.1" y="400.7" fill="#6E655A">5</text>
+      <text x="201.7" y="367.2" fill="#9E2A2B" font-weight="bold">6</text>
+      <text x="234.8" y="336" fill="#6E655A">7</text>
+      <text x="272.1" y="307.3" fill="#6E655A">8</text>
+      <text x="313.1" y="281.6" fill="#9E2A2B" font-weight="bold">9</text>
+      <text x="357.5" y="259" fill="#6E655A">10</text>
+      <text x="404.8" y="239.9" fill="#6E655A">11</text>
+      <text x="454.5" y="224.3" fill="#9E2A2B" font-weight="bold">12</text>
+      <text x="506.2" y="212.4" fill="#6E655A">13</text>
+      <text x="559.1" y="204.5" fill="#6E655A">14</text>
+      <text x="611" y="200.5" fill="#9E2A2B" font-weight="bold">15</text>
+      <text x="669" y="200.5" fill="#6E655A">16</text>
+      <text x="720.9" y="204.5" fill="#6E655A">17</text>
+      <text x="773.8" y="212.4" fill="#9E2A2B" font-weight="bold">18</text>
+      <text x="825.5" y="224.3" fill="#6E655A">19</text>
+      <text x="875.2" y="239.9" fill="#6E655A">20</text>
+      <text x="922.5" y="259" fill="#9E2A2B" font-weight="bold">21</text>
+      <text x="966.9" y="281.6" fill="#6E655A">22</text>
+      <text x="1007.9" y="307.3" fill="#6E655A">23</text>
+      <text x="1045.2" y="336" fill="#9E2A2B" font-weight="bold">24</text>
+      <text x="1078.3" y="367.2" fill="#4F6A80" font-weight="bold">25</text>
+      <text x="1106.9" y="400.7" fill="#6E655A">26</text>
+      <text x="1130.7" y="436.2" fill="#9E2A2B" font-weight="bold">27</text>
+      <text x="1149.5" y="473.2" fill="#6E655A">28</text>
+      <text x="1163.1" y="511.5" fill="#6E655A">29</text>
+      <text x="1171.3" y="550.5" fill="#A88452" font-weight="bold">30</text>
+    </g>
+    <text x="140" y="640" font-size="16" fill="#1F2A36" font-weight="bold" text-anchor="middle">咏叹调</text>
+    <text x="1140" y="640" font-size="16" fill="#1F2A36" font-weight="bold" text-anchor="middle">咏叹调再现</text>
+    <text x="640" y="640" font-size="16" fill="#6E655A" text-anchor="middle">地基:所有段落共用的低音线</text>
+    <text x="640" y="440" font-size="88" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold" text-anchor="middle">1 + 30 + 1</text>
+    <text x="640" y="496" font-size="26" fill="#2B2621" text-anchor="middle">= <tspan fill="#9E2A2B" font-weight="bold">32 段</tspan>,呼应咏叹调的 32 小节</text>
+    <text x="640" y="540" font-size="20" fill="#6E655A" text-anchor="middle">开头的咏叹调在结尾原样再现</text>
+  </g>
+  <g id="arch-legend" data-pptx-bounds="56 652 1000 30" font-size="16" fill="#2B2621">
+    <circle cx="70" cy="666" r="8" fill="#9E2A2B"/>
+    <text x="86" y="672">卡农(每组第 3 首)</text>
+    <circle cx="276" cy="666" r="8" fill="#4F6A80"/>
+    <text x="292" y="672">小调(15、21、25)</text>
+    <circle cx="478" cy="666" r="8" fill="#A88452"/>
+    <text x="494" y="672">第 30 变奏 · 集腔曲</text>
+    <circle cx="680" cy="666" r="8" fill="#1F2A36"/>
+    <text x="696" y="672">咏叹调 / 其他变奏</text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">来源:Bloomfield 节目单 2016;LA Phil 节目单(Henken)</text>
+    <text x="1220" y="706" text-anchor="end">03</text>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216"/>
+  <g id="page-header" data-pptx-bounds="40 30 1200 110">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">08 / 汇总（整理）</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">各环节省了多少？能说的只有这么多</text>
+    <rect x="60" y="128" width="80" height="3" fill="#7CFF4F"/>
+  </g>
+  <g id="savings-table" data-pptx-bounds="50 146 1180 424" data-pptx-replace-with="table" data-pptx-fallback-sha256="be10537696df3f2e5cd03444ea32221a83065ad765229d6a2d28e25300533ff9">
+    <metadata type="application/json">{"schema": "ppt-master.semantic-table.v2", "name": "savings-table", "x": 60, "y": 154, "width": 1160, "height": 410, "column_widths": [190, 210, 520, 240], "row_heights": [50, 72, 72, 72, 72, 72], "defaults": {"cell": {"valign": "middle", "font_size": 16, "color": "#C9D3DB", "padding": 14, "align": "l", "borders": {"left": {"style": "none"}, "right": {"style": "none"}, "top": {"style": "none"}, "bottom": {"style": "solid", "color": "#26313B", "width": 1}}}}, "columns": [{"text": "环节", "fill": "#18212A", "bold": true, "color": "#9AA7B2"}, {"text": "能说到的数字", "fill": "#18212A", "bold": true, "color": "#9AA7B2"}, {"text": "口径", "fill": "#18212A", "bold": true, "color": "#9AA7B2"}, {"text": "结论", "fill": "#18212A", "bold": true, "color": "#9AA7B2"}], "rows": [[{"text": "跟跑挡风", "bold": true, "color": "#F2F4F5", "font_size": 18}, {"text": "3:28 – 5:29", "bold": true, "color": "#7CFF4F", "font_size": 18}, "多项研究的模型、风洞或 CFD 估算，阵型与方法各不相同", {"text": "有量级，无精确分解", "color": "#7CFF4F"}], [{"text": "激光与领跑车", "bold": true, "color": "#F2F4F5", "font_size": 18}, {"text": "—", "font_size": 18}, "未找到单独量化；作用是把每公里稳定在 2:48–2:52", {"text": "只能定性", "color": "#9AA7B2"}], [{"text": "跑鞋", "bold": true, "color": "#F2F4F5", "font_size": 18}, {"text": "能耗约 −4%", "bold": true, "color": "#7CFF4F", "font_size": 18}, "实验室测量；换算成速度约再乘 2/3（模型），非维也纳实测", {"text": "有量级，非实测归因", "color": "#7CFF4F"}], [{"text": "补给", "bold": true, "color": "#F2F4F5", "font_size": 18}, {"text": "—", "font_size": 18}, "自行车递送，省去绕行取水；未找到数值", {"text": "只能定性", "color": "#9AA7B2"}], [{"text": "赛道与天气", "bold": true, "color": "#F2F4F5", "font_size": 18}, {"text": "—", "font_size": 18}, "平直环线、海拔 165 米、约 9°C 微风；未找到数值", {"text": "只能定性", "color": "#9AA7B2"}]]}</metadata>
+    <rect x="60" y="154" width="1160" height="50" fill="#18212A"/>
+    <g stroke="#26313B" stroke-width="1">
+      <line x1="60" y1="204" x2="1220" y2="204"/>
+      <line x1="60" y1="276" x2="1220" y2="276"/>
+      <line x1="60" y1="348" x2="1220" y2="348"/>
+      <line x1="60" y1="420" x2="1220" y2="420"/>
+      <line x1="60" y1="492" x2="1220" y2="492"/>
+      <line x1="60" y1="564" x2="1220" y2="564"/>
+    </g>
+    <g font-size="16" font-weight="bold" fill="#9AA7B2">
+      <text x="74" y="185">环节</text>
+      <text x="264" y="185">能说到的数字</text>
+      <text x="474" y="185">口径</text>
+      <text x="994" y="185">结论</text>
+    </g>
+    <g font-size="18" font-weight="bold" fill="#F2F4F5">
+      <text x="74" y="246">跟跑挡风</text>
+      <text x="74" y="318">激光与领跑车</text>
+      <text x="74" y="390">跑鞋</text>
+      <text x="74" y="462">补给</text>
+      <text x="74" y="534">赛道与天气</text>
+    </g>
+    <g font-size="18" font-weight="bold" fill="#7CFF4F">
+      <text x="264" y="246">3:28 – 5:29</text>
+      <text x="264" y="390">能耗约 −4%</text>
+    </g>
+    <g font-size="18" fill="#C9D3DB">
+      <text x="264" y="318">—</text>
+      <text x="264" y="462">—</text>
+      <text x="264" y="534">—</text>
+    </g>
+    <g font-size="16" fill="#C9D3DB">
+      <text x="474" y="246">多项研究的模型、风洞或 CFD 估算，阵型与方法各不相同</text>
+      <text x="474" y="318">未找到单独量化；作用是把每公里稳定在 2:48–2:52</text>
+      <text x="474" y="390">实验室测量；换算成速度约再乘 2/3（模型），非维也纳实测</text>
+      <text x="474" y="462">自行车递送，省去绕行取水；未找到数值</text>
+      <text x="474" y="534">平直环线、海拔 165 米、约 9°C 微风；未找到数值</text>
+    </g>
+    <g font-size="16" fill="#7CFF4F">
+      <text x="994" y="246">有量级，无精确分解</text>
+      <text x="994" y="390">有量级，非实测归因</text>
+    </g>
+    <g font-size="16" fill="#9AA7B2">
+      <text x="994" y="318">只能定性</text>
+      <text x="994" y="462">只能定性</text>
+      <text x="994" y="534">只能定性</text>
+    </g>
+  </g>
+  <g id="savings-takeaway" data-pptx-bounds="40 578 1200 80">
+    <rect x="60" y="586" width="4" height="64" fill="#FF7A2F"/>
+    <text x="84" y="612" font-size="22" font-weight="bold" fill="#F2F4F5">没有一张可靠的“秒数分解表”。</text>
+    <text x="84" y="640" font-size="18" fill="#C9D3DB">把各项加起来说“总共省了 X 分钟”，没有依据——各项口径不同，研究对象也不是维也纳当天。</text>
+  </g>
+  <g id="footer" data-pptx-bounds="40 666 1200 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">整理自第 5–8 页所列来源：Beaumont 2024；Marro 2023；da Silva 2022；Hoogkamer 2018；Kipp 2019；INEOS、World Athletics 赛报（2019）</text>
+    <text x="1220" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">09</text>
+  </g>
+</svg>

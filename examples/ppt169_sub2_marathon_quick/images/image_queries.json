@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "filename": "kipchoge_vienna.jpg",
+      "query": "Eliud Kipchoge INEOS 1:59 Challenge Vienna",
+      "query_variants": [
+        "Eliud Kipchoge Vienna 2019",
+        "Kipchoge Wien 2019",
+        "INEOS 1:59 Challenge"
+      ],
+      "slide": "01_cover",
+      "purpose": "real race photo of Kipchoge running in Vienna 2019 with pacers, cover hero",
+      "orientation": "landscape",
+      "required_terms": [
+        "Kipchoge|INEOS"
+      ],
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "openverse",
+      "license_tier": "attribution-required"
+    },
+    {
+      "filename": "prater_hauptallee.jpg",
+      "query": "Prater Hauptallee Vienna",
+      "query_variants": [
+        "Hauptallee Wien",
+        "Prater Hauptallee Wien Allee"
+      ],
+      "slide": "07_course",
+      "purpose": "the straight tree-lined Hauptallee avenue in Vienna Prater, the race course",
+      "orientation": "landscape",
+      "required_terms": [
+        "Hauptallee|Prater"
+      ],
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "kiptum_chicago.jpg",
+      "query": "Kelvin Kiptum marathon",
+      "query_variants": [
+        "Kelvin Kiptum Chicago 2023",
+        "Kelvin Kiptum"
+      ],
+      "slide": "10_record",
+      "purpose": "photo of Kelvin Kiptum, official marathon world record holder",
+      "orientation": "landscape",
+      "required_terms": [
+        "Kiptum"
+      ],
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "wikimedia",
+      "license_tier": "attribution-required"
+    },
+    {
+      "filename": "sawe_london.jpg",
+      "query": "Sabastian Sawe marathon",
+      "query_variants": [
+        "Sabastian Sawe",
+        "Sebastian Sawe London Marathon 2026",
+        "Sabastian Sawe Berlin"
+      ],
+      "slide": "10_record",
+      "purpose": "photo of Sabastian Sawe, current official marathon world record holder",
+      "orientation": "landscape",
+      "required_terms": [
+        "Sawe"
+      ],
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    }
+  ]
+}

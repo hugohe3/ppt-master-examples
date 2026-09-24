@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">转折与阴影</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">第 16 首翻开后半,三首小调是三处阴影</text>
+  </g>
+  <g id="turn-label" data-pptx-bounds="380 170 520 124">
+    <text x="628" y="206" font-size="26" fill="#1F2A36" text-anchor="middle">第 16 首 · 法国序曲 = <tspan font-weight="bold">后半的大门</tspan></text>
+    <text x="628" y="244" font-size="20" fill="#6E655A" text-anchor="middle">紧接在第一首小调(第 15 首)之后</text>
+    <line x1="628" y1="258" x2="628" y2="290" stroke="#1F2A36" stroke-width="2"/>
+  </g>
+  <g id="var-strip" data-pptx-bounds="56 296 1168 106">
+    <text x="60" y="316" font-size="16" fill="#6E655A">30 个变奏,从左到右(红色短线 = 卡农)</text>
+    <line x1="628" y1="298" x2="628" y2="402" stroke="#1F2A36" stroke-width="2" stroke-dasharray="4,4"/>
+    <g font-size="16" font-weight="bold" text-anchor="middle">
+      <rect x="60" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="76.5" y="366" fill="#1F2A36">1</text>
+      <rect x="97" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="113.5" y="366" fill="#1F2A36">2</text>
+      <rect x="134" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="150.5" y="366" fill="#1F2A36">3</text>
+      <rect x="171" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="187.5" y="366" fill="#1F2A36">4</text>
+      <rect x="208" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="224.5" y="366" fill="#1F2A36">5</text>
+      <rect x="245" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="261.5" y="366" fill="#1F2A36">6</text>
+      <rect x="282" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="298.5" y="366" fill="#1F2A36">7</text>
+      <rect x="319" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="335.5" y="366" fill="#1F2A36">8</text>
+      <rect x="356" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="372.5" y="366" fill="#1F2A36">9</text>
+      <rect x="393" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="409.5" y="366" fill="#1F2A36">10</text>
+      <rect x="430" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="446.5" y="366" fill="#1F2A36">11</text>
+      <rect x="467" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="483.5" y="366" fill="#1F2A36">12</text>
+      <rect x="504" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="520.5" y="366" fill="#1F2A36">13</text>
+      <rect x="541" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="557.5" y="366" fill="#1F2A36">14</text>
+      <rect x="578" y="330" width="33" height="60" rx="3" fill="#4F6A80"/><text x="594.5" y="366" fill="#FFFFFF">15</text>
+      <rect x="645" y="330" width="33" height="60" rx="3" fill="#1F2A36"/><text x="661.5" y="366" fill="#FFFFFF">16</text>
+      <rect x="682" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="698.5" y="366" fill="#1F2A36">17</text>
+      <rect x="719" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="735.5" y="366" fill="#1F2A36">18</text>
+      <rect x="756" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="772.5" y="366" fill="#1F2A36">19</text>
+      <rect x="793" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="809.5" y="366" fill="#1F2A36">20</text>
+      <rect x="830" y="330" width="33" height="60" rx="3" fill="#4F6A80"/><text x="846.5" y="366" fill="#FFFFFF">21</text>
+      <rect x="867" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="883.5" y="366" fill="#1F2A36">22</text>
+      <rect x="904" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="920.5" y="366" fill="#1F2A36">23</text>
+      <rect x="941" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="957.5" y="366" fill="#1F2A36">24</text>
+      <rect x="978" y="330" width="33" height="60" rx="3" fill="#4F6A80"/><text x="994.5" y="366" fill="#FFFFFF">25</text>
+      <rect x="1015" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="1031.5" y="366" fill="#1F2A36">26</text>
+      <rect x="1052" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="1068.5" y="366" fill="#1F2A36">27</text>
+      <rect x="1089" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="1105.5" y="366" fill="#1F2A36">28</text>
+      <rect x="1126" y="330" width="33" height="60" rx="3" fill="#E9E1D0"/><text x="1142.5" y="366" fill="#1F2A36">29</text>
+      <rect x="1163" y="330" width="33" height="60" rx="3" fill="#A88452"/><text x="1179.5" y="366" fill="#FFFFFF">30</text>
+    </g>
+    <g fill="#9E2A2B">
+      <rect x="134" y="393" width="33" height="4"/>
+      <rect x="245" y="393" width="33" height="4"/>
+      <rect x="356" y="393" width="33" height="4"/>
+      <rect x="467" y="393" width="33" height="4"/>
+      <rect x="578" y="393" width="33" height="4"/>
+      <rect x="719" y="393" width="33" height="4"/>
+      <rect x="830" y="393" width="33" height="4"/>
+      <rect x="941" y="393" width="33" height="4"/>
+      <rect x="1052" y="393" width="33" height="4"/>
+    </g>
+  </g>
+  <g id="note-v15" data-pptx-bounds="400 408 280 200">
+    <line x1="594.5" y1="410" x2="594.5" y2="436" stroke="#4F6A80" stroke-width="1.5"/>
+    <text x="404" y="466" font-size="20" font-weight="bold" fill="#4F6A80">第 15 首 · 第一处阴影</text>
+    <text x="404" y="502" font-size="18" fill="#2B2621">全曲第一首小调;它同时是<tspan x="404" dy="28">五度卡农,而且是倒影卡农,</tspan><tspan x="404" dy="28">前半在这里收住。</tspan></text>
+  </g>
+  <g id="note-v21" data-pptx-bounds="700 408 232 200">
+    <line x1="846.5" y1="410" x2="846.5" y2="436" stroke="#4F6A80" stroke-width="1.5"/>
+    <text x="704" y="466" font-size="20" font-weight="bold" fill="#4F6A80">第 21 首 · 第二处</text>
+    <text x="704" y="502" font-size="18" fill="#2B2621">七度卡农,同样落在<tspan x="704" dy="28">g 小调里。</tspan></text>
+  </g>
+  <g id="note-v25" data-pptx-bounds="936 408 288 250">
+    <line x1="994.5" y1="410" x2="994.5" y2="436" stroke="#4F6A80" stroke-width="3"/>
+    <text x="940" y="468" font-size="22" font-weight="bold" fill="#4F6A80">第 25 首 · 最深的阴影</text>
+    <text x="940" y="506" font-size="18" fill="#2B2621">巴赫在自用本上标注 Adagio<tspan x="940" dy="28">(很慢)。羽管键琴家</tspan><tspan x="940" dy="28">兰多夫斯卡称它为<tspan fill="#4F6A80" font-weight="bold">“黑珍珠”</tspan>。</tspan></text>
+    <text x="940" y="614" font-size="16" fill="#6E655A">全曲只有 15、21、25 三首 g 小调</text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">来源:Bloomfield 节目单 2016</text>
+    <text x="1220" y="706" text-anchor="end">08</text>
+  </g>
+</svg>

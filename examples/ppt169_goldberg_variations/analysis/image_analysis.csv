@@ -1,0 +1,5 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,bach_portrait.jpg,1461,1920,0.76,0.76,,native,JPEG,False,1,,bitmap,True,True,604.6,Portrait
+2,cover_arch.jpg,1920,1072,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,431.0,Wide landscape
+3,studio_chair.jpg,848,1264,0.67,0.67,,native,JPEG,False,1,,bitmap,True,True,220.9,Portrait
+4,title_page_1741.jpg,1276,1920,0.66,0.66,,native,JPEG,False,1,,bitmap,True,True,486.1,Portrait

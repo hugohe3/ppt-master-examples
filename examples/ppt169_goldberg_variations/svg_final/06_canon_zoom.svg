@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <defs>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#9E2A2B" />
+    </marker>
+  </defs>
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4" />
+  <g id="header" data-pptx-bounds="56 54 930 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">结构 · 放大一级</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">放大一级:“三度卡农”是怎么追的</text>
+  </g>
+  <g id="canon-stairs" data-pptx-bounds="1000 24 224 136">
+    <g transform="translate(0 -20)">
+    <path d="M1004 154.2 V143.8 H1027.9 V133.4 H1051.8 V123 H1075.8 V112.6 H1099.7 V102.2 H1123.6 V91.8 H1147.5 V81.4 H1171.4 V71 H1195.4 V60.6 H1219.3 V154.2 Z" fill="#E9E1D0" stroke="#1F2A36" stroke-width="1" stroke-opacity="0.6" />
+    <g fill="#CBBFA8">
+      <rect x="1004.5" y="143.8" width="22.9" height="3" />
+      <rect x="1028.4" y="133.4" width="22.9" height="3" />
+      <rect x="1076.3" y="112.6" width="22.9" height="3" />
+      <rect x="1100.2" y="102.2" width="22.9" height="3" />
+      <rect x="1124.1" y="91.8" width="22.9" height="3" />
+      <rect x="1148" y="81.4" width="22.9" height="3" />
+      <rect x="1171.9" y="71" width="22.9" height="3" />
+      <rect x="1195.9" y="60.6" width="22.9" height="3" />
+    </g>
+    <rect x="1052.3" y="120" width="22.9" height="6" fill="#9E2A2B" />
+    </g>
+    <text x="1004" y="154" font-size="14" fill="#9E2A2B">当前:第 9 首 · 三度</text>
+  </g>
+  <g id="voice-follow" data-pptx-bounds="56 161 1168 181">
+    <text font-size="20" fill="#9E2A2B" font-weight="bold" x="60" y="264">追随的声部</text><text font-size="16" fill="#6E655A" font-weight="normal" x="60" y="292">晚一步 · 高三度</text><g stroke="#1F2A36" stroke-width="1" stroke-opacity="0.5">
+      <line x1="190" y1="214" x2="1180" y2="214" />
+      <line x1="190" y1="242" x2="1180" y2="242" />
+      <line x1="190" y1="270" x2="1180" y2="270" />
+      <line x1="190" y1="298" x2="1180" y2="298" />
+      <line x1="190" y1="326" x2="1180" y2="326" />
+    </g>
+    <line x1="200" y1="190" x2="200" y2="330" stroke="#9E2A2B" stroke-width="1" stroke-dasharray="4,4" />
+    <line x1="200" y1="186" x2="365" y2="186" stroke="#9E2A2B" stroke-width="1.5" />
+    <text x="282" y="178" font-size="16" fill="#9E2A2B" text-anchor="middle">晚一步进来</text>
+    <polyline points="365,270 475,256 585,242 695,270 805,228 915,242 1025,256" fill="none" stroke="#9E2A2B" stroke-width="1.5" stroke-opacity="0.4" stroke-dasharray="4,4" />
+    <ellipse cx="365" cy="298" rx="13" ry="9.5" fill="none" stroke="#9E2A2B" stroke-width="1.5" stroke-dasharray="2,2" transform="rotate(-20 365 298)" />
+    <line x1="392" y1="300" x2="392" y2="274" stroke="#9E2A2B" stroke-width="1.5" marker-end="url(#arrowRed)" />
+    <text x="402" y="296" font-size="16" fill="#9E2A2B">高三度</text>
+    <g fill="#9E2A2B">
+      <ellipse cx="365" cy="270" rx="13" ry="9.5" transform="rotate(-20 365 270)" />
+      <ellipse cx="475" cy="256" rx="13" ry="9.5" transform="rotate(-20 475 256)" />
+      <ellipse cx="585" cy="242" rx="13" ry="9.5" transform="rotate(-20 585 242)" />
+      <ellipse cx="695" cy="270" rx="13" ry="9.5" transform="rotate(-20 695 270)" />
+      <ellipse cx="805" cy="228" rx="13" ry="9.5" transform="rotate(-20 805 228)" />
+      <ellipse cx="915" cy="242" rx="13" ry="9.5" transform="rotate(-20 915 242)" />
+      <ellipse cx="1025" cy="256" rx="13" ry="9.5" transform="rotate(-20 1025 256)" />
+    </g>
+  </g>
+  <g id="voice-lead" data-pptx-bounds="56 390 1168 144">
+    <text font-size="20" fill="#1F2A36" font-weight="bold" x="60" y="458">先唱的声部</text><text font-size="16" fill="#6E655A" font-weight="normal" x="60" y="486">领唱</text><g stroke="#1F2A36" stroke-width="1" stroke-opacity="0.5">
+      <line x1="190" y1="408" x2="1180" y2="408" />
+      <line x1="190" y1="436" x2="1180" y2="436" />
+      <line x1="190" y1="464" x2="1180" y2="464" />
+      <line x1="190" y1="492" x2="1180" y2="492" />
+      <line x1="190" y1="520" x2="1180" y2="520" />
+    </g>
+    <polyline points="200,492 310,478 420,464 530,492 640,450 750,464 860,478" fill="none" stroke="#1F2A36" stroke-width="1.5" stroke-opacity="0.35" stroke-dasharray="4,4" />
+    <g fill="#1F2A36">
+      <ellipse cx="200" cy="492" rx="13" ry="9.5" transform="rotate(-20 200 492)" />
+      <ellipse cx="310" cy="478" rx="13" ry="9.5" transform="rotate(-20 310 478)" />
+      <ellipse cx="420" cy="464" rx="13" ry="9.5" transform="rotate(-20 420 464)" />
+      <ellipse cx="530" cy="492" rx="13" ry="9.5" transform="rotate(-20 530 492)" />
+      <ellipse cx="640" cy="450" rx="13" ry="9.5" transform="rotate(-20 640 450)" />
+      <ellipse cx="750" cy="464" rx="13" ry="9.5" transform="rotate(-20 750 464)" />
+      <ellipse cx="860" cy="478" rx="13" ry="9.5" transform="rotate(-20 860 478)" />
+    </g>
+  </g>
+  <g id="zoom-explain" data-pptx-bounds="56 552 1168 126">
+    <text x="60" y="584" font-size="22" fill="#2B2621">就像轮唱《两只老虎》:后一组晚一步,唱<tspan fill="#9E2A2B" font-weight="bold">同一段旋律</tspan>。巴赫的变化是让后起的声部<tspan fill="#9E2A2B" font-weight="bold">换一个高度</tspan>:</text>
+    <text x="60" y="620" font-size="22" fill="#2B2621">这里高出三度;同度 = 一样高,九度 = 高出九度。两条虚线的<tspan font-weight="bold">起伏形状完全一样</tspan>。</text>
+    <text x="60" y="660" font-size="14" fill="#6E655A">示意图(本页整理的简化谱例,不是巴赫原谱)</text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">概念来源:Bloomfield 节目单 2016(卡农音程逐首升高)</text>
+    <text x="1220" y="706" text-anchor="end">06</text>
+  </g>
+</svg>

@@ -1,0 +1,398 @@
+{
+  "schema": "ppt-master.fact-provenance.v1",
+  "topic": "2019 年基普乔格维也纳 INEOS 1:59 Challenge 破 2 背后的科学",
+  "facts": [
+    {
+      "fact_id": "F001",
+      "claim": "2019年10月12日,基普乔格在维也纳 INEOS 1:59 Challenge 中以 1:59:40.2 跑完马拉松距离,成为首位在 2 小时内跑完马拉松距离的人。",
+      "source_title": "History is made as Eliud Kipchoge becomes first human to break the two-hour marathon barrier | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/history-is-made-as-eliud-kipchoge-becomes-first-human-to-break-the-two-hour-marathon-barrier/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F002",
+      "claim": "World Athletics 赛报记载:起跑时间 08:15,起点在跨越多瑙河的 Reichsbrücke 大桥。",
+      "source_title": "Kipchoge breaks two-hour barrier in Vienna | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/eliud-kipchoge-breaks-two-hours-vienna",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F003",
+      "claim": "INEOS 官方赛后通稿:比赛天气约 9°C,风速 0.5–1.5 m/s。",
+      "source_title": "History is made as Eliud Kipchoge becomes first human to break the two-hour marathon barrier | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/history-is-made-as-eliud-kipchoge-becomes-first-human-to-break-the-two-hour-marathon-barrier/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F004",
+      "claim": "赛前 INEOS 公布的理想天气条件:气温 7–14°C、湿度低于 80%、干燥、风不大(这是目标条件,不是比赛实测值)。",
+      "source_title": "Eliud Kipchoge all set to fly to Vienna and take on the INEOS 1:59 Challenge | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/eliud-kipchoge-all-set-to-fly-to-vienna-and-take-on-the-ineos-1-59-challenge/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F005",
+      "claim": "赛前公布的挑战窗口为 10月12–14日(目标 12日),具体起跑时间在前一天宣布,范围为当地时间 5:00–9:00。",
+      "source_title": "Eliud Kipchoge all set to fly to Vienna and take on the INEOS 1:59 Challenge | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/eliud-kipchoge-all-set-to-fly-to-vienna-and-take-on-the-ineos-1-59-challenge/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F006",
+      "claim": "赛道从 Reichsbrücke 起跑,穿过维也纳进入 Prater 公园,随后沿林荫大道 Hauptallee 跑 4.4 圈。",
+      "source_title": "Kipchoge breaks two-hour barrier in Vienna | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/eliud-kipchoge-breaks-two-hours-vienna",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F007",
+      "claim": "Hauptallee 两个环岛之间有一段 4.3 公里直道,构成一条 9.6 公里的环线,约 90% 为直道。",
+      "source_title": "Why Vienna proved to be the outstanding candidate to host the INEOS 1:59 Challenge | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/why-vienna-proved-to-be-the-outstanding-candidate-to-host-the-ineos-1-59-challenge/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F008",
+      "claim": "维也纳海拔 165 米(基普乔格在肯尼亚的训练海拔约 2400 米),且与其肯尼亚家乡时区只差 1 小时。",
+      "source_title": "Why Vienna proved to be the outstanding candidate to host the INEOS 1:59 Challenge | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/why-vienna-proved-to-be-the-outstanding-candidate-to-host-the-ineos-1-59-challenge/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F009",
+      "claim": "INEOS 称选维也纳是因其清晨气温低、相对湿度低;2017 年蒙扎尝试中出乎意料的湿度曾影响体温调节与表现,是经验教训之一。",
+      "source_title": "Why Vienna proved to be the outstanding candidate to host the INEOS 1:59 Challenge | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/why-vienna-proved-to-be-the-outstanding-candidate-to-host-the-ineos-1-59-challenge/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F010",
+      "claim": "全程配速约 2:50/公里,每一公里分段都在 2:48–2:52 之间。",
+      "source_title": "History is made as Eliud Kipchoge becomes first human to break the two-hour marathon barrier | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/history-is-made-as-eliud-kipchoge-becomes-first-human-to-break-the-two-hour-marathon-barrier/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F011",
+      "claim": "领跑车设定的配速为每英里 4:34。",
+      "source_title": "Eliud Kipchoge Breaks Two-Hour Marathon Barrier in 1:59:40 in Vienna - Sports Illustrated",
+      "source_url": "https://www.si.com/edge/2019/10/12/eliud-kipchoge-breaks-two-hour-marathon-barrier-vienna-history",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F012",
+      "claim": "前半程分段:5 公里 14:14、10 公里 28:28、15 公里 42:34、20 公里 56:47。",
+      "source_title": "Kipchoge breaks two-hour barrier in Vienna | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/eliud-kipchoge-breaks-two-hours-vienna",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F013",
+      "claim": "INEOS 官方称共有 41 名领跑员参与。",
+      "source_title": "History is made as Eliud Kipchoge becomes first human to break the two-hour marathon barrier | INEOS 1:59 Challenge",
+      "source_url": "https://www.ineos159challenge.com/news/history-is-made-as-eliud-kipchoge-becomes-first-human-to-break-the-two-hour-marathon-barrier/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F014",
+      "claim": "World Athletics 赛报:41 名领跑员分为 9 个轮换小组,其中 5 人在前方组成 V 形“人墙”,另 2 人在其身后约两步的两侧。",
+      "source_title": "Kipchoge breaks two-hour barrier in Vienna | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/eliud-kipchoge-breaks-two-hours-vienna",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F015",
+      "claim": "CBS Sports 报道称有 36 名领跑员陪跑(与官方 41 人说法不一致)。",
+      "source_title": "Eliud Kipchoge becomes first athlete to run marathon in less than two hours, but it's not a world record - CBS Sports",
+      "source_url": "https://www.cbssports.com/olympics/news/eliud-kipchoge-becomes-first-athlete-to-run-marathon-in-less-than-two-hours-but-its-not-a-world-record",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F016",
+      "claim": "41 人领跑团包括奥运冠军 Matthew Centrowitz、世界冠军 Bernard Lagat、越野世锦赛冠军 Jacob Kiplimo、Julien Wanders、Selemon Barega 等。",
+      "source_title": "Introducing Eliud Kipchoge's 41-person team of INEOS 1:59 pacers - Canadian Running Magazine",
+      "source_url": "https://runningmagazine.ca/sections/runs-races/introducing-eliud-kipchoges-41-person-team-of-ineos-159-pacers/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F017",
+      "claim": "INEOS 称采用“倒 V 形”阵型,此前从未在跑步中使用;阵型由与英国空气动力公司 TotalSim 合作的计算流体力学(CFD)分析得出,做了数百次模拟。",
+      "source_title": "Formation | INEOS 1:59 CHALLENGE",
+      "source_url": "https://www.ineos159challenge.com/performance/formation",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F018",
+      "claim": "领跑阵型每 5 公里换班一次,换班在肯尼亚和维也纳反复演练。",
+      "source_title": "Formation | INEOS 1:59 CHALLENGE",
+      "source_url": "https://www.ineos159challenge.com/performance/formation",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F019",
+      "claim": "一辆电动车在路面投射绿色激光,标示 2:50/公里的恒定配速。",
+      "source_title": "Kipchoge breaks two-hour barrier in Vienna | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/eliud-kipchoge-breaks-two-hours-vienna",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F020",
+      "claim": "Nike Breaking2 于 2017年5月6日当地时间 5:45 在意大利蒙扎赛车场举行,基普乔格跑出 2:00:25,距 2 小时差 25 秒。",
+      "source_title": "Kipchoge a 'happy man' in Monza | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/breaking-2-marathon-eliud-kipchoge-monza",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F021",
+      "claim": "Breaking2 中 Zersenay Tadese 跑出 2:06:51,Lelisa Desisa 跑出 2:14:10(World Athletics 数据)。",
+      "source_title": "Kipchoge a 'happy man' in Monza | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/breaking-2-marathon-eliud-kipchoge-monza",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F022",
+      "claim": "Breaking2 在 F1 蒙扎赛道跑 17.5 圈完成 42.2 公里。",
+      "source_title": "Eliud Kipchoge puts on extraordinary show, runs fastest marathon in history - Canadian Running Magazine",
+      "source_url": "https://runningmagazine.ca/sections/runs-races/nike-breaking2-results/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F023",
+      "claim": "Breaking2 由 32 名顶尖跑者轮换领跑;一辆 Tesla 匀速行驶并在路面投射绿色激光标示 2:50/公里,车上两名驾驶员分别负责转向和控速。",
+      "source_title": "Eliud Kipchoge puts on extraordinary show, runs fastest marathon in history - Canadian Running Magazine",
+      "source_url": "https://runningmagazine.ca/sections/runs-races/nike-breaking2-results/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F024",
+      "claim": "Breaking2 的 2:00:25 比当时 Dennis Kimetto 2:02:57(2014 柏林)的世界纪录快 2 分 32 秒。",
+      "source_title": "Eliud Kipchoge puts on extraordinary show, runs fastest marathon in history - Canadian Running Magazine",
+      "source_url": "https://runningmagazine.ca/sections/runs-races/nike-breaking2-results/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F025",
+      "claim": "World Athletics 在 2017 年赛报中指出,Breaking2 的部分措施意味着其成绩可能不符合官方世界纪录认证条件。",
+      "source_title": "Kipchoge a 'happy man' in Monza | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/breaking-2-marathon-eliud-kipchoge-monza",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F026",
+      "claim": "Hoogkamer 等(Sports Medicine, 2018)让 18 名高水平跑者在 14、16、18 km/h 下测试:原型鞋能耗比两款对照竞速鞋低 4.16% 和 4.01%,18 人全部降低,平均约 4%。",
+      "source_title": "A Comparison of the Energetic Cost of Running in Marathon Racing Shoes (Hoogkamer et al., Sports Medicine 2018)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29143929/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F027",
+      "claim": "Kipp、Kram、Hoogkamer(Frontiers in Physiology, 2019)模型:在世界级马拉松速度(约 5.5 m/s)下,速度提升约为跑步经济性提升的 2/3;例如 2:04 配速下经济性提升 3% 约对应速度快 1.97%,即约 2:01:36。",
+      "source_title": "Extrapolating Metabolic Savings in Running: Implications for Performance Predictions (Kipp, Kram, Hoogkamer, Frontiers in Physiology 2019)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30804807/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F028",
+      "claim": "Hoogkamer、Kram、Arellano(Sports Medicine, 2017)计算:破 2 需平均 5.86 m/s,比当时 2:02:57 世界纪录快 2.5%,相当于跑步代谢成本降低约 2.7%。",
+      "source_title": "How Biomechanical Improvements in Running Economy Could Break the 2-hour Marathon Barrier (Hoogkamer, Kram, Arellano, Sports Medicine 2017)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28255937/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F029",
+      "claim": "V&A 博物馆藏品说明:基普乔格在维也纳 Prater 公园破 2 时穿的是 Nike Alphafly NEXT% 的原型鞋,含碳板、厚 ZoomX 泡棉和前掌两个 Zoom Air 气垫。",
+      "source_title": "Nike Alphafly NEXT% | V&A Explore The Collections",
+      "source_url": "https://collections.vam.ac.uk/item/O1575827",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F030",
+      "claim": "World Athletics 2020年1月31日修改比赛用鞋规则:鞋底厚度不超过 40 mm,不得含一块以上刚性嵌入板;自 2020年4月30日起,比赛用鞋须已在公开零售市场上架满 4 个月(原型鞋不得使用)。",
+      "source_title": "World Athletics modifies rules governing competition shoes for elite athletes | PRESS-RELEASES | World Athletics",
+      "source_url": "https://worldathletics.org/news/press-releases/modified-rules-shoes",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F031",
+      "claim": "Hoogkamer、Snyder、Arellano(Sports Medicine, 2018)的协作跟跑数学模型:4 名顶尖跑者轮流领跑可跑出 2:00:48;8 名“基普乔格级”跑者组队可突破 2 小时(研究模型估算)。",
+      "source_title": "Modeling the Benefits of Cooperative Drafting: Is There an Optimal Strategy to Facilitate a Sub-2-Hour Marathon Performance? (Hoogkamer, Snyder, Arellano, Sports Medicine 2018)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30298477/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F032",
+      "claim": "da Silva、Kram、Hoogkamer(J Appl Physiol, 2022)估算:52 kg 跑者以 2 小时马拉松配速独跑时,空气阻力约为体重的 1.39%,占总代谢功率的 7.8%;最优跟跑可节省 3 分 42 秒至 5 分 29 秒(模型估算)。",
+      "source_title": "The metabolic cost of emulated aerodynamic drag forces in marathon running (da Silva, Kram, Hoogkamer, Journal of Applied Physiology 2022)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35834628/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F033",
+      "claim": "同一研究测得:水平阻力每增加 1% 体重,总代谢功率平均增加 6.13%(个体差异 4.17%–8.14%)。",
+      "source_title": "The metabolic cost of emulated aerodynamic drag forces in marathon running (da Silva, Kram, Hoogkamer, Journal of Applied Physiology 2022)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35834628/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F034",
+      "claim": "Marro 等(Proc. R. Soc. A, 2023)用 1/10 比例人体模型风洞实验研究了 Breaking2 与 INEOS 1:59 的阵型;最佳的 6–7 人阵型可比独跑减阻约 60%,估算节省 262 秒。",
+      "source_title": "Wind tunnel evaluation of novel drafting formations for an elite marathon runner (Marro et al., Proceedings of the Royal Society A 2023)",
+      "source_url": "https://royalsocietypublishing.org/rspa/article/479/2276/20220836/82623/Wind-tunnel-evaluation-of-novel-drafting",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F035",
+      "claim": "Science News 转述上述风洞研究:维也纳的领跑员估算为基普乔格节省了 3 分 33 秒;一种小写字母“t”形阵型理论上还能再省 49 秒。",
+      "source_title": "How to run a marathon in under two hours - Science News",
+      "source_url": "https://www.sciencenews.org/article/run-two-hour-marathon-drafting-pacers-eliud-kipchoge",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F036",
+      "claim": "Polidori 等(Journal of Biomechanics, 2020)CFD 研究 2019 柏林马拉松贝克勒的跟跑位置:空气阻力降低 38.5%–57.3%,代谢功率估算降低 1.91%–2.84%。",
+      "source_title": "Numerical investigation of the impact of Kenenisa Bekele's cooperative drafting strategy on its running power during the 2019 Berlin marathon (Polidori et al., Journal of Biomechanics 2020)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/32517862/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F037",
+      "claim": "Beaumont 等(Sports Biomechanics, 2024)CFD 估算:在 5 人纵队中跑第二位减阻 63.3%、经济性提升 4.4%,全程马拉松估算节省 3 分 28 秒。",
+      "source_title": "Aerodynamic interaction between in-line runners: new insights on the drafting strategy in running (Beaumont et al., Sports Biomechanics 2024)",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34872462/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F038",
+      "claim": "维也纳挑战中,基普乔格由骑自行车的补给人员递送饮料,无需离开跑线去取水。",
+      "source_title": "Is cycling the world's fastest marathoner's best-kept secret? - Canadian Cycling Magazine",
+      "source_url": "https://cyclingmagazine.ca/sections/news/is-cycling-the-worlds-fastest-marathoners-best-kept-secret/",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F039",
+      "claim": "World Athletics 赛报明确:维也纳这次成绩不会被认证为世界纪录。",
+      "source_title": "Kipchoge breaks two-hour barrier in Vienna | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/eliud-kipchoge-breaks-two-hours-vienna",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F040",
+      "claim": "Sports Illustrated 报道:因 41 名领跑员轮换上场及移动补给,该成绩不具备世界纪录资格。",
+      "source_title": "Eliud Kipchoge Breaks Two-Hour Marathon Barrier in 1:59:40 in Vienna - Sports Illustrated",
+      "source_url": "https://www.si.com/edge/2019/10/12/eliud-kipchoge-breaks-two-hour-marathon-barrier-vienna-history",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F041",
+      "claim": "World Athletics 竞赛规则第三部分:世界纪录须在事先正式安排、公告并获所在国会员协会授权的正式(bona fide)比赛中创造;个人项目须至少三名真正参赛的运动员(现行版本条文)。",
+      "source_title": "Book C – C1.1 Competition Rules | World Athletics",
+      "source_url": "https://worldathletics.org/download/download?filename=fd5b5041-3d25-4f9b-b951-c5e642d6cfe7.pdf&urlslug=C1.1+-+Competition+Rules",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F042",
+      "claim": "World Athletics 技术规则 6.3.1:由非同场参赛者、被套圈或即将被套圈的运动员或任何技术装置进行领跑,属于不允许的“协助”(现行版本条文)。",
+      "source_title": "Book C – C2.1 Technical Rules | World Athletics",
+      "source_url": "https://worldathletics.org/download/download?filename=92a127cb-d569-4db3-88e8-370e634ab2cd.pdf&urlslug=C2.1%2B-%2BTechnical%2BRules",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F043",
+      "claim": "World Athletics 技术规则(路跑补给条款):补给在指定补给站提供,任何官员或授权人员在任何情况下都不得在运动员取用补给时与其并行移动(现行版本条文)。",
+      "source_title": "Book C – C2.1 Technical Rules | World Athletics",
+      "source_url": "https://worldathletics.org/download/download?filename=92a127cb-d569-4db3-88e8-370e634ab2cd.pdf&urlslug=C2.1%2B-%2BTechnical%2BRules",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F044",
+      "claim": "World Athletics 于 2024年2月6日批准 Kelvin Kiptum 2023年10月8日芝加哥马拉松 2:00:35 的世界纪录。",
+      "source_title": "Ratified: Kiptum's world marathon record | PRESS-RELEASES | World Athletics",
+      "source_url": "https://worldathletics.org/news/press-releases/ratified-world-marathon-record-kelvin-kiptum",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F045",
+      "claim": "Kiptum 之前的男子马拉松世界纪录为基普乔格 2022年9月25日在柏林跑出的 2:01:09。",
+      "source_title": "Ratified: Kiptum's world marathon record | PRESS-RELEASES | World Athletics",
+      "source_url": "https://worldathletics.org/news/press-releases/ratified-world-marathon-record-kelvin-kiptum",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F046",
+      "claim": "2026年4月26日伦敦马拉松,Sabastian Sawe 跑出 1:59:30,成为首位在符合纪录条件的马拉松中跑进 2 小时的男子,比 Kiptum 的纪录快 65 秒。",
+      "source_title": "Sawe breaks two-hour barrier with 1:59:30 world record at London Marathon | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/sawe-two-hour-assefa-world-record-london-marathon",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F047",
+      "claim": "World Athletics 2026年7月23日公告:Sawe 1:59:30 的男子马拉松世界纪录已获批准;同场 Yomif Kejelcha 1:59:41 也跑进 2 小时,Jacob Kiplimo 2:00:28 第三。",
+      "source_title": "Ratified: world records for Sawe, Ehammer, Charlton and more | PRESS-RELEASES | World Athletics",
+      "source_url": "https://worldathletics.org/news/press-releases/ratified-world-records-sawe-ehammer-charlton-mcrae-yan-duplantis-assefa",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F048",
+      "claim": "World Athletics 在 Sawe 赛报中将基普乔格 2019 年维也纳成绩记为 1:59:41 的“表演赛成绩”。",
+      "source_title": "Sawe breaks two-hour barrier with 1:59:30 world record at London Marathon | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/sawe-two-hour-assefa-world-record-london-marathon",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    },
+    {
+      "fact_id": "F049",
+      "claim": "2019年10月13日(维也纳破 2 次日),Brigid Kosgei 在芝加哥马拉松跑出 2:14:04,比 Paula Radcliffe 保持 16 年的 2:15:25 世界纪录快 81 秒。",
+      "source_title": "Kosgei smashes marathon world record in Chicago | REPORT | World Athletics",
+      "source_url": "https://worldathletics.org/news/report/chicago-marathon-2019-world-record-brigid-kos",
+      "classification": "external",
+      "retrieved_at": "2026-09-23"
+    }
+  ]
+}

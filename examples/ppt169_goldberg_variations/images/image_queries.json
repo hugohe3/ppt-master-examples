@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "filename": "bach_portrait.jpg",
+      "query": "Johann Sebastian Bach Haussmann portrait",
+      "query_variants": [
+        "Bach Haussmann 1748",
+        "Johann Sebastian Bach portrait 1746"
+      ],
+      "slide": "02_origin",
+      "purpose": "exact portrait of J.S. Bach by Haussmann",
+      "orientation": "portrait",
+      "required_terms": [
+        "Bach",
+        "Haussmann|Haußmann"
+      ],
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "wikimedia",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "title_page_1741.jpg",
+      "query": "Goldberg-Variationen Titelblatt",
+      "query_variants": [
+        "Bach Goldberg Variations title page",
+        "Clavier Ubung Aria verschiedenen Veraenderungen title",
+        "Goldberg Variations Balthasar Schmid Nuremberg"
+      ],
+      "slide": "02_origin",
+      "purpose": "first edition title page of Goldberg Variations",
+      "orientation": "portrait",
+      "required_terms": [
+        "Goldberg|Clavier|Clavir|Klavier"
+      ],
+      "status": "Sourced",
+      "candidate_page": 1,
+      "provider": "wikimedia",
+      "license_tier": "no-attribution"
+    }
+  ]
+}

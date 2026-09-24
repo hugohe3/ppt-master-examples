@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216" />
+  <g id="page-header" data-pptx-bounds="40 30 730 150">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">05 / 环节 01 · 能省多少</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">跟跑挡风：研究估算以“分钟”计</text>
+    <text x="60" y="156" font-size="18" fill="#9AA7B2">以 2 小时配速独跑，空气阻力约占代谢功率的 7.8%（da Silva 等，2022）</text>
+  </g>
+  <g id="factor-rail" data-pptx-bounds="780 36 460 70">
+    <rect x="820" y="61" width="370" height="2" fill="#7CFF4F" />
+    <circle cx="830" cy="62" r="9" fill="#7CFF4F" />
+    <g fill="#0E1216" stroke="#7CFF4F" stroke-width="2">
+      <circle cx="950" cy="62" r="6" />
+      <circle cx="1070" cy="62" r="6" />
+      <circle cx="1190" cy="62" r="6" />
+    </g>
+    <g font-size="13" text-anchor="middle" fill="#9AA7B2">
+      <text x="830" y="94" fill="#7CFF4F" font-weight="bold">阵型与激光</text>
+      <text x="950" y="94">跑鞋</text>
+      <text x="1070" y="94">补给</text>
+      <text x="1190" y="94">赛道天气</text>
+    </g>
+  </g>
+  <g id="aero-labels" data-pptx-bounds="40 190 350 300">
+    <g font-size="18" font-weight="bold" fill="#F2F4F5">
+      <text x="60" y="226">Beaumont 等 2024</text>
+      <text x="60" y="296">Marro 等 2023</text>
+      <text x="60" y="366">Marro 等 2023</text>
+      <text x="60" y="436">da Silva 等 2022</text>
+    </g>
+    <g font-size="14" fill="#9AA7B2">
+      <text x="60" y="248">CFD：5 人纵队中跑第二位</text>
+      <text x="60" y="318">风洞：维也纳领跑员（Science News 转述）</text>
+      <text x="60" y="388">风洞：最佳 6–7 人阵型</text>
+      <text x="60" y="458">模拟阻力实验：最优跟跑区间</text>
+    </g>
+  </g>
+  <g id="aero-estimates" data-pptx-bounds="392 180 848 330">
+    <g id="aero-estimates-chartArea">
+      <g id="aero-grid" stroke="#26313B" stroke-width="1">
+        <line x1="530" y1="196" x2="530" y2="466" />
+        <line x1="660" y1="196" x2="660" y2="466" />
+        <line x1="790" y1="196" x2="790" y2="466" />
+        <line x1="920" y1="196" x2="920" y2="466" />
+        <line x1="1050" y1="196" x2="1050" y2="466" />
+        <line x1="1180" y1="196" x2="1180" y2="466" />
+      </g>
+      <line id="aero-axis" x1="400" y1="466" x2="1180" y2="466" stroke="#3A4652" stroke-width="2" />
+      <g font-family="Consolas, Microsoft YaHei" font-size="14" fill="#9AA7B2" text-anchor="middle">
+        <text x="400" y="490">0</text>
+        <text x="530" y="490">1:00</text>
+        <text x="660" y="490">2:00</text>
+        <text x="790" y="490">3:00</text>
+        <text x="920" y="490">4:00</text>
+        <text x="1050" y="490">5:00</text>
+        <text x="1180" y="490">6:00</text>
+      </g>
+      
+      <g stroke="#7CFF4F" stroke-width="2" stroke-opacity="0.45">
+        <line x1="400" y1="226" x2="850.67" y2="226" />
+        <line x1="400" y1="296" x2="861.5" y2="296" />
+        <line x1="400" y1="366" x2="967.67" y2="366" />
+        <line x1="400" y1="436" x2="881" y2="436" />
+      </g>
+      <rect x="881" y="428" width="231.83" height="16" rx="8" fill="#7CFF4F" fill-opacity="0.35" />
+      <g fill="#7CFF4F">
+        <circle cx="850.67" cy="226" r="9" />
+        <circle cx="861.5" cy="296" r="9" />
+        <circle cx="967.67" cy="366" r="9" />
+        <circle cx="881" cy="436" r="9" />
+        <circle cx="1112.83" cy="436" r="9" />
+      </g>
+      <g font-family="Consolas, Microsoft YaHei" font-size="18" font-weight="bold" fill="#F2F4F5">
+        <text x="868" y="232">3:28</text>
+        <text x="879" y="302">3:33</text>
+        <text x="985" y="372">4:22</text>
+        <text x="1126" y="442">5:29</text>
+        <text x="872" y="418" text-anchor="end">3:42</text>
+      </g>
+    </g>
+  </g>
+  <g id="margin-marker" data-pptx-bounds="392 512 848 40">
+    <rect x="400" y="520" width="43.33" height="14" fill="#FF7A2F" />
+    <text x="456" y="533" font-size="16" fill="#FF7A2F">维也纳最终的余量：比 2 小时只快 20 秒（同一时间刻度）</text>
+  </g>
+  <g id="aero-takeaway" data-pptx-bounds="40 560 1200 90">
+    <rect x="60" y="566" width="1160" height="76" fill="#18212A" />
+    <rect x="60" y="566" width="4" height="76" fill="#7CFF4F" />
+    <text font-size="18" fill="#F2F4F5" x="84" y="596">四个数字来自<tspan fill="#7CFF4F" font-weight="bold">不同阵型、不同方法</tspan>的研究，不能相加，也不是维也纳当天的实测分解；
+      </text><text font-size="18" fill="#F2F4F5" x="84" y="624">它们共同说明的只是：跟跑挡风的量级是几分钟，远大于最终那 20 秒的余量。</text></g>
+  <g id="footer" data-pptx-bounds="40 666 1200 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：Beaumont 等，Sports Biomechanics（2024）；Marro 等，Proc. R. Soc. A（2023）；Science News；da Silva 等，J Appl Physiol（2022）</text>
+    <text x="1220" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">06</text>
+  </g>
+</svg>

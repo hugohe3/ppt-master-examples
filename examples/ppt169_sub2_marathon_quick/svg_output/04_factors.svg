@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="section" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <filter id="laserGlow" x="-5%" y="-400%" width="110%" height="900%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="b"/>
+      <feFlood flood-color="#7CFF4F" flood-opacity="0.7" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216"/>
+  <g id="page-header" data-pptx-bounds="40 30 1200 150">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">03 / 拆解</text>
+    <text x="60" y="118" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">每一秒从哪里来：四个环节</text>
+    <text x="60" y="160" font-size="22" fill="#9AA7B2">先看它们各管什么，再看每一项“省了多少”能说到什么程度</text>
+  </g>
+  <g id="factor-rail" data-pptx-bounds="60 214 1160 118">
+    <rect x="80" y="298" width="1120" height="3" fill="#7CFF4F" filter="url(#laserGlow)"/>
+    <g fill="#0E1216" stroke="#7CFF4F" stroke-width="3">
+      <circle cx="190" cy="299.5" r="14"/>
+      <circle cx="490" cy="299.5" r="14"/>
+      <circle cx="790" cy="299.5" r="14"/>
+      <circle cx="1090" cy="299.5" r="14"/>
+    </g>
+    <g font-family="Consolas, Microsoft YaHei" font-size="15" fill="#7CFF4F" text-anchor="middle" letter-spacing="2">
+      <text x="190" y="238">01</text>
+      <text x="490" y="238">02</text>
+      <text x="790" y="238">03</text>
+      <text x="1090" y="238">04</text>
+    </g>
+    <g font-size="22" font-weight="bold" fill="#F2F4F5" text-anchor="middle">
+      <text x="190" y="270">领跑阵型与激光</text>
+      <text x="490" y="270">跑鞋</text>
+      <text x="790" y="270">补给</text>
+      <text x="1090" y="270">赛道与天气</text>
+    </g>
+  </g>
+  <g id="factor-1" data-pptx-bounds="60 336 260 220">
+    <text x="190" y="366" font-size="18" fill="#C9D3DB" text-anchor="middle">41 名领跑员轮换挡风
+      <tspan x="190" dy="28">路面激光标出 2:50/公里</tspan></text>
+    <rect x="110" y="410" width="160" height="34" rx="17" fill="#7CFF4F" fill-opacity="0.12" stroke="#7CFF4F" stroke-width="1"/>
+    <text x="190" y="433" font-size="16" fill="#7CFF4F" text-anchor="middle">有研究估算</text>
+  </g>
+  <g id="factor-2" data-pptx-bounds="360 336 260 220">
+    <text x="490" y="366" font-size="18" fill="#C9D3DB" text-anchor="middle">原型竞速鞋
+      <tspan x="490" dy="28">碳板 + 厚泡棉</tspan></text>
+    <rect x="390" y="410" width="200" height="34" rx="17" fill="#7CFF4F" fill-opacity="0.12" stroke="#7CFF4F" stroke-width="1"/>
+    <text x="490" y="433" font-size="16" fill="#7CFF4F" text-anchor="middle">实验测量 + 模型</text>
+  </g>
+  <g id="factor-3" data-pptx-bounds="660 336 260 220">
+    <text x="790" y="366" font-size="18" fill="#C9D3DB" text-anchor="middle">自行车递送饮料
+      <tspan x="790" dy="28">不必离开跑线</tspan></text>
+    <rect x="710" y="410" width="160" height="34" rx="17" fill="none" stroke="#9AA7B2" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="790" y="433" font-size="16" fill="#9AA7B2" text-anchor="middle">只能定性</text>
+  </g>
+  <g id="factor-4" data-pptx-bounds="960 336 260 220">
+    <text x="1090" y="366" font-size="18" fill="#C9D3DB" text-anchor="middle">平直环线、低海拔
+      <tspan x="1090" dy="28">约 9°C、微风</tspan></text>
+    <rect x="1010" y="410" width="160" height="34" rx="17" fill="none" stroke="#9AA7B2" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="1090" y="433" font-size="16" fill="#9AA7B2" text-anchor="middle">只能定性</text>
+  </g>
+  <g id="factor-legend" data-pptx-bounds="40 560 1200 90">
+    <rect x="60" y="572" width="1160" height="70" fill="#18212A"/>
+    <text x="84" y="600" font-size="16" fill="#C9D3DB"><tspan fill="#7CFF4F" font-weight="bold">口径约定（整理）</tspan>：“研究估算 / 实验测量 + 模型”来自论文或实验室，不是维也纳当天的实测分解；
+      <tspan x="84" dy="26">“只能定性”表示没有找到可靠的量化数字。各项数字口径不同，不能相加。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="40 666 1200 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：INEOS 1:59 官方网站与赛后通稿（2019）；World Athletics 赛报（2019）；Cycling Magazine（2019）</text>
+    <text x="1220" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">04</text>
+  </g>
+</svg>

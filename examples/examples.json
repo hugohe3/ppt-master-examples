@@ -1,12 +1,183 @@
 {
   "version": 1,
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "stats": {
-    "examples": 68,
-    "pages": 963,
-    "templates": 68
+    "examples": 70,
+    "pages": 987,
+    "templates": 70
   },
   "projects": [
+    {
+      "id": "ppt169_goldberg_variations",
+      "title": "哥德堡变奏曲:一座对称的建筑",
+      "description": "音乐导赏 deck 12 页 — 给零乐理听众讲巴赫《哥德堡变奏曲》的结构:1+30+1 拱形全景、每三首一组第三首为卡农、卡农音程从同度升到九度的阶梯、双声部谱表、32 小节低音线、第 16 首分界与三处小调阴影、集腔曲后咏叹调再现,古尔德 1955/1981 原生表格对比;米色铜版画风,AI 铜版插图 + Wikimedia 公有领域巴赫像与 1741 扉页,事实逐页标出处;拱形→网格、卡农行→阶梯 Morph,Default 路线纯题目生成",
+      "icon": "🎼",
+      "color": "#9E2B25",
+      "style": "education",
+      "styleName": "Copperplate Engraving",
+      "desc": "A twelve-page listening guide in Chinese that explains the architecture of Bach's Goldberg Variations to listeners with no music theory. The structure is drawn rather than listed: the 1 + 30 + 1 arch with the aria at both ends, ten groups of three with every third variation a canon, a staircase of canon intervals rising from the unison to the ninth, a two-voice stave showing how a canon at the third chases itself, the 32-bar bass line every variation shares, the Variation 16 overture that opens the second half with the three minor-key shadows, and the quodlibet before the aria returns. A native table compares Glenn Gould's 1955 and 1981 recordings, with durations left out because no authoritative source was found. The custom copperplate engraving style pairs cream paper with crimson and navy; two AI engraving illustrations sit beside Haussmann's 1746 portrait and the 1741 title page from Wikimedia, with facts cited on every page. Generated on the Default runtime from a bare topic with topic research; Morph turns the arch into the group grid and the canon row into the staircase, with speaker notes throughout.",
+      "tags": [
+        "Education",
+        "Chinese",
+        "Music",
+        "Structure Diagrams",
+        "Native Table",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_goldberg_variations/svg_final",
+      "generatedAt": "2026-09-23",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_goldberg_variations/exports/ppt169_goldberg_variations.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面:哥德堡变奏曲,一座对称的建筑"
+        },
+        {
+          "file": "02_origin.svg",
+          "title": "origin",
+          "desc": "1741 年,一部写给双键盘羽管键琴的练习曲"
+        },
+        {
+          "file": "03_architecture.svg",
+          "title": "architecture",
+          "desc": "全景:首尾同一首咏叹调,中间 30 个变奏"
+        },
+        {
+          "file": "04_groups_of_three.svg",
+          "title": "groups of three",
+          "desc": "每三首一组,每组第三首是卡农"
+        },
+        {
+          "file": "05_canon_stairs.svg",
+          "title": "canon stairs",
+          "desc": "卡农的音程:从同度一级级升到九度"
+        },
+        {
+          "file": "06_canon_zoom.svg",
+          "title": "canon zoom",
+          "desc": "放大一级:三度卡农是怎么追的"
+        },
+        {
+          "file": "07_bass_line.svg",
+          "title": "bass line",
+          "desc": "地基:所有变奏共用一条低音线"
+        },
+        {
+          "file": "08_turning_point.svg",
+          "title": "turning point",
+          "desc": "第 16 首翻开后半,三首小调是三处阴影"
+        },
+        {
+          "file": "09_return.svg",
+          "title": "return",
+          "desc": "终点回到起点:集腔曲之后咏叹调再现"
+        },
+        {
+          "file": "10_gould.svg",
+          "title": "gould",
+          "desc": "古尔德 1955 与 1981:两种时间感"
+        },
+        {
+          "file": "11_listening_map.svg",
+          "title": "listening map",
+          "desc": "带着地图去听:四个小任务"
+        },
+        {
+          "file": "12_closing.svg",
+          "title": "closing",
+          "desc": "收尾:同一条低音线,撑起 32 段音乐"
+        }
+      ]
+    },
+    {
+      "id": "ppt169_sub2_marathon_quick",
+      "title": "1:59:40:人类跑进两小时的那一天",
+      "description": "体育科学 deck 12 页 — 基普乔格 2019 维也纳 1:59:40 背后的配速、领跑阵型与激光、跟跑挡风、跑鞋、补给、赛道天气;只有跟跑与跑鞋有研究估算并标注\"不能相加\",其余如实写定性,讲清为何不算世界纪录与当前官方纪录;深底荧光绿体育数据风,Wikimedia 实拍 + AI 跑鞋剖面示意,1 张原生图表 + 2 张原生表格(另附原生版),环节导航条 Morph 贯穿 04→08,Quick 路线纯题目生成",
+      "icon": "🏃",
+      "color": "#0E1418",
+      "style": "data",
+      "styleName": "Sports Data Dark",
+      "desc": "A twelve-page talk in Chinese for a running club on the science behind Eliud Kipchoge's 1:59:40 in Vienna in 2019: the 2:50-per-kilometre pace, Breaking2 at Monza against INEOS 1:59, the rotating pacer formation and the laser line, drafting, shoes, fuelling, and the course and weather, then why the run is not a world record and what the ratified record is. The deck is honest about uncertainty: only drafting and shoes carry published estimates, marked on the page as research estimates that cannot be added together, the other factors stay qualitative, and one page states that no reliable second-by-second breakdown exists. A dark sports-data look with one neon-green accent carries large timing figures, a native pace chart and two native tables (a native-chart version is included), three Wikimedia photographs credited on the page, and one AI shoe cutaway labelled as not a real product. Built on the Quick runtime from a bare topic with topic research; a factor rail carries through four Morph pairs, with speaker notes throughout.",
+      "tags": [
+        "Data",
+        "Chinese",
+        "Sports",
+        "Native Charts",
+        "Web Images",
+        "Morph"
+      ],
+      "isNew": true,
+      "folder": "ppt169_sub2_marathon_quick/svg_final",
+      "generatedAt": "2026-09-23",
+      "cover": "01_cover.svg",
+      "pptx": "examples/ppt169_sub2_marathon_quick/exports/ppt169_sub2_marathon_quick.pptx",
+      "pptxNative": "examples/ppt169_sub2_marathon_quick/exports/ppt169_sub2_marathon_quick_native_charts_tables.pptx",
+      "slides": [
+        {
+          "file": "01_cover.svg",
+          "title": "cover",
+          "desc": "封面:1:59:40,人类跑进两小时的那一天"
+        },
+        {
+          "file": "02_pace.svg",
+          "title": "pace",
+          "desc": "两小时意味着每公里都要 2:50"
+        },
+        {
+          "file": "03_breaking2.svg",
+          "title": "breaking2",
+          "desc": "2017 蒙扎差 25 秒,2019 维也纳快 20 秒"
+        },
+        {
+          "file": "04_factors.svg",
+          "title": "factors",
+          "desc": "每一秒从哪里来:四个环节"
+        },
+        {
+          "file": "05_formation.svg",
+          "title": "formation",
+          "desc": "轮换挡风,激光把配速画在路上"
+        },
+        {
+          "file": "06_drafting.svg",
+          "title": "drafting",
+          "desc": "跟跑挡风:研究估算以分钟计"
+        },
+        {
+          "file": "07_shoes.svg",
+          "title": "shoes",
+          "desc": "跑鞋:省下的是能耗,不直接是时间"
+        },
+        {
+          "file": "08_course.svg",
+          "title": "course",
+          "desc": "补给、赛道与天气"
+        },
+        {
+          "file": "09_savings.svg",
+          "title": "savings",
+          "desc": "各环节省了多少?能说的只有这么多"
+        },
+        {
+          "file": "10_not_record.svg",
+          "title": "not record",
+          "desc": "为什么 1:59:40 不算世界纪录"
+        },
+        {
+          "file": "11_record.svg",
+          "title": "record",
+          "desc": "现在的官方纪录:1:59:30"
+        },
+        {
+          "file": "12_takeaways.svg",
+          "title": "takeaways",
+          "desc": "它不算纪录,但它证明了可能"
+        }
+      ]
+    },
     {
       "id": "moments_midautumn_moon_quick",
       "title": "十五的月亮十六圆?",

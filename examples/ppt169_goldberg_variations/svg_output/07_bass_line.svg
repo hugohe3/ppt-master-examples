@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">地基 · 低音线</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">地基:所有变奏共用一条低音线</text>
+  </g>
+  <g id="bass-staff" data-pptx-bounds="56 158 790 196">
+    <text x="60" y="182" font-size="16" fill="#6E655A">咏叹调低音线的开头八个音(低音谱表,据 Kirkpatrick 1938 版记谱)</text>
+    <g stroke="#1F2A36" stroke-width="1.2" stroke-opacity="0.6">
+      <line x1="90" y1="220" x2="820" y2="220"/>
+      <line x1="90" y1="240" x2="820" y2="240"/>
+      <line x1="90" y1="260" x2="820" y2="260"/>
+      <line x1="90" y1="280" x2="820" y2="280"/>
+      <line x1="90" y1="300" x2="820" y2="300"/>
+      <line x1="820" y1="220" x2="820" y2="300"/>
+    </g>
+    <path d="M136 202 L419 232" fill="none" stroke="#9E2A2B" stroke-width="1.5" stroke-dasharray="4,4"/>
+    <text x="440" y="214" font-size="16" fill="#9E2A2B">前四个音一步步往下走</text>
+    <g fill="none" stroke="#1F2A36" stroke-width="3">
+      <ellipse cx="150" cy="230" rx="14" ry="10"/>
+      <ellipse cx="235" cy="240" rx="14" ry="10"/>
+      <ellipse cx="320" cy="250" rx="14" ry="10"/>
+      <ellipse cx="405" cy="260" rx="14" ry="10"/>
+      <ellipse cx="490" cy="280" rx="14" ry="10"/>
+      <ellipse cx="575" cy="270" rx="14" ry="10"/>
+      <ellipse cx="660" cy="260" rx="14" ry="10"/>
+      <ellipse cx="745" cy="300" rx="14" ry="10"/>
+    </g>
+    <g font-size="18" fill="#1F2A36" font-weight="bold" text-anchor="middle">
+      <text x="150" y="340">G</text>
+      <text x="235" y="340">升F</text>
+      <text x="320" y="340">E</text>
+      <text x="405" y="340">D</text>
+      <text x="490" y="340">B</text>
+      <text x="575" y="340">C</text>
+      <text x="660" y="340">D</text>
+      <text x="745" y="340">G</text>
+    </g>
+  </g>
+  <g id="bwv1087-note" data-pptx-bounds="876 158 348 196">
+    <use data-icon="tabler-outline/feather" x="880" y="166" width="28" height="28" fill="#A88452" stroke-width="1.5"/>
+    <text x="918" y="188" font-size="20" font-weight="bold" fill="#A88452">这八个音还有下文</text>
+    <text x="880" y="228" font-size="20" fill="#2B2621">巴赫在自用的初版印本末页,<tspan x="880" dy="30">手写了十四首卡农(BWV 1087),</tspan><tspan x="880" dy="30">全都建在这八个低音上;这本</tspan><tspan x="880" dy="30">自用本 1974 年才被发现。</tspan></text>
+  </g>
+  <g id="bar-map" data-pptx-bounds="56 372 1168 136">
+    <text x="60" y="396" font-size="16" fill="#6E655A">32 小节的和声地图:每首变奏都照这张图走</text>
+    <text x="640" y="396" font-size="16" fill="#1F2A36" font-weight="bold" text-anchor="middle">前半 16 小节 | 后半 16 小节(各奏两遍)</text>
+    <rect x="60" y="412" width="290" height="40" fill="#E9E1D0"/>
+    <rect x="350" y="412" width="290" height="40" fill="#D9CBB0"/>
+    <rect x="640" y="412" width="290" height="40" fill="#4F6A80" fill-opacity="0.35"/>
+    <rect x="930" y="412" width="290" height="40" fill="#E9E1D0"/>
+    <path d="M96.25 412V452 M132.5 412V452 M168.75 412V452 M205 412V452 M241.25 412V452 M277.5 412V452 M313.75 412V452 M386.25 412V452 M422.5 412V452 M458.75 412V452 M495 412V452 M531.25 412V452 M567.5 412V452 M603.75 412V452 M676.25 412V452 M712.5 412V452 M748.75 412V452 M785 412V452 M821.25 412V452 M857.5 412V452 M893.75 412V452 M966.25 412V452 M1002.5 412V452 M1038.75 412V452 M1075 412V452 M1111.25 412V452 M1147.5 412V452 M1183.75 412V452" fill="none" stroke="#F4EFE4" stroke-width="1.5"/>
+    <line x1="640" y1="404" x2="640" y2="460" stroke="#1F2A36" stroke-width="3"/>
+    <g font-size="18" fill="#2B2621" text-anchor="middle">
+      <text x="205" y="484">1–8 小节 → <tspan font-weight="bold">G 大调</tspan></text>
+      <text x="495" y="484">9–16 小节 → <tspan font-weight="bold">D 大调</tspan></text>
+      <text x="785" y="484">17–24 小节 → <tspan font-weight="bold" fill="#4F6A80">e 小调</tspan></text>
+      <text x="1075" y="484">25–32 小节 → <tspan font-weight="bold">G 大调</tspan></text>
+    </g>
+  </g>
+  <g id="bass-takeaway" data-pptx-bounds="56 528 1168 132">
+    <rect x="60" y="532" width="1160" height="124" fill="#1F2A36" fill-opacity="0.06"/>
+    <rect x="60" y="532" width="4" height="124" fill="#9E2A2B"/>
+    <text x="88" y="578" font-size="26" fill="#1F2A36">巴赫变奏的<tspan font-weight="bold">不是咏叹调的旋律</tspan>,而是<tspan fill="#9E2A2B" font-weight="bold">每小节低音线暗示的和声</tspan>。</text>
+    <text x="88" y="624" font-size="22" fill="#2B2621">所以 30 个变奏的旋律可以听起来毫不相像,却都踩在同一条地基上——这正是“对称建筑”的秘密。</text>
+  </g>
+  <g id="footer" data-pptx-bounds="56 690 1168 22" font-size="14" fill="#6E655A">
+    <text x="60" y="706">来源:Bloomfield 节目单 2016;Tafelmusik(Nediger);维基百科转引 Kirkpatrick 1938;Crean 2010;Boston Baroque(Pearlman)</text>
+    <text x="1220" y="706" text-anchor="end">07</text>
+  </g>
+</svg>

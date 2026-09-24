@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="content">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="header" data-pptx-bounds="56 54 1168 92">
+    <text x="60" y="80" font-size="16" fill="#9E2A2B" letter-spacing="2">作品档案</text>
+    <text x="60" y="128" font-size="38" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">1741 年,一部写给双键盘羽管键琴的练习曲</text>
+  </g>
+  <g id="origin-images" data-pptx-bounds="56 166 404 350">
+    <image href="../images/bach_portrait.jpg" x="60" y="172" width="196" height="258" preserveAspectRatio="xMidYMid meet"/>
+    <image href="../images/title_page_1741.jpg" x="276" y="172" width="172" height="259" preserveAspectRatio="xMidYMid meet"/>
+    <rect x="60" y="172" width="196" height="258" fill="none" stroke="#CBBFA8" stroke-width="1"/>
+    <rect x="276" y="172" width="172" height="259" fill="none" stroke="#CBBFA8" stroke-width="1"/>
+    <text x="60" y="458" font-size="14" fill="#6E655A">左:巴赫像,E. G. 豪斯曼绘,1746<tspan x="60" dy="21">右:《键盘练习曲》第四卷初版扉页(法国</tspan><tspan x="60" dy="21">国家图书馆藏本)· 两图均为公共领域</tspan></text>
+  </g>
+  <g id="origin-facts" data-pptx-bounds="484 166 404 486">
+    <text x="488" y="252" font-size="88" fill="#1F2A36" font-family="SimSun, Cambria, serif" font-weight="bold">1741</text>
+    <text x="724" y="222" font-size="26" fill="#1F2A36">年出版</text>
+    <text x="724" y="252" font-size="16" fill="#6E655A">另有 1742 年之说</text>
+    <text x="488" y="320" font-size="22" fill="#2B2621">巴赫出版的《键盘练习曲》<tspan x="488" dy="34">第四卷,也是最后一卷:</tspan><tspan x="488" dy="34"><tspan fill="#9E2A2B" font-weight="bold">一首咏叹调,加上多种变奏</tspan>。</tspan></text>
+    <text x="488" y="452" font-size="22" fill="#2B2621">扉页写明:为<tspan fill="#9E2A2B" font-weight="bold">两排手键盘</tspan>的<tspan x="488" dy="34">羽管键琴而作。钢琴只有一排</tspan><tspan x="488" dy="34">键盘,双手交叠处更难弹。</tspan></text>
+    <text x="488" y="586" font-size="22" fill="#2B2621">巴赫 1685 年生于爱森纳赫,<tspan x="488" dy="34">1750 年卒于莱比锡。</tspan></text>
+  </g>
+  <g id="origin-legend" data-pptx-bounds="904 166 320 440">
+    <use data-icon="tabler-outline/moon" x="936" y="182" width="28" height="28" fill="#A88452" stroke-width="1.5"/>
+    <text x="974" y="204" font-size="20" fill="#A88452" font-weight="bold">相传 · 书名的由来</text>
+    <text x="936" y="252" font-size="20" fill="#2B2621">据福克尔 1802 年的巴赫<tspan x="936" dy="32">传记:失眠的凯瑟林伯爵</tspan><tspan x="936" dy="32">让府中年轻键盘手哥德堡</tspan><tspan x="936" dy="32">夜里为他弹奏,并请巴赫</tspan><tspan x="936" dy="32">为此写曲,酬以盛着一百</tspan><tspan x="936" dy="32">金路易的金杯。</tspan></text>
+    <text x="936" y="470" font-size="20" fill="#A88452" font-weight="bold">存疑</text>
+    <text x="936" y="506" font-size="20" fill="#2B2621">乐谱并无献给伯爵的题献;<tspan x="936" dy="32">出版时哥德堡只有 14 岁,</tspan><tspan x="936" dy="32">故事很可能是杜撰。</tspan></text>
+  </g>
+  <g id="p02-legend-bracket" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftBracket" data-pptx-frame="908 180 14 400" fill="none" stroke="#A88452" stroke-width="1.5">
+<path d="M 922 580 A 14 1.17 0 0 1 908 578.83 L 908 181.17 A 14 1.17 0 0 1 922 180 Z" stroke="none"/>
+<path d="M 922 580 A 14 1.17 0 0 1 908 578.83 L 908 181.17 A 14 1.17 0 0 1 922 180"/>
+</g>
+  <g id="footer" data-pptx-bounds="56 668 1168 34" font-size="14" fill="#6E655A">
+    <text x="60" y="690">来源:Tafelmusik(Nediger);Bloomfield 节目单 2016;Butler 1988;Villa Musica;Forkel 1802;Bach-Archiv Leipzig</text>
+    <text x="1220" y="690" text-anchor="end">02</text>
+  </g>
+</svg>

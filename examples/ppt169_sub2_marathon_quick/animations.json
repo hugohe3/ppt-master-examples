@@ -1,0 +1,401 @@
+{
+ "version": 1,
+ "defaults": {
+  "transition": {
+   "effect": "fade",
+   "duration": 0.4
+  }
+ },
+ "slides": {
+  "01_cover": {
+   "groups": {
+    "cover-hero": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.7
+    },
+    "cover-laser": {
+     "effect": "entrance_wipe",
+     "order": 2,
+     "duration": 0.8,
+     "effect_options": {
+      "direction": "right"
+     }
+    },
+    "cover-title": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.6
+    }
+   }
+  },
+  "02_pace": {
+   "groups": {
+    "pace-hero": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.5
+    },
+    "pace-translations": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.5
+    },
+    "split-deviation": {
+     "effect": "entrance_wipe",
+     "order": 3,
+     "duration": 0.7,
+     "effect_options": {
+      "direction": "up"
+     }
+    },
+    "split-chart-title": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.5,
+     "trigger": "with-previous"
+    }
+   }
+  },
+  "03_breaking2": {
+   "groups": {
+    "b2-takeaway": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.6
+    }
+   }
+  },
+  "04_factors": {
+   "groups": {
+    "factor-rail": {
+     "effect": "entrance_wipe",
+     "order": 1,
+     "duration": 0.8,
+     "effect_options": {
+      "direction": "right"
+     }
+    },
+    "factor-1": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.4
+    },
+    "factor-2": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.4
+    },
+    "factor-3": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "factor-4": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "factor-legend": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.5
+    }
+   }
+  },
+  "05_formation": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "04_factors",
+    "pairs": {
+     "factor-rail": {
+      "from": "factor-rail",
+      "to": "factor-rail"
+     }
+    }
+   },
+   "groups": {
+    "pace-car": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4
+    },
+    "direction-cue": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.4,
+     "trigger": "with-previous"
+    },
+    "laser-line": {
+     "effect": "entrance_wipe",
+     "order": 2,
+     "duration": 0.6,
+     "effect_options": {
+      "direction": "left"
+     }
+    },
+    "formation-front": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.5
+    },
+    "kipchoge-dot": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    },
+    "formation-back": {
+     "effect": "entrance_fade",
+     "order": 5,
+     "duration": 0.4
+    },
+    "formation-note": {
+     "effect": "entrance_fade",
+     "order": 6,
+     "duration": 0.4
+    },
+    "fact-groups": {
+     "effect": "entrance_fade",
+     "order": 7,
+     "duration": 0.3
+    },
+    "fact-rotation": {
+     "effect": "entrance_fade",
+     "order": 8,
+     "duration": 0.3
+    },
+    "fact-cfd": {
+     "effect": "entrance_fade",
+     "order": 9,
+     "duration": 0.3
+    },
+    "fact-car": {
+     "effect": "entrance_fade",
+     "order": 10,
+     "duration": 0.3
+    }
+   }
+  },
+  "06_drafting": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "05_formation",
+    "pairs": {
+     "factor-rail": {
+      "from": "factor-rail",
+      "to": "factor-rail"
+     }
+    }
+   },
+   "groups": {
+    "aero-estimates": {
+     "effect": "entrance_wipe",
+     "order": 1,
+     "duration": 0.8,
+     "effect_options": {
+      "direction": "right"
+     }
+    },
+    "aero-labels": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.5,
+     "trigger": "with-previous"
+    },
+    "margin-marker": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.5
+    },
+    "aero-takeaway": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.5
+    }
+   }
+  },
+  "07_shoes": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "06_drafting",
+    "pairs": {
+     "factor-rail": {
+      "from": "factor-rail",
+      "to": "factor-rail"
+     }
+    }
+   },
+   "groups": {
+    "shoe-figure": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.6
+    },
+    "shoe-economy": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.5
+    },
+    "shoe-conversion": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.5
+    },
+    "shoe-rules": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    }
+   }
+  },
+  "08_course": {
+   "transition": {
+    "effect": "morph",
+    "effect_options": {
+     "morph_by": "object"
+    },
+    "duration": 0.8
+   },
+   "morph": {
+    "from": "07_shoes",
+    "pairs": {
+     "factor-rail": {
+      "from": "factor-rail",
+      "to": "factor-rail"
+     }
+    }
+   },
+   "groups": {
+    "course-photo": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.6
+    },
+    "fuel-block": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.4
+    },
+    "course-block": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.4
+    },
+    "weather-block": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    }
+   }
+  },
+  "09_savings": {
+   "groups": {
+    "savings-takeaway": {
+     "effect": "entrance_fade",
+     "order": 1,
+     "duration": 0.6
+    }
+   }
+  },
+  "10_not_record": {
+   "groups": {
+    "rule-event": {
+     "effect": "entrance_wipe",
+     "order": 1,
+     "duration": 0.5,
+     "effect_options": {
+      "direction": "right"
+     }
+    },
+    "rule-pacing": {
+     "effect": "entrance_wipe",
+     "order": 2,
+     "duration": 0.5,
+     "effect_options": {
+      "direction": "right"
+     }
+    },
+    "rule-fuel": {
+     "effect": "entrance_wipe",
+     "order": 3,
+     "duration": 0.5,
+     "effect_options": {
+      "direction": "right"
+     }
+    },
+    "rule-caveat": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    }
+   }
+  },
+  "11_record": {
+   "groups": {
+    "record-timeline": {
+     "effect": "entrance_wipe",
+     "order": 1,
+     "duration": 0.8,
+     "effect_options": {
+      "direction": "right"
+     }
+    },
+    "sawe-photo": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.6
+    },
+    "record-takeaway": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.5
+    }
+   }
+  },
+  "12_takeaways": {
+   "groups": {
+    "closing-laser": {
+     "effect": "entrance_wipe",
+     "order": 1,
+     "duration": 0.8,
+     "effect_options": {
+      "direction": "right"
+     }
+    },
+    "lesson-pace": {
+     "effect": "entrance_fade",
+     "order": 2,
+     "duration": 0.4
+    },
+    "lesson-draft": {
+     "effect": "entrance_fade",
+     "order": 3,
+     "duration": 0.4
+    },
+    "lesson-gear": {
+     "effect": "entrance_fade",
+     "order": 4,
+     "duration": 0.4
+    }
+   }
+  }
+ }
+}

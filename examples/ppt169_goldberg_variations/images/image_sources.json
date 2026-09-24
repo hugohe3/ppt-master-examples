@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "filename": "bach_portrait.jpg",
+      "slide": "02_origin",
+      "purpose": "exact portrait of J.S. Bach by Haussmann",
+      "search_query": "Johann Sebastian Bach Haussmann portrait",
+      "matched_query": "Johann Sebastian Bach Haussmann portrait",
+      "orientation": "portrait",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Johann Sebastian Bach 1746.jpg",
+      "author": "Elias Gottlob Haussmann",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Johann_Sebastian_Bach_1746.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Johann_Sebastian_Bach_1746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2616,
+      "height": 3438,
+      "attribution_text": "bach_portrait.jpg — \"Johann Sebastian Bach 1746.jpg\" by Elias Gottlob Haussmann via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Bach",
+        "Haussmann|Haußmann"
+      ],
+      "query_variants": [
+        "Bach Haussmann 1748",
+        "Johann Sebastian Bach portrait 1746"
+      ]
+    },
+    {
+      "filename": "title_page_1741.jpg",
+      "slide": "02_origin",
+      "purpose": "first edition title page of Goldberg Variations",
+      "search_query": "Goldberg-Variationen Titelblatt",
+      "matched_query": "Clavier Ubung Aria verschiedenen Veraenderungen title",
+      "orientation": "portrait",
+      "provider": "wikimedia",
+      "stage": "all",
+      "title": "Clavier Ubung bestehend in einer Aria mit verschiedenen Verænderungen vors Clavicimbal mit 2 Manualen . Denen Liebhabern zur Gemüths-Ergetzung verfertiget von Johann Sebastian Bach königl. Pohl. u.... - btv1b550059626 (05 of 47).jpg",
+      "author": "Bach, Johann Sebastian (1685-1750). Compositeur",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Clavier_Ubung_bestehend_in_einer_Aria_mit_verschiedenen_Ver%C3%A6nderungen_vors_Clavicimbal_mit_2_Manualen_._Denen_Liebhabern_zur_Gem%C3%BCths-Ergetzung_verfertiget_von_Johann_Sebastian_Bach_k%C3%B6nigl._Pohl._u...._-_btv1b550059626_(05_of_47).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Clavier_Ubung_bestehend_in_einer_Aria_mit_verschiedenen_Ver%C3%A6nderungen_vors_Clavicimbal_mit_2_Manualen_._Denen_Liebhabern_zur_Gem%C3%BCths-Ergetzung_verfertiget_von_Johann_Sebastian_Bach_k%C3%B6nigl._Pohl._u...._-_btv1b550059626_%2805_of_47%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license_name": "Public Domain",
+      "license_url": "",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2494,
+      "height": 3754,
+      "attribution_text": "title_page_1741.jpg — \"Clavier Ubung bestehend in einer Aria mit verschiedenen Verænderungen vors Clavicimbal mit 2 Manualen . Denen Liebhabern zur Gemüths-Ergetzung verfertiget von Johann Sebastian Bach königl. Pohl. u.... - btv1b550059626 (05 of 47).jpg\" by Bach, Johann Sebastian (1685-1750). Compositeur via Wikimedia Commons — license: Public Domain",
+      "selection_method": "visual-thumbnail",
+      "status": "promoted",
+      "required_terms": [
+        "Goldberg|Clavier|Clavir|Klavier"
+      ],
+      "query_variants": [
+        "Bach Goldberg Variations title page",
+        "Clavier Ubung Aria verschiedenen Veraenderungen title",
+        "Goldberg Variations Balthasar Schmid Nuremberg"
+      ]
+    }
+  ],
+  "generated_at": "2026-09-23T08:37:58.867682Z",
+  "license_verification": "provider metadata used; manual review recommended for external delivery"
+}

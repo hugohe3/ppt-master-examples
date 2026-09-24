@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <marker id="arrowHead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#9AA7B2"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216"/>
+  <g id="page-header" data-pptx-bounds="40 30 1200 150">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">09 / 规则</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">为什么 1:59:40 不算世界纪录</text>
+    <text x="60" y="156" font-size="20" fill="#C9D3DB">World Athletics 赛报写明：这次成绩<tspan fill="#FF7A2F" font-weight="bold">不会被认证为世界纪录</tspan>。对照规则看三处：</text>
+  </g>
+  <g id="column-heads" data-pptx-bounds="40 186 1200 32">
+    <text x="60" y="208" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="2" fill="#9AA7B2">WORLD ATHLETICS 规则（现行条文）</text>
+    <text x="740" y="208" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="2" fill="#FF7A2F">维也纳的做法</text>
+  </g>
+  <g id="rule-event" data-pptx-bounds="40 224 1200 112">
+    <rect x="60" y="230" width="500" height="100" fill="#18212A"/>
+    <rect x="60" y="230" width="4" height="100" fill="#9AA7B2"/>
+    <text x="84" y="270" font-size="18" fill="#F2F4F5">纪录须在事先安排、公告并获授权的
+      <tspan x="84" dy="28">正式比赛中创造；个人项目至少 3 名真正参赛者</tspan></text>
+    <line x1="572" y1="280" x2="714" y2="280" stroke="#9AA7B2" stroke-width="2" marker-end="url(#arrowHead)"/>
+    <g id="p10-practice-event" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="720 230 500 100" fill="#FF7A2F" stroke="none" fill-opacity="0.12">
+<path d="M 720 230 L 1203.33 230 L 1220 246.67 L 1220 330 L 720 330 Z"/>
+</g>
+    <rect x="720" y="230" width="4" height="100" fill="#FF7A2F"/>
+    <text x="744" y="270" font-size="18" fill="#F2F4F5">为一个人组织的挑战，
+      <tspan x="744" dy="28">不是对外公开的正式比赛</tspan></text>
+  </g>
+  <g id="rule-pacing" data-pptx-bounds="40 344 1200 112">
+    <rect x="60" y="350" width="500" height="100" fill="#18212A"/>
+    <rect x="60" y="350" width="4" height="100" fill="#9AA7B2"/>
+    <text x="84" y="390" font-size="18" fill="#F2F4F5">由非同场参赛者或技术装置领跑，
+      <tspan x="84" dy="28">属于不允许的“协助”</tspan></text>
+    <line x1="572" y1="400" x2="714" y2="400" stroke="#9AA7B2" stroke-width="2" marker-end="url(#arrowHead)"/>
+    <g id="p10-practice-pacing" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="720 350 500 100" fill="#FF7A2F" stroke="none" fill-opacity="0.12">
+<path d="M 720 350 L 1203.33 350 L 1220 366.67 L 1220 450 L 720 450 Z"/>
+</g>
+    <rect x="720" y="350" width="4" height="100" fill="#FF7A2F"/>
+    <text x="744" y="390" font-size="18" fill="#F2F4F5">41 名领跑员中途轮换上场；
+      <tspan x="744" dy="28">领跑车在路面投射激光定速</tspan></text>
+  </g>
+  <g id="rule-fuel" data-pptx-bounds="40 464 1200 112">
+    <rect x="60" y="470" width="500" height="100" fill="#18212A"/>
+    <rect x="60" y="470" width="4" height="100" fill="#9AA7B2"/>
+    <text x="84" y="510" font-size="18" fill="#F2F4F5">路跑补给须在补给站取用，任何人不得
+      <tspan x="84" dy="28">在运动员取补给时与其并行</tspan></text>
+    <line x1="572" y1="520" x2="714" y2="520" stroke="#9AA7B2" stroke-width="2" marker-end="url(#arrowHead)"/>
+    <g id="p10-practice-fuel" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip1Rect" data-pptx-frame="720 470 500 100" fill="#FF7A2F" stroke="none" fill-opacity="0.12">
+<path d="M 720 470 L 1203.33 470 L 1220 486.67 L 1220 570 L 720 570 Z"/>
+</g>
+    <rect x="720" y="470" width="4" height="100" fill="#FF7A2F"/>
+    <text x="744" y="510" font-size="18" fill="#F2F4F5">补给员骑自行车，
+      <tspan x="744" dy="28">把饮料直接递到手上</tspan></text>
+  </g>
+  <g id="rule-caveat" data-pptx-bounds="40 586 1200 70">
+    <text x="60" y="612" font-size="16" fill="#9AA7B2">说明（整理）：条文引用 World Athletics 现行版本；2019 年适用的是当时的 IAAF 规则，条款编号不同。
+      <tspan x="60" dy="26">左右对应是本页根据条文与报道做的对照，World Athletics 没有逐条公布不认证的理由。</tspan></text>
+  </g>
+  <g id="footer" data-pptx-bounds="40 666 1200 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：World Athletics 赛报（2019）；World Athletics 竞赛规则 C1.1 与技术规则 C2.1（现行版）；Sports Illustrated（2019）</text>
+    <text x="1220" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">10</text>
+  </g>
+</svg>

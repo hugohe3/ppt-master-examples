@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="cover" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E1216" stop-opacity="0.94"/>
+      <stop offset="42%" stop-color="#0E1216" stop-opacity="0.72"/>
+      <stop offset="70%" stop-color="#0E1216" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0E1216" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="coverFloor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0E1216" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0E1216" stop-opacity="0.85"/>
+    </linearGradient>
+    <filter id="laserGlow" x="-5%" y="-400%" width="110%" height="900%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="b"/>
+      <feFlood flood-color="#7CFF4F" flood-opacity="0.7" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <image id="cover-photo" data-pptx-role="background" href="../images/kipchoge_vienna_fit.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect id="cover-scrim" data-pptx-role="decoration" x="0" y="0" width="1280" height="720" fill="url(#coverScrim)"/>
+  <rect id="cover-floor" data-pptx-role="decoration" x="0" y="480" width="1280" height="240" fill="url(#coverFloor)"/>
+  <g id="cover-kicker" data-pptx-bounds="56 118 620 30">
+    <text x="60" y="140" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">2019.10.12 · 维也纳 · INEOS 1:59 CHALLENGE</text>
+  </g>
+  <g id="cover-hero" data-pptx-bounds="50 160 580 152">
+    <text x="56" y="272" font-family="Arial Black, SimHei" font-size="112" fill="#F2F4F5">1:59:40</text>
+  </g>
+  <g id="cover-laser" data-pptx-bounds="0 314 1280 16">
+    <rect x="0" y="320" width="1280" height="3" fill="#7CFF4F" filter="url(#laserGlow)"/>
+  </g>
+  <g id="cover-title" data-pptx-bounds="56 334 640 162">
+    <text x="60" y="394" font-family="Arial Black, SimHei" font-size="52" fill="#F2F4F5">人类跑进两小时的那一天</text>
+    <text x="60" y="446" font-size="22" fill="#C9D3DB">配速、兔子阵型、跑鞋、补给、赛道与天气
+      <tspan x="60" dy="34">——每一秒是从哪里省出来的，又为什么不算世界纪录</tspan></text>
+  </g>
+  <g id="cover-meta" data-pptx-bounds="56 628 720 40">
+    <text x="60" y="654" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="2" fill="#9AA7B2">跑步社团分享 · 科学拆解篇</text>
+  </g>
+  <g id="cover-credit" data-pptx-bounds="780 680 480 30">
+    <text x="1250" y="700" font-size="13" text-anchor="end" fill="#9AA7B2">照片 © Triathlet 79 / Wikimedia Commons / CC BY-SA 4.0</text>
+  </g>
+</svg>

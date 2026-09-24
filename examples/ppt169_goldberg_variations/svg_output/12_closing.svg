@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Segoe UI, sans-serif" data-pptx-page-role="ending">
+  <rect id="bg" x="0" y="0" width="1280" height="720" fill="#F4EFE4"/>
+  <g id="closing-title" data-pptx-bounds="56 64 900 300" font-family="SimSun, Cambria, serif">
+    <text x="60" y="96" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="16" fill="#9E2A2B" letter-spacing="2">收束</text>
+    <text x="60" y="180" font-size="60" font-weight="bold" fill="#1F2A36">同一条低音线,<tspan x="60" dy="78">撑起 <tspan fill="#9E2A2B">32</tspan> 段音乐</tspan></text>
+    <text x="60" y="336" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="26" fill="#2B2621">结构是地图,耳朵才是终点。</text>
+  </g>
+  <g id="key-foundation" data-pptx-bounds="56 392 364 150">
+    <line x1="60" y1="396" x2="400" y2="396" stroke="#1F2A36" stroke-width="2"/>
+    <text x="60" y="444" font-size="38" font-weight="bold" fill="#1F2A36" font-family="SimSun, Cambria, serif">地基</text>
+    <text x="60" y="486" font-size="20" fill="#2B2621">一条 32 小节的低音线,<tspan x="60" dy="30">所有变奏共用。</tspan></text>
+  </g>
+  <g id="key-beams" data-pptx-bounds="456 392 364 150">
+    <line x1="460" y1="396" x2="800" y2="396" stroke="#9E2A2B" stroke-width="2"/>
+    <text x="460" y="444" font-size="38" font-weight="bold" fill="#9E2A2B" font-family="SimSun, Cambria, serif">梁柱</text>
+    <text x="460" y="486" font-size="20" fill="#2B2621">9 首卡农,每三首一首,<tspan x="460" dy="30">音程从同度升到九度。</tspan></text>
+  </g>
+  <g id="key-loop" data-pptx-bounds="856 392 368 150">
+    <line x1="860" y1="396" x2="1220" y2="396" stroke="#A88452" stroke-width="2"/>
+    <text x="860" y="444" font-size="38" font-weight="bold" fill="#A88452" font-family="SimSun, Cambria, serif">回环</text>
+    <text x="860" y="486" font-size="20" fill="#2B2621">咏叹调开头出现,<tspan x="860" dy="30">结尾原样再现。</tspan></text>
+  </g>
+  <g id="closing-staff" data-pptx-role="decoration" data-pptx-bounds="56 572 1168 70">
+    <g stroke="#1F2A36" stroke-width="1" stroke-opacity="0.4">
+      <line x1="60" y1="582" x2="1220" y2="582"/>
+      <line x1="60" y1="594" x2="1220" y2="594"/>
+      <line x1="60" y1="606" x2="1220" y2="606"/>
+      <line x1="60" y1="618" x2="1220" y2="618"/>
+      <line x1="60" y1="630" x2="1220" y2="630"/>
+    </g>
+    <g fill="#1F2A36" fill-opacity="0.8">
+      <ellipse cx="160" cy="588" rx="7.5" ry="5.5" transform="rotate(-20 160 588)"/>
+      <ellipse cx="290" cy="594" rx="7.5" ry="5.5" transform="rotate(-20 290 594)"/>
+      <ellipse cx="420" cy="600" rx="7.5" ry="5.5" transform="rotate(-20 420 600)"/>
+      <ellipse cx="550" cy="606" rx="7.5" ry="5.5" transform="rotate(-20 550 606)"/>
+      <ellipse cx="680" cy="618" rx="7.5" ry="5.5" transform="rotate(-20 680 618)"/>
+      <ellipse cx="810" cy="612" rx="7.5" ry="5.5" transform="rotate(-20 810 612)"/>
+      <ellipse cx="940" cy="606" rx="7.5" ry="5.5" transform="rotate(-20 940 606)"/>
+      <ellipse cx="1070" cy="630" rx="7.5" ry="5.5" transform="rotate(-20 1070 630)"/>
+    </g>
+  </g>
+  <g id="footer" data-pptx-bounds="56 668 1168 44" font-size="14" fill="#6E655A">
+    <text x="60" y="684">主要资料:Tafelmusik(Nediger);Bloomfield 节目单 2016;LA Phil(Henken);Marissen 2021;美国国会图书馆;加拿大国家图书档案馆;<tspan x="60" dy="22">Sony Music Japan;glenngould.com;Bach-Archiv Leipzig。图片:Wikimedia Commons(公共领域);铜版风插图为 AI 生成。</tspan></text>
+    <text x="1220" y="706" text-anchor="end">12</text>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <filter id="heroGlow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="b"/>
+      <feFlood flood-color="#7CFF4F" flood-opacity="0.40" result="c"/>
+      <feComposite in="c" in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216"/>
+  <g id="page-header" data-pptx-bounds="40 30 730 110">
+    <text x="60" y="62" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">06 / 环节 02</text>
+    <text x="60" y="112" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">跑鞋：省下的是能耗，不直接是时间</text>
+    <rect x="60" y="128" width="80" height="3" fill="#7CFF4F"/>
+  </g>
+  <g id="factor-rail" data-pptx-bounds="780 36 460 70">
+    <rect x="820" y="61" width="370" height="2" fill="#7CFF4F"/>
+    <circle cx="950" cy="62" r="9" fill="#7CFF4F"/>
+    <g fill="#0E1216" stroke="#7CFF4F" stroke-width="2">
+      <circle cx="830" cy="62" r="6"/>
+      <circle cx="1070" cy="62" r="6"/>
+      <circle cx="1190" cy="62" r="6"/>
+    </g>
+    <g font-size="13" text-anchor="middle" fill="#9AA7B2">
+      <text x="830" y="94">阵型与激光</text>
+      <text x="950" y="94" fill="#7CFF4F" font-weight="bold">跑鞋</text>
+      <text x="1070" y="94">补给</text>
+      <text x="1190" y="94">赛道天气</text>
+    </g>
+  </g>
+  <g id="shoe-figure" data-pptx-bounds="40 150 710 440">
+    <image href="../images/shoe_cutaway_fit.jpg" x="50" y="160" width="690" height="385" preserveAspectRatio="xMidYMid meet"/>
+    <text x="60" y="576" font-size="14" fill="#9AA7B2">示意图：AI 生成的通用竞速鞋剖面，非真实产品，只示意“厚泡棉 + 刚性板”的结构</text>
+  </g>
+  <g id="shoe-economy" data-pptx-bounds="770 150 470 220">
+    <text x="780" y="286" font-family="Arial Black, SimHei" font-size="120" fill="#7CFF4F" filter="url(#heroGlow)">≈4%</text>
+    <text x="784" y="326" font-size="18" fill="#C9D3DB">原型鞋比两款对照竞速鞋省下的能耗
+      <tspan x="784" dy="26">（4.16% 与 4.01%，18 名跑者全部降低）</tspan></text>
+  </g>
+  <g id="shoe-conversion" data-pptx-bounds="770 386 470 204">
+    <text x="784" y="416" font-size="22" font-weight="bold" fill="#F2F4F5">换算成速度，要再打个折</text>
+    <text x="784" y="448" font-size="18" fill="#C9D3DB">模型：世界级配速下，速度提升约为
+      <tspan x="784" dy="26">经济性提升的 2/3。例：经济性提升 3%，</tspan>
+      <tspan x="784" dy="26">可把 2:04 推到约 2:01:36。</tspan>
+      <tspan x="784" dy="26" fill="#9AA7B2">这是研究模型，不是维也纳的实测归因。</tspan></text>
+  </g>
+  <g id="shoe-rules" data-pptx-bounds="40 596 1200 64">
+    <rect x="60" y="600" width="1160" height="54" fill="#18212A"/>
+    <text x="84" y="633" font-size="16" fill="#C9D3DB">维也纳穿的是 Alphafly NEXT% <tspan fill="#F2F4F5" font-weight="bold">原型鞋</tspan>。2020 年起规则：鞋底 ≤ 40 mm、至多一块刚性板、比赛用鞋须上市满 4 个月</text>
+  </g>
+  <g id="footer" data-pptx-bounds="40 666 1200 40">
+    <text x="60" y="692" font-size="13" fill="#9AA7B2">来源：Hoogkamer 等，Sports Medicine（2018）；Kipp 等，Frontiers in Physiology（2019）；V&amp;A 藏品说明；World Athletics 新闻稿（2020）</text>
+    <text x="1220" y="692" font-size="13" fill="#9AA7B2" text-anchor="end">07</text>
+  </g>
+</svg>

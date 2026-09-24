@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="ending" font-family="Segoe UI, Microsoft YaHei">
+  <defs>
+    <filter id="laserGlow" x="-5%" y="-400%" width="110%" height="900%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="b" />
+      <feFlood flood-color="#7CFF4F" flood-opacity="0.7" result="c" />
+      <feComposite in="c" in2="b" operator="in" result="g" />
+      <feMerge><feMergeNode in="g" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect id="page-bg" x="0" y="0" width="1280" height="720" fill="#0E1216" />
+  <g id="closing-statement" data-pptx-bounds="40 60 1200 190">
+    <text x="60" y="96" font-family="Consolas, Microsoft YaHei" font-size="15" letter-spacing="3" fill="#7CFF4F">11 / 带回跑团的三件事（整理）</text>
+    <text x="60" y="160" font-family="Arial Black, SimHei" font-size="40" fill="#F2F4F5">1:59:40 不算纪录，但它先证明了可能</text>
+    <text x="60" y="210" font-size="22" fill="#C9D3DB">它靠的不是某一个秘密，而是把配速、挡风、装备、补给和环境一起做到极致。</text>
+  </g>
+  <g id="closing-laser" data-pptx-bounds="0 286 1280 30">
+    <rect x="0" y="300" width="1280" height="3" fill="#7CFF4F" filter="url(#laserGlow)" />
+  </g>
+  <g id="lesson-pace" data-pptx-bounds="40 320 380 300">
+    <circle cx="80" cy="360" r="20" fill="#7CFF4F" />
+    <text x="80" y="367" font-family="Consolas, Microsoft YaHei" font-size="18" font-weight="bold" fill="#0E1216" text-anchor="middle">1</text>
+    <text x="60" y="420" font-size="26" font-weight="bold" fill="#F2F4F5">先把配速跑匀</text>
+    <text font-size="18" fill="#C9D3DB" x="60" y="456">维也纳每一公里都在 2:48–2:52
+      </text><text font-size="18" fill="#C9D3DB" x="60" y="484"><tspan>之间。自己的比赛也先定目标配速，</tspan>
+      </text><text font-size="18" fill="#C9D3DB" x="60" y="512">再按分段检查偏差。</text></g>
+  <g id="lesson-draft" data-pptx-bounds="450 320 380 300">
+    <circle cx="490" cy="360" r="20" fill="#7CFF4F" />
+    <text x="490" y="367" font-family="Consolas, Microsoft YaHei" font-size="18" font-weight="bold" fill="#0E1216" text-anchor="middle">2</text>
+    <text x="470" y="420" font-size="26" font-weight="bold" fill="#F2F4F5">能合规地跟，就跟</text>
+    <text font-size="18" fill="#C9D3DB" x="470" y="456">在允许配速员的正式比赛里，跟在
+      </text><text font-size="18" fill="#C9D3DB" x="470" y="484"><tspan>同场配速员身后；轮换上场的领跑，</tspan>
+      </text><text font-size="18" fill="#C9D3DB" x="470" y="512">在纪录赛里是不被允许的。</text></g>
+  <g id="lesson-gear" data-pptx-bounds="860 320 380 300">
+    <circle cx="900" cy="360" r="20" fill="#7CFF4F" />
+    <text x="900" y="367" font-family="Consolas, Microsoft YaHei" font-size="18" font-weight="bold" fill="#0E1216" text-anchor="middle">3</text>
+    <text x="880" y="420" font-size="26" font-weight="bold" fill="#F2F4F5">装备合规，补给先练</text>
+    <text font-size="18" fill="#C9D3DB" x="880" y="456">比赛鞋要符合现行规则；补给在
+      </text><text font-size="18" fill="#C9D3DB" x="880" y="484"><tspan>补给站取，训练时就把取水、</tspan>
+      </text><text font-size="18" fill="#C9D3DB" x="880" y="512">喝水的节奏练熟。</text></g>
+  <g id="footer" data-pptx-bounds="40 640 1200 60">
+    <text x="60" y="672" font-size="13" fill="#9AA7B2">本页建议为整理，依据第 2、7、10 页所引 INEOS、World Athletics 资料；不构成个人训练处方</text>
+    <text x="1220" y="672" font-size="13" fill="#9AA7B2" text-anchor="end">12</text>
+  </g>
+</svg>

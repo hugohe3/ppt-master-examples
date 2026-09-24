@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "defaults": {
+    "transition": { "effect": "fade", "duration": 0.5 },
+    "animation": { "effect": "none", "trigger": "after-previous", "duration": 0.5 }
+  },
+  "slides": {
+    "01_cover": {
+      "groups": {
+        "cover-title": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "cover-subtitle": { "effect": "entrance_fade", "order": 2, "duration": 0.5 },
+        "cover-hook": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3, "duration": 1.0 }
+      }
+    },
+    "02_origin": {
+      "groups": {
+        "origin-images": { "effect": "entrance_fade", "order": 1 },
+        "origin-facts": { "effect": "entrance_fade", "order": 2 },
+        "p02-legend-bracket": { "effect": "entrance_wipe", "effect_options": { "direction": "down" }, "order": 3, "duration": 0.4 },
+        "origin-legend": { "effect": "entrance_fade", "order": 3, "trigger": "with-previous" }
+      }
+    },
+    "03_architecture": {
+      "groups": {
+        "arch-map": { "effect": "entrance_wipe", "effect_options": { "direction": "up" }, "order": 1, "duration": 1.2 },
+        "arch-legend": { "effect": "entrance_fade", "order": 2, "duration": 0.4 }
+      }
+    },
+    "04_groups_of_three": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 1.0 },
+      "morph": { "from": "03_architecture", "pairs": { "vars": { "from": "arch-map", "to": "var-grid" } } },
+      "groups": {
+        "canon-row": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 0.8 },
+        "note-types": { "effect": "entrance_fade", "order": 2 },
+        "note-quodlibet": { "effect": "entrance_fade", "order": 3 }
+      }
+    },
+    "05_canon_stairs": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 1.0 },
+      "morph": { "from": "04_groups_of_three", "pairs": { "canon": { "from": "canon-row", "to": "canon-stairs" } } },
+      "groups": {
+        "canon-def": { "effect": "entrance_fade", "order": 1 },
+        "note-v27": { "effect": "entrance_fade", "order": 2 },
+        "note-inversion": { "effect": "entrance_fade", "order": 3 }
+      }
+    },
+    "06_canon_zoom": {
+      "transition": { "effect": "morph", "effect_options": { "morph_by": "object" }, "duration": 1.0 },
+      "morph": { "from": "05_canon_stairs", "pairs": { "canon": { "from": "canon-stairs", "to": "canon-stairs" } } },
+      "groups": {
+        "voice-lead": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 1.0 },
+        "voice-follow": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 1.0 },
+        "zoom-explain": { "effect": "entrance_fade", "order": 3 }
+      }
+    },
+    "07_bass_line": {
+      "groups": {
+        "bass-staff": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 1.0 },
+        "bar-map": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.8 },
+        "bass-takeaway": { "effect": "entrance_fade", "order": 3 },
+        "bwv1087-note": { "effect": "entrance_fade", "order": 4 }
+      }
+    },
+    "08_turning_point": {
+      "groups": {
+        "var-strip": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1, "duration": 1.0 },
+        "turn-label": { "effect": "entrance_fade", "order": 2 },
+        "note-v15": { "effect": "entrance_fade", "order": 3 },
+        "note-v21": { "effect": "entrance_fade", "order": 4 },
+        "note-v25": { "effect": "entrance_fade", "order": 5, "duration": 0.8 }
+      }
+    },
+    "09_return": {
+      "groups": {
+        "quodlibet-intro": { "effect": "entrance_fade", "order": 1 },
+        "quodlibet-lanes": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2, "duration": 0.8 },
+        "p09-brace": { "effect": "entrance_fade", "order": 2, "trigger": "with-previous" },
+        "quodlibet-caution": { "effect": "entrance_fade", "order": 3 },
+        "return-loop": { "effect": "entrance_fade", "order": 4, "duration": 0.8 }
+      }
+    },
+    "10_gould": {
+      "groups": {
+        "studio-image": { "effect": "entrance_fade", "order": 1 },
+        "gould-compare": { "effect": "entrance_fade", "order": 2, "duration": 0.6 },
+        "gould-quote": { "effect": "entrance_fade", "order": 3 }
+      }
+    },
+    "11_listening_map": {
+      "groups": {
+        "task-bass": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 1 },
+        "task-canon": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 2 },
+        "task-minor": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 3 },
+        "task-compare": { "effect": "entrance_wipe", "effect_options": { "direction": "right" }, "order": 4 }
+      }
+    },
+    "12_closing": {
+      "groups": {
+        "closing-title": { "effect": "entrance_fade", "order": 1, "duration": 0.8 },
+        "key-foundation": { "effect": "entrance_fade", "order": 2 },
+        "key-beams": { "effect": "entrance_fade", "order": 3 },
+        "key-loop": { "effect": "entrance_fade", "order": 4 }
+      }
+    }
+  }
+}
